@@ -1,0 +1,332 @@
+/* The verse card (components/VerseCard.tsx). */
+.card {
+  background: var(--page);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  padding: clamp(22px, 5vw, 44px) clamp(18px, 5vw, 44px) clamp(20px, 4vw, 32px);
+  box-shadow: var(--shadow);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 3px;
+  background: linear-gradient(90deg, var(--idea), var(--reward) 70%, transparent);
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.pill {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 4px 10px;
+}
+
+.card-title {
+  font-family: var(--display);
+  font-size: clamp(30px, 6vw, 42px);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.08;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.card-sub {
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: -10px 0 0;
+  text-wrap: pretty;
+}
+
+.card hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 0;
+}
+
+.fig {
+  background: var(--ideaBg);
+  border-radius: 18px;
+  padding: 24px 16px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.fig svg {
+  width: 100%;
+  max-width: 430px;
+  height: auto;
+  display: block;
+  font-family: var(--ui);
+}
+
+.dia {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.lab {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.row {
+  display: flex;
+  align-items: stretch;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.box {
+  flex: 1 1 0;
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 14px 12px;
+  background: var(--page);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
+}
+
+.box b {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--fg);
+}
+
+.box span {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.box-idea {
+  background: var(--ideaBg);
+  border-color: transparent;
+}
+.box-idea b {
+  color: var(--idea);
+}
+.box-trap {
+  background: var(--trapBg);
+  border-color: transparent;
+}
+.box-trap b {
+  color: var(--trap);
+}
+.box-reward {
+  background: var(--rewardBg);
+  border-color: transparent;
+}
+.box-reward b {
+  color: var(--reward);
+}
+.box-people {
+  background: var(--peopleBg);
+  border-color: transparent;
+}
+.box-people b {
+  color: var(--people);
+}
+
+.box.num b {
+  font-family: var(--display);
+  font-size: 28px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.box.strike b {
+  text-decoration: line-through;
+  text-decoration-color: var(--trap);
+  text-decoration-thickness: 2px;
+  color: var(--muted);
+}
+
+.conn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  min-width: 60px;
+  flex: 0 0 auto;
+}
+
+.conn i {
+  font-size: 11px;
+  color: var(--muted);
+  font-style: normal;
+  white-space: nowrap;
+}
+
+.conn::after {
+  content: "";
+  width: 44px;
+  border-top: 1.5px dashed var(--muted);
+  opacity: 0.6;
+}
+
+.text {
+  border-left: 2px solid var(--line);
+  padding: 2px 0 2px clamp(16px, 3vw, 24px);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  font-size: 16.5px;
+  line-height: 1.7;
+}
+
+.text p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+.text p.story::first-letter {
+  font-family: var(--display);
+  font-size: 3em;
+  line-height: 0.8;
+  float: left;
+  padding: 6px 8px 0 0;
+  color: var(--idea);
+  font-weight: 500;
+}
+
+.hl {
+  font-weight: 500;
+}
+.hl-idea {
+  color: var(--idea);
+}
+.hl-trap {
+  color: var(--trap);
+}
+.hl-reward {
+  color: var(--reward);
+}
+
+.shift {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.shift p {
+  padding-left: 14px;
+}
+
+.shift .old {
+  color: var(--old);
+  border-left: 2px solid color-mix(in srgb, var(--old) 35%, transparent);
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+  text-decoration-color: color-mix(in srgb, var(--old) 55%, transparent);
+}
+
+.shift .new {
+  color: var(--new);
+  font-weight: 600;
+  border-left: 2px solid var(--new);
+}
+
+.try {
+  background: var(--ideaBg);
+  border-radius: 18px;
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.try .lab {
+  color: var(--idea);
+}
+
+.try p {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(20px, 3.4vw, 24px);
+  line-height: 1.35;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--idea);
+  text-wrap: pretty;
+}
+
+.related {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.related a {
+  padding: 5px 11px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  color: var(--idea);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.related a:hover {
+  background: var(--ideaBg);
+  border-color: transparent;
+}
+
+.card-foot {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 12px;
+  color: var(--muted);
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+}
+
+.status {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+}
+
+@media (max-width: 520px) {
+  .conn {
+    min-width: 0;
+    width: 100%;
+    flex-direction: row;
+    gap: 8px;
+  }
+  .conn::after {
+    width: 28px;
+  }
+  .row {
+    gap: 8px;
+  }
+}

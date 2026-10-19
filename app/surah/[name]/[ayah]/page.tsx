@@ -40,25 +40,26 @@ export default async function VersePage({ params }: { params: Params }) {
   const tafsir = getTafsir(key);
   const arabicWords = verse.text.split(" ");
   const glosses = getWords(key);
-  const prev = ayah > 1 ? surahHref(id, ayah - 1) : id > 1 ? surahHref(id - 1, getSurah(id - 1)!.total_verses) : null;
-  const next = ayah < surah.total_verses ? surahHref(id, ayah + 1) : id < 114 ? surahHref(id + 1, 1) : null;
+  const prevAt = ayah > 1 ? [id, ayah - 1] : id > 1 ? [id - 1, getSurah(id - 1)!.total_verses] : null;
+  const nextAt = ayah < surah.total_verses ? [id, ayah + 1] : id < 114 ? [id + 1, 1] : null;
 
   return (
     <div className="verse-page">
-      <nav className="crumbs">
+      <nav className="crumbs" aria-label="Breadcrumb">
         <Link href="/">Surahs</Link>
-        <span>/</span>
+        <span aria-hidden="true">/</span>
         <Link href={surahHref(id)}>{surah.transliteration}</Link>
-        <span>/</span>
-        <span>{key}</span>
+        <span aria-hidden="true">/</span>
+        <span>Verse {ayah}</span>
       </nav>
 
       <section className="verse-block">
+        <span className="vkey">{key}</span>
         <p className="ar verse-ar big" lang="ar" dir="rtl">
           {verse.text}
         </p>
         <p className="translit" dangerouslySetInnerHTML={{ __html: getTransliteration(key) }} />
-        <p className="verse-en">{getTranslation(key)}</p>
+        <p className="verse-en big">{getTranslation(key)}</p>
         {glosses.length > 0 && (
           <details className="drawer">
             <summary>Word by word</summary>
@@ -76,7 +77,11 @@ export default async function VersePage({ params }: { params: Params }) {
         )}
       </section>
 
-      {card ? <VerseCard card={card} surahName={surah.transliteration} /> : <p className="empty">No card yet.</p>}
+      {card ? (
+        <VerseCard card={card} surahName={surah.transliteration} />
+      ) : (
+        <p className="empty">A card for this verse is on the way.</p>
+      )}
 
       {tafsir && (
         <details className="drawer tafsir">
@@ -88,9 +93,23 @@ export default async function VersePage({ params }: { params: Params }) {
         </details>
       )}
 
-      <nav className="pager">
-        {prev ? <Link href={prev}>← Previous</Link> : <span />}
-        {next ? <Link href={next}>Next →</Link> : <span />}
+      <nav className="pager" aria-label="Verse navigation">
+        {prevAt ? (
+          <Link href={surahHref(prevAt[0], prevAt[1])} className="prev">
+            <small>← Previous</small>
+            <b>{prevAt.join(":")}</b>
+          </Link>
+        ) : (
+          <span />
+        )}
+        {nextAt ? (
+          <Link href={surahHref(nextAt[0], nextAt[1])} className="next">
+            <small>Next →</small>
+            <b>{nextAt.join(":")}</b>
+          </Link>
+        ) : (
+          <span />
+        )}
       </nav>
     </div>
   );

@@ -24,21 +24,38 @@ export default async function SurahPage({ params }: { params: Params }) {
   const id = surah.id;
   const cards = new Map(getCards(id).map((c) => [c.ayah, c]));
 
+  // Every surah opens with the basmala except At-Tawbah; in Al-Fatihah it is verse 1 itself.
+  const basmala = id !== 1 && id !== 9 ? getSurah(1)!.verses[0].text : null;
+
   return (
-    <>
-      <section className="surah-head">
-        <span className="eyebrow">
-          Surah {surah.id} · {surah.type === "meccan" ? "Makkah" : "Madinah"} · {surah.total_verses} verses
+    <div className="reader">
+      <nav className="crumbs" aria-label="Breadcrumb">
+        <Link href="/">Surahs</Link>
+        <span aria-hidden="true">/</span>
+        <span>{surah.transliteration}</span>
+      </nav>
+
+      <header className="surah-head">
+        <span className="ornament">
+          <span>{surah.id}</span>
         </span>
-        <h1>{surah.transliteration}</h1>
         <p className="ar title-ar" lang="ar" dir="rtl">
           {surah.name}
+        </p>
+        <h1>{surah.transliteration}</h1>
+        <p className="meta">
+          {surah.type === "meccan" ? "Makkah" : "Madinah"} · {surah.total_verses} verses
         </p>
         <details className="drawer">
           <summary>About this surah</summary>
           <div className="prose" dangerouslySetInnerHTML={{ __html: getSurahInfo(id) }} />
         </details>
-      </section>
+        {basmala && (
+          <p className="ar bismillah" lang="ar" dir="rtl">
+            {basmala}
+          </p>
+        )}
+      </header>
 
       <ol className="verse-list">
         {surah.verses.map((v) => {
@@ -47,24 +64,30 @@ export default async function SurahPage({ params }: { params: Params }) {
           return (
             <li key={v.id}>
               <Link href={surahHref(id, v.id)} className="verse-row">
-                <span className="vnum">{v.id}</span>
-                <span className="vbody">
-                  <span className="ar verse-ar" lang="ar" dir="rtl">
-                    {v.text}
-                  </span>
-                  <span className="verse-en">{getTranslation(key)}</span>
-                  {card && (
-                    <span className="teaser">
+                <span className="vnum" aria-label={`Verse ${key}`}>
+                  {key}
+                </span>
+                <span className="ar verse-ar" lang="ar" dir="rtl">
+                  {v.text}
+                </span>
+                <span className="verse-en">{getTranslation(key)}</span>
+                {card && (
+                  <span className="teaser">
+                    <span className="teaser-lab">Card</span>
+                    <span className="teaser-body">
                       <b>{card.title}</b>
                       <small>{card.subtitle}</small>
                     </span>
-                  )}
-                </span>
+                    <span className="arrow" aria-hidden="true">
+                      →
+                    </span>
+                  </span>
+                )}
               </Link>
             </li>
           );
         })}
       </ol>
-    </>
+    </div>
   );
 }

@@ -73,13 +73,12 @@ export default async function SurahPage({ params }: { params: Params }) {
                 <span className="verse-en">{getTranslation(key)}</span>
                 {card && (
                   <span className="teaser">
-                    <span className="teaser-lab">Card</span>
                     <span className="teaser-body">
                       <b>{card.title}</b>
                       <small>{card.subtitle}</small>
                     </span>
-                    <span className="arrow" aria-hidden="true">
-                      →
+                    <span className="more">
+                      Read more <span aria-hidden="true">→</span>
                     </span>
                   </span>
                 )}

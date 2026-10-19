@@ -1,0 +1,161 @@
+[
+  {
+    "id": "39:68", "surah": 39, "ayah": 68, "place": "makkah",
+    "title": "One blast and all fall. Another, and all stand.",
+    "subtitle": "The Horn that ends and begins",
+    "picture": {"kind": "boxes", "label": "Two blasts", "row": [
+      {"box": "trap", "title": "the Horn", "sub": ["all in heavens and earth fall"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "blown again", "sub": ["all stand, looking on"]}]},
+    "key": {"label": "What remains", "row": [
+      {"box": "people", "title": "everyone else", "sub": ["gone"]},
+      {"box": "idea", "title": "the Ever-Living", "sub": ["Whose is the kingdom today?"]}]},
+    "then": "Ibn Kathir says after the blast all life ends, until only the Ever-Living remains and asks: {idea}whose is the kingdom this day?{/idea} Then the Horn is blown again and {idea}they stand, looking on.{/idea}",
+    "now": "Your alarm goes off and you are up in seconds, half asleep, standing before you know it. {idea}That is how fast the second call will be.{/idea} Wake up today in a way you would like to wake up then.",
+    "old": "The Day of Resurrection feels far off and unreal.",
+    "new": "One call will raise everyone at once, and I will be standing among them.",
+    "try": "When your alarm rings tomorrow, remember the second blast and say alhamdulillah as you rise.",
+    "related": ["40:16", "79:13", "30:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:69", "surah": 39, "ayah": 69, "place": "makkah",
+    "title": "The earth lit by its Lord's light, and the Book laid open.",
+    "subtitle": "The court of the Day sets up",
+    "picture": {"kind": "boxes", "label": "What is brought", "row": [
+      {"box": "idea", "title": "light of its Lord", "sub": ["the earth shines"]},
+      {"box": "plain", "title": "the Book", "sub": ["the record of deeds"]},
+      {"box": "people", "title": "prophets and witnesses", "sub": ["testifying"]}]},
+    "key": {"label": "How it is judged", "row": [
+      {"box": "trap", "title": "unfair, unseen", "sub": ["no one will know"], "strike": true},
+      {"box": "idea", "title": "in truth", "sub": ["and no one is wronged"]}]},
+    "then": "Ibn Kathir says the earth will shine when Allah comes {idea}to pass judgement.{/idea} Qatadah said the Book is the record of deeds. Ibn Abbas said the prophets will bear witness against their nations. {idea}No one will be wronged.{/idea}",
+    "now": "You have watched a court case online where the evidence was missing and the guilty walked. It stung. {idea}On that Day nothing is missing and no one is wronged.{/idea} That is comfort and a warning in one.",
+    "old": "Justice in this world often fails, so maybe it always does.",
+    "new": "On that Day every record is laid out and judgment is in complete truth.",
+    "try": "Do one thing today you would be glad to see in your own record.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:70", "surah": 39, "ayah": 70, "place": "makkah",
+    "title": "Every soul paid in full for what it did.",
+    "subtitle": "He knows best what they do",
+    "picture": {"kind": "boxes", "label": "The payment", "row": [
+      {"box": "people", "title": "every soul", "sub": ["each one"]},
+      {"conn": "paid in full for"},
+      {"box": "idea", "title": "what it did", "sub": ["nothing missed"]}]},
+    "key": {"label": "Who keeps count", "row": [
+      {"box": "trap", "title": "no one noticed", "sub": ["it was too small"], "strike": true},
+      {"box": "idea", "title": "He knows best", "sub": ["what they do"]}]},
+    "then": "The verse closes the scene of judgment: {idea}every soul paid in full{/idea}, and Allah knows best what they did. Nothing depends on witnesses alone.",
+    "now": "You stayed late to help a colleague and your manager never found out. You lost your temper with the cashier and no one you know saw. {idea}Both are counted, in full.{/idea}",
+    "old": "If no one sees it, it does not really count.",
+    "new": "Every deed, seen or unseen, is paid in full by the One who knows best.",
+    "try": "Do one quiet good deed today that no one will thank you for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:71", "surah": 39, "ayah": 71, "place": "makkah",
+    "title": "Did no messengers come to you? Yes, they did.",
+    "subtitle": "The question at the gate",
+    "picture": {"kind": "boxes", "label": "At the gate", "row": [
+      {"box": "people", "title": "the keepers", "sub": ["ask"]},
+      {"conn": "did not come"},
+      {"box": "idea", "title": "messengers", "sub": ["from your own kind"]},
+      {"conn": "answer"},
+      {"box": "trap", "title": "yes", "sub": ["but we rejected"]}]},
+    "key": {"label": "What they admit", "row": [
+      {"box": "people", "title": "we were never told", "sub": ["the hoped excuse"], "strike": true},
+      {"box": "trap", "title": "we were told", "sub": ["and turned away"]}]},
+    "then": "Ibn Kathir says the keepers ask whether messengers came {idea}of your own kind, so you could have spoken to them and learned.{/idea} They answer: yes. {trap}They came and warned us, and we rejected them.{/trap}",
+    "now": "Your doctor warned you. Your friend warned you. The verse you read warned you. You can picture having to say: yes, I was told. {idea}Let the answer be: yes, and I listened.{/idea}",
+    "old": "Nobody ever really made the truth clear to me.",
+    "new": "The warnings have reached me; what matters is whether I listen.",
+    "try": "Think of one warning you have been given about your conduct, and act on it today.",
+    "related": ["19:85", "67:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:72", "surah": 39, "ayah": 72, "place": "makkah",
+    "title": "A wretched home for the arrogant.",
+    "subtitle": "Where pride leads",
+    "picture": {"kind": "boxes", "label": "The end of the road", "row": [
+      {"box": "trap", "title": "arrogance", "sub": ["refusing the truth"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "an evil abode", "sub": ["to remain in"]}]},
+    "key": {"label": "The root cause", "row": [
+      {"box": "trap", "title": "pride", "sub": ["I know better"]},
+      {"conn": "cured by"},
+      {"box": "idea", "title": "humility", "sub": ["accepting the truth"]}]},
+    "then": "Ibn Kathir says the words are not given a speaker, as if {idea}all creation testifies they deserve it.{/idea} He names the cause: {trap}arrogance in this world and refusal to follow the truth.{/trap}",
+    "now": "You notice it in small ways: refusing to say sorry first, dismissing advice from someone younger, never asking for help. {idea}Pride starts small.{/idea} So can humility.",
+    "old": "A bit of pride is just self-respect.",
+    "new": "Arrogance that refuses truth is what leads to the worst end.",
+    "try": "Say sorry first in one disagreement today, even if you think you are partly right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:73", "surah": 39, "ayah": 73, "place": "makkah",
+    "title": "Peace be upon you. You have done well. Enter.",
+    "subtitle": "The welcome at the open gates",
+    "picture": {"kind": "boxes", "label": "Arrival in groups", "row": [
+      {"box": "people", "title": "those with taqwa", "sub": ["in groups, like with like"]},
+      {"conn": "find"},
+      {"box": "reward", "title": "gates open", "sub": ["as an honor"]},
+      {"box": "reward", "title": "salam", "sub": ["you have done well"]}]},
+    "key": {"label": "Two gates, two greetings", "row": [
+      {"box": "trap", "title": "rebuke", "sub": ["at the other gate"]},
+      {"conn": "versus"},
+      {"box": "reward", "title": "peace and praise", "sub": ["at this one"]}]},
+    "then": "Ibn Kathir says they go in groups, each with its peers, after injustices between them are settled. The gatekeepers meet them {reward}with greetings of peace and praise.{/reward} What follows is not mentioned, {idea}left for the heart to hope.{/idea}",
+    "now": "You remember arriving home after a long trip and someone at the door saying welcome back. That warmth. {reward}Now imagine angels saying: peace be upon you, you did well.{/reward}",
+    "old": "Paradise is too abstract for me to feel anything about.",
+    "new": "It begins with a personal welcome: peace, you did well, come in.",
+    "try": "Greet the people at home with salam today, warmly, the way you hope to be greeted.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:74", "surah": 39, "ayah": 74, "place": "makkah",
+    "title": "Praise to Allah, who kept His promise to us.",
+    "subtitle": "The first words inside",
+    "picture": {"kind": "boxes", "label": "What they say", "row": [
+      {"box": "idea", "title": "alhamdulillah", "sub": ["He kept His promise"]},
+      {"box": "reward", "title": "inherited the land", "sub": ["settle where we will"]},
+      {"box": "reward", "title": "excellent reward", "sub": ["for those who worked"]}]},
+    "key": {"label": "What it was for", "row": [
+      {"box": "trap", "title": "wasted effort", "sub": ["nobody noticed"], "strike": true},
+      {"box": "reward", "title": "the workers' reward", "sub": ["every effort paid"]}]},
+    "then": "Inside the gates, the first words are praise. {idea}He fulfilled His promise.{/idea} They settle wherever they wish, and call it {reward}an excellent reward for those who worked.{/reward}",
+    "now": "The years of waking for Fajr in winter. The money you gave when it was tight. The tongue you held. It felt like no one saw. {reward}One day you will say: He kept His promise.{/reward}",
+    "old": "My small efforts for Allah probably do not add up to much.",
+    "new": "Every effort is part of a promise Allah will keep in full.",
+    "try": "Say alhamdulillah for one hard act of worship you kept up this year.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:75", "surah": 39, "ayah": 75, "place": "makkah",
+    "title": "It all ends with praise to the Lord of the worlds.",
+    "subtitle": "The last word of the surah",
+    "picture": {"kind": "boxes", "label": "The final scene", "row": [
+      {"box": "people", "title": "the angels", "sub": ["around the Throne"]},
+      {"conn": "glorifying"},
+      {"box": "idea", "title": "judged in truth", "sub": ["all of creation"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "alhamdulillah", "sub": ["Lord of the worlds"]}]},
+    "key": {"label": "Beginning and end", "row": [
+      {"box": "idea", "title": "creation began", "sub": ["with praise"]},
+      {"box": "idea", "title": "creation ends", "sub": ["with praise"]}]},
+    "then": "Ibn Kathir says the praise has no named speaker, so {idea}all of creation praises Allah for His wisdom and justice.{/idea} Qatadah said Allah began creation with praise and {reward}ended it with praise.{/reward}",
+    "now": "You end most days with a scroll and a sigh. Try ending it the way creation will end: {reward}alhamdulillahi rabbil alamin.{/reward} The day was judged fairly too.",
+    "old": "My day ends when I run out of energy.",
+    "new": "Everything ends in praise of Allah, and my day can too.",
+    "try": "Before you sleep tonight, say alhamdulillahi rabbil alamin and mean it for the whole day.",
+    "related": ["6:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

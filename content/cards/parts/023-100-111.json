@@ -1,0 +1,240 @@
+[
+  {
+    "id": "23:100", "surah": 23, "ayah": 100, "place": "makkah",
+    "title": "No. It is only a word, and a barrier stands behind them.",
+    "subtitle": "The request refused, then the Barzakh",
+    "picture": {"kind": "boxes", "label": "After death", "row": [
+      {"box": "trap", "title": "let me do good", "sub": ["only words"]},
+      {"conn": "answer"},
+      {"box": "trap", "title": "No", "sub": ["kalla"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "Barzakh", "sub": ["the barrier, until the Day"]}]},
+    "key": {"label": "Words vs deeds", "row": [
+      {"box": "trap", "title": "I will, I promise", "sub": ["just a word"], "strike": true},
+      {"box": "idea", "title": "doing it now", "sub": ["the only real proof"]}]},
+    "then": "Ibn Kathir says kalla is {trap}a word of rebuke: We will not accept it{/trap}. His request is {trap}just talk, not accompanied by action{/trap}. Then comes the Barzakh, which Mujahid called {idea}a barrier between this world and the Hereafter{/idea}, lasting until the Day of Resurrection.",
+    "now": "\"I'll start next Monday.\" \"After Ramadan.\" \"When the kids are older.\" {trap}Those are words.{/trap} {idea}The verse says words without deeds are what the dying man offers, and they are refused.{/idea}",
+    "old": "My good intentions count, even if I have not acted yet.",
+    "new": "An intention only becomes real when I act on it, while I still can.",
+    "try": "Turn one \"I will someday\" into something you do before tonight.",
+    "related": ["6:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:101", "surah": 23, "ayah": 101, "place": "makkah",
+    "title": "When the Horn is blown, family ties will not help.",
+    "subtitle": "No lineage, no asking after each other",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "plain", "title": "the Horn", "sub": ["people rise from graves"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "no kinship", "sub": ["lineage of no avail"]},
+      {"box": "trap", "title": "no asking", "sub": ["even the dearest"]}]},
+    "key": {"label": "What carries you", "row": [
+      {"box": "trap", "title": "my family name", "sub": ["who my father was"], "strike": true},
+      {"box": "idea", "title": "my own deeds", "sub": ["see the next verse"]}]},
+    "then": "Ibn Kathir says {trap}lineage will be of no avail; a father will not ask about his son{/trap}, even if he sees him. Ibn Masud said a voice will call: {idea}whoever is owed something, come and take it{/idea}, and a person will be glad to be owed even a little by his father, child or spouse.",
+    "now": "\"Do you know who my family is?\" Or the quiet comfort that your parents are pious, so you will be fine. {idea}On that Day, your own record walks with you.{/idea} So does every small wrong you owe your family.",
+    "old": "My family's goodness will cover for me.",
+    "new": "I will stand on my own deeds, so I settle what I owe people now.",
+    "try": "Settle one small thing you owe a family member today: money, an apology, a promise.",
+    "related": ["70:10", "80:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:102", "surah": 23, "ayah": 102, "place": "makkah",
+    "title": "Heavy scales mean success.",
+    "subtitle": "Even one extra good deed can tip it",
+    "picture": {"kind": "boxes", "label": "The scale", "row": [
+      {"box": "reward", "title": "good deeds", "sub": ["heavier"]},
+      {"conn": "outweigh"},
+      {"box": "trap", "title": "bad deeds", "sub": ["even by one"]},
+      {"conn": "result"},
+      {"box": "reward", "title": "the successful", "sub": []}]},
+    "key": {"label": "Does a small deed matter?", "row": [
+      {"box": "trap", "title": "too small to count", "sub": [], "strike": true},
+      {"box": "idea", "title": "it may be the one", "sub": ["that tips the scale"]}]},
+    "then": "Ibn Abbas said this is {reward}the one whose good deeds outweigh his bad deeds, even by one{/reward}. They are the ones who {reward}attained what they wanted and were saved{/reward}. The surah that opened with \"the believers have succeeded\" returns to the same word.",
+    "now": "Smiling at the tired cashier. Picking up the litter outside the masjid. Texting your mum good night. {idea}You will never know which small deed tipped your scale.{/idea}",
+    "old": "Small good deeds do not really count.",
+    "new": "Any good deed could be the one that makes my scale heavy.",
+    "try": "Do three tiny good deeds today and do not tell anyone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:103", "surah": 23, "ayah": 103, "place": "makkah",
+    "title": "Light scales mean losing your own self.",
+    "subtitle": "The worst loss is the loss of the soul",
+    "picture": {"kind": "boxes", "label": "The other scale", "row": [
+      {"box": "trap", "title": "evil deeds", "sub": ["outweigh good"]},
+      {"conn": "means"},
+      {"box": "trap", "title": "lost themselves", "sub": ["the worst deal"]}]},
+    "key": {"label": "What can be lost", "row": [
+      {"box": "people", "title": "money, status", "sub": ["can be regained"]},
+      {"box": "trap", "title": "your own soul", "sub": ["the real loss"]}]},
+    "then": "Ibn Kathir says this is {trap}when evil deeds outweigh good deeds{/trap}; they are doomed and {trap}have ended up with the worst deal{/trap}. Not a lost fortune but {trap}a lost self.{/trap}",
+    "now": "You panic over a lost wallet, a failed investment, a broken phone screen. {idea}Those losses can be replaced. This verse names the one loss that cannot.{/idea} And today you can still add to the other side.",
+    "old": "The worst thing that could happen is losing what I have.",
+    "new": "The worst loss is losing myself, and I can work against it today.",
+    "try": "Ask Allah tonight to make your scale heavy, and do one good deed to start.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:104", "surah": 23, "ayah": 104, "place": "makkah",
+    "title": "The Fire meets the faces that turned away.",
+    "subtitle": "A sober warning, told to protect you",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "trap", "title": "the Fire", "sub": ["reaches faces"]},
+      {"box": "trap", "title": "frowning", "sub": ["in grief"]}]},
+    "key": {"label": "Why you are told", "row": [
+      {"box": "trap", "title": "to frighten without hope", "sub": [], "strike": true},
+      {"box": "idea", "title": "to turn you while you can", "sub": []}]},
+    "then": "Ibn Kathir links this to verses saying {trap}fire will cover their faces{/trap} and they will not be able to ward it off. Ibn Abbas explained their look as {trap}frowning{/trap}. It describes the end of those whose scales were light.",
+    "now": "Your face turned toward the screen at prayer time. Your face turned away from the person asking for help. {idea}The warning is about your face, and today you choose where it turns.{/idea}",
+    "old": "Warnings about Hell are only meant to scare people.",
+    "new": "The warning is a mercy telling me to turn my face toward Allah now.",
+    "try": "At your next prayer, place your forehead down slowly and ask Allah to protect your face from the Fire.",
+    "related": ["14:50", "21:39"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:105", "surah": 23, "ayah": 105, "place": "makkah",
+    "title": "Were My verses not recited to you?",
+    "subtitle": "No excuse left after the message came",
+    "picture": {"kind": "boxes", "label": "What was given", "row": [
+      {"box": "reward", "title": "Messengers", "sub": []},
+      {"box": "reward", "title": "Books", "sub": []},
+      {"box": "reward", "title": "confusion cleared", "sub": []},
+      {"conn": "yet"},
+      {"box": "trap", "title": "denied", "sub": []}]},
+    "key": {"label": "The excuse", "row": [
+      {"box": "trap", "title": "nobody told me", "sub": [], "strike": true},
+      {"box": "idea", "title": "it was recited to you", "sub": ["no plea left"]}]},
+    "then": "Ibn Kathir says Allah tells them: {idea}I sent Messengers, revealed Books, and cleared the confusion, so you have no excuse.{/idea} He cites: We never punish until We have sent a Messenger.",
+    "now": "You have a Quran app on your phone. Translations in your language. Lectures for free. {idea}The verse you are reading right now has been recited to you.{/idea}",
+    "old": "I did not know enough to be responsible.",
+    "new": "The message has reached me, and that is both a gift and a responsibility.",
+    "try": "Read the meaning of one more verse today, slowly, as if it was sent to you.",
+    "related": ["4:165", "17:15", "67:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:106", "surah": 23, "ayah": 106, "place": "makkah",
+    "title": "Our wretchedness overcame us, they will say.",
+    "subtitle": "A confession that comes too late",
+    "picture": {"kind": "boxes", "label": "Their confession", "row": [
+      {"box": "people", "title": "Our Lord", "sub": []},
+      {"conn": "admit"},
+      {"box": "trap", "title": "wretchedness won", "sub": []},
+      {"box": "trap", "title": "we were astray", "sub": []}]},
+    "key": {"label": "When to confess", "row": [
+      {"box": "trap", "title": "at the end", "sub": ["too late"]},
+      {"box": "idea", "title": "today", "sub": ["when tawbah is open"]}]},
+    "then": "Ibn Kathir explains: {trap}evidence was established against us, but we were so doomed we could not follow it, so we went astray.{/trap} They admit everything, but only after the door has closed.",
+    "now": "You know the habit that keeps beating you. You could say it to Allah today: {idea}my Lord, my weakness wins sometimes, help me.{/idea} The same confession, said now, is the start of change.",
+    "old": "I will admit my faults when I have to.",
+    "new": "Confessing my faults to Allah today is a mercy, not a defeat.",
+    "try": "Tell Allah honestly today one weakness that keeps beating you, and ask for help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:107", "surah": 23, "ayah": 107, "place": "makkah",
+    "title": "Take us out, and if we return, we are wrongdoers.",
+    "subtitle": "A promise made from the wrong side of the door",
+    "picture": {"kind": "boxes", "label": "Their plea", "row": [
+      {"box": "trap", "title": "bring us out", "sub": []},
+      {"conn": "promising"},
+      {"box": "trap", "title": "we will not return", "sub": ["to what we did"]}]},
+    "key": {"label": "Promises", "row": [
+      {"box": "trap", "title": "promise after the fall", "sub": ["no way out"]},
+      {"box": "idea", "title": "change before it", "sub": ["while the world is open"]}]},
+    "then": "They will ask: {trap}our Lord, bring us out, and if we go back to what we did, we will be wrongdoers.{/trap} Ibn Kathir links it to another verse: {trap}is there any way to get out?{/trap} There is none, because they associated partners while the believers worshipped Him alone.",
+    "now": "After the hangover, the fight, the lost money, you swear: never again. {idea}You get to make that promise now, in this world, where it can still be kept.{/idea}",
+    "old": "I will change once things get bad enough.",
+    "new": "The time to promise and keep it is now, while I still have the world.",
+    "try": "Make one sincere \"never again\" today about a habit, and take one step to keep it.",
+    "related": ["40:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:108", "surah": 23, "ayah": 108, "place": "makkah",
+    "title": "Stay in it, despised, and do not speak to Me.",
+    "subtitle": "The door of asking finally closes",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "trap", "title": "remain therein", "sub": ["humiliated"]},
+      {"box": "trap", "title": "do not speak", "sub": ["no more asking"]}]},
+    "key": {"label": "Right now", "row": [
+      {"box": "trap", "title": "the door is closed", "sub": ["for them, then"]},
+      {"box": "reward", "title": "the door is open", "sub": ["for you, now"]}]},
+    "then": "Ibn Kathir says it means {trap}do not ask for this again, for I will not respond{/trap}. Ibn Abbas said these are the words of Ar-Rahman when silencing them. It is the most sober moment in the surah: {trap}asking itself is no longer accepted.{/trap}",
+    "now": "Today Allah says: call on Me, I will answer. {reward}You can speak to Him at 3 a.m., in traffic, in a whisper.{/reward} The verse shows what it means to lose that, so you treasure it now.",
+    "old": "I can always talk to Allah later.",
+    "new": "Being allowed to speak to Allah is a gift I should use every day.",
+    "try": "Talk to Allah for five minutes today in your own words, about anything.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:109", "surah": 23, "ayah": 109, "place": "makkah",
+    "title": "A group of My servants said: forgive us, have mercy.",
+    "subtitle": "The dua of the ones who were mocked",
+    "picture": {"kind": "boxes", "label": "What they said", "row": [
+      {"box": "people", "title": "My servants", "sub": ["a group"]},
+      {"conn": "said"},
+      {"box": "idea", "title": "we believe", "sub": []},
+      {"box": "reward", "title": "forgive, have mercy", "sub": ["Best of the merciful"]}]},
+    "key": {"label": "What made them stand out", "row": [
+      {"box": "people", "title": "being perfect", "sub": [], "strike": true},
+      {"box": "idea", "title": "asking for forgiveness", "sub": ["humble, sincere"]}]},
+    "then": "Allah reminds the people of the Fire of {idea}a party of My servants{/idea} who used to pray: {reward}our Lord, we believe, so forgive us and have mercy on us, You are the best of the merciful.{/reward} Ibn Kathir calls them His believing servants and close friends.",
+    "now": "Your coworker who steps out to pray. Your quiet aunt who whispers dua all through the family dinner. {idea}Allah calls such people \"My servants\".{/idea} You can be one of them with one sincere sentence.",
+    "old": "Only very pious people are Allah's special servants.",
+    "new": "Those who humbly ask for forgiveness are the ones Allah calls His own.",
+    "try": "Memorize this dua today: Rabbana amanna faghfir lana warhamna wa anta khayrur-rahimin.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:110", "surah": 23, "ayah": 110, "place": "makkah",
+    "title": "You mocked them until it made you forget Me.",
+    "subtitle": "How ridicule hardens the mocker",
+    "picture": {"kind": "boxes", "label": "The spiral", "row": [
+      {"box": "people", "title": "believers praying", "sub": []},
+      {"conn": "mocked by"},
+      {"box": "trap", "title": "laughter", "sub": ["winks, jokes"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "forgot Allah", "sub": []}]},
+    "key": {"label": "Who is harmed by mocking", "row": [
+      {"box": "people", "title": "the one mocked", "sub": [], "strike": true},
+      {"box": "trap", "title": "the one mocking", "sub": ["forgets Allah"]}]},
+    "then": "Ibn Kathir says {trap}you made fun of them for calling on Me and praying to Me{/trap}, and {trap}your hatred for them made you forget what I would do to you{/trap}. He cites: the criminals used to laugh at the believers and wink at each other.",
+    "now": "The group chat sends a meme about the \"too religious\" friend. Everyone laughs, including you. {trap}Mocking someone's worship slowly dulls your own.{/trap}",
+    "old": "It is just a joke; it does not hurt anyone.",
+    "new": "Mocking someone's sincerity can make me forget Allah myself.",
+    "try": "If anyone jokes about someone's worship today, do not join. Change the subject kindly.",
+    "related": ["83:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:111", "surah": 23, "ayah": 111, "place": "makkah",
+    "title": "Their patience was rewarded; they are the winners.",
+    "subtitle": "The mocked become the successful",
+    "picture": {"kind": "boxes", "label": "Reversal", "row": [
+      {"box": "people", "title": "mocked in the world", "sub": ["patient"]},
+      {"conn": "rewarded with"},
+      {"box": "reward", "title": "joy, safety", "sub": []},
+      {"box": "reward", "title": "Paradise", "sub": ["saved from the Fire"]}]},
+    "key": {"label": "Who really won", "row": [
+      {"box": "trap", "title": "the ones laughing", "sub": [], "strike": true},
+      {"box": "idea", "title": "the ones patient", "sub": ["al-fa'izun"]}]},
+    "then": "Ibn Kathir explains: {reward}for the harm and mockery you inflicted on them, I have caused them to attain the victory of joy, safety, Paradise and salvation from the Fire.{/reward} {idea}Patience was what turned the mockery into reward.{/idea}",
+    "now": "You wear your hijab to a new job and catch the looks. You leave the party early to pray and hear the comments. {idea}Every bit of patience is being written down.{/idea}",
+    "old": "Putting up with ridicule for my faith is a loss.",
+    "new": "Patience with mockery is exactly what Allah rewards.",
+    "try": "The next time someone teases your faith, answer calmly, then say alhamdulillah to yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

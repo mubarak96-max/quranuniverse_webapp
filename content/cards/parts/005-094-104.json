@@ -1,0 +1,223 @@
+[
+  {
+    "id": "5:94", "surah": 5, "ayah": 94, "place": "madinah",
+    "title": "The test came within arm's reach.",
+    "subtitle": "Who fears Allah when no one is watching",
+    "picture": {"kind": "boxes", "label": "At the camp", "row": [
+      {"box": "people", "title": "pilgrims in ihram", "sub": ["told not to hunt"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "game walks in", "sub": ["close enough to grab"]},
+      {"conn": "to show"},
+      {"box": "idea", "title": "fear in the unseen", "sub": ["obeying in private too"]}]},
+    "key": {"label": "What makes it a test", "row": [
+      {"box": "people", "title": "hard to reach", "sub": ["easy to resist"], "strike": true},
+      {"box": "trap", "title": "easy to take", "sub": ["no one would know"]}]},
+    "then": "Muqatil bin Hayyan said this came during the 'Umrah of Hudaybiyah, when {trap}wild game and birds came right into the Muslim camp{/trap}, more than they had ever seen. Ibn 'Abbas said even young animals came close enough to catch by hand. The point was {idea}to show who fears Allah in the unseen{/idea}, in public and in secret.",
+    "now": "The office is empty. The petty cash box is open. The answers to the online test are one tab away. The ex's message sits unread. {trap}The test is always easiest to fail when it walks right up to you.{/trap} {idea}What you do when no one sees is who you are with Allah.{/idea}",
+    "old": "If no one will ever know, it does not really count.",
+    "new": "The moment no one sees is exactly the moment Allah is testing for.",
+    "try": "Notice one private temptation today that is within easy reach, and leave it for Allah's sake.",
+    "related": ["67:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:95", "surah": 5, "ayah": 95, "place": "madinah",
+    "title": "Taste the weight of the deed, then begin again.",
+    "subtitle": "Repair, forgiveness for the past, and a warning",
+    "picture": {"kind": "boxes", "label": "What the verse sets out", "row": [
+      {"box": "trap", "title": "the wrong", "sub": ["hunting in ihram"]},
+      {"conn": "repaired by"},
+      {"box": "idea", "title": "a fair equivalent", "sub": ["judged by two just people"]},
+      {"box": "reward", "title": "or feeding the poor", "sub": ["or fasting"]}]},
+    "key": {"label": "Past and future", "row": [
+      {"box": "reward", "title": "what is past", "sub": ["Allah has pardoned it"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "going back", "sub": ["meets His justice"]}]},
+    "then": "The verse sets a repair for the pilgrim who breaks this limit, judged by {idea}two just people{/idea}, and adds the reason: {trap}so that he may taste the weight of his deed.{/trap} Then comes mercy: {reward}Allah has pardoned what is past.{/reward} Returning to it after knowing is a different matter.",
+    "now": "You snapped at your little brother and he went quiet for the rest of the day. Saying sorry costs you something. That cost is good. {trap}It lets you feel the weight{/trap} so you do not do it again. And then {reward}it is over, really over{/reward}. Do not carry it around forever.",
+    "old": "Making things right should be quick and cost me nothing.",
+    "new": "Feeling the cost of a wrong helps me stop, and then Allah lets the past go.",
+    "try": "Repair one small wrong today in a way that costs you a little: time, money, or pride.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:96", "surah": 5, "ayah": 96, "place": "madinah",
+    "title": "The sea stays open to you.",
+    "subtitle": "Even within limits, Allah leaves provision",
+    "picture": {"kind": "boxes", "label": "In ihram", "row": [
+      {"box": "trap", "title": "land game", "sub": ["closed for now"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "sea game", "sub": ["for you and travellers"]}]},
+    "key": {"label": "How limits work", "row": [
+      {"box": "people", "title": "everything is banned", "sub": ["religion is all no"], "strike": true},
+      {"box": "reward", "title": "one door shut", "sub": ["another left wide open"]}]},
+    "then": "While land hunting is closed to the pilgrim, {reward}the sea and its food stay lawful{/reward}, for residents and travellers. Jabir told of an army so short of food each man got {trap}one date a day{/trap}, until they found a huge fish on the shore and {reward}ate from it for eighteen days{/reward}. The verse ends: be mindful of Allah, {idea}to whom you will be gathered.{/idea}",
+    "now": "You gave up the haram income stream, or the relationship, or the late-night habit, and now you are staring at the closed door. Look sideways. {reward}Something good is still open{/reward}: a lawful job lead, a friend who calls, a calm evening. {idea}Allah rarely closes a door without leaving a sea.{/idea}",
+    "old": "Giving something up for Allah leaves me with nothing.",
+    "new": "When Allah closes one thing, He leaves provision open somewhere else.",
+    "try": "Write down one lawful good thing in your life that you have been overlooking.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:97", "surah": 5, "ayah": 97, "place": "madinah",
+    "title": "The Ka'bah as a pillar of safety for people.",
+    "subtitle": "Sacred places and times that hold life together",
+    "picture": {"kind": "boxes", "label": "Made sacred", "row": [
+      {"box": "idea", "title": "the Ka'bah", "sub": ["the Sacred House"]},
+      {"box": "idea", "title": "the sacred months", "sub": ["times of peace"]},
+      {"box": "idea", "title": "the offerings", "sub": ["and their garlands"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "people are safe", "sub": ["the weak protected"]}]},
+    "key": {"label": "What it teaches", "row": [
+      {"box": "people", "title": "just old rituals", "sub": ["symbols only"], "strike": true},
+      {"box": "idea", "title": "Allah knows all", "sub": ["He set what people need"]}]},
+    "then": "Ibn Kathir's editors note his tafsir is missing here and summarise At-Tabari: Allah made the Ka'bah {reward}a refuge of safety for people with no ruler to stop the strong oppressing the weak{/reward}. The sacred months and marked offerings did the same. This shows that {idea}Allah knows all that is in the heavens and earth.{/idea}",
+    "now": "Think of the one place where everyone in your family drops their arguments: grandmother's house, the masjid on Eid morning. Allah gave the world {idea}fixed sacred places and times{/idea} so that {reward}the weak have somewhere safe{/reward}. Be the person who keeps that peace, not the one who breaks it.",
+    "old": "Sacred places and times are just traditions.",
+    "new": "Allah set sacred places and times so people, especially the weak, could be safe.",
+    "try": "Make one space or time in your home this week where no one argues, and protect it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:98", "surah": 5, "ayah": 98, "place": "madinah",
+    "title": "Severe in penalty, and Forgiving, Merciful.",
+    "subtitle": "Holding both truths at once",
+    "picture": {"kind": "boxes", "label": "Know both", "row": [
+      {"box": "trap", "title": "severe in penalty", "sub": ["for defiance"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["for those who return"]}]},
+    "key": {"label": "Two mistakes", "row": [
+      {"box": "trap", "title": "only fear", "sub": ["leads to despair"], "strike": true},
+      {"box": "trap", "title": "only hope", "sub": ["leads to carelessness"], "strike": true},
+      {"box": "idea", "title": "both together", "sub": ["fear that returns, hope that acts"]}]},
+    "then": "After the limits on hunting, the Sacred House and the sacred months, the verse asks people to {idea}know two things together{/idea}: Allah is {trap}severe in penalty{/trap}, and He is {reward}Forgiving and Merciful{/reward}. Neither one is complete alone.",
+    "now": "Some days you feel so guilty you stop praying altogether. Other days you think Allah is forgiving, so why worry. {idea}Both are half the picture.{/idea} Fear is meant to turn you around. {reward}Hope is meant to welcome you back.{/reward}",
+    "old": "Allah is either strict or forgiving, depending on my mood.",
+    "new": "He is both. Fear keeps me careful and hope keeps me coming back.",
+    "try": "Today, ask for forgiveness for one thing and thank Allah for one mercy, side by side.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:99", "surah": 5, "ayah": 99, "place": "madinah",
+    "title": "He delivered it. Allah sees what you show and hide.",
+    "subtitle": "The message is clear, the heart is seen",
+    "picture": {"kind": "boxes", "label": "Two facts", "row": [
+      {"box": "people", "title": "the Messenger ﷺ", "sub": ["his duty: to convey"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Allah", "sub": ["knows what you show and hide"]}]},
+    "key": {"label": "What is seen", "row": [
+      {"box": "people", "title": "what people see", "sub": ["my public self"], "strike": true},
+      {"box": "idea", "title": "everything", "sub": ["what I show and conceal"]}]},
+    "then": "The verse closes this passage of rulings with two facts. The Messenger's ﷺ duty {idea}was only to convey{/idea}, and that is done. And {idea}Allah knows whatever you reveal and whatever you conceal.{/idea} The rest is between each person and Allah.",
+    "now": "Your public self: the polite comment, the good post, the smile at the masjid. Your private self: the search history, the resentment you never voice. {trap}People only get the first one.{/trap} {idea}Allah sees both, and loves it when they match.{/idea}",
+    "old": "As long as I look good outside, the rest is my business.",
+    "new": "Allah sees the hidden as clearly as the shown, so I want them to match.",
+    "try": "Pick one gap between your public and private self and close it a little today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:100", "surah": 5, "ayah": 100, "place": "madinah",
+    "title": "A lot of bad does not equal a little good.",
+    "subtitle": "Quantity is not the measure",
+    "picture": {"kind": "boxes", "label": "On the scale", "row": [
+      {"box": "trap", "title": "much that is bad", "sub": ["impressive, plentiful"]},
+      {"conn": "not equal to"},
+      {"box": "reward", "title": "a little that is good", "sub": ["lawful, enough"]}]},
+    "key": {"label": "What impresses", "row": [
+      {"box": "trap", "title": "more is better", "sub": ["the big number wins"], "strike": true},
+      {"box": "idea", "title": "good is better", "sub": ["even when it is less"]}]},
+    "then": "The Prophet ﷺ is told to say that bad and good are never equal, {trap}even if the abundance of the bad impresses you.{/trap} Ibn Kathir explains: {reward}the little that is lawful is better than the abundant that is evil.{/reward} People of understanding let the lawful be enough.",
+    "now": "Your friend's side hustle makes triple your salary, and you know how. The influencer has a million followers for content you would not show your mother. {trap}The size of it pulls at you.{/trap} The verse says: {idea}stop counting. Weigh.{/idea}",
+    "old": "If there is a lot of it, it must be worth something.",
+    "new": "A small amount of good outweighs a mountain of what is bad.",
+    "try": "Look at your income or your feed. Name one thing that is big but not good, and step back from it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:101", "surah": 5, "ayah": 101, "place": "madinah",
+    "title": "Some questions are better left unasked.",
+    "subtitle": "Mercy hidden in what was left unsaid",
+    "picture": {"kind": "boxes", "label": "The Hajj question", "row": [
+      {"box": "people", "title": "is it every year?", "sub": ["asked three times"]},
+      {"conn": "he said"},
+      {"box": "reward", "title": "no", "sub": ["had I said yes, you could not bear it"]}]},
+    "key": {"label": "Unanswered things", "row": [
+      {"box": "trap", "title": "forgotten", "sub": ["a gap to fill"], "strike": true},
+      {"box": "reward", "title": "left out of mercy", "sub": ["not forgotten"]}]},
+    "then": "When Hajj was made a duty, people asked the Prophet ﷺ {trap}is it every year?{/trap} He stayed silent until the third time, then said {reward}no, and had I said yes, it would have become required and you could not bear it.{/reward} A hadith in the tafsir says Allah left some matters without rulings {idea}out of mercy, not forgetfulness.{/idea}",
+    "now": "You keep checking your partner's phone. You keep asking what people really said about you at the wedding. You keep digging until you find something that hurts. Some answers {trap}will only cause you distress{/trap}. {idea}Not every door needs to be opened.{/idea}",
+    "old": "Knowing more is always better.",
+    "new": "Some questions only bring distress, and leaving them is a mercy.",
+    "try": "Notice one question you keep digging into that only hurts you. Let it go for today.",
+    "related": ["3:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:102", "surah": 5, "ayah": 102, "place": "madinah",
+    "title": "They got their answers and walked away anyway.",
+    "subtitle": "Asking without wanting to follow",
+    "picture": {"kind": "boxes", "label": "What happened before", "row": [
+      {"box": "people", "title": "a people asked", "sub": ["to mock and defy"]},
+      {"conn": "were answered"},
+      {"box": "idea", "title": "clear answers", "sub": ["made plain"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "rejected them", "sub": ["and disbelieved"]}]},
+    "key": {"label": "Why you ask", "row": [
+      {"box": "trap", "title": "to argue", "sub": ["to catch someone out"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "to follow", "sub": ["to be guided"]}]},
+    "then": "Ibn Kathir explains that people before had asked such questions and {idea}were given clear answers{/idea}, but {trap}did not believe them{/trap}. They had asked not for guidance, but {trap}to mock and defy.{/trap} The answers only made their refusal plain.",
+    "now": "The question in the comments that is really a trap. The \"just asking\" in the family WhatsApp that is really a jab. Before you ask the imam, your parent or Google, check: {idea}if I get the answer, will I follow it?{/idea}",
+    "old": "Asking questions is always a sign of a sincere seeker.",
+    "new": "A question asked without the will to follow can push me further away.",
+    "try": "Before your next religious question, decide first that you will act on the answer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:103", "surah": 5, "ayah": 103, "place": "madinah",
+    "title": "Allah never made those rules.",
+    "subtitle": "Customs invented and credited to Allah",
+    "picture": {"kind": "boxes", "label": "Invented taboos", "row": [
+      {"box": "trap", "title": "bahirah", "sub": ["camel's milk kept for idols"]},
+      {"box": "trap", "title": "sa'ibah", "sub": ["set loose for idols"]},
+      {"box": "trap", "title": "wasilah, ham", "sub": ["more rules about animals"]},
+      {"conn": "Allah says"},
+      {"box": "idea", "title": "not from Me", "sub": ["invented lies about Allah"]}]},
+    "key": {"label": "Where a rule comes from", "row": [
+      {"box": "trap", "title": "it is tradition", "sub": ["so it must be religion"], "strike": true},
+      {"box": "idea", "title": "did Allah say it?", "sub": ["that is the test"]}]},
+    "then": "Before Islam, Arabs had dedicated certain camels to idols and banned riding or milking them. Sa'id bin al-Musayyib explained each name. Ibn Kathir says 'Amr bin Luhay of Khuza'ah {trap}was the first to change the religion of Ibrahim{/trap} and start such rituals. The verse says plainly: {idea}Allah did not appoint any of these.{/idea}",
+    "now": "The rule that a widow must not wear colour for years. The idea that a girl who studies is less marriageable. The old aunt who says \"this is our religion\". Ask gently: {idea}did Allah actually say this?{/idea} {trap}Custom wearing the clothes of religion{/trap} is what this verse undoes.",
+    "old": "If my family has always done it, it must be part of the deen.",
+    "new": "Only what Allah and His Messenger ﷺ taught is the deen. Customs must be checked against it.",
+    "try": "Pick one rule you grew up with and find out today whether it comes from the Quran or Sunnah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:104", "surah": 5, "ayah": 104, "place": "madinah",
+    "title": "Enough for us is what our fathers did.",
+    "subtitle": "When inheritance replaces guidance",
+    "picture": {"kind": "boxes", "label": "The invitation and the reply", "row": [
+      {"box": "idea", "title": "come to revelation", "sub": ["and to the Messenger"]},
+      {"conn": "answered"},
+      {"box": "trap", "title": "our fathers' way", "sub": ["that is enough for us"]}]},
+    "key": {"label": "The question back", "row": [
+      {"box": "people", "title": "our fathers knew", "sub": ["they must be right"], "strike": true},
+      {"box": "idea", "title": "even if they knew nothing?", "sub": ["and had no guidance?"]}]},
+    "then": "When told {idea}come to what Allah revealed and to the Messenger{/idea}, they answered: {trap}what we found our fathers doing is enough for us.{/trap} The verse asks back: even if their fathers had no knowledge and no guidance? It comes straight after the invented animal customs of the verse before.",
+    "now": "\"That is how we do it in this family.\" You have said it about weddings, about money, about how you treat the women in the house. Your parents are owed love and respect. {idea}They are not owed the place of revelation.{/idea} Honour them by {reward}keeping the good and quietly fixing the rest.{/reward}",
+    "old": "Questioning how my family does things is disrespectful.",
+    "new": "I can love my elders and still follow guidance over habit.",
+    "try": "Name one family habit you follow without knowing why. Look into it with an open mind this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "id": "15:78", "surah": 15, "ayah": 78, "place": "makkah",
+    "title": "The people of the thick trees also did wrong.",
+    "subtitle": "Shuayb's people, the dwellers of Al-Aykah",
+    "picture": {"kind": "boxes", "label": "Their wrongs", "row": [
+      {"box": "people", "title": "Al-Aykah", "sub": ["people of Shuayb"]},
+      {"conn": "did"},
+      {"box": "trap", "title": "shirk", "sub": ["partners with Allah"]},
+      {"box": "trap", "title": "banditry", "sub": ["robbing travelers"]},
+      {"box": "trap", "title": "cheating", "sub": ["in weights and measures"]}]},
+    "key": {"label": "Where wrong lives", "row": [
+      {"box": "plain", "title": "only in belief", "sub": ["just a faith issue"], "strike": true},
+      {"box": "trap", "title": "also in the market", "sub": ["scales, roads, deals"]}]},
+    "then": "Ibn Kathir says the dwellers of Al-Aykah, meaning intertwined trees, were the people of Shuayb. {trap}Their evildoing included shirk, banditry and cheating in weights and measures{/trap}. They lived near Lut's people, at a later time.",
+    "now": "You round the invoice up a little. You sell the phone without mentioning the cracked camera. You pad your hours. {trap}Small cheats in the scale.{/trap} {idea}This verse puts dishonest trade beside shirk.{/idea}",
+    "old": "Business is business; a little rounding up hurts no one.",
+    "new": "Cheating in a deal is a real wrong that Allah lists alongside the biggest ones.",
+    "try": "Check one transaction, invoice or sale you have open and make it completely honest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:79", "surah": 15, "ayah": 79, "place": "makkah",
+    "title": "Two ruined towns, both on a road you can see.",
+    "subtitle": "Lut and Shuayb, side by side",
+    "picture": {"kind": "boxes", "label": "On the route", "row": [
+      {"box": "trap", "title": "Lut's towns", "sub": ["turned over"]},
+      {"box": "trap", "title": "Al-Aykah", "sub": ["taken in retribution"]},
+      {"conn": "both on"},
+      {"box": "plain", "title": "a clear highway", "sub": ["a visible route"]}]},
+    "key": {"label": "Learning from neighbors", "row": [
+      {"box": "trap", "title": "that was them", "sub": ["not my story"], "strike": true},
+      {"box": "idea", "title": "not far from you", "sub": ["Shuayb's warning"]}]},
+    "then": "Ibn Kathir says Shuayb's people knew about Lut's people, which is why both are {idea}on an open route, plain to see{/idea}. Shuayb warned them in 11:89, {trap}the people of Lut are not far off from you{/trap}. They had a lesson next door and ignored it.",
+    "now": "Your neighbor lost his family to the same temper you have. Your colleague got fired for the same shortcuts you take. {trap}It is easy to think it was just them.{/trap} {idea}The lesson is not far off from you.{/idea}",
+    "old": "What happened to them will not happen to me.",
+    "new": "When I see someone fall nearby for a habit I share, it is a warning addressed to me.",
+    "try": "Think of one person who fell for something you also struggle with, and change one thing today.",
+    "related": ["11:89"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:80", "surah": 15, "ayah": 80, "place": "makkah",
+    "title": "Deny one messenger and you have denied them all.",
+    "subtitle": "The people of Al-Hijr, which names this surah",
+    "picture": {"kind": "boxes", "label": "What they rejected", "row": [
+      {"box": "people", "title": "Thamud", "sub": ["dwellers of Al-Hijr"]},
+      {"conn": "denied"},
+      {"box": "idea", "title": "Salih", "sub": ["one messenger"]},
+      {"conn": "which means"},
+      {"box": "idea", "title": "the messengers", "sub": ["all of them"]}]},
+    "key": {"label": "Picking and choosing", "row": [
+      {"box": "trap", "title": "just this one", "sub": ["I accept the rest"], "strike": true},
+      {"box": "idea", "title": "one message", "sub": ["deny one, deny all"]}]},
+    "then": "This verse gives the surah its name. Ibn Kathir says the dwellers of Al-Hijr were Thamud, who rejected Salih, and {idea}whoever denies even one Messenger has disbelieved in all of them{/idea}. That is why it says messengers, plural.",
+    "now": "You accept the parts of faith that are easy, prayer on Fridays, charity at Ramadan. The parts that cost you, you quietly skip. {idea}Guidance comes as one message.{/idea} Rejecting the hard parts is rejecting the source.",
+    "old": "I can take the parts of the message that suit me.",
+    "new": "The message is one whole; rejecting part of it means rejecting the One who sent it.",
+    "try": "Name one part of your faith you avoid because it is hard, and take one small step toward it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:81", "surah": 15, "ayah": 81, "place": "makkah",
+    "title": "They saw the signs and turned their faces away.",
+    "subtitle": "The she-camel from the rock",
+    "picture": {"kind": "boxes", "label": "What they were shown", "row": [
+      {"box": "idea", "title": "Our signs", "sub": ["the she-camel from rock"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "turning away", "sub": ["preferring blindness"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "trap", "title": "proof", "sub": ["not enough evidence"], "strike": true},
+      {"box": "trap", "title": "willingness", "sub": ["they did not want to see"]}]},
+    "then": "Ibn Kathir says Salih brought signs, {idea}like the she-camel Allah created for them out of solid rock{/idea}, which shared their water on alternate days. They killed it. He cites 41:17: {trap}they preferred blindness to guidance{/trap}.",
+    "now": "Your doctor has shown you the scan three times. Your friend has shown you the bank statements. You still change the subject. {trap}It is not a lack of proof.{/trap} {idea}It is the turning away.{/idea}",
+    "old": "If I had better proof, I would change.",
+    "new": "Often the proof is already there; what is missing is my willingness to look at it.",
+    "try": "Look honestly today at one piece of evidence you keep looking away from.",
+    "related": ["41:17", "11:65"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:82", "surah": 15, "ayah": 82, "place": "makkah",
+    "title": "They carved homes in mountains and felt untouchable.",
+    "subtitle": "Security built out of stone",
+    "picture": {"kind": "boxes", "label": "What they built", "row": [
+      {"box": "people", "title": "Thamud", "sub": ["skilled builders"]},
+      {"conn": "carved"},
+      {"box": "reward", "title": "houses in rock", "sub": ["beyond what they needed"]},
+      {"conn": "feeling"},
+      {"box": "trap", "title": "secure", "sub": ["without fear"]}]},
+    "key": {"label": "Where safety comes from", "row": [
+      {"box": "trap", "title": "thicker walls", "sub": ["what they trusted"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["the only real security"]}]},
+    "then": "Ibn Kathir says they had no real need for those houses; {trap}it was merely extravagance and work without a purpose{/trap}. When the Prophet ﷺ passed Al-Hijr on the way to Tabuk, {idea}he covered his head, hurried his camel, and told the Companions to pass only weeping{/idea}.",
+    "now": "Bigger house, alarm system, investment portfolio, insurance on everything. {trap}It all says nothing can touch me.{/trap} {idea}Planning is fine. Feeling untouchable is the problem.{/idea}",
+    "old": "With enough money and walls, I am safe.",
+    "new": "No building or bank balance makes me secure; that feeling belongs to trust in Allah.",
+    "try": "Next time you lock your door or check your savings, say: my safety is with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:83", "surah": 15, "ayah": 83, "place": "makkah",
+    "title": "The stone did not stop the morning cry.",
+    "subtitle": "The end of Thamud",
+    "picture": {"kind": "boxes", "label": "The morning", "row": [
+      {"box": "trap", "title": "three days", "sub": ["the warning given"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the shriek", "sub": ["the fourth morning"]}]},
+    "key": {"label": "What the walls did", "row": [
+      {"box": "reward", "title": "kept them safe", "sub": ["what they expected"], "strike": true},
+      {"box": "trap", "title": "nothing", "sub": ["the cry reached inside"]}]},
+    "then": "After they killed the she-camel, Salih told them, {trap}enjoy yourselves in your homes for three days{/trap}, quoting 11:65. Ibn Kathir says the shriek overtook them {trap}in the morning of the fourth day{/trap}. The rock houses they trusted did not help.",
+    "now": "You were told: three months to fix your health, or the job, or the marriage. You enjoyed the three months. {idea}A warning with a deadline is a gift.{/idea} Use the days you have.",
+    "old": "I still have time before the warning comes true.",
+    "new": "A warning with a deadline is mercy; the time given is for turning back, not for enjoying.",
+    "try": "Pick one warning you have been given, by a doctor, a friend or your conscience, and act on it today.",
+    "related": ["11:65"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:84", "surah": 15, "ayah": 84, "place": "makkah",
+    "title": "Everything they earned could not help them.",
+    "subtitle": "Crops, fruit, and water they would not share",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "crops and fruit", "sub": ["their earnings"]},
+      {"box": "reward", "title": "water", "sub": ["they would not share"]},
+      {"conn": "availed"},
+      {"box": "trap", "title": "0", "sub": ["when the command came"], "num": true}]},
+    "key": {"label": "What their wealth bought", "row": [
+      {"box": "trap", "title": "protection", "sub": ["what they counted on"], "strike": true},
+      {"box": "trap", "title": "the reason they fell", "sub": ["greed for the water"]}]},
+    "then": "Ibn Kathir explains: their crops, fruits, and {trap}the water which they did not want to share with the she-camel, so it would not reduce their share{/trap}, none of it protected them when their Lord's command came. They killed a sign of Allah over a share of water.",
+    "now": "You argue with your sibling over who pays more for your mother's care. You refuse to share the parking spot, the inheritance, the credit. {trap}What you grip hardest may be what costs you most.{/trap}",
+    "old": "Holding tight to what is mine keeps me safe.",
+    "new": "What I refuse to share cannot save me, and may be exactly what brings me down.",
+    "try": "Share something today you would normally keep for yourself: food, time, credit, or money.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:85", "surah": 15, "ayah": 85, "place": "makkah",
+    "title": "The world has a purpose, so forgive beautifully.",
+    "subtitle": "Created in truth, the Hour coming, forgive",
+    "picture": {"kind": "boxes", "label": "Three things", "row": [
+      {"box": "idea", "title": "created in truth", "sub": ["not in play"]},
+      {"box": "idea", "title": "the Hour is coming", "sub": ["justice will be done"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "gracious forgiveness", "sub": ["overlook their faults"]}]},
+    "key": {"label": "Why I can let go", "row": [
+      {"box": "trap", "title": "I must settle it", "sub": ["or no one will"], "strike": true},
+      {"box": "idea", "title": "the Hour settles it", "sub": ["so I can forgive"]}]},
+    "then": "Ibn Kathir says the heavens and earth were created with justice, and he cites 23:115: {idea}did you think We created you in play?{/idea} Then Allah tells the Prophet ﷺ to {reward}overlook the faults of those who insulted him{/reward}. Mujahid and Qatadah said this was in Makkah, before fighting was prescribed.",
+    "now": "Someone humiliated you in front of the family, and you have rehearsed the comeback for weeks. {idea}Nothing is wasted in a world made with truth.{/idea} {reward}You can forgive, beautifully, because justice is not your job alone.{/reward}",
+    "old": "If I forgive them, they get away with it.",
+    "new": "Because the world has a purpose and the Hour is coming, I can forgive without losing justice.",
+    "try": "Choose one person who wronged you and forgive them today, without telling them or anyone.",
+    "related": ["23:115", "43:89", "38:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:86", "surah": 15, "ayah": 86, "place": "makkah",
+    "title": "The One who made everything knows every scattered piece.",
+    "subtitle": "Your Lord, the Knowing Creator",
+    "picture": {"kind": "boxes", "label": "Who your Lord is", "row": [
+      {"box": "idea", "title": "the Creator", "sub": ["makes again and again"]},
+      {"box": "idea", "title": "the Knowing", "sub": ["knows what scattered"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "the Hour", "sub": ["is easy for Him"]}]},
+    "key": {"label": "Can it be undone", "row": [
+      {"box": "trap", "title": "gone is gone", "sub": ["scattered, lost"], "strike": true},
+      {"box": "idea", "title": "known and gathered", "sub": ["nothing escapes Him"]}]},
+    "then": "Ibn Kathir calls this {idea}a confirmation of the Day of Resurrection{/idea}. He knows {idea}what has been dispersed from people's bodies and scattered throughout the earth{/idea}. He cites 36:81: is not He who created the heavens able to create the like of them?",
+    "now": "You forgave the person in the last verse, but it still feels like the wrong will just disappear. {idea}Your Lord made the heavens and knows every scattered thing.{/idea} {reward}Nothing you let go of is lost to Him.{/reward}",
+    "old": "Once something is gone or forgotten, it is gone for good.",
+    "new": "The Creator who knows every scattered piece can bring it all back and set it right.",
+    "try": "Before sleeping, say ya Khallaq, ya Alim, and hand one worry over to Him.",
+    "related": ["36:81"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:87", "surah": 15, "ayah": 87, "place": "makkah",
+    "title": "You were given the Fatihah and the whole Quran.",
+    "subtitle": "The seven oft-repeated verses",
+    "picture": {"kind": "boxes", "label": "What he was given", "row": [
+      {"box": "reward", "title": "7", "sub": ["oft-repeated verses"], "num": true},
+      {"conn": "and"},
+      {"box": "reward", "title": "the Grand Quran", "sub": ["the whole message"]}]},
+    "key": {"label": "What I really have", "row": [
+      {"box": "trap", "title": "not much", "sub": ["compared to others"], "strike": true},
+      {"box": "reward", "title": "the greatest surah", "sub": ["recited every prayer"]}]},
+    "then": "Scholars differed: some said the seven are the seven long surahs. Ibn Kathir cites Al-Bukhari, where the Prophet ﷺ called Al-Fatihah {reward}the most magnificent surah{/reward} and said {reward}it is the seven Mathani and the Grand Quran I have been given{/reward}.",
+    "now": "You recite Al-Fatihah at least seventeen times a day, often on autopilot while thinking about lunch. {reward}It is the gift Allah named to comfort His Prophet ﷺ.{/reward} {idea}You already own the greatest treasure.{/idea}",
+    "old": "Al-Fatihah is just the part I say quickly before the rest.",
+    "new": "The seven verses I repeat every prayer are a gift Allah counted as immense.",
+    "try": "In your next prayer, recite Al-Fatihah slowly, pausing after each verse.",
+    "related": ["39:23", "8:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:88", "surah": 15, "ayah": 88, "place": "makkah",
+    "title": "Do not stare at what they have; be gentle with yours.",
+    "subtitle": "Eyes off their luxuries, wings down for believers",
+    "picture": {"kind": "boxes", "label": "Three instructions", "row": [
+      {"box": "trap", "title": "do not stare", "sub": ["at their luxuries"], "strike": true},
+      {"box": "trap", "title": "do not grieve", "sub": ["over their rejection"], "strike": true},
+      {"box": "idea", "title": "lower your wing", "sub": ["gentle with believers"]}]},
+    "key": {"label": "Where the eyes go", "row": [
+      {"box": "trap", "title": "what others have", "sub": ["comparing, wishing"], "strike": true},
+      {"box": "reward", "title": "what I was given", "sub": ["the Quran, the people near me"]}]},
+    "then": "Ibn Kathir says: since We gave you the Grand Quran, {idea}do not envy what they have of transient delights given to test them{/idea}. Ibn Abbas said this {trap}forbade a man to wish for what his companion has{/trap}. And be gentle with the believers, citing 9:128.",
+    "now": "You scroll past a friend's new car, a cousin's holiday, a colleague's house. Then you snap at your own kids at dinner. {idea}Eyes off their things. Wings down for your people.{/idea}",
+    "old": "If I had what they have, I would be happier.",
+    "new": "I was given the Quran; I keep my eyes off others' luxuries and stay gentle with those near me.",
+    "try": "Mute one account that makes you envious, and do one gentle thing for someone at home.",
+    "related": ["20:131", "26:215", "9:128"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

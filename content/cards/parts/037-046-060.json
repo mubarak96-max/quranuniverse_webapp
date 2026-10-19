@@ -1,0 +1,290 @@
+[
+  {
+    "id": "37:46", "surah": 37, "ayah": 46, "place": "makkah",
+    "title": "Bright white, and delicious to drink.",
+    "subtitle": "Pleasure with nothing ugly in it",
+    "picture": {"kind": "boxes", "label": "The drink of Paradise", "row": [
+      {"box": "reward", "title": "white", "sub": ["bright, shining colour"]},
+      {"box": "reward", "title": "delicious", "sub": ["taste as good as its look"]}]},
+    "key": {"label": "Pleasure here and there", "row": [
+      {"box": "trap", "title": "pleasure with a cost", "sub": ["looks good, leaves harm"], "strike": true},
+      {"box": "reward", "title": "pleasure, pure", "sub": ["good to see and taste"]}]},
+    "then": "Zayd bin Aslam said it is {reward}white flowing{/reward}, a bright shining colour, unlike this world's drinks that a sound nature finds repulsive. Ibn Kathir says {reward}its taste will be as good as its colour.{/reward}",
+    "now": "The energy drink tastes great and leaves you shaky. The late-night snack feels good and you regret it at 2am. {trap}So many pleasures here come with a bill.{/trap} {reward}This one does not.{/reward}",
+    "old": "Every pleasure has a downside I have to accept.",
+    "new": "Allah has pleasure waiting that has no downside at all.",
+    "try": "Skip one pleasure today that you know leaves you feeling worse afterwards.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:47", "surah": 37, "ayah": 47, "place": "makkah",
+    "title": "No headache, no losing your mind.",
+    "subtitle": "Joy that keeps you clear",
+    "picture": {"kind": "boxes", "label": "What is removed", "row": [
+      {"box": "trap", "title": "ghawl", "sub": ["aches, sickness"], "strike": true},
+      {"box": "trap", "title": "intoxication", "sub": ["losing the mind"], "strike": true},
+      {"conn": "leaving"},
+      {"box": "reward", "title": "pure enjoyment", "sub": ["clear and well"]}]},
+    "key": {"label": "What joy does to you", "row": [
+      {"box": "trap", "title": "escape", "sub": ["forget yourself"], "strike": true},
+      {"box": "reward", "title": "fullness", "sub": ["fully present, clear"]}]},
+    "then": "Ibn Abbas, Mujahid and Qatadah said ghawl means {trap}stomach aches and such effects{/trap}. Mujahid said it {reward}will not cause them to lose their minds.{/reward} Ibn Abbas listed four harms of this world's wine; Paradise's drink is free of all of them.",
+    "now": "You come home exhausted and want to switch off: hours of scrolling, numbing out. You wake up foggier. {reward}The joy of Paradise does not take you away from yourself.{/reward} It makes you more awake.",
+    "old": "Real relaxation means switching my mind off.",
+    "new": "The best joy keeps me clear and present, not numb.",
+    "try": "Replace twenty minutes of numbing out tonight with something that leaves you clear: a walk, a call, some Quran.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:48", "surah": 37, "ayah": 48, "place": "makkah",
+    "title": "Companions whose eyes are for them alone.",
+    "subtitle": "Loyalty as part of the reward",
+    "picture": {"kind": "boxes", "label": "Beside them", "row": [
+      {"box": "reward", "title": "companions", "sub": ["chaste"]},
+      {"box": "reward", "title": "glances restrained", "sub": ["looking at no one else"]},
+      {"box": "reward", "title": "beautiful eyes", "sub": ["wide and lovely"]}]},
+    "key": {"label": "What beauty includes", "row": [
+      {"box": "people", "title": "looks only", "sub": ["the surface"], "strike": true},
+      {"box": "reward", "title": "faithful eyes", "sub": ["loyalty is beautiful"]}]},
+    "then": "Ibn Abbas, Mujahid, Qatadah and others said these are {reward}chaste companions who will not look at anyone other than their husbands.{/reward} Ibn Kathir says their eyes are described as {reward}beautiful and chaste{/reward} together.",
+    "now": "Your phone is full of images built to pull your eyes away from the person beside you. {idea}Here, the picture of beauty is a gaze that stays faithful.{/idea} Guarding your own gaze is part of that beauty now.",
+    "old": "Where my eyes wander does not hurt anyone.",
+    "new": "A faithful gaze is part of what Allah calls beautiful, and I can practise it now.",
+    "try": "Lower your gaze once today when you notice it wandering, and say astaghfirullah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:49", "surah": 37, "ayah": 49, "place": "makkah",
+    "title": "Like well-protected, untouched pearls.",
+    "subtitle": "Something precious kept safe",
+    "picture": {"kind": "boxes", "label": "The image", "row": [
+      {"box": "reward", "title": "hidden pearls", "sub": ["Ibn Abbas"]},
+      {"box": "reward", "title": "untouched", "sub": ["Al-Hasan"]},
+      {"box": "reward", "title": "egg in its shell", "sub": ["protected inside"]}]},
+    "key": {"label": "What makes it precious", "row": [
+      {"box": "trap", "title": "on display for all", "sub": ["handled by everyone"], "strike": true},
+      {"box": "reward", "title": "kept protected", "sub": ["its worth preserved"]}]},
+    "then": "Ibn Abbas said it means {reward}as if they were hidden pearls{/reward}. Al-Hasan said protected, {reward}never touched by any hands.{/reward} Others said the inside of an egg, beneath the shell, which no hand reaches.",
+    "now": "You keep your most precious things somewhere safe: the ring in a box, documents in a drawer, not left on the bus seat. {reward}What is precious is protected.{/reward} That applies to your heart and your dignity too.",
+    "old": "Something is only valuable if everyone can see it.",
+    "new": "The most precious things are guarded, and that care is part of their worth.",
+    "try": "Keep one private thing private today that you might have posted or shared.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:50", "surah": 37, "ayah": 50, "place": "makkah",
+    "title": "In Paradise, friends turn to each other and talk.",
+    "subtitle": "Remembering the road that got them there",
+    "picture": {"kind": "boxes", "label": "The gathering", "row": [
+      {"box": "people", "title": "people of Paradise", "sub": ["on their thrones"]},
+      {"conn": "turn to"},
+      {"box": "people", "title": "one another", "sub": ["asking, sharing"]},
+      {"box": "reward", "title": "their stories", "sub": ["how life was, what they suffered"]}]},
+    "key": {"label": "What hardship becomes", "row": [
+      {"box": "trap", "title": "wasted pain", "sub": ["it meant nothing"], "strike": true},
+      {"box": "reward", "title": "a story to tell", "sub": ["in the gardens, with friends"]}]},
+    "then": "Ibn Kathir says the people of Paradise will ask one another {reward}how they were in this world and what they suffered{/reward}, while they sit together and servants bring them delights no eye has seen.",
+    "now": "You are in the middle of a hard year: the job loss, the illness, the long nights. {reward}One day it may be a story you tell, smiling, among friends in the gardens.{/reward} Today is a chapter, not the ending.",
+    "old": "What I am going through now is just pointless pain.",
+    "new": "The hard parts of my life can become stories of how Allah carried me.",
+    "try": "Tell one friend today about a hard time Allah helped you through.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:51", "surah": 37, "ayah": 51, "place": "makkah",
+    "title": "I had a companion back in the world.",
+    "subtitle": "A memory of a friend who doubted",
+    "picture": {"kind": "boxes", "label": "The memory", "row": [
+      {"box": "people", "title": "a believer", "sub": ["now in Paradise"]},
+      {"conn": "remembers"},
+      {"box": "people", "title": "his companion", "sub": ["an idolator friend"]}]},
+    "key": {"label": "What friends do", "row": [
+      {"box": "people", "title": "friends just keep you company", "sub": ["nothing deeper"], "strike": true},
+      {"box": "idea", "title": "friends pull you somewhere", "sub": ["toward or away from Allah"]}]},
+    "then": "Ibn Abbas said this refers to {idea}an idolator man who had a believing companion{/idea} in this world. Ibn Kathir also mentions a report of two business partners: one spent on himself, the other gave in charity.",
+    "now": "You think of your oldest friends: the one from school, the colleague you lunch with every day. {idea}Each of them is quietly pulling you in a direction.{/idea} One day you will remember which way.",
+    "old": "My friendships do not affect my faith.",
+    "new": "My companions shape my path, so I choose and influence them with care.",
+    "try": "Think of one friend you love who doubts. Make a sincere dua for them by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:52", "surah": 37, "ayah": 52, "place": "makkah",
+    "title": "He kept asking: you really believe all this?",
+    "subtitle": "The quiet pressure of a doubting friend",
+    "picture": {"kind": "boxes", "label": "What the friend said", "row": [
+      {"box": "people", "title": "the companion", "sub": ["astonished, stubborn"]},
+      {"conn": "asked"},
+      {"box": "trap", "title": "\"You believe that?\"", "sub": ["resurrection, reckoning"]}]},
+    "key": {"label": "The pressure", "row": [
+      {"box": "trap", "title": "mocking surprise", "sub": ["makes faith feel silly"], "strike": true},
+      {"box": "idea", "title": "hold steady", "sub": ["the believer stayed firm"]}]},
+    "then": "Ibn Kathir says he asked whether his friend believed in {idea}the resurrection, the Reckoning, and reward{/idea}, and said it {trap}by way of astonishment, disbelief and stubbornness.{/trap}",
+    "now": "Lunch at work. Someone says, wait, you actually believe in all that? Everyone looks at you. {trap}The question is light; the pressure is heavy.{/trap} The believer in this story held on.",
+    "old": "If smart people around me find it strange, maybe it is.",
+    "new": "A friend's surprise is not an argument; I can stay firm and kind.",
+    "try": "If someone questions your faith today, answer calmly with one sentence you truly believe.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:53", "surah": 37, "ayah": 53, "place": "makkah",
+    "title": "Once we are dust, we will be held to account?",
+    "subtitle": "The doubt that deeds really count",
+    "picture": {"kind": "boxes", "label": "The friend's doubt", "row": [
+      {"box": "people", "title": "dust and bones", "sub": ["after death"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "\"repaid?\"", "sub": ["for our deeds? really?"]}]},
+    "key": {"label": "Do deeds count?", "row": [
+      {"box": "trap", "title": "no one keeps score", "sub": ["it all fades"], "strike": true},
+      {"box": "idea", "title": "brought to account", "sub": ["rewarded by our deeds"]}]},
+    "then": "Mujahid and As-Suddi said madinun means {idea}brought to account.{/idea} Ibn Abbas said {idea}rewarded or punished according to our deeds.{/idea} Ibn Kathir says both views are correct.",
+    "now": "You cheat a little on expenses and think: who will ever know, it is tiny. You help a stranger and think: it does not really matter. {idea}Both get counted.{/idea}",
+    "old": "Small things do not really count in the end.",
+    "new": "Every deed, small or big, is brought to account.",
+    "try": "Do one small honest thing today that no one would notice if you skipped it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:54", "surah": 37, "ayah": 54, "place": "makkah",
+    "title": "Would you like to look?",
+    "subtitle": "A believer wonders where his friend ended up",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "people", "title": "the believer", "sub": ["in Paradise"]},
+      {"conn": "asks his friends"},
+      {"box": "idea", "title": "\"Will you look?\"", "sub": ["look over"]}]},
+    "key": {"label": "Where friendship leads", "row": [
+      {"box": "people", "title": "we will end up together", "sub": ["friends stay friends"], "strike": true},
+      {"box": "idea", "title": "paths can split", "sub": ["by belief and deeds"]}]},
+    "then": "Ibn Kathir says the believer {idea}says this to his companions among the people of Paradise{/idea}: will you look over? He remembers his old friend and wants to know where he is.",
+    "now": "You scroll through old contacts and wonder what happened to people you once spent every day with. {idea}Close friends can end up in very different places.{/idea} The path you walk together matters.",
+    "old": "We will always be close, whatever we each believe.",
+    "new": "Friends can end up far apart, so I want to walk with mine toward Allah.",
+    "try": "Invite one friend to something good this week: a class, a prayer, a charity visit.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:55", "surah": 37, "ayah": 55, "place": "makkah",
+    "title": "He looked, and saw him in the middle of the Fire.",
+    "subtitle": "The friend's choice reached its end",
+    "picture": {"kind": "boxes", "label": "What he saw", "row": [
+      {"box": "people", "title": "the believer", "sub": ["looks down"]},
+      {"conn": "sees"},
+      {"box": "trap", "title": "his old friend", "sub": ["in the midst of Hell"]}]},
+    "key": {"label": "Two friends, two ends", "row": [
+      {"box": "reward", "title": "the one who believed", "sub": ["in the gardens"]},
+      {"box": "trap", "title": "the one who mocked", "sub": ["in the Fire"]}]},
+    "then": "Ibn Abbas and others said it means {trap}in the middle of Hell.{/trap} The two had been companions in the world. Their paths split over one question: {idea}do you believe in the meeting with Allah?{/idea}",
+    "now": "Two kids sit at the same school desk. Same teacher, same chances. Twenty years later, one built a good life, one lost his way. {idea}Small choices, repeated, decide the end.{/idea} Yours are still being made.",
+    "old": "We are friends, so we will end up the same way.",
+    "new": "My own choices decide my end, whoever I sit beside.",
+    "try": "Make one choice today you would be glad to look back on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:56", "surah": 37, "ayah": 56, "place": "makkah",
+    "title": "By Allah, you almost ruined me.",
+    "subtitle": "How close the danger really was",
+    "picture": {"kind": "boxes", "label": "What he realises", "row": [
+      {"box": "trap", "title": "the friend's voice", "sub": ["\"you believe that?\""]},
+      {"conn": "almost"},
+      {"box": "trap", "title": "ruined him", "sub": ["if he had obeyed"]}]},
+    "key": {"label": "How close it was", "row": [
+      {"box": "people", "title": "never in danger", "sub": ["I was always fine"], "strike": true},
+      {"box": "trap", "title": "almost", "sub": ["one yes away"]}]},
+    "then": "Ibn Kathir says the believer tells the disbeliever: {trap}by Allah, you nearly caused me to be doomed, if I had obeyed you.{/trap} Only now does he see how close the danger was.",
+    "now": "The friend who said, come on, just this once. The group that almost pulled you in. Looking back, you shiver at how close it was. {trap}Some influences nearly cost us everything.{/trap}",
+    "old": "I would never have fallen for that.",
+    "new": "I was closer to the edge than I knew, and I need to watch who pulls on me.",
+    "try": "Name one influence that almost pulled you away from Allah. Thank Him for saving you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:57", "surah": 37, "ayah": 57, "place": "makkah",
+    "title": "If not for my Lord's favour, I would be there too.",
+    "subtitle": "Guidance as a gift, not an achievement",
+    "picture": {"kind": "boxes", "label": "Why he was saved", "row": [
+      {"box": "reward", "title": "my Lord's favour", "sub": ["grace, mercy, guidance"]},
+      {"conn": "kept me from"},
+      {"box": "trap", "title": "being brought in", "sub": ["with the others"]}]},
+    "key": {"label": "Who saved him", "row": [
+      {"box": "people", "title": "I was smart enough", "sub": ["my own strength"], "strike": true},
+      {"box": "reward", "title": "the favour of my Lord", "sub": ["He guided me"]}]},
+    "then": "Ibn Kathir says the believer means: {reward}He bestowed His grace upon me, had mercy upon me and guided me to faith.{/reward} He links it to 7:43: we could never have found guidance had Allah not guided us.",
+    "now": "You see someone struggling with addiction or anger and feel a little proud that you are not like them. {reward}Your steadiness is a gift.{/reward} Without His favour, it could be you.",
+    "old": "I am on the right path because I made good choices.",
+    "new": "I am guided because Allah was kind to me, so I stay humble and thankful.",
+    "try": "When you see someone struggling today, say alhamdulillah quietly and make dua for them.",
+    "related": ["7:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:58", "surah": 37, "ayah": 58, "place": "makkah",
+    "title": "So we will never die again?",
+    "subtitle": "The joy of a life with no ending",
+    "picture": {"kind": "boxes", "label": "Their wonder", "row": [
+      {"box": "people", "title": "the believers", "sub": ["full of joy"]},
+      {"conn": "ask"},
+      {"box": "reward", "title": "\"No more death?\"", "sub": ["forever in Paradise"]}]},
+    "key": {"label": "What ruins joy here", "row": [
+      {"box": "trap", "title": "it will end", "sub": ["death ends every delight"], "strike": true},
+      {"box": "reward", "title": "it will not end", "sub": ["no death to come"]}]},
+    "then": "Ibn Kathir says the believers say this {reward}when they feel joy{/reward} at what Allah has given them, realising they will remain forever. Al-Hasan said: {trap}they know that death ends every delight{/trap}, so they ask.",
+    "now": "Even on your happiest day, at a wedding, holding a newborn, a small voice says: this will not last. {trap}Every joy here has an edge.{/trap} {reward}In Paradise the edge is gone.{/reward}",
+    "old": "Every happy moment is shadowed by knowing it will end.",
+    "new": "There is a happiness coming that never has to end.",
+    "try": "In a happy moment today, say: O Allah, give me the joy that never ends.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:59", "surah": 37, "ayah": 59, "place": "makkah",
+    "title": "Only that first death, and no punishment.",
+    "subtitle": "The worst is behind them forever",
+    "picture": {"kind": "boxes", "label": "What is left behind", "row": [
+      {"box": "people", "title": "the first death", "sub": ["already passed"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "punishment", "sub": ["none"], "strike": true},
+      {"box": "reward", "title": "forever", "sub": ["safe in Paradise"]}]},
+    "key": {"label": "What death becomes", "row": [
+      {"box": "trap", "title": "the end", "sub": ["the thing to fear"], "strike": true},
+      {"box": "reward", "title": "a door already passed", "sub": ["never again"]}]},
+    "then": "Ibn Kathir says the believers realise {reward}they are to remain in Paradise forever, with no punishment and no death to come.{/reward} The only death they will ever know is the one already behind them.",
+    "now": "You lie awake some nights afraid of dying, of losing your parents, of the hospital corridor. {reward}For the believer, death is one door, walked through once.{/reward} After that, never again.",
+    "old": "Death is the thing I fear most.",
+    "new": "For the believer, death is one door, and what lies past it is safety.",
+    "try": "When the fear of death comes today, say: O Allah, make my last day my best day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:60", "surah": 37, "ayah": 60, "place": "makkah",
+    "title": "This is the great success.",
+    "subtitle": "What winning actually means",
+    "picture": {"kind": "boxes", "label": "The win", "row": [
+      {"box": "reward", "title": "no more death", "sub": ["forever"]},
+      {"box": "reward", "title": "no punishment", "sub": ["safe"]},
+      {"conn": "this is"},
+      {"box": "reward", "title": "the great success", "sub": ["al-fawz al-azim"]}]},
+    "key": {"label": "What success is", "row": [
+      {"box": "people", "title": "promotion, money, followers", "sub": ["what I chase"], "strike": true},
+      {"box": "reward", "title": "Paradise, forever", "sub": ["the real win"]}]},
+    "then": "Al-Hasan said that when they ask whether they will die again, {reward}it will be said: no, truly this is the supreme success.{/reward} Ibn Kathir reads the next verse with it: {idea}for the like of this, let the workers work.{/idea}",
+    "now": "Your LinkedIn says success is a new title. Your feed says it is a car or a holiday. You chase it every day. {reward}The verse names the real win{/reward}, and every small good deed is work toward it.",
+    "old": "Success is what I can show people now.",
+    "new": "The great success is Paradise, and I work for it in small ways every day.",
+    "try": "Write down one goal for this week that works toward the great success, and start it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

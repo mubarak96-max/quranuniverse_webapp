@@ -1,0 +1,231 @@
+[
+  {
+    "id": "83:13", "surah": 83, "ayah": 13, "place": "makkah",
+    "title": "Hearing the verses, he says: old stories.",
+    "subtitle": "Dismissing what you do not want to face",
+    "picture": {"kind": "boxes", "label": "The reaction", "row": [
+      {"box": "idea", "title": "Our verses", "sub": ["recited to him"]},
+      {"conn": "he replies"},
+      {"box": "trap", "title": "tales of the ancients", "sub": ["copied from old books"]}]},
+    "key": {"label": "What the label does", "row": [
+      {"box": "trap", "title": "old stories", "sub": ["so I can ignore them"], "strike": true},
+      {"box": "idea", "title": "the Word of Allah", "sub": ["speaking to me now"]}]},
+    "then": "Ibn Kathir says whenever this man heard Allah's words from the Messenger ﷺ, he {trap}denied them and thought ill of them{/trap}, claiming they were gathered from the books of earlier peoples. The same line appears in other surahs.",
+    "now": "A reminder comes up in the family group chat and you scroll past: \"heard it before.\" A talk at the masjid feels old-fashioned. {idea}Calling something old is an easy way to never let it reach you.{/idea}",
+    "old": "I have heard all this before. It is nothing new.",
+    "new": "A verse I know by heart can still be speaking to me today.",
+    "try": "Read one short verse you know well, slowly, as if hearing it for the first time.",
+    "related": ["16:24", "25:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:14", "surah": 83, "ayah": 14, "place": "makkah",
+    "title": "No. What they earned has rusted over their hearts.",
+    "subtitle": "Why truth stopped getting through",
+    "picture": {"kind": "boxes", "label": "How the stain builds", "row": [
+      {"box": "trap", "title": "a sin", "sub": ["a black spot"]},
+      {"conn": "repeated"},
+      {"box": "trap", "title": "Ran", "sub": ["a covering over the heart"]}]},
+    "key": {"label": "Two paths from one spot", "row": [
+      {"box": "idea", "title": "repent", "sub": ["the heart is polished"]},
+      {"box": "trap", "title": "keep going", "sub": ["the spot spreads"]}]},
+    "then": "Ibn Kathir cites the hadith from Abu Hurayrah: when a servant sins, a black spot appears in his heart. {reward}If he repents, his heart is polished clean.{/reward} {trap}If he returns, it grows until it covers the heart.{/trap}",
+    "now": "A phone screen with years of fingerprints. You do not notice the smudge until you hold it to the light. {idea}One honest istighfar wipes a spot before it hardens.{/idea}",
+    "old": "One more slip will not change anything about me.",
+    "new": "Each sin leaves a mark, and each repentance can wipe one clean.",
+    "try": "Before sleeping tonight, say astaghfirullah slowly for one specific thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:15", "surah": 83, "ayah": 15, "place": "makkah",
+    "title": "That Day, they are screened from their Lord.",
+    "subtitle": "The loss beneath every other loss",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["hearts covered"]},
+      {"conn": "veiled from"},
+      {"box": "idea", "title": "their Lord", "sub": ["not seen"]}]},
+    "key": {"label": "The match", "row": [
+      {"box": "trap", "title": "a covered heart here", "sub": ["blocked the truth"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "a veil there", "sub": ["blocks the sight of Him"]}]},
+    "then": "Right after the covered heart comes the veil. Ibn Kathir reports Imam Ash-Shafi'i saying that {reward}this verse is proof that the believers will see Allah on that Day{/reward}, since only the deniers are screened.",
+    "now": "You sit in the same room as someone you love but are both on your phones. Close, yet shut out. {idea}What you let cover your heart now shapes what you will see later.{/idea}",
+    "old": "The worst thing about the Hereafter would be the pain.",
+    "new": "The deepest loss is being kept from seeing my Lord.",
+    "try": "Ask Allah today, in your own words, to let you see Him on that Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:16", "surah": 83, "ayah": 16, "place": "makkah",
+    "title": "Then they enter the Fire they denied.",
+    "subtitle": "The end of the denier's road",
+    "picture": {"kind": "boxes", "label": "The order of things", "row": [
+      {"box": "trap", "title": "veiled", "sub": ["from their Lord"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the Fire", "sub": ["they enter it"]}]},
+    "key": {"label": "Where hope still is", "row": [
+      {"box": "trap", "title": "the road of denial", "sub": ["ends here"]},
+      {"box": "idea", "title": "turning back today", "sub": ["the road is still open"]}]},
+    "then": "The surah lays out the steps plainly: a sealed record, a covered heart, a veil, and {trap}then the Fire{/trap}. It was spoken to Makkans who were laughing at the warning while there was still time.",
+    "now": "A sat-nav keeps saying \"turn around when possible.\" You can ignore it for miles, but each exit is a chance. {reward}Every day you are alive is an exit off this road.{/reward}",
+    "old": "Warnings about the Fire are for other kinds of people.",
+    "new": "The warning is a mercy because it comes while I can still turn.",
+    "try": "Name one thing you keep putting off changing. Take the first small step today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:17", "surah": 83, "ayah": 17, "place": "makkah",
+    "title": "This is what you used to call a lie.",
+    "subtitle": "The moment denial meets the fact",
+    "picture": {"kind": "boxes", "label": "What is said", "row": [
+      {"box": "trap", "title": "you denied it", "sub": ["tales of the ancients"]},
+      {"conn": "now"},
+      {"box": "idea", "title": "this is it", "sub": ["standing in front of you"]}]},
+    "key": {"label": "Two moments", "row": [
+      {"box": "people", "title": "it is just talk", "sub": ["said in the world"], "strike": true},
+      {"box": "idea", "title": "this is it", "sub": ["said that Day"]}]},
+    "then": "The same people who said {trap}legends of the former peoples{/trap} in verse 13 now hear it turned back: this is the very thing you denied. The surah closes the loop on their own words.",
+    "now": "The warning light on the car dashboard you kept ignoring, until the breakdown. The doctor's advice you laughed off, until the test results. {idea}Better to believe the warning before it becomes the event.{/idea}",
+    "old": "I will take it seriously if it ever actually happens.",
+    "new": "By the time it happens, it is too late to start believing it.",
+    "try": "Act on one reminder today that you have been brushing off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:18", "surah": 83, "ayah": 18, "place": "makkah",
+    "title": "No. The record of the righteous rises to Illiyyin.",
+    "subtitle": "The opposite file, the opposite place",
+    "picture": {"kind": "boxes", "label": "Two records", "row": [
+      {"box": "trap", "title": "the wicked", "sub": ["Sijjin, the low prison"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "the righteous", "sub": ["Illiyyin, the heights"]}]},
+    "key": {"label": "What the name means", "row": [
+      {"box": "reward", "title": "Illiyyin", "sub": ["from 'uluw, highness"]},
+      {"box": "idea", "title": "always rising", "sub": ["greater as it ascends"]}]},
+    "then": "Ibn Kathir says the righteous are in the opposite situation to the wicked. Illiyyin is taken from the word for {reward}highness{/reward}. Ibn Abbas said it means Paradise; others placed it in the seventh heaven.",
+    "now": "The quiet charity, the night you held your tongue, the parent you visited after a long shift. {reward}None of it vanished. It went up.{/reward}",
+    "old": "My small good deeds probably do not add up to much.",
+    "new": "The good I do is filed in a high place, and it keeps rising.",
+    "try": "Do one hidden good deed today that only Allah will know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:19", "surah": 83, "ayah": 19, "place": "makkah",
+    "title": "And what will make you know what Illiyyin is?",
+    "subtitle": "The same question, now about honour",
+    "picture": {"kind": "boxes", "label": "The echo", "row": [
+      {"box": "trap", "title": "what is Sijjin?", "sub": ["verse 8"]},
+      {"conn": "now"},
+      {"box": "reward", "title": "what is Illiyyin?", "sub": ["verse 19"]}]},
+    "key": {"label": "Why ask again", "row": [
+      {"box": "people", "title": "a nice place, roughly", "sub": ["I can imagine it"], "strike": true},
+      {"box": "idea", "title": "beyond imagining", "sub": ["Allah magnifies it"]}]},
+    "then": "The same question that made Sijjin heavy now makes Illiyyin grand. Ibn Kathir says {reward}Allah magnifies its affair and extols its matter{/reward} by asking it.",
+    "now": "You picture the dream job or the dream house and it is already small next to the real thing. {idea}What Allah has prepared is bigger than any picture you can hold.{/idea}",
+    "old": "I have a rough idea of what reward looks like.",
+    "new": "The reward is greater than anything I can picture, so it is worth reaching for.",
+    "try": "Spend one minute today imagining the best of Paradise, then thank Allah for the hope.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:20", "surah": 83, "ayah": 20, "place": "makkah",
+    "title": "Their place too is written in a sealed register.",
+    "subtitle": "Good deeds are recorded just as firmly",
+    "picture": {"kind": "boxes", "label": "The good register", "row": [
+      {"box": "reward", "title": "inscribed", "sub": ["written for them"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "secure", "sub": ["nothing lost from it"]}]},
+    "key": {"label": "Same words, other side", "row": [
+      {"box": "trap", "title": "verse 9", "sub": ["the wicked's register"]},
+      {"box": "reward", "title": "verse 20", "sub": ["the righteous' register"]}]},
+    "then": "The exact phrase from verse 9 returns, \"a register inscribed.\" Ibn Kathir says it affirms {reward}what will be written for the righteous{/reward}. The firmness that warned the wicked now comforts the good.",
+    "now": "Your boss forgot the extra project you did. Your kids will not remember the nights you stayed up. {reward}The register does not forget.{/reward}",
+    "old": "If nobody saw it, it might as well not have happened.",
+    "new": "Every good deed is written firmly, whether or not anyone noticed.",
+    "try": "Recall one good thing you did that no one thanked you for. Let that be enough.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:21", "surah": 83, "ayah": 21, "place": "makkah",
+    "title": "Those brought near bear witness to it.",
+    "subtitle": "An honoured record with honoured witnesses",
+    "picture": {"kind": "boxes", "label": "Who sees it", "row": [
+      {"box": "reward", "title": "the register", "sub": ["of the righteous"]},
+      {"conn": "witnessed by"},
+      {"box": "people", "title": "those brought near", "sub": ["the angels"]}]},
+    "key": {"label": "The audience", "row": [
+      {"box": "people", "title": "likes and followers", "sub": ["who see my good"], "strike": true},
+      {"box": "reward", "title": "the near ones", "sub": ["who witness it above"]}]},
+    "then": "Qatadah said those brought near are the angels. Ibn Abbas said {reward}those nearest to Allah in each heaven will witness it{/reward}. The record of the righteous is seen and honoured.",
+    "now": "You hold back from posting the volunteer photo and feel a small sting nobody saw it. {idea}Someone did. A better audience than any feed.{/idea}",
+    "old": "Good deeds feel wasted if no one sees them.",
+    "new": "My good is witnessed by those near to Allah, which is better than any audience here.",
+    "try": "Do one good deed today and tell no one about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:22", "surah": 83, "ayah": 22, "place": "makkah",
+    "title": "The righteous will be in delight.",
+    "subtitle": "Where the honest scale finally leads",
+    "picture": {"kind": "boxes", "label": "Their end", "row": [
+      {"box": "people", "title": "the righteous", "sub": ["gave full measure"]},
+      {"conn": "will be in"},
+      {"box": "reward", "title": "delight", "sub": ["eternal, complete"]}]},
+    "key": {"label": "What honesty cost", "row": [
+      {"box": "people", "title": "I lost out", "sub": ["by being fair"], "strike": true},
+      {"box": "reward", "title": "I gained", "sub": ["eternal delight"]}]},
+    "then": "Ibn Kathir says the righteous will be in {reward}eternal pleasure and gardens of comprehensive bounties{/reward}. It answers the cheaters at the start of the surah: honesty is not a loss.",
+    "now": "You turned down the side deal that would have paid for a holiday. You told the customer about the defect. {reward}It felt like losing at the time.{/reward} The verse says it was not.",
+    "old": "Being honest in business means I will always earn less.",
+    "new": "Honesty leads to a delight that no shortcut can buy.",
+    "try": "Next time honesty costs you a little today, say alhamdulillah and keep going.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:23", "surah": 83, "ayah": 23, "place": "makkah",
+    "title": "On raised couches, they look.",
+    "subtitle": "At rest, and given sight",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "reward", "title": "on couches", "sub": ["beneath canopies"]},
+      {"conn": "looking at"},
+      {"box": "reward", "title": "what Allah gave", "sub": ["and at Allah Himself"]}]},
+    "key": {"label": "The contrast", "row": [
+      {"box": "trap", "title": "veiled", "sub": ["the deniers, verse 15"]},
+      {"box": "reward", "title": "looking", "sub": ["the righteous, verse 23"]}]},
+    "then": "Ibn Kathir gives two meanings: they look at the kingdom and bounties Allah gave them, or {reward}they look at Allah, the Mighty and Sublime{/reward}. Either way it is the opposite of the veil in verse 15.",
+    "now": "After a long week you finally sit down and just look out the window, no rush. {reward}Imagine that rest, but forever, and with the best view there is.{/reward}",
+    "old": "Rest is something I will never really get.",
+    "new": "A rest is coming where I sit at ease and see what matters most.",
+    "try": "Take five quiet minutes today to sit, look at something Allah made, and say subhanAllah.",
+    "related": ["83:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "83:24", "surah": 83, "ayah": 24, "place": "makkah",
+    "title": "You will see the glow of delight on their faces.",
+    "subtitle": "Joy that shows from the inside",
+    "picture": {"kind": "boxes", "label": "What you see", "row": [
+      {"box": "people", "title": "their faces", "sub": ["the righteous"]},
+      {"conn": "show"},
+      {"box": "reward", "title": "radiance", "sub": ["the glow of bliss"]}]},
+    "key": {"label": "Where the glow comes from", "row": [
+      {"box": "people", "title": "outside polish", "sub": ["filters, show"], "strike": true},
+      {"box": "reward", "title": "inner delight", "sub": ["it shines through"]}]},
+    "then": "Ibn Kathir says you will notice a {reward}glow of delight in their faces{/reward}, a sign of happiness, composure and honour from the great bounty they are in.",
+    "now": "You can tell when someone is truly happy: a grandparent holding a new baby, a friend just out of hospital. {reward}No filter needed.{/reward} That is the kind of face this verse describes.",
+    "old": "Happiness is something you show, even if you do not feel it.",
+    "new": "Real delight shines out without trying.",
+    "try": "Smile at one person today and mean it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "37:31", "surah": 37, "ayah": 31, "place": "makkah",
+    "title": "Our Lord's word came true against us.",
+    "subtitle": "The leaders admit the warning was real",
+    "picture": {"kind": "boxes", "label": "The admission", "row": [
+      {"box": "people", "title": "the leaders", "sub": ["the arrogant ones"]},
+      {"conn": "admit"},
+      {"box": "idea", "title": "His word", "sub": ["has come true"]},
+      {"box": "trap", "title": "we will taste it", "sub": ["the punishment"]}]},
+    "key": {"label": "When they agree", "row": [
+      {"box": "trap", "title": "too late", "sub": ["admitting it then"], "strike": true},
+      {"box": "reward", "title": "in time", "sub": ["admitting it now"]}]},
+    "then": "Ibn Kathir says the arrogant leaders will tell their followers: {trap}the Word of Allah has been justified against us{/trap}; we are among those who will taste the punishment. {idea}They finally agree with the messengers, but only then.{/idea}",
+    "now": "You finally admit the doctor was right after the test results come back. You wish you had listened a year earlier. {reward}Agreeing with Allah's word now is still possible{/reward}, and it changes everything.",
+    "old": "I will believe it when I see it.",
+    "new": "Agreeing with the truth before I see it is what makes faith worth something.",
+    "try": "Say one thing Allah told you that you have been slow to accept, and accept it out loud.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:32", "surah": 37, "ayah": 32, "place": "makkah",
+    "title": "We misled you because we were lost ourselves.",
+    "subtitle": "The blind leading the blind",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "trap", "title": "the leaders", "sub": ["already astray"]},
+      {"conn": "called"},
+      {"box": "people", "title": "the followers", "sub": ["to their path"]},
+      {"conn": "who"},
+      {"box": "trap", "title": "answered", "sub": ["and were lost too"]}]},
+    "key": {"label": "Who you follow", "row": [
+      {"box": "people", "title": "they seem to know", "sub": ["confident, popular"], "strike": true},
+      {"box": "idea", "title": "do they know the way?", "sub": ["lost people lead others astray"]}]},
+    "then": "Ibn Kathir says the leaders admit: {trap}we called you to follow the path we were on, and you responded.{/trap} They were not hiding a secret truth. {trap}They were simply lost and took others with them.{/trap}",
+    "now": "The cousin who gives you life advice while his own life is falling apart. The online coach selling a method that did not work for him. {idea}Ask where your guide is actually going.{/idea}",
+    "old": "Anyone who talks confidently probably knows the way.",
+    "new": "Before following someone, I check whether they are on the right path themselves.",
+    "try": "Think of one person whose advice you follow. Ask honestly whether their path leads to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:33", "surah": 37, "ayah": 33, "place": "makkah",
+    "title": "Leaders and followers share the same end.",
+    "subtitle": "Following does not reduce the cost",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "trap", "title": "the leaders", "sub": ["who misled"]},
+      {"box": "trap", "title": "the followers", "sub": ["who agreed"]},
+      {"conn": "both"},
+      {"box": "trap", "title": "share the punishment", "sub": ["each as he deserves"]}]},
+    "key": {"label": "Does following excuse?", "row": [
+      {"box": "people", "title": "I only followed", "sub": ["so I am off the hook"], "strike": true},
+      {"box": "idea", "title": "both answer", "sub": ["each by what he deserves"]}]},
+    "then": "Ibn Kathir says {trap}all of them will be in Hell, each according to what he deserves.{/trap} The blaming in the verses before changes nothing. Leader and follower both carry their part.",
+    "now": "A group at work cuts corners on a safety check. The manager said to; you went along. When it goes wrong, the report names you both. {idea}Going along is also a choice.{/idea}",
+    "old": "If I was only following orders, the blame is not mine.",
+    "new": "Following is a choice too, and I am responsible for mine.",
+    "try": "If you are asked to go along with something wrong today, politely say no once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:34", "surah": 37, "ayah": 34, "place": "makkah",
+    "title": "This is how We deal with those who do wrong.",
+    "subtitle": "A fixed rule, not a mood",
+    "picture": {"kind": "boxes", "label": "The rule", "row": [
+      {"box": "trap", "title": "crime", "sub": ["chosen and kept up"]},
+      {"conn": "is met by"},
+      {"box": "idea", "title": "His way", "sub": ["the same for everyone"]}]},
+    "key": {"label": "Is it random?", "row": [
+      {"box": "people", "title": "unpredictable", "sub": ["who knows what happens"], "strike": true},
+      {"box": "idea", "title": "consistent", "sub": ["that is how We deal"]}]},
+    "then": "After the scene of leaders and followers sharing the punishment, Allah states the rule: {idea}this is how We deal with criminals.{/idea} Ibn Kathir ties it to the next verse, which explains their real crime: {trap}arrogance.{/trap}",
+    "now": "You know the rules of your workplace: be late three times and you get a warning. It is not personal; it is the system. {idea}Allah's justice is consistent{/idea}, and {reward}so is His mercy to those who turn back.{/reward}",
+    "old": "Maybe I will be the exception.",
+    "new": "Allah's way is consistent, so I can rely on it: turn back and His mercy is there.",
+    "try": "Make istighfar a few times today, trusting His rule that He forgives those who ask.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:35", "surah": 37, "ayah": 35, "place": "makkah",
+    "title": "Told there is no god but Allah, they puffed up with pride.",
+    "subtitle": "The real reason they refused",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "La ilaha illallah", "sub": ["said to them"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "pride", "sub": ["too proud to say it"]}]},
+    "key": {"label": "Why they refused", "row": [
+      {"box": "people", "title": "lack of proof", "sub": ["it was not clear"], "strike": true},
+      {"box": "trap", "title": "pride", "sub": ["too big to bow"]}]},
+    "then": "Ibn Kathir says that in this world {trap}they were too arrogant to say these words{/trap} as the believers said them. The problem was not the words. {trap}It was what saying them would cost their pride.{/trap}",
+    "now": "Sometimes you know you are wrong in an argument, but saying \"you are right\" feels impossible. {trap}Pride locks your mouth.{/trap} {idea}La ilaha illallah is the biggest \"You are right\" there is.{/idea}",
+    "old": "I would accept the truth if it were clear enough.",
+    "new": "Often what stops me is not doubt but pride.",
+    "try": "Say La ilaha illallah slowly ten times today, meaning it as a bow of the heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:36", "surah": 37, "ayah": 36, "place": "makkah",
+    "title": "Leave our gods for a mad poet? they said.",
+    "subtitle": "Insulting the messenger to keep the habit",
+    "picture": {"kind": "boxes", "label": "Their excuse", "row": [
+      {"box": "people", "title": "our gods", "sub": ["and our forefathers' gods"]},
+      {"conn": "leave them for"},
+      {"box": "trap", "title": "\"a mad poet\"", "sub": ["their name for the Prophet ﷺ"], "strike": true}]},
+    "key": {"label": "What they protected", "row": [
+      {"box": "trap", "title": "attack the messenger", "sub": ["so the message can be ignored"], "strike": true},
+      {"box": "idea", "title": "weigh the message", "sub": ["whoever brings it"]}]},
+    "then": "Ibn Kathir explains their words: {trap}shall we stop worshipping our gods and our forefathers' gods{/trap} because of this mad poet? They meant the Messenger of Allah ﷺ. Insulting him was easier than leaving their tradition.",
+    "now": "Someone gives you good advice and you think: who is he to tell me, he is younger than me, he is not even that religious. {trap}You go after the speaker to avoid the message.{/trap}",
+    "old": "If I can find a fault in the person, I can ignore what they said.",
+    "new": "The truth stays true whoever says it, so I listen to the message.",
+    "try": "Think of one piece of advice you dismissed because of who said it. Reconsider it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:37", "surah": 37, "ayah": 37, "place": "makkah",
+    "title": "No. He brought the truth and confirmed the messengers.",
+    "subtitle": "Allah's reply to the insult",
+    "picture": {"kind": "boxes", "label": "The reply", "row": [
+      {"box": "trap", "title": "\"mad poet\"", "sub": ["their claim"], "strike": true},
+      {"conn": "rather"},
+      {"box": "idea", "title": "brought the truth", "sub": ["stories and commands"]},
+      {"box": "reward", "title": "confirmed the messengers", "sub": ["fulfilled their prophecies"]}]},
+    "key": {"label": "Something new?", "row": [
+      {"box": "people", "title": "a strange new idea", "sub": ["never heard before"], "strike": true},
+      {"box": "idea", "title": "the same message", "sub": ["every messenger brought"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ {idea}brought the truth{/idea}, and confirmed the earlier messengers by {reward}fulfilling their prophecies{/reward} about him. He links it to 41:43: nothing is said to you except what was said to the messengers before you.",
+    "now": "When you feel your faith is old-fashioned or out of step, remember: {idea}it is the oldest message there is{/idea}, carried by Ibrahim, Musa, Isa and finally Muhammad ﷺ. You are part of a long line.",
+    "old": "My faith is just one opinion among many.",
+    "new": "I carry the same truth every messenger brought; it is not new and not strange.",
+    "try": "Read the story of one earlier prophet in the Quran this week and notice the shared message.",
+    "related": ["41:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:38", "surah": 37, "ayah": 38, "place": "makkah",
+    "title": "You will taste a painful punishment.",
+    "subtitle": "The warning said directly to the deniers",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "trap", "title": "pride and denial", "sub": ["the verses before"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "painful punishment", "sub": ["tasted"]}]},
+    "key": {"label": "Who it addresses", "row": [
+      {"box": "people", "title": "only other people", "sub": ["not me"], "strike": true},
+      {"box": "idea", "title": "a warning to listen to", "sub": ["while I still can"]}]},
+    "then": "Ibn Kathir says Allah is {trap}addressing the people{/trap} directly here. It comes right after the Quraysh called the Prophet ﷺ a mad poet. Then an exception follows for His sincere servants.",
+    "now": "You hear a warning in a talk and immediately think of someone else who needs it. {idea}The verse is speaking to whoever hears it{/idea}, which right now is you. {reward}And the next verses open a door.{/reward}",
+    "old": "Warnings like this are for really bad people.",
+    "new": "Every warning is for me to check myself, and there is a way out.",
+    "try": "When you hear a warning today, apply it to yourself before anyone else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:39", "surah": 37, "ayah": 39, "place": "makkah",
+    "title": "Repaid only for what you used to do.",
+    "subtitle": "Nothing added, nothing invented",
+    "picture": {"kind": "boxes", "label": "The measure", "row": [
+      {"box": "people", "title": "your deeds", "sub": ["what you used to do"]},
+      {"conn": "equals"},
+      {"box": "idea", "title": "your repayment", "sub": ["nothing else"]}]},
+    "key": {"label": "Is it fair?", "row": [
+      {"box": "trap", "title": "it is excessive", "sub": ["too much for what I did"], "strike": true},
+      {"box": "idea", "title": "it is exact", "sub": ["only what you did"]}]},
+    "then": "Ibn Kathir quotes it together with the verse before: {idea}you will be requited nothing except for what you used to do.{/idea} The same rule appeared in Ya-Sin (36:54). No one is punished for what they did not do.",
+    "now": "You keep a running list of others' faults but go easy on your own. {idea}The scale only weighs your own deeds{/idea}, not your cousin's or your coworker's. That is where your attention belongs.",
+    "old": "I am not as bad as a lot of people.",
+    "new": "I will be weighed on my own deeds, not compared with others.",
+    "try": "Tonight, list one thing you did well and one to fix tomorrow. Only about yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:40", "surah": 37, "ayah": 40, "place": "makkah",
+    "title": "Except Allah's sincere servants.",
+    "subtitle": "The exception that changes everything",
+    "picture": {"kind": "boxes", "label": "The exception", "row": [
+      {"box": "trap", "title": "the punishment", "sub": ["for the deniers"]},
+      {"conn": "except"},
+      {"box": "reward", "title": "sincere servants", "sub": ["made pure for Allah"]},
+      {"box": "reward", "title": "good deeds", "sub": ["multiplied 10 to 700 times"]}]},
+    "key": {"label": "What sincerity means", "row": [
+      {"box": "people", "title": "perfect record", "sub": ["never slipped"], "strike": true},
+      {"box": "reward", "title": "devoted to Allah", "sub": ["faults overlooked, deeds multiplied"]}]},
+    "then": "Ibn Kathir compares this to Surah Al-Asr: man is in loss {reward}except those who believe and do good{/reward}. For the sincere, {reward}their evil acts, if any, are overlooked{/reward}, and each good deed is multiplied ten to seven hundred times.",
+    "now": "You worry you are not good enough: you miss prayers, you lose your temper. {reward}The exception is not for the flawless.{/reward} It is for those whose hearts belong to Allah and keep coming back.",
+    "old": "Only perfect people are saved.",
+    "new": "Sincerity is what Allah looks for, and He overlooks much for the sincere.",
+    "try": "Do one deed today purely for Allah, and tell no one about it.",
+    "related": ["103:1", "95:4", "74:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:41", "surah": 37, "ayah": 41, "place": "makkah",
+    "title": "For them, a known provision.",
+    "subtitle": "Provision that is certain, not hoped for",
+    "picture": {"kind": "boxes", "label": "Their provision", "row": [
+      {"box": "people", "title": "the sincere", "sub": ["Allah's servants"]},
+      {"conn": "have"},
+      {"box": "reward", "title": "known provision", "sub": ["Paradise"]}]},
+    "key": {"label": "What provision feels like", "row": [
+      {"box": "trap", "title": "uncertain", "sub": ["will there be enough?"], "strike": true},
+      {"box": "reward", "title": "known", "sub": ["set, sure, waiting"]}]},
+    "then": "Qatadah and As-Suddi said {reward}this means Paradise.{/reward} Ibn Kathir says the next verse explains it further. For people in Makkah who were often short of food and safety, a provision that was {reward}known and certain{/reward} meant a great deal.",
+    "now": "Payday is three days away and the account is almost empty. You do the maths again and again. {reward}The provision promised to the sincere is fixed, already known.{/reward} No maths needed.",
+    "old": "Provision is always uncertain; I never know if there will be enough.",
+    "new": "The provision that matters most is already set aside for the sincere.",
+    "try": "When you worry about money today, say: my provision is with Allah. Then do one sensible thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:42", "surah": 37, "ayah": 42, "place": "makkah",
+    "title": "Fruits, and they are honoured.",
+    "subtitle": "Gifts given with respect",
+    "picture": {"kind": "boxes", "label": "What they receive", "row": [
+      {"box": "reward", "title": "fruits", "sub": ["of different kinds"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "honour", "sub": ["served, living in luxury"]}]},
+    "key": {"label": "How it is given", "row": [
+      {"box": "people", "title": "handed out", "sub": ["like charity"], "strike": true},
+      {"box": "reward", "title": "served with honour", "sub": ["as honoured guests"]}]},
+    "then": "Ibn Kathir says the fruits are {reward}of different kinds{/reward}, and honoured means {reward}they will be served{/reward} and live in luxury. Many early believers in Makkah were poor or enslaved, treated with no respect at all.",
+    "now": "You do a thankless job: cleaning, caring for a parent, working nights in a hospital. Nobody serves you; you serve everyone. {reward}There is a place where you will be the honoured guest.{/reward}",
+    "old": "People like me are never the ones who get honoured.",
+    "new": "Allah has honour waiting for His sincere servants, however unseen they are now.",
+    "try": "Honour one person today who is usually overlooked: thank them by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:43", "surah": 37, "ayah": 43, "place": "makkah",
+    "title": "In gardens of pleasure.",
+    "subtitle": "Where the sincere finally live",
+    "picture": {"kind": "boxes", "label": "The place", "row": [
+      {"box": "people", "title": "the sincere", "sub": ["after a hard life"]},
+      {"conn": "settle in"},
+      {"box": "reward", "title": "Gardens of Delight", "sub": ["Jannat an-Naim"]}]},
+    "key": {"label": "What you are working toward", "row": [
+      {"box": "people", "title": "a comfortable life here", "sub": ["the final goal"], "strike": true},
+      {"box": "reward", "title": "gardens of delight", "sub": ["the real home"]}]},
+    "then": "Ibn Kathir reads this with the next verse: {reward}in the Gardens of Delight, facing one another on thrones.{/reward} For people in a dry, rocky valley, gardens were the clearest picture of a good life.",
+    "now": "You scroll through photos of holiday villas and dream houses. You save for a better flat. {reward}The home being described here is better than every picture on your screen{/reward}, and it lasts.",
+    "old": "A nicer home here would finally make me content.",
+    "new": "My real home is the Gardens of Delight; here I am only passing through.",
+    "try": "Make dua today, by name, for Jannat an-Naim for yourself and your family.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:44", "surah": 37, "ayah": 44, "place": "makkah",
+    "title": "On thrones, facing one another.",
+    "subtitle": "No one turns their back on anyone",
+    "picture": {"kind": "boxes", "label": "The seating", "row": [
+      {"box": "people", "title": "the believers", "sub": ["on thrones"]},
+      {"conn": "face"},
+      {"box": "people", "title": "one another", "sub": ["never seeing backs"]}]},
+    "key": {"label": "How people sit", "row": [
+      {"box": "trap", "title": "backs turned", "sub": ["grudges, cold shoulders"], "strike": true},
+      {"box": "reward", "title": "face to face", "sub": ["open, warm"]}]},
+    "then": "Mujahid said: {reward}one of them will not look at another's back.{/reward} Everyone sits facing each other. There are no cold shoulders and no one left out of the circle.",
+    "now": "Two brothers who have not spoken for a year sit at the same family dinner, turned away from each other. {trap}A turned back says everything.{/trap} {reward}In Paradise, nobody's back is turned.{/reward}",
+    "old": "Some people I just will not face again.",
+    "new": "Paradise is face to face, so I can start mending things here.",
+    "try": "Send a short, kind message to someone you have been giving the cold shoulder.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:45", "surah": 37, "ayah": 45, "place": "makkah",
+    "title": "A cup passed around from a flowing spring.",
+    "subtitle": "A drink that never runs out",
+    "picture": {"kind": "boxes", "label": "The drink", "row": [
+      {"box": "reward", "title": "a cup", "sub": ["passed around them"]},
+      {"conn": "from"},
+      {"box": "reward", "title": "a flowing spring", "sub": ["never cut off"]}]},
+    "key": {"label": "Will it run out?", "row": [
+      {"box": "trap", "title": "last orders", "sub": ["it always ends"], "strike": true},
+      {"box": "reward", "title": "a flowing stream", "sub": ["no fear of it stopping"]}]},
+    "then": "Ibn Kathir says Allah {reward}refined the drink of Paradise{/reward} from the harms of this world's wine. It comes from {reward}a flowing stream they do not fear will ever cease.{/reward} The next verses describe its purity.",
+    "now": "Every good thing here has an end: the holiday, the weekend, the last slice, the visit. You start missing it before it is over. {reward}There, the good things flow and do not stop.{/reward}",
+    "old": "Every good thing has to end.",
+    "new": "In Paradise, the good things keep flowing with no end.",
+    "try": "Enjoy one simple drink today slowly, and thank Allah for it.",
+    "related": ["56:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

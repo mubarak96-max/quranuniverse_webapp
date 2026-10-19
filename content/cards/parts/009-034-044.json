@@ -1,0 +1,226 @@
+[
+  {
+    "id": "9:34", "surah": 9, "ayah": 34, "place": "madinah",
+    "title": "Religion used as income, and wealth locked away.",
+    "subtitle": "Three kinds of leaders, and how they go wrong",
+    "picture": {"kind": "boxes", "label": "Who people rely on", "row": [
+      {"box": "people", "title": "scholars", "sub": ["teach the law"]},
+      {"box": "people", "title": "worshippers", "sub": ["set the example"]},
+      {"box": "people", "title": "the wealthy", "sub": ["hold the means"]},
+      {"conn": "when corrupt"},
+      {"box": "trap", "title": "society corrupts", "sub": ["all three together"]}]},
+    "key": {"label": "Who the warning is for", "row": [
+      {"box": "trap", "title": "only other people", "sub": [], "strike": true},
+      {"box": "idea", "title": "us as well", "sub": ["Sufyan's warning"]}]},
+    "then": "The verse describes religious figures at the time who {trap}used their position to take people's wealth unjustly{/trap} and turned them from Allah's way, and those who hoarded gold and silver without spending in His cause. Sufyan bin Uyaynah drew the lesson inward: {idea}when our own scholars and worshippers go wrong, they become like them.{/idea}",
+    "now": "You lead a halaqa, run a charity page, or are the one at work people ask about deen. {trap}It is easy to let a little status or money ride on it.{/trap} And the savings sitting untouched while a relative struggles: {idea}whose is it, really?{/idea}",
+    "old": "This warning is about corrupt people somewhere else.",
+    "new": "Anyone with knowledge, piety or money can misuse it, including me.",
+    "try": "Check that the zakah or sadaqah you owe on your savings has gone where it should.",
+    "related": ["5:63", "9:103"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:35", "surah": 9, "ayah": 35, "place": "madinah",
+    "title": "What you held onto becomes what you carry.",
+    "subtitle": "The hoarded wealth returns on the Day",
+    "picture": {"kind": "boxes", "label": "The turn", "row": [
+      {"box": "reward", "title": "kept for yourself", "sub": ["never spent for Allah"]},
+      {"conn": "on the Day"},
+      {"box": "trap", "title": "it turns on you", "sub": ["this is what you hoarded"]}]},
+    "key": {"label": "What the money was", "row": [
+      {"box": "reward", "title": "my safety", "sub": [], "strike": true},
+      {"box": "idea", "title": "a trust to spend", "sub": ["or a weight to carry"]}]},
+    "then": "The verse describes the Day when that hoarded gold and silver {trap}is brought back against its owners{/trap}, with the words: {trap}this is what you stored up for yourselves.{/trap} Ibn Kathir notes a saying: whoever prefers a thing over obeying Allah is punished by that very thing.",
+    "now": "The extra account you never mention, the cash you keep \"just in case\" while your sister cannot pay rent. {idea}What you clutch hardest can become the heaviest thing you bring.{/idea} Spending some of it now is the way out.",
+    "old": "The more I keep, the safer I am.",
+    "new": "Wealth I never use for Allah can turn from safety into burden.",
+    "try": "Give something today from money you have been holding onto for no clear reason.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:36", "surah": 9, "ayah": 36, "place": "madinah",
+    "title": "Twelve months, four sacred: do not wrong yourselves in them.",
+    "subtitle": "Some times carry more weight",
+    "picture": {"kind": "boxes", "label": "The calendar of Allah", "row": [
+      {"box": "plain", "title": "12", "sub": ["months since creation"], "num": true},
+      {"conn": "of which"},
+      {"box": "idea", "title": "4", "sub": ["Dhul-Qa'dah, Dhul-Hijjah", "Muharram, Rajab"], "num": true},
+      {"conn": "so"},
+      {"box": "trap", "title": "do not wrong yourselves", "sub": ["sin weighs more then"]}]},
+    "key": {"label": "Are all days the same?", "row": [
+      {"box": "trap", "title": "a day is a day", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah chose some", "sub": ["honor what He honored"]}]},
+    "then": "In his Farewell Hajj the Prophet ﷺ said time had come round to its original form: {idea}twelve months, four of them sacred{/idea}, three in a row and Rajab alone. Qatadah said wrongdoing is always wrong, but {trap}heavier in the sacred months{/trap}, and Allah has chosen some times above others.",
+    "now": "Muharram comes, or Dhul-Hijjah, and your phone calendar treats it like any other month. {idea}Mark it.{/idea} Hold your tongue more, give a little more, avoid the argument. These months are a season Allah chose.",
+    "old": "Every month is the same as any other.",
+    "new": "Allah gave some months extra weight. I can live them with extra care.",
+    "try": "Put the four sacred months in your phone calendar, with one goal for each.",
+    "related": ["22:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:37", "surah": 9, "ayah": 37, "place": "madinah",
+    "title": "Moving the sacred month to fit their plans.",
+    "subtitle": "Keeping the count, breaking the meaning",
+    "picture": {"kind": "boxes", "label": "The trick before Islam", "row": [
+      {"box": "people", "title": "Abu Thumamah", "sub": ["of Kinanah, at each Hajj"]},
+      {"conn": "announced"},
+      {"box": "trap", "title": "Muharram is moved", "sub": ["Safar is sacred instead"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "still four months", "sub": ["but the wrong ones"]}]},
+    "key": {"label": "What they kept and lost", "row": [
+      {"box": "plain", "title": "the number", "sub": ["four, on paper"], "strike": true},
+      {"box": "trap", "title": "the meaning", "sub": ["Allah's rule bent to desire"]}]},
+    "then": "Before Islam, some Arabs found three sacred months in a row too long to go without raiding. A man of Kinanah would announce at Hajj that {trap}Muharram was moved to Safar{/trap} that year. They kept the count at four, but {trap}made lawful what Allah had made sacred{/trap}, and their evil deeds were made to seem fine to them.",
+    "now": "\"I'll fast a different day, this week is busy.\" \"I'll pray all of them together at night.\" Small shuffles that keep the look of obedience. {idea}Notice when you rearrange Allah's limits to fit your schedule.{/idea}",
+    "old": "As long as the total adds up, the timing does not matter.",
+    "new": "Bending Allah's rules to fit my plans is not keeping them.",
+    "try": "Pray the next prayer on time, even if it means moving something else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:38", "surah": 9, "ayah": 38, "place": "madinah",
+    "title": "Clinging heavily to the ground when called to rise.",
+    "subtitle": "Shade and ripe fruit versus the call",
+    "picture": {"kind": "boxes", "label": "Before Tabuk", "row": [
+      {"box": "reward", "title": "ripe fruit, shade", "sub": ["harvest time"]},
+      {"box": "trap", "title": "terrible heat", "sub": ["a long road north"]},
+      {"conn": "so some"},
+      {"box": "trap", "title": "felt heavy", "sub": ["clung to the earth"]}]},
+    "key": {"label": "A finger in the sea", "row": [
+      {"box": "trap", "title": "this life is a lot", "sub": [], "strike": true},
+      {"box": "idea", "title": "a drop on a finger", "sub": ["compared to the sea"]}]},
+    "then": "The call to march to Tabuk came {trap}when fruit was ripe, shade was tempting and the heat was intense.{/trap} Some believers felt heavy and stayed. The Prophet ﷺ compared this world to the next as {idea}a finger dipped in the sea: see what it brings back.{/idea}",
+    "now": "The alarm for Fajr on a cold morning. The call to visit a sick friend on your one free evening. {trap}You feel that heaviness pulling you down into the sofa.{/trap} {idea}Look at your finger, then at the sea.{/idea}",
+    "old": "Comfort now is worth more than something I cannot see.",
+    "new": "This world next to the next is a drop on my finger next to the ocean.",
+    "try": "The next time you feel that heaviness before a good deed, get up within ten seconds.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:39", "surah": 9, "ayah": 39, "place": "madinah",
+    "title": "Allah does not need you. You need to be part of it.",
+    "subtitle": "Replaceable, and still invited",
+    "picture": {"kind": "boxes", "label": "If you hang back", "row": [
+      {"box": "people", "title": "you stay behind", "sub": []},
+      {"conn": "then"},
+      {"box": "people", "title": "another people", "sub": ["Allah brings in your place"]},
+      {"box": "idea", "title": "Allah unharmed", "sub": ["able over all things"]}]},
+    "key": {"label": "Who loses", "row": [
+      {"box": "trap", "title": "the cause loses me", "sub": [], "strike": true},
+      {"box": "trap", "title": "I lose the cause", "sub": ["it goes on without me"]}]},
+    "then": "Those hanging back from Tabuk were warned of a painful punishment, and that {idea}Allah would replace them with another people{/idea} who would support His Prophet ﷺ. {idea}You will not harm Him at all.{/idea} Ibn Kathir cites a similar verse: they will not be like you.",
+    "now": "You drop out of the masjid volunteer team, the family support rota, the Quran circle. It carries on fine without you. {trap}The loss is yours, not theirs.{/trap} The good work was always going to be done.",
+    "old": "If I step back, things will fall apart without me.",
+    "new": "Allah's work goes on regardless. The honor of being part of it is what I lose.",
+    "try": "Rejoin one good effort you quietly dropped out of.",
+    "related": ["47:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:40", "surah": 9, "ayah": 40, "place": "madinah",
+    "title": "Do not grieve. Allah is with us.",
+    "subtitle": "Two in a cave, and Allah the third",
+    "picture": {"kind": "boxes", "label": "The cave of Thawr", "row": [
+      {"box": "people", "title": "two men", "sub": ["the Prophet ﷺ and Abu Bakr"]},
+      {"box": "trap", "title": "pursuers outside", "sub": ["at the cave's mouth"]},
+      {"conn": "yet"},
+      {"box": "reward", "title": "Allah the third", "sub": ["calm sent down"]}]},
+    "key": {"label": "How many were in the cave", "row": [
+      {"box": "plain", "title": "2", "sub": ["alone and hunted"], "num": true, "strike": true},
+      {"box": "idea", "title": "Allah with them", "sub": ["what do you think of two?"]}]},
+    "then": "When Makkah drove him out, the Prophet ﷺ hid with Abu Bakr in the cave of Thawr for three days. Abu Bakr whispered that if one of the pursuers looked at his feet, he would see them. The Prophet ﷺ said: {reward}what do you think of two when Allah is their third?{/reward} {idea}Do not grieve, Allah is with us.{/idea}",
+    "now": "The hospital corridor at 3am. The night before the court date. The message you are dreading to open. {reward}You are not two, or one. Allah is with you.{/reward} Say the words the Prophet ﷺ said in that cave.",
+    "old": "When I am cornered, I am on my own.",
+    "new": "In the tightest place, Allah is with me, and that changes everything.",
+    "try": "In your next frightening moment, say quietly: la tahzan, inna Allaha ma'ana.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:41", "surah": 9, "ayah": 41, "place": "madinah",
+    "title": "Go forth, light or heavy.",
+    "subtitle": "Answering the call in any condition",
+    "picture": {"kind": "boxes", "label": "Light or heavy", "row": [
+      {"box": "people", "title": "light", "sub": ["young, eager, free"]},
+      {"box": "people", "title": "heavy", "sub": ["old, busy, burdened"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "go forth", "sub": ["with wealth and self"]},
+      {"box": "reward", "title": "better for you", "sub": ["if you knew"]}]},
+    "key": {"label": "When is the right condition", "row": [
+      {"box": "trap", "title": "when I feel ready", "sub": [], "strike": true},
+      {"box": "idea", "title": "light or heavy", "sub": ["the state you are in now"]}]},
+    "then": "This call came for Tabuk, asking for everyone to march. The elderly Abu Talhah, reading it years later, told his sons: {idea}Allah has called us old or young{/idea}, and set out once more. Ibn Kathir also notes the later verse that lifted blame from {reward}the weak, the ill and those with nothing to spend.{/reward}",
+    "now": "You are waiting to feel motivated before you start memorizing, or to have more money before you give, or less stress before you help. {idea}Go as you are, light or heavy.{/idea} The mood follows the step.",
+    "old": "I will do good when I am in the right state for it.",
+    "new": "I go in whatever state I am in. That is what the call asks.",
+    "try": "Start one good deed today in the mood you are in, without waiting to feel ready.",
+    "related": ["9:91", "2:216"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:42", "surah": 9, "ayah": 42, "place": "madinah",
+    "title": "If it were quick and easy, they would have come.",
+    "subtitle": "Excuses sworn by Allah",
+    "picture": {"kind": "boxes", "label": "What decided it", "row": [
+      {"box": "reward", "title": "easy gain, short trip", "sub": ["they would follow"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "long road to Sham", "sub": ["too far"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "we could not", "sub": ["sworn by Allah"]}]},
+    "key": {"label": "What the oath hid", "row": [
+      {"box": "people", "title": "we were unable", "sub": [], "strike": true},
+      {"box": "trap", "title": "we were unwilling", "sub": ["Allah knows they lied"]}]},
+    "then": "Ibn Kathir says this addressed the hypocrites who stayed behind from Tabuk. {trap}Had it been nearby gain and a short journey, they would have come.{/trap} But the road to Syria was long. On his return they would swear: {trap}if we could, we would have gone.{/trap} Allah knew they were lying.",
+    "now": "The charity event is two hours away, so you suddenly have a headache. The study circle is on a rainy night, so you are \"swamped.\" {idea}Be honest with yourself about the difference between cannot and will not.{/idea}",
+    "old": "I would have helped, I just could not this time.",
+    "new": "Many of my can'ts are won'ts. Allah knows which is which.",
+    "try": "The next time you give an excuse, ask yourself honestly if it would stand if the task were easy.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:43", "surah": 9, "ayah": 43, "place": "madinah",
+    "title": "Allah pardoned him before He asked him why.",
+    "subtitle": "The gentlest correction in the Quran",
+    "picture": {"kind": "boxes", "label": "The order of the words", "row": [
+      {"box": "reward", "title": "Allah pardon you", "sub": ["comes first"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "why did you permit?", "sub": ["the question"]},
+      {"conn": "so"},
+      {"box": "people", "title": "truth seen", "sub": ["truthful from liars"]}]},
+    "key": {"label": "How to correct someone", "row": [
+      {"box": "trap", "title": "blame first", "sub": [], "strike": true},
+      {"box": "reward", "title": "kindness first", "sub": ["then the point"]}]},
+    "then": "When the hypocrites asked to stay home, the Prophet ﷺ gave them permission. This verse gently questioned it: had he waited, the truthful and the liars would have been clear. Awn said: {reward}have you heard a softer rebuke, beginning with forgiveness before blame?{/reward}",
+    "now": "Your child broke something. Your colleague made an error in the report. Before the \"why did you...\", {reward}start with warmth{/reward}: \"It's alright, may Allah make it easy.\" {idea}Then make your point.{/idea}",
+    "old": "To correct someone, I have to start with what they did wrong.",
+    "new": "Even Allah's correction began with pardon. Mine can start with kindness.",
+    "try": "The next time you need to correct someone today, open with a kind word first.",
+    "related": ["24:62"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:44", "surah": 9, "ayah": 44, "place": "madinah",
+    "title": "Those who believe do not look for the way out.",
+    "subtitle": "Faith runs toward the hard thing",
+    "picture": {"kind": "boxes", "label": "Two responses to the call", "row": [
+      {"box": "trap", "title": "may I be excused?", "sub": ["looking for exemption"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "already packing", "sub": ["it is worship to them"]}]},
+    "key": {"label": "What the first question shows", "row": [
+      {"box": "trap", "title": "how do I get out", "sub": [], "strike": true},
+      {"box": "idea", "title": "how do I take part", "sub": ["Allah knows the muttaqin"]}]},
+    "then": "Ibn Kathir explains that believers in Allah and the Last Day {idea}did not ask leave to stay behind{/idea} from striving with their wealth and lives, {idea}because they saw it as worship{/idea}. When the call came, they hurried to it. Allah knows those who are mindful of Him.",
+    "now": "A relative needs a carer this month. The masjid needs someone to clean on Saturday. Your first thought shows a lot: {trap}\"who else can do it?\"{/trap} or {idea}\"when do they need me?\"{/idea}",
+    "old": "My first move with a hard task is to see if I can get out of it.",
+    "new": "Faith makes my first question how I can help, not how I can escape.",
+    "try": "Say yes today to one request you would normally try to dodge.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "palettes": {
+    "royal": {
+      "bg": "#f7f7f3",
+      "page": "#ffffff",
+      "fg": "#15171f",
+      "muted": "#646b78",
+      "line": "#e6e8ee",
+      "soft": "#f4f5f9",
+      "idea": "#4f52d9",
+      "trap": "#d6453a",
+      "reward": "#b7791f",
+      "good": "#0ea5e9",
+      "people": "#6b7280",
+      "ideaBg": "#eef0fb",
+      "trapBg": "#fdeeec",
+      "rewardBg": "#fbf3e3",
+      "peopleBg": "#f1f2f4",
+      "rewardSoft": "#f3e4c4",
+      "old": "#7a4f32",
+      "new": "#a21caf"
+    },
+    "plum": {
+      "bg": "#f8f6fa",
+      "page": "#ffffff",
+      "fg": "#15171f",
+      "muted": "#646b78",
+      "line": "#e6e8ee",
+      "soft": "#f4f5f9",
+      "idea": "#6d28d9",
+      "trap": "#dc2626",
+      "reward": "#c2410c",
+      "good": "#ec4899",
+      "people": "#6b7280",
+      "ideaBg": "#f1eafc",
+      "trapBg": "#fdecec",
+      "rewardBg": "#fdefe4",
+      "peopleBg": "#f1f2f4",
+      "rewardSoft": "#f6dcc8",
+      "old": "#7a4f32",
+      "new": "#1d4ed8"
+    },
+    "navy": {
+      "bg": "#f7f5f0",
+      "page": "#ffffff",
+      "fg": "#15171f",
+      "muted": "#646b78",
+      "line": "#e6e8ee",
+      "soft": "#f4f5f9",
+      "idea": "#1e3a8a",
+      "trap": "#b91c1c",
+      "reward": "#a16207",
+      "good": "#2563eb",
+      "people": "#6b7280",
+      "ideaBg": "#e9edf8",
+      "trapBg": "#fbeaea",
+      "rewardBg": "#faf2dc",
+      "peopleBg": "#f1f2f4",
+      "rewardSoft": "#f0e2b8",
+      "old": "#7a4f32",
+      "new": "#a21caf"
+    }
+  },
+  "default": "royal",
+  "fonts": {
+    "ui": "Inter",
+    "display": "Newsreader",
+    "mono": "JetBrains Mono"
+  },
+  "roles": {
+    "idea": "the mechanism the verse teaches",
+    "trap": "the wrong view or threat",
+    "reward": "what is gained",
+    "good": "good outcome (drawn pictures only)",
+    "people": "the reader and other people",
+    "old": "how I saw it (struck line)",
+    "new": "how the verse shows it (bold line)"
+  }
+}

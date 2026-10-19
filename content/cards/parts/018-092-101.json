@@ -1,0 +1,204 @@
+[
+  {
+    "id": "18:92", "surah": 18, "ayah": 92, "place": "makkah",
+    "title": "Then he followed a third way.",
+    "subtitle": "West, east, and now between the mountains",
+    "picture": {"kind": "boxes", "label": "His three journeys", "row": [
+      {"box": "plain", "title": "west", "sub": ["justice"]},
+      {"box": "plain", "title": "east", "sub": ["the unsheltered"]},
+      {"conn": "then"},
+      {"box": "people", "title": "between mountains", "sub": ["a people in need"]}]},
+    "key": {"label": "What each road brought", "row": [
+      {"box": "people", "title": "more territory", "sub": ["a king's goal"], "strike": true},
+      {"box": "idea", "title": "a new test", "sub": ["a new chance to do good"]}]},
+    "then": "For the third time the verse says: then he followed a way. Ibn Kathir says he traveled from the east until he reached {idea}a place between two mountains with a valley in between{/idea}, from which Yajuj and Majuj would come to {trap}spread mischief, destroying crops and people{/trap}.",
+    "now": "Every new phase of life, a new city, a new job, a new child, is another road. {idea}Each one carries its own test and its own chance to do good.{/idea}",
+    "old": "Once I settle, the tests will stop.",
+    "new": "Every new road brings a new test, and a new chance to serve.",
+    "try": "In the newest situation you are in, name one way you can be useful to the people there.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:93", "surah": 18, "ayah": 93, "place": "makkah",
+    "title": "A people he could barely understand, still worth helping.",
+    "subtitle": "Language is no barrier to justice",
+    "picture": {"kind": "boxes", "label": "Between the mountains", "row": [
+      {"box": "people", "title": "an isolated people", "sub": ["far from others"]},
+      {"conn": "who"},
+      {"box": "plain", "title": "barely understood", "sub": ["his speech, or he theirs"]}]},
+    "key": {"label": "What he did", "row": [
+      {"box": "people", "title": "move on", "sub": ["we can't even talk"], "strike": true},
+      {"box": "idea", "title": "listen and help", "sub": ["find a way"]}]},
+    "then": "Ibn Kathir says he found a people whose speech he could not understand, {idea}because they were so isolated from other people{/idea}. Even so, they made their need known and {reward}he listened{/reward}.",
+    "now": "The new family on your street whose language you do not speak. The elderly patient at the clinic who cannot fill in the form. {idea}A barrier of language is not a barrier to kindness.{/idea}",
+    "old": "If we cannot communicate, I cannot really help.",
+    "new": "I can still listen and help across a language gap.",
+    "try": "Help one person today who struggles to communicate, with patience, a smile, or a translation app.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:94", "surah": 18, "ayah": 94, "place": "makkah",
+    "title": "They offered to pay him for a barrier.",
+    "subtitle": "A people asking for protection",
+    "picture": {"kind": "boxes", "label": "Their request", "row": [
+      {"box": "trap", "title": "Yajuj and Majuj", "sub": ["great mischief in the land"]},
+      {"conn": "so they offer"},
+      {"box": "reward", "title": "money", "sub": ["collected among themselves"]},
+      {"conn": "for"},
+      {"box": "idea", "title": "a barrier", "sub": ["between us and them"]}]},
+    "key": {"label": "What they assumed", "row": [
+      {"box": "people", "title": "help has a price", "sub": ["what they expected"]},
+      {"box": "idea", "title": "help as a duty", "sub": ["what he would show"]}]},
+    "then": "They told him Yajuj and Majuj were {trap}doing great mischief in the land{/trap}. Ibn Abbas said they wanted to {reward}collect money among themselves to give to him{/reward} so he would build a barrier.",
+    "now": "Someone asks you for help and quickly offers to pay, almost embarrassed to ask. {idea}How you respond tells them what kind of person you are.{/idea}",
+    "old": "People in need should pay for the help they get.",
+    "new": "When I have the power to help, the help itself is the good deed.",
+    "try": "Help someone today who would have offered to pay, and refuse the payment kindly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:95", "surah": 18, "ayah": 95, "place": "makkah",
+    "title": "What my Lord gave me is better. Just lend me your hands.",
+    "subtitle": "Turning down the money, asking for effort",
+    "picture": {"kind": "boxes", "label": "His answer", "row": [
+      {"box": "reward", "title": "your tribute", "sub": ["no thanks"], "strike": true},
+      {"box": "idea", "title": "my Lord's gift", "sub": ["is better"]},
+      {"conn": "but"},
+      {"box": "people", "title": "help with strength", "sub": ["your labor"]}]},
+    "key": {"label": "How the work gets done", "row": [
+      {"box": "people", "title": "I do it for you", "sub": ["you stay passive"], "strike": true},
+      {"box": "idea", "title": "we build together", "sub": ["your hands, my plan"]}]},
+    "then": "He answered {reward}with kindness, righteousness and good intentions{/reward}: the power Allah has given me is better than what you collected. Like Sulayman, who said what Allah gave me is better. But he asked them to {idea}help with your labor and equipment{/idea}.",
+    "now": "A friend in trouble wants you to fix everything and offers a gift. {idea}Refuse the gift, then invite them to work beside you.{/idea} People are lifted by building, not by being carried.",
+    "old": "Helping someone means doing it all for them.",
+    "new": "The best help asks nothing in return and invites people to build with me.",
+    "try": "Next time you help someone today, invite them to do one part with you.",
+    "related": ["27:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:96", "surah": 18, "ayah": 96, "place": "makkah",
+    "title": "Iron blocks, fire, and molten copper poured on top.",
+    "subtitle": "Building the barrier step by step",
+    "picture": {"kind": "boxes", "label": "The method", "row": [
+      {"box": "plain", "title": "iron blocks", "sub": ["stacked to the peaks"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "blow", "sub": ["heat until like fire"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "molten copper", "sub": ["poured over it"]}]},
+    "key": {"label": "How the work was done", "row": [
+      {"box": "people", "title": "a quick fix", "sub": ["patch it up"], "strike": true},
+      {"box": "idea", "title": "step by step", "sub": ["skill and effort"]}]},
+    "then": "Ibn Kathir explains he stacked iron blocks {idea}starting at the bottom, until he reached the tops of the mountains{/idea}. Then he lit a fire until it was burning hot. Ibn Abbas, Mujahid and others said the poured metal was {reward}copper{/reward}, some adding molten.",
+    "now": "Your plan to protect your family from bad habits: limits on screens, time to pray together, honest talks. {idea}One block at a time, heated and sealed. Protection is built, not wished for.{/idea}",
+    "old": "If I trust Allah, I do not need to plan carefully.",
+    "new": "Trust in Allah goes with skill, method, and hard work.",
+    "try": "Write down three concrete steps to protect one thing you care about, and do the first today.",
+    "related": ["34:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:97", "surah": 18, "ayah": 97, "place": "makkah",
+    "title": "They could not climb it, and could not dig through.",
+    "subtitle": "A barrier that held",
+    "picture": {"kind": "boxes", "label": "The barrier", "row": [
+      {"box": "trap", "title": "Yajuj and Majuj", "sub": ["trying to cross"]},
+      {"conn": "could not"},
+      {"box": "reward", "title": "scale it", "sub": ["too high"]},
+      {"box": "reward", "title": "pierce it", "sub": ["even harder"]}]},
+    "key": {"label": "What lets it hold", "row": [
+      {"box": "people", "title": "the iron", "sub": ["only the metal"], "strike": true},
+      {"box": "idea", "title": "Allah's will", "sub": ["until His promise"]}]},
+    "then": "Ibn Kathir notes the verb for digging is stronger than for climbing, {idea}reflecting the difficulty of the action{/idea}. The Prophet ﷺ once woke saying a hole had opened in the barrier, and when asked if they would be destroyed with righteous people among them, he said: {trap}yes, if evil increases{/trap}.",
+    "now": "You build good walls around your home: a routine, good company, prayer on time. {idea}Walls hold, but the Prophet ﷺ warned what happens when evil increases inside.{/idea}",
+    "old": "Once I am protected, I can stop paying attention.",
+    "new": "Protection holds while I keep the good growing and the evil small.",
+    "try": "Remove one small source of bad influence from your home or phone today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:98", "surah": 18, "ayah": 98, "place": "makkah",
+    "title": "This is a mercy from my Lord, not my achievement.",
+    "subtitle": "A builder who gave the credit away",
+    "picture": {"kind": "boxes", "label": "When the work was done", "row": [
+      {"box": "people", "title": "the barrier", "sub": ["his greatest work"]},
+      {"conn": "he called it"},
+      {"box": "reward", "title": "a mercy", "sub": ["from my Lord"]},
+      {"conn": "until"},
+      {"box": "idea", "title": "His promise", "sub": ["it will be leveled"]}]},
+    "key": {"label": "Who gets the credit", "row": [
+      {"box": "trap", "title": "look what I built", "sub": ["the garden owner's voice"], "strike": true},
+      {"box": "reward", "title": "a mercy from my Lord", "sub": ["Dhul-Qarnayn's voice"]}]},
+    "then": "After building it, he said: {reward}this is a mercy from my Lord{/reward} for the people. Yet he knew it would not last forever: when the promise comes, it will be flattened to the ground, and {idea}the promise of my Lord is ever true{/idea}.",
+    "now": "You finish the project, the house, the degree. People congratulate you. {idea}Compare the man of the two gardens with this king.{/idea} One said I, the other said my Lord.",
+    "old": "What I built is my achievement, and it will last.",
+    "new": "What I built is a mercy from Allah, and it will last only as long as He wills.",
+    "try": "When someone praises your work today, answer with: Alhamdulillah, it is from Allah.",
+    "related": ["7:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:99", "surah": 18, "ayah": 99, "place": "makkah",
+    "title": "People surging like waves, then the Horn is blown.",
+    "subtitle": "The barrier falls, the gathering begins",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "trap", "title": "the barrier breached", "sub": ["people surge like waves"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the Horn", "sub": ["blown by Israfil"]},
+      {"conn": "then"},
+      {"box": "people", "title": "all gathered", "sub": ["for the Reckoning"]}]},
+    "key": {"label": "What to say", "row": [
+      {"box": "trap", "title": "panic", "sub": ["what the news causes"], "strike": true},
+      {"box": "reward", "title": "Hasbunallah", "sub": ["Allah is enough for us"]}]},
+    "then": "Ibn Kathir says this will happen before the Day of Resurrection and after the Dajjal. The Prophet ﷺ said the angel of the Horn already has it in his mouth, waiting for the command. When asked what to say, he taught: {reward}Allah is sufficient for us, and the best Disposer of affairs{/reward}.",
+    "now": "The news feels like it is surging over you. Wars, prices, illness, headlines one after another. {idea}The Prophet ﷺ gave his companions words for this exact feeling.{/idea}",
+    "old": "When the world feels like it is falling apart, I have nowhere to stand.",
+    "new": "Allah is enough for me, and He is the best One to trust with all of it.",
+    "try": "Say Hasbunallahu wa ni'mal wakil the next time the news makes you anxious today.",
+    "related": ["21:96", "56:49", "18:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:100", "surah": 18, "ayah": 100, "place": "makkah",
+    "title": "That Day, Hell is shown openly to those who rejected.",
+    "subtitle": "What was ignored becomes visible",
+    "picture": {"kind": "boxes", "label": "On display", "row": [
+      {"box": "people", "title": "the disbelievers", "sub": ["who ignored it"]},
+      {"conn": "shown"},
+      {"box": "trap", "title": "Hell", "sub": ["plain to view"]}]},
+    "key": {"label": "When it is seen", "row": [
+      {"box": "trap", "title": "then", "sub": ["seen with the eyes"]},
+      {"box": "idea", "title": "now", "sub": ["seen through the Reminder"]}]},
+    "then": "Allah tells us He will {trap}bring it forth for them to see before they enter it{/trap}, which will intensify their distress. The Prophet ﷺ described Hell being brought forth by angels. What was warned about in words becomes {trap}plain to view{/trap}.",
+    "now": "You read the warnings in the Quran and scroll past them to the comforting verses. {idea}The warnings are shown to you now in words, so you never have to see them any other way.{/idea}",
+    "old": "I would rather not think about the Fire at all.",
+    "new": "Allah shows me the warning now so I can stay far from it.",
+    "try": "Ask Allah tonight: O Allah, protect me from the Fire, three times, with presence.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:101", "surah": 18, "ayah": 101, "place": "makkah",
+    "title": "Their eyes were covered from My reminder.",
+    "subtitle": "Turning a blind eye and a deaf ear",
+    "picture": {"kind": "boxes", "label": "Why they ended there", "row": [
+      {"box": "idea", "title": "the Reminder", "sub": ["was right there"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "eyes covered", "sub": ["neglected it"]},
+      {"box": "trap", "title": "could not bear to hear", "sub": ["refused guidance"]}]},
+    "key": {"label": "Where the covering came from", "row": [
+      {"box": "people", "title": "no one told me", "sub": ["an excuse"], "strike": true},
+      {"box": "trap", "title": "I looked away", "sub": ["again and again"]}]},
+    "then": "Ibn Kathir explains they {trap}neglected it, turning a blind eye and a deaf ear{/trap}, refusing guidance. He cites the verse that whoever turns away from the remembrance of the Most Gracious is given a devil as a companion. {idea}The covering began with their own looking away.{/idea}",
+    "now": "You keep the Quran app on the last screen of your phone, behind the games. Every time the reminder pops up, you swipe it away. {idea}Small swipes become a covering over the eyes.{/idea}",
+    "old": "I am not rejecting anything. I am just busy.",
+    "new": "Looking away again and again can harden into not seeing at all.",
+    "try": "Move your Quran app to your home screen today and open it once.",
+    "related": ["43:36", "19:82"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

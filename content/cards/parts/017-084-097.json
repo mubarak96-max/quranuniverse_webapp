@@ -1,0 +1,283 @@
+[
+  {
+    "id": "17:84", "surah": 17, "ayah": 84, "place": "makkah",
+    "title": "Each acts by his own nature. Your Lord knows who is guided.",
+    "subtitle": "Your way shows what is inside you",
+    "picture": {"kind": "boxes", "label": "Each one", "row": [
+      {"box": "people", "title": "inclinations", "sub": ["nature, intentions, religion"]},
+      {"conn": "shape"},
+      {"box": "people", "title": "deeds", "sub": []},
+      {"box": "idea", "title": "your Lord", "sub": ["knows whose path is right"]}]},
+    "key": {"label": "Who judges the path", "row": [
+      {"box": "people", "title": "I am obviously right", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah knows best", "sub": ["nothing hidden from Him"]}]},
+    "then": "Ibn 'Abbas said shakilah means {idea}his inclinations{/idea}. Mujahid said his inclinations and nature, Qatadah said his intentions, Ibn Zayd said his religion. Ibn Kathir reads it as a warning to the idolaters: {trap}everyone will be repaid for their deeds{/trap}, for nothing is hidden from Allah.",
+    "now": "Your habits tell the story of your heart. What you do when no one is watching, what you spend your evenings on. {idea}Your actions grow from what is inside.{/idea} And only Allah sees the full picture, yours and everyone else's.",
+    "old": "I can tell exactly who is right and who is wrong around me.",
+    "new": "My deeds come from what is inside me, and only Allah truly knows who is guided.",
+    "try": "Look at how you spent last evening. Ask what it says about what you love.",
+    "related": ["11:121"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:85", "surah": 17, "ayah": 85, "place": "makkah",
+    "title": "The soul belongs to my Lord's affair. Your knowledge is little.",
+    "subtitle": "Humility before the unknown",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "they ask", "sub": ["what is the soul?"]},
+      {"conn": "the answer"},
+      {"box": "idea", "title": "my Lord's affair", "sub": ["His knowledge"]},
+      {"box": "people", "title": "your share", "sub": ["only a little"]}]},
+    "key": {"label": "How much we know", "row": [
+      {"box": "people", "title": "almost everything", "sub": ["science will explain it"], "strike": true},
+      {"box": "idea", "title": "a little", "sub": ["next to His knowledge"]}]},
+    "then": "Ibn Mas'ud narrated that while walking with the Prophet ﷺ, some People of the Book asked him about the soul. He fell silent and {idea}received revelation{/idea}, then recited this verse. 'Ikrimah reported that whatever knowledge you are given {reward}is great if it saves you from the Fire{/reward}, but next to Allah's knowledge it is very little.",
+    "now": "You read articles on consciousness late at night. Brain scans, theories, podcasts. Still no one can tell you what you actually are. {idea}The verse is honest about that.{/idea} Keep learning, and stay humble about how much you know.",
+    "old": "Given enough time, humans will understand everything.",
+    "new": "Some things belong to Allah alone, and my knowledge is a small gift.",
+    "try": "Next time you learn something new, say alhamdulillah for the little knowledge you have been given.",
+    "related": ["2:269", "31:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:86", "surah": 17, "ayah": 86, "place": "makkah",
+    "title": "If He willed, He could take back what He revealed.",
+    "subtitle": "The Quran is a gift that could be withdrawn",
+    "picture": {"kind": "boxes", "label": "The gift", "row": [
+      {"box": "reward", "title": "the Quran", "sub": ["revealed to you"]},
+      {"conn": "if He willed"},
+      {"box": "trap", "title": "taken away", "sub": ["from page and heart"]},
+      {"box": "people", "title": "no protector", "sub": ["against Him"]}]},
+    "key": {"label": "How I hold it", "row": [
+      {"box": "people", "title": "always on my shelf", "sub": ["it will always be there"], "strike": true},
+      {"box": "idea", "title": "a gift to hold now", "sub": []}]},
+    "then": "Ibn Kathir says this verse reminds of the great blessing of the Quran. Ibn Mas'ud said that at the end of time {trap}a wind will come and nothing will be left in a person's mushaf or heart, not even one verse{/trap}, and he recited this verse.",
+    "now": "The mushaf on your shelf. The app on your phone. The surahs you learned as a child. {idea}You assume they will always be there.{/idea} What you have memorized and lived by is the part that stays with you.",
+    "old": "The Quran will always be there whenever I get around to it.",
+    "new": "The Quran is a gift I could lose, so I hold it close now.",
+    "try": "Review one surah you memorized as a child, so it stays fresh in your heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:87", "surah": 17, "ayah": 87, "place": "makkah",
+    "title": "It stays only as mercy, and His favor on you is great.",
+    "subtitle": "Why the Quran is still with us",
+    "picture": {"kind": "boxes", "label": "Why it remains", "row": [
+      {"box": "reward", "title": "mercy from your Lord", "sub": []},
+      {"conn": "keeps"},
+      {"box": "reward", "title": "the Quran with you", "sub": []},
+      {"box": "reward", "title": "great favor", "sub": ["on the Prophet ﷺ"]}]},
+    "key": {"label": "What keeps it here", "row": [
+      {"box": "people", "title": "our efforts", "sub": [], "strike": true},
+      {"box": "reward", "title": "His mercy", "sub": []}]},
+    "then": "Right after saying He could take it away, Allah says it remains {reward}as a mercy from your Lord{/reward}. Ibn Kathir describes the Quran as {idea}the Book falsehood cannot reach{/idea}, sent by the All-Wise, a bounty on His servant and Messenger ﷺ.",
+    "now": "You hear a child reciting at the masjid, or a voice on the radio in a taxi. {reward}Every recitation you hear is mercy still flowing.{/reward} It did not have to stay. It stays because He is kind.",
+    "old": "Having the Quran is just a normal fact of my life.",
+    "new": "That the Quran is still with me is a daily mercy.",
+    "try": "Before you read Quran today, pause and thank Allah that it is still in your hands.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:88", "surah": 17, "ayah": 88, "place": "makkah",
+    "title": "All humans and jinn together could not produce its like.",
+    "subtitle": "The open challenge",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "people", "title": "all mankind", "sub": []},
+      {"box": "people", "title": "all jinn", "sub": []},
+      {"conn": "helping each other"},
+      {"box": "trap", "title": "cannot match it", "sub": []}]},
+    "key": {"label": "Whose words", "row": [
+      {"box": "people", "title": "a human book", "sub": [], "strike": true},
+      {"box": "idea", "title": "the Creator's words", "sub": ["no equal"]}]},
+    "then": "Ibn Kathir says even if all humans and jinn came together and helped one another, {idea}they could never produce anything like it{/idea}. How could the words of created beings be like {idea}the words of the Creator, who has no equal{/idea}?",
+    "now": "You have read thousands of books, captions, articles, messages. Most you forgot in a day. {idea}This one has been recited daily for over fourteen centuries.{/idea} Next time you read it, notice it is not like anything else you read.",
+    "old": "The Quran is a great book among many great books.",
+    "new": "The Quran is the speech of Allah, and nothing written can match it.",
+    "try": "Read one short surah aloud slowly today and listen to it as Allah's own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:89", "surah": 17, "ayah": 89, "place": "makkah",
+    "title": "Every kind of example given, yet most refused.",
+    "subtitle": "When proof is not the problem",
+    "picture": {"kind": "boxes", "label": "What was given", "row": [
+      {"box": "idea", "title": "every example", "sub": ["proofs, stories, warnings"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "most refused", "sub": ["insisting on disbelief"]}]},
+    "key": {"label": "What is missing", "row": [
+      {"box": "people", "title": "more evidence", "sub": [], "strike": true},
+      {"box": "idea", "title": "a willing heart", "sub": []}]},
+    "then": "Ibn Kathir explains that Allah {idea}furnished them with evidence and definitive proof{/idea} and explained the truth in detail. Despite that, {trap}most people insisted on denying and rejecting it{/trap}.",
+    "now": "You keep saying you need one more lecture, one more book, one more sign before you change. {idea}You already have plenty.{/idea} Maybe the next step is not more information but one small act.",
+    "old": "Once I have enough proof, I will change.",
+    "new": "The proof is already here. What I need is the will to act on it.",
+    "try": "Pick one thing you already know you should do. Do it today, without waiting for more proof.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:90", "surah": 17, "ayah": 90, "place": "makkah",
+    "title": "Make a spring gush from the ground, then we will believe.",
+    "subtitle": "The list of demands begins",
+    "picture": {"kind": "boxes", "label": "Behind the Ka'bah", "row": [
+      {"box": "people", "title": "Quraysh leaders", "sub": ["gathered after sunset"]},
+      {"box": "trap", "title": "offers", "sub": ["wealth, leadership, kingship"]},
+      {"box": "idea", "title": "his answer", "sub": ["I only bring a message"]},
+      {"box": "trap", "title": "then demands", "sub": ["a spring from the ground"]}]},
+    "key": {"label": "What they wanted", "row": [
+      {"box": "trap", "title": "a deal or a show", "sub": [], "strike": true},
+      {"box": "idea", "title": "what he offered", "sub": ["good news and a warning"]}]},
+    "then": "Ibn Ishaq narrated that the leaders of Quraysh gathered behind the Ka'bah and sent for the Prophet ﷺ. He came quickly, {reward}hoping they would be guided{/reward}. They offered him wealth, leadership, even kingship. He refused all of it: {idea}Allah has sent me as a messenger, to bring good news and a warning{/idea}. Then the demands began.",
+    "now": "You tell Allah: give me the job and I will pray on time. Heal my mother and I will wear hijab. Fix my marriage, then I will start reading Quran. {trap}Faith on condition.{/trap} He is not a vending machine. He already gave you the message.",
+    "old": "If Allah gives me what I ask for, then I will commit.",
+    "new": "Faith is not a deal I make with Allah after He pays up first.",
+    "try": "Start one good habit today that you had been saving until Allah gives you something.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:91", "surah": 17, "ayah": 91, "place": "makkah",
+    "title": "Or a garden of palms and grapes with rivers flowing.",
+    "subtitle": "Asking for luxury as proof",
+    "picture": {"kind": "boxes", "label": "Their second demand", "row": [
+      {"box": "plain", "title": "palms and grapes", "sub": []},
+      {"box": "plain", "title": "rivers", "sub": ["like Syria and Iraq"]},
+      {"conn": "as proof of"},
+      {"box": "trap", "title": "prophethood", "sub": []}]},
+    "key": {"label": "What proves truth", "row": [
+      {"box": "reward", "title": "wealth and comfort", "sub": [], "strike": true},
+      {"box": "idea", "title": "the message itself", "sub": []}]},
+    "then": "They told the Prophet ﷺ their land was small and their life hard, and asked him to {trap}move the mountains away and make rivers flow like those of Syria and Iraq{/trap}. He replied: {idea}I was not sent for this{/idea}. If you accept what I brought, it is your good fortune in this world and the next.",
+    "now": "You judge whether someone's advice is worth hearing by their car, their house, their followers. {trap}A rich person must be right.{/trap} The truth does not need a garden to prove it.",
+    "old": "Success and wealth are signs that someone is on the right path.",
+    "new": "Truth stands on its own, with or without a garden around it.",
+    "try": "Listen today to someone wise who has little money, and take their advice seriously.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:92", "surah": 17, "ayah": 92, "place": "makkah",
+    "title": "Or bring the sky down on us, or bring Allah and angels.",
+    "subtitle": "Demands that dared punishment",
+    "picture": {"kind": "boxes", "label": "Escalating", "row": [
+      {"box": "trap", "title": "sky in pieces", "sub": ["on us"]},
+      {"box": "trap", "title": "Allah and angels", "sub": ["face to face"]},
+      {"conn": "his reply"},
+      {"box": "idea", "title": "that is for Allah", "sub": ["if He wills"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "the Prophet ﷺ on demand", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["if He wills"]}]},
+    "then": "When they demanded that the sky fall on them, the Prophet ﷺ said: {idea}that is for Allah to decide; if He wills, He will do it{/idea}. One of them said they would never believe until he brought Allah and the angels before them. {trap}When they said this, the Prophet ﷺ got up and left them.{/trap}",
+    "now": "Some arguments you cannot win, because the other side is not looking for an answer. {idea}The Prophet ﷺ stood up and left.{/idea} You can too, calmly, when a debate online or at dinner becomes mockery.",
+    "old": "I have to keep arguing until the other person admits I am right.",
+    "new": "When someone only wants to mock, I can walk away calmly and leave it to Allah.",
+    "try": "Next time a conversation about faith turns mocking, end it politely and make dua for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:93", "surah": 17, "ayah": 93, "place": "makkah",
+    "title": "Glory be to my Lord. Am I anything but a human messenger?",
+    "subtitle": "The humble answer to impossible demands",
+    "picture": {"kind": "boxes", "label": "Their last demands", "row": [
+      {"box": "trap", "title": "a house of gold", "sub": []},
+      {"box": "trap", "title": "climb to the sky", "sub": ["and bring a book"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "a human messenger", "sub": ["glory to my Lord"]}]},
+    "key": {"label": "What a messenger is", "row": [
+      {"box": "trap", "title": "a magician on call", "sub": [], "strike": true},
+      {"box": "idea", "title": "a human who conveys", "sub": []}]},
+    "then": "They said even if he climbed into the sky, {trap}we will not believe until you bring down a book we can read{/trap}. They also asked him for palaces of gold, so he would not need to seek provision in the markets like them. His answer begins with {idea}glory be to my Lord{/idea}, then: I am only a human sent as a messenger.",
+    "now": "People expect you to be perfect because you pray. Or you expect it of your imam, your parents, yourself. {idea}Even the best of creation said: I am a human.{/idea} He was honest about it, and still did his job fully.",
+    "old": "A person of faith should have answers and powers for everything.",
+    "new": "Being human is not a flaw in faith. Conveying the truth honestly is the job.",
+    "try": "When someone asks a question you cannot answer today, say I do not know, with no shame.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:94", "surah": 17, "ayah": 94, "place": "makkah",
+    "title": "What stopped them was: has Allah sent a human?",
+    "subtitle": "The oldest excuse",
+    "picture": {"kind": "boxes", "label": "The block", "row": [
+      {"box": "idea", "title": "guidance came", "sub": []},
+      {"conn": "but they said"},
+      {"box": "trap", "title": "only a human?", "sub": []},
+      {"box": "people", "title": "every nation", "sub": ["said the same"]}]},
+    "key": {"label": "A human messenger is", "row": [
+      {"box": "trap", "title": "a reason to doubt", "sub": [], "strike": true},
+      {"box": "reward", "title": "a mercy", "sub": ["someone you can learn from"]}]},
+    "then": "Ibn Kathir says most people {trap}found it strange that a human would be sent as a messenger{/trap}. He cites how Fir'awn's people and earlier nations said the same: you are only humans like us. But it is a mercy, he explains: {reward}a messenger of their own kind, whom they can understand and learn from directly{/reward}.",
+    "now": "You hear good advice from your little brother, a younger colleague, a convert who has been Muslim for a year. Your first thought: who are you to tell me? {trap}The messenger looked too ordinary.{/trap} Same pattern.",
+    "old": "I only take guidance from people who are clearly above me.",
+    "new": "Guidance often comes through ordinary people, and that is a mercy.",
+    "try": "Thank someone younger or less experienced than you for something useful they told you.",
+    "related": ["10:2", "64:6", "3:164"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:95", "surah": 17, "ayah": 95, "place": "makkah",
+    "title": "If angels walked the earth, an angel would be their messenger.",
+    "subtitle": "A messenger of your own kind",
+    "picture": {"kind": "boxes", "label": "The logic", "row": [
+      {"box": "people", "title": "angels on earth", "sub": []},
+      {"conn": "would get"},
+      {"box": "idea", "title": "an angel messenger", "sub": []},
+      {"box": "people", "title": "humans on earth", "sub": []},
+      {"conn": "get"},
+      {"box": "reward", "title": "a human messenger", "sub": []}]},
+    "key": {"label": "Why human", "row": [
+      {"box": "people", "title": "a lesser choice", "sub": [], "strike": true},
+      {"box": "reward", "title": "kindness", "sub": ["someone to walk beside"]}]},
+    "then": "Ibn Kathir explains that if angels lived on earth as humans do, {idea}they would have been sent an angel of their own kind{/idea}. Since you are human, Allah sent messengers from among yourselves, {reward}as a kindness and a mercy{/reward}, so they could be spoken to face to face.",
+    "now": "Quraysh mocked the Prophet ﷺ for walking in the markets seeking provision like everyone else. {reward}That is exactly why you can follow him.{/reward} An angel could not show you how to be patient with a crying baby or a hard boss.",
+    "old": "The Prophet ﷺ was so far above us that I cannot really follow him.",
+    "new": "He was sent as a human so I could follow him in my own human life.",
+    "try": "Learn one small thing the Prophet ﷺ did at home, and do it today.",
+    "related": ["9:128", "2:151"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:96", "surah": 17, "ayah": 96, "place": "makkah",
+    "title": "Allah is enough as a witness between me and you.",
+    "subtitle": "When you have said what you can",
+    "picture": {"kind": "boxes", "label": "The final word", "row": [
+      {"box": "people", "title": "me", "sub": ["the messenger"]},
+      {"box": "people", "title": "you", "sub": ["who reject"]},
+      {"conn": "between us"},
+      {"box": "idea", "title": "Allah", "sub": ["witness, aware, seeing"]}]},
+    "key": {"label": "Who must settle it", "row": [
+      {"box": "people", "title": "I must win the debate", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah is witness", "sub": []}]},
+    "then": "After all the demands, the Prophet ﷺ is told to end with this. Ibn Kathir explains: {idea}Allah is a witness over me and over you. He knows what I have brought.{/idea} If I were lying, He would deal with me. He knows {idea}who deserves guidance{/idea}.",
+    "now": "Your relatives misread your intentions. Your manager does not believe your side. You have explained three times. {idea}At some point, you can stop.{/idea} Allah saw what happened. That is enough.",
+    "old": "If people do not believe me, I have to keep proving myself.",
+    "new": "When I have spoken the truth, Allah is enough as my witness.",
+    "try": "Think of one misunderstanding you cannot fix. Say: Allah is enough as a witness, and let it rest.",
+    "related": ["69:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:97", "surah": 17, "ayah": 97, "place": "makkah",
+    "title": "Whom Allah guides is truly guided.",
+    "subtitle": "Guidance is in His hands, so ask Him for it",
+    "picture": {"kind": "boxes", "label": "Two ends", "row": [
+      {"box": "reward", "title": "guided by Allah", "sub": ["truly guided"]},
+      {"box": "trap", "title": "left astray", "sub": ["no helper but Him"]},
+      {"conn": "on the Day"},
+      {"box": "trap", "title": "blind, mute, deaf", "sub": ["as they were to truth"]}]},
+    "key": {"label": "What we lose", "row": [
+      {"box": "people", "title": "senses we ignored", "sub": ["blind to truth here"]},
+      {"box": "trap", "title": "senses gone", "sub": ["when most needed"]}]},
+    "then": "Ibn Kathir says {idea}whomever Allah guides cannot be led astray{/idea}. Those who ignored the truth will be gathered blind, mute and deaf, {trap}as they were to the truth in this world{/trap}, at the moment they need those senses most. The Prophet ﷺ said the One who made them walk on their feet can make them walk on their faces.",
+    "now": "Your eyes, your ears, your tongue. You use them all day for the screen, the gossip, the playlist. {idea}They were given to find the truth.{/idea} Using them for that now is how you keep them.",
+    "old": "I can find my own way. Guidance is something I figure out myself.",
+    "new": "Guidance is from Allah, so I ask for it and use my senses to follow it.",
+    "try": "In every rak'ah today, say ihdina as-sirat al-mustaqim slowly and mean it.",
+    "related": ["18:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "9:121", "surah": 9, "ayah": 121, "place": "madinah",
+    "title": "Small or large, every coin and valley is written.",
+    "subtitle": "Uthman's camels and the ordinary traveler",
+    "picture": {"kind": "boxes", "label": "What gets recorded", "row": [
+      {"box": "reward", "title": "a small gift", "sub": ["written"]},
+      {"box": "reward", "title": "a large gift", "sub": ["written"]},
+      {"box": "reward", "title": "a valley crossed", "sub": ["written"]},
+      {"conn": "repaid with"},
+      {"box": "reward", "title": "the best", "sub": ["of what they did"]}]},
+    "key": {"label": "How it is repaid", "row": [
+      {"box": "people", "title": "deed for deed", "sub": ["exactly what I gave"], "strike": true},
+      {"box": "reward", "title": "by the best", "sub": ["of what they used to do"]}]},
+    "then": "When the Prophet ﷺ urged spending on the army of hardship for Tabuk, Uthman bin Affan pledged {reward}a hundred camels, then a hundred more, then a hundred more.{/reward} The verse also counts the {idea}small contribution{/idea}. Qatadah said: the farther people go from their families for Allah, the nearer they are to Him.",
+    "now": "You are not Uthman. Your gift is ten dollars and a Saturday morning driving boxes to the food bank. {reward}Small or large, the verse says it is written.{/reward} And Allah repays by the best thing you did, not the average.",
+    "old": "Only big sacrifices really count with Allah.",
+    "new": "Every small or large effort is written, and repaid by my best.",
+    "try": "Give something small today for a good cause and trust that it is recorded.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:122", "surah": 9, "ayah": 122, "place": "madinah",
+    "title": "Not everyone goes out; some must stay and learn.",
+    "subtitle": "A community that keeps its knowledge",
+    "picture": {"kind": "boxes", "label": "How the community divided its work", "row": [
+      {"box": "people", "title": "some go out", "sub": ["on the expeditions"]},
+      {"box": "people", "title": "some stay", "sub": ["learning revelation"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "they teach", "sub": ["when the others return"]},
+      {"box": "reward", "title": "everyone aware", "sub": ["so they beware"]}]},
+    "key": {"label": "What the community needs", "row": [
+      {"box": "people", "title": "everyone the same", "sub": ["all doing one thing"], "strike": true},
+      {"box": "idea", "title": "a share of each", "sub": ["some must learn deeply"]}]},
+    "then": "Ibn Abbas said the believers should not all leave the Prophet ﷺ alone. While some went out, others stayed {idea}and learned what was revealed{/idea}, then taught the returning group: Allah revealed this to your Prophet, and we learned it. The verse speaks of gaining {idea}understanding in the religion{/idea} and warning one's people.",
+    "now": "In your family or circle, maybe no one has really studied the faith. Everyone is busy with work and kids, and questions go to random videos. {idea}The verse says someone needs to be the one who learns, then comes back and shares.{/idea} It could be you.",
+    "old": "Learning the faith deeply is for scholars, not for people like me.",
+    "new": "My circle needs someone who learns and brings it back.",
+    "try": "Learn one thing about your faith properly today, and share it with one person.",
+    "related": ["9:41", "9:120"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:123", "surah": 9, "ayah": 123, "place": "madinah",
+    "title": "Allah is with those who have taqwa.",
+    "subtitle": "A battlefield command and how it ends",
+    "picture": {"kind": "boxes", "label": "The verse in its time", "row": [
+      {"box": "people", "title": "the believers", "sub": ["in the era of Tabuk"]},
+      {"box": "plain", "title": "the nearest front", "sub": ["first in order"]},
+      {"conn": "ends with"},
+      {"box": "reward", "title": "Allah is with", "sub": ["the people of taqwa"]}]},
+    "key": {"label": "What decides the outcome", "row": [
+      {"box": "people", "title": "strength alone", "sub": ["numbers, toughness"], "strike": true},
+      {"box": "idea", "title": "taqwa", "sub": ["Allah is with them"]}]},
+    "then": "This command was given to the believers in the time of the Prophet ﷺ, as part of the Tabuk era. Ibn Kathir explains the firmness as {trap}in battle{/trap}, and says the complete believer is {reward}kind to his believing brother.{/reward} He reads the closing words as: trust in Allah, knowing {idea}He is with you if you fear and obey Him.{/idea}",
+    "now": "Your life is not a battlefield. What carries over is how the verse ends: success rests on {idea}taqwa{/idea}, not on how tough you look. At home, at work, in the family chat, the believer is known first for softness with those close to them.",
+    "old": "Being strong and tough is what wins.",
+    "new": "Allah's company comes with taqwa, and that is what truly wins.",
+    "try": "Be extra gentle today with one family member you are usually short with.",
+    "related": ["5:54", "48:29", "9:73"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:124", "surah": 9, "ayah": 124, "place": "madinah",
+    "title": "Which of you did this surah increase in faith?",
+    "subtitle": "The same verses, two very different effects",
+    "picture": {"kind": "boxes", "label": "When a surah came down", "row": [
+      {"box": "idea", "title": "a new surah", "sub": ["recited to all"]},
+      {"conn": "to the mockers"},
+      {"box": "trap", "title": "\"who cares?\"", "sub": ["which of you grew?"]},
+      {"conn": "to the believers"},
+      {"box": "reward", "title": "more faith", "sub": ["and rejoicing"]}]},
+    "key": {"label": "What faith does", "row": [
+      {"box": "people", "title": "fixed amount", "sub": ["you have it or not"], "strike": true},
+      {"box": "idea", "title": "it grows", "sub": ["and it can shrink"]}]},
+    "then": "Some hypocrites asked each other mockingly, after a surah came down, {trap}which of you has had his faith increased by it?{/trap} Allah answered that the believers {reward}did grow in faith, and rejoiced.{/reward} Ibn Kathir calls this one of the strongest proofs that faith increases and decreases.",
+    "now": "You sit in a Friday khutbah. The person next to you scrolls. You hear one line that lands, and your chest feels lighter for the rest of the day. {reward}Same words, same room.{/reward} The verse says what you bring to the Quran shapes what it does to you.",
+    "old": "My faith is just at whatever level it is.",
+    "new": "Each verse I take in with an open heart can raise my faith.",
+    "try": "Read a few verses today slowly, and ask Allah to increase your faith through them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:125", "surah": 9, "ayah": 125, "place": "madinah",
+    "title": "The same medicine makes a sick heart sicker.",
+    "subtitle": "When guidance meets a diseased heart",
+    "picture": {"kind": "boxes", "label": "Two hearts, one Quran", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["a healing"]},
+      {"conn": "for a sick heart"},
+      {"box": "trap", "title": "more doubt", "sub": ["on top of doubt"]}]},
+    "key": {"label": "Where the problem is", "row": [
+      {"box": "people", "title": "in the message", "sub": ["it does nothing for me"], "strike": true},
+      {"box": "trap", "title": "in the heart", "sub": ["the disease inside"]}]},
+    "then": "Ibn Kathir says the surah only {trap}adds doubt and suspicion{/trap} to what those with sick hearts already had. He gives a picture: {trap}someone upset by a certain food{/trap} gets more upset when fed more of it. Yet the Quran is {reward}a healing{/reward} for those who believe.",
+    "now": "Every reminder irritates you lately. The khutbah feels preachy, the friend's post feels judgmental, the verse feels aimed at you. {idea}Before blaming the reminder, check the heart that is receiving it.{/idea}",
+    "old": "If a reminder annoys me, the reminder must be the problem.",
+    "new": "If guidance irritates me, my heart may need healing.",
+    "try": "Next time a reminder annoys you, pause and ask Allah to soften your heart toward it.",
+    "related": ["17:82", "41:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:126", "surah": 9, "ayah": 126, "place": "madinah",
+    "title": "Tested once or twice a year, and still no turning.",
+    "subtitle": "Missing the lesson in hardship",
+    "picture": {"kind": "boxes", "label": "The repeated pattern", "row": [
+      {"box": "trap", "title": "a trial", "sub": ["once or twice a year"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "no repentance", "sub": ["for what came before"]},
+      {"box": "trap", "title": "no lesson", "sub": ["for what comes next"]}]},
+    "key": {"label": "What a trial is for", "row": [
+      {"box": "people", "title": "bad luck", "sub": ["just get through it"], "strike": true},
+      {"box": "idea", "title": "a wake-up", "sub": ["to repent and remember"]}]},
+    "then": "Mujahid said they were tested {trap}with drought and hunger.{/trap} Ibn Kathir explains that they neither repented from their past sins {trap}nor learned a lesson for the future.{/trap} The trials came again and again, and nothing changed.",
+    "now": "Every winter the same scare: a lump, a layoff rumor, a car crash that almost happened. You promise to change, then the fear fades and the promise fades with it. {idea}The verse asks you to let the next trial actually change something.{/idea}",
+    "old": "Hard times are just something to survive and forget.",
+    "new": "Each trial is a chance to repent and remember before the next one.",
+    "try": "Recall your last real scare. Do one thing today you promised to do back then.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:127", "surah": 9, "ayah": 127, "place": "madinah",
+    "title": "Does anyone see you? Then they slipped away.",
+    "subtitle": "Turning from the truth, and being turned",
+    "picture": {"kind": "boxes", "label": "When a surah was recited", "row": [
+      {"box": "trap", "title": "glances", "sub": ["\"is anyone watching?\""]},
+      {"conn": "then"},
+      {"box": "trap", "title": "slipping out", "sub": ["away from the truth"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "hearts turned", "sub": ["Allah turned them away"]}]},
+    "key": {"label": "Who moved first", "row": [
+      {"box": "people", "title": "it just happened", "sub": ["my heart went cold"], "strike": true},
+      {"box": "trap", "title": "they turned first", "sub": ["then their hearts were turned"]}]},
+    "then": "When a surah was revealed, the hypocrites would look right and left, {trap}does anyone see you?{/trap}, then slip away. Ibn Kathir says they do not stay where truth is being declared. He links it to another verse: {trap}when they turned away, Allah turned their hearts away.{/trap}",
+    "now": "The talk at the masjid starts, and you glance at the door, check your phone, slip out during the pause. No one notices. {idea}The verse notices.{/idea} Each small exit makes the next one easier, until staying feels impossible.",
+    "old": "Leaving early does not matter if no one sees.",
+    "new": "Each time I turn from the truth, my heart turns a little further.",
+    "try": "Stay until the end of the next reminder or talk you attend, even if you want to leave.",
+    "related": ["74:49", "70:36", "61:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:128", "surah": 9, "ayah": 128, "place": "madinah",
+    "title": "Your hardship weighs on him; he is eager for you.",
+    "subtitle": "The Messenger's ﷺ care for his people",
+    "picture": {"kind": "boxes", "label": "Who he is to you", "row": [
+      {"box": "people", "title": "from among you", "sub": ["your language, your kind"]},
+      {"box": "reward", "title": "your pain", "sub": ["grieves him"]},
+      {"box": "reward", "title": "eager for you", "sub": ["for your good"]},
+      {"box": "reward", "title": "kind, merciful", "sub": ["to the believers"]}]},
+    "key": {"label": "How he holds you", "row": [
+      {"box": "people", "title": "a distant figure", "sub": ["rules and warnings"], "strike": true},
+      {"box": "reward", "title": "holding your waist", "sub": ["pulling you from the fire"]}]},
+    "then": "After a long surah of warnings, it closes with mercy. Ibn Kathir notes this verse is among {idea}the last revealed{/idea}. The Prophet ﷺ said: {reward}I am holding you by the waist so you do not fall into the Fire, like moths.{/reward} He also said this religion is easy.",
+    "now": "You may picture the faith as a list of things you get wrong. This verse shows a face full of concern for you. Every struggle you have, the debt, the anxiety, the habit you cannot break, {reward}would have grieved him ﷺ.{/reward} He wanted ease for you.",
+    "old": "The Prophet ﷺ feels distant, a source of rules.",
+    "new": "The Prophet ﷺ is grieved by my hardship and eager for my good.",
+    "try": "Send salawat on the Prophet ﷺ ten times today, thinking of his care for you.",
+    "related": ["2:129", "3:164", "26:215"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:129", "surah": 9, "ayah": 129, "place": "madinah",
+    "title": "If they turn away, Allah is enough for me.",
+    "subtitle": "The last words of the surah",
+    "picture": {"kind": "boxes", "label": "When people turn away", "row": [
+      {"box": "people", "title": "they turn away", "sub": ["after all that care"]},
+      {"conn": "then say"},
+      {"box": "idea", "title": "Allah is enough", "sub": ["no god but Him"]},
+      {"box": "reward", "title": "I rely on Him", "sub": ["Lord of the Great Throne"]}]},
+    "key": {"label": "What you lean on", "row": [
+      {"box": "people", "title": "their acceptance", "sub": ["if they agree, I am okay"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["sufficient, whoever turns"]}]},
+    "then": "The surah ends with the Prophet ﷺ told what to say if people turn away from what he brought: {idea}Allah is sufficient for me.{/idea} Ibn Kathir says the Throne is above all creation, and {reward}everything is under His power{/reward}. Zayd bin Thabit said he found this final verse with Khuzaymah bin Thabit.",
+    "now": "You did your best: the gentle advice, the patience, the invitation. And they still walked away, unfollowed you, stopped calling. {idea}You do not have to carry that alone.{/idea} Hasbiyallah. The One who holds the Throne is enough.",
+    "old": "If people reject me, I have failed and I am alone.",
+    "new": "When people turn away, Allah is still enough for me.",
+    "try": "When someone turns away from you today, say: Hasbiyallahu la ilaha illa Huwa, alayhi tawakkaltu.",
+    "related": ["73:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

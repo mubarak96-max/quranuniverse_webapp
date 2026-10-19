@@ -1,0 +1,277 @@
+[
+  {
+    "id": "23:57", "surah": 23, "ayah": 57, "place": "makkah",
+    "title": "The doers of good still live in awe of their Lord.",
+    "subtitle": "Good deeds paired with humble fear",
+    "picture": {"kind": "boxes", "label": "Two pairings", "row": [
+      {"box": "idea", "title": "good deeds + awe", "sub": ["the believer"]},
+      {"box": "trap", "title": "bad deeds + security", "sub": ["the heedless"]}]},
+    "key": {"label": "What good people feel", "row": [
+      {"box": "trap", "title": "I have done enough", "sub": ["safe now"], "strike": true},
+      {"box": "idea", "title": "I still stand in awe", "sub": ["even after doing good"]}]},
+    "then": "After the warning about those who feel secure in their wealth, the surah describes the opposite. Al-Hasan al-Basri said: {idea}the believer combines excellence with awe{/idea}, {trap}while the disbeliever combines evil deeds with a sense of security{/trap}.",
+    "now": "You prayed all five today, gave to the fundraiser, called your mother. A small voice says: I am one of the good ones now. {idea}The verse keeps that voice humble.{/idea}",
+    "old": "Once I am doing good, I can stop worrying.",
+    "new": "Doing good and staying in awe of Allah go together.",
+    "try": "After your next good deed, say quietly: O Allah, accept it from me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:58", "surah": 23, "ayah": 58, "place": "makkah",
+    "title": "They believe in the signs of their Lord.",
+    "subtitle": "Signs in creation and in revelation",
+    "picture": {"kind": "boxes", "label": "Two kinds of signs", "row": [
+      {"box": "idea", "title": "in the world", "sub": ["what He decrees"]},
+      {"box": "idea", "title": "in the Book", "sub": ["what He commands"]},
+      {"conn": "they"},
+      {"box": "reward", "title": "believe both", "sub": []}]},
+    "key": {"label": "Believing like Maryam", "row": [
+      {"box": "people", "title": "only when it suits me", "sub": [], "strike": true},
+      {"box": "idea", "title": "all of it is His", "sub": ["decree and command"]}]},
+    "then": "Ibn Kathir says they believe in {idea}His universal and legislative signs{/idea}, as Maryam testified to {reward}the words of her Lord and His scriptures{/reward}. She accepted that what exists happens by His decree, and what He commands is what He loves.",
+    "now": "You accept the verses that comfort you and scroll past the ones that ask something hard. You thank Allah for the good news and blame bad luck for the rest. {idea}Belief takes both.{/idea}",
+    "old": "I believe in the parts that make sense to me.",
+    "new": "Everything that happens and everything He commands are signs from the same Lord.",
+    "try": "Read one verse today that you usually skip, and sit with what it asks of you.",
+    "related": ["66:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:59", "surah": 23, "ayah": 59, "place": "makkah",
+    "title": "They give their Lord no partners.",
+    "subtitle": "Worship kept for Allah alone",
+    "picture": {"kind": "boxes", "label": "Their worship", "row": [
+      {"box": "people", "title": "the believers", "sub": []},
+      {"conn": "worship"},
+      {"box": "idea", "title": "Allah alone", "sub": ["no wife, no offspring, no equal"]}]},
+    "key": {"label": "Hidden partners", "row": [
+      {"box": "trap", "title": "only idols count", "sub": [], "strike": true},
+      {"box": "idea", "title": "anything I put beside Him", "sub": ["even quietly"]}]},
+    "then": "Ibn Kathir says they {idea}worship Him alone and know there is no god but Allah, the One, the Self-Sufficient{/idea}, with none comparable or equal to Him. It comes right after awe and belief, as their foundation.",
+    "now": "You would never bow to a statue. But the job, the approval of people, the money that you check five times a day. {trap}Partners can sneak in without a shrine.{/trap}",
+    "old": "Shirk is something only idol-worshippers do.",
+    "new": "Keeping Allah alone means watching what quietly takes His place in my heart.",
+    "try": "Ask yourself honestly: what did I think about most today? Give that worry to Allah in dua.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:60", "surah": 23, "ayah": 60, "place": "makkah",
+    "title": "They give, and still fear it may not be accepted.",
+    "subtitle": "Generous hands, humble hearts",
+    "picture": {"kind": "boxes", "label": "Their giving", "row": [
+      {"box": "reward", "title": "they pray, fast, give", "sub": []},
+      {"conn": "with"},
+      {"box": "idea", "title": "trembling hearts", "sub": ["will it be accepted?"]},
+      {"conn": "because"},
+      {"box": "people", "title": "they return to Him", "sub": []}]},
+    "key": {"label": "Aisha's question", "row": [
+      {"box": "trap", "title": "sinners who feel afraid", "sub": [], "strike": true},
+      {"box": "idea", "title": "doers of good who fear", "sub": ["it may not be accepted"]}]},
+    "then": "Aisha asked the Prophet ﷺ if these were people who sin while fearing Allah. He said: {idea}no, daughter of As-Siddiq, they are those who pray, fast and give in charity, fearing it will not be accepted from them.{/idea}",
+    "now": "You hit donate and a little pride rises: that was generous. {idea}This verse describes a different feeling: hoping it is enough, not sure, still giving.{/idea}",
+    "old": "Once I have given, my part is done and counted.",
+    "new": "I give my best and still hope Allah accepts it.",
+    "try": "Give something small today in secret, then ask Allah to accept it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:61", "surah": 23, "ayah": 61, "place": "makkah",
+    "title": "These are the ones racing to good deeds.",
+    "subtitle": "The real hastening to good",
+    "picture": {"kind": "boxes", "label": "Two kinds of hurry", "row": [
+      {"box": "trap", "title": "wealth hastened to them", "sub": ["verse 56, misread"]},
+      {"box": "idea", "title": "they hasten to good", "sub": ["verse 61, the real thing"]}]},
+    "key": {"label": "What counts as fast", "row": [
+      {"box": "trap", "title": "getting more quickly", "sub": [], "strike": true},
+      {"box": "idea", "title": "doing good first", "sub": ["they outstrip others"]}]},
+    "then": "Verse 56 asked whether wealth meant Allah was {trap}hastening good things{/trap} to the heedless. Here the same word turns: the people of awe, belief, and humble giving are {idea}the ones who hasten to good deeds and are foremost in them.{/idea}",
+    "now": "Someone in the family chat asks for help and you wait to see if anyone else answers first. {idea}The verse describes the one who answers first, without waiting.{/idea}",
+    "old": "Someone else will step up for that.",
+    "new": "Being first to do good is the race worth winning.",
+    "try": "When the next request for help comes today, be the first to respond.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:62", "surah": 23, "ayah": 62, "place": "makkah",
+    "title": "No soul is asked beyond what it can carry.",
+    "subtitle": "Fair burden, a truthful record",
+    "picture": {"kind": "boxes", "label": "Allah's justice", "row": [
+      {"box": "idea", "title": "within capacity", "sub": ["no soul overloaded"]},
+      {"box": "idea", "title": "a truthful record", "sub": ["nothing left out"]},
+      {"box": "reward", "title": "not wronged", "sub": ["good deeds kept"]}]},
+    "key": {"label": "After the high bar", "row": [
+      {"box": "trap", "title": "I can never be like them", "sub": ["verses 57-61"], "strike": true},
+      {"box": "idea", "title": "within my capacity", "sub": ["that is all He asks"]}]},
+    "then": "After describing the foremost in good, Allah reassures: {idea}He does not burden any soul with more than it can bear.{/idea} Ibn Kathir says the record omits {reward}none of their good deeds{/reward}, and for His believing servants He will {reward}forgive and overlook many evil ones{/reward}.",
+    "now": "You read about people who pray all night and give half their salary, and you feel tired just hearing it. You are a parent with a newborn, or working two jobs. {idea}He asks what you can carry, and records every bit of it.{/idea}",
+    "old": "If I cannot do it all, it is not worth trying.",
+    "new": "Allah asks within my capacity, and not one good deed is lost.",
+    "try": "Pick one good deed that truly fits your life right now, and do it today without guilt.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:63", "surah": 23, "ayah": 63, "place": "makkah",
+    "title": "Their hearts are covered over, busy with other deeds.",
+    "subtitle": "Heedlessness that fills the day",
+    "picture": {"kind": "boxes", "label": "What filled them", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["in front of them"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "covered hearts", "sub": ["negligence"]},
+      {"box": "trap", "title": "other deeds", "sub": ["busy elsewhere"]}]},
+    "key": {"label": "Why they missed it", "row": [
+      {"box": "people", "title": "no time", "sub": [], "strike": true},
+      {"box": "trap", "title": "a covered heart", "sub": ["full of other things"]}]},
+    "then": "Ibn Kathir says their hearts were {trap}covered because of negligence and misguidance{/trap} from the Quran, and they had {trap}other deeds they kept doing{/trap}. Ibn Abbas said this meant the evil they were set on.",
+    "now": "The Quran sits on the shelf in the living room, a little dusty. The TV is on, the phone is on, the to-do list is long. {trap}It is not that you hate it. You are just covered over.{/trap}",
+    "old": "I would read more Quran if I had time.",
+    "new": "A heart can get so covered with busyness that it stops hearing.",
+    "try": "Put the Quran somewhere you will see it first thing tomorrow, and read one page.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:64", "surah": 23, "ayah": 64, "place": "makkah",
+    "title": "When punishment seizes the comfortable, they cry out.",
+    "subtitle": "Loud calls that come too late",
+    "picture": {"kind": "boxes", "label": "The turn", "row": [
+      {"box": "reward", "title": "a life of luxury", "sub": ["no need for Allah"]},
+      {"conn": "then seized"},
+      {"box": "trap", "title": "punishment", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "screaming for help", "sub": []}]},
+    "key": {"label": "When to call", "row": [
+      {"box": "trap", "title": "only in disaster", "sub": [], "strike": true},
+      {"box": "idea", "title": "in the good days too", "sub": ["so He knows your voice"]}]},
+    "then": "Ibn Kathir says when Allah's punishment overtakes {trap}those living a happy life of luxury{/trap}, they {trap}scream their calls for help{/trap}. He cites another verse: they cried out {trap}when there was no longer time for escape.{/trap}",
+    "now": "Some people only remember to pray in the hospital waiting room. {idea}Calling on Allah in a crisis is good. Knowing Him before the crisis is better.{/idea}",
+    "old": "I will turn to Allah when I really need Him.",
+    "new": "The time to call on Allah is now, while things are easy.",
+    "try": "Make one dua of thanks today on an ordinary, easy day.",
+    "related": ["73:11", "38:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:65", "surah": 23, "ayah": 65, "place": "makkah",
+    "title": "Do not cry out today; no help is coming.",
+    "subtitle": "A door that closes",
+    "picture": {"kind": "boxes", "label": "That moment", "row": [
+      {"box": "trap", "title": "loud or silent", "sub": ["it makes no difference"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "no helper", "sub": ["no way out"]}]},
+    "key": {"label": "While the door is open", "row": [
+      {"box": "trap", "title": "the door is always open", "sub": [], "strike": true},
+      {"box": "reward", "title": "it is open now", "sub": ["use it today"]}]},
+    "then": "Ibn Kathir explains: {trap}no one is going to save you from what has happened, whether you scream or stay silent. There is no escape.{/trap} It is a sober picture of a moment when crying out is too late.",
+    "now": "Right now, today, your dua is heard. Your tawbah is accepted. {reward}The door this verse describes as closed is wide open for you.{/reward} That is the point of hearing it now.",
+    "old": "I can always repent later.",
+    "new": "Repentance is open now, and that is a mercy I should not waste.",
+    "try": "Make sincere tawbah tonight for one specific thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:66", "surah": 23, "ayah": 66, "place": "makkah",
+    "title": "The verses were read to you, and you turned on your heels.",
+    "subtitle": "The greatest of their sins",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "My verses", "sub": ["recited to you"]},
+      {"conn": "you"},
+      {"box": "trap", "title": "turned back", "sub": ["refused and resisted"]}]},
+    "key": {"label": "Not hearing vs. refusing", "row": [
+      {"box": "people", "title": "never heard it", "sub": [], "strike": true},
+      {"box": "trap", "title": "heard and turned away", "sub": ["that is the sin"]}]},
+    "then": "Ibn Kathir says this is the {trap}greatest of their sins{/trap}: the verses were recited to them, and {trap}when they were called, they refused and resisted{/trap}. They were not ignorant. They walked away.",
+    "now": "The khutbah touches exactly your problem and you think, that is for other people. A friend shares a verse and you swipe past. {trap}Turning on your heels can look like a thumb flicking upward.{/trap}",
+    "old": "Hearing the Quran is enough.",
+    "new": "Hearing it and turning away is worse than never hearing it.",
+    "try": "When a verse lands on you today, stop scrolling and read it twice.",
+    "related": ["40:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:67", "surah": 23, "ayah": 67, "place": "makkah",
+    "title": "Proud of the House, they spent nights talking against it.",
+    "subtitle": "Late-night talk and empty pride",
+    "picture": {"kind": "boxes", "label": "Around the Kabah", "row": [
+      {"box": "people", "title": "Quraysh", "sub": ["we are its guardians"]},
+      {"conn": "stayed up"},
+      {"box": "trap", "title": "boasting, evil talk", "sub": ["by night"]},
+      {"conn": "in effect"},
+      {"box": "trap", "title": "abandoned it", "sub": []}]},
+    "key": {"label": "Closeness", "row": [
+      {"box": "trap", "title": "near the holy place", "sub": ["so we are fine"], "strike": true},
+      {"box": "idea", "title": "using it for its purpose", "sub": ["that is what counts"]}]},
+    "then": "Ibn Abbas said the Quraysh {trap}boasted about the Kabah: we are its people who stay up talking at night.{/trap} They did not use it for its purpose, {trap}so in effect they had abandoned it{/trap}. He said late-night chatter became disliked after this verse.",
+    "now": "You live near the masjid, or come from a religious family, and that feels like a credential. Meanwhile midnight is for the group chat, the gossip, the scrolling. {idea}Being close to something holy is not the same as living by it.{/idea}",
+    "old": "My background and closeness to religion protect me.",
+    "new": "Closeness means nothing if I do not live by what I am close to.",
+    "try": "Close the chats an hour earlier tonight and spend five minutes in dua or Quran.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:68", "surah": 23, "ayah": 68, "place": "makkah",
+    "title": "Have they not reflected on the Quran?",
+    "subtitle": "A gift given to them, unread",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "the Quran", "sub": ["new to their people"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "no reflection", "sub": ["only looked at the unclear"]}]},
+    "key": {"label": "What they should have done", "row": [
+      {"box": "trap", "title": "pass it by", "sub": [], "strike": true},
+      {"box": "idea", "title": "ponder, thank, act", "sub": ["night and day"]}]},
+    "then": "Ibn Kathir says no Book or warner had come to their forefathers, so they should have {reward}accepted it, given thanks, tried to understand it and acted on it night and day{/reward}. Qatadah said if they had pondered it, {idea}they would have found a deterrent from disobeying Allah{/idea}.",
+    "now": "You can recite Al-Fatiha in your sleep, but if someone asked what verse five means, you would pause. {idea}The verse is not asking whether you have heard it. It asks whether you have thought about it.{/idea}",
+    "old": "I know the Quran because I have read it.",
+    "new": "Knowing the Quran begins when I stop and think about what it says.",
+    "try": "Pick one short verse you recite daily. Read its meaning today and think about it for two minutes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:69", "surah": 23, "ayah": 69, "place": "makkah",
+    "title": "Did they not know their own Messenger?",
+    "subtitle": "They knew his honesty since childhood",
+    "picture": {"kind": "boxes", "label": "What they knew", "row": [
+      {"box": "people", "title": "Muhammad ﷺ", "sub": ["grew up among them"]},
+      {"box": "reward", "title": "honest", "sub": []},
+      {"box": "reward", "title": "trustworthy", "sub": []},
+      {"conn": "yet"},
+      {"box": "trap", "title": "they denied him", "sub": []}]},
+    "key": {"label": "The evidence", "row": [
+      {"box": "trap", "title": "a stranger with claims", "sub": [], "strike": true},
+      {"box": "idea", "title": "a known, honest man", "sub": ["even enemies admitted it"]}]},
+    "then": "Ibn Kathir asks: {idea}do they not recognize the honesty, trustworthiness and good character with which he grew up among them?{/idea} Even Abu Sufyan, before Islam, when asked by Heraclius, {reward}could only admit he was noble and truthful{/reward}.",
+    "now": "You know the person who always tells you the truth, even when it is uncomfortable. When they warn you, you still look for reasons to doubt. {idea}Their track record is the evidence.{/idea}",
+    "old": "I need to judge every claim from scratch.",
+    "new": "A lifetime of honesty is strong evidence, and I should honor it.",
+    "try": "Thank someone today whose honesty you have always been able to rely on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:70", "surah": 23, "ayah": 70, "place": "makkah",
+    "title": "He brought the truth, and most of them disliked it.",
+    "subtitle": "The problem was not madness but aversion",
+    "picture": {"kind": "boxes", "label": "Their excuse and the reality", "row": [
+      {"box": "trap", "title": "he is mad", "sub": ["their claim"], "strike": true},
+      {"box": "idea", "title": "he brought truth", "sub": ["the reality"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "they hate truth", "sub": ["most of them"]}]},
+    "key": {"label": "The real reason", "row": [
+      {"box": "people", "title": "they had doubts", "sub": [], "strike": true},
+      {"box": "trap", "title": "they disliked the truth", "sub": ["it asked too much"]}]},
+    "then": "Ibn Kathir says the Quraysh {trap}called him mad or said he made it up, but their hearts did not believe that{/trap}. They knew. Allah names the real reason: {trap}most of them are averse to the truth.{/trap}",
+    "now": "The doctor says cut the sugar. The friend says you were rude. The verse says pray. {trap}Sometimes you call the message unclear because you do not like what it asks.{/trap}",
+    "old": "I reject this because it does not make sense.",
+    "new": "Sometimes I reject a truth because I dislike it, not because it is wrong.",
+    "try": "Name one truth you have been resisting. Admit to yourself that you know it is true.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

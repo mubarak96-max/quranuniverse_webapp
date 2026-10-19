@@ -1,0 +1,260 @@
+[
+  {
+    "id": "41:1", "surah": 41, "ayah": 1, "place": "makkah",
+    "title": "Two letters that ask you to stop and listen.",
+    "subtitle": "Ha Mim opens a surah about hearing",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Ha Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the message", "sub": ["a revelation from the Merciful"]}]},
+    "key": {"label": "What the letters ask", "row": [
+      {"box": "people", "title": "I need to decode it", "sub": ["or I can skip it"], "strike": true},
+      {"box": "idea", "title": "pause and attend", "sub": ["what follows matters"]}]},
+    "then": "This surah came in Makkah while the leaders of Quraysh were trying to talk the Prophet ﷺ out of his mission. It opens with two letters, Ha Mim. {idea}Their meaning is known to Allah.{/idea} What they do for the listener is clear: they make you stop.",
+    "now": "You open the app between two notifications. Your thumb is ready to scroll. Two letters sit there that you cannot explain. {idea}Let them slow you down before the words that follow.{/idea}",
+    "old": "If I cannot understand something right away, I move past it.",
+    "new": "Not knowing everything is a reason to listen more carefully, not less.",
+    "try": "Before you read your next passage of Quran, put the phone face down and take three slow breaths.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:2", "surah": 41, "ayah": 2, "place": "makkah",
+    "title": "The message comes from mercy, twice named.",
+    "subtitle": "Who sent this book, and in what spirit",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "idea", "title": "the Most Gracious", "sub": ["mercy to all"]},
+      {"box": "idea", "title": "the Most Merciful", "sub": ["mercy that stays"]},
+      {"conn": "sends down"},
+      {"box": "reward", "title": "the revelation", "sub": ["to you"]}]},
+    "key": {"label": "How to hear it", "row": [
+      {"box": "trap", "title": "a list of demands", "sub": ["a heavy rulebook"], "strike": true},
+      {"box": "reward", "title": "a gift of mercy", "sub": ["sent because He cares"]}]},
+    "then": "Ibn Kathir explains that the Quran is sent down from the Most Gracious, the Most Merciful. Before any warning, before any story, {reward}the sender is named by His mercy.{/reward} The first people who heard it were mostly hostile, yet it opened with kindness.",
+    "now": "A letter from a doctor and a letter from someone who loves you can say the same thing. You read them differently. {reward}This one begins by telling you who wrote it and how He feels toward you.{/reward}",
+    "old": "Religion is mostly about what I am told to do.",
+    "new": "Every instruction in this book comes wrapped in mercy from the One who sent it.",
+    "try": "Next time you read a hard verse, remind yourself it was sent by the Most Merciful, then read it again.",
+    "related": ["16:102", "26:192"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:3", "surah": 41, "ayah": 3, "place": "makkah",
+    "title": "A book made clear for people who want to know.",
+    "subtitle": "Detailed verses, plain Arabic, an open door",
+    "picture": {"kind": "boxes", "label": "What the book is", "row": [
+      {"box": "idea", "title": "verses detailed", "sub": ["meanings clear and sound"]},
+      {"box": "idea", "title": "in Arabic", "sub": ["words not confusing"]},
+      {"conn": "for"},
+      {"box": "people", "title": "people who know", "sub": ["who make the effort"]}]},
+    "key": {"label": "Where the gap is", "row": [
+      {"box": "people", "title": "it is too unclear", "sub": ["so I am excused"], "strike": true},
+      {"box": "idea", "title": "it is clear", "sub": ["the question is my effort"]}]},
+    "then": "Ibn Kathir says the verses are {idea}clear in meaning and sound in their rulings{/idea}, and the Arabic is precise, not confusing. The Quraysh were masters of Arabic. They understood the words. Clarity was never their problem.",
+    "now": "You have read long terms and conditions, spreadsheets at work, school forms for your kids. You can understand hard things when you care. {idea}This book is clearer than most of them.{/idea} What it asks is that you come wanting to know.",
+    "old": "The Quran is too deep for someone like me to understand.",
+    "new": "It was made clear on purpose, so anyone who sincerely seeks can find their way in.",
+    "try": "Pick one short verse today, read its translation slowly, and write one sentence on what it says.",
+    "related": ["11:1", "41:42"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:4", "surah": 41, "ayah": 4, "place": "makkah",
+    "title": "Good news and warning, and most just turned away.",
+    "subtitle": "Turning away is how hearing stops",
+    "picture": {"kind": "boxes", "label": "What the book brings", "row": [
+      {"box": "reward", "title": "glad tidings", "sub": ["for those who believe"]},
+      {"box": "trap", "title": "warning", "sub": ["for those who reject"]},
+      {"conn": "most"},
+      {"box": "trap", "title": "turn away", "sub": ["so they hear nothing"]}]},
+    "key": {"label": "Why they did not hear", "row": [
+      {"box": "people", "title": "the message was unclear", "sub": [], "strike": true},
+      {"box": "trap", "title": "they turned away", "sub": ["the ears followed the back"]}]},
+    "then": "Ibn Kathir notes that most of Quraysh {trap}understood nothing of it, even though it was so clear.{/trap} The book carried both hope and warning. They turned their backs, and once you turn away, you stop hearing.",
+    "now": "Your mother is talking and you are nodding, eyes on the screen. Later you cannot repeat a word she said. {trap}You did not fail to hear. You turned away first.{/trap}",
+    "old": "If something really mattered, I would notice it.",
+    "new": "Hearing begins with facing the speaker. If I turn away, even clear words pass me by.",
+    "try": "In your next real conversation, put the phone away and face the person fully until they finish.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:5", "surah": 41, "ayah": 5, "place": "makkah",
+    "title": "Our hearts are covered, they said, so leave us alone.",
+    "subtitle": "Three walls people build against a message",
+    "picture": {"kind": "boxes", "label": "What they claimed", "row": [
+      {"box": "trap", "title": "covered hearts", "sub": ["nothing gets in"]},
+      {"box": "trap", "title": "deaf ears", "sub": ["we do not hear you"]},
+      {"box": "trap", "title": "a screen", "sub": ["between us and you"]},
+      {"conn": "so"},
+      {"box": "people", "title": "you do your work", "sub": ["we do ours"]}]},
+    "key": {"label": "What the walls are", "row": [
+      {"box": "people", "title": "I just cannot hear it", "sub": ["it is how I am"], "strike": true},
+      {"box": "trap", "title": "I chose the walls", "sub": ["and named them as fate"]}]},
+    "then": "The Quraysh told the Prophet ﷺ: {trap}our hearts are wrapped, our ears are deaf, and there is a screen between us.{/trap} Ibn Kathir explains they meant nothing of what he said reached them. So go your way, and we will go ours.",
+    "now": "A friend says something true about your temper. You say, that is just who I am, take it or leave it. {trap}It sounds like honesty. It is a wall.{/trap} You built it so the words would stop reaching you.",
+    "old": "Some advice just does not work on me, and that is fine.",
+    "new": "When I say I cannot hear something, I may be describing a wall I put up myself.",
+    "try": "Think of one piece of advice you keep brushing off. Listen to it again today without replying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:6", "surah": 41, "ayah": 6, "place": "makkah",
+    "title": "Only a man like you, carrying one message: one God.",
+    "subtitle": "Go straight to Him and ask forgiveness",
+    "picture": {"kind": "boxes", "label": "What he was told to say", "row": [
+      {"box": "people", "title": "a man like you", "sub": ["no angel, no king"]},
+      {"conn": "receives"},
+      {"box": "idea", "title": "your God is One", "sub": ["not the idols"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "go straight to Him", "sub": ["and seek forgiveness"]}]},
+    "key": {"label": "The path offered", "row": [
+      {"box": "trap", "title": "many doors", "sub": ["each idol a middleman"], "strike": true},
+      {"box": "idea", "title": "one straight path", "sub": ["direct to Him"]}]},
+    "then": "After their wall of refusal, the Prophet ﷺ is told to answer simply: {idea}I am only a human being like you.{/idea} The revelation is that God is One. Ibn Kathir says this means worship Him alone sincerely, and {reward}seek His forgiveness for past sins.{/reward}",
+    "now": "You have tried a dozen things to feel at peace: a new routine, a new app, a new plan. Each one asks for a little worship. {idea}This verse says: one direction, straight to Him.{/idea} And the door of forgiveness is open for everything before today.",
+    "old": "I have drifted too far to simply turn back now.",
+    "new": "The path is straight and the door is forgiveness. Turning back is the whole instruction.",
+    "try": "Say astaghfirullah slowly three times today, thinking of one specific thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:7", "surah": 41, "ayah": 7, "place": "makkah",
+    "title": "Those who keep their souls and wealth unpurified.",
+    "subtitle": "Zakah as cleaning the self, not only the money",
+    "picture": {"kind": "boxes", "label": "Two meanings in the tafsir", "row": [
+      {"box": "idea", "title": "purify the soul", "sub": ["rid it of shirk"]},
+      {"box": "idea", "title": "purify the wealth", "sub": ["give what is due"]},
+      {"conn": "they refused"},
+      {"box": "trap", "title": "and denied", "sub": ["the Hereafter"]}]},
+    "key": {"label": "What zakah touches", "row": [
+      {"box": "people", "title": "just a payment", "sub": ["a number once a year"], "strike": true},
+      {"box": "idea", "title": "purification", "sub": ["of the heart and the money"]}]},
+    "then": "Ibn Abbas understood zakah here as {idea}purifying the soul, above all from shirk.{/idea} Others took it as the charity of wealth, which was practiced in some form even in Makkah. Ibn Kathir joins both. Those who refused also {trap}denied the Hereafter.{/trap}",
+    "now": "Payday comes. The money moves fast: rent, bills, one more order. Giving feels like the last thing on the list. {idea}This verse links what you give with how clean your heart is,{/idea} and with whether you really expect to meet your Lord.",
+    "old": "Charity is a nice extra once my own needs are covered.",
+    "new": "Giving is how I clean my heart and my wealth, and it shows what I believe about tomorrow.",
+    "try": "Give a small amount to someone in need today, even if it is very little.",
+    "related": ["91:9", "87:14", "6:141"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:8", "surah": 41, "ayah": 8, "place": "makkah",
+    "title": "Belief plus good deeds, and a reward that never stops.",
+    "subtitle": "The one investment that is never cut off",
+    "picture": {"kind": "boxes", "label": "What is promised", "row": [
+      {"box": "idea", "title": "believe", "sub": []},
+      {"box": "idea", "title": "do good deeds", "sub": []},
+      {"conn": "earns"},
+      {"box": "reward", "title": "an endless reward", "sub": ["never cut, never less"]}]},
+    "key": {"label": "How rewards end", "row": [
+      {"box": "trap", "title": "every reward fades", "sub": ["bonuses, praise, likes"], "strike": true},
+      {"box": "reward", "title": "this one does not", "sub": ["it never decreases"]}]},
+    "then": "Right after the warning comes the hope. Mujahid said this reward {reward}will never be cut off or decrease.{/reward} The believers in Makkah were few and pressured. They were promised something no one could take away.",
+    "now": "The bonus is spent by next month. The praise for your work is forgotten by Friday. The post you were proud of slides down the feed. {reward}Some good you do today never slides down.{/reward}",
+    "old": "Good things never last, so I should not expect much.",
+    "new": "Worldly rewards fade, but faith with good deeds earns a reward that is never cut off.",
+    "try": "Do one quiet good deed today that no one will see or thank you for.",
+    "related": ["18:3", "11:108"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:9", "surah": 41, "ayah": 9, "place": "makkah",
+    "title": "You deny the One who made the ground under you?",
+    "subtitle": "The Creator of the earth has no rivals",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "idea", "title": "He made the earth", "sub": ["in two days"]},
+      {"conn": "yet you"},
+      {"box": "trap", "title": "set up rivals", "sub": ["false gods beside Him"]}]},
+    "key": {"label": "Who is Lord", "row": [
+      {"box": "trap", "title": "many powers", "sub": ["each with a share"], "strike": true},
+      {"box": "idea", "title": "Lord of the worlds", "sub": ["Creator of all things"]}]},
+    "then": "Ibn Kathir says Allah here {trap}denounces those who worship others{/trap} while He alone is the Creator, Subduer and Controller of everything. The surah turns to creation in detail: the earth first, like a foundation, then the sky like a roof.",
+    "now": "You stand on a floor, walk on a road, sleep on ground that holds still. Yet your worry goes to your boss, your bank balance, what people think. {idea}The One who made the ground is the One to rely on.{/idea}",
+    "old": "Some people and things in my life hold real power over my future.",
+    "new": "The One who made the earth itself has no rivals, so nothing else deserves my reliance.",
+    "try": "When you feel a worry today, put your hand flat on the floor and remember who made it.",
+    "related": ["7:54", "2:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:10", "surah": 41, "ayah": 10, "place": "makkah",
+    "title": "Mountains, blessing, and food measured before you arrived.",
+    "subtitle": "Provision was placed in the earth for you",
+    "picture": {"kind": "boxes", "label": "What He placed in the earth", "row": [
+      {"box": "idea", "title": "firm mountains", "sub": ["set over its surface"]},
+      {"box": "reward", "title": "blessing", "sub": ["soil that can grow"]},
+      {"box": "reward", "title": "measured provision", "sub": ["each land its share"]}]},
+    "key": {"label": "Where provision comes from", "row": [
+      {"box": "people", "title": "I make my living", "sub": ["it all depends on me"], "strike": true},
+      {"box": "reward", "title": "already measured", "sub": ["I go out to meet it"]}]},
+    "then": "Ibn Kathir explains that Allah blessed the earth and gave it the ability to grow crops. Ikrimah and Mujahid said {reward}He placed in every land what suits no other land.{/reward} The provision of its people was measured in.",
+    "now": "You check prices at the store and wonder how the month will go. Every item in your basket came from soil somewhere. {reward}Its share was measured before you were born.{/reward} Your job is to go out and meet it.",
+    "old": "If I stop worrying about money for a moment, everything will fall apart.",
+    "new": "My provision was measured into the earth by Allah. I work for it, but I do not create it.",
+    "try": "At your next meal, think of where one item on your plate was grown, and thank Allah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:11", "surah": 41, "ayah": 11, "place": "makkah",
+    "title": "Sky and earth said: we come willingly.",
+    "subtitle": "The whole universe answered yes",
+    "picture": {"kind": "boxes", "label": "The command", "row": [
+      {"box": "plain", "title": "the heaven as smoke", "sub": []},
+      {"conn": "told"},
+      {"box": "idea", "title": "come, willing or not", "sub": ["to sky and earth"]},
+      {"conn": "answered"},
+      {"box": "reward", "title": "we come willingly", "sub": []}]},
+    "key": {"label": "Two ways to obey", "row": [
+      {"box": "trap", "title": "dragged", "sub": ["unwilling, resentful"]},
+      {"box": "reward", "title": "willingly", "sub": ["as sky and earth chose"]}]},
+    "then": "The surah describes the heaven when it was smoke. Allah said to it and to the earth: {idea}come, willingly or unwillingly.{/idea} They both said, {reward}we come willingly.{/reward} The Quraysh were refusing a message that the sky itself had accepted.",
+    "now": "The alarm for Fajr goes off. You can get up resenting it, or you can get up like someone answering a call. {reward}The sky and the earth chose the willing way.{/reward} You can choose it too.",
+    "old": "Obeying Allah is something I do because I have to.",
+    "new": "All of creation answered willingly. I can join that yes instead of being dragged.",
+    "try": "Pick one prayer today and walk to it as an answer, not a chore.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:12", "surah": 41, "ayah": 12, "place": "makkah",
+    "title": "Seven heavens, each with its task, and lamps that guard.",
+    "subtitle": "The decree of the Mighty, the Knowing",
+    "picture": {"kind": "boxes", "label": "The heavens", "row": [
+      {"box": "idea", "title": "seven heavens", "sub": ["completed in two days"]},
+      {"box": "idea", "title": "each its command", "sub": ["its own affair"]},
+      {"box": "reward", "title": "lamps", "sub": ["beauty and guarding"]}]},
+    "key": {"label": "Behind the order", "row": [
+      {"box": "people", "title": "it all just happened", "sub": [], "strike": true},
+      {"box": "idea", "title": "a decree", "sub": ["of the Mighty, the Knowing"]}]},
+    "then": "The creation story ends with the sky: seven heavens, {idea}each given its command{/idea}, the nearest one decorated with stars that are both beauty and protection. {idea}That is the decree of the Almighty, the All-Knower.{/idea}",
+    "now": "You step out of a late shift and look up for once. A few stars push through the city light. {idea}Each one is where it was placed, doing what it was told.{/idea} Your day felt chaotic. The sky above it was not.",
+    "old": "Life is random, and nothing above me is really in order.",
+    "new": "Everything above me runs by a decree of the Mighty and Knowing, and so does my life.",
+    "try": "Tonight, step outside for one minute and look at the sky before you sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:13", "surah": 41, "ayah": 13, "place": "makkah",
+    "title": "If they still turn away, remind them of Ad and Thamud.",
+    "subtitle": "A warning drawn from nations before",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "people", "title": "they turn away", "sub": ["after all these signs"]},
+      {"conn": "so say"},
+      {"box": "trap", "title": "a thunderbolt", "sub": ["like Ad and Thamud"]}]},
+    "key": {"label": "What history is for", "row": [
+      {"box": "people", "title": "old stories", "sub": ["about other people"], "strike": true},
+      {"box": "idea", "title": "a mirror", "sub": ["for my own choices"]}]},
+    "then": "After the signs of creation, the Prophet ﷺ is told: if they turn away, say {trap}I have warned you of a punishment like the one that struck Ad and Thamud.{/trap} Ibn Kathir says these nations disbelieved in their messengers. The warning was meant to wake people, not to scare for its own sake.",
+    "now": "You read news of a company that collapsed after years of ignoring warnings. You think, they should have listened. {idea}The verse asks you to turn that thought on yourself{/idea}: which warning in your own life are you ignoring?",
+    "old": "Stories of destroyed nations are about other people, long ago.",
+    "new": "Those stories are told so that I check my own heart while there is still time.",
+    "try": "Name one warning sign in your own habits that you have been ignoring, and take one step on it.",
+    "related": ["46:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

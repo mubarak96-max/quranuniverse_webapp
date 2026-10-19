@@ -1,0 +1,251 @@
+[
+  {
+    "id": "9:78", "surah": 9, "ayah": 78, "place": "madinah",
+    "title": "He knows the secret, and what is quieter still.",
+    "subtitle": "No private conversation is private from Him",
+    "picture": {"kind": "boxes", "label": "What Allah knows", "row": [
+      {"box": "people", "title": "the public promise", "sub": ["\"I will give\""]},
+      {"box": "trap", "title": "the secret", "sub": ["what they really meant"]},
+      {"box": "trap", "title": "the whispers", "sub": ["private counsels"]},
+      {"conn": "all known to"},
+      {"box": "idea", "title": "the Knower", "sub": ["of the unseen"]}]},
+    "key": {"label": "Who knows you best", "row": [
+      {"box": "people", "title": "I know myself", "sub": ["my real intentions"], "strike": true},
+      {"box": "idea", "title": "He knows me better", "sub": ["than I know myself"]}]},
+    "then": "This closes the story of those who promised charity and then held back. Ibn Kathir says Allah knows {idea}the secret and what is more hidden than the secret{/idea}, even when they pretended they would give. {idea}Allah knows them better than they know themselves.{/idea}",
+    "now": "The side conversation in a private chat. The message you typed and deleted. The reason you gave your boss versus the reason you actually skipped the meeting. {idea}All of it is open to Allah.{/idea} That can feel heavy, or it can feel like relief: someone sees the whole truth of you.",
+    "old": "What I say in private stays private.",
+    "new": "Nothing is hidden from Allah, so I can stop performing.",
+    "try": "Before one private conversation today, ask yourself if you would say it the same way in front of Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:79", "surah": 9, "ayah": 79, "place": "madinah",
+    "title": "They mocked the big giver and the small giver.",
+    "subtitle": "The man who brought a handful of dates",
+    "picture": {"kind": "boxes", "label": "Two givers, one mockery", "row": [
+      {"box": "reward", "title": "Abdur-Rahman", "sub": ["gave thousands"]},
+      {"conn": "called"},
+      {"box": "trap", "title": "\"showing off\"", "sub": []},
+      {"box": "reward", "title": "Abu Aqil", "sub": ["a Sa of dates, a night's work"]},
+      {"conn": "called"},
+      {"box": "trap", "title": "\"not needed\"", "sub": []}]},
+    "key": {"label": "How Allah weighed it", "row": [
+      {"box": "people", "title": "the amount", "sub": ["big counts, small does not"], "strike": true},
+      {"box": "idea", "title": "the effort", "sub": ["all both of them had to give"]}]},
+    "then": "When the Prophet ﷺ called for charity, Abdur-Rahman bin Awf gave thousands and was called a show-off. Abu Aqil worked all night drawing water, earned two measures of dates, and brought one. They laughed: {trap}Allah does not need this.{/trap} The verse defended {reward}both givers{/reward}, and Ibn Kathir notes the recompense is like the deed.",
+    "now": "Someone posts that they donated and the comments say attention seeker. Someone gives five dollars at the mosque and a person behind them smirks. {trap}Mockers always find an angle.{/trap} The verse says Allah saw the night of work behind the small coins.",
+    "old": "My small gift is too little to matter.",
+    "new": "Allah weighs my effort, not the size next to someone else's.",
+    "try": "Give something small today without apology, and never comment on anyone else's giving.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:80", "surah": 9, "ayah": 80, "place": "madinah",
+    "title": "Even seventy prayers for them would not be enough.",
+    "subtitle": "The Prophet's mercy, and a closed door",
+    "picture": {"kind": "boxes", "label": "What the verse closes", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["ready to ask again and again"]},
+      {"box": "plain", "title": "70", "sub": ["a number for no limit"], "num": true},
+      {"conn": "still"},
+      {"box": "trap", "title": "no forgiveness", "sub": ["they rejected Allah"]}]},
+    "key": {"label": "Where the door shuts", "row": [
+      {"box": "people", "title": "others can save me", "sub": ["someone will pray for me"], "strike": true},
+      {"box": "idea", "title": "my own turning", "sub": ["must come from me"]}]},
+    "then": "Ibn Kathir explains that seventy is how Arabs {idea}speak of no limit{/idea}, to close the subject. When Abdullah bin Ubayy died, the Prophet ﷺ still went to his funeral at his son's request, saying {reward}I will ask seventy times and seventy more.{/reward} His mercy was that wide.",
+    "now": "You may lean on your mother's prayers, the friend who always makes dua for you, the good family you came from. Those are gifts. But no one else can turn your heart for you. {idea}The door opens from your side.{/idea}",
+    "old": "My family's prayers will carry me even if I drift.",
+    "new": "Others can pray for me, but turning to Allah is mine to do.",
+    "try": "Ask Allah's forgiveness yourself today, in your own words, for one specific thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:81", "surah": 9, "ayah": 81, "place": "madinah",
+    "title": "Do not go out in the heat, they said.",
+    "subtitle": "Escaping one discomfort into a greater one",
+    "picture": {"kind": "boxes", "label": "The season of Tabuk", "row": [
+      {"box": "trap", "title": "intense heat", "sub": ["the journey was hard"]},
+      {"box": "reward", "title": "ripe fruit, shade", "sub": ["staying felt sweet"]},
+      {"conn": "so they said"},
+      {"box": "people", "title": "\"not in the heat\"", "sub": ["and rejoiced at staying"]}]},
+    "key": {"label": "Which heat matters", "row": [
+      {"box": "people", "title": "avoid today's heat", "sub": ["comfort first"], "strike": true},
+      {"box": "trap", "title": "a greater heat", "sub": ["if they could understand"]}]},
+    "then": "Tabuk came at a time of {trap}intense heat{/trap}, when fruit was ripe and shade was sweet. Those who stayed behind rejoiced and told each other: {trap}do not march in the heat.{/trap} The reply: the Fire is more intense. Ibn Kathir says if they had understanding, they would have gone.",
+    "now": "The alarm for Fajr goes off and the bed is warm. A friend needs help moving on the hottest Saturday of the year. You tell yourself it is not the right moment. {idea}The verse asks which discomfort you are really running from, and toward.{/idea}",
+    "old": "I will do the hard good thing when it is more comfortable.",
+    "new": "Running from small discomfort can lead to a far greater one.",
+    "try": "Do one good thing today that you have been delaying only because it is uncomfortable.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:82", "surah": 9, "ayah": 82, "place": "madinah",
+    "title": "Laugh a little now, weep much later.",
+    "subtitle": "Short laughter, long consequence",
+    "picture": {"kind": "boxes", "label": "Two lengths of time", "row": [
+      {"box": "people", "title": "laughing", "sub": ["glad they stayed home"]},
+      {"conn": "lasts"},
+      {"box": "plain", "title": "a little", "sub": ["life is short"]},
+      {"box": "trap", "title": "weeping", "sub": ["what they earned"]}]},
+    "key": {"label": "What the laughter costs", "row": [
+      {"box": "people", "title": "I got away with it", "sub": ["no one noticed"], "strike": true},
+      {"box": "trap", "title": "it is being earned", "sub": ["recompense follows deeds"]}]},
+    "then": "Those who stayed behind from Tabuk were pleased with themselves. Ibn Abbas commented: {idea}life is short, so let them laugh as they like in it.{/idea} When they return to Allah, {trap}the crying begins.{/trap} The verse ties it to what they used to earn.",
+    "now": "You dodged the shift, skipped the duty, and laughed with friends about how clever it was. The laugh felt good for an evening. {idea}The verse asks you to think past the evening{/idea}, to the account where every choice is earned.",
+    "old": "Getting out of something is a small win worth laughing about.",
+    "new": "The laugh is short; what I earned by it stays.",
+    "try": "Think of one duty you escaped recently. Make it up to someone today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:83", "surah": 9, "ayah": 83, "place": "madinah",
+    "title": "You chose to sit once, so sit now.",
+    "subtitle": "One choice shaping the next",
+    "picture": {"kind": "boxes", "label": "After Tabuk", "row": [
+      {"box": "people", "title": "the first time", "sub": ["pleased to sit at home"]},
+      {"conn": "later asked"},
+      {"box": "people", "title": "to come along", "sub": ["the next time"]},
+      {"conn": "told"},
+      {"box": "trap", "title": "stay with them", "sub": ["those who lagged behind"]}]},
+    "key": {"label": "How deeds lead on", "row": [
+      {"box": "trap", "title": "an evil deed", "sub": ["leads to another"]},
+      {"box": "reward", "title": "a good deed", "sub": ["leads to another"]}]},
+    "then": "The Prophet ﷺ was told that if those who stayed behind later asked to join, the answer was no: {trap}you were pleased to sit the first time.{/trap} Ibn Kathir draws a lesson: {idea}an evil deed is often followed by another, and a good deed by another good deed.{/idea}",
+    "now": "You skip the gym once, then it is easier to skip twice. You pray on time today, and tomorrow it is a little more natural. Choices are not isolated; they lay down tracks. {idea}Whatever you choose now makes the next choice easier.{/idea}",
+    "old": "One missed chance does not affect the next one.",
+    "new": "Each choice makes the next one like it easier.",
+    "try": "Do one good deed today, then follow it right away with a second small one.",
+    "related": ["6:110", "48:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:84", "surah": 9, "ayah": 84, "place": "madinah",
+    "title": "The Prophet ﷺ stood at a funeral, and Allah answered.",
+    "subtitle": "The funeral of Abdullah bin Ubayy",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "the son", "sub": ["asks for the shirt, the prayer"]},
+      {"box": "reward", "title": "the Prophet ﷺ", "sub": ["gives both"]},
+      {"box": "people", "title": "Umar", "sub": ["\"he is a hypocrite\""]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the verse", "sub": ["settles it"]}]},
+    "key": {"label": "Two things true at once", "row": [
+      {"box": "reward", "title": "his mercy", "sub": ["even for an opponent"]},
+      {"box": "idea", "title": "Allah's judgment", "sub": ["He knows who died how"]}]},
+    "then": "When Abdullah bin Ubayy, the chief of the hypocrites, died, his son asked the Prophet ﷺ for his shirt as a shroud and to pray over him. {reward}The Prophet ﷺ gave both.{/reward} Umar objected, then said he was amazed at his own daring. {idea}Soon after, this verse came.{/idea}",
+    "now": "You may know someone whose life seemed full of opposition to faith, and now they are gone. The verse shows the Prophet's ﷺ mercy went very far, and that final judgment belongs to Allah alone. {idea}Your part is your own state when your time comes.{/idea}",
+    "old": "I need to decide where others ended up.",
+    "new": "Judgment is Allah's; my concern is how I will die.",
+    "try": "Ask Allah today, in your own words, to let you die in a state He loves.",
+    "related": ["9:80"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:85", "surah": 9, "ayah": 85, "place": "madinah",
+    "title": "Do not be dazzled by their wealth and children.",
+    "subtitle": "When blessings turn into a burden",
+    "picture": {"kind": "boxes", "label": "What looks impressive", "row": [
+      {"box": "reward", "title": "wealth", "sub": ["looks like success"]},
+      {"box": "reward", "title": "children", "sub": ["look like blessing"]},
+      {"conn": "can become"},
+      {"box": "trap", "title": "a burden", "sub": ["in this world"]}]},
+    "key": {"label": "How to read it", "row": [
+      {"box": "people", "title": "they have more", "sub": ["so they are favored"], "strike": true},
+      {"box": "idea", "title": "it can be a trial", "sub": ["not a sign of favor"]}]},
+    "then": "This repeats an earlier verse of the same surah, as Ibn Kathir notes briefly. The setting is the same: the hypocrites around Madinah had {reward}wealth and sons{/reward}, and it would be easy to admire them. The verse says those very things {trap}could become their punishment.{/trap}",
+    "now": "The cousin with the big wedding photos. The colleague whose kids are in every highlight reel. You feel small next to them. {idea}The verse says what you see on the outside tells you nothing about what it costs inside.{/idea}",
+    "old": "People with more must be more blessed than me.",
+    "new": "Having more is not proof of being loved more by Allah.",
+    "try": "When you feel envy today, say Alhamdulillah for one specific thing you have.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:86", "surah": 9, "ayah": 86, "place": "madinah",
+    "title": "Those with the most means asked to stay home.",
+    "subtitle": "Having the ability and asking to be excused",
+    "picture": {"kind": "boxes", "label": "Who asked to stay", "row": [
+      {"box": "idea", "title": "the call", "sub": ["believe and go out"]},
+      {"conn": "answered by"},
+      {"box": "people", "title": "the wealthy", "sub": ["supplies, means, ability"]},
+      {"conn": "asking"},
+      {"box": "trap", "title": "\"leave us\"", "sub": ["with those who sit"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "they could not", "sub": ["no means"], "strike": true},
+      {"box": "trap", "title": "they would not", "sub": ["means, but no will"]}]},
+    "then": "Ibn Kathir says Allah rebuked those who stayed back {trap}even though they had the supplies, means and ability.{/trap} They said: leave us with those who sit. He adds that such people are boastful when it is safe and {trap}fearful when it is hard.{/trap}",
+    "now": "You have the car, the free evening, the skills. Your elderly neighbor needs a lift to the clinic, and you find a reason to say no. {idea}The verse is not about those who cannot. It is about those who can and do not.{/idea}",
+    "old": "I am excused because I am busy too.",
+    "new": "When I have the means, my excuse needs to be honest.",
+    "try": "Use one thing you have plenty of today, time, a car, a skill, to help someone.",
+    "related": ["33:19", "47:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:87", "surah": 9, "ayah": 87, "place": "madinah",
+    "title": "Content to stay behind, until the heart stopped understanding.",
+    "subtitle": "How comfort can seal a heart",
+    "picture": {"kind": "boxes", "label": "The slow sealing", "row": [
+      {"box": "people", "title": "content", "sub": ["happy to stay back"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "a sealed heart", "sub": ["closed to guidance"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "no understanding", "sub": ["of benefit or harm"]}]},
+    "key": {"label": "What gets lost", "row": [
+      {"box": "people", "title": "only a missed chance", "sub": ["no lasting effect"], "strike": true},
+      {"box": "trap", "title": "the sense to see", "sub": ["what helps and what hurts"]}]},
+    "then": "Continuing the verse before, they were {trap}content to be with those who sit behind.{/trap} Ibn Kathir says their hearts were sealed because they stayed away, so they no longer understood {trap}what benefits them or what hurts them.{/trap}",
+    "now": "At first, skipping the circle or the Quran class feels like a break. A month later you do not even miss it. A year later the reminders sound like noise. {idea}The verse warns that contentment with less can quietly dull your sense of what matters.{/idea}",
+    "old": "I am just taking a break from the good things for a while.",
+    "new": "Being content to stay behind can slowly dull my heart.",
+    "try": "Reconnect with one good habit you dropped. Do just five minutes of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:88", "surah": 9, "ayah": 88, "place": "madinah",
+    "title": "But the Messenger and the believers gave what they had.",
+    "subtitle": "The contrast to those who stayed home",
+    "picture": {"kind": "boxes", "label": "Who went out", "row": [
+      {"box": "people", "title": "the Messenger ﷺ", "sub": ["led the way"]},
+      {"box": "people", "title": "the believers", "sub": ["went with him"]},
+      {"conn": "gave"},
+      {"box": "reward", "title": "wealth and selves", "sub": ["what they had"]},
+      {"box": "reward", "title": "the good things", "sub": ["and success"]}]},
+    "key": {"label": "Two responses to the call", "row": [
+      {"box": "trap", "title": "\"leave us\"", "sub": ["the ones with means"]},
+      {"box": "idea", "title": "\"we are coming\"", "sub": ["with him, whatever it costs"]}]},
+    "then": "After describing the faults of the hypocrites, Ibn Kathir says Allah {idea}praised the faithful believers{/idea} who strove with the Prophet ﷺ in the heat of Tabuk. For them are {reward}the good things{/reward} in the Hereafter.",
+    "now": "The call might be small: a sick relative, a fundraising night, a friend who needs you at the hospital at midnight. Some people find reasons; some people just show up. {idea}The verse calls the ones who show up successful.{/idea}",
+    "old": "Showing up costs me too much.",
+    "new": "Giving what I have when called is what success looks like.",
+    "try": "Say yes today to one request for help you would normally decline.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:89", "surah": 9, "ayah": 89, "place": "madinah",
+    "title": "What was prepared for those who went.",
+    "subtitle": "Gardens already waiting",
+    "picture": {"kind": "boxes", "label": "Prepared in advance", "row": [
+      {"box": "people", "title": "those who gave", "sub": ["in the hard season"]},
+      {"conn": "find"},
+      {"box": "reward", "title": "gardens", "sub": ["rivers flowing beneath"]},
+      {"box": "reward", "title": "forever", "sub": ["the great success"]}]},
+    "key": {"label": "What the heat was worth", "row": [
+      {"box": "trap", "title": "a hot journey", "sub": ["weeks of hardship"]},
+      {"conn": "exchanged for"},
+      {"box": "reward", "title": "eternal shade", "sub": ["rivers, forever"]}]},
+    "then": "This completes the verse before. Ibn Kathir says these two verses describe {idea}the qualities and the reward{/idea} of the faithful believers. Those who left the shade of Madinah for the heat find gardens {reward}prepared for them{/reward}, the high grades of Paradise.",
+    "now": "You give up the lie-in for Fajr, the weekend for your parents, the extra money for someone in need. It feels like loss at the time. {reward}The verse says something has already been prepared in return.{/reward}",
+    "old": "What I give up for Allah is simply gone.",
+    "new": "What I give up is answered with something already prepared for me.",
+    "try": "Give up one small comfort today for Allah's sake, and tell no one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

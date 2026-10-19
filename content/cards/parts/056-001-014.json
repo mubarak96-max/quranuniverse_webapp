@@ -1,0 +1,276 @@
+[
+  {
+    "id": "56:1", "surah": 56, "ayah": 1, "place": "makkah",
+    "title": "When the Event happens, it simply happens.",
+    "subtitle": "The surah opens on a certainty, not a maybe",
+    "picture": {"kind": "boxes", "label": "The opening", "row": [
+      {"box": "people", "title": "Makkah", "sub": ["called it impossible"]},
+      {"conn": "is told"},
+      {"box": "idea", "title": "the Occurrence", "sub": ["a name for the Day", "it will surely come"]}]},
+    "key": {"label": "Not if, but when", "row": [
+      {"box": "plain", "title": "if it comes", "sub": ["a maybe to argue about"], "strike": true},
+      {"box": "idea", "title": "when it comes", "sub": ["a fact with a fixed time"]}]},
+    "then": "The Makkan listeners found resurrection unbelievable and treated it as imagination. The surah does not open with an argument. It opens with {idea}When the Occurrence occurs{/idea}, a name for the Day chosen, Ibn Kathir says, because it is real and will surely come.",
+    "now": "You plan in years: the mortgage, the retirement age, the kids' graduation. Death and the Day sit in a mental folder marked {trap}someday, maybe{/trap}. This verse moves them to the folder marked {idea}certain{/idea}.",
+    "old": "The Day is something to think about later, if at all.",
+    "new": "The Day is the one appointment in my calendar that cannot be moved.",
+    "try": "Tonight before sleep, say one sentence to yourself about the Day as a fact, not a maybe.",
+    "related": ["69:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:2", "surah": 56, "ayah": 2, "place": "makkah",
+    "title": "When it comes, nobody will call it fake.",
+    "subtitle": "No one can deny it, stop it, or take it back",
+    "picture": {"kind": "boxes", "label": "At its arrival", "row": [
+      {"box": "trap", "title": "denial", "sub": ["it will never happen"], "strike": true},
+      {"conn": "meets"},
+      {"box": "idea", "title": "the Day itself", "sub": ["no stopping, no recall"]}]},
+    "key": {"label": "What changes", "row": [
+      {"box": "people", "title": "now", "sub": ["people argue about it"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "on the Day", "sub": ["no one left to argue"]}]},
+    "then": "In Makkah, denying the resurrection was easy talk. Ibn Kathir explains that once Allah commands the Day to begin, {idea}none can stop it or prevent it{/idea}. Qatadah said it will not be discontinued, taken back, or aborted.",
+    "now": "Online, any fact can be called fake. You can scroll past, mute, block, unfollow. There is always another opinion. {trap}Denial works well, right up until the thing arrives.{/trap} That Day, nobody posts a counter-argument.",
+    "old": "If I do not believe it, it does not really apply to me.",
+    "new": "My doubt does not delay it by one second, so my preparation should not wait either.",
+    "try": "Pick one thing you keep postponing because the Day feels unreal, and do a small part of it today.",
+    "related": ["42:47", "70:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:3", "surah": 56, "ayah": 3, "place": "makkah",
+    "title": "The Day lowers some people and lifts others.",
+    "subtitle": "Rank here is not rank there",
+    "picture": {"kind": "boxes", "label": "Turned over", "row": [
+      {"box": "people", "title": "mighty here", "sub": ["status, money, name"]},
+      {"conn": "lowered"},
+      {"box": "trap", "title": "low there"},
+      {"box": "people", "title": "weak here", "sub": ["overlooked, unknown"]},
+      {"conn": "raised"},
+      {"box": "reward", "title": "high there"}]},
+    "key": {"label": "Who decides rank", "row": [
+      {"box": "plain", "title": "my status now", "sub": ["followers, title, salary"], "strike": true},
+      {"box": "idea", "title": "what I did", "sub": ["the scale that Day uses"]}]},
+    "then": "Al-Hasan and Qatadah explained it: the Day {trap}lowers some to the lowest places, even if they were mighty in this life{/trap}, and {reward}raises others to the highest grades, even if they were weak{/reward}. In Makkah, tribal rank decided almost everything.",
+    "now": "At work there is a clear ladder: the corner office, the intern, the cleaner who comes in after everyone leaves. You know where you stand on it. {idea}The Day uses a different ladder{/idea}, and people may swap places.",
+    "old": "People's importance is roughly what it looks like from outside.",
+    "new": "The quiet person I overlook may stand far above me that Day.",
+    "try": "Thank one person today, by name, whose work usually goes unnoticed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:4", "surah": 56, "ayah": 4, "place": "makkah",
+    "title": "The ground you trust will shake like a sieve.",
+    "subtitle": "The most stable thing you know becomes unstable",
+    "picture": {"kind": "boxes", "label": "When it begins", "row": [
+      {"box": "people", "title": "the earth", "sub": ["solid, under everything"]},
+      {"conn": "is"},
+      {"box": "trap", "title": "shaken violently", "sub": ["surface and depths"]}]},
+    "key": {"label": "What I stand on", "row": [
+      {"box": "plain", "title": "solid ground", "sub": ["it will always hold"], "strike": true},
+      {"box": "idea", "title": "only Allah holds", "sub": ["even the earth moves on command"]}]},
+    "then": "Ibn Abbas, Mujahid and others said the earth will be {trap}violently shaken{/trap}, over all its surface and through its depths. Ar-Rabi bin Anas compared it to a sifter shaken with everything in it.",
+    "now": "You have built your life on things that feel like solid ground: the job contract, the house, your health. Then one phone call or one scan result, and the floor moves. {idea}That small shake is a preview of what is not permanent.{/idea}",
+    "old": "Some things in my life are simply stable and safe.",
+    "new": "Even the ground under my feet holds only because Allah holds it.",
+    "try": "The next time you feel your feet on the floor, say quietly: only You are permanent.",
+    "related": ["99:1", "22:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:5", "surah": 56, "ayah": 5, "place": "makkah",
+    "title": "Even the mountains get ground down.",
+    "subtitle": "The biggest thing you know is not permanent",
+    "picture": {"kind": "boxes", "label": "The mountains", "row": [
+      {"box": "people", "title": "mountains", "sub": ["the picture of firm"]},
+      {"conn": "crumbled into"},
+      {"box": "trap", "title": "powder", "sub": ["relentlessly pulverized"]}]},
+    "key": {"label": "Size is not safety", "row": [
+      {"box": "plain", "title": "too big to fall", "sub": ["it has stood forever"], "strike": true},
+      {"box": "idea", "title": "crumbles on command", "sub": ["nothing outlasts His order"]}]},
+    "then": "To the Arabs, mountains were the picture of permanence. The tafsir says they will be {trap}relentlessly pulverized{/trap}. Ibn Zayd linked it to another verse that describes them as a heap of sand poured out.",
+    "now": "The big company that seemed untouchable. The family name everyone respected. The career you thought was set for life. {trap}Things you called mountains{/trap} can fold in a year. {idea}What you did for Allah keeps its shape.{/idea}",
+    "old": "If something is big and old enough, it will always be there.",
+    "new": "If mountains crumble, my biggest worries and my biggest securities are both temporary.",
+    "try": "Write down one thing that feels like a mountain to you right now. Under it, write: this too is temporary.",
+    "related": ["73:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:6", "surah": 56, "ayah": 6, "place": "makkah",
+    "title": "Mountains end as dust in the wind.",
+    "subtitle": "Scattered, then gone without a trace",
+    "picture": {"kind": "boxes", "label": "What is left", "row": [
+      {"box": "trap", "title": "crumbled mountain"},
+      {"conn": "becomes"},
+      {"box": "plain", "title": "floating dust", "sub": ["scattered by the wind"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "nothing", "sub": ["no trace left"]}]},
+    "key": {"label": "How solid it was", "row": [
+      {"box": "plain", "title": "it will last", "sub": ["solid as stone"], "strike": true},
+      {"box": "idea", "title": "a passing dust storm", "sub": ["rises, then fades"]}]},
+    "then": "Ali described it as {trap}a rising dust storm that soon fades, leaving no trace{/trap}. Ibn Abbas likened it to embers rising from a fire that go out as soon as they land. Something huge becomes nothing at all.",
+    "now": "Dust in a sunbeam through the window. You watch it float, then it is gone. Your trophies, your old profiles, the arguments you were so sure you had to win. {idea}A lot of it will end like that dust.{/idea}",
+    "old": "The things I worked hardest for will leave a mark.",
+    "new": "What looks heavy now can end as dust, so I should weigh what I chase.",
+    "try": "Next time you see dust in sunlight, ask: will what I am doing today outlast this?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:7", "surah": 56, "ayah": 7, "place": "makkah",
+    "title": "On that Day, everyone falls into one of three groups.",
+    "subtitle": "Humanity sorted into three, not two",
+    "picture": {"kind": "boxes", "label": "Three groups", "row": [
+      {"box": "reward", "title": "the foremost", "sub": ["nearest to Allah"]},
+      {"box": "people", "title": "the right", "sub": ["records in the right hand"]},
+      {"box": "trap", "title": "the left", "sub": ["records in the left hand"]}]},
+    "key": {"label": "Where I am heading", "row": [
+      {"box": "plain", "title": "I'll be fine somehow", "sub": ["no group in mind"], "strike": true},
+      {"box": "idea", "title": "I am heading to one", "sub": ["my choices sort me now"]}]},
+    "then": "Ibn Kathir explains the three: those on the right, given their records in their right hands; those on the left, given theirs in the left; and {reward}the foremost, nearest to Allah{/reward}, fewer in number. He notes the end of the surah shows the same three at death.",
+    "now": "Life sorts people all the time: grade bands, salary tiers, credit scores. You know how to move between them with effort. {idea}This sorting is already in progress{/idea}, one prayer, one kind word, one lie at a time.",
+    "old": "I'm a decent person, so I will land on the good side somehow.",
+    "new": "The sorting is happening in my ordinary choices, today.",
+    "try": "Ask yourself honestly which group your last 24 hours point to. Then do one thing that points higher.",
+    "related": ["35:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:8", "surah": 56, "ayah": 8, "place": "makkah",
+    "title": "The people of the right: what a place to be!",
+    "subtitle": "A question meant to make you long for it",
+    "picture": {"kind": "boxes", "label": "The right side", "row": [
+      {"box": "people", "title": "the right", "sub": ["records in the right hand"]},
+      {"conn": "taken to"},
+      {"box": "reward", "title": "the right side", "sub": ["most of Paradise's people"]}]},
+    "key": {"label": "How it is said", "row": [
+      {"box": "plain", "title": "a dry list", "sub": ["here are the groups"], "strike": true},
+      {"box": "idea", "title": "a question", "sub": ["what are they? how fortunate!"]}]},
+    "then": "The verse names the group and then asks about them, a way of saying {reward}how fortunate they are{/reward}. The tafsir says they are given their records in their right hands, and As-Suddi said they make up most of the people of Paradise.",
+    "now": "You open an exam result and see the word that means you passed. Your shoulders drop and you call your mother. {reward}Being handed your record in your right hand{/reward} is that feeling, with no fear left.",
+    "old": "Being among the right means barely scraping through.",
+    "new": "The right is a place of honor, not a lucky escape.",
+    "try": "Make a short dua today: O Allah, make me one of the people of the right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:9", "surah": 56, "ayah": 9, "place": "makkah",
+    "title": "The people of the left: how sad their state!",
+    "subtitle": "The same question, with the opposite weight",
+    "picture": {"kind": "boxes", "label": "The left side", "row": [
+      {"box": "people", "title": "the left", "sub": ["records in the left hand"]},
+      {"conn": "taken to"},
+      {"box": "trap", "title": "the left side", "sub": ["the people of the Fire"]}]},
+    "key": {"label": "What leads there", "row": [
+      {"box": "plain", "title": "bad luck", "sub": ["it just happened to them"], "strike": true},
+      {"box": "trap", "title": "their actions", "sub": ["Allah save us from them"]}]},
+    "then": "The same form of question, now for those on the left, who receive their records in their left hands. Ibn Kathir calls them the people of the Fire and adds a short prayer: {trap}may Allah save us from their actions{/trap}. He prays against the deeds, not only the destination.",
+    "now": "You see where a habit leads in someone else: the uncle and his temper, the friend and the debts. You know how it ends. {idea}The prayer is to be saved from the habits, while there is time to drop them.{/idea}",
+    "old": "The left side is for other, worse people.",
+    "new": "The road to the left is made of actions, and I can step off any of them.",
+    "try": "Name one habit you would not want written in your record. Skip it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:10", "surah": 56, "ayah": 10, "place": "makkah",
+    "title": "Those who rushed ahead here are ahead there.",
+    "subtitle": "The foremost in good stay foremost on the Day",
+    "picture": {"kind": "boxes", "label": "The foremost", "row": [
+      {"box": "reward", "title": "foremost here", "sub": ["first to good deeds"]},
+      {"conn": "become"},
+      {"box": "reward", "title": "foremost there", "sub": ["highest in rank"]}]},
+    "key": {"label": "What foremost means", "row": [
+      {"box": "plain", "title": "first in line", "sub": ["fastest, loudest"], "strike": true},
+      {"box": "idea", "title": "first to good", "sub": ["Prophets, truthful, martyrs"]}]},
+    "then": "Ibn Kathir says the foremost rank above those on the right and include {reward}the Messengers, Prophets, true believers and martyrs{/reward}. He links them to another verse about those foremost in good deeds by Allah's leave. The doubled word says it: first here, first there.",
+    "now": "The group chat asks who can help someone move flat on Saturday. Someone always types me first, before thinking of excuses. {idea}That speed toward good{/idea} is what this verse honors.",
+    "old": "I will get to good deeds once things settle down.",
+    "new": "Being early to good is itself the rank.",
+    "try": "The next time a chance to help comes up today, say yes first and work out the details after.",
+    "related": ["35:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:11", "surah": 56, "ayah": 11, "place": "makkah",
+    "title": "Their reward is to be brought near.",
+    "subtitle": "Nearness to Allah is named before any garden",
+    "picture": {"kind": "boxes", "label": "Their title", "row": [
+      {"box": "reward", "title": "the foremost"},
+      {"conn": "are"},
+      {"box": "idea", "title": "brought near", "sub": ["nearest to Allah"]}]},
+    "key": {"label": "What the reward is", "row": [
+      {"box": "plain", "title": "things", "sub": ["gardens, gifts"]},
+      {"conn": "but first"},
+      {"box": "idea", "title": "nearness", "sub": ["closeness to Allah"]}]},
+    "then": "After naming the foremost, the verse gives their title before any garden is described: {reward}the ones brought near{/reward}. Ibn Kathir says they are in a better grade and nearer to Allah than those on the right.",
+    "now": "You know the difference between a gift card from your manager and an hour where they really listen to you. One is nice. {idea}The other is being close.{/idea} The verse names closeness first.",
+    "old": "Paradise is mainly about what I will get.",
+    "new": "The greatest part is whom I will be near.",
+    "try": "Spend two quiet minutes in sujood today asking only to be near Allah, nothing else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:12", "surah": 56, "ayah": 12, "place": "makkah",
+    "title": "Their home is the Gardens of Delight.",
+    "subtitle": "Nearness comes with a place to live",
+    "picture": {"kind": "boxes", "label": "Where they live", "row": [
+      {"box": "reward", "title": "brought near"},
+      {"conn": "dwell in"},
+      {"box": "reward", "title": "Gardens of Delight", "sub": ["pleasure without end"]}]},
+    "key": {"label": "The order", "row": [
+      {"box": "idea", "title": "nearness", "sub": ["first"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "the gardens", "sub": ["the home that goes with it"]}]},
+    "then": "The verses move from who the foremost are, to what they are, to where they live: {reward}the Gardens of Delight{/reward}. For listeners in the dry valley of Makkah, a garden was a picture of everything good.",
+    "now": "After a long shift you come home, kick off your shoes, and the house is warm. That is the feeling of arriving. {reward}The Gardens of Delight{/reward} are the arrival after a life of striving.",
+    "old": "My effort now leads to an uncertain end.",
+    "new": "Effort toward Allah ends in a home, not in nothing.",
+    "try": "When you get home today, pause at the door and ask Allah for a home in the Gardens of Delight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:13", "surah": 56, "ayah": 13, "place": "makkah",
+    "title": "Many of the foremost come from the early generations.",
+    "subtitle": "The first believers set the pace",
+    "picture": {"kind": "boxes", "label": "Who they are", "row": [
+      {"box": "reward", "title": "a large company"},
+      {"conn": "from"},
+      {"box": "people", "title": "the earlier ones", "sub": ["early generations of this Ummah"]}]},
+    "key": {"label": "Two readings", "row": [
+      {"box": "plain", "title": "earlier nations", "sub": ["Ibn Jarir's view"]},
+      {"box": "idea", "title": "early in this Ummah", "sub": ["Ibn Kathir's preferred view"]}]},
+    "then": "Scholars differed. Some said the earlier ones are earlier nations. Ibn Kathir preferred {idea}the earlier generations of this Ummah{/idea}, citing the Prophet's ﷺ words that the best people are his generation, then the next, then the next.",
+    "now": "You read about people who believed when it cost them family and safety. Your faith costs you an early alarm. {idea}They set the pace{/idea}, and the door they walked through is still open.",
+    "old": "The great believers lived back then. That race is over.",
+    "new": "Their example is a pace to follow, not a closed chapter.",
+    "try": "Read one short story about an early Muslim today and take one habit from it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:14", "surah": 56, "ayah": 14, "place": "makkah",
+    "title": "Only a few of the foremost come later.",
+    "subtitle": "Being first to good gets rarer, so it counts more",
+    "picture": {"kind": "boxes", "label": "Later on", "row": [
+      {"box": "reward", "title": "a few"},
+      {"conn": "from"},
+      {"box": "people", "title": "the later ones", "sub": ["later generations, us"]}]},
+    "key": {"label": "What a few means", "row": [
+      {"box": "plain", "title": "no chance for me", "sub": ["I came too late"], "strike": true},
+      {"box": "idea", "title": "rare, so precious", "sub": ["a few still make it"]}]},
+    "then": "Ibn Kathir explains the later ones as {idea}the later generations of this Ummah{/idea}. Among them, the foremost are {trap}few{/trap}. Abu Hurayrah reported that this news was hard for the Companions when it was revealed.",
+    "now": "In a packed stadium, a few people still stand up at the back to pray when the time comes. Few is not zero. {idea}A few means there is a place, and someone will take it.{/idea}",
+    "old": "If only a few make it to the front, it won't be someone like me.",
+    "new": "A few will be from the later ones, and I can aim to be one of them.",
+    "try": "Choose one good deed most people around you skip, and do it quietly today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

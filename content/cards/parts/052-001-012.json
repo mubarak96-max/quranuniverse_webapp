@@ -1,0 +1,235 @@
+[
+  {
+    "id": "52:1", "surah": 52, "ayah": 1, "place": "makkah",
+    "title": "By the mount where Allah spoke to Musa.",
+    "subtitle": "Why a mountain opens the surah",
+    "picture": {"kind": "boxes", "label": "The first oath", "row": [
+      {"box": "idea", "title": "At-Tur", "sub": ["a mount with trees"]},
+      {"conn": "where"},
+      {"box": "people", "title": "Musa", "sub": ["was spoken to by Allah"]}]},
+    "key": {"label": "What the oath carries", "row": [
+      {"box": "plain", "title": "just a mountain", "sub": ["rock and trees"], "strike": true},
+      {"box": "idea", "title": "a place of revelation", "sub": ["a witness that Allah speaks"]}]},
+    "then": "The tafsir says Allah swears by His creation {idea}as a testimony to His great ability.{/idea} At-Tur is a mount with trees, like the one {reward}where Allah spoke to Musa.{/reward} The Prophet ﷺ was heard reciting this surah in Maghrib, and a listener said he never heard a more beautiful recitation.",
+    "now": "You have a place that changed you: the masjid where you first cried in prayer, a hospital chapel, a quiet beach at dawn. {idea}Places can testify.{/idea} This surah starts at one of the greatest of them.",
+    "old": "A mountain is just part of the scenery.",
+    "new": "Some places carry the memory of Allah speaking, and they call me to listen.",
+    "try": "Go back, in person or in memory, to one place where you felt close to Allah, and sit there for five minutes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:2", "surah": 52, "ayah": 2, "place": "makkah",
+    "title": "By a Book that is already written.",
+    "subtitle": "The inscribed Book",
+    "picture": {"kind": "boxes", "label": "The second oath", "row": [
+      {"box": "idea", "title": "a Book inscribed", "sub": ["written in lines"]},
+      {"conn": "may be"},
+      {"box": "idea", "title": "the Preserved Tablet", "sub": ["one view"]},
+      {"box": "idea", "title": "revealed scriptures", "sub": ["another view"]}]},
+    "key": {"label": "What is written", "row": [
+      {"box": "plain", "title": "nothing is settled", "sub": ["it is all chance"], "strike": true},
+      {"box": "idea", "title": "it is recorded", "sub": ["and it will come true"]}]},
+    "then": "Allah swears by {idea}a Book inscribed.{/idea} The tafsir gives two views: the Preserved Tablet, or {idea}the revealed Books that people recite.{/idea} Either way, what is written with Allah does not change.",
+    "now": "You write a to-do list and lose it by Tuesday. Contracts get rewritten, promises get broken. {idea}This Book does not get rewritten.{/idea} What Allah promises in it is as firm as ink that never fades.",
+    "old": "Promises are words that can change.",
+    "new": "Allah's word is written and fixed. His promise is the most certain thing there is.",
+    "try": "Open the Quran today and read one page slowly, as words that will not change.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:3", "surah": 52, "ayah": 3, "place": "makkah",
+    "title": "Written on open parchment, spread out to be read.",
+    "subtitle": "A Book meant to be opened",
+    "picture": {"kind": "boxes", "label": "How it is written", "row": [
+      {"box": "idea", "title": "the inscribed Book", "sub": []},
+      {"conn": "on"},
+      {"box": "reward", "title": "parchment unrolled", "sub": ["open, not hidden"]}]},
+    "key": {"label": "A Book like this is", "row": [
+      {"box": "plain", "title": "kept on a high shelf", "sub": ["wrapped and closed"], "strike": true},
+      {"box": "reward", "title": "spread open", "sub": ["to be read"]}]},
+    "then": "The Book is {reward}in parchment unrolled.{/reward} The tafsir links this to the revealed Books {idea}that people recite.{/idea} It is not a sealed secret but something laid open.",
+    "now": "There is a Quran in your house, maybe wrapped in cloth on the top shelf, opened in Ramadan and at funerals. {reward}It was sent spread open.{/reward} It is meant for your Tuesday evenings too.",
+    "old": "The Quran is precious, so I keep it safely closed.",
+    "new": "Its honor is in being opened and read, not only kept.",
+    "try": "Take the Quran off the shelf and leave it somewhere you will see it tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:4", "surah": 52, "ayah": 4, "place": "makkah",
+    "title": "By the House in heaven always full of worshippers.",
+    "subtitle": "Al-Bayt Al-Ma'mur",
+    "picture": {"kind": "boxes", "label": "The frequented House", "row": [
+      {"box": "idea", "title": "Al-Bayt Al-Ma'mur", "sub": ["in the seventh heaven"]},
+      {"conn": "visited by"},
+      {"box": "people", "title": "70,000 angels daily", "sub": ["never returning"], "num": false},
+      {"box": "reward", "title": "parallel to the Ka'bah", "sub": ["above it"]}]},
+    "key": {"label": "Ibrahim's place there", "row": [
+      {"box": "people", "title": "built the Ka'bah", "sub": ["on earth"]},
+      {"conn": "rests against"},
+      {"box": "reward", "title": "the House above", "sub": ["reward fits the deed"]}]},
+    "then": "The Prophet ﷺ said that on the Night Journey he was taken to {idea}Al-Bayt Al-Ma'mur{/idea}, visited daily by seventy thousand angels who never return to it again. He saw Ibrahim reclining against it. The tafsir notes {reward}Ibrahim built the Ka'bah on earth, and the reward fits the action.{/reward}",
+    "now": "You feel like you are praying alone in a small room. Right now, angels without number are circling a House in heaven. {idea}Your prayer joins a worship that never stops.{/idea}",
+    "old": "My worship is small and lonely.",
+    "new": "My prayer joins a worship in heaven that never pauses.",
+    "try": "In your next prayer, remember for a moment that the angels are worshipping with you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:5", "surah": 52, "ayah": 5, "place": "makkah",
+    "title": "By the roof raised high above you.",
+    "subtitle": "The sky as a guarded ceiling",
+    "picture": {"kind": "boxes", "label": "The raised roof", "row": [
+      {"box": "idea", "title": "the heaven", "sub": ["Ali's explanation"]},
+      {"conn": "made"},
+      {"box": "reward", "title": "a roof", "sub": ["safe and well-guarded"]}]},
+    "key": {"label": "How people treat it", "row": [
+      {"box": "trap", "title": "turn away from its signs", "sub": ["the warning in 21:32"]},
+      {"box": "idea", "title": "look and reflect", "sub": ["what the oath asks"]}]},
+    "then": "Ali bin Abi Talib said the raised roof {idea}means the heaven{/idea}, and recited: We made the heaven a roof, {reward}safe and well-guarded{/reward}, {trap}yet they turn away from its signs.{/trap}",
+    "now": "You notice the ceiling only when it leaks. The sky over your city has never leaked, never cracked, never fallen. {idea}A guarded roof you never pay for.{/idea} Most days you never even look at it.",
+    "old": "I only notice the roof over me when something goes wrong.",
+    "new": "The sky is a roof Allah keeps guarded for me every second.",
+    "try": "Look up at the sky once today and thank Allah for the roof you never had to fix.",
+    "related": ["21:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:6", "surah": 52, "ayah": 6, "place": "makkah",
+    "title": "By the sea that is full, and will one day blaze.",
+    "subtitle": "The calm sea and what it will become",
+    "picture": {"kind": "boxes", "label": "Al-Bahr Al-Masjur", "row": [
+      {"box": "plain", "title": "the filled sea", "sub": ["what we see now"]},
+      {"conn": "will become"},
+      {"box": "trap", "title": "kindled with fire", "sub": ["on the Day"]}]},
+    "key": {"label": "What looks permanent", "row": [
+      {"box": "plain", "title": "the sea will always be calm", "sub": [], "strike": true},
+      {"box": "idea", "title": "it changes at His command", "sub": ["like all of creation"]}]},
+    "then": "Most scholars say this is {idea}the oceans of the earth.{/idea} One view in the tafsir: on the Day of Resurrection {trap}the sea will be kindled with fire{/trap}, as in another verse. Qatadah and Ibn Jarir preferred {idea}the filled sea{/idea}, since it is not lit now.",
+    "now": "You stand on a beach, the waves steady, the horizon endless. It feels like it will always be this way. {idea}Nothing in creation is fixed except by Allah's will.{/idea} The world you think is permanent has a last day.",
+    "old": "The world around me is solid and will stay the same.",
+    "new": "Even the oceans are held in place by Allah, and one day they will change.",
+    "try": "Next time you see water, a sea, a river, or a glass, remember for a moment that it obeys Allah.",
+    "related": ["81:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:7", "surah": 52, "ayah": 7, "place": "makkah",
+    "title": "Everything sworn by points to this: it will happen.",
+    "subtitle": "The answer to the oaths",
+    "picture": {"kind": "boxes", "label": "The oaths lead here", "row": [
+      {"box": "idea", "title": "mount, Book, House", "sub": ["roof, sea"]},
+      {"conn": "testify"},
+      {"box": "trap", "title": "your Lord's punishment", "sub": ["will surely occur"]}]},
+    "key": {"label": "How Umar heard it", "row": [
+      {"box": "plain", "title": "a line to recite past", "sub": [], "strike": true},
+      {"box": "idea", "title": "a true vow", "sub": ["it stopped him in the street"]}]},
+    "then": "After five oaths comes the point: {trap}the punishment of your Lord will surely come to pass.{/trap} The tafsir reports that Umar once heard a man reciting this at night in Madinah and said, {idea}by the Lord of the Ka'bah, this is a true vow.{/idea} He went home and was ill for a month.",
+    "now": "You have heard this verse in Taraweeh, maybe a dozen times, and it slid past. Umar heard it once through a wall and sat down in the street. {idea}Let one verse actually land on you.{/idea}",
+    "old": "I know these verses already. They are familiar.",
+    "new": "Familiar words can still be true vows that should stop me.",
+    "try": "Read this one verse slowly three times today, and sit with it for a minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:8", "surah": 52, "ayah": 8, "place": "makkah",
+    "title": "When it comes, nothing can push it back.",
+    "subtitle": "No preventer",
+    "picture": {"kind": "boxes", "label": "Who can stop it", "row": [
+      {"box": "people", "title": "money", "sub": []},
+      {"box": "people", "title": "power", "sub": []},
+      {"box": "people", "title": "people", "sub": []},
+      {"conn": "none can avert"},
+      {"box": "trap", "title": "what Allah decides", "sub": []}]},
+    "key": {"label": "The only time to act", "row": [
+      {"box": "trap", "title": "when it arrives", "sub": ["too late to stop"], "strike": true},
+      {"box": "reward", "title": "now, before it", "sub": ["turning back is open"]}]},
+    "then": "The tafsir says that {trap}when Allah decides to send the torment, none can prevent it or stop it.{/trap} The Makkans had wealth, tribes, and alliances. None of that would be a shield. {idea}This is the part of the vow that shook Umar.{/idea}",
+    "now": "You have a lawyer for a contract, insurance for the car, a friend who knows someone. You can push almost anything back a little. {idea}This one, no one can.{/idea} {reward}But today the door to turn back is wide open.{/reward}",
+    "old": "There is always someone who can get me out of trouble.",
+    "new": "Some things no one can stop, so the time to prepare is now.",
+    "try": "Make sincere istighfar for something specific, while the door is still open.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:9", "surah": 52, "ayah": 9, "place": "makkah",
+    "title": "The sky that held still will shake and spin.",
+    "subtitle": "The raised roof, on that Day",
+    "picture": {"kind": "boxes", "label": "The same sky", "row": [
+      {"box": "reward", "title": "now", "sub": ["a guarded roof"]},
+      {"conn": "on that Day"},
+      {"box": "trap", "title": "swaying, spinning", "sub": ["shaking violently"]}]},
+    "key": {"label": "What I lean on", "row": [
+      {"box": "plain", "title": "the world will hold", "sub": [], "strike": true},
+      {"box": "idea", "title": "only Allah holds", "sub": ["even the sky"]}]},
+    "then": "Verse 5 swore by the roof raised high. Now that same sky {trap}will sway with circular motion.{/trap} The tafsir gives the meanings: shaking violently, splitting, spinning. {idea}The word holds both shaking and spinning.{/idea}",
+    "now": "An earthquake alert buzzes on your phone and for three seconds everything you trusted feels unsteady. {idea}That feeling is a tiny preview.{/idea} The only firm ground is what you built with Allah.",
+    "old": "The world under and above me is stable.",
+    "new": "Only Allah is truly stable. Even the sky will move when He commands.",
+    "try": "Say one dua today asking Allah to make you steady on the Day when everything shakes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:10", "surah": 52, "ayah": 10, "place": "makkah",
+    "title": "The mountains will move off like dust.",
+    "subtitle": "What seems fixed forever",
+    "picture": {"kind": "boxes", "label": "The mountains", "row": [
+      {"box": "plain", "title": "solid, ancient", "sub": ["like At-Tur"]},
+      {"conn": "will pass on"},
+      {"box": "trap", "title": "scattered dust", "sub": ["blown by the wind"]}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "plain", "title": "what looks strongest", "sub": ["rock, stone"], "strike": true},
+      {"box": "idea", "title": "what Allah keeps", "sub": ["deeds done for Him"]}]},
+    "then": "The surah opened with a mountain. Now {trap}the mountains will pass on, departing.{/trap} The tafsir says they will fade away and become {trap}scattered particles of dust blown away by the wind.{/trap}",
+    "now": "You say solid as a rock about your job, your health, your plans. The rocks themselves will blow away like dust. {idea}Anchor yourself to what does not move.{/idea}",
+    "old": "Some things in my life are rock solid.",
+    "new": "Even mountains will become dust. Only what is with Allah stays.",
+    "try": "Name one thing you call permanent. Then do one small deed that will truly last.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:11", "surah": 52, "ayah": 11, "place": "makkah",
+    "title": "That Day will be heavy for those who denied it.",
+    "subtitle": "Woe to the deniers",
+    "picture": {"kind": "boxes", "label": "On that Day", "row": [
+      {"box": "trap", "title": "the deniers", "sub": ["who said it would not come"]},
+      {"conn": "meet"},
+      {"box": "trap", "title": "woe", "sub": ["what they denied"]}]},
+    "key": {"label": "Two ways to meet it", "row": [
+      {"box": "trap", "title": "denied it", "sub": ["met it unprepared"]},
+      {"box": "reward", "title": "believed it", "sub": ["met it ready"]}]},
+    "then": "With the sky shaking and mountains gone, the verse turns to people: {trap}woe that Day to those who denied.{/trap} The tafsir says the woe is the punishment Allah directs at them. The surah introduction notes that the Makkans called the Prophet ﷺ a sorcerer and a madman.",
+    "now": "You do not deny the Day out loud. But some weeks you live as if it is not coming: no prayer, no thought of it. {idea}Denial can be quiet.{/idea} It shows in how you spend your days.",
+    "old": "I believe in the Day, so this does not apply to me.",
+    "new": "Belief shows in how I live, not only in what I say.",
+    "try": "Look at yesterday honestly. Find one moment where you lived as if the Day was not real, and change it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:12", "surah": 52, "ayah": 12, "place": "makkah",
+    "title": "They spent their days in empty talk and play.",
+    "subtitle": "Who the deniers were",
+    "picture": {"kind": "boxes", "label": "How they lived", "row": [
+      {"box": "trap", "title": "empty discourse", "sub": ["wading in falsehood"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "playing", "sub": ["religion as a joke"]}]},
+    "key": {"label": "What makes it dangerous", "row": [
+      {"box": "plain", "title": "it is only a joke", "sub": ["harmless fun"], "strike": true},
+      {"box": "idea", "title": "it fills a whole life", "sub": ["until the Day comes"]}]},
+    "then": "The deniers are described: {trap}those who were, in their falsehood, playing.{/trap} The tafsir says they live in falsehood and {trap}make the religion the subject of their mockery and jest.{/trap}",
+    "now": "Hours in a group chat trading memes about religion. A comedy show where faith is always the punchline. You laugh along. {idea}Play is fine. Making the sacred a joke is not.{/idea}",
+    "old": "Joking about religion is harmless.",
+    "new": "What I keep laughing at slowly becomes what I cannot take seriously.",
+    "try": "Next time a joke about faith comes up, simply do not add to it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

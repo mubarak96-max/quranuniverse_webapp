@@ -1,0 +1,258 @@
+[
+  {
+    "id": "7:46", "surah": 7, "ayah": 46, "place": "makkah",
+    "title": "On the heights between, people wait and hope.",
+    "subtitle": "The people of Al-A'raf, after whom the surah is named",
+    "picture": {"kind": "boxes", "label": "The barrier", "row": [
+      {"box": "reward", "title": "Paradise", "sub": ["mercy inside"]},
+      {"box": "people", "title": "Al-A'raf", "sub": ["the heights between", "deeds equal"]},
+      {"box": "trap", "title": "the Fire", "sub": ["outside"]}]},
+    "key": {"label": "What they feel there", "row": [
+      {"box": "people", "title": "forgotten", "sub": ["left in between"], "strike": true},
+      {"box": "reward", "title": "hoping", "sub": ["a hope Allah placed in them"]}]},
+    "then": "Between Paradise and the Fire is a wall with high places, Al-A'raf. Hudhayfah, Ibn Abbas, Ibn Mas'ud and others said those on it are {idea}people whose good and bad deeds are equal{/idea}. They greet the people of Paradise with peace. Al-Hasan said {reward}Allah only put this hope in their hearts because He means to honor them{/reward}.",
+    "now": "You feel stuck in the middle: not bad enough to give up, not good enough to feel sure. A few prayers missed, a few kept. {reward}The verse gives the people in between hope, not shame.{/reward}",
+    "old": "If I am only halfway good, I have no reason to hope.",
+    "new": "Even those in between are given hope, and one more good deed tips the scale.",
+    "try": "Add one good deed today that you would not normally do, for the scale.",
+    "related": ["57:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:47", "surah": 7, "ayah": 47, "place": "makkah",
+    "title": "They look toward the Fire and pray: not with them.",
+    "subtitle": "A dua made while seeing the danger",
+    "picture": {"kind": "boxes", "label": "What they do", "row": [
+      {"box": "people", "title": "people of A'raf", "sub": ["eyes turned"]},
+      {"conn": "toward"},
+      {"box": "trap", "title": "the Fire", "sub": ["people they recognize"]},
+      {"conn": "and pray"},
+      {"box": "idea", "title": "not with them", "sub": ["Our Lord, spare us"]}]},
+    "key": {"label": "What seeing the danger does", "row": [
+      {"box": "people", "title": "freeze in fear", "sub": ["stare and despair"], "strike": true},
+      {"box": "idea", "title": "turn to Allah", "sub": ["ask Him to keep you apart"]}]},
+    "then": "Ibn Abbas said that when they look at the people of the Fire and {trap}recognize them{/trap}, they make dua: {idea}O Lord, do not place us with the wrongdoing people{/idea}. Seeing the danger turns them straight to their Lord.",
+    "now": "You see a friend's life fall apart from a habit you also have, maybe a gambling app or a temper. {idea}Seeing it is a warning, and the right response is a dua.{/idea}",
+    "old": "Seeing others fall makes me feel either superior or hopeless.",
+    "new": "When I see where a path leads, I ask Allah to keep me off it.",
+    "try": "When you see someone's harmful habit today, quietly ask Allah to protect you from it too.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:48", "surah": 7, "ayah": 48, "place": "makkah",
+    "title": "Your crowd and your pride, what did they get you?",
+    "subtitle": "Numbers and status cannot save",
+    "picture": {"kind": "boxes", "label": "What they relied on", "row": [
+      {"box": "reward", "title": "their gathering", "sub": ["numbers, wealth"]},
+      {"box": "trap", "title": "their arrogance", "sub": ["looking down on others"]},
+      {"conn": "worth"},
+      {"box": "trap", "title": "0", "sub": ["no help at all"], "num": true}]},
+    "key": {"label": "What protects me", "row": [
+      {"box": "people", "title": "many supporters", "sub": ["strength in numbers"], "strike": true},
+      {"box": "idea", "title": "humble faith", "sub": ["what actually counts"]}]},
+    "then": "The people on the heights call to chiefs of the idolaters they recognize. The tafsir says: {trap}your great numbers and wealth did not save you{/trap} from Allah's punishment. {idea}Their gathering and their pride had no value there.{/idea}",
+    "now": "Followers, a big family name, a WhatsApp group of three hundred people who always take your side. {trap}It feels like protection.{/trap} {idea}None of it stands next to you when you are asked about your own life.{/idea}",
+    "old": "With enough people behind me, I am safe.",
+    "new": "Crowds and status buy nothing before Allah.",
+    "try": "Do one thing today for Allah only, that no crowd will see or praise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:49", "surah": 7, "ayah": 49, "place": "makkah",
+    "title": "The ones you said would never get mercy: enter Paradise.",
+    "subtitle": "Who receives mercy is not ours to swear",
+    "picture": {"kind": "boxes", "label": "A reversal", "row": [
+      {"box": "trap", "title": "the arrogant", "sub": ["swore: no mercy for them"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "enter Paradise", "sub": ["no fear, no grief"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "I can tell who is lost", "sub": ["by how they look"], "strike": true},
+      {"box": "idea", "title": "only Allah", "sub": ["His mercy surprises"]}]},
+    "then": "The arrogant had sworn that {trap}Allah would never show these people mercy{/trap}. Ibn Abbas said this refers to the people of Al-A'raf. Then Allah decrees for them: {reward}enter Paradise, no fear on you, nor will you grieve{/reward}.",
+    "now": "You have written someone off: the cousin who left the deen, the coworker with the past. You are sure how their story ends. {idea}The verse is a warning about that certainty.{/idea}",
+    "old": "Some people are obviously beyond Allah's mercy.",
+    "new": "I do not get to swear who Allah will have mercy on.",
+    "try": "Think of one person you have written off and make a sincere dua for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:50", "surah": 7, "ayah": 50, "place": "makkah",
+    "title": "Pour us some water. But that door is shut.",
+    "subtitle": "A request that comes too late",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "trap", "title": "people of the Fire", "sub": ["\"pour on us water\""]},
+      {"conn": "ask"},
+      {"box": "reward", "title": "people of Paradise", "sub": ["water and provision"]},
+      {"box": "trap", "title": "forbidden", "sub": ["both, to them"]}]},
+    "key": {"label": "When the giving happens", "row": [
+      {"box": "people", "title": "I can ask for help later", "sub": ["someone will share"], "strike": true},
+      {"box": "idea", "title": "now", "sub": ["this life is when to earn it"]}]},
+    "then": "Sa'id bin Jubayr said a man will call to {trap}his own father or brother, I am burning, pour water on me{/trap}. The reply is that Allah has forbidden both water and food of Paradise to the disbelievers. {idea}Family ties do not carry it across.{/idea}",
+    "now": "You think your mother's prayers will cover you, or your pious brother. You will lean on them later. {idea}Their good is theirs. Yours you earn now, while water still flows for everyone.{/idea}",
+    "old": "My pious relatives will be able to help me out on the Day.",
+    "new": "What I need on the Day, I prepare now with my own deeds.",
+    "try": "Give someone a glass of water or a drink today, and intend it for your own Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:51", "surah": 7, "ayah": 51, "place": "makkah",
+    "title": "They forgot this Day, so today they are forgotten.",
+    "subtitle": "Treating religion as play",
+    "picture": {"kind": "boxes", "label": "How it happened", "row": [
+      {"box": "trap", "title": "religion as play", "sub": ["amusement, a hobby"]},
+      {"box": "trap", "title": "deceived by life", "sub": ["its shine"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "forgotten", "sub": ["as they forgot"]}]},
+    "key": {"label": "What forgetting means here", "row": [
+      {"box": "people", "title": "Allah forgets", "sub": ["like we do"], "strike": true},
+      {"box": "idea", "title": "left without mercy", "sub": ["He forgets nothing"]}]},
+    "then": "They took their religion as amusement and play, {trap}deceived by this life{/trap}. The tafsir is clear that {idea}Allah never forgets anything{/idea}; it means they are left as they left Him. A hadith tells of a man reminded of his marriage and honor, who never thought he would meet Allah.",
+    "now": "Prayer squeezed between episodes. Ramadan as a food season. {trap}Faith as one more app on the phone.{/trap} {idea}The Day you keep forgetting is the Day you will need to be remembered.{/idea}",
+    "old": "Religion can be a light hobby while life is the real thing.",
+    "new": "If I forget the meeting with Allah, I am forgetting the most serious thing.",
+    "try": "Count three blessings you have, and say each one to Allah like the man in the hadith was reminded of his.",
+    "related": ["20:52", "9:67", "45:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:52", "surah": 7, "ayah": 52, "place": "makkah",
+    "title": "They were given a Book explained in detail.",
+    "subtitle": "Guidance arrived, so there is no excuse",
+    "picture": {"kind": "boxes", "label": "What was sent", "row": [
+      {"box": "idea", "title": "a Book", "sub": ["explained in detail"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "knowledge", "sub": ["His perfect knowledge"]},
+      {"box": "reward", "title": "guidance and mercy", "sub": ["for those who believe"]}]},
+    "key": {"label": "My excuse", "row": [
+      {"box": "people", "title": "nobody told me", "sub": ["I did not know"], "strike": true},
+      {"box": "idea", "title": "it was sent", "sub": ["detailed, clear, in reach"]}]},
+    "then": "The tafsir says Allah {idea}left no excuse{/idea} for the idolaters: He sent them a Book explained in detail. He also says He does not punish until a messenger has come. {reward}The Book is guidance and mercy{/reward} for anyone who believes.",
+    "now": "The Quran app is on your phone between the food delivery and the bank. Translation, tafsir, audio, all one tap away. {idea}The excuse of not knowing gets thinner every day.{/idea}",
+    "old": "I would follow it better if I only understood it.",
+    "new": "The Book is already explained in detail. I only need to open it.",
+    "try": "Read the translation of one page of Quran today, slowly.",
+    "related": ["11:1", "4:166", "17:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:53", "surah": 7, "ayah": 53, "place": "makkah",
+    "title": "On the Day it comes true, they ask to go back.",
+    "subtitle": "Wishing for one more chance",
+    "picture": {"kind": "boxes", "label": "Their two wishes", "row": [
+      {"box": "people", "title": "they admit", "sub": ["the messengers were right"]},
+      {"box": "trap", "title": "any intercessors?", "sub": ["none"]},
+      {"box": "trap", "title": "send us back?", "sub": ["not possible"]}]},
+    "key": {"label": "Where my chance is", "row": [
+      {"box": "people", "title": "after I see it", "sub": ["then I will change"], "strike": true},
+      {"box": "reward", "title": "now", "sub": ["the chance they wished for"]}]},
+    "then": "When the promised outcome arrives, those who ignored it admit {idea}the messengers came with the truth{/idea}. They ask for intercessors, or to be sent back to do differently. {trap}What they worshipped instead of Allah has left them.{/trap}",
+    "now": "Today is the \"send us back\" they will wish for. You are already in it. {reward}Every morning you wake up is the second chance someone else is begging for.{/reward}",
+    "old": "I will change once I am really sure.",
+    "new": "Today is the chance to do differently that others will wish they had.",
+    "try": "Do one thing today you would want to have done if you could come back.",
+    "related": ["6:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:54", "surah": 7, "ayah": 54, "place": "makkah",
+    "title": "Creation and command are His. Night chases day.",
+    "subtitle": "Your Lord, the Lord of the worlds",
+    "picture": {"kind": "boxes", "label": "What He made and runs", "row": [
+      {"box": "idea", "title": "heavens and earth", "sub": ["in six days"]},
+      {"box": "idea", "title": "the Throne", "sub": ["He rose over it"]},
+      {"box": "plain", "title": "night and day", "sub": ["each chasing the other"]},
+      {"box": "plain", "title": "sun, moon, stars", "sub": ["under His command"]}]},
+    "key": {"label": "Who is in charge", "row": [
+      {"box": "people", "title": "it just runs itself", "sub": ["no one steering"], "strike": true},
+      {"box": "idea", "title": "creation and command", "sub": ["both belong to Him"]}]},
+    "then": "After warnings about the Day, the surah turns to who your Lord is. Ibn Kathir follows the early scholars on rising over the Throne: {idea}accept it as stated, without likening Him to creation or denying it{/idea}. Night and day {reward}follow each other, never late{/reward}, all under His command.",
+    "now": "You watch the sunset from the bus window, and sunrise from your alarm. {idea}Not once has the night forgotten to come.{/idea} The same Lord who runs that runs your Monday.",
+    "old": "The universe is just running on its own.",
+    "new": "Every sunrise and sunset is His command, and so is my life.",
+    "try": "Watch one sunset or sunrise this week and say tabarakallah, rabbul alamin.",
+    "related": ["42:11", "36:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:55", "surah": 7, "ayah": 55, "place": "makkah",
+    "title": "Call on Him humbly and quietly. He is near.",
+    "subtitle": "How to make dua",
+    "picture": {"kind": "boxes", "label": "How to call", "row": [
+      {"box": "idea", "title": "humbly", "sub": ["with humility"]},
+      {"box": "idea", "title": "quietly", "sub": ["from the heart"]},
+      {"box": "trap", "title": "transgressing", "sub": ["He does not love it"]}]},
+    "key": {"label": "Who I am calling", "row": [
+      {"box": "people", "title": "far and deaf", "sub": ["I must shout"], "strike": true},
+      {"box": "reward", "title": "All-Hearing, Near", "sub": ["a whisper reaches Him"]}]},
+    "then": "Right after showing His power, Allah tells His servants to call on Him. When people raised their voices in dua, the Prophet ﷺ said: {reward}you are not calling one who is deaf or absent; He is All-Hearing, Near{/reward}. Scholars said transgressing in dua includes {trap}asking for the rank of the Prophets{/trap}.",
+    "now": "Lying in bed after a long shift, too tired for a long prayer, you think it does not count. {reward}A whispered sentence into the pillow reaches Him.{/reward}",
+    "old": "Dua only counts if it is loud, long and formal.",
+    "new": "A humble, quiet dua reaches the One who is near.",
+    "try": "Tonight, whisper one honest dua before you sleep.",
+    "related": ["7:205"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:56", "surah": 7, "ayah": 56, "place": "makkah",
+    "title": "Do not spoil what was set right. Pray in fear and hope.",
+    "subtitle": "His mercy is near the doers of good",
+    "picture": {"kind": "boxes", "label": "Two instructions", "row": [
+      {"box": "trap", "title": "no corruption", "sub": ["after it was set right"]},
+      {"box": "idea", "title": "fear and hope", "sub": ["how to call Him"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "mercy is near", "sub": ["to the good-doers"]}]},
+    "key": {"label": "How to call Him", "row": [
+      {"box": "people", "title": "only fear", "sub": ["or only hope"], "strike": true},
+      {"box": "idea", "title": "both together", "sub": ["fear His punishment, hope His reward"]}]},
+    "then": "The tafsir says mischief after things are set in order {trap}causes the most harm to people{/trap}. Call on Him {idea}fearing His punishment and hoping for His reward{/idea}. Matar Al-Warraq said: earn His promise by obeying Him, for {reward}His mercy is near the good-doers{/reward}.",
+    "now": "The family finally made peace after years. Then one sarcastic comment at the dinner table. {trap}It took a minute to undo a year.{/trap} {reward}Doing good keeps you close to His mercy.{/reward}",
+    "old": "One small comment cannot ruin things that are already fixed.",
+    "new": "What has been set right deserves protecting, and good keeps mercy near.",
+    "try": "Protect one relationship that is in a good place today with a kind word.",
+    "related": ["7:156"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:57", "surah": 7, "ayah": 57, "place": "makkah",
+    "title": "Rain on dead land: that is how the dead will rise.",
+    "subtitle": "A sign you can watch outside your window",
+    "picture": {"kind": "boxes", "label": "The rain cycle", "row": [
+      {"box": "reward", "title": "winds", "sub": ["good news ahead"]},
+      {"conn": "carry"},
+      {"box": "plain", "title": "heavy clouds", "sub": ["dark, low"]},
+      {"conn": "to"},
+      {"box": "people", "title": "dead land", "sub": ["then every fruit"]}]},
+    "key": {"label": "What the rain shows", "row": [
+      {"box": "people", "title": "just weather", "sub": ["a forecast"], "strike": true},
+      {"box": "idea", "title": "resurrection", "sub": ["so will We bring out the dead"]}]},
+    "then": "After telling people to call on Him, Allah shows He is able. Winds go {reward}before His mercy, the rain{/reward}, driven to dry land with no plants. The tafsir says {idea}just as dead land is brought to life, He will raise the dead{/idea}, a comparison the Quran often makes.",
+    "now": "The park was brown all summer. One week of rain and it is green again. {idea}You did not think of the grave. The verse wants you to.{/idea} {reward}And of the hope in it.{/reward}",
+    "old": "Rain is just weather.",
+    "new": "Every rain on dry ground is a picture of the Resurrection.",
+    "try": "Next time it rains, stop and look at it for a minute and remember this verse.",
+    "related": ["30:46", "30:50", "36:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:58", "surah": 7, "ayah": 58, "place": "makkah",
+    "title": "Same rain, different soil. Good land grows easily.",
+    "subtitle": "What kind of ground is your heart?",
+    "picture": {"kind": "boxes", "label": "One rain, two lands", "row": [
+      {"box": "reward", "title": "good land", "sub": ["grows by His permission"]},
+      {"box": "trap", "title": "bad land", "sub": ["a little, with difficulty"]}]},
+    "key": {"label": "What decides the harvest", "row": [
+      {"box": "people", "title": "how much rain", "sub": ["how much I hear"], "strike": true},
+      {"box": "idea", "title": "the soil", "sub": ["how I receive it"]}]},
+    "then": "The good land grows quickly and well, and the bad land {trap}brings out little, with difficulty{/trap}. The Prophet ﷺ compared his guidance to {idea}abundant rain on different kinds of ground{/idea}. Some soaked it up and grew, some held it for others, and {trap}some held nothing{/trap}.",
+    "now": "Two people sit through the same Friday khutbah. One goes home and calls his mother. The other is checking scores before the sermon ends. {idea}Same rain. Different soil.{/idea}",
+    "old": "If I just hear more reminders, I will change.",
+    "new": "The question is not how much guidance falls on me, but whether my heart takes it in.",
+    "try": "After the next reminder you hear, write down one thing to act on, and do it.",
+    "related": ["3:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

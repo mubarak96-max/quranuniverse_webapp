@@ -1,0 +1,252 @@
+[
+  {
+    "id": "3:177", "surah": 3, "ayah": 177, "place": "madinah",
+    "title": "Trading faith away harms only the trader.",
+    "subtitle": "A bad bargain that Allah does not feel",
+    "picture": {"kind": "boxes", "label": "The trade", "row": [
+      {"box": "reward", "title": "faith", "sub": ["what they had"]},
+      {"conn": "swapped for"},
+      {"box": "trap", "title": "disbelief", "sub": ["what they bought"]},
+      {"conn": "harms"},
+      {"box": "people", "title": "only themselves", "sub": ["never Allah"]}]},
+    "key": {"label": "Who loses", "row": [
+      {"box": "trap", "title": "Allah loses a follower", "sub": ["He needs us"], "strike": true},
+      {"box": "idea", "title": "the trader loses", "sub": ["Allah is never harmed"]}]},
+    "then": "Right after comforting the Prophet ﷺ about those rushing into disbelief, Allah describes people who {trap}bought disbelief at the price of faith.{/trap} Ibn Kathir says {idea}they will not harm Allah at all; they only harm themselves.{/idea}",
+    "now": "You quietly trade your prayer time for overtime, your honesty for a better deal, your values to fit in with a new crowd. It feels like a small swap. {idea}Allah does not lose from it. You do.{/idea}",
+    "old": "Giving up a bit of my faith is my business and costs no one.",
+    "new": "When I trade faith away, I am the only one who pays.",
+    "try": "Name one thing you have been trading your faith for. Take one step back from it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:178", "surah": 3, "ayah": 178, "place": "madinah",
+    "title": "Getting away with it is not the same as being okay.",
+    "subtitle": "When delay is not a sign of approval",
+    "picture": {"kind": "boxes", "label": "The delay", "row": [
+      {"box": "people", "title": "wrong done", "sub": ["no consequence yet"]},
+      {"conn": "they think"},
+      {"box": "trap", "title": "it is good for us", "sub": ["nothing happened"], "strike": true},
+      {"conn": "but"},
+      {"box": "trap", "title": "more sin piles up", "sub": ["the delay is a rope"]}]},
+    "key": {"label": "Reading the silence", "row": [
+      {"box": "trap", "title": "silence means fine", "sub": ["I got away with it"], "strike": true},
+      {"box": "idea", "title": "time to turn back", "sub": ["while it is still given"]}]},
+    "then": "Allah warns those who reject Him: {trap}do not think the delay in your punishment is good for you.{/trap} Ibn Kathir links it to verses about people given wealth and children who think it means Allah is pleased. {idea}The delay only lets the sin grow, unless they turn back.{/idea}",
+    "now": "You cheated on the test and passed. You lied to your boss and nothing happened. Months go by and you start to think it was fine. {idea}The quiet is not a verdict. It is time given to repent.{/idea}",
+    "old": "If nothing bad happened, it must not have been so bad.",
+    "new": "Time without consequences is a chance to turn back, not proof I was right.",
+    "try": "Think of one wrong you got away with. Ask Allah's forgiveness for it tonight.",
+    "related": ["23:55", "68:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:179", "surah": 3, "ayah": 179, "place": "madinah",
+    "title": "Hard days sort the true from the pretending.",
+    "subtitle": "Allah will not leave things mixed forever",
+    "picture": {"kind": "boxes", "label": "What Uhud did", "row": [
+      {"box": "people", "title": "everyone mixed", "sub": ["same rows, same words"]},
+      {"conn": "a trial"},
+      {"box": "idea", "title": "the good", "sub": ["patient, firm, obedient"]},
+      {"box": "trap", "title": "the bad", "sub": ["exposed by their retreat"]}]},
+    "key": {"label": "How we know", "row": [
+      {"box": "trap", "title": "read hearts", "sub": ["we see the unseen"], "strike": true},
+      {"box": "idea", "title": "by signs Allah shows", "sub": ["the unseen is His"]}]},
+    "then": "Ibn Kathir says this refers to Uhud. {idea}Allah lets a calamity come so that His friend becomes known and His enemy exposed.{/idea} Believers showed patience and firmness; {trap}hypocrites showed their retreat.{/trap} People cannot see the unseen; Allah reveals it to whom He chooses of His messengers.",
+    "now": "A crisis hits the family business, and you find out who stays to help and who disappears. It also shows you yourself. {idea}Hard days are a mirror.{/idea} The aim is not to judge others, but to see where you stand.",
+    "old": "I already know who is real and who is not.",
+    "new": "Trials reveal hearts, starting with mine, and the unseen belongs to Allah.",
+    "try": "Ask yourself: in the last hard moment, how did I act? Write one honest line.",
+    "related": ["72:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:180", "surah": 3, "ayah": 180, "place": "madinah",
+    "title": "What you hold back will hang around your neck.",
+    "subtitle": "Stinginess looks like gain, but it is loss",
+    "picture": {"kind": "boxes", "label": "The miser's math", "row": [
+      {"box": "reward", "title": "Allah's bounty", "sub": ["given to them"]},
+      {"conn": "withheld"},
+      {"box": "trap", "title": "good for me", "sub": ["what they thought"], "strike": true},
+      {"box": "trap", "title": "worse for them", "sub": ["tied to their necks"]},
+      {"box": "idea", "title": "Allah inherits all", "sub": ["heavens and earth"]}]},
+    "key": {"label": "Where the money ends", "row": [
+      {"box": "trap", "title": "safe in my account", "sub": ["kept is kept"], "strike": true},
+      {"box": "idea", "title": "it all returns to Allah", "sub": ["only giving goes ahead"]}]},
+    "then": "Ibn Kathir says the miser should not think piling up wealth helps him; {trap}it harms his religion and his worldly life.{/trap} The Prophet ﷺ recited this verse about wealth whose zakah is not paid. {idea}And to Allah belongs the inheritance of the heavens and the earth.{/idea}",
+    "now": "Payday comes. You see the fundraiser link in the family chat and scroll past. You tell yourself you need a cushion. {trap}What you grip will not stay with you.{/trap} {idea}It all goes back to its Owner anyway.{/idea}",
+    "old": "Keeping my money is what keeps me secure.",
+    "new": "Everything returns to Allah; only what I give goes ahead of me.",
+    "try": "Give a small amount today to someone in need, even if it feels inconvenient.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:181", "surah": 3, "ayah": 181, "place": "madinah",
+    "title": "Allah heard them mock Him as poor.",
+    "subtitle": "Every word is recorded",
+    "picture": {"kind": "boxes", "label": "The mockery", "row": [
+      {"box": "idea", "title": "lend to Allah", "sub": ["a goodly loan, 2:245"]},
+      {"conn": "mocked as"},
+      {"box": "trap", "title": "Allah is poor", "sub": ["and we are rich"]},
+      {"conn": "answered"},
+      {"box": "idea", "title": "We will record it", "sub": ["what they said and did"]}]},
+    "key": {"label": "Who is in need", "row": [
+      {"box": "trap", "title": "Allah needs our money", "sub": ["that is why He asks"], "strike": true},
+      {"box": "idea", "title": "we need to give", "sub": ["Allah is the Rich"]}]},
+    "then": "Ibn 'Abbas said when the verse about lending Allah a goodly loan came down, {trap}some in Madinah mocked: has your Lord become poor?{/trap} Allah replied that He heard them. {idea}He would record what they said{/idea}, along with the killing of prophets by their forebears.",
+    "now": "A joke at the dinner table: why does God need my charity? Or a sarcastic comment under a fundraising post. {idea}Words about Allah are not small talk. They are written down.{/idea} The giving is for you, not for Him.",
+    "old": "A sarcastic line about religion is just a joke.",
+    "new": "Every word I say about Allah is heard and recorded, so I speak with care.",
+    "try": "Next time religion comes up in a joke, stay quiet or change the subject kindly.",
+    "related": ["2:245"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:182", "surah": 3, "ayah": 182, "place": "madinah",
+    "title": "What your hands sent ahead is what you meet.",
+    "subtitle": "Allah is never unjust to anyone",
+    "picture": {"kind": "boxes", "label": "Sent ahead", "row": [
+      {"box": "people", "title": "your hands", "sub": ["every day"]},
+      {"conn": "send ahead"},
+      {"box": "people", "title": "deeds", "sub": ["good and bad"]},
+      {"conn": "you meet"},
+      {"box": "idea", "title": "a just outcome", "sub": ["no one wronged"]}]},
+    "key": {"label": "Whose doing", "row": [
+      {"box": "trap", "title": "it is unfair", "sub": ["this was done to me"], "strike": true},
+      {"box": "idea", "title": "what I sent ahead", "sub": ["Allah wrongs no one"]}]},
+    "then": "This closes the warning to those who mocked Allah and killed prophets. Ibn Kathir says it is said to them in rebuke: {trap}this is because of what your hands sent before you.{/trap} {idea}Allah is never unjust to His servants.{/idea}",
+    "now": "Every message you send, every hour you spend, every coin you give or keep is going on ahead of you. {idea}You will meet it again.{/idea} The good news: you can send good ahead starting today.",
+    "old": "What happens to me in the end is out of my hands.",
+    "new": "My hands are sending things ahead each day, and Allah will treat me with perfect justice.",
+    "try": "Send one good thing ahead today on purpose: a kind word, a gift, a prayer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:183", "surah": 3, "ayah": 183, "place": "madinah",
+    "title": "Proof was never really the problem.",
+    "subtitle": "Demanding a sign you would ignore anyway",
+    "picture": {"kind": "boxes", "label": "The demand", "row": [
+      {"box": "trap", "title": "show us fire", "sub": ["consuming an offering"]},
+      {"conn": "but"},
+      {"box": "people", "title": "earlier messengers", "sub": ["brought clear proofs"]},
+      {"box": "people", "title": "and that very sign", "sub": ["you asked for"]},
+      {"box": "trap", "title": "still killed them", "sub": ["why, if truthful"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "trap", "title": "enough proof", "sub": ["then I will believe"], "strike": true},
+      {"box": "idea", "title": "willingness", "sub": ["the proofs had come"]}]},
+    "then": "Some claimed Allah told them to believe no messenger until he brought an offering consumed by fire from the sky. {idea}Allah replied: messengers came before me with clear proofs, and with what you ask for.{/idea} {trap}So why did you kill them, if you are truthful?{/trap}",
+    "now": "You say you will start praying once you feel it. Once you get a sign. Once your questions are all answered. {trap}Sometimes the demand for proof is a way to delay.{/trap} {idea}Ask yourself what would really change.{/idea}",
+    "old": "I will commit once I get the right sign.",
+    "new": "Often I already have enough; what I lack is the will to act.",
+    "try": "Do one act of worship today you have been putting off until you feel ready.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:184", "surah": 3, "ayah": 184, "place": "madinah",
+    "title": "If they deny you, they denied the best before you.",
+    "subtitle": "Comfort for the rejected messenger ﷺ",
+    "picture": {"kind": "boxes", "label": "A long line", "row": [
+      {"box": "people", "title": "earlier messengers", "sub": ["clear proofs, scriptures"]},
+      {"conn": "were"},
+      {"box": "trap", "title": "rejected", "sub": ["despite the proofs"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "do not be sad", "sub": ["you are in their line"]}]},
+    "key": {"label": "What rejection proves", "row": [
+      {"box": "trap", "title": "I am wrong", "sub": ["they did not accept"], "strike": true},
+      {"box": "idea", "title": "it happened to the best", "sub": ["truth gets denied too"]}]},
+    "then": "Ibn Kathir says Allah comforts the Prophet ﷺ here: {idea}do not be sad that they deny you{/idea}, for messengers before you were denied too. {trap}They came with clear proofs, scriptures and an enlightening Book, and were still rejected.{/trap}",
+    "now": "You shared something true and good, and people laughed, or unfollowed, or argued. You start to doubt yourself. {idea}Being rejected is not proof you were wrong.{/idea} The best people in history were rejected too.",
+    "old": "If people reject what I say, I must be wrong.",
+    "new": "Rejection happened to the messengers; it does not decide what is true.",
+    "try": "Keep doing one good thing you do quietly, even though someone mocked it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:185", "surah": 3, "ayah": 185, "place": "madinah",
+    "title": "Every soul will taste death. Then the real pay.",
+    "subtitle": "Who actually wins",
+    "picture": {"kind": "boxes", "label": "The whole story", "row": [
+      {"box": "people", "title": "every soul", "sub": ["tastes death"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "full wages", "sub": ["on the Day of Resurrection"]},
+      {"conn": "success is"},
+      {"box": "reward", "title": "kept from the Fire", "sub": ["and entered into Paradise"]}]},
+    "key": {"label": "What this life is", "row": [
+      {"box": "trap", "title": "the real prize", "sub": ["win here"], "strike": true},
+      {"box": "idea", "title": "a passing delight", "sub": ["enjoyment of deception"]}]},
+    "then": "Ibn Kathir says this verse comforts all creation: everyone dies, and only Allah remains. {idea}Full payment comes on the Day of Resurrection.{/idea} The Prophet ﷺ said {reward}a whip's length of space in Paradise is better than the world and all it holds.{/reward}",
+    "now": "The promotion, the wedding photos, the new car, the number of followers. All of it feels like the scoreboard. {idea}The real scoreboard opens after the last breath.{/idea} Qatadah said: take obedience to Allah from this delight while you can.",
+    "old": "Success means winning in this life.",
+    "new": "Success is being kept from the Fire and let into Paradise; the rest passes.",
+    "try": "Look at your plans for this week and add one thing that counts for the Hereafter.",
+    "related": ["55:26", "87:16", "28:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:186", "surah": 3, "ayah": 186, "place": "madinah",
+    "title": "You will be tested and you will hear hurtful words.",
+    "subtitle": "Patience and taqwa are the strong choice",
+    "picture": {"kind": "boxes", "label": "What is coming", "row": [
+      {"box": "trap", "title": "your wealth", "sub": ["tested"]},
+      {"box": "trap", "title": "yourselves", "sub": ["tested"]},
+      {"box": "trap", "title": "much hurtful talk", "sub": ["from others"]},
+      {"conn": "answer with"},
+      {"box": "idea", "title": "patience, taqwa", "sub": ["true resolve"]}]},
+    "key": {"label": "Strength looks like", "row": [
+      {"box": "trap", "title": "hitting back", "sub": ["every insult answered"], "strike": true},
+      {"box": "idea", "title": "patient forgiveness", "sub": ["the resolute path"]}]},
+    "then": "Early in Madinah, 'Abdullah bin Ubayy insulted the Prophet ﷺ when he came to a gathering and recited Quran. Sa'd bin 'Ubadah asked him ﷺ to pardon him, and {idea}he ﷺ forgave him.{/idea} The Companions used to {reward}bear the harm and forgive{/reward}, as this verse commanded.",
+    "now": "The comment under your post. The relative who mocks your hijab or beard. The coworker's joke about your fasting. {trap}You will hear it.{/trap} {idea}Patience and mindfulness of Allah are not weakness. The verse calls them resolve.{/idea}",
+    "old": "If I do not hit back, I look weak.",
+    "new": "Patience with Allah in mind is the strongest response I have.",
+    "try": "Next time someone says something hurtful, pause and say nothing for ten seconds.",
+    "related": ["2:155"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:187", "surah": 3, "ayah": 187, "place": "madinah",
+    "title": "They were trusted to share the truth and sold it cheap.",
+    "subtitle": "Knowledge is meant to be made clear",
+    "picture": {"kind": "boxes", "label": "The covenant", "row": [
+      {"box": "idea", "title": "make it clear", "sub": ["to all people"]},
+      {"box": "idea", "title": "do not hide it", "sub": ["the promise"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "thrown behind", "sub": ["their backs"]},
+      {"box": "trap", "title": "a small price", "sub": ["a losing trade"]}]},
+    "key": {"label": "What to do with knowing", "row": [
+      {"box": "trap", "title": "keep it quiet", "sub": ["when it costs me"], "strike": true},
+      {"box": "idea", "title": "share what helps", "sub": ["it was given as a trust"]}]},
+    "then": "Allah took a covenant from those given scripture to make it clear and not hide it. {trap}They threw it behind their backs for a small gain.{/trap} Ibn Kathir says this is {idea}a warning for every scholar not to do the same{/idea}, and to spread beneficial knowledge.",
+    "now": "You know the truth in a family dispute but stay quiet because it is awkward. A friend asks you a question about the deen and you brush it off. {trap}Silence can be a small price too.{/trap} {idea}Share what you know, gently.{/idea}",
+    "old": "What I know is mine to share or keep as I like.",
+    "new": "Useful truth I know is a trust; I should make it clear, not sell it for comfort.",
+    "try": "Share one beneficial thing you learned this week with someone who would benefit.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:188", "surah": 3, "ayah": 188, "place": "madinah",
+    "title": "Loving praise for what you never did.",
+    "subtitle": "A false image is no shelter",
+    "picture": {"kind": "boxes", "label": "The show", "row": [
+      {"box": "trap", "title": "pleased with themselves", "sub": ["for hiding the truth"]},
+      {"box": "trap", "title": "want praise", "sub": ["for what they did not do"]},
+      {"conn": "think"},
+      {"box": "trap", "title": "safe", "sub": ["they are not"], "strike": true}]},
+    "key": {"label": "Two robes", "row": [
+      {"box": "people", "title": "the image", "sub": ["claimed deeds"]},
+      {"box": "trap", "title": "robes of falsehood", "sub": ["what it really is"]}]},
+    "then": "Ibn Kathir says this is about those who show off and claim deeds they did not do. Abu Sa'id said some hypocrites stayed back from battle, then {trap}swore excuses and wanted praise for what they did not do.{/trap} The Prophet ﷺ said: {idea}one who claims what he was not given is like one wearing two robes of falsehood.{/idea}",
+    "now": "The group project where you let people think the idea was yours. The photo that makes your charity look bigger than it was. The CV line stretched a little. {trap}The praise feels good.{/trap} {idea}It is a robe made of nothing.{/idea}",
+    "old": "A little exaggeration about myself harms no one.",
+    "new": "Praise for what I did not do is a costume that will not protect me.",
+    "try": "Correct one place where people credit you for something you did not fully do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

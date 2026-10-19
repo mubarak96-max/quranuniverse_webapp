@@ -1,0 +1,210 @@
+[
+  {
+    "id": "49:1", "surah": 49, "ayah": 1, "place": "madinah",
+    "title": "Do not rush ahead of Allah and His Messenger.",
+    "subtitle": "Letting guidance lead before your opinion does",
+    "picture": {"kind": "boxes", "label": "Who walks first", "row": [
+      {"box": "idea", "title": "Allah and His Messenger", "sub": ["the guidance goes first"]},
+      {"conn": "then"},
+      {"box": "people", "title": "the believer", "sub": ["follows the lead"]},
+      {"conn": "while"},
+      {"box": "idea", "title": "Hearing, Knowing", "sub": ["words heard", "intentions known"]}]},
+    "key": {"label": "The order of things", "row": [
+      {"box": "people", "title": "my opinion first", "sub": ["then I check the guidance"], "strike": true},
+      {"box": "idea", "title": "guidance first", "sub": ["then my opinion finds its place"]}]},
+    "then": "This surah taught the believers in Madinah the manners of faith. Some people used to say a revelation should come about this matter, or that practice should be allowed. {trap}They were running ahead, deciding before Allah decided.{/trap} Ibn Abbas explained it as not saying anything that contradicts the Quran and Sunnah.",
+    "now": "Someone in the family group chat asks a question about faith. You type a confident answer in ten seconds, before you have looked anything up. Or you decide what Islam should say about something, then go hunting for support. {idea}Let the guidance speak first, then talk.{/idea}",
+    "old": "I already know what is right here, I will check later if I need to.",
+    "new": "My view walks behind the guidance, not in front of it, because Allah hears what I say and knows why.",
+    "try": "Next time you want to state what Islam says on something, pause and check a reliable source first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:2", "surah": 49, "ayah": 2, "place": "madinah",
+    "title": "A raised voice can quietly undo good deeds.",
+    "subtitle": "Tone toward the Prophet and what it reveals",
+    "picture": {"kind": "boxes", "label": "What happened in the room", "row": [
+      {"box": "people", "title": "Abu Bakr and Umar", "sub": ["arguing over a leader"]},
+      {"conn": "voices rose"},
+      {"box": "trap", "title": "above the Prophet ﷺ", "sub": ["while a delegation watched"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "this verse", "sub": ["lower your voice"]}]},
+    "key": {"label": "What is at stake", "row": [
+      {"box": "people", "title": "it is only volume", "sub": ["just how I talk"], "strike": true},
+      {"box": "trap", "title": "deeds lost unnoticed", "sub": ["while you perceive not"]}]},
+    "then": "A delegation of Bani Tamim came to the Prophet ﷺ. Abu Bakr and Umar disagreed over who should lead them, and {trap}their voices rose in front of him.{/trap} This verse came down. Afterwards, Umar spoke so softly that the Prophet ﷺ had to ask him to repeat himself.",
+    "now": "You are reading a hadith someone posted, and you reply in all caps that it cannot be right. Or someone quotes the Prophet ﷺ in a heated family argument and you talk over it. {idea}Respect shows in tone before it shows in words.{/idea} The danger here is the one you do not notice.",
+    "old": "How loud I am is just my personality, it does not mean anything.",
+    "new": "The way I raise my voice around his words shows what is in my heart, and it can cost me without my knowing.",
+    "try": "When a verse or hadith comes up in a conversation today, lower your voice and listen before you reply.",
+    "related": ["24:63"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:3", "surah": 49, "ayah": 3, "place": "madinah",
+    "title": "Lowered voices, tested hearts, a great reward.",
+    "subtitle": "Quiet respect as proof of a tested heart",
+    "picture": {"kind": "boxes", "label": "What the quiet ones received", "row": [
+      {"box": "people", "title": "they lower their voices", "sub": ["near the Messenger ﷺ"]},
+      {"conn": "shows"},
+      {"box": "idea", "title": "hearts tested", "sub": ["for taqwa"]},
+      {"conn": "earns"},
+      {"box": "reward", "title": "forgiveness", "sub": ["and a great reward"]}]},
+    "key": {"label": "Thabit's fear", "row": [
+      {"box": "trap", "title": "I am lost", "sub": ["my loud voice ruined me"], "strike": true},
+      {"box": "reward", "title": "people of Paradise", "sub": ["the Prophet's ﷺ reply"]}]},
+    "then": "Thabit bin Qays had a naturally loud voice. When verse 2 came, he stayed home in distress, sure his deeds were lost. The Prophet ﷺ noticed his absence and sent word: {reward}you are among the people of Paradise.{/reward} The verse praises those whose quiet respect shows a heart Allah has tested.",
+    "now": "You read a warning in the Quran and your stomach drops. You think of every time you got it wrong and decide you are beyond saving. {idea}The same passage that warns also promises.{/idea} Fear that makes you careful is good. Fear that makes you give up is not the point.",
+    "old": "If I read a warning that fits me, I must already be ruined.",
+    "new": "A warning that makes me lower my voice is part of how Allah tests my heart, and it ends in forgiveness.",
+    "try": "Pick one place where you tend to be loud, a meeting or a dinner table, and speak more gently there today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:4", "surah": 49, "ayah": 4, "place": "madinah",
+    "title": "Shouting from behind the walls of his home.",
+    "subtitle": "Demanding someone's time on your own schedule",
+    "picture": {"kind": "boxes", "label": "Outside the chambers", "row": [
+      {"box": "people", "title": "the delegation", "sub": ["Bani Tamim, A.H. 9"]},
+      {"conn": "shout"},
+      {"box": "trap", "title": "O Muhammad!", "sub": ["from behind the walls"]},
+      {"conn": "into"},
+      {"box": "people", "title": "his wives' rooms", "sub": ["al-hujurat, his private space"]}]},
+    "key": {"label": "What it showed", "row": [
+      {"box": "people", "title": "I am in a hurry", "sub": ["so he should come now"], "strike": true},
+      {"box": "trap", "title": "no sense", "sub": ["most of them did not reason"]}]},
+    "then": "A deputation from Bani Tamim arrived in Madinah and called out to the Prophet ﷺ from outside the rooms of his wives. Al-Aqra bin Habis shouted his name to get him out. {trap}They treated his private home like a market stall.{/trap} The surah takes its name from these chambers, al-hujurat.",
+    "now": "It is ten at night and you message your teacher, your imam, your manager. Then again. Then you call. Then you send a question mark. {trap}Their home time is not your waiting room.{/trap} The people who serve you also have walls and families.",
+    "old": "If I need something now, they should answer now.",
+    "new": "Respect includes the person's private time, even when my need feels urgent.",
+    "try": "Before sending a late message today, ask yourself if it can wait until morning. If it can, schedule it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:5", "surah": 49, "ayah": 5, "place": "madinah",
+    "title": "If they had waited, it would have been better.",
+    "subtitle": "Patience at the door, and mercy for those who did not",
+    "picture": {"kind": "boxes", "label": "Two ways to wait", "row": [
+      {"box": "trap", "title": "calling out", "sub": ["impatient, loud"]},
+      {"box": "idea", "title": "waiting", "sub": ["until he comes out"]},
+      {"conn": "leads to"},
+      {"box": "reward", "title": "better for them", "sub": ["here and hereafter"]}]},
+    "key": {"label": "After the mistake", "row": [
+      {"box": "people", "title": "the door is closed", "sub": ["I already blew it"], "strike": true},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["turn back to Him"]}]},
+    "then": "Right after scolding those who shouted from behind the chambers, Allah shows the better way: {idea}be patient until he comes out to you.{/idea} Ibn Kathir notes it would have brought them good in this life and the next. Then the verse closes by inviting them to repent, because {reward}Allah is Forgiving, Most Merciful.{/reward}",
+    "now": "You are in a clinic queue and you keep going to the desk to ask how long. Or you push a friend for an answer they are not ready to give. {idea}Waiting well is often the faster road.{/idea} And if you already pushed too hard, the door to fix it is still open.",
+    "old": "Waiting is wasted time, pushing gets results.",
+    "new": "Patience is itself the better result, and when I fail at it, Allah's forgiveness is still there.",
+    "try": "The next time you want to chase someone for a reply, wait one extra hour before you do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:6", "surah": 49, "ayah": 6, "place": "madinah",
+    "title": "Check the news before you act on it.",
+    "subtitle": "One unverified report can harm a whole people",
+    "picture": {"kind": "boxes", "label": "How harm spreads", "row": [
+      {"box": "trap", "title": "an unreliable source", "sub": ["brings news"]},
+      {"conn": "believed fast"},
+      {"box": "trap", "title": "harm a people", "sub": ["in ignorance"]},
+      {"conn": "ends in"},
+      {"box": "trap", "title": "regret", "sub": ["over what you did"]}]},
+    "key": {"label": "The step in between", "row": [
+      {"box": "people", "title": "sounds true, share it", "sub": [], "strike": true},
+      {"box": "idea", "title": "investigate", "sub": ["check the source", "then act"]}]},
+    "then": "Many traditions link this verse to Walid bin Uqbah, sent to collect zakat from Bani al-Mustaliq. {trap}A report came back that could have led to action against them.{/trap} Allah ordered the believers to {idea}verify news brought by an unreliable person{/idea} before acting, so they would not wrong people and regret it.",
+    "now": "A screenshot lands in your family group chat: a shop owner, a neighbor, a cousin, accused of something terrible. Your thumb is already on forward. {idea}Who sent this first, and how do they know?{/idea} One tap can damage a name for years.",
+    "old": "If lots of people are sharing it, it is probably true.",
+    "new": "Before I act on a report, I owe the person in it a check, or I may carry the regret.",
+    "try": "Before forwarding the next shocking message you get, find where it came from. If you cannot, delete it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:7", "surah": 49, "ayah": 7, "place": "madinah",
+    "title": "Allah made faith beloved and beautiful in your hearts.",
+    "subtitle": "Why getting your own way is not always mercy",
+    "picture": {"kind": "boxes", "label": "What Allah placed in the heart", "row": [
+      {"box": "reward", "title": "faith", "sub": ["made dear", "made beautiful"]},
+      {"box": "trap", "title": "sin and defiance", "sub": ["made hateful"]},
+      {"conn": "so they are"},
+      {"box": "idea", "title": "rightly guided", "sub": ["ar-rashidun"]}]},
+    "key": {"label": "If he followed you", "row": [
+      {"box": "people", "title": "do it my way", "sub": ["I know what I need"], "strike": true},
+      {"box": "trap", "title": "you would struggle", "sub": ["hardship from your own wishes"]}]},
+    "then": "Some believers wanted the Prophet ﷺ to act on their opinions, like the report about Bani al-Mustaliq. {trap}If he followed their wishes in much of the matter, they would fall into hardship.{/trap} Ibn Kathir notes he cared for them more than they cared for themselves. Then comes the gift: {reward}Allah made faith dear to them.{/reward}",
+    "now": "You pray for a job, a marriage, a move, exactly on your terms. It does not go your way and you feel ignored. Later you see what that path would have cost. {reward}The love for faith you still feel is also a gift.{/reward}",
+    "old": "If my plans were followed, everything would turn out better.",
+    "new": "My wishes are not always my good, and even my love for faith is something Allah gave me.",
+    "try": "Think of one prayer that was not answered the way you wanted. Thank Allah for one good thing that came instead.",
+    "related": ["33:6", "23:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:8", "surah": 49, "ayah": 8, "place": "madinah",
+    "title": "Your guidance is a gift, not an achievement.",
+    "subtitle": "Bounty and favor from the One who knows",
+    "picture": {"kind": "boxes", "label": "Where guidance comes from", "row": [
+      {"box": "reward", "title": "bounty from Allah", "sub": ["fadl"]},
+      {"box": "reward", "title": "and favor", "sub": ["ni'mah"]},
+      {"conn": "given by"},
+      {"box": "idea", "title": "Knowing, Wise", "sub": ["knows who it fits"]}]},
+    "key": {"label": "Who gets the credit", "row": [
+      {"box": "people", "title": "I earned my faith", "sub": ["I worked it out"], "strike": true},
+      {"box": "reward", "title": "a gift from Allah", "sub": ["given with wisdom"]}]},
+    "then": "After describing believers whose hearts love faith and dislike sin, the verse names its source. {reward}It is a bounty and a favor from Allah.{/reward} Ibn Kathir explains He knows who deserves guidance and is wise in what He decrees.",
+    "now": "You see a cousin who stopped praying, or a colleague who mocks religion, and a quiet thought arrives: at least I am not like that. {trap}That thought forgets where your prayer came from.{/trap} {idea}Gratitude leaves no room for looking down.{/idea}",
+    "old": "I am guided because I am the kind of person who chooses well.",
+    "new": "My guidance is a favor I received, so I should thank for it, not boast about it.",
+    "try": "Today, when you notice someone far from faith, make a short dua for them instead of comparing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:9", "surah": 49, "ayah": 9, "place": "madinah",
+    "title": "When believers fight, step in and make peace justly.",
+    "subtitle": "Peacemaking that stays fair to both sides",
+    "picture": {"kind": "boxes", "label": "The steps", "row": [
+      {"box": "people", "title": "two groups fight", "sub": ["both still believers"]},
+      {"conn": "first"},
+      {"box": "idea", "title": "make peace", "sub": ["between them"]},
+      {"conn": "if one wrongs"},
+      {"box": "trap", "title": "stop the wrongdoer", "sub": ["until it returns"]},
+      {"box": "reward", "title": "settle with justice", "sub": ["Allah loves the fair"]}]},
+    "key": {"label": "Helping your side", "row": [
+      {"box": "people", "title": "back my friend", "sub": ["no matter what"], "strike": true},
+      {"box": "idea", "title": "stop his wrong", "sub": ["that is how you help him"]}]},
+    "then": "Sa'id bin Jubayr said the Aws and Khazraj once came to blows with palm branches and sandals. As-Suddi tells of a family quarrel over a wife kept from her relatives that turned into a scuffle. {idea}Allah ordered peace between them, made with justice.{/idea} Both sides are still called believers.",
+    "now": "Two aunts stop speaking and the whole family picks sides. Two friends in your circle fall out and you hear only one version. {trap}Taking your side is easy.{/trap} {idea}Being fair to both is the harder, loved thing.{/idea}",
+    "old": "In a fight, my job is to support the person I am closest to.",
+    "new": "My job is to bring them back together fairly, even if that means telling my own side they are wrong.",
+    "try": "If two people you know are not speaking, send one a kind message that opens a door, without taking a side.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:10", "surah": 49, "ayah": 10, "place": "madinah",
+    "title": "Believers are brothers, so mend what breaks between them.",
+    "subtitle": "One body, one building, one family",
+    "picture": {"kind": "boxes", "label": "What believers are", "row": [
+      {"box": "people", "title": "brothers", "sub": ["ikhwah"]},
+      {"conn": "like"},
+      {"box": "idea", "title": "one body", "sub": ["one part aches, all feel it"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "mercy", "sub": ["for those who mend"]}]},
+    "key": {"label": "Whose problem it is", "row": [
+      {"box": "people", "title": "not my business", "sub": ["it is between them"], "strike": true},
+      {"box": "idea", "title": "your brothers", "sub": ["so you reconcile them"]}]},
+    "then": "The verse closes the passage on fighting with a simple fact: {idea}the believers are brothers.{/idea} Ibn Kathir brings the hadith of the body that aches together, and the building whose parts hold each other up. The Prophet ﷺ clasped his fingers together to show it. {reward}Those who mend and fear Allah are promised mercy.{/reward}",
+    "now": "Two people in your mosque, your office, your WhatsApp group, are cold to each other. Everyone notices and nobody says anything. {trap}Silence feels polite, but it lets the crack grow.{/trap} A brother does something.",
+    "old": "Their quarrel is none of my business.",
+    "new": "When my brothers are broken apart, mending it is my business, and mercy is promised for it.",
+    "try": "Make one dua today, by name, for two people you know who are not on good terms.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

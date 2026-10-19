@@ -1,0 +1,239 @@
+[
+  {
+    "id": "2:1", "surah": 2, "ayah": 1, "place": "madinah",
+    "title": "Three letters, and a call to stop and listen.",
+    "subtitle": "Alif Lam Mim opens the longest surah",
+    "picture": {"kind": "boxes", "label": "Before the answer begins", "row": [
+      {"box": "people", "title": "Al-Fatihah", "sub": ["guide us"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "Alif Lam Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "This is the Book", "sub": ["the answer"]}]},
+    "key": {"label": "How to meet it", "row": [
+      {"box": "people", "title": "I must decode it", "sub": ["guess its meaning"], "strike": true},
+      {"box": "idea", "title": "pause and pay attention", "sub": ["something weighty follows"]}]},
+    "then": "Al-Baqarah follows Al-Fatihah and begins the answer to its prayer for guidance. It opens with three separate letters. {idea}Their meaning is known to Allah.{/idea} The Prophet ﷺ called this surah the peak of the Quran.",
+    "now": "Your phone buzzes, the kettle clicks, someone calls your name. Then three letters you cannot translate. {idea}You are made to stop.{/idea} Not to solve a puzzle, but to notice that what comes next is not ordinary speech.",
+    "old": "If I cannot understand a word, I can skip past it.",
+    "new": "Some words are there to quiet me down before something important.",
+    "try": "Before you read the Quran next, put the phone in another room for those few minutes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:2", "surah": 2, "ayah": 2, "place": "madinah",
+    "title": "The guidance is there; mindfulness is what lets it in.",
+    "subtitle": "Who actually benefits from the Book",
+    "picture": {"kind": "boxes", "label": "The same light, two receivers", "row": [
+      {"box": "idea", "title": "the Book", "sub": ["no doubt in it"]},
+      {"conn": "guides"},
+      {"box": "reward", "title": "the God-conscious", "sub": ["they let it in"]}]},
+    "key": {"label": "What makes it work", "row": [
+      {"box": "people", "title": "reading is enough", "sub": ["just get through it"], "strike": true},
+      {"box": "idea", "title": "taqwa opens the door", "sub": ["guidance for the mindful"]}]},
+    "then": "The surah answers the prayer of Al-Fatihah: here is the Book, beyond doubt. Ibn Kathir explains that {idea}the Quran is guidance in itself, but its guidance is granted to those with taqwa{/idea}, who avoid what harms and work in obedience.",
+    "now": "Two people read the same page. One feels nothing and closes the app. The other reads it slowly, worried about a choice at work, and {reward}finds the exact sentence they needed.{/reward} The page did not change. The heart reading it did.",
+    "old": "If the Quran does not move me, maybe it is not for me.",
+    "new": "The guidance is complete; my care and fear of Allah is what opens it.",
+    "try": "Before reading today, say: O Allah, make me one of those this guides. Then read one verse.",
+    "related": ["41:44", "17:82", "10:57"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:3", "surah": 2, "ayah": 3, "place": "madinah",
+    "title": "Trust what you cannot see, then act on it.",
+    "subtitle": "Unseen faith, prayer, and giving",
+    "picture": {"kind": "boxes", "label": "What the mindful do", "row": [
+      {"box": "idea", "title": "believe in the unseen", "sub": ["Allah, angels, the Last Day"]},
+      {"box": "idea", "title": "establish prayer", "sub": ["the heart turns"]},
+      {"box": "reward", "title": "spend from provision", "sub": ["the hand opens"]}]},
+    "key": {"label": "Who has the better faith", "row": [
+      {"box": "people", "title": "those who saw", "sub": ["it was easy for them"], "strike": true},
+      {"box": "reward", "title": "those who believe unseen", "sub": ["praised by the Prophet ﷺ"]}]},
+    "then": "Ibn Mas'ud said the matter of the Prophet ﷺ was clear for those who saw him, and {reward}no one gains better faith than belief in the unseen.{/reward} The Prophet ﷺ spoke of people after the Companions who would believe in him without seeing him.",
+    "now": "You never saw the Prophet ﷺ. You have never seen an angel or the Hereafter. Yet you set an alarm for Fajr and send money to a cousin who will never pay it back. {idea}That trust, lived out, is exactly what this verse describes.{/idea}",
+    "old": "My faith is weaker because I never saw anything with my own eyes.",
+    "new": "Believing without seeing is the very faith this verse honors.",
+    "try": "Give a small amount today from money you were planning to keep. Tell no one.",
+    "related": ["67:12", "50:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:4", "surah": 2, "ayah": 4, "place": "madinah",
+    "title": "One chain of messengers, and certainty about what comes next.",
+    "subtitle": "Believing in all revelation and the Hereafter",
+    "picture": {"kind": "boxes", "label": "What they believe in", "row": [
+      {"box": "idea", "title": "what came to you", "sub": ["the Quran"]},
+      {"box": "idea", "title": "what came before", "sub": ["earlier messengers"]},
+      {"conn": "and are"},
+      {"box": "reward", "title": "certain of the Hereafter", "sub": ["not just hopeful"]}]},
+    "key": {"label": "Belief or certainty", "row": [
+      {"box": "people", "title": "probably, maybe", "sub": ["the Hereafter as a theory"], "strike": true},
+      {"box": "idea", "title": "certain", "sub": ["it shapes today's choices"]}]},
+    "then": "Ibn 'Abbas explained that these believers {idea}accept what all the messengers brought, without dividing between them.{/idea} Mujahid said four verses at the start of Al-Baqarah describe the believers, and these qualities all depend on one another.",
+    "now": "You say you believe in the Hereafter. Then the bill comes in, or someone insults you in a group chat, and you act as if this life is the whole story. {reward}Certainty is when the next life changes what you do this afternoon.{/reward}",
+    "old": "I believe in the Hereafter, in a general way.",
+    "new": "Real certainty about the Hereafter shows up in today's decisions.",
+    "try": "Before one reaction today, ask: would I do this if I were certain of tomorrow's reckoning?",
+    "related": ["4:136", "2:285"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:5", "surah": 2, "ayah": 5, "place": "madinah",
+    "title": "Success is defined here, and it is not your salary.",
+    "subtitle": "Guided now, successful in both worlds",
+    "picture": {"kind": "boxes", "label": "Where it leads", "row": [
+      {"box": "people", "title": "the believers", "sub": ["verses 3 and 4"]},
+      {"conn": "are on"},
+      {"box": "idea", "title": "guidance from their Lord", "sub": ["light and insight"]},
+      {"conn": "and are"},
+      {"box": "reward", "title": "the successful", "sub": ["this world and next"]}]},
+    "key": {"label": "What success means", "row": [
+      {"box": "trap", "title": "titles, money, followers", "sub": ["the usual scoreboard"], "strike": true},
+      {"box": "reward", "title": "guided and safe", "sub": ["get what they sought"]}]},
+    "then": "After describing the believers, the verse gives the result. Ibn Kathir says they follow {idea}a light and insight from Allah{/idea}, and are successful in this world and the Hereafter: {reward}they get what they seek and are saved from what they feared.{/reward}",
+    "now": "LinkedIn tells you success is a promotion. Instagram says it is a holiday. Your family may say it is a house. This verse quietly gives its own definition. {reward}Guided by your Lord, and safe at the end.{/reward}",
+    "old": "I will feel successful once I reach my career goals.",
+    "new": "Being guided by my Lord is already success, whatever my job title says.",
+    "try": "Write one line tonight: what would success look like if Allah were judging it?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:6", "surah": 2, "ayah": 6, "place": "madinah",
+    "title": "Your job is to deliver, not to force the result.",
+    "subtitle": "When warnings land on closed hearts",
+    "picture": {"kind": "boxes", "label": "What the Prophet ﷺ carried", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["eager for all to believe"]},
+      {"conn": "warns"},
+      {"box": "trap", "title": "those who refuse", "sub": ["warned or not, the same"]}]},
+    "key": {"label": "Whose job is what", "row": [
+      {"box": "people", "title": "I must change them", "sub": ["or I failed"], "strike": true},
+      {"box": "idea", "title": "convey, and leave the rest", "sub": ["the reckoning is His"]}]},
+    "then": "Ibn 'Abbas said {idea}the Prophet ﷺ was eager for all people to believe.{/idea} Allah told him some would not, whatever he did. Ibn Kathir notes the comfort in this: do not grieve over them, {reward}your duty is only to convey.{/reward}",
+    "now": "You keep sending your brother articles about quitting smoking. You keep reminding a friend to pray. Nothing changes and you start to feel it is your fault. {idea}Say it kindly, then let go of the outcome.{/idea} Their heart is not in your hands.",
+    "old": "If they do not change, I did something wrong.",
+    "new": "My part is to speak well; guiding hearts belongs to Allah.",
+    "try": "Make dua tonight for one person you keep trying to change, and stop pushing for a day.",
+    "related": ["13:40", "11:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:7", "surah": 2, "ayah": 7, "place": "madinah",
+    "title": "A heart is sealed one sin at a time.",
+    "subtitle": "How a heart stops hearing",
+    "picture": {"kind": "boxes", "label": "Mujahid's open hand", "row": [
+      {"box": "people", "title": "an open heart", "sub": ["like an open palm"]},
+      {"conn": "each sin folds"},
+      {"box": "trap", "title": "one finger", "sub": ["then another"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "sealed", "sub": ["no longer hears"]}]},
+    "key": {"label": "What clears it", "row": [
+      {"box": "trap", "title": "one sin means nothing", "sub": ["I will stop later"], "strike": true},
+      {"box": "reward", "title": "repent, and it is polished", "sub": ["the dot is wiped"]}]},
+    "then": "Mujahid held up his open palm and folded one finger for each sin until the hand was closed. {trap}That, he said, is the seal.{/trap} The Prophet ﷺ said a sin leaves a black dot on the heart, and {reward}if the person repents, the heart is polished again.{/reward}",
+    "now": "The first time you lied on a timesheet, your face went hot. The fifth time, you did not notice. {trap}That quiet is the dot spreading.{/trap} But the hadith is hopeful too. {reward}One sincere turn back, and the heart is polished.{/reward}",
+    "old": "Small sins do not really change who I am.",
+    "new": "Every sin dulls the heart a little, and every repentance clears it.",
+    "try": "Name one small habit you have stopped feeling bad about. Ask Allah's forgiveness for it tonight.",
+    "related": ["83:14", "4:155"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:8", "surah": 2, "ayah": 8, "place": "madinah",
+    "title": "Saying I believe is not the same as believing.",
+    "subtitle": "The first verse on hypocrisy",
+    "picture": {"kind": "boxes", "label": "Two layers", "row": [
+      {"box": "people", "title": "the tongue", "sub": ["we believe in Allah"]},
+      {"conn": "hides"},
+      {"box": "trap", "title": "the heart", "sub": ["no belief inside"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "the right words", "sub": ["I said it, so I am"], "strike": true},
+      {"box": "idea", "title": "words matching the heart", "sub": ["outside equals inside"]}]},
+    "then": "Hypocrisy appeared in Madinah, not Makkah. After Badr, when Islam grew strong, {trap}some, led by 'Abdullah bin Ubayy, pretended to be Muslim.{/trap} These verses were revealed so the believers would not be fooled by appearances.",
+    "now": "You post a Ramadan quote while ignoring your mother's calls. You tell your team you value honesty, then fudge the numbers. {trap}The words and the life have drifted apart.{/trap} This verse is a mirror, not a finger to point at others.",
+    "old": "I say the right things, so I am fine.",
+    "new": "Allah looks at whether my heart and my words agree.",
+    "try": "Pick one thing you say you value. Do one small act today that actually matches it.",
+    "related": ["63:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:9", "surah": 2, "ayah": 9, "place": "madinah",
+    "title": "The one you fool in the end is yourself.",
+    "subtitle": "Deception that only loops back",
+    "picture": {"kind": "boxes", "label": "Where the trick lands", "row": [
+      {"box": "people", "title": "they try to deceive", "sub": ["Allah and the believers"]},
+      {"conn": "but it hits"},
+      {"box": "trap", "title": "themselves", "sub": ["and they do not notice"]}]},
+    "key": {"label": "Who gets fooled", "row": [
+      {"box": "people", "title": "the people watching", "sub": ["I got away with it"], "strike": true},
+      {"box": "trap", "title": "me", "sub": ["Allah is never fooled"]}]},
+    "then": "Ibn Kathir explains that the hypocrites showed belief outwardly and hid disbelief, {trap}thinking this would mislead Allah and the believers.{/trap} But no one can deceive Allah. The only person harmed was the one deceiving.",
+    "now": "You tell your doctor you quit, and you did not. You tell your boss the report is nearly done, and it has not started. {trap}The lie buys a moment, then the cost lands on you.{/trap} With Allah, there is not even the moment.",
+    "old": "As long as no one finds out, I have not lost anything.",
+    "new": "Every deception I try ends up costing me, not them.",
+    "try": "Correct one small untruth you told this week, even a tiny one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:10", "surah": 2, "ayah": 10, "place": "madinah",
+    "title": "Doubt fed with lies grows into a disease.",
+    "subtitle": "How sickness of the heart increases",
+    "picture": {"kind": "boxes", "label": "How it grows", "row": [
+      {"box": "trap", "title": "doubt in the heart", "sub": ["the disease"]},
+      {"conn": "fed by"},
+      {"box": "trap", "title": "habitual lying", "sub": ["they used to lie"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "more disease", "sub": ["evil adds to evil"]}]},
+    "key": {"label": "It works both ways", "row": [
+      {"box": "trap", "title": "doubt grows doubt", "sub": ["disease increased"]},
+      {"box": "reward", "title": "guidance grows guidance", "sub": ["He increases the guided"]}]},
+    "then": "Ibn 'Abbas and Ibn Mas'ud said the disease here is doubt. {trap}Allah increased it as a fitting result of their lies.{/trap} Ibn Kathir pairs it with the opposite: {reward}those who accept guidance, Allah increases in guidance.{/reward}",
+    "now": "A small doubt about someone turns into a story you repeat, then into a grudge. The same happens with faith. {trap}What you feed grows.{/trap} {reward}Feed sincerity, and that grows too.{/reward}",
+    "old": "My doubts just sit there and do not change me.",
+    "new": "Whatever my heart feeds on, it gets more of.",
+    "try": "Notice one doubt or bitter thought today and answer it with one true thing you know.",
+    "related": ["9:124", "47:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:11", "surah": 2, "ayah": 11, "place": "madinah",
+    "title": "Calling damage reform does not make it reform.",
+    "subtitle": "When people name their harm as peacemaking",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "people", "title": "they are told", "sub": ["do not spread corruption"]},
+      {"conn": "they reply"},
+      {"box": "trap", "title": "we are reformers", "sub": ["friends with both sides"]}]},
+    "key": {"label": "What corruption is", "row": [
+      {"box": "people", "title": "keeping everyone happy", "sub": ["playing both sides"], "strike": true},
+      {"box": "trap", "title": "disobedience dressed as peace", "sub": ["still corruption"]}]},
+    "then": "Abu Al-'Aliyah said corruption on earth is disobeying Allah, and {idea}peace on earth comes through obeying Him.{/idea} Ibn 'Abbas said the hypocrites claimed: {trap}we only want to be friends with both sides.{/trap}",
+    "now": "You tell one friend what they want to hear about the other, then do the same in reverse, and call it keeping the peace. {trap}You are actually feeding the conflict.{/trap} The verse asks for honest checking of your own motives.",
+    "old": "I am only trying to keep everyone happy.",
+    "new": "Peace built on disobedience or two faces is still corruption.",
+    "try": "Next time you are tempted to tell two people two different stories, tell both the same one.",
+    "related": ["8:73"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:12", "surah": 2, "ayah": 12, "place": "madinah",
+    "title": "The worst damage is the kind you cannot see yourself doing.",
+    "subtitle": "Corruption that does not feel like corruption",
+    "picture": {"kind": "boxes", "label": "The blind spot", "row": [
+      {"box": "people", "title": "how they see it", "sub": ["we are fixing things"]},
+      {"conn": "while"},
+      {"box": "trap", "title": "what it is", "sub": ["they are the corrupters"]}]},
+    "key": {"label": "The real danger", "row": [
+      {"box": "people", "title": "I would know if I were wrong", "sub": ["I feel fine"], "strike": true},
+      {"box": "trap", "title": "they perceive it not", "sub": ["feeling fine is no proof"]}]},
+    "then": "This verse answers the claim of the previous one. Ibn Kathir explains that {trap}their behavior, and their claim that it was for peace, was itself the mischief{/trap}, though in their ignorance they could not see it.",
+    "now": "Your teenager stops talking to you and you are sure it is their phase, not your tone. A colleague quietly leaves and you never wonder why. {trap}Not noticing is not the same as being innocent.{/trap} {idea}Ask someone honest.{/idea}",
+    "old": "If I were doing harm, I would feel it.",
+    "new": "Harm can feel normal from the inside, so I need honest eyes on me.",
+    "try": "Ask one person you trust: is there something I do that hurts others without realizing?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

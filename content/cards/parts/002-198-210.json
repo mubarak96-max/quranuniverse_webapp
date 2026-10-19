@@ -1,0 +1,266 @@
+[
+  {
+    "id": "2:198", "surah": 2, "ayah": 198, "place": "madinah",
+    "title": "Earning a living and remembering Allah are not enemies.",
+    "subtitle": "Trade on the journey, dhikr at the Sacred Place",
+    "picture": {"kind": "boxes", "label": "Both in one season", "row": [
+      {"box": "reward", "title": "seeking bounty", "sub": ["trade is no sin"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "leaving 'Arafat", "sub": ["calmly"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "remember Him", "sub": ["as He guided you"]}]},
+    "key": {"label": "Two halves of life", "row": [
+      {"box": "trap", "title": "work spoils worship", "sub": ["keep them apart"], "strike": true},
+      {"box": "idea", "title": "both under Allah", "sub": ["bounty and remembrance"]}]},
+    "then": "Ibn 'Abbas said people {trap}avoided trading during the Hajj season{/trap}, calling them days of dhikr. The verse said there is no sin in seeking your Lord's bounty. When the Prophet ﷺ left 'Arafat, he told people {idea}calmly, calmly{/idea}, and at Al-Mash'ar Al-Haram he faced the Qiblah and remembered Allah.",
+    "now": "You feel guilty answering a work call in Ramadan or after Jumu'ah. Or you think your job has nothing to do with your faith. {reward}Honest earning is called bounty from your Lord.{/reward} {idea}The verse just asks you to remember Him in the middle of it, as He guided you.{/idea}",
+    "old": "My work life and my spiritual life are separate worlds.",
+    "new": "Honest work is bounty from Allah, and remembering Him belongs in it.",
+    "try": "Before your next work task, say Bismillah and ask Allah for barakah in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:199", "surah": 2, "ayah": 199, "place": "madinah",
+    "title": "Move with the people, then ask forgiveness.",
+    "subtitle": "No special status, and humility after worship",
+    "picture": {"kind": "boxes", "label": "The old divide", "row": [
+      {"box": "trap", "title": "Quraysh", "sub": ["stayed apart at Muzdalifah"]},
+      {"box": "people", "title": "everyone else", "sub": ["stood at 'Arafat"]},
+      {"conn": "now"},
+      {"box": "idea", "title": "all together", "sub": ["depart where people depart"]}]},
+    "key": {"label": "After worship", "row": [
+      {"box": "trap", "title": "I did it perfectly", "sub": ["proud"], "strike": true},
+      {"box": "reward", "title": "forgive me", "sub": ["Forgiving, Merciful"]}]},
+    "then": "'A'ishah said Quraysh and their allies {trap}stayed in Muzdalifah, considering themselves the people of Allah's town{/trap}, while other Arabs stood at 'Arafat. Islam put everyone in the same place. Then: {reward}ask Allah's forgiveness.{/reward} Ibn Kathir notes the Prophet ﷺ sought forgiveness three times even after finishing a prayer.",
+    "now": "Your family has a name in the community. You sit in the front row and expect a little extra respect. {idea}The verse puts you in the crowd.{/idea} And after the best thing you did today, the right next step is still: Astaghfirullah.",
+    "old": "My background earns me a special place.",
+    "new": "Before Allah I stand with everyone, and after good deeds I still seek forgiveness.",
+    "try": "Say Astaghfirullah three times after your next prayer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:200", "surah": 2, "ayah": 200, "place": "madinah",
+    "title": "Remember Allah more than you boast about your fathers.",
+    "subtitle": "When the asking stops at this world",
+    "picture": {"kind": "boxes", "label": "After the rites", "row": [
+      {"box": "trap", "title": "my father fed people", "sub": ["the old boasting"]},
+      {"conn": "replace with"},
+      {"box": "idea", "title": "remembering Allah", "sub": ["even more"]},
+      {"box": "trap", "title": "only this world", "sub": ["no share after"]}]},
+    "key": {"label": "What the prayer asks for", "row": [
+      {"box": "trap", "title": "rain, crops, children", "sub": ["nothing more"], "strike": true},
+      {"box": "idea", "title": "this world and the next", "sub": ["ask for both"]}]},
+    "then": "Ibn 'Abbas said that before Islam, people at the Hajj gathering would {trap}recite their fathers' deeds{/trap}: he fed people, he paid blood money. The verse turned that energy to {idea}remembering Allah, even more.{/idea} Some would ask only for a rainy, fertile year, {trap}never mentioning the Hereafter.{/trap}",
+    "now": "Look at your last ten duas. A job, a house, a cure, a good result. All real needs. {trap}How many asked for anything beyond this life?{/trap} {idea}The verse is not against asking for the world. It warns against asking for only that.{/idea}",
+    "old": "My duas are about what I need right now.",
+    "new": "I can ask for this world, but not at the cost of forgetting the next.",
+    "try": "Add one request for the Hereafter to every dua you make today.",
+    "related": ["2:74", "4:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:201", "surah": 2, "ayah": 201, "place": "madinah",
+    "title": "Good here, good there, and safety from the Fire.",
+    "subtitle": "The dua the Prophet ﷺ used to make",
+    "picture": {"kind": "boxes", "label": "The complete dua", "row": [
+      {"box": "reward", "title": "good in this world", "sub": ["home, provision, knowledge"]},
+      {"box": "reward", "title": "good in the next", "sub": ["Paradise, light reckoning"]},
+      {"box": "reward", "title": "protection", "sub": ["from the Fire"]}]},
+    "key": {"label": "The sick man's prayer", "row": [
+      {"box": "trap", "title": "punish me now instead", "sub": ["more than he could bear"], "strike": true},
+      {"box": "reward", "title": "Rabbana atina", "sub": ["and he was cured"]}]},
+    "then": "Anas said the Prophet ﷺ used to say this dua. He once visited a man {trap}weak as a sick little bird{/trap}, who had asked Allah to bring his punishment forward into this life. The Prophet ﷺ told him he could not bear it, and taught him this dua instead. {reward}He said it, and he was cured.{/reward}",
+    "now": "You do not always know what to ask for. The house, or the health? The new job, or the peace of mind? {reward}This short dua covers it all{/reward}, and Al-Qasim said it means a grateful heart, a remembering tongue, and a patient body.",
+    "old": "I need to list everything precisely or my dua is incomplete.",
+    "new": "One short dua the Prophet ﷺ loved asks for all the good there is.",
+    "try": "Memorize Rabbana atina fid-dunya hasanah, and say it in every sujud today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:202", "surah": 2, "ayah": 202, "place": "madinah",
+    "title": "A share for what they earned, and a quick reckoning.",
+    "subtitle": "Nothing you work for is forgotten",
+    "picture": {"kind": "boxes", "label": "The result", "row": [
+      {"box": "people", "title": "those who asked well", "sub": ["both worlds"]},
+      {"conn": "receive"},
+      {"box": "reward", "title": "a share", "sub": ["of what they earned"]},
+      {"box": "idea", "title": "swift reckoning", "sub": ["nothing delayed"]}]},
+    "key": {"label": "A worker's question", "row": [
+      {"box": "trap", "title": "my Hajj is lesser", "sub": ["I worked my way there"], "strike": true},
+      {"box": "reward", "title": "a share earned", "sub": ["Ibn 'Abbas's answer"]}]},
+    "then": "A man told Ibn 'Abbas he had {trap}worked for some people and taken part of his wages as a ride to Hajj{/trap}, and asked if that counted. Ibn 'Abbas recited this verse: {reward}you are among those who have a share of what they earned.{/reward} And {idea}Allah is swift in account.{/idea}",
+    "now": "You went to the masjid on the bus after a double shift. You learned to read Quran in your forties from free videos. {trap}It feels small next to others.{/trap} {reward}The verse says there is a share for what you earned, and Allah keeps the count.{/reward}",
+    "old": "My modest efforts do not count for much.",
+    "new": "Whatever I earn of good, however humbly, has its share with Allah.",
+    "try": "Thank Allah for one good deed you managed this week despite a hard situation.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:203", "surah": 2, "ayah": 203, "place": "madinah",
+    "title": "Days of eating, drinking, and remembering Allah.",
+    "subtitle": "Joy and dhikr together, then the return home",
+    "picture": {"kind": "boxes", "label": "The counted days", "row": [
+      {"box": "reward", "title": "eating and drinking", "sub": ["our festival"]},
+      {"box": "idea", "title": "remembering Allah", "sub": ["takbir"]},
+      {"conn": "then"},
+      {"box": "people", "title": "people return", "sub": ["you will be gathered to Him"]}]},
+    "key": {"label": "Why the rites exist", "row": [
+      {"box": "trap", "title": "just steps to complete", "sub": ["a checklist"], "strike": true},
+      {"box": "idea", "title": "to establish dhikr", "sub": ["remembering Allah"]}]},
+    "then": "The Prophet ﷺ called these {reward}days of eating, drinking, and remembering Allah{/reward}, and our festival as people of Islam. Ibn Kathir cites a hadith that Tawaf, Sa'i, and stoning were set {idea}so that Allah is remembered.{/idea} As the crowds head home, the verse says: know you will be gathered to Him.",
+    "now": "Eid lunch with the family, plates everywhere, kids running. It feels far from worship. {reward}The verse joins them: joy and remembrance in one day.{/reward} {idea}Say a takbir between the second and third helping.{/idea}",
+    "old": "Celebrating and feasting is a break from religion.",
+    "new": "Allah made days of joy and food that are also days of remembering Him.",
+    "try": "At your next family meal, start a short round of Allahu Akbar or Alhamdulillah together.",
+    "related": ["23:79"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:204", "surah": 2, "ayah": 204, "place": "madinah",
+    "title": "Sweet words, swearing by Allah, and the fiercest in a fight.",
+    "subtitle": "When the tongue and the heart do not match",
+    "picture": {"kind": "boxes", "label": "What you see vs what is", "row": [
+      {"box": "people", "title": "pleasing speech", "sub": ["sweeter than honey"]},
+      {"box": "people", "title": "Allah is my witness", "sub": ["sworn sincerity"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "fiercest opponent", "sub": ["lies in a dispute"]}]},
+    "key": {"label": "The real test", "row": [
+      {"box": "trap", "title": "how well they speak", "sub": ["charm"], "strike": true},
+      {"box": "idea", "title": "how they argue", "sub": ["when there is a dispute"]}]},
+    "then": "Qatadah and others said these verses describe hypocrites in general. Nawf Al-Bikali described people whose {trap}tongues are sweeter than honey but hearts more bitter than aloe.{/trap} The Prophet ﷺ said a sign of a hypocrite is that {trap}when he disputes, he goes beyond all bounds.{/trap}",
+    "now": "You are charming in the meeting, at the family dinner, in your posts. Then the disagreement comes, and you twist facts and go for the throat. {idea}Check yourself in the argument, not in the speech.{/idea}",
+    "old": "If I speak well and mean well, I am fine.",
+    "new": "How I fight shows my heart more than how I talk.",
+    "try": "In your next disagreement, say only what is true, even if it weakens your side.",
+    "related": ["4:108", "19:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:205", "surah": 2, "ayah": 205, "place": "madinah",
+    "title": "Behind the smile: an effort to spoil the earth.",
+    "subtitle": "What someone strives for when no one is watching",
+    "picture": {"kind": "boxes", "label": "When he turns away", "row": [
+      {"box": "people", "title": "he leaves", "sub": ["the pleasant face ends"]},
+      {"conn": "strives to"},
+      {"box": "trap", "title": "corrupt", "sub": ["in the land"]},
+      {"box": "trap", "title": "destroy", "sub": ["crops and livestock"]},
+      {"box": "idea", "title": "Allah dislikes it", "sub": ["corruption"]}]},
+    "key": {"label": "Where effort goes", "row": [
+      {"box": "trap", "title": "saa'a to ruin", "sub": ["striving for harm"]},
+      {"box": "reward", "title": "saa'a to Allah", "sub": ["striving to His remembrance"]}]},
+    "then": "Ibn Kathir notes the verse uses {idea}sa'a, to strive{/idea}, the same word used for hastening to Jumu'ah. Here the effort goes to {trap}mischief, ruining the crops and offspring people live by.{/trap} Mujahid said such corruption can even hold back the rain.",
+    "now": "Online you post kindness. Offline you spread the rumor that cost a colleague her job. Or you leave litter and waste on land others depend on. {idea}Ask where your real effort goes when the meeting ends.{/idea}",
+    "old": "What I do when no one is watching is private.",
+    "new": "Allah sees where my effort goes once I walk away, and He dislikes corruption.",
+    "try": "Undo one small harm you caused, or clean up one place you left worse.",
+    "related": ["62:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:206", "surah": 2, "ayah": 206, "place": "madinah",
+    "title": "When told to fear Allah, pride drives him deeper.",
+    "subtitle": "The danger of not taking advice",
+    "picture": {"kind": "boxes", "label": "The reaction", "row": [
+      {"box": "idea", "title": "fear Allah", "sub": ["gentle advice"]},
+      {"conn": "meets"},
+      {"box": "trap", "title": "pride", "sub": ["anger, outrage"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "more sin", "sub": ["a wretched end"]}]},
+    "key": {"label": "When I am advised", "row": [
+      {"box": "trap", "title": "how dare they", "sub": ["defend my ego"], "strike": true},
+      {"box": "idea", "title": "may Allah reward them", "sub": ["consider it"]}]},
+    "then": "Ibn Kathir says when such a person is told to fear Allah and leave his wrongdoing, {trap}he refuses and becomes angry and outraged{/trap}, because he is used to doing evil. {trap}Pride in the sin takes hold of him.{/trap} The verse ends with a sober warning about where that leads.",
+    "now": "Your friend says gently, \"Maybe don't talk to your mum like that.\" Your face goes hot. You want to list everything they do wrong. {idea}That flash of pride is exactly the moment the verse describes.{/idea} Breathe, and hear it.",
+    "old": "When people correct me, they are attacking me.",
+    "new": "A reminder to fear Allah is a gift, even when it stings my pride.",
+    "try": "Thank the next person who corrects you, before you reply to the point.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:207", "surah": 2, "ayah": 207, "place": "madinah",
+    "title": "Some people sell themselves for Allah's pleasure.",
+    "subtitle": "The opposite of the smooth talker",
+    "picture": {"kind": "boxes", "label": "Two kinds of people", "row": [
+      {"box": "trap", "title": "sweet tongue", "sub": ["bitter heart"]},
+      {"conn": "versus"},
+      {"box": "reward", "title": "sells himself", "sub": ["for Allah's pleasure"]},
+      {"box": "reward", "title": "Allah is Kind", "sub": ["to His servants"]}]},
+    "key": {"label": "What you trade", "row": [
+      {"box": "trap", "title": "Allah for the world", "sub": ["the hypocrite's deal"], "strike": true},
+      {"box": "reward", "title": "yourself for Allah", "sub": ["the believer's deal"]}]},
+    "then": "Ibn 'Abbas said these verses came about hypocrites who {trap}criticized Khubayb and his companions{/trap}, killed at Raji', and this verse praised those companions. Qatadah, Mujahid, and others said it describes believers in general: {reward}those who give themselves seeking Allah's pleasure.{/reward}",
+    "now": "Not a battlefield. The nurse on a night shift who prays fajr in the break room. The father who turns down a dishonest raise. The student who gives up a weekend to tutor for free. {reward}People spending themselves for Allah's pleasure.{/reward}",
+    "old": "Giving my time and comfort for Allah is a loss.",
+    "new": "Spending myself for Allah's pleasure is the best trade, and He is Kind.",
+    "try": "Give one hour this week purely for Allah's sake, with no one thanking you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:208", "surah": 2, "ayah": 208, "place": "madinah",
+    "title": "Enter Islam completely, not one foot at a time.",
+    "subtitle": "Wholehearted, not selective",
+    "picture": {"kind": "boxes", "label": "Entering peace", "row": [
+      {"box": "idea", "title": "Islam", "sub": ["as-silm, peace"]},
+      {"box": "idea", "title": "completely", "sub": ["as much as you can"]},
+      {"conn": "and not"},
+      {"box": "trap", "title": "Satan's footsteps", "sub": ["a clear enemy"]}]},
+    "key": {"label": "How to enter", "row": [
+      {"box": "trap", "title": "the parts I like", "sub": ["pick and choose"], "strike": true},
+      {"box": "idea", "title": "all of it", "sub": ["as far as I am able"]}]},
+    "then": "Ibn 'Abbas and others said silm here means {idea}Islam{/idea}, and kaffah means {idea}in its entirety.{/idea} Ibn Kathir describes it as holding to all its commands and avoiding its prohibitions {reward}as much as they can{/reward}, and once more, not following Satan's footsteps.",
+    "now": "You pray but skip honesty in your taxes. You fast but your tongue runs loose in the group chat. {trap}Faith in the parts that fit, absent in the parts that cost.{/trap} {idea}The verse calls you all the way in, as much as you are able.{/idea}",
+    "old": "I will keep the parts of faith that fit my life.",
+    "new": "Allah calls me into Islam wholly, step by step, as much as I can.",
+    "try": "Name one area of your life you have kept outside your faith. Take one step to bring it in.",
+    "related": ["2:169", "35:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:209", "surah": 2, "ayah": 209, "place": "madinah",
+    "title": "If you slip after clear signs, Allah is Mighty, Wise.",
+    "subtitle": "Knowing more means standing more firmly",
+    "picture": {"kind": "boxes", "label": "After clarity", "row": [
+      {"box": "reward", "title": "clear proofs came", "sub": ["you know"]},
+      {"conn": "if you"},
+      {"box": "trap", "title": "slide back", "sub": ["deviate"]},
+      {"conn": "know"},
+      {"box": "idea", "title": "Mighty, Wise", "sub": ["no one escapes His justice"]}]},
+    "key": {"label": "What the names mean", "row": [
+      {"box": "idea", "title": "Mighty", "sub": ["in His justice"]},
+      {"box": "idea", "title": "Wise", "sub": ["in His decisions"]}]},
+    "then": "Right after the call to enter fully comes a reminder: {trap}if you slip after clear proofs have come{/trap}, know that Allah is Mighty and Wise. Abu Al-'Aliyah and Qatadah said: {idea}Mighty in His vengeance, Wise in His decision.{/idea}",
+    "now": "You did a course on Islam, read the tafsir, sat with good people. Then the old habits pulled you back. {idea}Knowing better raises the stakes.{/idea} The verse is a warning, but it is also a wake-up while there is still time to turn.",
+    "old": "Since I know the right thing, slipping now and then is no big deal.",
+    "new": "The more clearly I know, the more firmly I should hold on.",
+    "try": "Return today to one good habit you knew was right and let slide.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:210", "surah": 2, "ayah": 210, "place": "madinah",
+    "title": "What are they waiting for?",
+    "subtitle": "Do not delay until the matter is decided",
+    "picture": {"kind": "boxes", "label": "The waiting", "row": [
+      {"box": "people", "title": "they wait", "sub": ["one more sign"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "the Day comes", "sub": ["angels, shadows of clouds"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "decided", "sub": ["no more choice"]}]},
+    "key": {"label": "When to decide", "row": [
+      {"box": "trap", "title": "when it is undeniable", "sub": ["the Day itself"], "strike": true},
+      {"box": "idea", "title": "now", "sub": ["while it is still a choice"]}]},
+    "then": "Ibn Kathir titles this passage {idea}do not delay embracing the faith.{/idea} The verse asks what people are waiting for, if not the Day when Allah comes to judge and {trap}the matter is already decided.{/trap} He cites the verse: on that Day man will remember, {trap}but how will remembering help him then?{/trap}",
+    "now": "\"I will get serious after I graduate.\" \"After the wedding.\" \"When I retire.\" {trap}You are waiting for a sign that will end the choice instead of helping you make it.{/trap} {idea}The best time to turn is while turning is still yours.{/idea}",
+    "old": "I will commit fully once I am certain and ready.",
+    "new": "Waiting for the final sign means waiting until it is too late. Now is the time.",
+    "try": "Do the one thing you keep saying you will start later, today, even for five minutes.",
+    "related": ["89:21", "6:158", "25:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

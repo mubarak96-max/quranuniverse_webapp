@@ -1,0 +1,184 @@
+[
+  {
+    "id": "7:88", "surah": 7, "ayah": 88, "place": "makkah",
+    "title": "Leave town or come back to our ways.",
+    "subtitle": "The chiefs' ultimatum to Shuayb",
+    "picture": {"kind": "boxes", "label": "The ultimatum", "row": [
+      {"box": "trap", "title": "arrogant chiefs", "sub": ["the town's elite"]},
+      {"conn": "threaten"},
+      {"box": "people", "title": "Shuayb and believers", "sub": ["a small group"]},
+      {"conn": "with"},
+      {"box": "trap", "title": "exile or return", "sub": ["no third option"]}]},
+    "key": {"label": "Shuayb's reply", "row": [
+      {"box": "trap", "title": "you must return", "sub": ["belief by force"]},
+      {"box": "idea", "title": "even if we hate it?", "sub": ["faith cannot be forced back"]}]},
+    "then": "The arrogant chiefs of Shuayb's people threatened to expel him and those who believed with him, {trap}or force them back to the old religion.{/trap} The words were aimed at Shuayb but meant for his followers too. His calm reply: {idea}Even if we are unwilling?{/idea}",
+    "now": "Your friends say you have changed since you started praying. Come out like before, or we stop inviting you. {trap}It is framed as a choice, but it is pressure.{/trap} {idea}You are allowed to say no kindly.{/idea}",
+    "old": "If everyone around me pushes, I will have to give in eventually.",
+    "new": "Pressure can move my body, but it cannot make my heart love what it left.",
+    "try": "Think of one place you hide your faith to fit in. Show it a little, gently, once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:89", "surah": 7, "ayah": 89, "place": "makkah",
+    "title": "Upon Allah we rely. Judge between us.",
+    "subtitle": "Shuayb hands the outcome to Allah",
+    "picture": {"kind": "boxes", "label": "Shuayb's answer", "row": [
+      {"box": "trap", "title": "going back", "sub": ["a lie against Allah"]},
+      {"box": "idea", "title": "His knowledge", "sub": ["encompasses all things"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "we trust Him", "sub": ["in all our affairs"]},
+      {"box": "idea", "title": "You judge", "sub": ["best of judges"]}]},
+    "key": {"label": "Where he put the fight", "row": [
+      {"box": "people", "title": "win it myself", "sub": ["argue, scheme, retaliate"], "strike": true},
+      {"box": "reward", "title": "hand it to Allah", "sub": ["the Most Just decides"]}]},
+    "then": "Shuayb told them that returning would be {trap}inventing a lie against Allah{/trap} after He had saved them from it. He left every matter to Allah's will and knowledge. Then he turned to Allah: {reward}upon You we rely, judge between us and our people in truth.{/reward}",
+    "now": "A relative spreads a twisted version of your family fight on the group chat. You draft a long reply at 1 a.m. {trap}You want to win it tonight.{/trap} {reward}You could also put the phone down and ask the Best of Judges.{/reward}",
+    "old": "If I do not defend myself loudly, the truth will lose.",
+    "new": "I can stay firm, say what is true, and leave the verdict with Allah.",
+    "try": "Before replying to one argument today, make a short dua and wait an hour.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:90", "surah": 7, "ayah": 90, "place": "makkah",
+    "title": "Follow him and you will lose, they warned.",
+    "subtitle": "The chiefs' fear campaign",
+    "picture": {"kind": "boxes", "label": "The chiefs' claim", "row": [
+      {"box": "trap", "title": "disbelieving chiefs", "sub": ["speak to the people"]},
+      {"conn": "warn"},
+      {"box": "trap", "title": "follow Shuayb", "sub": ["and you will be losers"]}]},
+    "key": {"label": "Who lost", "row": [
+      {"box": "people", "title": "the followers", "sub": ["what the chiefs claimed"], "strike": true},
+      {"box": "trap", "title": "the deniers", "sub": ["what Allah showed"]}]},
+    "then": "Ibn Kathir says this shows the depth of defiance in their hearts. The chiefs vowed to the people that {trap}following Shuayb would make them losers.{/trap} Allah answered that claim with what came next, and {idea}the verses that follow turn the word losers back on those who said it.{/idea}",
+    "now": "Someone at work tells you that being honest in sales will cost you your bonus. Everyone cuts corners, they say. {trap}You will lose if you do not.{/trap} {idea}Ask who really ends up losing.{/idea}",
+    "old": "Doing right will make me fall behind.",
+    "new": "The ones who warn me about losing are not the ones who decide who loses.",
+    "try": "Do one honest thing today that might cost you a little. Notice how it feels after.",
+    "related": ["11:94", "26:189"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:91", "surah": 7, "ayah": 91, "place": "makkah",
+    "title": "The town they guarded became their grave.",
+    "subtitle": "The end that answered their threat",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "trap", "title": "the threat", "sub": ["we will expel you"]},
+      {"conn": "answered by"},
+      {"box": "trap", "title": "the earthquake", "sub": ["seized them"]},
+      {"conn": "left them"},
+      {"box": "people", "title": "fallen in homes", "sub": ["by the morning"]}]},
+    "key": {"label": "What they were sure of", "row": [
+      {"box": "people", "title": "our town is safe", "sub": ["we decide who stays"], "strike": true},
+      {"box": "idea", "title": "Allah decides", "sub": ["who stays and who goes"]}]},
+    "then": "They threatened to drive Shuayb and the believers out of the town. Ibn Kathir explains that {trap}the earthquake shook them as punishment for that threat.{/trap} Other surahs mention a cry and a dark cloud on the same day. {idea}The ones who wanted to expel others were the ones removed.{/idea}",
+    "now": "You feel secure in your house, your job, your health. It is easy to look down on someone with less. {trap}Security can make you hard.{/trap} {idea}What you stand on is held up by Allah, not by you.{/idea}",
+    "old": "My home and position are solid. They are mine.",
+    "new": "Everything I stand on is lent, and can change in a single night.",
+    "try": "Thank Allah out loud tonight for the roof over you, by name.",
+    "related": ["11:94", "26:189"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:92", "surah": 7, "ayah": 92, "place": "makkah",
+    "title": "As if they had never lived there at all.",
+    "subtitle": "The word losers returned to its owners",
+    "picture": {"kind": "boxes", "label": "Two claims", "row": [
+      {"box": "trap", "title": "chiefs said", "sub": ["followers will lose"]},
+      {"conn": "Allah said"},
+      {"box": "trap", "title": "deniers lost", "sub": ["as if never there"]}]},
+    "key": {"label": "The reversal", "row": [
+      {"box": "people", "title": "we own this land", "sub": ["they will leave"], "strike": true},
+      {"box": "idea", "title": "no trace of them", "sub": ["Shuayb's people remained"]}]},
+    "then": "The chiefs had wanted to expel Shuayb from the land. After the punishment, {trap}it was as though they had never lived in it.{/trap} Ibn Kathir notes Allah refuted their earlier claim directly: {idea}those who denied Shuayb, they were the losers.{/idea}",
+    "now": "Walk past a shop that was the busiest on your street ten years ago. Now it is a phone repair stall and nobody remembers the name. {trap}Status fades fast.{/trap} {idea}What you did with it is what stays.{/idea}",
+    "old": "The people with power now will always be there.",
+    "new": "Power that denies the truth leaves no trace worth keeping.",
+    "try": "Think of something you are building. Ask if it will matter when your name is forgotten.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:93", "surah": 7, "ayah": 93, "place": "makkah",
+    "title": "I told you, I advised you. I did my part.",
+    "subtitle": "Shuayb turns away after the end",
+    "picture": {"kind": "boxes", "label": "Shuayb's farewell", "row": [
+      {"box": "idea", "title": "conveyed the message", "sub": ["all he was sent with"]},
+      {"box": "idea", "title": "gave sincere advice", "sub": ["again and again"]},
+      {"conn": "so"},
+      {"box": "people", "title": "no more grief", "sub": ["the choice was theirs"]}]},
+    "key": {"label": "What he was responsible for", "row": [
+      {"box": "people", "title": "their choice", "sub": ["making them believe"], "strike": true},
+      {"box": "idea", "title": "conveying clearly", "sub": ["that was his duty"]}]},
+    "then": "After the destruction, Shuayb turned away from his people. He told them {idea}I conveyed my Lord's messages and gave you good advice.{/idea} Ibn Kathir explains: I delivered what I was sent with, {trap}so I will not grieve, since you rejected it.{/trap}",
+    "now": "You warned your younger brother about the friends he was keeping. You said it kindly, more than once. He did not listen. {trap}You keep blaming yourself.{/trap} {idea}You did your part. The rest was his.{/idea}",
+    "old": "If they did not change, I must have failed.",
+    "new": "My job is to advise sincerely. Their response is not my burden to carry.",
+    "try": "Think of one person you keep trying to fix. Make dua for them, then let go a little.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:94", "surah": 7, "ayah": 94, "place": "makkah",
+    "title": "Hardship came so they might turn back.",
+    "subtitle": "The purpose behind difficulty",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "people", "title": "a Prophet sent", "sub": ["to a town"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "illness and poverty", "sub": ["hardship and humiliation"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "they humble themselves", "sub": ["and call on Allah"]}]},
+    "key": {"label": "What hardship is for", "row": [
+      {"box": "trap", "title": "just bad luck", "sub": ["nothing to learn"], "strike": true},
+      {"box": "idea", "title": "a call to turn", "sub": ["humble yourself, ask Him"]}]},
+    "then": "Ibn Kathir explains that the nations who denied their Prophets were struck with {trap}sickness, poverty and humiliation{/trap}, so they might supplicate and humble themselves. The hardship was a door. {idea}It was meant to bring them to Allah.{/idea}",
+    "now": "The rent is late. Your knee will not heal. The job offer fell through. {trap}You scroll to forget.{/trap} {idea}What if this week is asking you to raise your hands, not numb yourself?{/idea}",
+    "old": "Hard times are just something to get through.",
+    "new": "Hard times can be an invitation to come back to Allah humbly.",
+    "try": "Take the hardest thing in your life right now and ask Allah about it, plainly, in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:95", "surah": 7, "ayah": 95, "place": "makkah",
+    "title": "Good times and bad, they called it a cycle.",
+    "subtitle": "Failing both tests",
+    "picture": {"kind": "boxes", "label": "Two tests", "row": [
+      {"box": "trap", "title": "hardship", "sub": ["no humility"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "prosperity", "sub": ["more people, wealth"]},
+      {"conn": "they said"},
+      {"box": "trap", "title": "just a cycle", "sub": ["our fathers had it too"]}]},
+    "key": {"label": "How to read life", "row": [
+      {"box": "people", "title": "ups and downs", "sub": ["it happens to everyone"], "strike": true},
+      {"box": "idea", "title": "both are tests", "sub": ["patience and thanks"]}]},
+    "then": "After hardship, Allah gave them health and plenty until they grew in number and wealth. They said {trap}our fathers also had hard and easy times{/trap}, as if it were only a cycle. Ibn Kathir quotes the hadith that the believer's affair is all good: {idea}patient in harm, thankful in ease.{/idea}",
+    "now": "Last year you were broke. This year you got the promotion. You tell yourself the economy turned. {trap}No lesson either time.{/trap} {idea}Both seasons were questions. Patience then, gratitude now.{/idea}",
+    "old": "Life just goes up and down. That is how it works.",
+    "new": "Every season, hard or easy, is a test with a right answer.",
+    "try": "Name one good thing in your life right now and thank Allah for it specifically.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:96", "surah": 7, "ayah": 96, "place": "makkah",
+    "title": "Faith and taqwa open the sky and earth.",
+    "subtitle": "What could have been for those towns",
+    "picture": {"kind": "boxes", "label": "The two paths", "row": [
+      {"box": "idea", "title": "believe and be mindful", "sub": ["obey, avoid the forbidden"]},
+      {"conn": "opens"},
+      {"box": "reward", "title": "blessings", "sub": ["rain from sky, growth from earth"]}]},
+    "key": {"label": "Where blessing comes from", "row": [
+      {"box": "people", "title": "effort and luck", "sub": ["I earned all of it"], "strike": true},
+      {"box": "reward", "title": "faith and taqwa", "sub": ["Allah opens the doors"]}]},
+    "then": "Ibn Kathir notes how little faith the towns had, except the people of Yunus. Had they believed and kept taqwa, {reward}Allah would have opened blessings from the sky and the earth{/reward}, meaning rain and crops. {trap}But they denied, and were taken for what they earned.{/trap}",
+    "now": "You work overtime, chase side hustles, refresh your bank app. There is never quite enough. {trap}You keep pushing harder.{/trap} {reward}Barakah is not only about more hours. It comes from how you live before Allah.{/reward}",
+    "old": "More work is the only way to get more.",
+    "new": "Faith and mindfulness of Allah are part of how blessing reaches me.",
+    "try": "Give a small amount in charity today and pray on time once, with your provision in mind.",
+    "related": ["10:98", "37:147", "34:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

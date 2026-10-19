@@ -1,0 +1,285 @@
+[
+  {
+    "id": "17:28", "surah": 17, "ayah": 28, "place": "makkah",
+    "title": "When you have nothing to give, give a gentle word.",
+    "subtitle": "Saying no without breaking a heart",
+    "picture": {"kind": "boxes", "label": "Empty hands", "row": [
+      {"box": "people", "title": "someone asks", "sub": ["relative, poor, traveler"]},
+      {"box": "people", "title": "you have nothing", "sub": ["hoping for Allah's mercy"]},
+      {"conn": "so give"},
+      {"box": "reward", "title": "a soft word", "sub": ["a kind promise"]}]},
+    "key": {"label": "What you still owe", "row": [
+      {"box": "trap", "title": "ignore the message", "sub": ["I cannot help anyway"], "strike": true},
+      {"box": "idea", "title": "an easy, kind reply", "sub": ["when I have, I will give"]}]},
+    "then": "The verses before command giving to relatives, the poor and travelers. This one covers the moment {idea}you have nothing to give and must turn them away{/idea}. Mujahid, 'Ikrimah, Al-Hasan and others said the gentle word means {reward}a kind promise{/reward} that you will help when Allah gives you something.",
+    "now": "A cousin asks for money in a voice note. Your account is empty until the end of the month. The easy move is to leave it on read. {trap}Silence feels like rejection.{/trap} {reward}A warm reply costs nothing.{/reward}",
+    "old": "If I cannot give anything, there is nothing I owe the person asking.",
+    "new": "Even with empty hands, I owe them kindness and a hopeful word.",
+    "try": "Reply today to one request you have been avoiding, kindly, even if the answer is not yet.",
+    "related": ["25:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:29", "surah": 17, "ayah": 29, "place": "makkah",
+    "title": "Not a hand chained shut, not a hand thrown wide open.",
+    "subtitle": "The middle path in spending",
+    "picture": {"kind": "boxes", "label": "Two extremes", "row": [
+      {"box": "trap", "title": "hand tied to neck", "sub": ["never gives"]},
+      {"box": "idea", "title": "the middle", "sub": ["moderate, steady"]},
+      {"box": "trap", "title": "hand fully open", "sub": ["spends beyond means"]}]},
+    "key": {"label": "Where each ends", "row": [
+      {"box": "trap", "title": "the miser", "sub": ["blamed, not relied on"]},
+      {"box": "trap", "title": "the overspender", "sub": ["worn out, nothing left"]}]},
+    "then": "Ibn Kathir says the verse {idea}condemns stinginess and forbids extravagance{/idea}. The miser is blamed and people stop relying on him. The one who spends beyond his means ends up with nothing, worn out. He cites the Prophet ﷺ: {reward}wealth never decreases because of charity{/reward}.",
+    "now": "Some people never pick up the bill, never chip in for the gift. Others say yes to every request, then borrow to pay rent. {idea}Both hands get tired.{/idea} A steady giving habit, sized to your income, lasts.",
+    "old": "Being generous means giving whenever I am asked, whatever it costs.",
+    "new": "Generosity has a shape: open, but not so open that I break.",
+    "try": "Set a small fixed amount you will give every week, one you can keep up.",
+    "related": ["67:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:30", "surah": 17, "ayah": 30, "place": "makkah",
+    "title": "He widens provision for some and tightens it for others.",
+    "subtitle": "Who decides rich and poor, and why",
+    "picture": {"kind": "boxes", "label": "Provision", "row": [
+      {"box": "idea", "title": "your Lord", "sub": ["knows, sees His servants"]},
+      {"conn": "expands"},
+      {"box": "reward", "title": "for some", "sub": []},
+      {"conn": "tightens"},
+      {"box": "people", "title": "for others", "sub": []}]},
+    "key": {"label": "What wealth proves", "row": [
+      {"box": "people", "title": "rich means loved", "sub": ["poor means punished"], "strike": true},
+      {"box": "idea", "title": "both can be tests", "sub": ["by His wisdom"]}]},
+    "then": "Right after the command to spend wisely, the verse reminds who gives. Ibn Kathir says {idea}Allah makes rich and poor by His wisdom{/idea}, knowing who is suited to each. He adds that {trap}wealth can carry someone away to ruin, and poverty can be a punishment{/trap}, and asks Allah's protection from both.",
+    "now": "Your friend's business takes off. Yours struggles even though you work longer hours. You start to wonder if Allah is pleased with them and not with you. {idea}The amount is not the verdict.{/idea} What you do with it is.",
+    "old": "How much money I have shows how Allah sees me.",
+    "new": "Allah gives more or less with wisdom, and each amount is a test.",
+    "try": "Whatever your balance today, say alhamdulillah and ask Allah to protect you from the test in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:31", "surah": 17, "ayah": 31, "place": "makkah",
+    "title": "We provide for them and for you.",
+    "subtitle": "Fear of poverty must never cost a child",
+    "picture": {"kind": "boxes", "label": "The fear", "row": [
+      {"box": "people", "title": "a parent", "sub": ["afraid of poverty"]},
+      {"conn": "fears"},
+      {"box": "people", "title": "another mouth", "sub": ["the child"]},
+      {"box": "reward", "title": "We provide", "sub": ["for them, then for you"]}]},
+    "key": {"label": "Whose provision", "row": [
+      {"box": "trap", "title": "I feed my children", "sub": ["it all depends on me"], "strike": true},
+      {"box": "idea", "title": "Allah feeds them", "sub": ["their provision named first"]}]},
+    "then": "In pre-Islamic Arabia some people killed their daughters for fear of becoming poorer. Ibn Kathir notes that {reward}the children's provision is mentioned first here{/reward}, and that Allah is more compassionate to His servants than a father to his child. He calls the act {trap}a major sin{/trap}.",
+    "now": "You do the sums at the kitchen table. School fees, rent, another baby on the way. The fear grips your chest. {reward}The verse speaks straight to that fear.{/reward} Plan wisely, but remember who has always fed this house.",
+    "old": "My children's future depends entirely on how much I can earn.",
+    "new": "Allah provides for my children before He provides for me.",
+    "try": "When money worry about your family rises today, say: Allah provides for them and for me.",
+    "related": ["6:151"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:32", "surah": 17, "ayah": 32, "place": "makkah",
+    "title": "Do not even go near it.",
+    "subtitle": "Staying far from the road to zina",
+    "picture": {"kind": "boxes", "label": "The road", "row": [
+      {"box": "plain", "title": "a glance", "sub": []},
+      {"box": "plain", "title": "a private chat", "sub": []},
+      {"box": "plain", "title": "a meeting", "sub": []},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the sin", "sub": ["shameful, an evil way"]}]},
+    "key": {"label": "Where the line is", "row": [
+      {"box": "people", "title": "at the act itself", "sub": ["the rest is harmless"], "strike": true},
+      {"box": "idea", "title": "do not approach", "sub": ["avoid what leads there"]}]},
+    "then": "Ibn Kathir says Allah forbids zina and {idea}everything that leads to it{/idea}. He cites a young man who asked the Prophet ﷺ for permission. The people scolded him, but the Prophet ﷺ called him close and asked if he would like it for his mother, his daughter, his sister. Then he put his hand on him and {reward}prayed for his heart to be purified{/reward}.",
+    "now": "It starts small. A late night message that gets a bit too personal. The app you open when you are lonely. {trap}No one plans the fall.{/trap} The verse does not say do not do it. It says do not walk toward it.",
+    "old": "I can handle getting close as long as I do not cross the final line.",
+    "new": "The safe place is far from the line, not right next to it.",
+    "try": "Identify one door that leads you toward temptation and close it today, a chat, an app, a habit.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:33", "surah": 17, "ayah": 33, "place": "makkah",
+    "title": "A life Allah made sacred, and justice without excess.",
+    "subtitle": "The weight of one soul",
+    "picture": {"kind": "boxes", "label": "A sacred life", "row": [
+      {"box": "idea", "title": "the soul", "sub": ["forbidden by Allah"]},
+      {"box": "people", "title": "the heir", "sub": ["given authority"]},
+      {"box": "reward", "title": "forgiveness", "sub": ["an option the heir has"]},
+      {"box": "trap", "title": "excess", "sub": ["revenge beyond limits"]}]},
+    "key": {"label": "After a wrong", "row": [
+      {"box": "trap", "title": "hit back harder", "sub": ["make them pay more"], "strike": true},
+      {"box": "idea", "title": "no excess", "sub": ["justice has limits"]}]},
+    "then": "Ibn Kathir cites a narration that {idea}the end of the world is less serious to Allah than the killing of a Muslim{/idea}. The heir of a wronged person is given authority, and may also forgive. But {trap}he must not go beyond limits{/trap}, such as taking revenge on people other than the one who did it.",
+    "now": "Someone wrongs your brother, and the family group chat fills with rage. Everyone wants to hit back at the whole other family. {trap}Anger wants more than justice.{/trap} The verse puts a limit on that.",
+    "old": "When I am wronged, I am free to get back at them however I like.",
+    "new": "Even rightful anger has limits, and forgiving is always an option.",
+    "try": "Think of someone who wronged you. Make sure you are not punishing someone else for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:34", "surah": 17, "ayah": 34, "place": "makkah",
+    "title": "Guard the orphan's money, and keep every promise.",
+    "subtitle": "Things trusted to you will be asked about",
+    "picture": {"kind": "boxes", "label": "What you hold for others", "row": [
+      {"box": "people", "title": "the orphan's wealth", "sub": ["only to improve it"]},
+      {"box": "people", "title": "your promises", "sub": ["to people, to Allah"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "will be asked about", "sub": []}]},
+    "key": {"label": "A promise is", "row": [
+      {"box": "plain", "title": "just words", "sub": ["things change"], "strike": true},
+      {"box": "idea", "title": "a question waiting", "sub": ["it will be asked about"]}]},
+    "then": "Ibn Kathir explains that the orphan's wealth must only be handled {idea}in a proper way{/idea}, until he is grown. He cites the Prophet ﷺ telling Abu Dharr not to take charge of an orphan's property, because {trap}it is a heavy trust{/trap}. Every promise you make to people {idea}will be asked about{/idea}.",
+    "now": "You told your colleague you would cover for her shift. You promised your son you would come to his match. You are holding a friend's money for safekeeping. {idea}Each one is a small trust.{/idea} Keeping it is worship.",
+    "old": "A promise is fine to drop if something better comes up.",
+    "new": "Every promise I make will be asked about, so I keep it or I do not make it.",
+    "try": "Look back over the last week for one promise you have not yet kept. Keep it today.",
+    "related": ["4:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:35", "surah": 17, "ayah": 35, "place": "makkah",
+    "title": "Give full measure and weigh with an honest scale.",
+    "subtitle": "Honesty in what you hand over",
+    "picture": {"kind": "boxes", "label": "The scale", "row": [
+      {"box": "trap", "title": "short weight", "sub": ["a little less each time"]},
+      {"box": "idea", "title": "straight balance", "sub": ["full measure"]},
+      {"conn": "is"},
+      {"box": "reward", "title": "better", "sub": ["now and in the end"]}]},
+    "key": {"label": "What cheating gains", "row": [
+      {"box": "people", "title": "a little extra", "sub": ["no one notices"], "strike": true},
+      {"box": "reward", "title": "a better end", "sub": ["honesty pays later"]}]},
+    "then": "Ibn Kathir explains the balance must be {idea}straight, not distorted{/idea}. Qatadah said this is better in reward and in outcome. Ibn 'Abbas used to say: {trap}you are trusted with two things that destroyed the people before you, weights and measures{/trap}.",
+    "now": "The timesheet with an extra half hour. The product photo that hides the flaw. The rounding up on the expense claim. {trap}Small, quiet, everyday.{/trap} {reward}Giving people exactly what they paid for is better for you in the end.{/reward}",
+    "old": "Shaving a little off is normal business, everyone does it.",
+    "new": "Fair measure is good for me now and better for me later.",
+    "try": "Check one thing you hand over today, hours, work, change, and make sure it is full.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:36", "surah": 17, "ayah": 36, "place": "makkah",
+    "title": "Do not follow what you do not know.",
+    "subtitle": "Hearing, sight and heart will be questioned",
+    "picture": {"kind": "boxes", "label": "Three witnesses", "row": [
+      {"box": "people", "title": "hearing", "sub": ["what you passed on"]},
+      {"box": "people", "title": "sight", "sub": ["what you claimed to see"]},
+      {"box": "people", "title": "heart", "sub": ["what you assumed"]},
+      {"conn": "all"},
+      {"box": "idea", "title": "questioned", "sub": []}]},
+    "key": {"label": "Before you say it", "row": [
+      {"box": "trap", "title": "they say", "sub": ["I heard somewhere"], "strike": true},
+      {"box": "idea", "title": "do I know it", "sub": ["or only suspect it"]}]},
+    "then": "Qatadah explained: {idea}do not say I saw when you did not see, or I heard when you did not hear{/idea}. Ibn Kathir says Allah forbids speaking on suspicion. He cites the narration that {trap}it is an evil habit for a man to keep saying they claimed{/trap}.",
+    "now": "A screenshot lands in the family chat about someone you know. You are about to forward it. You are not sure it is true. {trap}Forwarding is saying it yourself.{/trap} Your thumb will be asked about it.",
+    "old": "If I just pass something on, I am not responsible for whether it is true.",
+    "new": "What I repeat is mine, and I will be asked how I knew it.",
+    "try": "Before you share any news today, ask yourself: do I actually know this is true?",
+    "related": ["49:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:37", "surah": 17, "ayah": 37, "place": "makkah",
+    "title": "You cannot split the earth or rise as tall as mountains.",
+    "subtitle": "Arrogance meets reality",
+    "picture": {"kind": "boxes", "label": "Sizing up", "row": [
+      {"box": "trap", "title": "the strut", "sub": ["walking with pride"]},
+      {"conn": "against"},
+      {"box": "plain", "title": "the earth", "sub": ["you cannot tear it"]},
+      {"box": "plain", "title": "the mountains", "sub": ["you cannot reach them"]}]},
+    "key": {"label": "How big you are", "row": [
+      {"box": "trap", "title": "I am a big deal", "sub": [], "strike": true},
+      {"box": "idea", "title": "small, and loved humble", "sub": []}]},
+    "then": "The surah's list of commands turns to how a person walks. Ibn Kathir says this forbids {trap}walking boastfully, like arrogant oppressors{/trap}. He mentions Qarun, who came out to his people in his finery, and {trap}the earth swallowed him and his house{/trap}.",
+    "now": "The new car, the new title on your email signature, the way you walk into the room after the promotion. {idea}Stand next to a mountain and see.{/idea} The earth under your feet was here long before you and will be here after.",
+    "old": "My success gives me the right to carry myself above others.",
+    "new": "Next to the earth and the mountains, I am small, and that is freeing.",
+    "try": "Go outside and look at the sky or a hill for one minute. Feel your real size.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:38", "surah": 17, "ayah": 38, "place": "makkah",
+    "title": "All of these, the evil of them, your Lord hates.",
+    "subtitle": "A pause after the list of commands",
+    "picture": {"kind": "boxes", "label": "Looking back", "row": [
+      {"box": "idea", "title": "the list", "sub": ["parents, kin, spending", "life, honesty, humility"]},
+      {"conn": "its evil"},
+      {"box": "trap", "title": "hated by Allah", "sub": []}]},
+    "key": {"label": "Why these rules", "row": [
+      {"box": "people", "title": "random restrictions", "sub": [], "strike": true},
+      {"box": "idea", "title": "things He dislikes", "sub": ["because they harm us"]}]},
+    "then": "Ibn Kathir explains that this verse {idea}gathers everything mentioned from 17:23 up to here{/idea}: worship, parents, kin, waste, children, zina, killing, orphans, promises, honest scales, speaking without knowledge, and arrogance. Read one way, {trap}all of it is evil deeds{/trap}. Read the other, it means the bad among them is disliked by Allah.",
+    "now": "Think of these verses as a checklist on your fridge. Parents. Relatives. Spending. Honesty. Rumors. Pride. {idea}It is a whole picture of a good life.{/idea} You do not have to fix all of it this week.",
+    "old": "Religious rules are just a list of things I am not allowed to do.",
+    "new": "These commands describe a decent life, and what they forbid is what harms it.",
+    "try": "Read 17:23 to 17:38 once more and pick the one line you most need right now.",
+    "related": ["17:31", "17:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:39", "surah": 17, "ayah": 39, "place": "makkah",
+    "title": "This is wisdom from your Lord. Begin and end with tawhid.",
+    "subtitle": "The list closes where it opened",
+    "picture": {"kind": "boxes", "label": "A frame", "row": [
+      {"box": "idea", "title": "17:22", "sub": ["no god beside Allah"]},
+      {"box": "plain", "title": "the commands", "sub": ["manners and morals"]},
+      {"box": "idea", "title": "17:39", "sub": ["no god beside Allah"]},
+      {"conn": "all of it"},
+      {"box": "reward", "title": "wisdom", "sub": ["revealed"]}]},
+    "key": {"label": "Where good manners come from", "row": [
+      {"box": "people", "title": "just being nice", "sub": [], "strike": true},
+      {"box": "idea", "title": "wisdom from Allah", "sub": ["rooted in tawhid"]}]},
+    "then": "Ibn Kathir explains that everything commanded is {reward}good manners{/reward} and everything forbidden is an evil quality, revealed to the Prophet ﷺ so he could teach the people. The warning against shirk returns at the end, {trap}blamed by one's own self, by Allah and by people{/trap}. It is addressed to the community through the Prophet ﷺ.",
+    "now": "You can be kind, honest and generous for many reasons. Reputation. Habit. Upbringing. {idea}The verse ties all of it back to one root.{/idea} When you do good for Allah, it holds even on the days no one is watching.",
+    "old": "Being a good person has nothing to do with what I believe about God.",
+    "new": "Good manners are wisdom from Allah, and they stand firmest on believing in Him alone.",
+    "try": "Before one kind act today, quietly make the intention that it is for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:40", "surah": 17, "ayah": 40, "place": "makkah",
+    "title": "Sons for you, and daughters for Him? A grave thing to say.",
+    "subtitle": "Exposing an unfair claim about Allah",
+    "picture": {"kind": "boxes", "label": "Their claim", "row": [
+      {"box": "people", "title": "for themselves", "sub": ["sons, which they prized"]},
+      {"box": "trap", "title": "for Allah", "sub": ["angels as daughters"]},
+      {"conn": "is"},
+      {"box": "trap", "title": "a grave saying", "sub": ["wrong three ways"]}]},
+    "key": {"label": "What they got wrong", "row": [
+      {"box": "trap", "title": "Allah has children", "sub": [], "strike": true},
+      {"box": "idea", "title": "angels are servants", "sub": ["of the Most Merciful"]}]},
+    "then": "The idolaters of Makkah claimed the angels were daughters of Allah and worshipped them. Ibn Kathir says {trap}they were wrong on three counts{/trap}: giving Allah children, making them female, and worshipping them. They gave Allah what they disliked for themselves. {idea}The angels are servants of the Most Merciful.{/idea}",
+    "now": "Notice how easy it is to keep the best for yourself and hand Allah the leftovers. The best hours for work, the tired minutes for prayer. {idea}The verse asks what you are giving Him.{/idea}",
+    "old": "Allah gets whatever time and energy I have left over.",
+    "new": "Allah deserves the best of me, not what I would not want for myself.",
+    "try": "Give one prayer today your fresh attention, before the phone, not after.",
+    "related": ["19:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:41", "surah": 17, "ayah": 41, "place": "makkah",
+    "title": "Explained in many ways, yet some only run further.",
+    "subtitle": "The same reminder can soften or harden",
+    "picture": {"kind": "boxes", "label": "The Quran explains", "row": [
+      {"box": "idea", "title": "many ways", "sub": ["warnings, proofs, lessons"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "they remember", "sub": []},
+      {"conn": "but some"},
+      {"box": "trap", "title": "turn away more", "sub": []}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "people", "title": "the message", "sub": ["it was not clear"], "strike": true},
+      {"box": "idea", "title": "the listener", "sub": ["the heart that hears"]}]},
+    "then": "Ibn Kathir explains that Allah set out His warnings in many forms so people would {reward}remember the proof and be held back from shirk and wrongdoing{/reward}. But {trap}the wrongdoers among them only went further from the truth{/trap}.",
+    "now": "A friend sends you a reminder and you feel annoyed, not grateful. The khutbah topic hits too close and you tune out. {trap}That pull away is worth noticing.{/trap} The same words that push you off can bring you back if you stay.",
+    "old": "If a reminder makes me uncomfortable, it is badly delivered.",
+    "new": "When I want to turn away from a reminder, that is the moment to listen harder.",
+    "try": "Think of the last reminder that annoyed you. Reread it today with an open heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "64:1", "surah": 64, "ayah": 1, "place": "madinah",
+    "title": "His is the kingdom, His is the praise.",
+    "subtitle": "The last of the surahs that open with glorification",
+    "picture": {"kind": "boxes", "label": "Three truths", "row": [
+      {"box": "idea", "title": "the kingdom", "sub": ["He controls all creation"]},
+      {"box": "idea", "title": "the praise", "sub": ["for all He decreed"]},
+      {"box": "idea", "title": "power over all", "sub": ["what He wills happens"]}]},
+    "key": {"label": "Who is in charge", "row": [
+      {"box": "people", "title": "things just happen", "sub": ["luck and chance"], "strike": true},
+      {"box": "idea", "title": "He wills, it happens", "sub": ["and He is praised for it"]}]},
+    "then": "Ibn Kathir notes this is the last of the surahs that begin with glorification. {idea}His is the dominion and to Him belongs the praise.{/idea} Whatever He wills happens without resistance, and whatever He does not will never happens.",
+    "now": "The job offer fell through. The flight was cancelled. The test result came back fine. You call it luck, good or bad. {idea}Every one of those was decided by the King who is also praised for His decisions.{/idea}",
+    "old": "Most of what happens to me is just chance.",
+    "new": "Everything is in the hands of One who owns it all and deserves praise for it.",
+    "try": "Next time something goes unexpectedly today, good or bad, say alhamdulillah before you react.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:2", "surah": 64, "ayah": 2, "place": "madinah",
+    "title": "He created you, and you choose belief or denial.",
+    "subtitle": "Same Creator, different answers, all seen",
+    "picture": {"kind": "boxes", "label": "One origin, two paths", "row": [
+      {"box": "idea", "title": "He created you", "sub": ["all of you"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "some deny", "sub": ["turn from Him"]},
+      {"box": "reward", "title": "some believe", "sub": ["turn to Him"]},
+      {"box": "idea", "title": "He sees", "sub": ["what you do"]}]},
+    "key": {"label": "What He watches", "row": [
+      {"box": "people", "title": "labels", "sub": ["what group I belong to"], "strike": true},
+      {"box": "idea", "title": "what you do", "sub": ["He is All-Seeing"]}]},
+    "then": "Allah says He created people, and among them are believers and disbelievers. Ibn Kathir says Allah sees who deserves guidance and who does not, and {idea}He is the Witness over every deed{/idea} and will repay it fully.",
+    "now": "Two siblings, same house, same parents, same mosque. One prays, one has drifted. You might be either one, on different days. {idea}The verse does not end with the labels.{/idea} {reward}It ends with: He sees what you do.{/reward}",
+    "old": "Whether I believe is just how I was raised.",
+    "new": "The same Creator made us all, and He watches what each of us does with it.",
+    "try": "Do one act today that you would be glad for Allah to see, without telling anyone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:3", "surah": 64, "ayah": 3, "place": "madinah",
+    "title": "He shaped you, and made your shape good.",
+    "subtitle": "A body designed with care, a world made with purpose",
+    "picture": {"kind": "boxes", "label": "What He made", "row": [
+      {"box": "idea", "title": "heavens and earth", "sub": ["created with truth"]},
+      {"box": "reward", "title": "your form", "sub": ["shaped well"]},
+      {"conn": "and then"},
+      {"box": "idea", "title": "the return", "sub": ["back to Him"]}]},
+    "key": {"label": "How you see your body", "row": [
+      {"box": "trap", "title": "never good enough", "sub": ["the mirror's verdict"], "strike": true},
+      {"box": "reward", "title": "made good by Him", "sub": ["shaped with care"]}]},
+    "then": "Ibn Kathir says the heavens and earth were made {idea}with fairness and wisdom{/idea}, not for nothing. Allah shaped people in the best forms, as another verse says: He fashioned you and gave you proportion. And {idea}to Him is the return{/idea}.",
+    "now": "You stand in front of the bathroom mirror counting flaws. You compare your face to filtered faces on your phone. {reward}Allah says He shaped you and made your shape good.{/reward} {idea}That body is a trust you carry back to Him.{/idea}",
+    "old": "My body is something to fix and compare.",
+    "new": "My form was made good by Allah, and I will return it to Him.",
+    "try": "Next time you look in the mirror, name one thing about your body you are grateful for and say alhamdulillah.",
+    "related": ["82:6", "40:64"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:4", "surah": 64, "ayah": 4, "place": "madinah",
+    "title": "He knows what you hide and what you show.",
+    "subtitle": "Nothing in the chest is private from Him",
+    "picture": {"kind": "boxes", "label": "What He knows", "row": [
+      {"box": "people", "title": "heavens and earth", "sub": ["everything in them"]},
+      {"box": "people", "title": "what you show", "sub": ["words, posts, smiles"]},
+      {"box": "people", "title": "what you hide", "sub": ["thoughts, motives"]},
+      {"conn": "all known to"},
+      {"box": "idea", "title": "the All-Knower", "sub": ["of what is in hearts"]}]},
+    "key": {"label": "Where the real you is", "row": [
+      {"box": "people", "title": "the public me", "sub": ["what people see"], "strike": true},
+      {"box": "idea", "title": "the inside me", "sub": ["what Allah sees"]}]},
+    "then": "After creation and the return, the passage ends on knowledge. Ibn Kathir says Allah informs of {idea}His knowledge of all that is in the heavens, the earth and the souls{/idea}. He knows what is concealed and what is revealed.",
+    "now": "You smile at the colleague you resent. You donate and quietly hope someone notices. You scroll something at 2am that you would never admit to. {idea}None of it is hidden from Him.{/idea} {reward}And He still invites you back.{/reward}",
+    "old": "My private thoughts are only mine.",
+    "new": "Allah knows what is in my chest, so I want it to be worth seeing.",
+    "try": "Notice one hidden motive behind something you do today, and quietly correct it for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:5", "surah": 64, "ayah": 5, "place": "madinah",
+    "title": "Did the news of those before not reach you?",
+    "subtitle": "History is a warning letter",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "people", "title": "nations before", "sub": ["they denied"]},
+      {"conn": "tasted"},
+      {"box": "trap", "title": "the bad result", "sub": ["in this life"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "painful punishment", "sub": ["in the next"]}]},
+    "key": {"label": "Why the story is told", "row": [
+      {"box": "people", "title": "old history", "sub": ["nothing to do with me"], "strike": true},
+      {"box": "idea", "title": "a message to me", "sub": ["the same choices repeat"]}]},
+    "then": "The surah now turns to those who refused the message. Ibn Kathir says Allah reminds them of past nations who {trap}tasted the evil results of their denial and sins{/trap} in this world, with a painful punishment still to come after.",
+    "now": "You read about someone who lost their family through a habit, or a company that fell through greed. You shake your head and scroll on. {idea}Those stories are letters addressed to you.{/idea} {reward}The ending can still be different for you.{/reward}",
+    "old": "Stories of the past are interesting but not about me.",
+    "new": "Every story of those before me is a warning I can still learn from.",
+    "try": "Think of one person whose mistake you have seen up close. Write down the one lesson you want to keep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:6", "surah": 64, "ayah": 6, "place": "madinah",
+    "title": "Shall a mere human guide us?",
+    "subtitle": "Rejecting the message because of the messenger",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "reward", "title": "messengers came", "sub": ["with clear proofs"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "\"just a man?\"", "sub": ["dismissed for being human"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah needs no one", "sub": ["free of need, praised"]}]},
+    "key": {"label": "Who loses", "row": [
+      {"box": "people", "title": "Allah loses followers", "sub": ["He needs them"], "strike": true},
+      {"box": "idea", "title": "Allah is free of need", "sub": ["they lose themselves"]}]},
+    "then": "Ibn Kathir says the past nations {trap}dismissed the idea that guidance could come through a human like themselves{/trap}. They turned away. And Allah did without them, because {idea}He is free of all need and worthy of all praise{/idea}.",
+    "now": "The reminder comes from your younger cousin, or a colleague you think is less clever than you. {trap}\"Who are you to tell me?\"{/trap} {idea}The truth is still the truth, whoever carries it.{/idea}",
+    "old": "I only take advice from people better than me.",
+    "new": "Truth from an ordinary person is still truth, and Allah does not need my approval.",
+    "try": "Think of one piece of good advice you rejected because of who said it. Take it seriously today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:7", "surah": 64, "ayah": 7, "place": "madinah",
+    "title": "Yes, by my Lord, you will be raised.",
+    "subtitle": "One of three oaths on the resurrection",
+    "picture": {"kind": "boxes", "label": "The claim and the answer", "row": [
+      {"box": "trap", "title": "\"never raised\"", "sub": ["the deniers' claim"]},
+      {"conn": "answered"},
+      {"box": "idea", "title": "\"yes, by my Lord\"", "sub": ["an oath"]},
+      {"box": "people", "title": "you are told", "sub": ["everything you did"]},
+      {"box": "idea", "title": "easy for Allah", "sub": ["no effort to Him"]}]},
+    "key": {"label": "How hard is it", "row": [
+      {"box": "people", "title": "impossible", "sub": ["dust cannot live again"], "strike": true},
+      {"box": "idea", "title": "easy for Allah", "sub": ["He made you once"]}]},
+    "then": "Ibn Kathir notes that this is {idea}the third verse where Allah orders the Prophet ﷺ to swear by his Lord{/idea} that the resurrection is real, along with verses in Yunus and Saba. People will be told of every deed, small or big, and that is easy for Allah.",
+    "now": "At a funeral, watching the earth go back over the grave, a small voice asks: is that really it? {idea}The answer comes with an oath: yes, by my Lord.{/idea} {reward}The One who made you the first time will do it again.{/reward}",
+    "old": "Life after death is hard to picture, so maybe it is not real.",
+    "new": "It is so certain the Prophet ﷺ was told to swear by it, and it is easy for Allah.",
+    "try": "Next time you pass a graveyard, say a short salam to the people in it and remember you will be raised too.",
+    "related": ["10:53", "34:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:8", "surah": 64, "ayah": 8, "place": "madinah",
+    "title": "So believe in Allah, His Messenger, and the Light.",
+    "subtitle": "The Quran is the light to walk by",
+    "picture": {"kind": "boxes", "label": "What to believe in", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the One"]},
+      {"box": "idea", "title": "His Messenger ﷺ", "sub": ["who brought it"]},
+      {"box": "reward", "title": "the Light", "sub": ["the Quran"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "He is aware", "sub": ["of all you do"]}]},
+    "key": {"label": "What the Quran is", "row": [
+      {"box": "people", "title": "a book of rules", "sub": ["heavy, hard"], "strike": true},
+      {"box": "reward", "title": "a light", "sub": ["to see the road"]}]},
+    "then": "Right after the oath about the resurrection, Allah says: so believe. Ibn Kathir says the Light here is {reward}the Quran{/reward}. {idea}None of your deeds ever escapes His knowledge.{/idea}",
+    "now": "You walk to the kitchen at night with your phone torch, so you do not trip. {reward}The Quran is that light for the whole road.{/reward} {idea}It does not move your feet for you, but you stop stumbling in the dark.{/idea}",
+    "old": "The Quran is something I read when I have spare time.",
+    "new": "The Quran is a light I need to see where I am walking.",
+    "try": "Before a decision today, open the Quran to any page and read one verse first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "64:9", "surah": 64, "ayah": 9, "place": "madinah",
+    "title": "The Day of mutual loss and gain.",
+    "subtitle": "The one day the real winners are known",
+    "picture": {"kind": "boxes", "label": "The Day of Gathering", "row": [
+      {"box": "people", "title": "all people", "sub": ["first and last, together"]},
+      {"conn": "sorted by"},
+      {"box": "idea", "title": "faith and good deeds", "sub": ["what they brought"]},
+      {"box": "reward", "title": "sins erased", "sub": ["gardens forever"]}]},
+    "key": {"label": "Who actually won", "row": [
+      {"box": "people", "title": "the ones ahead here", "sub": ["richer, louder"], "strike": true},
+      {"box": "reward", "title": "the people of Paradise", "sub": ["the real gain"]}]},
+    "then": "Ibn Kathir says on that Day the first and last generations will stand together in one place. Ibn Abbas said Taghabun is a name for it {reward}because the people of Paradise will have gained over the people of the Fire{/reward}. Muqatil said there is no greater loss and gain than that.",
+    "now": "Your classmate earns double what you do. Your neighbour seems to win at everything. You feel behind. {idea}The scoreboard you check every day is not the final one.{/idea} {reward}There is a Day when the real gain is shown.{/reward}",
+    "old": "I am losing because others are getting ahead of me.",
+    "new": "The real gain and loss are only shown on the Day of Gathering.",
+    "try": "Today, when you feel behind someone, do one good deed instead of checking their profile.",
+    "related": ["11:103", "56:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

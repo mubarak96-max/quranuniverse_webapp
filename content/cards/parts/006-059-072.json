@@ -1,0 +1,288 @@
+[
+  {
+    "id": "6:59", "surah": 6, "ayah": 59, "place": "makkah",
+    "title": "Not a leaf falls without His knowing.",
+    "subtitle": "The keys of the unseen are with Him alone",
+    "picture": {"kind": "boxes", "label": "What He knows", "row": [
+      {"box": "idea", "title": "keys of the unseen", "sub": ["none knows but Him"]},
+      {"box": "people", "title": "land and sea", "sub": ["every creature"]},
+      {"box": "people", "title": "a falling leaf", "sub": ["every one"]},
+      {"box": "people", "title": "a buried grain", "sub": ["in the dark earth"]}]},
+    "key": {"label": "How small is too small", "row": [
+      {"box": "people", "title": "too tiny to matter", "sub": ["He won't notice"], "strike": true},
+      {"box": "idea", "title": "in a clear record", "sub": ["fresh or dry, all of it"]}]},
+    "then": "Ibn Kathir cites the Prophet ﷺ in Al-Bukhari: {idea}the keys of the unseen are five, and none knows them but Allah{/idea}: the Hour, the rain, what is in the wombs, what a soul will earn tomorrow, and where it will die. His knowledge covers {reward}even the movement of a falling leaf{/reward}, so how much more the people He addresses.",
+    "now": "You are walking to the bus stop in autumn, leaves coming down all around you. {idea}Each one is known.{/idea} So is the worry you have not told anyone, the job interview result you are waiting for, the small kindness nobody saw. {reward}Nothing about you falls unnoticed.{/reward}",
+    "old": "Some things in my life are too small for Allah to notice.",
+    "new": "If He knows every falling leaf, He knows every detail of me.",
+    "try": "Next time you see a leaf fall, say SubhanAllah and remember one worry He already knows.",
+    "related": ["31:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:60", "surah": 6, "ayah": 60, "place": "makkah",
+    "title": "Every night He takes your soul. Every morning He returns it.",
+    "subtitle": "Sleep as a small death, waking as a gift",
+    "picture": {"kind": "boxes", "label": "Your daily cycle", "row": [
+      {"box": "people", "title": "night", "sub": ["He takes your soul"]},
+      {"conn": "knows"},
+      {"box": "people", "title": "the day's deeds", "sub": ["all of them"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "morning", "sub": ["you are raised again"]},
+      {"box": "idea", "title": "the return", "sub": ["He will tell you"]}]},
+    "key": {"label": "What waking up is", "row": [
+      {"box": "people", "title": "the alarm went off", "sub": ["routine"], "strike": true},
+      {"box": "reward", "title": "my soul was returned", "sub": ["for a term still running"]}]},
+    "then": "Ibn Kathir says {idea}sleep is the minor death{/idea}, and cites the verse where Allah takes souls at death and in sleep, keeping some and sending others back for a set term. He knows what you did by day, wakes you {reward}so your term may be completed{/reward}, then all return to Him.",
+    "now": "Your alarm goes off and you groan. You reach for the phone. {reward}But a few seconds earlier your soul came back to you.{/reward} {idea}Not everyone who slept last night woke up.{/idea} The day ahead is extra time on a term that is still running.",
+    "old": "Waking up is just what happens every morning.",
+    "new": "Every morning, my soul was handed back to me for a reason.",
+    "try": "Tomorrow, before checking your phone, say Alhamdulillah for being given your soul back.",
+    "related": ["39:42", "13:10", "78:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:61", "surah": 6, "ayah": 61, "place": "makkah",
+    "title": "Guardians sent over you, until the messengers come.",
+    "subtitle": "Watched over in life, collected at death",
+    "picture": {"kind": "boxes", "label": "Who is with you", "row": [
+      {"box": "idea", "title": "the Qahir", "sub": ["over His servants"]},
+      {"conn": "sends"},
+      {"box": "reward", "title": "guardians", "sub": ["guard and record you"]},
+      {"conn": "until"},
+      {"box": "people", "title": "His messengers", "sub": ["take the soul"]}]},
+    "key": {"label": "Never off duty", "row": [
+      {"box": "people", "title": "no one keeps track", "sub": [], "strike": true},
+      {"box": "idea", "title": "they never neglect", "sub": ["guarding, recording, collecting"]}]},
+    "then": "Ibn Kathir says Allah sends {reward}angels who guard each person{/reward} and record their deeds, one on the right and one on the left. When one's lifespan ends, {idea}angels assigned to the task take the soul{/idea}, and {idea}they never neglect their duty.{/idea}",
+    "now": "You cross the busy road without looking up from your screen and make it across. The car swerves just in time. {reward}Guardians you will never see were on shift.{/reward} {idea}The same angels are writing what you type in the next message.{/idea}",
+    "old": "I am on my own out there.",
+    "new": "I am guarded and recorded every moment, by Allah's order.",
+    "try": "Before you post or send something today, remember the one on your right is writing too.",
+    "related": ["13:11", "82:10", "50:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:62", "surah": 6, "ayah": 62, "place": "makkah",
+    "title": "Returned to Allah, their true Master.",
+    "subtitle": "The swiftest of those who take account",
+    "picture": {"kind": "boxes", "label": "The return", "row": [
+      {"box": "people", "title": "the servants", "sub": ["after death"]},
+      {"conn": "returned to"},
+      {"box": "idea", "title": "Allah", "sub": ["their true Master"]},
+      {"box": "idea", "title": "His judgment", "sub": ["swift and just"]}]},
+    "key": {"label": "What you hope to hear", "row": [
+      {"box": "trap", "title": "an angry Lord", "sub": [], "strike": true},
+      {"box": "reward", "title": "a Lord not angry", "sub": ["the welcome for the good soul"]}]},
+    "then": "Ibn Kathir cites the hadith in Ahmad: angels attend the dying, and to a righteous soul they say, {reward}come out with honour, and receive good news of rest, satisfaction and a Lord who is not angry.{/reward} {idea}All souls are returned to their true Master{/idea}, whose judgment is His alone.",
+    "now": "You sit in a hospital family room, waiting while someone you love slips away. {idea}They are going back to their Master.{/idea} {reward}The hope is to be welcomed by a Lord who is not angry.{/reward} That hope is shaped by today, not the last day.",
+    "old": "Death is the end of the story.",
+    "new": "Death is a return to my true Master, and I can prepare for the welcome.",
+    "try": "Do one quiet deed today that you would like to be returned to Allah with.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:63", "surah": 6, "ayah": 63, "place": "makkah",
+    "title": "In the dark storm you promise: save us, we will be grateful.",
+    "subtitle": "The promises made in danger",
+    "picture": {"kind": "boxes", "label": "In the dark", "row": [
+      {"box": "trap", "title": "land and sea", "sub": ["darkness, storms"]},
+      {"conn": "you call"},
+      {"box": "idea", "title": "Him alone", "sub": ["aloud and in secret"]},
+      {"conn": "promising"},
+      {"box": "reward", "title": "we will be thankful", "sub": ["if You save us"]}]},
+    "key": {"label": "Who rescues", "row": [
+      {"box": "people", "title": "the crew, the pilot", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["the One you called"]}]},
+    "then": "Ibn Kathir says Allah saves His servants in times of need, {trap}in the darkness of land and sea, when storms strike{/trap}. Then {idea}they call on Him alone, without partners{/idea}. He links it to the verse of the ship caught by a storm, where the passengers cry: {reward}if You save us, we will truly be grateful.{/reward}",
+    "now": "Turbulence over the ocean, the seatbelt sign pinging. A dark motorway with a flat tyre at 2 a.m. {idea}You whisper: Ya Allah, get me through this and I will change.{/idea} {trap}The question is what you do after you land.{/trap}",
+    "old": "Those desperate prayers were just panic.",
+    "new": "That cry was me knowing who really saves. I should keep the promise.",
+    "try": "Remember a promise you made to Allah in a scary moment. Keep one piece of it today.",
+    "related": ["10:22", "27:63", "17:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:64", "surah": 6, "ayah": 64, "place": "makkah",
+    "title": "He saves you from every distress, then you forget.",
+    "subtitle": "Comfort is where the partners come back",
+    "picture": {"kind": "boxes", "label": "After the rescue", "row": [
+      {"box": "reward", "title": "Allah saves", "sub": ["from this and every distress"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "other gods again", "sub": ["back in comfort"]}]},
+    "key": {"label": "The gap", "row": [
+      {"box": "idea", "title": "in danger", "sub": ["only Him"]},
+      {"conn": "vs."},
+      {"box": "trap", "title": "in comfort", "sub": ["everything else"]}]},
+    "then": "Allah answers the question of the storm: {reward}it is Allah who rescues you from it and from every distress.{/reward} Ibn Kathir says, {trap}yet you call on other gods in times of comfort.{/trap} He cites the verse: when He brings you safe to land, you turn away, and people are ever ungrateful.",
+    "now": "The test result came back clear. The debt got paid off. The fight with your spouse got sorted. {trap}A week later, your prayer is rushed again and your thanks has gone quiet.{/trap} {idea}The rescue was His. The gratitude should outlast the relief.{/idea}",
+    "old": "Once the problem is gone, life goes back to normal.",
+    "new": "After He rescues me, the thanks should stay longer than the fear did.",
+    "try": "Name one distress Allah has removed for you this year. Thank Him for it by name tonight.",
+    "related": ["17:66"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:65", "surah": 6, "ayah": 65, "place": "makkah",
+    "title": "From above, from below, or from each other.",
+    "subtitle": "Division as one of the hardest trials",
+    "picture": {"kind": "boxes", "label": "Three ways", "row": [
+      {"box": "trap", "title": "from above", "sub": ["the Prophet ﷺ sought refuge"]},
+      {"box": "trap", "title": "from below", "sub": ["he sought refuge again"]},
+      {"box": "trap", "title": "split into sects", "sub": ["tasting each other's harm"]}]},
+    "key": {"label": "Where the danger is", "row": [
+      {"box": "people", "title": "only outside us", "sub": [], "strike": true},
+      {"box": "trap", "title": "between us", "sub": ["our own quarrels"]}]},
+    "then": "Jabir said when this verse came, the Prophet ﷺ said {idea}I seek refuge in Your Face{/idea} at the punishment from above and below, and of the third said it was lighter. Sa'd reported that he asked his Lord three things for his Ummah and was given two, but {trap}not that they be spared the violence of one another.{/trap}",
+    "now": "The family WhatsApp group that split over an inheritance. The mosque committee that stopped talking. The cousins who have not spoken in years. {trap}Some of the hardest trials are the ones we cause each other.{/trap} {idea}Mending those cracks is part of seeking refuge.{/idea}",
+    "old": "The real dangers are out there, not among us.",
+    "new": "Division among us is itself a trial the Prophet ﷺ feared for us.",
+    "try": "Send one message today to someone you have fallen out with. Just salam.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:66", "surah": 6, "ayah": 66, "place": "makkah",
+    "title": "Your people denied it. Say: I am not your guardian.",
+    "subtitle": "Conveying, not controlling",
+    "picture": {"kind": "boxes", "label": "Roles", "row": [
+      {"box": "idea", "title": "the truth", "sub": ["the Quran"]},
+      {"box": "trap", "title": "denied", "sub": ["by his own people"]},
+      {"conn": "his reply"},
+      {"box": "people", "title": "not a watcher", "sub": ["I convey only"]}]},
+    "key": {"label": "Whose job is what", "row": [
+      {"box": "trap", "title": "make them believe", "sub": [], "strike": true},
+      {"box": "idea", "title": "my job: convey", "sub": ["their job: hear and choose"]}]},
+    "then": "His own people, Quraysh, {trap}denied the Quran{/trap} though it was the truth. He is told to say: {idea}I have not been appointed a guardian or watcher over you.{/idea} Ibn Kathir says: my duty is to convey, yours to hear and obey; he cites, whoever wills, let him believe.",
+    "now": "You keep checking whether your brother prayed, pushing your adult kids, policing your friends' choices. {trap}It turns into control, and it pushes them away.{/trap} {idea}Your part is to share the truth well. You are not their guardian.{/idea}",
+    "old": "If someone close to me goes wrong, it is my failure.",
+    "new": "I convey with love. Their choices are between them and Allah.",
+    "try": "Let go of policing one person today. Share one good thing kindly instead.",
+    "related": ["18:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:67", "surah": 6, "ayah": 67, "place": "makkah",
+    "title": "Every piece of news has its moment. You will know.",
+    "subtitle": "Promises land, perhaps after a while",
+    "picture": {"kind": "boxes", "label": "News and its time", "row": [
+      {"box": "idea", "title": "the news", "sub": ["told by Allah"]},
+      {"conn": "has"},
+      {"box": "idea", "title": "a set time", "sub": ["perhaps after a while"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you will know", "sub": ["for certain"]}]},
+    "key": {"label": "Delay", "row": [
+      {"box": "people", "title": "late means false", "sub": [], "strike": true},
+      {"box": "idea", "title": "each has its decree", "sub": ["it will happen"]}]},
+    "then": "Ibn ʿAbbas and others said: {idea}for every news there is a reality; it will happen, perhaps after a while.{/idea} Ibn Kathir links it to verses like: for each matter there is a decree. He calls it {trap}a warning{/trap} and {reward}a promise{/reward} that will surely occur.",
+    "now": "You read Allah's promise that hardship comes with ease, but the ease has not arrived. {trap}You start to wonder.{/trap} {idea}Every promise has a date with Him.{/idea} {reward}You will know, in time.{/reward}",
+    "old": "If it has not happened yet, maybe it will not.",
+    "new": "Allah's words each have their time, and I will see them come true.",
+    "try": "Write down one promise of Allah you are waiting on. Read it again whenever you doubt.",
+    "related": ["38:88", "13:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:68", "surah": 6, "ayah": 68, "place": "makkah",
+    "title": "When they mock the verses, get up and leave.",
+    "subtitle": "Walking away from mockery of faith",
+    "picture": {"kind": "boxes", "label": "What to do", "row": [
+      {"box": "trap", "title": "mocking the verses", "sub": ["the conversation"]},
+      {"conn": "you"},
+      {"box": "idea", "title": "turn away", "sub": ["until they change topic"]},
+      {"box": "reward", "title": "if you forgot", "sub": ["leave once you remember"]}]},
+    "key": {"label": "Staying vs. leaving", "row": [
+      {"box": "people", "title": "I just sit there", "sub": ["it is harmless"], "strike": true},
+      {"box": "idea", "title": "sitting is agreeing", "sub": ["walk away"]}]},
+    "then": "Ibn Kathir says this command {idea}includes every member of the Ummah{/idea}: do not sit with those who deny and mock Allah's verses. If you forget and sit, leave once you remember; {reward}forgetfulness is forgiven.{/reward} He links it to the verse: otherwise {trap}you would be like them.{/trap}",
+    "now": "Lunch break, and someone starts making fun of the Quran for a laugh. Everyone chuckles. {trap}You stay, half-smiling.{/trap} {idea}You do not need a debate. You can just stand up, take your tray and go.{/idea}",
+    "old": "If I stay quiet, I am not part of it.",
+    "new": "Staying in a room that mocks the verses is a choice. I can quietly leave.",
+    "try": "The next time talk turns to mocking faith, change the subject or leave politely.",
+    "related": ["4:140"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:69", "surah": 6, "ayah": 69, "place": "makkah",
+    "title": "You do not carry their account. Only remind.",
+    "subtitle": "Leaving can itself be a reminder",
+    "picture": {"kind": "boxes", "label": "The mindful", "row": [
+      {"box": "reward", "title": "those with taqwa", "sub": ["not accountable for them"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "a reminder", "sub": ["so they may fear Him"]}]},
+    "key": {"label": "Why leave", "row": [
+      {"box": "trap", "title": "to punish them", "sub": [], "strike": true},
+      {"box": "idea", "title": "to wake them", "sub": ["so they notice and stop"]}]},
+    "then": "Ibn Kathir says when believers avoid such company, {reward}they are free of the others' sin.{/reward} The reason for leaving is {idea}that the mockers become aware of their error{/idea}, avoid it, and never repeat it.",
+    "now": "You quietly walk out of the conversation. A colleague notices and asks you about it later. {idea}Your leaving said more than an argument would have.{/idea} {reward}You do not carry their choices, only the chance to remind gently.{/reward}",
+    "old": "Walking away means I have given up on them.",
+    "new": "Walking away can be the reminder that helps them change.",
+    "try": "If someone asks why you left a conversation, answer kindly in one honest sentence.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:70", "surah": 6, "ayah": 70, "place": "makkah",
+    "title": "Leave those who turn religion into a game.",
+    "subtitle": "But keep reminding, before a soul is held",
+    "picture": {"kind": "boxes", "label": "Two instructions", "row": [
+      {"box": "trap", "title": "religion as play", "sub": ["fooled by this life"]},
+      {"conn": "leave them, but"},
+      {"box": "idea", "title": "remind with it", "sub": ["the Quran"]},
+      {"conn": "before"},
+      {"box": "trap", "title": "a soul is held", "sub": ["no ransom taken"]}]},
+    "key": {"label": "What buys you out", "row": [
+      {"box": "reward", "title": "any ransom", "sub": ["the earth full of gold"], "strike": true},
+      {"box": "idea", "title": "what you earned", "sub": ["deeds, not payment"]}]},
+    "then": "Ibn Kathir says leave such people, yet {idea}remind people with the Quran{/idea} and warn them. The word tubsal was explained as being {trap}held, exposed, or kept from all good{/trap} because of what one earned. He cites: every soul is held by what it earned, except those on the right; and {trap}no ransom will be accepted.{/trap}",
+    "now": "Religion as a costume: the Ramadan selfie, the Eid outfit, then nothing until next year. {trap}It is easy to slip into that ourselves.{/trap} {idea}The verse turns the warning inward first: is my faith something I play at, or something I live?{/idea}",
+    "old": "Faith is something I do on special occasions.",
+    "new": "Faith is not a game. What I earn is what I will be held by.",
+    "try": "Pick one religious act you only do for show. Do it once today with no one watching.",
+    "related": ["74:38", "3:91"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:71", "surah": 6, "ayah": 71, "place": "makkah",
+    "title": "Lost in the desert while friends call: come back to us.",
+    "subtitle": "Turning back after being guided",
+    "picture": {"kind": "boxes", "label": "The parable", "row": [
+      {"box": "people", "title": "a traveller", "sub": ["lost his way"]},
+      {"box": "trap", "title": "devils", "sub": ["lead him to wander"]},
+      {"box": "reward", "title": "companions", "sub": ["come back, we are on the path"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "he refuses", "sub": ["and keeps wandering"]}]},
+    "key": {"label": "The only guidance", "row": [
+      {"box": "people", "title": "many paths, all fine", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah's guidance", "sub": ["is the guidance"]}]},
+    "then": "As-Suddi said some idolaters told Muslims to follow them and leave the Prophet's ﷺ religion. The answer: {trap}shall we turn on our heels after Allah guided us?{/trap} He gave the parable of {trap}a man who lost the road{/trap} while {reward}his companions called him back{/reward}, and he would not come. {idea}Allah's guidance is the guidance.{/idea}",
+    "now": "You used to pray. Then new friends, a new city, a new job, and slowly you drifted. {reward}Your old friend still texts: come to the halaqa on Thursday.{/reward} {trap}You keep saying next week.{/trap} {idea}The ones calling you back are a mercy. Answer them.{/idea}",
+    "old": "I drifted a bit, but I can always find my own way back.",
+    "new": "When I am drifting, the people calling me back are Allah's mercy.",
+    "try": "Reply to the person who keeps inviting you to something good. Say yes once.",
+    "related": ["39:37", "16:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:72", "surah": 6, "ayah": 72, "place": "makkah",
+    "title": "Pray, be mindful, and know you will be gathered to Him.",
+    "subtitle": "What submission looks like day to day",
+    "picture": {"kind": "boxes", "label": "We were commanded", "row": [
+      {"box": "idea", "title": "submit", "sub": ["to the Lord of the worlds"]},
+      {"box": "idea", "title": "establish prayer", "sub": ["the daily anchor"]},
+      {"box": "idea", "title": "be mindful", "sub": ["in all circumstances"]},
+      {"conn": "because"},
+      {"box": "reward", "title": "gathered to Him", "sub": ["on the Day"]}]},
+    "key": {"label": "What guidance becomes", "row": [
+      {"box": "people", "title": "a feeling", "sub": [], "strike": true},
+      {"box": "idea", "title": "a practice", "sub": ["prayer and taqwa"]}]},
+    "then": "Continuing the answer to those who invited the Muslims back, Ibn Kathir says {idea}we were commanded to perform the prayer and to fear Allah in all circumstances{/idea}, {reward}and it is He to whom you will be gathered{/reward} on the Day of Resurrection.",
+    "now": "You feel inspired after a talk, then Monday comes. {trap}Inspiration fades by lunch.{/trap} {idea}The verse turns guidance into something you can do: the next prayer on time, a mindful choice at work.{/idea} {reward}Those small steps keep you on the path.{/reward}",
+    "old": "Feeling close to Allah is what keeps me guided.",
+    "new": "Prayer and mindfulness, done daily, keep me on the path.",
+    "try": "Set an alarm for the next prayer and pray it the moment it goes off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

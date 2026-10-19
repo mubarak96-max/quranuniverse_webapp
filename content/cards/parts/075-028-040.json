@@ -1,0 +1,249 @@
+[
+  {
+    "id": "75:28", "surah": 75, "ayah": 28, "place": "makkah",
+    "title": "He knows now: this is the parting.",
+    "subtitle": "The certainty of leaving everything",
+    "picture": {"kind": "boxes", "label": "The parting", "row": [
+      {"box": "people", "title": "the dying one", "sub": ["certain now"]},
+      {"conn": "leaves"},
+      {"box": "people", "title": "family, home, wealth", "sub": ["all of it"]}]},
+    "key": {"label": "What he is sure of", "row": [
+      {"box": "trap", "title": "maybe I recover", "sub": ["hope in the world"], "strike": true},
+      {"box": "idea", "title": "it is the parting", "sub": ["no doubt left"]}]},
+    "then": "After the search for a cure fails, the dying man {trap}is certain it is the time of separation.{/trap} Ibn Kathir describes this as the moment death's terrors are seen. {idea}What he doubted in health, he is sure of now.{/idea}",
+    "now": "You hold your grandmother's hand in the last week. She stops asking about the house and the money. She asks who will visit. {idea}At the parting, people see clearly what mattered.{/idea}",
+    "old": "I will always have more time with the people and things I love.",
+    "new": "Every bond here has a parting. I want to use the time well.",
+    "try": "Tell one person you love something you would regret not saying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:29", "surah": 75, "ayah": 29, "place": "makkah",
+    "title": "Leg wound around leg: hardship meets hardship.",
+    "subtitle": "The last day here, the first day there",
+    "picture": {"kind": "boxes", "label": "Two meanings given", "row": [
+      {"box": "people", "title": "the legs", "sub": ["bound, no longer walking"]},
+      {"box": "trap", "title": "two worlds", "sub": ["last day here, first there"]}]},
+    "key": {"label": "Who is spared", "row": [
+      {"box": "trap", "title": "hardship on hardship", "sub": ["for most"]},
+      {"box": "reward", "title": "Allah's mercy", "sub": ["except whom He spares"]}]},
+    "then": "Ibn Abbas said it is {trap}the last day of this world and the first of the Hereafter: hardship meeting hardship{/trap}, {reward}except for whom Allah has mercy on.{/reward} Al-Hasan said it is the two shins bound together, the legs that once carried him now still.",
+    "now": "You walk all day without a thought: to the bus, up the stairs, to the fridge. Your legs feel like they will always carry you. {idea}One day they will be still, and you will be carried.{/idea} Where are they taking you now?",
+    "old": "My body will keep carrying me where I want to go.",
+    "new": "My legs are on loan. I want them to have walked to good places.",
+    "try": "Walk somewhere good today: the mosque, a visit, an errand for someone else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:30", "surah": 75, "ayah": 30, "place": "makkah",
+    "title": "That Day, the drive is toward your Lord.",
+    "subtitle": "The soul is taken back",
+    "picture": {"kind": "boxes", "label": "The procession", "row": [
+      {"box": "people", "title": "the soul", "sub": ["taken by angels"]},
+      {"conn": "driven to"},
+      {"box": "idea", "title": "your Lord", "sub": ["the destination"]}]},
+    "key": {"label": "Where death leads", "row": [
+      {"box": "trap", "title": "nowhere", "sub": ["lights out"], "strike": true},
+      {"box": "idea", "title": "to your Lord", "sub": ["a return"]}]},
+    "then": "Ibn Kathir says this is {idea}the place of return and the destination.{/idea} He cites the verse where Allah's messengers take the soul and {idea}they are returned to Allah, their true Master.{/idea} Verse 12 said the same about the Day of Resurrection; here it is about every death.",
+    "now": "People say \"rest in peace\" and \"they are in a better place\" without thinking. {idea}The surah says exactly where they went: to their Lord.{/idea} That is also where you are going.",
+    "old": "Death is a full stop.",
+    "new": "Death is a journey that ends in front of my Lord.",
+    "try": "Say Inna lillahi wa inna ilayhi raji'un once today and think about its meaning.",
+    "related": ["6:61"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:31", "surah": 75, "ayah": 31, "place": "makkah",
+    "title": "He did not believe, and he did not pray.",
+    "subtitle": "No good inside, no good outside",
+    "picture": {"kind": "boxes", "label": "His life summed up", "row": [
+      {"box": "trap", "title": "did not believe", "sub": ["the heart"]},
+      {"box": "trap", "title": "did not pray", "sub": ["the actions"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "one or the other", "sub": ["enough on its own"], "strike": true},
+      {"box": "idea", "title": "belief and prayer", "sub": ["inside and outside"]}]},
+    "then": "Ibn Kathir says this is the man {trap}who denied the truth in his heart and turned away from acting on it.{/trap} So {trap}there is no good in him, inside or outside.{/trap} After the scene of death, the surah shows the life that led there.",
+    "now": "You tell yourself your heart is fine, so the prayers can wait. Or you pray on autopilot while your heart is somewhere else. {idea}The verse pairs the two: belief inside, prayer outside.{/idea}",
+    "old": "As long as my heart is good, the outward acts do not matter much.",
+    "new": "Belief and prayer go together. Each keeps the other alive.",
+    "try": "Pray your next prayer with one moment of real attention in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:32", "surah": 75, "ayah": 32, "place": "makkah",
+    "title": "Instead, he called it a lie and turned away.",
+    "subtitle": "The two steps of rejection",
+    "picture": {"kind": "boxes", "label": "What he did instead", "row": [
+      {"box": "trap", "title": "denied", "sub": ["\"it is not true\""]},
+      {"conn": "then"},
+      {"box": "trap", "title": "turned away", "sub": ["from acting on it"]}]},
+    "key": {"label": "The pattern", "row": [
+      {"box": "trap", "title": "deny, then ignore", "sub": ["his way"]},
+      {"box": "idea", "title": "accept, then act", "sub": ["the opposite path"]}]},
+    "then": "The verse mirrors the one before: {trap}not believing became denying; not praying became turning away.{/trap} Ibn Kathir says he denied in his heart and {trap}turned from acting on its way.{/trap}",
+    "now": "Someone sends you a reminder. First you think: that is extreme. Then you mute the chat. {idea}Deny, then turn away. Two small moves that shape a whole life.{/idea}",
+    "old": "Ignoring a reminder is harmless. I am not attacking anyone.",
+    "new": "Turning away is a choice, and it follows close behind denial.",
+    "try": "The next reminder you get today, read it fully instead of scrolling past.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:33", "surah": 75, "ayah": 33, "place": "makkah",
+    "title": "Then he strutted home, pleased with himself.",
+    "subtitle": "Arrogance after rejecting the truth",
+    "picture": {"kind": "boxes", "label": "After he turned away", "row": [
+      {"box": "trap", "title": "rejected the call"},
+      {"conn": "then"},
+      {"box": "trap", "title": "walked home", "sub": ["strutting, proud"]}]},
+    "key": {"label": "How he felt", "row": [
+      {"box": "trap", "title": "I won", "sub": ["pleased with himself"], "strike": true},
+      {"box": "idea", "title": "his Lord saw", "sub": ["all of it"]}]},
+    "then": "Ibn Abbas said it means {trap}arrogantly{/trap}; Qatadah said {trap}strutting.{/trap} Ibn Kathir links it to the verse about one who {trap}was joyful among his people, thinking he would never come back{/trap}, but {idea}his Lord was ever watching him.{/idea}",
+    "now": "You win the argument in the family chat by being sharp, not by being right. You put the phone down feeling great. {idea}Feeling pleased with yourself is not the same as being right.{/idea}",
+    "old": "If I walk away feeling good, I must have handled it well.",
+    "new": "A proud walk after turning from the truth is the worst kind of win.",
+    "try": "Think of one argument you won unfairly and send a softer message.",
+    "related": ["84:13", "84:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:34", "surah": 75, "ayah": 34, "place": "makkah",
+    "title": "Woe to you, and woe.",
+    "subtitle": "A warning that answers the strut",
+    "picture": {"kind": "boxes", "label": "What was said", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["warned Abu Jahl"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "this verse", "sub": ["revealed in the same words"]}]},
+    "key": {"label": "The strut, named", "row": [
+      {"box": "trap", "title": "proud walk", "sub": ["\"I am the mightiest\""], "strike": true},
+      {"box": "trap", "title": "woe", "sub": ["a real warning"]}]},
+    "then": "Ibn Abbas reported that {idea}the Prophet ﷺ said this to Abu Jahl, then Allah revealed it.{/idea} Qatadah said Abu Jahl replied that he was {trap}the mightiest man walking between Makkah's two mountains.{/trap}",
+    "now": "You have a moment of power: the bigger title, the louder voice, the one everyone is afraid to correct. It feels like nothing can touch you. {idea}That is exactly the feeling this warning answers.{/idea}",
+    "old": "When I am strong, warnings do not apply to me.",
+    "new": "The stronger I feel, the more I need to hear warnings.",
+    "try": "Ask someone you trust to tell you one thing you do that comes across as arrogant.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:35", "surah": 75, "ayah": 35, "place": "makkah",
+    "title": "Then again: woe to you, and woe.",
+    "subtitle": "A threat followed by a threat",
+    "picture": {"kind": "boxes", "label": "Repeated", "row": [
+      {"box": "trap", "title": "woe", "sub": ["verse 34"]},
+      {"conn": "then again"},
+      {"box": "trap", "title": "woe", "sub": ["verse 35"]}]},
+    "key": {"label": "Why repeat it", "row": [
+      {"box": "people", "title": "once is enough", "sub": ["I heard it"], "strike": true},
+      {"box": "idea", "title": "said twice", "sub": ["because it was ignored"]}]},
+    "then": "Qatadah said: {trap}it is a threat followed by a threat, just as you hear it.{/trap} Ibn Kathir compares it to the line \"eat and enjoy yourselves for a little.\" {idea}The repetition is there because the first was brushed off.{/idea}",
+    "now": "The warning light in your car comes on. You ignore it. A week later it flashes and beeps. {idea}Repeated warnings are a mercy. They mean you still have time.{/idea}",
+    "old": "If a warning repeats, it is just nagging.",
+    "new": "A repeated warning is a second chance I have not used yet.",
+    "try": "Name one warning you have heard more than once, from a doctor, a friend, your own heart, and act on it.",
+    "related": ["77:46", "44:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:36", "surah": 75, "ayah": 36, "place": "makkah",
+    "title": "Do you think you will be left to drift?",
+    "subtitle": "Not unguided here, not forgotten after",
+    "picture": {"kind": "boxes", "label": "Two meanings", "row": [
+      {"box": "idea", "title": "in this life", "sub": ["commanded and forbidden"]},
+      {"box": "idea", "title": "after death", "sub": ["raised, not left in the grave"]}]},
+    "key": {"label": "Your life", "row": [
+      {"box": "trap", "title": "left to drift", "sub": ["no purpose, no account"], "strike": true},
+      {"box": "idea", "title": "guided and gathered", "sub": ["meant for something"]}]},
+    "then": "As-Suddi said it means {trap}not resurrected{/trap}; Mujahid and Ash-Shafi'i said {trap}not commanded and forbidden.{/trap} Ibn Kathir says the verse includes both: {idea}man is guided in this life and gathered back to Allah after it.{/idea}",
+    "now": "Some days feel like drift: wake, work, scroll, sleep. Nothing seems to matter much. {idea}The verse says your days are not empty. They have instructions, and they have a return.{/idea}",
+    "old": "My life is mine to drift through however I like.",
+    "new": "My life has a purpose here and an account after. It matters.",
+    "try": "Write down one thing you are sure Allah wants from you, and do a piece of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:37", "surah": 75, "ayah": 37, "place": "makkah",
+    "title": "You started as a tiny drop.",
+    "subtitle": "The first creation as proof of the second",
+    "picture": {"kind": "boxes", "label": "Where you began", "row": [
+      {"box": "people", "title": "a drop", "sub": ["weak, emitted"]},
+      {"conn": "became"},
+      {"box": "people", "title": "you", "sub": ["the one who doubts"]}]},
+    "key": {"label": "The argument", "row": [
+      {"box": "trap", "title": "returning is impossible", "strike": true},
+      {"box": "idea", "title": "beginning was harder", "sub": ["and it happened"]}]},
+    "then": "Ibn Kathir says Allah {idea}uses the beginning of creation as proof for its repetition.{/idea} Was man not {trap}a weak drop of a lowly fluid{/trap}? The doubter of resurrection is reminded of his own start.",
+    "now": "You feel big: your degree, your car, your opinions. You argue about what Allah can and cannot do. {idea}You were once a drop no one could see.{/idea}",
+    "old": "I am too complex to be made again from nothing.",
+    "new": "I was made from almost nothing once. That is the proof.",
+    "try": "When you feel proud today, remember the drop. Say Alhamdulillah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:38", "surah": 75, "ayah": 38, "place": "makkah",
+    "title": "Then a clot, then shaped and balanced.",
+    "subtitle": "Each stage by His design",
+    "picture": {"kind": "boxes", "label": "The stages", "row": [
+      {"box": "people", "title": "clinging clot"},
+      {"conn": "then"},
+      {"box": "people", "title": "flesh"},
+      {"conn": "then"},
+      {"box": "idea", "title": "formed, proportioned", "sub": ["soul blown in"]}]},
+    "key": {"label": "Who did it", "row": [
+      {"box": "trap", "title": "it just happens", "sub": ["biology alone"], "strike": true},
+      {"box": "idea", "title": "He created, He shaped", "sub": ["every stage"]}]},
+    "then": "Ibn Kathir describes it: {idea}a clot, then a lump of flesh, then formed, and the soul was blown into him.{/idea} Then he became {reward}a complete creation with healthy limbs.{/reward}",
+    "now": "Someone shares an ultrasound in the family chat. Everyone sends hearts. A few weeks ago there was nothing visible. {idea}Each stage is the same Hand that will raise you again.{/idea}",
+    "old": "Growing in the womb is just a natural process.",
+    "new": "Every stage was shaped by Allah. The same power brings me back.",
+    "try": "Make dua today for someone expecting a child.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:39", "surah": 75, "ayah": 39, "place": "makkah",
+    "title": "From one drop, male and female.",
+    "subtitle": "The pairs, by His decree",
+    "picture": {"kind": "boxes", "label": "From one drop", "row": [
+      {"box": "people", "title": "male"},
+      {"box": "people", "title": "female"},
+      {"conn": "by"},
+      {"box": "idea", "title": "Allah's decree", "sub": ["His permission"]}]},
+    "key": {"label": "Who chose", "row": [
+      {"box": "trap", "title": "chance", "sub": ["a coin flip"], "strike": true},
+      {"box": "idea", "title": "His decree", "sub": ["by permission of Allah"]}]},
+    "then": "Ibn Kathir says man became {idea}either a male or a female by the permission and decree of Allah.{/idea} The same small drop becomes two different kinds of people. {reward}It is all one Creator's work.{/reward}",
+    "now": "A gender-reveal party: balloons, cake, the whole family filming. Everyone cheers for the surprise. {idea}It was never a surprise to Him.{/idea}",
+    "old": "What I am was decided by chance.",
+    "new": "What I am was decreed by Allah, from a single drop.",
+    "try": "Thank Allah for one thing about how He made you that you usually overlook.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "75:40", "surah": 75, "ayah": 40, "place": "makkah",
+    "title": "Is He not able to bring the dead to life?",
+    "subtitle": "The question the surah ends on",
+    "picture": {"kind": "boxes", "label": "The case", "row": [
+      {"box": "idea", "title": "made you", "sub": ["from a drop"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "can remake you", "sub": ["easier for Him"]}]},
+    "key": {"label": "The answer", "row": [
+      {"box": "trap", "title": "silence", "sub": ["or doubt"], "strike": true},
+      {"box": "reward", "title": "Glory to You, yes", "sub": ["the Prophet's ﷺ reply"]}]},
+    "then": "Ibn Kathir: is not He who made {idea}this perfect creation from a weak drop able to repeat it?{/idea} A Companion said that whenever he recited this verse he would say {reward}\"Glory to You, of course,\"{/reward} and that he heard it from the Messenger of Allah ﷺ.",
+    "now": "You reach the end of a surah and close the app. The question hangs there, and you move on. {reward}The Companions answered it out loud.{/reward} The last verse asks you something. Answer.",
+    "old": "Quran questions are rhetorical. I just read past them.",
+    "new": "When the Quran asks me something, I can answer it.",
+    "try": "Next time you recite this verse, say Subhanaka, bala: Glory to You, yes.",
+    "related": ["30:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

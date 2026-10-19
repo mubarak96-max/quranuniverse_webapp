@@ -1,0 +1,246 @@
+[
+  {
+    "id": "2:130", "surah": 2, "ayah": 130, "place": "madinah",
+    "title": "Who turns from Ibrahim's way, except one who fools himself?",
+    "subtitle": "Walking away from the clearest path",
+    "picture": {"kind": "boxes", "label": "Ibrahim's path", "row": [
+      {"box": "idea", "title": "Allah alone", "sub": ["never a partner, not for an instant"]},
+      {"box": "reward", "title": "chosen in this world", "sub": []},
+      {"box": "reward", "title": "righteous in the next", "sub": []},
+      {"conn": "leaving it"},
+      {"box": "trap", "title": "fooling yourself", "sub": []}]},
+    "key": {"label": "Who is harmed", "row": [
+      {"box": "people", "title": "I am just choosing differently", "sub": [], "strike": true},
+      {"box": "trap", "title": "wronging my own self", "sub": []}]},
+    "then": "Ibn Kathir: Ibrahim {idea}worshipped Allah alone with sincerity and never committed shirk, even for an instant.{/idea} He disowned every false god, even against his own people. So who would turn from his way? {trap}Only one who wrongs and fools himself.{/trap}",
+    "now": "You keep a lucky charm in the car. You check your horoscope for fun. You lean on a person as if they control your fate. {trap}Small things that dilute pure trust.{/trap} {idea}Ibrahim's way is simple: Allah alone, all the way through.{/idea}",
+    "old": "A little of this and that does not hurt my faith.",
+    "new": "Turning from pure worship of Allah only harms me. Ibrahim's way is the sane one.",
+    "try": "Find one thing in your life you rely on as if it had power. Let it go today.",
+    "related": ["6:78", "16:120", "31:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:131", "surah": 2, "ayah": 131, "place": "madinah",
+    "title": "Submit, said his Lord. I have submitted, said Ibrahim.",
+    "subtitle": "No delay between the call and the answer",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "idea", "title": "submit", "sub": ["his Lord's call"]},
+      {"conn": "at once"},
+      {"box": "reward", "title": "I have submitted", "sub": ["to the Lord of the worlds"]}]},
+    "key": {"label": "How he answered", "row": [
+      {"box": "people", "title": "let me think about it", "sub": [], "strike": true},
+      {"box": "reward", "title": "I have submitted", "sub": ["already done"]}]},
+    "then": "Ibn Kathir: Allah commanded Ibrahim to be sincere and submit, and {idea}he complied perfectly.{/idea} The answer is in the past tense, as if already done. {reward}I have submitted to the Lord of the worlds.{/reward}",
+    "now": "The adhan goes off while you are mid-episode. A verse tells you to forgive, and you are still angry. {idea}Ibrahim did not negotiate.{/idea} You do not have to be perfect, just quick to say yes.",
+    "old": "I will submit once I feel ready.",
+    "new": "Submission is answering Allah's call now, not when it feels convenient.",
+    "try": "The next time you hear the adhan today, stop what you are doing within a minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:132", "surah": 2, "ayah": 132, "place": "madinah",
+    "title": "Allah chose this religion for you. Do not die except as Muslims.",
+    "subtitle": "The inheritance Ibrahim and Yaqub left their sons",
+    "picture": {"kind": "boxes", "label": "Passed down", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["to his sons"]},
+      {"box": "people", "title": "Yaqub", "sub": ["to his sons"]},
+      {"conn": "the advice"},
+      {"box": "idea", "title": "die only as Muslims", "sub": ["so live as Muslims"]}]},
+    "key": {"label": "How you die", "row": [
+      {"box": "people", "title": "decided at the last moment", "sub": [], "strike": true},
+      {"box": "idea", "title": "usually how you lived", "sub": []}]},
+    "then": "Ibrahim advised his sons, and Yaqub did the same: {idea}Allah has chosen this religion for you, so do not die except as Muslims.{/idea} Ibn Kathir: do good all your life and stay on this path, so Allah grants you to die on it, since {reward}a person usually dies on the path he lived on.{/reward}",
+    "now": "You plan the will, the house, the savings for the kids. What advice will you leave them? {idea}The prophets left one thing: stay with Allah to the end.{/idea} And you cannot choose your last breath, only the breaths before it.",
+    "old": "I will get serious about religion closer to the end.",
+    "new": "I die how I live, so I live as a Muslim now.",
+    "try": "Tell your children or a younger relative one sentence about why your faith matters to you.",
+    "related": ["43:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:133", "surah": 2, "ayah": 133, "place": "madinah",
+    "title": "Dying, Yaqub asked his sons: What will you worship after me?",
+    "subtitle": "A father's last question",
+    "picture": {"kind": "boxes", "label": "At Yaqub's deathbed", "row": [
+      {"box": "people", "title": "Yaqub", "sub": ["what will you worship?"]},
+      {"conn": "his sons"},
+      {"box": "idea", "title": "your God", "sub": ["God of Ibrahim, Ismail, Ishaq"]},
+      {"box": "reward", "title": "one God", "sub": ["to Him we submit"]}]},
+    "key": {"label": "What he worried about", "row": [
+      {"box": "people", "title": "what will you inherit?", "sub": [], "strike": true},
+      {"box": "idea", "title": "what will you worship?", "sub": []}]},
+    "then": "When death came to Yaqub, {idea}he asked his children what they would worship after him.{/idea} They said: your God and the God of your fathers Ibrahim, Ismail and Ishaq, one God. Ibn Kathir cites the Prophet ﷺ: {reward}we prophets are brothers with different mothers, but one religion.{/reward}",
+    "now": "Families gather in the hospital corridor and the talk turns to the house, the shop, who gets what. {idea}Yaqub's last question was different.{/idea} What do your children see you worship: Allah, or work, money and the phone?",
+    "old": "The most important thing I leave behind is security for my family.",
+    "new": "The most important thing I leave is my children's worship of Allah.",
+    "try": "Ask your child or a young relative gently today what Allah means to them, and listen.",
+    "related": ["21:25", "3:83"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:134", "surah": 2, "ayah": 134, "place": "madinah",
+    "title": "Their deeds are theirs. Yours are yours.",
+    "subtitle": "Great ancestors do not cover your account",
+    "picture": {"kind": "boxes", "label": "Two accounts", "row": [
+      {"box": "people", "title": "that nation", "sub": ["has passed"]},
+      {"box": "reward", "title": "what they earned", "sub": ["is theirs"]},
+      {"conn": "and"},
+      {"box": "people", "title": "you", "sub": []},
+      {"box": "idea", "title": "what you earn", "sub": ["is yours"]}]},
+    "key": {"label": "Lineage", "row": [
+      {"box": "people", "title": "descended from the righteous", "sub": [], "strike": true},
+      {"box": "idea", "title": "doing what they did", "sub": []}]},
+    "then": "After Yaqub's deathbed scene, the verse closes the story. {idea}That nation has passed. They have what they earned, and you have what you earn.{/idea} Ibn Kathir cites the hadith: {trap}whoever is slowed down by his deeds will not be sped up by his lineage.{/trap}",
+    "now": "Your grandfather was a hafiz. Your family goes back to a scholar. You mention it at weddings. {idea}His Quran is in his book of deeds, not yours.{/idea} Honour him by doing what he did.",
+    "old": "My family's piety reflects well on me.",
+    "new": "My ancestors' deeds are theirs. Only my own deeds speed me forward.",
+    "try": "Pick one good habit of a righteous elder in your family and start it yourself this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:135", "surah": 2, "ayah": 135, "place": "madinah",
+    "title": "Join our label to be guided? No: the upright way of Ibrahim.",
+    "subtitle": "Guidance is not a club membership",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "trap", "title": "be one of us", "sub": ["then you are guided"]},
+      {"conn": "the answer"},
+      {"box": "idea", "title": "Ibrahim's way", "sub": ["upright, hanif"]},
+      {"box": "idea", "title": "not a polytheist", "sub": []}]},
+    "key": {"label": "What guidance is", "row": [
+      {"box": "people", "title": "joining the right group", "sub": [], "strike": true},
+      {"box": "idea", "title": "turning straight to Allah", "sub": []}]},
+    "then": "Ibn Abbas said Abdullah bin Suriya told the Prophet ﷺ: {trap}guidance is only what we follow, so follow us.{/trap} Some Christians said the same. The answer: {idea}the religion of Ibrahim, hanif.{/idea} Abu Qilabah said hanif is what all the messengers believed, first to last.",
+    "now": "Every group says: come to our circle, our sheikh, our method, and you will be guided. Some of it helps. {idea}But guidance is turning your face to Allah alone,{/idea} not wearing a badge. Ibrahim had no group but the truth.",
+    "old": "If I join the right group, I am guided.",
+    "new": "Guidance is the upright way of Ibrahim: Allah alone, whatever group I sit with.",
+    "try": "Ask yourself honestly: do I follow my circle because it is true, or because it is mine?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:136", "surah": 2, "ayah": 136, "place": "madinah",
+    "title": "We believe in all of Allah's prophets and make no distinction.",
+    "subtitle": "A creed recited before Fajr",
+    "picture": {"kind": "boxes", "label": "What we believe in", "row": [
+      {"box": "idea", "title": "Allah", "sub": []},
+      {"box": "people", "title": "what came to us", "sub": []},
+      {"box": "people", "title": "Ibrahim to Yaqub", "sub": ["and the tribes"]},
+      {"box": "people", "title": "Musa and Isa", "sub": ["and all prophets"]},
+      {"box": "reward", "title": "submitted to Him", "sub": []}]},
+    "key": {"label": "How we hold them", "row": [
+      {"box": "people", "title": "accept some, reject some", "sub": [], "strike": true},
+      {"box": "idea", "title": "no distinction among them", "sub": []}]},
+    "then": "Allah tells the believers to say they believe in Him and in {idea}everything sent to every prophet, making no distinction between them.{/idea} Ibn Abbas said the Prophet ﷺ often recited this verse in the two rakahs before Fajr. When told stories from the People of the Book, he said: neither believe nor deny them; say we believe in Allah and what was sent to us.",
+    "now": "Someone at work asks you about Musa or Isa and you realise you know almost nothing about them. {idea}They are your prophets too.{/idea} Believing in them all means getting to know them.",
+    "old": "The other prophets belong to other religions.",
+    "new": "Every prophet Allah sent is mine to believe in and learn from.",
+    "try": "Tomorrow before Fajr, recite this verse in your sunnah prayer, or read a short passage about one earlier prophet.",
+    "related": ["4:150", "3:52"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:137", "surah": 2, "ayah": 137, "place": "madinah",
+    "title": "If they believe as you believe, they are guided. Allah suffices.",
+    "subtitle": "Their choice, your peace",
+    "picture": {"kind": "boxes", "label": "Two outcomes", "row": [
+      {"box": "reward", "title": "they believe the same", "sub": ["then they are guided"]},
+      {"box": "trap", "title": "they turn away", "sub": ["then it is opposition"]},
+      {"conn": "either way"},
+      {"box": "idea", "title": "Allah suffices you", "sub": ["He hears, He knows"]}]},
+    "key": {"label": "My worry", "row": [
+      {"box": "people", "title": "I must win them over", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah is enough for me", "sub": []}]},
+    "then": "The verse follows the creed of all prophets. {reward}If they believe in what you believe, they are guided.{/reward} If they turn away after the proof is shown, {trap}they are only in opposition.{/trap} Ibn Kathir: {idea}Allah will aid the believers and suffice them.{/idea}",
+    "now": "You have explained your faith to your colleague, your neighbour, your brother in law. Some get it. Some argue, some mock. {idea}You do not have to carry their response.{/idea} Allah is enough for you.",
+    "old": "If people reject my faith, I am exposed and alone.",
+    "new": "Allah suffices me. Their acceptance is guidance for them; their rejection does not undo me.",
+    "try": "When someone dismisses your faith today, say quietly: hasbiyallah, Allah is enough for me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:138", "surah": 2, "ayah": 138, "place": "madinah",
+    "title": "The colour of Allah. Whose colouring could be better?",
+    "subtitle": "Let faith dye you through",
+    "picture": {"kind": "boxes", "label": "Sibghah", "row": [
+      {"box": "idea", "title": "Allah's colouring", "sub": ["His religion"]},
+      {"conn": "soaks into"},
+      {"box": "people", "title": "the believer", "sub": ["inside and out"]},
+      {"conn": "who says"},
+      {"box": "reward", "title": "we worship Him", "sub": []}]},
+    "key": {"label": "How deep", "row": [
+      {"box": "people", "title": "a coat of paint", "sub": ["for show"], "strike": true},
+      {"box": "idea", "title": "dyed through", "sub": ["it colours everything"]}]},
+    "then": "Sibghah literally means dye or colouring. Ibn Abbas and many others said it means {idea}the religion of Allah.{/idea} Ibn Kathir links it to 30:30, Allah's fitrah, the natural way He made us on, and says: hold to it. {reward}Who could colour better than Allah?{/reward}",
+    "now": "Some people wear faith like a jacket: on for Friday, off for the office. Allah's dye goes through the fabric. {idea}It shows in how you drive, how you text, how you split the bill.{/idea}",
+    "old": "My faith is a part of my life, kept in its place.",
+    "new": "Allah's religion is a dye meant to colour every part of me.",
+    "try": "Choose one ordinary part of your day, like driving or shopping, and do it as a Muslim on purpose.",
+    "related": ["30:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:139", "surah": 2, "ayah": 139, "place": "madinah",
+    "title": "Argue with us about Allah? He is our Lord and yours.",
+    "subtitle": "Ending a dispute with sincerity",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "idea", "title": "same Lord", "sub": ["ours and yours"]},
+      {"box": "people", "title": "our deeds", "sub": ["for us"]},
+      {"box": "people", "title": "your deeds", "sub": ["for you"]},
+      {"box": "reward", "title": "sincere to Him", "sub": []}]},
+    "key": {"label": "What settles it", "row": [
+      {"box": "people", "title": "winning the debate", "sub": [], "strike": true},
+      {"box": "reward", "title": "sincerity to Allah", "sub": []}]},
+    "then": "The Prophet ﷺ was told to cut short the dispute: {idea}do you argue with us about Allah, when He is our Lord and your Lord?{/idea} Ibn Kathir links it to 10:41: for me my deeds, for you yours. {reward}And we are sincere to Him.{/reward} Ibrahim was told the same when his people argued with him.",
+    "now": "The family debate over religion that loops every holiday. The online thread that never ends. {idea}Sometimes the strongest answer is: we each answer to the same Lord, and I am trying to be sincere to Him.{/idea} Then step back.",
+    "old": "I have to keep arguing until they admit I am right.",
+    "new": "We each carry our own deeds before one Lord. My task is sincerity, not winning.",
+    "try": "In your next religious argument, state your view once, kindly, then end it with a sincere wish.",
+    "related": ["10:41", "3:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:140", "surah": 2, "ayah": 140, "place": "madinah",
+    "title": "Do you know better, or does Allah?",
+    "subtitle": "Hiding a testimony you hold",
+    "picture": {"kind": "boxes", "label": "The claim", "row": [
+      {"box": "people", "title": "Ibrahim, Ismail, Ishaq", "sub": ["Yaqub, the tribes"]},
+      {"conn": "claimed as"},
+      {"box": "trap", "title": "one of our labels", "sub": []},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah knows best", "sub": ["they were upright Muslims"]}]},
+    "key": {"label": "The greater wrong", "row": [
+      {"box": "people", "title": "an honest mistake", "sub": [], "strike": true},
+      {"box": "trap", "title": "hiding what you know", "sub": ["a testimony from Allah"]}]},
+    "then": "Some claimed the prophets from Ibrahim to the tribes followed their later labels. {idea}Do you know better, or does Allah?{/idea} Al-Hasan Al-Basri said their own Book stated these prophets were neither, and {trap}they testified to it, yet hid it from people.{/trap}",
+    "now": "You saw what happened in the car park. You know who said what in the meeting. You were asked, and you said nothing. {trap}Hiding a testimony you hold is called a great wrong.{/trap} {idea}Allah is not unaware.{/idea}",
+    "old": "Staying silent keeps me out of trouble.",
+    "new": "Hiding the truth I know, when it is needed, is a serious wrong before Allah.",
+    "try": "If you are holding back a truth that someone needs to be treated fairly, find a safe way to share it.",
+    "related": ["3:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:141", "surah": 2, "ayah": 141, "place": "madinah",
+    "title": "Said twice: they have their deeds, you have yours.",
+    "subtitle": "Stop arguing about them; look at yourself",
+    "picture": {"kind": "boxes", "label": "The refrain again", "row": [
+      {"box": "people", "title": "the prophets", "sub": ["have passed"]},
+      {"box": "reward", "title": "their deeds", "sub": ["with them"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "your deeds", "sub": ["the only ones you answer for"]}]},
+    "key": {"label": "What I will be asked", "row": [
+      {"box": "people", "title": "which label they had", "sub": [], "strike": true},
+      {"box": "idea", "title": "whether I followed them", "sub": []}]},
+    "then": "The same words that closed Yaqub's story now close the argument over which label the prophets wore. Ibn Kathir: {trap}being their relatives will not suffice{/trap} unless you follow their good deeds. {idea}You will not be asked what they did. You will be asked what you did.{/idea}",
+    "now": "You can spend hours debating history, which scholar was right, which group owns which prophet. {idea}None of that is on your exam.{/idea} The question is simpler and closer: did you follow them today?",
+    "old": "Proving who the prophets belonged to matters a lot.",
+    "new": "I will not be asked about their label, only whether I walked their way.",
+    "try": "Swap one religious debate you would have today for one act the prophets did: a dua, a kindness, a prayer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

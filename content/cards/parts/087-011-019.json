@@ -1,0 +1,175 @@
+[
+  {
+    "id": "87:11", "surah": 87, "ayah": 11, "place": "makkah",
+    "title": "The wretched one walks around the reminder.",
+    "subtitle": "Same words, but some people step aside from them",
+    "picture": {"kind": "boxes", "label": "Two responses", "row": [
+      {"box": "idea", "title": "the reminder", "sub": ["offered to all"]},
+      {"box": "reward", "title": "the one who fears", "sub": ["takes it"]},
+      {"box": "trap", "title": "the wretched one", "sub": ["avoids it"]}]},
+    "key": {"label": "What avoiding is", "row": [
+      {"box": "trap", "title": "just not my thing", "sub": ["neutral, harmless"], "strike": true},
+      {"box": "trap", "title": "stepping away", "sub": ["is itself the loss"]}]},
+    "then": "The verse before named the one who takes the reminder. This one names the opposite: {trap}it will be avoided by the wretched.{/trap} Not someone who never heard, but someone who heard and kept away.",
+    "now": "You mute the speaker. You scroll past the verse someone shared. You leave the room when the topic turns to death. {trap}Avoiding feels like nothing.{/trap} {idea}It is a choice, and it is made again each time.{/idea}",
+    "old": "Ignoring reminders is neutral. I am not hurting anyone.",
+    "new": "Turning from a reminder is a step, and it leads somewhere.",
+    "try": "Notice the next reminder you want to skip, and give it one full minute instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:12", "surah": 87, "ayah": 12, "place": "makkah",
+    "title": "Where avoiding the reminder ends: the great Fire.",
+    "subtitle": "The end of the path of the one who turned away",
+    "picture": {"kind": "boxes", "label": "The path", "row": [
+      {"box": "trap", "title": "avoids the reminder", "sub": ["again and again"]},
+      {"conn": "ends at"},
+      {"box": "trap", "title": "the great Fire", "sub": ["the greatest Fire"]}]},
+    "key": {"label": "What is at stake", "row": [
+      {"box": "trap", "title": "a small habit", "sub": ["skipping the talk"], "strike": true},
+      {"box": "trap", "title": "a final outcome", "sub": ["where the habit leads"]}]},
+    "then": "The surah ties the two verses together: the one who avoids the reminder is {trap}the one who will enter the great Fire.{/trap} It is said plainly, as a warning, to people in Makkah who were turning away from the message.",
+    "now": "Nobody wakes up and decides to be lost. It is a thousand small skips: the prayer later, the talk another time, the Quran after the busy week. {idea}The warning is mercy: it shows the end while you can still turn.{/idea}",
+    "old": "Small avoidances do not add up to anything serious.",
+    "new": "Habits have a destination. Allah shows me it now so I can change course.",
+    "try": "Name one reminder you keep postponing and set a time for it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:13", "surah": 87, "ayah": 13, "place": "makkah",
+    "title": "Neither dying there nor really living.",
+    "subtitle": "No rest in death, no good in life",
+    "picture": {"kind": "boxes", "label": "The state described", "row": [
+      {"box": "trap", "title": "no death", "sub": ["no rest from it"], "strike": true},
+      {"box": "trap", "title": "no life", "sub": ["nothing that benefits"], "strike": true}]},
+    "key": {"label": "What hope looks like", "row": [
+      {"box": "trap", "title": "stuck in between", "sub": ["for those who chose it"]},
+      {"box": "reward", "title": "mercy for others", "sub": ["like a seed by a stream"]}]},
+    "then": "Ibn Kathir: {trap}he will not die and be allowed to rest, nor live a life that benefits him.{/trap} He then records a hadith that some people whom Allah wills mercy for will be brought out by intercession and {reward}sprout like a seed on the bank of a stream.{/reward}",
+    "now": "You know days that felt like neither: going through the motions, not alive, not at rest. The verse shows the final form of that, and it is sober. {reward}The door of mercy is still open today.{/reward} Walk through it while it is.",
+    "old": "Talk of the Fire only makes me feel hopeless.",
+    "new": "The warning is real, and so is the mercy. Both push me toward Him now.",
+    "try": "Ask Allah tonight, in your own words, to make you among those He wills mercy for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:14", "surah": 87, "ayah": 14, "place": "makkah",
+    "title": "Success belongs to the one who cleans himself up.",
+    "subtitle": "Purifying the self is what real success means",
+    "picture": {"kind": "boxes", "label": "What success is", "row": [
+      {"box": "people", "title": "a person", "sub": ["with bad traits, like all"]},
+      {"conn": "purifies himself"},
+      {"box": "reward", "title": "has succeeded", "sub": ["said with certainty"]}]},
+    "key": {"label": "Two scoreboards", "row": [
+      {"box": "trap", "title": "success is a salary", "sub": ["titles, likes, money"], "strike": true},
+      {"box": "idea", "title": "success is purification", "sub": ["a cleaner heart and wealth"]}]},
+    "then": "Ibn Kathir: he {idea}purifies himself from despised traits{/idea} and follows what was revealed to the Prophet ﷺ. Qatadah said: {reward}he purifies his wealth and pleases his Creator.{/reward} Umar ibn Abdul-Aziz would recite this when telling people to give Zakat al-Fitr.",
+    "now": "Your performance review says excellent. Your bank app shows a good month. But the jealousy, the temper with your kids, the habit you hide are all still there. {idea}The verse moves the scoreboard inside.{/idea}",
+    "old": "I am successful when my career and income look good.",
+    "new": "I am succeeding when I am getting cleaner inside and with my money.",
+    "try": "Pick one bad trait you know you have and do one thing today that goes against it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:15", "surah": 87, "ayah": 15, "place": "makkah",
+    "title": "He remembers his Lord's name, then he prays.",
+    "subtitle": "Remembrance that turns into prayer",
+    "picture": {"kind": "boxes", "label": "The successful one", "row": [
+      {"box": "idea", "title": "purifies", "sub": ["verse 14"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "remembers His name", "sub": ["in the heart and tongue"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "prays", "sub": ["on time, for His pleasure"]}]},
+    "key": {"label": "Where remembering leads", "row": [
+      {"box": "trap", "title": "a nice thought", "sub": ["that stays a thought"], "strike": true},
+      {"box": "idea", "title": "remembers, then stands", "sub": ["memory becomes action"]}]},
+    "then": "Ibn Kathir: he {reward}establishes the prayer in its appointed time, seeking Allah's pleasure.{/reward} Abu Al-Ahwas said that someone who wants to pray and is approached by a beggar should give first, reading the two verses together: purify, remember, pray.",
+    "now": "The adhan notification pops up on your phone. You think, I should pray. Then a meeting, a message, a show. {idea}The verse links the thought to the act:{/idea} remember, then go and pray.",
+    "old": "Thinking of Allah is enough. The prayer can come later.",
+    "new": "Remembering His name is the start. Standing for prayer finishes it.",
+    "try": "At the next prayer time, stand to pray within five minutes of remembering.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:16", "surah": 87, "ayah": 16, "place": "makkah",
+    "title": "But you keep putting this world first.",
+    "subtitle": "The honest diagnosis of what we prefer",
+    "picture": {"kind": "boxes", "label": "What gets chosen", "row": [
+      {"box": "reward", "title": "this world", "sub": ["income, comfort, gain"]},
+      {"conn": "given precedence over"},
+      {"box": "idea", "title": "the Hereafter", "sub": ["pushed to later"]}]},
+    "key": {"label": "What we say vs do", "row": [
+      {"box": "trap", "title": "I value the next life", "sub": ["in words"], "strike": true},
+      {"box": "trap", "title": "I choose this one", "sub": ["in my calendar"]}]},
+    "then": "Ibn Kathir: {trap}you give it precedence over the matter of the Hereafter{/trap}, because of what it holds of usefulness, livelihood and profit. The verse speaks straight to the listeners: not they, but you.",
+    "now": "Overtime is never optional, but the mosque is. You find two hours for a series, but not ten minutes for Quran. {trap}Your calendar tells the truth your words hide.{/trap}",
+    "old": "Of course I put the next life first. I am a believer.",
+    "new": "My choices show what I really prefer, and I can choose differently.",
+    "try": "Look at how you spent yesterday's free hours, and move just one of them toward the next life today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:17", "surah": 87, "ayah": 17, "place": "makkah",
+    "title": "The Hereafter is better, and it lasts.",
+    "subtitle": "Why preferring this world is a bad trade",
+    "picture": {"kind": "boxes", "label": "The comparison", "row": [
+      {"box": "plain", "title": "this world", "sub": ["lowly, temporary"]},
+      {"box": "reward", "title": "the Hereafter", "sub": ["better", "more lasting"]}]},
+    "key": {"label": "The trade", "row": [
+      {"box": "trap", "title": "the short thing", "sub": ["soon passes away"], "strike": true},
+      {"box": "reward", "title": "the lasting thing", "sub": ["noble and eternal"]}]},
+    "then": "Ibn Kathir asks: {idea}how can an intelligent person prefer what is short-lived over what is eternal?{/idea} He records the hadith: {reward}choose what lasts over what passes.{/reward}",
+    "now": "You would never trade a house for a weekend rental. Yet you trade your time, your temper, your prayers for things that are gone by Monday. {reward}Better and lasting{/reward} is not a slogan. It is a price comparison.",
+    "old": "The next life is far away. This one is right here.",
+    "new": "What lasts forever is worth more than what ends soon, even if it is later.",
+    "try": "Before one purchase or plan today, ask: will this matter in the next life?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:18", "surah": 87, "ayah": 18, "place": "makkah",
+    "title": "This message is not new. It was always there.",
+    "subtitle": "The same truth was in the earlier scriptures",
+    "picture": {"kind": "boxes", "label": "What this refers to", "row": [
+      {"box": "idea", "title": "purify, remember, pray", "sub": ["verses 14-15"]},
+      {"box": "idea", "title": "the Hereafter is better", "sub": ["verses 16-17"]},
+      {"conn": "found in"},
+      {"box": "people", "title": "the former scriptures", "sub": ["before the Quran"]}]},
+    "key": {"label": "Is it a new idea?", "row": [
+      {"box": "trap", "title": "a new invention", "sub": ["something made up now"], "strike": true},
+      {"box": "idea", "title": "an old, constant truth", "sub": ["sent again and again"]}]},
+    "then": "Ibn Jarir held, and Ibn Kathir called it good and strong, that {idea}this refers to the previous verses{/idea}: success through purification, prayer, and the Hereafter being better. It was taught in earlier revelation too.",
+    "now": "Your grandmother's advice. A wise teacher's words. The values your parents tried to pass on. {idea}The core message about what matters has been the same for thousands of years.{/idea} It is not a trend you can wait out.",
+    "old": "This is just one more opinion about how to live.",
+    "new": "The same message has reached people across ages. It is worth trusting.",
+    "try": "Write the four-line core of verses 14-17 on a note and keep it where you will see it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "87:19", "surah": 87, "ayah": 19, "place": "makkah",
+    "title": "Ibrahim and Musa were given the same message.",
+    "subtitle": "The scriptures of two great prophets named",
+    "picture": {"kind": "boxes", "label": "Who carried it", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["his scriptures"]},
+      {"box": "people", "title": "Musa", "sub": ["his scriptures"]},
+      {"conn": "same as"},
+      {"box": "idea", "title": "this surah", "sub": ["revealed in Makkah"]}]},
+    "key": {"label": "What they also said", "row": [
+      {"box": "trap", "title": "someone else carries my load", "sub": [], "strike": true},
+      {"box": "idea", "title": "I get what I strove for", "sub": ["no one bears another's burden"]}]},
+    "then": "Ibn Kathir compares it to Surat An-Najm, which also cites the scriptures of Musa and Ibrahim: {idea}no one bears another's burden, and a person has only what he strives for.{/idea} The surah ends by tying its message to them.",
+    "now": "You hope your family's piety will cover yours, or your good name in the community. {idea}Ibrahim and Musa taught that each one carries their own record.{/idea} That is fair, and it puts the pen back in your hand.",
+    "old": "My family's faith or my good reputation will carry me.",
+    "new": "Like the prophets taught, I will get what I strove for myself.",
+    "try": "Do one quiet act of worship today, just for your own record with Allah.",
+    "related": ["53:36", "53:38", "53:39"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

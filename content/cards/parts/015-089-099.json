@@ -1,0 +1,218 @@
+[
+  {
+    "id": "15:89", "surah": 15, "ayah": 89, "place": "makkah",
+    "title": "I am the one who saw the army coming.",
+    "subtitle": "The Prophet ﷺ as a clear warner",
+    "picture": {"kind": "boxes", "label": "The parable", "row": [
+      {"box": "people", "title": "the warner", "sub": ["I saw the army"]},
+      {"conn": "some"},
+      {"box": "reward", "title": "left at night", "sub": ["and escaped"]},
+      {"conn": "others"},
+      {"box": "trap", "title": "stayed till morning", "sub": ["and were overtaken"]}]},
+    "key": {"label": "What a warner is", "row": [
+      {"box": "trap", "title": "a doom-sayer", "sub": ["spoiling the mood"], "strike": true},
+      {"box": "idea", "title": "someone who cares", "sub": ["escape, escape"]}]},
+    "then": "Ibn Kathir cites the two Sahihs: the Prophet ﷺ compared himself to {idea}a man who saw an army with his own eyes and ran to his people saying escape, escape{/idea}. Some left by night and were saved; {trap}others stayed until morning and were overtaken{/trap}.",
+    "now": "Your friend texts you: the road is flooded, take the other way. Your mother says: that man is bad news. {idea}A warning is someone who saw what you cannot, and cared enough to run and tell you.{/idea}",
+    "old": "People who warn me are just being negative.",
+    "new": "A clear warner is someone who saw the danger and loved me enough to say it.",
+    "try": "Thank one person who warned you about something, even if you did not listen at the time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:90", "surah": 15, "ayah": 90, "place": "makkah",
+    "title": "They swore oaths together to oppose the truth.",
+    "subtitle": "The Muqtasimin, the ones who made a pact",
+    "picture": {"kind": "boxes", "label": "The pact", "row": [
+      {"box": "trap", "title": "the confederates", "sub": ["swore together"]},
+      {"conn": "to"},
+      {"box": "trap", "title": "oppose and deny", "sub": ["and insult the prophets"]}]},
+    "key": {"label": "What the group did", "row": [
+      {"box": "plain", "title": "just a conversation", "sub": ["we only talked"], "strike": true},
+      {"box": "trap", "title": "a pact against truth", "sub": ["agreeing to deny"]}]},
+    "then": "Ibn Kathir says the Muqtasimin {trap}made a pact to oppose, deny, and insult the Prophets{/trap}. He compares it to Salih's people, who swore to one another to attack him by night, citing 27:49. It is as if they took an oath for everything they denied.",
+    "now": "The group chat agrees, before the meeting, to shut down the new idea no matter what. The family agrees to freeze someone out. {trap}Deciding together to reject something before hearing it{/trap} is an old pattern. {idea}You can refuse to join it.{/idea}",
+    "old": "If the group agrees, I should go along.",
+    "new": "A group pact to reject the truth is still a rejection, and I do not have to sign it.",
+    "try": "Next time a group decides against someone before hearing them, ask to hear them out first.",
+    "related": ["27:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:91", "surah": 15, "ayah": 91, "place": "makkah",
+    "title": "They cut the Quran into pieces to reject it.",
+    "subtitle": "Sorcerer, poet, madman: labels instead of listening",
+    "picture": {"kind": "boxes", "label": "The labels they tried", "row": [
+      {"box": "trap", "title": "soothsayer", "sub": ["rejected"], "strike": true},
+      {"box": "trap", "title": "crazy", "sub": ["rejected"], "strike": true},
+      {"box": "trap", "title": "poet", "sub": ["rejected"], "strike": true},
+      {"box": "trap", "title": "sorcerer", "sub": ["the label they chose"]}]},
+    "key": {"label": "Two ways to break it up", "row": [
+      {"box": "trap", "title": "take some, leave some", "sub": ["believe in parts"]},
+      {"box": "trap", "title": "a label for each part", "sub": ["instead of listening"]}]},
+    "then": "Ibn Abbas said this meant {trap}believing in some of the Book and rejecting some{/trap}. Another report says it was Quraysh before Hajj season: Al-Walid bin Al-Mughirah rejected every label, admitted the words were sweet, then {trap}they agreed to call him a sorcerer{/trap}.",
+    "now": "Someone says something true that stings. Instead of thinking about it, you reach for a label: they are just jealous, just emotional, just old-fashioned. {trap}A label lets you skip the message.{/trap} {idea}Listen first.{/idea}",
+    "old": "Once I have put a label on something, I know what it is.",
+    "new": "Labels are often a way to avoid hearing a truth; the Quran asks to be heard whole.",
+    "try": "When you catch yourself labeling someone to dismiss them today, listen to them for one more minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:92", "surah": 15, "ayah": 92, "place": "makkah",
+    "title": "By your Lord, every one of them will be asked.",
+    "subtitle": "An oath that all will be questioned",
+    "picture": {"kind": "boxes", "label": "The questioning", "row": [
+      {"box": "idea", "title": "by your Lord", "sub": ["an oath"]},
+      {"conn": "will ask"},
+      {"box": "people", "title": "all of them", "sub": ["no one skipped"]}]},
+    "key": {"label": "Two questions everyone gets", "row": [
+      {"box": "idea", "title": "what did you worship?", "sub": ["Abu Al-Aliyah"]},
+      {"box": "idea", "title": "how did you answer?", "sub": ["the messengers"]}]},
+    "then": "Allah swears by Himself that all of them will be questioned. Ibn Kathir reports Abu Al-Aliyah: {idea}all people will be asked about two things: what they used to worship, and what their response was to the Messengers{/idea}.",
+    "now": "Your boss asks for a quick update and your heart races. Imagine the two questions that really matter. {idea}What did you give your heart to? How did you respond when the message reached you?{/idea} You can prepare those answers today.",
+    "old": "Nobody is really going to ask me about my life.",
+    "new": "Everyone will be asked what they worshipped and how they answered the messengers, including me.",
+    "try": "Write down your honest answer to both questions, and keep it somewhere private.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:93", "surah": 15, "ayah": 93, "place": "makkah",
+    "title": "Not did you do it, but why did you.",
+    "subtitle": "The question about everything they used to do",
+    "picture": {"kind": "boxes", "label": "What is asked", "row": [
+      {"box": "plain", "title": "did you do it?", "sub": ["Allah already knows"], "strike": true},
+      {"conn": "instead"},
+      {"box": "idea", "title": "why did you?", "sub": ["the real question"]}]},
+    "key": {"label": "What matters most", "row": [
+      {"box": "trap", "title": "the record", "sub": ["hiding what I did"], "strike": true},
+      {"box": "idea", "title": "the reason", "sub": ["why I did it"]}]},
+    "then": "Ibn Abbas linked this to 55:39, where no one is asked about their sin. He explained: {idea}they will not be asked, did you do such and such, because Allah knows better. He will say, why did you do it?{/idea}",
+    "now": "You snapped at your child, skipped the prayer, sent the harsh email. You already know you did it. {idea}The question waiting is why.{/idea} Ask yourself now, while you can still change the answer.",
+    "old": "As long as no one finds out what I did, I am fine.",
+    "new": "Allah already knows what I did; what I will be asked is why.",
+    "try": "Tonight, pick one thing you did today and ask yourself honestly why you did it.",
+    "related": ["55:39"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:94", "surah": 15, "ayah": 94, "place": "makkah",
+    "title": "Say it openly now, and do not be pulled aside.",
+    "subtitle": "The end of secret preaching",
+    "picture": {"kind": "boxes", "label": "The turning point", "row": [
+      {"box": "plain", "title": "in secret", "sub": ["before this verse"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "proclaim it", "sub": ["out in the open"]},
+      {"box": "idea", "title": "turn away", "sub": ["from those pulling back"]}]},
+    "key": {"label": "What they wanted", "row": [
+      {"box": "trap", "title": "compromise", "sub": ["you soften, we soften"], "strike": true},
+      {"box": "idea", "title": "go ahead with it", "sub": ["as commanded"]}]},
+    "then": "Ibn Masud said {idea}the Prophet ﷺ was practicing and preaching secretly until this verse was revealed; then he and his Companions came out into the open{/idea}. Ibn Kathir cites 68:9: {trap}they wished that you would compromise{/trap}.",
+    "now": "At work you skip your prayer or hide it in a storeroom so nobody asks. With friends you water down what you believe so it does not get awkward. {idea}You can be calm and still be open about who you are.{/idea}",
+    "old": "Keeping my faith quiet keeps everyone comfortable.",
+    "new": "There comes a point to stop hiding what I stand for and live it openly, with calm.",
+    "try": "Do one small act of faith openly today that you would usually hide.",
+    "related": ["68:9", "5:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:95", "surah": 15, "ayah": 95, "place": "makkah",
+    "title": "Allah will handle the mockers for you.",
+    "subtitle": "Sufficiency against those who ridicule",
+    "picture": {"kind": "boxes", "label": "Who takes care of it", "row": [
+      {"box": "trap", "title": "the mockers", "sub": ["elders and nobles"]},
+      {"conn": "Allah suffices"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["free to keep going"]}]},
+    "key": {"label": "Who deals with the mockery", "row": [
+      {"box": "trap", "title": "I must answer it", "sub": ["every insult"], "strike": true},
+      {"box": "idea", "title": "Allah suffices", "sub": ["I keep doing my part"]}]},
+    "then": "Ibn Ishaq names five leading men of Quraysh whose mockery went to extremes. Ibn Kathir says the verse means {idea}do not fear them, because Allah will suffice you against them and protect you{/idea}, citing 5:67. {trap}Each of those five mockers came to his end soon after.{/trap}",
+    "now": "Someone at work mocks your fasting, your hijab, your beard, your halal lunch. You lie awake writing comebacks. {idea}You do not have to win every exchange.{/idea} {reward}Allah is enough for you.{/reward}",
+    "old": "If I do not answer every insult, I lose.",
+    "new": "Allah is enough against the mockers; my job is to keep going, not to win every argument.",
+    "try": "Let one mocking comment pass today without a reply, and say hasbiyallah instead.",
+    "related": ["5:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:96", "surah": 15, "ayah": 96, "place": "makkah",
+    "title": "Putting another god beside Allah, they will come to know.",
+    "subtitle": "A warning that ends in knowing",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "trap", "title": "another deity", "sub": ["set beside Allah"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "they will know", "sub": ["the truth arrives"]}]},
+    "key": {"label": "What decides the truth", "row": [
+      {"box": "trap", "title": "who mocks loudest", "sub": ["wins today"], "strike": true},
+      {"box": "idea", "title": "what they will know", "sub": ["when it is revealed"]}]},
+    "then": "The mockers are described: {trap}those who make another god along with Allah{/trap}. Ibn Kathir calls the ending, they will come to know, {trap}a strong warning and grave threat{/trap} to those who set up other deities.",
+    "now": "Not idols on a shelf. Your career, your image, your phone, a person you cannot say no to, the thing you check first in the morning and last at night. {idea}Ask what sits beside Allah in your heart.{/idea}",
+    "old": "Shirk is something only idol-worshippers do.",
+    "new": "Anything I give the place that belongs to Allah can become a god beside Him.",
+    "try": "Notice the first thing you reach for when you wake tomorrow, and put remembrance of Allah before it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:97", "surah": 15, "ayah": 97, "place": "makkah",
+    "title": "We know your chest feels tight from what they say.",
+    "subtitle": "Allah sees the Prophet's distress",
+    "picture": {"kind": "boxes", "label": "What Allah sees", "row": [
+      {"box": "trap", "title": "what they say", "sub": ["insults and mockery"]},
+      {"conn": "causes"},
+      {"box": "people", "title": "a tight chest", "sub": ["the Prophet ﷺ"]},
+      {"conn": "known to"},
+      {"box": "idea", "title": "Allah", "sub": ["We know"]}]},
+    "key": {"label": "Feeling hurt by words", "row": [
+      {"box": "trap", "title": "a weak faith", "sub": ["I should not feel this"], "strike": true},
+      {"box": "idea", "title": "seen and known", "sub": ["even the Prophet ﷺ felt it"]}]},
+    "then": "The surah introduction says the Prophet ﷺ had grown {trap}a little tired{/trap} after years of rejection. Here Allah says {idea}We know your breast becomes tight because of what they say{/idea}. Ibn Kathir says: do not let that weaken your resolve; trust Him.",
+    "now": "You read the comments under your post. You overhear what your in-laws said. Your chest tightens and stays tight all evening. {idea}Allah knows that exact feeling.{/idea} {reward}He said so to His most beloved.{/reward}",
+    "old": "If words hurt me this much, my faith must be weak.",
+    "new": "Allah sees the tightness words cause; feeling it is human, and He meets it with care.",
+    "try": "When hurtful words weigh on you today, tell Allah exactly how it feels.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:98", "surah": 15, "ayah": 98, "place": "makkah",
+    "title": "The cure for a tight chest is praise and prostration.",
+    "subtitle": "What to do with the pain",
+    "picture": {"kind": "boxes", "label": "The remedy", "row": [
+      {"box": "trap", "title": "tight chest", "sub": ["from their words"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "glorify with praise", "sub": ["subhanallah wa bihamdihi"]},
+      {"box": "idea", "title": "prostrate", "sub": ["be among those who bow"]}]},
+    "key": {"label": "Where to put the pain", "row": [
+      {"box": "trap", "title": "replay the insult", "sub": ["argue in my head"], "strike": true},
+      {"box": "idea", "title": "turn to worship", "sub": ["remember, praise, pray"]}]},
+    "then": "Right after naming the pain, Allah gives the remedy. Ibn Kathir says: {idea}keep yourself busy with remembering Allah, praising Him, glorifying Him and worshipping Him{/idea}. He cites a hadith: {reward}four rakat at the start of the day, and I will take care of you until its end{/reward}.",
+    "now": "After the hurtful call, you scroll for an hour to numb it. It does not help. {idea}Try the prescription instead: stand up, wash, pray two rakat, stay in sujud a little longer.{/idea}",
+    "old": "When I am hurt, I need distraction.",
+    "new": "When my chest is tight, praise and prostration are where Allah tells me to go.",
+    "try": "The next time you feel hurt today, pray two rakat and make your sujud long.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:99", "surah": 15, "ayah": 99, "place": "makkah",
+    "title": "Worship your Lord until the certainty comes.",
+    "subtitle": "The last verse: worship has no finish line before death",
+    "picture": {"kind": "boxes", "label": "How long", "row": [
+      {"box": "idea", "title": "worship your Lord", "sub": ["standing, sitting, lying"]},
+      {"conn": "until"},
+      {"box": "plain", "title": "the certainty", "sub": ["death"]}]},
+    "key": {"label": "When worship ends", "row": [
+      {"box": "trap", "title": "when I reach a level", "sub": ["I have done enough"], "strike": true},
+      {"box": "idea", "title": "when life ends", "sub": ["the certainty arrives"]}]},
+    "then": "Salim bin Abdullah said {idea}the certainty means death{/idea}. Ibn Kathir cites the Prophet ﷺ telling Umm Al-Ala about Uthman bin Mazun: {reward}the certainty has come to him, and I hope good for him{/reward}. Worship continues as long as the mind is sound, in whatever way a person is able.",
+    "now": "You had a strong Ramadan and coasted after. You did Hajj and felt finished. Or you are sick and think worship is not for you anymore. {idea}It keeps going, in whatever form you can manage{/idea}, until the last day.",
+    "old": "There is a point where I have done enough worship.",
+    "new": "Worship is a lifelong companion, in whatever shape I can manage, until death comes.",
+    "try": "Choose one small act of worship you can keep doing daily for the rest of your life, and start today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "id": "8:1", "surah": 8, "ayah": 1, "place": "madinah",
+    "title": "They won the battle, then argued over the loot.",
+    "subtitle": "When a shared win turns into a quarrel",
+    "picture": {"kind": "boxes", "label": "After Badr", "row": [
+      {"box": "people", "title": "the chasers", "sub": ["we drove the enemy off"]},
+      {"box": "people", "title": "the collectors", "sub": ["we gathered it"]},
+      {"box": "people", "title": "the guards", "sub": ["we protected the Prophet ﷺ"]},
+      {"conn": "all claim"},
+      {"box": "reward", "title": "the spoils", "sub": ["one pile, three claims"]}]},
+    "key": {"label": "What the verse puts first", "row": [
+      {"box": "trap", "title": "who gets what", "sub": ["the argument"], "strike": true},
+      {"box": "idea", "title": "mend what is between you", "sub": ["the relationship comes first"]}]},
+    "then": "After Badr, the Companions split into groups: some chased the enemy, some collected the goods, some guarded the Prophet ﷺ. That night {trap}each group said the spoils were theirs.{/trap} The verse took the matter out of their hands and told them to {idea}fear Allah and set right what was between them.{/idea}",
+    "now": "The family project finishes and everyone remembers doing the most. The team lands the client and the credit fight starts in the group chat. The inheritance is settled and the siblings stop calling. {idea}The win was shared. The quarrel is optional.{/idea}",
+    "old": "I did more than the others, so I deserve more.",
+    "new": "The bond between us is worth more than any share I could win.",
+    "try": "Think of one credit or share you are quietly fighting over. Let it go, and send that person a kind message.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:2", "surah": 8, "ayah": 2, "place": "madinah",
+    "title": "A believer's heart moves when Allah is mentioned.",
+    "subtitle": "Three signs of faith that is alive",
+    "picture": {"kind": "boxes", "label": "Three signs", "row": [
+      {"box": "idea", "title": "heart trembles", "sub": ["when Allah is mentioned"]},
+      {"box": "idea", "title": "faith grows", "sub": ["when His verses are heard"]},
+      {"box": "idea", "title": "trust in Him", "sub": ["hope in none but Him"]}]},
+    "key": {"label": "What faith is", "row": [
+      {"box": "plain", "title": "a fixed label", "sub": ["I have it or I don't"], "strike": true},
+      {"box": "idea", "title": "something that grows", "sub": ["or shrinks, heart to heart"]}]},
+    "then": "Right after the quarrel over spoils, the surah describes real believers. As-Suddi said a man may be about to do wrong, someone says {idea}fear Allah{/idea}, and his heart shakes and he stops. Scholars took this verse as proof that {reward}faith increases{/reward} and varies from heart to heart.",
+    "now": "You are halfway through typing a sharp reply when a verse you once memorized comes back to you. You are about to fudge the expense report and the thought of Allah stops your hand. {idea}That small tremor is faith working.{/idea}",
+    "old": "Faith is something I either have or don't have.",
+    "new": "Faith is alive. It grows each time I let His words actually reach me.",
+    "try": "Read one short verse slowly today and notice whether anything in your heart moves.",
+    "related": ["3:135", "9:124"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:3", "surah": 8, "ayah": 3, "place": "madinah",
+    "title": "Faith shows up in prayer and in giving.",
+    "subtitle": "The inside, made visible in two habits",
+    "picture": {"kind": "boxes", "label": "What faith does", "row": [
+      {"box": "idea", "title": "establish prayer", "sub": ["on time, done with care"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "spend", "sub": ["from what We provided"]}]},
+    "key": {"label": "Whose is it", "row": [
+      {"box": "people", "title": "my money", "sub": ["I earned it"], "strike": true},
+      {"box": "idea", "title": "what We provided", "sub": ["I am passing it on"]}]},
+    "then": "After describing the heart, the verse turns to deeds. Qatadah said establishing prayer means {idea}keeping its times, its washing, its bowing and prostration.{/idea} Spending covers zakah and every other giving. Ibn Kathir notes that {reward}the most beloved to Allah are the most beneficial to His creation.{/reward}",
+    "now": "Prayer squeezed between meetings, done fast with one eye on the phone. Payday arrives and everything is already spoken for before anyone in need crosses your mind. {idea}The verse asks for both: a prayer you actually stand in, and a hand that opens.{/idea}",
+    "old": "My faith is private. What I feel inside is what counts.",
+    "new": "What I feel inside is meant to show in how I pray and what I give.",
+    "try": "Pick one prayer today and give it your full attention, phone in another room.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:4", "surah": 8, "ayah": 4, "place": "madinah",
+    "title": "These are the believers in truth.",
+    "subtitle": "What waits for faith that is real",
+    "picture": {"kind": "boxes", "label": "With their Lord", "row": [
+      {"box": "reward", "title": "ranks", "sub": ["levels of honor"]},
+      {"box": "reward", "title": "forgiveness", "sub": ["sins covered"]},
+      {"box": "reward", "title": "noble provision", "sub": ["generous, lasting"]}]},
+    "key": {"label": "Truly a believer", "row": [
+      {"box": "plain", "title": "the name alone", "sub": ["I call myself one"], "strike": true},
+      {"box": "idea", "title": "the qualities", "sub": ["heart, prayer, giving, trust"]}]},
+    "then": "The verse seals the list: those with these qualities are {idea}the believers in truth.{/idea} Ibn Kathir explains the ranks as levels in Paradise, citing the hadith that people of the high ranks are seen {reward}like a distant star on the horizon.{/reward} Forgiveness covers their sins.",
+    "now": "You feel behind. Others seem more devout, more disciplined, further along. The verse does not hand out one fixed seat. {reward}There are ranks, and forgiveness for the gaps.{/reward} You are being invited to climb, not judged for where you started.",
+    "old": "I am not one of the really good ones, so why try.",
+    "new": "There are many ranks, and forgiveness covers what I fall short in.",
+    "try": "Choose one of the qualities in 8:2-3 and do one small act of it today.",
+    "related": ["3:163"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:5", "surah": 8, "ayah": 5, "place": "madinah",
+    "title": "Some did not want to go, and it was good.",
+    "subtitle": "When what you dislike is what you need",
+    "picture": {"kind": "boxes", "label": "Leaving Madinah", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["brought out by his Lord"]},
+      {"conn": "with"},
+      {"box": "people", "title": "a group", "sub": ["unwilling, uneasy"]},
+      {"conn": "toward"},
+      {"box": "idea", "title": "Badr", "sub": ["guidance, light, victory"]}]},
+    "key": {"label": "Two reactions to a hard path", "row": [
+      {"box": "trap", "title": "I dislike it", "sub": ["so it must be bad"], "strike": true},
+      {"box": "idea", "title": "Allah knows", "sub": ["you may dislike what is good"]}]},
+    "then": "Ibn Kathir links this to the spoils: {idea}just as Allah settled the division, He settled the march.{/idea} They set out expecting a caravan, and {trap}some disliked the idea of facing an armed army.{/trap} That meeting became guidance and victory. He cites 2:216: you may dislike a thing that is good for you.",
+    "now": "The transfer you did not ask for. The hospital shift you dreaded. The hard talk with your father you kept postponing. {idea}The thing you resisted most sometimes turns out to be the door.{/idea}",
+    "old": "If I don't want it, it must not be good for me.",
+    "new": "Allah sees the end. What I dislike today may be exactly what I need.",
+    "try": "Name one thing you are avoiding because it feels heavy. Take the first small step on it today.",
+    "related": ["2:216", "5:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:6", "surah": 8, "ayah": 6, "place": "madinah",
+    "title": "Arguing after the truth is already clear.",
+    "subtitle": "Fear makes a clear path look like death",
+    "picture": {"kind": "boxes", "label": "How it felt", "row": [
+      {"box": "idea", "title": "the truth", "sub": ["already made clear"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "arguing", "sub": ["you said it was a caravan"]},
+      {"conn": "as if"},
+      {"box": "trap", "title": "driven to death", "sub": ["watching it come"]}]},
+    "key": {"label": "What fear does", "row": [
+      {"box": "trap", "title": "more questions", "sub": ["it isn't clear yet"], "strike": true},
+      {"box": "idea", "title": "it is clear", "sub": ["I am just afraid"]}]},
+    "then": "Some had argued: {trap}you marched us out for the caravan, you never told us there would be fighting.{/trap} Fear made the road feel like being led to death with open eyes. Others answered differently, like Al-Miqdad: {idea}we will not say what Musa's people said, go you and your Lord and fight.{/idea}",
+    "now": "You already know you should apologize, or quit the habit, or call the doctor. Still you keep asking for one more opinion, one more article. {trap}Sometimes the argument is just fear wearing a lab coat.{/trap}",
+    "old": "I just need a bit more clarity before I act.",
+    "new": "Often it is already clear. What I need is courage, not more answers.",
+    "try": "Write down one thing you already know you should do. Do the first five minutes of it.",
+    "related": ["5:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:7", "surah": 8, "ayah": 7, "place": "madinah",
+    "title": "You wanted the easy prize. Allah wanted more.",
+    "subtitle": "Two groups, one promise, a different plan",
+    "picture": {"kind": "boxes", "label": "The promise", "row": [
+      {"box": "reward", "title": "the caravan", "sub": ["unarmed, easy"]},
+      {"conn": "or"},
+      {"box": "trap", "title": "the army", "sub": ["armed, frightening"]},
+      {"conn": "Allah chose"},
+      {"box": "idea", "title": "the truth established", "sub": ["by His words"]}]},
+    "key": {"label": "What we wanted vs what He willed", "row": [
+      {"box": "reward", "title": "the soft option", "sub": ["quick gain, no cost"], "strike": true},
+      {"box": "idea", "title": "the real outcome", "sub": ["truth made firm"]}]},
+    "then": "Allah promised them one of two: the Quraysh caravan or the Quraysh army. {reward}They hoped for the unarmed caravan.{/reward} Ibn Kathir explains that {idea}Allah willed the meeting with the army,{/idea} because people only like what looks favorable, while He knows the outcomes of all things.",
+    "now": "You prayed for the job with the easy commute and got the one that stretches you. You wanted the problem to just go away and instead had to face it. {idea}The prayer was answered, just not with the version you pictured.{/idea}",
+    "old": "Allah answered me if I got the easy option.",
+    "new": "Sometimes He answers with the harder road because it leads somewhere better.",
+    "try": "Recall one prayer answered differently than you hoped. Write one good thing that came from it.",
+    "related": ["2:216"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:8", "surah": 8, "ayah": 8, "place": "madinah",
+    "title": "Truth stands, falsehood falls, whoever dislikes it.",
+    "subtitle": "The purpose behind the hard meeting",
+    "picture": {"kind": "boxes", "label": "The purpose", "row": [
+      {"box": "idea", "title": "truth", "sub": ["made firm"]},
+      {"box": "trap", "title": "falsehood", "sub": ["brought to nothing"]},
+      {"conn": "even if"},
+      {"box": "people", "title": "the wrongdoers", "sub": ["hate it"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "plain", "title": "who is louder", "sub": ["or more numerous"], "strike": true},
+      {"box": "idea", "title": "what is true", "sub": ["Allah makes it stand"]}]},
+    "then": "This verse gives the reason behind choosing the army over the caravan: {idea}that the truth would be made real and falsehood shown empty,{/idea} even if those who chose wrong hated it. The small, poorly armed group was not meant to win by its own strength.",
+    "now": "At work you are the one person who says the numbers are wrong. In the family, you are the only one who will not join the gossip. {idea}Being outnumbered does not make you wrong.{/idea} Stay with what is true, gently, and leave the outcome to Allah.",
+    "old": "If most people are against it, maybe I should drop it.",
+    "new": "Truth does not need a majority. Allah is the One who makes it stand.",
+    "try": "Next time you notice a small falsehood in a conversation, correct it calmly and kindly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:9", "surah": 8, "ayah": 9, "place": "madinah",
+    "title": "They cried out for help, and He answered.",
+    "subtitle": "A desperate prayer before the battle",
+    "picture": {"kind": "boxes", "label": "The night of Badr", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["O Allah, Your promise"]},
+      {"conn": "calls"},
+      {"box": "idea", "title": "his Lord", "sub": ["answers"]},
+      {"conn": "sends"},
+      {"box": "reward", "title": "1000", "sub": ["angels, one after another"], "num": true}]},
+    "key": {"label": "What to do when outnumbered", "row": [
+      {"box": "trap", "title": "count the odds", "sub": ["and give up"], "strike": true},
+      {"box": "idea", "title": "call on your Lord", "sub": ["then step forward"]}]},
+    "then": "On the day of Badr the Prophet ﷺ prayed: {idea}O Allah, I ask You for Your covenant and Your promise.{/idea} Abu Bakr held his hand and said, enough. He went out reciting that the gathering would be routed. {reward}Allah answered with a thousand angels, following one after another.{/reward}",
+    "now": "The test results are late and you are pacing the hospital corridor. The rent is due and the account is short. {idea}Before you plan, before you call anyone, call on Him.{/idea} The ones who asked at Badr were answered.",
+    "old": "I'll pray once I've done everything else I can.",
+    "new": "Calling on Allah is the first step, not the last resort.",
+    "try": "Bring one worry to Allah in your own words today, before you try to fix it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:10", "surah": 8, "ayah": 10, "place": "madinah",
+    "title": "The angels were good news. Victory is from Allah.",
+    "subtitle": "Help as reassurance, not as the source",
+    "picture": {"kind": "boxes", "label": "Why the angels", "row": [
+      {"box": "reward", "title": "the angels", "sub": ["good news"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "hearts at rest", "sub": ["calm before the fight"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "victory", "sub": ["only from Allah"]}]},
+    "key": {"label": "Where help comes from", "row": [
+      {"box": "people", "title": "the means", "sub": ["the help I can see"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["the means are His gift"]}]},
+    "then": "Ibn Kathir explains that {idea}Allah could give victory without sending any angels.{/idea} He sent them, and told the believers about it, as {reward}glad tidings so their hearts would settle.{/reward} The help itself was a mercy, but the victory was His alone.",
+    "now": "The good surgeon. The supportive manager. The loan that came through. You can feel grateful for each one. {idea}They are how He chose to help, not where the help comes from.{/idea}",
+    "old": "If I have the right people and resources, I will be fine.",
+    "new": "The people and resources are His gift. The outcome is from Him.",
+    "try": "Thank one person who helped you this week, and thank Allah for sending them.",
+    "related": ["3:140"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:11", "surah": 8, "ayah": 11, "place": "madinah",
+    "title": "Sleep and rain, sent as calm before the storm.",
+    "subtitle": "Small gifts that steadied hearts and feet",
+    "picture": {"kind": "boxes", "label": "The eve of Badr", "row": [
+      {"box": "reward", "title": "slumber", "sub": ["security from Him"]},
+      {"box": "reward", "title": "rain", "sub": ["water to drink and wash"]},
+      {"conn": "removed"},
+      {"box": "trap", "title": "Shaytan's whisper", "sub": ["you have no water"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "firm feet", "sub": ["sand made solid"]}]},
+    "key": {"label": "What He did with the rain", "row": [
+      {"box": "plain", "title": "just weather", "sub": ["a coincidence"], "strike": true},
+      {"box": "idea", "title": "clean, calm, firm", "sub": ["outside and inside"]}]},
+    "then": "The Muslims were few and the enemy held the water. Ibn Abbas said {trap}Shaytan whispered: you claim Allah is with you, yet you pray without water.{/trap} Then came heavy rain. They drank and washed, the sand turned firm under their feet, and {reward}slumber came over them as security.{/reward}",
+    "now": "The night before the exam, the interview, the operation, you finally fall asleep. The whisper says you are alone and unprepared. {reward}Sometimes calm itself is the help He sends.{/reward} Notice the small mercies before the hard day.",
+    "old": "If I were really supported, I wouldn't feel this anxious.",
+    "new": "Anxiety is a whisper. Calm, rest, and a steady step are gifts from Him.",
+    "try": "Before sleep tonight, name one small mercy from today and thank Allah for it.",
+    "related": ["3:154", "94:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:12", "surah": 8, "ayah": 12, "place": "madinah",
+    "title": "I am with you, so make the believers firm.",
+    "subtitle": "A hidden support made known",
+    "picture": {"kind": "boxes", "label": "The command to the angels", "row": [
+      {"box": "idea", "title": "I am with you", "sub": ["Allah to the angels"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "steady the believers", "sub": ["strengthen their hearts"]},
+      {"conn": "while"},
+      {"box": "trap", "title": "fear", "sub": ["cast into the other side"]}]},
+    "key": {"label": "Where strength came from", "row": [
+      {"box": "people", "title": "our own courage", "sub": ["we were brave"], "strike": true},
+      {"box": "idea", "title": "His being with them", "sub": ["a support they could not see"]}]},
+    "then": "Ibn Kathir calls this {idea}a hidden favor that Allah made known{/idea} so the believers would be grateful. Allah told the angels He was with them and to make the believers firm, while {trap}fear entered the hearts of those who fought against the Messenger ﷺ.{/trap} The verse describes that battle, nothing beyond it.",
+    "now": "You walk into the meeting where you must admit a mistake. You stand by a decision your relatives do not like. {idea}You may feel steadier than you expected.{/idea} That steadiness is not only you. Thank Him for it instead of crediting yourself.",
+    "old": "When I stay firm, it is my own strength.",
+    "new": "The firmness I feel in hard moments is support from Allah I cannot see.",
+    "try": "Recall a time you were braver than you expected. Thank Allah for that strength.",
+    "related": ["47:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:13", "surah": 8, "ayah": 13, "place": "madinah",
+    "title": "Opposing Allah and His Messenger has a cost.",
+    "subtitle": "Why the defeat came",
+    "picture": {"kind": "boxes", "label": "Cause and result", "row": [
+      {"box": "trap", "title": "opposed", "sub": ["Allah and His Messenger"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "the penalty", "sub": ["Allah is severe in it"]}]},
+    "key": {"label": "Who the rule applies to", "row": [
+      {"box": "people", "title": "only them, back then", "sub": ["not my concern"], "strike": true},
+      {"box": "idea", "title": "whoever opposes", "sub": ["a principle, including me"]}]},
+    "then": "The verse explains what happened at Badr: {trap}those who fought had set themselves against Allah and His Messenger ﷺ.{/trap} Then it widens to a principle: {idea}whoever opposes Allah and His Messenger,{/idea} Allah is severe in penalty.",
+    "now": "The word is whoever, and that includes you. A command you know and quietly work around. A clear guidance you argue with because it is inconvenient. {idea}The question is not about them. It is where you stand against what you know is right.{/idea}",
+    "old": "Verses like this are about other people.",
+    "new": "Whoever means me too. Where am I quietly pushing against what I know?",
+    "try": "Name one clear guidance you keep resisting. Take one small step toward it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:14", "surah": 8, "ayah": 14, "place": "madinah",
+    "title": "This is what you chose. Taste it.",
+    "subtitle": "This world's loss, and what comes after",
+    "picture": {"kind": "boxes", "label": "Two stages", "row": [
+      {"box": "trap", "title": "defeat here", "sub": ["at Badr"]},
+      {"conn": "and after"},
+      {"box": "trap", "title": "the Fire", "sub": ["for those who rejected"]}]},
+    "key": {"label": "How to read a warning", "row": [
+      {"box": "trap", "title": "fear and despair", "sub": ["it's too late for me"], "strike": true},
+      {"box": "idea", "title": "a turning point", "sub": ["the door is open while I live"]}]},
+    "then": "This closes the scene: the defeat at Badr was something {trap}those who opposed the Messenger ﷺ were made to taste.{/trap} The verse adds that worse awaits in the next life for those who die rejecting. It is a sober statement of consequence, said while {idea}there was still time for others to turn.{/idea}",
+    "now": "You read a warning like this and either skip past it or feel crushed. Neither is the point. {idea}A warning is mercy given early.{/idea} Your door is open as long as you are breathing.",
+    "old": "Warnings in the Quran either don't apply to me or mean I'm doomed.",
+    "new": "A warning is given while there is still time. It is an invitation to turn.",
+    "try": "Ask Allah for forgiveness for one specific thing today, in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "4:41", "surah": 4, "ayah": 41, "place": "madinah",
+    "title": "The verse that brought tears to the Prophet's eyes.",
+    "subtitle": "A witness from every nation",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "every nation", "sub": ["its own witness"]},
+      {"conn": "and"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["witness over these people"]}]},
+    "key": {"label": "How he heard it", "row": [
+      {"box": "plain", "title": "Ibn Mas'ud recites", "sub": ["Surat An-Nisa"]},
+      {"conn": "reaches this verse"},
+      {"box": "idea", "title": "Stop now", "sub": ["his eyes full of tears"]}]},
+    "then": "The Prophet ﷺ once asked Ibn Mas'ud to recite to him, saying he loved to hear the Quran from others. Ibn Mas'ud recited this surah until he reached this verse. {idea}The Prophet ﷺ said: stop now.{/idea} Ibn Mas'ud looked and {reward}saw that his eyes were full of tears.{/reward}",
+    "now": "You read verses quickly, scrolling past to finish a page. {trap}They barely land.{/trap} Here is the Prophet ﷺ, who received this Quran, stopped by one line about the Day of witnesses. {idea}Let one verse stop you today.{/idea}",
+    "old": "Reading the Quran is about finishing pages.",
+    "new": "One verse truly heard can move the heart more than many pages rushed.",
+    "try": "Ask someone to recite a short passage to you, and just listen.",
+    "related": ["39:69", "16:89"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:42", "surah": 4, "ayah": 42, "place": "madinah",
+    "title": "Wishing the earth would swallow you, and hiding nothing.",
+    "subtitle": "When every word is known",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "trap", "title": "wish to vanish", "sub": ["covered by the earth"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "nothing hidden", "sub": ["not a single word"]}]},
+    "key": {"label": "What can be hidden", "row": [
+      {"box": "trap", "title": "from people", "sub": ["for a while"]},
+      {"conn": "never"},
+      {"box": "idea", "title": "from Allah", "sub": ["not one statement"]}]},
+    "then": "This verse continues the scene of witnesses. Those who denied and disobeyed the Messenger will {trap}wish the earth would be leveled over them{/trap}, out of the shame of that gathering. Yet {idea}they will not hide a single statement from Allah.{/idea} Ibn Kathir links it to the Day when a person sees what their hands sent ahead.",
+    "now": "The message you deleted. The search history you cleared. The thing you said that no one else heard. {trap}It feels hidden.{/trap} {idea}Before Allah, nothing is.{/idea} {reward}That is a reason to fix things now, while you still can.{/reward}",
+    "old": "If no one finds out, it is as if it never happened.",
+    "new": "Nothing I say or do is hidden from Allah, so I should mend it while I can.",
+    "try": "Think of one thing you are hiding that harms someone. Take one step to make it right.",
+    "related": ["78:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:43", "surah": 4, "ayah": 43, "place": "madinah",
+    "title": "Come to prayer knowing what you are saying.",
+    "subtitle": "A present mind, and an easy way when water is missing",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "a dinner", "sub": ["before alcohol was banned"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "prayer led drunk", "sub": ["the words came out wrong"]}]},
+    "key": {"label": "What prayer needs", "row": [
+      {"box": "trap", "title": "just the motions", "sub": ["body there, mind elsewhere"], "strike": true},
+      {"box": "idea", "title": "know what you say", "sub": ["a present heart"]}]},
+    "then": "Before alcohol was fully banned, Ali described a meal where some drank, then {trap}the man leading prayer recited a surah wrongly, reversing its meaning.{/trap} This verse came: {idea}do not approach prayer until you know what you are saying.{/idea} It also gave an easier way when water cannot be found. Its rulings are for scholars to explain. It ends: {reward}Allah is Pardoning, Forgiving.{/reward}",
+    "now": "You start the prayer while your mind is still in the argument, the inbox, the game. {trap}You finish and cannot remember what you recited.{/trap} The Prophet ﷺ said if you grow sleepy in prayer, rest first, so you know what you are saying. {idea}Come with your mind, not only your body.{/idea}",
+    "old": "As long as I get through the prayer, it counts.",
+    "new": "Prayer is a conversation, so I should come knowing what I am saying.",
+    "try": "In your next prayer, choose one phrase and think about its meaning as you say it.",
+    "related": ["2:219", "5:90"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:44", "surah": 4, "ayah": 44, "place": "madinah",
+    "title": "Given guidance, and trading it for error.",
+    "subtitle": "When knowledge does not lead to following",
+    "picture": {"kind": "boxes", "label": "A bad trade", "row": [
+      {"box": "reward", "title": "a portion of the Book", "sub": ["knowledge given"]},
+      {"conn": "traded for"},
+      {"box": "trap", "title": "error", "sub": ["and wanting others lost"]}]},
+    "key": {"label": "What knowledge is for", "row": [
+      {"box": "trap", "title": "knowing is enough", "sub": ["I have the information"], "strike": true},
+      {"box": "idea", "title": "following it", "sub": ["knowledge that guides"]}]},
+    "then": "In Madinah, the Prophet ﷺ faced opposition from some who already had scripture, as the surah introduction describes. The verse points to people {reward}given a portion of the Book{/reward} who {trap}bought error with it, and wanted the believers to lose the way too.{/trap}",
+    "now": "You know the verses about anger, about honesty, about prayer. You have watched the lectures. {trap}Yet knowing has not changed what you do.{/trap} {idea}Knowledge given is a trust. Do not trade it away.{/idea}",
+    "old": "Knowing a lot about religion means I am on the right path.",
+    "new": "Knowledge only guides me if I follow it instead of trading it for what I want.",
+    "try": "Take one thing you already know you should do, and do it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:45", "surah": 4, "ayah": 45, "place": "madinah",
+    "title": "Allah is enough as your Protector and Helper.",
+    "subtitle": "When people work against you",
+    "picture": {"kind": "boxes", "label": "When you feel surrounded", "row": [
+      {"box": "trap", "title": "those against you", "sub": ["known or unknown"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "Allah knows them", "sub": ["better than you"]},
+      {"conn": "and is"},
+      {"box": "reward", "title": "enough", "sub": ["Protector, Helper"]}]},
+    "key": {"label": "Where safety lies", "row": [
+      {"box": "trap", "title": "I must handle it alone", "sub": ["anxious, scheming back"], "strike": true},
+      {"box": "reward", "title": "Allah is sufficient", "sub": ["for those who seek Him"]}]},
+    "then": "The young community in Madinah faced pressure from many sides. After warning about those who wanted them to lose the way, the verse reassures them: {idea}Allah knows your enemies best.{/idea} Ibn Kathir explains He is {reward}a sufficient Protector for those who seek refuge with Him, and a sufficient Helper for those who ask His help.{/reward}",
+    "now": "The colleague undermining you in meetings. The relative spreading stories. You lie awake planning how to defend yourself. {trap}It feels like it all depends on you.{/trap} {reward}Allah sees what they do better than you, and He is enough.{/reward}",
+    "old": "I have to watch every move my opponents make, or I will lose.",
+    "new": "Allah knows who is against me, and He is enough as my Protector and Helper.",
+    "try": "Tonight, hand one worry about a person over to Allah in dua, and then sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:46", "surah": 4, "ayah": 46, "place": "madinah",
+    "title": "We hear and we obey would have been better.",
+    "subtitle": "Twisting words versus sincere listening",
+    "picture": {"kind": "boxes", "label": "Twisted words", "row": [
+      {"box": "trap", "title": "we hear and disobey", "sub": ["listening without intent"]},
+      {"box": "trap", "title": "a twist of the tongue", "sub": ["mockery dressed as respect"]}]},
+    "key": {"label": "What would have been better", "row": [
+      {"box": "trap", "title": "we hear and disobey", "sub": ["clever, mocking"], "strike": true},
+      {"box": "idea", "title": "we hear and obey", "sub": ["help us understand"]}]},
+    "then": "The verse describes some in Madinah who {trap}twisted words from their meaning{/trap}, and spoke to the Prophet ﷺ with phrases that sounded polite but carried mockery. It then shows a better way: {idea}we hear and we obey, and help us understand.{/idea} That, it says, {reward}would have been better and more upright.{/reward}",
+    "now": "Someone gives you advice and you say, sure, fine, with a tone that says the opposite. You quote a verse with a twist to win an argument. {trap}It is easy to listen only to reply.{/trap} {idea}Try saying: I hear you, help me understand.{/idea}",
+    "old": "I can listen politely and still do what I want.",
+    "new": "Sincere listening sounds like: we hear, we obey, and help us understand.",
+    "try": "In your next disagreement, say: help me understand what you mean. Then listen.",
+    "related": ["2:104", "2:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:47", "surah": 4, "ayah": 47, "place": "madinah",
+    "title": "Believe what confirms what you already have.",
+    "subtitle": "A call that moved Ka'b to believe",
+    "picture": {"kind": "boxes", "label": "The call", "row": [
+      {"box": "people", "title": "people of the Book", "sub": ["scripture in hand"]},
+      {"conn": "called to"},
+      {"box": "idea", "title": "what was sent down", "sub": ["confirming what they have"]}]},
+    "key": {"label": "How Ka'b answered", "row": [
+      {"box": "people", "title": "not yet", "sub": ["he told Umar"]},
+      {"conn": "then heard"},
+      {"box": "reward", "title": "I believe, my Lord", "sub": ["before it was too late"]}]},
+    "then": "The verse calls those given scripture to believe in the Quran, which {idea}confirms what is already with them{/idea}, and warns of what may come if they turn away. Ka'b al-Ahbar had told Umar he was not ready. Later, in Hims, he heard someone recite this verse and said: {reward}I believe, my Lord. I accept Islam, my Lord.{/reward}",
+    "now": "You keep saying \"later\" to something you know is true. Later I will pray properly. Later I will make that change. {trap}Later can quietly become never.{/trap} {idea}Like Ka'b, when the verse reaches you, answer it.{/idea}",
+    "old": "I will act on what I know when I am ready.",
+    "new": "When the truth reaches me, the time to answer is now.",
+    "try": "Name one thing you keep postponing for \"later\" and do the first part of it today.",
+    "related": ["62:5", "36:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:48", "surah": 4, "ayah": 48, "place": "madinah",
+    "title": "Everything else He may forgive. Guard the one thing.",
+    "subtitle": "The vastness of forgiveness, and its one wall",
+    "picture": {"kind": "boxes", "label": "The scale of forgiveness", "row": [
+      {"box": "trap", "title": "partners with Allah", "sub": ["the one thing not forgiven"]},
+      {"conn": "while"},
+      {"box": "reward", "title": "all else", "sub": ["forgiven for whom He wills"]}]},
+    "key": {"label": "What Allah says in the hadith", "row": [
+      {"box": "trap", "title": "an earth full of sins", "sub": ["but no partners"]},
+      {"conn": "met with"},
+      {"box": "reward", "title": "an earth of forgiveness", "sub": ["its full measure"]}]},
+    "then": "Ibn Mas'ud counted this among the five verses of this surah he loved most. Ibn Umar said they used to hold back from asking forgiveness for those with major sins {reward}until they heard this verse.{/reward} The Prophet ﷺ reported Allah saying: if you meet Me with {reward}an earth full of sins, without associating anything with Me, I will meet you with an earth full of forgiveness.{/reward}",
+    "now": "You feel your sins are too many, too big, too repeated. {trap}You start to think your case is closed.{/trap} The verse shows the door is wider than your fear. {idea}Hold on to Allah alone, and keep asking.{/idea}",
+    "old": "My sins are too many for Allah to forgive.",
+    "new": "Allah's forgiveness is vast for those who keep their worship for Him alone.",
+    "try": "Say la ilaha illa Allah slowly, meaning it, and then ask Allah to forgive you.",
+    "related": ["31:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:49", "surah": 4, "ayah": 49, "place": "madinah",
+    "title": "You cannot declare yourself pure. Allah purifies.",
+    "subtitle": "Self-praise versus Allah's judgment",
+    "picture": {"kind": "boxes", "label": "Who decides", "row": [
+      {"box": "trap", "title": "we are the good ones", "sub": ["self-declared purity"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah purifies", "sub": ["whom He wills"]}]},
+    "key": {"label": "What is not lost", "row": [
+      {"box": "plain", "title": "a thread in a date stone", "sub": ["the tiniest fiber"], "num": false},
+      {"conn": "not even that"},
+      {"box": "reward", "title": "wronged", "sub": ["every deed counted"]}]},
+    "then": "Al-Hasan and Qatadah said this verse was about people who claimed {trap}they were Allah's children and His beloved{/trap}, sure of their own goodness. The verse answers: {idea}Allah purifies whom He wills{/idea}, since He knows the true reality of things. And no one is wronged even by {reward}the thread in a date stone.{/reward}",
+    "now": "You compare your prayers to someone else's and feel safe. You call your group, your mosque, your family the good ones. {trap}Self-praise feels like security.{/trap} {idea}Only Allah knows who is truly pure.{/idea}",
+    "old": "I am clearly one of the good people.",
+    "new": "Only Allah can declare who is pure, so I keep working instead of praising myself.",
+    "try": "Catch yourself the next time you compare yourself favorably to someone. Make a dua for them instead.",
+    "related": ["5:18", "2:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:50", "surah": 4, "ayah": 50, "place": "madinah",
+    "title": "Look how they put their own claims in Allah's mouth.",
+    "subtitle": "Inventing a lie about Allah",
+    "picture": {"kind": "boxes", "label": "The lie", "row": [
+      {"box": "trap", "title": "self-praise", "sub": ["we are safe, we are loved"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "a lie about Allah", "sub": ["a manifest sin"]}]},
+    "key": {"label": "What saves a person", "row": [
+      {"box": "trap", "title": "our forefathers' deeds", "sub": ["we are covered"], "strike": true},
+      {"box": "idea", "title": "your own deeds", "sub": ["each earns their own"]}]},
+    "then": "This continues the verse before. Claiming purity for yourself and saying {trap}the Fire will barely touch us{/trap} is, in effect, inventing a lie about Allah. Ibn Kathir notes they relied on the good deeds of their forefathers, yet {idea}the deeds of fathers do not save the children.{/idea} Each earns their own.",
+    "now": "Your grandfather was a scholar. Your family has always been religious. You assume Allah is pleased with you because of who you come from. {trap}It is a comfortable story.{/trap} {idea}Allah will look at what you did.{/idea}",
+    "old": "Coming from a good family means I am on the safe side.",
+    "new": "My family's goodness does not carry me. My own deeds do.",
+    "try": "Do one good deed today that is only yours, not your family's habit.",
+    "related": ["2:111", "3:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

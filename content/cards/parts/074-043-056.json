@@ -1,0 +1,276 @@
+[
+  {
+    "id": "74:43", "surah": 74, "ayah": 43, "place": "makkah",
+    "title": "We were not among those who prayed.",
+    "subtitle": "The first answer is about prayer",
+    "picture": {"kind": "boxes", "label": "Their answer, part one", "row": [
+      {"box": "people", "title": "What led you here?", "sub": ["the question"]},
+      {"conn": "first reply"},
+      {"box": "trap", "title": "we did not pray", "sub": ["no worship of Allah"]}]},
+    "key": {"label": "What prayer is", "row": [
+      {"box": "trap", "title": "an optional extra", "sub": ["when I have time"], "strike": true},
+      {"box": "idea", "title": "the first thing named", "sub": ["the line between paths"]}]},
+    "then": "Asked what brought them into Saqar, the very first thing they name is prayer. Ibn Kathir summarises it as {trap}we did not worship Allah{/trap}. Before any other failure, this one comes first.",
+    "now": "Asr slips by during a meeting. Maghrib is lost in traffic. Isha waits until you are too tired. {idea}Of everything they could have said first, they said prayer.{/idea} It is the daily thread that holds the rest together.",
+    "old": "Missing a prayer here and there is not a big deal.",
+    "new": "Prayer is the first thing named on that Day, so I guard it first now.",
+    "try": "Set an alarm for the next prayer today and pray it as soon as it goes off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:44", "surah": 74, "ayah": 44, "place": "makkah",
+    "title": "And we did not feed the poor.",
+    "subtitle": "Faith that never reached a hungry person",
+    "picture": {"kind": "boxes", "label": "Their answer, part two", "row": [
+      {"box": "trap", "title": "no prayer", "sub": ["to Allah"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "no feeding", "sub": ["the needy"]}]},
+    "key": {"label": "Two sides of one faith", "row": [
+      {"box": "idea", "title": "worship Allah", "sub": ["prayer"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "do good to people", "sub": ["feed the poor"]}]},
+    "then": "Ibn Kathir explains the two answers together: {trap}we did not worship Allah, nor did we do good to His creatures{/trap}. Prayer and feeding the poor stand side by side, one toward Allah, one toward people.",
+    "now": "You pass the same man outside the station every morning. The food bank box at the supermarket is half empty. {idea}Feeding someone is named right after prayer.{/idea} A sandwich can be part of your faith.",
+    "old": "My faith is between me and Allah; other people's hunger is not my concern.",
+    "new": "Feeding the hungry stands right beside prayer in how I will be asked.",
+    "try": "Buy or share one meal today with someone who needs it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:45", "surah": 74, "ayah": 45, "place": "makkah",
+    "title": "We waded into empty talk with the talkers.",
+    "subtitle": "Going astray because everyone else did",
+    "picture": {"kind": "boxes", "label": "Their answer, part three", "row": [
+      {"box": "people", "title": "the crowd", "sub": ["talking without knowledge"]},
+      {"conn": "joined by"},
+      {"box": "trap", "title": "us", "sub": ["went along each time"]}]},
+    "key": {"label": "Why they joined", "row": [
+      {"box": "trap", "title": "it is harmless", "sub": ["just chatting"], "strike": true},
+      {"box": "trap", "title": "following the crowd", "sub": ["astray with them"]}]},
+    "then": "Ibn Kathir says it means {trap}we used to speak about what we had no knowledge of{/trap}. Qatadah said: {trap}every time someone went astray, we went astray with them{/trap}.",
+    "now": "The group chat is tearing into someone. A thread is mocking religion. You did not start it, but you add a laugh, a hot take, a share. {idea}Wading in is a choice, even when the water was already there.{/idea}",
+    "old": "I only joined a conversation that was already happening.",
+    "new": "Going along with empty or false talk is my own deed, not just theirs.",
+    "try": "Next time a conversation turns to gossip or mockery today, change the subject or leave.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:46", "surah": 74, "ayah": 46, "place": "makkah",
+    "title": "And we called the Day of Recompense a lie.",
+    "subtitle": "The root under every other failure",
+    "picture": {"kind": "boxes", "label": "Their answer, part four", "row": [
+      {"box": "trap", "title": "no prayer", "sub": []},
+      {"box": "trap", "title": "no feeding", "sub": []},
+      {"box": "trap", "title": "empty talk", "sub": []},
+      {"conn": "rooted in"},
+      {"box": "trap", "title": "denying the Day", "sub": ["no reckoning, they said"]}]},
+    "key": {"label": "Why the rest happened", "row": [
+      {"box": "trap", "title": "separate slips", "sub": ["unrelated"], "strike": true},
+      {"box": "idea", "title": "one root", "sub": ["not believing in the Day"]}]},
+    "then": "Their list ends with the root: {trap}we used to deny the Day of Recompense{/trap}. If there is no reckoning, prayer, feeding the poor and careful speech all feel optional.",
+    "now": "When you truly believe the bill is coming, you budget. When you do not, you spend. {idea}Belief in the Day is what makes the small good habits make sense.{/idea}",
+    "old": "I believe in the Day of Judgement, even if I rarely think about it.",
+    "new": "Belief in the Day shows up in how I pray, give and speak this week.",
+    "try": "Spend two minutes tonight imagining your own reckoning, then do one good deed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:47", "surah": 74, "ayah": 47, "place": "makkah",
+    "title": "Until the certainty came to us.",
+    "subtitle": "Death ends the time for choosing",
+    "picture": {"kind": "boxes", "label": "When it stopped", "row": [
+      {"box": "trap", "title": "denying", "sub": ["year after year"]},
+      {"conn": "until"},
+      {"box": "idea", "title": "Al-Yaqin", "sub": ["death"]}]},
+    "key": {"label": "What certainty is", "row": [
+      {"box": "trap", "title": "far off", "sub": ["I have time"], "strike": true},
+      {"box": "idea", "title": "death", "sub": ["it comes to everyone"]}]},
+    "then": "Ibn Kathir says the certainty here is {idea}death{/idea}, as in the verse: worship your Lord until the certainty comes to you. The same word appears in both: one person worships until death, another denies until death.",
+    "now": "The phone call from the hospital at an ordinary hour. A colleague who was there last Friday and not this one. {idea}The certainty does not book an appointment.{/idea} Until it comes, you can still change your answer.",
+    "old": "I will sort out my faith properly once I am older.",
+    "new": "Death is the one certainty, so the time to choose is before it.",
+    "try": "Make one sincere tawbah today, as if this were your last ordinary day.",
+    "related": ["15:99"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:48", "surah": 74, "ayah": 48, "place": "makkah",
+    "title": "No intercessor's plea will help them.",
+    "subtitle": "Intercession has conditions",
+    "picture": {"kind": "boxes", "label": "What they hoped", "row": [
+      {"box": "people", "title": "intercessors", "sub": ["pleading for them"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "no benefit", "sub": ["conditions not met"]}]},
+    "key": {"label": "What intercession needs", "row": [
+      {"box": "trap", "title": "someone vouching", "sub": ["whatever I did"], "strike": true},
+      {"box": "idea", "title": "its conditions", "sub": ["coming as a believer"]}]},
+    "then": "Ibn Kathir explains that {idea}intercession is only useful if its conditions are met{/idea}. For those with these traits, who come before Allah as disbelievers, the plea of any intercessor {trap}will be of no benefit{/trap}.",
+    "now": "You picture someone vouching for you: a righteous parent, a scholar you love. {idea}Hope in intercession is real, but it is not a replacement for showing up.{/idea} Bring belief and prayer with you.",
+    "old": "Someone good will speak up for me, whatever I do.",
+    "new": "Intercession helps those who came as believers, so I build on belief myself.",
+    "try": "Send blessings on the Prophet ﷺ ten times today and ask Allah to accept you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:49", "surah": 74, "ayah": 49, "place": "makkah",
+    "title": "So what is wrong with them, turning from the reminder?",
+    "subtitle": "The puzzle of refusing good advice",
+    "picture": {"kind": "boxes", "label": "What is in front of them", "row": [
+      {"box": "idea", "title": "the reminder", "sub": ["the warning, the answers"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "turning away", "sub": ["no listening"]}]},
+    "key": {"label": "What the question does", "row": [
+      {"box": "trap", "title": "condemn them", "sub": ["and move on"], "strike": true},
+      {"box": "idea", "title": "make me check", "sub": ["am I turning away?"]}]},
+    "then": "After hearing the conversation from that Day, the Quran turns back to the listeners in Makkah. Ibn Kathir paraphrases: {trap}what is wrong with these people who turn away{/trap} from what you are calling them to? They had just been told the answers.",
+    "now": "The reminder notification pops up: time to read. You swipe it away. Again. {idea}The question is asked to you too: what is wrong, that you keep turning?{/idea} Asked gently, it can open something.",
+    "old": "I am not turning away from Allah, I am just busy.",
+    "new": "Swiping away reminders again and again is a kind of turning away I can notice.",
+    "try": "The next reminder you get today, a notification or a friend's word, act on it immediately.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:50", "surah": 74, "ayah": 50, "place": "makkah",
+    "title": "Like startled wild donkeys.",
+    "subtitle": "Panic in the wrong direction",
+    "picture": {"kind": "boxes", "label": "The image", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["hearing the reminder"]},
+      {"conn": "like"},
+      {"box": "trap", "title": "startled donkeys", "sub": ["bolting"]}]},
+    "key": {"label": "What they ran from", "row": [
+      {"box": "trap", "title": "a danger", "sub": ["running is wise"], "strike": true},
+      {"box": "idea", "title": "the truth", "sub": ["running is the danger"]}]},
+    "then": "Ibn Kathir describes them {trap}fleeing from the truth and turning away from it{/trap}, like wild donkeys bolting. The Arabs knew this sight well: a herd scattering in blind panic across open land.",
+    "now": "A friend starts to talk about salah and you suddenly have to go. A khutbah gets serious and you check your phone. {trap}The bolt is quick and almost automatic.{/trap} Notice it, and sit still a moment longer.",
+    "old": "Avoiding uncomfortable reminders keeps me calm.",
+    "new": "Bolting from the truth is panic in the wrong direction.",
+    "try": "The next time a reminder makes you want to leave, stay for one more minute and listen.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:51", "surah": 74, "ayah": 51, "place": "makkah",
+    "title": "Fleeing from a lion.",
+    "subtitle": "They treat their cure as a predator",
+    "picture": {"kind": "boxes", "label": "The full image", "row": [
+      {"box": "trap", "title": "wild donkeys", "sub": ["running hard"]},
+      {"conn": "from"},
+      {"box": "plain", "title": "Qaswarah", "sub": ["a lion"]}]},
+    "key": {"label": "What they ran from", "row": [
+      {"box": "trap", "title": "a lion", "sub": ["out to harm them"], "strike": true},
+      {"box": "reward", "title": "a reminder", "sub": ["out to save them"]}]},
+    "then": "Abu Hurayrah and Ibn Abbas said Qaswarah is {trap}the lion{/trap}. Ibn Abbas noted it has a name in many languages. The image: people running from the reminder as if it were a lion hunting them, when it was {reward}the thing trying to save them{/reward}.",
+    "now": "Avoiding the doctor because you fear what they will say. Not opening the bank statement. {idea}Running from the thing that could help is a very human habit.{/idea} The Quran is not the lion.",
+    "old": "Facing the truth about myself feels like being hunted.",
+    "new": "The reminder is not a predator; it is the hand reaching out to help.",
+    "try": "Open one thing you have been avoiding today: a verse, a bill, a message.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:52", "surah": 74, "ayah": 52, "place": "makkah",
+    "title": "Each wants his own scripture, delivered to him personally.",
+    "subtitle": "Demanding special proof before believing",
+    "picture": {"kind": "boxes", "label": "Their demand", "row": [
+      {"box": "idea", "title": "revelation", "sub": ["sent to the Prophet ﷺ"]},
+      {"conn": "they say"},
+      {"box": "trap", "title": "send me my own", "sub": ["pages spread out"]}]},
+    "key": {"label": "What they wanted", "row": [
+      {"box": "trap", "title": "more proof", "sub": ["then I will believe"], "strike": true},
+      {"box": "trap", "title": "special treatment", "sub": ["innocence without deeds"]}]},
+    "then": "Mujahid and others said each wanted {trap}a book revealed to him{/trap} as it was to the Prophet ﷺ. Qatadah said they wanted to be declared innocent {trap}without having to do any deeds{/trap}. Allah knows best where to place His message.",
+    "now": "If Allah gave me a clear sign, I would change. If I had a dream, if a miracle happened. {trap}Waiting for a personal delivery{/trap} while the message is already in your hands.",
+    "old": "If I got a personal sign, I would finally take faith seriously.",
+    "new": "The message has already come to me; waiting for my own is a way to delay.",
+    "try": "Stop waiting for a sign today: read one page of the Quran as if it were addressed to you.",
+    "related": ["6:124"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:53", "surah": 74, "ayah": 53, "place": "makkah",
+    "title": "No. The truth is, they do not fear the Hereafter.",
+    "subtitle": "The real reason behind the excuses",
+    "picture": {"kind": "boxes", "label": "Behind the demand", "row": [
+      {"box": "trap", "title": "give us scripture", "sub": ["the stated reason"]},
+      {"conn": "Kalla, really"},
+      {"box": "trap", "title": "no fear of the Hereafter", "sub": ["the real reason"]}]},
+    "key": {"label": "What corrupted them", "row": [
+      {"box": "trap", "title": "lack of proof", "sub": ["what they claimed"], "strike": true},
+      {"box": "idea", "title": "lack of faith in it", "sub": ["what Allah exposed"]}]},
+    "then": "Ibn Kathir explains that {trap}they were only corrupted by their lack of faith in it{/trap} and their rejection that it would happen. The demand for a personal scripture was a cover. The real issue was they did not fear the Hereafter.",
+    "now": "I will start praying properly once I understand it better. Once work calms down. Once I am married. {idea}Sometimes the reasons are real. Sometimes they are covering a quieter truth: I am not worried enough about the Hereafter.{/idea}",
+    "old": "My reasons for delaying are practical, nothing more.",
+    "new": "Under my excuses, I can ask honestly how much I fear the Hereafter.",
+    "try": "Write down your main excuse for one delayed good deed, and ask if it is the real reason.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:54", "surah": 74, "ayah": 54, "place": "makkah",
+    "title": "No. This Quran is a reminder.",
+    "subtitle": "Not magic, not a man's words",
+    "picture": {"kind": "boxes", "label": "What they called it, what it is", "row": [
+      {"box": "trap", "title": "old magic", "sub": ["verse 24"], "strike": true},
+      {"box": "trap", "title": "a man's words", "sub": ["verse 25"], "strike": true},
+      {"conn": "No"},
+      {"box": "idea", "title": "a reminder", "sub": ["tadhkirah"]}]},
+    "key": {"label": "What the Quran is for", "row": [
+      {"box": "trap", "title": "to argue about", "sub": ["label it, dismiss it"], "strike": true},
+      {"box": "idea", "title": "to remember by", "sub": ["it reminds"]}]},
+    "then": "Al-Walid had called the Quran magic and the words of a man. The surah closes with Allah's own answer: {idea}truly the Quran is a reminder{/idea}. Ibn Kathir notes it simply. A reminder brings back what the heart already knows.",
+    "now": "A sticky note on the fridge. A calendar alert for your mother's birthday. {idea}A reminder does not teach you something new. It brings back what matters before you forget.{/idea} That is what the Quran does each time you open it.",
+    "old": "The Quran is a book I need to study before it can affect me.",
+    "new": "The Quran is a reminder, and even a little of it brings my heart back.",
+    "try": "Put one short verse somewhere you will see it every day this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:55", "surah": 74, "ayah": 55, "place": "makkah",
+    "title": "So whoever wills will remember it.",
+    "subtitle": "The reminder waits for you to want it",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "idea", "title": "the reminder", "sub": ["the Quran"]},
+      {"conn": "for"},
+      {"box": "people", "title": "whoever wills", "sub": ["any one of us"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "remember", "sub": ["take it to heart"]}]},
+    "key": {"label": "What it needs from you", "row": [
+      {"box": "trap", "title": "nothing", "sub": ["it works automatically"], "strike": true},
+      {"box": "idea", "title": "your will", "sub": ["wanting to remember"]}]},
+    "then": "Ibn Kathir reads it plainly: {idea}whosoever wills receives admonition from it{/idea}. The same open door as verse 37, to go forward or stay behind. The reminder is offered to everyone.",
+    "now": "The Quran sits on the shelf or in the app. It does not jump into your hands. {idea}It waits for you to want it.{/idea} Wanting it, even a little, is where remembering begins.",
+    "old": "If I were meant to be reminded, it would just happen to me.",
+    "new": "The reminder is there; my wanting it is the part I bring.",
+    "try": "Tell Allah honestly today: I want to remember You. Help me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "74:56", "surah": 74, "ayah": 56, "place": "makkah",
+    "title": "He is worthy of fear, and the One who forgives.",
+    "subtitle": "The surah ends on forgiveness",
+    "picture": {"kind": "boxes", "label": "How the surah closes", "row": [
+      {"box": "people", "title": "your will", "sub": ["only if Allah wills"]},
+      {"conn": "turned to"},
+      {"box": "idea", "title": "worthy of fear", "sub": ["ahl at-taqwa"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "ready to forgive", "sub": ["ahl al-maghfirah"]}]},
+    "key": {"label": "Fear and hope together", "row": [
+      {"box": "trap", "title": "only fear", "sub": ["no way back"], "strike": true},
+      {"box": "reward", "title": "fear and forgiveness", "sub": ["He forgives who repents"]}]},
+    "then": "No one remembers unless Allah wills, like the verse: you cannot will unless Allah wills. Then the last words. Qatadah said He {idea}deserves to be feared{/idea} and He is {reward}the One who forgives whoever turns to Him and repents{/reward}. A surah full of warning ends here.",
+    "now": "You have read about the Trumpet, Saqar, the people of the right, the excuses. Maybe you saw yourself in a few lines. {reward}The very last word is forgiveness.{/reward} Fear is meant to bring you to the door, not to stop you at it.",
+    "old": "After all these warnings, I am too far gone to be forgiven.",
+    "new": "He is worthy of fear and ready to forgive, so I turn to Him now.",
+    "try": "Say Astaghfirullah slowly a hundred times today, spread across the day.",
+    "related": ["81:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

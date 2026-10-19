@@ -1,0 +1,288 @@
+[
+  {
+    "id": "12:82", "surah": 12, "ayah": 82, "place": "makkah",
+    "title": "Ask the town and the caravan, we are telling the truth.",
+    "subtitle": "When your word alone is not enough",
+    "picture": {"kind": "boxes", "label": "Their witnesses", "row": [
+      {"box": "people", "title": "the town", "sub": ["where it happened"]},
+      {"box": "people", "title": "the caravan", "sub": ["who travelled with us"]},
+      {"conn": "will confirm"},
+      {"box": "idea", "title": "we are truthful", "sub": ["this time"]}]},
+    "key": {"label": "Why they needed witnesses", "row": [
+      {"box": "people", "title": "our word is enough", "sub": ["just believe us"], "strike": true},
+      {"box": "trap", "title": "old lies", "sub": ["made their word weak"]}]},
+    "then": "The eldest told them to say: {idea}ask the town where we were and the caravan we came with.{/idea} Ibn Kathir says they wanted these to confirm their truthfulness and sincere guarding. {trap}After the lie about Yusuf, their own word was no longer enough.{/trap}",
+    "now": "You tell the truth, and still your parents want to call your friend to check. It stings. {trap}Past lies make honest words need backup.{/trap} {idea}Trust lost takes witnesses to rebuild.{/idea}",
+    "old": "If I am telling the truth now, people should simply believe me.",
+    "new": "When I have broken trust before, I may need to show the truth, not just say it.",
+    "try": "If someone doubts you because of your past, offer them a way to check, without resentment.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:83", "surah": 12, "ayah": 83, "place": "makkah",
+    "title": "Beautiful patience, and maybe Allah will bring them all back.",
+    "subtitle": "Ya'qub's second loss, and a bigger hope",
+    "picture": {"kind": "boxes", "label": "Ya'qub's response", "row": [
+      {"box": "trap", "title": "your selves enticed you", "sub": ["same words as before"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "beautiful patience", "sub": ["no complaint to people"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "all of them", "sub": ["Yusuf, Binyamin, the eldest"]}]},
+    "key": {"label": "What he asked for", "row": [
+      {"box": "people", "title": "just one back", "sub": ["the newest loss"]},
+      {"conn": "instead"},
+      {"box": "reward", "title": "all together", "sub": ["even the one lost years ago"]}]},
+    "then": "Ya'qub repeated {trap}the same words he said over Yusuf's bloodied shirt{/trap}: your selves have enticed you, so patience is fitting. Then he asked Allah to {reward}bring back all three{/reward}: Yusuf, Binyamin and the eldest who stayed in Egypt. He is the All-Knowing in my distress, the All-Wise.",
+    "now": "A second miscarriage. Another job loss. A fresh diagnosis on top of an old grief. {idea}Ya'qub's hope did not shrink after the second blow. It grew.{/idea} He asked for everything back.",
+    "old": "After this second blow, I should stop hoping.",
+    "new": "The deeper the loss, the bigger my hope in Allah can be.",
+    "try": "In your dua today, ask Allah for something you had stopped asking for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:84", "surah": 12, "ayah": 84, "place": "makkah",
+    "title": "Oh, my sorrow for Yusuf, and his eyes turned white.",
+    "subtitle": "A new grief opened the old one",
+    "picture": {"kind": "boxes", "label": "Ya'qub's grief", "row": [
+      {"box": "trap", "title": "new loss", "sub": ["Binyamin taken"]},
+      {"conn": "reopens"},
+      {"box": "trap", "title": "old loss", "sub": ["Yusuf, years ago"]},
+      {"conn": "held in"},
+      {"box": "people", "title": "suppressed", "sub": ["no complaint to people"]}]},
+    "key": {"label": "Patience and tears", "row": [
+      {"box": "trap", "title": "patience means no tears", "sub": ["be strong, do not cry"], "strike": true},
+      {"box": "idea", "title": "tears and patience", "sub": ["both in a prophet"]}]},
+    "then": "Ya'qub turned away from his sons and said: {trap}oh, my sorrow for Yusuf.{/trap} Ibn Kathir says the new grief renewed the old one. His eyes went white from crying. Qatadah said he {idea}held in his sorrow and did not complain to any created being{/idea}.",
+    "now": "Years after your father died, a song in the supermarket and you are in tears again. You feel weak. {idea}A prophet wept until his eyes went white, and he was still patient.{/idea} Grief is not a failure of faith.",
+    "old": "If I still cry about it, my faith must be weak.",
+    "new": "Tears and patience can live in the same heart, even a prophet's.",
+    "try": "Let yourself feel one grief today, then tell it to Allah in a few honest words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:85", "surah": 12, "ayah": 85, "place": "makkah",
+    "title": "You will grieve yourself to death, his sons said.",
+    "subtitle": "Worry from people who do not understand",
+    "picture": {"kind": "boxes", "label": "The sons' fear", "row": [
+      {"box": "people", "title": "the sons", "sub": ["pity and worry"]},
+      {"conn": "say"},
+      {"box": "trap", "title": "stop remembering", "sub": ["or it will finish you"]}]},
+    "key": {"label": "What they missed", "row": [
+      {"box": "people", "title": "let him go", "sub": ["forget Yusuf"], "strike": true},
+      {"box": "idea", "title": "his hope", "sub": ["still alive in the grief"]}]},
+    "then": "Ibn Kathir says the sons {idea}felt pity for him{/idea} and spoke out of sorrow: by Allah, you will not stop remembering Yusuf until {trap}your strength leaves you or you die.{/trap} They feared he would die of grief.",
+    "now": "Your friends say: it has been a year, you need to move on. Your family worries you are stuck. {idea}They mean well.{/idea} But remembering someone you love with hope is not the same as being lost.",
+    "old": "If I keep remembering them, I am not healing.",
+    "new": "Others may worry about my grief, but remembering with hope is not giving up.",
+    "try": "Thank one person who worries about you, and share one thing that gives you hope.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:86", "surah": 12, "ayah": 86, "place": "makkah",
+    "title": "I only complain of my grief to Allah.",
+    "subtitle": "Where Ya'qub took his pain",
+    "picture": {"kind": "boxes", "label": "His answer", "row": [
+      {"box": "trap", "title": "my grief", "sub": ["deep and old"]},
+      {"conn": "taken to"},
+      {"box": "idea", "title": "Allah alone", "sub": ["not to people"]},
+      {"box": "reward", "title": "I know from Him", "sub": ["what you do not"]}]},
+    "key": {"label": "Where complaint goes", "row": [
+      {"box": "people", "title": "to everyone", "sub": ["the group chat, the feed"], "strike": true},
+      {"box": "idea", "title": "to Allah", "sub": ["the One who can fix it"]}]},
+    "then": "Ya'qub answered his sons: {idea}I only complain of my grief and sorrow to Allah{/idea}, and I know from Allah what you do not. Ibn Kathir says he meant: {reward}I expect every kind of good from Allah.{/reward} Ibn 'Abbas said he knew Yusuf's dream was true and would come to pass.",
+    "now": "The long post about your pain. The fifth friend you have told this week. The vent that leaves you emptier. {idea}Ya'qub took his deepest grief to the only One who could answer it.{/idea}",
+    "old": "Telling more people will make the pain lighter.",
+    "new": "Complaining to Allah is not weakness, it is taking the pain to the right address.",
+    "try": "Tonight, tell Allah about your heaviest worry in your own words, before telling anyone else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:87", "surah": 12, "ayah": 87, "place": "makkah",
+    "title": "Never despair of Allah's mercy.",
+    "subtitle": "A grieving father sends his sons out to search",
+    "picture": {"kind": "boxes", "label": "Ya'qub's order", "row": [
+      {"box": "people", "title": "go", "sub": ["search for Yusuf and his brother"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "do not despair", "sub": ["of Allah's relief"]},
+      {"conn": "only"},
+      {"box": "trap", "title": "the disbelieving", "sub": ["give up on Him"]}]},
+    "key": {"label": "Hope in action", "row": [
+      {"box": "people", "title": "wait and cry", "sub": ["nothing can be done"], "strike": true},
+      {"box": "idea", "title": "go and search", "sub": ["and keep hoping"]}]},
+    "then": "Ibn Kathir says Ya'qub sent his sons back to {idea}ask about Yusuf and his brother, in a good manner{/idea}. He gave them good news and told them never to give up hope in Allah or stop trusting Him. {trap}Only the disbelieving despair of Allah's mercy.{/trap}",
+    "now": "The fifteenth rejection email. The test result that did not change. The prayer that seems unanswered for years. {idea}Keep searching. Keep sending the application. Keep praying.{/idea} Despair is the one thing you cannot afford.",
+    "old": "After this long, it is realistic to give up.",
+    "new": "Giving up on Allah's mercy is never realistic; I keep acting and hoping.",
+    "try": "Take one small step today toward something you had stopped hoping for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:88", "surah": 12, "ayah": 88, "place": "makkah",
+    "title": "Hardship has touched us, so be charitable to us.",
+    "subtitle": "The brothers return, humbled",
+    "picture": {"kind": "boxes", "label": "Their plea", "row": [
+      {"box": "trap", "title": "hardship", "sub": ["us and our family"]},
+      {"box": "people", "title": "poor goods", "sub": ["not much to trade"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "full measure", "sub": ["and charity"]}]},
+    "key": {"label": "How they stood now", "row": [
+      {"box": "trap", "title": "proud brothers", "sub": ["we are a strong group"]},
+      {"conn": "now"},
+      {"box": "idea", "title": "humble askers", "sub": ["be charitable to us"]}]},
+    "then": "Back in Egypt, the brothers told Yusuf: {trap}hardship has struck us and our family{/trap}, and we have brought little of value. Give us full measure and {reward}be charitable to us{/reward}. Allah rewards the charitable. Ibn Jurayj said they meant: be kind by returning our brother.",
+    "now": "You walk into the bank, the council office, your estranged sibling's house, needing help. Your pride hurts. {idea}Asking humbly is not a defeat.{/idea} It can be the first step toward healing.",
+    "old": "Asking for help means I have lost.",
+    "new": "Coming humbly, with what little I have, can open doors pride kept shut.",
+    "try": "Ask one person for help you need today, plainly and without excuses.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:89", "surah": 12, "ayah": 89, "place": "makkah",
+    "title": "Do you know what you did to Yusuf?",
+    "subtitle": "The moment Yusuf begins to reveal himself",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "Yusuf", "sub": ["moved to tears"]},
+      {"conn": "asks"},
+      {"box": "trap", "title": "what you did", "sub": ["to Yusuf and his brother"]},
+      {"box": "people", "title": "when ignorant", "sub": ["not knowing the sin"]}]},
+    "key": {"label": "How he framed it", "row": [
+      {"box": "trap", "title": "you were evil", "sub": ["a charge"], "strike": true},
+      {"box": "idea", "title": "you were ignorant", "sub": ["an opening to repent"]}]},
+    "then": "Hearing their hardship and remembering his father's grief, Yusuf felt {idea}compassion and pity{/idea} and wept. Ibn Kathir says he then asked: do you know what you did to Yusuf and his brother, {trap}when you were ignorant{/trap}? When hardship grew hardest, relief came, as Allah says: with hardship comes ease.",
+    "now": "The moment you finally confront the person who hurt you. You could list every crime. {idea}Or you could say: you did not know what you were doing then.{/idea} The first leaves them defensive. The second leaves room to come back.",
+    "old": "When I finally confront them, I will make them feel every bit of it.",
+    "new": "I can name the wrong while leaving the door open for them to return.",
+    "try": "If you need to raise an old hurt, write the first sentence so it invites, not attacks.",
+    "related": ["94:5", "94:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:90", "surah": 12, "ayah": 90, "place": "makkah",
+    "title": "I am Yusuf, and this is my brother.",
+    "subtitle": "Taqwa and patience are never wasted",
+    "picture": {"kind": "boxes", "label": "The reveal", "row": [
+      {"box": "people", "title": "are you Yusuf?", "sub": ["in amazement"]},
+      {"conn": "yes"},
+      {"box": "reward", "title": "Allah was gracious", "sub": ["we are together"]},
+      {"box": "idea", "title": "taqwa and patience", "sub": ["never lost"]}]},
+    "key": {"label": "What he credited", "row": [
+      {"box": "people", "title": "my cleverness", "sub": ["I rose by myself"], "strike": true},
+      {"box": "idea", "title": "taqwa and patience", "sub": ["and Allah's favor"]}]},
+    "then": "The brothers asked {idea}in amazement: are you really Yusuf?{/idea} Ibn Kathir says they had met him for over two years without knowing. He said: I am Yusuf and this is my brother. {reward}Allah has been gracious to us{/reward}, bringing us together. Whoever fears Allah and is patient, Allah does not waste their reward.",
+    "now": "The moment you finally get the result after years: the visa, the recovery, the reconciliation. Someone asks: how did you do it? {idea}Yusuf's answer: fear Allah, be patient, and He does not waste it.{/idea}",
+    "old": "I got here because I was smart and worked hard.",
+    "new": "Taqwa and patience, by Allah's grace, are what got me through.",
+    "try": "When someone praises your success, tell them one hard moment where you had to be patient.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:91", "surah": 12, "ayah": 91, "place": "makkah",
+    "title": "Allah preferred you over us, and we were wrong.",
+    "subtitle": "The brothers finally admit it",
+    "picture": {"kind": "boxes", "label": "Their confession", "row": [
+      {"box": "people", "title": "By Allah", "sub": ["a full oath"]},
+      {"box": "reward", "title": "you were preferred", "sub": ["by Allah"]},
+      {"box": "trap", "title": "we were sinners", "sub": ["no excuse"]}]},
+    "key": {"label": "What changed", "row": [
+      {"box": "trap", "title": "jealousy", "sub": ["why does father love him more"]},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "acceptance", "sub": ["Allah chose, we were wrong"]}]},
+    "then": "The brothers said: {reward}by Allah, Allah has preferred you over us{/reward}, and we have been sinners. Ibn Kathir says they affirmed his virtue and, above all, his prophethood, and {idea}admitted their error against him{/idea}. The jealousy that began the story ended in an honest confession.",
+    "now": "The cousin who got the scholarship. The colleague promoted over you. You have quietly resented it for years. {idea}Say it, even just to yourself: Allah gave them this, and I was wrong to resent it.{/idea}",
+    "old": "Admitting they were preferred means admitting I am less.",
+    "new": "Accepting what Allah gave someone else, and owning my wrong, sets me free.",
+    "try": "Say one honest sentence of praise today about someone you have envied.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:92", "surah": 12, "ayah": 92, "place": "makkah",
+    "title": "No blame on you today; may Allah forgive you.",
+    "subtitle": "Forgiveness from the one who had the power to punish",
+    "picture": {"kind": "boxes", "label": "Yusuf's answer", "row": [
+      {"box": "idea", "title": "no blame", "sub": ["not today, not later"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "a dua for them", "sub": ["may Allah forgive you"]},
+      {"box": "idea", "title": "Most Merciful", "sub": ["of all who show mercy"]}]},
+    "key": {"label": "What he did with power", "row": [
+      {"box": "trap", "title": "settle the score", "sub": ["he had every right"], "strike": true},
+      {"box": "reward", "title": "forgive and pray", "sub": ["and never mention it again"]}]},
+    "then": "Yusuf had the throne, the grain and the power. He said: {idea}no blame on you today.{/idea} Ibn Kathir says he meant: I will not reproach you, and {reward}I will not remind you of it after today.{/reward} Then he went further and prayed for their forgiveness.",
+    "now": "The family member who finally apologizes for years of hurt. You have the moment to make them squirm. {idea}Or you can say: it is done, I will not bring it up again, may Allah forgive you.{/idea}",
+    "old": "Forgiving means I still get to remind them now and then.",
+    "new": "Real forgiveness closes the file and prays for the other person.",
+    "try": "Pick one old hurt and decide today you will not bring it up again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:93", "surah": 12, "ayah": 93, "place": "makkah",
+    "title": "Take my shirt to my father, and bring the whole family.",
+    "subtitle": "A shirt brought grief once, now it brings sight",
+    "picture": {"kind": "boxes", "label": "Two shirts", "row": [
+      {"box": "trap", "title": "the first shirt", "sub": ["false blood, false story"]},
+      {"conn": "now"},
+      {"box": "reward", "title": "this shirt", "sub": ["his sight will return"]},
+      {"conn": "and"},
+      {"box": "people", "title": "bring everyone", "sub": ["all your family"]}]},
+    "key": {"label": "What the shirt carries", "row": [
+      {"box": "trap", "title": "grief", "sub": ["years ago"]},
+      {"conn": "turned to"},
+      {"box": "reward", "title": "healing", "sub": ["today"]}]},
+    "then": "Yusuf said: take this shirt and {reward}cast it over my father's face, his sight will return{/reward}. Ibn Kathir says Ya'qub had lost his sight from {trap}excessive crying{/trap}. Then Yusuf asked them to bring all of Ya'qub's children to Egypt.",
+    "now": "The same hospital where you once lost someone is where your child is born. The house that held hard memories is where the family finally reunites. {idea}Allah can turn the thing that carried grief into the thing that carries joy.{/idea}",
+    "old": "Some things in my life will always be tied to pain.",
+    "new": "Allah can make the very thing that brought grief bring healing.",
+    "try": "Revisit one place or object tied to a hard memory and make a new, good memory there.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:94", "surah": 12, "ayah": 94, "place": "makkah",
+    "title": "I smell Yusuf, if you do not call me senile.",
+    "subtitle": "A father senses the good news before it arrives",
+    "picture": {"kind": "boxes", "label": "Far away", "row": [
+      {"box": "people", "title": "the caravan", "sub": ["leaves Egypt"]},
+      {"conn": "the wind carries"},
+      {"box": "reward", "title": "Yusuf's scent", "sub": ["to Ya'qub"]},
+      {"box": "people", "title": "do not call me senile", "sub": ["he says"]}]},
+    "key": {"label": "What hope looks like", "row": [
+      {"box": "trap", "title": "foolishness", "sub": ["to the people around him"]},
+      {"conn": "really"},
+      {"box": "idea", "title": "the first sign", "sub": ["of relief on its way"]}]},
+    "then": "As the caravan left Egypt, Ya'qub said: {reward}I find the smell of Yusuf{/reward}, if you do not think me senile. Ibn 'Abbas said a wind carried the scent of the shirt to him {idea}from eight days' distance{/idea}. He knew people might laugh at him.",
+    "now": "You tell your family you feel things are about to turn, the job, the health, the marriage. They roll their eyes. {idea}Hope sometimes senses relief before anyone else can see it.{/idea}",
+    "old": "If others think my hope is foolish, maybe it is.",
+    "new": "Real hope can feel relief coming before the evidence arrives.",
+    "try": "Write down one good thing you are hoping for, and date it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:95", "surah": 12, "ayah": 95, "place": "makkah",
+    "title": "You are still in your old error, they said.",
+    "subtitle": "A harsh word to a grieving father",
+    "picture": {"kind": "boxes", "label": "Their reply", "row": [
+      {"box": "people", "title": "Ya'qub", "sub": ["I smell Yusuf"]},
+      {"conn": "answered with"},
+      {"box": "trap", "title": "your old error", "sub": ["you will never forget him"]}]},
+    "key": {"label": "What they called it", "row": [
+      {"box": "trap", "title": "error", "sub": ["love that will not let go"], "strike": true},
+      {"box": "idea", "title": "faith", "sub": ["about to be proved right"]}]},
+    "then": "Those around him said: {trap}by Allah, you are still in your old error.{/trap} Qatadah said they meant: because of your love for Yusuf, you will never forget him. He added that {idea}this was a harsh word they should never have said{/idea} to their father, nor to a Prophet of Allah.",
+    "now": "Your elderly mum says something hopeful and the family laughs it off. Dad tells the same story again and you sigh loudly. {idea}A harsh word to a parent stays.{/idea} Choose the gentle one.",
+    "old": "It is only a small comment, they know I do not mean it.",
+    "new": "Harsh words to a parent weigh heavily, especially when they are clinging to hope.",
+    "try": "Call or sit with a parent or elder today and simply listen, without correcting them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

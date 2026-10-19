@@ -1,0 +1,287 @@
+[
+  {
+    "id": "7:121", "surah": 7, "ayah": 121, "place": "makkah",
+    "title": "We believe in the Lord of all the worlds.",
+    "subtitle": "The magicians name the One above every throne",
+    "picture": {"kind": "boxes", "label": "What they declared", "row": [
+      {"box": "people", "title": "the magicians", "sub": ["still on the ground"]},
+      {"conn": "say"},
+      {"box": "idea", "title": "Lord of the worlds", "sub": ["not Fir'awn, not a fee"]}]},
+    "key": {"label": "Who they served", "row": [
+      {"box": "trap", "title": "Fir'awn", "sub": ["lord of one country"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["Lord of all that exists"]}]},
+    "then": "The magicians fell in prostration and proclaimed their belief in the Lord of all that exists. Ibn Kathir reports from Al-Qasim bin Abi Bazzah that {reward}they did not raise their heads before being shown Paradise and the Fire{/reward}. In front of the man who claimed to be their lord, they named a greater one.",
+    "now": "You have worked for years to please one person: a parent, a boss, an audience. Their approval was your whole world. Then one day you see it clearly. {idea}They are one small part of a world Allah owns.{/idea} The weight shifts off your chest.",
+    "old": "The person I answer to most is the biggest power in my life.",
+    "new": "Allah is Lord of all the worlds, including everyone I fear or try to please.",
+    "try": "In your next prayer, slow down at Rabbil alamin and think of the one person whose approval you chase.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:122", "surah": 7, "ayah": 122, "place": "makkah",
+    "title": "The Lord of Musa and Harun, they made it unmistakable.",
+    "subtitle": "Being specific so no one could twist their words",
+    "picture": {"kind": "boxes", "label": "Their words", "row": [
+      {"box": "idea", "title": "Lord of the worlds", "sub": ["the general truth"]},
+      {"conn": "that is"},
+      {"box": "idea", "title": "Lord of Musa and Harun", "sub": ["the One these two called to"]}]},
+    "key": {"label": "Why name them", "row": [
+      {"box": "trap", "title": "a vague belief", "sub": ["easy for Fir'awn to claim"], "strike": true},
+      {"box": "idea", "title": "a clear stand", "sub": ["with the messengers, openly"]}]},
+    "then": "Fir'awn called himself lord of his people. So the magicians did not leave room for doubt: {idea}they believed in the Lord of Musa and Harun{/idea}. Ibn Ishaq reports they said that had Musa been a magician, he could not have beaten them.",
+    "now": "At a family dinner someone mocks people who pray. You could mumble something about everyone believing in something. Or you could say, gently, {idea}I pray, and it matters to me.{/idea} Clarity is a kind of courage.",
+    "old": "It is safer to keep my faith vague in public.",
+    "new": "Real belief is willing to say whose side it is on.",
+    "try": "Once this week, when your faith comes up, say plainly and kindly what you believe.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:123", "surah": 7, "ayah": 123, "place": "makkah",
+    "title": "You believed before I gave you permission?",
+    "subtitle": "A tyrant who wants to license even belief",
+    "picture": {"kind": "boxes", "label": "Fir'awn's reply", "row": [
+      {"box": "trap", "title": "no permission", "sub": ["you believed without me"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a conspiracy", "sub": ["you planned this with him"]},
+      {"conn": "aimed at"},
+      {"box": "people", "title": "the crowd", "sub": ["fooled into obeying"]}]},
+    "key": {"label": "Who owns your heart", "row": [
+      {"box": "trap", "title": "Fir'awn's permission", "sub": ["needed for belief"], "strike": true},
+      {"box": "idea", "title": "the heart", "sub": ["answers to Allah alone"]}]},
+    "then": "Fir'awn accused the magicians of a plot with Musa. Ibn Kathir says Fir'awn knew it was false: Musa had never met them. He said it to {trap}deceive the ignorant masses{/trap}, citing 43:54: he fooled his people, and they obeyed him.",
+    "now": "You quietly start praying again, and someone at home says: who told you to do that? Since when do you decide things without asking? {trap}Some people want a say even over your heart.{/trap} Your faith does not need their sign-off.",
+    "old": "I need the approval of the people around me before I change.",
+    "new": "No one has the right to give or withhold permission for my belief.",
+    "try": "Think of one good change you are waiting for permission to make. Make a small start on it today.",
+    "related": ["20:71", "43:54", "79:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:124", "surah": 7, "ayah": 124, "place": "makkah",
+    "title": "When the argument was lost, he reached for threats.",
+    "subtitle": "Cruelty is what is left when proof runs out",
+    "picture": {"kind": "boxes", "label": "Fir'awn's turn", "row": [
+      {"box": "idea", "title": "proof", "sub": ["clear, public, unanswerable"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "threats", "sub": ["harsh punishment", "for all of them"]}]},
+    "key": {"label": "What the threat revealed", "row": [
+      {"box": "trap", "title": "strength", "sub": ["how it looks"], "strike": true},
+      {"box": "trap", "title": "defeat", "sub": ["he had nothing else"]}]},
+    "then": "Fir'awn threatened the magicians with severe mutilation and crucifixion. Ibn Kathir reports from Ibn 'Abbas that {trap}Fir'awn was the first to use these punishments{/trap}. He had lost the debate in front of everyone, so he turned to force.",
+    "now": "In an argument you are losing, you feel the urge to raise your voice, bring up an old mistake, threaten to leave. {trap}That urge is the sign you have run out of reasons.{/trap} {idea}Notice it, and stop.{/idea}",
+    "old": "If I cannot win the point, I can at least make them afraid.",
+    "new": "Turning to threats is the clearest sign I have lost the argument.",
+    "try": "Next time you feel like threatening or shouting, say: I need a minute. Then step away.",
+    "related": ["20:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:125", "surah": 7, "ayah": 125, "place": "makkah",
+    "title": "To our Lord we are returning, so do what you will.",
+    "subtitle": "Remembering the return made the threat small",
+    "picture": {"kind": "boxes", "label": "Their answer", "row": [
+      {"box": "trap", "title": "Fir'awn's threat", "sub": ["for this life"]},
+      {"conn": "weighed against"},
+      {"box": "idea", "title": "the return", "sub": ["to our Lord"]},
+      {"conn": "gives"},
+      {"box": "reward", "title": "calm", "sub": ["patience today"]}]},
+    "key": {"label": "What they feared more", "row": [
+      {"box": "trap", "title": "Fir'awn's harm", "sub": ["ends with this life"]},
+      {"box": "idea", "title": "meeting Allah", "sub": ["what truly lasts"]}]},
+    "then": "The magicians answered calmly that they were returning to their Lord. Ibn Kathir explains they meant: {idea}Allah's judgment is greater than yours{/idea}, so we will be patient with your punishment today. In 20:72 they told him: you can only decide for the life of this world.",
+    "now": "Your manager threatens to block your promotion unless you sign off on numbers you know are false. Your stomach drops. Then you remember: {reward}one day I meet Allah, not this manager.{/reward} The threat is still real, but it gets smaller.",
+    "old": "The person threatening me holds my future.",
+    "new": "I am returning to Allah, and that puts every other threat in its place.",
+    "try": "When something frightens you today, say quietly: inna ila rabbina munqalibun. Then breathe.",
+    "related": ["20:72"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:126", "surah": 7, "ayah": 126, "place": "makkah",
+    "title": "Our Lord, pour patience on us and let us die Muslim.",
+    "subtitle": "The first prayer of new believers under threat",
+    "picture": {"kind": "boxes", "label": "Their prayer", "row": [
+      {"box": "people", "title": "our only crime", "sub": ["we believed the signs"]},
+      {"conn": "so they ask"},
+      {"box": "reward", "title": "patience", "sub": ["poured, not dripped"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "a good end", "sub": ["die in submission"]}]},
+    "key": {"label": "What they asked for", "row": [
+      {"box": "trap", "title": "escape", "sub": ["make the pain go away"], "strike": true},
+      {"box": "reward", "title": "patience and a good end", "sub": ["hold me firm to the last"]}]},
+    "then": "The magicians told Fir'awn his only grievance was that they believed when the signs came. Then they prayed for patience and to die as Muslims. {reward}They started the day as sorcerers and ended it as martyrs{/reward}, as Ibn 'Abbas, Qatadah and others said.",
+    "now": "A long illness, a hard marriage, a debt that will take years. You keep praying: take it away. Some days the better prayer is: {reward}pour patience on me, and let me end well.{/reward}",
+    "old": "Faith means asking Allah to remove every hardship.",
+    "new": "Sometimes the bravest prayer is for patience to carry it and a good end.",
+    "try": "Add this to your dua today: Rabbana afrigh alayna sabran wa tawaffana muslimin.",
+    "related": ["20:72"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:127", "surah": 7, "ayah": 127, "place": "makkah",
+    "title": "The oppressors called the oppressed the mischief-makers.",
+    "subtitle": "Fir'awn's chiefs push him to crush Bani Isra'il",
+    "picture": {"kind": "boxes", "label": "The chiefs' pressure", "row": [
+      {"box": "trap", "title": "the chiefs", "sub": ["will you leave them?"]},
+      {"conn": "call Musa's people"},
+      {"box": "trap", "title": "corrupters", "sub": ["abandoning your gods"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "Fir'awn", "sub": ["renews his cruel order"]}]},
+    "key": {"label": "Who was really corrupting", "row": [
+      {"box": "people", "title": "Musa's people", "sub": ["as the chiefs claimed"], "strike": true},
+      {"box": "trap", "title": "Fir'awn's court", "sub": ["the true mischief-makers"]}]},
+    "then": "The chiefs asked Fir'awn if he would let Musa and his people spread mischief. Ibn Kathir says: {trap}amazingly, they were worried Musa would cause mischief, when they were the mischief-makers{/trap}. Fir'awn renewed his order to kill the boys, and Ibn Kathir notes the opposite of what he intended came to pass.",
+    "now": "At home, you are the one who slams doors, but you call your teenager the troublemaker when they finally push back. {trap}It is easy to name others as the problem.{/trap} {idea}Look first at who started the harm.{/idea}",
+    "old": "The ones who disrupt my order are the problem.",
+    "new": "Sometimes the order I am defending is the real corruption.",
+    "try": "Think of someone you call difficult. Ask honestly what part of it you caused.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:128", "surah": 7, "ayah": 128, "place": "makkah",
+    "title": "Seek help in Allah, be patient: the earth is His.",
+    "subtitle": "Musa's advice to a frightened people",
+    "picture": {"kind": "boxes", "label": "Musa's three points", "row": [
+      {"box": "idea", "title": "seek Allah's help", "sub": ["not Fir'awn's mercy"]},
+      {"box": "idea", "title": "be patient", "sub": ["hold on"]},
+      {"box": "reward", "title": "the end", "sub": ["belongs to the God-conscious"]}]},
+    "key": {"label": "Who owns the ground", "row": [
+      {"box": "trap", "title": "Fir'awn's land", "sub": ["how it looks today"], "strike": true},
+      {"box": "idea", "title": "Allah's earth", "sub": ["given to whom He wills"]}]},
+    "then": "Fir'awn had just renewed his threat. Musa did not promise an easy road. He told his people to {idea}seek help in Allah and be patient{/idea}, because the earth belongs to Allah and {reward}the good end is for the righteous{/reward}.",
+    "now": "Your landlord raises the rent again. The company is cutting jobs. It feels like other people own every piece of your life. {idea}The earth is Allah's.{/idea} Ask Him for help, do the next right thing, and wait well.",
+    "old": "Whoever controls the ground controls my outcome.",
+    "new": "The earth belongs to Allah, and the end belongs to those who fear Him.",
+    "try": "Before you face something stressful today, make one short dua for help first, then act.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:129", "surah": 7, "ayah": 129, "place": "makkah",
+    "title": "Harmed before you came, and harmed since you came.",
+    "subtitle": "Tired believers, and the test that comes after relief",
+    "picture": {"kind": "boxes", "label": "The complaint and the reply", "row": [
+      {"box": "trap", "title": "harm before", "sub": ["before you came"]},
+      {"box": "trap", "title": "harm after", "sub": ["since you came"]},
+      {"conn": "Musa replies"},
+      {"box": "reward", "title": "perhaps relief", "sub": ["your enemy removed"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the test", "sub": ["how will you act?"]}]},
+    "key": {"label": "What relief is for", "row": [
+      {"box": "people", "title": "relief is the end", "sub": ["then I can rest"], "strike": true},
+      {"box": "idea", "title": "relief is a test", "sub": ["He will see how you act"]}]},
+    "then": "The Children of Israel told Musa they had suffered before he came and still suffered after. Musa answered that perhaps Allah would destroy their enemy and make them successors, {idea}so He may see how you act{/idea}. Ibn Kathir says he was encouraging them to be grateful when hardship is replaced by blessing.",
+    "now": "For years you prayed for a stable job. Now you have it, the salary arrives every month. {idea}The question has changed.{/idea} It is no longer will Allah help me, but what am I doing with what He gave?",
+    "old": "Once my problems are solved, the test is over.",
+    "new": "Ease is its own test: Allah watches what I do with it.",
+    "try": "Pick one blessing you prayed for in the past. Do one thing with it today that you would be glad Allah saw.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:130", "surah": 7, "ayah": 130, "place": "makkah",
+    "title": "Hard years were sent so they might remember.",
+    "subtitle": "Drought and shrinking harvests as a reminder",
+    "picture": {"kind": "boxes", "label": "What came to Egypt", "row": [
+      {"box": "trap", "title": "years of drought", "sub": ["little produce"]},
+      {"box": "trap", "title": "less fruit", "sub": ["one date on a tree"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "they remember", "sub": ["and turn back"]}]},
+    "key": {"label": "What the hardship was", "row": [
+      {"box": "trap", "title": "just bad luck", "sub": ["random weather"], "strike": true},
+      {"box": "idea", "title": "a reminder", "sub": ["meant to wake them"]}]},
+    "then": "Allah tested Fir'awn's people with years of drought and poor harvests. Ibn Kathir reports from Raja' bin Haywah that {trap}a date palm would produce only one date{/trap}. The purpose is named in the verse: {idea}that they might remember{/idea}.",
+    "now": "Business slows. The car breaks down the same week the boiler does. You curse your luck and scroll for distraction. {idea}A hard season can be an invitation{/idea} to stop and ask what Allah wants you to notice.",
+    "old": "Hard times are just bad luck I have to get through.",
+    "new": "Hardship can be a mercy meant to make me remember Allah.",
+    "try": "Name one current difficulty. Ask: what is this reminding me of? Write one line.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:131", "surah": 7, "ayah": 131, "place": "makkah",
+    "title": "Good times were ours; bad times were someone's fault.",
+    "subtitle": "Taking credit for blessings, blaming others for trials",
+    "picture": {"kind": "boxes", "label": "How they read events", "row": [
+      {"box": "reward", "title": "good season", "sub": ["this is ours, we deserve it"]},
+      {"box": "trap", "title": "hard season", "sub": ["it is Musa's fault"]},
+      {"conn": "but really"},
+      {"box": "idea", "title": "both from Allah", "sub": ["most do not know"]}]},
+    "key": {"label": "Credit and blame", "row": [
+      {"box": "trap", "title": "good is mine, bad is yours", "sub": ["their reading"], "strike": true},
+      {"box": "idea", "title": "all is with Allah", "sub": ["the verse's reading"]}]},
+    "then": "When good came, Fir'awn's people said it was theirs by right. When hardship came, they called Musa and his followers a bad omen. Ibn 'Abbas explained: {idea}their afflictions are with and from Allah{/idea}, but most of them did not know.",
+    "now": "Your team hits the target: that was my strategy. The next quarter drops: the new hire slowed us down. {trap}Credit for me, blame for them.{/trap} The same pattern runs in families and marriages.",
+    "old": "When things go well it is me, when they go badly it is someone else.",
+    "new": "Both the good and the hard come from Allah, so I thank Him and look at myself.",
+    "try": "Next time something goes wrong, before naming anyone, ask: what was my part?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:132", "surah": 7, "ayah": 132, "place": "makkah",
+    "title": "Whatever sign you bring, we will not believe.",
+    "subtitle": "A mind closed before the evidence arrives",
+    "picture": {"kind": "boxes", "label": "Their position", "row": [
+      {"box": "idea", "title": "any sign", "sub": ["proof, miracle, evidence"]},
+      {"conn": "labeled"},
+      {"box": "trap", "title": "sorcery", "sub": ["to trick us"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "never", "sub": ["we will not believe"]}]},
+    "key": {"label": "The real problem", "row": [
+      {"box": "trap", "title": "not enough proof", "sub": ["what they claimed"], "strike": true},
+      {"box": "trap", "title": "decided in advance", "sub": ["what was true"]}]},
+    "then": "Fir'awn's people told Musa that whatever sign he brought, they would call it sorcery and never believe. Ibn Kathir describes this as {trap}rebellion, defiance of the truth, and insistence on falsehood{/trap}. They closed the door before anyone knocked.",
+    "now": "You have already decided your sister-in-law is selfish. She brings food when you are sick and you think: she just wants to look good. {trap}No act can reach you once the verdict is in.{/trap}",
+    "old": "I have already made up my mind about this.",
+    "new": "A heart that decides in advance cannot see any sign at all.",
+    "try": "Pick one person you have a fixed opinion about. Look for one good thing they did this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:133", "surah": 7, "ayah": 133, "place": "makkah",
+    "title": "Five clear signs, one after another, and still arrogance.",
+    "subtitle": "Flood, locusts, lice, frogs, blood",
+    "picture": {"kind": "boxes", "label": "The signs in turn", "row": [
+      {"box": "trap", "title": "flood", "sub": ["rain that ruined crops"]},
+      {"box": "trap", "title": "locusts", "sub": ["ate the green"]},
+      {"box": "trap", "title": "lice", "sub": ["spoiled the grain"]},
+      {"box": "trap", "title": "frogs", "sub": ["in homes and food"]},
+      {"box": "trap", "title": "blood", "sub": ["in every water jar"]}]},
+    "key": {"label": "What each sign offered", "row": [
+      {"box": "trap", "title": "punishment only", "sub": ["one blow after another"], "strike": true},
+      {"box": "idea", "title": "a chance each time", "sub": ["to turn back"]}]},
+    "then": "Allah sent the flood, locusts, lice, frogs and blood as distinct signs. Sa'id bin Jubayr describes how {idea}each one was removed when Musa prayed{/idea}, and each time they broke their promise. {trap}They remained arrogant{/trap}, a people set on wrongdoing.",
+    "now": "The first warning from your doctor. Then the second. Then the test results. Each time you promise to change, and each time the fear fades and you go back. {idea}Every sign was also a door held open.{/idea}",
+    "old": "One more warning and then I will change.",
+    "new": "Every sign I ignore was a mercy that gave me another chance.",
+    "try": "Name one warning you have had more than once. Take one concrete step on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:134", "surah": 7, "ayah": 134, "place": "makkah",
+    "title": "Remove this and we will believe, they promised every time.",
+    "subtitle": "Promises made under pressure",
+    "picture": {"kind": "boxes", "label": "The bargain", "row": [
+      {"box": "trap", "title": "the affliction", "sub": ["falls on them"]},
+      {"conn": "they ask"},
+      {"box": "people", "title": "Musa, pray for us", "sub": ["by your Lord's promise"]},
+      {"conn": "and swear"},
+      {"box": "reward", "title": "we will believe", "sub": ["and free Bani Isra'il"]}]},
+    "key": {"label": "What the promise was worth", "row": [
+      {"box": "trap", "title": "a deal with Allah", "sub": ["help me and I will change"], "strike": true},
+      {"box": "idea", "title": "faith that stays", "sub": ["after the pressure lifts"]}]},
+    "then": "When each punishment struck, they came to Musa: pray to your Lord, and if He removes this, we will believe and let the Children of Israel go. Ibn Ishaq describes the same {trap}promise made again and again{/trap} with each new sign.",
+    "now": "In the hospital corridor waiting for news, you promise: if they are okay, I will pray every day. They recover. Two weeks later the prayer mat is folded away. {idea}A promise made in fear needs to be kept in ease.{/idea}",
+    "old": "If Allah gets me out of this, then I will change.",
+    "new": "The test of a promise made in hardship is what I do after relief.",
+    "try": "Remember one promise you made to Allah in a hard moment. Do one part of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

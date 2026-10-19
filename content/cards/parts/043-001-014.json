@@ -1,0 +1,272 @@
+[
+  {
+    "id": "43:1", "surah": 43, "ayah": 1, "place": "makkah",
+    "title": "Ha Mim: two letters that ask you to pay attention.",
+    "subtitle": "A pause before the surah begins",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "idea", "title": "Ha Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the clear Book", "sub": ["what follows"]}]},
+    "key": {"label": "How to meet these letters", "row": [
+      {"box": "people", "title": "skip to the meaning", "sub": ["just letters"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["something important is coming"]}]},
+    "then": "This surah was revealed in Makkah while the leaders of Quraysh were plotting against the Prophet ﷺ. It opens with two letters, Ha and Mim. {idea}Their meaning is known to Allah.{/idea} What follows is an oath by the clear Book.",
+    "now": "You open the app between messages, half reading, half thinking about dinner. Two letters you cannot explain sit at the top of the page. {idea}Let them be a doorbell.{/idea} Something is about to be said to you.",
+    "old": "Letters I do not understand are something to rush past.",
+    "new": "Not knowing their meaning, I can still let them wake me up to listen.",
+    "try": "Before reading the next surah you open, take one slow breath and put the phone on silent.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:2", "surah": 43, "ayah": 2, "place": "makkah",
+    "title": "Sworn by the Book that is clear.",
+    "subtitle": "Why Allah swears by the clear Book",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "idea", "title": "the clear Book", "sub": ["plain in words", "plain in meaning"]},
+      {"conn": "sworn by"},
+      {"box": "people", "title": "the listeners", "sub": ["the Quraysh"]}]},
+    "key": {"label": "Is it hard to understand?", "row": [
+      {"box": "people", "title": "too deep for me", "sub": ["only for scholars"], "strike": true},
+      {"box": "idea", "title": "it is clear", "sub": ["made to be understood"]}]},
+    "then": "Ibn Kathir explains the Book is called clear because it is {idea}plain in both wording and meaning{/idea}. It came in the Arabic of the people who first heard it, so they could not say they did not understand.",
+    "now": "You tell yourself you will read the Quran properly once you have time to study. So you never start. {idea}It calls itself clear.{/idea} A translation and ten quiet minutes is enough to begin.",
+    "old": "The Quran is too complicated for someone like me.",
+    "new": "It was sent clear on purpose, so I can understand it.",
+    "try": "Read the translation of one short passage today and write one sentence on what it says.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:3", "surah": 43, "ayah": 3, "place": "makkah",
+    "title": "Sent in a language they knew, so they would think.",
+    "subtitle": "The Quran is meant to be understood and pondered",
+    "picture": {"kind": "boxes", "label": "Why Arabic", "row": [
+      {"box": "idea", "title": "an Arabic Quran", "sub": ["their own tongue"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "you understand", "sub": ["and ponder its meanings"]}]},
+    "key": {"label": "What reading is for", "row": [
+      {"box": "people", "title": "sound only", "sub": ["finish the pages"], "strike": true},
+      {"box": "idea", "title": "understand and reflect", "sub": ["that you may reason"]}]},
+    "then": "The first listeners were Arabs, people who loved eloquent speech. Ibn Kathir says the Quran was sent in their language {idea}so that you may understand it and ponder its meanings{/idea}.",
+    "now": "In Ramadan you race to finish the whole Quran, eyes moving faster than understanding. You close it proud and remember nothing. {idea}The verse gives the goal: to understand.{/idea}",
+    "old": "What counts is how much I read.",
+    "new": "What counts is that the words reach my mind and heart.",
+    "try": "Read just three verses today, then close your eyes and ask what they mean for you.",
+    "related": ["26:195"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:4", "surah": 43, "ayah": 4, "place": "makkah",
+    "title": "Honored with Allah before it ever reached you.",
+    "subtitle": "The Quran's high place in the Mother of the Book",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "idea", "title": "Mother of the Book", "sub": ["the Preserved Tablet"]},
+      {"box": "reward", "title": "exalted", "sub": ["a place of honor"]},
+      {"box": "reward", "title": "full of wisdom", "sub": ["no confusion"]}]},
+    "key": {"label": "How to hold it", "row": [
+      {"box": "people", "title": "just another book", "sub": ["on the shelf"], "strike": true},
+      {"box": "idea", "title": "honored above", "sub": ["so honor it here"]}]},
+    "then": "Ibn Kathir says the Mother of the Book is {idea}the Preserved Tablet{/idea}, as Ibn Abbas and Mujahid said. The verse shows the Quran's high status among those on high, {reward}so that people on earth will respect it and follow it{/reward}.",
+    "now": "Your copy of the Quran sits under a stack of mail and a phone charger. Nobody meant disrespect. {idea}But this book is honored in a place far above us.{/idea}",
+    "old": "The Quran is a book like any other on my shelf.",
+    "new": "It holds a place of honor with Allah, and I can give it that place in my home.",
+    "try": "Give your Quran a clean, high, uncluttered spot today.",
+    "related": ["56:77", "80:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:5", "surah": 43, "ayah": 5, "place": "makkah",
+    "title": "They turned away, and the reminder kept coming.",
+    "subtitle": "Mercy that does not give up on people",
+    "picture": {"kind": "boxes", "label": "What they expected", "row": [
+      {"box": "trap", "title": "a heedless people", "sub": ["going too far"]},
+      {"conn": "yet"},
+      {"box": "reward", "title": "the reminder stays", "sub": ["sent again and again"]}]},
+    "key": {"label": "Allah's way with them", "row": [
+      {"box": "people", "title": "give up on them", "sub": ["they ignored it"], "strike": true},
+      {"box": "reward", "title": "keep calling", "sub": ["by His mercy"]}]},
+    "then": "The question is: should We stop the reminder because you went too far? Qatadah said that if the Quran had been taken away when the first generation rejected it, they would have been doomed, {reward}but Allah by His mercy kept sending it and calling them{/reward}.",
+    "now": "You have ignored the same reminder for years: the Friday talk, the friend's gentle text, the verse that keeps showing up. And still it keeps coming. {reward}That is not an accident. That is mercy.{/reward}",
+    "old": "I have ignored it so long, Allah must be done with me.",
+    "new": "The reminder still reaching me is proof He has not given up on me.",
+    "try": "Notice one reminder that keeps returning in your life. Answer it with one small step today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:6", "surah": 43, "ayah": 6, "place": "makkah",
+    "title": "You are not the first to be sent.",
+    "subtitle": "Comfort for the Prophet: many came before",
+    "picture": {"kind": "boxes", "label": "A long line", "row": [
+      {"box": "people", "title": "many prophets", "sub": ["to the peoples of old"]},
+      {"conn": "and now"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["in Makkah"]}]},
+    "key": {"label": "Feeling alone", "row": [
+      {"box": "people", "title": "only I face this", "sub": ["nobody understands"], "strike": true},
+      {"box": "idea", "title": "a long line before", "sub": ["walked the same road"]}]},
+    "then": "Ibn Kathir says here Allah {idea}consoles His Prophet ﷺ for the disbelief of his people{/idea} and tells him to be patient. Many prophets had been sent to earlier communities.",
+    "now": "You are the only one in your office who prays, or the first in your family to take faith seriously. It can feel lonely. {idea}You stand in a long line of people who were in the same place.{/idea}",
+    "old": "I am alone in trying to do the right thing.",
+    "new": "Many before me walked this road, and Allah comforted them on it.",
+    "try": "Read about one prophet's story this week and notice what he faced from his people.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:7", "surah": 43, "ayah": 7, "place": "makkah",
+    "title": "Every prophet was mocked. Mockery proves nothing.",
+    "subtitle": "Ridicule is the old reply to truth",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "people", "title": "a prophet comes", "sub": ["with the truth"]},
+      {"conn": "meets"},
+      {"box": "trap", "title": "mockery", "sub": ["every single time"]}]},
+    "key": {"label": "What mockery means", "row": [
+      {"box": "trap", "title": "laughed at means wrong", "sub": ["they must have a point"], "strike": true},
+      {"box": "idea", "title": "an old pattern", "sub": ["truth gets mocked"]}]},
+    "then": "Ibn Kathir explains that no prophet came to those people except that {trap}they disbelieved him and mocked him{/trap}. The Prophet ﷺ in Makkah faced the same thing, so he was not to be shaken by it.",
+    "now": "You mention in the group chat that you will not join because of prayer time. A laughing emoji, a \"here we go.\" Your face gets warm. {idea}Being laughed at does not make you wrong.{/idea}",
+    "old": "If people laugh at what I believe, maybe I should hide it.",
+    "new": "Mockery has met every prophet. It says nothing about the truth.",
+    "try": "Next time a small joke comes at your faith, smile, stay kind, and do not change course.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:8", "surah": 43, "ayah": 8, "place": "makkah",
+    "title": "Stronger people fell before. Their story is a lesson.",
+    "subtitle": "Power did not protect those who mocked",
+    "picture": {"kind": "boxes", "label": "What history shows", "row": [
+      {"box": "trap", "title": "stronger nations", "sub": ["more power than Quraysh"]},
+      {"conn": "were destroyed"},
+      {"box": "idea", "title": "an example", "sub": ["for those after"]}]},
+    "key": {"label": "What keeps you safe", "row": [
+      {"box": "people", "title": "my strength", "sub": ["nothing can touch me"], "strike": true},
+      {"box": "idea", "title": "heeding the lesson", "sub": ["learn from those before"]}]},
+    "then": "Ibn Kathir says Allah destroyed those who rejected the messengers, and {trap}they were stronger in power{/trap} than the Quraysh. Others said the example of the ancients means {idea}their lesson{/idea} for those who came after.",
+    "now": "You feel untouchable at your peak: good job, good health, a full bank account. That is when it is easiest to ignore advice. {idea}History is full of strong people who thought the same.{/idea}",
+    "old": "As long as I am strong, I do not need to change.",
+    "new": "Strength has never protected anyone from the results of their choices.",
+    "try": "Think of one warning you brushed off because things were going well. Take it seriously today.",
+    "related": ["40:82", "43:56", "40:85"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:9", "surah": 43, "ayah": 9, "place": "makkah",
+    "title": "They knew who created everything, then served others.",
+    "subtitle": "Admitting the Creator but not living by it",
+    "picture": {"kind": "boxes", "label": "The gap", "row": [
+      {"box": "idea", "title": "Who created all?", "sub": ["the Mighty, the Knowing"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "others worshipped", "sub": ["idols beside Him"]}]},
+    "key": {"label": "Knowing vs living", "row": [
+      {"box": "people", "title": "I believe in Allah", "sub": ["that is enough"], "strike": true},
+      {"box": "idea", "title": "live like He is Creator", "sub": ["turn to Him alone"]}]},
+    "then": "Ibn Kathir says the idolaters of Makkah {idea}admitted that Allah alone created everything{/idea}, {trap}yet they still worshipped idols and false gods alongside Him{/trap}.",
+    "now": "Ask yourself who provides your income and you will say Allah. Then watch where your worry goes at 3am: the boss's mood, the market, the landlord. {trap}The answer and the anxiety point in different directions.{/trap}",
+    "old": "Saying Allah is the Creator is the same as trusting Him.",
+    "new": "Believing He made everything should change where I turn when I am afraid.",
+    "try": "When you next feel worry about money, say \"Allah created this and me\" before you open the banking app.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:10", "surah": 43, "ayah": 10, "place": "makkah",
+    "title": "A steady earth and roads to find your way.",
+    "subtitle": "The ground under you is a gift",
+    "picture": {"kind": "boxes", "label": "Made for you", "row": [
+      {"box": "reward", "title": "the earth a bed", "sub": ["smooth, stable, firm"]},
+      {"box": "reward", "title": "roads", "sub": ["between mountains and valleys"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "you find the way", "sub": ["on journeys and in life"]}]},
+    "key": {"label": "What we stand on", "row": [
+      {"box": "people", "title": "just the ground", "sub": ["nothing to notice"], "strike": true},
+      {"box": "reward", "title": "a prepared bed", "sub": ["held steady for you"]}]},
+    "then": "Ibn Kathir explains the earth was made {reward}smooth, stable and firm{/reward} so people can walk, stand and sleep on it, held firm by mountains. Paths run between mountains and valleys so travelers {idea}find their way{/idea} from land to land.",
+    "now": "You drive to work on autopilot, map app open, never once thinking about the ground staying still under the car. {reward}A steady earth is something given, every morning.{/reward}",
+    "old": "The ground and the roads are just there.",
+    "new": "The steady earth and the paths across it are prepared for me, so I can find my way.",
+    "try": "On your next walk or drive, notice the ground once and say alhamdulillah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:11", "surah": 43, "ayah": 11, "place": "makkah",
+    "title": "Rain revives dead land. So will you be raised.",
+    "subtitle": "The measured rain and the coming resurrection",
+    "picture": {"kind": "boxes", "label": "A picture of rising", "row": [
+      {"box": "reward", "title": "measured rain", "sub": ["just enough"]},
+      {"conn": "revives"},
+      {"box": "idea", "title": "dead land", "sub": ["stirs and grows"]},
+      {"conn": "like"},
+      {"box": "people", "title": "you", "sub": ["brought forth again"]}]},
+    "key": {"label": "What the rain teaches", "row": [
+      {"box": "people", "title": "just weather", "sub": ["a forecast"], "strike": true},
+      {"box": "idea", "title": "a sign of rising", "sub": ["so will you come out"]}]},
+    "then": "Ibn Kathir says the rain comes {reward}in due measure{/reward}, enough for crops and drinking. When it reaches barren land, it stirs to life, and in this Allah {idea}draws attention to how He will bring bodies back to life{/idea} on the Day of Resurrection.",
+    "now": "A dry patch of lawn after weeks of heat. One night of rain and by the weekend it is green. You notice and think nothing of it. {idea}It is a small preview of your own rising.{/idea}",
+    "old": "Rain and new growth are just nature doing its thing.",
+    "new": "Every revived field is a reminder that I will be brought back too.",
+    "try": "Next time it rains, step outside for one minute and remember the Day you will rise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:12", "surah": 43, "ayah": 12, "place": "makkah",
+    "title": "Pairs of everything, and the rides that carry you.",
+    "subtitle": "Creation in pairs, ships and animals made easy",
+    "picture": {"kind": "boxes", "label": "What He made", "row": [
+      {"box": "idea", "title": "all the pairs", "sub": ["plants, fruits, animals"]},
+      {"box": "reward", "title": "ships", "sub": ["to carry you"]},
+      {"box": "reward", "title": "cattle", "sub": ["to ride, milk, eat"]}]},
+    "key": {"label": "Who made it easy", "row": [
+      {"box": "people", "title": "we tamed it all", "sub": ["human skill"], "strike": true},
+      {"box": "reward", "title": "He subjected it", "sub": ["made it easy for you"]}]},
+    "then": "Ibn Kathir explains the pairs are of {idea}everything that grows, and all kinds of animals{/idea}. He made ships and cattle {reward}easy for people to use{/reward}: to eat their meat, drink their milk, and ride on their backs.",
+    "now": "Your morning: a train, a bus, a car, maybe a flight next week. Milk in your coffee. You did not invent any of it, and you rarely think who made it possible. {reward}Everything that carries you was made to be carried on.{/reward}",
+    "old": "Transport and food are just how life works now.",
+    "new": "Every ride and every meal is something He made easy for me.",
+    "try": "Before your next commute, pause and think of one thing that carries you that you never thank Him for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:13", "surah": 43, "ayah": 13, "place": "makkah",
+    "title": "When you sit on your ride, remember who made it yours.",
+    "subtitle": "The words to say when you set off",
+    "picture": {"kind": "boxes", "label": "The moment of mounting", "row": [
+      {"box": "people", "title": "you settle in", "sub": ["on the back, in the seat"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "remember the favor", "sub": ["glory to Him"]},
+      {"box": "reward", "title": "we could not", "sub": ["without Him"]}]},
+    "key": {"label": "Who controls it", "row": [
+      {"box": "people", "title": "I control this", "sub": ["my skill, my money"], "strike": true},
+      {"box": "idea", "title": "He subjected it", "sub": ["we could not have"]}]},
+    "then": "The verse teaches words to say when mounting. Ibn Abbas, Qatadah and others explained: {idea}we could not have done this ourselves{/idea}. If Allah had not made these animals obedient, no human strength could have.",
+    "now": "You get in the car, seatbelt on, phone into the holder, music on. Two tons of metal at high speed, and you feel fully in charge. {idea}This verse gives you one sentence to say before you pull out.{/idea}",
+    "old": "I am in control of my car and my journey.",
+    "new": "I travel only because He made it possible. I could not do it alone.",
+    "try": "Say \"Glory to Him who has subjected this to us\" the next time you start a journey.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:14", "surah": 43, "ayah": 14, "place": "makkah",
+    "title": "Every trip points to the final one home.",
+    "subtitle": "To our Lord we will return",
+    "picture": {"kind": "boxes", "label": "Two journeys", "row": [
+      {"box": "people", "title": "the earthly trip", "sub": ["city to city"]},
+      {"conn": "reminds of"},
+      {"box": "idea", "title": "the last journey", "sub": ["back to our Lord"]}]},
+    "key": {"label": "Packing for the trip", "row": [
+      {"box": "people", "title": "pack for this trip", "sub": ["charger, snacks, tickets"], "strike": true},
+      {"box": "reward", "title": "pack for that one", "sub": ["best provision is taqwa"]}]},
+    "then": "Ibn Kathir notes that {idea}mention of earthly journeys draws attention to the journey of the Hereafter{/idea}. He links it to the verse that says take provision, but {reward}the best provision is taqwa{/reward}.",
+    "now": "At the airport you check three times: passport, charger, boarding pass. Everything for a two-week trip. {idea}This verse asks what you are packing for the journey that has no return ticket.{/idea}",
+    "old": "Travel is just about getting where I am going.",
+    "new": "Every departure reminds me I am heading back to my Lord.",
+    "try": "On your next trip, make one good deed part of the packing: a charity, a call, a prayer.",
+    "related": ["2:197", "7:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

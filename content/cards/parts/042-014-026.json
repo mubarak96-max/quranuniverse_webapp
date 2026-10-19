@@ -1,0 +1,263 @@
+[
+  {
+    "id": "42:14", "surah": 42, "ayah": 14, "place": "makkah",
+    "title": "They split after knowledge came, out of rivalry.",
+    "subtitle": "Division is rarely about lack of knowledge",
+    "picture": {"kind": "boxes", "label": "How division happened", "row": [
+      {"box": "idea", "title": "knowledge came", "sub": ["proof was clear"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "rivalry", "sub": ["transgression, stubbornness"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "division", "sub": ["and inherited doubt"]}]},
+    "key": {"label": "Why people split", "row": [
+      {"box": "people", "title": "not enough knowledge", "sub": [], "strike": true},
+      {"box": "trap", "title": "ego and rivalry", "sub": ["after knowing"]}]},
+    "then": "Ibn Kathir says {trap}their opposition arose after the truth had come{/trap} and proof was established. Only transgression and stubbornness made them split. The generations after them {trap}merely imitated their forefathers, without evidence{/trap}, and were left confused and doubtful.",
+    "now": "Two cousins stop speaking for years over an inheritance. Both know what is fair. {trap}It is not a knowledge problem. It is a pride problem.{/trap} And their children grow up repeating the feud without knowing why.",
+    "old": "We fell out because we just see things differently.",
+    "new": "Often we split not from ignorance but from ego. And our children inherit what we leave unresolved.",
+    "try": "Think of one quarrel you inherited from your family and ask whether it is really yours to keep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:15", "surah": 42, "ayah": 15, "place": "makkah",
+    "title": "Invite, stand firm, be just, and let Allah gather us.",
+    "subtitle": "A verse of ten instructions",
+    "picture": {"kind": "boxes", "label": "What he was told", "row": [
+      {"box": "idea", "title": "invite", "sub": ["to the shared message"]},
+      {"box": "idea", "title": "stand firm", "sub": ["as commanded"]},
+      {"box": "trap", "title": "not their desires", "sub": []},
+      {"box": "idea", "title": "be just", "sub": ["among you"]},
+      {"box": "reward", "title": "He will gather us", "sub": ["to Him is the return"]}]},
+    "key": {"label": "How to stand among others", "row": [
+      {"box": "trap", "title": "bend to fit in", "sub": ["or fight everyone"], "strike": true},
+      {"box": "idea", "title": "firm, fair, calm", "sub": ["Allah judges at the end"]}]},
+    "then": "Scholars said this verse holds {idea}ten separate ideas{/idea}, like Ayat al-Kursi. The Prophet ﷺ was told to invite, stand firm, not follow their desires, believe in all revealed Books, and {idea}do justice among them.{/idea} Mujahid said no dispute here meant no argument. {reward}Allah will gather us all.{/reward}",
+    "now": "At work you are the only one who does not join in the after-hours drinks. You do not lecture, you do not cave. {idea}You stay firm, fair to everyone, and calm.{/idea} The verse is a full plan for living among people who differ from you.",
+    "old": "Standing by my faith means either blending in or arguing.",
+    "new": "I can stay firm, treat everyone justly, skip the argument, and leave the final word to Allah.",
+    "try": "Be noticeably fair today to someone who does not share your beliefs.",
+    "related": ["2:255", "10:41", "34:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:16", "surah": 42, "ayah": 16, "place": "makkah",
+    "title": "Arguing people out of faith they already answered.",
+    "subtitle": "Such arguments fall flat with their Lord",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "believers responded", "sub": ["to Allah and His Messenger"]},
+      {"conn": "others"},
+      {"box": "trap", "title": "disputed", "sub": ["to pull them back"]},
+      {"conn": "result"},
+      {"box": "trap", "title": "futile", "sub": ["before their Lord"]}]},
+    "key": {"label": "What to do with pressure", "row": [
+      {"box": "people", "title": "win every debate", "sub": ["or doubt myself"], "strike": true},
+      {"box": "idea", "title": "their case is void", "sub": ["with Allah"]}]},
+    "then": "Ibn Abbas and Mujahid said they {trap}argued with the believers after they had responded to Allah, hoping to pull them back{/trap} to the old ways. Ibn Kathir calls the argument futile before Allah. The new Muslims in Makkah faced this every day.",
+    "now": "You started praying again. An old friend sends long messages about why it is pointless. {trap}It shakes you.{/trap} {idea}You do not have to win the debate to keep your prayer.{/idea} Their argument does not weigh anything with Allah.",
+    "old": "If I cannot answer every objection, maybe my faith is weak.",
+    "new": "Arguments meant to pull me away carry no weight with Allah. I can keep walking.",
+    "try": "If someone pressures you about your faith this week, answer kindly once, then let it go.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:17", "surah": 42, "ayah": 17, "place": "makkah",
+    "title": "The Book and the Balance, and maybe the Hour is near.",
+    "subtitle": "Truth to follow, justice to keep",
+    "picture": {"kind": "boxes", "label": "What He sent down", "row": [
+      {"box": "idea", "title": "the Book", "sub": ["in truth"]},
+      {"box": "idea", "title": "the Balance", "sub": ["justice and fairness"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "the Hour", "sub": ["perhaps near"]}]},
+    "key": {"label": "How to live", "row": [
+      {"box": "people", "title": "plenty of time", "sub": [], "strike": true},
+      {"box": "idea", "title": "it may be near", "sub": ["so be fair now"]}]},
+    "then": "Mujahid and Qatadah said the Balance means {idea}justice and fairness.{/idea} Ibn Kathir says the line about the Hour is {idea}encouragement to strive for it, a warning, and advice to think little of this world.{/idea}",
+    "now": "You measure carefully when you are owed: the bill split, the hours worked. Less carefully when you owe. {idea}The Balance is for both sides.{/idea} And perhaps the Hour is closer than your next payday.",
+    "old": "I will start being careful about fairness when life slows down.",
+    "new": "Allah sent truth and a Balance. The Hour may be near, so fairness cannot wait.",
+    "try": "Settle one small thing you owe someone today, even a borrowed item.",
+    "related": ["57:25", "55:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:18", "surah": 42, "ayah": 18, "place": "makkah",
+    "title": "Deniers rush the Hour; believers prepare for it.",
+    "subtitle": "What have you prepared for it",
+    "picture": {"kind": "boxes", "label": "Two attitudes", "row": [
+      {"box": "trap", "title": "deniers", "sub": ["so when is it then"]},
+      {"box": "idea", "title": "believers", "sub": ["fearful, preparing"]}]},
+    "key": {"label": "The right question", "row": [
+      {"box": "people", "title": "when is it", "sub": [], "strike": true},
+      {"box": "reward", "title": "what have I prepared", "sub": ["love of Allah"]}]},
+    "then": "A man called out to the Prophet ﷺ on a journey: when will the Hour come? He replied, {idea}it will surely come. What have you prepared for it?{/idea} The man said, love of Allah and His Messenger. The Prophet ﷺ said: {reward}you will be with those you love.{/reward}",
+    "now": "You watch a video predicting the end of the world and scroll on. {idea}The Prophet ﷺ turned the question around.{/idea} Not when, but what are you bringing. {reward}Even love counts.{/reward}",
+    "old": "The big question about the Hour is when it will happen.",
+    "new": "The real question is what I am preparing. Love for Allah and His Messenger ﷺ is a start.",
+    "try": "Do one act today purely out of love for Allah, and name it to yourself as preparation.",
+    "related": ["30:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:19", "surah": 42, "ayah": 19, "place": "makkah",
+    "title": "Allah is gentle with His servants and forgets no one.",
+    "subtitle": "Provision for the righteous and the sinner",
+    "picture": {"kind": "boxes", "label": "His kindness", "row": [
+      {"box": "idea", "title": "Subtle, Kind", "sub": ["with His servants"]},
+      {"conn": "provides for"},
+      {"box": "people", "title": "every creature", "sub": ["no one forgotten"]}]},
+    "key": {"label": "Who gets provision", "row": [
+      {"box": "people", "title": "only the good", "sub": [], "strike": true},
+      {"box": "reward", "title": "everyone", "sub": ["righteous and sinner alike"]}]},
+    "then": "Ibn Kathir says Allah {reward}provides for every last one of them and does not forget anyone.{/reward} When it comes to provision, {idea}the righteous and the sinner are alike.{/idea} He links it to the verse that every creature on earth has its provision from Allah.",
+    "now": "You had a week where you barely prayed. Still the salary came, still the fridge had food, still you woke up. {reward}His kindness did not wait for you to deserve it.{/reward}",
+    "old": "Allah only provides for me when I am doing well.",
+    "new": "Allah's gentleness reaches every creature. He has not forgotten me on my worst day.",
+    "try": "Open your fridge today and thank Allah for one item in it.",
+    "related": ["11:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:20", "surah": 42, "ayah": 20, "place": "makkah",
+    "title": "Plant for the Hereafter and He grows your harvest.",
+    "subtitle": "Two fields, two harvests",
+    "picture": {"kind": "boxes", "label": "Two farmers", "row": [
+      {"box": "reward", "title": "Hereafter harvest", "sub": ["increased, multiplied"]},
+      {"box": "trap", "title": "worldly harvest only", "sub": ["some given, no share after"]}]},
+    "key": {"label": "What I am planting for", "row": [
+      {"box": "trap", "title": "this world only", "sub": ["the worst deal"], "strike": true},
+      {"box": "reward", "title": "the Hereafter", "sub": ["ten to seven hundred fold"]}]},
+    "then": "Ibn Kathir says whoever works for the Hereafter, Allah {reward}helps him and multiplies every good from ten to seven hundred times.{/reward} Whoever works only for this world may or may not get it, and {trap}has the worst deal in both.{/trap} A hadith warns against doing deeds of the Hereafter for worldly gain.",
+    "now": "You are working long hours for a promotion. Nothing wrong with that. {idea}The question is what the field is for.{/idea} The same job, done honestly and to feed your family for Allah's sake, becomes a Hereafter harvest.",
+    "old": "Work is for this world, and worship is for the next.",
+    "new": "The same effort can be planted for the Hereafter if I intend it, and then He grows it.",
+    "try": "Before work tomorrow, make a quiet intention that it is for Allah and your family.",
+    "related": ["17:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:21", "surah": 42, "ayah": 21, "place": "makkah",
+    "title": "Who gave them a religion Allah never allowed?",
+    "subtitle": "Rules people invent and call religion",
+    "picture": {"kind": "boxes", "label": "What they followed", "row": [
+      {"box": "trap", "title": "partners", "sub": ["devils of men and jinn"]},
+      {"conn": "invented"},
+      {"box": "trap", "title": "a religion", "sub": ["taboos, false rites"]},
+      {"conn": "not"},
+      {"box": "idea", "title": "what Allah ordained", "sub": []}]},
+    "key": {"label": "Who makes the rules", "row": [
+      {"box": "people", "title": "custom decides", "sub": ["we always did it"], "strike": true},
+      {"box": "idea", "title": "Allah decides", "sub": ["religion is His"]}]},
+    "then": "Ibn Kathir says in the time of ignorance people {trap}invented taboos on animals and false rulings on permitted and forbidden{/trap}, and false rites of worship. He names Amr bin Luhayy as the one who first brought idol worship to Quraysh. A decisive word delayed their judgment.",
+    "now": "Your family insists something is part of religion. You look, and it is just old custom. Or you skip something real because it is inconvenient. {idea}Religion is what Allah sent, not what we add or drop.{/idea}",
+    "old": "If my family always did it this way, it must be religion.",
+    "new": "Only Allah ordains religion. Customs are fine as customs, but not as His command.",
+    "try": "Pick one practice you assume is religious and look up its source this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:22", "surah": 42, "ayah": 22, "place": "makkah",
+    "title": "Fearful of what they earned, or in flowering meadows.",
+    "subtitle": "The great bounty for those who believe and do good",
+    "picture": {"kind": "boxes", "label": "Two scenes", "row": [
+      {"box": "trap", "title": "the wrongdoers", "sub": ["afraid of their own deeds"]},
+      {"box": "reward", "title": "the believers", "sub": ["meadows of the Gardens"]},
+      {"conn": "with"},
+      {"box": "reward", "title": "whatever they wish", "sub": ["the great bounty"]}]},
+    "key": {"label": "What we fear on that Day", "row": [
+      {"box": "people", "title": "something outside", "sub": [], "strike": true},
+      {"box": "trap", "title": "what we earned", "sub": ["our own deeds"]}]},
+    "then": "Ibn Kathir paints the contrast: one standing in fear {trap}of what they earned{/trap}, another in the gardens enjoying {reward}what no eye has seen, no ear has heard, and no mind has imagined.{/reward} He calls it the ultimate victory and complete blessing.",
+    "now": "You lie awake replaying something you said at work. The fear is of your own words. {idea}The verse says the Day will feel like that, or like the opposite.{/idea} Today's deeds decide which.",
+    "old": "What I fear most is what others might do to me.",
+    "new": "On that Day the only thing to fear is my own record. I can fill it with good today.",
+    "try": "Do one deed today that you would be glad to meet again on the Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:23", "surah": 42, "ayah": 23, "place": "makkah",
+    "title": "No payment asked, only that you honor the ties between us.",
+    "subtitle": "And every good deed is increased",
+    "picture": {"kind": "boxes", "label": "What he asked", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["brings the message"]},
+      {"conn": "asks"},
+      {"box": "plain", "title": "no payment", "sub": []},
+      {"box": "idea", "title": "honor kinship", "sub": ["do not harm me"]}]},
+    "key": {"label": "How Allah counts good", "row": [
+      {"box": "people", "title": "exactly as done", "sub": [], "strike": true},
+      {"box": "reward", "title": "increased", "sub": ["Forgiving, Appreciative"]}]},
+    "then": "Ibn Abbas explained there was {idea}no clan of Quraysh the Prophet ﷺ was not related to.{/idea} He asked only that they uphold the kinship and let him convey the message without harm. Then the promise: {reward}whoever does good, We increase it.{/reward} Allah forgives much and multiplies a little.",
+    "now": "You do a small favor for a cousin you barely talk to. It feels like nothing. {reward}Allah is Shakur: He appreciates and increases the small.{/reward} And kinship itself is something the Prophet ﷺ asked people to honor.",
+    "old": "Small good deeds do not really add up to much.",
+    "new": "Allah is Appreciative. He takes my small good and increases it.",
+    "try": "Send a kind message today to a relative you have not spoken to in a while.",
+    "related": ["4:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:24", "surah": 42, "ayah": 24, "place": "makkah",
+    "title": "He made it up? Allah could have sealed his heart.",
+    "subtitle": "Falsehood is erased, truth established",
+    "picture": {"kind": "boxes", "label": "The accusation and answer", "row": [
+      {"box": "trap", "title": "he invented it", "sub": ["their claim"]},
+      {"conn": "answer"},
+      {"box": "idea", "title": "Allah could seal it", "sub": ["the Quran would be forgotten"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "truth established", "sub": ["by His words"]}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "trap", "title": "falsehood", "sub": ["wiped out"]},
+      {"box": "reward", "title": "truth", "sub": ["made firm"]}]},
+    "then": "Some said the Prophet ﷺ had invented a lie about Allah. Ibn Kathir explains: if he had, {idea}Allah could have sealed his heart and made him forget what had come to him.{/idea} Instead, {reward}Allah wipes out falsehood and establishes the truth by His words.{/reward} He knows what is in every heart.",
+    "now": "Someone spreads a false story about you at work. It hurts, and you want to answer every word. {reward}Truth has a way of standing up over time.{/reward} {idea}Allah knows what is in every chest, including theirs and yours.{/idea}",
+    "old": "If a lie spreads far enough, it becomes the truth.",
+    "new": "Allah erases falsehood and makes truth firm. He knows every heart.",
+    "try": "If someone has wronged you with words, make dua for the truth to be clear instead of replying.",
+    "related": ["69:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:25", "surah": 42, "ayah": 25, "place": "makkah",
+    "title": "He accepts repentance, pardons, and knows what you did.",
+    "subtitle": "Allah's joy at a servant coming back",
+    "picture": {"kind": "boxes", "label": "The lost camel", "row": [
+      {"box": "people", "title": "a traveler", "sub": ["camel lost in desert"]},
+      {"conn": "finds it"},
+      {"box": "reward", "title": "overwhelming joy", "sub": []},
+      {"conn": "Allah is more pleased"},
+      {"box": "reward", "title": "at your repentance", "sub": []}]},
+    "key": {"label": "What He does with the past", "row": [
+      {"box": "trap", "title": "holds it against me", "sub": ["He knows it all"], "strike": true},
+      {"box": "reward", "title": "knows it and forgives", "sub": ["and rejoices"]}]},
+    "then": "The Prophet ﷺ said Allah is {reward}more pleased with His servant's repentance{/reward} than a man who lost his camel with his food and water in the desert, gave up, lay down to die, then found it standing beside him. Ibn Kathir notes {idea}He knows all your deeds, yet still accepts repentance.{/idea}",
+    "now": "You have been away a long time. You think you need to clean yourself up before you can come back. {reward}He already knows everything, and still waits to be glad you returned.{/reward}",
+    "old": "Allah knows how bad I have been, so He must be done with me.",
+    "new": "He knows everything I did and still accepts me back, more joyful than a man who found his lost camel.",
+    "try": "Make sincere tawbah tonight for one specific thing, then believe He accepted it.",
+    "related": ["4:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:26", "surah": 42, "ayah": 26, "place": "makkah",
+    "title": "He answers those who believe and gives them more.",
+    "subtitle": "Duas answered, with extra besides",
+    "picture": {"kind": "boxes", "label": "What He gives", "row": [
+      {"box": "people", "title": "believers who do good", "sub": []},
+      {"conn": "receive"},
+      {"box": "reward", "title": "answers", "sub": ["for themselves and friends"]},
+      {"box": "reward", "title": "increase", "sub": ["from His bounty"]}]},
+    "key": {"label": "What a dua gets", "row": [
+      {"box": "people", "title": "maybe heard", "sub": [], "strike": true},
+      {"box": "reward", "title": "answered, plus more", "sub": ["for you and others"]}]},
+    "then": "Ibn Jarir said He {reward}answers their supplication for themselves, their companions and their brothers.{/reward} An-Nakha'i said they intercede for their brothers, and then for their brothers' brothers. The verse balances this with a warning for those who disbelieve.",
+    "now": "You whisper a dua for your friend going through a divorce, then one for her sister you have never met. {reward}The verse says those duas are answered and more is added.{/reward} Your prayers can reach people you will never meet.",
+    "old": "My duas are small and probably do not reach far.",
+    "new": "Allah answers the believers and adds from His bounty, even for the people they pray for.",
+    "try": "Make dua today for a friend, and for someone dear to that friend.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

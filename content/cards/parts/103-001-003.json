@@ -1,0 +1,61 @@
+[
+  {
+    "id": "103:1", "surah": 103, "ayah": 1, "place": "makkah",
+    "title": "By time, the space where every deed happens.",
+    "subtitle": "Why Allah swears by Al-Asr",
+    "picture": {"kind": "boxes", "label": "What Al-Asr is", "row": [
+      {"box": "idea", "title": "time", "sub": ["when people act"]},
+      {"conn": "holds"},
+      {"box": "reward", "title": "good deeds", "sub": []},
+      {"box": "trap", "title": "evil deeds", "sub": []}]},
+    "key": {"label": "What time is", "row": [
+      {"box": "plain", "title": "background noise", "sub": ["it just passes"], "strike": true},
+      {"box": "idea", "title": "the stage", "sub": ["where my whole life is decided"]}]},
+    "then": "Ibn Kathir says Al-Asr is {idea}the time in which the movements of the children of Adam occur, good or evil{/idea}. Zayd bin Aslam said it is the evening. The Companions loved this surah so much that {reward}two of them would not part without reciting it to each other{/reward}.",
+    "now": "The screen-time report on your phone: four hours yesterday. You did not notice them go. Every hour is the stage on which {idea}your good and your bad are acted out{/idea}. Allah swears by it so you notice it.",
+    "old": "Time is just something that passes. I always have more of it.",
+    "new": "Time is where every deed of mine happens. Allah swears by it so I value it.",
+    "try": "Check your screen-time today and give back fifteen minutes of it to something good.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "103:2", "surah": 103, "ayah": 2, "place": "makkah",
+    "title": "Every human being is losing, by default.",
+    "subtitle": "The starting point is loss",
+    "picture": {"kind": "boxes", "label": "The default", "row": [
+      {"box": "people", "title": "man", "sub": ["every one of us"]},
+      {"conn": "is in"},
+      {"box": "trap", "title": "khusr", "sub": ["loss and ruin"]}]},
+    "key": {"label": "Where I stand", "row": [
+      {"box": "people", "title": "neutral", "sub": ["fine unless I do wrong"], "strike": true},
+      {"box": "trap", "title": "already losing", "sub": ["unless I act"]}]},
+    "then": "Allah swears by time that {trap}man is in loss and destruction{/trap}, as Ibn Kathir puts it. Maududi says the surah states {idea}the way to success and the way to ruin{/idea} in a few unforgettable words.",
+    "now": "An ice cube in your hand. You do not have to do anything wrong for it to shrink. It just melts. {trap}That is the verse's picture of a life left on autopilot.{/trap} Doing nothing is not standing still.",
+    "old": "As long as I am not doing anything bad, I am fine.",
+    "new": "Time melts on its own. Standing still is already losing.",
+    "try": "Before bed, ask: what did I do with today that was not lost? Name one thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "103:3", "surah": 103, "ayah": 3, "place": "makkah",
+    "title": "Four things pull you out of the loss.",
+    "subtitle": "Faith, good deeds, truth, patience",
+    "picture": {"kind": "boxes", "label": "The exception", "row": [
+      {"box": "idea", "title": "believe", "sub": ["in the heart"]},
+      {"box": "idea", "title": "do good", "sub": ["with the limbs"]},
+      {"box": "reward", "title": "urge truth", "sub": ["to one another"]},
+      {"box": "reward", "title": "urge patience", "sub": ["to one another"]}]},
+    "key": {"label": "Who is saved", "row": [
+      {"box": "people", "title": "me, alone", "sub": ["my private faith"], "strike": true},
+      {"box": "reward", "title": "us, together", "sub": ["reminding each other"]}]},
+    "then": "Ibn Kathir says the exception is those who {idea}believe in their hearts and work righteous deeds with their limbs{/idea}, who urge each other to obedience, and {reward}urge each other to patience{/reward} with the harms that come from doing good. Ash-Shafi'i said this surah alone would suffice people.",
+    "now": "Two of the four need someone else. The friend who texts you before Fajr. The sister who says, gently, that is not right. The colleague who tells you to hang on one more week. {reward}You are not meant to get out of the loss alone.{/reward}",
+    "old": "My faith is a private matter between me and Allah.",
+    "new": "Half of what saves me is shared: I remind and I am reminded.",
+    "try": "Send one friend a short message reminding them of something true or encouraging patience.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

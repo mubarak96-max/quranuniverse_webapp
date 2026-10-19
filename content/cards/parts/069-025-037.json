@@ -1,0 +1,251 @@
+[
+  {
+    "id": "69:25", "surah": 69, "ayah": 25, "place": "makkah",
+    "title": "I wish I had never been given my record.",
+    "subtitle": "The regret of the left hand",
+    "picture": {"kind": "boxes", "label": "The left hand", "row": [
+      {"box": "trap", "title": "record in left hand", "sub": []},
+      {"conn": "he says"},
+      {"box": "trap", "title": "I wish I had not", "sub": ["deep remorse"]}]},
+    "key": {"label": "Two reactions", "row": [
+      {"box": "reward", "title": "here, read it!", "sub": ["the right hand"]},
+      {"box": "trap", "title": "I wish I had not", "sub": ["the left hand"]}]},
+    "then": "Right after the joy of the right hand comes the other side. Ibn Kathir says this is {trap}the condition of the wretched{/trap} when the record is placed in the left hand. {trap}At this time he will be very remorseful.{/trap}",
+    "now": "You open a message you dread, and wish you never had. That small feeling is a sign. {idea}The record is still being written.{/idea} {reward}You can still change what it says.{/reward}",
+    "old": "I will deal with my record when the time comes.",
+    "new": "My record is still open, and today I can add to it what I will be glad to read.",
+    "try": "Do one thing today you would be glad to find in your record.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:26", "surah": 69, "ayah": 26, "place": "makkah",
+    "title": "And that I had never known my account.",
+    "subtitle": "Not wanting to know what you did",
+    "picture": {"kind": "boxes", "label": "His wish", "row": [
+      {"box": "trap", "title": "not to know", "sub": ["what the account holds"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "it is shown", "sub": ["nothing hidden"]}]},
+    "key": {"label": "When to look", "row": [
+      {"box": "trap", "title": "never", "sub": ["his wish that Day"], "strike": true},
+      {"box": "idea", "title": "now", "sub": ["while it can be changed"]}]},
+    "then": "He continues: {trap}I wish I had never known how my account is.{/trap} The earlier verses said nothing will be hidden that Day. {idea}The one who never checked himself in this life{/idea} now wishes he could look away.",
+    "now": "You avoid the bank app because you do not want to see the number. You skip the checkup. {trap}Not knowing feels safer.{/trap} {idea}Looking at your own deeds now is a mercy, because now you can fix them.{/idea}",
+    "old": "Some things are better not to know.",
+    "new": "Checking my own account now is a gift, because I can still change it.",
+    "try": "Tonight, take two minutes to review your day honestly: one good, one to fix.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:27", "surah": 69, "ayah": 27, "place": "makkah",
+    "title": "If only death had been the end.",
+    "subtitle": "Wishing for the thing he once feared most",
+    "picture": {"kind": "boxes", "label": "A reversal", "row": [
+      {"box": "people", "title": "in the world", "sub": ["death most hated"]},
+      {"conn": "that Day"},
+      {"box": "trap", "title": "wishes for it", "sub": ["a death with no life after"]}]},
+    "key": {"label": "What death is", "row": [
+      {"box": "people", "title": "the end of everything", "sub": [], "strike": true},
+      {"box": "idea", "title": "a doorway", "sub": ["to the account"]}]},
+    "then": "Ad-Dahhak said he means {trap}a death not followed by any life.{/trap} Qatadah said {trap}he will hope for death, though in the world it was the thing he hated most.{/trap}",
+    "now": "Death is the thing nobody wants to talk about at dinner. You change the subject. {idea}But death is not the end of the story.{/idea} {reward}Thinking about what comes after is a way to prepare, not to fear.{/reward}",
+    "old": "Death ends everything, so why think about after?",
+    "new": "Death is not the end. What comes after is what I am preparing for.",
+    "try": "Remember death once today, calmly, and ask Allah for a good ending.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:28", "surah": 69, "ayah": 28, "place": "makkah",
+    "title": "My wealth did nothing for me.",
+    "subtitle": "The money that could not help",
+    "picture": {"kind": "boxes", "label": "What he counted on", "row": [
+      {"box": "reward", "title": "my wealth", "sub": ["what I trusted"]},
+      {"conn": "availed"},
+      {"box": "trap", "title": "0", "sub": ["nothing at all"], "num": true}]},
+    "key": {"label": "What money does", "row": [
+      {"box": "people", "title": "it protects me", "sub": [], "strike": true},
+      {"box": "idea", "title": "only how I used it", "sub": ["comes with me"]}]},
+    "then": "Ibn Kathir explains: {trap}my wealth did not protect me from the punishment of Allah.{/trap} Now {trap}the matter has ended with me alone.{/trap} The man who trusted money finds it stayed behind.",
+    "now": "The savings account. The car. The investments you check every morning. {trap}You may feel they protect you.{/trap} {idea}They protect nothing on that Day, except what you gave for Allah.{/idea}",
+    "old": "Money is my safety net.",
+    "new": "Wealth stays behind. What I spent for Allah is what helps me.",
+    "try": "Give a small amount today to someone in need, as a deposit that crosses over.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:29", "surah": 69, "ayah": 29, "place": "makkah",
+    "title": "My power is gone from me.",
+    "subtitle": "Status that disappears when it is needed",
+    "picture": {"kind": "boxes", "label": "What vanished", "row": [
+      {"box": "reward", "title": "my authority", "sub": ["honor, influence"]},
+      {"conn": "now"},
+      {"box": "trap", "title": "gone", "sub": ["no helper, no one to save"]}]},
+    "key": {"label": "What status is", "row": [
+      {"box": "people", "title": "mine to keep", "sub": [], "strike": true},
+      {"box": "idea", "title": "on loan", "sub": ["a test of how I use it"]}]},
+    "then": "Ibn Kathir says he means {trap}my honor did not protect me{/trap}, and now {trap}I have no helper nor anyone to save me.{/trap} After wealth, he mourns his power.",
+    "now": "The title on your email signature. Being the one who decides at home. The people who answer when you call. {trap}All of it can disappear.{/trap} {idea}How you use power over others is what remains.{/idea}",
+    "old": "My position gives me security.",
+    "new": "Power is on loan. What I did with it is what I will answer for.",
+    "try": "Use whatever authority you have today to make one person's day easier.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:30", "surah": 69, "ayah": 30, "place": "makkah",
+    "title": "Seize him and bind him.",
+    "subtitle": "The end of all freedom to choose",
+    "picture": {"kind": "boxes", "label": "The command", "row": [
+      {"box": "trap", "title": "seize him", "sub": []},
+      {"box": "trap", "title": "bind him", "sub": []},
+      {"conn": "from"},
+      {"box": "people", "title": "the gathering place", "sub": []}]},
+    "key": {"label": "Freedom", "row": [
+      {"box": "people", "title": "I can always choose later", "sub": [], "strike": true},
+      {"box": "idea", "title": "choices are made now", "sub": ["while I am free"]}]},
+    "then": "Ibn Kathir says the guardians of Hell will be commanded to {trap}remove him by force from the gathering place and bind him.{/trap} The one who would not bow when free {trap}is now unable to move at all.{/trap}",
+    "now": "Today you are free. You can pray or not, give or not, apologize or not. {idea}That freedom will not last forever.{/idea} {reward}The good choices you make now are made while you still can.{/reward}",
+    "old": "I am free to do as I please, so why worry?",
+    "new": "My freedom now is a chance to choose well, not a reason to delay.",
+    "try": "Use your freedom today to choose one good thing you could easily skip.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:31", "surah": 69, "ayah": 31, "place": "makkah",
+    "title": "Then drive him into the Fire.",
+    "subtitle": "A sober warning, given so you never reach it",
+    "picture": {"kind": "boxes", "label": "The path", "row": [
+      {"box": "trap", "title": "seized", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "the Fire", "sub": []}]},
+    "key": {"label": "Why the warning", "row": [
+      {"box": "people", "title": "to scare me hopeless", "sub": [], "strike": true},
+      {"box": "reward", "title": "to turn me back", "sub": ["while there is time"]}]},
+    "then": "Ibn Kathir says he will be {trap}carried off and cast into Hell.{/trap} The surah introduction says these verses show the purpose of the second life: {idea}every person appears in the court of their Lord.{/idea} The warning came to Makkah while there was still time.",
+    "now": "A warning sign on the highway is not cruelty. It is care for whoever reads it. {idea}This verse is a warning sign.{/idea} {reward}It is here so you can take the other road.{/reward}",
+    "old": "Verses about the Fire are just meant to frighten.",
+    "new": "The warning is a mercy, telling me where the road ends so I can turn.",
+    "try": "Ask Allah three times today: protect me from the Fire.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:32", "surah": 69, "ayah": 32, "place": "makkah",
+    "title": "Then bind him in a chain seventy cubits long.",
+    "subtitle": "The chain of a life spent ignoring the warning",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "trap", "title": "70", "sub": ["cubits long"], "num": true},
+      {"conn": "each cubit"},
+      {"box": "trap", "title": "an angel's forearm", "sub": ["Ibn Abbas, Ibn Jurayj"]}]},
+    "key": {"label": "What builds it", "row": [
+      {"box": "people", "title": "it appears from nowhere", "sub": [], "strike": true},
+      {"box": "idea", "title": "links of a life", "sub": ["choice after choice"]}]},
+    "then": "Ibn Abbas and Ibn Jurayj said {trap}each cubit will be the forearm length of an angel.{/trap} The verse describes the end of the man who did not believe and {trap}did not care for the poor{/trap}, as the next verses explain.",
+    "now": "Habits are like links. One lie, then another to cover it. One missed prayer, then a week. {trap}Chains are built a link at a time.{/trap} {idea}They can also be broken a link at a time.{/idea}",
+    "old": "One wrong choice does not matter much.",
+    "new": "Choices link together. Breaking one bad link today matters.",
+    "try": "Break one link in a bad chain today: skip it just once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:33", "surah": 69, "ayah": 33, "place": "makkah",
+    "title": "He did not believe in Allah, the Most Great.",
+    "subtitle": "The first reason: neglecting Allah's right",
+    "picture": {"kind": "boxes", "label": "The first failing", "row": [
+      {"box": "idea", "title": "Allah's right", "sub": ["worship Him alone"]},
+      {"conn": "he"},
+      {"box": "trap", "title": "did not establish it", "sub": ["no obedience, no worship"]}]},
+    "key": {"label": "Two rights", "row": [
+      {"box": "idea", "title": "Allah's right", "sub": ["worship and obedience"]},
+      {"box": "idea", "title": "people's right", "sub": ["see the next verse"]}]},
+    "then": "Ibn Kathir explains {trap}he did not establish the right of Allah upon him{/trap}, of obedience and worship. {idea}Allah has a right on His servants that they worship Him alone{/idea} and associate nothing with Him.",
+    "now": "You make time for the gym, the series, the family call. Prayer gets squeezed in the gaps, or not at all. {idea}Allah has a right on your time.{/idea} {reward}Giving it is the first thing that matters.{/reward}",
+    "old": "Belief is a private feeling. It does not ask anything of me.",
+    "new": "Believing in Allah, the Most Great, means giving Him His right in my life.",
+    "try": "Give Allah the first five minutes of your morning tomorrow, before your phone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:34", "surah": 69, "ayah": 34, "place": "makkah",
+    "title": "And he never urged anyone to feed the poor.",
+    "subtitle": "Not even encouraging others to give",
+    "picture": {"kind": "boxes", "label": "The second failing", "row": [
+      {"box": "people", "title": "the poor", "sub": ["hungry"]},
+      {"conn": "he did not"},
+      {"box": "trap", "title": "even urge feeding them", "sub": ["let alone feed them"]}]},
+    "key": {"label": "What is required", "row": [
+      {"box": "people", "title": "only my own giving", "sub": [], "strike": true},
+      {"box": "idea", "title": "encouraging others too", "sub": ["the right of creation"]}]},
+    "then": "Ibn Kathir says {trap}he did not benefit Allah's creation nor give them their rights.{/trap} {idea}Servants have a right on each other to good treatment and help.{/idea} So Allah joined prayer and zakah, and the Prophet ﷺ near death urged prayer and care for those in one's charge.",
+    "now": "You see a food drive in the group chat and scroll past. You could share the link, nudge a friend. {trap}Not even urging is its own silence.{/trap} {idea}Encouraging good is part of the good.{/idea}",
+    "old": "If I cannot give much, there is nothing for me to do.",
+    "new": "Even urging others to feed the hungry is part of what Allah asks.",
+    "try": "Share one way to help feed people with a friend or group today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:35", "surah": 69, "ayah": 35, "place": "makkah",
+    "title": "No close friend for him there that Day.",
+    "subtitle": "He did not care for others, and no one can care for him",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "friends", "sub": ["none to save him"]},
+      {"box": "people", "title": "intercessors", "sub": ["none to plead"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "he cared for no one", "sub": []}]},
+    "key": {"label": "Who stands with you", "row": [
+      {"box": "people", "title": "my network", "sub": [], "strike": true},
+      {"box": "reward", "title": "what I did for others", "sub": []}]},
+    "then": "Ibn Kathir explains there is {trap}no one who can save him{/trap}, nor any close friend or intercessor {trap}whose request would be honored.{/trap} The one who did not urge feeding the poor finds himself with no one.",
+    "now": "Hundreds of contacts on your phone. Friends who would come to your wedding. {trap}None of them can stand for you that Day.{/trap} {idea}Kindness you showed others is what shows up for you.{/idea}",
+    "old": "I have plenty of people who would help me.",
+    "new": "On that Day, only what I did for others and for Allah stands with me.",
+    "try": "Help one person today who cannot pay you back.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:36", "surah": 69, "ayah": 36, "place": "makkah",
+    "title": "No food for him but the worst food.",
+    "subtitle": "The one who withheld food from the poor",
+    "picture": {"kind": "boxes", "label": "A mirror", "row": [
+      {"box": "people", "title": "in the world", "sub": ["did not urge feeding the poor"]},
+      {"conn": "that Day"},
+      {"box": "trap", "title": "no food", "sub": ["except the worst"]}]},
+    "key": {"label": "What food is for", "row": [
+      {"box": "people", "title": "only for me", "sub": [], "strike": true},
+      {"box": "reward", "title": "to be shared", "sub": ["a right of the hungry"]}]},
+    "then": "Ibn Kathir says he will have {trap}no food there except ghislin.{/trap} Qatadah said {trap}it will be the worst food of the people of the Fire.{/trap} It follows straight after the verse about not caring to feed the poor.",
+    "now": "The leftovers you throw away. The extra portion you could have given. The neighbor whose fridge you never wonder about. {idea}Food is a test of sharing.{/idea} {reward}Every shared plate is a step away from this verse.{/reward}",
+    "old": "What I eat and waste is my own business.",
+    "new": "Food is a blessing that comes with a share for the hungry.",
+    "try": "Share a meal or a plate of food with someone today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:37", "surah": 69, "ayah": 37, "place": "makkah",
+    "title": "Only the sinners will eat it.",
+    "subtitle": "A fate reserved for those who chose wrong",
+    "picture": {"kind": "boxes", "label": "Who eats it", "row": [
+      {"box": "trap", "title": "the khati'un", "sub": ["those who sinned knowingly"]},
+      {"conn": "not"},
+      {"box": "reward", "title": "those who turned back", "sub": []}]},
+    "key": {"label": "Who it is for", "row": [
+      {"box": "people", "title": "anyone, at random", "sub": [], "strike": true},
+      {"box": "idea", "title": "those who chose sin", "sub": ["and never turned back"]}]},
+    "then": "The section closes: {trap}none will eat it except the sinners.{/trap} It ends the description of the man who {trap}neither believed nor cared for the poor.{/trap} It is not random. {idea}It follows a life of chosen wrong.{/idea}",
+    "now": "The verse names who this is for, so you know it is not you if you turn back. {reward}Repentance is open right now.{/reward} {idea}The one who returns to Allah is not counted among them.{/idea}",
+    "old": "These verses make me feel hopeless.",
+    "new": "The warning is for those who keep choosing sin. I can choose to turn back today.",
+    "try": "Make tawbah today for one specific wrong, and do one good deed after it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

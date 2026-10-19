@@ -1,0 +1,249 @@
+[
+  {
+    "id": "3:165", "surah": 3, "ayah": 165, "place": "madinah",
+    "title": "Where did this come from? Look at yourselves.",
+    "subtitle": "The honest answer to why it went wrong",
+    "picture": {"kind": "boxes", "label": "Badr and Uhud", "row": [
+      {"box": "reward", "title": "Badr", "sub": ["you struck twice as hard"]},
+      {"box": "trap", "title": "Uhud", "sub": ["seventy believers killed"]},
+      {"conn": "you asked"},
+      {"box": "people", "title": "how did this happen", "sub": ["from where"]},
+      {"box": "idea", "title": "from yourselves", "sub": ["the archers left their post"]}]},
+    "key": {"label": "Where to look first", "row": [
+      {"box": "trap", "title": "bad luck", "sub": ["or someone else's fault"], "strike": true},
+      {"box": "idea", "title": "my own choices", "sub": ["Allah has power over all"]}]},
+    "then": "At Badr the Muslims had killed seventy and captured seventy. At Uhud, a year later, they lost seventy. They asked: {trap}how did this happen to us?{/trap} The answer: {idea}it is from yourselves.{/idea} Scholars Ibn Kathir cites point to the archers disobeying the order to stay at their post.",
+    "now": "The relationship ends, the savings are gone, the grade is low, and your first question is whose fault it is. {idea}The braver question is: what did I do here?{/idea} It is not to crush yourself. It is the only part you can fix.",
+    "old": "When things go wrong, something outside me caused it.",
+    "new": "I first ask what part came from my own choices, because that part I can change.",
+    "try": "Think of one recent setback. Write one thing you did that contributed to it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:166", "surah": 3, "ayah": 166, "place": "madinah",
+    "title": "What hit you that day still came by His permission.",
+    "subtitle": "Your fault, and still within His plan",
+    "picture": {"kind": "boxes", "label": "Two truths together", "row": [
+      {"box": "people", "title": "from yourselves", "sub": ["the last verse"]},
+      {"box": "idea", "title": "by Allah's leave", "sub": ["this verse"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "believers show", "sub": ["patient, firm, unshaken"]}]},
+    "key": {"label": "Both are true", "row": [
+      {"box": "trap", "title": "pure chance", "sub": ["meaningless loss"], "strike": true},
+      {"box": "idea", "title": "decreed with wisdom", "sub": ["to show who stands firm"]}]},
+    "then": "The verse before said the loss came from their own mistake. This one adds: {idea}it happened by Allah's leave, out of His wisdom{/idea}, to bring out the believers who were patient and not shaken. {trap}Their error was real.{/trap} So was His purpose.",
+    "now": "You made a bad call at work and it cost you. It was your mistake. {idea}And Allah still allowed it, and there is something in it for you.{/idea} How you carry the fallout shows who you are.",
+    "old": "If it was my fault, Allah has nothing to do with it.",
+    "new": "My mistake is mine, and Allah still placed a test and a purpose in it.",
+    "try": "Ask Allah in one line to make your latest mistake a lesson, not a wound.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:167", "surah": 3, "ayah": 167, "place": "madinah",
+    "title": "If we knew there would be a fight, we would come.",
+    "subtitle": "Excuses that the mouth says and the heart does not",
+    "picture": {"kind": "boxes", "label": "Before the battle", "row": [
+      {"box": "people", "title": "a group turned back", "sub": ["with Abdullah bin Ubayy"]},
+      {"conn": "were told"},
+      {"box": "idea", "title": "come, or defend", "sub": ["at least add numbers"]},
+      {"conn": "said"},
+      {"box": "trap", "title": "no fight today", "sub": ["while an army was coming"]}]},
+    "key": {"label": "Closer to which", "row": [
+      {"box": "trap", "title": "nearer disbelief", "sub": ["that day"]},
+      {"box": "idea", "title": "nearer faith", "sub": ["a person moves between"]}]},
+    "then": "Before Uhud, a group turned back to Madinah with 'Abdullah bin Ubayy. Some believers urged them to come back and at least defend. They said: {trap}if we knew there would be fighting, we would follow you{/trap}, though an army was clearly marching. Ibn Kathir notes {idea}a person can be closer to disbelief one day and to faith another.{/idea}",
+    "now": "The friend who says: if I knew it was serious, I would have come to the hospital. Your own: I would help, I just did not know it was this week. {trap}Sometimes we knew.{/trap} {idea}Each day you are moving one way or the other.{/idea}",
+    "old": "My excuse is believable, so it is fine.",
+    "new": "Allah knows what is behind my excuse, and each choice moves me toward or away from faith.",
+    "try": "Notice one excuse you give today. Ask if it is the real reason.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:168", "surah": 3, "ayah": 168, "place": "madinah",
+    "title": "Then keep death away from yourselves, if you can.",
+    "subtitle": "The challenge to those who stayed home",
+    "picture": {"kind": "boxes", "label": "Sitting and judging", "row": [
+      {"box": "people", "title": "they sat at home", "sub": ["did not go out"]},
+      {"conn": "and said"},
+      {"box": "trap", "title": "if they listened to us", "sub": ["they would not be killed"]},
+      {"conn": "reply"},
+      {"box": "idea", "title": "avert your own death", "sub": ["if you are truthful"]}]},
+    "key": {"label": "Does staying home save", "row": [
+      {"box": "trap", "title": "safe at home", "sub": ["our advice saves lives"], "strike": true},
+      {"box": "idea", "title": "death still comes", "sub": ["even in fortified castles"]}]},
+    "then": "Those who stayed back said about the martyrs: {trap}if they had obeyed us, they would not have been killed.{/trap} Jabir said this was revealed about 'Abdullah bin Ubayy. The reply: {idea}then push death away from yourselves, if you are truthful.{/idea}",
+    "now": "Someone took a risk for something good and it went badly. You are on the sofa saying: I told them not to. {trap}It feels wise to say from a safe seat.{/trap} {idea}Your own seat is not as safe as it feels.{/idea}",
+    "old": "I was smart to stay out of it.",
+    "new": "Staying back does not buy me more life, so I should not judge those who stepped forward.",
+    "try": "Say one kind word today about someone who tried something good and failed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:169", "surah": 3, "ayah": 169, "place": "madinah",
+    "title": "Do not think of them as dead.",
+    "subtitle": "The martyrs are alive with their Lord",
+    "picture": {"kind": "boxes", "label": "What the eyes see vs. the truth", "row": [
+      {"box": "people", "title": "the martyrs of Uhud", "sub": ["buried by their families"]},
+      {"box": "trap", "title": "dead", "sub": ["what it looks like"], "strike": true},
+      {"box": "reward", "title": "alive", "sub": ["with their Lord"]},
+      {"box": "reward", "title": "provided for", "sub": ["fed from Paradise"]}]},
+    "key": {"label": "Jabir's sorrow", "row": [
+      {"box": "people", "title": "my father is gone", "sub": ["debts and children left"]},
+      {"box": "idea", "title": "Allah spoke to him", "sub": ["he asked to tell those behind"]}]},
+    "then": "These verses were revealed about the martyrs of Uhud. The Prophet ﷺ saw Jabir sad because his father was killed and left debts and children. {idea}He ﷺ told him Allah had spoken to his father directly{/idea}, and his father asked that those left behind be told. {reward}They are alive with their Lord, receiving provision.{/reward}",
+    "now": "You stand by a grave and it feels like the end of the story. The empty chair at Eid, the number you cannot delete. {idea}For those who die in Allah's way, the story did not end at the grave.{/idea}",
+    "old": "When someone dies, they are simply gone.",
+    "new": "For those who give their lives for Allah, death opens into life with Him.",
+    "try": "Make dua today for someone you have lost, using their name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:170", "surah": 3, "ayah": 170, "place": "madinah",
+    "title": "They are happy, and they are thinking of you.",
+    "subtitle": "Good news sent back for those still here",
+    "picture": {"kind": "boxes", "label": "Their joy", "row": [
+      {"box": "reward", "title": "His bounty", "sub": ["what Allah gave them"]},
+      {"conn": "and"},
+      {"box": "people", "title": "those left behind", "sub": ["not yet joined them"]},
+      {"conn": "will have"},
+      {"box": "reward", "title": "no fear, no grief", "sub": ["the news they rejoice in"]}]},
+    "key": {"label": "Their wish", "row": [
+      {"box": "people", "title": "if only they knew", "sub": ["so they do not hold back"]},
+      {"box": "idea", "title": "I will tell them", "sub": ["Allah conveys it"]}]},
+    "then": "The martyrs of Uhud, the Prophet ﷺ said, wished their brothers knew what Allah had given them, {idea}so they would not hold back from striving.{/idea} Allah said He would convey it for them. {reward}They rejoice that those who follow will have no fear and no grief.{/reward}",
+    "now": "You feel guilty laughing again after the funeral. Or you feel far from the person you lost. {idea}The ones who left on the right path are not jealous of your life. They want you to reach where they are.{/idea}",
+    "old": "Those who passed are gone and cut off from us.",
+    "new": "Those who passed in Allah's way are rejoicing and hoping the same for us.",
+    "try": "Do one good deed today with the intention of reaching the people you lost.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:171", "surah": 3, "ayah": 171, "place": "madinah",
+    "title": "Not one believer's reward is wasted.",
+    "subtitle": "The good news they rejoice over",
+    "picture": {"kind": "boxes", "label": "What they rejoice in", "row": [
+      {"box": "reward", "title": "favor", "sub": ["from Allah"]},
+      {"box": "reward", "title": "bounty", "sub": ["more than earned"]},
+      {"box": "idea", "title": "nothing lost", "sub": ["no believer's reward"]}]},
+    "key": {"label": "Where the effort goes", "row": [
+      {"box": "trap", "title": "wasted", "sub": ["no one saw"], "strike": true},
+      {"box": "idea", "title": "kept with Allah", "sub": ["every bit of it"]}]},
+    "then": "The martyrs' joy continues here. {reward}They rejoice in favor and bounty from Allah{/reward}, and {idea}that Allah does not let the reward of the believers be lost.{/idea}",
+    "now": "Years of caring for a sick parent. The night prayers no one knew about. The patience with a difficult child. You wonder if any of it was counted. {idea}It was. Not one bit lost.{/idea}",
+    "old": "So much of what I do disappears without a trace.",
+    "new": "Allah keeps every believer's reward; none of it is lost.",
+    "try": "Remind yourself of one quiet sacrifice and tell Allah: I did it for You.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:172", "surah": 3, "ayah": 172, "place": "madinah",
+    "title": "Still wounded, they answered the call again.",
+    "subtitle": "Responding after you have been hurt",
+    "picture": {"kind": "boxes", "label": "After the wound", "row": [
+      {"box": "people", "title": "the wounded", "sub": ["just back from Uhud"]},
+      {"conn": "heard"},
+      {"box": "idea", "title": "the call", "sub": ["of Allah and His Messenger ﷺ"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "responded", "sub": ["a great reward"]}]},
+    "key": {"label": "When to answer", "row": [
+      {"box": "people", "title": "when I have healed", "sub": ["later, not now"], "strike": true},
+      {"box": "idea", "title": "even while hurting", "sub": ["doing good, fearing Allah"]}]},
+    "then": "This describes believers who {idea}responded to Allah and the Messenger ﷺ after injury had struck them.{/idea} Their wounds from Uhud were still fresh. {reward}For those of them who did good and feared Allah, there is a great reward.{/reward}",
+    "now": "You are still hurt from the last time you helped. The volunteering that burned you out. The family member who did not say thank you. A new call comes. {idea}You do not need to be fully healed to answer it.{/idea}",
+    "old": "I will do good again once I have fully recovered.",
+    "new": "Answering the call while still hurt is part of what makes it great.",
+    "try": "Say yes to one small good request today, even though you feel tired.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:173", "surah": 3, "ayah": 173, "place": "madinah",
+    "title": "They warned, be afraid. It only grew their faith.",
+    "subtitle": "Allah is enough for us",
+    "picture": {"kind": "boxes", "label": "The scare", "row": [
+      {"box": "trap", "title": "people said", "sub": ["they have gathered against you"]},
+      {"box": "trap", "title": "so fear them", "sub": ["the message"]},
+      {"conn": "but it"},
+      {"box": "idea", "title": "increased faith", "sub": ["instead of fear"]},
+      {"box": "reward", "title": "Hasbuna Allah", "sub": ["Allah is enough for us"]}]},
+    "key": {"label": "Response to a threat", "row": [
+      {"box": "trap", "title": "panic", "sub": ["count their numbers"], "strike": true},
+      {"box": "idea", "title": "Allah is enough", "sub": ["the best to rely on"]}]},
+    "then": "The same wounded believers were told: {trap}people have gathered against you, so fear them.{/trap} Instead of breaking, {idea}their faith increased{/idea}, and they said: {reward}Allah is sufficient for us, and He is the best Disposer of affairs.{/reward}",
+    "now": "The news says layoffs are coming. The doctor says the results look worrying. The group chat is full of panic. {idea}Say it slowly: Hasbuna Allahu wa ni'mal wakeel.{/idea} Then take the next sensible step.",
+    "old": "When the threat is big, my fear should be big.",
+    "new": "When the threat is big, I remember Allah is enough, and my faith grows.",
+    "try": "Say Hasbuna Allahu wa ni'mal wakeel the next time worrying news reaches you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:174", "surah": 3, "ayah": 174, "place": "madinah",
+    "title": "They went out afraid of nothing and came back blessed.",
+    "subtitle": "No harm touched them",
+    "picture": {"kind": "boxes", "label": "How it ended", "row": [
+      {"box": "people", "title": "they went out", "sub": ["trusting Allah"]},
+      {"conn": "returned with"},
+      {"box": "reward", "title": "favor and bounty", "sub": ["from Allah"]},
+      {"box": "reward", "title": "no harm", "sub": ["touched them"]}]},
+    "key": {"label": "What they followed", "row": [
+      {"box": "trap", "title": "the scare", "sub": ["fear them"], "strike": true},
+      {"box": "idea", "title": "Allah's pleasure", "sub": ["Owner of great bounty"]}]},
+    "then": "After saying Allah is enough for us, {reward}they returned with favor and bounty from Allah, and no harm touched them.{/reward} {idea}They had followed what pleases Allah{/idea}, and He is the Owner of great bounty.",
+    "now": "You went to the hard meeting, made the honest call, visited the relative everyone warned you about. The disaster you dreaded did not come. {reward}You came home lighter.{/reward}",
+    "old": "Doing the right thing under pressure will cost me.",
+    "new": "When I follow Allah's pleasure, I often return with more than I risked.",
+    "try": "Do the one task you have been avoiding out of fear, and leave the result with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:175", "surah": 3, "ayah": 175, "place": "madinah",
+    "title": "That fear in your chest is Shaytan's work.",
+    "subtitle": "Fear Allah, not his allies",
+    "picture": {"kind": "boxes", "label": "Where the fear comes from", "row": [
+      {"box": "trap", "title": "Shaytan", "sub": ["frightens you"]},
+      {"conn": "with"},
+      {"box": "trap", "title": "his allies", "sub": ["look how strong they are"]},
+      {"conn": "answer"},
+      {"box": "idea", "title": "fear Me", "sub": ["if you are believers"]}]},
+    "key": {"label": "Who deserves fear", "row": [
+      {"box": "trap", "title": "the crowd against me", "sub": ["their power"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["fear that frees"]}]},
+    "then": "This explains the scare the believers had just been given. {trap}It is only Shaytan who frightens you with his allies.{/trap} {idea}So do not fear them. Fear Me, if you are believers.{/idea}",
+    "now": "You are afraid to pray at work, afraid to say no to the haram deal, afraid of being laughed at. {trap}That fear is whispered.{/trap} {idea}Fearing Allah first makes the other fears shrink.{/idea}",
+    "old": "Being scared of people who could hurt me is just realism.",
+    "new": "Much of that fear is whispered to stop me; fearing Allah first sets me free.",
+    "try": "Name one fear of people that is stopping a good deed, then do the deed anyway.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:176", "surah": 3, "ayah": 176, "place": "madinah",
+    "title": "Do not let their rush away from faith break you.",
+    "subtitle": "They cannot harm Allah at all",
+    "picture": {"kind": "boxes", "label": "The Prophet's ﷺ sadness", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["eager for people's good"]},
+      {"conn": "saddened by"},
+      {"box": "trap", "title": "those rushing", "sub": ["into disbelief"]},
+      {"conn": "told"},
+      {"box": "idea", "title": "do not grieve", "sub": ["they cannot harm Allah"]}]},
+    "key": {"label": "Whose loss it is", "row": [
+      {"box": "trap", "title": "Allah's cause loses", "sub": ["when they turn away"], "strike": true},
+      {"box": "idea", "title": "they harm themselves", "sub": ["Allah is never harmed"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ was so eager for people's good that {trap}he became sad when they defied and rejected.{/trap} Allah comforts him: {idea}do not let them grieve you, they will never harm Allah at all.{/idea}",
+    "now": "Your brother stops praying. A friend you brought to the masjid walks away and mocks it. You feel it as your failure. {idea}Care, pray for them, keep the door open.{/idea} But their choice does not harm Allah, and it does not have to crush you.",
+    "old": "If someone I love leaves the faith, it is on me.",
+    "new": "I keep caring and praying, but their choice cannot harm Allah and does not have to break me.",
+    "try": "Make a short dua for one person who has drifted, then let the worry rest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

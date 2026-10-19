@@ -1,0 +1,284 @@
+[
+  {
+    "id": "21:30", "surah": 21, "ayah": 30, "place": "makkah",
+    "title": "Heaven and earth were one, then parted; all life from water.",
+    "subtitle": "The beginning of creation as a sign of the Creator",
+    "picture": {"kind": "boxes", "label": "How it began", "row": [
+      {"box": "plain", "title": "joined", "sub": ["one piece, no rain, no growth"]},
+      {"conn": "parted"},
+      {"box": "idea", "title": "sky and earth", "sub": ["rain and plants"]},
+      {"box": "reward", "title": "water", "sub": ["origin of all life"]}]},
+    "key": {"label": "What you see daily", "row": [
+      {"box": "people", "title": "just nature", "sub": ["nothing to notice"], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["He is One, in control"]}]},
+    "then": "Ibn 'Abbas explained that the heavens were joined and gave no rain, and the earth was joined and grew nothing. {idea}Then rain came from the sky and plants from the earth.{/idea} The tafsir says people see creation develop step by step, and {idea}in everything there is a sign of Him{/idea}.",
+    "now": "You fill a glass from the tap without a thought. You water the plant on the windowsill. You watch a child drink after football. {reward}Every living thing you see began from water.{/reward} {idea}The ordinary is full of signs.{/idea}",
+    "old": "Water and rain are just part of how the world works.",
+    "new": "Every drink of water points back to the One who made all life from it.",
+    "try": "With your next glass of water, drink slowly and say Alhamdulillah after.",
+    "related": ["51:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:31", "surah": 21, "ayah": 31, "place": "makkah",
+    "title": "Mountains keep the ground steady; passes let people find their way.",
+    "subtitle": "Stability and roads, both placed with care",
+    "picture": {"kind": "boxes", "label": "Two gifts in the land", "row": [
+      {"box": "reward", "title": "mountains", "sub": ["steady the earth"]},
+      {"box": "reward", "title": "passes", "sub": ["roads through barriers"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "guided", "sub": ["you find your way"]}]},
+    "key": {"label": "What barriers hold", "row": [
+      {"box": "trap", "title": "a dead end", "sub": ["no way through"], "strike": true},
+      {"box": "idea", "title": "a pass", "sub": ["a way was placed"]}]},
+    "then": "The tafsir says the mountains {reward}stabilize the earth and keep it steady{/reward}, so it does not shake under people. Mountains form barriers between lands, so {idea}Allah created gaps, passes, through them{/idea} so people could travel and be guided.",
+    "now": "You stand on solid floor every morning without thinking about it. You drive the motorway that cuts through the hills. {idea}Steady ground and a road through are both gifts.{/idea} {reward}When life blocks you, a pass is often already placed.{/reward}",
+    "old": "Solid ground and open roads are just there.",
+    "new": "The steadiness under my feet and the way through are both placed for me.",
+    "try": "On your next journey, notice one road or bridge and thank Allah for the way through.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:32", "surah": 21, "ayah": 32, "place": "makkah",
+    "title": "The sky is a guarded roof, and still they look away.",
+    "subtitle": "Passing by the biggest sign above you",
+    "picture": {"kind": "boxes", "label": "Above you", "row": [
+      {"box": "reward", "title": "the sky", "sub": ["a roof, a dome"]},
+      {"box": "idea", "title": "guarded", "sub": ["high, protected"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "turning away", "sub": ["from its signs"]}]},
+    "key": {"label": "How people treat it", "row": [
+      {"box": "trap", "title": "background", "sub": ["never looked at"], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["vast, built, adorned"]}]},
+    "then": "Allah made the heaven {reward}like a dome covering the earth, high and protected{/reward}. Yet people {trap}turn away from its signs{/trap}. The tafsir says they do not think about how it was made so vast and high, adorned with bodies moving by night and day.",
+    "now": "You walk to the car under a full sky and your eyes are on the phone. {trap}Days pass without once looking up.{/trap} {idea}The largest sign of Allah's care is over your head right now.{/idea}",
+    "old": "The sky is just there; there is nothing new in it.",
+    "new": "The sky is a roof built and guarded for me. It deserves a look.",
+    "try": "Step outside tonight and look up at the sky for one full minute.",
+    "related": ["50:6", "12:105"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:33", "surah": 21, "ayah": 33, "place": "makkah",
+    "title": "Night, day, sun and moon, each swimming in its orbit.",
+    "subtitle": "The steady rhythm of time as His creation",
+    "picture": {"kind": "boxes", "label": "What He made", "row": [
+      {"box": "people", "title": "night", "sub": ["stillness"]},
+      {"box": "people", "title": "day", "sub": ["light, work"]},
+      {"box": "idea", "title": "sun, moon", "sub": ["each its own path"]},
+      {"conn": "all"},
+      {"box": "reward", "title": "in orbit", "sub": ["floating, revolving"]}]},
+    "key": {"label": "What time is", "row": [
+      {"box": "people", "title": "just hours", "sub": ["to get through"], "strike": true},
+      {"box": "idea", "title": "His design", "sub": ["each with its term"]}]},
+    "then": "The tafsir describes night with its darkness and stillness, day with its light and human activity, {idea}sometimes one longer, then they switch{/idea}. Sun and moon each have their own light, path, and term. Ibn 'Abbas said they {reward}revolve like a spinning wheel{/reward}.",
+    "now": "Your alarm goes off, the sun is up, the bus comes, night falls, you sleep. {trap}It feels like a loop you're stuck in.{/trap} {idea}Each turn is a creation of Allah, running on time{/idea}, and your days are inside that order.",
+    "old": "Day after day is just a routine to get through.",
+    "new": "Each day and night is His creation, given to me in order.",
+    "try": "At sunset today, pause and say a short dua for the night ahead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:34", "surah": 21, "ayah": 34, "place": "makkah",
+    "title": "No one before you lived forever. Will they?",
+    "subtitle": "Waiting for someone else to die changes nothing",
+    "picture": {"kind": "boxes", "label": "Their hope", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["will die"]},
+      {"conn": "and they"},
+      {"box": "trap", "title": "live on?", "sub": ["forever after him"]},
+      {"box": "idea", "title": "no one", "sub": ["everything passes"]}]},
+    "key": {"label": "Who is mortal", "row": [
+      {"box": "people", "title": "the others", "sub": ["not me, not yet"], "strike": true},
+      {"box": "idea", "title": "everyone", "sub": ["no human is immortal"]}]},
+    "then": "Allah tells the Prophet ﷺ that {idea}no human before him was given immortality in this world{/idea}. His opponents {trap}hoped they would live on after him{/trap}, the tafsir says, but that will not happen; everything will pass away.",
+    "now": "You wait for a difficult boss to retire, or a rival to move away, as if then life begins. {trap}It is easy to live as if you are the one who stays.{/trap} {idea}You are on the same clock as everyone else.{/idea}",
+    "old": "Things will be better once certain people are gone.",
+    "new": "No one stays. My time is as short as theirs, so I use it now.",
+    "try": "Stop waiting on one person to change. Do one thing today that does not depend on them.",
+    "related": ["55:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:35", "surah": 21, "ayah": 35, "place": "makkah",
+    "title": "Every soul tastes death; hard and easy times are both tests.",
+    "subtitle": "Good days test you as much as bad ones",
+    "picture": {"kind": "boxes", "label": "The test", "row": [
+      {"box": "trap", "title": "evil", "sub": ["illness, poverty, hardship"]},
+      {"box": "reward", "title": "good", "sub": ["health, wealth, ease"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "a trial", "sub": ["thanks or ingratitude?"]},
+      {"box": "people", "title": "return", "sub": ["to Him"]}]},
+    "key": {"label": "Which is the test", "row": [
+      {"box": "people", "title": "only bad times", "sub": [], "strike": true},
+      {"box": "idea", "title": "good times too", "sub": ["patience and gratitude"]}]},
+    "then": "The tafsir explains: Allah tests people {trap}sometimes with difficulties{/trap} and {reward}sometimes with ease{/reward}, to see who gives thanks and who is ungrateful, who has patience and who despairs. Ibn 'Abbas listed health and sickness, richness and poverty. {idea}Then all return to Him.{/idea}",
+    "now": "The promotion came through. The scan came back clear. The kids are healthy. You relax and forget to pray on time. {idea}The good stretch is also the exam.{/idea} {reward}Thanks is how you pass it.{/reward}",
+    "old": "Tests are the hard times. Good times are a break.",
+    "new": "Ease is as much a test as hardship. Each asks a different thing of me.",
+    "try": "Name the best thing in your life right now and thank Allah for it in your next prayer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:36", "surah": 21, "ayah": 36, "place": "makkah",
+    "title": "They mocked him for speaking of their gods, yet denied the Merciful.",
+    "subtitle": "Outrage over idols, indifference to Allah",
+    "picture": {"kind": "boxes", "label": "Their reaction", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": []},
+      {"conn": "mocked"},
+      {"box": "trap", "title": "your gods", "sub": ["\"he insults them\""]},
+      {"box": "trap", "title": "the Merciful", "sub": ["denied, no outrage"]}]},
+    "key": {"label": "What they defended", "row": [
+      {"box": "trap", "title": "guard the idols", "sub": ["outraged at a word"], "strike": true},
+      {"box": "idea", "title": "honor Ar-Rahman", "sub": ["what deserved their care"]}]},
+    "then": "When Abu Jahl and others of Quraysh saw the Prophet ﷺ, they {trap}made fun of him and insulted him{/trap}: is this the one who talks about your gods? The tafsir notes the irony: {idea}they disbelieved in Allah and yet they mocked the Messenger{/idea}.",
+    "now": "Someone criticises your team, your phone brand, your favourite influencer, and you jump in to defend them. But you scroll past mockery of Allah's name. {trap}What we defend shows what we love.{/trap} {idea}Notice where your loyalty jumps first.{/idea}",
+    "old": "I just defend what I care about.",
+    "new": "What I rush to defend shows what holds my heart. Allah should come first.",
+    "try": "Notice the next thing you rush to defend today. Ask if Allah gets that same care.",
+    "related": ["25:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:37", "surah": 21, "ayah": 37, "place": "makkah",
+    "title": "Man is made of haste. Do not rush Allah.",
+    "subtitle": "His timing is deliberate, even when you want speed",
+    "picture": {"kind": "boxes", "label": "Two speeds", "row": [
+      {"box": "people", "title": "human", "sub": ["made of haste"]},
+      {"conn": "wants"},
+      {"box": "trap", "title": "now", "sub": ["justice today"]},
+      {"box": "idea", "title": "Allah", "sub": ["delays, then acts"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "trap", "title": "nothing happens", "sub": ["He doesn't see"], "strike": true},
+      {"box": "idea", "title": "it is timed", "sub": ["He will show His signs"]}]},
+    "then": "When believers saw the Prophet ﷺ mocked, they {trap}wanted swift vengeance{/trap}. The tafsir says haste is mentioned for this reason. Allah delays, then when He seizes, {idea}He will never let go{/idea}. So He says: I will show you My signs; do not ask Me to hurry.",
+    "now": "Someone wronged you and seems to be doing fine. You want them exposed this week. You refresh their page. {trap}Haste is in our nature.{/trap} {idea}Allah's timing is not slow; it is exact.{/idea}",
+    "old": "If justice does not come soon, it is not coming.",
+    "new": "I am made of haste. Allah is not. His delay is not neglect.",
+    "try": "Hand one grievance to Allah in dua today and stop checking on it.",
+    "related": ["17:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:38", "surah": 21, "ayah": 38, "place": "makkah",
+    "title": "So when is this promise? they asked, mocking.",
+    "subtitle": "Asking for the Day as a joke",
+    "picture": {"kind": "boxes", "label": "Their challenge", "row": [
+      {"box": "trap", "title": "when?", "sub": ["\"if you're truthful\""]},
+      {"conn": "out of"},
+      {"box": "trap", "title": "denial", "sub": ["it will never happen"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "people", "title": "not coming", "sub": ["so it's a bluff"], "strike": true},
+      {"box": "idea", "title": "not yet", "sub": ["time still given"]}]},
+    "then": "The idolaters tried to hasten the punishment. The tafsir says they did it {trap}out of denial, rejection, stubbornness, and a belief that it will never happen{/trap}. The surah introduction notes they took the lack of punishment so far as proof the warnings were empty.",
+    "now": "You hear about the Day of Judgement and think, people have said it was near for centuries. {trap}The delay feels like proof it's not real.{/trap} {idea}The delay is the time you have been given.{/idea}",
+    "old": "If it was coming, it would have come by now.",
+    "new": "The delay is not evidence against the Day. It is mercy giving me time.",
+    "try": "Use one minute of today's delay well: make one dua for your own ending.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:39", "surah": 21, "ayah": 39, "place": "makkah",
+    "title": "If they only knew, they would not ask to hurry it.",
+    "subtitle": "Certainty would end the mocking",
+    "picture": {"kind": "boxes", "label": "If they knew", "row": [
+      {"box": "trap", "title": "the Fire", "sub": ["cannot be warded off"]},
+      {"box": "trap", "title": "no helper", "sub": []},
+      {"conn": "then"},
+      {"box": "idea", "title": "no hurry", "sub": ["no jokes"]}]},
+    "key": {"label": "What changes behavior", "row": [
+      {"box": "people", "title": "hearing about it", "sub": [], "strike": true},
+      {"box": "idea", "title": "being certain", "sub": ["it will come"]}]},
+    "then": "The tafsir explains: {idea}if only they knew for certain that it will inevitably come{/idea}, they would not seek to hasten it. They would {trap}not be able to ward it off and would have no helper{/trap}. Their jokes came from not knowing.",
+    "now": "You read the warning on the cigarette pack and joke about it. Your friend in the hospital ward does not. {idea}Certainty changes everything.{/idea} {reward}Knowing now, while it can help you, is the gift.{/reward}",
+    "old": "I know the Day is coming, but it does not feel real.",
+    "new": "If I were truly certain, I would live differently. Certainty is worth seeking.",
+    "try": "Read one verse about the Hereafter today slowly, and let it feel real.",
+    "related": ["13:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:40", "surah": 21, "ayah": 40, "place": "makkah",
+    "title": "It will come suddenly, and no one will push it back.",
+    "subtitle": "No delay once it arrives",
+    "picture": {"kind": "boxes", "label": "When it comes", "row": [
+      {"box": "trap", "title": "sudden", "sub": ["a surprise"]},
+      {"box": "trap", "title": "bewildering", "sub": []},
+      {"conn": "and"},
+      {"box": "plain", "title": "no respite", "sub": ["not an instant"]}]},
+    "key": {"label": "When to prepare", "row": [
+      {"box": "trap", "title": "when I see it", "sub": ["I'll get ready"], "strike": true},
+      {"box": "idea", "title": "now", "sub": ["it gives no notice"]}]},
+    "then": "The tafsir says it will {trap}take them by surprise{/trap}, scare them, and leave them confused. They will have no means to avert it, and {idea}it will not be delayed for them even for an instant{/idea}. The mockers asked when; the answer is: without warning.",
+    "now": "The call in the middle of the night. The car that didn't stop. {trap}Endings rarely book an appointment.{/trap} {idea}The only preparation that works is the one you start before.{/idea}",
+    "old": "I will know when it is time to get serious.",
+    "new": "It comes without notice. The time to get ready is while I have time.",
+    "try": "Settle one thing you would regret leaving undone: a debt, an apology, a will.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:41", "surah": 21, "ayah": 41, "place": "makkah",
+    "title": "Messengers were mocked before you; the mockers met what they mocked.",
+    "subtitle": "Consolation for the Prophet in his pain",
+    "picture": {"kind": "boxes", "label": "The old pattern", "row": [
+      {"box": "people", "title": "messengers", "sub": ["mocked"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "the mockers", "sub": ["surrounded"]},
+      {"conn": "by"},
+      {"box": "trap", "title": "what they mocked", "sub": ["the warning, come true"]}]},
+    "key": {"label": "What mockery means", "row": [
+      {"box": "people", "title": "I'm failing", "sub": ["they laugh at me"], "strike": true},
+      {"box": "reward", "title": "I'm in good company", "sub": ["the messengers too"]}]},
+    "then": "Allah {reward}consoles His Messenger ﷺ{/reward} for the pain and insult of the mockery. Messengers before him were mocked, and {trap}the scoffers were surrounded by the punishment they thought would never come{/trap}. Another verse adds that they bore it with patience until help came.",
+    "now": "Your cousins laugh when you skip the drink at the wedding. A coworker makes a joke about your prayer break. {trap}It stings.{/trap} {reward}Better people than you were laughed at for less, and they were right.{/reward}",
+    "old": "Being mocked for my faith means I am doing something wrong.",
+    "new": "The messengers were mocked too. Mockery does not make the truth less true.",
+    "try": "Next time you are teased for your faith, smile, stay kind, and keep going.",
+    "related": ["6:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:42", "surah": 21, "ayah": 42, "place": "makkah",
+    "title": "Who guards you by night and day but the Most Merciful?",
+    "subtitle": "The protection you never notice",
+    "picture": {"kind": "boxes", "label": "Day and night", "row": [
+      {"box": "people", "title": "you", "sub": ["asleep, at work"]},
+      {"conn": "guarded by"},
+      {"box": "reward", "title": "Ar-Rahman", "sub": ["His Eye never sleeps"]},
+      {"box": "trap", "title": "turned away", "sub": ["from His remembrance"]}]},
+    "key": {"label": "Who keeps you safe", "row": [
+      {"box": "people", "title": "locks, alarms", "sub": ["my own care"], "strike": true},
+      {"box": "reward", "title": "Allah", "sub": ["watching over me"]}]},
+    "then": "The tafsir speaks of Allah's {reward}favor for His creatures{/reward}: He protects them by night and by day, watching over them with His Eye that never sleeps. Yet {trap}they turn away from the remembrance of their Lord{/trap} and do not recognize His blessings.",
+    "now": "You lock the door, set the alarm, check the kids are asleep. You drive home on autopilot. {reward}Every safe night is a protection you never saw.{/reward} {idea}Remembering Him is how you notice it.{/idea}",
+    "old": "I keep myself and my family safe.",
+    "new": "My care is real, but my safety is from Allah, every hour.",
+    "try": "Tonight before sleeping, say a short dua placing your family in Allah's care.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:43", "surah": 21, "ayah": 43, "place": "makkah",
+    "title": "Their gods cannot even help themselves.",
+    "subtitle": "The weakness of what people rely on besides Allah",
+    "picture": {"kind": "boxes", "label": "Their protectors", "row": [
+      {"box": "trap", "title": "other gods", "sub": ["relied upon"]},
+      {"conn": "cannot"},
+      {"box": "trap", "title": "help themselves", "sub": []},
+      {"box": "trap", "title": "be shielded", "sub": ["from Allah"]}]},
+    "key": {"label": "The question", "row": [
+      {"box": "people", "title": "they protect me", "sub": [], "strike": true},
+      {"box": "idea", "title": "who protects them?", "sub": ["no one but Allah"]}]},
+    "then": "Allah asks, in a question meant to rebuke: {trap}do they have gods who can protect them other than Us?{/trap} The tafsir answers: these gods {idea}cannot even help themselves{/idea}, nor can they be guarded from Allah.",
+    "now": "You count on the bank, the government scheme, the influential uncle. When the market drops or the uncle falls ill, {trap}they cannot save themselves{/trap}. {idea}Lean on what cannot fall.{/idea}",
+    "old": "With the right backing, I am covered.",
+    "new": "Anything that cannot protect itself cannot truly protect me. Only Allah can.",
+    "try": "In one worry today, say Hasbunallahu wa ni'mal wakil before you act.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "id": "71:15", "surah": 71, "ayah": 15, "place": "makkah",
+    "title": "Seven heavens, one above another.",
+    "subtitle": "Nuh points his people to the sky",
+    "picture": {"kind": "boxes", "label": "What he asks them to see", "row": [
+      {"box": "people", "title": "his people", "sub": ["looking at idols"]},
+      {"conn": "look up at"},
+      {"box": "idea", "title": "7", "sub": ["heavens in layers"], "num": true}]},
+    "key": {"label": "Where to look", "row": [
+      {"box": "people", "title": "statues we made", "sub": ["small, carved by hand"], "strike": true},
+      {"box": "idea", "title": "the sky He made", "sub": ["layer upon layer"]}]},
+    "then": "Nuh moves from their bodies to the sky. Ibn Kathir says the heavens are {idea}one above another.{/idea} He notes that scholars hold many opinions on the details, but {idea}the point is Allah's creation{/idea}, set against the idols they worshipped.",
+    "now": "You spend most of the day looking down: at a screen, a desk, a steering wheel. {idea}Nuh's first argument was simply: look up.{/idea} The sky is the oldest reminder there is.",
+    "old": "The sky is just background to my busy life.",
+    "new": "The heavens above me are a sign pointing to their Maker.",
+    "try": "Step outside tonight and look up at the sky for one full minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:16", "surah": 71, "ayah": 16, "place": "makkah",
+    "title": "The moon a light, the sun a lamp.",
+    "subtitle": "Two lights, two different jobs",
+    "picture": {"kind": "boxes", "label": "Two lights", "row": [
+      {"box": "reward", "title": "the moon", "sub": ["a light, waxing and waning"]},
+      {"box": "reward", "title": "the sun", "sub": ["a lamp, rising and setting"]},
+      {"conn": "so you know"},
+      {"box": "idea", "title": "time", "sub": ["days, months, years"]}]},
+    "key": {"label": "What they show", "row": [
+      {"box": "people", "title": "just nature", "sub": ["random lights"], "strike": true},
+      {"box": "idea", "title": "measured design", "sub": ["each with its own role"]}]},
+    "then": "Ibn Kathir says Allah {idea}made a distinction between them in their light{/idea}. The sun marks day and night. The moon's light grows and shrinks to show {idea}the passing of months and years.{/idea} He links it to the verse about the moon's measured stages.",
+    "now": "Your calendar app, your Ramadan countdown, your morning alarm. All of it rests on two lights you never set. {idea}Every timetable you live by is borrowed from His design.{/idea}",
+    "old": "The sun and moon are just there. I never think about them.",
+    "new": "The lights that run my calendar were placed with care by Allah.",
+    "try": "Notice the moon's shape tonight and say subhanallah.",
+    "related": ["10:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:17", "surah": 71, "ayah": 17, "place": "makkah",
+    "title": "He grew you from the earth like a plant.",
+    "subtitle": "Human beings as something grown",
+    "picture": {"kind": "boxes", "label": "Your origin", "row": [
+      {"box": "plain", "title": "the earth", "sub": ["dust, soil"]},
+      {"conn": "grew"},
+      {"box": "people", "title": "you", "sub": ["like a plant grows"]}]},
+    "key": {"label": "What I am", "row": [
+      {"box": "people", "title": "self-made", "sub": ["I built myself"], "strike": true},
+      {"box": "idea", "title": "grown by Allah", "sub": ["from the earth"]}]},
+    "then": "Ibn Kathir notes the word for growing here is repeated for emphasis, and {idea}its use here is most excellent.{/idea} Nuh tells his people they came from the earth the way a plant does, raised by Allah.",
+    "now": "You water a plant on the windowsill and watch it lean toward the light. You did not make it grow. You only gave it what it needed. {idea}Allah grew you the same way, from the same ground.{/idea}",
+    "old": "I made myself into who I am.",
+    "new": "I was grown from the earth by Allah, like everything that lives.",
+    "try": "Water a plant or touch soil today and remember where you came from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:18", "surah": 71, "ayah": 18, "place": "makkah",
+    "title": "Back into the earth, then out again.",
+    "subtitle": "Death and resurrection in one line",
+    "picture": {"kind": "boxes", "label": "The cycle", "row": [
+      {"box": "people", "title": "you live", "sub": ["grown from earth"]},
+      {"conn": "returned"},
+      {"box": "plain", "title": "the grave", "sub": ["back into the earth"]},
+      {"conn": "brought out"},
+      {"box": "idea", "title": "the Day", "sub": ["created again"]}]},
+    "key": {"label": "The end of the story", "row": [
+      {"box": "people", "title": "the grave", "sub": ["the end"], "strike": true},
+      {"box": "idea", "title": "a waiting room", "sub": ["before rising"]}]},
+    "then": "Ibn Kathir says He returns you to the earth {idea}when you die{/idea}, and on the Day of Judgement {idea}He will repeat your creation just as He first made you.{/idea} Nuh's people, like Quraysh later, struggled with that second part.",
+    "now": "You stand at a funeral, watching the earth go back over someone you loved. It feels final. {idea}The verse says the earth is holding them, not keeping them.{/idea}",
+    "old": "When someone is buried, that is the end of them.",
+    "new": "The earth that took us back will give us up again.",
+    "try": "Make dua today for one person you know who has passed away.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:19", "surah": 71, "ayah": 19, "place": "makkah",
+    "title": "He spread the earth out like a carpet.",
+    "subtitle": "The ground you stand on is a gift",
+    "picture": {"kind": "boxes", "label": "The earth", "row": [
+      {"box": "idea", "title": "spread out", "sub": ["levelled, settled"]},
+      {"box": "idea", "title": "made firm", "sub": ["steadied by mountains"]},
+      {"conn": "for"},
+      {"box": "people", "title": "you", "sub": ["to live on"]}]},
+    "key": {"label": "The ground beneath me", "row": [
+      {"box": "people", "title": "just the floor", "sub": ["nothing to notice"], "strike": true},
+      {"box": "reward", "title": "a spread carpet", "sub": ["laid out for me"]}]},
+    "then": "Ibn Kathir says He {idea}spread it out, levelled it, settled it, and steadied it with firm mountains.{/idea} Nuh lists this as a favour, a reason the people should worship the One who gave it, not their idols.",
+    "now": "You roll out a prayer mat on your bedroom floor. Under it is a building, and under that is the ground, laid flat and steady. {reward}The first prayer mat was the earth itself.{/reward}",
+    "old": "The ground under me is just there.",
+    "new": "The steady earth I stand on was spread out for me as a gift.",
+    "try": "In your next sujood, notice the ground under your forehead and thank Allah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:20", "surah": 71, "ayah": 20, "place": "makkah",
+    "title": "So you can travel its wide roads.",
+    "subtitle": "Movement and freedom as signs",
+    "picture": {"kind": "boxes", "label": "Why it was spread", "row": [
+      {"box": "reward", "title": "a wide earth", "sub": ["spread out"]},
+      {"conn": "so you"},
+      {"box": "people", "title": "travel", "sub": ["broad roads, every region"]}]},
+    "key": {"label": "Who to thank", "row": [
+      {"box": "people", "title": "the idols", "sub": ["what they worshipped"], "strike": true},
+      {"box": "idea", "title": "the Creator", "sub": ["heaven and earth"]}]},
+    "then": "Ibn Kathir says He made it so you can {idea}settle in it and travel wherever you wish.{/idea} This closes Nuh's argument: heavenly and earthly favours, all from Allah. {idea}He alone should be worshipped{/idea}, with no partner.",
+    "now": "A road trip with the windows down. A flight to see family. The commute you hate. {idea}Every road you travel runs across ground He spread out.{/idea} Nuh hoped those blessings would bring his people home to Allah.",
+    "old": "Travel and freedom are just how life is.",
+    "new": "Every road I travel is a favour, and a reason to thank Allah.",
+    "try": "On your next journey, say the travel dua or simply bismillah as you set off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:21", "surah": 71, "ayah": 21, "place": "makkah",
+    "title": "They followed those whose wealth only added loss.",
+    "subtitle": "Following the rich instead of the right",
+    "picture": {"kind": "boxes", "label": "Who they followed", "row": [
+      {"box": "people", "title": "the people", "sub": ["disobeyed Nuh"]},
+      {"conn": "followed"},
+      {"box": "reward", "title": "the wealthy chiefs", "sub": ["money, sons"]},
+      {"conn": "which gave"},
+      {"box": "trap", "title": "only loss", "sub": ["no real gain"]}]},
+    "key": {"label": "What wealth signals", "row": [
+      {"box": "people", "title": "honour", "sub": ["they must be right"], "strike": true},
+      {"box": "trap", "title": "a respite", "sub": ["a delay, not a blessing"]}]},
+    "then": "Ibn Kathir says they followed {trap}the children of the world, heedless of Allah's command{/trap}, who had wealth and children. Those things were {trap}gradual punishment and temporary respite, not honour or blessing.{/trap}",
+    "now": "Your feed is full of people with big houses and big followings telling you how to live. It is easy to assume success means they are right. {idea}Wealth is not a sign of being on the right path.{/idea}",
+    "old": "Successful people must know something I do not.",
+    "new": "Money and influence can be a loss in disguise. They prove nothing.",
+    "try": "Unfollow one account today that makes you measure life by money.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:22", "surah": 71, "ayah": 22, "place": "makkah",
+    "title": "And they plotted a massive plot.",
+    "subtitle": "Leaders who deceived their followers",
+    "picture": {"kind": "boxes", "label": "The plot", "row": [
+      {"box": "people", "title": "the chiefs", "sub": ["wealthy, powerful"]},
+      {"conn": "deceived"},
+      {"box": "people", "title": "their followers", "sub": ["into thinking it was truth"]}]},
+    "key": {"label": "On that Day", "row": [
+      {"box": "people", "title": "we were just following", "sub": ["not our fault"], "strike": true},
+      {"box": "trap", "title": "each is asked", "sub": ["leaders and followers alike"]}]},
+    "then": "Ibn Kathir says they {trap}tricked their followers into believing they were following the truth.{/trap} He cites the verse where the followers later say: {trap}it was your plotting night and day{/trap}, when you ordered us to disbelieve.",
+    "now": "Someone you trust tells you everyone does it, it is fine, scholars are too strict. It sounds convincing because of who says it. {idea}Check where you are being led, not just who is leading.{/idea}",
+    "old": "If people I respect say it is fine, I am safe following them.",
+    "new": "Following someone does not shift my responsibility onto them.",
+    "try": "Pick one thing you do just because others do it. Look up what the deen says.",
+    "related": ["34:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:23", "surah": 71, "ayah": 23, "place": "makkah",
+    "title": "Do not abandon Wadd, Suwa, Yaghuth, Ya'uq and Nasr.",
+    "subtitle": "How honouring good people became idol worship",
+    "picture": {"kind": "boxes", "label": "How it happened", "row": [
+      {"box": "people", "title": "righteous men", "sub": ["among Nuh's people"]},
+      {"conn": "died, then"},
+      {"box": "plain", "title": "statues", "sub": ["to remember them"]},
+      {"conn": "knowledge lost"},
+      {"box": "trap", "title": "idols", "sub": ["worshipped"]}]},
+    "key": {"label": "The slow slide", "row": [
+      {"box": "people", "title": "it started innocent", "sub": ["just to remember"]},
+      {"box": "trap", "title": "it ended in shirk", "sub": ["once knowledge was gone"]}]},
+    "then": "Ibn Abbas said these were named after {idea}righteous men of Nuh's people.{/idea} After they died, Shaytan inspired people to erect statues of them. {trap}They were not worshipped until the builders died and the knowledge was lost.{/trap}",
+    "now": "A habit that began as a reminder becomes the thing itself. A tradition loses its reason and becomes a rule. {idea}Knowledge is what keeps good things from turning into wrong ones.{/idea}",
+    "old": "Small additions to worship are harmless if the intention is good.",
+    "new": "When knowledge fades, good intentions can slide into serious error.",
+    "try": "Learn the reason behind one practice you do today, from a reliable source.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:24", "surah": 71, "ayah": 24, "place": "makkah",
+    "title": "They led many astray.",
+    "subtitle": "The damage outlived the people who did it",
+    "picture": {"kind": "boxes", "label": "How far it spread", "row": [
+      {"box": "trap", "title": "the idols", "sub": ["of Nuh's people"]},
+      {"conn": "misled"},
+      {"box": "people", "title": "many", "sub": ["for generations after"]}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "trap", "title": "a bad example", "sub": ["keeps misleading"]},
+      {"box": "reward", "title": "a good example", "sub": ["keeps guiding"]}]},
+    "then": "Ibn Kathir says these idols {trap}misled a large number of people{/trap}, continuing through many generations. Ibrahim later prayed to be kept from them. Nuh, after his long struggle, asked Allah to give the stubborn wrongdoers nothing but more error.",
+    "now": "The habit your kids copy. The way you speak about others in front of younger cousins. {idea}What you start can outlive you, for good or bad.{/idea}",
+    "old": "What I do only affects me.",
+    "new": "My example travels further than I think, long after I am gone.",
+    "try": "Do one good thing today in front of a younger person, so they can copy it.",
+    "related": ["14:35", "10:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:25", "surah": 71, "ayah": 25, "place": "makkah",
+    "title": "Because of their sins they were drowned.",
+    "subtitle": "No helper besides Allah",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "trap", "title": "their sins", "sub": ["persistence, rebellion"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "the flood", "sub": ["drowned"]},
+      {"box": "people", "title": "no helpers", "sub": ["none besides Allah"]}]},
+    "key": {"label": "Where safety is", "row": [
+      {"box": "people", "title": "a high mountain", "sub": ["my own plan"], "strike": true},
+      {"box": "reward", "title": "Allah's mercy", "sub": ["the only shelter"]}]},
+    "then": "Ibn Kathir says they drowned for their many sins and {trap}persistence in disbelief{/trap}, and found {trap}no helper to rescue them{/trap}. He cites Nuh's son, who said a mountain would save him, and the reply: {reward}no protector today except for the one Allah has mercy on.{/reward}",
+    "now": "You have backup plans for everything: insurance, savings, a fallback job. Those are wise. {idea}But no plan is a mountain high enough on its own.{/idea} Real safety is His mercy.",
+    "old": "With enough planning, I can protect myself from anything.",
+    "new": "Nothing shelters me from Allah's decree except His mercy.",
+    "try": "Add one dua to your morning today asking Allah for protection and mercy.",
+    "related": ["11:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:26", "surah": 71, "ayah": 26, "place": "makkah",
+    "title": "After 950 years, Nuh asked Allah to end it.",
+    "subtitle": "A prayer made after centuries of patience",
+    "picture": {"kind": "boxes", "label": "When he prayed this", "row": [
+      {"box": "people", "title": "950", "sub": ["years of calling"], "num": true},
+      {"conn": "then"},
+      {"box": "idea", "title": "his dua", "sub": ["leave none of them"]},
+      {"conn": "Allah"},
+      {"box": "idea", "title": "answered", "sub": ["the flood came"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "I give up on them", "sub": ["after one argument"], "strike": true},
+      {"box": "idea", "title": "a prophet, by Allah's leave", "sub": ["after a lifetime of effort"]}]},
+    "then": "Ibn Kathir says Dayyar means {idea}a single one{/idea}, emphasising the request. The introduction notes this was not impatience: after centuries, Nuh saw no hope left, and {idea}his view matched Allah's own decision.{/idea} Even his own son was among the drowned.",
+    "now": "You are tempted to write someone off after one bad year. Nuh waited nine and a half centuries, and only then, as a prophet, made this dua. {idea}Your job is to keep hoping for people.{/idea}",
+    "old": "Some people are simply beyond hope.",
+    "new": "Only Allah knows who is beyond hope. I keep praying for people.",
+    "try": "Make dua for guidance for someone you have quietly written off.",
+    "related": ["11:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:27", "surah": 71, "ayah": 27, "place": "makkah",
+    "title": "If they remain, they will mislead Your servants.",
+    "subtitle": "Nuh's reason came from long experience",
+    "picture": {"kind": "boxes", "label": "His reasoning", "row": [
+      {"box": "people", "title": "Nuh's knowledge", "sub": ["950 years among them"]},
+      {"conn": "saw"},
+      {"box": "trap", "title": "they mislead", "sub": ["future servants of Allah"]},
+      {"box": "trap", "title": "they raise the same", "sub": ["wicked, disbelieving"]}]},
+    "key": {"label": "What he protected", "row": [
+      {"box": "people", "title": "himself", "sub": ["personal anger"], "strike": true},
+      {"box": "idea", "title": "Allah's servants", "sub": ["those yet to come"]}]},
+    "then": "Ibn Kathir says Nuh feared they would {trap}lead astray those Allah would create after them{/trap}. He said this {idea}due to what he knew about them{/idea} from living among them for nine hundred and fifty years. It was concern for future believers.",
+    "now": "Think about what your home teaches: the jokes, the shows, the way prayer is treated. {idea}A household shapes the next generation more than any lecture.{/idea} The question is what yours is passing on.",
+    "old": "What happens in my home is my private business.",
+    "new": "My home passes something on to the next generation. I choose what.",
+    "try": "Bring one small good habit into your home today, like saying bismillah aloud at meals.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "71:28", "surah": 71, "ayah": 28, "place": "makkah",
+    "title": "Forgive me, my parents, and every believer.",
+    "subtitle": "A dua that reaches every believer",
+    "picture": {"kind": "boxes", "label": "Who he prayed for", "row": [
+      {"box": "people", "title": "me", "sub": ["himself first"]},
+      {"box": "people", "title": "my parents", "sub": ["those before him"]},
+      {"box": "people", "title": "my house", "sub": ["believers who enter"]},
+      {"box": "reward", "title": "all believers", "sub": ["men, women, living, dead"]}]},
+    "key": {"label": "How wide is my dua", "row": [
+      {"box": "people", "title": "just me", "sub": ["my own needs"], "strike": true},
+      {"box": "reward", "title": "every believer", "sub": ["past, present, future"]}]},
+    "then": "Nuh's final words begin with forgiveness for himself, his parents, believers who entered his home, and {reward}all believing men and women{/reward}. Ibn Kathir says this includes the living and the dead, and {idea}it is recommended to pray like this{/idea}, following Nuh.",
+    "now": "Your dua list is usually about your job, your exam, your health. Nuh, after 950 hard years, still remembered his parents and every believer. {reward}That includes you, thousands of years later.{/reward}",
+    "old": "My duas are mainly about my own needs.",
+    "new": "A good dua widens out to my parents, my home, and every believer.",
+    "try": "Tonight, recite this dua of Nuh once, for yourself, your parents and all believers.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "id": "55:41", "surah": 55, "ayah": 41, "place": "madinah",
+    "title": "The guilty will be known by their marks.",
+    "subtitle": "Deeds show on a person that Day",
+    "picture": {"kind": "boxes", "label": "Two kinds of marks", "row": [
+      {"box": "trap", "title": "the criminals", "sub": ["known by dark marks"]},
+      {"box": "reward", "title": "the believers", "sub": ["light where wudu touched"]}]},
+    "key": {"label": "What marks me", "row": [
+      {"box": "people", "title": "what I wear or own", "sub": [], "strike": true},
+      {"box": "idea", "title": "what I did", "sub": ["it shows on that Day"]}]},
+    "then": "Ibn Kathir says the criminals will be known by {trap}special marks that distinguish them{/trap}, and they will be seized and taken. He contrasts this with the believers, marked by {reward}light on the parts of the body they washed in wudu{/reward}.",
+    "now": "You do wudu five times a day, sometimes in a rush at a work sink, wiping your arms with a paper towel. {reward}Each time, you are building a light that will show on that Day.{/reward} {idea}Small, repeated acts become your mark.{/idea}",
+    "old": "What I do in private does not show on me.",
+    "new": "My deeds will become visible marks. Wudu is a light I am building now.",
+    "try": "Make your next wudu slowly and with full attention.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:42", "surah": 55, "ayah": 42, "place": "madinah",
+    "title": "Your mark is still being made. Which favor would you deny?",
+    "subtitle": "The refrain after the guilty are known by their marks",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "time to change my mark", "sub": ["before that Day"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "My mark is", "row": [
+      {"box": "people", "title": "fixed already", "sub": [], "strike": true},
+      {"box": "reward", "title": "still being written", "sub": []}]},
+    "then": "After describing how the criminals {trap}will be recognized and seized{/trap}, the refrain asks again. Ibn Kathir says these warnings are a favor because they should move people to {reward}abandon disobedience{/reward} while they still can.",
+    "now": "You think of yourself as a certain kind of person: the angry one, the lazy one, the one who never prays Fajr. {reward}Nothing is sealed yet.{/reward} {idea}Each day you can change what marks you.{/idea}",
+    "old": "This is just who I am.",
+    "new": "The mark I carry on that Day is still being made. That is a favor.",
+    "try": "Choose one small habit that you want to be known for, and do it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:43", "surah": 55, "ayah": 43, "place": "madinah",
+    "title": "This is the Hell the criminals denied.",
+    "subtitle": "What was called a story becomes visible",
+    "picture": {"kind": "boxes", "label": "Then and now", "row": [
+      {"box": "people", "title": "in this life", "sub": ["it does not exist"]},
+      {"conn": "on that Day"},
+      {"box": "trap", "title": "this is it", "sub": ["before their eyes"]}]},
+    "key": {"label": "Denying it", "row": [
+      {"box": "people", "title": "makes it go away", "sub": [], "strike": true},
+      {"box": "trap", "title": "changes nothing", "sub": ["it is real either way"]}]},
+    "then": "Ibn Kathir explains it is said to them: {trap}this is the Fire you used to deny existed{/trap}, now you see it before your eyes. {idea}What they waved away as a story{/idea} stands in front of them.",
+    "now": "You do not open the letter from the bank because you do not want to know. You skip the checkup because the news might be bad. {idea}Not looking does not change what is there.{/idea} Facing it early is the only way to do something about it.",
+    "old": "If I do not think about it, it cannot hurt me.",
+    "new": "Denying something real only removes my chance to prepare for it.",
+    "try": "Face one thing today that you have been avoiding looking at.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:44", "surah": 55, "ayah": 44, "place": "madinah",
+    "title": "They go round between it and boiling water.",
+    "subtitle": "No rest for those who denied",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "the fire", "sub": []},
+      {"conn": "back and forth"},
+      {"box": "trap", "title": "scalding water", "sub": ["heated to the utmost"]}]},
+    "key": {"label": "What I seek protection from", "row": [
+      {"box": "people", "title": "it is only for others", "sub": [], "strike": true},
+      {"box": "idea", "title": "I ask Allah to save me", "sub": ["and act on it"]}]},
+    "then": "Ibn Kathir says they will go between the fire and {trap}hamim, a drink of intense heat{/trap}. Ibn Abbas said it has reached the ultimate temperature. Ibn Kathir adds that punishing the criminals and favoring the mindful are both {idea}from Allah's justice and mercy{/idea}.",
+    "now": "You feel that restlessness already in small form: going back and forth between two bad options, no peace in either. {idea}That is a taste of a life lived away from Allah.{/idea} Peace is found by turning to Him.",
+    "old": "Hellfire is something I do not need to think about.",
+    "new": "Knowing the punishment is real makes me hold on to Allah's mercy tighter.",
+    "try": "Ask Allah today, in your own words, to protect you and your family from the Fire.",
+    "related": ["40:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:45", "surah": 55, "ayah": 45, "place": "madinah",
+    "title": "Warned before it is real. Which favor would you deny?",
+    "subtitle": "The refrain that closes the description of Hell",
+    "picture": {"kind": "boxes", "label": "Why this is a favor", "row": [
+      {"box": "trap", "title": "the punishment", "sub": ["described clearly"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "people turn back", "sub": ["from shirk and disobedience"]}]},
+    "key": {"label": "The favor is", "row": [
+      {"box": "trap", "title": "the fire", "sub": [], "strike": true},
+      {"box": "reward", "title": "the warning of it", "sub": ["given in time"]}]},
+    "then": "Ibn Kathir says Allah's warnings, {idea}such as mentioned in these verses{/idea}, should encourage all creatures to leave shirk and disobedience, and {reward}this is why Allah reminded them of this favor{/reward} with the refrain.",
+    "now": "A doctor shows you an X-ray and says: if you keep smoking, this is where it goes. It is hard to look at. {reward}It is also the kindest thing anyone has done for you this year.{/reward}",
+    "old": "A merciful Lord would not talk about punishment.",
+    "new": "Telling me clearly what to avoid is part of His mercy.",
+    "try": "Leave one small sin today, for the sake of the warning you just read.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:46", "surah": 55, "ayah": 46, "place": "madinah",
+    "title": "Whoever fears standing before his Lord gets two gardens.",
+    "subtitle": "The turn from warning to reward",
+    "picture": {"kind": "boxes", "label": "What earns the gardens", "row": [
+      {"box": "people", "title": "fearing the standing", "sub": ["before his Lord"]},
+      {"box": "people", "title": "restraining desire", "sub": []},
+      {"conn": "earns"},
+      {"box": "reward", "title": "two gardens", "sub": []}]},
+    "key": {"label": "What this fear is", "row": [
+      {"box": "trap", "title": "panic", "sub": ["that freezes me"], "strike": true},
+      {"box": "idea", "title": "awareness", "sub": ["that guides my choices"]}]},
+    "then": "Ibn Kathir links it to the verse about one who {idea}restrained himself from desires{/idea}. Such a person knows the Hereafter is better and more lasting, so he does what his Lord ordered. Ibn Kathir says this includes believing jinn, since {reward}both are reminded of this favor{/reward}.",
+    "now": "Late at night, the phone in your hand, nobody watching. You think for one second: one day I will stand before Allah. You put it down. {reward}That second is what this verse is about.{/reward}",
+    "old": "Fearing Allah means feeling bad all the time.",
+    "new": "Remembering I will stand before Him in the moment of choice is what earns gardens.",
+    "try": "In one moment of temptation today, pause and picture standing before your Lord.",
+    "related": ["79:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:47", "surah": 55, "ayah": 47, "place": "madinah",
+    "title": "Two gardens for one fear. Which favor would you deny?",
+    "subtitle": "The refrain after the promise of two gardens",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "people", "title": "one inner fear", "sub": ["of standing before Him"]},
+      {"conn": "repaid with"},
+      {"box": "reward", "title": "two gardens", "sub": []}]},
+    "key": {"label": "The exchange", "row": [
+      {"box": "people", "title": "what I give up", "sub": ["a passing desire"]},
+      {"box": "reward", "title": "what I get", "sub": ["two gardens"]}]},
+    "then": "Ibn Kathir says this verse applies to {idea}both humans and jinn{/idea}, because Allah reminds both of this favor. The Prophet ﷺ described gardens of silver and gardens of gold, and in Adn {reward}nothing stands between the people and looking at their Lord but the covering of His pride{/reward}.",
+    "now": "You give up a weekend of fun to care for a sick parent. You skip the deal that was not quite honest. It feels like losing. {reward}The exchange rate is two gardens.{/reward}",
+    "old": "Giving up something for Allah means I lose out.",
+    "new": "Every desire I leave for Allah is repaid far beyond its worth.",
+    "try": "Give up one small thing today for Allah's sake, and remember the exchange.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:48", "surah": 55, "ayah": 48, "place": "madinah",
+    "title": "Gardens with spreading branches.",
+    "subtitle": "Trees full of fresh growth and fruit",
+    "picture": {"kind": "boxes", "label": "The gardens' trees", "row": [
+      {"box": "reward", "title": "afnan", "sub": ["young, spreading branches"]},
+      {"conn": "reaching"},
+      {"box": "reward", "title": "each other", "sub": ["heavy with ripe fruit"]}]},
+    "key": {"label": "What it pictures", "row": [
+      {"box": "people", "title": "a bare garden", "sub": [], "strike": true},
+      {"box": "reward", "title": "abundance", "sub": ["branches meeting overhead"]}]},
+    "then": "Ibn Kathir says their trees have {reward}beautiful young branches{/reward} that bear every kind of ripe fruit. Ata al-Khurasani said afnan means {idea}branches that spread until they reach the branches of other trees{/idea}.",
+    "now": "You walk under a row of old trees on a hot day and feel the shade cool your face. The branches meet over the path. {reward}That moment is a tiny hint{/reward} of a garden that never dries.",
+    "old": "Paradise is too far away to imagine.",
+    "new": "Every shady tree here is a small sign of the gardens there.",
+    "try": "Sit under a tree for a few minutes this week and ask Allah for Jannah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:49", "surah": 55, "ayah": 49, "place": "madinah",
+    "title": "Shade and fruit on every branch. Which favor would you deny?",
+    "subtitle": "The refrain after the spreading branches",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "branches of the gardens", "sub": ["shade and fruit"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "What I am promised", "row": [
+      {"box": "people", "title": "just rest", "sub": [], "strike": true},
+      {"box": "reward", "title": "beauty and abundance", "sub": ["more than enough"]}]},
+    "then": "Right after the {reward}branches that hold every type of ripened fruit{/reward}, the question returns. Ibn Kathir places the refrain after each detail of the gardens: {idea}each gift is named, then the listener is asked{/idea}.",
+    "now": "You plant a small tree on your balcony and wait two years for the first lemon. You are thrilled by one fruit. {reward}Imagine branches that never stop giving.{/reward} {idea}Your joy at that lemon is a clue.{/idea}",
+    "old": "I cannot get excited about something I cannot see.",
+    "new": "The joy I feel at small good things here points to a far greater favor.",
+    "try": "Water a plant today, or buy one, as a small reminder of the gardens.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:50", "surah": 55, "ayah": 50, "place": "madinah",
+    "title": "Two springs flowing freely in them.",
+    "subtitle": "Water that never stops",
+    "picture": {"kind": "boxes", "label": "In the two gardens", "row": [
+      {"box": "reward", "title": "two springs", "sub": ["flowing freely"]},
+      {"conn": "watering"},
+      {"box": "reward", "title": "the trees", "sub": ["all kinds of fruit"]}]},
+    "key": {"label": "Water here and there", "row": [
+      {"box": "people", "title": "here", "sub": ["metered, rationed, runs out"]},
+      {"box": "reward", "title": "there", "sub": ["flows free, never ends"]}]},
+    "then": "Ibn Kathir says the springs flow freely to {reward}water the trees and branches{/reward}. Al-Hasan al-Basri said one is called {idea}Tasnim and the other Salsabil{/idea}.",
+    "now": "You check the water bill and wince. You watch the news about a dry summer and hosepipe bans. {reward}There, the water never stops and never costs.{/reward}",
+    "old": "Good things always run out eventually.",
+    "new": "In the gardens, the good flows and does not end.",
+    "try": "Give someone water today, a glass or a bottle, as a small charity.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:51", "surah": 55, "ayah": 51, "place": "madinah",
+    "title": "Springs that never run dry. Which favor would you deny?",
+    "subtitle": "The refrain after the two flowing springs",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "endless springs", "sub": ["Tasnim, Salsabil"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "What I thirst for", "row": [
+      {"box": "people", "title": "more of this world", "sub": ["never enough"], "strike": true},
+      {"box": "reward", "title": "what truly satisfies", "sub": ["with Allah"]}]},
+    "then": "The refrain follows {reward}two springs flowing{/reward} in the gardens. Each time a gift of Paradise is named, the listener is asked again. Here the gift is {idea}water that never stops{/idea}.",
+    "now": "You chase the next purchase, the next trip, the next upgrade. Each one quenches you for a day. {idea}This world's water leaves you thirsty again.{/idea} {reward}The springs of the gardens do not.{/reward}",
+    "old": "The next thing I get will finally satisfy me.",
+    "new": "Lasting satisfaction is with Allah, not in the next purchase.",
+    "try": "Skip one purchase you do not need today and put the money toward charity.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:52", "surah": 55, "ayah": 52, "place": "madinah",
+    "title": "Every fruit in two kinds.",
+    "subtitle": "The known, and better than the known",
+    "picture": {"kind": "boxes", "label": "Fruit in the gardens", "row": [
+      {"box": "reward", "title": "what they knew", "sub": ["and better"]},
+      {"box": "reward", "title": "what they never knew", "sub": ["no eye has seen"]}]},
+    "key": {"label": "How it compares", "row": [
+      {"box": "people", "title": "like the best fruit here", "sub": [], "strike": true},
+      {"box": "reward", "title": "same only in name", "sub": ["Ibn Abbas"]}]},
+    "then": "Ibn Kathir says there will be every kind of fruit, {reward}what they knew before, and better, and what they never knew{/reward}. Ibn Abbas said, {idea}nothing in this world is in the Hereafter except in name{/idea}, so great is the difference.",
+    "now": "You remember the best mango you ever ate, on a hot afternoon at your grandmother's house. You still talk about it. {reward}That was the name. The real thing is waiting.{/reward}",
+    "old": "Paradise will be a nicer version of what I know.",
+    "new": "What waits there shares only the name with what I know here.",
+    "try": "Share a piece of fruit with someone today and tell them about this verse.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:53", "surah": 55, "ayah": 53, "place": "madinah",
+    "title": "Fruit beyond imagining. Which favor would you deny?",
+    "subtitle": "The refrain after every fruit in pairs",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "every fruit, two kinds", "sub": ["known and unknown"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "What I can picture", "row": [
+      {"box": "people", "title": "the limit", "sub": ["of what is coming"], "strike": true},
+      {"box": "reward", "title": "a small part", "sub": ["no heart has imagined it"]}]},
+    "then": "Ibn Kathir says in the gardens there are {reward}delights that no eye has seen, no ear has heard and no heart has imagined{/reward}. After naming fruits in pairs, {idea}the question is asked once more{/idea}.",
+    "now": "You scroll holiday photos of a place you will never afford. You feel a small ache. {reward}What Allah prepared has no photos, because no eye has seen it.{/reward}",
+    "old": "I already know what the best things in life look like.",
+    "new": "The best of Allah's favors is beyond anything I can imagine.",
+    "try": "Make a dua today asking Allah for what no heart has imagined.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

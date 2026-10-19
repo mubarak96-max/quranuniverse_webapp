@@ -1,0 +1,284 @@
+[
+  {
+    "id": "21:71", "surah": 21, "ayah": 71, "place": "makkah",
+    "title": "Saved from the fire, Ibrahim and Lut reach a blessed land.",
+    "subtitle": "Leaving a hostile home for a place of blessing",
+    "picture": {"kind": "boxes", "label": "The migration", "row": [
+      {"box": "people", "title": "Ibrahim, Lut", "sub": ["saved"]},
+      {"conn": "brought to"},
+      {"box": "reward", "title": "a blessed land", "sub": ["for all peoples"]}]},
+    "key": {"label": "What leaving means", "row": [
+      {"box": "trap", "title": "losing everything", "sub": ["home, people"], "strike": true},
+      {"box": "reward", "title": "being brought", "sub": ["to something blessed"]}]},
+    "then": "Allah saved Ibrahim from the fire his people lit and {idea}brought him out from among them{/idea}, migrating to the land of Ash-Sham. Lut, who believed in him, went with him. Allah calls it {reward}the land We blessed for the worlds{/reward}.",
+    "now": "You left the job, the city, or the friend group because staying meant compromising your faith. {trap}It felt like losing everything.{/trap} {reward}Allah can bring you somewhere better than what you left.{/reward}",
+    "old": "Walking away from a bad place means I end up with less.",
+    "new": "When I leave something for Allah, He can bring me to something blessed.",
+    "try": "Thank Allah for one thing you gained after leaving something behind.",
+    "related": ["29:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:72", "surah": 21, "ayah": 72, "place": "makkah",
+    "title": "He asked for one son and was given a grandson too.",
+    "subtitle": "Ishaq, and Ya'qub as an extra gift",
+    "picture": {"kind": "boxes", "label": "What he received", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["asked for a righteous son"]},
+      {"conn": "given"},
+      {"box": "reward", "title": "Ishaq", "sub": []},
+      {"box": "reward", "title": "Ya'qub", "sub": ["a gift on top"]}]},
+    "key": {"label": "How Allah answers", "row": [
+      {"box": "people", "title": "exactly what I asked", "sub": [], "strike": true},
+      {"box": "reward", "title": "more than I asked", "sub": ["and all righteous"]}]},
+    "then": "Ibrahim had prayed, {idea}my Lord, grant me a righteous son{/idea}. 'Abdur-Rahman bin Zayd said Allah gave him Ishaq, {reward}and Ya'qub in addition{/reward}. Mujahid said nafilah means a gift. Allah made each of them righteous.",
+    "now": "You prayed for one job offer and got two. You asked for your child to pass, and he also found good friends. {reward}Allah's answers often come with something extra.{/reward} {idea}Notice the extra.{/idea}",
+    "old": "I am lucky if Allah gives me exactly what I asked for.",
+    "new": "Allah answers generously, often with more than I asked.",
+    "try": "Remember one dua answered with something extra, and thank Allah for the extra.",
+    "related": ["11:71", "37:100"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:73", "surah": 21, "ayah": 73, "place": "makkah",
+    "title": "Leaders who guided, prayed, gave, and lived what they taught.",
+    "subtitle": "Leadership measured by doing good and worship",
+    "picture": {"kind": "boxes", "label": "What made them leaders", "row": [
+      {"box": "idea", "title": "guiding", "sub": ["by His command"]},
+      {"box": "reward", "title": "good deeds", "sub": []},
+      {"box": "reward", "title": "prayer", "sub": []},
+      {"box": "reward", "title": "zakah", "sub": []},
+      {"box": "people", "title": "worshippers", "sub": ["of Allah alone"]}]},
+    "key": {"label": "What a leader is", "row": [
+      {"box": "trap", "title": "one who tells", "sub": ["others what to do"], "strike": true},
+      {"box": "idea", "title": "one who does", "sub": ["what he asks of others"]}]},
+    "then": "Allah made them {idea}leaders, examples to be followed{/idea}, inviting to Him by His leave. He inspired them to good deeds, prayer, and zakah. The tafsir says {reward}they did what they enjoined others to do{/reward}.",
+    "now": "At home you tell the kids to put their phones away at dinner while yours is in your hand. {trap}They learn from what you do.{/trap} {idea}You lead your family by living it first.{/idea}",
+    "old": "Leading means telling others what to do.",
+    "new": "Real leaders live first what they ask of others.",
+    "try": "Pick one thing you ask your family to do, and do it yourself today, visibly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:74", "surah": 21, "ayah": 74, "place": "makkah",
+    "title": "Lut was given wisdom and saved from a town of evil.",
+    "subtitle": "A prophet kept safe among rebellious people",
+    "picture": {"kind": "boxes", "label": "Lut's story", "row": [
+      {"box": "people", "title": "Lut", "sub": ["followed Ibrahim"]},
+      {"box": "reward", "title": "wisdom, knowledge", "sub": ["given by Allah"]},
+      {"conn": "saved from"},
+      {"box": "trap", "title": "the town", "sub": ["evil, rebellious"]}]},
+    "key": {"label": "What decides your path", "row": [
+      {"box": "trap", "title": "where you live", "sub": ["the town's ways"], "strike": true},
+      {"box": "idea", "title": "what you hold to", "sub": ["Allah's guidance"]}]},
+    "then": "Lut believed in Ibrahim, followed him, and migrated with him. Allah {reward}gave him wisdom and knowledge{/reward}, made him a prophet, and sent him to Sodom and its area. {trap}They rejected him{/trap}, and Allah saved him from the town that practised wicked deeds.",
+    "now": "Your workplace, your building, your online space may make wrong things normal. {trap}It is easy to drift with the place.{/trap} {idea}Lut lived among them and did not become them.{/idea}",
+    "old": "I am bound to pick up the ways of the place I live.",
+    "new": "I can live among people and still hold to what is right, with Allah's help.",
+    "try": "Name one wrong habit normal in your surroundings, and quietly decline it today.",
+    "related": ["29:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:75", "surah": 21, "ayah": 75, "place": "makkah",
+    "title": "Lut was taken into His mercy: one of the righteous.",
+    "subtitle": "What remains after the town is gone",
+    "picture": {"kind": "boxes", "label": "The ending", "row": [
+      {"box": "trap", "title": "the town", "sub": ["destroyed"]},
+      {"box": "people", "title": "Lut", "sub": ["righteous"]},
+      {"conn": "admitted to"},
+      {"box": "reward", "title": "His mercy", "sub": []}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "people", "title": "being in the majority", "sub": [], "strike": true},
+      {"box": "reward", "title": "being righteous", "sub": ["inside His mercy"]}]},
+    "then": "After the story of Lut's people, the verse closes on him: {reward}We admitted him to Our mercy{/reward}. {idea}He was of the righteous.{/idea} The town is not the last word in his story. Mercy is.",
+    "now": "You feel alone being the one who doesn't laugh at the cruel joke or join the shady deal. {trap}It feels like losing.{/trap} {reward}The last word on the righteous is mercy.{/reward}",
+    "old": "Standing apart from everyone leaves me with nothing.",
+    "new": "The righteous end up inside Allah's mercy, even if they stood alone.",
+    "try": "Ask Allah today: admit me into Your mercy among the righteous.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:76", "surah": 21, "ayah": 76, "place": "makkah",
+    "title": "Nuh called out, and he and his family were saved.",
+    "subtitle": "A dua after centuries of patience",
+    "picture": {"kind": "boxes", "label": "Nuh's call", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["950 years calling"]},
+      {"conn": "called"},
+      {"box": "idea", "title": "We answered", "sub": []},
+      {"box": "reward", "title": "saved", "sub": ["from the great distress"]}]},
+    "key": {"label": "How long patience lasts", "row": [
+      {"box": "trap", "title": "a few tries", "sub": ["then give up"], "strike": true},
+      {"box": "idea", "title": "keep calling", "sub": ["and ask Allah for help"]}]},
+    "then": "Nuh {idea}remained among his people for a thousand years less fifty{/idea}, calling them to Allah, and only a few believed. They plotted against him generation after generation. Then he called on his Lord: I am overcome, so help me. {reward}Allah answered and saved him and those who believed{/reward} from the great distress.",
+    "now": "You've been trying for years: with a hard relative, a long illness, a child who has drifted. {trap}You feel you have nothing left.{/trap} {idea}Nuh's patience ran for centuries, and then he asked for help.{/idea} {reward}He was answered.{/reward}",
+    "old": "I have been patient long enough; nothing is changing.",
+    "new": "Patience and dua go together. Allah answers the one who keeps calling.",
+    "try": "Make a short, honest dua today: my Lord, I am worn out, so help me.",
+    "related": ["54:10", "11:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:77", "surah": 21, "ayah": 77, "place": "makkah",
+    "title": "Helped against those who denied, and they were drowned.",
+    "subtitle": "The end of a people who rejected every sign",
+    "picture": {"kind": "boxes", "label": "How it ended", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["helped"]},
+      {"conn": "against"},
+      {"box": "trap", "title": "the deniers", "sub": ["a people of evil"]},
+      {"box": "trap", "title": "drowned", "sub": ["all of them"]}]},
+    "key": {"label": "Who wins", "row": [
+      {"box": "people", "title": "the many", "sub": ["who mocked him"], "strike": true},
+      {"box": "reward", "title": "the few", "sub": ["who believed"]}]},
+    "then": "Allah {reward}saved Nuh and helped him{/reward} against the people who denied His signs. {trap}They were a people given to evil, and Allah drowned them all{/trap}, as their prophet had prayed. The story was told to Makkans who were also mocking a prophet.",
+    "now": "You are in the minority at the office, at family gatherings, maybe even among friends, on something you know is right. {trap}Numbers feel like proof.{/trap} {idea}Nuh had a few with him, and they were the ones saved.{/idea}",
+    "old": "If most people disagree with me, I am probably wrong.",
+    "new": "Numbers do not decide the truth. The few with Nuh were the ones saved.",
+    "try": "Hold to one right thing today even if you are the only one doing it.",
+    "related": ["71:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:78", "surah": 21, "ayah": 78, "place": "makkah",
+    "title": "Dawud and Sulayman judged the vineyard ruined by sheep at night.",
+    "subtitle": "Two prophets, one case, and Allah witnessing",
+    "picture": {"kind": "boxes", "label": "The case", "row": [
+      {"box": "people", "title": "sheep", "sub": ["grazed at night"]},
+      {"conn": "ruined"},
+      {"box": "people", "title": "the vineyard", "sub": ["grapes spoiled"]},
+      {"box": "idea", "title": "the judges", "sub": ["Dawud, Sulayman"]}]},
+    "key": {"label": "Who sees a judgment", "row": [
+      {"box": "people", "title": "just the parties", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["witness to every ruling"]}]},
+    "then": "Ibn Mas'ud said the field was a vineyard whose bunches were spoiled by sheep. {idea}Dawud ruled that the owner of the vineyard should keep the sheep.{/idea} Sulayman proposed another way. Allah says {reward}We were witness to their judgement{/reward}.",
+    "now": "Your kids fight over a broken toy. Two coworkers bring you a dispute. {trap}You decide quickly to end the noise.{/trap} {idea}Every decision you make between people is witnessed by Allah.{/idea}",
+    "old": "Sorting out disputes is just about ending the argument.",
+    "new": "When I judge between people, Allah is witness. Fairness matters, even in small cases.",
+    "try": "In the next small dispute you settle, listen to both sides fully before deciding.",
+    "related": ["38:26", "5:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:79", "surah": 21, "ayah": 79, "place": "makkah",
+    "title": "Sulayman was given understanding; both were given wisdom.",
+    "subtitle": "One saw further, and neither was blamed",
+    "picture": {"kind": "boxes", "label": "Sulayman's ruling", "row": [
+      {"box": "people", "title": "sheep", "sub": ["to the vineyard owner"]},
+      {"box": "people", "title": "vineyard", "sub": ["to the shepherd, to restore"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "each returned", "sub": ["when it regrew"]}]},
+    "key": {"label": "When two differ", "row": [
+      {"box": "trap", "title": "one is ruined", "sub": ["wrong means lost"], "strike": true},
+      {"box": "idea", "title": "both rewarded", "sub": ["for sincere effort"]}]},
+    "then": "Sulayman suggested the shepherd tend the vines until they grew back, while the vineyard owner benefited from the sheep, then {reward}each would get his own back{/reward}. Al-Hasan noted that {idea}Allah praised Sulayman but did not condemn Dawud{/idea}. The mountains and birds glorified Allah with Dawud's beautiful recitation.",
+    "now": "Your colleague's idea turns out better than yours. {trap}You feel small.{/trap} {idea}Sincere effort is honoured even when someone else sees further.{/idea} {reward}Learn from it, without shame.{/reward}",
+    "old": "If my judgment turns out wrong, I have failed.",
+    "new": "Sincere effort is honoured. I can learn from a better answer without shame.",
+    "try": "Tell someone today that their idea was better than yours, and mean it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:80", "surah": 21, "ayah": 80, "place": "makkah",
+    "title": "Dawud was taught to make armor. Will you be grateful?",
+    "subtitle": "A skill taught by Allah, for people's protection",
+    "picture": {"kind": "boxes", "label": "The gift", "row": [
+      {"box": "people", "title": "Dawud", "sub": []},
+      {"conn": "taught"},
+      {"box": "reward", "title": "chain mail", "sub": ["the first to make it"]},
+      {"box": "idea", "title": "be grateful", "sub": ["it was for you"]}]},
+    "key": {"label": "Where skill comes from", "row": [
+      {"box": "people", "title": "my own talent", "sub": [], "strike": true},
+      {"box": "reward", "title": "taught by Allah", "sub": ["for others' good"]}]},
+    "then": "Qatadah said people used to wear plated armor, and Dawud {reward}was the first to make rings of chain mail{/reward}. The tafsir says Allah blessed people when He inspired His servant Dawud and taught him this for their sake. {idea}Are you then grateful?{/idea}",
+    "now": "You are good at code, at nursing, at fixing cars, at calming a crying baby. {trap}It feels like it is just you.{/trap} {reward}Every skill is something Allah taught{/reward}, and it is meant to protect and help others.",
+    "old": "My skills are mine; I earned them.",
+    "new": "My skills were taught to me by Allah. Gratitude is using them for good.",
+    "try": "Use one of your skills today to help someone, for free.",
+    "related": ["34:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:81", "surah": 21, "ayah": 81, "place": "makkah",
+    "title": "The strong wind ran at Sulayman's command, by Allah's leave.",
+    "subtitle": "Power over nature, given and known by Allah",
+    "picture": {"kind": "boxes", "label": "Sulayman's gift", "row": [
+      {"box": "reward", "title": "the wind", "sub": ["strongly blowing"]},
+      {"conn": "ran by"},
+      {"box": "people", "title": "his command", "sub": []},
+      {"box": "idea", "title": "Allah knows", "sub": ["all things"]}]},
+    "key": {"label": "Whose power it was", "row": [
+      {"box": "trap", "title": "Sulayman's own", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah's gift", "sub": ["subjected for him"]}]},
+    "then": "The tafsir introduces this as {reward}the unparalleled power of Sulayman{/reward}: Allah subjugated the strong wind to him, running by his command toward the land Allah had blessed. The verse ends: {idea}of all things We are Knowing{/idea}.",
+    "now": "You have power you take for granted: a car, a salary, a team that answers to you. {trap}It can start to feel like yours.{/trap} {idea}Every bit of control you have is lent, and Allah knows how you use it.{/idea}",
+    "old": "The control I have over my life is my own doing.",
+    "new": "Any power I hold is subjected to me by Allah, and He knows how I use it.",
+    "try": "Use one bit of authority you have today more gently than usual.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:82", "surah": 21, "ayah": 82, "place": "makkah",
+    "title": "Even devils worked for Sulayman, and Allah kept them in check.",
+    "subtitle": "No force works outside Allah's guard",
+    "picture": {"kind": "boxes", "label": "Who served him", "row": [
+      {"box": "trap", "title": "devils", "sub": ["dived, built, worked"]},
+      {"conn": "for"},
+      {"box": "people", "title": "Sulayman", "sub": []},
+      {"box": "idea", "title": "guarded", "sub": ["by Allah"]}]},
+    "key": {"label": "Who is in charge", "row": [
+      {"box": "trap", "title": "the dark forces", "sub": ["beyond control"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["guardian over them"]}]},
+    "then": "Among the devils were some {idea}who dived for Sulayman and did other work{/idea}. Allah says {reward}it was We who guarded them{/reward}. Even the most rebellious creatures worked only within His control.",
+    "now": "You feel at the mercy of things you can't see: whispers, bad luck, other people's envy. {trap}Fear can make them feel huge.{/trap} {idea}Nothing in the unseen works outside Allah's guard.{/idea}",
+    "old": "There are dark forces out there I cannot do anything about.",
+    "new": "Even the devils are under Allah's control. I seek refuge in Him and move on.",
+    "try": "Recite Ayat al-Kursi tonight before sleep, and leave the fear with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:83", "surah": 21, "ayah": 83, "place": "makkah",
+    "title": "Ayyub said: harm has touched me, and You are most merciful.",
+    "subtitle": "A dua that names the pain and the mercy",
+    "picture": {"kind": "boxes", "label": "What he lost", "row": [
+      {"box": "trap", "title": "wealth", "sub": []},
+      {"box": "trap", "title": "children", "sub": []},
+      {"box": "trap", "title": "health", "sub": ["left alone"]},
+      {"conn": "he called"},
+      {"box": "reward", "title": "Most Merciful", "sub": []}]},
+    "key": {"label": "How to complain", "row": [
+      {"box": "trap", "title": "about Allah", "sub": ["to people"], "strike": true},
+      {"box": "idea", "title": "to Allah", "sub": ["naming His mercy"]}]},
+    "then": "Ayyub had livestock, crops, many children and fine houses, and {trap}lost them all{/trap}. Then his body was tested, and only his wife cared for him. The Prophet ﷺ said the prophets are tested most severely. Ayyub {reward}had the utmost patience{/reward}, and his dua names only the harm and Allah's mercy.",
+    "now": "Lying awake in the hospital bed, or after the business went under, you want to ask why me. {idea}Ayyub simply told Allah it hurt, and called Him the Most Merciful.{/idea} {reward}That is patience and honesty together.{/reward}",
+    "old": "Being patient means never saying it hurts.",
+    "new": "I can tell Allah it hurts and still call Him the Most Merciful. That is patience.",
+    "try": "In your next dua, tell Allah plainly what hurts, then call Him Arham ar-Rahimin.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:84", "surah": 21, "ayah": 84, "place": "makkah",
+    "title": "He was answered: healed, his family restored, and as many again.",
+    "subtitle": "Ayyub's story as a reminder for anyone tested",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "idea", "title": "We answered", "sub": []},
+      {"box": "reward", "title": "harm removed", "sub": []},
+      {"box": "reward", "title": "family", "sub": ["and as many again"]},
+      {"conn": "as"},
+      {"box": "idea", "title": "a reminder", "sub": ["for worshippers"]}]},
+    "key": {"label": "What trials mean", "row": [
+      {"box": "trap", "title": "Allah doesn't care", "sub": [], "strike": true},
+      {"box": "reward", "title": "a test with an end", "sub": ["mercy follows"]}]},
+    "then": "Allah removed his distress and {reward}restored his family and the like of them{/reward}, as a mercy. The tafsir says Allah made him an example {idea}lest those beset by trials think it is because He does not care for them{/idea}. When healed, Ayyub said: who can ever have enough of Your mercy?",
+    "now": "A long hard year makes you wonder if Allah has forgotten you. {trap}That thought is exactly what this story answers.{/trap} {idea}Ayyub's test was a sign of his rank, and it ended in mercy.{/idea}",
+    "old": "If I am being tested this hard, Allah must not care about me.",
+    "new": "Trials are not a sign that Allah doesn't care. Ayyub's ended in mercy.",
+    "try": "Write down one hard time that ended. Read it the next time you feel forgotten.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

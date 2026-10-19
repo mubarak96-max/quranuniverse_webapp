@@ -1,0 +1,278 @@
+[
+  {
+    "id": "33:60", "surah": 33, "ayah": 60, "place": "madinah",
+    "title": "Those who spread alarm in the city were given a deadline.",
+    "subtitle": "Stop spreading panic, or lose your place",
+    "picture": {"kind": "boxes", "label": "Three groups in Madinah", "row": [
+      {"box": "trap", "title": "the hypocrites", "sub": ["faith outside only"]},
+      {"box": "trap", "title": "diseased hearts", "sub": []},
+      {"box": "trap", "title": "rumor spreaders", "sub": ["the enemy is coming"]},
+      {"conn": "if they do not stop"},
+      {"box": "plain", "title": "not neighbors long", "sub": []}]},
+    "key": {"label": "What a rumor does", "row": [
+      {"box": "people", "title": "just passing on news", "sub": [], "strike": true},
+      {"box": "trap", "title": "breaking a community", "sub": ["from the inside"]}]},
+    "then": "In Madinah some people kept saying {trap}the enemy has come, war has started{/trap}, which Ibn Kathir calls a lie and a fabrication. Allah warned them that {idea}unless they gave this up and returned to the truth{/idea}, they would not remain neighbors in the city for long.",
+    "now": "A voice note goes around: the bank is collapsing, the school is closing, something terrible is coming. You feel the urge to warn everyone. {trap}Panic travels faster than facts.{/trap} {idea}Checking before sharing protects your whole community.{/idea}",
+    "old": "If I warn people about something scary, I am only being helpful.",
+    "new": "Spreading alarm without checking can harm a whole community from inside.",
+    "try": "Before you forward any alarming news today, check it with one reliable source.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:61", "surah": 33, "ayah": 61, "place": "madinah",
+    "title": "Persisting in betrayal leaves no safe place.",
+    "subtitle": "What happens when the warning is ignored",
+    "picture": {"kind": "boxes", "label": "The path of persistence", "row": [
+      {"box": "people", "title": "the warning", "sub": ["stop and return"]},
+      {"conn": "ignored"},
+      {"box": "trap", "title": "far from mercy", "sub": ["no shelter left"]}]},
+    "key": {"label": "Where safety comes from", "row": [
+      {"box": "trap", "title": "hiding in the crowd", "sub": [], "strike": true},
+      {"box": "idea", "title": "turning back", "sub": ["the door was open"]}]},
+    "then": "This verse continues the warning to the hypocrites and rumor spreaders of Madinah. Ibn Kathir says it describes their state if they {trap}persisted and did not give it up{/trap}: few, weak, and without shelter. {idea}The warning before it was a door to turn back through.{/idea}",
+    "now": "You know a habit of yours is quietly damaging people around you, and you have been warned before. You tell yourself it will not catch up with you. {idea}Every warning is also an invitation to stop while the door is open.{/idea}",
+    "old": "If I keep my wrongs hidden, they will never catch up with me.",
+    "new": "A warning from Allah is a mercy, a chance to turn back before it is late.",
+    "try": "Name one warning you have been ignoring. Take one step today to act on it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:62", "surah": 33, "ayah": 62, "place": "madinah",
+    "title": "Allah's way does not change.",
+    "subtitle": "The same pattern across history",
+    "picture": {"kind": "boxes", "label": "A fixed pattern", "row": [
+      {"box": "people", "title": "those before", "sub": ["the same choices"]},
+      {"conn": "met"},
+      {"box": "idea", "title": "Allah's way", "sub": ["the same outcome"]},
+      {"box": "people", "title": "people now", "sub": ["same rule applies"]}]},
+    "key": {"label": "Am I the exception", "row": [
+      {"box": "people", "title": "it will be different for me", "sub": [], "strike": true},
+      {"box": "idea", "title": "no change in His way", "sub": ["for anyone"]}]},
+    "then": "Ibn Kathir explains that this is how Allah dealt with hypocrites who persisted in the past: {idea}the believers prevailed over them{/idea}. The verse adds that {trap}you will find no change in Allah's way{/trap}. What happened before follows the same law today.",
+    "now": "You read about people who wrecked their lives through lies or greed, and you think: that would never happen to me. The same shortcuts are on your desk. {idea}Allah's ways are steady.{/idea} That is a warning, and also something you can build a life on.",
+    "old": "The rules that caught others will not apply to me.",
+    "new": "Allah's way does not change, so I can learn from those before me.",
+    "try": "Think of one story of someone who fell. Name the first small step they took, and avoid it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:63", "surah": 33, "ayah": 63, "place": "madinah",
+    "title": "When is the Hour? Only Allah knows. It may be near.",
+    "subtitle": "The right question is not when",
+    "picture": {"kind": "boxes", "label": "The question and the answer", "row": [
+      {"box": "people", "title": "people ask", "sub": ["when is the Hour"]},
+      {"conn": "answer"},
+      {"box": "idea", "title": "only Allah knows", "sub": []},
+      {"box": "trap", "title": "it may be near", "sub": ["so be ready"]}]},
+    "key": {"label": "What matters", "row": [
+      {"box": "people", "title": "the date", "sub": [], "strike": true},
+      {"box": "idea", "title": "being ready", "sub": ["whenever it comes"]}]},
+    "then": "People asked the Prophet ﷺ when the Hour would come. Allah told him to say that {idea}knowledge of it is with Allah alone{/idea}, and yet {trap}it may be near{/trap}. Ibn Kathir links this to verses saying the Hour and the reckoning have drawn close while people turn away.",
+    "now": "Videos about the signs of the end get millions of views. People argue over dates and theories. {idea}The verse turns the question around: not when, but are you ready?{/idea}",
+    "old": "If I knew when the end was coming, I would get serious.",
+    "new": "Not knowing when is the point. I prepare now because it may be near.",
+    "try": "Instead of reading about end-times signs today, do one thing you would want done before it.",
+    "related": ["54:1", "21:1", "16:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:64", "surah": 33, "ayah": 64, "place": "madinah",
+    "title": "Rejecting the truth means distance from His mercy.",
+    "subtitle": "What the curse means",
+    "picture": {"kind": "boxes", "label": "Two directions", "row": [
+      {"box": "trap", "title": "rejecting", "sub": ["turning from mercy"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the Blaze", "sub": ["prepared already"]}]},
+    "key": {"label": "What a curse is", "row": [
+      {"box": "people", "title": "an angry word", "sub": [], "strike": true},
+      {"box": "idea", "title": "being far from mercy", "sub": ["by one's own choice"]}]},
+    "then": "Right after the question about the Hour, Allah says He has cursed the disbelievers. Ibn Kathir explains the curse as {trap}being distanced from His mercy{/trap}, with a Fire prepared in the Hereafter. The passage is a sober warning about what turning away leads to.",
+    "now": "You notice small moments where you push away reminders. You skip the talk, mute the friend who invites you to pray, scroll past the verse. {idea}Distance from mercy starts with small turns away.{/idea} Turning back starts the same way.",
+    "old": "Ignoring reminders now and then does not really move me anywhere.",
+    "new": "Each turn away moves me from mercy, and each turn back brings me near.",
+    "try": "Accept one reminder today that you would normally scroll past or avoid.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:65", "surah": 33, "ayah": 65, "place": "madinah",
+    "title": "There, no protector and no helper.",
+    "subtitle": "When every connection runs out",
+    "picture": {"kind": "boxes", "label": "Who can help there", "row": [
+      {"box": "people", "title": "friends", "sub": [], "strike": true},
+      {"box": "people", "title": "leaders", "sub": [], "strike": true},
+      {"box": "trap", "title": "no one", "sub": ["no protector, no helper"]}]},
+    "key": {"label": "Who to rely on", "row": [
+      {"box": "people", "title": "my connections", "sub": ["will sort it out"], "strike": true},
+      {"box": "idea", "title": "Allah now", "sub": ["while it still helps"]}]},
+    "then": "The verse describes those who rejected the truth abiding in the Fire. Ibn Kathir explains that {trap}they will have no savior to help or rescue them{/trap}. Every person they relied on in this world will be gone.",
+    "now": "In this world you have numbers to call: the cousin who knows someone, the lawyer, the friend with influence. {idea}There is a place where none of those numbers work.{/idea} The only connection that holds there is the one with Allah, built here.",
+    "old": "I have people who can get me out of any trouble.",
+    "new": "Only my connection with Allah holds where every other help runs out.",
+    "try": "Before calling anyone about a problem today, make a short dua about it first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:66", "surah": 33, "ayah": 66, "place": "madinah",
+    "title": "If only we had obeyed Allah and the Messenger.",
+    "subtitle": "A regret you can avoid today",
+    "picture": {"kind": "boxes", "label": "The late wish", "row": [
+      {"box": "people", "title": "in this world", "sub": ["time to obey"]},
+      {"conn": "wasted, then"},
+      {"box": "trap", "title": "if only", "sub": ["a wish with no door"]}]},
+    "key": {"label": "When the wish works", "row": [
+      {"box": "trap", "title": "if only, there", "sub": ["too late"], "strike": true},
+      {"box": "idea", "title": "if only, here", "sub": ["still possible"]}]},
+    "then": "On that Day, people in the Fire will say: {trap}if only we had obeyed Allah and obeyed the Messenger{/trap}. Ibn Kathir links it to the verse where the wrongdoer bites his hands, wishing he had taken a path with the Messenger. {idea}The wish is the same one available to anyone today.{/idea}",
+    "now": "You picture yourself old, looking back. Which if onlys would you have? If only I had prayed more, called my mother, quit that job. {idea}Every if only you can name now is one you can still fix.{/idea}",
+    "old": "I will get serious about obeying Allah later.",
+    "new": "The regret of that Day can be avoided by what I choose today.",
+    "try": "Write down one if only you would hate to have at the end. Do something about it today.",
+    "related": ["25:27", "15:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:67", "surah": 33, "ayah": 67, "place": "madinah",
+    "title": "We just followed our leaders, they say.",
+    "subtitle": "Following does not remove responsibility",
+    "picture": {"kind": "boxes", "label": "Who they followed", "row": [
+      {"box": "people", "title": "the followers", "sub": ["we obeyed"]},
+      {"conn": "trusted"},
+      {"box": "trap", "title": "chiefs and great ones", "sub": ["nobles and scholars"]},
+      {"conn": "led them"},
+      {"box": "trap", "title": "off the way", "sub": []}]},
+    "key": {"label": "The excuse", "row": [
+      {"box": "people", "title": "they told me to", "sub": [], "strike": true},
+      {"box": "idea", "title": "I chose to follow", "sub": ["I answer for it"]}]},
+    "then": "In the Fire they will say: {trap}our Lord, we obeyed our chiefs and great ones, and they misled us{/trap}. Tawus said chiefs means their nobles and great ones means their scholars. {idea}Pointing to those they followed does not lift the burden.{/idea}",
+    "now": "Your boss says cut the corner. Your favorite influencer says it is fine. Your friend group says everyone does it. {trap}Following is easy.{/trap} {idea}On that Day, you answer for who you chose to follow.{/idea}",
+    "old": "If I follow someone respected, the responsibility is on them.",
+    "new": "I answer for who I follow, so I check their path against Allah's.",
+    "try": "Think of one person whose advice you follow without question. Check one of their views today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:68", "surah": 33, "ayah": 68, "place": "madinah",
+    "title": "Followers turn on their leaders when it is too late.",
+    "subtitle": "Loyalty that ends in blame",
+    "picture": {"kind": "boxes", "label": "How it ends", "row": [
+      {"box": "people", "title": "in this world", "sub": ["loyal followers"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "on that Day", "sub": ["double it for them", "curse them"]}]},
+    "key": {"label": "Who to follow", "row": [
+      {"box": "trap", "title": "anyone who leads", "sub": [], "strike": true},
+      {"box": "idea", "title": "those who lead to Allah", "sub": []}]},
+    "then": "The followers ask Allah to {trap}give their leaders double the punishment{/trap}, for their disbelief and for misleading others. Ibn Kathir reports that a man at a battle in the time of 'Ali recited these words to the Ansar, warning them {idea}not to become people who would one day say this{/idea}.",
+    "now": "You see it at work: a team follows a manager into a mess, then everyone blames him when it falls apart. {trap}Blame comes after the damage is done.{/trap} {idea}The time to choose who you follow is before.{/idea}",
+    "old": "If things go wrong, I can always blame those who led me.",
+    "new": "Blaming leaders later fixes nothing. I choose carefully now.",
+    "try": "Ask yourself where one of the people you follow is leading you. Be honest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:69", "surah": 33, "ayah": 69, "place": "madinah",
+    "title": "Do not be like those who hurt Musa with false talk.",
+    "subtitle": "Allah cleared him of what they said",
+    "picture": {"kind": "boxes", "label": "What happened to Musa", "row": [
+      {"box": "people", "title": "Musa", "sub": ["shy and modest"]},
+      {"box": "trap", "title": "the rumor", "sub": ["he must have a defect"]},
+      {"conn": "Allah"},
+      {"box": "reward", "title": "cleared him", "sub": ["honored before Allah"]}]},
+    "key": {"label": "Reading modesty", "row": [
+      {"box": "trap", "title": "hiding something", "sub": [], "strike": true},
+      {"box": "idea", "title": "simply modest", "sub": ["and honored for it"]}]},
+    "then": "The Prophet ﷺ said Musa was {idea}a very shy and modest man{/idea}, and some of his people hurt him by claiming he covered himself because of some defect. Allah cleared him. When a man once accused the Prophet ﷺ of unfairness in sharing spoils, he said: {reward}may Allah have mercy on Musa, he was hurt with worse than this and was patient{/reward}.",
+    "now": "A quiet colleague keeps to herself, and the office starts guessing why: she thinks she is better, she is hiding something. {trap}Modesty gets read as a secret.{/trap} {idea}Allah defends the modest.{/idea}",
+    "old": "When someone keeps to themselves, there must be a reason worth guessing.",
+    "new": "Guessing bad things about the modest hurts them. Allah clears them in the end.",
+    "try": "Next time you start to guess why someone keeps private, stop and assume the best.",
+    "related": ["19:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:70", "surah": 33, "ayah": 70, "place": "madinah",
+    "title": "Fear Allah and say what is straight.",
+    "subtitle": "Words with no twist in them",
+    "picture": {"kind": "boxes", "label": "Two commands", "row": [
+      {"box": "idea", "title": "taqwa", "sub": ["as if you see Him"]},
+      {"conn": "shows in"},
+      {"box": "idea", "title": "straight words", "sub": ["no twist, no spin"]}]},
+    "key": {"label": "Truth with a twist", "row": [
+      {"box": "trap", "title": "technically true", "sub": ["but misleading"], "strike": true},
+      {"box": "idea", "title": "straight speech", "sub": ["no crookedness"]}]},
+    "then": "After warning against hurting the Prophet ﷺ as Musa was hurt with words, Allah commands the believers to have taqwa and speak {idea}qawlan sadida{/idea}. Ibn Kathir explains it as speaking in a straightforward way, {trap}with no crookedness or distortion{/trap}.",
+    "now": "Your manager asks if the report is done. You say it is basically finished. It is not. Nobody lied exactly. {trap}The twist is in the word basically.{/trap} {idea}Straight speech leaves no gap between what you say and what is true.{/idea}",
+    "old": "As long as I do not tell an outright lie, a little spin is fine.",
+    "new": "Taqwa shows in my words. Straight speech has no twist hidden in it.",
+    "try": "Catch one moment today where you would usually spin the truth. Say it straight instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:71", "surah": 33, "ayah": 71, "place": "madinah",
+    "title": "Straight words, and Allah fixes your deeds.",
+    "subtitle": "The promise for honest speech",
+    "picture": {"kind": "boxes", "label": "What follows straight speech", "row": [
+      {"box": "people", "title": "taqwa and truth", "sub": ["your part"]},
+      {"conn": "Allah"},
+      {"box": "reward", "title": "sets your deeds right", "sub": []},
+      {"box": "reward", "title": "forgives your sins", "sub": []},
+      {"box": "reward", "title": "a great success", "sub": []}]},
+    "key": {"label": "Who fixes my life", "row": [
+      {"box": "people", "title": "I fix it all myself", "sub": [], "strike": true},
+      {"box": "idea", "title": "I speak true, He mends", "sub": []}]},
+    "then": "Ibn Kathir says Allah promises those who fear Him and speak the truth that {reward}He will enable them to do righteous deeds and forgive their past sins{/reward}, and inspire them to repent from future ones. Whoever obeys Allah and His Messenger ﷺ {idea}has achieved a great success{/idea}.",
+    "now": "Your life feels like a pile of loose ends: habits you cannot fix, mistakes you cannot undo. You do not know where to start. {idea}The verse gives a starting point: fear Allah and speak straight.{/idea} He handles the mending.",
+    "old": "I have to fix everything in my life before Allah will help me.",
+    "new": "If I fear Allah and speak true, He sets my deeds right and forgives me.",
+    "try": "Start with your words today. Speak straight in one hard conversation and leave the rest to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:72", "surah": 33, "ayah": 72, "place": "madinah",
+    "title": "Mountains declined the trust that humans picked up.",
+    "subtitle": "The weight of being responsible",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "people", "title": "heavens, earth, mountains", "sub": ["declined, afraid"]},
+      {"box": "people", "title": "the human", "sub": ["accepted it"]},
+      {"conn": "the trust"},
+      {"box": "idea", "title": "the Amanah", "sub": ["duties, reward or loss"]}]},
+    "key": {"label": "What I carry", "row": [
+      {"box": "people", "title": "an ordinary life", "sub": [], "strike": true},
+      {"box": "idea", "title": "a trust", "sub": ["the mountains feared"]}]},
+    "then": "Ibn 'Abbas said the trust means the duties: if fulfilled, rewarded; if neglected, punished. {idea}The heavens, earth, and mountains declined out of respect, fearing they could not fulfill it.{/idea} Man took it on, and the verse calls him unjust and ignorant, because he underestimated it. Ibn Kathir adds: {reward}except those whom Allah helps{/reward}.",
+    "now": "Your prayer, your promises, your money, your children, your private moments. They feel like ordinary pieces of life. {idea}Each one is part of a trust the mountains were afraid to carry.{/idea} You do not carry it alone if you ask for help.",
+    "old": "My daily duties are just the routine parts of life.",
+    "new": "My duties are a trust the mountains refused. I carry it by asking Allah's help.",
+    "try": "Pick one duty you treat lightly. Do it today as if you were carrying something precious.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:73", "surah": 33, "ayah": 73, "place": "madinah",
+    "title": "The trust sorts people, and mercy waits for believers.",
+    "subtitle": "The last word of Al-Ahzab",
+    "picture": {"kind": "boxes", "label": "What the trust reveals", "row": [
+      {"box": "trap", "title": "hypocrites", "sub": ["faith only outside"]},
+      {"box": "trap", "title": "those who associate", "sub": ["others with Allah"]},
+      {"box": "reward", "title": "believers", "sub": ["Allah turns to them"]}]},
+    "key": {"label": "How the surah ends", "row": [
+      {"box": "trap", "title": "on a threat", "sub": [], "strike": true},
+      {"box": "reward", "title": "on forgiveness", "sub": ["Oft-Forgiving, Merciful"]}]},
+    "then": "Because humans took on the trust, Ibn Kathir explains, people are sorted by how they bore it. {trap}The hypocrites and those who associate partners with Allah{/trap} face punishment. {reward}Allah turns in mercy to the believing men and women.{/reward} The surah ends with Allah Oft-Forgiving, Most Merciful.",
+    "now": "You read about the trust and feel the weight of everything you have failed to carry well. The last line of the surah is for you: {reward}Allah turns to the believers{/reward}. {idea}The trust is heavy, and the forgiveness is wide.{/idea}",
+    "old": "I have dropped the trust too many times for it to count.",
+    "new": "Allah turns in mercy to believers who keep trying. His forgiveness is wide.",
+    "try": "Say astaghfirullah slowly three times tonight, thinking of one way you dropped the trust.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

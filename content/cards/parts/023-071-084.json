@@ -1,0 +1,282 @@
+[
+  {
+    "id": "23:71", "surah": 23, "ayah": 71, "place": "makkah",
+    "title": "If truth followed their desires, everything would fall apart.",
+    "subtitle": "Truth does not bend to wants",
+    "picture": {"kind": "boxes", "label": "If it worked the other way", "row": [
+      {"box": "trap", "title": "truth follows desire", "sub": ["shifting, inconsistent"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "heavens and earth", "sub": ["ruined"]}]},
+    "key": {"label": "Who should follow whom", "row": [
+      {"box": "trap", "title": "truth adjusts to me", "sub": [], "strike": true},
+      {"box": "idea", "title": "I adjust to truth", "sub": ["the reminder is for me"]}]},
+    "then": "Ibn Kathir says if Allah had {trap}answered the desires in their hearts and legislated by them, the heavens and earth would be corrupted{/trap}, because human desires are inconsistent. Instead {idea}We brought them their reminder{/idea}, but they turned from it.",
+    "now": "You want the rules flexible when they cost you and strict when someone else breaks them. Everyone does. {idea}A truth that bent to everyone's wants would hold nothing up.{/idea}",
+    "old": "The right answer should fit what I want.",
+    "new": "Truth stays put; I am the one who has to move.",
+    "try": "Notice one moment today when you wanted a rule to bend for you. Keep it instead.",
+    "related": ["43:31", "17:100"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:72", "surah": 23, "ayah": 72, "place": "makkah",
+    "title": "He asked them for nothing; his reward is with his Lord.",
+    "subtitle": "A messenger without a fee",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["calls to guidance"]},
+      {"conn": "asks"},
+      {"box": "plain", "title": "no payment", "sub": []},
+      {"conn": "hopes for"},
+      {"box": "reward", "title": "his Lord's reward", "sub": ["the best provider"]}]},
+    "key": {"label": "Why trust him", "row": [
+      {"box": "trap", "title": "he wants something", "sub": [], "strike": true},
+      {"box": "idea", "title": "he wants nothing from you", "sub": ["only your good"]}]},
+    "then": "Al-Hasan said kharj means {idea}a reward{/idea}; Qatadah said {idea}payment{/idea}. Ibn Kathir says the Prophet ﷺ asked for no wages for calling them, {reward}hoping only for a great reward from Allah{/reward}, as the man in another surah said: follow those who ask no wages of you.",
+    "now": "The friend who helps you move house and refuses the pizza money. The teacher who stays late for free. {idea}Help with no price tag is easier to trust.{/idea} And you can be that person too.",
+    "old": "Good deeds deserve some payback.",
+    "new": "The best reward comes from Allah, so I can help without asking anything.",
+    "try": "Do one favor today and refuse any thanks or payment for it.",
+    "related": ["34:47", "38:86", "36:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:73", "surah": 23, "ayah": 73, "place": "makkah",
+    "title": "You are inviting them to a straight path.",
+    "subtitle": "Reassurance for the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "The call", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["mocked, rejected"]},
+      {"conn": "still calls to"},
+      {"box": "idea", "title": "a straight path", "sub": []}]},
+    "key": {"label": "Measure of a call", "row": [
+      {"box": "trap", "title": "how many accepted", "sub": [], "strike": true},
+      {"box": "idea", "title": "where it leads", "sub": ["straight to Allah"]}]},
+    "then": "After all the objections, Allah tells the Prophet ﷺ plainly: {idea}indeed, you invite them to a straight path.{/idea} Whatever they said about him, {reward}what he called to was right{/reward}.",
+    "now": "You keep showing up to teach your kids prayer, and they roll their eyes. You keep inviting your friend to the halaqa and they keep saying maybe. {idea}If what you call to is straight, keep calling.{/idea}",
+    "old": "If nobody listens, I must be doing it wrong.",
+    "new": "The value of inviting to good is in where it leads, not in the response.",
+    "try": "Gently invite one person to something good this week, with no pressure.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:74", "surah": 23, "ayah": 74, "place": "makkah",
+    "title": "Without belief in the Hereafter, people drift off the path.",
+    "subtitle": "The compass that keeps you straight",
+    "picture": {"kind": "boxes", "label": "Why they drift", "row": [
+      {"box": "trap", "title": "no Hereafter", "sub": ["no final account"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "deviating", "sub": ["far astray"]}]},
+    "key": {"label": "What keeps you on track", "row": [
+      {"box": "people", "title": "willpower", "sub": [], "strike": true},
+      {"box": "idea", "title": "remembering the return", "sub": ["the end shapes the road"]}]},
+    "then": "Right after the straight path comes its opposite: {trap}those who do not believe in the Hereafter are deviating from the path.{/trap} Ibn Kathir says {trap}they have gone astray and deviated.{/trap}",
+    "now": "When you forget the Day of Return, small compromises start to look fine. One more lie on the timesheet. One more harsh word. {idea}Remembering the end straightens the road.{/idea}",
+    "old": "I can stay good without thinking about the Hereafter.",
+    "new": "Remembering that I will return keeps me on the path.",
+    "try": "Before a tough decision today, ask: how will this look on the Day I return to Allah?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:75", "surah": 23, "ayah": 75, "place": "makkah",
+    "title": "Even relief would not have changed them.",
+    "subtitle": "When mercy meets a stubborn heart",
+    "picture": {"kind": "boxes", "label": "If relief came", "row": [
+      {"box": "reward", "title": "mercy", "sub": ["distress removed"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "persisting", "sub": ["in transgression"]},
+      {"box": "trap", "title": "wandering blindly", "sub": []}]},
+    "key": {"label": "What really changes us", "row": [
+      {"box": "trap", "title": "better circumstances", "sub": [], "strike": true},
+      {"box": "idea", "title": "a willing heart", "sub": []}]},
+    "then": "The surah was revealed around the famine in Makkah. Ibn Kathir says Allah tells of their stubbornness: {trap}even if He removed the calamity and made them understand the Quran, they still would not follow it{/trap}, but persist, wandering blindly.",
+    "now": "\"Once this hard month is over, I'll start praying properly.\" Then the month ends, and nothing changes. {idea}Relief does not fix a heart by itself.{/idea}",
+    "old": "I will change once my situation improves.",
+    "new": "If my heart is not willing, better times will not change me.",
+    "try": "Start one good habit today, during the hard time, instead of waiting for it to pass.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:76", "surah": 23, "ayah": 76, "place": "makkah",
+    "title": "Hardship came, and still they would not humble themselves.",
+    "subtitle": "The famine that should have softened them",
+    "picture": {"kind": "boxes", "label": "The famine", "row": [
+      {"box": "trap", "title": "years of hunger", "sub": ["camel hair and blood"]},
+      {"conn": "meant to bring"},
+      {"box": "idea", "title": "humility, dua", "sub": []},
+      {"conn": "but"},
+      {"box": "trap", "title": "no yielding", "sub": ["hearts hardened"]}]},
+    "key": {"label": "What hardship is for", "row": [
+      {"box": "trap", "title": "just bad luck", "sub": [], "strike": true},
+      {"box": "idea", "title": "a call to turn back", "sub": ["humble yourself"]}]},
+    "then": "Ibn Abbas reported that Abu Sufyan came to the Prophet ﷺ saying: {trap}we have been reduced to eating camel hair and blood.{/trap} Then this verse came. Ibn Kathir says Allah {idea}tested them with difficulties{/idea}, {trap}but it did not deter them; they did not call on Him.{/trap}",
+    "now": "The redundancy letter, the diagnosis, the empty bank account. You call friends, search online, lie awake planning. {idea}The verse asks: did you also bow and ask Him?{/idea}",
+    "old": "Hardship is something to just get through.",
+    "new": "Hardship is a door back to Allah, if I humble myself.",
+    "try": "In your current difficulty, make one long, humble sujood today and tell Allah all of it.",
+    "related": ["6:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:77", "surah": 23, "ayah": 77, "place": "makkah",
+    "title": "When the gate of severe punishment opens, hope collapses.",
+    "subtitle": "Despair that comes too late",
+    "picture": {"kind": "boxes", "label": "The final turn", "row": [
+      {"box": "trap", "title": "warnings ignored", "sub": []},
+      {"conn": "until"},
+      {"box": "trap", "title": "the gate opens", "sub": ["sudden, unexpected"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "despair", "sub": ["all hope gone"]}]},
+    "key": {"label": "Which door", "row": [
+      {"box": "trap", "title": "wait for the last gate", "sub": [], "strike": true},
+      {"box": "reward", "title": "walk through mercy's door now", "sub": []}]},
+    "then": "Ibn Kathir says when Allah's command {trap}comes to them suddenly and they are overtaken by what they were not expecting, they despair of any ease and goodness, and all their hopes disappear.{/trap}",
+    "now": "You have hope right now. You can still turn, still apologize, still pray. {reward}That hope is a door this verse says will not stay open forever.{/reward} Use it while it is yours.",
+    "old": "There will always be another chance.",
+    "new": "Today's hope is a mercy, and I should use it before it closes.",
+    "try": "Turn one regret into action today: an apology, a prayer made up, a debt repaid.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:78", "surah": 23, "ayah": 78, "place": "makkah",
+    "title": "He gave you hearing, sight, and hearts. Little thanks.",
+    "subtitle": "The tools you use to know anything",
+    "picture": {"kind": "boxes", "label": "What He gave", "row": [
+      {"box": "reward", "title": "hearing", "sub": []},
+      {"box": "reward", "title": "sight", "sub": []},
+      {"box": "reward", "title": "hearts", "sub": ["understanding"]},
+      {"conn": "and yet"},
+      {"box": "trap", "title": "little thanks", "sub": []}]},
+    "key": {"label": "What they are for", "row": [
+      {"box": "trap", "title": "just for getting by", "sub": [], "strike": true},
+      {"box": "idea", "title": "to know Him and draw lessons", "sub": []}]},
+    "then": "Ibn Kathir says Allah gave {reward}hearing, sight and understanding through which they come to know things and draw lessons{/reward}, signs of His Oneness. Then: {trap}how little you thank Allah for the blessings He has given you.{/trap}",
+    "now": "You listen to podcasts for hours and watch videos until your eyes ache. Your mind replays arguments at 2 a.m. {idea}The same ears, eyes and heart were given so you could notice Him.{/idea}",
+    "old": "My senses are just part of being alive.",
+    "new": "My hearing, sight and heart are gifts meant to lead me to Allah.",
+    "try": "Use your eyes for one minute today just to notice something beautiful, and thank Allah for it.",
+    "related": ["12:103"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:79", "surah": 23, "ayah": 79, "place": "makkah",
+    "title": "He spread you across the earth and will gather you back.",
+    "subtitle": "Scattered now, gathered later",
+    "picture": {"kind": "boxes", "label": "Spread and gathered", "row": [
+      {"box": "people", "title": "all nations", "sub": ["languages, characters"]},
+      {"conn": "spread across"},
+      {"box": "plain", "title": "the earth", "sub": []},
+      {"conn": "then"},
+      {"box": "idea", "title": "gathered to Him", "sub": ["none left out"]}]},
+    "key": {"label": "Who is gathered", "row": [
+      {"box": "trap", "title": "only the important", "sub": [], "strike": true},
+      {"box": "idea", "title": "everyone", "sub": ["young, old, noble, unknown"]}]},
+    "then": "Ibn Kathir says Allah {idea}put people in all parts of the earth, with their different nations, languages and characteristics{/idea}, and on the Day He will gather them all, {reward}none left out, young or old, noble or insignificant{/reward}.",
+    "now": "Your family is spread over three time zones, a cousin in Canada, a brother in Dubai, a grandmother back home. {idea}Every one of them, and you, will be gathered in one place.{/idea}",
+    "old": "We are scattered, and that is just how life is.",
+    "new": "However far apart we live, we will all be gathered before Allah.",
+    "try": "Send a message today to a relative who lives far away.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:80", "surah": 23, "ayah": 80, "place": "makkah",
+    "title": "Life, death, night and day are His. Will you not think?",
+    "subtitle": "Signs you live inside every day",
+    "picture": {"kind": "boxes", "label": "In His hand", "row": [
+      {"box": "idea", "title": "gives life", "sub": []},
+      {"box": "idea", "title": "causes death", "sub": []},
+      {"box": "idea", "title": "night follows day", "sub": ["never breaking pattern"]}]},
+    "key": {"label": "What reason says", "row": [
+      {"box": "trap", "title": "it all just runs", "sub": [], "strike": true},
+      {"box": "idea", "title": "Someone runs it", "sub": ["All-Knowing, Almighty"]}]},
+    "then": "Ibn Kathir says Allah {idea}will bring the scattered bones back to life{/idea}, and by His command night and day follow each other, never departing from that pattern. Then: {idea}do you not have minds that tell you of the Almighty?{/idea}",
+    "now": "Your alarm goes off at 6, sunrise at 6:40, sunset at 5:15. Your phone even shows it. {idea}You plan your life around an order you did not set.{/idea}",
+    "old": "Day and night are just the background of life.",
+    "new": "Every sunrise and sunset is a sign that Allah gives and takes life.",
+    "try": "Watch the sunset or sunrise today, even through a window, and think for one minute.",
+    "related": ["36:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:81", "surah": 23, "ayah": 81, "place": "makkah",
+    "title": "They only repeated what earlier peoples said.",
+    "subtitle": "Old objections in new mouths",
+    "picture": {"kind": "boxes", "label": "Echo", "row": [
+      {"box": "trap", "title": "the men of old", "sub": ["denied resurrection"]},
+      {"conn": "echoed by"},
+      {"box": "trap", "title": "the Quraysh", "sub": ["same words"]}]},
+    "key": {"label": "Original thinking?", "row": [
+      {"box": "trap", "title": "a fresh, modern doubt", "sub": [], "strike": true},
+      {"box": "idea", "title": "the oldest objection", "sub": ["already answered"]}]},
+    "then": "After all those signs, the answer was no new argument. Ibn Kathir says they {trap}were like the disbelievers who came before them{/trap}, repeating the words of earlier nations, the same ones the surah already told of with Nuh and the next generation.",
+    "now": "A clever video argues that life after death is a myth, and it feels new and bold. {idea}This verse says: it is one of the oldest lines in history.{/idea}",
+    "old": "Today's doubts are new and more serious.",
+    "new": "Most doubts are old echoes the Quran has already answered.",
+    "try": "When a doubt bothers you this week, look for how the Quran already answered it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:82", "surah": 23, "ayah": 82, "place": "makkah",
+    "title": "Dust and bones, raised again? they asked once more.",
+    "subtitle": "The same doubt, the same answer",
+    "picture": {"kind": "boxes", "label": "The doubt", "row": [
+      {"box": "plain", "title": "dead", "sub": []},
+      {"box": "plain", "title": "dust and bones", "sub": []},
+      {"conn": "raised?"},
+      {"box": "trap", "title": "very unlikely", "sub": ["they thought"]}]},
+    "key": {"label": "The answer", "row": [
+      {"box": "trap", "title": "who revives rotten bones?", "sub": [], "strike": true},
+      {"box": "idea", "title": "the One who made them first", "sub": []}]},
+    "then": "Ibn Kathir says {trap}they thought it very unlikely, after they had disintegrated into nothing{/trap}. He cites the reply from Surah Ya Sin: {idea}He will give them life who created them the first time.{/idea}",
+    "now": "You hold an old family photo of a great-grandparent you never met. Nothing is left of them but a name. {idea}The One who first made them from nothing can make them again.{/idea}",
+    "old": "Once someone is dust, they are gone for good.",
+    "new": "The One who made me the first time can raise me again.",
+    "try": "Make a dua today for a relative who has passed away, by name.",
+    "related": ["79:11", "36:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:83", "surah": 23, "ayah": 83, "place": "makkah",
+    "title": "We heard this promise before. Just old legends, they said.",
+    "subtitle": "Dismissing truth because it is familiar",
+    "picture": {"kind": "boxes", "label": "Their dismissal", "row": [
+      {"box": "people", "title": "us and our fathers", "sub": ["heard it before"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "tales of the ancients", "sub": ["not worth believing"]}]},
+    "key": {"label": "Old and true", "row": [
+      {"box": "trap", "title": "old means false", "sub": [], "strike": true},
+      {"box": "idea", "title": "repeated because true", "sub": ["every Prophet said it"]}]},
+    "then": "They said: {trap}we were promised this, we and our fathers before; it is only legends of the ancients.{/trap} Ibn Kathir explains they meant it was something {trap}learned from the books and disputes of the ancients{/trap}, and so impossible.",
+    "now": "You have heard \"death can come any time\" so many times it no longer means anything. {trap}Familiar truths are the easiest to stop hearing.{/trap}",
+    "old": "I have heard it all before, so it does not move me.",
+    "new": "A truth repeated by every Prophet deserves to be heard fresh.",
+    "try": "Take one reminder you have heard a hundred times and act on it today as if it were new.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:84", "surah": 23, "ayah": 84, "place": "makkah",
+    "title": "Whose is the earth and everyone on it?",
+    "subtitle": "A question with only one honest answer",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "plain", "title": "the earth", "sub": ["animals, plants, fruit"]},
+      {"box": "people", "title": "all its people", "sub": []},
+      {"conn": "belong to"},
+      {"box": "idea", "title": "?", "sub": ["if you know"]}]},
+    "key": {"label": "What follows", "row": [
+      {"box": "people", "title": "Allah owns it", "sub": ["they admitted"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "worship Him alone", "sub": ["they did not"]}]},
+    "then": "Allah tells the Prophet ﷺ to ask the idolaters, {idea}who owns the earth and all in it?{/idea} Ibn Kathir says they {reward}admitted Allah was Creator and Owner{/reward}, yet still worshipped others they thought would bring them near Him.",
+    "now": "Your name is on the house deeds, the car log book, the phone contract. {idea}Ask the question honestly: whose is it really?{/idea} The answer changes how you hold it.",
+    "old": "What I own is mine.",
+    "new": "All of it belongs to Allah, including me.",
+    "try": "Look around your room and say: all of this belongs to Allah. Give one thing away this week.",
+    "related": ["39:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

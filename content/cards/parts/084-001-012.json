@@ -1,0 +1,233 @@
+[
+  {
+    "id": "84:1", "surah": 84, "ayah": 1, "place": "makkah",
+    "title": "When the sky splits open.",
+    "subtitle": "The roof of the world gives way",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "plain", "title": "the sky", "sub": ["solid above us for ages"]},
+      {"conn": "is"},
+      {"box": "idea", "title": "split asunder", "sub": ["on the Day of Judgement"]}]},
+    "key": {"label": "What feels permanent", "row": [
+      {"box": "people", "title": "the sky will always be there", "sub": ["the safest thing I know"], "strike": true},
+      {"box": "idea", "title": "it splits on command", "sub": ["only Allah is permanent"]}]},
+    "then": "This is one of the earliest Makkan surahs, sent when people openly refused to believe in Resurrection. Ibn Kathir says this refers to the Day of Judgement. {idea}Abu Hurayrah prostrated when he recited it, saying the Prophet ﷺ did the same.{/idea}",
+    "now": "You plan the mortgage for thirty years, the pension for forty. You treat the world like a fixed stage. {idea}The verse opens with the stage itself breaking.{/idea}",
+    "old": "The world around me is solid and will carry on as it is.",
+    "new": "Even the sky will split when Allah commands, so I should not lean on anything but Him.",
+    "try": "Look up at the sky for a minute today and remember it will one day obey and open.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:2", "surah": 84, "ayah": 2, "place": "makkah",
+    "title": "The sky listens to its Lord, as it must.",
+    "subtitle": "Creation obeys without argument",
+    "picture": {"kind": "boxes", "label": "The sky's response", "row": [
+      {"box": "idea", "title": "the command", "sub": ["split apart"]},
+      {"conn": "the sky"},
+      {"box": "reward", "title": "listens and obeys", "sub": ["it is right for it to"]}]},
+    "key": {"label": "The contrast", "row": [
+      {"box": "reward", "title": "the sky obeys", "sub": ["immediately"]},
+      {"box": "people", "title": "man argues", "sub": ["and delays"]}]},
+    "then": "Ibn Kathir says the sky listens to its Lord and obeys His command to split. {reward}It is right for it to obey{/reward}, because His command cannot be rejected or overcome. The surah introduction notes the only right course is to obey.",
+    "now": "Your alarm goes for Fajr and you hit snooze. The reminder to call your mother sits unread. {idea}The vast sky obeys in an instant. You get to choose.{/idea}",
+    "old": "I will get round to obeying when I am ready.",
+    "new": "Everything around me obeys its Lord. Obeying is me fitting in with the universe.",
+    "try": "Do one thing today the moment you know it is right, without the usual delay.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:3", "surah": 84, "ayah": 3, "place": "makkah",
+    "title": "And when the earth is stretched out flat.",
+    "subtitle": "The ground itself is reshaped",
+    "picture": {"kind": "boxes", "label": "The earth that Day", "row": [
+      {"box": "plain", "title": "mountains, valleys", "sub": ["the shape we know"]},
+      {"conn": "become"},
+      {"box": "idea", "title": "spread out", "sub": ["expanded and extended"]}]},
+    "key": {"label": "Where to hide", "row": [
+      {"box": "people", "title": "somewhere to hide", "sub": ["a corner, a cover"], "strike": true},
+      {"box": "idea", "title": "open, level ground", "sub": ["everyone in plain view"]}]},
+    "then": "Ibn Kathir says the earth will be {idea}expanded, spread out and extended{/idea}. The introduction describes it as plain and smooth on that Day.",
+    "now": "You close the browser tab, clear the history, keep the second phone in the drawer. {trap}There is always a corner here.{/trap} {idea}On a flat earth there is no corner at all.{/idea}",
+    "old": "There is always somewhere to keep things out of sight.",
+    "new": "One day the ground is level and nothing is hidden behind anything.",
+    "try": "Bring one hidden habit into the light today: drop it, or tell someone you trust.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:4", "surah": 84, "ayah": 4, "place": "makkah",
+    "title": "The earth throws out what it held and empties.",
+    "subtitle": "Every grave gives back its people",
+    "picture": {"kind": "boxes", "label": "What comes out", "row": [
+      {"box": "plain", "title": "the earth", "sub": ["holding the dead"]},
+      {"conn": "casts out"},
+      {"box": "people", "title": "all of them", "sub": ["until it is empty"]}]},
+    "key": {"label": "The grave is", "row": [
+      {"box": "people", "title": "the end", "sub": ["a final resting place"], "strike": true},
+      {"box": "idea", "title": "a waiting room", "sub": ["it will give us back"]}]},
+    "then": "Mujahid, Sa'id and Qatadah said it throws out the dead inside it and {idea}empties itself of them{/idea}. The introduction adds it throws out evidence of their deeds too.",
+    "now": "You stand at a funeral and watch the earth close over someone you love. {reward}It feels final.{/reward} {idea}The verse says the ground is only holding them.{/idea}",
+    "old": "Once someone is buried, that is the end of their story.",
+    "new": "The earth is keeping them, and it will return every one.",
+    "try": "Make dua today for one person you have lost, by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:5", "surah": 84, "ayah": 5, "place": "makkah",
+    "title": "The earth too listens to its Lord, as it must.",
+    "subtitle": "Sky and earth answer the same call",
+    "picture": {"kind": "boxes", "label": "Both obey", "row": [
+      {"box": "reward", "title": "the sky", "sub": ["verse 2"]},
+      {"box": "reward", "title": "the earth", "sub": ["verse 5"]},
+      {"conn": "listen to"},
+      {"box": "idea", "title": "their Lord", "sub": ["and it is right"]}]},
+    "key": {"label": "Who is left", "row": [
+      {"box": "reward", "title": "everything else obeys", "sub": ["sky and earth"]},
+      {"conn": "and"},
+      {"box": "people", "title": "you", "sub": ["the one who chooses"]}]},
+    "then": "The same words as verse 2 return, now for the earth. Ibn Kathir says the explanation is the same: {reward}it listens and obeys, and it is right for it to do so{/reward}. Next, the surah turns straight to man.",
+    "now": "The sky above your commute and the ground under your feet are both already obedient. {idea}The only part of the scene still deciding is you.{/idea}",
+    "old": "Obedience is something only religious people worry about.",
+    "new": "Sky and earth obey without complaint, and I am the one still choosing.",
+    "try": "Walk outside today, feel the ground, and choose one act of obedience you have been delaying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:6", "surah": 84, "ayah": 6, "place": "makkah",
+    "title": "O human, you are toiling toward your Lord, and will meet it.",
+    "subtitle": "All your effort is heading somewhere",
+    "picture": {"kind": "boxes", "label": "Your journey", "row": [
+      {"box": "people", "title": "you", "sub": ["working, striving"]},
+      {"conn": "toiling toward"},
+      {"box": "idea", "title": "your Lord", "sub": ["and you meet your deeds"]}]},
+    "key": {"label": "Where the effort goes", "row": [
+      {"box": "people", "title": "just getting by", "sub": ["work, sleep, repeat"], "strike": true},
+      {"box": "idea", "title": "a journey to Him", "sub": ["every deed meets you there"]}]},
+    "then": "Ibn Kathir cites the hadith where Jibril said: {idea}live as you wish, you will die; love whom you wish, you will part; do what you wish, you will meet it.{/idea} Ibn Abbas said whatever you do, you meet Allah with it.",
+    "now": "The early alarm, the long shift, the night feeds, the commute. {trap}It can feel like running on a treadmill.{/trap} {reward}The verse says it is a road, and it ends with a meeting.{/reward}",
+    "old": "My daily grind is just survival and leads nowhere.",
+    "new": "All my effort is a road to my Lord, and I will meet what I did on it.",
+    "try": "Before work today, make an intention that your effort is for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:7", "surah": 84, "ayah": 7, "place": "makkah",
+    "title": "As for the one handed his book in his right hand.",
+    "subtitle": "The first of two groups",
+    "picture": {"kind": "boxes", "label": "At the meeting", "row": [
+      {"box": "people", "title": "you", "sub": ["at the end of the road"]},
+      {"conn": "given"},
+      {"box": "reward", "title": "the book in the right hand", "sub": ["the good sign"]}]},
+    "key": {"label": "Two ways to receive", "row": [
+      {"box": "reward", "title": "right hand", "sub": ["verse 7"]},
+      {"box": "trap", "title": "behind the back", "sub": ["verse 10"]}]},
+    "then": "The introduction says that on that Day all people divide into two groups. {reward}Those whose records are given in their right hands will be forgiven without severe reckoning.{/reward}",
+    "now": "Results day at school: some students open the envelope and smile. {reward}Imagine the relief of an envelope you are glad to open.{/reward} The work that earns it is happening now.",
+    "old": "I will just hope it works out when the time comes.",
+    "new": "The book I receive then is being written by how I live today.",
+    "try": "Ask Allah tonight to give you your book in your right hand.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:8", "surah": 84, "ayah": 8, "place": "makkah",
+    "title": "He will receive an easy reckoning.",
+    "subtitle": "Shown his deeds, not cross-examined",
+    "picture": {"kind": "boxes", "label": "The easy account", "row": [
+      {"box": "people", "title": "his deeds", "sub": ["shown to him"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "not interrogated", "sub": ["no picking at every detail"]}]},
+    "key": {"label": "Two kinds of reckoning", "row": [
+      {"box": "reward", "title": "presentation", "sub": ["deeds shown, then forgiven"]},
+      {"box": "trap", "title": "interrogation", "sub": ["whoever is questioned closely is ruined"]}]},
+    "then": "Ibn Kathir cites the hadith of A'ishah: the Prophet ﷺ said whoever is interrogated in the reckoning is punished. She asked about this verse, and he said {reward}it is the presentation, not the interrogation{/reward}.",
+    "now": "A kind manager reviews your year, notes the mistakes, and says, \"Fine, let it go.\" {reward}That relief is a small taste.{/reward} Allah's mercy on that Day is far greater.",
+    "old": "Every single slip I made will be dragged out and judged.",
+    "new": "Allah can show me my deeds and simply forgive. I ask for that ease.",
+    "try": "Make this dua today: O Allah, give me an easy reckoning.",
+    "related": ["84:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:9", "surah": 84, "ayah": 9, "place": "makkah",
+    "title": "And he goes back to his family, overjoyed.",
+    "subtitle": "A homecoming in Paradise",
+    "picture": {"kind": "boxes", "label": "After the reckoning", "row": [
+      {"box": "reward", "title": "easy account", "sub": ["done"]},
+      {"conn": "returns to"},
+      {"box": "people", "title": "his family", "sub": ["in Paradise"]},
+      {"box": "reward", "title": "happy", "sub": ["delighted with what Allah gave"]}]},
+    "key": {"label": "What joy looks like", "row": [
+      {"box": "people", "title": "joy is now or never", "sub": ["grab it here"], "strike": true},
+      {"box": "reward", "title": "the lasting joy", "sub": ["a homecoming after it all"]}]},
+    "then": "Qatadah and Ad-Dahhak said he {reward}returns to his family in Paradise{/reward}, happy and delighted with what Allah has given him.",
+    "now": "Walking through the arrivals gate after a long trip, and your family is waiting. {reward}That rush of joy is the picture here, but it never ends.{/reward}",
+    "old": "Family reunions are the best thing, and they never last.",
+    "new": "There is a homecoming where the joy does not end.",
+    "try": "Call or hug a family member today and say a dua that you meet again in Paradise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:10", "surah": 84, "ayah": 10, "place": "makkah",
+    "title": "But the one handed his book behind his back.",
+    "subtitle": "The second group",
+    "picture": {"kind": "boxes", "label": "The other way", "row": [
+      {"box": "people", "title": "the man", "sub": ["at the end of the road"]},
+      {"conn": "given"},
+      {"box": "trap", "title": "behind his back", "sub": ["left hand, bent behind"]}]},
+    "key": {"label": "Still in reach", "row": [
+      {"box": "trap", "title": "behind the back", "sub": ["the end of one road"]},
+      {"box": "reward", "title": "repentance now", "sub": ["the road can change"]}]},
+    "then": "Ibn Kathir says he will be {trap}given his book in his left hand, behind his back, with his hand bent behind him{/trap}. The surah sets the two groups side by side.",
+    "now": "You hide the bad report card behind your back as a kid, hoping no one asks. {idea}The verse is a warning given early, so you can still change what is on the page.{/idea}",
+    "old": "I would rather not think about the bad outcome.",
+    "new": "Knowing the bad outcome now is what lets me avoid it.",
+    "try": "Replace one bad deed today with a good one in the same area of your life.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:11", "surah": 84, "ayah": 11, "place": "makkah",
+    "title": "He will cry out for destruction.",
+    "subtitle": "Wishing to vanish instead of face it",
+    "picture": {"kind": "boxes", "label": "His cry", "row": [
+      {"box": "trap", "title": "the book behind", "sub": ["he sees it"]},
+      {"conn": "calls for"},
+      {"box": "trap", "title": "destruction", "sub": ["loss, to be gone"]}]},
+    "key": {"label": "The wish", "row": [
+      {"box": "trap", "title": "let me disappear", "sub": ["too late"]},
+      {"box": "idea", "title": "let me change", "sub": ["still possible today"]}]},
+    "then": "Ibn Kathir says he calls for {trap}loss and destruction{/trap}. The introduction says they will wish they could somehow die, but they will not die.",
+    "now": "After a huge mistake you think, \"I wish I could just disappear.\" {idea}Here, that feeling can turn into repentance and a fresh start.{/idea}",
+    "old": "When I mess up badly, I just want to vanish.",
+    "new": "Today the answer to shame is turning back, while turning back still works.",
+    "try": "Turn one regret into a sincere istighfar today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "84:12", "surah": 84, "ayah": 12, "place": "makkah",
+    "title": "And he will enter the Blaze.",
+    "subtitle": "The end of the road of denial",
+    "picture": {"kind": "boxes", "label": "His end", "row": [
+      {"box": "trap", "title": "the book behind", "sub": ["verse 10"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the Blaze", "sub": ["made to taste it"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "people", "title": "fate, bad luck", "sub": ["out of my hands"], "strike": true},
+      {"box": "idea", "title": "the life lived", "sub": ["verses 13 and 14 explain"]}]},
+    "then": "Ibn Kathir says he enters a blazing Fire and is made to taste its burning. {idea}The next verses explain why: he lived without thinking about the end.{/idea}",
+    "now": "A warning label on the medicine box is not there to scare you. {reward}It is there so you take the right dose.{/reward} This verse works the same way.",
+    "old": "Hearing about the Fire just makes me anxious.",
+    "new": "The warning is there so I take the other road, while I can.",
+    "try": "Read verse 25 of this surah today and hold on to its hope.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

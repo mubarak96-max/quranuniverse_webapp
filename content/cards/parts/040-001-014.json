@@ -1,0 +1,279 @@
+[
+  {
+    "id": "40:1", "surah": 40, "ayah": 1, "place": "makkah",
+    "title": "Two letters that ask you to slow down.",
+    "subtitle": "The first of the Ha Mim family of surahs",
+    "picture": {"kind": "boxes", "label": "Entering the Ha Mims", "row": [
+      {"box": "plain", "title": "Ha Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "opens"},
+      {"box": "reward", "title": "the garden", "sub": ["Ibn Mas'ud: I take my time"]}]},
+    "key": {"label": "How to walk in", "row": [
+      {"box": "people", "title": "skim to the end", "sub": ["just finish the page"], "strike": true},
+      {"box": "idea", "title": "pause and look", "sub": ["like entering a garden"]}]},
+    "then": "This surah opens a group of seven that all begin with Ha Mim. {idea}Their meaning is known to Allah.{/idea} Ibn Mas'ud said that when he reached the Ha Mims it was like reaching a beautiful garden, {reward}so he took his time.{/reward}",
+    "now": "You open the app on the bus with four stops to go. The habit is to race through and tick the day's reading off. {idea}Here the letters themselves say: slow down.{/idea} You do not need to understand them to stop and pay attention.",
+    "old": "Letters I cannot explain are something to get past quickly.",
+    "new": "A sign I cannot explain is a reason to stop and listen harder to what comes next.",
+    "try": "Read the next few verses of this surah slowly, out loud, with no phone notifications on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:2", "surah": 40, "ayah": 2, "place": "makkah",
+    "title": "This Book comes from the One who misses nothing.",
+    "subtitle": "Who sent it, and what that says about Him",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the Almighty", "the All-Knower"]},
+      {"conn": "sends down"},
+      {"box": "reward", "title": "the Book", "sub": ["the Quran"]},
+      {"conn": "to"},
+      {"box": "people", "title": "you", "sub": ["the reader"]}]},
+    "key": {"label": "Two names on the cover", "row": [
+      {"box": "idea", "title": "Almighty", "sub": ["cannot be overtaken"]},
+      {"box": "idea", "title": "All-Knower", "sub": ["even the hidden ant"]}]},
+    "then": "Ibn Kathir explains that the Book is from the One {idea}who cannot be overtaken{/idea} and from whom nothing is hidden, {idea}not even an ant under many layers.{/idea} In Makkah, people argued about where the Quran came from. This verse states it plainly.",
+    "now": "You read advice online and wonder who wrote it, what they know, what they want from you. Most voices know a little and miss a lot. {idea}This one knows everything about you, including what you hide.{/idea}",
+    "old": "This is one more source of advice among many.",
+    "new": "The One speaking here knows me better than I know myself, and nothing can stop His word.",
+    "try": "Before reading today, say quietly: this is from the One who knows me. Then read one page.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:3", "surah": 40, "ayah": 3, "place": "makkah",
+    "title": "Forgiving and severe, held together so you keep both.",
+    "subtitle": "Hope and fear in one sentence",
+    "picture": {"kind": "boxes", "label": "His names in this verse", "row": [
+      {"box": "reward", "title": "Forgiver of sin", "sub": ["what you already did"]},
+      {"box": "reward", "title": "Acceptor of repentance", "sub": ["when you turn back"]},
+      {"box": "trap", "title": "Severe in punishment", "sub": ["for the one who persists"]},
+      {"box": "reward", "title": "Owner of abundance", "sub": ["gifts beyond counting"]}]},
+    "key": {"label": "Why both are named", "row": [
+      {"box": "people", "title": "only fear", "sub": ["I am too far gone"], "strike": true},
+      {"box": "people", "title": "only hope", "sub": ["nothing I do matters"], "strike": true},
+      {"box": "idea", "title": "hope and fear", "sub": ["the balance that moves you"]}]},
+    "then": "Ibn Kathir notes that mercy and punishment are often named together in the Quran {idea}so that people stay between hope and fear.{/idea} He forgives what is past and accepts repentance for what comes. {trap}The severity is for the one who persists and turns away.{/trap}",
+    "now": "Some nights you feel too far gone to ask. Other days you feel so safe you stop trying. {reward}Forgiver of sin, Acceptor of repentance{/reward} comes first, for the first mood. The warning is there for the second.",
+    "old": "Either I am beyond forgiveness, or I do not need to worry at all.",
+    "new": "The door is wide open, and that is exactly why I should not keep walking away from it.",
+    "try": "Name one sin you have not asked forgiveness for. Ask, in your own words, today.",
+    "related": ["15:49", "16:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:4", "surah": 40, "ayah": 4, "place": "makkah",
+    "title": "Their busy, wealthy lives are not proof they are right.",
+    "subtitle": "Do not be fooled by how well others seem to do",
+    "picture": {"kind": "boxes", "label": "What the eye sees", "row": [
+      {"box": "people", "title": "those who dispute", "sub": ["argue against the signs"]},
+      {"conn": "move freely"},
+      {"box": "reward", "title": "wealth, travel", "sub": ["trade across the land"]}]},
+    "key": {"label": "How to read success", "row": [
+      {"box": "trap", "title": "they prosper, so", "sub": ["they must be right"], "strike": true},
+      {"box": "idea", "title": "brief enjoyment", "sub": ["not a verdict on truth"]}]},
+    "then": "In Makkah the deniers raised objection after objection, while their caravans and wealth kept growing. Ibn Kathir says their going about the land means {reward}their wealth and luxurious life.{/reward} {idea}Allah tells the Prophet ﷺ: do not let that deceive you.{/idea}",
+    "now": "You scroll past someone who mocks everything you hold sacred, and their life looks perfect. Holidays, a new car, a big following. {trap}A small voice says maybe they are the smart ones.{/trap} {idea}Comfort is not a proof.{/idea}",
+    "old": "If they are doing so well, maybe they have it figured out.",
+    "new": "How well someone is doing tells me nothing about whether they are right.",
+    "try": "Next time you feel envy scrolling, close the app and thank Allah for one specific thing.",
+    "related": ["3:196", "31:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:5", "surah": 40, "ayah": 5, "place": "makkah",
+    "title": "Every nation had its arguments against the truth.",
+    "subtitle": "The Prophet ﷺ is shown he is not the first",
+    "picture": {"kind": "boxes", "label": "The old pattern", "row": [
+      {"box": "people", "title": "people of Nuh", "sub": ["the first to deny"]},
+      {"box": "people", "title": "the factions after", "sub": ["nation after nation"]},
+      {"conn": "plot and argue"},
+      {"box": "trap", "title": "seized", "sub": ["how was My penalty"]}]},
+    "key": {"label": "Their method", "row": [
+      {"box": "trap", "title": "falsehood", "sub": ["clever arguments"]},
+      {"conn": "to topple"},
+      {"box": "idea", "title": "the truth", "sub": ["plain and clear"]}]},
+    "then": "Ibn Kathir says Allah {idea}consoles the Prophet ﷺ{/idea} here. The people of Nuh and those after them all did the same: {trap}they plotted against their messenger{/trap} and argued with falsehood to knock down a truth that was plain.",
+    "now": "You know you are right about something good, but the family group chat keeps throwing new arguments at you. It wears you down. {idea}This pattern is older than you.{/idea} Clever objections do not make the truth less true.",
+    "old": "If I cannot answer every objection, maybe I am the one who is wrong.",
+    "new": "Truth has always faced clever arguments. Losing a debate does not make it false.",
+    "try": "Stop replying to one argument that is only draining you. Make dua for the person instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:6", "surah": 40, "ayah": 6, "place": "makkah",
+    "title": "The same word that came true before comes true again.",
+    "subtitle": "Past outcomes as a warning for the present",
+    "picture": {"kind": "boxes", "label": "The word of your Lord", "row": [
+      {"box": "people", "title": "past nations", "sub": ["denied and were seized"]},
+      {"conn": "same word"},
+      {"box": "people", "title": "the deniers of Makkah", "sub": ["rejecting the Prophet ﷺ"]}]},
+    "key": {"label": "What history teaches", "row": [
+      {"box": "people", "title": "that was then", "sub": ["it does not apply to us"], "strike": true},
+      {"box": "idea", "title": "the word holds", "sub": ["then and now"]}]},
+    "then": "Ibn Kathir explains: {trap}just as the word of punishment came true for past nations,{/trap} it holds for those in Makkah who rejected the Prophet ﷺ and fought him. The stories before were not just history. {idea}They were a mirror.{/idea}",
+    "now": "You read about people who ignored every warning and think, I would never. Then you notice the warning you keep snoozing like an alarm. {idea}The lesson is for you, not for them.{/idea}",
+    "old": "Stories of past nations are about other people.",
+    "new": "Allah's word does not change, so their story is a warning I can still use.",
+    "try": "Think of one warning sign in your life you keep ignoring. Write down one step to act on it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:7", "surah": 40, "ayah": 7, "place": "makkah",
+    "title": "The angels around the Throne are praying for you.",
+    "subtitle": "Who asks forgiveness for the believers",
+    "picture": {"kind": "boxes", "label": "Near the Throne", "row": [
+      {"box": "people", "title": "the Throne bearers", "sub": ["and those around it"]},
+      {"conn": "glorify, then pray for"},
+      {"box": "people", "title": "believers on earth", "sub": ["who repent and follow"]}]},
+    "key": {"label": "How they pray", "row": [
+      {"box": "idea", "title": "mercy and knowledge", "sub": ["cover everything you did"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "forgive them", "sub": ["and guard from the Fire"]}]},
+    "then": "In Makkah the believers were few, mocked, and in danger. This verse tells them {reward}the angels closest to Allah{/reward} pray for them. Ibn Kathir explains their words: {idea}Your mercy covers their sins and Your knowledge covers all their deeds.{/idea}",
+    "now": "You feel alone. The night shift, the hard week, nobody checking on you. {reward}Right now, beings near the Throne are asking forgiveness for those who believe and turn back.{/reward} You are spoken about, kindly, in a place you cannot see.",
+    "old": "No one is thinking about me or praying for me.",
+    "new": "If I believe and turn back, angels near the Throne are asking forgiveness for me.",
+    "try": "Make dua for one friend by name, without telling them. Angels say amin for you too.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:8", "surah": 40, "ayah": 8, "place": "makkah",
+    "title": "The angels ask that your family be with you.",
+    "subtitle": "Paradise with parents, spouses and children who were righteous",
+    "picture": {"kind": "boxes", "label": "The angels' second request", "row": [
+      {"box": "people", "title": "the believer", "sub": ["entering the Gardens"]},
+      {"conn": "together with"},
+      {"box": "people", "title": "fathers, spouses", "sub": ["children who were righteous"]}]},
+    "key": {"label": "What reunion costs", "row": [
+      {"box": "people", "title": "each one alone", "sub": ["separate levels forever"], "strike": true},
+      {"box": "reward", "title": "raised to join", "sub": ["no one loses anything"]}]},
+    "then": "Ibn Kathir explains the angels ask Allah {reward}to bring believers together with their righteous families{/reward} so they delight in each other. Sa'id bin Jubayr said a believer will ask where his father, son and brother are, and {reward}they will be raised to join him.{/reward}",
+    "now": "Think of the family photo on your phone. Your mother, your spouse, your kids. Some of the happiness you hope for is simply being together. {idea}Your good deeds can be done for them too.{/idea}",
+    "old": "Paradise is something I will reach alone.",
+    "new": "The angels themselves ask that I be with my righteous family there.",
+    "try": "Make dua tonight to be with your family in Paradise, naming each one.",
+    "related": ["52:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:9", "surah": 40, "ayah": 9, "place": "makkah",
+    "title": "Being shielded from your own bad deeds is the great win.",
+    "subtitle": "The last line of the angels' prayer",
+    "picture": {"kind": "boxes", "label": "What they ask", "row": [
+      {"box": "trap", "title": "evil deeds", "sub": ["and their consequences"]},
+      {"conn": "protect them from"},
+      {"box": "reward", "title": "mercy", "sub": ["that Day"]}]},
+    "key": {"label": "What success means", "row": [
+      {"box": "reward", "title": "money, status", "sub": ["what I chase here"], "strike": true},
+      {"box": "reward", "title": "the great success", "sub": ["saved from my sins' cost"]}]},
+    "then": "The angels end their prayer asking that believers be {idea}protected from evil deeds, the actions and their consequences,{/idea} as Ibn Kathir explains. Whoever is protected that Day has been shown mercy. {reward}That is the great success.{/reward}",
+    "now": "You track wins: a raise, a good grade, a new follower count. {idea}The angels define success differently.{/idea} Being kept from the harm of your own worst choices is the win they ask for on your behalf.",
+    "old": "Success is what I can show off.",
+    "new": "The biggest success is being saved from the cost of my own mistakes.",
+    "try": "Ask Allah today to protect you from the consequences of one specific mistake.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:10", "surah": 40, "ayah": 10, "place": "makkah",
+    "title": "Regret will come too late to change anything.",
+    "subtitle": "Self-hatred on the Day, and an older displeasure",
+    "picture": {"kind": "boxes", "label": "Two kinds of hatred", "row": [
+      {"box": "trap", "title": "their self-hatred", "sub": ["when they see the result"]},
+      {"conn": "is less than"},
+      {"box": "trap", "title": "Allah's displeasure", "sub": ["when they refused faith"]}]},
+    "key": {"label": "When it mattered", "row": [
+      {"box": "people", "title": "regret later", "sub": ["it will fix things"], "strike": true},
+      {"box": "idea", "title": "the invitation now", "sub": ["the moment that counted"]}]},
+    "then": "Ibn Kathir describes the regret of those who refused faith: {trap}they will hate themselves for what brought them there.{/trap} They are told that Allah's displeasure, when faith was offered in the world and they refused, {trap}was greater still.{/trap}",
+    "now": "You know the feeling: the exam you did not study for, the call you did not return before someone died. Regret that arrives after the door shuts. {idea}This verse moves the moment of decision to today, while the invitation is still open.{/idea}",
+    "old": "I can deal with my choices later.",
+    "new": "The moment that counts is when the invitation reaches me, not when regret does.",
+    "try": "Pick one good thing you keep postponing and do the first small part today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:11", "surah": 40, "ayah": 11, "place": "makkah",
+    "title": "Twice dead, twice alive, and now they ask for a way out.",
+    "subtitle": "A confession that comes after the chance has passed",
+    "picture": {"kind": "boxes", "label": "Their plea", "row": [
+      {"box": "plain", "title": "dead, then life", "sub": ["before birth, then birth"]},
+      {"box": "plain", "title": "death, then life", "sub": ["the grave, then rising"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "is there a way out", "sub": ["we confess our sins"]}]},
+    "key": {"label": "Timing of a confession", "row": [
+      {"box": "trap", "title": "confess there", "sub": ["no way back"]},
+      {"box": "reward", "title": "confess here", "sub": ["the door is open"]}]},
+    "then": "Ibn Mas'ud linked this to 2:28: {idea}you were dead, He gave you life, then death, then life again.{/idea} Ibn Kathir says on that Day they will confess and {trap}ask to be sent back to do better,{/trap} and will be told there is no way back.",
+    "now": "The confession they make there is the one you can make here, for free, tonight on your prayer mat. {reward}Here it is accepted.{/reward} The same words, said in time, change everything.",
+    "old": "Admitting my sins is humiliating, so I keep putting it off.",
+    "new": "The confession they wish they had made is one I can make now, while it still helps.",
+    "try": "Tonight, before sleep, admit one wrong to Allah plainly and ask Him to forgive it.",
+    "related": ["2:28", "32:12", "35:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:12", "surah": 40, "ayah": 12, "place": "makkah",
+    "title": "They bristled at Allah alone, and relaxed when partners were added.",
+    "subtitle": "The reason given for no way back",
+    "picture": {"kind": "boxes", "label": "Their reaction", "row": [
+      {"box": "idea", "title": "Allah alone", "sub": ["invoked by Himself"]},
+      {"conn": "they"},
+      {"box": "trap", "title": "rejected", "sub": []},
+      {"box": "trap", "title": "partners added", "sub": ["then they believed"]}]},
+    "key": {"label": "Who judges", "row": [
+      {"box": "people", "title": "send us back", "sub": ["we would change"], "strike": true},
+      {"box": "idea", "title": "the judgement is Allah's", "sub": ["the Most High, the Great"]}]},
+    "then": "Ibn Kathir explains this is why there is no return: {trap}when Allah alone was called on, they disbelieved; when partners were added, they believed.{/trap} If they went back, they would do the same, as 6:28 says. {idea}The judgement belongs to Allah, the Just.{/idea}",
+    "now": "You notice it in yourself: easy to pray, but your real trust goes to the boss, the contact, the lucky charm, the backup plan. {idea}Is your heart at ease with Allah alone,{/idea} or only when something else is added?",
+    "old": "I trust Allah, plus a few other things just in case.",
+    "new": "My heart should rest on Allah alone, not only when something else is propping it up.",
+    "try": "Notice one thing you lean on more than Allah. Ask Him directly for that need today.",
+    "related": ["6:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:13", "surah": 40, "ayah": 13, "place": "makkah",
+    "title": "Signs everywhere, but only those who turn back notice.",
+    "subtitle": "Rain, provision, and who actually remembers",
+    "picture": {"kind": "boxes", "label": "What He shows you", "row": [
+      {"box": "idea", "title": "His signs", "sub": ["in sky and earth"]},
+      {"box": "reward", "title": "rain", "sub": ["one water, many fruits"]},
+      {"conn": "remembered by"},
+      {"box": "people", "title": "the one who turns", "sub": ["back to Him"]}]},
+    "key": {"label": "What makes you see", "row": [
+      {"box": "people", "title": "more evidence", "sub": ["then I would believe"], "strike": true},
+      {"box": "idea", "title": "a turning heart", "sub": ["sees what is already there"]}]},
+    "then": "Ibn Kathir explains the provision from the sky is rain, which brings out crops and fruits {idea}with different colours, tastes and forms from one kind of water.{/idea} He shows His power in creation, {idea}but only those who turn to Him take the lesson.{/idea}",
+    "now": "It rains and you complain about the traffic. Lunch is fruit you never really looked at. {idea}The signs are not missing. The attention is.{/idea} The verse puts the key in your own turning back.",
+    "old": "If Allah showed me a clear sign, I would pay attention.",
+    "new": "The signs are already around me. A turning heart is what lets me see them.",
+    "try": "Next time it rains or you eat fruit, stop for ten seconds and say who sent it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:14", "surah": 40, "ayah": 14, "place": "makkah",
+    "title": "Call on Allah sincerely, even if others dislike it.",
+    "subtitle": "Sincere worship when the room disapproves",
+    "picture": {"kind": "boxes", "label": "The instruction", "row": [
+      {"box": "people", "title": "you", "sub": ["calling on Allah"]},
+      {"conn": "sincere to"},
+      {"box": "idea", "title": "Him alone", "sub": ["religion for Him"]},
+      {"box": "trap", "title": "others dislike it", "sub": ["do it anyway"]}]},
+    "key": {"label": "Whose approval", "row": [
+      {"box": "people", "title": "wait until it is welcome", "sub": ["keep it quiet"], "strike": true},
+      {"box": "idea", "title": "sincere regardless", "sub": ["however much they hate it"]}]},
+    "then": "The believers in Makkah were surrounded by people who {trap}raised objections and mocked their worship.{/trap} After showing who remembers, the verse gives the instruction: {idea}call on Allah, sincere to Him in religion,{/idea} even if those who reject dislike it.",
+    "now": "You are at a work dinner when the time for prayer comes. Or your friends roll their eyes when you say you are fasting. {idea}The verse does not ask you to argue.{/idea} It asks you to stay sincere to Allah anyway.",
+    "old": "I will be more open about my faith when it is easier.",
+    "new": "Sincerity to Allah does not wait for other people's approval.",
+    "try": "Do one act of worship today that you usually hide out of embarrassment, calmly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

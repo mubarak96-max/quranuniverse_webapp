@@ -1,0 +1,248 @@
+[
+  {
+    "id": "59:1", "surah": 59, "ayah": 1, "place": "madinah",
+    "title": "Before the story, a reminder: everything glorifies Him.",
+    "subtitle": "The opening of the surah about the exile",
+    "picture": {"kind": "boxes", "label": "Before the events", "row": [
+      {"box": "people", "title": "the heavens", "sub": ["glorify Him"]},
+      {"box": "people", "title": "the earth", "sub": ["glorifies Him"]},
+      {"conn": "He is"},
+      {"box": "idea", "title": "the Mighty", "sub": ["invincible majesty"]},
+      {"box": "idea", "title": "the Wise", "sub": ["in what He decrees"]}]},
+    "key": {"label": "Reading events", "row": [
+      {"box": "trap", "title": "history is random", "sub": ["just power and luck"], "strike": true},
+      {"box": "idea", "title": "Mighty and Wise", "sub": ["behind every turn"]}]},
+    "then": "Ibn Abbas called this {idea}the surah of Bani an-Nadir{/idea}, a tribe of Madinah whose story follows. Before a single event is told, it opens with praise. Ibn Kathir says everything in the heavens and earth glorifies Allah and affirms His Oneness, and He is {idea}Wise in what He decrees.{/idea}",
+    "now": "You are about to read the news, or tell a story from your own life about something that went badly. Start where the surah starts. {idea}Whatever happened, He is Mighty and Wise.{/idea} The story makes more sense from there.",
+    "old": "Big events are just people's power and plans playing out.",
+    "new": "Every story happens inside a world that glorifies a Mighty, Wise Lord.",
+    "try": "Before you check the news today, say subhan Allah once and remember Who is in charge.",
+    "related": ["17:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:2", "surah": 59, "ayah": 2, "place": "madinah",
+    "title": "They trusted their fortresses. Allah came from where they never expected.",
+    "subtitle": "Walls that could not protect, a lesson for those who see",
+    "picture": {"kind": "boxes", "label": "What they trusted", "row": [
+      {"box": "reward", "title": "strong fortresses", "sub": ["they will defend us"], "strike": true},
+      {"conn": "but"},
+      {"box": "trap", "title": "fear in their hearts", "sub": ["from an unexpected place"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "they left", "sub": ["tearing down their own homes"]}]},
+    "key": {"label": "Real security", "row": [
+      {"box": "trap", "title": "my walls protect me", "sub": ["from anything"], "strike": true},
+      {"box": "idea", "title": "only Allah protects", "sub": ["take warning, people of vision"]}]},
+    "then": "Ibn Kathir explains that Bani an-Nadir had a peace treaty with the Prophet ﷺ, then betrayed it and plotted against his life. {trap}They believed their forts would save them.{/trap} The Muslims did not think they would ever leave. They surrendered for safe passage, taking what their camels could carry. {idea}Take warning, O people of vision.{/idea}",
+    "now": "The pension fund. The good postcode. The alarm system, the insurance policy, the job that feels unshakeable. {trap}All walls.{/trap} Good to have. But the verse says {idea}what you fear can arrive from a direction you never watched.{/idea}",
+    "old": "With enough security around me, nothing can touch me.",
+    "new": "No wall protects me from Allah. Only He keeps me safe.",
+    "try": "Name one thing you rely on to feel safe. Thank Allah for it, then remind yourself it is His.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:3", "surah": 59, "ayah": 3, "place": "madinah",
+    "title": "Exile was the lighter outcome.",
+    "subtitle": "What was decreed, and what remains",
+    "picture": {"kind": "boxes", "label": "Two outcomes", "row": [
+      {"box": "plain", "title": "exile", "sub": ["what was decreed"]},
+      {"box": "trap", "title": "worse in this world", "sub": ["what it spared them"]},
+      {"box": "trap", "title": "the Hereafter", "sub": ["still ahead"]}]},
+    "key": {"label": "Getting off lightly", "row": [
+      {"box": "trap", "title": "I got away with it", "sub": ["it is over"], "strike": true},
+      {"box": "idea", "title": "the bigger account", "sub": ["is still to come"]}]},
+    "then": "The verse says that had Allah not decreed exile for them, {trap}He would have punished them in this world.{/trap} They were allowed to leave with their belongings. Yet the verse adds that the account of the Hereafter {idea}was still ahead of them.{/idea}",
+    "now": "You did something wrong at work and only got a warning. Relief. You think the matter is closed. {idea}A lighter outcome here is a chance, not a verdict.{/idea} The real settling happens later, and you can still fix things before then.",
+    "old": "If the consequences were light, the matter is finished.",
+    "new": "A light consequence in this world is mercy and time to put things right.",
+    "try": "Think of one mistake you got away with. Make it right with Allah or the person today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:4", "surah": 59, "ayah": 4, "place": "madinah",
+    "title": "This happened because they opposed Allah and His Messenger ﷺ.",
+    "subtitle": "The reason behind the outcome",
+    "picture": {"kind": "boxes", "label": "Cause and result", "row": [
+      {"box": "trap", "title": "a broken treaty", "sub": ["and a plot"]},
+      {"conn": "means"},
+      {"box": "trap", "title": "opposing Allah", "sub": ["and His Messenger ﷺ"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "severe in penalty", "sub": ["He is"]}]},
+    "key": {"label": "Why it happened", "row": [
+      {"box": "trap", "title": "bad luck", "sub": ["they lost a fight"], "strike": true},
+      {"box": "idea", "title": "their own choices", "sub": ["opposing Allah"]}]},
+    "then": "The verse names the cause plainly. Ibn Kathir explains that they had made a treaty and then {trap}betrayed it{/trap}, contradicting the Messenger ﷺ. {idea}Whoever opposes Allah, Allah is severe in penalty.{/idea} The outcome came from what they chose.",
+    "now": "When something falls apart, it is easy to blame timing, other people, bad luck. {idea}Sometimes the honest question is: did I go against what I knew Allah wanted?{/idea} Not to drown in guilt. To learn and turn back.",
+    "old": "When things go wrong, it is always someone else's fault.",
+    "new": "My own choices against what Allah wants have consequences I should look at honestly.",
+    "try": "When something goes wrong today, ask one honest question about your own part in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:5", "surah": 59, "ayah": 5, "place": "madinah",
+    "title": "Cut or left standing, it was by Allah's permission.",
+    "subtitle": "The palm trees during the siege",
+    "picture": {"kind": "boxes", "label": "The palms", "row": [
+      {"box": "people", "title": "some cut down", "sub": []},
+      {"box": "people", "title": "some left standing", "sub": ["on their trunks"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "by His permission", "sub": ["not on a whim"]}]},
+    "key": {"label": "Judging decisions", "row": [
+      {"box": "trap", "title": "only by appearances", "sub": ["it looks wrong"], "strike": true},
+      {"box": "idea", "title": "by Allah's permission", "sub": ["He knows the reason"]}]},
+    "then": "During the siege, some of the palm trees of Bani an-Nadir were cut and others left. The verse settles the matter: {idea}both were by Allah's permission.{/idea} It was so {trap}He would disgrace the defiantly disobedient.{/trap}",
+    "now": "You made a hard call by the book: you let go of a friendship that was pulling you down, or turned down money that was not clean. People question it. {idea}If it was for Allah and within His limits, you do not need everyone's approval.{/idea}",
+    "old": "If people criticise my decision, I must have done something wrong.",
+    "new": "What is done within Allah's permission does not need the crowd's approval.",
+    "try": "Before one decision today, ask: does Allah permit this? Then let that be enough.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:6", "surah": 59, "ayah": 6, "place": "madinah",
+    "title": "Gained without a battle, so credit goes to Allah.",
+    "subtitle": "What came without horses or camels",
+    "picture": {"kind": "boxes", "label": "How it was gained", "row": [
+      {"box": "trap", "title": "no horses", "sub": ["no charge"], "strike": true},
+      {"box": "trap", "title": "no camels", "sub": ["no expedition"], "strike": true},
+      {"conn": "only"},
+      {"box": "idea", "title": "Allah's power", "sub": ["over whom He wills"]}]},
+    "key": {"label": "Who earned it", "row": [
+      {"box": "trap", "title": "we won it", "sub": ["our effort"], "strike": true},
+      {"box": "idea", "title": "Allah gave it", "sub": ["He is able to do all"]}]},
+    "then": "Ibn Kathir explains that this property came {idea}without fighting, using neither horses nor camels{/idea}, since fear made them leave. Umar said the Prophet ﷺ took his family's expenses for a year from it, and {reward}used the rest for the community.{/reward}",
+    "now": "The job offer that came through a friend you never asked. The refund you did not expect. {idea}No effort of yours, just a door that opened.{/idea} The verse teaches you to say: that was Allah, and to use it well.",
+    "old": "Everything good I have came from my own hard work.",
+    "new": "Some of my best blessings came with no effort at all. That is Allah's gift.",
+    "try": "List one blessing that came to you without effort, and share some of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:7", "surah": 59, "ayah": 7, "place": "madinah",
+    "title": "So wealth does not just circle among the rich.",
+    "subtitle": "Who the shared wealth was for",
+    "picture": {"kind": "boxes", "label": "Where it went", "row": [
+      {"box": "people", "title": "relatives", "sub": []},
+      {"box": "people", "title": "orphans", "sub": []},
+      {"box": "people", "title": "the poor", "sub": []},
+      {"box": "people", "title": "travellers", "sub": ["stranded"]},
+      {"conn": "not"},
+      {"box": "trap", "title": "only the rich", "sub": ["passing it around"]}]},
+    "key": {"label": "How wealth should move", "row": [
+      {"box": "trap", "title": "among the wealthy", "sub": ["round and round"], "strike": true},
+      {"box": "reward", "title": "to those in need", "sub": ["what he ﷺ gives, take"]}]},
+    "then": "The verse lists who this wealth was for: relatives, orphans, the poor, the traveller. Ibn Kathir says it was spent this way {idea}so that it may not become a fortune passed among the rich.{/idea} Then a broad principle: {reward}what the Messenger ﷺ gives you, take; what he forbids, leave.{/reward}",
+    "now": "The birthday gifts that only go to friends who will gift back. The dinner invitations that only go to people who can host you in return. {trap}Generosity that never leaves your own circle.{/trap} The verse wants it to reach the orphan and the traveller too.",
+    "old": "I share mostly with people who share back with me.",
+    "new": "Good wealth flows outward to people who cannot repay me.",
+    "try": "Give something today to someone who could never return the favour.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:8", "surah": 59, "ayah": 8, "place": "madinah",
+    "title": "They lost homes and wealth, and stayed truthful.",
+    "subtitle": "The poor emigrants who left everything for Allah",
+    "picture": {"kind": "boxes", "label": "What they left", "row": [
+      {"box": "trap", "title": "homes", "sub": ["driven out"]},
+      {"box": "trap", "title": "property", "sub": ["left behind"]},
+      {"conn": "seeking"},
+      {"box": "reward", "title": "His bounty", "sub": ["and His pleasure"]},
+      {"box": "reward", "title": "the truthful", "sub": ["Allah's title for them"]}]},
+    "key": {"label": "What makes someone truthful", "row": [
+      {"box": "trap", "title": "saying the right words", "sub": [], "strike": true},
+      {"box": "reward", "title": "words matched by deeds", "sub": ["even at great cost"]}]},
+    "then": "The emigrants left Makkah, {trap}expelled from their homes and property.{/trap} Ibn Kathir says they defied their people, seeking only Allah's pleasure. Allah calls them {reward}the truthful{/reward}, meaning truthful in word and deed.",
+    "now": "You said Allah comes first. Then the job offer came with a condition that crossed a line, and you walked away. Your bank balance hurts. {reward}That is the kind of truthful this verse means.{/reward} Your words held when they cost you something.",
+    "old": "Faith is mostly what I believe and say.",
+    "new": "Truthful faith is when my choices back up my words, even at a cost.",
+    "try": "Do one thing today that proves something you say you believe.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:9", "surah": 59, "ayah": 9, "place": "madinah",
+    "title": "They gave others preference, even when they were in need.",
+    "subtitle": "The Ansar, and the lamp turned off",
+    "picture": {"kind": "boxes", "label": "The Ansari household", "row": [
+      {"box": "people", "title": "a hungry guest", "sub": ["sent by the Prophet ﷺ"]},
+      {"box": "people", "title": "one meal", "sub": ["meant for the children"]},
+      {"conn": "they"},
+      {"box": "reward", "title": "turn off the lamp", "sub": ["and sleep hungry"]}]},
+    "key": {"label": "Generosity levels", "row": [
+      {"box": "people", "title": "giving from extra", "sub": ["good"]},
+      {"box": "reward", "title": "giving while in need", "sub": ["the best charity"]}]},
+    "then": "The Ansar of Madinah {reward}loved those who emigrated to them{/reward} and felt no envy. Ibn Kathir reports an Ansari couple who hosted a hungry guest with only their children's meal. They put the children to sleep, turned off the lamp, and went to bed hungry. The Prophet ﷺ said {idea}Allah wondered at what they did.{/idea}",
+    "now": "Your flatmate's rent is short and you are tight too. Your sister needs a lift across town on your only day off. {reward}Giving when it pinches is the rank this verse praises.{/reward} And it adds: whoever is saved from their own greed has succeeded.",
+    "old": "I will be generous once I have enough for myself.",
+    "new": "Putting someone else first while I am in need is the highest generosity.",
+    "try": "Give away one thing today that you actually wanted to keep.",
+    "related": ["76:8", "2:177"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:10", "surah": 59, "ayah": 10, "place": "madinah",
+    "title": "Pray for those who came before you, and keep resentment out.",
+    "subtitle": "The dua of the generations that followed",
+    "picture": {"kind": "boxes", "label": "The dua", "row": [
+      {"box": "people", "title": "those after", "sub": ["us, today"]},
+      {"conn": "ask forgiveness for"},
+      {"box": "people", "title": "those before", "sub": ["who preceded in faith"]},
+      {"conn": "and ask"},
+      {"box": "idea", "title": "no resentment", "sub": ["toward any believer"]}]},
+    "key": {"label": "Toward other believers", "row": [
+      {"box": "trap", "title": "judge and resent", "sub": ["they got it wrong"], "strike": true},
+      {"box": "reward", "title": "forgive and pray", "sub": ["You are Kind, Merciful"]}]},
+    "then": "After the emigrants and the Ansar, the verse describes everyone who came later. Their mark is a dua: {reward}forgive us and our brothers who preceded us in faith{/reward}, and {idea}put no resentment in our hearts toward those who believe.{/idea}",
+    "now": "The relative at the mosque with the views you cannot stand. The online argument with another Muslim that still annoys you. The verse hands you words for exactly this. {idea}Ask Allah to clean the bitterness out of your own heart.{/idea}",
+    "old": "Some believers deserve my resentment for what they think or do.",
+    "new": "I pray for believers before me and ask Allah to keep resentment out of my heart.",
+    "try": "Say this dua today, thinking of one Muslim you feel bitter toward.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:11", "surah": 59, "ayah": 11, "place": "madinah",
+    "title": "Big promises of support, and Allah testifies they are lies.",
+    "subtitle": "We will stand with you no matter what",
+    "picture": {"kind": "boxes", "label": "The promise", "row": [
+      {"box": "trap", "title": "we will leave with you", "sub": ["if you are expelled"]},
+      {"box": "trap", "title": "we obey no one else", "sub": ["about you, ever"]},
+      {"box": "trap", "title": "we will fight for you", "sub": ["if you are attacked"]},
+      {"conn": "Allah says"},
+      {"box": "idea", "title": "liars", "sub": []}]},
+    "key": {"label": "What a promise is", "row": [
+      {"box": "trap", "title": "words to look loyal", "sub": ["I never meant it"], "strike": true},
+      {"box": "idea", "title": "a commitment", "sub": ["Allah is Witness"]}]},
+    "then": "Ibn Kathir says Abdullah bin Ubayy and those like him {trap}sent a message to Bani an-Nadir promising them help.{/trap} The verse quotes their bold words, then says: {idea}Allah testifies that they are liars.{/idea} It was just words they never intended to keep.",
+    "now": "I will always be there for you. Call me anytime. I have got your back. You say it at the party, and then the call comes at midnight and you let it ring. {idea}Allah is witness to the promises you make casually.{/idea}",
+    "old": "Saying I have someone's back is just a kind thing to say.",
+    "new": "A promise of support is a real commitment, and Allah witnesses it.",
+    "try": "Only offer the help you will actually give today, and keep one promise you already made.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "59:12", "surah": 59, "ayah": 12, "place": "madinah",
+    "title": "When it got real, they would not show up.",
+    "subtitle": "Promises that vanish when tested",
+    "picture": {"kind": "boxes", "label": "When tested", "row": [
+      {"box": "trap", "title": "expelled?", "sub": ["they will not leave with them"]},
+      {"box": "trap", "title": "attacked?", "sub": ["they will not help"]},
+      {"box": "trap", "title": "if they helped", "sub": ["they would turn and run"]}]},
+    "key": {"label": "Whose help to count on", "row": [
+      {"box": "trap", "title": "loud allies", "sub": ["big words"], "strike": true},
+      {"box": "idea", "title": "Allah's help", "sub": ["the only certain support"]}]},
+    "then": "Ibn Kathir explains Allah foretold what would happen: the hypocrites {trap}would not fight alongside them, and even if they did, they would turn their backs.{/trap} He calls this verse {reward}good news for the believers{/reward}. The loud promises were empty.",
+    "now": "The friend group who swore they would all stand up to the bully, then went silent when it mattered. The people who cheer you on online and disappear when you ask for help. {idea}Loud support is not the same as real support.{/idea}",
+    "old": "The people who promise loudest will be there when I need them.",
+    "new": "Promises are tested by hard moments. Allah's help is the one I can count on.",
+    "try": "Show up for someone today in a quiet, practical way, without announcing it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "2:280", "surah": 2, "ayah": 280, "place": "madinah",
+    "title": "If they are struggling, give them time. Forgiving it is better.",
+    "subtitle": "Mercy toward the person who owes you",
+    "picture": {"kind": "boxes", "label": "Two old answers", "row": [
+      {"box": "trap", "title": "pay now or add more", "sub": ["the old way"]},
+      {"conn": "replaced by"},
+      {"box": "idea", "title": "wait until ease", "sub": ["give them time"]},
+      {"conn": "or better"},
+      {"box": "reward", "title": "let it go", "sub": ["as charity"]}]},
+    "key": {"label": "What to do with a struggling debtor", "row": [
+      {"box": "people", "title": "chase them hard", "sub": ["it is my money"], "strike": true},
+      {"box": "reward", "title": "shade of the Throne", "sub": ["for giving time or forgiving"]}]},
+    "then": "Before Islam, a lender would say at the deadline: {trap}pay now or the debt grows{/trap}. Abu Qatadah found a man hiding from him over a debt. When the man said he truly had nothing, {reward}Abu Qatadah wept{/reward} and recalled the Prophet ﷺ: whoever gives his debtor time or forgives him {reward}will be in the shade of the Throne{/reward}.",
+    "now": "Your friend still owes you from last year. He avoids your calls. You could post about it in the group chat. {idea}Or you could ask, are you really struggling?{/idea} And if he is, give him time, or let it go.",
+    "old": "If someone owes me, I have every right to keep pushing.",
+    "new": "Giving a struggling person time is charity, and forgiving the debt is even better.",
+    "try": "Message someone who owes you and tell them to take the time they need.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:281", "surah": 2, "ayah": 281, "place": "madinah",
+    "title": "Fear the Day you are returned to Allah and paid in full.",
+    "subtitle": "Every deal ends in front of Him",
+    "picture": {"kind": "boxes", "label": "The final settlement", "row": [
+      {"box": "people", "title": "every soul", "sub": ["returned to Allah"]},
+      {"conn": "paid for"},
+      {"box": "idea", "title": "what it earned", "sub": ["every transaction"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "no one wronged", "sub": ["perfect justice"]}]},
+    "key": {"label": "Where accounts close", "row": [
+      {"box": "people", "title": "at the bank", "sub": ["when the contract ends"], "strike": true},
+      {"box": "idea", "title": "before Allah", "sub": ["the real audit"]}]},
+    "then": "This verse closes the passage on riba and debts. After {trap}war against those who persist{/trap} and {reward}mercy for the struggling debtor{/reward}, Allah turns every reader to one Day: each soul is returned to Him and paid for what it earned, and {idea}no one is treated unjustly{/idea}.",
+    "now": "The invoice you padded a little. The deposit you kept from a tenant. The debt you forgave quietly. {idea}All of it reaches the same final desk.{/idea} Nothing is lost, nothing is inflated.",
+    "old": "Once a deal is done, it is done.",
+    "new": "Every deal I make will be settled again, fairly, before Allah.",
+    "try": "Settle one small unfinished money matter today, fairly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:282", "surah": 2, "ayah": 282, "place": "madinah",
+    "title": "The longest verse in the Qur'an asks you to write debts down.",
+    "subtitle": "Writing it down protects the friendship",
+    "picture": {"kind": "boxes", "label": "A debt done well", "row": [
+      {"box": "people", "title": "a loan, a term", "sub": ["small or large"]},
+      {"conn": "write it"},
+      {"box": "idea", "title": "in justice", "sub": ["nothing left out"]},
+      {"conn": "with"},
+      {"box": "reward", "title": "witnesses", "sub": ["fewer doubts later"]}]},
+    "key": {"label": "Is writing it down rude?", "row": [
+      {"box": "people", "title": "we trust each other", "sub": ["no need for paper"], "strike": true},
+      {"box": "idea", "title": "more just, less doubt", "sub": ["protects both sides"]}]},
+    "then": "Ibn Kathir calls this {idea}the longest verse in the Qur'an{/idea}. It came to people in Madinah dealing in loans and advance sales. Writing is {idea}more just, stronger as evidence, and nearer to preventing doubt{/idea}. He says writing for someone who cannot is {reward}a kind of charity{/reward}, as Allah taught the writer.",
+    "now": "You lend your cousin a few hundred. No note, no date. A year later you each remember it differently and Eid is awkward. {idea}A two-line message with the amount and the date would have saved the relationship.{/idea}",
+    "old": "Writing down a loan to family shows I do not trust them.",
+    "new": "Writing it down is an act of justice that protects both of us and our bond.",
+    "try": "Write down, with the date, any money you currently owe or are owed.",
+    "related": ["2:283"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:283", "surah": 2, "ayah": 283, "place": "madinah",
+    "title": "If you are trusted, honor it. Do not hide the truth.",
+    "subtitle": "Trust and testimony when no paper exists",
+    "picture": {"kind": "boxes", "label": "When there is no scribe", "row": [
+      {"box": "plain", "title": "a pledge held", "sub": ["on a journey"]},
+      {"conn": "or simply"},
+      {"box": "reward", "title": "trust", "sub": ["one entrusts the other"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "return it faithfully", "sub": ["fear your Lord"]}]},
+    "key": {"label": "Staying silent", "row": [
+      {"box": "people", "title": "not my business", "sub": ["I will keep out of it"], "strike": true},
+      {"box": "trap", "title": "a sinful heart", "sub": ["hiding what you saw"]}]},
+    "then": "Anas reported that the Prophet ﷺ died with {reward}his shield pledged to a Jewish man of Madinah for barley for his family{/reward}. When people trust each other without paper, the one trusted must return it. Ibn Abbas said hiding true testimony is like false testimony, and the verse says {trap}his heart is sinful{/trap}.",
+    "now": "Your friend left her laptop with you. Your colleague asked you to hold the petty cash. You saw what really happened in the car park. {idea}The trust is yours to keep, and the truth is yours to tell.{/idea}",
+    "old": "If nothing is written, I am not really accountable.",
+    "new": "Trust without paper is still a trust, and Allah knows what I saw.",
+    "try": "Return one thing you borrowed, or keep one promise you were trusted with, today.",
+    "related": ["5:106", "4:135"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:284", "surah": 2, "ayah": 284, "place": "madinah",
+    "title": "Whatever you show or hide in yourself, Allah knows it.",
+    "subtitle": "The verse that brought the Companions to their knees",
+    "picture": {"kind": "boxes", "label": "What Allah sees", "row": [
+      {"box": "people", "title": "what you show", "sub": ["your actions"]},
+      {"box": "people", "title": "what you hide", "sub": ["your inner self"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "known to Allah", "sub": ["owner of all"]}]},
+    "key": {"label": "Their response", "row": [
+      {"box": "trap", "title": "we cannot bear this", "sub": ["we hear and disobey?"], "strike": true},
+      {"box": "reward", "title": "we hear and obey", "sub": ["Your forgiveness, our Lord"]}]},
+    "then": "Abu Hurayrah said when this verse came, {trap}the Companions fell to their knees: we cannot bear this{/trap}. The Prophet ﷺ said: do not say we hear and disobey; say {reward}we hear and obey, Your forgiveness, our Lord{/reward}. When they said it, Allah sent the next two verses.",
+    "now": "Thoughts you are ashamed of. Envy you would never say aloud. Intrusive thoughts at prayer. {idea}You cannot hide them from Allah.{/idea} The Companions felt that weight too, and the answer was to turn toward Him, not away.",
+    "old": "My inner thoughts are completely private.",
+    "new": "Allah sees inside me, so I bring all of it to Him and say: we hear and obey.",
+    "try": "When an ugly thought passes today, say: Ghufranaka Rabbana, Your forgiveness, our Lord.",
+    "related": ["3:29", "20:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:285", "surah": 2, "ayah": 285, "place": "madinah",
+    "title": "We hear and we obey. Your forgiveness, our Lord.",
+    "subtitle": "The answer the Companions gave, now part of the Qur'an",
+    "picture": {"kind": "boxes", "label": "What they believe", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["One"]},
+      {"box": "idea", "title": "His angels", "sub": ["unseen"]},
+      {"box": "idea", "title": "His books", "sub": ["all revealed"]},
+      {"box": "idea", "title": "His messengers", "sub": ["no distinction"]}]},
+    "key": {"label": "How they responded", "row": [
+      {"box": "people", "title": "pick and choose", "sub": ["some prophets, some rules"], "strike": true},
+      {"box": "reward", "title": "hear, obey, ask forgiveness", "sub": ["to You is the return"]}]},
+    "then": "The words the Companions spoke in fear became {reward}verses of the Qur'an{/reward}. On the Night Journey the Prophet ﷺ was given {reward}the five prayers and these last verses of Al-Baqarah{/reward}. He said whoever recites the last two verses at night, {idea}they will suffice him{/idea}.",
+    "now": "A hard instruction lands: in a hadith, a khutbah, your own conscience. You feel the urge to argue it away. {idea}Try their words instead: I hear, I obey, forgive me where I fall short.{/idea}",
+    "old": "I will accept the parts of faith that feel easy.",
+    "new": "I believe in all of it and answer like the Companions: we hear, we obey, forgive us.",
+    "try": "Recite the last two verses of Al-Baqarah tonight before you sleep.",
+    "related": ["53:16"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:286", "surah": 2, "ayah": 286, "place": "madinah",
+    "title": "Allah never asks more than you can carry. Then ask Him.",
+    "subtitle": "Every line of this dua was answered: I have done so",
+    "picture": {"kind": "boxes", "label": "The dua", "row": [
+      {"box": "reward", "title": "if we forget or err", "sub": ["do not blame us"]},
+      {"box": "reward", "title": "no heavy burden", "sub": ["like those before us"]},
+      {"box": "reward", "title": "nothing beyond us", "sub": ["what we cannot bear"]},
+      {"box": "reward", "title": "pardon, forgive, mercy", "sub": ["You are our Protector"]}]},
+    "key": {"label": "What you are held to", "row": [
+      {"box": "people", "title": "every passing thought", "sub": ["I am doomed"], "strike": true},
+      {"box": "idea", "title": "what is in your capacity", "sub": ["passing thoughts pardoned"]}]},
+    "then": "After the Companions said we hear and obey, Allah sent this verse. Muslim records that after {reward}each line of the dua, Allah said: I have done so{/reward}. Ibn Kathir says {idea}passing thoughts one cannot control are not punished{/idea}, and disliking evil thoughts is itself part of faith. The Prophet ﷺ said: I was sent with the easy, upright way.",
+    "now": "The exam you failed despite studying. The prayer you forgot. The burden that feels too heavy at 2am. {reward}Allah knows your limit better than you do, and He set it.{/reward} The surah ends by putting this dua in your mouth.",
+    "old": "I am being crushed by more than I can handle.",
+    "new": "Allah does not burden me beyond my capacity, and He has promised to answer this dua.",
+    "try": "Memorize the final dua of Al-Baqarah, one line a day, starting with Rabbana la tu'akhidhna.",
+    "related": ["2:284"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "2:254", "surah": 2, "ayah": 254, "place": "madinah",
+    "title": "Spend now. A Day is coming with no deals and no connections.",
+    "subtitle": "The window to give closes",
+    "picture": {"kind": "boxes", "label": "What will not work on that Day", "row": [
+      {"box": "trap", "title": "no bargaining", "sub": ["not even earth of gold"]},
+      {"box": "trap", "title": "no friendship", "sub": ["no one to call"]},
+      {"box": "trap", "title": "no intercession", "sub": ["no one vouching"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "spend today", "sub": ["from what He gave"]}]},
+    "key": {"label": "When to give", "row": [
+      {"box": "people", "title": "later, when I am settled", "sub": ["there will be time"], "strike": true},
+      {"box": "idea", "title": "before that Day", "sub": ["the window is now"]}]},
+    "then": "Ibn Kathir says Allah tells believers to {reward}rush to spend in this life{/reward}, before a Day when no one can {trap}ransom himself even with the earth's fill of gold{/trap}, and friendship and relations will not help. He links it to 23:101: no kinship that Day.",
+    "now": "You know a guy who can get you in anywhere. Your cousin sorts every problem. Your card has a high limit. {trap}None of that works on that Day.{/trap} What you gave from it today does.",
+    "old": "I will give generously once I have more saved up.",
+    "new": "Today is the only time giving still counts; on that Day nothing can be bought.",
+    "try": "Give something today from this month's money, not from some future surplus.",
+    "related": ["23:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:255", "surah": 2, "ayah": 255, "place": "madinah",
+    "title": "The Ever-Living who never sleeps holds everything, without tiring.",
+    "subtitle": "Ayat al-Kursi, the greatest verse",
+    "picture": {"kind": "boxes", "label": "Who He is", "row": [
+      {"box": "idea", "title": "Al-Hayy, Al-Qayyum", "sub": ["Ever-Living, Sustainer"]},
+      {"box": "idea", "title": "no drowsiness, no sleep", "sub": ["never off duty"]},
+      {"box": "idea", "title": "His Kursi", "sub": ["over heavens and earth"]},
+      {"box": "reward", "title": "it tires Him not", "sub": ["the Most High, Most Great"]}]},
+    "key": {"label": "Who is keeping watch", "row": [
+      {"box": "people", "title": "me, awake at 3am", "sub": ["holding it all together"], "strike": true},
+      {"box": "idea", "title": "the One who never sleeps", "sub": ["guarding without fatigue"]}]},
+    "then": "The Prophet ﷺ asked Ubayy bin Ka'b which verse was greatest. He said Ayat al-Kursi, and the Prophet ﷺ said: {reward}congratulations on your knowledge{/reward}. In Abu Hurayrah's story, even Shaytan admitted that reciting it at bedtime brings {idea}a guard from Allah until morning{/idea}. The Prophet ﷺ said: he told the truth, though he is a liar.",
+    "now": "Lying in bed replaying the bills, the kids, the scan results. You feel like you have to stay awake to hold it together. {idea}You do not.{/idea} The One who holds the heavens and earth does not get tired, and He does not sleep.",
+    "old": "If I stop worrying, everything will fall apart.",
+    "new": "The One who never sleeps is holding everything, so I can rest.",
+    "try": "Recite Ayat al-Kursi tonight before sleeping, slowly, thinking about each line.",
+    "related": ["3:2", "20:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:256", "surah": 2, "ayah": 256, "place": "madinah",
+    "title": "Faith cannot be forced. Hold the handhold that never breaks.",
+    "subtitle": "Truth is clear enough to stand without pressure",
+    "picture": {"kind": "boxes", "label": "How faith takes hold", "row": [
+      {"box": "trap", "title": "compulsion", "sub": ["no use, no place"], "strike": true},
+      {"box": "idea", "title": "clarity", "sub": ["right is clear from wrong"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "the firm handhold", "sub": ["will never break"]}]},
+    "key": {"label": "What keeps you holding", "row": [
+      {"box": "people", "title": "being pushed", "sub": ["pressure from outside"], "strike": true},
+      {"box": "idea", "title": "your own grip", "sub": ["reject false gods, hold Allah"]}]},
+    "then": "Ibn Kathir: {idea}do not force anyone into Islam, for its proofs are plain and clear{/idea}. Ibn Abbas said the verse came about Ansar children raised among a Jewish tribe; when that tribe left, the parents wanted to keep them. Abdullah bin Salam dreamed of {reward}climbing a pillar and grasping a handle{/reward}; the Prophet ﷺ said: that is the firmest handhold.",
+    "now": "You want your teenager to pray, your friend to come back to faith. You nag, guilt, push. {idea}Faith cannot be installed from outside.{/idea} Show it clearly, live it well, and let them reach for the handle themselves.",
+    "old": "If I push hard enough, I can make someone believe.",
+    "new": "Truth is clear enough on its own; my job is to show it, and hold tight myself.",
+    "try": "Replace one nagging reminder to someone with a kind example of what you hope for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:257", "surah": 2, "ayah": 257, "place": "madinah",
+    "title": "Allah brings you from many darknesses into one light.",
+    "subtitle": "Truth is one, falsehood comes in many forms",
+    "picture": {"kind": "boxes", "label": "Two guardians", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["ally of believers"]},
+      {"conn": "brings out"},
+      {"box": "reward", "title": "into the light", "sub": ["one, clear"]},
+      {"box": "trap", "title": "false guides", "sub": ["drag into darknesses"]}]},
+    "key": {"label": "Why one light, many darknesses", "row": [
+      {"box": "people", "title": "every path is equal", "sub": ["all lead somewhere"], "strike": true},
+      {"box": "idea", "title": "truth is one", "sub": ["falsehood branches"]}]},
+    "then": "Ibn Kathir notes that {idea}light is singular and darkness plural{/idea}, because truth is one while falsehood has many branches. He cites 6:153: follow My straight path, {trap}not other paths that scatter you{/trap}. Allah takes believers out of the darkness of doubt and hesitation.",
+    "now": "Doubt at 2am. Anxiety about the future. Envy watching other people's lives online. {trap}Each darkness feels different.{/trap} The way out is the same one light, and Allah is the one who leads you there.",
+    "old": "I have too many problems to know where to start.",
+    "new": "My darknesses are many, but the way out is one, and Allah is my guide to it.",
+    "try": "Name one darkness you are in right now and ask Allah, as your Wali, to bring you out.",
+    "related": ["6:153", "6:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:258", "surah": 2, "ayah": 258, "place": "madinah",
+    "title": "Power made him argue with God. The sunrise left him speechless.",
+    "subtitle": "When authority goes to your head",
+    "picture": {"kind": "boxes", "label": "The debate", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["my Lord gives life, death"]},
+      {"conn": "Nimrod"},
+      {"box": "trap", "title": "I do that too", "sub": ["pardon one, kill one"]},
+      {"conn": "Ibrahim"},
+      {"box": "idea", "title": "bring the sun from the west", "sub": ["and he was silent"]}]},
+    "key": {"label": "What caused the arrogance", "row": [
+      {"box": "people", "title": "power proves I am right", "sub": ["I am in charge"], "strike": true},
+      {"box": "trap", "title": "power was a gift", "sub": ["Allah had given him rule"]}]},
+    "then": "Mujahid said the king was Nimrod. Ibn Kathir says {trap}his long rule made him tyrannical{/trap} until he claimed to give life and death himself. Ibrahim answered with the sun: {idea}Allah brings it from the east, so bring it from the west{/idea}. The king was left with nothing to say.",
+    "now": "The promotion that makes you short with the junior staff. The admin rights in the group chat. Being the eldest who always decides. {trap}A little power makes it easy to forget who gave it.{/trap}",
+    "old": "Because I am in charge, my view is the one that counts.",
+    "new": "Any authority I have is on loan from the One who moves the sun.",
+    "try": "Watch the sunrise or sunset today and remember who controls it.",
+    "related": ["28:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:259", "surah": 2, "ayah": 259, "place": "madinah",
+    "title": "He doubted the ruin could live. He woke a century later.",
+    "subtitle": "Allah shows you, slowly, that He can restore",
+    "picture": {"kind": "boxes", "label": "Uzayr's journey", "row": [
+      {"box": "trap", "title": "a ruined town", "sub": ["roofs fallen in"]},
+      {"conn": "he asked"},
+      {"box": "people", "title": "how can this live?", "sub": ["then died 100 years"]},
+      {"conn": "woke to"},
+      {"box": "reward", "title": "bones clothed in flesh", "sub": ["his donkey alive"]}]},
+    "key": {"label": "What he learned", "row": [
+      {"box": "people", "title": "too far gone", "sub": ["no way back"], "strike": true},
+      {"box": "idea", "title": "Allah can do all things", "sub": ["I saw it myself"]}]},
+    "then": "Ali and Ibn Abbas said this was Uzayr. He passed a ruined town and wondered {trap}how Allah could ever revive it{/trap}. Allah let him die for a century; he woke thinking it was part of a day. His figs and juice had not spoiled, and he watched {reward}his donkey's bones gathered and covered in flesh{/reward}.",
+    "now": "Your marriage feels like a ruin. Your faith feels empty. Your hometown or your health has collapsed. {trap}You stand there thinking, how could this ever come back?{/trap} Allah restores things that look fully dead.",
+    "old": "Some things are too broken to ever be restored.",
+    "new": "If Allah can raise a hundred-year-old ruin, He can restore what I think is lost.",
+    "try": "Make dua today for one thing in your life you had given up as too broken.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:260", "surah": 2, "ayah": 260, "place": "madinah",
+    "title": "Ibrahim believed, and still asked to see so his heart could rest.",
+    "subtitle": "Wanting certainty is not the same as doubt",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["show me how"]},
+      {"conn": "Allah asks"},
+      {"box": "plain", "title": "do you not believe?", "sub": ["yes"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "for my heart to settle", "sub": ["four birds return"]}]},
+    "key": {"label": "Asking questions", "row": [
+      {"box": "people", "title": "questions mean weak faith", "sub": ["keep quiet"], "strike": true},
+      {"box": "idea", "title": "faith seeking calm", "sub": ["Allah accepted his yes"]}]},
+    "then": "The Prophet ﷺ said: {idea}we are more liable to seek certainty than Ibrahim{/idea}. Allah had him call four birds back from the hills, and they came rushing. Ibn Abbas called this {reward}the most hopeful verse in the Qur'an{/reward}, because Allah accepted Ibrahim's simple yes, and it speaks to the doubts Shaytan whispers into hearts.",
+    "now": "You pray, you fast, you believe. And sometimes a question still gnaws at you at night. {reward}That does not make you a hypocrite.{/reward} Even Ibrahim asked to see. Bring the question to Allah, not away from Him.",
+    "old": "If I have questions about my faith, I must not really believe.",
+    "new": "I can believe and still ask Allah to settle my heart, as Ibrahim did.",
+    "try": "Take one question you have been afraid to ask about faith and ask someone you trust.",
+    "related": ["39:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

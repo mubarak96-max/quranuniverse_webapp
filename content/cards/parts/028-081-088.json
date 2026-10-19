@@ -1,0 +1,165 @@
+[
+  {
+    "id": "28:81", "surah": 28, "ayah": 81, "place": "makkah",
+    "title": "The earth swallowed him, and no one could help.",
+    "subtitle": "What his wealth and servants could not do",
+    "picture": {"kind": "boxes", "label": "The end of the parade", "row": [
+      {"box": "people", "title": "Qarun and his home", "sub": ["treasure, retinue"]},
+      {"conn": "swallowed"},
+      {"box": "trap", "title": "the earth", "sub": ["no group to help"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "himself", "sub": ["could not save himself"]}]},
+    "key": {"label": "What protected him", "row": [
+      {"box": "people", "title": "wealth and servants", "sub": ["my safety"], "strike": true},
+      {"box": "idea", "title": "nothing against Allah", "sub": ["not even himself"]}]},
+    "then": "After his pride and transgression against his people, {trap}Qarun and his dwelling were swallowed by the earth{/trap}. Ibn Kathir says his wealth, servants and retinue {trap}could not protect him{/trap}. He also cites hadith in Al-Bukhari and Ahmad about a man who walked in arrogance and was swallowed up.",
+    "now": "You may have insurance, savings, connections. Good things. {idea}But the verse asks what any of it can do against Allah's decision.{/idea} Hold them lightly, and walk without arrogance.",
+    "old": "With enough money and the right people, I am protected.",
+    "new": "No wealth or group can protect anyone from Allah, so humility is my real safety.",
+    "try": "Walk somewhere today slowly and humbly, making dhikr instead of checking your phone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:82", "surah": 28, "ayah": 82, "place": "makkah",
+    "title": "Yesterday they envied him. Today they were grateful.",
+    "subtitle": "The crowd learns what wealth does not mean",
+    "picture": {"kind": "boxes", "label": "The next day", "row": [
+      {"box": "trap", "title": "yesterday", "sub": ["if only we had it"]},
+      {"conn": "after he fell"},
+      {"box": "idea", "title": "today", "sub": ["Allah gives and withholds"]},
+      {"box": "reward", "title": "His favor", "sub": ["or we would be gone too"]}]},
+    "key": {"label": "What wealth shows", "row": [
+      {"box": "people", "title": "Allah is pleased", "sub": ["with the rich"], "strike": true},
+      {"box": "idea", "title": "nothing about that", "sub": ["faith is the sign"]}]},
+    "then": "Those who had wished for his place {idea}began to say that Allah expands and restricts provision as He wills{/idea}. Ibn Kathir says wealth does not show Allah is pleased with its owner, citing Ibn Mas'ud: {reward}Allah gives wealth to those He loves and those He does not, but faith only to those He loves{/reward}.",
+    "now": "You envied a classmate's life for years. Then you hear what was really going on behind the photos. {idea}Your heart turns to gratitude for what you were spared.{/idea} Faith, not money, is the sign of being loved.",
+    "old": "Having more money means Allah loves someone more.",
+    "new": "Allah gives wealth to many, but faith only to those He loves.",
+    "try": "Thank Allah today for one thing you once wanted and did not get.",
+    "related": ["28:79"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:83", "surah": 28, "ayah": 83, "place": "makkah",
+    "title": "The final home is for those who seek no rank above others.",
+    "subtitle": "Humility as the entry ticket",
+    "picture": {"kind": "boxes", "label": "Who it is for", "row": [
+      {"box": "trap", "title": "exaltedness", "sub": ["arrogance, tyranny"], "strike": true},
+      {"box": "trap", "title": "corruption", "sub": ["sins, harm"], "strike": true},
+      {"conn": "instead"},
+      {"box": "reward", "title": "the final home", "sub": ["for the humble, God-conscious"]}]},
+    "key": {"label": "Looking good versus being above", "row": [
+      {"box": "trap", "title": "better than him", "sub": ["to show off"]},
+      {"box": "idea", "title": "liking beauty", "sub": ["Allah loves beauty"]}]},
+    "then": "Ali said: {trap}if a man wants his sandal straps to be better than his companion's{/trap}, he is one of those meant here. Ibn Kathir explains that the problem is wanting to appear better than others. Simply liking to look good is fine: {reward}\"Allah is beautiful and loves beauty.\"{/reward}",
+    "now": "You pick the outfit for the wedding. Is it because you like it, or because you need to outshine your cousin? {idea}The verse is not against nice things. It is against wanting to be above people.{/idea}",
+    "old": "Wanting to look good is the same as arrogance.",
+    "new": "Liking beauty is fine; wanting to be above others is what closes the door.",
+    "try": "Before you get dressed or post a photo today, ask: is this for me, or to be above someone?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:84", "surah": 28, "ayah": 84, "place": "makkah",
+    "title": "Good returns better; evil returns only as much.",
+    "subtitle": "Generosity for good, justice for evil",
+    "picture": {"kind": "boxes", "label": "How deeds are weighed", "row": [
+      {"box": "idea", "title": "a good deed", "sub": ["brought on the Day"]},
+      {"conn": "returns"},
+      {"box": "reward", "title": "better than it", "sub": ["multiplied"]},
+      {"box": "trap", "title": "an evil deed", "sub": ["only what was done"]}]},
+    "key": {"label": "Two positions", "row": [
+      {"box": "reward", "title": "generosity", "sub": ["for the good"]},
+      {"box": "idea", "title": "justice", "sub": ["for the evil, no more"]}]},
+    "then": "Ibn Kathir explains that {reward}Allah's reward is better than the servant's good deed{/reward}, since He multiplies it many times. Evil is repaid only by what was done. He calls this {idea}the position of generosity and justice{/idea}.",
+    "now": "You helped your neighbour carry the shopping, five minutes of effort. Allah counts it as more than that. You snapped at your child; it is counted as exactly that, no more. {reward}The scale is tilted toward your good.{/reward}",
+    "old": "My small good deeds hardly count against my mistakes.",
+    "new": "Allah multiplies every good and counts every wrong only as itself, so good always gains.",
+    "try": "Do three small good deeds today, each under five minutes.",
+    "related": ["27:90"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:85", "surah": 28, "ayah": 85, "place": "makkah",
+    "title": "The One who gave you the Quran will bring you back.",
+    "subtitle": "A promise to the Prophet ﷺ while he faced opposition",
+    "picture": {"kind": "boxes", "label": "The promise", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["entrusted to you"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "a return", "sub": ["Makkah, the Day, Paradise"]},
+      {"conn": "say"},
+      {"box": "idea", "title": "my Lord knows", "sub": ["who is guided"]}]},
+    "key": {"label": "What the hardship is", "row": [
+      {"box": "trap", "title": "the end", "sub": ["driven out, defeated"], "strike": true},
+      {"box": "reward", "title": "a road back", "sub": ["He will return you"]}]},
+    "then": "Al-Bukhari recorded that Ibn Abbas said the \"return\" here means {reward}Makkah{/reward}: He will bring you back as He brought you out. Ibn Abbas also explained it as death, the Day of Resurrection, and Paradise. Ibn Kathir notes the Prophet ﷺ {idea}will be asked about the message entrusted to him{/idea}.",
+    "now": "You had to leave: a home, a country, a job you loved. It feels like the door shut for good. {reward}The One who gave you your duties can bring you back{/reward}, to that place or to something better.",
+    "old": "Once I have been pushed out of somewhere, it is over.",
+    "new": "The One who entrusted me with my task can bring me back, in this life or the next.",
+    "try": "Make dua today for one place or person you had to leave behind.",
+    "related": ["7:6", "5:109"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:86", "surah": 28, "ayah": 86, "place": "makkah",
+    "title": "You never expected the Book. It came as mercy.",
+    "subtitle": "An unexpected gift, and what follows from it",
+    "picture": {"kind": "boxes", "label": "The gift", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["not expecting revelation"]},
+      {"conn": "given"},
+      {"box": "reward", "title": "the Book", "sub": ["a mercy from your Lord"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "do not assist", "sub": ["those opposing the truth"]}]},
+    "key": {"label": "What a gift asks of you", "row": [
+      {"box": "people", "title": "nothing", "sub": ["just enjoy it"], "strike": true},
+      {"box": "idea", "title": "loyalty", "sub": ["do not help what opposes it"]}]},
+    "then": "Ibn Kathir explains that before revelation came, the Prophet ﷺ {idea}did not expect it would be sent to him{/idea}. It was {reward}a mercy to him and to mankind because of him{/reward}. Having received such a blessing, he was told never to be a helper to those rejecting it.",
+    "now": "You did not ask to be born into a home with the Quran on the shelf. You may have found it later, by surprise. {reward}It is a mercy you never earned.{/reward} The least you can do is not lend your effort to what pulls people away from it.",
+    "old": "Having the Quran in my life is just how I grew up.",
+    "new": "The Quran reaching me is an unexpected mercy, and I should not help anything that works against it.",
+    "try": "Thank Allah today for the specific way the Quran first reached you.",
+    "related": ["28:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:87", "surah": 28, "ayah": 87, "place": "makkah",
+    "title": "Do not let opposition turn you away. Keep inviting.",
+    "subtitle": "Staying steady when people push back",
+    "picture": {"kind": "boxes", "label": "Three commands", "row": [
+      {"box": "trap", "title": "their opposition", "sub": ["do not let it stop you"]},
+      {"box": "idea", "title": "invite", "sub": ["to your Lord alone"]},
+      {"box": "idea", "title": "no partners", "sub": ["never among idolators"]}]},
+    "key": {"label": "What pushback means", "row": [
+      {"box": "people", "title": "time to quit", "sub": ["they did not like it"], "strike": true},
+      {"box": "idea", "title": "keep going", "sub": ["Allah will support it"]}]},
+    "then": "Ibn Kathir explains: {idea}do not let their opposition affect you{/idea} or put people off your way; do not worry about it. Allah will make the message prevail. So {idea}invite to your Lord{/idea}, to worship Him alone.",
+    "now": "You started praying at work and someone made a joke. You shared a verse and got eye-rolls. {idea}Do not let that turn you away from what you know is true.{/idea} Keep going, gently.",
+    "old": "If people push back, I should keep my faith to myself.",
+    "new": "Opposition should not turn me from Allah's verses; I keep inviting, gently and steadily.",
+    "try": "Share one beneficial verse or saying with someone today, kindly and without arguing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "28:88", "surah": 28, "ayah": 88, "place": "makkah",
+    "title": "Everything perishes except His Face.",
+    "subtitle": "The last word of the surah",
+    "picture": {"kind": "boxes", "label": "What remains", "row": [
+      {"box": "people", "title": "Fir'awn's tower", "sub": ["gone"]},
+      {"box": "people", "title": "Qarun's keys", "sub": ["gone"]},
+      {"box": "people", "title": "everything", "sub": ["will perish"]},
+      {"conn": "except"},
+      {"box": "idea", "title": "His Face", "sub": ["Ever Living"]}]},
+    "key": {"label": "Where to put my heart", "row": [
+      {"box": "trap", "title": "what perishes", "sub": ["power, wealth, display"]},
+      {"box": "idea", "title": "the One who remains", "sub": ["to Him you return"]}]},
+    "then": "The surah that told of Fir'awn's tower and Qarun's treasure ends here. Ibn Kathir says Allah is {idea}Eternal, Ever Living{/idea}; while His creation dies, He never will. He cites the Prophet's ﷺ words that the truest line of a poet was {idea}\"everything except Allah is false\"{/idea}. To Him all return.",
+    "now": "Your phone, your job title, the house, the body you look after. All of it is temporary, even the people you love. {idea}Only Allah remains.{/idea} Everything else is worth loving only as a way back to Him.",
+    "old": "The things I build and own are what will last.",
+    "new": "Everything perishes except Allah, so the only thing that lasts is what I do for Him.",
+    "try": "Pick one thing you do every day and add a quiet intention for Allah to it.",
+    "related": ["55:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "38:1", "surah": 38, "ayah": 1, "place": "makkah",
+    "title": "Sad. Then an oath by a Book full of reminding.",
+    "subtitle": "Pausing before a surah about stubborn pride",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Sad", "sub": ["a letter", "its meaning is with Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "By the Quran", "sub": ["full of reminding", "full of honor"]}]},
+    "key": {"label": "What the Book is", "row": [
+      {"box": "people", "title": "old words", "sub": ["something to own, not hear"], "strike": true},
+      {"box": "idea", "title": "a reminder", "sub": ["benefit here and after"]}]},
+    "then": "The surah opens with the single letter Sad. Its meaning is known to Allah. Then comes an oath by the Quran, which Ibn Kathir explains as {idea}a reminder and a benefit for people in this life and the next{/idea}, and also a Book of high honor. Both meanings fit together.",
+    "now": "You open the app on the bus, half reading, thumb ready to scroll. A single letter sits there that you cannot decode. {idea}That is the point: stop, and listen to what comes next.{/idea} A reminder only works on someone who slows down.",
+    "old": "I already know what the Quran says, more or less.",
+    "new": "It is a reminder, and a reminder needs me to pause and actually pay attention.",
+    "try": "Before you read today, sit still for ten seconds and ask: what do I need reminding of?",
+    "related": ["21:10", "38:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:2", "surah": 38, "ayah": 2, "place": "makkah",
+    "title": "The reminder was there. Pride stood in the way.",
+    "subtitle": "Why a clear message still gets rejected",
+    "picture": {"kind": "boxes", "label": "What blocked it", "row": [
+      {"box": "idea", "title": "the reminder", "sub": ["clear, offered to all"]},
+      {"conn": "meets"},
+      {"box": "trap", "title": "pride", "sub": ["arrogance, tribe loyalty"]},
+      {"box": "trap", "title": "opposition", "sub": ["going against it on purpose"]}]},
+    "key": {"label": "The real problem", "row": [
+      {"box": "people", "title": "not enough proof", "sub": ["the message was unclear"], "strike": true},
+      {"box": "trap", "title": "too much pride", "sub": ["the heart refused to bend"]}]},
+    "then": "The Quran held a lesson for anyone willing to learn. The leaders of Makkah did not benefit, because they were in {trap}false pride and opposition{/trap}. Ibn Kathir says this means arrogance, tribal loyalty, and stubbornly going against the message.",
+    "now": "Your sibling gives you advice that is exactly right. You know it is right. But it came from your younger sibling, in front of the family chat. {trap}So you argue the opposite.{/trap} The problem was never the advice.",
+    "old": "If I reject something, it is because it was not convincing.",
+    "new": "Sometimes I reject what is true only because accepting it would cost my pride.",
+    "try": "Recall one piece of good advice you brushed off because of who said it. Take one step on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:3", "surah": 38, "ayah": 3, "place": "makkah",
+    "title": "They cried out when the door had already closed.",
+    "subtitle": "Turning back while there is still time",
+    "picture": {"kind": "boxes", "label": "Past generations", "row": [
+      {"box": "people", "title": "many nations", "sub": ["stronger than Quraysh"]},
+      {"conn": "ignored"},
+      {"box": "idea", "title": "the warning", "sub": ["for years"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a late cry", "sub": ["no time to escape"]}]},
+    "key": {"label": "When calling works", "row": [
+      {"box": "trap", "title": "at the very end", "sub": ["when it is too late"], "strike": true},
+      {"box": "reward", "title": "now", "sub": ["while life is still open"]}]},
+    "then": "Allah reminds Quraysh of how many nations before them were destroyed. When the punishment came, they called out. Muhammad bin Ka'b said {trap}they called for Tawhid and repentance when their lives were already over{/trap}. It was not the time for escape.",
+    "now": "The car warning light has been on for weeks. You meant to book the garage. Then it breaks down on the motorway at night. {idea}The light was mercy. Ignoring it was the choice.{/idea} The door of turning back is open today.",
+    "old": "I will sort out my relationship with Allah later, when life calms down.",
+    "new": "There is a last moment for turning back, and I do not know when mine is.",
+    "try": "Make one sincere moment of repentance today, before sleep, without waiting for a better time.",
+    "related": ["21:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:4", "surah": 38, "ayah": 4, "place": "makkah",
+    "title": "A warner from among them, so they called him a liar.",
+    "subtitle": "When the messenger is too familiar to hear",
+    "picture": {"kind": "boxes", "label": "Their reaction", "row": [
+      {"box": "people", "title": "a man like them", "sub": ["from their own town"]},
+      {"conn": "brings"},
+      {"box": "idea", "title": "a warning", "sub": ["and good news"]},
+      {"conn": "labelled"},
+      {"box": "trap", "title": "magician, liar", "sub": ["easier than listening"]}]},
+    "key": {"label": "What they wondered at", "row": [
+      {"box": "people", "title": "he is just one of us", "sub": ["so it cannot be true"], "strike": true},
+      {"box": "idea", "title": "one of you", "sub": ["so you can understand him"]}]},
+    "then": "The idolaters of Makkah were amazed that {idea}a human being like themselves{/idea} came to them as a warner. Instead of weighing the message, the disbelievers gave it a label: {trap}a sorcerer, a liar{/trap}.",
+    "now": "A colleague you have worked beside for years suggests a better way to run the team. Your first thought is not whether it works. It is: who is he to tell us. {trap}A label is faster than thinking.{/trap}",
+    "old": "Someone ordinary like me cannot be bringing me something important.",
+    "new": "Truth often arrives through someone familiar, so I judge the message, not the messenger.",
+    "try": "Next time someone close tells you something hard, reply with a question instead of a label.",
+    "related": ["10:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:5", "surah": 38, "ayah": 5, "place": "makkah",
+    "title": "One God sounded strange to people raised on many.",
+    "subtitle": "The shock of a single word: La ilaha illallah",
+    "picture": {"kind": "boxes", "label": "In Abu Talib's house", "row": [
+      {"box": "people", "title": "Quraysh chiefs", "sub": ["at a sick man's bedside"]},
+      {"conn": "asked for"},
+      {"box": "idea", "title": "one word", "sub": ["La ilaha illallah"]},
+      {"conn": "reaction"},
+      {"box": "trap", "title": "a curious thing!", "sub": ["they stood up, agitated"]}]},
+    "key": {"label": "What felt strange", "row": [
+      {"box": "people", "title": "what we inherited", "sub": ["normal because it is familiar"], "strike": true},
+      {"box": "idea", "title": "One God", "sub": ["strange only to a full heart"]}]},
+    "then": "When Abu Talib was ill, the chiefs of Quraysh complained to him. The Prophet ﷺ said he wanted from them only {idea}one word{/idea}. They said they would give ten. When he said La ilaha illallah, they stood up in agitation saying {trap}has he made the gods into One God?{/trap}",
+    "now": "You grew up with a way of doing things at home: a habit, a belief, a family rule. Someone points out it does not hold up. It feels like an attack, not because it is wrong, but because {trap}your heart is full of it.{/trap}",
+    "old": "What I grew up with feels right, so anything else must be odd.",
+    "new": "Familiar is not the same as true. A strange idea can be the clearest one.",
+    "try": "Pick one inherited habit and ask honestly: do I do this for Allah, or only because we always have?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:6", "surah": 38, "ayah": 6, "place": "makkah",
+    "title": "The chiefs walked out telling everyone: hold on to your gods.",
+    "subtitle": "Patience used in the wrong direction",
+    "picture": {"kind": "boxes", "label": "The leaders' campaign", "row": [
+      {"box": "people", "title": "the chiefs", "sub": ["masters and nobles"]},
+      {"conn": "told people"},
+      {"box": "trap", "title": "keep going", "sub": ["be patient for your gods"]},
+      {"box": "trap", "title": "it is a plot", "sub": ["he wants power over you"]}]},
+    "key": {"label": "Their story about him", "row": [
+      {"box": "trap", "title": "a power grab", "sub": ["what they assumed"], "strike": true},
+      {"box": "idea", "title": "a call to Allah alone", "sub": ["what it actually was"]}]},
+    "then": "The leaders went out urging people to {trap}persist and stay constant to their gods{/trap}. They said this call was something designed. Ibn Jarir explains they claimed the Prophet ﷺ only wanted to gain power and followers through it.",
+    "now": "Someone in the office proposes an honest change. The people who benefit from the old way start a side chat: he just wants a promotion. {trap}Assume a bad motive, and you never have to answer the point.{/trap}",
+    "old": "If someone pushes for change, they must want something for themselves.",
+    "new": "Accusing someone's motive is often a way to avoid facing what they said.",
+    "try": "When you catch yourself guessing someone's hidden motive, respond to their actual words instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:7", "surah": 38, "ayah": 7, "place": "makkah",
+    "title": "We never heard this before, so it must be made up.",
+    "subtitle": "Using unfamiliarity as proof of falsehood",
+    "picture": {"kind": "boxes", "label": "Their argument", "row": [
+      {"box": "people", "title": "not heard before", "sub": ["in recent religion"]},
+      {"conn": "therefore"},
+      {"box": "trap", "title": "an invention", "sub": ["a lie, a fabrication"]}]},
+    "key": {"label": "The leap", "row": [
+      {"box": "trap", "title": "new to me = false", "sub": ["the hidden rule"], "strike": true},
+      {"box": "idea", "title": "test it", "sub": ["is it true or not?"]}]},
+    "then": "The chiefs said they had not heard of this Tawhid in {trap}the religion of these later days{/trap}. Ibn Abbas reported they meant Christianity: if this were true, the Christians would have told them. So they called it an invention.",
+    "now": "Someone shares a reminder in the group chat that you have never come across. Your reply is ready before you read it: never heard of that. {idea}Never hearing something is a fact about you, not about it.{/idea}",
+    "old": "If I have not heard of it, it is probably not real.",
+    "new": "What I have not heard yet tells me where my knowledge ends, nothing more.",
+    "try": "Look up one thing today you dismissed only because it was new to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:8", "surah": 38, "ayah": 8, "place": "makkah",
+    "title": "Why him and not us? The question behind the doubt.",
+    "subtitle": "Envy dressed up as skepticism",
+    "picture": {"kind": "boxes", "label": "What they asked", "row": [
+      {"box": "people", "title": "why him?", "sub": ["out of all of us"]},
+      {"conn": "really"},
+      {"box": "trap", "title": "doubt", "sub": ["about My reminder"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "not yet tasted", "sub": ["the consequence"]}]},
+    "key": {"label": "Who chooses", "row": [
+      {"box": "people", "title": "we decide who deserves", "sub": ["the great men of the towns"], "strike": true},
+      {"box": "idea", "title": "Allah decides", "sub": ["He portions out mercy"]}]},
+    "then": "Quraysh found it unlikely that {trap}he alone, out of all of them{/trap}, received the Reminder. Ibn Kathir links it to their wish that it had come to a great man of the two towns. Allah answers: they are in doubt, because they have not yet tasted the punishment.",
+    "now": "A friend gets the opportunity you wanted. Your first comment is a doubt: are we sure it is real? Underneath is a simpler feeling. {trap}Why them and not me?{/trap} {idea}Gifts are not handed out by your vote.{/idea}",
+    "old": "If someone else is chosen over me, something must be off.",
+    "new": "Allah gives what He wills to whom He wills. My doubt may only be envy.",
+    "try": "Congratulate one person today on something you secretly wished was yours.",
+    "related": ["43:31", "43:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:9", "surah": 38, "ayah": 9, "place": "makkah",
+    "title": "Do they hold the keys to your Lord's mercy?",
+    "subtitle": "The Mighty, the Bestower gives as He wills",
+    "picture": {"kind": "boxes", "label": "Who holds the treasures", "row": [
+      {"box": "people", "title": "the chiefs", "sub": ["not even a speck of dust"]},
+      {"conn": "or"},
+      {"box": "reward", "title": "your Lord", "sub": ["the Almighty", "the Bestower"]}]},
+    "key": {"label": "The treasury of mercy", "row": [
+      {"box": "people", "title": "ours to hand out", "sub": ["we decide who gets it"], "strike": true},
+      {"box": "reward", "title": "His alone", "sub": ["gives to whom He wills"]}]},
+    "then": "Allah challenges them: do they own {reward}the treasures of the mercy of your Lord{/reward}? Ibn Kathir says His servants have no control over His dominion, not even the thin skin on a date stone. He is Almighty, and He gives whatever He wills.",
+    "now": "You feel you know who deserves a second chance and who does not. The relative who messed up. The colleague who failed. {reward}Mercy is not your storeroom.{/reward} Neither is it locked to you when you are the one who failed.",
+    "old": "I can tell who deserves Allah's mercy and who is beyond it.",
+    "new": "The treasures of mercy belong to Allah alone, for others and for me.",
+    "try": "Make a short dua today for someone you had quietly written off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:10", "surah": 38, "ayah": 10, "place": "makkah",
+    "title": "If the heavens are theirs, let them climb up and run them.",
+    "subtitle": "A challenge that exposes empty authority",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["acting as judges"]},
+      {"conn": "do they own"},
+      {"box": "idea", "title": "heavens and earth", "sub": ["and all between"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "climb up", "sub": ["by whatever means"]}]},
+    "key": {"label": "Who is in control", "row": [
+      {"box": "people", "title": "we run things", "sub": ["so we decide"], "strike": true},
+      {"box": "idea", "title": "Allah controls creation", "sub": ["does whatever He wills"]}]},
+    "then": "Ibn Kathir explains that Allah is the One in control of His creation, who gives and honors whom He wills. So He asks the deniers: is {idea}the dominion of the heavens and the earth{/idea} theirs? If so, {trap}let them ascend by any means{/trap}.",
+    "now": "You plan the whole year on a spreadsheet: the job, the move, the wedding date. Then one phone call changes everything. {idea}You manage a few things. You own none of them.{/idea}",
+    "old": "I am in charge of how my life turns out.",
+    "new": "I can plan and work, but the control of everything belongs to Allah.",
+    "try": "Add In sha Allah to one plan you mention today, and mean it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:11", "surah": 38, "ayah": 11, "place": "makkah",
+    "title": "Just one more army that will be defeated.",
+    "subtitle": "The loud opposition is smaller than it looks",
+    "picture": {"kind": "boxes", "label": "How it looked vs. what it was", "row": [
+      {"box": "people", "title": "the chiefs", "sub": ["loud, rich, organized"]},
+      {"conn": "are only"},
+      {"box": "trap", "title": "a host", "sub": ["defeated there"]},
+      {"box": "people", "title": "like the old Confederates", "sub": ["who came before"]}]},
+    "key": {"label": "Their size", "row": [
+      {"box": "trap", "title": "unbeatable", "sub": ["how they seemed"], "strike": true},
+      {"box": "idea", "title": "already defeated", "sub": ["how Allah describes them"]}]},
+    "then": "In Makkah the Prophet ﷺ and the believers were few and the chiefs were powerful. Allah describes those chiefs as {trap}a defeated host{/trap}, like the Confederates of old times. {idea}Their strength was temporary.{/idea}",
+    "now": "You are the only one in the office who will not join the shady side deal. Everyone else seems to be on the other side. {idea}A crowd is not the same as strength.{/idea} Stay with what is right.",
+    "old": "When everyone is against me, I must be losing.",
+    "new": "Numbers and noise against the truth do not decide the ending.",
+    "try": "Hold to one right choice today that you were tempted to drop because you were outnumbered.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:12", "surah": 38, "ayah": 12, "place": "makkah",
+    "title": "Nuh's people, Ad, and Pharaoh of the stakes denied too.",
+    "subtitle": "Others had more power and still fell",
+    "picture": {"kind": "boxes", "label": "Before Quraysh", "row": [
+      {"box": "people", "title": "people of Nuh", "sub": ["denied"]},
+      {"box": "people", "title": "Ad", "sub": ["denied"]},
+      {"box": "people", "title": "Pharaoh", "sub": ["the man of stakes"]},
+      {"conn": "all"},
+      {"box": "trap", "title": "not protected", "sub": ["by wealth or strength"]}]},
+    "key": {"label": "What protects", "row": [
+      {"box": "reward", "title": "power and wealth", "sub": ["they had more"], "strike": true},
+      {"box": "idea", "title": "listening to the messenger", "sub": ["they refused"]}]},
+    "then": "Allah lists nations who denied before Quraysh: the people of Nuh, Ad, and Pharaoh. Ibn Kathir says {trap}they were greater and stronger, with more wealth and children{/trap}, yet that did not protect them when the command of Allah came.",
+    "now": "The big company everyone thought would last forever closes in a year. The famous name you thought untouchable falls. {idea}Strength is borrowed.{/idea} What lasts is how you answered the truth when it came to you.",
+    "old": "If I am strong and secure enough, I am safe.",
+    "new": "Even the strongest were not protected by strength. Only by their response to truth.",
+    "try": "Write one thing you lean on for security, and next to it, one thing you can do for Allah today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:13", "surah": 38, "ayah": 13, "place": "makkah",
+    "title": "Thamud, Lut's people, the Thicket dwellers: those were the Confederates.",
+    "subtitle": "A long line of people who chose the same way",
+    "picture": {"kind": "boxes", "label": "The rest of the list", "row": [
+      {"box": "people", "title": "Thamud", "sub": []},
+      {"box": "people", "title": "people of Lut", "sub": []},
+      {"box": "people", "title": "Dwellers of Al-Aykah", "sub": ["the thicket"]},
+      {"conn": "together"},
+      {"box": "trap", "title": "the Confederates", "sub": ["one choice, one end"]}]},
+    "key": {"label": "Being in a big group", "row": [
+      {"box": "people", "title": "safety in numbers", "sub": ["everyone did it"], "strike": true},
+      {"box": "trap", "title": "same choice, same end", "sub": ["numbers did not help"]}]},
+    "then": "The list continues with Thamud, the people of Lut, and the Dwellers of the Thicket. Allah calls them {trap}the Confederates{/trap}. Ibn Kathir notes their stories are told in detail in many places in the Quran. Here they are gathered into one line.",
+    "now": "Everyone at school cheats on the online quiz. Everyone at work rounds up the hours. {trap}Being one of many does not change what the act is.{/trap} The crowd does not stand with you when you answer for it.",
+    "old": "If many people do it, it cannot be that bad.",
+    "new": "A wrong shared by many is still a wrong, and each person answers alone.",
+    "try": "Notice one thing you do only because everyone around you does it. Skip it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:14", "surah": 38, "ayah": 14, "place": "makkah",
+    "title": "Every one of them denied the messengers, so the penalty was just.",
+    "subtitle": "The common thread behind every fallen nation",
+    "picture": {"kind": "boxes", "label": "The single cause", "row": [
+      {"box": "people", "title": "all the nations", "sub": ["different times, places"]},
+      {"conn": "each"},
+      {"box": "trap", "title": "denied the messengers", "sub": ["the shared thread"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "the penalty", "sub": ["was deserved"]}]},
+    "key": {"label": "Why they fell", "row": [
+      {"box": "plain", "title": "bad luck", "sub": ["just history"], "strike": true},
+      {"box": "idea", "title": "denial", "sub": ["the reason given"]}]},
+    "then": "Ibn Kathir says {trap}the reason for their destruction was their disbelief in the Messengers{/trap}, so those being addressed should beware. Ibn Kathir also mentions this verse as one explanation for the oath at the start of the surah.",
+    "now": "When things go wrong, you blame timing, the economy, the boss. Rarely do you ask about the warning you ignored. {idea}Honest reflection starts with your own choices.{/idea}",
+    "old": "What happens to people is mostly circumstance.",
+    "new": "Allah is never unjust. Consequences follow choices, so I look at mine first.",
+    "try": "Think of one recent setback and ask what part your own choice played. No blame, just honesty.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:15", "surah": 38, "ayah": 15, "place": "makkah",
+    "title": "They wait for only one blast, and it will not pause.",
+    "subtitle": "The Hour arrives suddenly, without delay",
+    "picture": {"kind": "boxes", "label": "What is waited for", "row": [
+      {"box": "people", "title": "these people", "sub": ["going on as usual"]},
+      {"conn": "await"},
+      {"box": "trap", "title": "one blast", "sub": ["the Trumpet"]},
+      {"box": "trap", "title": "no delay", "sub": ["no one can avert it"]}]},
+    "key": {"label": "When it comes", "row": [
+      {"box": "people", "title": "with warning", "sub": ["time to prepare then"], "strike": true},
+      {"box": "idea", "title": "suddenly", "sub": ["so prepare now"]}]},
+    "then": "Ibn Kathir explains this is {trap}the blast on the Trumpet{/trap}, when Israfil is commanded to sound it. Zayd bin Aslam said none can avert it. The Hour comes suddenly, while people do not perceive it, and some of its signs have already come.",
+    "now": "You keep a list of things to fix: call your mother, return what you borrowed, pray on time. All of it is set for someday. {idea}Someday is not promised.{/idea} The good news is that today is still here.",
+    "old": "There will be a clear signal before the end, and I will get ready then.",
+    "new": "It comes without pause, so the time to be ready is now, with hope.",
+    "try": "Do one thing from your someday list today. Just one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

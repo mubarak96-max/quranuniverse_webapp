@@ -1,0 +1,238 @@
+[
+  {
+    "id": "43:78", "surah": 43, "ayah": 78, "place": "makkah",
+    "title": "The truth was brought. Most of them hated it.",
+    "subtitle": "Not a lack of truth, but dislike for it",
+    "picture": {"kind": "boxes", "label": "The reason given", "row": [
+      {"box": "idea", "title": "the truth", "sub": ["explained clearly, in detail"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "aversion", "sub": ["most of you hated it"]}]},
+    "key": {"label": "Why truth is refused", "row": [
+      {"box": "people", "title": "it was not clear", "sub": ["I did not know"], "strike": true},
+      {"box": "trap", "title": "it was unwelcome", "sub": ["I did not want it"]}]},
+    "then": "Ibn Kathir says the truth was explained {idea}clearly and in detail{/idea}, but their nature {trap}could not accept it and did not seek it{/trap}. They venerated falsehood and despised the followers of truth.",
+    "now": "Your doctor tells you plainly to cut sugar. Your friend tells you gently you have been short with everyone. You heard it clearly. {trap}You just did not like it.{/trap}",
+    "old": "I would accept the truth if it were clearer.",
+    "new": "Often the truth is clear. What I struggle with is not liking it.",
+    "try": "Think of one truth about yourself you keep avoiding. Say it to yourself plainly once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:79", "surah": 43, "ayah": 79, "place": "makkah",
+    "title": "They made a plan. So did Allah.",
+    "subtitle": "Plots against the truth backfire",
+    "picture": {"kind": "boxes", "label": "Two plans", "row": [
+      {"box": "trap", "title": "their plot", "sub": ["against the Prophet ﷺ"]},
+      {"conn": "against"},
+      {"box": "idea", "title": "Allah's plan", "sub": ["turns it back on them"]}]},
+    "key": {"label": "Who has the final plan", "row": [
+      {"box": "trap", "title": "the schemers", "sub": ["they have it worked out"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["His plan prevails"]}]},
+    "then": "The surah introduction notes that {trap}an attack on his life had been made{/trap}, and the Makkans were plotting to eliminate him. Mujahid said: {trap}they wanted to plot some evil{/trap}, but Allah planned so that {idea}the consequences would backfire on them{/idea}.",
+    "now": "Someone at work is clearly scheming to push you out. You lie awake replaying their moves. {idea}You are not the only one with a plan here, and theirs is not the last word.{/idea}",
+    "old": "If someone is plotting against me, I am at their mercy.",
+    "new": "Every plot against the truth runs into Allah's plan.",
+    "try": "Do your part well in a difficult situation today, then say \"Allah is the best of planners\" and rest.",
+    "related": ["27:50"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:80", "surah": 43, "ayah": 80, "place": "makkah",
+    "title": "Your whispers are heard, and the angels are writing.",
+    "subtitle": "No conversation is truly private",
+    "picture": {"kind": "boxes", "label": "The private meeting", "row": [
+      {"box": "people", "title": "secrets", "sub": ["what they hide"]},
+      {"box": "people", "title": "private talk", "sub": ["closed doors"]},
+      {"conn": "heard and"},
+      {"box": "idea", "title": "recorded", "sub": ["by angels beside them"]}]},
+    "key": {"label": "Off the record", "row": [
+      {"box": "people", "title": "no one will know", "sub": ["just between us"], "strike": true},
+      {"box": "idea", "title": "all is recorded", "sub": ["major and minor"]}]},
+    "then": "The Makkans held private meetings to plan against the Prophet ﷺ. Ibn Kathir explains Allah {idea}knows what they say secretly and openly{/idea}, and {idea}the angels are recording their deeds, major and minor{/idea}.",
+    "now": "The DM you think is private. The comment you made in the car. The thing you say about your in-laws when the door is shut. {idea}None of it is off the record.{/idea}",
+    "old": "What I say in private does not really count.",
+    "new": "Every private word is heard by Allah and written down.",
+    "try": "Before one private conversation today, ask: would I be fine with this being read back to me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:81", "surah": 43, "ayah": 81, "place": "makkah",
+    "title": "If He had a son, I would be first to worship.",
+    "subtitle": "A servant's readiness, not a possibility",
+    "picture": {"kind": "boxes", "label": "The Prophet's answer", "row": [
+      {"box": "trap", "title": "if He had a son", "sub": ["their claim"]},
+      {"conn": "then"},
+      {"box": "people", "title": "I am first", "sub": ["to obey Him"]},
+      {"box": "idea", "title": "but He has none", "sub": ["the One"]}]},
+    "key": {"label": "What the condition means", "row": [
+      {"box": "people", "title": "it could be true", "sub": ["maybe He has"], "strike": true},
+      {"box": "idea", "title": "it is impossible", "sub": ["glory be to Him"]}]},
+    "then": "Ibn Kathir explains the Prophet ﷺ is told to say: if this were so, {idea}I would worship on that basis, because I am His servant{/idea} and not too proud to obey. He adds the condition {idea}does not mean it is possible{/idea}.",
+    "now": "When you obey because you love someone, you are not looking for loopholes. You are the first to respond. {idea}The verse shows a servant whose only question is: what does my Lord want?{/idea}",
+    "old": "I follow Allah when it makes sense to me.",
+    "new": "A true servant is first in line to obey, without pride.",
+    "try": "Respond to the next call to prayer as soon as you hear it, as a sign of being first in line.",
+    "related": ["39:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:82", "surah": 43, "ayah": 82, "place": "makkah",
+    "title": "Glory to the Lord of the Throne, above their claims.",
+    "subtitle": "Exalting Allah above every false description",
+    "picture": {"kind": "boxes", "label": "Who He is", "row": [
+      {"box": "idea", "title": "Lord of heavens", "sub": ["and the earth"]},
+      {"box": "idea", "title": "Lord of the Throne", "sub": ["above all"]},
+      {"conn": "far above"},
+      {"box": "trap", "title": "what they say", "sub": ["offspring, partners"]}]},
+    "key": {"label": "How I picture Allah", "row": [
+      {"box": "people", "title": "like a person", "sub": ["with family, moods"], "strike": true},
+      {"box": "idea", "title": "Unique, One", "sub": ["none like Him"]}]},
+    "then": "Ibn Kathir says this means {idea}exalted and sanctified be the Creator of all things far above having any offspring{/idea}, for He is Unique, One and Eternally Self-Sufficient. {idea}There is none equal to Him or like Him.{/idea}",
+    "now": "You catch yourself thinking of Allah as a stern boss or a tired parent. Your picture is too small. {idea}Subhanallah is the word that clears that picture away.{/idea}",
+    "old": "Allah is someone I can picture like a person.",
+    "new": "He is above every image I could form. Subhanallah.",
+    "try": "Say \"subhanallah\" slowly ten times today and think of what it means as you say it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:83", "surah": 43, "ayah": 83, "place": "makkah",
+    "title": "Let them talk and play until their Day comes.",
+    "subtitle": "Leaving the stubborn to their play",
+    "picture": {"kind": "boxes", "label": "For now", "row": [
+      {"box": "trap", "title": "vain talk", "sub": ["in ignorance"]},
+      {"box": "trap", "title": "play", "sub": ["in their world"]},
+      {"conn": "until"},
+      {"box": "idea", "title": "their Day", "sub": ["they will know"]}]},
+    "key": {"label": "My response", "row": [
+      {"box": "people", "title": "keep arguing", "sub": ["until they admit it"], "strike": true},
+      {"box": "idea", "title": "leave them be", "sub": ["the Day will show"]}]},
+    "then": "Ibn Kathir says leave them in {trap}their ignorance and misguidance{/trap}, playing in their world, until the Day of Resurrection, when {idea}they will come to know their end{/idea}.",
+    "now": "That relative who mocks your faith at every gathering. You have tried every argument. {idea}Sometimes the right move is to stop the argument and let time and Allah do the rest.{/idea}",
+    "old": "I need to win every argument about my faith.",
+    "new": "Some people I leave to Allah. The Day will make everything clear.",
+    "try": "Next time you are pulled into a pointless religious argument, say something kind and step away.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:84", "surah": 43, "ayah": 84, "place": "makkah",
+    "title": "God in the heavens, and God on the earth.",
+    "subtitle": "One God for every place",
+    "picture": {"kind": "boxes", "label": "Everywhere the same", "row": [
+      {"box": "idea", "title": "in the heaven", "sub": ["the only God"]},
+      {"box": "idea", "title": "on the earth", "sub": ["the only God"]},
+      {"conn": "He is"},
+      {"box": "reward", "title": "Wise, Knowing", "sub": ["all worship Him"]}]},
+    "key": {"label": "Where God is God", "row": [
+      {"box": "people", "title": "at the mosque only", "sub": ["work is separate"], "strike": true},
+      {"box": "idea", "title": "everywhere", "sub": ["office, home, street"]}]},
+    "then": "Ibn Kathir explains He is {idea}the God of those in the heavens and the God of those on earth{/idea}, and all of them worship Him and are humbled before Him. He links it to the verse that He knows what you hide and what you show.",
+    "now": "You are one person in the masjid and another at the office party, another online. {idea}The verse says He is God in every one of those places.{/idea}",
+    "old": "Faith belongs to certain places and times.",
+    "new": "Allah is my God at the desk, in the kitchen, on the screen.",
+    "try": "In one place where you usually forget Allah, say bismillah before you start.",
+    "related": ["6:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:85", "surah": 43, "ayah": 85, "place": "makkah",
+    "title": "He owns it all, knows the Hour, and you return to Him.",
+    "subtitle": "Three facts that frame a life",
+    "picture": {"kind": "boxes", "label": "Blessed is He", "row": [
+      {"box": "idea", "title": "owns all", "sub": ["heavens, earth, between"]},
+      {"box": "idea", "title": "knows the Hour", "sub": ["no one else does"]},
+      {"box": "idea", "title": "you return", "sub": ["each judged by deeds"]}]},
+    "key": {"label": "Living with these facts", "row": [
+      {"box": "people", "title": "I own my life", "sub": ["I decide my time"], "strike": true},
+      {"box": "idea", "title": "He owns it", "sub": ["and I return to Him"]}]},
+    "then": "Ibn Kathir says He is the Creator and Sovereign of all, {idea}with none to resist His rule{/idea}. {idea}No one knows when the Hour will happen except Him{/idea}, and each person will be requited for his deeds.",
+    "now": "You plan your five-year goals: the house, the promotion, the retirement age. All good. {idea}Write one more line under them: \"He owns it all, He knows the time, I return to Him.\"{/idea}",
+    "old": "I am the owner of my time and plans.",
+    "new": "Everything belongs to Him, and my return to Him is certain.",
+    "try": "Add one goal for your Hereafter to your plans this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:86", "surah": 43, "ayah": 86, "place": "makkah",
+    "title": "False gods cannot intercede. Truth's witnesses can.",
+    "subtitle": "Who can speak for you on the Day",
+    "picture": {"kind": "boxes", "label": "Intercession", "row": [
+      {"box": "trap", "title": "idols, false gods", "sub": ["no power to intercede"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "witnesses to truth", "sub": ["with knowledge"]},
+      {"box": "idea", "title": "by His leave", "sub": ["only then"]}]},
+    "key": {"label": "Who speaks for you", "row": [
+      {"box": "trap", "title": "anything I rely on", "sub": ["name, lineage, idol"], "strike": true},
+      {"box": "idea", "title": "only by His leave", "sub": ["for truth's witnesses"]}]},
+    "then": "Ibn Kathir explains the idols and false gods {trap}are not able to intercede for them{/trap}. But the one who bears witness to the truth with knowledge and insight, {reward}his intercession with Allah will avail, by His leave{/reward}.",
+    "now": "You quietly rely on something to cover you: your family name, a pious grandparent, being from a religious community. {trap}None of it speaks for you on its own.{/trap}",
+    "old": "My background or connections will cover me.",
+    "new": "Only those who bear witness to the truth can intercede, and only by Allah's leave.",
+    "try": "Say the shahada slowly today, as your own witness to the truth.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:87", "surah": 43, "ayah": 87, "place": "makkah",
+    "title": "Ask who made them, they say Allah. Then why turn away?",
+    "subtitle": "Knowing the answer and not living by it",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "who created you?", "sub": ["asked plainly"]},
+      {"conn": "they say"},
+      {"box": "idea", "title": "Allah", "sub": ["without hesitation"]},
+      {"box": "trap", "title": "yet turned away", "sub": ["worship others"]}]},
+    "key": {"label": "Knowing vs acting", "row": [
+      {"box": "people", "title": "I know the answer", "sub": ["so I am fine"], "strike": true},
+      {"box": "idea", "title": "live by the answer", "sub": ["turn to Him"]}]},
+    "then": "Ibn Kathir says they {idea}admit He alone is the Creator{/idea}, yet they still worship others who have nothing and can do nothing. It echoes verse 9 of this surah: {trap}how then are they turned away?{/trap}",
+    "now": "You know Allah made you and holds your life. Then you spend the day anxious about likes, gossip, and other people's opinions. {trap}The answer is right, the life follows something else.{/trap}",
+    "old": "Knowing Allah is my Creator is enough.",
+    "new": "If He made me, my day should turn toward Him.",
+    "try": "Tonight, list three things that pulled your attention today. Ask which one pulled you toward Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:88", "surah": 43, "ayah": 88, "place": "makkah",
+    "title": "O my Lord, these people will not believe.",
+    "subtitle": "The Prophet ﷺ takes his pain to Allah",
+    "picture": {"kind": "boxes", "label": "His complaint", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["after years of calling"]},
+      {"conn": "says to"},
+      {"box": "idea", "title": "my Lord", "sub": ["they do not believe"]}]},
+    "key": {"label": "Where to take frustration", "row": [
+      {"box": "trap", "title": "vent at people", "sub": ["rant online"], "strike": true},
+      {"box": "idea", "title": "tell Allah", "sub": ["O my Lord"]}]},
+    "then": "Ibn Masud, Mujahid and Qatadah said these are the words of the Prophet ﷺ: {idea}he complained to his Lord about his people who did not believe{/idea}. Ibn Kathir links it to the verse where the Messenger says his people deserted the Quran.",
+    "now": "You are worn out from trying to help someone who will not change. You want to vent in the group chat. {idea}The Prophet ﷺ took that exhaustion straight to Allah.{/idea}",
+    "old": "Complaining is a sign of weak faith.",
+    "new": "Telling Allah my frustration is what the Prophet ﷺ did.",
+    "try": "Tonight, tell Allah in your own words about one person or situation that exhausts you.",
+    "related": ["25:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:89", "surah": 43, "ayah": 89, "place": "makkah",
+    "title": "Turn aside and say: peace.",
+    "subtitle": "The surah's last word on how to respond",
+    "picture": {"kind": "boxes", "label": "The response", "row": [
+      {"box": "trap", "title": "their mockery", "sub": ["harsh words"]},
+      {"conn": "answered with"},
+      {"box": "idea", "title": "turn aside", "sub": ["forgive"]},
+      {"box": "reward", "title": "\"Peace\"", "sub": ["soften their hearts"]}]},
+    "key": {"label": "Answering hostility", "row": [
+      {"box": "trap", "title": "match their tone", "sub": ["hit back harder"], "strike": true},
+      {"box": "reward", "title": "say peace", "sub": ["they will come to know"]}]},
+    "then": "After all the plotting, the surah ends with this. Ibn Kathir says it means {idea}do not respond to them in the same evil manner{/idea}, but {reward}try to soften their hearts and forgive them in word and deed{/reward}. The rest is left to Allah: they will come to know.",
+    "now": "A rude reply under your post, a sharp text from a relative, a stranger yelling in traffic. Your thumbs are ready. {reward}The surah's last instruction: turn aside, and say peace.{/reward}",
+    "old": "If they are harsh, I have the right to be harsh back.",
+    "new": "I can answer harshness with peace and leave the outcome to Allah.",
+    "try": "Answer the next rude message you get with one calm, kind line, or with silence.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

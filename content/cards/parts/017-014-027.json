@@ -1,0 +1,288 @@
+[
+  {
+    "id": "17:14", "surah": 17, "ayah": 14, "place": "makkah",
+    "title": "You will be handed your own record and asked to read it.",
+    "subtitle": "Being your own accountant on the Day",
+    "picture": {"kind": "boxes", "label": "The reading", "row": [
+      {"box": "people", "title": "you", "sub": ["every person, literate or not"]},
+      {"conn": "is handed"},
+      {"box": "idea", "title": "your book", "sub": ["wide open", "first day to last"]},
+      {"conn": "and told"},
+      {"box": "idea", "title": "read it", "sub": ["you are enough as judge"]}]},
+    "key": {"label": "Who does the counting", "row": [
+      {"box": "trap", "title": "someone wronged me", "sub": ["the record is unfair"], "strike": true},
+      {"box": "idea", "title": "I remember it all", "sub": ["nothing written I did not do"]}]},
+    "then": "The surah was warning the people of Makkah while there was still time. The verse before says every person's deeds are fastened to his neck. Al-Hasan explained it simply: {idea}two angels write, the book is folded at death and opened again on the Day.{/idea} Then you are told to read it yourself, and you will find it {reward}perfectly just{/reward}.",
+    "now": "Your screen time report on Sunday. The bank statement at the end of the month. You never argue with those numbers, because you know they are yours. {idea}The book on that Day works the same way, only it misses nothing.{/idea} The good things you did quietly are in it too.",
+    "old": "If I am ever judged, I will have a lot to explain and argue about.",
+    "new": "I will not need anyone to tell me what I did. I will read it and know it is true.",
+    "try": "Tonight, before sleep, read back your own day in your head. Thank Allah for one good line in it.",
+    "related": ["99:7", "50:17", "82:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:15", "surah": 17, "ayah": 15, "place": "makkah",
+    "title": "Your guidance is your gain, your straying is your loss.",
+    "subtitle": "No one carries another's load, and no one is punished unwarned",
+    "picture": {"kind": "boxes", "label": "Where it lands", "row": [
+      {"box": "reward", "title": "guided", "sub": ["the good comes back to you"]},
+      {"box": "trap", "title": "astray", "sub": ["the loss falls on you"]},
+      {"box": "people", "title": "your load", "sub": ["no one else lifts it"]},
+      {"box": "idea", "title": "a messenger first", "sub": ["no punishment before warning"]}]},
+    "key": {"label": "Whose weight", "row": [
+      {"box": "people", "title": "they made me do it", "sub": ["my parents, my friends"], "strike": true},
+      {"box": "idea", "title": "each carries their own", "sub": ["and the misleader carries more"]}]},
+    "then": "Makkah had heard the warning for twelve years. Ibn Kathir explains that {idea}nobody will carry anyone else's sins{/idea}, though a person who led others astray carries his own sin and theirs too. And out of His justice, Allah {reward}does not punish anyone until a messenger has reached them{/reward}.",
+    "now": "You blame your upbringing, your boss, the friend who got you into the habit. Some of that is real. But the choice you make tomorrow morning is yours. {idea}So is the good it brings you.{/idea} And if you pull someone along with you, you carry that too.",
+    "old": "My mistakes are mostly the fault of the people around me.",
+    "new": "What I choose lands on me, and Allah is fair enough to warn before He judges.",
+    "try": "Pick one habit you usually blame on someone else. Own one small part of it today.",
+    "related": ["29:13", "16:25", "67:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:16", "surah": 17, "ayah": 16, "place": "makkah",
+    "title": "When the comfortable ones rebel, a whole town falls.",
+    "subtitle": "How ease at the top can undo a community",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "people", "title": "the wealthy", "sub": ["comfort and power"]},
+      {"conn": "are commanded, but"},
+      {"box": "trap", "title": "they defy", "sub": ["sin spreads in the town"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "the word comes true", "sub": ["the town is ruined"]}]},
+    "key": {"label": "What brings it down", "row": [
+      {"box": "reward", "title": "wealth keeps us safe", "sub": [], "strike": true},
+      {"box": "trap", "title": "wealth plus defiance", "sub": ["is what topples a town"]}]},
+    "then": "Scholars read this verse in more than one way. Ibn 'Abbas said in one report that {idea}Allah commanded them to obey, but they sinned{/idea}. In another, that He let the evil ones gain power or grow in number. Either way, Ibn Kathir stresses that {trap}Allah never commands immorality{/trap}. The town falls because of what its comfortable people chose.",
+    "now": "The family where the one with the most money sets the tone. The office where the senior people cut corners and everyone copies. {trap}Comfort at the top spreads fast.{/trap} If you have a bit of ease and a bit of say, your example weighs more than you think.",
+    "old": "Being comfortable means things are going well.",
+    "new": "Comfort is a test, and the more I have, the more others follow my lead.",
+    "try": "Think of one place where people look up to you. Do one small right thing there today on purpose.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:17", "surah": 17, "ayah": 17, "place": "makkah",
+    "title": "Many generations since Nuh rose and fell.",
+    "subtitle": "Your Lord sees every sin clearly",
+    "picture": {"kind": "boxes", "label": "After Nuh", "row": [
+      {"box": "people", "title": "generation after generation", "sub": ["rejected their messengers"]},
+      {"conn": "ended"},
+      {"box": "trap", "title": "destroyed", "sub": ["how many"]},
+      {"box": "idea", "title": "your Lord", "sub": ["fully aware, fully seeing"]}]},
+    "key": {"label": "Are we different", "row": [
+      {"box": "people", "title": "we are special", "sub": ["it will not happen to us"], "strike": true},
+      {"box": "idea", "title": "same rules", "sub": ["no one is dearer by default"]}]},
+    "then": "This was a warning to Quraysh, who were rejecting the Prophet ﷺ. Ibn Kathir paraphrases the meaning: {trap}you are not dearer to Allah than those nations were{/trap}. He also notes that Ibn 'Abbas said the ten generations between Adam and Nuh all followed Islam. And {idea}nothing people do is hidden from Him{/idea}.",
+    "now": "You read about a company that collapsed, a family that broke apart, a person who lost everything. Part of you thinks, that could never be me. {idea}History is not a story about other people.{/idea} The same Lord who saw them sees your Tuesday afternoon.",
+    "old": "Those stories of ruined nations are about people unlike me.",
+    "new": "The same rules apply to me, and the same Lord is watching kindly and closely.",
+    "try": "Next time you read bad news about someone's fall, ask what lesson it holds for your own week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:18", "surah": 17, "ayah": 18, "place": "makkah",
+    "title": "Want only the quick world, and you may get some of it.",
+    "subtitle": "The person whose whole aim is now",
+    "picture": {"kind": "boxes", "label": "The fast lane", "row": [
+      {"box": "people", "title": "wants the immediate", "sub": ["this world only"]},
+      {"conn": "gets"},
+      {"box": "reward", "title": "what Allah wills", "sub": ["not what he wants"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "loss later", "sub": ["blamed, far from mercy"]}]},
+    "key": {"label": "What the chase delivers", "row": [
+      {"box": "people", "title": "chase it, get it", "sub": ["effort guarantees results"], "strike": true},
+      {"box": "idea", "title": "some get some", "sub": ["only what He wills, to whom He wills"]}]},
+    "then": "Ibn Kathir points out a detail: {idea}not everyone who wants this world gets it{/idea}. Allah gives what He wills to whom He wills. The person who chose the passing over the lasting is left, in the Hereafter, {trap}blamed and far from mercy{/trap}.",
+    "now": "The side hustle that takes every evening. The follower count you check before prayer. The promotion that has become the whole point of your life. {trap}Plenty of people chase it and still do not get it.{/trap} And the ones who do still find it ends.",
+    "old": "If I work hard enough, this world will give me what I want.",
+    "new": "Even the world is given, not taken, and it is a poor thing to want only that.",
+    "try": "Look at your plans for this week. Add one thing that only counts for the Hereafter.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:19", "surah": 17, "ayah": 19, "place": "makkah",
+    "title": "Effort for the Hereafter is always noticed and thanked.",
+    "subtitle": "Wanting it, striving for it, believing",
+    "picture": {"kind": "boxes", "label": "Three parts", "row": [
+      {"box": "idea", "title": "wants it", "sub": ["the Hereafter"]},
+      {"box": "idea", "title": "strives for it", "sub": ["the right way"]},
+      {"box": "idea", "title": "believes", "sub": ["faith in the heart"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "appreciated", "sub": ["the effort is thanked"]}]},
+    "key": {"label": "Is it enough", "row": [
+      {"box": "people", "title": "wishing is enough", "sub": [], "strike": true},
+      {"box": "idea", "title": "want, effort, faith", "sub": ["all three together"]}]},
+    "then": "Right after the one who wants only now, the verse describes the other person. Ibn Kathir explains the three parts: {idea}wanting the Hereafter, striving for it the right way by following the Messenger ﷺ, and having faith in the heart{/idea}. Their effort {reward}is appreciated{/reward}.",
+    "now": "No one at work saw you hold your tongue in that meeting. No one in the family group chat knows about the money you sent quietly. You wonder if it counted. {reward}It was noticed, and it is thanked.{/reward}",
+    "old": "Small good efforts that no one sees probably do not matter much.",
+    "new": "Effort made for Allah with faith is never wasted. He thanks it.",
+    "try": "Do one good thing today that no one will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:20", "surah": 17, "ayah": 20, "place": "makkah",
+    "title": "Both seekers are given from your Lord's giving.",
+    "subtitle": "No one can block what He gives",
+    "picture": {"kind": "boxes", "label": "Both groups", "row": [
+      {"box": "people", "title": "seekers of now", "sub": []},
+      {"box": "people", "title": "seekers of later", "sub": []},
+      {"conn": "both receive from"},
+      {"box": "reward", "title": "your Lord's gift", "sub": ["never cut off"]}]},
+    "key": {"label": "Who controls the tap", "row": [
+      {"box": "trap", "title": "they can stop me", "sub": ["boss, rival, system"], "strike": true},
+      {"box": "idea", "title": "no one can", "sub": ["His giving is never blocked"]}]},
+    "then": "Having described two kinds of people, the verse says Allah gives to both. Ibn Kathir explains that {idea}He is in control of all things and is never unjust{/idea}. Qatadah and Al-Hasan said the meaning is that His gifts {reward}can never be decreased or prevented{/reward} by anyone.",
+    "now": "The manager who you think holds your future. The client who might cancel. The relative who controls the family business. {idea}They are channels, not the source.{/idea} Your rent this month came from the same Lord who feeds people who never thank Him.",
+    "old": "The people above me decide what I get.",
+    "new": "Allah is the giver, and no one can stop what He sends.",
+    "try": "Before you check your bank app today, say thank you to Allah for what is in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:21", "surah": 17, "ayah": 21, "place": "makkah",
+    "title": "Look at the gaps here. The gaps there are bigger.",
+    "subtitle": "Differences in this world and in the Hereafter",
+    "picture": {"kind": "boxes", "label": "Ranks", "row": [
+      {"box": "people", "title": "here", "sub": ["rich and poor", "long and short lives"]},
+      {"conn": "smaller than"},
+      {"box": "idea", "title": "there", "sub": ["a hundred levels in Paradise"]}]},
+    "key": {"label": "Which ranking matters", "row": [
+      {"box": "trap", "title": "salary, looks, status", "sub": ["the real ladder"], "strike": true},
+      {"box": "reward", "title": "degrees in the Hereafter", "sub": ["far wider and lasting"]}]},
+    "then": "Ibn Kathir describes the differences here: {idea}some rich, some poor, some die young, some live long{/idea}. But the differences in the Hereafter are greater. He cites the Prophet ﷺ saying the people of the highest levels of Paradise {reward}will be seen like distant stars on the horizon{/reward}.",
+    "now": "You scroll and see a classmate's new house, a cousin's wedding abroad, a colleague's promotion. The gap stings. {idea}That gap is small and short.{/idea} The ranks that last are being earned in ordinary moments no one posts about.",
+    "old": "The differences between me and others in money and status are what really matter.",
+    "new": "Worldly gaps are small next to the ranks of the Hereafter, and those are still open to me.",
+    "try": "When you feel envy today, turn it into a short dua for a higher rank in Paradise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:22", "surah": 17, "ayah": 22, "place": "makkah",
+    "title": "Lean on another god and you are left to it.",
+    "subtitle": "The loneliness of a false support",
+    "picture": {"kind": "boxes", "label": "The result", "row": [
+      {"box": "people", "title": "you", "sub": []},
+      {"conn": "set up beside Allah"},
+      {"box": "trap", "title": "another god", "sub": ["no power to help or harm"]},
+      {"conn": "leaves you"},
+      {"box": "trap", "title": "blamed and forsaken", "sub": ["sitting alone"]}]},
+    "key": {"label": "Where to bring the need", "row": [
+      {"box": "people", "title": "to people only", "sub": ["the need stays"], "strike": true},
+      {"box": "idea", "title": "to Allah", "sub": ["sooner or later He provides"]}]},
+    "then": "This begins a series of commands in the surah, starting with the core one. Ibn Kathir explains that {trap}Allah leaves such a person to what they worshipped, which cannot help them{/trap}. He cites the Prophet ﷺ: whoever brings his need to people alone stays in need, but {reward}whoever brings it to Allah, Allah provides for him sooner or later{/reward}.",
+    "now": "When the bill comes, your first call is to a friend, a loan app, a lucky charm, a horoscope. Not wrong to ask people. But if your heart rests on them, {trap}you will feel alone when they let you down{/trap}. Turn to Allah first.",
+    "old": "When I am in trouble, the right person or thing will rescue me.",
+    "new": "Only Allah can truly help, and leaning elsewhere leaves me forsaken.",
+    "try": "The next time you need something, make dua for it before you text anyone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:23", "surah": 17, "ayah": 23, "place": "makkah",
+    "title": "Worship Him alone, and not even a sigh at your parents.",
+    "subtitle": "Kindness to parents placed right after worship",
+    "picture": {"kind": "boxes", "label": "Your Lord decreed", "row": [
+      {"box": "idea", "title": "worship Him only", "sub": []},
+      {"conn": "and"},
+      {"box": "idea", "title": "goodness to parents", "sub": ["most when they are old"]},
+      {"box": "trap", "title": "not even uff", "sub": ["no harsh voice"]},
+      {"box": "reward", "title": "a noble word", "sub": ["gentle, respectful"]}]},
+    "key": {"label": "What counts as disrespect", "row": [
+      {"box": "people", "title": "I never shouted", "sub": ["so I am fine"], "strike": true},
+      {"box": "trap", "title": "even uff", "sub": ["the smallest sigh counts"]}]},
+    "then": "Ibn Kathir notes that {idea}worshipping Allah is tied directly to honoring parents{/idea}. Uff is the mildest word of irritation, and even that is ruled out. He cites the Prophet ﷺ saying on the minbar that a person is doomed if his parents reach old age with him and {trap}they do not become his way into Paradise{/trap}.",
+    "now": "Your mother asks the same question about her phone for the fourth time. Your father tells the old story again at dinner. You feel the sigh rising, the eye roll, the sharp tone. {reward}That moment is a door to Paradise.{/reward}",
+    "old": "As long as I do not yell at my parents, I am a good child.",
+    "new": "Even a tired sigh matters, and a soft word to them is worship.",
+    "try": "Call or visit a parent today and keep your voice gentle the whole time.",
+    "related": ["31:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:24", "surah": 17, "ayah": 24, "place": "makkah",
+    "title": "Lower your wing to them, and ask mercy as they raised you.",
+    "subtitle": "Humility and a dua for parents",
+    "picture": {"kind": "boxes", "label": "Two things", "row": [
+      {"box": "idea", "title": "lower the wing", "sub": ["humble in what you do"]},
+      {"box": "idea", "title": "the dua", "sub": ["My Lord, have mercy on them"]},
+      {"conn": "because"},
+      {"box": "people", "title": "they raised me", "sub": ["when I was small"]}]},
+    "key": {"label": "Who was carrying whom", "row": [
+      {"box": "people", "title": "now I carry them", "sub": ["I am doing them a favor"], "strike": true},
+      {"box": "reward", "title": "they carried me first", "sub": ["I am returning a little"]}]},
+    "then": "The verse continues the command about parents. Ibn Kathir explains it as {idea}being humble toward them in your actions{/idea}, and saying the dua when they grow old and after they die. He cites the Prophet ﷺ telling a man who wanted to go out and fight to stay with his mother, because {reward}Paradise is at her feet{/reward}.",
+    "now": "You help your father into the car at the hospital and you feel like the strong one. {idea}Remember who held your hand across the road.{/idea} The tired nights, the school fees, the meals. A short dua is the least you can give back.",
+    "old": "Helping my parents now is a big favor I am doing for them.",
+    "new": "I am only repaying a little of what they gave me when I was small.",
+    "try": "Say this dua for your parents after one prayer today: My Lord, have mercy on them as they raised me.",
+    "related": ["31:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:25", "surah": 17, "ayah": 25, "place": "makkah",
+    "title": "He knows what you meant, and forgives those who keep returning.",
+    "subtitle": "When you slip with parents, or anyone",
+    "picture": {"kind": "boxes", "label": "After a slip", "row": [
+      {"box": "people", "title": "a careless word", "sub": ["not meant to hurt"]},
+      {"box": "idea", "title": "your Lord knows", "sub": ["what is inside you"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "forgives", "sub": ["those who keep coming back"]}]},
+    "key": {"label": "After falling again", "row": [
+      {"box": "trap", "title": "I failed again", "sub": ["no point trying"], "strike": true},
+      {"box": "reward", "title": "return again", "sub": ["He loves the returner"]}]},
+    "then": "Sa'id bin Jubayr said this refers to {idea}a person who said something to his parents without meaning harm{/idea}. Sa'id bin Al-Musayyib said the returners are {reward}those who sin then repent, and sin then repent{/reward}. The Prophet ﷺ would say on coming home from a journey: we have returned, repenting.",
+    "now": "You snapped at your mother on the phone and felt bad all evening. Or you broke the same promise to yourself for the tenth time. {reward}He knows what was in your heart.{/reward} The door is open the eleventh time too.",
+    "old": "If I keep making the same mistake, my repentance must be fake.",
+    "new": "Allah knows my heart, and keeps forgiving the one who keeps coming back.",
+    "try": "Think of the last harsh word you said. Say astaghfirullah, then send that person a kind message.",
+    "related": ["88:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:26", "surah": 17, "ayah": 26, "place": "makkah",
+    "title": "Give relatives, the poor, and the traveler their right. Do not squander.",
+    "subtitle": "Spending that is owed, and spending that is wasted",
+    "picture": {"kind": "boxes", "label": "Where it should go", "row": [
+      {"box": "people", "title": "relatives", "sub": ["their right"]},
+      {"box": "people", "title": "the poor", "sub": []},
+      {"box": "people", "title": "the traveler", "sub": ["stranded, far from home"]},
+      {"box": "trap", "title": "not waste", "sub": ["spending on the wrong things"]}]},
+    "key": {"label": "What giving is", "row": [
+      {"box": "people", "title": "a favor I do", "sub": [], "strike": true},
+      {"box": "idea", "title": "their right", "sub": ["it was already theirs"]}]},
+    "then": "After parents come relatives. Ibn Kathir cites the Prophet ﷺ: {reward}whoever wants more provision and a longer life, let him keep ties of kinship{/reward}. On waste, Mujahid said that {trap}spending a little on the wrong thing is waste{/trap}, while spending all on right things is not.",
+    "now": "Payday arrives. Delivery apps, a new gadget, subscriptions you forgot about. Then your cousin messages asking for help with school fees and you feel stretched. {idea}The cousin was owed first.{/idea}",
+    "old": "Helping relatives is generous of me when I have extra.",
+    "new": "My relatives and the needy have a right in my money, and waste takes from them.",
+    "try": "Cancel one subscription you do not use and give that amount to a relative or someone in need.",
+    "related": ["25:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:27", "surah": 17, "ayah": 27, "place": "makkah",
+    "title": "Wasters are brothers of the devils.",
+    "subtitle": "Waste as a form of ingratitude",
+    "picture": {"kind": "boxes", "label": "A family resemblance", "row": [
+      {"box": "trap", "title": "the waster", "sub": ["spends on wrong things"]},
+      {"conn": "brother of"},
+      {"box": "trap", "title": "the devils", "sub": []},
+      {"conn": "like"},
+      {"box": "trap", "title": "Shaytan", "sub": ["ungrateful to his Lord"]}]},
+    "key": {"label": "What waste really is", "row": [
+      {"box": "people", "title": "just a bad habit", "sub": ["my money, my choice"], "strike": true},
+      {"box": "trap", "title": "ingratitude", "sub": ["misusing a gift"]}]},
+    "then": "Ibn Kathir says wasters share traits with the devils: {trap}extravagance, foolishness, disobeying Allah{/trap}. Shaytan is called ungrateful because {idea}he denied Allah's blessings and turned them to disobedience{/idea}. Waste is a blessing used the wrong way.",
+    "now": "Half the food from the party in the bin. The phone replaced while the old one still works fine. The impulse buy at midnight. {idea}Each one was a gift first.{/idea} Using it carelessly is a quiet way of not saying thank you.",
+    "old": "Wasting a bit of money or food is not a big deal.",
+    "new": "Waste is ingratitude for a gift, and gratitude means using it well.",
+    "try": "Before you throw any food away today, see if it can be eaten, saved, or given.",
+    "related": ["25:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

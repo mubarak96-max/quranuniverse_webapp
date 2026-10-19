@@ -1,0 +1,272 @@
+[
+  {
+    "id": "32:1", "surah": 32, "ayah": 1, "place": "makkah",
+    "title": "Alif Lam Mim: the surah he recited before sleep.",
+    "subtitle": "Opening letters, and a surah loved at night and Friday dawn",
+    "picture": {"kind": "boxes", "label": "How it opens", "row": [
+      {"box": "idea", "title": "Alif Lam Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "the revelation", "sub": ["no doubt in it"]}]},
+    "key": {"label": "When he recited it", "row": [
+      {"box": "reward", "title": "Fajr on Fridays", "sub": ["with Al-Insan"]},
+      {"box": "reward", "title": "before sleeping", "sub": ["with Al-Mulk"]}]},
+    "then": "Abu Hurayrah reported that the Prophet ﷺ recited this surah in Fajr on Fridays. Jabir said {reward}he would not sleep until he recited it{/reward} along with Al-Mulk. It opens with letters whose meaning is {idea}known to Allah{/idea}.",
+    "now": "The last thing you see before sleep is usually a screen. A message, a video, a feed. {reward}His last thing was this surah.{/reward} The three letters are a doorway: stop, listen, then let the night begin.",
+    "old": "Bedtime is for winding down with my phone.",
+    "new": "The end of my day can begin with three letters and a pause.",
+    "try": "Tonight, listen to or read Surah As-Sajdah before you sleep.",
+    "related": ["76:1", "67:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:2", "surah": 32, "ayah": 2, "place": "makkah",
+    "title": "A Book with no doubt in it, from the Lord of all.",
+    "subtitle": "Where this revelation comes from",
+    "picture": {"kind": "boxes", "label": "The source", "row": [
+      {"box": "idea", "title": "Lord of the worlds", "sub": ["sends it down"]},
+      {"conn": "reveals"},
+      {"box": "plain", "title": "the Book", "sub": ["no doubt at all"]}]},
+    "key": {"label": "Where doubt sits", "row": [
+      {"box": "people", "title": "the Book is uncertain", "sub": ["maybe made up"], "strike": true},
+      {"box": "idea", "title": "the Book is certain", "sub": ["doubt is in the doubter"]}]},
+    "then": "The surah introduction says the Makkans called the Prophet's ﷺ words strange inventions. This verse answers first: {idea}there is no doubt whatsoever{/idea} that this Book was sent down from the Lord of all that exists.",
+    "now": "A video says the Qur'an was edited, borrowed, made up. The comments pile in and you feel unsteady. {idea}Go back to the source{/idea} and read it yourself, slowly, before you let a stranger's doubt settle in you.",
+    "old": "If people question it loudly enough, maybe it is doubtful.",
+    "new": "The doubt belongs to the doubter. The Book stands on its own.",
+    "try": "When a doubt bothers you, read one full page of Qur'an before reading another comment.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:3", "surah": 32, "ayah": 3, "place": "makkah",
+    "title": "Not invented. Truth sent to a people with no warner.",
+    "subtitle": "Why the message came",
+    "picture": {"kind": "boxes", "label": "The accusation and the answer", "row": [
+      {"box": "trap", "title": "he made it up", "sub": ["the claim"], "strike": true},
+      {"conn": "rather"},
+      {"box": "idea", "title": "truth from your Lord", "sub": ["to warn and guide"]}]},
+    "key": {"label": "What it is for", "row": [
+      {"box": "people", "title": "a people", "sub": ["no warner before"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "they may be guided", "sub": ["follow the truth"]}]},
+    "then": "The idol worshippers said the Prophet ﷺ {trap}made it up himself{/trap}. Allah answered: it is the truth from your Lord, sent to warn a people to whom no warner had come, {reward}so they might be guided{/reward}.",
+    "now": "Your friend never heard the message properly. Only headlines and stereotypes. {reward}The warning was always meant to guide{/reward}, not to shame. You might be the first person who explains it to them gently.",
+    "old": "A warning is something meant to scare me.",
+    "new": "The warning came out of care, so people could find their way.",
+    "try": "Answer one honest question about Islam from a friend, gently and without debate.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:4", "surah": 32, "ayah": 4, "place": "makkah",
+    "title": "He created it all. No protector or intercessor but Him.",
+    "subtitle": "Will you not remember?",
+    "picture": {"kind": "boxes", "label": "What He did", "row": [
+      {"box": "idea", "title": "created heavens and earth", "sub": ["in six days"]},
+      {"box": "idea", "title": "rose over the Throne", "sub": ["in control of all"]}]},
+    "key": {"label": "Who protects you", "row": [
+      {"box": "trap", "title": "others besides Him", "sub": ["trusted instead"], "strike": true},
+      {"box": "idea", "title": "only Allah", "sub": ["no intercessor without His permission"]}]},
+    "then": "Ibn Kathir says only He is in control of all affairs. {idea}There is no intercessor except one He permits.{/idea} The question will you not remember is addressed to those who {trap}trusted in others besides Him{/trap}.",
+    "now": "You need a favour, so you think of who you know. The cousin at the council, the friend in HR. {idea}None of them is a protector without Him.{/idea} Ask Him first, then knock on doors.",
+    "old": "Getting through life is about knowing the right people.",
+    "new": "My real protector is Allah, and people only help by His permission.",
+    "try": "Before asking anyone for help today, ask Allah for it in a short dua.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:5", "surah": 32, "ayah": 5, "place": "makkah",
+    "title": "He sends the command down, and it rises back to Him.",
+    "subtitle": "A Day measured as a thousand of your years",
+    "picture": {"kind": "boxes", "label": "The movement", "row": [
+      {"box": "idea", "title": "the command", "sub": ["from the heavens"]},
+      {"conn": "down to"},
+      {"box": "people", "title": "the earth", "sub": ["its furthest edge"]},
+      {"conn": "then up to"},
+      {"box": "idea", "title": "Him", "sub": ["deeds ascend"]}]},
+    "key": {"label": "Time to Allah", "row": [
+      {"box": "people", "title": "1", "sub": ["a Day with Him"], "num": true},
+      {"conn": "equals"},
+      {"box": "people", "title": "1000", "sub": ["years of your counting"], "num": true}]},
+    "then": "Ibn Kathir says His command comes down from above the heavens to {idea}the furthest boundary of the earth{/idea}. Deeds are raised up to Him. The angels cover vast distances {idea}in the blink of an eye{/idea}.",
+    "now": "Your deadline is Friday and the whole week revolves around it. You check the clock a hundred times. {idea}Your deeds today rise to Him{/idea}, and to Him a thousand years is a Day. What matters is what goes up.",
+    "old": "My schedule is the biggest clock in my life.",
+    "new": "His command shapes everything, and my deeds rise to Him each day.",
+    "try": "At the end of today, think of one deed you would be glad to have raised to Allah.",
+    "related": ["65:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:6", "surah": 32, "ayah": 6, "place": "makkah",
+    "title": "He knows the hidden and the seen. Mighty, and merciful.",
+    "subtitle": "Might combined with mercy",
+    "picture": {"kind": "boxes", "label": "His knowledge", "row": [
+      {"box": "idea", "title": "the unseen", "sub": ["what is hidden"]},
+      {"box": "idea", "title": "the witnessed", "sub": ["what is in front of you"]}]},
+    "key": {"label": "Two names together", "row": [
+      {"box": "idea", "title": "All-Mighty", "sub": ["in His mercy"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Most Merciful", "sub": ["in His might"]}]},
+    "then": "Ibn Kathir says He sees all deeds, major and minor. {idea}He is Almighty in His mercy and Most Merciful in His might.{/idea} This is perfection: {reward}merciful without any hint of weakness{/reward}.",
+    "now": "You know a manager who is strong but cold, and another who is kind but lets everything slide. {reward}Allah is not either of those.{/reward} His strength never stops being mercy, and His mercy never becomes weakness.",
+    "old": "Power and kindness pull in opposite directions.",
+    "new": "In Allah, might and mercy are whole together.",
+    "try": "Be firm about one thing today and kind in how you say it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:7", "surah": 32, "ayah": 7, "place": "makkah",
+    "title": "He made everything well, and began man from clay.",
+    "subtitle": "From the heavens to the human",
+    "picture": {"kind": "boxes", "label": "The order of creation", "row": [
+      {"box": "idea", "title": "everything", "sub": ["made good"]},
+      {"conn": "then"},
+      {"box": "people", "title": "Adam", "sub": ["from clay"]}]},
+    "key": {"label": "What you are made with", "row": [
+      {"box": "people", "title": "I am a mistake", "sub": ["badly put together"], "strike": true},
+      {"box": "idea", "title": "made well", "sub": ["by the One who perfects"]}]},
+    "then": "Zayd bin Aslam said it means {idea}He created everything well and in a goodly fashion{/idea}. Ibn Kathir notes that after the heavens and earth, Allah turns to man, starting with {idea}Adam, created from clay{/idea}.",
+    "now": "The mirror in the morning. The photo you untag. The voice in your head listing what is wrong with you. {idea}The One who made everything well made you too.{/idea} Start from there.",
+    "old": "There is so much wrong with how I am made.",
+    "new": "Allah made everything well, and that includes me.",
+    "try": "Thank Allah today for one part of your body you usually criticise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:8", "surah": 32, "ayah": 8, "place": "makkah",
+    "title": "Every one of us began as a humble drop.",
+    "subtitle": "Where your story started",
+    "picture": {"kind": "boxes", "label": "The line of humans", "row": [
+      {"box": "people", "title": "Adam", "sub": ["from clay"]},
+      {"conn": "then"},
+      {"box": "people", "title": "his children", "sub": ["from a drop"]},
+      {"box": "plain", "title": "a lowly fluid", "sub": ["nothing to boast of"]}]},
+    "key": {"label": "Where pride stands", "row": [
+      {"box": "people", "title": "I am above others", "sub": ["status, family"], "strike": true},
+      {"box": "idea", "title": "same humble start", "sub": ["for every person"]}]},
+    "then": "Ibn Kathir says after Adam, his children {idea}reproduce from a drop{/idea}. The Makkans doubted they could be created again. The surah points them to how they were made the first time.",
+    "now": "The CEO in the corner office, the cleaner in the corridor, you in between. {idea}All began the same way.{/idea} It is hard to look down on anyone once you remember that.",
+    "old": "Some people are simply made of better stuff.",
+    "new": "Every human began from the same humble drop.",
+    "try": "Greet someone today with the same warmth you would show someone important.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:9", "surah": 32, "ayah": 9, "place": "makkah",
+    "title": "Hearing, sight, a heart that understands, and so little thanks.",
+    "subtitle": "The gifts that make you human",
+    "picture": {"kind": "boxes", "label": "What He gave", "row": [
+      {"box": "idea", "title": "proportioned", "sub": ["shaped upright"]},
+      {"box": "idea", "title": "the soul", "sub": ["breathed in"]},
+      {"box": "reward", "title": "hearing, sight", "sub": ["and reason"]}]},
+    "key": {"label": "Who is truly blessed", "row": [
+      {"box": "people", "title": "the one with gifts", "sub": ["just having them"], "strike": true},
+      {"box": "reward", "title": "the one who uses them", "sub": ["to worship his Lord"]}]},
+    "then": "Ibn Kathir says Allah shaped Adam, breathed in the soul, and gave {reward}hearing, sight and reason{/reward}. Yet little thanks is given. {idea}The truly blessed one uses them to worship and obey his Lord.{/idea}",
+    "now": "Your ears took in two hours of podcasts today. Your eyes scrolled a few thousand posts. Your mind worried about a meeting. {reward}Three huge gifts{/reward}, and how much of them went to Allah?",
+    "old": "My senses are just how my body works.",
+    "new": "Hearing, sight and thought are gifts to be used for my Lord.",
+    "try": "Give your ears ten minutes of Qur'an today in place of other audio.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:10", "surah": 32, "ayah": 10, "place": "makkah",
+    "title": "Lost in the earth, then made new? Easy for Him.",
+    "subtitle": "The doubt about resurrection",
+    "picture": {"kind": "boxes", "label": "Their question", "row": [
+      {"box": "people", "title": "bodies", "sub": ["scattered in the earth"]},
+      {"conn": "made again?"},
+      {"box": "trap", "title": "unlikely", "sub": ["by human ability"]}]},
+    "key": {"label": "Whose power to measure by", "row": [
+      {"box": "people", "title": "what I could do", "sub": ["impossible"], "strike": true},
+      {"box": "idea", "title": "what He did once", "sub": ["from nothing"]}]},
+    "then": "Ibn Kathir says the idol worshippers thought resurrection unlikely once bodies had {trap}disintegrated and dispersed{/trap}. By their own feeble abilities it is. But not for {idea}the One who created them from nothing{/idea}.",
+    "now": "A funeral, the soil going in, and a quiet thought: is that really it? {idea}Measure it by His power, not yours.{/idea} The One who made you from nothing the first time can make you again.",
+    "old": "Once someone is buried, it is hard to believe they will rise.",
+    "new": "The One who made me from nothing can easily make me again.",
+    "try": "Next time you think of someone who has died, make dua for them and for your meeting again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:11", "surah": 32, "ayah": 11, "place": "makkah",
+    "title": "An angel is assigned to you, and then you return.",
+    "subtitle": "The angel of death and the return to your Lord",
+    "picture": {"kind": "boxes", "label": "What comes", "row": [
+      {"box": "people", "title": "the angel of death", "sub": ["set over you"]},
+      {"conn": "takes your soul"},
+      {"box": "idea", "title": "your Lord", "sub": ["you are brought back"]}]},
+    "key": {"label": "What death is", "row": [
+      {"box": "people", "title": "the end", "sub": ["nothing after"], "strike": true},
+      {"box": "idea", "title": "a return", "sub": ["to your Lord"]}]},
+    "then": "Ibn Kathir says the angel of death is a specific angel, and he has helpers. After death comes {idea}the return to your Lord{/idea} on the Day of resurrection, {reward}to receive reward{/reward} or punishment.",
+    "now": "You plan the next five years: the flat, the promotion, the kids' schools. One appointment is not in your calendar, and it is already set. {idea}It is not an ending, it is a return.{/idea}",
+    "old": "Death is something I will think about when I am old.",
+    "new": "An angel is already assigned to me, and after him I go home to my Lord.",
+    "try": "Spend two quiet minutes today thinking about meeting Allah, then pray your next prayer with that in mind.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:12", "surah": 32, "ayah": 12, "place": "makkah",
+    "title": "Heads bowed: now we see, send us back.",
+    "subtitle": "Certainty that arrives too late",
+    "picture": {"kind": "boxes", "label": "Their plea", "row": [
+      {"box": "trap", "title": "heads hanging", "sub": ["in shame"]},
+      {"box": "people", "title": "we have seen and heard", "sub": ["now we are certain"]},
+      {"box": "trap", "title": "send us back", "sub": ["we will do good"]}]},
+    "key": {"label": "When certainty helps", "row": [
+      {"box": "trap", "title": "certain on that Day", "sub": ["too late"], "strike": true},
+      {"box": "reward", "title": "certain today", "sub": ["still time to act"]}]},
+    "then": "Ibn Kathir describes the deniers standing before Allah {trap}with heads bowed in shame{/trap}, asking to be sent back. But Allah knows that if they were returned, {trap}they would behave as before{/trap}.",
+    "now": "Every one of us has said: if I could go back, I would do it differently. The exam, the argument, the years with a parent. {reward}You are still in the go back part.{/reward} Today is the chance they ask for.",
+    "old": "There will be time later to get serious.",
+    "new": "The chance others will beg for is the day I am living now.",
+    "try": "Do one good deed today that you would wish you had done if it were your last day.",
+    "related": ["19:38", "67:10", "6:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:13", "surah": 32, "ayah": 13, "place": "makkah",
+    "title": "He could have forced guidance on every soul. He did not.",
+    "subtitle": "Guidance is offered, and the choice is real",
+    "picture": {"kind": "boxes", "label": "What Allah could have done", "row": [
+      {"box": "idea", "title": "if He willed", "sub": ["every soul guided"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "His Word stands", "sub": ["the choice has weight"]}]},
+    "key": {"label": "What choice means", "row": [
+      {"box": "people", "title": "it does not matter what I choose", "sub": ["it is all decided"], "strike": true},
+      {"box": "idea", "title": "my choice is real", "sub": ["and it carries weight"]}]},
+    "then": "Ibn Kathir links this to 10:99: had your Lord willed, {idea}everyone on earth would have believed{/idea}. But His Word took effect, and the abode of those who chose denial is Hell. He adds: {reward}we seek refuge with Allah from that{/reward}.",
+    "now": "It is easy to say: if Allah wanted me to pray, I would feel like it. {idea}He did not make you a machine.{/idea} The choice to stand up and pray is yours, and it means something because it is yours.",
+    "old": "If Allah wanted me guided, I would already be.",
+    "new": "Allah gave me a real choice, and He is waiting for me to use it.",
+    "try": "Say: I seek refuge with Allah from the Fire, and choose one good act right after.",
+    "related": ["10:99"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:14", "surah": 32, "ayah": 14, "place": "makkah",
+    "title": "You forgot this Day, so you are treated as forgotten.",
+    "subtitle": "What forgetting the meeting costs",
+    "picture": {"kind": "boxes", "label": "Cause and result", "row": [
+      {"box": "trap", "title": "forgot the meeting", "sub": ["acted as if it would not come"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "treated as forgotten", "sub": ["the deed returns"]}]},
+    "key": {"label": "What forgetting is", "row": [
+      {"box": "people", "title": "an innocent lapse", "sub": ["I just did not think"], "strike": true},
+      {"box": "trap", "title": "a choice to ignore", "sub": ["acting as if it is not real"]}]},
+    "then": "Ibn Kathir says they {trap}tried to forget the Day and acted as if they had{/trap}. So they are dealt with as if forgotten, though nothing escapes Allah. He makes the result fit the deed.",
+    "now": "The reminder you swipe away. The verse you skip because it is uncomfortable. {idea}Forgetting can be a habit we build on purpose.{/idea} The cure is small: keep the Day in mind, a little, every day.",
+    "old": "Not thinking about the Hereafter is just how busy life works.",
+    "new": "Forgetting the meeting is a choice, and remembering it is too.",
+    "try": "Set one daily reminder on your phone that simply says: the meeting with Allah.",
+    "related": ["45:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

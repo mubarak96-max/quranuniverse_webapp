@@ -1,0 +1,218 @@
+[
+  {
+    "id": "45:1", "surah": 45, "ayah": 1, "place": "makkah",
+    "title": "Ha Mim again, at the door of a twin surah.",
+    "subtitle": "A pause before a surah of signs",
+    "picture": {"kind": "boxes", "label": "How it opens", "row": [
+      {"box": "idea", "title": "Ha Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "signs everywhere", "sub": ["sky, body, rain, wind"]}]},
+    "key": {"label": "What the letters ask", "row": [
+      {"box": "people", "title": "same as last time", "sub": ["I have seen these"], "strike": true},
+      {"box": "idea", "title": "listen again", "sub": ["a new surah follows"]}]},
+    "then": "Al-Jathiyah came right after Ad-Dukhan, and the two are so close they read like twins. It opens with the same letters, Ha and Mim. {idea}Their meaning is known to Allah.{/idea} What follows is a surah about the signs all around us.",
+    "now": "You saw Ha Mim at the start of the last surah too, and your eyes want to slide past. {idea}Treat each opening as a fresh knock at the door.{/idea} Something new is about to be said.",
+    "old": "I have seen these letters before, so I can skip them.",
+    "new": "Each time they appear, they ask me to stop and listen again.",
+    "try": "Before you read this surah, take one slow breath and say bismillah with attention.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:2", "surah": 45, "ayah": 2, "place": "makkah",
+    "title": "Sent down from the Mighty, the Wise.",
+    "subtitle": "Who the Book comes from",
+    "picture": {"kind": "boxes", "label": "The source", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the Almighty, the All-Wise"]},
+      {"conn": "sends down"},
+      {"box": "reward", "title": "the Book", "sub": ["revelation"]}]},
+    "key": {"label": "How to read it", "row": [
+      {"box": "people", "title": "an old text", "sub": ["interesting, optional"], "strike": true},
+      {"box": "idea", "title": "His words", "sub": ["mighty and wise"]}]},
+    "then": "The surah names its source straight away: the Book is {idea}a revelation from Allah, the Almighty, the All-Wise{/idea}. The Makkans had doubts about the Quran and about the Hereafter, and this surah answers them.",
+    "now": "A letter arrives from someone very important and very wise. You would read it slowly, more than once. {idea}This Book's Sender is greater than any of them.{/idea}",
+    "old": "The Quran is a good book among many.",
+    "new": "The Quran comes from the Mighty, the Wise, so I read it that way.",
+    "try": "Read one verse today as if it were a personal letter, and reread it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:3", "surah": 45, "ayah": 3, "place": "makkah",
+    "title": "The heavens and earth are full of signs for believers.",
+    "subtitle": "The first step: seeing with faith",
+    "picture": {"kind": "boxes", "label": "Where the signs are", "row": [
+      {"box": "plain", "title": "the heavens", "sub": ["above you"]},
+      {"box": "plain", "title": "the earth", "sub": ["beneath you"]},
+      {"conn": "are signs for"},
+      {"box": "people", "title": "believers", "sub": ["stage one"]}]},
+    "key": {"label": "What I see", "row": [
+      {"box": "people", "title": "scenery", "sub": ["a nice view"], "strike": true},
+      {"box": "idea", "title": "signs", "sub": ["pointing to the Maker"]}]},
+    "then": "Ibn Kathir says Allah {idea}directs His servants to contemplate His favours and His great power{/idea} in creating the heavens and earth and all kinds of creatures in them. He notes this is the first of three stages: signs for the believers.",
+    "now": "You take a photo of the sunset for your story and forget it. {idea}The same sky, looked at with faith, is a message.{/idea} The view is the same. The seeing changes.",
+    "old": "The sky is beautiful, and that is all it is.",
+    "new": "The sky is a sign, and faith is what lets me read it.",
+    "try": "Look up at the sky once today and say subhanallah before taking out your phone.",
+    "related": ["2:164"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:4", "surah": 45, "ayah": 4, "place": "makkah",
+    "title": "Your own body and every creature are signs.",
+    "subtitle": "The second step: certainty",
+    "picture": {"kind": "boxes", "label": "Closer to home", "row": [
+      {"box": "people", "title": "your creation", "sub": ["your own body"]},
+      {"box": "plain", "title": "moving creatures", "sub": ["birds, insects, sea life"]},
+      {"conn": "signs for"},
+      {"box": "idea", "title": "the certain", "sub": ["stage two"]}]},
+    "key": {"label": "The nearest sign", "row": [
+      {"box": "people", "title": "out there", "sub": ["somewhere far"], "strike": true},
+      {"box": "idea", "title": "in you", "sub": ["your heartbeat, your hands"]}]},
+    "then": "The signs come nearer: {idea}your own creation, and every moving creature spread on the earth{/idea}. Ibn Kathir lists angels, jinn, humans, animals, birds, insects and sea creatures. This time they are signs for {idea}people of certainty{/idea}, a higher stage.",
+    "now": "You cut your finger and two days later it has healed. You never told it how. A cat stretches on the windowsill. {idea}You are surrounded by signs, and you are one of them.{/idea}",
+    "old": "Signs are rare and dramatic.",
+    "new": "My own body is a sign, healing and breathing without my help.",
+    "try": "Put your hand on your chest for ten seconds today and thank Allah for your heartbeat.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:5", "surah": 45, "ayah": 5, "place": "makkah",
+    "title": "Night and day, rain and winds, for those who think.",
+    "subtitle": "The third step: understanding",
+    "picture": {"kind": "boxes", "label": "Signs that move", "row": [
+      {"box": "plain", "title": "night and day", "sub": ["one follows the other"]},
+      {"box": "reward", "title": "rain", "sub": ["called provision"]},
+      {"box": "plain", "title": "winds", "sub": ["turned every way"]},
+      {"conn": "for"},
+      {"box": "idea", "title": "people who reason", "sub": ["stage three"]}]},
+    "key": {"label": "The three stages", "row": [
+      {"box": "people", "title": "believe", "sub": ["verse 3"]},
+      {"box": "people", "title": "be certain", "sub": ["verse 4"]},
+      {"box": "idea", "title": "understand", "sub": ["verse 5, higher still"]}]},
+    "then": "Ibn Kathir says rain is called {reward}provision{/reward} because it produces all kinds of provision, reviving dry, dead earth. Winds turn north, south, east, west; some bring rain, some pollinate. He notes the verses rise {idea}from believers, to the certain, to those who understand{/idea}.",
+    "now": "The weather app says rain tomorrow. You groan about the commute. {idea}Somewhere a dry field is waiting for exactly that rain.{/idea} Thinking about it turns a nuisance into a sign.",
+    "old": "Weather is just something that happens to my plans.",
+    "new": "Rain and wind are provision being sent, if I think about it.",
+    "try": "Next time it rains, say the dua for rain or simply thank Allah for it.",
+    "related": ["2:164"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:6", "surah": 45, "ayah": 6, "place": "makkah",
+    "title": "After Allah's words, what will they believe?",
+    "subtitle": "If not this, then what",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "idea", "title": "Allah's verses", "sub": ["recited in truth"]},
+      {"conn": "if rejected"},
+      {"box": "trap", "title": "what else?", "sub": ["which speech after it"]}]},
+    "key": {"label": "What I trust", "row": [
+      {"box": "trap", "title": "any other voice", "sub": ["feeds, influencers"], "strike": true},
+      {"box": "idea", "title": "truth from the Truth", "sub": ["His verses first"]}]},
+    "then": "Ibn Kathir says the verses {idea}contain the truth from the Truth{/idea}, meaning Allah. So if people do not believe Allah's verses, {trap}what speech after that will they believe in?{/trap}",
+    "now": "You believe a stranger's video about diet, money and marriage within thirty seconds. You hold the Quran at arm's length. {trap}Notice whose words get your trust fastest.{/trap}",
+    "old": "I should be sceptical of religious claims but open to others.",
+    "new": "If I cannot trust His words, no other words deserve more trust.",
+    "try": "Before you check your feed tomorrow morning, read one verse first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:7", "surah": 45, "ayah": 7, "place": "makkah",
+    "title": "Woe to every sinful liar.",
+    "subtitle": "A heart shaped by lying",
+    "picture": {"kind": "boxes", "label": "Who this describes", "row": [
+      {"box": "trap", "title": "lies in speech", "sub": ["often"]},
+      {"box": "trap", "title": "swears a lot", "sub": ["to be believed"]},
+      {"box": "trap", "title": "sins openly", "sub": ["word and deed"]}]},
+    "key": {"label": "Small lies", "row": [
+      {"box": "people", "title": "harmless", "sub": ["just to get by"], "strike": true},
+      {"box": "trap", "title": "a habit", "sub": ["that blinds the heart"]}]},
+    "then": "Ibn Kathir describes the sinful liar as one {trap}who lies in his speech, often swears{/trap}, and commits and utters sinful acts and words, then disbelieves in Allah's verses. Lying is listed first.",
+    "now": "\"I'm five minutes away\" when you have not left. \"I swear it was not me.\" {trap}Each small lie makes the truth a little easier to ignore.{/trap}",
+    "old": "Little lies are just how everyday life works.",
+    "new": "A habit of lying makes it harder to hear the truth when it comes.",
+    "try": "Go one full day without a single small lie, even a polite one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:8", "surah": 45, "ayah": 8, "place": "makkah",
+    "title": "He hears the verses, then acts as if he did not.",
+    "subtitle": "Hearing without letting it in",
+    "picture": {"kind": "boxes", "label": "What happens", "row": [
+      {"box": "idea", "title": "verses recited", "sub": ["he hears them"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "persists", "sub": ["proud, unmoved"]},
+      {"box": "trap", "title": "as if unheard", "sub": ["no change"]}]},
+    "key": {"label": "Hearing and listening", "row": [
+      {"box": "people", "title": "I heard it", "sub": ["so I am fine"], "strike": true},
+      {"box": "idea", "title": "it changed me", "sub": ["that is listening"]}]},
+    "then": "Ibn Kathir says this person hears the verses recited, {trap}yet persists in his disbelief, denial, pride and rebellion{/trap}, as if he never heard them. The sound reached his ears. Nothing reached his heart.",
+    "now": "The imam's Friday reminder hits exactly your habit. You nod. By the car park you are back to normal. {trap}As if you had not heard.{/trap}",
+    "old": "Hearing a reminder counts as taking it in.",
+    "new": "A reminder I hear and do not act on is one I did not really hear.",
+    "try": "Take one line from the last talk or reminder you heard and act on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:9", "surah": 45, "ayah": 9, "place": "makkah",
+    "title": "He learns a verse and turns it into a joke.",
+    "subtitle": "Mocking what is sacred",
+    "picture": {"kind": "boxes", "label": "What he does", "row": [
+      {"box": "idea", "title": "learns a verse", "sub": ["knows something of it"]},
+      {"conn": "turns it into"},
+      {"box": "trap", "title": "a jest", "sub": ["ridicule"]}]},
+    "key": {"label": "Humour and the sacred", "row": [
+      {"box": "people", "title": "only a joke", "sub": ["no one is hurt"], "strike": true},
+      {"box": "trap", "title": "mockery", "sub": ["has a humiliating end"]}]},
+    "then": "Ibn Kathir says if this person {trap}learns anything from the Quran, he takes it as the subject of jest and ridicule{/trap}, and his punishment is humiliating, in return for mocking it. He notes the Prophet ﷺ forbade travelling with the Quran to enemy lands for fear it would be desecrated.",
+    "now": "A meme in the group chat turns a verse into a punchline. Everyone sends laughing faces. {idea}You do not have to send one too.{/idea}",
+    "old": "Laughing along with a religious joke is harmless.",
+    "new": "Allah's words are not material for jokes, even small ones.",
+    "try": "If you see a joke that mocks a verse, do not share it, and quietly say astaghfirullah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:10", "surah": 45, "ayah": 10, "place": "makkah",
+    "title": "What they earned and their allies will not help.",
+    "subtitle": "Two kinds of backup that fail",
+    "picture": {"kind": "boxes", "label": "What they relied on", "row": [
+      {"box": "reward", "title": "what they earned", "sub": ["wealth and children"], "strike": true},
+      {"box": "reward", "title": "their allies", "sub": ["false gods"], "strike": true},
+      {"conn": "avails"},
+      {"box": "trap", "title": "nothing", "sub": ["no help at all"]}]},
+    "key": {"label": "What I lean on", "row": [
+      {"box": "people", "title": "my savings, my people", "sub": ["they will cover me"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["the only real help"]}]},
+    "then": "Ibn Kathir says {trap}their wealth and children will not avail them{/trap}, nor will the false gods they worshipped besides Allah. Everything they built up as protection gives nothing on that Day.",
+    "now": "You keep a list in your head: the emergency fund, the cousin who is a lawyer, the friend with connections. {idea}All good things, and none of them is your real protector.{/idea}",
+    "old": "With enough money and the right contacts, I am covered.",
+    "new": "Money and contacts help here. Only Allah protects in the end.",
+    "try": "When you check your savings this week, also say: hasbiyallah, Allah is enough for me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:11", "surah": 45, "ayah": 11, "place": "makkah",
+    "title": "This is guidance.",
+    "subtitle": "Three words that sum up the Quran",
+    "picture": {"kind": "boxes", "label": "Two responses", "row": [
+      {"box": "idea", "title": "this is guidance", "sub": ["the Quran"]},
+      {"conn": "rejected leads to"},
+      {"box": "trap", "title": "a painful torment", "sub": ["severe and agonizing"]}]},
+    "key": {"label": "What the Quran is", "row": [
+      {"box": "people", "title": "a rulebook", "sub": ["things I can't do"], "strike": true},
+      {"box": "idea", "title": "guidance", "sub": ["directions home"]}]},
+    "then": "After describing the liar and the mocker, the verse sums it up. Ibn Kathir says {idea}this is guidance{/idea} refers to the Quran. Those who disbelieve in their Lord's verses face {trap}a painful, severe torment{/trap}.",
+    "now": "Your map app says: turn left. You can argue with it, but it knows the road. {idea}The Quran is guidance in that plain sense: directions.{/idea}",
+    "old": "The Quran is mostly about restrictions.",
+    "new": "The Quran is guidance, directions for getting where I need to go.",
+    "try": "Read one passage today asking only: what direction is this giving me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

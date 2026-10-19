@@ -1,0 +1,307 @@
+[
+  {
+    "id": "50:1", "surah": 50, "ayah": 1, "place": "makkah",
+    "title": "Qaf, and an oath by the glorious Quran.",
+    "subtitle": "A surah the Prophet ﷺ recited to crowds",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Qaf", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the glorious Quran", "sub": ["sworn by"]},
+      {"conn": "about"},
+      {"box": "idea", "title": "prophethood and return", "sub": ["the point to come"]}]},
+    "key": {"label": "How to meet it", "row": [
+      {"box": "people", "title": "skip to the clear part", "sub": [], "strike": true},
+      {"box": "idea", "title": "pause and listen", "sub": ["something weighty follows"]}]},
+    "then": "Surah Qaf opens with a single letter whose meaning is known to Allah. Then Allah swears by the {idea}glorious Quran,{/idea} which falsehood cannot reach. Umm Hisham said she memorized this surah from hearing the Prophet ﷺ recite it every Friday from the pulpit. {reward}He chose it for Eid and Friday crowds.{/reward}",
+    "now": "Friday, you are in the masjid, phone face down, khutbah starting. The first word is just a sound you do not understand. {idea}Instead of drifting, lean in.{/idea} The Prophet ﷺ wanted this surah heard again and again for a reason.",
+    "old": "If I do not understand a word, it is not for me.",
+    "new": "A letter I do not understand is a cue to stop and pay attention to what comes next.",
+    "try": "Listen to Surah Qaf once this week, start to finish, without doing anything else.",
+    "related": ["41:42", "38:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:2", "surah": 50, "ayah": 2, "place": "makkah",
+    "title": "They were amazed a warner came from among them.",
+    "subtitle": "When the messenger is too familiar to take seriously",
+    "picture": {"kind": "boxes", "label": "What surprised them", "row": [
+      {"box": "people", "title": "a man from among them", "sub": ["known, local, human"]},
+      {"conn": "brings"},
+      {"box": "idea", "title": "a warning", "sub": ["from Allah"]},
+      {"conn": "they say"},
+      {"box": "trap", "title": "a strange thing!", "sub": ["how can it be him?"]}]},
+    "key": {"label": "What is actually strange", "row": [
+      {"box": "people", "title": "a human messenger", "sub": ["that is odd"], "strike": true},
+      {"box": "idea", "title": "Allah chooses", "sub": ["from angels and humans"]}]},
+    "then": "Around the fifth year of prophethood in Makkah, opposition was rising. The Quraysh found it odd that {trap}a man they knew, one of their own,{/trap} should come with a warning. Ibn Kathir notes it is not strange: {idea}Allah chooses messengers as He wills.{/idea}",
+    "now": "Your younger cousin starts praying and gently reminds you about salah. Your first thought: who is he to tell me? {trap}Familiar faces are the easiest to dismiss.{/trap} {idea}Truth does not need a stranger's voice to be true.{/idea}",
+    "old": "I know this person too well to take their advice seriously.",
+    "new": "A reminder is not weaker because it comes from someone close and ordinary.",
+    "try": "Think of one reminder from a family member you brushed off. Reconsider it today.",
+    "related": ["10:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:3", "surah": 50, "ayah": 3, "place": "makkah",
+    "title": "After we are dust? That is a far return.",
+    "subtitle": "The doubt that says it is too hard to happen",
+    "picture": {"kind": "boxes", "label": "Their reasoning", "row": [
+      {"box": "people", "title": "we die", "sub": []},
+      {"conn": "then"},
+      {"box": "people", "title": "we become dust", "sub": ["scattered, gone"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "no return", "sub": ["too far to be real"]}]},
+    "key": {"label": "Far for whom", "row": [
+      {"box": "trap", "title": "impossible", "sub": ["the body is gone"], "strike": true},
+      {"box": "idea", "title": "far only to them", "sub": ["not to the One who made them"]}]},
+    "then": "Maududi notes what most surprised Makkah was the news of being raised after death. {trap}How could scattered dust become the same body again?{/trap} They called it a far return. The whole surah answers that doubt.",
+    "now": "You stand at a fresh grave, soil on your hands. A thought slips in: is this really it? {idea}The surah was sent for that exact moment.{/idea} It does not mock the question. It answers it.",
+    "old": "Once someone is buried and gone, it is hard to believe they will come back.",
+    "new": "What seems far to my mind is not far to Allah, and this surah gives the reasons.",
+    "try": "When you next think of someone who has died, make dua for them and remind yourself you will meet again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:4", "surah": 50, "ayah": 4, "place": "makkah",
+    "title": "Allah knows exactly what the earth takes from them.",
+    "subtitle": "Nothing scattered is lost to His record",
+    "picture": {"kind": "boxes", "label": "Where it goes", "row": [
+      {"box": "people", "title": "the body", "sub": ["flesh, bone, hair"]},
+      {"conn": "taken by"},
+      {"box": "plain", "title": "the earth", "sub": ["piece by piece"]},
+      {"conn": "known to"},
+      {"box": "idea", "title": "Allah", "sub": ["and a preserved Book"]}]},
+    "key": {"label": "What is lost", "row": [
+      {"box": "people", "title": "it is all gone", "sub": [], "strike": true},
+      {"box": "idea", "title": "all is recorded", "sub": ["kitabun hafiz"]}]},
+    "then": "This is the reply to the far return. Ibn Abbas said it means {idea}what the earth consumes of their flesh, skin, bones and hair.{/idea} Where every part went and what it became is never absent from Allah's knowledge, and {idea}a preserved Book keeps it all.{/idea}",
+    "now": "You lose old photos when a phone breaks, and it feels like part of your past is gone. You forget a grandparent's voice. {idea}Nothing is lost with Allah, not one hair.{/idea} The same knowing holds your deeds, your tears, your people.",
+    "old": "Once something is gone and scattered, it is gone for good.",
+    "new": "Allah knows where every scattered piece went, so nothing and no one is truly lost.",
+    "try": "Write down one kindness someone who has died once did for you, and make dua for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:5", "surah": 50, "ayah": 5, "place": "makkah",
+    "title": "They rejected the truth, so now they are confused.",
+    "subtitle": "What happens inside after saying no to truth",
+    "picture": {"kind": "boxes", "label": "The order", "row": [
+      {"box": "idea", "title": "the truth came", "sub": []},
+      {"conn": "they denied it"},
+      {"box": "trap", "title": "a confused state", "sub": ["marij, mixed up"]}]},
+    "key": {"label": "Which comes first", "row": [
+      {"box": "people", "title": "confused, so I doubt", "sub": [], "strike": true},
+      {"box": "trap", "title": "denied, so confused", "sub": ["the rejection came first"]}]},
+    "then": "Allah names the real reason behind their doubt about resurrection. {trap}They denied the truth when it reached them,{/trap} and after that they were left in a muddled state. Ibn Kathir explains this as the root of their disbelief and of calling the possible impossible.",
+    "now": "You know a habit is wrong, but you keep it, and then you start collecting reasons why it is fine. A few months later you honestly cannot tell what you believe. {trap}Saying no to what you knew blurs everything else.{/trap}",
+    "old": "I am confused, so I cannot be blamed for what I do.",
+    "new": "Sometimes the confusion comes after I pushed away something I already knew was true.",
+    "try": "Name one thing you know is right but keep avoiding. Take the smallest first step toward it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:6", "surah": 50, "ayah": 6, "place": "makkah",
+    "title": "Look up: a sky built, adorned, without a crack.",
+    "subtitle": "The first proof, hanging over your head",
+    "picture": {"kind": "boxes", "label": "The sky", "row": [
+      {"box": "idea", "title": "built", "sub": ["structured above you"]},
+      {"box": "idea", "title": "adorned", "sub": ["with lamps"]},
+      {"box": "idea", "title": "no rifts", "sub": ["no cracks, no flaws"]}]},
+    "key": {"label": "Which is bigger", "row": [
+      {"box": "people", "title": "raising the dead", "sub": ["too hard"], "strike": true},
+      {"box": "idea", "title": "making the sky", "sub": ["already done, and greater"]}]},
+    "then": "Answering those who said resurrection was too far, Allah points to something greater they already see. {idea}Look at the sky: built, decorated with lamps, without a single rift.{/idea} Ibn Kathir links it to 67:3-4: look again and again, your sight returns tired, finding no flaw.",
+    "now": "You step out of the car at night after a long day, head full of worries. For once, look up. {idea}The One who holds that up without a crack can handle what you are carrying,{/idea} and can bring back what has died.",
+    "old": "The sky is just there, it does not tell me anything.",
+    "new": "A flawless sky above me is proof that bringing me back is easy for its Maker.",
+    "try": "Tonight, step outside and look at the sky for one full minute, saying SubhanAllah.",
+    "related": ["67:3", "40:57"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:7", "surah": 50, "ayah": 7, "place": "makkah",
+    "title": "An earth spread out, held firm, full of beauty.",
+    "subtitle": "The ground under you as a second proof",
+    "picture": {"kind": "boxes", "label": "The earth", "row": [
+      {"box": "idea", "title": "spread out", "sub": ["wide and livable"]},
+      {"box": "idea", "title": "mountains", "sub": ["keep it from shaking"]},
+      {"box": "reward", "title": "lovely pairs", "sub": ["every kind of plant"]}]},
+    "key": {"label": "What I see", "row": [
+      {"box": "people", "title": "just the ground", "sub": ["background"], "strike": true},
+      {"box": "reward", "title": "bahij", "sub": ["a beautiful scene, made"]}]},
+    "then": "After the sky, the earth. Ibn Kathir explains {idea}Allah spread it wide and set mountains so it would not shake with its people,{/idea} then grew every kind of plant and fruit. Bahij means a beautiful scene. {reward}Beauty itself is part of the argument.{/reward}",
+    "now": "A walk to the bus stop past a patch of weeds with tiny purple flowers. A balcony pot that finally bloomed. You barely glance. {reward}Every one of those was planted on purpose.{/reward}",
+    "old": "Nature is just scenery while I get on with life.",
+    "new": "The ground I walk on and the plants on it are made with care, and they point to their Maker.",
+    "try": "On your next walk, stop by one plant or tree and notice it properly for thirty seconds.",
+    "related": ["51:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:8", "surah": 50, "ayah": 8, "place": "makkah",
+    "title": "These signs open the eyes of those who turn back.",
+    "subtitle": "Who actually gets the lesson from creation",
+    "picture": {"kind": "boxes", "label": "What creation gives", "row": [
+      {"box": "idea", "title": "sky and earth", "sub": ["seen by everyone"]},
+      {"conn": "become"},
+      {"box": "reward", "title": "insight, reminder", "sub": ["tabsirah, dhikra"]},
+      {"conn": "for"},
+      {"box": "people", "title": "the one who turns", "sub": ["munib, returning"]}]},
+    "key": {"label": "Why some see it", "row": [
+      {"box": "people", "title": "needs more proof", "sub": [], "strike": true},
+      {"box": "idea", "title": "needs a turning heart", "sub": ["then the proof is everywhere"]}]},
+    "then": "Ibn Kathir says looking at the heavens and earth gives {idea}insight, proof and a lesson{/idea} for every servant who submits humbly and turns to Allah. The same sky stood over those who denied. {reward}The heart that turns back is the one that sees.{/reward}",
+    "now": "Two people watch the same sunrise from a hospital window. One sees nothing. The other quietly says Alhamdulillah. {idea}The view is the same. The heart is different.{/idea}",
+    "old": "If the signs were clearer, I would feel more faith.",
+    "new": "The signs are already clear; turning toward Allah is what lets me see them.",
+    "try": "Say a short sorry to Allah today for one thing, then look at the sky again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:9", "surah": 50, "ayah": 9, "place": "makkah",
+    "title": "Blessed rain sent down, and gardens and grain grow.",
+    "subtitle": "The everyday water behind your food",
+    "picture": {"kind": "boxes", "label": "From the sky to the plate", "row": [
+      {"box": "reward", "title": "blessed rain", "sub": ["beneficial water"]},
+      {"conn": "grows"},
+      {"box": "reward", "title": "gardens", "sub": []},
+      {"box": "reward", "title": "grain", "sub": ["harvested and stored"]}]},
+    "key": {"label": "What rain is", "row": [
+      {"box": "people", "title": "bad weather", "sub": ["ruins my plans"], "strike": true},
+      {"box": "reward", "title": "blessed water", "sub": ["mubarak, sent down"]}]},
+    "then": "Continuing the signs, Allah describes rain as {reward}blessed water,{/reward} meaning beneficial. With it He grows gardens and {reward}grain that is harvested for food and stored for later.{/reward} The Makkans, in a dry valley, knew how precious rain was.",
+    "now": "It rains on your commute and you sigh, umbrella forgotten again. Meanwhile somewhere a field drinks it in, and in months it is the bread on your table. {reward}The drizzle on your coat is part of your provision.{/reward}",
+    "old": "Rain is a nuisance that wrecks my day.",
+    "new": "Rain is a blessing sent down that ends up as my food.",
+    "try": "Next time it rains, make dua instead of complaining. Rain is a good time to ask.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:10", "surah": 50, "ayah": 10, "place": "makkah",
+    "title": "Tall palms with fruit stacked in neat layers.",
+    "subtitle": "Order and abundance in a single tree",
+    "picture": {"kind": "boxes", "label": "The palm", "row": [
+      {"box": "idea", "title": "tall", "sub": ["basiqat, reaching high"]},
+      {"conn": "carrying"},
+      {"box": "reward", "title": "clusters", "sub": ["arranged in layers"]}]},
+    "key": {"label": "How it got there", "row": [
+      {"box": "people", "title": "it just grew", "sub": [], "strike": true},
+      {"box": "idea", "title": "it was arranged", "sub": ["fruit set in order"]}]},
+    "then": "For people in Arabia, the date palm was food, shade and wealth. Allah points to {idea}tall palms{/idea} whose fruit comes {reward}in neatly arranged clusters.{/reward} Ibn Abbas and others explained basiqat as tall and high. A familiar tree is turned into a sign.",
+    "now": "You grab a box of dates at the shop before Ramadan without a second look. Each one hung in a cluster, layer on layer, at the top of a tall trunk. {reward}Order and sweetness, delivered.{/reward}",
+    "old": "Food comes from the supermarket.",
+    "new": "Even the dates in my cupboard were arranged on a tree by Allah.",
+    "try": "Eat a date today slowly, and thank Allah by name for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:11", "surah": 50, "ayah": 11, "place": "makkah",
+    "title": "Dead land comes alive, and so will the dead.",
+    "subtitle": "The rain argument for resurrection",
+    "picture": {"kind": "boxes", "label": "What rain shows", "row": [
+      {"box": "people", "title": "dead land", "sub": ["barren, no green"]},
+      {"conn": "rain falls"},
+      {"box": "reward", "title": "alive again", "sub": ["green, swelling, flowering"]},
+      {"conn": "likewise"},
+      {"box": "idea", "title": "the Resurrection", "sub": ["kadhalika al-khuruj"]}]},
+    "key": {"label": "Where proof is", "row": [
+      {"box": "people", "title": "never seen it happen", "sub": [], "strike": true},
+      {"box": "idea", "title": "see it every spring", "sub": ["the same power"]}]},
+    "then": "The signs lead to the point. Rain gives provision and {reward}brings dead land back to life.{/reward} Ibn Kathir says land without greenery is stirred and turns green, and {idea}this is proof Allah resurrects the dead.{/idea} He cites 41:39 with the same image.",
+    "now": "A brown park in late summer, then a week of rain, then green everywhere. You have watched resurrection on a small scale your whole life. {idea}Coming back is something you have already seen.{/idea}",
+    "old": "Being raised from death is something no one has ever seen.",
+    "new": "I see dead ground come alive every year, and that is the same power that will raise me.",
+    "try": "Find one patch of ground near you that turned green after rain, and let it remind you of the return.",
+    "related": ["41:39", "46:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:12", "surah": 50, "ayah": 12, "place": "makkah",
+    "title": "Nuh's people, the Well, and Thamud denied before them.",
+    "subtitle": "Quraysh were not the first to say no",
+    "picture": {"kind": "boxes", "label": "Before Makkah", "row": [
+      {"box": "people", "title": "people of Nuh", "sub": ["the flood"]},
+      {"box": "people", "title": "people of Rass", "sub": ["the well"]},
+      {"box": "people", "title": "Thamud", "sub": []},
+      {"conn": "all"},
+      {"box": "trap", "title": "denied", "sub": ["their messenger"]}]},
+    "key": {"label": "This pattern", "row": [
+      {"box": "people", "title": "our case is new", "sub": [], "strike": true},
+      {"box": "trap", "title": "an old story", "sub": ["denial, then consequence"]}]},
+    "then": "Allah now reminds Quraysh of nations before them who denied. {trap}The people of Nuh, the dwellers of Rass, and Thamud{/trap} each rejected the messenger sent to them. Ibn Kathir says this was a warning to those in Makkah hearing it, who were doing the same thing.",
+    "now": "You read about these nations and it feels like ancient history. But the same pattern can run in you: a clear reminder, and the quick reflex to wave it away. {idea}The lesson is about your reflex, not their names.{/idea}",
+    "old": "These stories are about other people long ago.",
+    "new": "These stories are mirrors for how I respond to a reminder today.",
+    "try": "The next reminder you get today, from a verse, a friend, or your own conscience, answer it instead of brushing it off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:13", "surah": 50, "ayah": 13, "place": "makkah",
+    "title": "And Ad, and Pharaoh, and the brothers of Lut.",
+    "subtitle": "Strength, power and pleasure did not protect them",
+    "picture": {"kind": "boxes", "label": "More who denied", "row": [
+      {"box": "people", "title": "Ad", "sub": ["a strong people"]},
+      {"box": "people", "title": "Pharaoh", "sub": ["a ruler"]},
+      {"box": "people", "title": "brothers of Lut", "sub": ["Sodom and around it"]},
+      {"conn": "all"},
+      {"box": "trap", "title": "denied", "sub": []}]},
+    "key": {"label": "What did not save them", "row": [
+      {"box": "people", "title": "strength, power, status", "sub": ["we are safe"], "strike": true},
+      {"box": "idea", "title": "only answering the call", "sub": ["saves"]}]},
+    "then": "The list continues with {trap}Ad, Pharaoh, and the people of Lut.{/trap} Ibn Kathir says Lut's people were in Sodom and the areas around it, and the earth was overturned beneath them. Each held some kind of power or comfort, and none of it helped once they denied.",
+    "now": "You feel secure: a decent salary, good health, people who respect you. It is easy to think warnings are for someone weaker. {idea}None of these nations were weak.{/idea} What you have is a trust, not a shield.",
+    "old": "With what I have built, I am safe.",
+    "new": "Strength and position never protected anyone who turned away from the truth.",
+    "try": "Thank Allah for one thing that makes you feel secure, and ask Him to keep you from relying on it instead of Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:14", "surah": 50, "ayah": 14, "place": "makkah",
+    "title": "All denied the messengers, so the warning came true.",
+    "subtitle": "Denying one messenger is denying them all",
+    "picture": {"kind": "boxes", "label": "The end of the list", "row": [
+      {"box": "people", "title": "people of the thicket", "sub": ["Shu'ayb's people"]},
+      {"box": "people", "title": "people of Tubba'", "sub": ["a king of Yemen"]},
+      {"conn": "all denied"},
+      {"box": "trap", "title": "the threat took effect", "sub": ["haqqa wa'id"]}]},
+    "key": {"label": "One or all", "row": [
+      {"box": "people", "title": "just one messenger", "sub": ["not a big deal"], "strike": true},
+      {"box": "trap", "title": "all the messengers", "sub": ["same message, same denial"]}]},
+    "then": "Last on the list are {trap}the people of the thicket, Shu'ayb's nation, and the people of Tubba', a king of Yemen.{/trap} Ibn Kathir notes that whoever denies one messenger has denied them all, because they all carried one message. Then {trap}the warning was fulfilled.{/trap}",
+    "now": "You accept the parts of the deen that are easy and quietly skip the parts that cost you. You think you are just picking. {idea}The message comes whole.{/idea} Turning down one part tends to loosen the rest.",
+    "old": "I can take what suits me and leave the rest.",
+    "new": "The message is one, so ignoring part of it is closer to ignoring all of it than I think.",
+    "try": "Pick one teaching you have been quietly skipping and learn more about it today.",
+    "related": ["26:105"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "50:15", "surah": 50, "ayah": 15, "place": "makkah",
+    "title": "Was He tired by the first creation?",
+    "subtitle": "Making you once is harder than making you again",
+    "picture": {"kind": "boxes", "label": "Which is harder", "row": [
+      {"box": "idea", "title": "first creation", "sub": ["from nothing"]},
+      {"conn": "done, without fatigue"},
+      {"box": "idea", "title": "new creation", "sub": ["repeating is easier"]},
+      {"conn": "yet they"},
+      {"box": "trap", "title": "confused doubt", "sub": ["labs"]}]},
+    "key": {"label": "The real question", "row": [
+      {"box": "people", "title": "can He bring me back?", "sub": [], "strike": true},
+      {"box": "idea", "title": "He already made me", "sub": ["from nothing"]}]},
+    "then": "Allah asks those who doubt: {idea}were We tired by creating you the first time?{/idea} Ibn Kathir says starting creation did not tire Him, and repeating it is easier, citing 30:27 and 36:78-79. {trap}Yet they stay in confusion about a new creation.{/trap}",
+    "now": "You look at a newborn in the maternity ward, a whole person who did not exist a year ago. {idea}Making that from nothing is the hard part, and it is already done.{/idea} Coming back is the easier step.",
+    "old": "Being brought back after death sounds harder than being born.",
+    "new": "I was made from nothing, so being remade is easier, not harder, for Allah.",
+    "try": "Look at a baby photo of yourself today and remember: the One who began you will bring you back.",
+    "related": ["30:27", "36:78"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

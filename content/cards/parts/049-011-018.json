@@ -1,0 +1,167 @@
+[
+  {
+    "id": "49:11", "surah": 49, "ayah": 11, "place": "madinah",
+    "title": "The one you laugh at may be better than you.",
+    "subtitle": "Mockery, digs, and names people hate",
+    "picture": {"kind": "boxes", "label": "Three ways to belittle", "row": [
+      {"box": "trap", "title": "mocking", "sub": ["a group laughs at another"]},
+      {"box": "trap", "title": "defaming", "sub": ["digs in words and gestures"]},
+      {"box": "trap", "title": "bad nicknames", "sub": ["names they dislike"]},
+      {"conn": "yet"},
+      {"box": "idea", "title": "perhaps they are better", "sub": ["in Allah's sight"]}]},
+    "key": {"label": "Who is lower", "row": [
+      {"box": "people", "title": "they are a joke", "sub": ["I am above that"], "strike": true},
+      {"box": "reward", "title": "maybe dearer to Allah", "sub": ["than the one laughing"]}]},
+    "then": "Abu Jabirah said this was revealed about Banu Salamah. When the Prophet ﷺ came to Madinah, many of them had two or three nicknames. {trap}He would call a man by one and be told, he hates that name.{/trap} Ibn Kathir links mockery to the hadith: arrogance is rejecting truth and {trap}belittling people.{/trap}",
+    "now": "The nickname from school that still sticks at family weddings. The office group that has a running joke about one colleague's accent. The meme you share about someone's weight. {idea}The person in the joke may be closer to Allah than everyone laughing.{/idea}",
+    "old": "It is just banter, they know I do not mean it.",
+    "new": "If they dislike the name or the joke, it is not banter, and they may be better than me.",
+    "try": "Stop using one nickname today that someone has ever winced at. Call them by their real name.",
+    "related": ["104:1", "68:11", "4:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:12", "surah": 49, "ayah": 12, "place": "madinah",
+    "title": "Suspicion, spying, backbiting: three steps down one road.",
+    "subtitle": "How a bad guess becomes a feast on someone's honor",
+    "picture": {"kind": "boxes", "label": "The road", "row": [
+      {"box": "trap", "title": "suspicion", "sub": ["a bad guess"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "spying", "sub": ["checking to confirm it"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "backbiting", "sub": ["telling others"]}]},
+    "key": {"label": "But it is true", "row": [
+      {"box": "people", "title": "it is true, so fine", "sub": ["I am only reporting"], "strike": true},
+      {"box": "trap", "title": "that is backbiting", "sub": ["if false, it is slander"]}]},
+    "then": "The Prophet ﷺ was asked what backbiting is. {trap}Mentioning your brother in a way he dislikes,{/trap} he said, and if it is untrue it is slander. Umar said never think ill of a believer's word while you can find a good excuse for it. The verse ends with hope: {reward}Allah accepts repentance and is Merciful.{/reward}",
+    "now": "Your colleague leaves early three days in a row. You guess why, check their social media, then mention it over lunch. {trap}Each step felt small.{/trap} {idea}The verse asks you to stop at the first one: a kinder guess.{/idea}",
+    "old": "I am not lying, I am just saying what I noticed.",
+    "new": "Saying true things someone would hate to hear behind their back is still eating at their honor.",
+    "try": "The next time you start to speak about someone absent, ask: would I say this with them here? If not, change topic.",
+    "related": ["12:87"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:13", "surah": 49, "ayah": 13, "place": "madinah",
+    "title": "Different peoples so you can know each other, not rank.",
+    "subtitle": "One father, one mother, one measure of honor",
+    "picture": {"kind": "boxes", "label": "Where everyone comes from", "row": [
+      {"box": "people", "title": "Adam and Hawwa", "sub": ["one male, one female"]},
+      {"conn": "then"},
+      {"box": "people", "title": "nations and tribes", "sub": ["many names, many lands"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "you know one another", "sub": ["not look down"]}]},
+    "key": {"label": "What makes someone honorable", "row": [
+      {"box": "people", "title": "family, tribe, wealth", "sub": ["who your father is"], "strike": true},
+      {"box": "reward", "title": "taqwa", "sub": ["Allah sees hearts and deeds"]}]},
+    "then": "Right after forbidding mockery and backbiting, Allah reminds all people they come from Adam and Hawwa. On the day Makkah was conquered, the Prophet ﷺ said Allah had {trap}removed the pride of Jahiliyyah in forefathers.{/trap} Allah does not look at forms or wealth, but at {idea}hearts and deeds.{/idea}",
+    "now": "A rishta conversation where the first question is which family, which tribe, which country. A workplace where some accents get promoted. A joke at a barbecue about another nationality. {idea}Names and flags are for recognizing each other.{/idea} {reward}Honor is measured somewhere else.{/reward}",
+    "old": "Where I come from says something about how much I am worth.",
+    "new": "My people and background help others know me, but my worth with Allah is only my taqwa.",
+    "try": "Learn one real thing today about a colleague or neighbor from a different background. Ask them, and listen.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:14", "surah": 49, "ayah": 14, "place": "madinah",
+    "title": "You submitted, but faith has not fully entered yet.",
+    "subtitle": "Honest about where you are, with nothing lost",
+    "picture": {"kind": "boxes", "label": "Two grades", "row": [
+      {"box": "people", "title": "Islam", "sub": ["we have submitted"]},
+      {"conn": "growing into"},
+      {"box": "idea", "title": "Iman", "sub": ["faith settled in the heart"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "no deed reduced", "sub": ["if you obey"]}]},
+    "key": {"label": "The claim", "row": [
+      {"box": "people", "title": "we have believed", "sub": ["the full grade, already"], "strike": true},
+      {"box": "idea", "title": "we have submitted", "sub": ["true, and still growing"]}]},
+    "then": "Some bedouins accepted Islam and at once claimed the rank of full believers. Ibn Kathir says {idea}they were not hypocrites,{/idea} only Muslims in whose hearts faith had not yet settled. They were told to claim what was true. {reward}Obey, and not one deed of yours will be cut short.{/reward}",
+    "now": "You just started praying again, or you are new to Islam, and someone online asks if you are a strong believer. You feel you have to say yes. {idea}It is fine to say: I am trying, I am on the way.{/idea} {reward}Nothing you do is wasted while you grow.{/reward}",
+    "old": "If my faith is not strong yet, my effort does not really count.",
+    "new": "I can be honest about how far I have come, and every act of obedience is still fully counted.",
+    "try": "Tell Allah honestly in your next prayer where your faith is right now, and ask Him to make it enter your heart.",
+    "related": ["52:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:15", "surah": 49, "ayah": 15, "place": "madinah",
+    "title": "The truthful believers: no doubt, and they give.",
+    "subtitle": "What faith looks like when it is real",
+    "picture": {"kind": "boxes", "label": "The marks", "row": [
+      {"box": "idea", "title": "believed", "sub": ["in Allah and His Messenger"]},
+      {"box": "idea", "title": "then no doubt", "sub": ["faith not shaken"]},
+      {"box": "idea", "title": "strive", "sub": ["with wealth and life"]},
+      {"conn": "so they are"},
+      {"box": "reward", "title": "the truthful", "sub": ["their claim matches"]}]},
+    "key": {"label": "Proof of the claim", "row": [
+      {"box": "people", "title": "saying I believe", "sub": ["words only"], "strike": true},
+      {"box": "reward", "title": "giving what is precious", "sub": ["gladly, for His sake"]}]},
+    "then": "After the bedouins' claim, Allah describes who the real believers are. Ibn Kathir says {idea}their faith stayed firm, without doubt,{/idea} and they gladly gave their lives and their most precious wealth seeking His pleasure. {reward}They are truthful when they say they believe.{/reward}",
+    "now": "Payday comes and you think about the charity you said you would give. Or a hard test comes, a diagnosis, a job loss, and your faith wobbles. {idea}The verse shows what steadies it: no going back on trust, and giving what you love.{/idea}",
+    "old": "Believing is mostly something I feel and say.",
+    "new": "Faith proves itself when I stay sure under pressure and give from what I value.",
+    "try": "Give something today, money, time, or effort, that you would rather keep, quietly, for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:16", "surah": 49, "ayah": 16, "place": "madinah",
+    "title": "Would you tell Allah about your own religion?",
+    "subtitle": "He already knows what is in your heart",
+    "picture": {"kind": "boxes", "label": "Who informs whom", "row": [
+      {"box": "people", "title": "the bedouins", "sub": ["we believe, trust us"]},
+      {"conn": "telling"},
+      {"box": "idea", "title": "Allah", "sub": ["knows heavens and earth"]},
+      {"conn": "who knows"},
+      {"box": "idea", "title": "every speck", "sub": ["and every heart"]}]},
+    "key": {"label": "The audience", "row": [
+      {"box": "people", "title": "I must convince", "sub": ["prove my faith out loud"], "strike": true},
+      {"box": "idea", "title": "He already knows", "sub": ["work on the heart instead"]}]},
+    "then": "The bedouins kept insisting they had believed. {idea}Allah asks: will you inform Me of your religion?{/idea} Ibn Kathir says nothing in the heavens and earth escapes Him, not even a speck of dust. {trap}Announcing faith adds nothing to what He already sees.{/trap}",
+    "now": "You post about your fast, your Quran streak, your umrah trip. Or you argue hard to prove you are a good Muslim to a relative. {idea}The One who matters already knows exactly where you stand.{/idea} Talk less about it, tend it more.",
+    "old": "People need to know how religious I am.",
+    "new": "Allah already knows my heart, so my energy goes into improving it, not announcing it.",
+    "try": "Do one good deed today that no one will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:17", "surah": 49, "ayah": 17, "place": "madinah",
+    "title": "Your Islam is not a favor you did anyone.",
+    "subtitle": "Who owes whom for guidance",
+    "picture": {"kind": "boxes", "label": "The claim", "row": [
+      {"box": "people", "title": "Banu Asad", "sub": ["we never fought you"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "you owe us", "sub": ["our Islam is a favor"]}]},
+    "key": {"label": "Who did the favor", "row": [
+      {"box": "people", "title": "I did Islam a favor", "sub": ["by joining"], "strike": true},
+      {"box": "reward", "title": "Allah favored you", "sub": ["by guiding you"]}]},
+    "then": "Ibn Abbas said Banu Asad came and told the Prophet ﷺ: we embraced Islam, and unlike other Arabs we never fought you. {trap}They counted their Islam as a favor to him.{/trap} The reply: {reward}Allah did you the favor by guiding you.{/reward} At Hunayn the Ansar answered the same way: Allah and His Messenger favored us.",
+    "now": "You volunteer at the mosque every week and feel the committee should be more grateful. You pray, so you think Allah owes you an easy year. {idea}The ability to do any of it was given to you first.{/idea}",
+    "old": "After all I do for the deen, I deserve some credit.",
+    "new": "That I can serve at all is the favor, and it was done to me.",
+    "try": "Before your next prayer, thank Allah for one specific moment He guided you back.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "49:18", "surah": 49, "ayah": 18, "place": "madinah",
+    "title": "He knows the unseen and sees what you do.",
+    "subtitle": "The last line of a surah about manners",
+    "picture": {"kind": "boxes", "label": "What He knows", "row": [
+      {"box": "idea", "title": "the unseen", "sub": ["of heavens and earth"]},
+      {"box": "idea", "title": "what you do", "sub": ["Al-Basir sees it"]},
+      {"conn": "including"},
+      {"box": "people", "title": "your private manners", "sub": ["voice, words, guesses"]}]},
+    "key": {"label": "When manners count", "row": [
+      {"box": "people", "title": "in public", "sub": ["when people watch"], "strike": true},
+      {"box": "idea", "title": "always", "sub": ["He is always seeing"]}]},
+    "then": "The surah ends where it began: Allah hears, knows, and sees. It started with not rushing ahead of Him and {idea}ends reminding that He knows the unseen and sees all you do.{/idea} Every manner taught in between, voice, verifying, peace, no mockery, is done before His sight.",
+    "now": "Alone in your car, alone with your phone, alone with a thought about someone. The manners of this surah are easy in a crowded room. {idea}They are real when no one but He is there.{/idea}",
+    "old": "What I do privately is between me and no one.",
+    "new": "Private is not unseen, so my manners do not switch off when the room empties.",
+    "try": "Pick one manner from this surah and keep it tonight when you are alone, like no suspicious thoughts about anyone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

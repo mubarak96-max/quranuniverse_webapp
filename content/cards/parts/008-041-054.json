@@ -1,0 +1,291 @@
+[
+  {
+    "id": "8:41", "surah": 8, "ayah": 41, "place": "madinah",
+    "title": "Even the spoils of war carried a share for others.",
+    "subtitle": "Even a win carries other people's share",
+    "picture": {"kind": "boxes", "label": "The one fifth", "row": [
+      {"box": "idea", "title": "Allah and the Messenger ﷺ", "sub": ["one share"]},
+      {"box": "people", "title": "his relatives", "sub": ["who stood by him"]},
+      {"box": "people", "title": "orphans", "sub": []},
+      {"box": "people", "title": "the needy", "sub": []},
+      {"box": "people", "title": "the traveler", "sub": ["stranded, without means"]}]},
+    "key": {"label": "Whose is it", "row": [
+      {"box": "trap", "title": "I won it", "sub": ["all of it is mine"], "strike": true},
+      {"box": "idea", "title": "part is theirs", "sub": ["even the needle and thread"]}]},
+    "then": "The surah returns to the question it opened with: the spoils. One fifth was set aside, with shares named for the Prophet's ﷺ relatives, orphans, the needy and the stranded traveler. The Prophet ﷺ said: {trap}hand over even the needle and the thread,{/trap} and told one man that {idea}even an arrow pulled from your own side gives you no more right to it than your brother.{/idea}",
+    "now": "The bonus lands. The business has its best quarter. The house sells above asking. {idea}Before it all gets spent, remember the orphan, the neighbor who is short, the traveler stuck far from home.{/idea} Their share was written into the win.",
+    "old": "I worked for this. It's all mine.",
+    "new": "What I gain is not only mine. Others have a share in what Allah gives me.",
+    "try": "From your next income, set aside a small portion first for someone in need, before anything else.",
+    "related": ["3:161"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:42", "surah": 8, "ayah": 42, "place": "madinah",
+    "title": "If you had planned the meeting, you would have missed it.",
+    "subtitle": "Badr happened without anyone's appointment",
+    "picture": {"kind": "boxes", "label": "The valley", "row": [
+      {"box": "people", "title": "the believers", "sub": ["near side"]},
+      {"box": "people", "title": "the army", "sub": ["far side"]},
+      {"box": "reward", "title": "the caravan", "sub": ["lower, by the sea"]},
+      {"conn": "met by"},
+      {"box": "idea", "title": "Allah's decree", "sub": ["no appointment"]}]},
+    "key": {"label": "How it came together", "row": [
+      {"box": "plain", "title": "our schedule", "sub": ["we would have backed out"], "strike": true},
+      {"box": "idea", "title": "His decree", "sub": ["so the truth became clear"]}]},
+    "then": "Ibn Az-Zubayr explained that {trap}if they had set a date and learned the enemy's numbers, they would not have come.{/trap} Allah brought them together without plan, so that {idea}those who chose disbelief chose it after clear proof, and those who believed did so on clear proof.{/idea} Ibn Kathir adds: faith is the life of the heart.",
+    "now": "The best things in your life may not have been on your calendar: the stranger who became your spouse, the layoff that led to the right job. {idea}If you had seen them coming, you might have run.{/idea} Look back and notice His arranging.",
+    "old": "The important things in my life happened because I planned them.",
+    "new": "Many turning points came without my planning. Allah arranged them.",
+    "try": "Write down one unplanned event that changed your life for the better. Thank Allah for it.",
+    "related": ["6:122"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:43", "surah": 8, "ayah": 43, "place": "madinah",
+    "title": "He showed them few in a dream, to keep your courage.",
+    "subtitle": "Allah knows what a heart can carry",
+    "picture": {"kind": "boxes", "label": "The dream", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["sees the enemy as few"]},
+      {"conn": "tells"},
+      {"box": "people", "title": "the Companions", "sub": ["their resolve grows"]},
+      {"conn": "saved from"},
+      {"box": "trap", "title": "losing heart", "sub": ["and arguing"]}]},
+    "key": {"label": "What we needed to see", "row": [
+      {"box": "trap", "title": "the full picture", "sub": ["would have broken us"], "strike": true},
+      {"box": "idea", "title": "what we could carry", "sub": ["He knows our hearts"]}]},
+    "then": "Mujahid said Allah showed the Prophet ﷺ the enemy as few in a dream. {reward}He told his Companions and their resolve grew.{/reward} Had they seen the true size, the verse says, {trap}they would have lost heart and fallen into dispute.{/trap} Allah knows what is in the chests.",
+    "now": "You did not know how hard the degree, the new baby, the caregiving years would be. If you had known everything at the start, you might never have begun. {idea}Not knowing it all was a mercy.{/idea}",
+    "old": "I wish I had known how hard this would be.",
+    "new": "Allah showed me only what I could carry. Not knowing was a mercy.",
+    "try": "Think of something hard you're in now. Focus only on today's piece of it, and ask Allah for strength for that.",
+    "related": ["40:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:44", "surah": 8, "ayah": 44, "place": "madinah",
+    "title": "Each side looked few to the other.",
+    "subtitle": "Perception, shaped for a decree",
+    "picture": {"kind": "boxes", "label": "What each side saw", "row": [
+      {"box": "people", "title": "believers saw", "sub": ["seventy? a hundred?"]},
+      {"box": "people", "title": "the army saw", "sub": ["a small group"]},
+      {"conn": "in truth"},
+      {"box": "plain", "title": "1000", "sub": ["the enemy's real count"], "num": true}]},
+    "key": {"label": "Where things end up", "row": [
+      {"box": "plain", "title": "what my eyes tell me", "sub": ["the final word"], "strike": true},
+      {"box": "idea", "title": "to Allah return all matters", "sub": ["He decides"]}]},
+    "then": "Ibn Mas'ud said the enemy looked so few that {idea}he asked the man next to him, do you think they are seventy?{/idea} The man said a hundred. A captive later told them they were a thousand. Allah made each side look small to the other {trap}so the meeting would happen{/trap} and His decree would be carried out.",
+    "now": "Your view of a situation is partial: the colleague you think is against you, the problem you think is tiny, the danger you think is huge. {idea}Your eyes give you a slice.{/idea} Hold your read of things a little more loosely, and return the matter to Allah.",
+    "old": "I see this situation clearly. I know how it is.",
+    "new": "My eyes show me a part. All matters return to Allah.",
+    "try": "In one situation that worries you, list what you actually know versus what you assume.",
+    "related": ["3:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:45", "surah": 8, "ayah": 45, "place": "madinah",
+    "title": "In the hard moment: stand firm and remember Allah much.",
+    "subtitle": "Two things to hold when pressure arrives",
+    "picture": {"kind": "boxes", "label": "When you face it", "row": [
+      {"box": "idea", "title": "stand firm", "sub": ["don't run"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "remember Allah much", "sub": ["don't forget Him"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "success", "sub": []}]},
+    "key": {"label": "What to ask for", "row": [
+      {"box": "trap", "title": "wishing for the fight", "sub": ["bring it on"], "strike": true},
+      {"box": "idea", "title": "ask for wellbeing", "sub": ["then be patient if it comes"]}]},
+    "then": "The Prophet ﷺ once told the people: {idea}do not wish to meet the enemy, ask Allah for wellbeing,{/idea} but if you meet them, be patient. Ibn Kathir explains the verse as {reward}endurance, and never neglecting Allah's remembrance{/reward} in that moment, asking Him for help and trusting Him.",
+    "now": "The diagnosis. The audit. The court date. You did not ask for this, and you should not have. Now it's here. {idea}Stay put, and keep Allah on your tongue.{/idea} Dhikr in the waiting room is the verse in your life.",
+    "old": "When I'm under pressure, I don't have room for dhikr.",
+    "new": "Under pressure is exactly when to remember Allah most.",
+    "try": "Pick a short dhikr, like hasbunallahu wa ni'mal wakil, and repeat it during your next stressful moment.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:46", "surah": 8, "ayah": 46, "place": "madinah",
+    "title": "Quarreling drains your strength. Be patient together.",
+    "subtitle": "How a group loses its courage",
+    "picture": {"kind": "boxes", "label": "What disputes do", "row": [
+      {"box": "trap", "title": "dispute", "sub": ["with one another"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "losing heart", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "strength gone", "sub": ["your wind departs"]}]},
+    "key": {"label": "What keeps a group strong", "row": [
+      {"box": "people", "title": "winning arguments", "sub": ["I must be right"], "strike": true},
+      {"box": "idea", "title": "patience together", "sub": ["Allah is with the patient"]}]},
+    "then": "Ibn Kathir explains the verse as {trap}avoiding dispute with one another, which leads to defeat and failure,{/trap} so their strength, endurance and courage would not leave them. The surah began with a quarrel over spoils, and here it names the cost of quarrels: {idea}be patient, Allah is with the patient.{/idea}",
+    "now": "The family business where siblings fight over every decision. The mosque committee stuck for a year. The marriage where each argument restarts the last. {trap}The energy goes into the fight, not the work.{/trap} Patience with each other is strength.",
+    "old": "Arguing it out is how we get things right.",
+    "new": "Constant disputes drain us. Patience with each other keeps us strong.",
+    "try": "In your next disagreement with someone close, let one point go that you would usually fight for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:47", "surah": 8, "ayah": 47, "place": "madinah",
+    "title": "Do not set out boastfully, to be seen by people.",
+    "subtitle": "Marching for applause",
+    "picture": {"kind": "boxes", "label": "Abu Jahl's plan", "row": [
+      {"box": "trap", "title": "go on to Badr", "sub": ["even with the caravan safe"]},
+      {"box": "trap", "title": "feast and music", "sub": ["so the Arabs talk"]},
+      {"conn": "ended in"},
+      {"box": "trap", "title": "ruin", "sub": ["Allah encompasses what they do"]}]},
+    "key": {"label": "Why you go out", "row": [
+      {"box": "trap", "title": "to be seen", "sub": ["so they talk about me"], "strike": true},
+      {"box": "idea", "title": "for Allah", "sub": ["seen or unseen"]}]},
+    "then": "When told the caravan was safe, Abu Jahl refused to turn back: {trap}we will go to Badr, slaughter camels, drink, and have singers, so the Arabs will always talk about us.{/trap} The believers are told {idea}not to be like those who went out boastful and showing off.{/idea}",
+    "now": "The charity drive planned around the photo op. The Ramadan post. The big wedding meant to impress. {trap}Doing things so people will talk.{/trap} Check why you are going out the door.",
+    "old": "If people see it, at least it inspires them.",
+    "new": "Good deeds done for an audience lose what makes them good.",
+    "try": "Do one good deed today that no one will ever find out about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:48", "surah": 8, "ayah": 48, "place": "madinah",
+    "title": "Shaytan promised to stand by them, then ran.",
+    "subtitle": "The friend who disappears when it counts",
+    "picture": {"kind": "boxes", "label": "His promise", "row": [
+      {"box": "trap", "title": "no one can beat you", "sub": ["deeds made to look fair"]},
+      {"box": "trap", "title": "I am your neighbor", "sub": ["I'll protect you"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "he flees", "sub": ["I am done with you"]}]},
+    "key": {"label": "What his promises are worth", "row": [
+      {"box": "reward", "title": "backup", "sub": ["he has my back"], "strike": true},
+      {"box": "trap", "title": "deception", "sub": ["gone when it matters"]}]},
+    "then": "Ibn Abbas said Shaytan came in the shape of Suraqah bin Malik and told Quraysh, {trap}no one will beat you today, I am your protector.{/trap} When he saw the angels, he pulled his hand away and fled, saying {idea}I see what you do not see, I fear Allah.{/idea}",
+    "now": "The voice that says just this once, nobody will know, you deserve it. It cheers you all the way to the edge. {trap}Then the consequences come and it is nowhere.{/trap} Remember who left them standing alone at Badr.",
+    "old": "This urge feels like it's on my side.",
+    "new": "The voice that makes wrong look good always leaves when the bill arrives.",
+    "try": "Next time a whisper makes something wrong look appealing, say a'udhu billahi min ash-shaytan and walk away.",
+    "related": ["4:120"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:49", "surah": 8, "ayah": 49, "place": "madinah",
+    "title": "Their religion has fooled them, the doubters said.",
+    "subtitle": "When trusting Allah looks naive to others",
+    "picture": {"kind": "boxes", "label": "How it looked", "row": [
+      {"box": "people", "title": "a small group", "sub": ["facing a thousand"]},
+      {"conn": "mocked as"},
+      {"box": "trap", "title": "deluded", "sub": ["fooled by their faith"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "trust in Allah", "sub": ["He is Mighty, Wise"]}]},
+    "key": {"label": "Naive or rooted", "row": [
+      {"box": "trap", "title": "faith is foolish", "sub": ["look at the odds"], "strike": true},
+      {"box": "idea", "title": "whoever relies on Allah", "sub": ["His side is never overwhelmed"]}]},
+    "then": "Ash-Sha'bi said some in Makkah were considering Islam, but when they saw how few the Muslims were at Badr, they said {trap}their religion has deceived them.{/trap} The verse replies: {idea}whoever relies on Allah, Allah is Mighty and Wise.{/idea}",
+    "now": "You turn down the deal that involves interest, the job with the shady side income, the shortcut everyone takes. Someone smirks: you're too religious, you'll never get ahead. {idea}Trust can look foolish from the outside.{/idea}",
+    "old": "If people think my faith is naive, maybe they're right.",
+    "new": "Relying on Allah may look naive to others. He is Mighty and Wise.",
+    "try": "Next time your choice for Allah's sake is mocked, smile, stay calm, and quietly ask Allah to make it good.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:50", "surah": 8, "ayah": 50, "place": "madinah",
+    "title": "If you could see the moment the angels take the soul.",
+    "subtitle": "The hour of death for those who rejected",
+    "picture": {"kind": "boxes", "label": "At the end", "row": [
+      {"box": "people", "title": "a life lived", "sub": ["in rejection"]},
+      {"conn": "ends with"},
+      {"box": "trap", "title": "the angels", "sub": ["bringing news of what awaits"]}]},
+    "key": {"label": "When that moment comes", "row": [
+      {"box": "plain", "title": "far away", "sub": ["no need to think of it"], "strike": true},
+      {"box": "idea", "title": "every soul", "sub": ["prepare while there is time"]}]},
+    "then": "The verse describes the moment death comes to those who rejected, with {trap}the angels striking and announcing the punishment.{/trap} Ibn Kathir notes that though it describes Badr, {idea}it is general for every disbeliever{/idea} at the time of death.",
+    "now": "Every soul has that moment. It may come in a hospital bed or on an ordinary Tuesday. {idea}The point is not fear, it is preparation.{/idea} How you want to meet the angels is shaped by today's choices.",
+    "old": "Death is something I'll think about when I'm older.",
+    "new": "The moment of death is coming for me too. I want to meet it ready.",
+    "try": "Ask yourself: if today were my last, what one thing would I fix? Fix it today.",
+    "related": ["6:93"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:51", "surah": 8, "ayah": 51, "place": "madinah",
+    "title": "This is what your own hands sent ahead.",
+    "subtitle": "Allah is never unjust to His servants",
+    "picture": {"kind": "boxes", "label": "Where it came from", "row": [
+      {"box": "trap", "title": "your deeds", "sub": ["sent ahead"]},
+      {"conn": "become"},
+      {"box": "trap", "title": "your reckoning", "sub": []},
+      {"conn": "and"},
+      {"box": "idea", "title": "no injustice", "sub": ["from Allah"]}]},
+    "key": {"label": "Who to blame", "row": [
+      {"box": "people", "title": "life, fate, others", "sub": ["it wasn't my fault"], "strike": true},
+      {"box": "idea", "title": "what my hands did", "sub": ["and He is just"]}]},
+    "then": "The verse explains that the punishment is {trap}for what their hands put forward{/trap} in this life. Ibn Kathir quotes the hadith qudsi: {idea}My servants, it is your deeds I keep count of.{/idea} Whoever finds good, let him praise Allah, and whoever finds otherwise has only himself to blame.",
+    "now": "You keep sending things ahead every day: the patience with your kids, the sharp words to your mother, the sadaqah, the cheating on the timesheet. {idea}It all arrives before you do.{/idea} The good news is that today you can send ahead something better.",
+    "old": "What happens to me is out of my hands.",
+    "new": "My deeds go ahead of me. Allah wrongs no one.",
+    "try": "Send ahead one good deed today on purpose: a charity, a call to a parent, a kind word.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:52", "surah": 8, "ayah": 52, "place": "madinah",
+    "title": "The same pattern as Pharaoh's people.",
+    "subtitle": "Denying signs, and what follows",
+    "picture": {"kind": "boxes", "label": "An old pattern", "row": [
+      {"box": "people", "title": "Pharaoh's people", "sub": ["and those before them"]},
+      {"conn": "rejected"},
+      {"box": "idea", "title": "Allah's signs", "sub": []},
+      {"conn": "so"},
+      {"box": "trap", "title": "seized for their sins", "sub": []}]},
+    "key": {"label": "Why history repeats", "row": [
+      {"box": "plain", "title": "bad luck", "sub": ["things just happened"], "strike": true},
+      {"box": "idea", "title": "a way of Allah", "sub": ["deeds have consequences"]}]},
+    "then": "Ibn Kathir explains that those who fought the Prophet ﷺ were behaving like {trap}Pharaoh's people and earlier nations who rejected the messengers.{/trap} Allah dealt with them as He deals with their like. {idea}None can resist Him or escape His grasp.{/idea}",
+    "now": "Patterns repeat in a life too. You ignore the first warning sign, then the second. The same argument, the same debt, the same regret, every few years. {idea}Notice the pattern before it becomes your story.{/idea}",
+    "old": "History is about other people. My life is different.",
+    "new": "Ignoring signs follows a pattern. I can notice mine and break it.",
+    "try": "Identify one warning sign in your life you keep ignoring. Take it seriously today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:53", "surah": 8, "ayah": 53, "place": "madinah",
+    "title": "Allah does not take a blessing until people change themselves.",
+    "subtitle": "Blessings stay with the grateful",
+    "picture": {"kind": "boxes", "label": "How a blessing is lost", "row": [
+      {"box": "reward", "title": "a blessing", "sub": ["given by Allah"]},
+      {"conn": "stays until"},
+      {"box": "trap", "title": "we change", "sub": ["what is within us"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "it changes", "sub": []}]},
+    "key": {"label": "Where change starts", "row": [
+      {"box": "people", "title": "out there", "sub": ["circumstances changed"], "strike": true},
+      {"box": "idea", "title": "inside me", "sub": ["what I did with it"]}]},
+    "then": "Ibn Kathir calls this a statement of Allah's justice: {idea}He does not change a favor He has given except because of evil people commit.{/idea} He cites 13:11. Pharaoh's people lost {trap}their gardens, springs, treasures and fine homes{/trap} because of what they did. They wronged themselves.",
+    "now": "The marriage that was warm and became cold. The job you once thanked Allah for and now only complain about. The health you stopped caring for. {idea}Before blaming the blessing, look at what changed in you.{/idea}",
+    "old": "Good things just fade over time.",
+    "new": "Blessings stay while I stay grateful. Change starts within me.",
+    "try": "Pick one blessing you have taken for granted. Thank Allah for it and take care of it today.",
+    "related": ["13:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "8:54", "surah": 8, "ayah": 54, "place": "madinah",
+    "title": "They denied, so they were destroyed. All were wrongdoers.",
+    "subtitle": "The pattern stated a second time",
+    "picture": {"kind": "boxes", "label": "The end of the pattern", "row": [
+      {"box": "trap", "title": "denied", "sub": ["the signs of their Lord"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "destroyed", "sub": ["Pharaoh's people drowned"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "wrongdoers", "sub": ["all of them"]}]},
+    "key": {"label": "What the repetition says", "row": [
+      {"box": "plain", "title": "just repeating", "sub": ["heard it already"], "strike": true},
+      {"box": "idea", "title": "denying their Lord", "sub": ["the deeper root"]}]},
+    "then": "This repeats 8:52 with a change. There, they rejected the signs of Allah. Here, {trap}they denied the signs of their Lord,{/trap} the One who raised and provided for them. Ibn Kathir notes {idea}Allah did not wrong them, they wronged themselves.{/idea} Pharaoh's people were drowned.",
+    "now": "Denying a gift from a stranger is one thing. Denying the One who has fed you since birth is another. {idea}Ingratitude toward your Lord is where it starts.{/idea} Notice how many of His gifts went unnoticed today.",
+    "old": "I'm not denying anything. I just don't think about it much.",
+    "new": "Forgetting my Lord's gifts is the first step toward denying them.",
+    "try": "Before you sleep, name five things your Lord gave you today and say alhamdulillah for each.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

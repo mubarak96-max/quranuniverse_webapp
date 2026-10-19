@@ -1,0 +1,252 @@
+[
+  {
+    "id": "55:1", "surah": 55, "ayah": 1, "place": "madinah",
+    "title": "The surah opens with one name: the Most Merciful.",
+    "subtitle": "Everything that follows flows from His mercy",
+    "picture": {"kind": "boxes", "label": "The first word", "row": [
+      {"box": "idea", "title": "Ar-Rahman", "sub": ["the Most Merciful"]},
+      {"conn": "then lists"},
+      {"box": "reward", "title": "His favors", "sub": ["one after another"]}]},
+    "key": {"label": "How to read this surah", "row": [
+      {"box": "people", "title": "a list of facts", "sub": [], "strike": true},
+      {"box": "idea", "title": "a list of mercies", "sub": ["each signed by Ar-Rahman"]}]},
+    "then": "Maududi says the title deeply fits the surah, because from beginning to end it lists {idea}the fruits of Allah's mercy and grace{/idea}. Ibn Kathir records that the Prophet ﷺ recited it to his companions and they were silent, and said {reward}the jinn had answered better{/reward}.",
+    "now": "You open your phone and the first thing you see is a bill, a bad headline, a message from your boss. Your day starts with pressure. {idea}This surah starts with mercy{/idea}, and asks you to read everything after it in that light.",
+    "old": "My day is mostly about problems to solve.",
+    "new": "Everything I have comes from the Most Merciful, before any problem.",
+    "try": "Start tomorrow morning by saying Ar-Rahman once, slowly, before you look at your phone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:2", "surah": 55, "ayah": 2, "place": "madinah",
+    "title": "His first named gift is that He taught the Quran.",
+    "subtitle": "Before sun and earth, the gift of guidance",
+    "picture": {"kind": "boxes", "label": "Mercy, then teaching", "row": [
+      {"box": "idea", "title": "the Most Merciful", "sub": []},
+      {"conn": "taught"},
+      {"box": "reward", "title": "the Quran", "sub": ["made easy to learn and memorize"]}]},
+    "key": {"label": "Which gift comes first", "row": [
+      {"box": "people", "title": "food, health, money", "sub": ["the obvious ones"], "strike": true},
+      {"box": "reward", "title": "guidance", "sub": ["named before creation itself"]}]},
+    "then": "Ibn Kathir says Allah begins by telling of His mercy: He revealed the Quran and {reward}made memorizing and understanding it easy{/reward} for those He has mercy on. In the list of favors, {idea}the Quran comes even before man is mentioned{/idea}.",
+    "now": "You learned a short surah as a child, maybe from a grandparent, maybe in a cold mosque classroom. You still know it by heart. {reward}That was Ar-Rahman teaching you{/reward}, through the people He sent.",
+    "old": "I learned the Quran because someone made me.",
+    "new": "Every verse I know is a gift taught to me by the Most Merciful.",
+    "try": "Recite one surah you know by heart, slowly, and thank Allah for teaching it to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:3", "surah": 55, "ayah": 3, "place": "madinah",
+    "title": "He created the human being.",
+    "subtitle": "You exist because He chose to make you",
+    "picture": {"kind": "boxes", "label": "The order of gifts", "row": [
+      {"box": "reward", "title": "the Quran", "sub": ["taught"]},
+      {"conn": "then"},
+      {"box": "people", "title": "the human", "sub": ["created to receive it"]}]},
+    "key": {"label": "Where I come from", "row": [
+      {"box": "people", "title": "just happened", "sub": [], "strike": true},
+      {"box": "idea", "title": "created", "sub": ["by the Most Merciful"]}]},
+    "then": "Three short lines open the surah: {idea}Ar-Rahman, taught the Quran, created man{/idea}. Ibn Kathir reads them together as Allah telling of His favors. The human being is named as one of the mercies, {reward}made to carry that teaching{/reward}.",
+    "now": "You look in the mirror and see tired eyes, extra weight, grey hair. You compare yourself to someone online. {idea}Before any of that, you were made on purpose{/idea}, by the One whose first name here is mercy.",
+    "old": "I am just one more person among billions.",
+    "new": "I was created by the Most Merciful. That is my first identity.",
+    "try": "Look in the mirror once today and say: Allah made me. Then thank Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:4", "surah": 55, "ayah": 4, "place": "madinah",
+    "title": "He taught him to speak clearly.",
+    "subtitle": "The gift of words",
+    "picture": {"kind": "boxes", "label": "How speech works", "row": [
+      {"box": "people", "title": "tongue, lips, throat", "sub": ["the parts of the mouth"]},
+      {"conn": "taught to form"},
+      {"box": "reward", "title": "clear speech", "sub": ["and recitation"]}]},
+    "key": {"label": "Where my words come from", "row": [
+      {"box": "people", "title": "my own skill", "sub": [], "strike": true},
+      {"box": "reward", "title": "a taught gift", "sub": ["from Ar-Rahman"]}]},
+    "then": "Al-Hasan said al-bayan means {reward}eloquent speech{/reward}. Ibn Kathir links it to the Quran: Allah taught people how to recite by {idea}making it easy to pronounce letters{/idea} with the tongue, the lips and the parts of the mouth.",
+    "now": "You hear a toddler say her first words, or a stroke patient work hard for one sentence. Then you think of how easily you talk all day, in voice notes and meetings and arguments. {idea}Every word is borrowed.{/idea}",
+    "old": "Talking is just something everyone can do.",
+    "new": "My ability to speak is a taught gift, and I will be asked how I used it.",
+    "try": "Use your words today to say one kind, specific thing to someone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:5", "surah": 55, "ayah": 5, "place": "madinah",
+    "title": "The sun and moon run on exact calculation.",
+    "subtitle": "Precision you set your clock by",
+    "picture": {"kind": "boxes", "label": "What the sky does", "row": [
+      {"box": "people", "title": "the sun", "sub": ["on its course"]},
+      {"box": "people", "title": "the moon", "sub": ["on its course"]},
+      {"conn": "by"},
+      {"box": "idea", "title": "precise calculation", "sub": ["never late, never off"]}]},
+    "key": {"label": "What it points to", "row": [
+      {"box": "people", "title": "just how it is", "sub": [], "strike": true},
+      {"box": "idea", "title": "measured by the Mighty", "sub": ["the Knowing"]}]},
+    "then": "Ibn Kathir says they move {idea}according to precise calculation that is never delayed nor disturbed{/idea}. He cites the verse that the sun does not overtake the moon, each floating in its orbit, and that this is {reward}the measuring of the Almighty, the All-Knowing{/reward}.",
+    "now": "Your prayer app knows exactly when Fajr is tomorrow, and next year. You plan Ramadan by the moon. {idea}You live by the sky's timetable without ever thanking its Maker.{/idea}",
+    "old": "Sunrise and sunset are just background.",
+    "new": "Every exact sunrise is a favor and a sign from the One who measured it.",
+    "try": "Watch the sunset today, or check its exact time, and say SubhanAllah.",
+    "related": ["36:40", "6:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:6", "surah": 55, "ayah": 6, "place": "madinah",
+    "title": "The stars and the trees bow down.",
+    "subtitle": "All of creation in prostration",
+    "picture": {"kind": "boxes", "label": "Who prostrates", "row": [
+      {"box": "people", "title": "an-najm", "sub": ["stars, or low plants"]},
+      {"box": "people", "title": "the trees", "sub": ["on their trunks"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "prostrate", "sub": ["to Allah"]}]},
+    "key": {"label": "Who is out of step", "row": [
+      {"box": "people", "title": "nature just exists", "sub": [], "strike": true},
+      {"box": "idea", "title": "nature worships", "sub": ["will I join it?"]}]},
+    "then": "Ibn Kathir notes two views on an-najm: {idea}plants that lie on the ground{/idea}, or the stars in the sky, which he calls most obvious. He cites the verse that everything in the heavens and earth, sun, moon, stars, mountains, trees, {reward}prostrates to Allah{/reward}, and many people too.",
+    "now": "You walk past a tree on your street every day without looking up. It is doing what it was made for. {idea}The stars over your roof are doing the same.{/idea} The question is whether you are.",
+    "old": "Trees and stars are just scenery.",
+    "new": "All of creation bows to Allah. My prayer joins something already happening.",
+    "try": "Pray one prayer today thinking of the trees and stars bowing with you.",
+    "related": ["22:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:7", "surah": 55, "ayah": 7, "place": "madinah",
+    "title": "He raised the sky and set the balance.",
+    "subtitle": "The universe is built on justice",
+    "picture": {"kind": "boxes", "label": "Above and within", "row": [
+      {"box": "idea", "title": "the sky", "sub": ["raised high"]},
+      {"box": "idea", "title": "the balance", "sub": ["justice, set in place"]}]},
+    "key": {"label": "What the balance is", "row": [
+      {"box": "people", "title": "only a weighing scale", "sub": [], "strike": true},
+      {"box": "idea", "title": "justice", "sub": ["sent down with the Book"]}]},
+    "then": "Ibn Kathir says the balance here means {idea}justice{/idea}. He cites the verse that Allah sent messengers with the Book and the balance {reward}so that people may keep up equity{/reward}. The same Lord who raised the sky set fairness into creation.",
+    "now": "You notice it in your body when something is unfair: the colleague who takes credit, the sibling who gets the bigger share. That ache is not random. {idea}You were made to recognize the balance.{/idea}",
+    "old": "Fairness is just a human idea.",
+    "new": "Justice is built into creation, set by the One who raised the sky.",
+    "try": "Notice one place in your day where you can be fairer than you need to be.",
+    "related": ["57:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:8", "surah": 55, "ayah": 8, "place": "madinah",
+    "title": "So that you do not cross the line of the balance.",
+    "subtitle": "The purpose of justice in creation",
+    "picture": {"kind": "boxes", "label": "Why the balance was set", "row": [
+      {"box": "idea", "title": "creation in justice", "sub": ["sky, earth, all of it"]},
+      {"conn": "so that"},
+      {"box": "trap", "title": "you do not transgress", "sub": ["take more than your share"]}]},
+    "key": {"label": "My place in it", "row": [
+      {"box": "people", "title": "a spectator", "sub": [], "strike": true},
+      {"box": "idea", "title": "a keeper of the balance", "sub": []}]},
+    "then": "Ibn Kathir explains that Allah {idea}created the heavens and earth in justice and truth{/idea} so that everything stands on justice. The command follows: {trap}do not transgress the balance{/trap}. The order of the sky is a lesson for the person.",
+    "now": "You split the restaurant bill and slip in a little less than your share. You speak over someone in a meeting. {trap}Small crossings of the line{/trap} that nobody calls out. {idea}The whole universe stays inside its line.{/idea}",
+    "old": "A little unfairness here and there does not matter.",
+    "new": "The universe keeps its balance. I am asked to keep mine.",
+    "try": "Pay or give your full fair share in one shared thing today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:9", "surah": 55, "ayah": 9, "place": "madinah",
+    "title": "Weigh fairly and do not short the scale.",
+    "subtitle": "Justice in everyday dealings",
+    "picture": {"kind": "boxes", "label": "Two sides of the command", "row": [
+      {"box": "idea", "title": "establish the weight", "sub": ["with fairness"]},
+      {"box": "trap", "title": "do not shortchange", "sub": ["the balance"]}]},
+    "key": {"label": "Where justice happens", "row": [
+      {"box": "people", "title": "only in courts", "sub": [], "strike": true},
+      {"box": "idea", "title": "in every exchange", "sub": ["a sale, a deal, a share"]}]},
+    "then": "Ibn Kathir says this means {trap}do not cheat in weights and measures{/trap}, but observe justice and fairness. He cites the verse: {idea}weigh with the true and straight balance{/idea}. The cosmic balance comes down to the market stall.",
+    "now": "You sell a used car and stay quiet about the noise in the engine. You bill a client for an hour you did not work. You give someone a review that is not true. {idea}Every honest deal keeps the balance Allah set.{/idea}",
+    "old": "Business is business. Everyone bends a little.",
+    "new": "Honesty in a small deal is part of the balance that holds up the sky.",
+    "try": "In your next sale, invoice or trade, tell the whole truth about what you are giving.",
+    "related": ["26:182"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:10", "surah": 55, "ayah": 10, "place": "madinah",
+    "title": "He laid out the earth for all creatures.",
+    "subtitle": "A stable home shared by every kind",
+    "picture": {"kind": "boxes", "label": "The earth", "row": [
+      {"box": "idea", "title": "laid out", "sub": ["steadied with mountains"]},
+      {"conn": "for"},
+      {"box": "people", "title": "all creatures", "sub": ["every species, color, language"]}]},
+    "key": {"label": "Whose earth", "row": [
+      {"box": "people", "title": "mine to use", "sub": [], "strike": true},
+      {"box": "reward", "title": "given to all", "sub": ["a shared gift"]}]},
+    "then": "Ibn Kathir says Allah laid the earth and {idea}balanced it with firm mountains{/idea} so that it would be stable for its residents. Al-anam means the creatures, {reward}different in species, shape, color and language{/reward}.",
+    "now": "You stand on solid ground every day and never think about it, until an earthquake on the news reminds you. You share the street with neighbors who speak other languages, and birds and cats. {reward}The ground under all of you is one gift.{/reward}",
+    "old": "The ground is just there.",
+    "new": "The stable earth under my feet is a gift laid out for every creature.",
+    "try": "Walk outside barefoot or on grass for a minute today and thank Allah for solid ground.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:11", "surah": 55, "ayah": 11, "place": "madinah",
+    "title": "Fruit, and palm trees with dates in their sheaths.",
+    "subtitle": "Food wrapped and ripened for you",
+    "picture": {"kind": "boxes", "label": "What the earth gives", "row": [
+      {"box": "reward", "title": "fruits", "sub": ["colors, tastes, scents"]},
+      {"box": "reward", "title": "date palms", "sub": ["sheathed clusters"]},
+      {"conn": "ripen into"},
+      {"box": "reward", "title": "food", "sub": ["fresh and dried"]}]},
+    "key": {"label": "What I see in a fruit", "row": [
+      {"box": "people", "title": "a snack", "sub": [], "strike": true},
+      {"box": "reward", "title": "a favor", "sub": ["grown, wrapped, ripened"]}]},
+    "then": "Ibn Kathir says the fruits come in {reward}various colors, tastes and scents{/reward}. The date palm is named specifically {idea}because of its benefit, both fresh and dry{/idea}. Its sheathed stalks grow seeds into clusters that ripen, then ripen more.",
+    "now": "You grab a banana from the bowl on your way out, half-awake, eating while you answer emails. Somewhere a tree spent months making it, wrapped and timed for you. {reward}Every fruit is a small letter of mercy.{/reward}",
+    "old": "Fruit is just something I buy at the shop.",
+    "new": "Every fruit is grown, wrapped and ripened by the Most Merciful.",
+    "try": "Eat one piece of fruit slowly today and say Alhamdulillah after it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:12", "surah": 55, "ayah": 12, "place": "madinah",
+    "title": "Grain with its husk, and fragrant plants.",
+    "subtitle": "Even the straw and the scent are gifts",
+    "picture": {"kind": "boxes", "label": "From the field", "row": [
+      {"box": "reward", "title": "grain", "sub": ["wheat, barley"]},
+      {"box": "reward", "title": "the husk", "sub": ["straw for animals"]},
+      {"box": "reward", "title": "rayhan", "sub": ["leaves, sweet scents"]}]},
+    "key": {"label": "What counts as a blessing", "row": [
+      {"box": "people", "title": "only the grain", "sub": ["the part I eat"], "strike": true},
+      {"box": "reward", "title": "all of it", "sub": ["husk, leaf, scent too"]}]},
+    "then": "Ibn Abbas said al-asf is {reward}straw{/reward}, the dried leaves around the grain. Rayhan was explained as green leaves, or by Al-Hasan as {reward}sweet-scented plants{/reward}. Ibn Kathir says the meaning is crops like wheat and barley and the leaves on their stems.",
+    "now": "You eat bread every day. You smell basil or mint and feel calmer for a second. You never think about the straw that fed the cow that gave the milk. {idea}The favor reaches further than the part you see.{/idea}",
+    "old": "Bread is just bread.",
+    "new": "Grain, husk and fragrance are a whole chain of favors.",
+    "try": "Before your next meal with bread or rice, pause and name where it came from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:13", "surah": 55, "ayah": 13, "place": "madinah",
+    "title": "Which of your Lord's favors would you deny?",
+    "subtitle": "The first refrain, after Quran, speech, sky, balance and food",
+    "picture": {"kind": "boxes", "label": "Favors just listed", "row": [
+      {"box": "reward", "title": "the Quran", "sub": ["and speech"]},
+      {"box": "reward", "title": "sun, moon, sky", "sub": ["and the balance"]},
+      {"box": "reward", "title": "the earth", "sub": ["fruit, dates, grain"]},
+      {"conn": "which one"},
+      {"box": "idea", "title": "would you deny?", "sub": []}]},
+    "key": {"label": "The right answer", "row": [
+      {"box": "people", "title": "silence", "sub": ["like the companions at first"], "strike": true},
+      {"box": "reward", "title": "none of them, our Lord", "sub": ["the jinn's reply"]}]},
+    "then": "Ibn Kathir says the question is to {idea}mankind and jinn{/idea}: which of the favors that surround you do you deny? The Prophet ﷺ said the jinn answered each time: {reward}none of Your favors do we deny, our Lord, all praise is Yours{/reward}.",
+    "now": "You are surrounded right now: a body that speaks, a sky that keeps time, food in the kitchen. You complain about the Wi-Fi. {idea}The question is not whether you have favors, but whether you admit them.{/idea}",
+    "old": "I do not deny Allah's favors. I just do not think about them.",
+    "new": "Forgetting a favor is a quiet way of denying it.",
+    "try": "When you hear this verse recited, answer quietly: none of Your favors do I deny.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "16:16", "surah": 16, "ayah": 16, "place": "makkah",
+    "title": "Hills by day, stars by night, so no one stays lost.",
+    "subtitle": "Landmarks placed for travelers who lose the way",
+    "picture": {"kind": "boxes", "label": "How a traveler finds the way", "row": [
+      {"box": "people", "title": "lost traveler", "sub": ["land or sea"]},
+      {"conn": "by day looks at"},
+      {"box": "reward", "title": "landmarks", "sub": ["mountains, small hills"]},
+      {"conn": "by night looks at"},
+      {"box": "reward", "title": "the stars", "sub": ["fixed in the dark"]}]},
+    "key": {"label": "Who placed the signs", "row": [
+      {"box": "people", "title": "just scenery", "sub": ["it was always there"], "strike": true},
+      {"box": "idea", "title": "guidance built in", "sub": ["placed so people find home"]}]},
+    "then": "The surah is listing gifts one after another: the sea, the mountains, rivers and roads. Ibn Kathir explains the landmarks as {idea}great mountains and small hills that land and sea travelers use when they get lost{/idea}, and the stars as their guide in the darkness of night.",
+    "now": "You drive home in the dark and know your exit by a lit tower. You find your friend's house by the blue gate. Your phone shows a dot on a map, guided by satellites in the sky. {idea}Someone placed markers before you ever needed them.{/idea}",
+    "old": "Finding my way is just me being good with directions.",
+    "new": "The markers I steer by were placed for me before I was born.",
+    "try": "Next time you use a landmark or a map to find your way, say alhamdulillah for the sign.",
+    "related": ["21:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:17", "surah": 16, "ayah": 17, "place": "makkah",
+    "title": "The One who makes is not like what cannot make.",
+    "subtitle": "A simple question after a long list of gifts",
+    "picture": {"kind": "boxes", "label": "Two kinds of being", "row": [
+      {"box": "idea", "title": "He creates", "sub": ["sea, mountains, stars"]},
+      {"conn": "compared with"},
+      {"box": "trap", "title": "cannot create", "sub": ["idols, themselves made"]}]},
+    "key": {"label": "The question", "row": [
+      {"box": "trap", "title": "they are equal", "sub": ["both worth calling on"], "strike": true},
+      {"box": "idea", "title": "only the Maker", "sub": ["deserves worship"]}]},
+    "then": "After naming the sea, the mountains, the rivers and the stars, the verse stops and asks the people of Makkah a plain question. Ibn Kathir says worship belongs to Allah alone, {trap}not to idols which do not create but are themselves created.{/trap} The verse ends: will you not reflect?",
+    "now": "You catch yourself treating a boss, a follower count, or a lucky habit as if it decides your day. None of them made a single raindrop. {idea}Put them side by side with the One who made you, and the answer is obvious.{/idea}",
+    "old": "Many things hold power over my life.",
+    "new": "Only the One who creates has real power; the rest are created like me.",
+    "try": "Write down one thing you fear or chase too much, then write next to it: created, like me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:18", "surah": 16, "ayah": 18, "place": "makkah",
+    "title": "You could never count His favors, and He still forgives.",
+    "subtitle": "Gifts past counting, and mercy for falling short",
+    "picture": {"kind": "boxes", "label": "Trying to count", "row": [
+      {"box": "reward", "title": "favors", "sub": ["more than any list"]},
+      {"conn": "you try to"},
+      {"box": "people", "title": "count them", "sub": ["the list never ends"]}]},
+    "key": {"label": "What fills the gap", "row": [
+      {"box": "trap", "title": "thank Him fully", "sub": ["no one can"], "strike": true},
+      {"box": "idea", "title": "Forgiving, Merciful", "sub": ["covers our failure to thank"]}]},
+    "then": "This closes the long list of gifts. Ibn Kathir says if Allah asked people to thank Him for every blessing, {trap}they would not be able to do it.{/trap} So the verse ends with His names: {reward}He forgives much and rewards for little{/reward}, when people turn back to Him.",
+    "now": "You try a gratitude list at night. Eyes, a bed, water from a tap, a mother who still calls. By item twenty you are tired and the list is barely started. {idea}The gap between what you got and what you thanked for is where His forgiveness sits.{/idea}",
+    "old": "I am grateful enough; I say thanks now and then.",
+    "new": "I can never thank Him enough, so I lean on His mercy for the gap.",
+    "try": "Before sleep, name five favors from today out loud, then say: forgive me for the ones I missed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:19", "surah": 16, "ayah": 19, "place": "makkah",
+    "title": "He knows the hidden thought and the spoken word alike.",
+    "subtitle": "No gap between private and public for Allah",
+    "picture": {"kind": "boxes", "label": "Two sides of a person", "row": [
+      {"box": "people", "title": "what you hide", "sub": ["thoughts, motives"]},
+      {"box": "people", "title": "what you show", "sub": ["words, actions"]},
+      {"conn": "both known to"},
+      {"box": "idea", "title": "Allah", "sub": ["equally, fully"]}]},
+    "key": {"label": "Where the real me lives", "row": [
+      {"box": "trap", "title": "only what's seen", "sub": ["counts"], "strike": true},
+      {"box": "idea", "title": "inside and out", "sub": ["both will be weighed"]}]},
+    "then": "The surah turns from gifts to the idols people called on. First it reminds them: Allah knows what is hidden in hearts as well as what is apparent. Ibn Kathir adds that {idea}everyone will be rewarded or punished for their deeds on the Day of Resurrection.{/idea}",
+    "now": "You smile in the meeting while typing a different message under the table. You post a kind caption about someone you resent. {trap}The audience only sees one side.{/trap} {idea}He sees both, and He is the only audience that lasts.{/idea}",
+    "old": "What I keep inside is my own business.",
+    "new": "My hidden side is as open to Allah as my public face.",
+    "try": "Pick one thing you say in public and check today whether your heart matches it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:20", "surah": 16, "ayah": 20, "place": "makkah",
+    "title": "What they call on made nothing; it was made.",
+    "subtitle": "Idols cannot create, they are carved",
+    "picture": {"kind": "boxes", "label": "Who made whom", "row": [
+      {"box": "people", "title": "the worshipper", "sub": ["carves and shapes"]},
+      {"conn": "makes"},
+      {"box": "trap", "title": "the idol", "sub": ["then prays to it"]}]},
+    "key": {"label": "The reversal", "row": [
+      {"box": "trap", "title": "it provides for me", "sub": ["it made nothing"], "strike": true},
+      {"box": "idea", "title": "Allah made both", "sub": ["you and what you make"]}]},
+    "then": "Ibn Kathir links this to Ibrahim's words to his people: {trap}Do you worship what you yourselves carve,{/trap} {idea}while Allah created you and what you make?{/idea} The idols of Makkah were shaped by human hands, then asked for help.",
+    "now": "You build a brand, a savings plan, a reputation, all with your own hands. Then slowly you start trusting it as if it holds you up. {trap}The thing you made becomes the thing you lean on.{/trap}",
+    "old": "What I built will keep me safe.",
+    "new": "What I built was made by me, and I was made by Allah.",
+    "try": "Look at one thing you worked hard to build and thank Allah for the hands that built it.",
+    "related": ["37:95", "37:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:21", "surah": 16, "ayah": 21, "place": "makkah",
+    "title": "Lifeless, unaware, not even knowing when the Hour comes.",
+    "subtitle": "Why hope from what cannot hear or know",
+    "picture": {"kind": "boxes", "label": "What the idols are", "row": [
+      {"box": "trap", "title": "dead", "sub": ["no hearing, no sight"]},
+      {"box": "trap", "title": "unaware", "sub": ["don't know the Hour"]},
+      {"conn": "yet asked for"},
+      {"box": "people", "title": "help and reward", "sub": ["from the worshipper"]}]},
+    "key": {"label": "Where hope belongs", "row": [
+      {"box": "trap", "title": "the unknowing", "sub": ["cannot give anything"], "strike": true},
+      {"box": "idea", "title": "the All-Knowing", "sub": ["Creator of all things"]}]},
+    "then": "Ibn Kathir explains that the idols are inanimate, {trap}they do not hear, see, or think{/trap}, and do not know when the Hour will come. So how could anyone hope for benefit from them? {idea}Hope should go to the One who knows all things.{/idea}",
+    "now": "You refresh the app hoping the numbers will tell you whether you are worth something. You check a horoscope before an interview. {trap}None of these know your tomorrow.{/trap} Only One knows when every story ends.",
+    "old": "Something out there can tell me how things will turn out.",
+    "new": "Only Allah knows what is coming, so my hope goes to Him.",
+    "try": "Next time you feel anxious about an outcome, make one short dua instead of checking again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:22", "surah": 16, "ayah": 22, "place": "makkah",
+    "title": "One God, and the proud heart that refuses it.",
+    "subtitle": "Denial starts in the heart, then shows as pride",
+    "picture": {"kind": "boxes", "label": "The truth and the response", "row": [
+      {"box": "idea", "title": "your God is One", "sub": ["the plain message"]},
+      {"conn": "met by"},
+      {"box": "trap", "title": "hearts that deny", "sub": ["no belief in the Hereafter"]},
+      {"box": "trap", "title": "pride", "sub": ["too proud to worship"]}]},
+    "key": {"label": "What really blocks it", "row": [
+      {"box": "people", "title": "lack of proof", "sub": ["the signs were all listed"], "strike": true},
+      {"box": "trap", "title": "pride", "sub": ["the heart refuses to bow"]}]},
+    "then": "After all the signs, the verse names the real problem. Ibn Kathir says the hearts of the disbelievers were {trap}astonished that all the gods were made into one God{/trap}, and they were too proud to worship Allah alone. Not believing in a return to Him made the pride easy.",
+    "now": "Someone gives you good advice and it is clearly right. Still, something in your chest pushes back, because it came from them, or because it means admitting you were wrong. {trap}That push is not logic. It is pride.{/trap}",
+    "old": "I reject things when the argument is weak.",
+    "new": "Sometimes I reject the truth because my pride does not want to bow.",
+    "try": "Think of one piece of advice you dismissed lately and ask honestly if pride was the reason.",
+    "related": ["38:5", "39:45", "40:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:23", "surah": 16, "ayah": 23, "place": "makkah",
+    "title": "He sees the hidden pride, and He does not love it.",
+    "subtitle": "Arrogance is known even when it is quiet",
+    "picture": {"kind": "boxes", "label": "What Allah sees", "row": [
+      {"box": "people", "title": "the concealed", "sub": ["private contempt"]},
+      {"box": "people", "title": "the declared", "sub": ["open refusal"]},
+      {"conn": "and the verdict"},
+      {"box": "trap", "title": "not loved", "sub": ["the arrogant"]}]},
+    "key": {"label": "Pride's cover", "row": [
+      {"box": "trap", "title": "nobody notices", "sub": ["I keep it quiet"], "strike": true},
+      {"box": "idea", "title": "He knows it fully", "sub": ["and will requite it"]}]},
+    "then": "This follows the verse about proud hearts. Ibn Kathir says Allah knows what they conceal and reveal and {trap}will requite them for it in full.{/trap} The verse ends with one line about the proud: He does not like them.",
+    "now": "You never say it out loud, but you look down on the cleaner, the new hire, the cousin who did not go to university. {trap}Quiet pride is still pride.{/trap} {idea}Humility is something Allah loves, even in small hidden ways.{/idea}",
+    "old": "As long as I do not show it, my pride does no harm.",
+    "new": "Allah sees the pride I hide, and He does not love it.",
+    "try": "Greet one person today you usually overlook, with full attention and a real smile.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:24", "surah": 16, "ayah": 24, "place": "makkah",
+    "title": "Asked what was revealed, they said: just old stories.",
+    "subtitle": "Dismissing a message without really answering",
+    "picture": {"kind": "boxes", "label": "The question and the dodge", "row": [
+      {"box": "people", "title": "What did He reveal?", "sub": ["a direct question"]},
+      {"conn": "answered with"},
+      {"box": "trap", "title": "tales of old", "sub": ["a label, not an answer"]}]},
+    "key": {"label": "The shortcut", "row": [
+      {"box": "trap", "title": "label it", "sub": ["so I never have to listen"], "strike": true},
+      {"box": "idea", "title": "hear it out", "sub": ["then judge it"]}]},
+    "then": "Ibn Kathir says when asked about the revelation, the leaders of Quraysh {trap}did not want to answer{/trap} and called it tales copied from earlier books. They had tried calling the Prophet ﷺ a sorcerer, a poet, a madman, then settled on what Al-Walid bin Al-Mughirah proposed: old magic passed down.",
+    "now": "Someone shares a reminder in the family group chat and you think, oh, the usual stuff, and scroll. You never read it. {trap}A quick label saves you from having to listen.{/trap}",
+    "old": "I already know what this is going to say.",
+    "new": "Calling something old is not the same as answering it.",
+    "try": "Read one reminder you would normally skip, all the way to the end.",
+    "related": ["25:5", "17:48", "74:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:25", "surah": 16, "ayah": 25, "place": "makkah",
+    "title": "Mislead others, and you carry part of their load too.",
+    "subtitle": "Influence works in both directions",
+    "picture": {"kind": "boxes", "label": "What the misleader carries", "row": [
+      {"box": "trap", "title": "own burden", "sub": ["in full"]},
+      {"conn": "plus"},
+      {"box": "trap", "title": "followers' share", "sub": ["those misled without knowledge"]}]},
+    "key": {"label": "Same rule, two directions", "row": [
+      {"box": "reward", "title": "invite to good", "sub": ["reward of all who follow"]},
+      {"box": "trap", "title": "invite to wrong", "sub": ["sin of all who follow"]}]},
+    "then": "The leaders who called the Quran old tales did not only stray, they led others with them. Ibn Kathir quotes the hadith: {reward}whoever invites to guidance gets the reward of those who follow{/reward}, and {trap}whoever invites to misguidance bears the sin of those who follow{/trap}, without lessening anyone's share.",
+    "now": "You forward a clip that mocks something sacred. Ten people share it on. You show a younger sibling a shortcut that cuts corners. {idea}Your influence keeps moving after you put the phone down.{/idea} It can carry good just as easily.",
+    "old": "What others do with what I share is their choice.",
+    "new": "What I pass on keeps counting for me or against me.",
+    "try": "Share one beneficial thing today that you would be glad to have counted for you.",
+    "related": ["29:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:26", "surah": 16, "ayah": 26, "place": "makkah",
+    "title": "Their plans fell from the foundation up, from where unseen.",
+    "subtitle": "Schemes against the truth collapse from below",
+    "picture": {"kind": "boxes", "label": "The building they made", "row": [
+      {"box": "people", "title": "plotters before", "sub": ["schemes of every kind"]},
+      {"conn": "built"},
+      {"box": "trap", "title": "their structure", "sub": ["felt solid"]},
+      {"conn": "struck at"},
+      {"box": "idea", "title": "the foundation", "sub": ["roof fell from above"]}]},
+    "key": {"label": "Where it fails", "row": [
+      {"box": "trap", "title": "the roof looks fine", "sub": ["so it is safe"], "strike": true},
+      {"box": "idea", "title": "the base is struck", "sub": ["from where no one looked"]}]},
+    "then": "Ibn Kathir notes some said this was Namrud and his tower, but the correct view is that it is {idea}an example for all who plotted against Allah's message.{/idea} He uprooted their efforts and brought them to nothing, {trap}from directions they did not perceive.{/trap}",
+    "now": "You build something on a lie: a small fraud at work, a story you keep up. It holds for months. You watch the roof and feel fine. {trap}Collapse rarely comes from where you are watching.{/trap}",
+    "old": "If nothing has gone wrong yet, my plan is safe.",
+    "new": "A plan built against what is right can fall from its base without warning.",
+    "try": "Check one thing you are building and ask: is the foundation honest?",
+    "related": ["71:22", "34:33", "59:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:27", "surah": 16, "ayah": 27, "place": "makkah",
+    "title": "Where are the partners you fought so hard for?",
+    "subtitle": "The question asked on the Day of Resurrection",
+    "picture": {"kind": "boxes", "label": "On that Day", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["exposed"]},
+      {"conn": "asked"},
+      {"box": "trap", "title": "Where are they?", "sub": ["the partners they defended"]},
+      {"conn": "the knowing say"},
+      {"box": "idea", "title": "disgrace today", "sub": ["for the disbelievers"]}]},
+    "key": {"label": "What they fought for", "row": [
+      {"box": "trap", "title": "worth the fight", "sub": ["they will help me"], "strike": true},
+      {"box": "idea", "title": "absent", "sub": ["cannot help even themselves"]}]},
+    "then": "Ibn Kathir explains that on that Day, secrets are exposed and the Lord asks in rebuke: {trap}you fought and made enemies for their sake, so where are they now?{/trap} Those given knowledge then speak: disgrace and misery are on the disbelievers.",
+    "now": "You fight your family over a career, lose friends defending a status, stay up nights for applause. {trap}Ask what you are making enemies for.{/trap} {idea}Will it stand next to you when it matters most?{/idea}",
+    "old": "The things I fight for are worth the cost.",
+    "new": "Some things I fight for will be nowhere when I need them.",
+    "try": "Think of your last heated argument and ask what you were really defending.",
+    "related": ["86:9", "26:93", "86:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:28", "surah": 16, "ayah": 28, "place": "makkah",
+    "title": "At death they say: we did nothing wrong. He knows.",
+    "subtitle": "The late denial at the last moment",
+    "picture": {"kind": "boxes", "label": "At the moment of death", "row": [
+      {"box": "people", "title": "the angels come", "sub": ["to take the soul"]},
+      {"conn": "they suddenly"},
+      {"box": "trap", "title": "submit", "sub": ["\"we did no evil\""]},
+      {"conn": "reply"},
+      {"box": "idea", "title": "Yes you did", "sub": ["Allah knows it all"]}]},
+    "key": {"label": "The excuse", "row": [
+      {"box": "trap", "title": "I wasn't that bad", "sub": ["said at the end"], "strike": true},
+      {"box": "idea", "title": "Allah knows", "sub": ["what you used to do"]}]},
+    "then": "Ibn Kathir describes those who wronged themselves when the angels come for their souls. {trap}They make it appear as if they had always listened and obeyed{/trap}, saying they did no evil. The reply is short: {idea}Allah knows what you did.{/idea}",
+    "now": "You tell yourself you are basically a good person, so the small wrongs do not need fixing. The unpaid debt, the cold silence with your brother. {reward}The door to change is open now, while you still have time.{/reward}",
+    "old": "I'm basically fine, nothing to answer for.",
+    "new": "Allah already knows my record; honesty now is better than excuses later.",
+    "try": "Fix one small wrong today: pay back, apologize, or return something.",
+    "related": ["6:23", "58:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

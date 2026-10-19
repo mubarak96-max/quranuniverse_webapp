@@ -1,0 +1,138 @@
+[
+  {
+    "id": "107:1", "surah": 107, "ayah": 1, "place": "makkah",
+    "title": "Want to see what denying the Judgement looks like?",
+    "subtitle": "Belief shows in how you treat people",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "idea", "title": "have you seen", "sub": ["look closely"]},
+      {"conn": "the one who"},
+      {"box": "trap", "title": "denies ad-Din", "sub": ["the Recompense, the Hereafter"]}]},
+    "key": {"label": "Where denial shows", "row": [
+      {"box": "plain", "title": "in what he says", "sub": ["a statement of belief"], "strike": true},
+      {"box": "trap", "title": "in how he acts", "sub": ["toward the weak"]}]},
+    "then": "Ibn Kathir says Din here means {idea}the Hereafter, the Recompense and the Final Reward{/idea}. Maududi says the surah shows {trap}what kind of morals a person develops{/trap} when he does not believe he will be held to account.",
+    "now": "You would never say out loud that there is no Judgement. But watch what you do when nobody important is looking: the delivery driver, the cleaner, the kid nobody claims. {idea}The verse says belief is visible there.{/idea}",
+    "old": "I believe in the Hereafter. I have never denied it.",
+    "new": "My belief in the Judgement shows most in how I treat people who cannot repay me.",
+    "try": "Notice how you treat the least powerful person you meet today. Be a little kinder than usual.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "107:2", "surah": 107, "ayah": 2, "place": "makkah",
+    "title": "He is the one who pushes the orphan away.",
+    "subtitle": "The first sign of denial",
+    "picture": {"kind": "boxes", "label": "What he does", "row": [
+      {"box": "people", "title": "the orphan", "sub": ["no one to defend him"]},
+      {"conn": "is"},
+      {"box": "trap", "title": "pushed away", "sub": ["not fed, not cared for"]}]},
+    "key": {"label": "What pushing away means", "row": [
+      {"box": "plain", "title": "only open cruelty", "sub": ["hitting, shouting"], "strike": true},
+      {"box": "trap", "title": "withholding his due", "sub": ["no food, no kindness"]}]},
+    "then": "Ibn Kathir says he is the one who {trap}oppresses the orphan and does not give him his just due{/trap}. He does not feed him, {trap}nor is he kind to him{/trap}. The orphan had no one to complain to.",
+    "now": "The relative's child who lost a parent and now gets fewer invitations. The new kid at school nobody sits with. The colleague grieving alone. {idea}Not being cruel is not enough.{/idea} The verse names neglect as pushing away.",
+    "old": "I have never hurt an orphan. This does not apply to me.",
+    "new": "Ignoring someone who has no protector is a way of pushing them away.",
+    "try": "Reach out today to someone who has lost a parent: a call, a meal, a small gift.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "107:3", "surah": 107, "ayah": 3, "place": "makkah",
+    "title": "He does not even urge others to feed the poor.",
+    "subtitle": "Silence about hunger",
+    "picture": {"kind": "boxes", "label": "What he leaves undone", "row": [
+      {"box": "people", "title": "the miskin", "sub": ["nothing to sustain him"]},
+      {"conn": "he does not"},
+      {"box": "trap", "title": "urge feeding him", "sub": ["not even with words"]}]},
+    "key": {"label": "What is expected", "row": [
+      {"box": "plain", "title": "give if you are rich", "sub": ["only the wealthy"], "strike": true},
+      {"box": "reward", "title": "urge it at least", "sub": ["everyone can do this"]}]},
+    "then": "Ibn Kathir links it to the verse: {trap}you urge not one another to feed the poor{/trap}. The miskin is {idea}the poor man who has nothing to sustain him{/idea}. The verse does not only blame not feeding, but not even encouraging it.",
+    "now": "You may not have much spare cash this month. But you can share the food-bank link, remind the group about a family in need, ask your workplace to match a donation. {reward}Urging is a deed too.{/reward}",
+    "old": "I do not have money to spare, so feeding the poor is not my job.",
+    "new": "Even when I cannot give, I can urge others to give. Staying silent is the problem.",
+    "try": "Share one way to help feed people in need with a friend or a group chat today.",
+    "related": ["89:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "107:4", "surah": 107, "ayah": 4, "place": "makkah",
+    "title": "Woe to those who pray. Yes, those who pray.",
+    "subtitle": "The surprising turn of the surah",
+    "picture": {"kind": "boxes", "label": "Who the woe is for", "row": [
+      {"box": "trap", "title": "the deniers", "sub": ["verses 1-3"]},
+      {"conn": "and now"},
+      {"box": "people", "title": "those who pray", "sub": ["but with a flaw"]}]},
+    "key": {"label": "What prayer guarantees", "row": [
+      {"box": "reward", "title": "automatic safety", "sub": ["I pray, so I am fine"], "strike": true},
+      {"box": "idea", "title": "it must be real", "sub": ["the rest of the sentence matters"]}]},
+    "then": "After the deniers, the surah turns to {trap}people who actually pray{/trap}. Ibn Abbas and others said this means the hypocrites who pray in public but not in private. Ibn Kathir says they adhere to prayer {idea}yet are mindless of it{/idea}.",
+    "now": "You pray five times. You might even feel a little proud of it. Then this verse: {trap}woe to those who pray{/trap}. It stops you mid-step. Not to make you stop praying, but to make you ask what kind of praying it is.",
+    "old": "I pray, so the warnings in this surah are not about me.",
+    "new": "Praying is not a shield on its own. Allah asks how I pray, not only whether I do.",
+    "try": "In your next prayer, think about the meaning of just one phrase you recite.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "107:5", "surah": 107, "ayah": 5, "place": "makkah",
+    "title": "Heedless of their prayer, not just distracted in it.",
+    "subtitle": "The many ways prayer gets neglected",
+    "picture": {"kind": "boxes", "label": "What heedless can mean", "row": [
+      {"box": "trap", "title": "abandoning it", "sub": ["entirely"]},
+      {"box": "trap", "title": "delaying it", "sub": ["to the last minute"]},
+      {"box": "trap", "title": "rushing it", "sub": ["pecking like a crow"]},
+      {"box": "trap", "title": "no humility", "sub": ["no thought of meaning"]}]},
+    "key": {"label": "The mercy in the wording", "row": [
+      {"box": "trap", "title": "heedless of prayer", "sub": ["what the verse says"]},
+      {"box": "reward", "title": "not distracted in it", "sub": ["what it does not say"]}]},
+    "then": "Ata' bin Dinar said: {reward}praise be to Allah who said heedless of their prayer, not in their prayer{/reward}. Ibn Kathir lists meanings: neglecting it, delaying it, rushing it. The Prophet ﷺ described a hasty, late prayer where one {trap}does not remember Allah except a little{/trap}.",
+    "now": "You glance at the clock, realise Asr is nearly gone, and rush four rakahs while thinking about dinner. {reward}Wandering thoughts happen to everyone.{/reward} The verse warns about the habit of not caring, not about the moment your mind drifts.",
+    "old": "My mind wanders in prayer, so my prayer is worthless.",
+    "new": "A wandering mind is human. The warning is for treating prayer as unimportant.",
+    "try": "Set a gentle reminder for one prayer today so you pray it calmly, not rushed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "107:6", "surah": 107, "ayah": 6, "place": "makkah",
+    "title": "They do good only so that people see.",
+    "subtitle": "Deeds performed for an audience",
+    "picture": {"kind": "boxes", "label": "Who the deed is for", "row": [
+      {"box": "people", "title": "the good deed", "sub": ["prayer, charity"]},
+      {"conn": "aimed at"},
+      {"box": "trap", "title": "the audience", "sub": ["not Allah"]}]},
+    "key": {"label": "When being seen is fine", "row": [
+      {"box": "trap", "title": "done to be seen", "sub": ["showing off"]},
+      {"box": "reward", "title": "done for Allah, then seen", "sub": ["not showing off"]}]},
+    "then": "The Prophet ﷺ said whoever {trap}makes people hear of his deed, Allah will make him heard and degraded{/trap}. Ibn Kathir adds a relief: {reward}whoever does a deed only for Allah and people find out, and he is pleased, that is not showing off{/reward}.",
+    "now": "The donation receipt you post. The Ramadan night-prayer selfie. The way you mention you fasted Monday. {trap}Who was it for?{/trap} And if someone sees your quiet good deed by accident, relax: that is not riya.",
+    "old": "If anyone sees my good deeds, they are ruined.",
+    "new": "What matters is who I did it for. Being seen by chance does not spoil it.",
+    "try": "Do one good deed today and tell absolutely no one about it.",
+    "related": ["4:142"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "107:7", "surah": 107, "ayah": 7, "place": "makkah",
+    "title": "They will not even lend a pot or a bucket.",
+    "subtitle": "The smallest help, withheld",
+    "picture": {"kind": "boxes", "label": "What al-ma'un is", "row": [
+      {"box": "plain", "title": "an axe", "sub": []},
+      {"box": "plain", "title": "a pot", "sub": []},
+      {"box": "plain", "title": "a bucket", "sub": []},
+      {"conn": "and they"},
+      {"box": "trap", "title": "refuse to lend", "sub": ["though it comes back"]}]},
+    "key": {"label": "What the surah links", "row": [
+      {"box": "trap", "title": "poor worship", "sub": ["toward the Lord"]},
+      {"box": "trap", "title": "poor kindness", "sub": ["toward His creation"]}]},
+    "then": "Ibn Mas'ud said al-ma'un is {idea}what people give each other: an axe, a pot, a bucket{/idea}. Ibn Kathir says they {trap}do not worship their Lord well, nor treat His creation well{/trap}, refusing to lend what would be returned intact.",
+    "now": "Your neighbour asks to borrow the ladder. A classmate wants your notes. A colleague needs your phone charger for ten minutes. {reward}Tiny things that cost you nothing.{/reward} The surah ends here because this is where character shows.",
+    "old": "Lending small things is a hassle. It is my stuff.",
+    "new": "Lending a small thing is part of worship. How I treat people and how I pray go together.",
+    "try": "Offer to lend something today before you are even asked.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

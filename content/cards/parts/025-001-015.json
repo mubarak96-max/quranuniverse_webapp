@@ -1,0 +1,297 @@
+[
+  {
+    "id": "25:1", "surah": 25, "ayah": 1, "place": "makkah",
+    "title": "A book that sorts true from false, sent piece by piece.",
+    "subtitle": "Why the Quran is called the Criterion",
+    "picture": {"kind": "boxes", "label": "What was sent", "row": [
+      {"box": "idea", "title": "the Criterion", "sub": ["sorts true from false"]},
+      {"conn": "sent down, again and again"},
+      {"box": "people", "title": "His servant", "sub": ["named with honor"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the worlds", "sub": ["all people, not one tribe"]}]},
+    "key": {"label": "How it arrived", "row": [
+      {"box": "plain", "title": "all at once", "sub": ["like a delivered parcel"], "strike": true},
+      {"box": "idea", "title": "verse after verse", "sub": ["a sign of care for the receiver"]}]},
+    "then": "In Makkah, people were arguing about the Quran and about the Prophet ﷺ. The surah opens by praising Allah for sending it. Ibn Kathir notes the verb means {idea}sent down often, in stages{/idea}, unlike earlier books. And the Prophet ﷺ is called {reward}His servant{/reward}, a title of honor.",
+    "now": "You scroll through ten opinions on the same question before lunch. Everyone sounds sure. You close the app more confused than when you opened it. {idea}A criterion is a measuring stick{/idea}, something you hold every opinion up against, including your own.",
+    "old": "Truth is whatever sounds most confident today.",
+    "new": "Allah gave a fixed measure, and I can test things against it.",
+    "try": "Next time you feel pulled by a strong opinion online, pause and ask: what would the Quran weigh this against?",
+    "related": ["18:1", "25:32", "17:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:2", "surah": 25, "ayah": 2, "place": "makkah",
+    "title": "He owns it all and measured every thing to fit.",
+    "subtitle": "No partner, no son, and nothing made by accident",
+    "picture": {"kind": "boxes", "label": "Who He is", "row": [
+      {"box": "idea", "title": "owns heavens and earth", "sub": ["the whole dominion"]},
+      {"box": "trap", "title": "no son", "sub": ["above needing one"], "strike": true},
+      {"box": "trap", "title": "no partner", "sub": ["no one shares control"], "strike": true},
+      {"box": "idea", "title": "measured each thing", "sub": ["exact, on purpose"]}]},
+    "key": {"label": "What things are", "row": [
+      {"box": "plain", "title": "random", "sub": ["it just happened"], "strike": true},
+      {"box": "idea", "title": "measured", "sub": ["created, then sized to its role"]}]},
+    "then": "The Quran was answering people who gave Allah partners and children. Ibn Kathir explains that {idea}everything apart from Him is created and subject to Him{/idea}. He made each thing and set its measure exactly.",
+    "now": "You look at your life and some parts feel badly sized: the small flat, the slow career, the body that tires early. You assume it is all luck. {idea}The verse says each thing was measured.{/idea} That does not mean stop trying. It means nothing in your life is outside His control.",
+    "old": "My life is a pile of accidents I have to manage alone.",
+    "new": "The One who measured everything also measured my portion, and He has no rival.",
+    "try": "Pick one thing in your life you resent the size of. Say: He measured this, and ask Him for good in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:3", "surah": 25, "ayah": 3, "place": "makkah",
+    "title": "They worshipped things that cannot even help themselves.",
+    "subtitle": "Gods that create nothing and are created",
+    "picture": {"kind": "boxes", "label": "What the idols could do", "row": [
+      {"box": "trap", "title": "create", "sub": ["not even a gnat's wing"], "strike": true},
+      {"box": "trap", "title": "help or harm", "sub": ["not even themselves"], "strike": true},
+      {"box": "trap", "title": "life, death, raising", "sub": ["none of it"], "strike": true}]},
+    "key": {"label": "Where the power sits", "row": [
+      {"box": "people", "title": "the things I lean on", "sub": ["created, needy"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["gives life, death, resurrection"]}]},
+    "then": "The people of Makkah kept idols as gods beside Allah. Ibn Kathir calls this the ignorance of the idolators: {trap}idols who could not create the wing of a gnat{/trap}, yet were treated as if they could protect their worshippers. Only Allah gives life, takes it, and brings everyone back.",
+    "now": "Your mood depends on a number in your bank app. Or on one person's approval. Or on the boss liking your last email. These are not idols of stone, but you check them the way a worshipper checks a shrine. {idea}None of them can keep themselves alive, let alone you.{/idea}",
+    "old": "If I keep this person or this money on my side, I am safe.",
+    "new": "Anything that cannot save itself cannot save me. Only the Living One can.",
+    "try": "Notice the one thing you check most anxiously today. Each time, say quietly: this is created, Allah is the One I rely on.",
+    "related": ["31:28", "54:50", "36:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:4", "surah": 25, "ayah": 4, "place": "makkah",
+    "title": "They called it a lie and knew they were lying.",
+    "subtitle": "The first accusation: he made it up with help",
+    "picture": {"kind": "boxes", "label": "The claim", "row": [
+      {"box": "trap", "title": "a lie", "sub": ["he invented it"]},
+      {"box": "trap", "title": "a team", "sub": ["others helped him"]},
+      {"conn": "is really"},
+      {"box": "trap", "title": "wrong and falsehood", "sub": ["from the accusers"]}]},
+    "key": {"label": "What they already knew", "row": [
+      {"box": "trap", "title": "liar", "sub": ["their new label"], "strike": true},
+      {"box": "people", "title": "Al-Amin", "sub": ["their old name for him"]}]},
+    "then": "Quraysh had known the Prophet ﷺ for about forty years and called him {reward}Al-Amin, the Trustworthy{/reward}. When the message came, they suddenly called it an invention made with outside help. Ibn Kathir says {trap}their own souls knew{/trap} the claim was not true.",
+    "now": "A colleague gets the promotion you wanted. Last week you praised their work. This week you are telling a friend they probably had help, or charm, or luck. {idea}The story changed when your interest did.{/idea}",
+    "old": "I am just being realistic about how they really got there.",
+    "new": "When my opinion of someone flips the moment they threaten me, the problem is in me.",
+    "try": "Think of one person you have recently talked down. Say one true good thing about them to someone today.",
+    "related": ["17:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:5", "surah": 25, "ayah": 5, "place": "makkah",
+    "title": "Old stories, they said, read to him morning and evening.",
+    "subtitle": "The second accusation, and why it falls apart",
+    "picture": {"kind": "boxes", "label": "The accusation", "row": [
+      {"box": "trap", "title": "tales of the ancients", "sub": ["copied from old books"]},
+      {"conn": "dictated"},
+      {"box": "people", "title": "to him", "sub": ["morning and afternoon"]}]},
+    "key": {"label": "The plain fact", "row": [
+      {"box": "trap", "title": "he copied it", "sub": ["from written sources"], "strike": true},
+      {"box": "people", "title": "he could not read", "sub": ["everyone in Makkah knew"]}]},
+    "then": "The next charge was that the Quran was old legends someone wrote down and recited to him all day. Ibn Kathir points out that it was {idea}well known he never learned to read or write{/idea}. They knew him for forty years. {trap}They could not settle on one accusation.{/trap}",
+    "now": "Someone you dislike posts something wise. Your first move is to search for where they copied it from. You are not curious about the idea, only about how to dismiss it. {idea}Looking for a way out is different from looking for the truth.{/idea}",
+    "old": "If I can find a reason to dismiss it, I do not have to think about it.",
+    "new": "Rushing to explain a truth away is a sign I do not want it to be true.",
+    "try": "Take one idea you rejected because of who said it. Give it five honest minutes on its own merits.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:6", "surah": 25, "ayah": 6, "place": "makkah",
+    "title": "The reply to slander ends with an open door.",
+    "subtitle": "He knows every secret, and still forgives",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "idea", "title": "sent by Him", "sub": ["who knows every secret"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["even to the accusers"]}]},
+    "key": {"label": "What you would expect", "row": [
+      {"box": "trap", "title": "a threat", "sub": ["after all those lies"], "strike": true},
+      {"box": "reward", "title": "an invitation", "sub": ["come back, I forgive"]}]},
+    "then": "After the accusations, Allah tells the Prophet ﷺ to answer: it comes from the One who {idea}knows the secret of the heavens and the earth{/idea}. Then He calls Himself Forgiving and Merciful. Ibn Kathir says this is {reward}an invitation to repent{/reward}, offered to the very people slandering him.",
+    "now": "You said something cruel in the family group chat last year. Everyone remembers. You feel you have used up your chance. {reward}This verse was spoken to people far worse{/reward}, and it still ended with: He forgives.",
+    "old": "After what I have said and done, the door is closed for me.",
+    "new": "He knows the secret I hide, and He still calls Himself Forgiving to me.",
+    "try": "Make one quiet, honest request for forgiveness for something you thought was too big.",
+    "related": ["5:73", "85:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:7", "surah": 25, "ayah": 7, "place": "makkah",
+    "title": "He eats and shops in markets, so how is he a messenger?",
+    "subtitle": "The objection that a prophet looked too ordinary",
+    "picture": {"kind": "boxes", "label": "What bothered them", "row": [
+      {"box": "people", "title": "eats food", "sub": ["like us"]},
+      {"box": "people", "title": "walks the markets", "sub": ["earns a living"]},
+      {"conn": "so they asked for"},
+      {"box": "plain", "title": "an angel", "sub": ["as a witness beside him"]}]},
+    "key": {"label": "What makes a messenger", "row": [
+      {"box": "trap", "title": "looking special", "sub": ["above daily life"], "strike": true},
+      {"box": "idea", "title": "carrying the message", "sub": ["inside ordinary life"]}]},
+    "then": "Quraysh saw the Prophet ﷺ eat as they ate and {idea}go to the markets to trade and earn{/idea}. They asked why no angel came down to stand beside him. Ibn Kathir compares it to {trap}Pharaoh asking why Musa had no gold bracelets or angels{/trap}.",
+    "now": "You dismiss the imam because he drives an old car. You doubt the teacher because you saw her shopping in slippers. {idea}You expect truth to arrive dressed up.{/idea} Often it comes from someone queuing next to you.",
+    "old": "Someone that ordinary cannot have anything important to tell me.",
+    "new": "An ordinary life is exactly where a real message is meant to be lived.",
+    "try": "Listen fully today to someone you usually overlook because they seem too ordinary.",
+    "related": ["43:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:8", "surah": 25, "ayah": 8, "place": "makkah",
+    "title": "No treasure, no garden, so they called him bewitched.",
+    "subtitle": "Judging truth by wealth",
+    "picture": {"kind": "boxes", "label": "What they wanted to see", "row": [
+      {"box": "reward", "title": "a treasure", "sub": ["thrown down to him"]},
+      {"box": "reward", "title": "a garden", "sub": ["food wherever he went"]},
+      {"conn": "missing, so"},
+      {"box": "trap", "title": "a man bewitched", "sub": ["their label"]}]},
+    "key": {"label": "The test they used", "row": [
+      {"box": "trap", "title": "rich means right", "sub": ["no wealth, no truth"], "strike": true},
+      {"box": "idea", "title": "Allah chose otherwise", "sub": ["for a reason He knows"]}]},
+    "then": "They kept asking for proof they could hold: {reward}a treasure to spend, a garden to eat from{/reward}. When none came, the wrongdoers told the believers they were following a man under a spell. Ibn Kathir notes all of this was easy for Allah, but {idea}He had a reason for not doing it{/idea}.",
+    "now": "You trust the finance influencer with the rented sports car more than your quiet uncle who has never been in debt. {trap}The display wins the argument.{/trap} Ask what you are actually measuring.",
+    "old": "If someone is right, it should show in their success.",
+    "new": "Wealth is not a proof of truth, and its absence is not a proof of falsehood.",
+    "try": "When you next judge a person by what they own, stop and name one thing about their character instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:9", "surah": 25, "ayah": 9, "place": "makkah",
+    "title": "So many labels, and none of them led anywhere.",
+    "subtitle": "When you keep switching your excuse",
+    "picture": {"kind": "boxes", "label": "The labels they tried", "row": [
+      {"box": "trap", "title": "sorcerer", "sub": []},
+      {"box": "trap", "title": "poet", "sub": []},
+      {"box": "trap", "title": "crazy", "sub": []},
+      {"box": "trap", "title": "liar", "sub": []},
+      {"conn": "end in"},
+      {"box": "trap", "title": "no way out", "sub": ["lost, every direction"]}]},
+    "key": {"label": "Why they could not find a path", "row": [
+      {"box": "plain", "title": "many paths", "sub": ["pick any excuse"], "strike": true},
+      {"box": "idea", "title": "one truth", "sub": ["its parts confirm each other"]}]},
+    "then": "Allah tells the Prophet ﷺ to look at how they keep inventing comparisons for him. Ibn Kathir lists them: {trap}a sorcerer, bewitched, crazy, a liar, a poet{/trap}. He says {idea}the truth is one{/idea}, and whoever leaves it is lost no matter which way he goes.",
+    "now": "You skipped the prayer. First it was work. Then you were tired. Then it was too late anyway. Each excuse replaced the last. {idea}When reasons keep changing, the real reason is not on the list.{/idea}",
+    "old": "I have a good reason each time.",
+    "new": "Changing excuses usually hide one thing I do not want to admit.",
+    "try": "Pick one thing you keep putting off. Write your real reason in one honest line.",
+    "related": ["17:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:10", "surah": 25, "ayah": 10, "place": "makkah",
+    "title": "He could give you gardens and palaces if He willed.",
+    "subtitle": "What they asked for is small to Allah",
+    "picture": {"kind": "boxes", "label": "What they demanded vs what He could give", "row": [
+      {"box": "plain", "title": "one treasure, one garden", "sub": ["their demand"]},
+      {"conn": "far less than"},
+      {"box": "reward", "title": "gardens with rivers", "sub": ["and palaces"]}]},
+    "key": {"label": "Why it was not given", "row": [
+      {"box": "trap", "title": "He cannot", "sub": ["so the claim is weak"], "strike": true},
+      {"box": "idea", "title": "He has not willed it", "sub": ["yet, and for a reason"]}]},
+    "then": "To the demand for a treasure and a garden, Allah replies that He could give the Prophet ﷺ {reward}better than all that, gardens and palaces{/reward}. Mujahid said this means in this world. Quraysh called every stone house a palace. {idea}It was never a question of power.{/idea}",
+    "now": "Your friend got the house, the car, the wedding. You are still renting and praying. You start to wonder if Allah forgot you. {idea}What you are waiting for is tiny to Him.{/idea} Its delay is not His inability.",
+    "old": "If Allah loved me, I would have what they have by now.",
+    "new": "He could give me far more in a moment. The timing is His wisdom, not His limit.",
+    "try": "Make one dua today for the thing you want, and add: if it is good for me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:11", "surah": 25, "ayah": 11, "place": "makkah",
+    "title": "The real problem was not him. It was the Hour.",
+    "subtitle": "What sat underneath all their objections",
+    "picture": {"kind": "boxes", "label": "The objections and their root", "row": [
+      {"box": "trap", "title": "angel? treasure? garden?", "sub": ["surface demands"]},
+      {"conn": "grow from"},
+      {"box": "trap", "title": "denying the Hour", "sub": ["no Day, no account"]}]},
+    "key": {"label": "Why they argued", "row": [
+      {"box": "plain", "title": "seeking guidance", "sub": ["honest questions"], "strike": true},
+      {"box": "trap", "title": "denying the Day", "sub": ["so nothing would count"]}]},
+    "then": "After all the demands, the verse names the root: {trap}they denied the Hour{/trap}. Ibn Kathir says they were not asking to find guidance. Their disbelief in the Day of Resurrection is what made them say it. A blaze is prepared for those who deny it.",
+    "now": "You argue with every reminder about prayer, debt, or how you speak to your parents. Each time it is a different detail. {idea}Underneath, it may be that the Day just does not feel real to you right now.{/idea}",
+    "old": "I just have honest questions about the details.",
+    "new": "Sometimes my questions are a way to avoid believing that this all gets counted.",
+    "try": "Spend two minutes tonight picturing standing before Allah. Then ask what you would change tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:12", "surah": 25, "ayah": 12, "place": "makkah",
+    "title": "The Fire is heard from far away.",
+    "subtitle": "The warning reaches them before they arrive",
+    "picture": {"kind": "boxes", "label": "From the place of gathering", "row": [
+      {"box": "people", "title": "those who denied", "sub": ["still far off"]},
+      {"conn": "already hear"},
+      {"box": "trap", "title": "its fury and roar", "sub": ["from a distance"]}]},
+    "key": {"label": "When the warning comes", "row": [
+      {"box": "trap", "title": "only at the end", "sub": ["no notice"], "strike": true},
+      {"box": "idea", "title": "now, from far", "sub": ["this verse is the distant sound"]}]},
+    "then": "The verse describes the Fire seeing the deniers {trap}from a far place{/trap}, the place of gathering, and they hear its raging. Ibn Kathir cites a report from Ibn Abbas of people pulled toward it, and some being released when they said {reward}they had hoped for His mercy{/reward}.",
+    "now": "A doctor tells you to change your diet now, years before anything breaks. Most of us wait for the alarm. {idea}This verse is the warning heard from far off{/idea}, while there is still time to turn around.",
+    "old": "I will deal with it when it gets close.",
+    "new": "The warning is given from far away so I can turn back long before.",
+    "try": "Choose one habit you know is harming you and take one small step away from it today.",
+    "related": ["67:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:13", "surah": 25, "ayah": 13, "place": "makkah",
+    "title": "In a narrow place, they cry out for an end.",
+    "subtitle": "Regret when nothing can be undone",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "a narrow place", "sub": ["no room to move"]},
+      {"box": "trap", "title": "bound together", "sub": ["no escape"]},
+      {"conn": "they cry"},
+      {"box": "trap", "title": "destruction", "sub": ["woe and regret"]}]},
+    "key": {"label": "Regret", "row": [
+      {"box": "trap", "title": "regret then", "sub": ["too late to change"]},
+      {"box": "reward", "title": "regret now", "sub": ["the start of repentance"]}]},
+    "then": "The verse describes the deniers placed in {trap}a narrow place, bound{/trap}. Ibn Kathir says they will utter cries of woe, regret and sorrow. It is told to Makkans who still had their whole lives to respond.",
+    "now": "Lying awake, you replay something you did. The feeling is heavy. {reward}That ache today is a mercy{/reward}, because you can still act on it: apologize, repay, pray. The verse shows regret that has nowhere to go.",
+    "old": "Feeling guilty is just a bad feeling I should push away.",
+    "new": "Regret I feel today is a gift, because I can still do something with it.",
+    "try": "Take one regret that visits you often and do one small thing to repair it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:14", "surah": 25, "ayah": 14, "place": "makkah",
+    "title": "Not one cry of ruin, but many.",
+    "subtitle": "The reply to their cry of regret",
+    "picture": {"kind": "boxes", "label": "What they are told", "row": [
+      {"box": "trap", "title": "one destruction", "sub": ["what they cry for"], "strike": true},
+      {"conn": "rather"},
+      {"box": "trap", "title": "many", "sub": ["the loss is bigger than one cry"]}]},
+    "key": {"label": "The size of the loss", "row": [
+      {"box": "plain", "title": "one bad moment", "sub": ["it will pass"], "strike": true},
+      {"box": "trap", "title": "a lasting loss", "sub": ["no single cry covers it"]}]},
+    "then": "Those who cried out for destruction are answered: {trap}do not cry for one destruction today, but for many{/trap}. Their regret will not end their situation. It closes the scene that began with denying the Hour.",
+    "now": "You tell yourself one more late night of that habit is just one. But it is never just one. {idea}Small choices stack up quietly{/idea}, and the verse shows a total no one can carry. The good news: good choices stack too.",
+    "old": "It is only this once, it will not add up.",
+    "new": "Choices add up, so each small one matters, the good ones as well.",
+    "try": "Replace one small repeated bad choice today with a good one, and do it again tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:15", "surah": 25, "ayah": 15, "place": "makkah",
+    "title": "Is that better, or the Garden that lasts forever?",
+    "subtitle": "A simple question placed after the warning",
+    "picture": {"kind": "boxes", "label": "The two endings", "row": [
+      {"box": "trap", "title": "that place", "sub": ["narrow, bound, regret"]},
+      {"conn": "or"},
+      {"box": "reward", "title": "the eternal Garden", "sub": ["promised to the mindful"]}]},
+    "key": {"label": "What it is", "row": [
+      {"box": "plain", "title": "a hope", "sub": ["maybe, someday"], "strike": true},
+      {"box": "reward", "title": "a reward and a home", "sub": ["for their obedience"]}]},
+    "then": "Right after the scene of the Fire, Allah tells the Prophet ﷺ to ask: {idea}is that better, or the Garden of Eternity?{/idea} Ibn Kathir says it is prepared {reward}as a reward and final destination{/reward} for those with taqwa, in return for their obedience. He compares it to a similar question in Surah As-Saffat.",
+    "now": "Payday comes. You can spend it all on this weekend or set some aside for something that lasts. You already know which is wiser, you just need someone to ask the question out loud. {idea}This verse asks it.{/idea}",
+    "old": "The reward is far away and vague; today is real.",
+    "new": "When I put both endings side by side, the choice becomes obvious.",
+    "try": "Before one decision today, ask yourself plainly: which of these lasts?",
+    "related": ["37:62"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

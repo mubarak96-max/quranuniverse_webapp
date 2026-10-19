@@ -1,0 +1,288 @@
+[
+  {
+    "id": "61:1", "surah": 61, "ayah": 1, "place": "madinah",
+    "title": "Everything around you is already praising Him.",
+    "subtitle": "The surah opens on a world in worship",
+    "picture": {"kind": "boxes", "label": "Who glorifies", "row": [
+      {"box": "people", "title": "the heavens", "sub": ["everything in them"]},
+      {"box": "people", "title": "the earth", "sub": ["everything on it"]},
+      {"conn": "glorify"},
+      {"box": "idea", "title": "Allah", "sub": ["the Mighty, the Wise"]}]},
+    "key": {"label": "Where you stand", "row": [
+      {"box": "people", "title": "praise is a moment", "sub": ["something I do sometimes"], "strike": true},
+      {"box": "idea", "title": "praise is the background", "sub": ["I join or I fall silent"]}]},
+    "then": "The Companions had asked which deeds Allah loves most, and none of them dared to go and ask. A man was sent to them and recited this whole surah. It begins by reminding them that {idea}all of creation already glorifies Allah{/idea}, before it asks anything of them.",
+    "now": "You step outside after a long day on the laptop. Birds, wind, traffic, the sky going orange. None of it is waiting for you to start. {idea}The whole world is already in praise.{/idea} The only question is whether you join in.",
+    "old": "Praising Allah is a special thing I do at special times.",
+    "new": "Praise is what everything is already doing, and I am invited to join it.",
+    "try": "Next time you step outside, say SubhanAllah once and notice one thing that is already praising Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:2", "surah": 61, "ayah": 2, "place": "madinah",
+    "title": "Why do you say what you do not do?",
+    "subtitle": "The gap between words and actions",
+    "picture": {"kind": "boxes", "label": "The gap", "row": [
+      {"box": "people", "title": "what I say", "sub": ["\"if only we knew\"", "\"I would do it\""]},
+      {"conn": "but"},
+      {"box": "trap", "title": "what I do", "sub": ["retreat when tested"]}]},
+    "key": {"label": "What the question asks", "row": [
+      {"box": "people", "title": "good intentions count", "sub": ["I meant well"], "strike": true},
+      {"box": "idea", "title": "close the gap", "sub": ["say less, or do more"]}]},
+    "then": "Some believers said: if only we knew the deeds Allah loves most, we would do them. When they were told, and then tested at Uhud, some fled. Others boasted of fighting they had not done. {trap}The promise was louder than the deed.{/trap} Ibn Kathir notes that breaking a promise is one of the signs of a hypocrite.",
+    "now": "You tell the group chat you will help move house on Saturday. Saturday comes and you are tired. You tell a friend you will call back. You tell yourself you will start praying on time from Monday. {idea}Each one is a small gap between your mouth and your hands.{/idea}",
+    "old": "Saying I will do something good is already half of doing it.",
+    "new": "A promise I do not keep is not half a good deed. It is a gap Allah asks me about.",
+    "try": "Pick one small promise you made this week and keep it today, or honestly tell the person you cannot.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:3", "surah": 61, "ayah": 3, "place": "madinah",
+    "title": "Empty promises are deeply hated by Allah.",
+    "subtitle": "Why this gap is so serious",
+    "picture": {"kind": "boxes", "label": "A promise to a child", "row": [
+      {"box": "people", "title": "a mother", "sub": ["\"come, I will give you something\""]},
+      {"conn": "asked"},
+      {"box": "idea", "title": "the Prophet ﷺ", "sub": ["\"what will you give him?\""]},
+      {"box": "reward", "title": "dates", "sub": ["the promise kept"]}]},
+    "key": {"label": "What counts as a lie", "row": [
+      {"box": "people", "title": "small words, no weight", "sub": ["just calling a child over"], "strike": true},
+      {"box": "trap", "title": "an unkept word", "sub": ["written as a lie"]}]},
+    "then": "Ibn Kathir records that a mother called her young son with the promise of something. The Prophet ﷺ asked what she meant to give. She said dates. He told her that {trap}if she had given nothing, it would have been written as a lie{/trap}. The verse calls saying without doing {trap}great hatred{/trap} with Allah.",
+    "now": "\"Get in the car and I will buy you sweets.\" \"Five more minutes and we will go to the park.\" You say it to make the moment easier. The child remembers. {idea}Even the small throwaway promises are real words.{/idea}",
+    "old": "Little promises to get through the moment do not really count.",
+    "new": "Every word I give is weighed, even the tiny ones I say to a child.",
+    "try": "Today, before you promise anything, pause and ask yourself if you will really do it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:4", "surah": 61, "ayah": 4, "place": "madinah",
+    "title": "Allah loves people who stand together like one wall.",
+    "subtitle": "Rows fixed together, not scattered individuals",
+    "picture": {"kind": "boxes", "label": "The row", "row": [
+      {"box": "people", "title": "each believer", "sub": ["one brick"]},
+      {"conn": "cemented to"},
+      {"box": "people", "title": "the next", "sub": ["no gaps"]},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "a solid structure", "sub": ["it does not move"]}]},
+    "key": {"label": "What Allah loves", "row": [
+      {"box": "people", "title": "lone heroes", "sub": ["my own brave act"], "strike": true},
+      {"box": "reward", "title": "a firm row", "sub": ["parts holding each other"]}]},
+    "then": "This was the answer to the question the Companions wanted to ask: the deed Allah loves. The Prophet ﷺ liked to line up his forces in rows before battle. Ibn Abbas said they are like {idea}a building that does not move, because its parts are cemented to each other{/idea}.",
+    "now": "A mosque fundraiser, a family caring for a sick parent, a team at work under pressure. It falls apart when everyone does their own thing. {reward}It holds when each person locks in next to the others{/reward} and stays there when it gets hard.",
+    "old": "What matters is my own effort, done my own way.",
+    "new": "Allah loves the effort that stands in line with others and does not break.",
+    "try": "Ask one person in your family or community how you can help with something they are already carrying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:5", "surah": 61, "ayah": 5, "place": "madinah",
+    "title": "Why hurt me when you know I am sent to you?",
+    "subtitle": "Musa's pain, and a heart that turns",
+    "picture": {"kind": "boxes", "label": "How a heart turns", "row": [
+      {"box": "people", "title": "they knew", "sub": ["he was Allah's messenger"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "they hurt him", "sub": ["and turned away"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "hearts turned", "sub": ["Allah let them drift"]}]},
+    "key": {"label": "Who turns first", "row": [
+      {"box": "people", "title": "my heart just changed", "sub": ["it happened to me"], "strike": true},
+      {"box": "idea", "title": "I turned first", "sub": ["then my heart followed"]}]},
+    "then": "Musa's own people knew he was truthful, yet they kept hurting him. Ibn Kathir says this was a comfort to the Prophet ﷺ, who once said Musa was hurt more than this and stayed patient. {trap}When they turned away from guidance they knew, Allah turned their hearts away.{/trap}",
+    "now": "You know a habit is wrong. You do it anyway, then again. After a while it stops feeling wrong at all. {trap}The numbness did not arrive by chance.{/trap} {idea}It grew from each time you turned away while knowing.{/idea}",
+    "old": "My heart just feels far from Allah lately, and I do not know why.",
+    "new": "A heart often drifts after I have turned from what I already knew was right.",
+    "try": "Name one thing you know is right but keep putting off. Take one small step toward it today.",
+    "related": ["33:69", "6:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:6", "surah": 61, "ayah": 6, "place": "madinah",
+    "title": "Isa gave good news of a messenger called Ahmad.",
+    "subtitle": "One chain of messengers, each confirming the last",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "people", "title": "the Torah", "sub": ["came before"]},
+      {"conn": "confirmed by"},
+      {"box": "people", "title": "Isa", "sub": ["son of Maryam"]},
+      {"conn": "announces"},
+      {"box": "idea", "title": "Ahmad ﷺ", "sub": ["the last messenger"]}]},
+    "key": {"label": "How proof was met", "row": [
+      {"box": "reward", "title": "clear proofs", "sub": ["shown openly"]},
+      {"box": "trap", "title": "\"plain magic\"", "sub": ["a label to dismiss it"]}]},
+    "then": "Isa told the Children of Israel he confirmed the Torah and brought good news of a messenger after him named Ahmad. The Prophet ﷺ said he had several names, Muhammad and Ahmad among them. {trap}Yet when clear proofs came, the answer was: this is plain magic.{/trap}",
+    "now": "A friend shows you something true that would change how you live. You do not argue with it. You just give it a label: extreme, old-fashioned, too much. {trap}A label is easier than a change.{/trap} {idea}Notice when you reach for one.{/idea}",
+    "old": "If something is really true, I will recognise it straight away.",
+    "new": "Truth can stand in front of me and I can still wave it off with a word.",
+    "try": "Think of one reminder you dismissed recently. Give it one honest minute of thought today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:7", "surah": 61, "ayah": 7, "place": "madinah",
+    "title": "Inventing lies about Allah while being called to Him.",
+    "subtitle": "The worst wrong is refusing the open door",
+    "picture": {"kind": "boxes", "label": "Two directions", "row": [
+      {"box": "reward", "title": "the invitation", "sub": ["to worship Allah alone"]},
+      {"conn": "answered with"},
+      {"box": "trap", "title": "a lie about Him", "sub": ["rivals and partners"]}]},
+    "key": {"label": "What makes it worse", "row": [
+      {"box": "people", "title": "they did not know", "sub": ["no one told them"], "strike": true},
+      {"box": "trap", "title": "they were being invited", "sub": ["the door was open"]}]},
+    "then": "Ibn Kathir explains that none is more unjust than one who lies about Allah and sets up partners with Him, {trap}even while he is being invited{/trap} to worship Him sincerely. The weight comes from refusing while the call is still in your ears.",
+    "now": "Someone kindly reminds you about the prayer you keep missing. You make up a reason: Allah does not need it, He knows my heart. {trap}That is putting words in Allah's mouth.{/trap} {idea}The invitation is still open while you speak.{/idea}",
+    "old": "I can decide for myself what Allah really wants from me.",
+    "new": "Making up what suits me about Allah, while He is calling me, is the deepest wrong.",
+    "try": "Catch one phrase you use to excuse yourself, like \"Allah knows my heart\", and ask if it is really true.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:8", "surah": 61, "ayah": 8, "place": "madinah",
+    "title": "Trying to blow out the sun with your mouth.",
+    "subtitle": "Allah completes His light anyway",
+    "picture": {"kind": "boxes", "label": "The attempt", "row": [
+      {"box": "trap", "title": "mouths", "sub": ["words, mockery, lies"]},
+      {"conn": "blow at"},
+      {"box": "reward", "title": "Allah's light", "sub": ["like the sun"]},
+      {"conn": "result"},
+      {"box": "idea", "title": "it is completed", "sub": ["whoever dislikes it"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "the loudest voices", "sub": ["they will win"], "strike": true},
+      {"box": "idea", "title": "Allah perfects it", "sub": ["no mouth can stop it"]}]},
+    "then": "The early Muslims in Madinah faced constant talk, plots and doubts spread against them. Ibn Kathir compares those efforts to {trap}someone trying to put out the sun by blowing at it{/trap}. {idea}Allah will perfect His light{/idea}, however much it is disliked.",
+    "now": "You scroll and see comment after comment mocking faith. It can make you feel small, like the light is going out. {idea}It is not.{/idea} Breath does not reach the sun. Your job is to stay near it, not to win every comment war.",
+    "old": "If everyone online is against the truth, the truth must be losing.",
+    "new": "Words cannot put out what Allah has decided to complete.",
+    "try": "Close one app that leaves you feeling faith is under siege, and read one page of Quran instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:9", "surah": 61, "ayah": 9, "place": "madinah",
+    "title": "He sent His Messenger with guidance to prevail.",
+    "subtitle": "The message has a direction and a finish",
+    "picture": {"kind": "boxes", "label": "What was sent", "row": [
+      {"box": "idea", "title": "His Messenger ﷺ", "sub": ["sent by Allah"]},
+      {"conn": "with"},
+      {"box": "reward", "title": "guidance", "sub": ["the way"]},
+      {"box": "reward", "title": "the true religion", "sub": ["to prevail"]}]},
+    "key": {"label": "Whose plan", "row": [
+      {"box": "people", "title": "it depends on me", "sub": ["I must make it win"], "strike": true},
+      {"box": "idea", "title": "it is His plan", "sub": ["I choose to be part of it"]}]},
+    "then": "Following the verse about the light, Allah says it is He who sent the Messenger ﷺ with guidance and the religion of truth, {idea}to make it prevail{/idea}. Ibn Kathir says the meaning was explained in Surah Bara'ah. The early believers, after the hurt of Uhud, heard this as a promise.",
+    "now": "You worry about your kids' faith, about the future, about whether any of it will last. {idea}The outcome is in Allah's hands.{/idea} {reward}Your part is smaller and lighter:{/reward} live it well today, where you are.",
+    "old": "The future of faith rests on my shoulders and my worry.",
+    "new": "Allah has already set the direction. I only choose whether I walk with it.",
+    "try": "Write down one worry about the future of your faith or family, then make one dua about it and leave it with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:10", "surah": 61, "ayah": 10, "place": "madinah",
+    "title": "Shall I show you a trade that saves you?",
+    "subtitle": "Allah speaks to believers in the language of business",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "people", "title": "you", "sub": ["looking for a good deal"]},
+      {"conn": "shown"},
+      {"box": "idea", "title": "a trade", "sub": ["that never fails"]},
+      {"conn": "saves from"},
+      {"box": "trap", "title": "painful punishment", "sub": ["what you fear"]}]},
+    "key": {"label": "Which deal matters", "row": [
+      {"box": "people", "title": "deals of this life", "sub": ["salary, profit, savings"], "strike": true},
+      {"box": "reward", "title": "the trade with Allah", "sub": ["it never loses"]}]},
+    "then": "The Companions wanted to know the best deeds so they could do them. Allah answered in their own language. Madinah was a market town. {idea}Shall I guide you to a trade?{/idea} Ibn Kathir calls it the trade that never fails, earning what you hope and saving you from what you fear.",
+    "now": "You compare phone contracts for an hour. You check interest rates, read reviews, chase the best deal. {reward}Allah is offering one where you cannot lose.{/reward} Do you give it even a fraction of that attention?",
+    "old": "Religion asks me to give things up for nothing I can see.",
+    "new": "It is a trade, and Allah is the One who guarantees the return.",
+    "try": "Next time you research a purchase, spend the same five minutes thinking about one good deed you could invest in.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:11", "surah": 61, "ayah": 11, "place": "madinah",
+    "title": "Believe, and strive with your wealth and yourself.",
+    "subtitle": "What you put into the trade",
+    "picture": {"kind": "boxes", "label": "Your side of the trade", "row": [
+      {"box": "idea", "title": "belief", "sub": ["in Allah and His Messenger"]},
+      {"box": "reward", "title": "wealth", "sub": ["what you own"]},
+      {"box": "reward", "title": "yourself", "sub": ["time, effort, life"]},
+      {"conn": "is"},
+      {"box": "idea", "title": "better for you", "sub": ["if you only knew"]}]},
+    "key": {"label": "What is better", "row": [
+      {"box": "people", "title": "keeping it all", "sub": ["safe and saved"], "strike": true},
+      {"box": "reward", "title": "spending it for Allah", "sub": ["better, if you know"]}]},
+    "then": "The trade is explained: believe in Allah and His Messenger ﷺ and {idea}strive in His cause with your wealth and your lives{/idea}. Ibn Kathir says this is better than the trade of this world and the effort of piling it up.",
+    "now": "Payday. Rent, bills, the car, a little saved. And you, worn out from overtime. {reward}Some of that money and some of that energy can go somewhere that lasts.{/reward} A donation, a visit, an hour helping someone.",
+    "old": "My money and my energy are already fully used up.",
+    "new": "Putting some of them into Allah's cause is the best use they will ever have.",
+    "try": "Set aside one small, fixed amount from your next pay for a cause, before anything else goes out.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:12", "surah": 61, "ayah": 12, "place": "madinah",
+    "title": "The return: forgiveness, gardens, and a home that lasts.",
+    "subtitle": "What Allah gives back in the trade",
+    "picture": {"kind": "boxes", "label": "Allah's side", "row": [
+      {"box": "reward", "title": "forgiveness", "sub": ["your sins wiped"]},
+      {"box": "reward", "title": "gardens", "sub": ["rivers flowing beneath"]},
+      {"box": "reward", "title": "pleasant homes", "sub": ["in gardens of Eden"]},
+      {"conn": "that is"},
+      {"box": "idea", "title": "the great success", "sub": ["the real win"]}]},
+    "key": {"label": "What success means", "row": [
+      {"box": "people", "title": "winning here", "sub": ["house, title, savings"], "strike": true},
+      {"box": "reward", "title": "the great success", "sub": ["forgiven, and home"]}]},
+    "then": "Ibn Kathir explains: if you do what Allah commanded, He forgives your sins and gives you {reward}gardens with rivers, exalted homes and high positions{/reward}. The verse names it {idea}the great success{/idea}.",
+    "now": "You scroll past a friend's new house, a promotion post, a wedding. Success looks like that on a screen. {idea}Allah defines it differently:{/idea} {reward}being forgiven, and a home that never needs a mortgage.{/reward}",
+    "old": "Success is what people around me can see and admire.",
+    "new": "The great success is being forgiven and given a lasting home with Allah.",
+    "try": "Before bed, ask Allah for forgiveness for one specific thing, by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:13", "surah": 61, "ayah": 13, "place": "madinah",
+    "title": "And something else you love: help and a near victory.",
+    "subtitle": "Allah adds a gift for this life too",
+    "picture": {"kind": "boxes", "label": "The bonus", "row": [
+      {"box": "reward", "title": "the Hereafter", "sub": ["forgiveness and gardens"]},
+      {"conn": "and also"},
+      {"box": "reward", "title": "help from Allah", "sub": ["support now"]},
+      {"box": "reward", "title": "near victory", "sub": ["sooner than you think"]}]},
+    "key": {"label": "What Allah knows", "row": [
+      {"box": "people", "title": "only later rewards", "sub": ["nothing for now"], "strike": true},
+      {"box": "reward", "title": "\"another you love\"", "sub": ["He knows you want it now"]}]},
+    "then": "Allah adds {reward}another thing you love{/reward}: help from Him and a near victory. Ibn Kathir links it to the verse, if you help Allah's cause He will help you. He says the near victory is a favor earned in this life that {reward}continues into the delight of the Hereafter{/reward}.",
+    "now": "You are trying to do right, and life still feels uphill. Allah does not tell you to want nothing now. {idea}He names what you love and promises it is near.{/idea} Help often comes in small ways first: a door opens, a burden lifts.",
+    "old": "Doing right means I only get rewarded after I die.",
+    "new": "Allah knows what I love in this life and promises help that is near.",
+    "try": "Look back on this week and name one small way Allah already helped you. Say alhamdulillah for it.",
+    "related": ["47:7", "22:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "61:14", "surah": 61, "ayah": 14, "place": "madinah",
+    "title": "Be Allah's helpers, like the disciples of Isa.",
+    "subtitle": "When someone asks who will help",
+    "picture": {"kind": "boxes", "label": "The question and the answer", "row": [
+      {"box": "people", "title": "Isa", "sub": ["\"who are my helpers?\""]},
+      {"conn": "answered by"},
+      {"box": "reward", "title": "the disciples", "sub": ["\"we are Allah's helpers\""]},
+      {"conn": "and later"},
+      {"box": "reward", "title": "the Ansar", "sub": ["Madinah's helpers"]}]},
+    "key": {"label": "Who steps forward", "row": [
+      {"box": "people", "title": "someone else will", "sub": ["I am not the type"], "strike": true},
+      {"box": "idea", "title": "\"we are helpers\"", "sub": ["ordinary people said it"]}]},
+    "then": "Isa asked who would help him for Allah, and his disciples said they would. Ibn Kathir notes that in Makkah the Prophet ﷺ would ask during Hajj who would shelter him so he could convey the message. {reward}The people of Madinah answered, and so they were called the Ansar, the Helpers.{/reward}",
+    "now": "The mosque needs volunteers for the Saturday clean-up. A neighbour needs a lift to the clinic. Your cousin asks who can help with the move. {idea}Every \"who will help?\" is the same old question in a new place.{/idea}",
+    "old": "Helping the faith is for scholars and people more religious than me.",
+    "new": "Being one of Allah's helpers starts with saying yes when someone asks.",
+    "try": "The next time someone asks for help with something good today, be the first to say yes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

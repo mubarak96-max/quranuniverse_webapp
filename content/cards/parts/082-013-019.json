@@ -1,0 +1,136 @@
+[
+  {
+    "id": "82:13", "surah": 82, "ayah": 13, "place": "makkah",
+    "title": "The righteous will be in delight.",
+    "subtitle": "Where the record of the obedient leads",
+    "picture": {"kind": "boxes", "label": "The abrar", "row": [
+      {"box": "people", "title": "the righteous", "sub": ["obeyed Allah"]},
+      {"conn": "will be in"},
+      {"box": "reward", "title": "na'im", "sub": ["delight"]}]},
+    "key": {"label": "Who the abrar are", "row": [
+      {"box": "plain", "title": "flawless people", "sub": [], "strike": true},
+      {"box": "idea", "title": "the obedient", "sub": ["did not meet Him with sin"]}]},
+    "then": "After the noble writers, the surah shows where the record leads. Ibn Kathir says the righteous are {idea}those who obeyed Allah and did not meet Him with disobedience.{/idea} {reward}Delight is what awaits them.{/reward}",
+    "now": "You picture the righteous as people with perfect beards and perfect prayer streaks. {idea}The tafsir says the obedient.{/idea} Someone who keeps turning back to Allah after slipping is walking that road.",
+    "old": "The righteous are a different kind of person from me.",
+    "new": "The righteous are those who obey Allah, and I can be one of them.",
+    "try": "Choose one act of obedience you find hard and do it once today, for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:14", "surah": 82, "ayah": 14, "place": "makkah",
+    "title": "And the wicked will be in the Fire.",
+    "subtitle": "The other end of the record",
+    "picture": {"kind": "boxes", "label": "Two destinations", "row": [
+      {"box": "reward", "title": "the righteous", "sub": ["in delight"]},
+      {"box": "trap", "title": "the wicked", "sub": ["in the blazing Fire"]}]},
+    "key": {"label": "Which side", "row": [
+      {"box": "plain", "title": "decided for me", "sub": [], "strike": true},
+      {"box": "idea", "title": "shaped by my deeds", "sub": ["while I still live"]}]},
+    "then": "The verse sits directly opposite the one before it. Ibn Kathir says Allah {trap}mentions that the evildoers will be in Hell{/trap}, after naming the delight of the obedient. {idea}Two endings, written side by side, so no one can claim they were not told.{/idea}",
+    "now": "You read two paths in a single breath, one bright and one dark. {idea}You are still standing at the fork.{/idea} Every ordinary choice today is a step toward one of them.",
+    "old": "Hell is about other, really bad people.",
+    "new": "Both endings are real, and my own deeds are walking me toward one.",
+    "try": "Leave one sin today that you know you have been holding on to.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:15", "surah": 82, "ayah": 15, "place": "makkah",
+    "title": "They enter it on the Day of Recompense.",
+    "subtitle": "The Day when deeds are paid back",
+    "picture": {"kind": "boxes", "label": "Yawm ad-Din", "row": [
+      {"box": "idea", "title": "the Day", "sub": ["reckoning, recompense"]},
+      {"conn": "when"},
+      {"box": "trap", "title": "the wicked enter", "sub": ["the Fire"]}]},
+    "key": {"label": "What ad-Din means", "row": [
+      {"box": "idea", "title": "reckoning", "sub": []},
+      {"box": "idea", "title": "recompense", "sub": []},
+      {"box": "idea", "title": "judgement", "sub": []}]},
+    "then": "Ibn Kathir explains the Day of ad-Din as {idea}the Day of Reckoning, Recompense, and Judgement.{/idea} The same word appeared in verse 9: {trap}you deny ad-Din.{/trap} Those who denied that Day meet it.",
+    "now": "You say maliki yawm ad-din in every rakah, often on autopilot. {idea}This is that Day.{/idea} Next time, slow down on those words.",
+    "old": "Payback for what I do is a vague, distant idea.",
+    "new": "There is a Day set for recompense, and I name it in every prayer.",
+    "try": "In your next prayer, pause on maliki yawm ad-din and think of its meaning.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:16", "surah": 82, "ayah": 16, "place": "makkah",
+    "title": "No absence from it, not even an hour.",
+    "subtitle": "No break, no way out",
+    "picture": {"kind": "boxes", "label": "What is not given", "row": [
+      {"box": "trap", "title": "no absence", "sub": ["not one hour"]},
+      {"box": "trap", "title": "no lightening", "sub": []},
+      {"box": "trap", "title": "no rest", "sub": ["not a single day"]}]},
+    "key": {"label": "When there is time", "row": [
+      {"box": "trap", "title": "then", "sub": ["no way out"]},
+      {"box": "reward", "title": "now", "sub": ["every door open"]}]},
+    "then": "Ibn Kathir explains {trap}they will not be absent for even one hour from the torment{/trap}, with no rest and no lightening. {idea}The verse is said while doors are still open{/idea}, to people who could still turn.",
+    "now": "You get a final notice on a bill and still have a week to pay. {idea}This is that week.{/idea} The verse is serious so that you use the time you have, not so you despair.",
+    "old": "There will always be another chance to fix things.",
+    "new": "The chances are now. Allah warns me so I use them.",
+    "try": "Ask Allah's forgiveness 100 times today, in any free moments.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:17", "surah": 82, "ayah": 17, "place": "makkah",
+    "title": "Do you even know what that Day is?",
+    "subtitle": "A question that magnifies",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "you", "sub": ["think you know"]},
+      {"conn": "asked"},
+      {"box": "idea", "title": "what is ad-Din?", "sub": ["beyond your guess"]}]},
+    "key": {"label": "Its size", "row": [
+      {"box": "plain", "title": "a day like others", "sub": [], "strike": true},
+      {"box": "idea", "title": "beyond imagining", "sub": ["Allah magnifies it"]}]},
+    "then": "Ibn Kathir says {idea}this is a magnification of the affair of the Day of Judgement.{/idea} After describing both destinations, Allah pauses to ask: {reward}what will make you know what it is?{/reward}",
+    "now": "You hear a talk about the Day and think: yes, I know all this. {idea}The verse says you do not, not really.{/idea} Some truths need to be felt again, not just known.",
+    "old": "I already know everything there is about the Day of Judgement.",
+    "new": "The Day is bigger than anything I have pictured.",
+    "try": "Sit quietly for two minutes today and honestly imagine standing before Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:18", "surah": 82, "ayah": 18, "place": "makkah",
+    "title": "Again: do you know what that Day is?",
+    "subtitle": "The question asked twice",
+    "picture": {"kind": "boxes", "label": "Repeated", "row": [
+      {"box": "idea", "title": "once", "sub": ["to magnify"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "again", "sub": ["to affirm"]}]},
+    "key": {"label": "Why repeat", "row": [
+      {"box": "plain", "title": "it was not heard", "sub": [], "strike": true},
+      {"box": "idea", "title": "it must sink in", "sub": ["before the answer"]}]},
+    "then": "Ibn Kathir notes {idea}Allah affirms it by saying again{/idea} the same question, and then {reward}explains it{/reward} in the next verse. The repetition holds the listener still before the answer comes.",
+    "now": "Your parent says your name twice when something really matters. You look up from your phone. {idea}This is that second calling of your name.{/idea}",
+    "old": "Hearing the same reminder twice is just repetition.",
+    "new": "When Allah repeats a question, He wants me to stop and listen.",
+    "try": "Read verses 17 and 18 aloud slowly, and pause before reading 19.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:19", "surah": 82, "ayah": 19, "place": "makkah",
+    "title": "No soul can help another. The command is Allah's.",
+    "subtitle": "The answer to the question",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "every soul", "sub": []},
+      {"conn": "owns nothing for"},
+      {"box": "people", "title": "another soul", "sub": []},
+      {"box": "idea", "title": "all command", "sub": ["with Allah"]}]},
+    "key": {"label": "Qatadah's point", "row": [
+      {"box": "idea", "title": "today", "sub": ["command is Allah's"]},
+      {"box": "idea", "title": "that Day", "sub": ["no one disputes it"]}]},
+    "then": "Ibn Kathir says {trap}no one will be able to benefit anyone else{/trap}, unless Allah permits. The Prophet ﷺ told his own clan: save yourselves from the Fire. Qatadah said, {idea}the Decision is Allah's today, but on that Day no one will dispute Him.{/idea}",
+    "now": "You count on your parents' prayers, your sheikh's dua, your family's good name. {idea}Those are blessings, but you will stand alone.{/idea} The command is Allah's now too, so turn to Him now.",
+    "old": "Someone good in my family will be able to help me then.",
+    "new": "Only Allah decides that Day, and He already decides today, so I turn to Him now.",
+    "try": "Make one dua today directly to Allah, without asking anyone else to pray for you first.",
+    "related": ["26:214", "40:16", "1:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

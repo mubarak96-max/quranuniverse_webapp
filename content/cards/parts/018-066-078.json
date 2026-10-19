@@ -1,0 +1,264 @@
+[
+  {
+    "id": "18:66", "surah": 18, "ayah": 66, "place": "makkah",
+    "title": "May I follow you, so you can teach me?",
+    "subtitle": "How a prophet asked to be taught",
+    "picture": {"kind": "boxes", "label": "Musa's request", "row": [
+      {"box": "people", "title": "Musa", "sub": ["a great prophet"]},
+      {"conn": "asks gently"},
+      {"box": "people", "title": "Al-Khidr", "sub": ["a teacher"]},
+      {"conn": "for"},
+      {"box": "idea", "title": "right guidance", "sub": ["to act on it"]}]},
+    "key": {"label": "How to ask a teacher", "row": [
+      {"box": "trap", "title": "demand it", "sub": ["I am owed answers"], "strike": true},
+      {"box": "idea", "title": "may I follow you?", "sub": ["gentle, humble"]}]},
+    "then": "Ibn Kathir notes each had knowledge from Allah the other did not have. Musa's words were {idea}a question phrased in gentle terms, with no sense of force{/idea}, and he says this is {reward}the manner in which the seeker of knowledge should address the scholar{/reward}.",
+    "now": "You message a teacher or a senior colleague with a one-line demand: explain this. {idea}Musa, a prophet who spoke with Allah, asked: may I follow you?{/idea} The way you ask shapes what you receive.",
+    "old": "If I need knowledge, I can just demand it.",
+    "new": "Learning starts with humility and a gentle request.",
+    "try": "Ask someone a question today with may I or would you mind, and thank them after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:67", "surah": 18, "ayah": 67, "place": "makkah",
+    "title": "You will not be able to bear it with me.",
+    "subtitle": "An honest warning before the journey",
+    "picture": {"kind": "boxes", "label": "Al-Khidr's reply", "row": [
+      {"box": "people", "title": "Al-Khidr", "sub": ["knows what is coming"]},
+      {"conn": "warns"},
+      {"box": "trap", "title": "no patience", "sub": ["with what you will see"]}]},
+    "key": {"label": "Why it would be hard", "row": [
+      {"box": "people", "title": "Musa is weak", "sub": ["a flaw in him"], "strike": true},
+      {"box": "idea", "title": "different knowledge", "sub": ["each has his own"]}]},
+    "then": "Al-Khidr explained that Musa would see him doing things that {trap}go against your law{/trap}. Ibn Kathir gives his meaning: {idea}I have knowledge from Allah that He has not taught you, and you have knowledge He has not taught me{/idea}. Each had his own responsibilities before Allah.",
+    "now": "A mentor tells you up front: this will be harder than you think. You feel slightly insulted. {idea}An honest warning before a hard road is a kindness, not an insult.{/idea}",
+    "old": "If someone says I cannot handle it, they are looking down on me.",
+    "new": "An honest warning helps me prepare. It is not a judgment of my worth.",
+    "try": "Thank someone today who once warned you honestly about something hard.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:68", "surah": 18, "ayah": 68, "place": "makkah",
+    "title": "How can you be patient with what you cannot see?",
+    "subtitle": "Patience and the hidden picture",
+    "picture": {"kind": "boxes", "label": "The problem", "row": [
+      {"box": "people", "title": "what you see", "sub": ["the event"]},
+      {"conn": "but not"},
+      {"box": "idea", "title": "the hidden wisdom", "sub": ["the reason behind it"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "patience is hard", "sub": ["almost impossible"]}]},
+    "key": {"label": "Why we lose patience", "row": [
+      {"box": "people", "title": "it is wrong", "sub": ["what it looks like"], "strike": true},
+      {"box": "idea", "title": "I do not see it all", "sub": ["what is true"]}]},
+    "then": "Ibn Kathir gives Al-Khidr's meaning: {trap}I know that you will denounce me justifiably{/trap}, but {idea}I have knowledge of Allah's wisdom and the hidden interests which I can see but you cannot{/idea}.",
+    "now": "A rejection letter, a diagnosis, a move you did not want. You have one frame of a long film. {idea}Impatience is often just the pain of not seeing the whole picture.{/idea}",
+    "old": "If I cannot see a reason, there is no reason.",
+    "new": "Allah sees what I cannot. Patience means trusting the part I do not see.",
+    "try": "Name one thing you are impatient with right now and say: Allah sees what I do not.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:69", "surah": 18, "ayah": 69, "place": "makkah",
+    "title": "You will find me patient, if Allah wills.",
+    "subtitle": "A sincere promise that leaned on Allah",
+    "picture": {"kind": "boxes", "label": "Musa's promise", "row": [
+      {"box": "idea", "title": "if Allah wills", "sub": ["the lesson of verse 23"]},
+      {"box": "people", "title": "patient", "sub": ["with what I see"]},
+      {"box": "people", "title": "obedient", "sub": ["in everything"]}]},
+    "key": {"label": "What the promise rests on", "row": [
+      {"box": "people", "title": "my willpower", "sub": ["I've got this"], "strike": true},
+      {"box": "reward", "title": "Allah's will", "sub": ["I'll try, with His help"]}]},
+    "then": "Musa answered: {idea}if Allah wills, you will find me patient{/idea} with whatever I see, and {reward}I will not go against you in anything{/reward}. Just verses earlier, Allah taught to say If Allah wills about the future.",
+    "now": "Before a new diet, a new job, a new routine of reading Quran, you say: I will definitely stick to it. {idea}Make the promise and tie it to Allah's help, not just your willpower.{/idea}",
+    "old": "If I want it badly enough, I will keep my promise.",
+    "new": "I promise sincerely and lean on Allah to help me keep it.",
+    "try": "Make one small promise to yourself today, say In sha Allah, and ask Allah to help you keep it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:70", "surah": 18, "ayah": 70, "place": "makkah",
+    "title": "Do not ask until I bring it up.",
+    "subtitle": "The one condition",
+    "picture": {"kind": "boxes", "label": "The agreement", "row": [
+      {"box": "people", "title": "if you follow me", "sub": ["one condition"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "wait", "sub": ["ask nothing"]},
+      {"conn": "until"},
+      {"box": "reward", "title": "I explain", "sub": ["in my own time"]}]},
+    "key": {"label": "When answers come", "row": [
+      {"box": "people", "title": "the moment I ask", "sub": ["right now"], "strike": true},
+      {"box": "reward", "title": "when the time is right", "sub": ["he will explain"]}]},
+    "then": "Al-Khidr set a condition: {idea}do not initiate any discussion of the matter{/idea}, until I raise it with you before you ask. The explanation was promised, but {reward}in its own time{/reward}.",
+    "now": "You want to know right now why the job fell through, why the marriage is delayed, why the test result came back like that. {idea}Some answers come only after the journey.{/idea}",
+    "old": "I need the explanation now or I cannot go on.",
+    "new": "Some explanations come later. I can keep walking without them.",
+    "try": "Write down one why you are carrying, and leave it with Allah for now.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:71", "surah": 18, "ayah": 71, "place": "makkah",
+    "title": "He damaged the boat that gave them a free ride.",
+    "subtitle": "The first test of patience",
+    "picture": {"kind": "boxes", "label": "On the boat", "row": [
+      {"box": "people", "title": "the crew", "sub": ["let them ride free"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a plank pulled out", "sub": ["far from shore"]},
+      {"conn": "Musa"},
+      {"box": "people", "title": "objects", "sub": ["a grave thing!"]}]},
+    "key": {"label": "What it looked like", "row": [
+      {"box": "trap", "title": "pure harm", "sub": ["to kind people"]},
+      {"box": "idea", "title": "a hidden reason", "sub": ["not yet told"]}]},
+    "then": "The crew recognized Al-Khidr and {reward}let them ride free of charge{/reward}. Far from shore, he pulled out one of the planks and patched it. Musa could not restrain himself: {trap}have you damaged it so its people will drown?{/trap} Qatadah said Imr means an astounding thing.",
+    "now": "Your car breaks down on the way to an important meeting. A kind neighbor's shop is hit by bad luck. {idea}It looks like pure loss from where you stand.{/idea} The story is not finished yet.",
+    "old": "When something bad happens to good people, it makes no sense.",
+    "new": "What looks like damage may hold a reason I have not been told yet.",
+    "try": "When something breaks today, wait one hour before deciding it was all bad.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:72", "surah": 18, "ayah": 72, "place": "makkah",
+    "title": "Did I not tell you that you would not manage it?",
+    "subtitle": "A calm reminder of the agreement",
+    "picture": {"kind": "boxes", "label": "The reminder", "row": [
+      {"box": "people", "title": "Al-Khidr", "sub": ["does not argue"]},
+      {"conn": "reminds"},
+      {"box": "idea", "title": "the condition", "sub": ["you knew this"]}]},
+    "key": {"label": "What he did not say", "row": [
+      {"box": "people", "title": "a full defense", "sub": ["explaining himself"], "strike": true},
+      {"box": "idea", "title": "trust the purpose", "sub": ["there is a reason"]}]},
+    "then": "Al-Khidr did not defend himself. Ibn Kathir explains: {idea}this thing I did deliberately{/idea} was one of the things I told you not to denounce, because {trap}you do not know the full story{/trap}, and there is a reason you do not know.",
+    "now": "A grandparent makes a decision that looks wrong, and you start lecturing. They only say: wait, you will see. {idea}Not every decision owes you an explanation in the moment.{/idea}",
+    "old": "Anyone who does something odd must explain it to me right away.",
+    "new": "Sometimes the right response is to remember I do not know the whole story.",
+    "try": "Hold back one judgment today about something you only half understand.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:73", "surah": 18, "ayah": 73, "place": "makkah",
+    "title": "Do not hold my forgetting against me.",
+    "subtitle": "Asking for gentleness after a slip",
+    "picture": {"kind": "boxes", "label": "Musa's apology", "row": [
+      {"box": "people", "title": "I forgot", "sub": ["the promise"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "do not blame me", "sub": ["be easy on me"]}]},
+    "key": {"label": "What the first slip was", "row": [
+      {"box": "trap", "title": "rebellion", "sub": ["breaking the deal"], "strike": true},
+      {"box": "idea", "title": "forgetting", "sub": ["the Prophet ﷺ said so"]}]},
+    "then": "Musa asked him not to call him to account for what he forgot, meaning {reward}do not be harsh with me{/reward}. The Prophet ﷺ said in the hadith: {idea}the first time, Musa asked because he had forgotten his promise{/idea}.",
+    "now": "You snap at your spouse again after promising you would not. You feel like a failure. {idea}Say sorry, ask for gentleness, and try again.{/idea} Even a prophet slipped from forgetting.",
+    "old": "If I break a promise once, I have proven I am hopeless.",
+    "new": "Forgetting is human. I can apologize, ask for patience, and keep going.",
+    "try": "Apologize simply today for one small slip, without overexplaining.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:74", "surah": 18, "ayah": 74, "place": "makkah",
+    "title": "The second event was far harder to accept.",
+    "subtitle": "A loss Musa could not bear to see",
+    "picture": {"kind": "boxes", "label": "In a town", "row": [
+      {"box": "people", "title": "a boy", "sub": ["playing with others"]},
+      {"conn": "his life taken"},
+      {"box": "trap", "title": "by Al-Khidr", "sub": ["by Allah's command"]},
+      {"conn": "Musa"},
+      {"box": "people", "title": "objects fiercely", "sub": ["a terrible thing!"]}]},
+    "key": {"label": "What Musa saw", "row": [
+      {"box": "trap", "title": "an innocent soul", "sub": ["no reason given"]},
+      {"box": "idea", "title": "Allah's hidden knowledge", "sub": ["explained later"]}]},
+    "then": "Musa objected {trap}even more fervently than in the first case{/trap}: you have taken an innocent soul, a young person who had done nothing wrong. Al-Khidr acted on knowledge given him by Allah, which is not given to anyone today. {idea}The reason is told later in the surah.{/idea}",
+    "now": "A child dies in the hospital ward down the corridor from you. Nothing about it feels fair, and you cannot find words. {idea}Musa felt that too. Grief and protest are human.{/idea} Allah's knowledge holds what yours cannot.",
+    "old": "If a loss makes no sense to me, it makes no sense at all.",
+    "new": "Some losses I will never understand here. Allah knows what I cannot.",
+    "try": "Make dua today for one family you know that is grieving a loss.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:75", "surah": 18, "ayah": 75, "place": "makkah",
+    "title": "Did I not tell you? This time, more firmly.",
+    "subtitle": "The second reminder",
+    "picture": {"kind": "boxes", "label": "Repeated", "row": [
+      {"box": "people", "title": "Did I not tell", "sub": ["first time"]},
+      {"conn": "now"},
+      {"box": "idea", "title": "Did I not tell you", "sub": ["you, directly"]}]},
+    "key": {"label": "What changed", "row": [
+      {"box": "people", "title": "same words", "sub": ["just repeated"], "strike": true},
+      {"box": "idea", "title": "a firmer reminder", "sub": ["the condition again"]}]},
+    "then": "Once again, Ibn Kathir notes, {idea}Al-Khidr reiterates the condition set in the first place{/idea}. The words are nearly the same as before, now said directly to Musa, a reminder that he had agreed to wait.",
+    "now": "The same lesson keeps finding you: the same kind of argument with your parent, the same money stress at the end of every month. {idea}When a reminder repeats, it is asking you to finally hear it.{/idea}",
+    "old": "I have heard this lesson before. It does not apply anymore.",
+    "new": "A repeated reminder is a sign I have not yet learned it.",
+    "try": "Name one lesson life keeps repeating to you, and write one way to act on it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:76", "surah": 18, "ayah": 76, "place": "makkah",
+    "title": "If I ask again, part ways with me.",
+    "subtitle": "Musa sets his own limit",
+    "picture": {"kind": "boxes", "label": "Musa's terms", "row": [
+      {"box": "people", "title": "one more question", "sub": ["after this"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "do not keep me", "sub": ["as a companion"]},
+      {"box": "idea", "title": "you have my excuse", "sub": ["accepted twice"]}]},
+    "key": {"label": "What it cost", "row": [
+      {"box": "people", "title": "losing an argument", "sub": ["small"], "strike": true},
+      {"box": "reward", "title": "missing wonders", "sub": ["he would have seen more"]}]},
+    "then": "Musa said that if he objected again, {trap}keep me not in your company{/trap}, for you have accepted my apology twice. The Prophet ﷺ said: {reward}may the mercy of Allah be upon us and upon Musa. If he had stayed with his companion he would have seen wonders{/reward}.",
+    "now": "You quit the class, the halaqa, the friendship one complaint too early. {idea}A little more patience might have shown you wonders.{/idea}",
+    "old": "If it is frustrating, I should walk away.",
+    "new": "Patience a little longer can open a door to things I would never see otherwise.",
+    "try": "Give one thing you were about to quit one more honest try this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:77", "surah": 18, "ayah": 77, "place": "makkah",
+    "title": "Refused food, he still fixed their wall for free.",
+    "subtitle": "Good done for people who were unkind",
+    "picture": {"kind": "boxes", "label": "In the mean town", "row": [
+      {"box": "trap", "title": "no hospitality", "sub": ["refused them food"]},
+      {"conn": "yet"},
+      {"box": "reward", "title": "wall restored", "sub": ["with his own hands"]},
+      {"conn": "Musa"},
+      {"box": "people", "title": "take a wage!", "sub": ["they owe us"]}]},
+    "key": {"label": "Who deserves good", "row": [
+      {"box": "people", "title": "only the kind", "sub": ["tit for tat"], "strike": true},
+      {"box": "reward", "title": "whoever needs it", "sub": ["for a hidden reason"]}]},
+    "then": "The hadith calls the townspeople {trap}mean, miserly{/trap}: they refused to feed two hungry travelers. Yet Al-Khidr found a wall about to collapse and {reward}set it up with his own hands{/reward}. Musa said, since they did not host us, you should not work for them for free.",
+    "now": "The neighbor who never says hello needs help with their fence. The coworker who took credit for your work is stuck on a task. {idea}You can do good without waiting for them to deserve it.{/idea}",
+    "old": "I only owe kindness to people who are kind to me.",
+    "new": "Good done for Allah does not wait for the other person to earn it.",
+    "try": "Do one helpful thing today for someone who has not been kind to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "18:78", "surah": 18, "ayah": 78, "place": "makkah",
+    "title": "This is where we part. Now hear the meaning.",
+    "subtitle": "The explanations are coming",
+    "picture": {"kind": "boxes", "label": "At the end", "row": [
+      {"box": "people", "title": "the third question", "sub": ["the promise broken"]},
+      {"conn": "so"},
+      {"box": "plain", "title": "parting", "sub": ["between me and you"]},
+      {"conn": "but first"},
+      {"box": "reward", "title": "the meaning", "sub": ["of all three"]}]},
+    "key": {"label": "What patience was missing", "row": [
+      {"box": "people", "title": "the events", "sub": ["what Musa saw"]},
+      {"box": "idea", "title": "the interpretation", "sub": ["what Musa could not see"]}]},
+    "then": "Musa had said that if he asked again, they would part. So Al-Khidr said: {trap}this is the parting of the ways{/trap}. But he did not leave Musa confused. {reward}I will tell you the interpretation{/reward} of the things you could not be patient with.",
+    "now": "A hard season ends. A job, a move, a relationship. {idea}Sometimes the meaning only arrives at the parting.{/idea} Looking back, the pieces begin to fit.",
+    "old": "If it ended badly, none of it made sense.",
+    "new": "Endings can be where the meaning finally shows itself.",
+    "try": "Look back at one hard chapter that ended, and write one good thing it brought you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

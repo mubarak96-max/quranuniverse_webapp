@@ -1,0 +1,115 @@
+[
+  {
+    "id": "56:57", "surah": 56, "ayah": 57, "place": "makkah",
+    "title": "We created you. So why not believe?",
+    "subtitle": "Your first life is the proof of the second",
+    "picture": {"kind": "boxes", "label": "The argument", "row": [
+      {"box": "idea", "title": "made from nothing", "sub": ["your first creation"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "remaking is easier", "sub": ["the second creation"]}]},
+    "key": {"label": "The doubt answered", "row": [
+      {"box": "trap", "title": "raising the dead is impossible", "sub": ["their claim"], "strike": true},
+      {"box": "idea", "title": "He started it", "sub": ["He can bring it back"]}]},
+    "then": "The deniers asked: when we become dust and bones, shall we be raised? Allah replies: {idea}We created you{/idea}. Ibn Kathir explains: He created you after you were nothing, so is not the One who began creation more able to bring it back?",
+    "now": "You look at your own baby photo, or at your child asleep. A few years earlier that person did not exist. {idea}You already happened once, from nothing.{/idea} The second time is not harder.",
+    "old": "Life after death is hard to believe.",
+    "new": "My own existence is the evidence that it is possible.",
+    "try": "Look at your hand for a moment today and say: You made this from nothing.",
+    "related": ["56:47", "30:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:58", "surah": 56, "ayah": 58, "place": "makkah",
+    "title": "Look at the drop you came from.",
+    "subtitle": "A question meant to make you think",
+    "picture": {"kind": "boxes", "label": "Look at", "row": [
+      {"box": "plain", "title": "a small drop"},
+      {"conn": "becomes"},
+      {"box": "people", "title": "a person", "sub": ["you, reading this"]}]},
+    "key": {"label": "Who does it", "row": [
+      {"box": "plain", "title": "it just happens", "sub": ["biology runs itself"], "strike": true},
+      {"box": "idea", "title": "Allah makes it", "sub": ["stage after stage"]}]},
+    "then": "Allah asks the listeners to {idea}look at the semen they emit{/idea}. Ibn Kathir explains the question: is it you who makes it settle in the womb and creates life from it, stage after stage? The argument is made personal.",
+    "now": "The first scan: a tiny flicker on a screen in a dim clinic room, and your heart racing. {idea}No one in that room built that heartbeat.{/idea}",
+    "old": "Making a baby is just a natural process.",
+    "new": "Every new life is Allah creating, and I am one of them.",
+    "try": "Congratulate someone who recently had a baby, or make dua for a couple hoping for one.",
+    "related": ["75:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:59", "surah": 56, "ayah": 59, "place": "makkah",
+    "title": "Is it you who creates it, or is it Us?",
+    "subtitle": "Taking credit versus giving it",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "you", "sub": ["a small part to play"]},
+      {"conn": "or"},
+      {"box": "idea", "title": "Allah", "sub": ["the Creator"]}]},
+    "key": {"label": "Who gets the credit", "row": [
+      {"box": "people", "title": "we made a child", "sub": ["our achievement"], "strike": true},
+      {"box": "idea", "title": "Allah created", "sub": ["we were the means"]}]},
+    "then": "The question is direct: {idea}is it you who creates it, or are We the Creator?{/idea} Ibn Kathir's answer is that Allah is the One who does all of it. Parents are the means, not the makers.",
+    "now": "Parents post the newborn photo with a proud caption. The pride is natural. {trap}But no parent designed a single cell.{/trap} {idea}Gratitude is the honest caption.{/idea}",
+    "old": "My children, my body, my health are my own work.",
+    "new": "I am the means. Allah is the Creator.",
+    "try": "Next time you feel proud of something you have, add quietly: this is from Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:60", "surah": 56, "ayah": 60, "place": "makkah",
+    "title": "Death is decreed for all, and Allah is never outrun.",
+    "subtitle": "Death is equal, and His power is total",
+    "picture": {"kind": "boxes", "label": "Two facts", "row": [
+      {"box": "idea", "title": "death decreed", "sub": ["equal for everyone"]},
+      {"box": "idea", "title": "never outdone", "sub": ["Allah is never unable"]}]},
+    "key": {"label": "Death", "row": [
+      {"box": "trap", "title": "something to outrun", "sub": ["diet, money, doctors"], "strike": true},
+      {"box": "idea", "title": "set by Allah", "sub": ["the same for everyone"]}]},
+    "then": "Allah says {idea}We have decreed death among you{/idea}. Ad-Dahhak said Allah made everyone in the heavens and the earth equal with regard to death. We are not outstripped, Ibn Kathir explains, means He is never unable.",
+    "now": "Rich or poor, gym or no gym, the hospital corridor holds everyone the same way. {idea}Death is the one equal thing.{/idea} Looking after your health is good, but no one outruns the appointment.",
+    "old": "With enough care and money, I can stay ahead of death.",
+    "new": "Death is decreed equally, so I prepare instead of running.",
+    "try": "Spend five minutes today thinking about one thing you would want to finish before you die.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:61", "surah": 56, "ayah": 61, "place": "makkah",
+    "title": "He can remake you in forms you do not know.",
+    "subtitle": "Resurrection is not limited by our imagination",
+    "picture": {"kind": "boxes", "label": "Allah is able to", "row": [
+      {"box": "people", "title": "your current shape"},
+      {"conn": "changed into"},
+      {"box": "idea", "title": "forms unknown", "sub": ["on the Day"]}]},
+    "key": {"label": "Imagination", "row": [
+      {"box": "trap", "title": "if I can't picture it", "sub": ["it can't happen"], "strike": true},
+      {"box": "idea", "title": "beyond my knowing", "sub": ["still within His power"]}]},
+    "then": "Allah is never unable {idea}to change your shapes on the Day of Resurrection{/idea}, Ibn Kathir explains, and create you in forms you do not know. The listeners could not picture a resurrection. The verse says that is no limit for Allah.",
+    "now": "Twenty years ago you could not have pictured the phone in your pocket. {trap}What you can't picture is not the edge of what is possible.{/trap} Allah's power is not measured by your imagination.",
+    "old": "If I can't imagine how resurrection works, it's hard to believe.",
+    "new": "My imagination is not the limit of Allah's power.",
+    "try": "When something about faith is hard to picture today, say: Allah is able, and leave it there.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:62", "surah": 56, "ayah": 62, "place": "makkah",
+    "title": "You know the first creation. Why not reflect?",
+    "subtitle": "The memory that answers the doubt",
+    "picture": {"kind": "boxes", "label": "What you know", "row": [
+      {"box": "idea", "title": "first creation", "sub": ["you came from nothing"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "second creation", "sub": ["easier still"]}]},
+    "key": {"label": "What is missing", "row": [
+      {"box": "plain", "title": "more proof", "sub": ["I need evidence"], "strike": true},
+      {"box": "idea", "title": "remembering", "sub": ["the proof is already known"]}]},
+    "then": "Ibn Kathir explains: {idea}you know that Allah created you after you were nothing{/idea}, and gave you hearing, sight and hearts. Will you not remember that the One who made you first is more able to bring you back?",
+    "now": "You ask for signs while ignoring your own heartbeat, the eyes reading this line, the breath in your chest. {idea}The proof isn't missing. Attention is.{/idea}",
+    "old": "I'd believe more strongly if I had more evidence.",
+    "new": "The evidence is my own life. I need to remember it.",
+    "try": "Take three slow breaths today and remember with each one that you were made.",
+    "related": ["19:67", "36:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

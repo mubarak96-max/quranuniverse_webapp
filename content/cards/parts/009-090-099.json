@@ -1,0 +1,204 @@
+[
+  {
+    "id": "9:90", "surah": 9, "ayah": 90, "place": "madinah",
+    "title": "Some came with excuses; some did not even ask.",
+    "subtitle": "Two kinds of staying behind",
+    "picture": {"kind": "boxes", "label": "Around Madinah", "row": [
+      {"box": "people", "title": "those with excuses", "sub": ["came to explain", "asked permission"]},
+      {"box": "trap", "title": "those who lied", "sub": ["just sat at home", "did not even ask"]}]},
+    "key": {"label": "What made the difference", "row": [
+      {"box": "people", "title": "staying back itself", "sub": ["the only issue"], "strike": true},
+      {"box": "idea", "title": "honesty about it", "sub": ["coming forward and explaining"]}]},
+    "then": "Ibn Kathir describes bedouins living around Madinah who came to the Prophet ﷺ {idea}to explain their weakness and inability{/idea} to join. Ibn Abbas said they had valid excuses. Others, who {trap}had lied to Allah and His Messenger{/trap}, simply stayed home without asking.",
+    "now": "You cannot make it to your friend's event. One way is to call, explain honestly, and apologize. The other is to go quiet, leave the messages on read, and hope no one notices. {idea}The verse treats those two very differently.{/idea}",
+    "old": "If I cannot do it anyway, explaining does not matter.",
+    "new": "How honestly I face what I cannot do matters to Allah.",
+    "try": "If you are avoiding someone because you let them down, send an honest message today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:91", "surah": 9, "ayah": 91, "place": "madinah",
+    "title": "No blame on the weak, the sick, or the poor.",
+    "subtitle": "When a real excuse holds you back",
+    "picture": {"kind": "boxes", "label": "Who is excused", "row": [
+      {"box": "people", "title": "the weak", "sub": ["a body that cannot"]},
+      {"box": "people", "title": "the ill", "sub": ["for now"]},
+      {"box": "people", "title": "those with nothing", "sub": ["no means to spend"]},
+      {"conn": "if"},
+      {"box": "idea", "title": "sincere", "sub": ["to Allah and His Messenger"]}]},
+    "key": {"label": "What the excused still do", "row": [
+      {"box": "trap", "title": "stay back and grumble", "sub": ["discourage others"], "strike": true},
+      {"box": "reward", "title": "stay back and do good", "sub": ["share the reward"]}]},
+    "then": "Ibn Kathir lists real excuses: lasting weakness, temporary illness, or poverty. There is no sin, he says, {idea}provided they do not spread malice or discourage others{/idea} while they remain behind. The Prophet ﷺ said some who stayed in Madinah {reward}were with you{/reward} in every valley, held back only by their excuse.",
+    "now": "You are in a hospital bed while your family does the Ramadan charity drive. Or money is tight and you cannot give this year. {reward}A sincere heart that cannot go still travels with them.{/reward} What matters is that you cheer them on instead of tearing them down.",
+    "old": "If I cannot take part, I am left out of the reward.",
+    "new": "When I am truly unable, sincerity carries me alongside those who go.",
+    "try": "If something holds you back today, make dua for the people who are doing it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:92", "surah": 9, "ayah": 92, "place": "madinah",
+    "title": "They walked away in tears because they could not go.",
+    "subtitle": "The ones who had no mount",
+    "picture": {"kind": "boxes", "label": "At the Prophet's door", "row": [
+      {"box": "people", "title": "the poor", "sub": ["asked for a mount"]},
+      {"conn": "told"},
+      {"box": "plain", "title": "\"I find none\"", "sub": ["nothing to give them"]},
+      {"conn": "they left"},
+      {"box": "reward", "title": "eyes in tears", "sub": ["grief at missing out"]}]},
+    "key": {"label": "Two kinds of staying home", "row": [
+      {"box": "trap", "title": "relieved", "sub": ["glad to stay"]},
+      {"box": "reward", "title": "in tears", "sub": ["longing to go"]}]},
+    "then": "Some came to the Prophet ﷺ asking for mounts so they could join. He said {trap}I can find nothing for you to ride.{/trap} They turned back with {reward}eyes overflowing with tears{/reward}. Mujahid said it was revealed about Bani Muqarrin from Muzaynah.",
+    "now": "You wanted to go for Umrah with your parents this year and the money is not there. You watch the photos come in from others and your eyes sting. {reward}That sting is not nothing. Allah sees it and honors it.{/reward}",
+    "old": "Wanting to do good but being unable is just a disappointment.",
+    "new": "Sincere longing for a good I cannot reach is itself seen by Allah.",
+    "try": "Tell Allah today about one good thing you long to do but cannot yet. Ask Him for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:93", "surah": 9, "ayah": 93, "place": "madinah",
+    "title": "The blame falls on the rich who asked out.",
+    "subtitle": "Means without will",
+    "picture": {"kind": "boxes", "label": "The contrast", "row": [
+      {"box": "reward", "title": "the poor in tears", "sub": ["no blame"]},
+      {"box": "trap", "title": "the rich asking out", "sub": ["blame is on them"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "sealed hearts", "sub": ["they do not know"]}]},
+    "key": {"label": "What they do not know", "row": [
+      {"box": "people", "title": "I saved my effort", "sub": ["smart choice"], "strike": true},
+      {"box": "trap", "title": "what was lost", "sub": ["they cannot even see it"]}]},
+    "then": "Right after the poor who wept, the verse turns to those {trap}who were rich and still asked to stay behind.{/trap} Ibn Kathir says Allah sealed their hearts, so they {trap}know not what they are losing.{/trap}",
+    "now": "The two verses sit side by side for a reason: a poor man crying because he cannot give, and a rich one relieved because he does not have to. You may be richer in some things than you think: time, health, a free weekend. {idea}Ask which side of the contrast you are on.{/idea}",
+    "old": "If I can get out of it, I have not lost anything.",
+    "new": "Turning down good when I have the means is a loss I may not even feel.",
+    "try": "Name one blessing you have plenty of. Use part of it for someone else today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:94", "surah": 9, "ayah": 94, "place": "madinah",
+    "title": "Excuses lined up for the return home.",
+    "subtitle": "Your deeds will be seen, then shown to you",
+    "picture": {"kind": "boxes", "label": "When the army came back", "row": [
+      {"box": "people", "title": "the excuses", "sub": ["ready and polished"]},
+      {"conn": "met by"},
+      {"box": "idea", "title": "\"Allah has told us\"", "sub": ["your news is known"]},
+      {"box": "idea", "title": "deeds observed", "sub": ["then shown to you"]}]},
+    "key": {"label": "What really persuades", "row": [
+      {"box": "people", "title": "a better excuse", "sub": ["the right words"], "strike": true},
+      {"box": "idea", "title": "what you do next", "sub": ["Allah will see your deeds"]}]},
+    "then": "When the believers returned to Madinah, Ibn Kathir says the hypocrites {trap}began apologizing.{/trap} The answer: Allah has told us your news. {idea}Allah and His Messenger will see your deeds{/idea}, and then you return to the Knower of the seen and unseen, who will inform you of what you did.",
+    "now": "You missed the deadline and you are drafting the perfect email: traffic, a sick kid, a broken laptop. Some of it is even true. {idea}The verse says the words matter less than what you do from here.{/idea}",
+    "old": "If I explain it well enough, it will be fine.",
+    "new": "Better deeds from here count more than a better excuse.",
+    "try": "Next time you owe an apology, keep it short and then show the change instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:95", "surah": 9, "ayah": 95, "place": "madinah",
+    "title": "They swore so you would leave them alone.",
+    "subtitle": "An oath used to avoid being questioned",
+    "picture": {"kind": "boxes", "label": "What the oath was for", "row": [
+      {"box": "trap", "title": "swearing by Allah", "sub": ["on the return"]},
+      {"conn": "aiming for"},
+      {"box": "people", "title": "\"leave us be\"", "sub": ["no questions"]},
+      {"conn": "answered"},
+      {"box": "idea", "title": "turn away", "sub": ["not taken in"]}]},
+    "key": {"label": "What the oath hid", "row": [
+      {"box": "people", "title": "a clean record", "sub": ["no admonishment"], "strike": true},
+      {"box": "trap", "title": "what they earned", "sub": ["still on the record"]}]},
+    "then": "Ibn Kathir says the hypocrites swore to the believers {trap}so they would be left without admonishment.{/trap} Allah ordered the believers to turn away from them, for their inner state was impure, and their end {trap}a recompense for what they used to earn.{/trap}",
+    "now": "Oh I swear, wallahi, it was not me. Sometimes the oath is not about truth; it is about ending the conversation before anyone asks more. {idea}The verse notices that move, and asks you to notice it in yourself.{/idea}",
+    "old": "Swearing by Allah settles the matter.",
+    "new": "Using Allah's name to dodge questions makes the wrong heavier, not lighter.",
+    "try": "Go one full day without swearing by Allah to make anyone believe you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:96", "surah": 9, "ayah": 96, "place": "madinah",
+    "title": "People may be satisfied with you; Allah may not.",
+    "subtitle": "Whose approval actually counts",
+    "picture": {"kind": "boxes", "label": "Aiming at the wrong judge", "row": [
+      {"box": "trap", "title": "the oath", "sub": ["to please people"]},
+      {"conn": "may win"},
+      {"box": "people", "title": "people's approval", "sub": ["for a while"]},
+      {"box": "idea", "title": "Allah's approval", "sub": ["not won this way"]}]},
+    "key": {"label": "Who you are really answering to", "row": [
+      {"box": "people", "title": "if they are happy", "sub": ["I am fine"], "strike": true},
+      {"box": "idea", "title": "if He is pleased", "sub": ["that is what counts"]}]},
+    "then": "The hypocrites swore {trap}so that the believers would be pleased with them.{/trap} Ibn Kathir explains: even if the believers forgave them, {idea}Allah is not pleased{/idea} with those who rebel against His obedience. Fisq, he adds, means deviation.",
+    "now": "Your manager accepts your explanation. Your parents stop asking. Your friends say no worries. Everyone is fine with you, and you feel relieved. {idea}The verse asks a quieter question: is Allah pleased?{/idea}",
+    "old": "Once people are satisfied, the issue is closed.",
+    "new": "Being cleared by people is not the same as being right with Allah.",
+    "try": "Before one decision today, ask: would this please Allah, not just the people around me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:97", "surah": 9, "ayah": 97, "place": "madinah",
+    "title": "Distance from knowledge can harden a heart.",
+    "subtitle": "Why being far from learning matters",
+    "picture": {"kind": "boxes", "label": "What distance did", "row": [
+      {"box": "people", "title": "far from Madinah", "sub": ["far from the teaching"]},
+      {"conn": "made it likely"},
+      {"box": "trap", "title": "not knowing", "sub": ["the limits revealed"]},
+      {"box": "trap", "title": "hardness", "sub": ["the heart grows rough"]}]},
+    "key": {"label": "What the verse is about", "row": [
+      {"box": "people", "title": "a kind of people", "sub": ["born worse"], "strike": true},
+      {"box": "idea", "title": "a condition", "sub": ["distance from learning"]}]},
+    "then": "Ibn Kathir notes there were {idea}disbelievers, hypocrites and believers{/idea} among the desert Arabs, as the next verses show. Living far from the Prophet ﷺ, they were {trap}more likely not to know{/trap} what had been revealed. He cites the hadith: {trap}whoever lives in the desert becomes hard-hearted.{/trap}",
+    "now": "You moved for work, far from your old masjid and the friends who reminded you. No class, no circle, just podcasts you rarely open. {idea}You do not feel worse. You just know a little less every year.{/idea} The verse names what distance from learning can do to anyone.",
+    "old": "I can stay close to Allah without staying close to learning.",
+    "new": "Staying far from knowledge slowly hardens any heart, including mine.",
+    "try": "Learn one new thing about your faith today from a trusted teacher or book.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:98", "surah": 9, "ayah": 98, "place": "madinah",
+    "title": "Giving felt like a fine, so they hoped for disaster.",
+    "subtitle": "When spending feels like a loss",
+    "picture": {"kind": "boxes", "label": "How they saw giving", "row": [
+      {"box": "trap", "title": "a fine", "sub": ["a loss, a burden"]},
+      {"conn": "so they"},
+      {"box": "trap", "title": "waited", "sub": ["for misfortune to strike"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "it turned on them", "sub": ["the misfortune was theirs"]}]},
+    "key": {"label": "Same money, two meanings", "row": [
+      {"box": "trap", "title": "a penalty", "sub": ["taken from me"]},
+      {"box": "reward", "title": "a nearness", "sub": ["the next verse"]}]},
+    "then": "Ibn Kathir says some of them saw what they spent {trap}as a loss and a burden{/trap}, and waited for afflictions to strike the believers. The verse says evil would touch them instead. {idea}Allah hears and knows{/idea} who deserves what.",
+    "now": "The zakah calculation comes out higher than you hoped, and you feel robbed. A friend's business struggles and a small part of you is glad. {trap}Resentment about giving and quiet hope that others fall can grow together.{/trap}",
+    "old": "Every bit I give is money lost.",
+    "new": "If giving feels like a fine, my heart needs attention, not my wallet.",
+    "try": "Give a small amount today and say, this is for my nearness to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:99", "surah": 9, "ayah": 99, "place": "madinah",
+    "title": "Others from the same desert gave to come near.",
+    "subtitle": "Same place, opposite hearts",
+    "picture": {"kind": "boxes", "label": "The praised ones", "row": [
+      {"box": "people", "title": "from the same desert", "sub": ["same distance, same life"]},
+      {"conn": "believed and gave"},
+      {"box": "reward", "title": "nearness to Allah", "sub": ["what they sought"]},
+      {"box": "reward", "title": "the Prophet's dua", "sub": ["for them"]}]},
+    "key": {"label": "What decided it", "row": [
+      {"box": "people", "title": "where they lived", "sub": ["it made them so"], "strike": true},
+      {"box": "idea", "title": "how they saw giving", "sub": ["nearness, not a fine"]}]},
+    "then": "Ibn Kathir calls these {reward}the praiseworthy bedouins.{/reward} They gave charity seeking nearness to Allah and the Messenger's prayers for them. The verse confirms: {reward}it is a means of nearness for them{/reward}, and Allah will admit them to His mercy.",
+    "now": "Two coworkers get the same bonus. One complains about the tax. The other quietly sends part of it to a family in need and asks them to pray for her. {idea}Same office, same paycheck, opposite hearts.{/idea}",
+    "old": "My surroundings decide what kind of person I become.",
+    "new": "In any surroundings, I can make giving a way to come near to Allah.",
+    "try": "When you give today, ask the person to make dua for you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

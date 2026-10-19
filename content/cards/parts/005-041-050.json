@@ -1,0 +1,210 @@
+[
+  {
+    "id": "5:41", "surah": 5, "ayah": 41, "place": "madinah",
+    "title": "Take the answer only if it suits you.",
+    "subtitle": "Shopping for a ruling, and words without hearts",
+    "picture": {"kind": "boxes", "label": "Their plan", "row": [
+      {"box": "people", "title": "ask the Prophet ﷺ", "sub": ["for a ruling"]},
+      {"conn": "if"},
+      {"box": "reward", "title": "it is easy", "sub": ["take it"]},
+      {"conn": "if"},
+      {"box": "trap", "title": "it is hard", "sub": ["beware, refuse it"]}]},
+    "key": {"label": "Why ask at all", "row": [
+      {"box": "trap", "title": "to get my answer", "sub": ["decided in advance"], "strike": true},
+      {"box": "idea", "title": "to find the truth", "sub": ["and follow it"]}]},
+    "then": "The Prophet ﷺ is comforted: {idea}do not let them grieve you.{/idea} Ibn Kathir says some said we believe with their mouths while their hearts had no faith. Others came for a ruling and agreed among themselves: {trap}if he gives the easy answer, take it, and if not, refuse it.{/trap}",
+    "now": "You ask three friends until one says what you wanted to hear. You search online until one video agrees with you. {trap}The answer was chosen before the question.{/trap} {idea}The verse asks if you are seeking truth or permission.{/idea}",
+    "old": "I just want to hear one opinion that says I am fine.",
+    "new": "Asking only to hear what suits me is not seeking guidance at all.",
+    "try": "Think of one question you keep asking until you get the answer you like. Ask Allah for the truth instead.",
+    "related": ["3:93"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:42", "surah": 5, "ayah": 42, "place": "madinah",
+    "title": "If you judge, judge with justice. Allah loves the just.",
+    "subtitle": "What you listen to and what you consume",
+    "picture": {"kind": "boxes", "label": "Two habits, one command", "row": [
+      {"box": "trap", "title": "listening to lies", "sub": ["eagerly"]},
+      {"box": "trap", "title": "consuming the unlawful", "sub": ["eagerly"]},
+      {"conn": "and you"},
+      {"box": "idea", "title": "judge justly", "sub": ["if you judge"]}]},
+    "key": {"label": "What you owe people", "row": [
+      {"box": "people", "title": "justice for friends", "sub": ["only those I like"], "strike": true},
+      {"box": "idea", "title": "justice for all", "sub": ["Allah loves it"]}]},
+    "then": "The verse describes people who were {trap}eager listeners to falsehood and eager consumers of what is unlawful.{/trap} The Prophet ﷺ was told he could judge between them or turn away, and that if he judged, {idea}judge with justice, for Allah loves the just.{/idea}",
+    "now": "The podcast full of rumors you keep playing. The side income you know is not clean. {trap}What you feed your ears and your stomach shapes you.{/trap} And when two friends ask you to settle a fight, {idea}be fair, even to the one you like less.{/idea}",
+    "old": "What I listen to and where my money comes from is my own business.",
+    "new": "What I take in shapes my heart, and fairness is owed even when I am the judge.",
+    "try": "Unfollow or mute one source that mostly feeds you gossip or lies today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:43", "surah": 5, "ayah": 43, "place": "madinah",
+    "title": "Why ask, when you already hold the answer?",
+    "subtitle": "Seeking judgment while turning from guidance you have",
+    "picture": {"kind": "boxes", "label": "The puzzle", "row": [
+      {"box": "people", "title": "they come to you", "sub": ["for a judgment"]},
+      {"conn": "yet"},
+      {"box": "idea", "title": "they hold the Torah", "sub": ["Allah's judgment inside"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "they turn away", "sub": ["from both"]}]},
+    "key": {"label": "What is missing", "row": [
+      {"box": "people", "title": "more information", "sub": ["I just need to know"], "strike": true},
+      {"box": "idea", "title": "the will to follow", "sub": ["I already know"]}]},
+    "then": "Ibn Kathir explains that these people came to the Prophet ﷺ for a ruling, though {idea}they had Allah's judgment in their own scripture.{/idea} The question in the verse is gentle and sharp: how? And then {trap}they turned away even after that.{/trap}",
+    "now": "You ask your friend whether you should apologize to your mother. You already know. You ask the imam about that deal at work. {trap}You already know.{/trap} {idea}Often the problem is not knowledge but willingness.{/idea}",
+    "old": "I am not sure what is right. I need more opinions.",
+    "new": "Most of the time I already know what is right. The step is following it.",
+    "try": "Pick one thing you already know you should do and have been asking about. Do it instead of asking.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:44", "surah": 5, "ayah": 44, "place": "madinah",
+    "title": "Fear Me, not people, and do not sell My verses cheaply.",
+    "subtitle": "Guarding revelation when it costs you",
+    "picture": {"kind": "boxes", "label": "Who carried the Torah", "row": [
+      {"box": "reward", "title": "guidance and light", "sub": ["the Torah"]},
+      {"conn": "carried by"},
+      {"box": "people", "title": "prophets and scholars", "sub": ["entrusted, witnesses"]},
+      {"conn": "warned"},
+      {"box": "trap", "title": "a small price", "sub": ["for Allah's words"]}]},
+    "key": {"label": "What silence can cost", "row": [
+      {"box": "trap", "title": "keeping people happy", "sub": ["worth a small truth"], "strike": true},
+      {"box": "idea", "title": "fear Allah", "sub": ["not their reaction"]}]},
+    "then": "The verse honors the Torah: {reward}guidance and light{/reward}, by which prophets and scholars judged, because {idea}they were entrusted with Allah's Book.{/idea} The warning to everyone who carries a scripture: {trap}do not fear people, and do not exchange My verses for a small price.{/trap}",
+    "now": "Your manager wants you to sign off on something dishonest. Your friends laugh at something you know is wrong. {trap}Staying quiet keeps the job and the friends.{/trap} {idea}The verse asks whose reaction you fear more.{/idea}",
+    "old": "A little silence about the truth is the price of getting along.",
+    "new": "Trading what Allah said for people's approval is a very cheap sale.",
+    "try": "In one small moment today, say the honest thing gently, even if it costs you a little approval.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:45", "surah": 5, "ayah": 45, "place": "madinah",
+    "title": "Justice is equal. Forgiving it is charity.",
+    "subtitle": "A right given, and the reward of letting it go",
+    "picture": {"kind": "boxes", "label": "The balance", "row": [
+      {"box": "idea", "title": "equal justice", "sub": ["harm for harm, same for all"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "pardon it", "sub": ["as charity"]},
+      {"conn": "becomes"},
+      {"box": "reward", "title": "expiation", "sub": ["for the one who forgives"]}]},
+    "key": {"label": "What you can do with a right", "row": [
+      {"box": "people", "title": "always take it", "sub": ["or I lose"], "strike": true},
+      {"box": "reward", "title": "give it up for Allah", "sub": ["and gain more"]}]},
+    "then": "Ibn Kathir says the law was meant to {idea}treat everyone equally and fairly.{/idea} Then the verse opens a door: whoever gives up the right as charity, it is expiation. The Prophet ﷺ said that whoever forgives a wound done to him, {reward}Allah will pardon him something similar.{/reward}",
+    "now": "Your cousin damaged your car and never paid. Your coworker embarrassed you in front of everyone. {idea}You have every right to demand it back.{/idea} The verse does not cancel your right. It shows you {reward}a better use for it.{/reward}",
+    "old": "If I let it go, I am letting them win.",
+    "new": "My right is real, and giving it up for Allah becomes charity that covers my own faults.",
+    "try": "Forgive one small debt or wrong someone owes you today, and tell Allah you did it for Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:46", "surah": 5, "ayah": 46, "place": "madinah",
+    "title": "Isa came confirming what came before him.",
+    "subtitle": "One chain of guidance and light",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "idea", "title": "the Torah", "sub": ["guidance and light"]},
+      {"conn": "confirmed by"},
+      {"box": "people", "title": "Isa son of Maryam", "sub": ["in their footsteps"]},
+      {"conn": "given"},
+      {"box": "idea", "title": "the Gospel", "sub": ["guidance and light"]}]},
+    "key": {"label": "How messengers relate", "row": [
+      {"box": "people", "title": "rivals", "sub": ["each cancels the last"], "strike": true},
+      {"box": "idea", "title": "one chain", "sub": ["each confirms the one before"]}]},
+    "then": "Ibn Kathir says Isa {idea}believed in the Torah and ruled by it.{/idea} The Gospel he received was {reward}a guidance that directs to the truth and a light that removes doubts{/reward}, and an admonition for those mindful of Allah.",
+    "now": "You may think of faith as something that started with you or your family. {idea}It is part of a long chain of messengers{/idea}, each confirming the last. Every time you pray, you join a line much older than you.",
+    "old": "Each messenger came with a completely separate message.",
+    "new": "The messengers came in one line, confirming each other, all pointing to the same Lord.",
+    "try": "Read about one earlier prophet today and notice what his message shares with the Quran.",
+    "related": ["3:50"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:47", "surah": 5, "ayah": 47, "place": "madinah",
+    "title": "Live by what you say you believe.",
+    "subtitle": "Holding a book is not the same as following it",
+    "picture": {"kind": "boxes", "label": "The call", "row": [
+      {"box": "people", "title": "the people of the Gospel", "sub": ["given a book"]},
+      {"conn": "told to"},
+      {"box": "idea", "title": "judge by it", "sub": ["what Allah revealed in it"]},
+      {"conn": "or else"},
+      {"box": "trap", "title": "disobedience", "sub": ["preferring falsehood"]}]},
+    "key": {"label": "What a book asks", "row": [
+      {"box": "people", "title": "own it", "sub": ["on the shelf"], "strike": true},
+      {"box": "idea", "title": "act on all of it", "sub": ["its commands, its news"]}]},
+    "then": "Ibn Kathir explains that this means {idea}to believe in all that is in it and follow all its commands{/idea}, including its good news of a coming messenger. Those who did not were called {trap}rebellious, preferring falsehood and abandoning truth.{/trap}",
+    "now": "The Quran sits on your shelf in a nice cover. You know its words are true. {trap}But how much of your week is shaped by it?{/trap} The verse addresses one people, but {idea}the question fits every person who holds a book from Allah.{/idea}",
+    "old": "Having the Quran at home and believing in it is enough.",
+    "new": "A book from Allah is meant to shape my decisions, not just sit on my shelf.",
+    "try": "Choose one verse you know well and let it guide one decision you make today.",
+    "related": ["7:157"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:48", "surah": 5, "ayah": 48, "place": "madinah",
+    "title": "He could have made you one. Instead: race to do good.",
+    "subtitle": "The Quran as guardian, and differences as a test",
+    "picture": {"kind": "boxes", "label": "What the verse sets out", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["confirming and guarding"]},
+      {"box": "people", "title": "a law and a way", "sub": ["for each people"]},
+      {"conn": "to test you"},
+      {"box": "reward", "title": "race to good", "sub": ["to Him is your return"]}]},
+    "key": {"label": "What to do with difference", "row": [
+      {"box": "trap", "title": "argue forever", "sub": ["prove I am right"], "strike": true},
+      {"box": "idea", "title": "compete in good", "sub": ["He will settle it"]}]},
+    "then": "Ibn Abbas said muhaymin means {idea}trustworthy, a witness, and guardian{/idea} over the earlier books. The verse says Allah could have made everyone one community, but chose {trap}to test you with what He gave you.{/trap} So {reward}race to good.{/reward} He will explain the differences on return.",
+    "now": "The comment section where everyone argues about religion. The family dinner that turns into a debate. {trap}Hours spent proving you are right.{/trap} {idea}The verse says: spend that energy racing to do good, and leave the final word to Allah.{/idea}",
+    "old": "Winning the argument is the most important thing.",
+    "new": "Differences are a test, and my answer is to race in good deeds while Allah settles the rest.",
+    "try": "Skip one argument today, online or at home, and spend that time doing a good deed instead.",
+    "related": ["15:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:49", "surah": 5, "ayah": 49, "place": "madinah",
+    "title": "Beware of being pulled away from part of the guidance.",
+    "subtitle": "Pressure to drop some of what Allah revealed",
+    "picture": {"kind": "boxes", "label": "How it happens", "row": [
+      {"box": "people", "title": "people's wishes", "sub": ["just this one part"]},
+      {"conn": "pull"},
+      {"box": "trap", "title": "some of it", "sub": ["not all, just some"]},
+      {"conn": "the answer"},
+      {"box": "idea", "title": "hold to it", "sub": ["what Allah revealed"]}]},
+    "key": {"label": "What the danger is", "row": [
+      {"box": "people", "title": "leaving it all", "sub": ["a dramatic break"], "strike": true},
+      {"box": "trap", "title": "dropping some", "sub": ["one part at a time"]}]},
+    "then": "Even the Prophet ﷺ is told: {trap}beware lest they tempt you away from some of what Allah revealed.{/trap} Ibn Kathir says this means not following {idea}the ideas people promote{/idea} that turn them from revelation. The danger is not all at once, but {trap}some of it.{/trap}",
+    "now": "Friends at work say: just skip the prayer for this meeting. Others say: everyone bends the truth a little on these forms. {trap}Each time it is only a small part.{/trap} {idea}Notice how much gets dropped one small part at a time.{/idea}",
+    "old": "Giving up one small part to fit in does not really change anything.",
+    "new": "Guidance is lost a piece at a time, so I hold on to each piece.",
+    "try": "Pick one practice you have quietly dropped to fit in. Bring it back today, calmly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:50", "surah": 5, "ayah": 50, "place": "madinah",
+    "title": "Who judges better than Allah, for those who are certain?",
+    "subtitle": "Old customs versus guidance",
+    "picture": {"kind": "boxes", "label": "Two sources", "row": [
+      {"box": "trap", "title": "the old way", "sub": ["the time of ignorance"]},
+      {"conn": "or"},
+      {"box": "idea", "title": "Allah's judgment", "sub": ["nothing better"]},
+      {"conn": "seen by"},
+      {"box": "people", "title": "the certain", "sub": ["firm in faith"]}]},
+    "key": {"label": "What decides", "row": [
+      {"box": "trap", "title": "it is our custom", "sub": ["we always did it"], "strike": true},
+      {"box": "idea", "title": "what Allah says", "sub": ["better than any custom"]}]},
+    "then": "This verse closes the passage on judging by revelation. The question points back to {trap}the judgment of the time of ignorance{/trap}, the customs before guidance came. Then: {idea}who is better than Allah in judgment, for a people who are certain?{/idea}",
+    "now": "The family feud nobody remembers the reason for, kept alive for years. The tradition of a wedding that leaves a young couple in debt. {trap}Because that is how we have always done it.{/trap} {idea}Certainty in Allah lets you question the custom.{/idea}",
+    "old": "Our customs are part of who we are, so they must be right.",
+    "new": "When a custom and Allah's guidance differ, His judgment is the better one.",
+    "try": "Name one custom in your family or culture that you have never checked against the Quran. Look into it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

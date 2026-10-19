@@ -1,0 +1,207 @@
+[
+  {
+    "id": "24:1", "surah": 24, "ayah": 1, "place": "madinah",
+    "title": "A surah sent down so you would remember.",
+    "subtitle": "Why An-Nur opens by naming its own weight",
+    "picture": {"kind": "boxes", "label": "How the surah introduces itself", "row": [
+      {"box": "idea", "title": "sent down", "sub": ["from Allah"]},
+      {"box": "idea", "title": "made binding", "sub": ["lawful, unlawful, limits"]},
+      {"box": "idea", "title": "clear signs", "sub": ["explained plainly"]},
+      {"conn": "so that"},
+      {"box": "people", "title": "you remember", "sub": ["and take heed"]}]},
+    "key": {"label": "What kind of text this is", "row": [
+      {"box": "people", "title": "nice advice", "sub": ["take it or leave it"], "strike": true},
+      {"box": "idea", "title": "a trust", "sub": ["given to be lived and remembered"]}]},
+    "then": "Ibn Kathir notes that Allah opens this surah by pointing to its high standing. Mujahid and Qatadah said it lays out {idea}what is lawful and unlawful, commands and limits.{/idea} It came in Madinah, as the young community faced questions about family, honor, and trust.",
+    "now": "You save a long post called \"rules for a healthy home\" and never open it again. Most of us treat guidance like that: good to have, easy to forget. This surah says up front that it is {idea}not a bookmark.{/idea} It was sent so you would remember it when life gets messy.",
+    "old": "Guidance is something I read once and agree with.",
+    "new": "Guidance is something Allah sent down to stay in my memory and my home.",
+    "try": "Before reading the rest of this surah, ask Allah to help you remember one thing from it this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:2", "surah": 24, "ayah": 2, "place": "madinah",
+    "title": "Allah treats the sanctity of intimacy as no small thing.",
+    "subtitle": "A serious limit, set in public, for a serious harm",
+    "picture": {"kind": "boxes", "label": "What the verse protects", "row": [
+      {"box": "trap", "title": "zina", "sub": ["intimacy outside marriage"]},
+      {"conn": "breaks"},
+      {"box": "reward", "title": "trust", "sub": ["families, lineage, honor"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "a set limit", "sub": ["for a court, not a mob"]}]},
+    "key": {"label": "How the verse frames it", "row": [
+      {"box": "people", "title": "a private matter", "sub": ["harms no one else"], "strike": true},
+      {"box": "idea", "title": "a limit of Allah", "sub": ["tied to belief in the Last Day"]}]},
+    "then": "The verse treats this wrong as weighty, a limit of Allah and not a private matter. Ibn Kathir explains that the forbidden pity is the kind that would make a judge drop Allah's limit, {idea}not the natural softness of a heart.{/idea} A Companion who felt pity even when slaughtering a sheep was told he would be {reward}rewarded for that feeling.{/reward}",
+    "now": "Late at night, a chat that started as harmless keeps getting warmer. A voice says nobody gets hurt, it is just between two people. The verse answers that voice from far away: {trap}Allah does not see this as small.{/trap} The seriousness is there to make you stop long before any line.",
+    "old": "What happens between two consenting adults is nobody else's business.",
+    "new": "Allah counts this as a weighty trust, and the weight is meant to protect me early.",
+    "try": "Notice one door that tends to lead you toward what you would regret. Close it gently today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:3", "surah": 24, "ayah": 3, "place": "madinah",
+    "title": "Who you bind your life to says who you are becoming.",
+    "subtitle": "Like is drawn to like in the choice of a spouse",
+    "picture": {"kind": "boxes", "label": "What the verse observes", "row": [
+      {"box": "trap", "title": "an open sinner", "sub": ["who sees no wrong in it"]},
+      {"conn": "is matched with"},
+      {"box": "trap", "title": "the same", "sub": ["or one who denies it is wrong"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "the believers", "sub": ["kept away from this"]}]},
+    "key": {"label": "What a marriage choice is", "row": [
+      {"box": "people", "title": "just chemistry", "sub": ["character comes later"], "strike": true},
+      {"box": "idea", "title": "a mirror", "sub": ["chastity seeks chastity"]}]},
+    "then": "Ibn Kathir reports that a believer asked the Prophet ﷺ about marrying a woman known for selling herself, who had offered to support him. The Prophet ﷺ recited this verse in reply. Qatadah and Muqatil said it {idea}kept believers from marrying into open immorality.{/idea}",
+    "now": "Your friend is choosing someone mostly for the money, the looks, or the follower count. You know the values do not match, but nobody says it. This verse says it plainly: {idea}the person you choose shapes the home you will live in.{/idea}",
+    "old": "Character can be fixed after the wedding.",
+    "new": "The character I look for in a spouse shows the character I want for myself.",
+    "try": "Write down the three qualities you would most want in a life partner. Ask if you are building them in yourself.",
+    "related": ["4:25", "5:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:4", "surah": 24, "ayah": 4, "place": "madinah",
+    "title": "An accusation without proof stains the accuser.",
+    "subtitle": "Why a chaste person's honor is guarded so strongly",
+    "picture": {"kind": "boxes", "label": "What the verse sets up", "row": [
+      {"box": "people", "title": "a chaste woman", "sub": ["her name, her honor"]},
+      {"conn": "accused, no proof"},
+      {"box": "trap", "title": "the accuser", "sub": ["word no longer trusted"]},
+      {"box": "plain", "title": "4", "sub": ["witnesses demanded"], "num": true}]},
+    "key": {"label": "Who carries the burden", "row": [
+      {"box": "people", "title": "she must clear herself", "sub": ["rumor stands until disproved"], "strike": true},
+      {"box": "idea", "title": "he must prove it", "sub": ["or he is the one exposed"]}]},
+    "then": "This verse set a very high bar for anyone accusing a chaste person. Ibn Kathir explains that an accuser without proof is himself held to account, and {trap}his word loses its trust{/trap} before Allah and people. The same holds if the one accused is a man.",
+    "now": "Someone in the office group chat drops a hint about a colleague's private life. No proof, just \"people are saying.\" The verse flips the room: {idea}the person who speaks without proof is the one on trial.{/idea} Their word loses its value.",
+    "old": "If I only repeat what I heard, I am not responsible.",
+    "new": "A claim about someone's honor makes me answerable for every word of it.",
+    "try": "The next time a rumor reaches you, ask: do I actually know this? If not, let it stop with you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:5", "surah": 24, "ayah": 5, "place": "madinah",
+    "title": "Even the slanderer is offered a way back.",
+    "subtitle": "Repentance and repair reopen the door",
+    "picture": {"kind": "boxes", "label": "The road back", "row": [
+      {"box": "trap", "title": "false accusation", "sub": ["a name damaged"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "repent", "sub": ["turn back to Allah"]},
+      {"box": "idea", "title": "reform", "sub": ["make it right"]},
+      {"conn": "meets"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["Allah"]}]},
+    "key": {"label": "What follows a wrong", "row": [
+      {"box": "trap", "title": "labelled forever", "sub": ["no way out"], "strike": true},
+      {"box": "reward", "title": "turn and repair", "sub": ["the label can lift"]}]},
+    "then": "Right after the warning, Allah makes an exception for those who repent and reform. Ibn Kathir notes that many early scholars, including Sa'id bin Al-Musayyib, held that a repentant accuser {reward}is no longer called rebellious.{/reward} Some added that he must {idea}admit he spoke falsely.{/idea}",
+    "now": "Years ago you said something about someone that was not true. It spread. You think about it at red lights. The verse does not leave you stuck there. {reward}Turn back, and fix what you can,{/reward} even if it is one honest message saying you were wrong.",
+    "old": "What I said is out there now. Nothing I do changes it.",
+    "new": "Allah is Forgiving, and repair is part of turning back.",
+    "try": "If you once spread something untrue about someone, take one small step to correct it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:6", "surah": 24, "ayah": 6, "place": "madinah",
+    "title": "When a husband has no witness but himself.",
+    "subtitle": "A way out given to a man in an impossible spot",
+    "picture": {"kind": "boxes", "label": "Hilal's situation", "row": [
+      {"box": "people", "title": "Hilal bin Umayyah", "sub": ["saw it himself"]},
+      {"box": "trap", "title": "no four witnesses", "sub": ["only his own word"]},
+      {"conn": "Allah gives"},
+      {"box": "idea", "title": "four oaths", "sub": ["sworn by Allah"]}]},
+    "key": {"label": "What Allah did with the impasse", "row": [
+      {"box": "trap", "title": "stuck", "sub": ["silent, or punished for speaking"], "strike": true},
+      {"box": "reward", "title": "a way out", "sub": ["Rejoice, O Hilal"]}]},
+    "then": "After the verse on accusers, Sa'd bin Ubadah asked how a man could fetch four witnesses in such a moment. Soon Hilal bin Umayyah came home and found a man with his wife. The Prophet ﷺ was troubled, and Hilal said he hoped {idea}Allah would make a way out.{/idea} Then this verse came, and the Prophet ﷺ told him, {reward}Rejoice, O Hilal.{/reward}",
+    "now": "You are in a situation where the truth is real to you but you cannot prove it to anyone. Saying it might cost you. Staying quiet is eating you. Hilal's story is for that corridor: {reward}Allah knows, and He makes ways out{/reward} that you cannot see yet.",
+    "old": "If I cannot prove it, my truth counts for nothing.",
+    "new": "Allah knows what I know, and He can open a way I never imagined.",
+    "try": "Bring one situation where you feel unheard to Allah tonight, in your own words, like Hilal did.",
+    "related": ["24:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:7", "surah": 24, "ayah": 7, "place": "madinah",
+    "title": "The fifth oath puts his own soul on the line.",
+    "subtitle": "Truth spoken with the curse of Allah as its price",
+    "picture": {"kind": "boxes", "label": "What the fifth oath says", "row": [
+      {"box": "people", "title": "the husband", "sub": ["four oaths already sworn"]},
+      {"conn": "adds"},
+      {"box": "trap", "title": "the curse of Allah", "sub": ["on me, if I am lying"]}]},
+    "key": {"label": "What an oath really is", "row": [
+      {"box": "people", "title": "words to win", "sub": ["say what helps you"], "strike": true},
+      {"box": "idea", "title": "a pledge before Allah", "sub": ["with your own soul as surety"]}]},
+    "then": "In Hilal's case, before the fifth oath he was told to have taqwa, because {trap}the punishment of this world is easier than that of the Hereafter.{/trap} He replied that Allah would not punish him for it, just as He had not let him be flogged. Then he swore the fifth.",
+    "now": "\"I swear to God\" slips out in arguments, in sales calls, in teenage fights over who broke the charger. This verse shows what an oath is meant to be: {idea}you put yourself under Allah's judgment.{/idea} That is why the last oath pauses everyone in the room.",
+    "old": "Swearing by Allah is just a way of saying I am serious.",
+    "new": "Swearing by Allah places my own soul as the guarantee of my words.",
+    "try": "Go one full day without casually swearing by Allah. Keep it for when it truly matters.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:8", "surah": 24, "ayah": 8, "place": "madinah",
+    "title": "She is given her own voice, four times.",
+    "subtitle": "The accused is not left defenseless",
+    "picture": {"kind": "boxes", "label": "Both sides heard", "row": [
+      {"box": "people", "title": "his four oaths", "sub": ["he is truthful"]},
+      {"conn": "answered by"},
+      {"box": "people", "title": "her four oaths", "sub": ["he is lying"]},
+      {"conn": "this"},
+      {"box": "reward", "title": "averts", "sub": ["the punishment from her"]}]},
+    "key": {"label": "Who gets to speak", "row": [
+      {"box": "trap", "title": "his word ends it", "sub": ["she has no say"], "strike": true},
+      {"box": "idea", "title": "her word counts too", "sub": ["Allah weighs both"]}]},
+    "then": "Ibn Kathir explains that the wife is given her own four oaths by Allah that her husband is lying. In the story, the Prophet ﷺ {idea}recited the verses to both of them{/idea} and reminded them that the Hereafter is weightier than this world.",
+    "now": "In family disputes, the louder person often wins. The one with more relatives in the room. The one who tells the story first. This verse gives the accused {idea}an equal chance to speak before Allah,{/idea} and leaves the final knowledge with Him.",
+    "old": "Whoever speaks first and loudest is probably right.",
+    "new": "Allah gives both sides a voice, and He alone knows who is true.",
+    "try": "In your next disagreement, let the other person finish their side before you answer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:9", "surah": 24, "ayah": 9, "place": "madinah",
+    "title": "The wrath named is for one who knows the truth.",
+    "subtitle": "Why her fifth oath mentions Allah's anger",
+    "picture": {"kind": "boxes", "label": "Ibn Kathir's reading", "row": [
+      {"box": "people", "title": "the wife", "sub": ["fifth oath"]},
+      {"conn": "calls"},
+      {"box": "trap", "title": "the wrath of Allah", "sub": ["on me, if he is truthful"]},
+      {"box": "idea", "title": "wrath", "sub": ["for knowing truth and turning away"]}]},
+    "key": {"label": "What makes it heavier", "row": [
+      {"box": "people", "title": "not knowing", "sub": ["an honest mistake"]},
+      {"box": "trap", "title": "knowing and denying", "sub": ["what wrath is for"]}]},
+    "then": "Ibn Kathir notes the wrath of Allah is named in her oath because {trap}wrath falls on one who knows the truth yet deviates from it.{/trap} In the story, at the fifth oath she hesitated and almost admitted, then said she would not shame her people, and swore.",
+    "now": "You know you broke the thing. You know you sent the message. Someone asks, and the easy word is \"no.\" This verse points at that moment: {idea}the gap between what you know and what you say{/idea} is where the real danger lives.",
+    "old": "If no one can prove it, denying it costs me nothing.",
+    "new": "Denying what I know to be true is the heaviest thing I could do.",
+    "try": "Admit one small thing today that you would usually deny, even if it is just to yourself before Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:10", "surah": 24, "ayah": 10, "place": "madinah",
+    "title": "Without His mercy, life would be too hard to bear.",
+    "subtitle": "The grace behind every way out",
+    "picture": {"kind": "boxes", "label": "What this closing verse names", "row": [
+      {"box": "reward", "title": "grace", "sub": ["favor of Allah"]},
+      {"box": "reward", "title": "mercy", "sub": ["upon you"]},
+      {"box": "idea", "title": "Accepting of repentance", "sub": ["even after oaths"]},
+      {"box": "idea", "title": "Wise", "sub": ["in what He sets"]}]},
+    "key": {"label": "Where the way out came from", "row": [
+      {"box": "people", "title": "we figured it out", "sub": ["our own cleverness"], "strike": true},
+      {"box": "reward", "title": "His grace", "sub": ["or it would have crushed us"]}]},
+    "then": "After laying out the oaths, Allah reminds the believers of His grace. Ibn Kathir explains that {reward}without it, many of their affairs would have been too difficult.{/reward} He accepts repentance from His servants, even after a sworn oath, and is Wise in what He commands.",
+    "now": "Think back to the worst week of your marriage, your job, your family. Somehow there was a way through. A talk that happened at the right time. A door that opened. {reward}That was grace,{/reward} not luck, and it is still on offer.",
+    "old": "I got through the hard times because I was strong.",
+    "new": "I got through because Allah's grace made a way, and He still accepts me back.",
+    "try": "Thank Allah for one specific way out He gave you in the past. Name it out loud.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

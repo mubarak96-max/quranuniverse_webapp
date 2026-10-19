@@ -1,0 +1,275 @@
+[
+  {
+    "id": "20:71", "surah": 20, "ayah": 71, "place": "makkah",
+    "title": "You believed without my permission?",
+    "subtitle": "A defeated tyrant turns to threats",
+    "picture": {"kind": "boxes", "label": "Pharaoh's response", "row": [
+      {"box": "trap", "title": "no permission", "sub": ["\"you rebelled against me\""]},
+      {"box": "trap", "title": "a false story", "sub": ["\"he is your teacher\""]},
+      {"box": "trap", "title": "threats", "sub": ["a public example"]}]},
+    "key": {"label": "Who decides belief", "row": [
+      {"box": "trap", "title": "the ruler", "sub": ["faith needs his permission"], "strike": true},
+      {"box": "idea", "title": "the heart", "sub": ["before its Creator"]}]},
+    "then": "Pharaoh had lost in front of everyone, and his own magicians believed. Ibn Kathir says he {trap}turned arrogant and cast accusations{/trap}. He claimed Musa had taught them magic, {trap}a lie he and everyone knew was false{/trap}, then threatened to make a public example of them.",
+    "now": "You decide to start praying, or wearing something modest, or leaving a bad crowd. Someone with power over you says, \"Who told you you could do that?\" {idea}Your heart's answer to Allah does not need anyone's sign-off.{/idea}",
+    "old": "I need the approval of the people around me before I change.",
+    "new": "Belief is between me and my Creator. Nobody else's permission is required.",
+    "try": "Keep one small good change you made, even if someone around you disapproves.",
+    "related": ["7:123"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:72", "surah": 20, "ayah": 72, "place": "makkah",
+    "title": "Decide what you like: your power ends with this life.",
+    "subtitle": "The calm of people who have seen the truth",
+    "picture": {"kind": "boxes", "label": "Their choice", "row": [
+      {"box": "trap", "title": "Pharaoh", "sub": ["threats and power"]},
+      {"conn": "not over"},
+      {"box": "reward", "title": "clear signs", "sub": ["and our Creator"]}]},
+    "key": {"label": "How far his power reaches", "row": [
+      {"box": "trap", "title": "everything", "sub": ["my whole fate"], "strike": true},
+      {"box": "idea", "title": "this world only", "sub": ["and it will end"]}]},
+    "then": "When Pharaoh threatened them, Ibn Kathir says {reward}their souls were eased by their belief{/reward}. They said: we will not prefer you over the clear signs and the One who made us from nothing. Do what you wish, {idea}you only have power in a world that will come to an end{/idea}.",
+    "now": "The boss who can fire you. The relative who can cut you off. The group that can make you an outsider. {idea}Their reach stops at this life.{/idea} That does not make it painless, but it puts it in its true size.",
+    "old": "The people with power over me control my whole future.",
+    "new": "Their power is real but small. It ends where this life ends.",
+    "try": "Name one person whose power over you scares you, and say: you only decide in this world.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:73", "surah": 20, "ayah": 73, "place": "makkah",
+    "title": "Forgive what we were forced into. Allah lasts longer.",
+    "subtitle": "Turning from a past you were pushed into",
+    "picture": {"kind": "boxes", "label": "What they asked", "row": [
+      {"box": "trap", "title": "our faults", "sub": ["the magic we did"]},
+      {"box": "trap", "title": "the compulsion", "sub": ["you forced us"]},
+      {"conn": "Allah is"},
+      {"box": "reward", "title": "better, lasting", "sub": ["than your reward"]}]},
+    "key": {"label": "Which reward wins", "row": [
+      {"box": "trap", "title": "Pharaoh's prize", "sub": ["nearness, wealth"], "strike": true},
+      {"box": "reward", "title": "Allah's reward", "sub": ["better and more lasting"]}]},
+    "then": "They asked Allah to forgive their sins and {trap}the magic Pharaoh had compelled them to do{/trap}. Ibn Abbas said Pharaoh had taken boys from the Children of Israel and had them taught magic. The magicians said Allah's reward is {reward}better and more lasting{/reward} than anything Pharaoh promised.",
+    "now": "You grew up in a home where lying was normal, or you were pushed into a job that made you cut corners. {idea}You can bring all of it to Allah{/idea}, including what others pushed you into, and start again.",
+    "old": "My past is too tangled with what others made me do to fix.",
+    "new": "I can ask Allah to forgive everything, even what I was pushed into, and choose what lasts.",
+    "try": "Ask Allah tonight to forgive one habit you picked up from your surroundings.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:74", "surah": 20, "ayah": 74, "place": "makkah",
+    "title": "Coming to your Lord as a criminal is a real loss.",
+    "subtitle": "The new believers warn Pharaoh",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "people", "title": "the magicians", "sub": ["now believers"]},
+      {"conn": "warn"},
+      {"box": "trap", "title": "Pharaoh", "sub": ["of meeting Allah as a criminal"]}]},
+    "key": {"label": "Who spoke", "row": [
+      {"box": "people", "title": "afraid", "sub": ["silenced by threats"], "strike": true},
+      {"box": "idea", "title": "still caring", "sub": ["warning their persecutor"]}]},
+    "then": "Ibn Kathir says this is the magicians {idea}still admonishing Pharaoh{/idea}. Under threat of death, they warned him of {trap}meeting Allah on the Day of Judgment as a criminal{/trap}, and encouraged him to seek Allah's lasting reward instead.",
+    "now": "Someone has hurt you badly. Part of you wants them to suffer. These new believers, facing execution, {idea}still tried to save the man threatening them{/idea}. Your own heart can stay that clean.",
+    "old": "People who hurt me deserve whatever comes to them.",
+    "new": "I can want the one who wronged me to turn back before it is too late.",
+    "try": "Make a short dua today for guidance for someone who has hurt you.",
+    "related": ["35:36", "87:11", "43:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:75", "surah": 20, "ayah": 75, "place": "makkah",
+    "title": "Faith plus good deeds: the highest ranks.",
+    "subtitle": "What the heart believes, the body shows",
+    "picture": {"kind": "boxes", "label": "Who rises", "row": [
+      {"box": "idea", "title": "a believer", "sub": ["in the heart"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "good deeds", "sub": ["proving it true"]},
+      {"box": "reward", "title": "high ranks", "sub": ["Firdaws at the top"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "belief only", "sub": ["it is in my heart"], "strike": true},
+      {"box": "idea", "title": "belief and deeds", "sub": ["one confirms the other"]}]},
+    "then": "Ibn Kathir explains a believer's {idea}intentions in his heart are confirmed by his statements and deeds{/idea}. The Prophet ﷺ said Paradise has a hundred levels, Firdaws the highest, so {reward}when you ask Allah, ask Him for Al-Firdaws{/reward}.",
+    "now": "You say you love your mother, and you call her once a month. You say you believe, and the app has not opened since Ramadan. {idea}Deeds are how the heart's claim gets confirmed.{/idea}",
+    "old": "As long as I believe inside, the rest is optional.",
+    "new": "What I believe becomes real when I act on it, and Allah has the highest ranks for that.",
+    "try": "Ask Allah for Al-Firdaws by name in your dua today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:76", "surah": 20, "ayah": 76, "place": "makkah",
+    "title": "Gardens forever, for those who purify themselves.",
+    "subtitle": "The reward of a cleaned-up heart",
+    "picture": {"kind": "boxes", "label": "The reward", "row": [
+      {"box": "reward", "title": "Adn gardens", "sub": ["a settled home"]},
+      {"box": "reward", "title": "rivers", "sub": ["flowing beneath"]},
+      {"box": "reward", "title": "forever", "sub": ["no end"]}]},
+    "key": {"label": "Who it is for", "row": [
+      {"box": "people", "title": "the perfect", "sub": ["never made mistakes"], "strike": true},
+      {"box": "idea", "title": "the purifying", "sub": ["who clean themselves up"]}]},
+    "then": "Ibn Kathir says Adn means {reward}established as a residence{/reward}, gardens with rivers, forever. It is for {idea}one who purifies himself{/idea}, from filth and from associating partners with Allah, and follows the Messengers. The magicians had done exactly this in one day.",
+    "now": "You keep thinking Paradise is for people with spotless lives. The verse says it is for those who {idea}purify themselves{/idea}. That is a verb. It means cleaning up, again and again, after you get dirty.",
+    "old": "Paradise is for people who never messed up.",
+    "new": "Paradise is for people who keep cleaning their hearts, starting today.",
+    "try": "Choose one small thing to clean from your life today: a word, a habit, an app.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:77", "surah": 20, "ayah": 77, "place": "makkah",
+    "title": "Leave by night: a dry road through the sea.",
+    "subtitle": "When escape seems impossible",
+    "picture": {"kind": "boxes", "label": "Trapped", "row": [
+      {"box": "trap", "title": "Pharaoh's army", "sub": ["behind them"]},
+      {"box": "people", "title": "Israel", "sub": ["\"we will be caught\""]},
+      {"box": "trap", "title": "the sea", "sub": ["in front of them"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "a dry path", "sub": ["struck by Musa"]}]},
+    "key": {"label": "What Musa said", "row": [
+      {"box": "trap", "title": "we are caught", "sub": ["the people's fear"], "strike": true},
+      {"box": "idea", "title": "my Lord is with me", "sub": ["He will guide me"]}]},
+    "then": "Pharaoh refused to free them, so Allah told Musa to {idea}travel by night with His servants{/idea}. With the sea ahead and the army behind, his companions said {trap}we are sure to be overtaken{/trap}. Musa said: my Lord is with me. He struck the sea and it split into a {reward}dry path{/reward}.",
+    "now": "The bills ahead, the debt collectors behind. The diagnosis on one side, the waiting list on the other. {idea}Musa did not see the road before he struck.{/idea} He trusted that the One with him would open it.",
+    "old": "When I am boxed in on every side, there is no way out.",
+    "new": "Allah can open a dry road where I only see water.",
+    "try": "Name your \"sea\" right now and say aloud: my Lord is with me, He will guide me.",
+    "related": ["26:54", "26:61", "26:62"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:78", "surah": 20, "ayah": 78, "place": "makkah",
+    "title": "Pharaoh followed into the sea, and it closed over them.",
+    "subtitle": "The end of a chase",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "trap", "title": "Pharaoh's hosts", "sub": ["chasing"]},
+      {"conn": "into"},
+      {"box": "people", "title": "the same path", "sub": ["through the sea"]},
+      {"box": "trap", "title": "covered", "sub": ["the sea overwhelmed them"]}]},
+    "key": {"label": "Same road, different end", "row": [
+      {"box": "reward", "title": "for the oppressed", "sub": ["a way out"]},
+      {"box": "trap", "title": "for the oppressor", "sub": ["the end"]}]},
+    "then": "Pharaoh {trap}pursued them with his armies{/trap}. The sea that had opened for Musa {trap}overwhelmed and covered them{/trap}. The same water was rescue for one group and the end for the other.",
+    "now": "You chase someone to win an argument, to get even, to prove a point. {idea}The chase itself can be the trap.{/idea} Ask yourself what you are running after, and whether it is worth following into the water.",
+    "old": "If I keep pushing, I will eventually win.",
+    "new": "Chasing others to harm them can lead me straight into my own ruin.",
+    "try": "Drop one pursuit today that is only about getting even with someone.",
+    "related": ["53:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:79", "surah": 20, "ayah": 79, "place": "makkah",
+    "title": "He led his people astray and guided no one.",
+    "subtitle": "The leader who walks people off a cliff",
+    "picture": {"kind": "boxes", "label": "A leader's path", "row": [
+      {"box": "trap", "title": "Pharaoh", "sub": ["out in front"]},
+      {"conn": "led"},
+      {"box": "people", "title": "his people", "sub": ["following behind"]},
+      {"box": "trap", "title": "astray", "sub": ["no guidance"]}]},
+    "key": {"label": "Who I follow", "row": [
+      {"box": "people", "title": "the loudest", "sub": ["the one in charge"], "strike": true},
+      {"box": "idea", "title": "the guided", "sub": ["who leads to good"]}]},
+    "then": "Ibn Kathir says Pharaoh {trap}misled his people and did not lead them to correct guidance{/trap}. Just as he led them into the sea, he will walk ahead of them on the Day of Resurrection too. A leader's path becomes his followers' path.",
+    "now": "The influencer with millions of followers. The friend who always decides where the group goes. The manager everyone copies. {idea}Look where the person in front of you is walking{/idea}, before you follow.",
+    "old": "If lots of people follow someone, they must know the way.",
+    "new": "A crowd behind a leader does not prove the leader is going anywhere good.",
+    "try": "Unfollow or step back from one voice you follow that leads you away from good.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:80", "surah": 20, "ayah": 80, "place": "makkah",
+    "title": "Saved, given a meeting, and fed from the sky.",
+    "subtitle": "A list of favors to remember",
+    "picture": {"kind": "boxes", "label": "What Israel received", "row": [
+      {"box": "reward", "title": "rescue", "sub": ["from their enemy"]},
+      {"box": "reward", "title": "a covenant", "sub": ["at the Mount"]},
+      {"box": "reward", "title": "manna, quail", "sub": ["food from above"]}]},
+    "key": {"label": "What to do with blessings", "row": [
+      {"box": "people", "title": "forget them", "sub": ["move on to the next want"], "strike": true},
+      {"box": "idea", "title": "remember them", "sub": ["Allah lists them for a reason"]}]},
+    "then": "Allah reminds the Children of Israel of {reward}tremendous favors{/reward}: rescue from Pharaoh, a covenant at the Mount, and manna and quail every day. Ibn Abbas reported the Prophet ﷺ found the Jews of Madinah fasting Ashura for Musa's victory and said {idea}we have more right to Musa, so fast it{/idea}.",
+    "now": "You got through the redundancy. You got the visa. The fridge is full this week. {idea}Make your own list{/idea}, like this verse does. Gratitude starts with remembering.",
+    "old": "Once a hard time passes, I just move on.",
+    "new": "Allah lists His favors so I keep remembering them.",
+    "try": "Write a list of three rescues and three provisions from your own life.",
+    "related": ["2:50"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:81", "surah": 20, "ayah": 81, "place": "makkah",
+    "title": "Eat the good things, but do not go too far.",
+    "subtitle": "Enjoy provision without abusing it",
+    "picture": {"kind": "boxes", "label": "The instruction", "row": [
+      {"box": "reward", "title": "eat", "sub": ["the good He provided"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "no transgression", "sub": ["no taking beyond need"]}]},
+    "key": {"label": "Where it goes wrong", "row": [
+      {"box": "people", "title": "enjoying", "sub": ["good food is fine"]},
+      {"box": "trap", "title": "overstepping", "sub": ["taking without need"]}]},
+    "then": "Manna and quail came daily, a kindness and mercy from Allah. They were told: {reward}eat from what I provided{/reward}, and {trap}do not transgress by taking it without necessity{/trap}. Ibn Abbas said falling under Allah's anger means {trap}being made miserable{/trap}.",
+    "now": "The buffet at the wedding. The shopping basket that fills itself. The food you throw away on Sunday night. {idea}Enjoy what you are given{/idea}, and notice when enjoying turns into overstepping.",
+    "old": "Blessings are mine to use however I like.",
+    "new": "I can enjoy His provision fully and still respect its limits.",
+    "try": "At your next meal, take a smaller first portion and only go back if you are still hungry.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:82", "surah": 20, "ayah": 82, "place": "makkah",
+    "title": "I keep forgiving whoever turns back and stays on the road.",
+    "subtitle": "Four steps of return",
+    "picture": {"kind": "boxes", "label": "The way back", "row": [
+      {"box": "idea", "title": "repents", "sub": ["turns away"]},
+      {"box": "idea", "title": "believes", "sub": ["in the heart"]},
+      {"box": "idea", "title": "does good", "sub": ["with the body"]},
+      {"box": "reward", "title": "stays guided", "sub": ["until death"]}]},
+    "key": {"label": "Too far gone?", "row": [
+      {"box": "trap", "title": "my sin is too big", "sub": ["no way back"], "strike": true},
+      {"box": "reward", "title": "Perpetual Forgiver", "sub": ["even for the calf"]}]},
+    "then": "Allah said He is {reward}Ghaffar, the One who forgives again and again{/reward}. Ibn Kathir says He accepts repentance regardless of the sin, even from those who worshipped the calf. Qatadah said \"then continues in guidance\" means {idea}holding to Islam until death{/idea}.",
+    "now": "You relapsed. Again. The same thing you promised you would never do. {reward}His name here is the One who keeps forgiving.{/reward} Turn back, do something good, and keep walking.",
+    "old": "I have repented too many times for it to still count.",
+    "new": "Allah forgives over and over. My job is to keep turning back and stay on the road.",
+    "try": "Make tawbah today for the one sin you keep returning to, then do one good deed right after.",
+    "related": ["90:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:83", "surah": 20, "ayah": 83, "place": "makkah",
+    "title": "What made you rush ahead of your people, Musa?",
+    "subtitle": "Eagerness that left the people behind",
+    "picture": {"kind": "boxes", "label": "The appointment", "row": [
+      {"box": "people", "title": "Musa", "sub": ["40 nights at the Mount"]},
+      {"conn": "left"},
+      {"box": "people", "title": "Harun in charge", "sub": ["of the people"]}]},
+    "key": {"label": "The question", "row": [
+      {"box": "reward", "title": "eager for Allah", "sub": ["good intention"]},
+      {"box": "people", "title": "your people", "sub": ["what about them?"]}]},
+    "then": "After Pharaoh's end, Allah set an appointment of {idea}thirty nights, then ten more, forty in all{/idea}. Musa {reward}hurried to the Mount{/reward} and left Harun in charge. Allah asked him why he had hurried ahead of his people.",
+    "now": "You rush to the masjid for the extra prayers and leave the kids with no plan at home. You race ahead on a project and your team is lost. {idea}Eagerness for good can still leave people behind.{/idea}",
+    "old": "Hurrying toward good is always good.",
+    "new": "Even in rushing to Allah, I should look back and see who I left behind.",
+    "try": "Before your next act of worship or big task, check that the people who rely on you are okay.",
+    "related": ["7:138"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:84", "surah": 20, "ayah": 84, "place": "makkah",
+    "title": "I hurried to You, my Lord, so You would be pleased.",
+    "subtitle": "The motive behind the rush",
+    "picture": {"kind": "boxes", "label": "Musa's answer", "row": [
+      {"box": "people", "title": "they are close", "sub": ["just behind me"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "I hastened", "sub": ["to please You"]}]},
+    "key": {"label": "What drove him", "row": [
+      {"box": "people", "title": "being first", "sub": ["ahead of others"], "strike": true},
+      {"box": "idea", "title": "Your pleasure", "sub": ["the only reason"]}]},
+    "then": "Musa answered that his people were {idea}close on his footsteps{/idea}, settled near the Mount. He had hurried {reward}so that You will be more pleased with me{/reward}. His rush came from love, though the next verse shows what was happening back in the camp.",
+    "now": "You wake up early for Fajr, a little before the alarm, because you want to. That eagerness is beautiful. {reward}Wanting Allah to be pleased with you{/reward} is a reason worth getting up for.",
+    "old": "I do good things mostly because I have to.",
+    "new": "I can do good because I want my Lord to be pleased with me.",
+    "try": "Do one act of worship today a little earlier than usual, just to please Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

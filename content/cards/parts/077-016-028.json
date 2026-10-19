@@ -1,0 +1,251 @@
+[
+  {
+    "id": "77:16", "surah": 77, "ayah": 16, "place": "makkah",
+    "title": "Did We not destroy the earlier peoples?",
+    "subtitle": "History as evidence",
+    "picture": {"kind": "boxes", "label": "The earlier peoples", "row": [
+      {"box": "people", "title": "they had messengers"},
+      {"conn": "rejected them"},
+      {"box": "trap", "title": "destroyed", "sub": ["gone"]}]},
+    "key": {"label": "What history is", "row": [
+      {"box": "trap", "title": "old stories", "sub": ["nothing to do with me"], "strike": true},
+      {"box": "idea", "title": "a pattern", "sub": ["it can repeat"]}]},
+    "then": "Ibn Kathir says these are {trap}those who rejected the messengers and opposed what they brought.{/trap} The surah moves from the Day itself to {idea}evidence the listeners could already see: ruins of nations before them.{/idea}",
+    "now": "You read about empires that seemed unbeatable and then vanished. It feels like a history lesson. {idea}The verse asks you to read it as a mirror for your own heart.{/idea}",
+    "old": "What happened to past peoples has nothing to do with me.",
+    "new": "Past peoples are a warning about the same choices I make.",
+    "try": "Think of one habit of the arrogant you see in yourself, and drop it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:17", "surah": 77, "ayah": 17, "place": "makkah",
+    "title": "And later ones will follow the same way.",
+    "subtitle": "The pattern does not stop",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "trap", "title": "earlier deniers", "sub": ["destroyed"]},
+      {"conn": "followed by"},
+      {"box": "trap", "title": "later deniers", "sub": ["those like them"]}]},
+    "key": {"label": "Who is next", "row": [
+      {"box": "trap", "title": "not my time", "sub": ["that was then"], "strike": true},
+      {"box": "idea", "title": "anyone like them", "sub": ["the rule is the same"]}]},
+    "then": "Ibn Kathir says it means {trap}those who are similar to them.{/trap} The rule is not about a time or place. {idea}It is about behavior.{/idea}",
+    "now": "You think the warnings in the Quran were about people back then. Arrogance, ingratitude, mocking the truth. {idea}The same behavior gets the same outcome, in any century.{/idea}",
+    "old": "Those warnings were for people long ago.",
+    "new": "The warning follows the behavior, not the date. I check my own.",
+    "try": "Ask yourself today: which of those old behaviors do I still carry?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:18", "surah": 77, "ayah": 18, "place": "makkah",
+    "title": "This is how We deal with the criminals.",
+    "subtitle": "One rule for all",
+    "picture": {"kind": "boxes", "label": "The rule", "row": [
+      {"box": "trap", "title": "crime", "sub": ["rejecting, opposing"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the same end", "sub": ["for all like them"]}]},
+    "key": {"label": "Fairness", "row": [
+      {"box": "trap", "title": "exceptions", "sub": ["for special people"], "strike": true},
+      {"box": "idea", "title": "one rule", "sub": ["applied to all"]}]},
+    "then": "The verse states the rule plainly. Ibn Jarir explained these verses as {idea}the earlier ones destroyed, the later ones made to follow, because Allah deals with criminals this way.{/idea} {trap}No one gets a pass for being rich or strong.{/trap}",
+    "now": "You see people with money or connections dodge consequences. It seems like rules are for the poor. {idea}This verse says Allah's rule has no VIP list.{/idea}",
+    "old": "Powerful people always get away with it.",
+    "new": "No one escapes Allah's rule. It is the same for everyone, me too.",
+    "try": "Fix one small unfair thing you got away with, even if no one noticed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:19", "surah": 77, "ayah": 19, "place": "makkah",
+    "title": "Woe, that Day, to the deniers who ignored history.",
+    "subtitle": "Second refrain: after the fallen nations",
+    "picture": {"kind": "boxes", "label": "The evidence they had", "row": [
+      {"box": "idea", "title": "ruins", "sub": ["earlier peoples destroyed"]},
+      {"box": "idea", "title": "the pattern", "sub": ["later ones follow"]},
+      {"conn": "and still"},
+      {"box": "trap", "title": "denied", "sub": ["woe to them"]}]},
+    "key": {"label": "What they ignored", "row": [
+      {"box": "trap", "title": "history is random", "strike": true},
+      {"box": "idea", "title": "history warns", "sub": ["for those who look"]}]},
+    "then": "The refrain returns right after {idea}the fall of earlier peoples and the rule that later ones like them follow.{/idea} Ibn Jarir read the warning together with \"thus We deal with the criminals.\" {trap}To see ruins and keep denying is the woe here.{/trap}",
+    "now": "You watch a documentary about a fallen civilization, then go straight back to the same pride and carelessness they had. {idea}The lesson was in front of you.{/idea}",
+    "old": "History is interesting, but not a warning for me.",
+    "new": "Seeing the end of others and changing nothing is its own kind of denial.",
+    "try": "After the next history video you watch, write one lesson for yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:20", "surah": 77, "ayah": 20, "place": "makkah",
+    "title": "Did We not create you from a lowly fluid?",
+    "subtitle": "Your beginning as proof",
+    "picture": {"kind": "boxes", "label": "What you came from", "row": [
+      {"box": "people", "title": "a weak fluid", "sub": ["despised"]},
+      {"conn": "made into"},
+      {"box": "people", "title": "you", "sub": ["the one who doubts"]}]},
+    "key": {"label": "Allah asks", "row": [
+      {"box": "trap", "title": "I cannot be remade", "strike": true},
+      {"box": "idea", "title": "how can you think I am unable?", "sub": ["I made you from this"]}]},
+    "then": "Ibn Kathir says this is {idea}weak and lowly compared to the power of the Creator.{/idea} He cites the hadith where Allah says: {trap}Son of Adam, how can you think I am unable, when I created you from something like this?{/trap}",
+    "now": "You stand in front of the mirror after the gym, proud of yourself. {idea}Remember where you came from.{/idea} Not to feel small, but to see how able your Maker is.",
+    "old": "I am too complex to be brought back.",
+    "new": "I came from almost nothing. Bringing me back is not hard for Him.",
+    "try": "Next time pride rises today, remember your beginning and say Alhamdulillah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:21", "surah": 77, "ayah": 21, "place": "makkah",
+    "title": "Then We placed it in a safe, secure lodging.",
+    "subtitle": "The womb, built for protection",
+    "picture": {"kind": "boxes", "label": "The womb", "row": [
+      {"box": "people", "title": "the drop", "sub": ["weak"]},
+      {"conn": "kept in"},
+      {"box": "reward", "title": "a safe place", "sub": ["prepared to protect"]}]},
+    "key": {"label": "Your first home", "row": [
+      {"box": "trap", "title": "an accident", "strike": true},
+      {"box": "reward", "title": "prepared for you", "sub": ["a protector"]}]},
+    "then": "Ibn Kathir says {reward}the womb has been prepared for this, as a protector of what is placed in it.{/reward} {idea}Before you could do anything, you were already being looked after.{/idea}",
+    "now": "You worry about keeping your kids safe: car seats, vaccines, locks on the cupboard. {reward}Allah kept you safe before your mother even knew you were there.{/reward}",
+    "old": "I have always had to look after myself.",
+    "new": "Allah was protecting me before I could do anything at all.",
+    "try": "Call your mother, or make dua for her, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:22", "surah": 77, "ayah": 22, "place": "makkah",
+    "title": "For a known, set time.",
+    "subtitle": "Even your birth was on schedule",
+    "picture": {"kind": "boxes", "label": "The timeline", "row": [
+      {"box": "people", "title": "in the womb"},
+      {"conn": "for"},
+      {"box": "idea", "title": "a fixed term", "sub": ["six to nine months"]}]},
+    "key": {"label": "Timing", "row": [
+      {"box": "trap", "title": "random", "strike": true},
+      {"box": "idea", "title": "known to Him", "sub": ["set in advance"]}]},
+    "then": "Ibn Kathir says this means {idea}a fixed period of time, from six months to nine months.{/idea} The same Lord who {reward}set the day of your birth{/reward} has set the Day of your return.",
+    "now": "Expecting parents count the weeks on an app. A due date is circled on the calendar. {idea}Your birth had a known time. So does your death, and so does the Day.{/idea}",
+    "old": "Life's timings are just chance.",
+    "new": "My beginning had a set time. My end and the Day do too.",
+    "try": "Use a few minutes of today as if your time were known and short.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:23", "surah": 77, "ayah": 23, "place": "makkah",
+    "title": "We measured it out, and how excellent a Measurer.",
+    "subtitle": "Every detail decided by Him",
+    "picture": {"kind": "boxes", "label": "What He measured", "row": [
+      {"box": "idea", "title": "the drop"},
+      {"box": "idea", "title": "the safe place"},
+      {"box": "idea", "title": "the term"},
+      {"conn": "all"},
+      {"box": "reward", "title": "excellently measured"}]},
+    "key": {"label": "Who measures", "row": [
+      {"box": "trap", "title": "luck", "strike": true},
+      {"box": "reward", "title": "the best Measurer", "sub": ["Allah"]}]},
+    "then": "After the drop, the womb, and the fixed term, Allah says {reward}We measured, and We are the best to measure.{/reward} Ibn Kathir notes these verses remind people of {idea}His favor{/idea} and use the first creation as proof of the second.",
+    "now": "Your height, your voice, the day you were born, the family you were born into. {reward}None of it was a mistake.{/reward} The One who measured all of that is excellent at it.",
+    "old": "Parts of how I was made feel like mistakes.",
+    "new": "Allah measured me with care, and He is the best at measuring.",
+    "try": "Thank Allah for one thing about yourself you usually complain about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:24", "surah": 77, "ayah": 24, "place": "makkah",
+    "title": "Woe, that Day, to the deniers who forgot their own beginning.",
+    "subtitle": "Third refrain: after the creation in the womb",
+    "picture": {"kind": "boxes", "label": "The proof inside them", "row": [
+      {"box": "idea", "title": "a lowly drop"},
+      {"box": "idea", "title": "a safe womb", "sub": ["a set term"]},
+      {"conn": "and still"},
+      {"box": "trap", "title": "denied", "sub": ["woe to them"]}]},
+    "key": {"label": "The evidence", "row": [
+      {"box": "trap", "title": "far away, unclear", "strike": true},
+      {"box": "idea", "title": "in their own body", "sub": ["impossible to miss"]}]},
+    "then": "This time the refrain follows {idea}the creation of man from a drop, kept safe, for a known term.{/idea} The evidence is not in history books now; {trap}it is in their own bodies, and they still deny.{/trap}",
+    "now": "You hold a newborn at the hospital. Tiny fingers, perfect ears, all from nothing. Then you go home and forget about it. {idea}The proof was in your arms.{/idea}",
+    "old": "I need more evidence to really believe in the Day.",
+    "new": "The evidence is my own body. Ignoring it is the real problem.",
+    "try": "Look at your own hand today and say: the One who made this will raise me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:25", "surah": 77, "ayah": 25, "place": "makkah",
+    "title": "Have We not made the earth a container?",
+    "subtitle": "The earth that holds everything",
+    "picture": {"kind": "boxes", "label": "The earth", "row": [
+      {"box": "reward", "title": "a container", "sub": ["a place of shelter"]}]},
+    "key": {"label": "What the ground is", "row": [
+      {"box": "trap", "title": "just dirt", "strike": true},
+      {"box": "reward", "title": "a shelter", "sub": ["made to hold you"]}]},
+    "then": "Ibn Abbas said kifat means {reward}a place of shelter.{/reward} Mujahid said {idea}it holds the dead so nothing of them is seen.{/idea} The earth was made to hold people, in life and after.",
+    "now": "You walk on concrete all day and never think about the ground. {reward}It holds your house, your food, your city.{/reward} One day it will hold you.",
+    "old": "The ground under me is nothing special.",
+    "new": "The earth is a shelter Allah made to hold me, now and later.",
+    "try": "Go barefoot on grass or soil for a moment today and remember this verse.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:26", "surah": 77, "ayah": 26, "place": "makkah",
+    "title": "For the living on top, for the dead within.",
+    "subtitle": "One earth, two kinds of residents",
+    "picture": {"kind": "boxes", "label": "Who the earth holds", "row": [
+      {"box": "people", "title": "the living", "sub": ["on its surface"]},
+      {"box": "people", "title": "the dead", "sub": ["in its interior"]}]},
+    "key": {"label": "Where you are", "row": [
+      {"box": "people", "title": "on top, for now", "sub": ["walking"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "within", "sub": ["waiting for the Day"]}]},
+    "then": "Ash-Sha'bi said: {idea}its interior is for your dead and its surface is for your living.{/idea} Mujahid and Qatadah said the same. {reward}The earth holds both, and gives both back on the Day.{/reward}",
+    "now": "You walk through a graveyard on the way to the shop. The living on the path, the dead beneath. {idea}You are just on the top layer for now.{/idea}",
+    "old": "The graveyard is a different world from mine.",
+    "new": "The same earth holds me and the dead. I will move from its top to its inside.",
+    "try": "Visit a graveyard this week, or make dua for the dead when you pass one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:27", "surah": 77, "ayah": 27, "place": "makkah",
+    "title": "Firm mountains, and sweet water to drink.",
+    "subtitle": "Stability and refreshment, given",
+    "picture": {"kind": "boxes", "label": "What He placed", "row": [
+      {"box": "reward", "title": "lofty mountains", "sub": ["hold the earth steady"]},
+      {"box": "reward", "title": "sweet water", "sub": ["from clouds, from springs"]}]},
+    "key": {"label": "Where it came from", "row": [
+      {"box": "trap", "title": "the tap", "sub": ["the utility company"], "strike": true},
+      {"box": "reward", "title": "Allah gave it", "sub": ["We gave you to drink"]}]},
+    "then": "Ibn Kathir says the mountains hold the earth {reward}so it does not shake and sway.{/reward} The water is {reward}cold and delicious, from the clouds or from the springs He makes gush forth.{/reward}",
+    "now": "You fill a glass from the tap without a thought. Somewhere it fell as rain, ran through mountains, and came to you. {idea}The verse says: We gave you that drink.{/idea}",
+    "old": "Water is just a utility I pay for.",
+    "new": "Every sip of fresh water is Allah giving me to drink.",
+    "try": "Drink your next glass of water slowly and say Alhamdulillah after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:28", "surah": 77, "ayah": 28, "place": "makkah",
+    "title": "Woe, that Day, to those who drank His water and denied Him.",
+    "subtitle": "Fourth refrain: after the earth, mountains, and water",
+    "picture": {"kind": "boxes", "label": "What they lived on", "row": [
+      {"box": "reward", "title": "the earth", "sub": ["a shelter"]},
+      {"box": "reward", "title": "mountains, water", "sub": ["steady, sweet"]},
+      {"conn": "and still"},
+      {"box": "trap", "title": "denied", "sub": ["woe to them"]}]},
+    "key": {"label": "The woe here", "row": [
+      {"box": "trap", "title": "did not know", "strike": true},
+      {"box": "trap", "title": "saw, then denied", "sub": ["after reflecting"]}]},
+    "then": "Ibn Kathir explains this one directly: {trap}woe to whoever reflects on these created things that show the greatness of their Creator, and after that keeps rejecting Him.{/trap} The ground, the mountains, the water were {idea}gifts in their hands.{/idea}",
+    "now": "You live on Allah's earth, drink His water, breathe His air, and go whole days without a word of thanks. {idea}The woe is for seeing the gifts and still turning away.{/idea}",
+    "old": "I can enjoy the world without thinking about who gave it.",
+    "new": "Using His gifts while ignoring Him is the denial this verse warns about.",
+    "try": "Thank Allah out loud for three ordinary things before you sleep tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "39:1", "surah": 39, "ayah": 1, "place": "makkah",
+    "title": "Before you read a word, know who sent it.",
+    "subtitle": "The sender sets the weight of the message",
+    "picture": {"kind": "boxes", "label": "Where the Book comes from", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the Almighty", "the All-Wise"]},
+      {"conn": "sends down"},
+      {"box": "reward", "title": "the Book", "sub": ["truth with no doubt in it"]},
+      {"conn": "to"},
+      {"box": "people", "title": "you", "sub": ["the one reading now"]}]},
+    "key": {"label": "How to hold it", "row": [
+      {"box": "people", "title": "one more text", "sub": ["read it like any other"], "strike": true},
+      {"box": "idea", "title": "a letter from the Wise", "sub": ["every line placed with wisdom"]}]},
+    "then": "Makkah, a city full of hostility toward the new message. The surah opens by naming its source: {idea}the Almighty, the All-Wise.{/idea} Ibn Kathir notes the Prophet ﷺ used to recite this surah every night.",
+    "now": "You scroll past a hundred messages a day. Most you skim. Then one comes from your mother, or a doctor with your results, and you read every word twice. {idea}Who sent it changes how you read it.{/idea}",
+    "old": "The Quran is a book I should get around to reading properly.",
+    "new": "It is sent down by the Almighty and the Wise, so every line deserves my full attention.",
+    "try": "Before you open the Quran today, pause for three breaths and remember who it is from.",
+    "related": ["26:192", "41:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:2", "surah": 39, "ayah": 2, "place": "makkah",
+    "title": "The Book came with truth, so give Him a pure heart.",
+    "subtitle": "Sincerity is the first reply to revelation",
+    "picture": {"kind": "boxes", "label": "Cause and response", "row": [
+      {"box": "reward", "title": "the Book", "sub": ["sent down in truth"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "worship Allah", "sub": ["alone, no partner"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "sincerity", "sub": ["done for Him only"]}]},
+    "key": {"label": "What sincere means", "row": [
+      {"box": "trap", "title": "mixed motives", "sub": ["for Him, and to be seen"], "strike": true},
+      {"box": "idea", "title": "for Him only", "sub": ["one address on the deed"]}]},
+    "then": "The command is to the Prophet ﷺ first: worship Allah alone, and teach people that {idea}no one and nothing shares that right.{/idea} The message landed among people who prayed to many.",
+    "now": "You post a photo of the charity drive. You mention the night prayer in passing. Small things, but they pull the deed toward the audience. {trap}Half for Him, half for the likes.{/trap} The verse asks for one address only.",
+    "old": "As long as I do good things, why I do them matters less.",
+    "new": "The truth of the Book asks for a deed done for Allah alone.",
+    "try": "Do one good deed today that nobody will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:3", "surah": 39, "ayah": 3, "place": "makkah",
+    "title": "No go-between is needed to come near Him.",
+    "subtitle": "The excuse of the middlemen",
+    "picture": {"kind": "boxes", "label": "Their reasoning", "row": [
+      {"box": "people", "title": "the worshipper", "sub": ["wants nearness, provision"]},
+      {"conn": "prays to"},
+      {"box": "trap", "title": "idols", "sub": ["made as images of angels"]},
+      {"conn": "hoping to reach"},
+      {"box": "idea", "title": "Allah", "sub": ["who never allowed it"]}]},
+    "key": {"label": "Two pictures of nearness", "row": [
+      {"box": "trap", "title": "a king's court", "sub": ["ministers who pull strings"], "strike": true},
+      {"box": "idea", "title": "the pure religion", "sub": ["accepted only if sincere to Him"]}]},
+    "then": "The idolaters said: {trap}we only worship them so they bring us near to Allah.{/trap} Ibn Kathir explains they pictured Allah like their kings, reached through ministers. But even the angels intercede only by His leave.",
+    "now": "You think you need the right connection for everything: the cousin at the bank, the friend in HR. Then you carry that habit into your prayer, as if Allah only listens through someone else. {idea}He hears you directly.{/idea}",
+    "old": "I am too far from Allah to ask Him myself.",
+    "new": "Nearness to Him comes through sincere worship, not through a middleman.",
+    "try": "Make one dua today in your own words, straight to Him, about something you have been hesitant to ask.",
+    "related": ["16:36", "21:25", "34:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:4", "surah": 39, "ayah": 4, "place": "makkah",
+    "title": "He is One, and needs no son beside Him.",
+    "subtitle": "Why the claim of offspring falls apart",
+    "picture": {"kind": "boxes", "label": "The claim and the reply", "row": [
+      {"box": "trap", "title": "the claim", "sub": ["angels are His daughters"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "the One", "sub": ["nothing like Him"]},
+      {"box": "idea", "title": "the Irresistible", "sub": ["over all creation"]}]},
+    "key": {"label": "What the verse corrects", "row": [
+      {"box": "trap", "title": "God with family", "sub": ["needs heirs, helpers"], "strike": true},
+      {"box": "idea", "title": "Glory be to Him", "sub": ["far above any need"]}]},
+    "then": "Some in Makkah claimed the angels were Allah's daughters. Ibn Kathir explains the verse as a condition that shows how empty the claim is: {idea}it is impossible, and He is far above it.{/idea}",
+    "now": "You picture Allah the way you picture people: tired, needing help, needing someone to carry on. Without noticing, you shrink Him to your size. {idea}The One, the Irresistible{/idea} does not fit that picture.",
+    "old": "I imagine Allah a bit like a powerful person, only bigger.",
+    "new": "He is One and Irresistible, with no need for anyone at all.",
+    "try": "Say subhanallah slowly ten times today, meaning: You are above every limit I picture.",
+    "related": ["21:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:5", "surah": 39, "ayah": 5, "place": "makkah",
+    "title": "Night wraps day, day wraps night, and He still forgives.",
+    "subtitle": "Might that runs the sky and forgives you",
+    "picture": {"kind": "boxes", "label": "What He runs", "row": [
+      {"box": "plain", "title": "night over day", "sub": ["wrapped, then unwrapped"]},
+      {"box": "plain", "title": "sun and moon", "sub": ["each on a set term"]},
+      {"conn": "by"},
+      {"box": "idea", "title": "the Almighty", "sub": ["and the Oft-Forgiving"]}]},
+    "key": {"label": "Two names together", "row": [
+      {"box": "trap", "title": "power means harshness", "sub": ["too big to care"], "strike": true},
+      {"box": "reward", "title": "might plus forgiveness", "sub": ["for those who turn back"]}]},
+    "then": "Ibn Kathir says night and day chase each other without stopping, and the sun and moon run until a term {idea}known to Allah{/idea}, ending on the Day of Resurrection. Then, beside His might, He is {reward}Oft-Forgiving to those who turn back.{/reward}",
+    "now": "You watch the sunset from the bus window on the way home, tired, thinking about what you got wrong today. The same hand turning that sky is waiting for you to turn back. {reward}Big enough to run the sky, close enough to forgive you.{/reward}",
+    "old": "Someone that powerful has no time for my small mistakes.",
+    "new": "The One who runs the sun and moon is also the One who keeps forgiving.",
+    "try": "At sunset today, watch the sky change for one minute and ask Him for forgiveness.",
+    "related": ["7:54"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:6", "surah": 39, "ayah": 6, "place": "makkah",
+    "title": "He shaped you in three darknesses. How can you turn away?",
+    "subtitle": "Your own beginning as the argument",
+    "picture": {"kind": "boxes", "label": "How you were made", "row": [
+      {"box": "people", "title": "one soul", "sub": ["Adam, then his wife"]},
+      {"conn": "then"},
+      {"box": "people", "title": "the womb", "sub": ["stage after stage"]},
+      {"box": "plain", "title": "3", "sub": ["darknesses around you"], "num": true}]},
+    "key": {"label": "The question at the end", "row": [
+      {"box": "trap", "title": "I made myself", "sub": ["my effort, my life"], "strike": true},
+      {"box": "idea", "title": "Such is Allah your Lord", "sub": ["so how are you turned away?"]}]},
+    "then": "Ibn Kathir lists the stages: a drop, a clot, a lump, then bones and flesh, then the soul. The three darknesses are womb, placenta, and belly. {idea}The One who did all that is your Lord.{/idea}",
+    "now": "You sit in a hospital corridor waiting for an ultrasound, staring at a grainy screen. A heartbeat you did not build, in a darkness no one could reach. {idea}That was you once too.{/idea}",
+    "old": "I built my life with my own hands.",
+    "new": "I was formed in darkness before I could do anything, so my Lord is the One who formed me.",
+    "try": "Thank Allah today for one part of your body you have never once thought about.",
+    "related": ["4:1", "23:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:7", "surah": 39, "ayah": 7, "place": "makkah",
+    "title": "He needs nothing from you, yet loves your gratitude.",
+    "subtitle": "Thankfulness is for your own good",
+    "picture": {"kind": "boxes", "label": "Two paths, one Lord", "row": [
+      {"box": "trap", "title": "ingratitude", "sub": ["He does not like it"]},
+      {"box": "reward", "title": "gratitude", "sub": ["He is pleased, gives more"]},
+      {"conn": "then"},
+      {"box": "people", "title": "your own load", "sub": ["no one carries it for you"]}]},
+    "key": {"label": "Who gains", "row": [
+      {"box": "trap", "title": "Allah needs my worship", "sub": ["I do Him a favor"], "strike": true},
+      {"box": "idea", "title": "He is free of need", "sub": ["gratitude benefits me"]}]},
+    "then": "Ibn Kathir cites the words of Musa: if all on earth disbelieve, Allah is still Rich. {idea}Gratitude pleases Him and He increases His favor.{/idea} And each person answers only for their own deeds.",
+    "now": "Payday. You check the balance, pay the bills, and move on. The verse does not ask for a speech, just a thankful heart. {reward}He likes it for you, not for Himself.{/reward} And on the Day, your friends cannot carry your account.",
+    "old": "My worship is something I give to Allah.",
+    "new": "Allah needs nothing; my gratitude is a gift that comes back to me.",
+    "try": "Write down three things you are thankful for tonight, and say alhamdulillah for each one.",
+    "related": ["14:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:8", "surah": 39, "ayah": 8, "place": "makkah",
+    "title": "Desperate in the storm, forgetful in the calm.",
+    "subtitle": "The prayer we drop once the trouble passes",
+    "picture": {"kind": "boxes", "label": "The cycle", "row": [
+      {"box": "trap", "title": "hardship", "sub": ["something hurts"]},
+      {"conn": "he"},
+      {"box": "idea", "title": "calls on Allah", "sub": ["sincerely, alone"]},
+      {"conn": "then relief, and he"},
+      {"box": "trap", "title": "forgets", "sub": ["sets up rivals"]}]},
+    "key": {"label": "The real test", "row": [
+      {"box": "people", "title": "praying in crisis", "sub": ["everyone does that"]},
+      {"box": "idea", "title": "remembering in ease", "sub": ["the part that counts"]}]},
+    "then": "Ibn Kathir explains that in need a person calls on Allah alone, but {trap}once relieved, forgets the prayer{/trap} and sets up rivals. The warning, enjoy your disbelief a little, is a stern one.",
+    "now": "The night before the exam results, you prayed like never before. The scan came back clear and you promised to change. Three weeks later the prayer mat is folded away. {idea}The calm is where the test really starts.{/idea}",
+    "old": "I turn to Allah when I really need Him.",
+    "new": "Turning to Him in hardship is easy; staying with Him after relief is the proof.",
+    "try": "Think of one prayer Allah answered for you. Thank Him for it today, by name.",
+    "related": ["17:67", "10:12", "14:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:9", "surah": 39, "ayah": 9, "place": "makkah",
+    "title": "Standing at night, between fear and hope.",
+    "subtitle": "Those who know are not like those who do not",
+    "picture": {"kind": "boxes", "label": "The one in the night", "row": [
+      {"box": "people", "title": "the worshipper", "sub": ["standing, prostrating", "deep in the night"]},
+      {"box": "trap", "title": "fears", "sub": ["the Hereafter"]},
+      {"box": "reward", "title": "hopes", "sub": ["for his Lord's mercy"]}]},
+    "key": {"label": "Not equal", "row": [
+      {"box": "people", "title": "those who know", "sub": ["fear and hope together"]},
+      {"conn": "versus"},
+      {"box": "trap", "title": "those who forget", "sub": ["rivals in the calm"]}]},
+    "then": "After the forgetful one of the last verse comes the one who prays in the depths of the night, {idea}with both fear and hope.{/idea} Ibn Kathir notes the Prophet ﷺ said when both meet in a dying heart, Allah gives what it hopes for.",
+    "now": "Two in the morning. Everyone is asleep, the phone is face down. You stand for two short rakahs, not sure if you are doing it right. {reward}Afraid and hopeful at once.{/reward} That mix is what knowing looks like.",
+    "old": "Either I am scared of Allah or I am at peace with Him.",
+    "new": "Real knowledge holds fear and hope together, like two wings.",
+    "try": "Set an alarm ten minutes before Fajr tonight and pray two rakahs before it.",
+    "related": ["3:113"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:10", "surah": 39, "ayah": 10, "place": "makkah",
+    "title": "Allah's earth is wide, and patience is paid beyond measure.",
+    "subtitle": "When a place gets too narrow for your faith",
+    "picture": {"kind": "boxes", "label": "The way out", "row": [
+      {"box": "trap", "title": "pressure", "sub": ["faith squeezed in Makkah"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "a wide earth", "sub": ["move, strive, stay true"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "patience", "sub": ["reward without reckoning"]}]},
+    "key": {"label": "How it is paid", "row": [
+      {"box": "people", "title": "measured wages", "sub": ["so much per deed"]},
+      {"box": "reward", "title": "without account", "sub": ["not weighed, not measured"]}]},
+    "then": "The surah introduction says this was sent before the migration to Abyssinia, and some reports link it to Jafar ibn Abi Talib and his companions. {idea}Allah's earth is spacious.{/idea} Al-Awzai said the patient's reward {reward}will not be weighed or measured.{/reward}",
+    "now": "The office where everyone mocks your prayer breaks. The friend group that pulls you somewhere you do not want to go. You feel trapped. {idea}The earth is wider than one room.{/idea} And every quiet day of patience is being counted without a ceiling.",
+    "old": "I am stuck here and nothing can change.",
+    "new": "Allah's earth is wide, and the patience I show where I am is rewarded without limit.",
+    "try": "Name one place that keeps squeezing your faith, and take one small step toward a better space.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:11", "surah": 39, "ayah": 11, "place": "makkah",
+    "title": "The Messenger says it first about himself.",
+    "subtitle": "The teacher is under the same order",
+    "picture": {"kind": "boxes", "label": "The command", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["told to say"]},
+      {"conn": "I am commanded"},
+      {"box": "idea", "title": "worship Allah", "sub": ["sincere to Him in religion"]}]},
+    "key": {"label": "Who the rule is for", "row": [
+      {"box": "trap", "title": "rules for others", "sub": ["the preacher is exempt"], "strike": true},
+      {"box": "idea", "title": "the same order", "sub": ["he says it of himself first"]}]},
+    "then": "Ibn Kathir explains the meaning: {idea}I am commanded to worship Allah alone in all sincerity, with no partner.{/idea} The Prophet ﷺ is told to announce it as his own duty before calling others to it.",
+    "now": "You tell your little brother to put his phone down at dinner, with yours glowing in your lap. You give advice in the family group chat that you skip yourself. {idea}Start with I am commanded.{/idea}",
+    "old": "I know what others should be doing.",
+    "new": "The first person the message is for is me.",
+    "try": "Pick one piece of advice you often give others and follow it yourself today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:12", "surah": 39, "ayah": 12, "place": "makkah",
+    "title": "Be the first to submit, not the last to follow.",
+    "subtitle": "Leading by going first",
+    "picture": {"kind": "boxes", "label": "The order of things", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["commanded"]},
+      {"conn": "to be"},
+      {"box": "reward", "title": "the first", "sub": ["of those who submit"]}]},
+    "key": {"label": "Two ways to wait", "row": [
+      {"box": "trap", "title": "I will once others do", "sub": ["waiting for a crowd"], "strike": true},
+      {"box": "idea", "title": "I go first", "sub": ["submission before anyone"]}]},
+    "then": "In Makkah almost no one around him had accepted. Still, the command was to be {idea}the first of the Muslims{/idea}, submitting before anyone else, whether others came or not.",
+    "now": "Your family has always prayed late. Your team always cuts the same corner. You wait for someone else to change first so you will not stand out. {reward}Someone has to be first.{/reward}",
+    "old": "I will start once the people around me start.",
+    "new": "Submission does not wait for a crowd; I can be the first.",
+    "try": "Be the first in your home to pray the next prayer on time, without saying anything.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:13", "surah": 39, "ayah": 13, "place": "makkah",
+    "title": "Even the Messenger said: I fear that Day.",
+    "subtitle": "If he fears it, how should I feel",
+    "picture": {"kind": "boxes", "label": "The condition", "row": [
+      {"box": "people", "title": "if I disobey", "sub": ["said by the Prophet ﷺ"]},
+      {"conn": "then I fear"},
+      {"box": "trap", "title": "a great Day", "sub": ["the Day of Resurrection"]}]},
+    "key": {"label": "What follows", "row": [
+      {"box": "trap", "title": "I am safe enough", "sub": ["good person, no worry"], "strike": true},
+      {"box": "idea", "title": "applies even more to me", "sub": ["fear that keeps me careful"]}]},
+    "then": "Ibn Kathir explains this is a conditional sentence. {idea}If it is said by the Prophet ﷺ, it applies even more to everyone else.{/idea} The great Day is the Day of Resurrection.",
+    "now": "You tell yourself you are fine. You do not drink, you do not steal, you mostly pray. Then you remember the one sent to teach us said this. {idea}Healthy fear keeps you awake, not anxious.{/idea}",
+    "old": "I am a decent person, so the Day is not my worry.",
+    "new": "If the Prophet ﷺ said he fears that Day, I should take my own conduct seriously.",
+    "try": "Before sleeping, think of one thing you did today you would want to fix, and ask forgiveness for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:14", "surah": 39, "ayah": 14, "place": "makkah",
+    "title": "Allah alone I worship. Say it plainly.",
+    "subtitle": "A clear line under pressure",
+    "picture": {"kind": "boxes", "label": "The declaration", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["placed first in the sentence"]},
+      {"conn": "alone I worship"},
+      {"box": "people", "title": "my religion", "sub": ["sincere to Him"]}]},
+    "key": {"label": "Mine, whatever you do", "row": [
+      {"box": "trap", "title": "soften to fit in", "sub": ["blur the line"], "strike": true},
+      {"box": "idea", "title": "my religion is His", "sub": ["said without apology"]}]},
+    "then": "The surah introduction says the Prophet ﷺ was told to tell them plainly that persecution would not turn him from his way. {idea}Allah alone I worship, sincere to Him in my religion.{/idea}",
+    "now": "At the work dinner someone jokes about your fasting. You laugh along and change the subject. No need to argue, but no need to hide. {idea}This is who I worship.{/idea}",
+    "old": "I keep my faith quiet so no one makes it awkward.",
+    "new": "I can say calmly and clearly who I worship, without needing approval.",
+    "try": "Next time someone asks about your faith, answer simply and kindly instead of changing the topic.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:15", "surah": 39, "ayah": 15, "place": "makkah",
+    "title": "The real loss is losing yourself and your family.",
+    "subtitle": "What counts as losing, on the Day",
+    "picture": {"kind": "boxes", "label": "The manifest loss", "row": [
+      {"box": "trap", "title": "themselves", "sub": ["lost"]},
+      {"box": "trap", "title": "their families", "sub": ["separated, never to meet"]},
+      {"conn": "on"},
+      {"box": "idea", "title": "the Day", "sub": ["of Resurrection"]}]},
+    "key": {"label": "What loss means", "row": [
+      {"box": "people", "title": "money, status", "sub": ["what I call losing"], "strike": true},
+      {"box": "trap", "title": "self and family", "sub": ["the clear loss"]}]},
+    "then": "Worship what you like, the verse says, as a warning and a disowning. Ibn Kathir explains the losers are {trap}separated from their families and will never meet again.{/trap} That is the clearest loss.",
+    "now": "You lose a deal and cannot sleep. You lose a promotion and sulk for a week. Meanwhile the dinners with your kids get shorter and the prayers slip. {idea}Ask what you are really afraid of losing.{/idea}",
+    "old": "Losing means missing out on money or position.",
+    "new": "The loss that matters is losing myself and the people I love on the Day.",
+    "try": "Put your phone away during one family meal today and talk with them properly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

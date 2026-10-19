@@ -1,0 +1,268 @@
+[
+  {
+    "id": "6:101", "surah": 6, "ayah": 101, "place": "makkah",
+    "title": "The One who made the heavens from nothing needs no son.",
+    "subtitle": "Badi: the Originator with no model to copy",
+    "picture": {"kind": "boxes", "label": "The argument", "row": [
+      {"box": "idea", "title": "Badi", "sub": ["made it all with no precedent"]},
+      {"box": "plain", "title": "no companion", "sub": ["none like Him"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "a child?", "sub": ["makes no sense"], "strike": true}]},
+    "key": {"label": "How to picture Allah", "row": [
+      {"box": "trap", "title": "like us, but bigger", "sub": ["family, needs"], "strike": true},
+      {"box": "idea", "title": "Creator of everything", "sub": ["knows all things"]}]},
+    "then": "Mujahid and As-Suddi explained Badi as the One who {idea}brought the heavens and earth into being with no earlier example.{/idea} A child comes from two matching partners, Ibn Kathir notes, and {trap}nothing is like Allah{/trap} to be His partner. He created everything and knows everything.",
+    "now": "We picture Allah the way we picture people: tired, needing help, needing someone to carry on His name. {idea}The One who made galaxies from nothing has no needs at all.{/idea} That is why you can bring Him every need of yours.",
+    "old": "I quietly imagine Allah with human limits, like someone who might be too busy for me.",
+    "new": "He made everything from nothing and needs nothing, so nothing I ask is too much.",
+    "try": "Ask Allah today for something you thought was too big to ask for.",
+    "related": ["19:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:102", "surah": 6, "ayah": 102, "place": "makkah",
+    "title": "That is your Lord. He made everything, so worship Him.",
+    "subtitle": "Creator of all, and the Guardian over all",
+    "picture": {"kind": "boxes", "label": "One chain of reasons", "row": [
+      {"box": "idea", "title": "your Lord", "sub": ["no god but Him"]},
+      {"box": "idea", "title": "Creator of all", "sub": []},
+      {"conn": "so"},
+      {"box": "people", "title": "worship Him", "sub": ["alone"]},
+      {"box": "reward", "title": "He is Wakil", "sub": ["guardian over all things"]}]},
+    "key": {"label": "Who is running things", "row": [
+      {"box": "trap", "title": "it all rests on me", "sub": ["my plans, my control"], "strike": true},
+      {"box": "reward", "title": "He is the Guardian", "sub": ["provides, protects, day and night"]}]},
+    "then": "After the proofs of seeds, dawn, stars and rain, the verse draws the conclusion. {idea}That is Allah, your Lord, Creator of all things, so worship Him.{/idea} Ibn Kathir explains Wakil as {reward}the Trustee and Watcher who gives provision and protection by day and night.{/reward}",
+    "now": "Three a.m. and you are lying awake, running through bills, your child's grades, your mother's test results. {trap}You act as if you are holding up the whole sky.{/trap} {reward}There is a Guardian over all things, and He does not sleep.{/reward}",
+    "old": "If I stop worrying, everything will fall apart.",
+    "new": "Allah is the Guardian over all things. My job is to worship Him and do my part.",
+    "try": "Write down your top worry, then say Hasbiyallah wa nimal wakil over it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:103", "surah": 6, "ayah": 103, "place": "makkah",
+    "title": "No eye can grasp Him, yet He sees every eye.",
+    "subtitle": "The Subtle, the Fully Aware",
+    "picture": {"kind": "boxes", "label": "Two directions", "row": [
+      {"box": "people", "title": "our sight", "sub": ["cannot grasp Him"]},
+      {"conn": "while"},
+      {"box": "idea", "title": "His sight", "sub": ["grasps all sight"]},
+      {"box": "reward", "title": "Al-Latif, Al-Khabir", "sub": ["subtle, fully aware"]}]},
+    "key": {"label": "Unseen does not mean absent", "row": [
+      {"box": "trap", "title": "I cannot see Him", "sub": ["so He is far"], "strike": true},
+      {"box": "idea", "title": "He sees me", "sub": ["every glance, every place"]}]},
+    "then": "Aishah used this verse to show that no one sees Allah in this life. Ibn Kathir says it does not deny that believers will see Him in the Hereafter, but {idea}no vision can ever encompass Him.{/idea} He, though, {reward}encompasses all vision{/reward}, the Subtle who knows where every thing is.",
+    "now": "You are alone in your room with your phone. No one can see your screen. {idea}You cannot see Him, but He sees exactly what you see.{/idea} That can feel heavy. It is also a comfort on the nights you cry where no one notices.",
+    "old": "If no one can see me, it is like it did not happen.",
+    "new": "He sees every glance and every quiet tear, even when I cannot see Him.",
+    "try": "The next time you are alone with your phone, pause and remember He sees what you see.",
+    "related": ["67:14", "31:16", "7:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:104", "surah": 6, "ayah": 104, "place": "makkah",
+    "title": "The proofs have come. Seeing them is for your own good.",
+    "subtitle": "Clear insight arrives, and each person chooses to look",
+    "picture": {"kind": "boxes", "label": "Basa'ir", "row": [
+      {"box": "idea", "title": "clear proofs", "sub": ["Quran and the Messenger"]},
+      {"conn": "whoever sees"},
+      {"box": "reward", "title": "gains himself", "sub": []},
+      {"conn": "whoever is blind"},
+      {"box": "trap", "title": "harms himself", "sub": ["the heart goes blind"]}]},
+    "key": {"label": "Whose job is what", "row": [
+      {"box": "people", "title": "the Messenger forces you", "sub": ["a guard over you"], "strike": true},
+      {"box": "idea", "title": "he conveys, you choose", "sub": ["not a keeper over you"]}]},
+    "then": "Ibn Kathir explains Basa'ir as {idea}the proofs in the Quran and the message of the Prophet ﷺ.{/idea} Whoever sees gains for himself. Whoever turns blind {trap}harms only himself{/trap}, for it is the heart that goes blind, not the eyes. The Prophet ﷺ only conveys. He is not their keeper.",
+    "now": "Your friend sends you a talk that could change how you see your anger. You leave it unopened for weeks. {idea}Nobody can force you to look.{/idea} {trap}Not looking is still a choice{/trap}, and you are the one who carries it.",
+    "old": "If guidance really mattered, someone would make me listen.",
+    "new": "The light is already here. Looking or not looking is mine to answer for.",
+    "try": "Open one reminder you have been saving for later and actually read or watch it today.",
+    "related": ["10:108", "22:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:105", "surah": 6, "ayah": 105, "place": "makkah",
+    "title": "Explained from every angle, and still they said he copied it.",
+    "subtitle": "The same verses clarify for some and harden others",
+    "picture": {"kind": "boxes", "label": "One explanation, two results", "row": [
+      {"box": "idea", "title": "verses varied", "sub": ["shown many ways"]},
+      {"conn": "deniers say"},
+      {"box": "trap", "title": "you studied it", "sub": ["learned from others"]},
+      {"conn": "knowers find"},
+      {"box": "reward", "title": "it made clear", "sub": ["they follow it"]}]},
+    "key": {"label": "What decides the result", "row": [
+      {"box": "people", "title": "how clear it is", "sub": ["need more proof"], "strike": true},
+      {"box": "idea", "title": "the heart receiving it", "sub": ["seeking truth or excuses"]}]},
+    "then": "Allah explains His signs in many ways in this surah, mainly that none deserves worship but Him. Ibn Abbas and others said the deniers responded: {trap}you studied this with people of earlier scripture.{/trap} Yet the same explanations {reward}make things clear for people who know{/reward} and want the truth.",
+    "now": "Two people hear the same khutbah. One leaves moved and changes something. The other says, \"He just read that off some website.\" {idea}Same words, different hearts.{/idea} You get to pick which listener you are.",
+    "old": "If something were really true, everyone would see it the same way.",
+    "new": "Truth can be fully clear and still be refused. The heart decides how it lands.",
+    "try": "Next time you feel like dismissing a reminder, ask yourself: am I looking for truth or an excuse?",
+    "related": ["25:4", "17:82", "41:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:106", "surah": 6, "ayah": 106, "place": "makkah",
+    "title": "Follow what was revealed, and turn away from the mockers.",
+    "subtitle": "Stick to revelation, and stop chasing every insult",
+    "picture": {"kind": "boxes", "label": "Two commands", "row": [
+      {"box": "idea", "title": "follow the revelation", "sub": ["obey it, act on it"]},
+      {"box": "idea", "title": "no god but Him", "sub": []},
+      {"conn": "and"},
+      {"box": "people", "title": "turn aside", "sub": ["forgive, endure their harm"]}]},
+    "key": {"label": "Where energy goes", "row": [
+      {"box": "trap", "title": "answer every attack", "sub": ["win every argument"], "strike": true},
+      {"box": "idea", "title": "keep following", "sub": ["patient till relief comes"]}]},
+    "then": "In the hardest years in Makkah, the Prophet ﷺ is told: {idea}follow what has been revealed to you{/idea}, and turn aside from those who join partners with Allah. Ibn Kathir explains turning aside as {reward}forgiving them, being patient, and enduring their harm{/reward} until Allah brings relief and support.",
+    "now": "Someone at work mocks your prayer breaks. A cousin keeps sending sarcastic memes. You draft long replies in your head every night. {idea}Keep doing what is right, and let the rest go past you.{/idea} Patience is not losing.",
+    "old": "If I do not answer every jab, I am letting them win.",
+    "new": "My job is to keep following the truth. Turning aside can be strength.",
+    "try": "Delete one reply you were going to send to someone who mocked you. Pray instead.",
+    "related": ["88:21", "13:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:107", "surah": 6, "ayah": 107, "place": "makkah",
+    "title": "You are not their guard, and not their manager.",
+    "subtitle": "The Prophet ﷺ freed from carrying other people's choices",
+    "picture": {"kind": "boxes", "label": "What the role is not", "row": [
+      {"box": "plain", "title": "not a guard", "sub": ["watching their words"], "strike": true},
+      {"box": "plain", "title": "not a manager", "sub": ["running their affairs"], "strike": true},
+      {"conn": "only"},
+      {"box": "idea", "title": "one who conveys", "sub": ["the reckoning is Allah's"]}]},
+    "key": {"label": "Whose result it is", "row": [
+      {"box": "trap", "title": "their faith is on me", "sub": ["I failed if they refuse"], "strike": true},
+      {"box": "idea", "title": "my duty is to convey", "sub": ["Allah decides the rest"]}]},
+    "then": "The Prophet ﷺ longed for his people to believe. Allah reminds him that {idea}if He had willed, they would not have joined partners{/idea}, and there is wisdom in it. {reward}You are not a watcher over them or in charge of their affairs.{/reward} His only duty was to convey.",
+    "now": "Your brother stopped praying. Your friend is making choices you hate. You carry it like it is your fault. {idea}You can advise, pray, and love.{/idea} {reward}You were never asked to be their guard.{/reward}",
+    "old": "If the people I love go wrong, I have failed.",
+    "new": "I convey with love. Their hearts are in Allah's hands, not mine.",
+    "try": "Make dua by name for one person you worry about, then hand the worry over to Allah.",
+    "related": ["88:21", "13:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:108", "surah": 6, "ayah": 108, "place": "makkah",
+    "title": "Do not insult their gods, or they will insult Allah.",
+    "subtitle": "Giving up a small gain to avoid a bigger harm",
+    "picture": {"kind": "boxes", "label": "The chain reaction", "row": [
+      {"box": "people", "title": "you insult their idols", "sub": []},
+      {"conn": "they reply"},
+      {"box": "trap", "title": "they insult Allah", "sub": ["in anger, without knowledge"]}]},
+    "key": {"label": "What winning looks like", "row": [
+      {"box": "trap", "title": "the sharpest insult", "sub": ["it felt good"], "strike": true},
+      {"box": "idea", "title": "protecting what is sacred", "sub": ["by holding my tongue"]}]},
+    "then": "Ibn Abbas reported the idolaters saying: {trap}stop insulting our gods, or we will insult your Lord.{/trap} Qatadah said Muslims had been insulting the idols and the others hit back by insulting Allah. So {idea}Allah forbade it.{/idea} Ibn Kathir ties it to the hadith about the man who curses his own parents by cursing someone else's.",
+    "now": "A heated comment thread about religion. You type the cutting line about their beliefs. {trap}The reply will drag the name of Allah through the mud.{/trap} {idea}Sometimes the most loyal thing you can do is not post it.{/idea}",
+    "old": "Mocking what others worship is just standing up for the truth.",
+    "new": "Insulting their gods only invites insults to Allah. Restraint protects what I love.",
+    "try": "Before posting about someone else's faith today, ask: what reply will this provoke?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:109", "surah": 6, "ayah": 109, "place": "makkah",
+    "title": "They swore they would believe if a miracle came.",
+    "subtitle": "Demanding signs out of defiance, not to find guidance",
+    "picture": {"kind": "boxes", "label": "The deal they offered", "row": [
+      {"box": "people", "title": "strongest oaths", "sub": ["by Allah"]},
+      {"conn": "if"},
+      {"box": "plain", "title": "a sign comes", "sub": ["a miracle on demand"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "we will believe", "sub": ["they would not"]}]},
+    "key": {"label": "What was really missing", "row": [
+      {"box": "people", "title": "one more proof", "sub": ["then I am in"], "strike": true},
+      {"box": "idea", "title": "a willing heart", "sub": ["signs are with Allah"]}]},
+    "then": "The idolaters of Makkah swore their strongest oaths: {trap}send us a sign and we will surely believe.{/trap} Ibn Kathir says they asked out of defiance, not a wish for guidance. The Prophet ﷺ is told to say {idea}signs are only with Allah{/idea}, and the believers are asked how they can be sure the deniers would believe even then.",
+    "now": "\"If I get this job, I will start praying.\" \"If my test comes back clear, I will change.\" {trap}You set conditions on Allah.{/trap} {idea}The signs you need are mostly already here.{/idea} The deal is a way to delay.",
+    "old": "I will commit once Allah gives me a clear sign.",
+    "new": "Waiting for a sign is often a way of not starting. Start now.",
+    "try": "Find one if-then promise you made to Allah. Do the then part today, without the if.",
+    "related": ["6:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:110", "surah": 6, "ayah": 110, "place": "makkah",
+    "title": "Refuse the first time, and the heart keeps turning away.",
+    "subtitle": "Rejection hardens into wandering",
+    "picture": {"kind": "boxes", "label": "How it spirals", "row": [
+      {"box": "people", "title": "first refusal", "sub": ["truth turned down"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "hearts turned", "sub": ["eyes turned too"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "left wandering", "sub": ["in their transgression"]}]},
+    "key": {"label": "The real danger", "row": [
+      {"box": "people", "title": "I can accept it later", "sub": ["no cost to waiting"], "strike": true},
+      {"box": "trap", "title": "each no gets easier", "sub": ["the heart stops settling"]}]},
+    "then": "Ibn Abbas said that when they rejected what Allah sent down, {trap}their hearts no longer settled on anything{/trap} and turned away from every good. Mujahid said it means they were kept from faith, as they refused it the first time. {trap}They are left wandering blindly{/trap} in their misguidance.",
+    "now": "The first time you skip Fajr, it stings. By the tenth time, you barely notice. {trap}Each no makes the next one easier.{/trap} {idea}Answer the call while it still stings.{/idea}",
+    "old": "I can keep saying not now, and come back whenever I like.",
+    "new": "Each time I turn away, my heart turns a little more. The first yes matters.",
+    "try": "Think of one reminder you keep brushing off. Say yes to it once today, even in a small way.",
+    "related": ["6:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:111", "surah": 6, "ayah": 111, "place": "makkah",
+    "title": "Angels, talking dead, the whole world as witness: still no.",
+    "subtitle": "Guidance is with Allah, not in the size of the miracle",
+    "picture": {"kind": "boxes", "label": "Even if", "row": [
+      {"box": "plain", "title": "angels sent down", "sub": []},
+      {"box": "plain", "title": "the dead speak", "sub": []},
+      {"box": "plain", "title": "all things gathered", "sub": ["testifying in front of them"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "no belief", "sub": ["unless Allah wills"]}]},
+    "key": {"label": "Where guidance lives", "row": [
+      {"box": "trap", "title": "in bigger proof", "sub": ["more miracles"], "strike": true},
+      {"box": "idea", "title": "with Allah", "sub": ["ask Him for it"]}]},
+    "then": "The deniers had asked to see angels, or Allah Himself, face to face. The verse answers: even if {idea}angels came, the dead spoke, and every nation stood up to testify{/idea}, they would not believe unless Allah willed. Ibn Kathir says this is because {reward}guidance is with Allah, not with them.{/reward}",
+    "now": "You think one more lecture, one more book, one perfect argument will finally fix your doubts or your brother's. {idea}Arguments help, but hearts are opened by Allah.{/idea} Ask Him for it directly.",
+    "old": "If I just find the perfect argument, belief will follow.",
+    "new": "Guidance is a gift from Allah. I seek it, and I ask Him for it.",
+    "try": "Make the dua Allahumma ihdini, O Allah guide me, once with full attention today.",
+    "related": ["17:92", "25:21", "10:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:112", "surah": 6, "ayah": 112, "place": "makkah",
+    "title": "Every prophet had enemies who whispered pretty words.",
+    "subtitle": "Devils of humans and jinn, and their decorated speech",
+    "picture": {"kind": "boxes", "label": "How the opposition worked", "row": [
+      {"box": "trap", "title": "human devils", "sub": []},
+      {"box": "trap", "title": "jinn devils", "sub": []},
+      {"conn": "pass to each other"},
+      {"box": "trap", "title": "decorated words", "sub": ["deceiving the unaware"]}]},
+    "key": {"label": "What it means for you", "row": [
+      {"box": "people", "title": "enemies mean I am wrong", "sub": ["opposition is a bad sign"], "strike": true},
+      {"box": "idea", "title": "every prophet faced it", "sub": ["so be patient"]}]},
+    "then": "Allah comforts the Prophet ﷺ: as you have enemies, {idea}every prophet before you had them too.{/idea} Waraqah bin Nawfal had told him no one ever brought this message without being opposed. Qatadah said there are {trap}devils among jinn and among humans who feed each other polished speech{/trap}. The verse calls for patience and trust in Allah.",
+    "now": "A video with perfect editing, calm music, and a confident voice tells you everything you believe is a joke. {trap}Polished does not mean true.{/trap} {idea}Notice how good it sounds, and then ask what it is actually saying.{/idea}",
+    "old": "If it sounds smooth and confident, it is probably right.",
+    "new": "Decorated words are an old trick. I judge the message, not the packaging.",
+    "try": "Next time a slick clip shakes you, write its main claim in one plain sentence and check it.",
+    "related": ["6:34", "41:43", "25:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:113", "surah": 6, "ayah": 113, "place": "makkah",
+    "title": "Hearts that forget the Hereafter lean into the glitter.",
+    "subtitle": "Who listens to decorated lies, and why",
+    "picture": {"kind": "boxes", "label": "What the glitter does", "row": [
+      {"box": "people", "title": "no thought of the Hereafter", "sub": []},
+      {"conn": "leans toward"},
+      {"box": "trap", "title": "the pretty lie", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "pleased with it", "sub": ["and act on it"]}]},
+    "key": {"label": "The real protection", "row": [
+      {"box": "people", "title": "being clever", "sub": ["I cannot be fooled"], "strike": true},
+      {"box": "idea", "title": "remembering the Hereafter", "sub": ["it makes the glitter dim"]}]},
+    "then": "Ibn Abbas explained the word as {trap}inclining toward it.{/trap} The polished words find a home in hearts that do not believe in the Hereafter. They like it, settle into it, and then {trap}do what they do{/trap}. As-Suddi and Ibn Zayd said it means: let them do whatever they will do.",
+    "now": "When you have stopped thinking about the next life for a while, the ads hit harder. The influencer life looks better. The shortcut seems fine. {idea}Thinking about the Hereafter is what keeps the glitter from pulling you in.{/idea}",
+    "old": "I am smart enough not to be fooled by empty talk.",
+    "new": "It is the forgetful heart that leans toward lies. Remembering the Hereafter protects me.",
+    "try": "Spend two minutes today thinking honestly about your own death and what you want to have done.",
+    "related": ["37:161", "51:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

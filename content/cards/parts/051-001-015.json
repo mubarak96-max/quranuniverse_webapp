@@ -1,0 +1,292 @@
+[
+  {
+    "id": "51:1", "surah": 51, "ayah": 1, "place": "makkah",
+    "title": "By the winds that scatter far and wide.",
+    "subtitle": "The first witness in a chain of oaths",
+    "picture": {"kind": "boxes", "label": "The first oath", "row": [
+      {"box": "idea", "title": "the scattering winds", "sub": ["adh-dhariyat"]},
+      {"conn": "sworn by, to say"},
+      {"box": "idea", "title": "the promise is true", "sub": ["verse 5"]}]},
+    "key": {"label": "What the wind is", "row": [
+      {"box": "people", "title": "just weather", "sub": [], "strike": true},
+      {"box": "idea", "title": "a witness", "sub": ["moving by His command"]}]},
+    "then": "Ali bin Abi Talib stood on the pulpit in Kufah and invited questions on any verse. A man asked about adh-dhariyat. {idea}The wind,{/idea} Ali said. Ibn Kathir explains these oaths climb in order, from lower to higher, and together they are {idea}a vow from Allah that the Resurrection will come.{/idea}",
+    "now": "Wind rattles the window, or scatters leaves across the car park as you hurry to work. You cannot see it, only what it moves. {idea}Allah swears by it.{/idea} The unseen is not unreal.",
+    "old": "Wind is just air moving, nothing more.",
+    "new": "The wind is a sign Allah swears by, unseen yet moving everything, pointing to His promise.",
+    "try": "Next time you feel the wind today, pause and say SubhanAllah once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:2", "surah": 51, "ayah": 2, "place": "makkah",
+    "title": "And by the clouds carrying their heavy load.",
+    "subtitle": "Tons of water floating above you",
+    "picture": {"kind": "boxes", "label": "The second oath", "row": [
+      {"box": "idea", "title": "the winds", "sub": ["verse 1"]},
+      {"conn": "drive"},
+      {"box": "idea", "title": "the laden clouds", "sub": ["al-hamilat"]},
+      {"conn": "carrying"},
+      {"box": "reward", "title": "rain", "sub": ["provision"]}]},
+    "key": {"label": "What holds it up", "row": [
+      {"box": "people", "title": "nothing special", "sub": [], "strike": true},
+      {"box": "idea", "title": "His command", "sub": ["a load carried for you"]}]},
+    "then": "Ali said the laden ones are {idea}the clouds.{/idea} Ibn Kathir notes the winds bring the clouds, which is why they come next in the oath. Each sworn thing rises a step higher, building toward one claim: {idea}what you are promised is true.{/idea}",
+    "now": "A grey sky before a storm, and you groan about your laundry on the line. {reward}Above you hangs a weight of water carried gently until it is needed.{/reward} Allah swears by that load.",
+    "old": "Clouds just mean bad weather is coming.",
+    "new": "The clouds carry a heavy gift by Allah's command, and He swears by them.",
+    "try": "Look up at the clouds once today and think of them as carrying provision for someone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:3", "surah": 51, "ayah": 3, "place": "makkah",
+    "title": "And by the ships that sail along with ease.",
+    "subtitle": "Gliding forward, held by a power not their own",
+    "picture": {"kind": "boxes", "label": "The third oath", "row": [
+      {"box": "idea", "title": "al-jariyat", "sub": ["those that flow with ease"]},
+      {"box": "plain", "title": "ships", "sub": ["Ali's explanation"]},
+      {"box": "plain", "title": "or stars", "sub": ["gliding in orbit"]}]},
+    "key": {"label": "Why it moves easily", "row": [
+      {"box": "people", "title": "good engineering", "sub": ["that is all"], "strike": true},
+      {"box": "idea", "title": "made easy for it", "sub": ["yusra"]}]},
+    "then": "Ali explained al-jariyat as {idea}the ships.{/idea} Some scholars said it refers to the stars that float in their orbits with ease, which fits the rising order: winds, then clouds, then stars, then angels. Either way, {idea}they move with an ease they did not make.{/idea}",
+    "now": "A container ship on the horizon, a plane at night that looks like a moving star. You take it for granted that heavy things glide. {idea}Ease is given.{/idea} The same is true of the easy days in your own life.",
+    "old": "When things go smoothly, it is because I planned well.",
+    "new": "Ease in motion, for ships, stars, or my day, is something Allah grants.",
+    "try": "When something goes smoothly today, say Alhamdulillah before taking credit.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:4", "surah": 51, "ayah": 4, "place": "makkah",
+    "title": "And by the angels who distribute each matter.",
+    "subtitle": "The top of the ladder of oaths",
+    "picture": {"kind": "boxes", "label": "The ascending oaths", "row": [
+      {"box": "plain", "title": "winds", "sub": []},
+      {"box": "plain", "title": "clouds", "sub": []},
+      {"box": "plain", "title": "ships or stars", "sub": []},
+      {"box": "idea", "title": "the angels", "sub": ["carrying His orders"]}]},
+    "key": {"label": "Who decides shares", "row": [
+      {"box": "people", "title": "the market, my boss", "sub": [], "strike": true},
+      {"box": "idea", "title": "His command", "sub": ["delivered by angels"]}]},
+    "then": "Ali said the distributors of command are {idea}the angels.{/idea} Ibn Kathir explains they are above the stars and {idea}descend with Allah's orders and the decrees He determines.{/idea} The chain of oaths has reached its top, and the claim is about to come.",
+    "now": "Bonus season, and you are anxious about what share you will get. The spreadsheet decides, you think. {idea}Above every spreadsheet, the angels carry out what Allah apportions.{/idea} That does not stop you working; it stops the panic.",
+    "old": "My share in life is decided by the people above me.",
+    "new": "Every share is apportioned by Allah's command, carried out by His angels.",
+    "try": "Before checking your pay or results this week, say: O Allah, bless what You have apportioned for me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:5", "surah": 51, "ayah": 5, "place": "makkah",
+    "title": "What you are promised is true.",
+    "subtitle": "The point of all four oaths",
+    "picture": {"kind": "boxes", "label": "The answer to the oaths", "row": [
+      {"box": "idea", "title": "four oaths", "sub": ["winds to angels"]},
+      {"conn": "to confirm"},
+      {"box": "reward", "title": "the promise", "sub": ["is truthful"]}]},
+    "key": {"label": "Promises", "row": [
+      {"box": "people", "title": "promises get broken", "sub": ["so maybe this too"], "strike": true},
+      {"box": "reward", "title": "a true promise", "sub": ["la sadiq"]}]},
+    "then": "After swearing by winds, clouds, ships and angels, Allah states the point: {reward}what you are promised is surely true.{/reward} Ibn Kathir calls it a truthful promise. The surah was revealed while the Prophet's ﷺ message was met with {trap}denial and ridicule.{/trap}",
+    "now": "A landlord who never fixed the boiler. A friend who said he would call. A company that promised a refund. {trap}You learn to expect broken promises.{/trap} {reward}This one is sworn by the whole sky.{/reward}",
+    "old": "Every promise comes with a chance it will not happen.",
+    "new": "Allah's promise is the one promise that is never broken.",
+    "try": "Keep one small promise you made to someone this week, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:6", "surah": 51, "ayah": 6, "place": "makkah",
+    "title": "And the Recompense will surely happen.",
+    "subtitle": "Every deed comes back to its owner",
+    "picture": {"kind": "boxes", "label": "What will occur", "row": [
+      {"box": "people", "title": "your deeds", "sub": ["good and bad"]},
+      {"conn": "meet"},
+      {"box": "idea", "title": "ad-din", "sub": ["the Recompense"]},
+      {"box": "idea", "title": "la waqi'", "sub": ["it will occur"]}]},
+    "key": {"label": "Does it matter", "row": [
+      {"box": "people", "title": "no one keeps score", "sub": [], "strike": true},
+      {"box": "reward", "title": "every deed answered", "sub": ["the Recompense is real"]}]},
+    "then": "The oaths confirm a second fact: {idea}ad-din, the Recompense, will surely come to pass.{/idea} Maududi notes the surah mostly deals with the Hereafter, against people who built their views on guesswork about what follows death.",
+    "now": "You helped a neighbor move and no one thanked you. You held your tongue in a family fight and nobody noticed. {reward}None of it vanishes.{/reward} {idea}The Recompense means every quiet effort is counted.{/idea}",
+    "old": "If no one sees or rewards it, it was wasted.",
+    "new": "Every deed, seen or unseen, will meet its recompense.",
+    "try": "Do one kind thing today that you know no one will thank you for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:7", "surah": 51, "ayah": 7, "place": "makkah",
+    "title": "By the sky full of beautiful pathways.",
+    "subtitle": "A woven, perfect heaven as witness",
+    "picture": {"kind": "boxes", "label": "The sky of hubuk", "row": [
+      {"box": "idea", "title": "beauty", "sub": ["Ibn Abbas"]},
+      {"box": "idea", "title": "perfection", "sub": ["firmly structured"]},
+      {"box": "idea", "title": "pathways", "sub": ["like ripples in sand"]}]},
+    "key": {"label": "Looking up", "row": [
+      {"box": "people", "title": "empty space", "sub": [], "strike": true},
+      {"box": "idea", "title": "woven with care", "sub": ["dhat al-hubuk"]}]},
+    "then": "A new oath: by the sky of hubuk. Ibn Abbas said {idea}full of beauty, grace, magnificence and perfection.{/idea} Ad-Dahhak compared it to the ripples wind carves in water, sand and plants. Ibn Kathir says all the meanings return to {idea}beauty and intricate structure.{/idea}",
+    "now": "You see a photo of the night sky from a dark desert, the Milky Way like a woven path. Then you look up from your city street and see orange haze. {idea}The pattern is still there.{/idea} Allah swears by it to make a point about you.",
+    "old": "The sky is beautiful, but it has nothing to say to me.",
+    "new": "A sky this ordered is sworn by to show how disordered my guesses can be.",
+    "try": "Find a photo or a real view of the night sky today and look at it for a full minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:8", "surah": 51, "ayah": 8, "place": "makkah",
+    "title": "You are lost in conflicting words.",
+    "subtitle": "A perfect sky above, confused opinions below",
+    "picture": {"kind": "boxes", "label": "The contrast", "row": [
+      {"box": "idea", "title": "the sky", "sub": ["ordered, perfect"]},
+      {"conn": "while"},
+      {"box": "trap", "title": "your views", "sub": ["contradict each other"]}]},
+    "key": {"label": "Many opinions", "row": [
+      {"box": "people", "title": "everyone has a view", "sub": ["so who knows"], "strike": true},
+      {"box": "idea", "title": "guesses clash", "sub": ["knowledge does not"]}]},
+    "then": "Sworn by the ordered sky: {trap}you are in conflicting speech.{/trap} Ibn Kathir says their opinions did not connect or agree. Qatadah said some admitted the Quran was true while others denied it. Maududi notes such clashing beliefs about the end show {trap}they were built on guesswork, not knowledge.{/trap}",
+    "now": "A podcast says there is nothing after death. A video says you come back as someone else. A friend says just be a good person and it will be fine. {trap}All confident, all clashing.{/trap} {idea}Clashing guesses are a sign that none of them is knowledge.{/idea}",
+    "old": "There are so many views about death that no one can really know.",
+    "new": "The confusion of opinions is exactly why I need knowledge from the One who made the sky.",
+    "try": "Next time you hear a strong claim about the afterlife, ask: is this from knowledge or a guess?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:9", "surah": 51, "ayah": 9, "place": "makkah",
+    "title": "Only the one already turning away is turned away.",
+    "subtitle": "Who confusion actually fools",
+    "picture": {"kind": "boxes", "label": "Who is swayed", "row": [
+      {"box": "trap", "title": "confused opinions", "sub": ["verse 8"]},
+      {"conn": "only fool"},
+      {"box": "trap", "title": "the inwardly misled", "sub": ["already turning away"]}]},
+    "key": {"label": "Why I was swayed", "row": [
+      {"box": "people", "title": "the argument was strong", "sub": [], "strike": true},
+      {"box": "idea", "title": "my heart was leaning", "sub": ["before the argument came"]}]},
+    "then": "Ibn Kathir explains that these confused opinions {trap}only fool those who are inwardly misguided.{/trap} Falsehood takes hold in a person already looking for it. Ibn Abbas and As-Suddi said: he who is misguided is led away from it, the Quran.",
+    "now": "You see a clip mocking religion and it lands harder than usual. Ask honestly: was I already wanting an excuse? {idea}Arguments rarely pull us; they find where we were already leaning.{/idea}",
+    "old": "I drifted because the doubts were too convincing.",
+    "new": "Doubts grip the heart that was already turning, so I guard my heart's direction first.",
+    "try": "Notice one thing that weakens your faith, and ask Allah in a short dua to keep your heart steady.",
+    "related": ["37:161"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:10", "surah": 51, "ayah": 10, "place": "makkah",
+    "title": "Ruined are those who live by guesses.",
+    "subtitle": "The guessers about what comes after death",
+    "picture": {"kind": "boxes", "label": "Al-kharrasun", "row": [
+      {"box": "trap", "title": "the guessers", "sub": ["no knowledge"]},
+      {"box": "trap", "title": "the liars", "sub": ["Mujahid"]},
+      {"box": "trap", "title": "the doubters", "sub": ["Ibn Abbas"]}]},
+    "key": {"label": "The biggest question", "row": [
+      {"box": "people", "title": "a guess will do", "sub": [], "strike": true},
+      {"box": "idea", "title": "needs knowledge", "sub": ["too much depends on it"]}]},
+    "then": "Mujahid said the kharrasun are {trap}the liars who claim they will never be brought back.{/trap} Ibn Abbas said: cursed be the doubters. Qatadah said: people of doubt and suspicion. Maududi warns that building your view of the end on {trap}speculation{/trap} wastes a whole life.",
+    "now": "You would never pick a surgeon by guessing, or sign a mortgage on a hunch. {trap}Yet many people decide what happens after death on a feeling.{/trap} {idea}The biggest question deserves your most careful thinking.{/idea}",
+    "old": "What happens after death is just a matter of opinion.",
+    "new": "Guessing about the most important question is the real ruin, so I seek knowledge.",
+    "try": "Spend fifteen minutes this week reading a passage of the Quran about the Hereafter, slowly.",
+    "related": ["80:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:11", "surah": 51, "ayah": 11, "place": "makkah",
+    "title": "Drowning in a flood, and still playing.",
+    "subtitle": "Heedless while the water rises",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "ghamrah", "sub": ["a flood of doubt"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "sahun", "sub": ["heedless, playful"]}]},
+    "key": {"label": "Being busy", "row": [
+      {"box": "people", "title": "just enjoying life", "sub": [], "strike": true},
+      {"box": "trap", "title": "heedless in a flood", "sub": ["not noticing the water"]}]},
+    "then": "The guessers are {trap}within a flood, heedless.{/trap} Ibn Abbas and others said: in disbelief and doubt, they are heedless and playful. The picture is of people up to their necks in something, and too distracted to notice.",
+    "now": "A weekend that disappears into a series. A month that goes by in notifications and plans. {trap}Fun is not the problem; not noticing the flood is.{/trap} {idea}Lift your head once a day and check the water level.{/idea}",
+    "old": "I am not doing anything wrong, just having fun.",
+    "new": "Fun is fine, but heedlessness while the big questions wait is a flood I can drown in.",
+    "try": "Set one daily reminder on your phone that just says: what am I preparing for?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:12", "surah": 51, "ayah": 12, "place": "makkah",
+    "title": "They ask: so when is this Day of Judgment?",
+    "subtitle": "A question asked to mock, not to learn",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "when is it?", "sub": ["ayyana yawm ad-din"]},
+      {"conn": "asked in"},
+      {"box": "trap", "title": "denial", "sub": ["stubbornness, doubt"]}]},
+    "key": {"label": "The better question", "row": [
+      {"box": "people", "title": "when is it?", "sub": [], "strike": true},
+      {"box": "idea", "title": "am I ready?", "sub": ["that one helps"]}]},
+    "then": "Ibn Kathir says they asked this {trap}in denial, stubbornness, doubt and suspicion.{/trap} It was not a real question. It was a way of saying it is never coming. The next verse answers them.",
+    "now": "Someone in a comment thread asks, with a laughing emoji, when the end of the world is supposed to arrive. Maybe a part of you has wondered too. {idea}The date is not yours to know. Your readiness is.{/idea}",
+    "old": "If I knew when, I would get ready in time.",
+    "new": "The question that matters is not when, but whether I am ready now.",
+    "try": "Write down one thing you would fix if you knew the Day was close. Start on it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:13", "surah": 51, "ayah": 13, "place": "makkah",
+    "title": "The answer: the Day they are tried over the Fire.",
+    "subtitle": "The reply to a mocking question",
+    "picture": {"kind": "boxes", "label": "When?", "row": [
+      {"box": "people", "title": "their question", "sub": ["when is it?"]},
+      {"conn": "answer"},
+      {"box": "trap", "title": "the Day of trial", "sub": ["yuftanun, over the Fire"]}]},
+    "key": {"label": "A serious answer", "row": [
+      {"box": "people", "title": "a joke question", "sub": ["deserves a joke"], "strike": true},
+      {"box": "trap", "title": "a sober reply", "sub": ["it is real"]}]},
+    "then": "Allah answers their mocking question directly. {trap}It is the Day they will be tried over the Fire.{/trap} Ibn Abbas, Mujahid and Al-Hasan said yuftanun means punished. Mujahid compared it to {trap}gold tested in fire.{/trap}",
+    "now": "Gold is tested in fire to show what it really is. Your days test you in smaller ways: a hard boss, a sick parent, a moment of temptation. {idea}Let the small tests here refine you,{/idea} so the great test does not catch you unprepared.",
+    "old": "Hard moments are just bad luck to get through.",
+    "new": "Every trial now is a chance to be refined, so I meet the final trial ready.",
+    "try": "Face one small test today, a temptation or a difficult task, with patience instead of avoidance.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:14", "surah": 51, "ayah": 14, "place": "makkah",
+    "title": "This is what you asked to be hurried.",
+    "subtitle": "Mocking a warning does not delay it",
+    "picture": {"kind": "boxes", "label": "What they said, what came", "row": [
+      {"box": "people", "title": "bring it on", "sub": ["they rushed it, mocking"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "taste your trial", "sub": ["what they hurried"]}]},
+    "key": {"label": "Daring a warning", "row": [
+      {"box": "people", "title": "if real, let it come", "sub": [], "strike": true},
+      {"box": "idea", "title": "use the delay", "sub": ["it is mercy"]}]},
+    "then": "It will be said to them: {trap}taste your trial; this is what you were impatient for.{/trap} Ibn Kathir says these words are spoken to rebuke them, because in the world they dared the Day to come quickly.",
+    "now": "A doctor warns you about your blood pressure and you joke, we all die of something. A friend warns you about a habit and you laugh it off. {idea}Daring a warning feels brave.{/idea} {reward}The time before it arrives is the gift.{/reward}",
+    "old": "If the warning were true, it would have happened by now.",
+    "new": "The delay is not proof it will not come; it is time given to me to change.",
+    "try": "Take one warning you have joked about, from a doctor, a friend, or a verse, and act on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:15", "surah": 51, "ayah": 15, "place": "makkah",
+    "title": "The mindful will be among gardens and springs.",
+    "subtitle": "The other side of the same Day",
+    "picture": {"kind": "boxes", "label": "Their place", "row": [
+      {"box": "people", "title": "the muttaqin", "sub": ["the mindful"]},
+      {"conn": "among"},
+      {"box": "reward", "title": "gardens", "sub": []},
+      {"box": "reward", "title": "springs", "sub": []}]},
+    "key": {"label": "The same Day", "row": [
+      {"box": "people", "title": "only fear", "sub": [], "strike": true},
+      {"box": "reward", "title": "fear and hope", "sub": ["gardens for the mindful"]}]},
+    "then": "Right after the scene of the deniers, the surah turns. Ibn Kathir says {reward}those with taqwa will be amid gardens and springs on the Day of their return,{/reward} while the miserable face punishment. The next verses describe who these people were in this life.",
+    "now": "After a long, hard week of trying to do right, of saying no, waking for Fajr, holding your temper, it can feel like nothing changes. {reward}Gardens and springs are where that road leads.{/reward}",
+    "old": "Being careful about Allah just makes life harder.",
+    "new": "Mindfulness of Allah leads to gardens and springs, so the effort is going somewhere.",
+    "try": "Drink a glass of water slowly today and ask Allah for the springs of Paradise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

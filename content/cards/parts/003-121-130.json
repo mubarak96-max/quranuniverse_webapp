@@ -1,0 +1,206 @@
+[
+  {
+    "id": "3:121", "surah": 3, "ayah": 121, "place": "madinah",
+    "title": "He left home at dawn to place each believer at his post.",
+    "subtitle": "The morning of Uhud, and a Lord who hears",
+    "picture": {"kind": "boxes", "label": "The morning of Uhud", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["leaves his household"]},
+      {"conn": "posts"},
+      {"box": "people", "title": "the believers", "sub": ["each at a station"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "All-Hearing", "sub": ["All-Knowing"]}]},
+    "key": {"label": "Your post", "row": [
+      {"box": "people", "title": "any spot will do", "sub": ["my place doesn't matter"], "strike": true},
+      {"box": "idea", "title": "hold your station", "sub": ["the archers were told: do not leave"]}]},
+    "then": "After Badr, Quraysh marched on Madinah with three thousand. The Prophet ﷺ consulted, put on his armor, and went out. He placed fifty archers on a hill and told them {idea}stay in your positions, win or lose{/idea}. Allah {reward}heard what was said and knew what hearts concealed{/reward}.",
+    "now": "Your post may be the night shift, the carpool, the parent who stays home with a sick kid while everyone else goes to the event. It feels small. {idea}Someone placed you there for a reason. Hold it.{/idea}",
+    "old": "My role is too small to matter in the bigger picture.",
+    "new": "Every post matters, and Allah hears and knows how I hold mine.",
+    "try": "Do your most ordinary responsibility today with full care, as if it were your station.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:122", "surah": 3, "ayah": 122, "place": "madinah",
+    "title": "Two groups nearly lost heart, but Allah was their protector.",
+    "subtitle": "Wavering is not the end of the story",
+    "picture": {"kind": "boxes", "label": "At Uhud", "row": [
+      {"box": "people", "title": "Banu Harithah", "sub": ["and Banu Salamah"]},
+      {"conn": "about to"},
+      {"box": "trap", "title": "lose courage", "sub": ["a third had turned back"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "Allah their Wali", "sub": ["protector and ally"]}]},
+    "key": {"label": "What they remembered", "row": [
+      {"box": "trap", "title": "the shame", "sub": ["we almost failed"]},
+      {"box": "reward", "title": "the honor", "sub": ["\"Allah was their Wali\""]}]},
+    "then": "On the way to Uhud, Abdullah bin Ubayy turned back with a third of the army. Two clans {trap}were about to lose heart{/trap}. Jabir, from one of them, said he would not wish the verse unrevealed, because it says {reward}Allah was their protector{/reward}.",
+    "now": "You almost quit the course. You nearly walked out of the marriage counselling session. Your nerve failed for a moment. {reward}Allah stayed your ally in that moment too.{/reward} {idea}Lean on Him and keep going.{/idea}",
+    "old": "Because I wavered, Allah must be disappointed with me.",
+    "new": "Even when my courage shakes, Allah remains my protector. I put my trust in Him and continue.",
+    "try": "In the thing you nearly gave up on, take one more step today and say hasbiyallah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:123", "surah": 3, "ayah": 123, "place": "madinah",
+    "title": "Allah gave you victory at Badr when you were few.",
+    "subtitle": "Remembering past help in a hard moment",
+    "picture": {"kind": "boxes", "label": "Badr", "row": [
+      {"box": "people", "title": "313", "sub": ["two horses, seventy camels"], "num": true},
+      {"conn": "against"},
+      {"box": "trap", "title": "about 1000", "sub": ["armed and supplied"]},
+      {"conn": "yet"},
+      {"box": "reward", "title": "victory", "sub": ["from Allah"]}]},
+    "key": {"label": "Where victory comes from", "row": [
+      {"box": "people", "title": "numbers and supplies", "sub": ["more is safer"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["so fear Him and be grateful"]}]},
+    "then": "In the middle of the Uhud passage, Allah reminds them of Badr. Ibn Kathir: the Muslims were {idea}three hundred and thirteen, with two horses and seventy camels{/idea}, against a far larger, better-equipped army. The lesson: {reward}victory is only from Allah{/reward}.",
+    "now": "You are facing a new hardship and feel small. Scroll back in your own memory: the exam you thought you'd fail, the month rent seemed impossible. {reward}He helped you then.{/reward}",
+    "old": "This time I don't have enough to get through.",
+    "new": "Allah helped me when I had little before. Gratitude for that is my strength now.",
+    "try": "Write down one past \"Badr\" in your life, a time Allah carried you through with little.",
+    "related": ["9:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:124", "surah": 3, "ayah": 124, "place": "madinah",
+    "title": "Is it not enough that your Lord sends three thousand angels?",
+    "subtitle": "Reassurance when the news is bad",
+    "picture": {"kind": "boxes", "label": "The worry and the reply", "row": [
+      {"box": "trap", "title": "bad news", "sub": ["the enemy may get reinforcements"]},
+      {"conn": "answered by"},
+      {"box": "reward", "title": "3000 angels", "sub": ["sent down"], "num": true}]},
+    "key": {"label": "What's enough", "row": [
+      {"box": "people", "title": "what I can see", "sub": ["our numbers, their numbers"], "strike": true},
+      {"box": "reward", "title": "what He sends", "sub": ["help you can't count"]}]},
+    "then": "Scholars differ whether this refers to Badr or Uhud. Ash-Sha'bi reported that at Badr the Muslims heard {trap}a chief was coming to reinforce the idolaters{/trap}, and it weighed on them. The Prophet ﷺ was told to say: {reward}is it not enough that your Lord reinforces you with three thousand angels?{/reward}",
+    "now": "The rumor at work: layoffs coming. The message from the landlord: rent going up. Your mind adds up everything against you. {idea}Add what you cannot see.{/idea}",
+    "old": "I can only count on what I can see and measure.",
+    "new": "Allah's help is real even when it's unseen. Is it not enough?",
+    "try": "When bad news comes today, before reacting, ask: is my Lord not enough?",
+    "related": ["8:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:125", "surah": 3, "ayah": 125, "place": "madinah",
+    "title": "Be patient and mindful, and help will come in force.",
+    "subtitle": "Help that comes with a condition",
+    "picture": {"kind": "boxes", "label": "The condition", "row": [
+      {"box": "idea", "title": "patience", "sub": ["holding firm"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "taqwa", "sub": ["obeying His command"]},
+      {"conn": "brings"},
+      {"box": "reward", "title": "5000 angels", "sub": ["marked, rushing to help"], "num": true}]},
+    "key": {"label": "Why it didn't come", "row": [
+      {"box": "people", "title": "Allah let them down", "sub": ["at Uhud"], "strike": true},
+      {"box": "trap", "title": "the condition broke", "sub": ["they did not stay patient"]}]},
+    "then": "Ibn Kathir notes that on the view that this refers to Uhud, {trap}the angels did not come there{/trap}, because the help was conditional on patience and taqwa, and some left their posts. Ali said that at Badr {reward}the angels were marked with white wool{/reward}.",
+    "now": "You prayed for help with your finances, then kept spending the same way. You asked for calm, then reached for the argument. {idea}The promise is real, and so is the \"if\".{/idea}",
+    "old": "If I ask for Allah's help, it should come regardless of what I do.",
+    "new": "Allah's help is promised to the patient and mindful. My part is to meet the condition.",
+    "try": "In one situation you're asking Allah to help with, do your part of the \"if\" today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:126", "surah": 3, "ayah": 126, "place": "madinah",
+    "title": "The angels were good news. Victory comes from Allah alone.",
+    "subtitle": "Means that reassure, a Source that decides",
+    "picture": {"kind": "boxes", "label": "What the angels were", "row": [
+      {"box": "reward", "title": "good tidings", "sub": ["to encourage"]},
+      {"box": "reward", "title": "reassurance", "sub": ["to settle hearts"]},
+      {"conn": "but victory is"},
+      {"box": "idea", "title": "from Allah", "sub": ["the Mighty, the Wise"]}]},
+    "key": {"label": "Means and Source", "row": [
+      {"box": "people", "title": "the means won it", "sub": ["the help I saw"], "strike": true},
+      {"box": "idea", "title": "Allah won it", "sub": ["the means were a comfort"]}]},
+    "then": "Ibn Kathir explains Allah sent the angels and told them about it {reward}to encourage and reassure their hearts{/reward}, and so they would know {idea}victory only comes from Allah{/idea}, who could defeat any enemy without them.",
+    "now": "The good doctor, the strong lawyer, the generous relative. Thank them. But when the scan comes back clear, {idea}remember who decided it{/idea}.",
+    "old": "Things worked out because I found the right people.",
+    "new": "The right people were Allah's comfort to me. The outcome was His.",
+    "try": "Thank one person who helped you recently, and then thank Allah for sending them.",
+    "related": ["47:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:127", "surah": 3, "ayah": 127, "place": "madinah",
+    "title": "So their plans to harm would end in frustration.",
+    "subtitle": "Wrong aims that come back empty",
+    "picture": {"kind": "boxes", "label": "What Allah's help does", "row": [
+      {"box": "trap", "title": "an aim to harm", "sub": ["marching to destroy"]},
+      {"conn": "ends"},
+      {"box": "trap", "title": "turned back", "sub": ["frustrated, aim unmet"]}]},
+    "key": {"label": "Who has the last word", "row": [
+      {"box": "people", "title": "the strong", "sub": ["get what they want"], "strike": true},
+      {"box": "idea", "title": "Allah's wisdom", "sub": ["decides how it ends"]}]},
+    "then": "This verse continues the reasons for Allah's help in battle. Ibn Kathir explains that those who came {trap}to harm the believers{/trap} would {idea}return to their land frustrated, without achieving their aims{/idea}.",
+    "now": "Turn it inward. When you set out to hurt someone with words, to win at any cost, to get even, how often did you come back empty and bitter? {idea}Harmful aims tend to end that way.{/idea}",
+    "old": "If I push hard enough, I'll get the result I want.",
+    "new": "An aim to harm ends in frustration. I want my aims to be ones Allah can bless.",
+    "try": "Drop one plan to get even with someone today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:128", "surah": 3, "ayah": 128, "place": "madinah",
+    "title": "The decision is not yours. He may forgive them yet.",
+    "subtitle": "Even the worst may later be guided",
+    "picture": {"kind": "boxes", "label": "Who decides", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["wounded at Uhud"]},
+      {"conn": "told"},
+      {"box": "idea", "title": "not for you", "sub": ["the matter is Allah's"]},
+      {"conn": "and later"},
+      {"box": "reward", "title": "they were pardoned", "sub": ["after accepting Islam"]}]},
+    "key": {"label": "Writing people off", "row": [
+      {"box": "trap", "title": "they're beyond hope", "sub": ["after what they did"], "strike": true},
+      {"box": "reward", "title": "He may turn to them", "sub": ["the matter is His"]}]},
+    "then": "Ibn Kathir reports the Prophet ﷺ, wounded at Uhud, said {trap}how can a people succeed who did this to their Prophet{/trap}, and supplicated against certain leaders. This verse came. Several of those named {reward}were later pardoned after they accepted Islam{/reward}.",
+    "now": "The relative who hurt you, the colleague who sabotaged you. You've decided who they are forever. {idea}That decision is not yours.{/idea} You can protect yourself and still leave the door open for them.",
+    "old": "Some people will never change. I know how their story ends.",
+    "new": "Allah decides people's endings. Some I wrote off may be guided before me.",
+    "try": "Make a short dua for guidance for one person you have written off.",
+    "related": ["13:40", "2:272", "28:56"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:129", "surah": 3, "ayah": 129, "place": "madinah",
+    "title": "He forgives whom He wills. And He is Forgiving, Merciful.",
+    "subtitle": "The verse ends on forgiveness",
+    "picture": {"kind": "boxes", "label": "His dominion", "row": [
+      {"box": "idea", "title": "all is His", "sub": ["heavens and earth"]},
+      {"conn": "He"},
+      {"box": "reward", "title": "forgives", "sub": ["whom He wills"]},
+      {"box": "trap", "title": "punishes", "sub": ["whom He wills"]}]},
+    "key": {"label": "The last word", "row": [
+      {"box": "trap", "title": "punishment", "sub": ["what I expect"]},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["how the verse ends"]}]},
+    "then": "After telling the Prophet ﷺ the decision is not his, Allah says all belongs to Him. Ibn Kathir: {idea}His is the decision and none can resist it{/idea}. And the verse closes: {reward}Allah is Forgiving, Merciful{/reward}.",
+    "now": "Lying awake replaying what you did. You fear you're on the wrong side of \"whom He wills.\" {reward}Read how He chose to end the sentence.{/reward}",
+    "old": "Allah's power over me is something to fear only.",
+    "new": "His power is total, and He describes Himself, right then, as Forgiving and Merciful.",
+    "try": "Say \"Ya Ghafur, ya Rahim\" today and ask for forgiveness for one specific thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:130", "surah": 3, "ayah": 130, "place": "madinah",
+    "title": "Don't feed on interest that doubles and multiplies.",
+    "subtitle": "Profiting from someone who cannot pay",
+    "picture": {"kind": "boxes", "label": "The old practice", "row": [
+      {"box": "people", "title": "a small loan", "sub": ["due date arrives"]},
+      {"conn": "\"pay or it grows\""},
+      {"box": "trap", "title": "doubled", "sub": ["year after year"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "multiplied", "sub": ["many times the capital"]}]},
+    "key": {"label": "Where success lies", "row": [
+      {"box": "trap", "title": "more interest", "sub": ["grow my money"], "strike": true},
+      {"box": "reward", "title": "fear Allah", "sub": ["that you may succeed"]}]},
+    "then": "Between the passages on Uhud comes a different battle. Ibn Kathir describes the pre-Islamic practice: when a loan fell due the lender said {trap}pay now or it grows{/trap}, year after year, until a small sum was multiplied. The believers are told to fear Allah {reward}that they may succeed{/reward}.",
+    "now": "Your cousin asks for a loan and you start thinking about what you'll get back on top. Or you watch a friend drown in a debt that keeps growing. {idea}The verse points to a different kind of success.{/idea}",
+    "old": "Money lent should always make me more money.",
+    "new": "Real success comes from fearing Allah, not from profiting off someone's hardship.",
+    "try": "If someone owes you, consider giving them more time or easing it a little.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

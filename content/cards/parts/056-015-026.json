@@ -1,0 +1,230 @@
+[
+  {
+    "id": "56:15", "surah": 56, "ayah": 15, "place": "makkah",
+    "title": "They rest on thrones woven with gold.",
+    "subtitle": "Rest after a life of standing up",
+    "picture": {"kind": "boxes", "label": "Their seats", "row": [
+      {"box": "reward", "title": "thrones", "sub": ["woven with gold"]},
+      {"conn": "for"},
+      {"box": "people", "title": "the foremost", "sub": ["those brought near"]}]},
+    "key": {"label": "When to rest", "row": [
+      {"box": "plain", "title": "rest now", "sub": ["skip the effort"], "strike": true},
+      {"box": "reward", "title": "rest then", "sub": ["earned, and it lasts"]}]},
+    "then": "Ibn Abbas, and many after him, said these thrones are {reward}woven with gold{/reward}. The listeners knew the honor of a raised seat among chiefs. Here every one of the foremost has one.",
+    "now": "You stand on the train, stand at the counter, stand in the prayer row at night when you would rather sleep. Your legs ache. {reward}A throne woven with gold{/reward} waits for the one who keeps standing.",
+    "old": "Tiredness from worship is just tiredness.",
+    "new": "Every tired moment for Allah is building a seat of rest.",
+    "try": "Pray two extra rakat tonight and think of that throne while your legs feel it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:16", "surah": 56, "ayah": 16, "place": "makkah",
+    "title": "No one sits in the back row there.",
+    "subtitle": "Reclining, face to face, everyone included",
+    "picture": {"kind": "boxes", "label": "How they sit", "row": [
+      {"box": "people", "title": "the foremost"},
+      {"conn": "recline"},
+      {"box": "reward", "title": "face to face", "sub": ["none in the back lines"]}]},
+    "key": {"label": "The seating plan", "row": [
+      {"box": "trap", "title": "the back row", "sub": ["left out, behind others"], "strike": true},
+      {"box": "reward", "title": "face to face", "sub": ["everyone included, close"]}]},
+    "then": "Ibn Kathir says they {reward}face each other, and none of them will be in the back lines{/reward}. In a society where your seat showed your rank, this is a picture of honored friends with no one pushed behind.",
+    "now": "The wedding where you got the table by the kitchen door. The meeting where your name was left off the invite. {trap}The back row stings.{/trap} {reward}There, every face turns toward every other face.{/reward}",
+    "old": "There will always be an inner circle, and I'll be outside it.",
+    "new": "Among the people of Paradise there is no back row.",
+    "try": "At your next gathering, find the person sitting alone and turn your chair toward them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:17", "surah": 56, "ayah": 17, "place": "makkah",
+    "title": "Servants who never grow old go around them.",
+    "subtitle": "Service that never tires or changes",
+    "picture": {"kind": "boxes", "label": "Their service", "row": [
+      {"box": "people", "title": "young servants", "sub": ["never grow up or age"]},
+      {"conn": "go around"},
+      {"box": "reward", "title": "the foremost"}]},
+    "key": {"label": "What changes", "row": [
+      {"box": "plain", "title": "here", "sub": ["everyone ages and tires"]},
+      {"box": "reward", "title": "there", "sub": ["no aging, no change"]}]},
+    "then": "Ibn Kathir explains these servants as boys {reward}who will never grow up, get old, or change in shape{/reward}. In this life, everything and everyone that serves you wears out. There, nothing does.",
+    "now": "You care for your parents now the way they once cared for you. You watch them slow down, and you notice yourself slowing too. {idea}Everything here tires.{/idea} The verse points to a place where nothing wears out.",
+    "old": "Everything good eventually fades and gets old.",
+    "new": "There is a place where good things do not age.",
+    "try": "Do one small service for an older family member today without being asked.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:18", "surah": 56, "ayah": 18, "place": "makkah",
+    "title": "Their cups are filled from a spring that never runs dry.",
+    "subtitle": "A drink that never reaches its last drop",
+    "picture": {"kind": "boxes", "label": "What is served", "row": [
+      {"box": "reward", "title": "cups and jugs"},
+      {"conn": "filled from"},
+      {"box": "reward", "title": "a flowing spring", "sub": ["not containers that empty"]}]},
+    "key": {"label": "The supply", "row": [
+      {"box": "plain", "title": "the bottle", "sub": ["runs out at some point"], "strike": true},
+      {"box": "reward", "title": "the spring", "sub": ["flows freely"]}]},
+    "then": "Ibn Kathir describes cups, jugs and glasses, all filled {reward}from a flowing spring, not from containers that might get empty{/reward}. Every good thing in this life has a last drop. This one has none.",
+    "now": "The last slice of cake. The final evening of a holiday. The days before payday. {trap}You always feel the end coming.{/trap} {reward}A spring that never stops{/reward} is joy without a countdown.",
+    "old": "Every good thing I enjoy is already running out.",
+    "new": "The joys Allah promises have no countdown.",
+    "try": "Drink your next glass of water slowly, and say alhamdulillah for a supply that has not run out yet.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:19", "surah": 56, "ayah": 19, "place": "makkah",
+    "title": "All of the joy, none of the harm.",
+    "subtitle": "A drink that leaves the mind clear",
+    "picture": {"kind": "boxes", "label": "Two drinks", "row": [
+      {"box": "trap", "title": "this world's wine", "sub": ["intoxicates, gives headaches"]},
+      {"conn": "versus"},
+      {"box": "reward", "title": "Paradise's drink", "sub": ["no headache, mind stays clear"]}]},
+    "key": {"label": "What is removed", "row": [
+      {"box": "trap", "title": "the cost", "sub": ["headache, lost mind"], "strike": true},
+      {"box": "idea", "title": "pure delight", "sub": ["taste kept, harm gone"]}]},
+    "then": "Ibn Abbas said the wine of this life has side effects: it intoxicates, gives headaches, and makes people sick. Allah describes the drink of Paradise {reward}free of all of these{/reward}. The scholars said it does not change their reasoning at all.",
+    "now": "The late-night binge, the sugar crash, the scrolling that leaves your head foggy at 2 a.m. {trap}So many pleasures here come with a bill.{/trap} {reward}The pleasures of Paradise come with none.{/reward}",
+    "old": "Every pleasure has a price I pay later.",
+    "new": "Allah can give joy with nothing taken from me in return.",
+    "try": "Skip one pleasure today that you know leaves you feeling worse afterward.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:20", "surah": 56, "ayah": 20, "place": "makkah",
+    "title": "They pick whatever fruit they like.",
+    "subtitle": "Choosing is part of the reward",
+    "picture": {"kind": "boxes", "label": "At their table", "row": [
+      {"box": "reward", "title": "fruit"},
+      {"conn": "of their"},
+      {"box": "idea", "title": "own choosing", "sub": ["whatever they wish for"]}]},
+    "key": {"label": "Choice", "row": [
+      {"box": "plain", "title": "take what is given", "sub": ["no say in it"]},
+      {"box": "reward", "title": "pick what you love", "sub": ["choice is honored"]}]},
+    "then": "Ibn Kathir says {reward}whatever fruits they wish for{/reward} will be handed around among them. For listeners in a dry valley where fruit was scarce, the picture was of plenty and of choice.",
+    "now": "The supermarket shelf where you check the price before you check what you want. The menu you read from right to left. {reward}There, you pick by what you love, not by what you can afford.{/reward}",
+    "old": "My wants will always be limited by my budget.",
+    "new": "Allah delights in giving His people the very thing they would choose.",
+    "try": "Share a piece of fruit with someone today and thank Allah for it before the first bite.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:21", "surah": 56, "ayah": 21, "place": "makkah",
+    "title": "Whatever they crave is already prepared.",
+    "subtitle": "Desire met, not just need",
+    "picture": {"kind": "boxes", "label": "Also served", "row": [
+      {"box": "reward", "title": "meat of birds"},
+      {"conn": "from"},
+      {"box": "idea", "title": "whatever they desire"}]},
+    "key": {"label": "Need and desire", "row": [
+      {"box": "plain", "title": "need", "sub": ["enough to get by"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "desire", "sub": ["what they actually want"]}]},
+    "then": "After fruit comes {reward}the flesh of birds, from whatever they desire{/reward}. Ibn Kathir explains the two verses together: fruit they choose, meat they wish for. Paradise meets not only need but appetite.",
+    "now": "You eat lunch at your desk, the same sandwich every day, because it is fast. You forget what you even like. {reward}The verse speaks to the you who has a real appetite{/reward}, not the one rushing through.",
+    "old": "Wanting nice things is a little shameful.",
+    "new": "Allah Himself names my desires as something He will honor there.",
+    "try": "Cook or share a meal someone you love enjoys, and eat it slowly together.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:22", "surah": 56, "ayah": 22, "place": "makkah",
+    "title": "Companions with beautiful wide eyes await them.",
+    "subtitle": "Companionship is part of the reward",
+    "picture": {"kind": "boxes", "label": "Their company", "row": [
+      {"box": "people", "title": "the foremost"},
+      {"conn": "are given"},
+      {"box": "reward", "title": "Hur", "sub": ["companions with wide, lovely eyes"]}]},
+    "key": {"label": "Loneliness", "row": [
+      {"box": "trap", "title": "alone", "sub": ["no one who stays"], "strike": true},
+      {"box": "reward", "title": "companionship", "sub": ["company that lasts"]}]},
+    "then": "The list of gifts moves from food to {reward}companions with wide, lovely eyes{/reward}. The verse names it briefly and with dignity. For people who knew loss and lonely nights, companionship was a gift worth naming.",
+    "now": "Married or not, you know the empty room at the end of a hard day, the message you wish someone would send. {reward}Paradise answers loneliness too{/reward}, purely and without hurt.",
+    "old": "Loneliness is just something I have to carry forever.",
+    "new": "Allah included companionship in His promise, so my longing is seen.",
+    "try": "Message one person today who might feel alone, just to ask how they are.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:23", "surah": 56, "ayah": 23, "place": "makkah",
+    "title": "Like pearls kept safe in their shells.",
+    "subtitle": "Beauty that was protected and unspoiled",
+    "picture": {"kind": "boxes", "label": "The likeness", "row": [
+      {"box": "reward", "title": "the Hur"},
+      {"conn": "are like"},
+      {"box": "reward", "title": "hidden pearls", "sub": ["well protected, unspoiled"]}]},
+    "key": {"label": "What protection does", "row": [
+      {"box": "plain", "title": "exposed", "sub": ["handled, scratched"]},
+      {"box": "reward", "title": "protected", "sub": ["keeps its shine"]}]},
+    "then": "The verse compares them to {reward}pearls well protected{/reward}. A pearl kept in its shell is never scratched, dulled, or passed from hand to hand. The image is of beauty that was guarded and stayed pure.",
+    "now": "You keep your phone in a case so the screen won't crack. You guard the things that matter. {idea}What Allah treasures, He keeps protected.{/idea} That includes the heart you guard from what spoils it.",
+    "old": "Holding back and guarding myself makes me miss out.",
+    "new": "What is protected keeps its shine.",
+    "try": "Guard one thing today: your eyes from one scroll, or your tongue from one remark.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:24", "surah": 56, "ayah": 24, "place": "makkah",
+    "title": "All of it is a reward for what they did.",
+    "subtitle": "The gifts are tied to deeds",
+    "picture": {"kind": "boxes", "label": "The link", "row": [
+      {"box": "idea", "title": "what they used to do"},
+      {"conn": "earned"},
+      {"box": "reward", "title": "all these gifts", "sub": ["thrones, drink, fruit, company"]}]},
+    "key": {"label": "Why they have it", "row": [
+      {"box": "plain", "title": "pure luck", "sub": ["they were just fortunate"], "strike": true},
+      {"box": "idea", "title": "their deeds", "sub": ["Allah honored what they did"]}]},
+    "then": "After the list of thrones, cups, fruit and companions, one line explains it: {idea}a reward for what they used to do{/idea}. The words used to do point to habits kept over a lifetime, not a single act.",
+    "now": "Your morning is mostly autopilot: alarm, phone, coffee, commute. {idea}What you used to do{/idea} is what you keep doing on a normal Tuesday. That is what gets rewarded.",
+    "old": "One big good deed someday will make up for my ordinary days.",
+    "new": "My ordinary, repeated habits are what my reward is built from.",
+    "try": "Pick one tiny good habit, two minutes long, and do it at the same time today and tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:25", "surah": 56, "ayah": 25, "place": "makkah",
+    "title": "No gossip, no insults, no empty talk there.",
+    "subtitle": "The sound of Paradise is clean",
+    "picture": {"kind": "boxes", "label": "What they never hear", "row": [
+      {"box": "trap", "title": "vain talk", "sub": ["empty, pointless words"], "strike": true},
+      {"box": "trap", "title": "sinful speech", "sub": ["lies, insults, gossip"], "strike": true}]},
+    "key": {"label": "The noise", "row": [
+      {"box": "trap", "title": "here", "sub": ["constant chatter and cruelty"]},
+      {"box": "reward", "title": "there", "sub": ["quiet from all harm"]}]},
+    "then": "Among the gifts is something absent: {reward}they hear no vain talk and no sinful speech{/reward}. It is listed with the thrones and the cups, as a gift in itself: a place without a single harmful word.",
+    "now": "The comment section under any post. The office kitchen when someone leaves the room. The family chat after a wedding. {trap}So much of what you hear wears you down.{/trap} The verse promises quiet from all of it.",
+    "old": "Gossip is just background noise; it doesn't really affect me.",
+    "new": "Paradise is free of it, which tells me how much it harms me here.",
+    "try": "Leave or mute one conversation today that is turning into gossip.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:26", "surah": 56, "ayah": 26, "place": "makkah",
+    "title": "Only one word fills the air: peace, peace.",
+    "subtitle": "What they do hear",
+    "picture": {"kind": "boxes", "label": "What they hear", "row": [
+      {"box": "reward", "title": "Peace"},
+      {"conn": "and again"},
+      {"box": "reward", "title": "Peace", "sub": ["greeting after greeting"]}]},
+    "key": {"label": "Words exchanged", "row": [
+      {"box": "trap", "title": "harsh words", "sub": ["the old normal"], "strike": true},
+      {"box": "reward", "title": "salam", "sub": ["spoken and returned"]}]},
+    "then": "After saying what is absent, the verse says what is present: {reward}only the saying, Peace, peace{/reward}. The greeting goes out and comes back, again and again. With this, the description of the foremost's reward is complete.",
+    "now": "You walk into the house after work. Someone looks up from the sofa, says salam, and means it. The tension drops. {reward}Imagine every word you hear being that.{/reward}",
+    "old": "Saying salam is just a habit, a word at the door.",
+    "new": "Salam is the language of Paradise, practiced here.",
+    "try": "Say salam fully and warmly to everyone in your home today, and wait for the reply.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

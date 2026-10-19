@@ -1,0 +1,303 @@
+[
+  {
+    "id": "30:1", "surah": 30, "ayah": 1, "place": "makkah",
+    "title": "Alif Lam Mim. Pause before a bold promise.",
+    "subtitle": "Letters whose meaning Allah knows, opening a prophecy",
+    "picture": {"kind": "boxes", "label": "The opening", "row": [
+      {"box": "plain", "title": "Alif Lam Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "a prediction", "sub": ["about the news of the day"]}]},
+    "key": {"label": "How to meet it", "row": [
+      {"box": "trap", "title": "explain it away", "sub": ["guess a meaning"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["something important follows"]}]},
+    "then": "Ibn Kathir refers back to his discussion of these separate letters at the start of Al-Baqarah. {idea}Their meaning is known to Allah.{/idea} Here they open a surah revealed around the time of the migration to Abyssinia, when believers in Makkah were few and pressed. {reward}What follows is a promise about the future.{/reward}",
+    "now": "You open the Quran app between meetings, half your mind still on email. Three letters you cannot translate. {idea}Let them do their work: they make you stop.{/idea} Before the bold news that follows, give it your full attention.",
+    "old": "If I do not understand a word, I can skip it.",
+    "new": "Not understanding is itself a reason to slow down and listen.",
+    "try": "Before reading the Quran today, put your phone face down and take one slow breath.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:2", "surah": 30, "ayah": 2, "place": "makkah",
+    "title": "The Romans have been beaten. Makkah was gloating.",
+    "subtitle": "The headline everyone was talking about",
+    "picture": {"kind": "boxes", "label": "The news of the time", "row": [
+      {"box": "people", "title": "Persians", "sub": ["idol and fire worshippers"]},
+      {"conn": "defeated"},
+      {"box": "people", "title": "Romans", "sub": ["a People of the Book"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "Quraysh cheered", "sub": ["our side is winning"]}]},
+    "key": {"label": "How it looked", "row": [
+      {"box": "trap", "title": "the story is over", "sub": ["the losers stay lost"], "strike": true},
+      {"box": "idea", "title": "only chapter one", "sub": ["Allah has not finished"]}]},
+    "then": "Ibn Abbas explained: the idolaters of Makkah wanted the Persians to win, as they also worshipped other than Allah. {idea}The Muslims hoped for the Romans{/idea}, who followed a Book. When the Persians crushed the Romans, {trap}Quraysh took it as a sign{/trap} that their side would beat the Muslims too.",
+    "now": "Your rival at work gets the promotion and the office chat buzzes about it. Or a relative who mocked your choices is doing better than you. {trap}It feels like proof you were wrong.{/trap} {idea}A headline is a moment, not the ending.{/idea}",
+    "old": "Who is winning right now shows who is right.",
+    "new": "Today's winner is not the final word. Allah decides how the story ends.",
+    "try": "Think of one situation where you feel you lost. Say: the matter belongs to Allah, before and after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:3", "surah": 30, "ayah": 3, "place": "makkah",
+    "title": "Beaten nearby, but they will win after defeat.",
+    "subtitle": "A prediction that seemed impossible",
+    "picture": {"kind": "boxes", "label": "The forecast", "row": [
+      {"box": "trap", "title": "defeat", "sub": ["in the nearest land"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "victory", "sub": ["after their defeat"]}]},
+    "key": {"label": "What looked certain", "row": [
+      {"box": "trap", "title": "Rome is finished", "sub": ["besieged at its capital"], "strike": true},
+      {"box": "idea", "title": "they will overcome", "sub": ["Allah's word"]}]},
+    "then": "The Persians had taken Greater Syria, the land nearest to Arabia. Ibn Kathir says the emperor Heraclius {trap}was forced back to Constantinople and besieged there{/trap}. Then the verse made a plain prediction: {idea}after their defeat, they will win.{/idea} Then Heraclius regained the upper hand.",
+    "now": "The diagnosis was bad. The business failed. The exam went so wrong you stopped opening the results email. {trap}Everyone, including you, has written you off.{/trap} {idea}After defeat can come victory.{/idea} Allah turned around an empire. Your situation is not too hard for Him.",
+    "old": "Once it has gone this badly, there is no coming back.",
+    "new": "Defeat can be the setting for a turnaround only Allah can bring.",
+    "try": "Make one dua today for the situation you have given up on, as if it can still turn.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:4", "surah": 30, "ayah": 4, "place": "makkah",
+    "title": "Within a few years. The command is Allah's.",
+    "subtitle": "Abu Bakr trusted the timeline",
+    "picture": {"kind": "boxes", "label": "The wager", "row": [
+      {"box": "people", "title": "Abu Bakr", "sub": ["told all of Makkah"]},
+      {"conn": "agreed on"},
+      {"box": "plain", "title": "six years", "sub": ["the middle of three to nine"]},
+      {"conn": "fulfilled in"},
+      {"box": "reward", "title": "year seven", "sub": ["still within a few years"]}]},
+    "key": {"label": "Whose clock", "row": [
+      {"box": "trap", "title": "my deadline", "sub": ["six years, exactly"], "strike": true},
+      {"box": "idea", "title": "Allah's word", "sub": ["a few years, as He said"]}]},
+    "then": "When this was revealed, Abu Bakr {idea}went through Makkah proclaiming it{/idea}. Some of Quraysh made a wager with him, before such betting was forbidden. They set six years. Six passed, and he lost. {reward}In the seventh the Romans won{/reward}, within three to nine years as the verse said, and many people became Muslim.",
+    "now": "You made dua and gave Allah a deadline in your head: by the end of the year. The year ends. {trap}You feel let down.{/trap} {idea}Allah's promise was never tied to your calendar.{/idea} The command is His, before and after.",
+    "old": "If it does not happen by my deadline, it is not going to happen.",
+    "new": "Allah's promises keep His timing, not mine.",
+    "try": "Remove the deadline from one dua today. Keep asking, and let Allah choose the time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:5", "surah": 30, "ayah": 5, "place": "makkah",
+    "title": "That day the believers rejoiced in Allah's help.",
+    "subtitle": "Two victories on one day",
+    "picture": {"kind": "boxes", "label": "The same day", "row": [
+      {"box": "reward", "title": "Romans win", "sub": ["the prophecy came true"]},
+      {"box": "reward", "title": "Badr", "sub": ["the believers win"]},
+      {"conn": "both from"},
+      {"box": "idea", "title": "Allah's help", "sub": ["the Mighty, the Merciful"]}]},
+    "key": {"label": "Where victory comes from", "row": [
+      {"box": "trap", "title": "the strongest side", "sub": ["numbers and weapons"], "strike": true},
+      {"box": "idea", "title": "whom He wills", "sub": ["He helps whom He wills"]}]},
+    "then": "Many scholars, including Ibn Abbas, said the Romans' victory came {reward}on the same day as the battle of Badr{/reward}. The believers rejoiced twice over. One man said he saw the Persians win, then the Romans win, then the Muslims prevail over both, {idea}all within fifteen years.{/idea}",
+    "now": "The day the result came through. The call that the surgery went well. The job offer after months of rejections. {reward}That joy is meant to be felt.{/reward} {idea}The verse just reminds you whose help it was{/idea}, so the joy becomes thanks.",
+    "old": "I won because I worked for it.",
+    "new": "I worked, and Allah helped. The joy belongs to His help.",
+    "try": "Remember your last real win. Say Alhamdulillah for it, out loud, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:6", "surah": 30, "ayah": 6, "place": "makkah",
+    "title": "Allah does not break His promise.",
+    "subtitle": "But most people do not know it",
+    "picture": {"kind": "boxes", "label": "A promise kept", "row": [
+      {"box": "idea", "title": "the promise", "sub": ["the Romans will win"]},
+      {"conn": "came true"},
+      {"box": "reward", "title": "fulfilled", "sub": ["exactly as told"]}]},
+    "key": {"label": "What people miss", "row": [
+      {"box": "trap", "title": "promises can fail", "sub": ["like human ones"], "strike": true},
+      {"box": "idea", "title": "His never do", "sub": ["most people do not know"]}]},
+    "then": "Ibn Kathir explains this was a {idea}true promise that cannot change{/idea}. Allah had decreed that the side closer to the truth would prevail. {trap}Most people do not know{/trap} His decree in His creation, yet what He does is wise and just.",
+    "now": "People let you down. The friend who said they would come. The company that promised a raise. {trap}Over time you stop trusting anyone's word.{/trap} {idea}Allah's word is different.{/idea} What He promised in the Quran, the reward, the ease after hardship, will come.",
+    "old": "Every promise can be broken, so I hope for nothing.",
+    "new": "People break promises. Allah never does. I can lean my full weight on His.",
+    "try": "Find one promise of Allah in the Quran today and hold on to it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:7", "surah": 30, "ayah": 7, "place": "makkah",
+    "title": "Expert at the surface of life, blind to the Hereafter.",
+    "subtitle": "Knowing the outside of things only",
+    "picture": {"kind": "boxes", "label": "What they know", "row": [
+      {"box": "plain", "title": "the surface", "sub": ["trade, money, news"]},
+      {"conn": "but not"},
+      {"box": "idea", "title": "the Hereafter", "sub": ["heedless of it"]}]},
+    "key": {"label": "Two kinds of knowing", "row": [
+      {"box": "trap", "title": "weighs a coin by touch", "sub": ["cannot pray properly"]},
+      {"box": "idea", "title": "sees what lasts", "sub": ["knows where life leads"]}]},
+    "then": "Al-Hasan Al-Basri, quoted by Ibn Kathir, said some people {trap}could put a coin on a finger and tell its weight, but did not know how to pray properly.{/trap} {idea}They know the outer side of this life well{/idea} and have no awareness of the next.",
+    "now": "You know the stock prices, the transfer rumors, the new phone's specs, the best deals on flights. {trap}Ask what happens after death and you go quiet.{/trap} {idea}The verse is not against knowing the world.{/idea} It asks whether you know the one that lasts as well.",
+    "old": "I am well informed about everything that matters.",
+    "new": "Knowing this world well is not the same as knowing where I am going.",
+    "try": "Spend as long learning about the Hereafter today as you spend on one news app.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:8", "surah": 30, "ayah": 8, "place": "makkah",
+    "title": "Look inside yourself. Nothing was made for nothing.",
+    "subtitle": "Creation has a purpose and a deadline",
+    "picture": {"kind": "boxes", "label": "What creation says", "row": [
+      {"box": "idea", "title": "made in truth", "sub": ["not in jest"]},
+      {"box": "plain", "title": "for a set term", "sub": ["until the Hour"]},
+      {"conn": "yet many deny"},
+      {"box": "trap", "title": "meeting their Lord", "sub": ["the point of it all"]}]},
+    "key": {"label": "What reflection shows", "row": [
+      {"box": "trap", "title": "random, pointless", "sub": ["it all just is"], "strike": true},
+      {"box": "idea", "title": "purpose and end", "sub": ["then the meeting"]}]},
+    "then": "Ibn Kathir says thinking about how Allah made things above and below shows {idea}they were not created in jest or in vain{/idea}. They continue until an appointed time, the Day of Resurrection. Still, {trap}many deny they will meet their Lord.{/trap}",
+    "now": "Lying awake at 2am, you wonder what any of it is for. The job, the commute, the bills. {trap}It can all feel pointless.{/trap} {idea}The verse turns you inward: you were made with intention, and there is a meeting at the end.{/idea}",
+    "old": "Life is just a series of things that happen.",
+    "new": "My life was made on purpose, and it is heading to a meeting with my Lord.",
+    "try": "Sit for two minutes today and ask yourself: what was I made for? Write one honest line.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:9", "surah": 30, "ayah": 9, "place": "makkah",
+    "title": "Stronger nations came before. Their power did not save them.",
+    "subtitle": "Travel and look at the ruins",
+    "picture": {"kind": "boxes", "label": "The nations before", "row": [
+      {"box": "people", "title": "more strength", "sub": ["more wealth, more sons"]},
+      {"box": "people", "title": "built more", "sub": ["tilled and filled the land"]},
+      {"conn": "rejected"},
+      {"box": "trap", "title": "their messengers", "sub": ["and wronged themselves"]}]},
+    "key": {"label": "Who did the wrong", "row": [
+      {"box": "trap", "title": "Allah was harsh", "sub": ["unfair to them"], "strike": true},
+      {"box": "idea", "title": "they wronged themselves", "sub": ["Allah wrongs no one"]}]},
+    "then": "Ibn Kathir explains: nations before Quraysh {trap}were stronger, richer, longer-lived, more developed{/trap}. Messengers came to them with clear signs. They rejected them, and their wealth and sons could not protect them. {idea}Allah did not wrong them. They wronged themselves.{/idea}",
+    "now": "You walk past the ruins on holiday and take photos. Or you scroll the story of a huge company that collapsed. {trap}You assume it could never happen to you.{/trap} {idea}The verse asks you to look at your own life{/idea}: what am I relying on that they relied on too?",
+    "old": "I am strong and set up enough to be safe.",
+    "new": "Strength never protected anyone who ignored Allah. Only turning to Him does.",
+    "try": "Ask yourself one question today: what warning in my life am I ignoring because I feel secure?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:10", "surah": 30, "ayah": 10, "place": "makkah",
+    "title": "Mocking the signs led to the worst end.",
+    "subtitle": "How small evils grow into denial",
+    "picture": {"kind": "boxes", "label": "The slide", "row": [
+      {"box": "trap", "title": "doing evil", "sub": ["again and again"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "denying signs", "sub": ["and mocking them"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "the worst end", "sub": ["chosen step by step"]}]},
+    "key": {"label": "How hearts turn", "row": [
+      {"box": "plain", "title": "they turned away", "sub": ["first, by choice"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "hearts turned away", "sub": ["Allah let them go"]}]},
+    "then": "Ibn Kathir links this to the verse, {trap}when they turned away, Allah turned their hearts away{/trap}. Their end was evil because they denied Allah's signs and made fun of them. {idea}It began with their own choices{/idea}, made again and again.",
+    "now": "It starts with a joke about prayer in the group chat. Then eye-rolling at a reminder. Then you stop going to the mosque at all. {trap}Each step feels small.{/trap} {idea}The verse shows how mocking a thing slowly makes you unable to see it.{/idea}",
+    "old": "It is just a joke. It does not mean anything.",
+    "new": "What I mock, I slowly lose the ability to take seriously.",
+    "try": "If you hear yourself joking about something sacred today, stop and change the subject.",
+    "related": ["61:5", "6:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:11", "surah": 30, "ayah": 11, "place": "makkah",
+    "title": "He began it, He will repeat it, you will return.",
+    "subtitle": "The first creation is proof of the second",
+    "picture": {"kind": "boxes", "label": "The cycle", "row": [
+      {"box": "idea", "title": "He begins", "sub": ["the first creation"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "He repeats", "sub": ["the resurrection"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you return", "sub": ["to Him, with your deeds"]}]},
+    "key": {"label": "Which is harder", "row": [
+      {"box": "trap", "title": "bringing back is impossible", "sub": ["the dead stay dead"], "strike": true},
+      {"box": "idea", "title": "He did the first", "sub": ["the second is no harder"]}]},
+    "then": "Ibn Kathir says simply: {idea}just as He was able to create in the first place, He is able to repeat it.{/idea} Then everyone {reward}returns to Him on the Day of Resurrection{/reward}, each repaid according to his deeds.",
+    "now": "You see the ultrasound of a baby, a heartbeat out of nothing. Or you hold a newborn niece in the hospital. {idea}That is the first creation, happening in front of you.{/idea} The One who does that can bring you back. And you will return to Him.",
+    "old": "Life after death is hard to imagine.",
+    "new": "I already exist from nothing. Being brought back is the smaller wonder.",
+    "try": "Next time you see a baby or a seed sprouting, remind yourself: He will bring me back too.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:12", "surah": 30, "ayah": 12, "place": "makkah",
+    "title": "When the Hour comes, the guilty fall silent in despair.",
+    "subtitle": "Despair when there is no time left",
+    "picture": {"kind": "boxes", "label": "That moment", "row": [
+      {"box": "plain", "title": "the Hour", "sub": ["it arrives"]},
+      {"conn": "and the guilty"},
+      {"box": "trap", "title": "despair", "sub": ["exposed and grieving"]}]},
+    "key": {"label": "When hope matters", "row": [
+      {"box": "trap", "title": "hope later", "sub": ["too late then"], "strike": true},
+      {"box": "idea", "title": "hope now", "sub": ["the door is open today"]}]},
+    "then": "Ibn Abbas said {trap}the sinners will be filled with despair{/trap}. Mujahid said they will be exposed, and that they will grieve. It is the moment when nothing can be changed anymore. {idea}The verse speaks of it so that people change before it.{/idea}",
+    "now": "The despair in this verse comes when the chance is gone. {reward}You still have that chance.{/reward} The unanswered message to your father, the prayers you dropped, the money you owe a friend. {idea}None of it is too late today.{/idea}",
+    "old": "I have messed up too much to fix things now.",
+    "new": "Despair belongs to the day that has no tomorrow. Today still does.",
+    "try": "Fix one small thing today that you have been putting off out of shame.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:13", "surah": 30, "ayah": 13, "place": "makkah",
+    "title": "The partners they relied on will not speak for them.",
+    "subtitle": "What you trusted instead of Allah walks away",
+    "picture": {"kind": "boxes", "label": "When it counts", "row": [
+      {"box": "people", "title": "the worshippers", "sub": ["in desperate need"]},
+      {"conn": "turn to"},
+      {"box": "trap", "title": "their partners", "sub": ["no intercession"]},
+      {"conn": "and then"},
+      {"box": "trap", "title": "disown them", "sub": ["each rejects the other"]}]},
+    "key": {"label": "What was trusted", "row": [
+      {"box": "trap", "title": "they will speak for me", "sub": ["false backup"], "strike": true},
+      {"box": "idea", "title": "only Allah", "sub": ["was ever able to"]}]},
+    "then": "Ibn Kathir explains that the gods they worshipped instead of Allah {trap}will not intercede for them{/trap}. They will reject and betray them, just when they are needed most. And the worshippers themselves {idea}will disown what they once relied on.{/idea}",
+    "now": "You count on someone or something: the boss who likes you, the reputation, the clever plan. {trap}It all looks like backup.{/trap} Then a crisis comes and none of it can reach the real problem. {idea}Only Allah stands with you in every situation.{/idea}",
+    "old": "I have people and plans to fall back on.",
+    "new": "Everything I lean on besides Allah will step back when I need it most.",
+    "try": "Name one thing you rely on more than Allah. Ask Him today for what you were asking from it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:14", "surah": 30, "ayah": 14, "place": "makkah",
+    "title": "On that Day, people are separated for good.",
+    "subtitle": "The parting with no reunion",
+    "picture": {"kind": "boxes", "label": "The split", "row": [
+      {"box": "people", "title": "everyone", "sub": ["gathered together"]},
+      {"conn": "separated"},
+      {"box": "reward", "title": "highest heights", "sub": ["one person"]},
+      {"box": "trap", "title": "lowest depths", "sub": ["another"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "trap", "title": "who you were with", "sub": ["family, friends"], "strike": true},
+      {"box": "idea", "title": "what you did", "sub": ["belief and good deeds"]}]},
+    "then": "Qatadah said this is {trap}the separation after which there is no reunion{/trap}. Ibn Kathir explains: if one is raised to the highest place and another sent down, {trap}that is the last they ever see of each other.{/trap} {idea}The next verses say what divides them.{/idea}",
+    "now": "Your family gathers every Eid, your friends meet every Friday. {idea}On that Day, each walks according to their own deeds.{/idea} The verse is a reason to help those you love toward good now, while you are still side by side.",
+    "old": "We will always be together, my family and I.",
+    "new": "Staying together then depends on what each of us does now.",
+    "try": "Invite one person you love to do one good thing with you this week, like praying together.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "30:15", "surah": 30, "ayah": 15, "place": "makkah",
+    "title": "Those who believed and did good will be delighted in a garden.",
+    "subtitle": "The joy on the other side of the parting",
+    "picture": {"kind": "boxes", "label": "One side", "row": [
+      {"box": "idea", "title": "believed", "sub": ["in the heart"]},
+      {"box": "idea", "title": "did good", "sub": ["with the hands"]},
+      {"conn": "led to"},
+      {"box": "reward", "title": "a garden", "sub": ["honored and delighted"]}]},
+    "key": {"label": "What is needed", "row": [
+      {"box": "trap", "title": "belief alone", "sub": ["no deeds needed"], "strike": true},
+      {"box": "idea", "title": "belief and deeds", "sub": ["always together"]}]},
+    "then": "After the scene of separation, this verse describes one group. Mujahid and Qatadah said it means {reward}they will enjoy a life of luxury{/reward}, honored and full of joy in a garden. {idea}It is for those who believed and did righteous deeds{/idea}, the two named together.",
+    "now": "You helped your neighbor carry groceries. You prayed even though you were tired after a long shift. {idea}Belief with action, in small ordinary forms.{/idea} {reward}The verse says this is what leads to delight that does not end.{/reward}",
+    "old": "Paradise is for saints, not ordinary people like me.",
+    "new": "Paradise is for those who believe and do good. I can be one of them.",
+    "try": "Pair your belief with one small good deed today, and offer it to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

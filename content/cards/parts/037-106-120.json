@@ -1,0 +1,291 @@
+[
+  {
+    "id": "37:106", "surah": 37, "ayah": 106, "place": "makkah",
+    "title": "This was a clear test, and he passed it.",
+    "subtitle": "A trial measured by how quickly he obeyed",
+    "picture": {"kind": "boxes", "label": "The trial", "row": [
+      {"box": "people", "title": "the command", "sub": ["sacrifice your son"]},
+      {"conn": "met with"},
+      {"box": "idea", "title": "hastening to obey", "sub": ["in submission"]}]},
+    "key": {"label": "What a test reveals", "row": [
+      {"box": "trap", "title": "a punishment", "sub": ["Allah is against me"], "strike": true},
+      {"box": "idea", "title": "a clear trial", "sub": ["showing what is in the heart"]}]},
+    "then": "Ibn Kathir says {idea}it was clearly a test{/idea} when he was commanded to sacrifice his son, and he hastened to do it in submission and obedience. He links it to 53:37: Ibrahim who fulfilled all that was asked.",
+    "now": "A loss, a hard boss, a long wait for a child. It is easy to feel targeted. {idea}The verse names it a trial: something that shows what you are made of.{/idea} Tests are where faith becomes visible.",
+    "old": "This hardship means Allah is displeased with me.",
+    "new": "A hard test can be the place where my faith is shown and honored.",
+    "try": "Name your current test in one sentence. Ask Allah to help you pass it well.",
+    "related": ["53:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:107", "surah": 37, "ayah": 107, "place": "makkah",
+    "title": "Allah ransomed the son with a great sacrifice.",
+    "subtitle": "What was offered was returned, with a ram in its place",
+    "picture": {"kind": "boxes", "label": "The ransom", "row": [
+      {"box": "people", "title": "Isma'il", "sub": ["offered in obedience"]},
+      {"conn": "ransomed with"},
+      {"box": "reward", "title": "a great sacrifice", "sub": ["a horned white ram"]}]},
+    "key": {"label": "What was really wanted", "row": [
+      {"box": "trap", "title": "the son's life", "sub": ["the loss itself"], "strike": true},
+      {"box": "idea", "title": "the willingness", "sub": ["then the son returned"]}]},
+    "then": "Ibn Kathir reports the ransom was a ram, and Ibn 'Abbas said {reward}a ram which had grazed in Paradise{/reward}. A report says its horns were kept in the Ka'bah until it burned. Ibn Kathir also notes the purpose of the command was to reward Ibrahim's patience and resolve.",
+    "now": "Sometimes you hand something over to Allah, a plan, a relationship, a dream job, expecting to lose it. {idea}And it comes back to you, or something better is put in its place.{/idea} What He asks for is the heart.",
+    "old": "If I give this up for Allah, it is gone forever.",
+    "new": "What I truly hand to Allah is never lost. He knows what to return and what to replace.",
+    "try": "Think of one thing you are gripping tightly. Tell Allah today it is His to keep or return.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:108", "surah": 37, "ayah": 108, "place": "makkah",
+    "title": "Like Nuh, Ibrahim was left a good name.",
+    "subtitle": "The same honor given after the same kind of trial",
+    "picture": {"kind": "boxes", "label": "What remained", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["exiled, tested"]},
+      {"conn": "left with"},
+      {"box": "reward", "title": "good mention", "sub": ["among later generations"]}]},
+    "key": {"label": "What he left", "row": [
+      {"box": "plain", "title": "his homeland", "sub": ["given up"]},
+      {"box": "reward", "title": "his name", "sub": ["kept alive by Allah"]}]},
+    "then": "The same words were said of Nuh in verse 78. Ibrahim lost his people and his homeland and was asked for his son. {reward}Allah left for him an honored name among those who came after.{/reward}",
+    "now": "You may give up a lot for your faith: a friendship, a promotion, a place you loved. {idea}What you lose for Allah is not erased.{/idea} The verse repeats so you notice the pattern.",
+    "old": "What I give up for Allah just disappears.",
+    "new": "Allah turns what I give up for Him into something that lasts.",
+    "try": "Remember one sacrifice you made for Allah. Thank Him for letting you make it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:109", "surah": 37, "ayah": 109, "place": "makkah",
+    "title": "Peace upon Ibrahim, the man thrown into fire.",
+    "subtitle": "Peace given to the one who was given none by his people",
+    "picture": {"kind": "boxes", "label": "From his people, then from Allah", "row": [
+      {"box": "trap", "title": "his people", "sub": ["a fire for him"]},
+      {"conn": "but Allah"},
+      {"box": "reward", "title": "Salam", "sub": ["peace upon Ibrahim"]}]},
+    "key": {"label": "Whose greeting matters", "row": [
+      {"box": "trap", "title": "their verdict", "sub": ["burn him"], "strike": true},
+      {"box": "reward", "title": "Allah's greeting", "sub": ["peace, forever"]}]},
+    "then": "His own people built a fire for him. His father rejected him. {reward}Allah greets him with peace{/reward}, as He greeted Nuh. The surah sets this beside what his enemies wanted for him.",
+    "now": "Some people in your life may never speak well of you. {idea}What Allah says about you outlasts every opinion.{/idea} His peace is the greeting worth living for.",
+    "old": "I am defined by how people treat me.",
+    "new": "Allah's word about me matters more than anything people say.",
+    "try": "When someone hurts you today, say salam to them anyway, and ask Allah for His peace.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:110", "surah": 37, "ayah": 110, "place": "makkah",
+    "title": "Thus We reward the good: a way out every time.",
+    "subtitle": "The same promise, now proven by Ibrahim",
+    "picture": {"kind": "boxes", "label": "The pattern so far", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["saved, honored"]},
+      {"box": "people", "title": "Ibrahim", "sub": ["saved from fire", "son ransomed"]},
+      {"conn": "thus"},
+      {"box": "reward", "title": "the good-doers", "sub": ["rewarded"]}]},
+    "key": {"label": "What thus means", "row": [
+      {"box": "plain", "title": "a one-off", "sub": ["just for Prophets"], "strike": true},
+      {"box": "idea", "title": "a pattern", "sub": ["for every doer of good"]}]},
+    "then": "This line was said after Nuh and again after Ibrahim's trial. Ibn Kathir explained it as {reward}this is how We deal with those who obey Us in things that are difficult for them; We make for them a way out.{/reward}",
+    "now": "You read this and think: that was for Prophets. But the word is thus, a method. {idea}The same Lord who rescued Ibrahim sees your small act of good on a tired Tuesday.{/idea}",
+    "old": "Allah's help like this was only for Prophets.",
+    "new": "Allah's way of rewarding good is a pattern that includes me.",
+    "try": "Do one good deed today and expect good from Allah because of it.",
+    "related": ["65:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:111", "surah": 37, "ayah": 111, "place": "makkah",
+    "title": "After everything, he is called simply: a believing servant.",
+    "subtitle": "The Friend of Allah, summed up in one phrase",
+    "picture": {"kind": "boxes", "label": "His life in short", "row": [
+      {"box": "people", "title": "questioned idols", "sub": ["thrown in fire"]},
+      {"box": "people", "title": "emigrated", "sub": ["offered his son"]},
+      {"conn": "summed up as"},
+      {"box": "reward", "title": "a believing servant", "sub": ["of Allah"]}]},
+    "key": {"label": "The core", "row": [
+      {"box": "plain", "title": "the dramatic events", "sub": ["what people retell"]},
+      {"box": "idea", "title": "his faith", "sub": ["what Allah names"]}]},
+    "then": "The same line closed Nuh's story in verse 81. Ibrahim broke idols, faced the fire, left home, and passed the hardest test. {idea}Allah sums it all up: he was one of Our believing servants.{/idea}",
+    "now": "Your life will not have fire or idols in a town square. It will have a commute, a family, small temptations. {idea}The title is the same one, and it is open to you.{/idea}",
+    "old": "Faith like Ibrahim's is out of my reach.",
+    "new": "The core of his greatness is a title I can also work toward: believing servant.",
+    "try": "Ask Allah today to write you among His believing servants.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:112", "surah": 37, "ayah": 112, "place": "makkah",
+    "title": "After the test, more good news: Ishaq.",
+    "subtitle": "A second son, a Prophet from the righteous",
+    "picture": {"kind": "boxes", "label": "The gifts in order", "row": [
+      {"box": "reward", "title": "Isma'il", "sub": ["the son of the test"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "Ishaq", "sub": ["a Prophet", "of the righteous"]}]},
+    "key": {"label": "After giving", "row": [
+      {"box": "trap", "title": "less", "sub": ["giving leaves you empty"], "strike": true},
+      {"box": "reward", "title": "more", "sub": ["Allah adds after the trial"]}]},
+    "then": "Ibn Kathir says that having given the news of Isma'il, Allah {reward}immediately follows that with the glad tidings of his brother Ishaq{/reward}. Muhammad bin Ka'b noted that Ishaq's own son was also promised, as in 11:71.",
+    "now": "You gave up something for Allah and braced for emptiness. {reward}Then a new door opened{/reward}: a friend, a job, a peace you did not expect. {idea}Allah's gifts often come in pairs.{/idea}",
+    "old": "Once I give something up, that is the end of the story.",
+    "new": "After I give for Allah, He often adds more than I expected.",
+    "try": "Write down one good thing that came to you after a loss. Thank Allah for it.",
+    "related": ["11:71", "15:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:113", "surah": 37, "ayah": 113, "place": "makkah",
+    "title": "Blessed parents, but each descendant chooses their own way.",
+    "subtitle": "A great family does not guarantee a good person",
+    "picture": {"kind": "boxes", "label": "Their offspring", "row": [
+      {"box": "reward", "title": "Ibrahim and Ishaq", "sub": ["blessed"]},
+      {"conn": "descendants"},
+      {"box": "idea", "title": "doers of good", "sub": []},
+      {"box": "trap", "title": "wrong themselves", "sub": ["clearly"]}]},
+    "key": {"label": "What lineage gives", "row": [
+      {"box": "trap", "title": "a guarantee", "sub": ["good family, good me"], "strike": true},
+      {"box": "idea", "title": "a chance", "sub": ["deeds still decide"]}]},
+    "then": "Allah blessed Ibrahim and Ishaq, then says plainly that among their descendants are {idea}those who do good{/idea} and {trap}those who clearly wrong themselves{/trap}. Ibn Kathir compares it to the blessing given to Nuh and those with him in 11:48.",
+    "now": "Your grandfather was the imam. Your parents never missed a prayer. {trap}That is a blessing, not a pass.{/trap} {idea}Every person in a family still writes their own page.{/idea}",
+    "old": "I come from a good family, so I am fine.",
+    "new": "A good family is a gift. My own deeds are still mine to answer for.",
+    "try": "Thank Allah for one good thing your family gave you, then do one deed of your own today.",
+    "related": ["11:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:114", "surah": 37, "ayah": 114, "place": "makkah",
+    "title": "Two brothers, one favor: prophethood for Musa and Harun.",
+    "subtitle": "Allah's grace given to a team",
+    "picture": {"kind": "boxes", "label": "The favor", "row": [
+      {"box": "idea", "title": "Allah's grace", "sub": ["prophethood"]},
+      {"conn": "given to"},
+      {"box": "people", "title": "Musa", "sub": []},
+      {"box": "people", "title": "Harun", "sub": ["his brother"]}]},
+    "key": {"label": "Where it came from", "row": [
+      {"box": "plain", "title": "their own talent", "sub": ["earned it"], "strike": true},
+      {"box": "idea", "title": "Allah's favor", "sub": ["a gift He gave"]}]},
+    "then": "Ibn Kathir says Allah tells us {idea}how He blessed Musa and Harun with prophethood{/idea}. The surah moves on to the next pair of Prophets, two brothers who carried the message together.",
+    "now": "Think of the sibling, cousin, or friend who stands with you in doing good. The one who wakes you for Fajr, who helps with the hard family conversation. {idea}That partnership is itself a favor from Allah.{/idea}",
+    "old": "What I have in my faith I built myself.",
+    "new": "Every good thing I carry, and every good partner I have, is a favor from Allah.",
+    "try": "Message one person who helps you stay on the right path and thank them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:115", "surah": 37, "ayah": 115, "place": "makkah",
+    "title": "Saved from years of crushing oppression.",
+    "subtitle": "Musa, Harun and their people rescued",
+    "picture": {"kind": "boxes", "label": "The great distress", "row": [
+      {"box": "trap", "title": "Fir'awn's rule", "sub": ["sons killed", "menial forced work"]},
+      {"conn": "Allah saved"},
+      {"box": "reward", "title": "Musa, Harun, their people", "sub": ["rescued"]}]},
+    "key": {"label": "The word repeats", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["saved from great distress"]},
+      {"box": "people", "title": "Musa and Harun", "sub": ["the same words"]}]},
+    "then": "Ibn Kathir says Allah saved them and the believers from {trap}the oppression of Fir'awn and his people{/trap}, who persecuted them by killing their sons and forcing them into the most menial tasks. The phrase great distress was used for Nuh too.",
+    "now": "Your distress might be a controlling boss, a debt that never shrinks, a home that does not feel safe. {idea}The same words that rescued Nuh rescued Musa's people.{/idea} Ask for that rescue and take the steps you can.",
+    "old": "My situation is too big for anything to change.",
+    "new": "Allah has rescued people from great distress before. He can do it again.",
+    "try": "Name your distress to Allah in a du'a today, then take one small practical step out of it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:116", "surah": 37, "ayah": 116, "place": "makkah",
+    "title": "The oppressed became the ones who prevailed.",
+    "subtitle": "Help from Allah turned the weak into victors",
+    "picture": {"kind": "boxes", "label": "The turn", "row": [
+      {"box": "people", "title": "the persecuted", "sub": ["weak, enslaved"]},
+      {"conn": "helped by Allah"},
+      {"box": "reward", "title": "the victors", "sub": ["prevailed in the end"]}]},
+    "key": {"label": "Who seemed likely to win", "row": [
+      {"box": "trap", "title": "Fir'awn", "sub": ["power, wealth, army"], "strike": true},
+      {"box": "reward", "title": "the helped", "sub": ["those Allah helped"]}]},
+    "then": "Ibn Kathir says Allah {reward}ultimately caused them to prevail{/reward} over those who oppressed them. The surah was heard by a small group of persecuted Muslims in Makkah, who could not imagine winning. It was meant for them.",
+    "now": "You feel like the small one in the room: the junior at work, the new one in the class, the only one trying to stay clean. {idea}Victory belongs to those Allah helps, not those who look strong.{/idea}",
+    "old": "Whoever looks strongest now will win.",
+    "new": "The one Allah helps is the one who prevails, however weak they look.",
+    "try": "Ask Allah for help today in the one area where you feel smallest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:117", "surah": 37, "ayah": 117, "place": "makkah",
+    "title": "Then they were given a Book that makes things clear.",
+    "subtitle": "The Tawrah, after the rescue",
+    "picture": {"kind": "boxes", "label": "After freedom", "row": [
+      {"box": "reward", "title": "rescued", "sub": ["from Fir'awn"]},
+      {"conn": "then given"},
+      {"box": "idea", "title": "the clear Book", "sub": ["the Tawrah"]}]},
+    "key": {"label": "What freedom is for", "row": [
+      {"box": "trap", "title": "freedom alone", "sub": ["now do as we like"], "strike": true},
+      {"box": "idea", "title": "freedom with guidance", "sub": ["now live by the Book"]}]},
+    "then": "Ibn Kathir says Allah {idea}revealed to Musa the Clear and Mighty Book, which is the Tawrah{/idea}, citing 21:48 where it is called the criterion and a shining light. Rescue came first, then a Book to live by.",
+    "now": "You finally got the free time, the job security, the place of your own. {idea}Freedom is not the end goal. It is room to live by guidance.{/idea} Allah gave you a clear Book too.",
+    "old": "Once my problems are solved, I can relax.",
+    "new": "Relief is room to follow guidance, not a break from it.",
+    "try": "Use part of your next free hour to read a page of the Quran with its meaning.",
+    "related": ["21:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:118", "surah": 37, "ayah": 118, "place": "makkah",
+    "title": "Guided to the straight path, in words and deeds.",
+    "subtitle": "Guidance that shapes what you say and do",
+    "picture": {"kind": "boxes", "label": "The straight path", "row": [
+      {"box": "idea", "title": "the clear Book", "sub": ["given"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "guidance", "sub": ["in words", "in deeds"]}]},
+    "key": {"label": "What guidance covers", "row": [
+      {"box": "plain", "title": "what you believe", "sub": ["only in the head"], "strike": true},
+      {"box": "idea", "title": "words and deeds", "sub": ["the whole life"]}]},
+    "then": "Ibn Kathir explains that the straight path Musa and Harun were guided to was {idea}with regard to words and deeds{/idea}. Having the Book was not enough. They were guided to live it.",
+    "now": "You know the right thing. The test is the text you send, the price you charge, the way you talk to your mother. {idea}The straight path runs through your mouth and your hands.{/idea}",
+    "old": "As long as my beliefs are right, I am on the path.",
+    "new": "The straight path shows up in what I say and do, not only what I believe.",
+    "try": "Pick one thing you say often that you know is not right. Replace it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:119", "surah": 37, "ayah": 119, "place": "makkah",
+    "title": "Like Nuh and Ibrahim, they are spoken of with honor.",
+    "subtitle": "The good name left for Musa and Harun",
+    "picture": {"kind": "boxes", "label": "The same gift, a third time", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["verse 78"]},
+      {"box": "people", "title": "Ibrahim", "sub": ["verse 108"]},
+      {"box": "reward", "title": "Musa and Harun", "sub": ["spoken of highly"]}]},
+    "key": {"label": "Who is remembered", "row": [
+      {"box": "trap", "title": "the powerful", "sub": ["Fir'awn's name"], "strike": true},
+      {"box": "reward", "title": "the faithful", "sub": ["honored ever after"]}]},
+    "then": "Ibn Kathir says this means {reward}after they died they would be mentioned in good terms and spoken of highly{/reward}. It is the third time the surah uses these words, each time after a Prophet was rescued.",
+    "now": "Fir'awn had palaces and an army. Musa had a staff and a brother. Ask who is mentioned with honor today. {idea}The surah keeps repeating it so the lesson sticks.{/idea}",
+    "old": "Power is what makes a name last.",
+    "new": "Faithfulness, not power, is what Allah makes last.",
+    "try": "Think of what you would want said about you after you are gone. Do one thing toward it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:120", "surah": 37, "ayah": 120, "place": "makkah",
+    "title": "Peace upon Musa and Harun, together.",
+    "subtitle": "Two brothers greeted in one breath",
+    "picture": {"kind": "boxes", "label": "The greeting", "row": [
+      {"box": "reward", "title": "Salam", "sub": ["peace"]},
+      {"conn": "upon"},
+      {"box": "people", "title": "Musa and Harun", "sub": ["named together"]}]},
+    "key": {"label": "What is honored", "row": [
+      {"box": "plain", "title": "one hero", "sub": ["standing alone"]},
+      {"box": "reward", "title": "a pair", "sub": ["who carried it together"]}]},
+    "then": "After the rescue, the help, the Book and the guidance, Allah greets {reward}both brothers together with peace{/reward}. Ibn Kathir says this explains the good mention left for them.",
+    "now": "Siblings fight over inheritance, drift apart over a wedding, stop calling. {idea}Musa and Harun are greeted with peace in one breath.{/idea} Brothers and sisters can carry good together.",
+    "old": "My sibling and I are just too different to work together.",
+    "new": "Siblings who stand together for good are honored together.",
+    "try": "Call or message a brother or sister today, just to say salam.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "85:1", "surah": 85, "ayah": 1, "place": "makkah",
+    "title": "By the sky with its great stars.",
+    "subtitle": "An oath to open a surah of comfort",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "plain", "title": "the sky", "sub": ["above the persecuted"]},
+      {"conn": "holding"},
+      {"box": "idea", "title": "the Buruj", "sub": ["giant stars, set positions"]}]},
+    "key": {"label": "Why swear by it", "row": [
+      {"box": "idea", "title": "perfect order above", "sub": ["stars on their paths"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "nothing below is chaos", "sub": ["the same Lord runs both"]}]},
+    "then": "This surah came when {trap}persecution in Makkah was at its height{/trap}. Ibn Abbas and others said the Buruj are the stars; Ibn Jarir said the twelve positions the sun and moon travel through. {idea}An ordered sky opens a surah meant to console.{/idea}",
+    "now": "Your life feels out of control: the diagnosis, the layoff, the family fight. {reward}Step outside at night.{/reward} The stars are still on their exact paths, held by the One who holds you.",
+    "old": "When my life falls apart, it feels like nobody is in charge.",
+    "new": "The Lord who keeps the stars in order is in charge of my hardship too.",
+    "try": "Look at the night sky tonight for one minute and hand one worry to Allah.",
+    "related": ["25:61"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:2", "surah": 85, "ayah": 2, "place": "makkah",
+    "title": "And by the Promised Day.",
+    "subtitle": "A day on the calendar that will come",
+    "picture": {"kind": "boxes", "label": "The second oath", "row": [
+      {"box": "idea", "title": "the Promised Day", "sub": ["the Day of Judgement"]},
+      {"conn": "for"},
+      {"box": "people", "title": "the wronged", "sub": ["and the wrongdoers"]}]},
+    "key": {"label": "What a promise means", "row": [
+      {"box": "people", "title": "justice may never come", "sub": ["for the oppressed"], "strike": true},
+      {"box": "reward", "title": "a promised date", "sub": ["Allah keeps it"]}]},
+    "then": "The hadith from Abu Hurayrah cited by Ibn Kathir says the Promised Day is {idea}the Day of Judgement{/idea}. To believers being persecuted in Makkah, this was a promise that their suffering had a court date.",
+    "now": "You were cheated by someone who will never be caught. Your complaint went nowhere. {reward}The verse says there is a Day already promised for exactly this.{/reward}",
+    "old": "Some wrongs will just never be put right.",
+    "new": "Every unsettled wrong has a promised Day.",
+    "try": "Leave one wrong done to you with Allah today, and stop replaying it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:3", "surah": 85, "ayah": 3, "place": "makkah",
+    "title": "And by the witness and what is witnessed.",
+    "subtitle": "Days that see and days that are seen",
+    "picture": {"kind": "boxes", "label": "One reading", "row": [
+      {"box": "idea", "title": "the witness", "sub": ["Friday"]},
+      {"box": "idea", "title": "the witnessed", "sub": ["the day of Arafah"]}]},
+    "key": {"label": "What Friday holds", "row": [
+      {"box": "people", "title": "just the weekend start", "sub": ["an ordinary day"], "strike": true},
+      {"box": "reward", "title": "an answered hour", "sub": ["good asked is given"]}]},
+    "then": "A hadith cited by Ibn Kathir says the witness is {idea}Friday{/idea} and the witnessed is {idea}the day of Arafah{/idea}. It says Friday holds an hour in which a Muslim who asks Allah for good is given it. Others said the witnessed is the Day of Judgement.",
+    "now": "Friday arrives as another busy workday, lunch rushed, phone buzzing. {reward}There is an hour in it where your dua is answered.{/reward}",
+    "old": "Friday is just another day with a prayer in the middle.",
+    "new": "Friday is a witness day with an hour of answered prayer hidden in it.",
+    "try": "This Friday, set aside five minutes in the late afternoon just for dua.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:4", "surah": 85, "ayah": 4, "place": "makkah",
+    "title": "Cursed were the people of the ditch.",
+    "subtitle": "The story the oaths were leading to",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "trap", "title": "the people of the ditch", "sub": ["a ruler and his men"]},
+      {"conn": "dug"},
+      {"box": "trap", "title": "ditches of fire", "sub": ["for those who believed"]}]},
+    "key": {"label": "Who really lost", "row": [
+      {"box": "trap", "title": "the burners", "sub": ["cursed"]},
+      {"box": "reward", "title": "the burned", "sub": ["firm in faith"]}]},
+    "then": "Ibn Kathir relates the hadith of the boy and the king from Muslim: a boy's faith led a whole crowd to say {reward}we believe in the Lord of the boy{/reward}. The king had ditches dug and fires lit for anyone who would not give up faith.",
+    "now": "You may never face fire, but you will face pressure: the joke at work about your prayer, the friend who says faith is old-fashioned. {idea}The story asks what you will hold on to.{/idea}",
+    "old": "The ones with the power always come out on top.",
+    "new": "Those who torment believers are the ones who truly lose.",
+    "try": "Stand firm on one small part of your faith today when it would be easier to drop it.",
+    "related": ["105:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:5", "surah": 85, "ayah": 5, "place": "makkah",
+    "title": "A fire kept fed with fuel.",
+    "subtitle": "Cruelty that was planned and maintained",
+    "picture": {"kind": "boxes", "label": "The ditch", "row": [
+      {"box": "trap", "title": "the fire", "sub": ["lit in the ditch"]},
+      {"conn": "kept going with"},
+      {"box": "trap", "title": "fuel", "sub": ["prepared to keep it ablaze"]}]},
+    "key": {"label": "Not a moment of anger", "row": [
+      {"box": "people", "title": "a sudden outburst", "sub": ["heat of the moment"], "strike": true},
+      {"box": "trap", "title": "a planned cruelty", "sub": ["fuel was prepared"]}]},
+    "then": "Ibn Kathir says they dug a ditch, {trap}lit a fire in it and prepared fuel to keep it ablaze{/trap}, then asked the believers again to give up their faith. The believers still refused.",
+    "now": "A grudge kept burning for years, fed with screenshots, old stories, and new complaints. {idea}Cruelty rarely stays alive on its own. Someone keeps feeding it.{/idea}",
+    "old": "Harm that lasts just sort of happens.",
+    "new": "Lasting harm is kept going by someone choosing to feed it.",
+    "try": "Stop adding fuel to one conflict today: do not repeat the story.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:6", "surah": 85, "ayah": 6, "place": "makkah",
+    "title": "They sat around it.",
+    "subtitle": "Comfortable beside someone else's suffering",
+    "picture": {"kind": "boxes", "label": "The scene", "row": [
+      {"box": "trap", "title": "the fire", "sub": ["believers thrown in"]},
+      {"conn": "and beside it"},
+      {"box": "people", "title": "they sat", "sub": ["seated, at ease"]}]},
+    "key": {"label": "Sitting is a choice", "row": [
+      {"box": "people", "title": "just sitting there", "sub": ["not doing anything"], "strike": true},
+      {"box": "trap", "title": "taking part", "sub": ["by watching at ease"]}]},
+    "then": "The verse pictures the persecutors seated at the edge of the ditch. {trap}They were not rushed or ashamed. They sat.{/trap} The surah introduction ties this to the Makkan chiefs who were also pressuring believers.",
+    "now": "Someone is being humiliated in the group chat and you just watch, reading every message. {idea}Sitting comfortably beside harm is not neutral.{/idea}",
+    "old": "If I am only watching, I am not part of it.",
+    "new": "Sitting at ease while someone is hurt is a stance, not nothing.",
+    "try": "Next time you see someone mocked today, say one kind word for them or leave.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:7", "surah": 85, "ayah": 7, "place": "makkah",
+    "title": "They watched what they were doing to the believers.",
+    "subtitle": "Witnesses to their own crime",
+    "picture": {"kind": "boxes", "label": "Who saw", "row": [
+      {"box": "trap", "title": "the persecutors", "sub": ["eyes open"]},
+      {"conn": "witnessed"},
+      {"box": "people", "title": "the believers", "sub": ["what was done to them"]}]},
+    "key": {"label": "Two witnesses", "row": [
+      {"box": "trap", "title": "they witnessed", "sub": ["verse 7"]},
+      {"box": "idea", "title": "Allah witnessed", "sub": ["verse 9"]}]},
+    "then": "Ibn Kathir says they {trap}were witnesses to what was done to these believers{/trap}. They could not claim later they did not know. And the surah adds that Allah too is Witness over everything.",
+    "now": "You saw the colleague being pushed out unfairly. You saw the sibling left out of the inheritance talk. {idea}Seeing it makes you part of the record.{/idea}",
+    "old": "I did not do it. I only saw it.",
+    "new": "What I see clearly, I will be asked about.",
+    "try": "Think of one unfairness you have watched quietly. Take one small step to help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:8", "surah": 85, "ayah": 8, "place": "makkah",
+    "title": "Their only crime was believing in the Mighty, the Praised.",
+    "subtitle": "When faith itself is the accusation",
+    "picture": {"kind": "boxes", "label": "The charge sheet", "row": [
+      {"box": "people", "title": "the believers", "sub": ["no wrong done"]},
+      {"conn": "resented for"},
+      {"box": "idea", "title": "believing in Allah", "sub": ["the Mighty, the Praiseworthy"]}]},
+    "key": {"label": "What they were blamed for", "row": [
+      {"box": "trap", "title": "a crime", "sub": ["in the persecutors' eyes"], "strike": true},
+      {"box": "reward", "title": "their honour", "sub": ["in Allah's eyes"]}]},
+    "then": "Ibn Kathir says these believers committed no sin in their persecutors' eyes {trap}except their faith in Allah{/trap}. He adds that Allah is Mighty and Praiseworthy in all He decrees, {idea}even when the reason is unknown to many people{/idea}.",
+    "now": "You are passed over for the team trip because you do not drink, or teased for fasting at school. {reward}If faith is the only thing they hold against you, you are in good company.{/reward}",
+    "old": "If people hold my faith against me, I should hide it.",
+    "new": "Being disliked only for believing is something to be proud of, not hide.",
+    "try": "Thank Allah today for one way your faith makes you stand out.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:9", "surah": 85, "ayah": 9, "place": "makkah",
+    "title": "His is the kingdom of heaven and earth, and He sees everything.",
+    "subtitle": "The real owner of the ground they ruled",
+    "picture": {"kind": "boxes", "label": "Who owns what", "row": [
+      {"box": "trap", "title": "the king", "sub": ["owned a ditch and an army"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah", "sub": ["owns the heavens and earth"]}]},
+    "key": {"label": "Was it hidden", "row": [
+      {"box": "people", "title": "no one will know", "sub": ["what happened that day"], "strike": true},
+      {"box": "idea", "title": "Witness over all", "sub": ["nothing concealed from Him"]}]},
+    "then": "Ibn Kathir says Allah owns the heavens, the earth, and all between them, and {idea}nothing is concealed from Him{/idea}. The king seemed to own everything. The verse names the real Owner.",
+    "now": "The manager who decides your contract, the landlord with your deposit. {trap}They seem to hold everything.{/trap} {reward}The verse reminds you who actually owns it all, and that He saw what they did.{/reward}",
+    "old": "The person with power over me has the final say.",
+    "new": "Allah owns everything, and sees how power is used over me.",
+    "try": "Before a meeting with someone who has power over you, say: Allah is the real Owner.",
+    "related": ["85:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "85:10", "surah": 85, "ayah": 10, "place": "makkah",
+    "title": "Those who torment believers, then never repent, face the Fire.",
+    "subtitle": "Even here, the door of repentance is named",
+    "picture": {"kind": "boxes", "label": "The condition", "row": [
+      {"box": "trap", "title": "tormented believers", "sub": ["men and women"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "did not repent", "sub": ["did not stop or regret"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "the burning Fire", "sub": ["deed matched"]}]},
+    "key": {"label": "The open door", "row": [
+      {"box": "trap", "title": "too far gone", "sub": ["no way back"], "strike": true},
+      {"box": "reward", "title": "still invited", "sub": ["to repent, even them"]}]},
+    "then": "Ibn Abbas and others said tormented here means they burned them. Yet Al-Hasan Al-Basri said: {reward}look at this generosity. They killed Allah's friends, and He still invites them to repent.{/reward}",
+    "now": "You have hurt someone badly, maybe someone who was only trying to do right. {reward}If even the people of the ditch were offered repentance, the door is open for you.{/reward} Walk through it today.",
+    "old": "What I did is too serious to be forgiven.",
+    "new": "Allah invites even the worst wrongdoers back. The condition is only that I return.",
+    "try": "Apologise to one person you have wronged, or ask Allah's forgiveness for it tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

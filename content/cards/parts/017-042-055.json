@@ -1,0 +1,286 @@
+[
+  {
+    "id": "17:42", "surah": 17, "ayah": 42, "place": "makkah",
+    "title": "Even other gods, if they existed, would be seeking Him.",
+    "subtitle": "No need for a middleman to reach Allah",
+    "picture": {"kind": "boxes", "label": "Their idea", "row": [
+      {"box": "people", "title": "the worshipper", "sub": []},
+      {"conn": "goes through"},
+      {"box": "trap", "title": "another god", "sub": ["to get closer"]},
+      {"conn": "who itself seeks"},
+      {"box": "idea", "title": "the Lord of the Throne", "sub": []}]},
+    "key": {"label": "The shortcut", "row": [
+      {"box": "trap", "title": "go through someone", "sub": ["to be heard"], "strike": true},
+      {"box": "idea", "title": "go to Him directly", "sub": ["as they would have to"]}]},
+    "then": "The idolaters of Makkah worshipped others so these would bring them closer to Allah and speak for them. The reply: {idea}if such gods existed, they would themselves be seeking a way to Him{/idea}. So worship Him alone. Ibn Kathir notes that {trap}He does not accept intermediaries in worship{/trap} and forbade it through all His messengers.",
+    "now": "You feel too far gone to make dua yourself. You ask someone more pious to pray for you instead and never pray yourself. {idea}There is no queue and no receptionist.{/idea} Raise your hands. He hears you directly.",
+    "old": "I need someone holier than me to get my prayers through.",
+    "new": "Allah is reachable directly, by me, right now.",
+    "try": "Make one dua today in your own words, in your own language, with no one in between.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:43", "surah": 17, "ayah": 43, "place": "makkah",
+    "title": "Glorified and far above what they claim.",
+    "subtitle": "A moment of tasbih in the middle of the argument",
+    "picture": {"kind": "boxes", "label": "Above it all", "row": [
+      {"box": "trap", "title": "their claims", "sub": ["partners, children"]},
+      {"conn": "far below"},
+      {"box": "idea", "title": "Allah", "sub": ["the One", "needs no one"]}]},
+    "key": {"label": "Who needs whom", "row": [
+      {"box": "people", "title": "He needs helpers", "sub": [], "strike": true},
+      {"box": "idea", "title": "all need Him", "sub": ["He needs nothing"]}]},
+    "then": "After answering the claim of other gods, the Quran pauses to glorify Allah. Ibn Kathir describes Him as {idea}the One, the Self-Sufficient Master whom all creatures need{/idea}. He begets not, nor was He begotten, and {idea}there is none comparable to Him{/idea}.",
+    "now": "You have just finished an argument in your head about why you are right. Or you scrolled past a post mocking faith and felt your chest tighten. {idea}Stop and say subhanallah.{/idea} His greatness does not depend on winning anything.",
+    "old": "When someone says something wrong about Allah, I must defend Him angrily.",
+    "new": "Allah is far above any claim, and my first response can be to glorify Him.",
+    "try": "Say subhanahu wa ta'ala slowly three times when you next hear something careless about Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:44", "surah": 17, "ayah": 44, "place": "makkah",
+    "title": "Everything is glorifying Him. You just cannot hear it.",
+    "subtitle": "Creation's hidden tasbih, and His patience",
+    "picture": {"kind": "boxes", "label": "Who is praising", "row": [
+      {"box": "plain", "title": "seven heavens", "sub": []},
+      {"box": "plain", "title": "the earth", "sub": []},
+      {"box": "plain", "title": "every thing", "sub": ["animal, plant, stone"]},
+      {"conn": "in a language"},
+      {"box": "idea", "title": "you do not understand", "sub": []}]},
+    "key": {"label": "Who is silent", "row": [
+      {"box": "people", "title": "the world is mute", "sub": [], "strike": true},
+      {"box": "idea", "title": "only I forget", "sub": ["and He is patient with me"]}]},
+    "then": "Ibn Kathir explains that {idea}every creature, animal, plant and even lifeless things, glorifies Allah{/idea} in a way not like human speech. Ibn Mas'ud said: we used to hear the food glorifying Allah as it was eaten. And He is {reward}Forbearing and Forgiving{/reward}, giving people time to return.",
+    "now": "The birds outside your window at dawn. The rain on the bus stop roof. The tree you walk past every day without looking. {idea}All of it is busy with praise.{/idea} The only one scrolling in silence might be you.",
+    "old": "Nature is just background, it does not mean anything.",
+    "new": "Everything around me is praising Allah, and I am invited to join.",
+    "try": "On your next walk, say subhanallah each time you notice a tree, a bird, or the sky.",
+    "related": ["19:90", "4:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:45", "surah": 17, "ayah": 45, "place": "makkah",
+    "title": "An invisible veil falls between the reciter and the unwilling.",
+    "subtitle": "When the Quran is heard but not received",
+    "picture": {"kind": "boxes", "label": "The recitation", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["reciting"]},
+      {"box": "trap", "title": "a hidden veil", "sub": []},
+      {"box": "people", "title": "the unbelievers", "sub": ["no belief in the Hereafter"]}]},
+    "key": {"label": "What blocks it", "row": [
+      {"box": "plain", "title": "distance or noise", "sub": [], "strike": true},
+      {"box": "trap", "title": "a covered heart", "sub": ["from not believing"]}]},
+    "then": "Qatadah and Ibn Zayd said the veil is {trap}coverings over their hearts{/trap}. Asma' bint Abi Bakr narrated that when Umm Jamil came with a stone pestle looking for the Prophet ﷺ, he recited this verse and {reward}she stood by Abu Bakr without seeing him{/reward}.",
+    "now": "You play Quran in the car every morning. It is just sound now, like the radio. {trap}Words can pass over a heart without landing.{/trap} The veil is not always somebody else's.",
+    "old": "If I hear the Quran often enough, it will reach me automatically.",
+    "new": "The Quran reaches an open heart, so I need to listen with mine.",
+    "try": "Listen to one short surah today with nothing else going on, and focus on its meaning.",
+    "related": ["41:5", "111:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:46", "surah": 17, "ayah": 46, "place": "makkah",
+    "title": "When He alone is mentioned, they turn their backs.",
+    "subtitle": "Discomfort with pure tawhid",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "Allah alone", "sub": ["La ilaha illallah"]},
+      {"conn": "is mentioned"},
+      {"box": "trap", "title": "they turn away", "sub": ["in dislike"]}]},
+    "key": {"label": "What they could not bear", "row": [
+      {"box": "people", "title": "Allah plus others", "sub": ["they were fine with this"]},
+      {"box": "idea", "title": "Allah alone", "sub": ["this they fled from"]}]},
+    "then": "Ibn Kathir says when the Prophet ﷺ declared Allah to be One in his recitation, {trap}they turned away in strong dislike{/trap}. Qatadah said the idolaters found La ilaha illallah intolerable, but {reward}Allah insisted on supporting it until it prevailed{/reward}.",
+    "now": "Talking about religion is fine at dinner, as long as it stays general. When it gets to my life belongs to Allah alone, people change the subject. {idea}Notice if you do too.{/idea} That is the part worth staying with.",
+    "old": "A bit of faith is nice, but too much focus on Allah alone is extreme.",
+    "new": "Allah alone is the heart of it, and I should not flinch from that.",
+    "try": "Say La ilaha illallah slowly 33 times today, thinking of one thing it means for you.",
+    "related": ["39:45"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:47", "surah": 17, "ayah": 47, "place": "makkah",
+    "title": "They listened in secret, then called him bewitched.",
+    "subtitle": "Hearing the truth and still refusing it",
+    "picture": {"kind": "boxes", "label": "Three nights", "row": [
+      {"box": "people", "title": "three leaders", "sub": ["listening at night"]},
+      {"conn": "each dawn"},
+      {"box": "people", "title": "blamed each other", "sub": ["do not come back"]},
+      {"conn": "then said"},
+      {"box": "trap", "title": "he is bewitched", "sub": []}]},
+    "key": {"label": "Why they refused", "row": [
+      {"box": "people", "title": "it was unclear", "sub": [], "strike": true},
+      {"box": "trap", "title": "pride and rivalry", "sub": ["we cannot match a prophet"]}]},
+    "then": "Ibn Ishaq narrated that Abu Sufyan, Abu Jahl and Al-Akhnas each secretly listened to the Prophet ﷺ praying at night, {idea}three nights in a row{/idea}. Later Abu Jahl admitted the real reason: his clan had competed with Banu 'Abd Manaf in honor, and {trap}now they had a prophet, so we will never believe{/trap}.",
+    "now": "You know your colleague's idea is the best one. But it is theirs, and you have been competing all year. So you find something to criticize. {trap}Rivalry can make a person argue against what they know is true.{/trap}",
+    "old": "I reject things because they are wrong, not because of who said them.",
+    "new": "Sometimes I resist truth because of pride, and I need to catch it.",
+    "try": "Today, openly agree with one good idea from someone you usually compete with.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:48", "surah": 17, "ayah": 48, "place": "makkah",
+    "title": "See the labels they invent for you. They lose the way.",
+    "subtitle": "Name-calling as a way to avoid the message",
+    "picture": {"kind": "boxes", "label": "Their labels", "row": [
+      {"box": "trap", "title": "bewitched", "sub": []},
+      {"box": "trap", "title": "poet", "sub": []},
+      {"box": "trap", "title": "soothsayer", "sub": []},
+      {"box": "trap", "title": "crazy", "sub": []},
+      {"conn": "so"},
+      {"box": "trap", "title": "astray", "sub": ["no way found"]}]},
+    "key": {"label": "What labels do", "row": [
+      {"box": "people", "title": "explain the truth", "sub": [], "strike": true},
+      {"box": "trap", "title": "avoid it", "sub": ["and block the way"]}]},
+    "then": "Ibn Kathir lists the names they tried on the Prophet ﷺ: {trap}poet, soothsayer, crazy, sorcerer, bewitched{/trap}. They kept changing the label. The verse says they went astray, and {trap}could not find a way to the truth{/trap}.",
+    "now": "Someone gives you honest advice and you file them under judgmental, or extreme, or too religious. Then you do not have to think about what they said. {idea}A label is an easy exit.{/idea}",
+    "old": "Once I know what type of person someone is, I can ignore what they say.",
+    "new": "Labeling the speaker is often a way of dodging the message.",
+    "try": "Think of one piece of advice you dismissed because of who said it. Reconsider just the words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:49", "surah": 17, "ayah": 49, "place": "makkah",
+    "title": "Bones and dust, made new again?",
+    "subtitle": "The old doubt about resurrection",
+    "picture": {"kind": "boxes", "label": "Their question", "row": [
+      {"box": "people", "title": "a living person", "sub": []},
+      {"conn": "becomes"},
+      {"box": "plain", "title": "bones and dust", "sub": ["forgotten"]},
+      {"conn": "then?"},
+      {"box": "idea", "title": "a new creation", "sub": []}]},
+    "key": {"label": "What seems impossible", "row": [
+      {"box": "trap", "title": "too far gone", "sub": ["nothing left to raise"], "strike": true},
+      {"box": "idea", "title": "nothing is far for Him", "sub": []}]},
+    "then": "The people of Makkah thought the resurrection very unlikely. Mujahid said fragments means earth, and Ibn 'Abbas said dust. They asked {trap}after we have crumbled and been forgotten, will we really be raised?{/trap} The next verses give the answer.",
+    "now": "You stand at a grave after the burial and look at the soil. It feels so final. A quiet doubt creeps in: is that really it? {idea}The Quran heard that question long ago and did not mock it.{/idea} It answered.",
+    "old": "Once someone is dust, it is hard to imagine anything after.",
+    "new": "Becoming dust is no obstacle to the One who made me from nothing.",
+    "try": "Visit a grave or remember someone who passed, and say a dua for them and for your own return.",
+    "related": ["79:10", "36:78"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:50", "surah": 17, "ayah": 50, "place": "makkah",
+    "title": "Be stone or iron if you like.",
+    "subtitle": "Harder materials, same answer",
+    "picture": {"kind": "boxes", "label": "Raise the difficulty", "row": [
+      {"box": "plain", "title": "bones", "sub": ["what they doubted"]},
+      {"conn": "or even"},
+      {"box": "plain", "title": "stone", "sub": []},
+      {"box": "plain", "title": "iron", "sub": []},
+      {"conn": "still"},
+      {"box": "idea", "title": "raised", "sub": []}]},
+    "key": {"label": "What limits Him", "row": [
+      {"box": "people", "title": "what I am made of", "sub": [], "strike": true},
+      {"box": "idea", "title": "nothing", "sub": ["when He wills a thing"]}]},
+    "then": "The reply to their doubt is a challenge. Ibn Kathir says stone and iron are {idea}harder to restore than bones and fragments{/idea}. Become whatever you want, Allah will still bring you back, because {idea}nothing can stop Him when He wills a thing{/idea}.",
+    "now": "You think some part of your life is set in stone. The hard heart. The broken marriage. The habit of twenty years. {reward}If He can raise iron to life, He can soften this.{/reward}",
+    "old": "Some things in me are too hard to ever change.",
+    "new": "Nothing is too hard for Allah to remake, including me.",
+    "try": "Name one thing in your life you think is set in stone. Ask Allah to change it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:51", "surah": 17, "ayah": 51, "place": "makkah",
+    "title": "Who will bring us back? The One who made you first.",
+    "subtitle": "The answer, the mocking nod, and maybe soon",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "people", "title": "who will restore us", "sub": []},
+      {"box": "idea", "title": "He who made you first", "sub": []},
+      {"box": "people", "title": "when?", "sub": ["heads shaking"]},
+      {"box": "idea", "title": "perhaps soon", "sub": []}]},
+    "key": {"label": "Which is harder", "row": [
+      {"box": "plain", "title": "making the first time", "sub": ["from nothing"]},
+      {"box": "idea", "title": "making again", "sub": ["easier for Him"]}]},
+    "then": "Ibn Kathir explains that He who created you {idea}when you were nothing{/idea} can create you anew. Ibn 'Abbas and Qatadah said shaking their heads was {trap}a gesture of mockery{/trap}. The answer to when is a warning: {idea}perhaps it is near{/idea}.",
+    "now": "Your phone shows your baby photos. Once you were not even that. {idea}You were made from nothing once already.{/idea} And the when question? No one gets a date. That is why today matters.",
+    "old": "The Day of Judgment is so far away that I do not need to think about it.",
+    "new": "The One who made me once will make me again, and it may be nearer than I think.",
+    "try": "Look at an old photo of yourself as a baby and remember who brought you into being.",
+    "related": ["30:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:52", "surah": 17, "ayah": 52, "place": "makkah",
+    "title": "Called out, you will rise praising, and life will feel short.",
+    "subtitle": "How long this world will seem afterwards",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "idea", "title": "He calls", "sub": ["one command"]},
+      {"conn": "you"},
+      {"box": "people", "title": "answer with praise", "sub": ["rising from the earth"]},
+      {"conn": "and think"},
+      {"box": "plain", "title": "only a little while", "sub": []}]},
+    "key": {"label": "How long life feels", "row": [
+      {"box": "people", "title": "endless", "sub": ["plenty of time"], "strike": true},
+      {"box": "idea", "title": "a little while", "sub": ["an afternoon or a morning"]}]},
+    "then": "Ibn Kathir explains it will be {idea}one definitive command{/idea}, and people will come out from the earth in response. Rising from their graves, {trap}they will think they stayed in this world only a little{/trap}. He cites verses where people say a day, or part of a day.",
+    "now": "Remember how fast your school years went. The last decade. The last Ramadan. {idea}Life on that Day will feel shorter than any of those.{/idea} The things you are putting off for later have less later than you think.",
+    "old": "I have a long life ahead, there is plenty of time to get serious.",
+    "new": "Life will feel like a short afternoon, so the time to begin is now.",
+    "try": "Do today one good thing you have been saving for someday.",
+    "related": ["79:46", "30:55", "23:112"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:53", "surah": 17, "ayah": 53, "place": "makkah",
+    "title": "Say the best words. Shaytan works through the gaps.",
+    "subtitle": "Speech among believers",
+    "picture": {"kind": "boxes", "label": "How it starts", "row": [
+      {"box": "trap", "title": "a harsh word", "sub": []},
+      {"conn": "Shaytan stirs"},
+      {"box": "trap", "title": "conflict", "sub": ["words lead to actions"]},
+      {"box": "idea", "title": "the best word", "sub": ["closes the gap"]}]},
+    "key": {"label": "Who is the enemy", "row": [
+      {"box": "people", "title": "my brother", "sub": ["he started it"], "strike": true},
+      {"box": "trap", "title": "Shaytan", "sub": ["a clear enemy to both"]}]},
+    "then": "The Prophet ﷺ is told to instruct the believers to {idea}speak to one another with the best and politest words{/idea}. Ibn Kathir explains that otherwise {trap}Shaytan sows discord, and words lead to actions and fights{/trap}. He cites the Prophet ﷺ forbidding anyone to point a weapon at his brother even in jest.",
+    "now": "The family group chat at 11pm. A sarcastic reply. A voice note with an edge. By morning two siblings are not speaking. {trap}It started with one word.{/trap} {idea}The best word could have ended it.{/idea}",
+    "old": "I just say what I think, people should not be so sensitive.",
+    "new": "My words open or close the door for Shaytan, so I choose the best ones.",
+    "try": "Before sending one message today, reread it and change one word to a kinder one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:54", "surah": 17, "ayah": 54, "place": "makkah",
+    "title": "Your Lord knows you best. You were not sent as their keeper.",
+    "subtitle": "Leaving the outcome to Allah",
+    "picture": {"kind": "boxes", "label": "Roles", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["knows who deserves guidance"]},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["a warner, not a guardian"]},
+      {"box": "people", "title": "the people", "sub": ["mercy or punishment"]}]},
+    "key": {"label": "Whose job", "row": [
+      {"box": "trap", "title": "I must make them believe", "sub": [], "strike": true},
+      {"box": "idea", "title": "I convey, He guides", "sub": []}]},
+    "then": "Ibn Kathir explains that Allah {idea}knows best who deserves to be guided{/idea}, and His mercy includes helping a person to obey Him. The Prophet ﷺ was told {reward}We have sent you as a warner{/reward}, not as a guardian over them.",
+    "now": "Your brother has stopped praying. You have sent him reminders, lectures, links. You are exhausted and angry. {idea}You are not his keeper.{/idea} Speak kindly, pray for him, and leave the rest to the One who knows his heart.",
+    "old": "If the people I love do not change, I have failed.",
+    "new": "My job is to speak well and pray. Guidance is Allah's.",
+    "try": "Make a sincere dua today for one person you have been trying to change.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "17:55", "surah": 17, "ayah": 55, "place": "makkah",
+    "title": "He knows everyone in heaven and earth, and ranked the prophets.",
+    "subtitle": "Preference is His choice, not our whims",
+    "picture": {"kind": "boxes", "label": "His knowledge", "row": [
+      {"box": "idea", "title": "your Lord", "sub": ["knows all in heaven and earth"]},
+      {"box": "people", "title": "the prophets", "sub": ["some raised above others"]},
+      {"box": "reward", "title": "Dawud", "sub": ["given the Zabur"]}]},
+    "key": {"label": "Who ranks", "row": [
+      {"box": "trap", "title": "my favorite", "sub": ["by feeling or group"], "strike": true},
+      {"box": "idea", "title": "by evidence", "sub": ["Allah's choice"]}]},
+    "then": "Ibn Kathir explains that Allah knows each person's level of obedience. He preferred some prophets over others, but the hadith forbidding preference refers to {trap}preference based on whims and sectarian feeling{/trap}. Dawud was honored with the Zabur, which {reward}was made so easy for him he could finish it while his mount was being saddled{/reward}.",
+    "now": "Online, people argue about which scholar or which group is best, and it turns into tribal fights. {trap}Ranking out of loyalty.{/trap} {idea}Leave the ranking to Allah, and learn from all who carried His message.{/idea}",
+    "old": "My group and my teachers are simply better than the rest.",
+    "new": "Allah knows who is above whom, and my job is to learn, not to take sides.",
+    "try": "Learn one thing today about a prophet you know little about, like Dawud.",
+    "related": ["2:253", "33:7", "42:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

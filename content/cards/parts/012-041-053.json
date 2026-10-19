@@ -1,0 +1,264 @@
+[
+  {
+    "id": "12:41", "surah": 12, "ayah": 41, "place": "makkah",
+    "title": "Two dreams, two endings, told with care.",
+    "subtitle": "Yusuf delivers good news and hard news gently",
+    "picture": {"kind": "boxes", "label": "The interpretation", "row": [
+      {"box": "reward", "title": "the wine-server", "sub": ["will serve his master again"]},
+      {"box": "trap", "title": "the baker", "sub": ["will be executed"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "decided", "sub": ["the matter is settled"]}]},
+    "key": {"label": "How he said it", "row": [
+      {"box": "trap", "title": "blunt and direct", "sub": ["you will die"], "strike": true},
+      {"box": "idea", "title": "one of you", "sub": ["softened for the one who grieves"]}]},
+    "then": "Yusuf told them: one of you will pour wine for his master, the other will be crucified. Ibn Kathir notes he {idea}did not address either man directly{/idea}, so the second would grieve less. When they claimed they had seen nothing, he said {trap}the matter is decided.{/trap}",
+    "now": "The doctor who has to give bad news in the corridor. The manager telling a team about layoffs. You have to tell a friend something they will not want to hear. {idea}Truth does not have to be delivered like a blow.{/idea}",
+    "old": "Honesty means saying it straight, however it lands.",
+    "new": "I can tell the whole truth and still choose words that spare the heart.",
+    "try": "Before you share difficult news with someone today, take one breath and soften the first sentence.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:42", "surah": 12, "ayah": 42, "place": "makkah",
+    "title": "Mention me to your master, he asked, but he forgot.",
+    "subtitle": "A small request, forgotten for years",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "people", "title": "Yusuf", "sub": ["mention me to the king"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the freed man", "sub": ["walks out"]},
+      {"conn": "Shaytan makes him"},
+      {"box": "trap", "title": "forget", "sub": ["several more years inside"]}]},
+    "key": {"label": "What the delay was", "row": [
+      {"box": "trap", "title": "wasted years", "sub": ["no one remembered"], "strike": true},
+      {"box": "idea", "title": "waiting for the right door", "sub": ["the king's dream was coming"]}]},
+    "then": "Yusuf knew which man would go free and asked him: {idea}mention me to your king.{/idea} But the man {trap}forgot, a plot of Shaytan{/trap}, and Yusuf stayed in prison for several more years. Mujahid and Qatadah said the word used means between three and nine years.",
+    "now": "You sent the CV and the contact promised to pass it on. You asked a cousin to put in a word. Months pass. Nothing. {idea}People forget. Allah does not.{/idea} Your name is still on His list.",
+    "old": "If the person I counted on forgets me, I am stuck.",
+    "new": "People forget, but the delay can be leading to a better door.",
+    "try": "Think of a favor someone promised and forgot. Forgive it quietly and make dua for the outcome.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:43", "surah": 12, "ayah": 43, "place": "makkah",
+    "title": "The king dreamed, and his whole court was lost.",
+    "subtitle": "Seven fat cows, seven lean ones",
+    "picture": {"kind": "boxes", "label": "The king's dream", "row": [
+      {"box": "reward", "title": "7", "sub": ["fat cows"], "num": true},
+      {"conn": "eaten by"},
+      {"box": "trap", "title": "7", "sub": ["lean cows"], "num": true},
+      {"box": "people", "title": "green and dry ears", "sub": ["seven of each"]}]},
+    "key": {"label": "What the dream really was", "row": [
+      {"box": "people", "title": "a strange night", "sub": ["just a dream"], "strike": true},
+      {"box": "idea", "title": "the key to the cell", "sub": ["Yusuf's way out"]}]},
+    "then": "The king of Egypt saw a dream that left him {trap}astonished and afraid{/trap}. He gathered priests, chiefs and princes and asked them to explain it. Ibn Kathir says Allah made this dream {idea}the reason for Yusuf's release{/idea}, with his honor preserved.",
+    "now": "A problem lands on the desk of the most powerful person in the building, and nobody can solve it. You, in the back office, might have the answer. {idea}Allah can turn someone else's worry into your opening.{/idea}",
+    "old": "The powerful people have nothing to do with my little situation.",
+    "new": "Allah can move a king's sleep to open a prisoner's door.",
+    "try": "Write down one closed door in your life and leave it with Allah in dua tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:44", "surah": 12, "ayah": 44, "place": "makkah",
+    "title": "Mixed-up dreams, the experts said, and we do not know.",
+    "subtitle": "The court brushes off what it cannot explain",
+    "picture": {"kind": "boxes", "label": "The court's answer", "row": [
+      {"box": "people", "title": "the experts", "sub": ["priests and chiefs"]},
+      {"conn": "say"},
+      {"box": "trap", "title": "jumbled dreams", "sub": ["it means nothing"]},
+      {"box": "people", "title": "not our field", "sub": ["we cannot interpret"]}]},
+    "key": {"label": "What they did", "row": [
+      {"box": "trap", "title": "it is meaningless", "sub": ["blame the question"], "strike": true},
+      {"box": "idea", "title": "we do not know", "sub": ["the honest part"]}]},
+    "then": "The king's advisers had no answer. Ibn Kathir says that {trap}as an excuse{/trap}, they called it a jumble of false dreams. They added that they were not skilled in interpreting dreams. {idea}Their failure set the stage{/idea} for the man who knew Yusuf to remember.",
+    "now": "In the meeting, someone asks a question no one can answer, so the room decides it was a silly question. You do it too, with a hard question from your child. {idea}I do not know is a better answer than it does not matter.{/idea}",
+    "old": "If I cannot explain it, it probably means nothing.",
+    "new": "Not knowing is honest, dismissing the question to hide it is not.",
+    "try": "The next time you do not know an answer today, simply say I do not know.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:45", "surah": 12, "ayah": 45, "place": "makkah",
+    "title": "After years, the forgetful man finally remembered.",
+    "subtitle": "The right memory at the right moment",
+    "picture": {"kind": "boxes", "label": "The memory returns", "row": [
+      {"box": "trap", "title": "years of forgetting", "sub": ["Yusuf still in prison"]},
+      {"conn": "then"},
+      {"box": "people", "title": "the freed man", "sub": ["I can tell you, send me"]},
+      {"conn": "to"},
+      {"box": "idea", "title": "Yusuf", "sub": ["the one who knows"]}]},
+    "key": {"label": "The timing", "row": [
+      {"box": "trap", "title": "too late", "sub": ["he should have spoken years ago"], "strike": true},
+      {"box": "reward", "title": "just in time", "sub": ["when the king needed him"]}]},
+    "then": "The man who had left prison {trap}forgot Yusuf for years{/trap}. Now, hearing the court fail, he remembered. Ibn Kathir says he told the king and his circle: {idea}I will tell you its meaning, so send me{/idea} to Yusuf, the man of truth.",
+    "now": "You applied years ago and heard nothing. Then one day the call comes, exactly when the company is desperate. {reward}The memory came back when it would count most.{/reward} {idea}Delays are not always denials.{/idea}",
+    "old": "If it did not happen when I wanted, it was never going to.",
+    "new": "Allah brings the forgotten thing back to mind at the moment it matters most.",
+    "try": "Message one person you forgot to follow up with. Today might be their right moment.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:46", "surah": 12, "ayah": 46, "place": "makkah",
+    "title": "He called him the man of truth.",
+    "subtitle": "Yusuf's reputation survived the prison walls",
+    "picture": {"kind": "boxes", "label": "At the prison", "row": [
+      {"box": "people", "title": "the messenger", "sub": ["back after years"]},
+      {"conn": "addresses"},
+      {"box": "idea", "title": "Yusuf, man of truth", "sub": ["not prisoner, not slave"]},
+      {"conn": "so that"},
+      {"box": "people", "title": "the people", "sub": ["may know"]}]},
+    "key": {"label": "What people remembered", "row": [
+      {"box": "trap", "title": "the accusation", "sub": ["why he was jailed"], "strike": true},
+      {"box": "reward", "title": "his honesty", "sub": ["what stuck"]}]},
+    "then": "The freed man went to the prison and greeted Yusuf as {reward}the man of truth{/reward}. He repeated the king's dream word for word so he could {idea}return to the people and they might know.{/idea} The man who had forgotten Yusuf still remembered his character.",
+    "now": "Years after you left a job, a former colleague still says: ask them, they are honest. {reward}That is the reputation that outlives the CV.{/reward} The title people give you when you are not in the room.",
+    "old": "Being stuck somewhere low erases who I am.",
+    "new": "A truthful character keeps its name, even inside a prison.",
+    "try": "Keep one small promise today exactly as you said it, even if no one checks.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:47", "surah": 12, "ayah": 47, "place": "makkah",
+    "title": "Sow for seven years, store it, and eat a little.",
+    "subtitle": "Yusuf turns a dream into a plan",
+    "picture": {"kind": "boxes", "label": "Years of plenty", "row": [
+      {"box": "reward", "title": "7", "sub": ["good years of farming"], "num": true},
+      {"conn": "then"},
+      {"box": "idea", "title": "leave it in the ear", "sub": ["it keeps longer"]},
+      {"box": "people", "title": "eat a little", "sub": ["no waste"]}]},
+    "key": {"label": "What he gave them", "row": [
+      {"box": "people", "title": "only a meaning", "sub": ["here is what it says"], "strike": true},
+      {"box": "idea", "title": "a meaning and a plan", "sub": ["here is what to do"]}]},
+    "then": "Yusuf explained the dream {idea}without blaming the man for forgetting him{/idea} and without asking for release first. Ibn Kathir says the cows were years. He advised them to {reward}store the harvest in its ears{/reward} to keep it healthy, eat only what they needed, and avoid extravagance.",
+    "now": "Payday. The bonus. The good month at the shop. {trap}It is tempting to spend it all because times are good.{/trap} {idea}Yusuf's advice: enjoy a little, save the rest in a way that lasts.{/idea}",
+    "old": "When things are good, I can relax and spend.",
+    "new": "The good years are the time to prepare for the hard ones.",
+    "try": "Put aside one small amount today, money, food, or time, for a harder day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:48", "surah": 12, "ayah": 48, "place": "makkah",
+    "title": "Then seven hard years will eat what you saved.",
+    "subtitle": "The lean cows explained",
+    "picture": {"kind": "boxes", "label": "Years of drought", "row": [
+      {"box": "trap", "title": "7", "sub": ["hard years"], "num": true},
+      {"conn": "consume"},
+      {"box": "reward", "title": "the store", "sub": ["what you laid by"]},
+      {"box": "people", "title": "a little left", "sub": ["kept as seed"]}]},
+    "key": {"label": "Why save", "row": [
+      {"box": "trap", "title": "the store was wasted", "sub": ["it all got eaten"], "strike": true},
+      {"box": "reward", "title": "the store saved them", "sub": ["that is what it was for"]}]},
+    "then": "Yusuf told them {trap}seven years of drought{/trap} would follow, the lean cows eating the fat ones. Ibn Kathir says nothing planted then would grow. They would live on {reward}what they had stored{/reward}, except a little they kept back.",
+    "now": "The emergency fund that goes in one month when the car breaks and the boiler fails. It feels like it vanished. {reward}It did exactly its job.{/reward} {idea}Saving is not lost when a hard season uses it up.{/idea}",
+    "old": "If my savings get used up, it was all for nothing.",
+    "new": "What I stored in good times is what carries me through hard ones.",
+    "try": "Thank Allah for one past hard season that something you prepared got you through.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:49", "surah": 12, "ayah": 49, "place": "makkah",
+    "title": "After the drought, a year of rain and pressing.",
+    "subtitle": "Good news the dream did not even show",
+    "picture": {"kind": "boxes", "label": "The full picture", "row": [
+      {"box": "reward", "title": "7 good", "sub": ["sow and store"]},
+      {"box": "trap", "title": "7 hard", "sub": ["live on the store"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "1 year of rain", "sub": ["oil and grapes pressed"]}]},
+    "key": {"label": "Where it ends", "row": [
+      {"box": "trap", "title": "hardship forever", "sub": ["it only gets worse"], "strike": true},
+      {"box": "reward", "title": "relief after", "sub": ["rain comes again"]}]},
+    "then": "Yusuf added something the king had not asked about. Ibn Kathir says he gave them {reward}good news{/reward}: after the years of drought would come a year of {idea}abundant rain{/idea}, when the land would produce again and people would press oil and grapes as usual.",
+    "now": "The year of chemo. The long unemployment. The season of grief. {trap}It feels like it will never lift.{/trap} {reward}Yusuf's answer ends with rain.{/reward} Hard years are counted, not endless.",
+    "old": "This hard season is just how life is now.",
+    "new": "Hardship has a number, and after it comes rain.",
+    "try": "Tell someone going through a hard time one hopeful thing you truly believe.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:50", "surah": 12, "ayah": 50, "place": "makkah",
+    "title": "Freedom was offered, and he said: first clear my name.",
+    "subtitle": "Yusuf refuses to leave until the truth is known",
+    "picture": {"kind": "boxes", "label": "At the prison door", "row": [
+      {"box": "reward", "title": "the king", "sub": ["bring him to me"]},
+      {"conn": "but Yusuf says"},
+      {"box": "idea", "title": "go back", "sub": ["ask about the women"]},
+      {"box": "people", "title": "my Lord knows", "sub": ["their plot"]}]},
+    "key": {"label": "What he wanted", "row": [
+      {"box": "people", "title": "just get out", "sub": ["take the offer fast"], "strike": true},
+      {"box": "idea", "title": "leave with honor", "sub": ["innocence declared"]}]},
+    "then": "The king wanted Yusuf brought to him. Ibn Kathir says Yusuf {idea}refused to leave until his innocence was declared{/idea}, so all would know the prison was an injustice. The Prophet ﷺ praised his patience, saying that if he had stayed in prison as long, {reward}he would have accepted the offer{/reward}.",
+    "now": "You were let go after a false complaint. Now they want you back, quietly, no questions asked. {idea}Sometimes the right move is to ask for the record to be corrected first.{/idea} Your name matters, not just your exit.",
+    "old": "When a door opens, grab it before it closes.",
+    "new": "Leaving with my name cleared can be worth more than leaving early.",
+    "try": "If there is a misunderstanding about you, ask calmly for it to be cleared, without anger.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:51", "surah": 12, "ayah": 51, "place": "makkah",
+    "title": "Now the truth is out: it was I who tried.",
+    "subtitle": "The confession, years later",
+    "picture": {"kind": "boxes", "label": "The king's inquiry", "row": [
+      {"box": "people", "title": "the women", "sub": ["we know no evil of him"]},
+      {"box": "people", "title": "the 'Aziz's wife", "sub": ["it was I"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "the truth", "sub": ["plain to all"]}]},
+    "key": {"label": "What time did", "row": [
+      {"box": "trap", "title": "the lie wins", "sub": ["it has been years"], "strike": true},
+      {"box": "idea", "title": "the truth surfaces", "sub": ["from the one who lied"]}]},
+    "then": "The king gathered the women who cut their hands and asked what happened. They said: {idea}Allah forbid, we know no evil against him.{/idea} Then the 'Aziz's wife said: {reward}now the truth is plain.{/reward} It was I who sought to seduce him, and he is truthful.",
+    "now": "Years after the falling out, the person who spread the story finally admits it was not true. Or you are the one who should admit it. {idea}The truth has a way of coming out, and saying it yourself is a mercy.{/idea}",
+    "old": "Too much time has passed for the truth to matter now.",
+    "new": "It is never too late for the truth to come out, even from my own mouth.",
+    "try": "If you once told a story that hurt someone unfairly, correct it with one person this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:52", "surah": 12, "ayah": 52, "place": "makkah",
+    "title": "Allah does not let the betrayers' plan succeed.",
+    "subtitle": "The confession and why it was made",
+    "picture": {"kind": "boxes", "label": "Why she spoke", "row": [
+      {"box": "people", "title": "so he knows", "sub": ["no betrayal in his absence"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "the betrayers' plot", "sub": ["Allah does not guide it"]}]},
+    "key": {"label": "How plots end", "row": [
+      {"box": "trap", "title": "clever plots win", "sub": ["if well hidden"], "strike": true},
+      {"box": "idea", "title": "betrayal gets nowhere", "sub": ["Allah does not guide it"]}]},
+    "then": "Ibn Kathir's stronger view is that the 'Aziz's wife continued: I admit this {idea}so my husband knows I did not betray him in his absence{/idea}, and nothing happened. Others said Yusuf said these words. Either way, the verse sets a rule: {trap}Allah does not guide the plot of the betrayers.{/trap}",
+    "now": "The colleague who undermines you in emails you never see. The secret you are keeping from your spouse. {trap}Plots built on betrayal seem to work for a while.{/trap} {idea}They never get where they wanted to go.{/idea}",
+    "old": "If no one finds out, it does not matter.",
+    "new": "Betrayal behind someone's back has no path to real success.",
+    "try": "Do one thing today you would be fine with the other person seeing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:53", "surah": 12, "ayah": 53, "place": "makkah",
+    "title": "I do not claim my self is innocent.",
+    "subtitle": "The soul pulls toward wrong, unless Allah has mercy",
+    "picture": {"kind": "boxes", "label": "Inside a person", "row": [
+      {"box": "trap", "title": "the self", "sub": ["urges toward evil"]},
+      {"conn": "except"},
+      {"box": "reward", "title": "my Lord's mercy", "sub": ["on whom He wills"]},
+      {"box": "idea", "title": "Forgiving, Merciful", "sub": ["the door back"]}]},
+    "key": {"label": "How to see yourself", "row": [
+      {"box": "people", "title": "I am basically fine", "sub": ["it was the situation"], "strike": true},
+      {"box": "idea", "title": "I need His mercy", "sub": ["and He forgives"]}]},
+    "then": "In Ibn Kathir's stronger view, the 'Aziz's wife said: {idea}I do not free myself from blame.{/idea} The soul wishes and desires, and that is what drove her. She ended with hope: {reward}my Lord is Forgiving, Most Merciful.{/reward}",
+    "now": "You snapped at your kids, then blamed the traffic. You scrolled what you should not, then blamed the algorithm. {idea}Owning it is the first step back.{/idea} And the One you return to is Forgiving.",
+    "old": "I only did it because of the situation I was in.",
+    "new": "My own self pulls me toward wrong, and only Allah's mercy keeps me.",
+    "try": "Tonight, name one mistake from today without an excuse, and ask Allah to forgive it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

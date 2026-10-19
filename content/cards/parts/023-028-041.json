@@ -1,0 +1,283 @@
+[
+  {
+    "id": "23:28", "surah": 23, "ayah": 28, "place": "makkah",
+    "title": "Once aboard, the first words are praise.",
+    "subtitle": "Thanking Allah at the moment of rescue",
+    "picture": {"kind": "boxes", "label": "On the deck", "row": [
+      {"box": "people", "title": "Nuh and those with him", "sub": ["settled on the ship"]},
+      {"conn": "say"},
+      {"box": "idea", "title": "alhamdulillah", "sub": ["who saved us"]}]},
+    "key": {"label": "First reaction", "row": [
+      {"box": "trap", "title": "relief, then forget", "sub": ["back to normal"], "strike": true},
+      {"box": "idea", "title": "praise right away", "sub": ["name who saved you"]}]},
+    "then": "Allah taught Nuh what to say once settled on the ship: {idea}praise be to Allah who saved us from the wrongdoing people.{/idea} Ibn Kathir links this to the verse telling riders to {reward}remember the favor of their Lord{/reward} when they mount.",
+    "now": "The test results come back clear. The job offer arrives. The car skids and stops just in time. {trap}A breath of relief, and then you are on your phone telling everyone.{/trap} {idea}The first word belongs to Allah.{/idea}",
+    "old": "When things work out, I move on.",
+    "new": "When I am saved from something, praise is my first word.",
+    "try": "The next time something goes right today, say alhamdulillah out loud before telling anyone.",
+    "related": ["43:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:29", "surah": 23, "ayah": 29, "place": "makkah",
+    "title": "Ask Him for a blessed place to land.",
+    "subtitle": "A dua for the end of every journey",
+    "picture": {"kind": "boxes", "label": "Start and end", "row": [
+      {"box": "idea", "title": "set off", "sub": ["in the name of Allah"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "land", "sub": ["at a blessed place"]}]},
+    "key": {"label": "Where you arrive", "row": [
+      {"box": "people", "title": "I just need to get there", "sub": [], "strike": true},
+      {"box": "idea", "title": "let it be blessed", "sub": ["He is best at bringing to land"]}]},
+    "then": "Nuh was taught a dua: {reward}My Lord, let me land at a blessed landing place, You are the best to bring to land.{/reward} Ibn Kathir notes that {idea}Nuh mentioned Allah at the beginning of his journey and at its end{/idea}.",
+    "now": "Moving to a new city. Starting a new school. Walking into a new job on Monday. {idea}You plan the move, but you can ask for the landing to be blessed.{/idea}",
+    "old": "As long as I arrive, that is enough.",
+    "new": "Where I land matters, and I can ask Allah to make it blessed.",
+    "try": "Before your next new beginning, even a small one, recite: Rabbi anzilni munzalan mubarakan.",
+    "related": ["11:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:30", "surah": 23, "ayah": 30, "place": "makkah",
+    "title": "In that are signs, and testing never stops.",
+    "subtitle": "The flood as evidence and as a test",
+    "picture": {"kind": "boxes", "label": "What the story shows", "row": [
+      {"box": "reward", "title": "believers saved", "sub": []},
+      {"box": "trap", "title": "deniers drowned", "sub": []},
+      {"conn": "are"},
+      {"box": "idea", "title": "signs", "sub": ["the Prophets spoke truth"]}]},
+    "key": {"label": "Why it happens", "row": [
+      {"box": "people", "title": "just old history", "sub": [], "strike": true},
+      {"box": "idea", "title": "We are ever testing", "sub": ["through Messengers, still"]}]},
+    "then": "Ibn Kathir says the saving of the believers and the end of the deniers are {idea}clear proof that the Prophets speak the truth{/idea}. And {trap}We are ever putting people to the test{/trap} means Allah tries His servants by sending Messengers.",
+    "now": "You hear a story from the Quran at a halaqa and think, what a dramatic time to live. {idea}The verse says the test is not over. It is yours now, in quieter clothes.{/idea}",
+    "old": "Prophets' stories are about other people long ago.",
+    "new": "The same test runs through my life, in how I answer the message.",
+    "try": "Ask yourself honestly today: if I had lived in Nuh's town, which side would my habits put me on?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:31", "surah": 23, "ayah": 31, "place": "makkah",
+    "title": "A new generation, the same choice.",
+    "subtitle": "After Nuh's people, another nation",
+    "picture": {"kind": "boxes", "label": "History repeats", "row": [
+      {"box": "people", "title": "Nuh's people", "sub": ["gone"]},
+      {"conn": "then"},
+      {"box": "people", "title": "another generation", "sub": ["Ad or Thamud"]},
+      {"conn": "faces"},
+      {"box": "idea", "title": "the same call", "sub": []}]},
+    "key": {"label": "What changes", "row": [
+      {"box": "people", "title": "the people", "sub": ["new faces, new place"]},
+      {"box": "idea", "title": "not the choice", "sub": ["accept or reject"]}]},
+    "then": "After Nuh's people, Allah raised another nation. Ibn Kathir says {idea}some said it was Ad, as the successors of Nuh's people; others said Thamud{/idea}, because of the shout that seized them. The point is the pattern, not the name.",
+    "now": "Your grandparents had their tests, your parents had theirs. {idea}You are the new generation now.{/idea} The world looks different, but the choice in front of you is the same one.",
+    "old": "My generation is different. The old lessons do not fit.",
+    "new": "Each generation gets the same choice in new clothes.",
+    "try": "Ask an elder in your family what test of faith they faced when young. Listen fully.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:32", "surah": 23, "ayah": 32, "place": "makkah",
+    "title": "A messenger from among them, with the same words.",
+    "subtitle": "The message repeated word for word",
+    "picture": {"kind": "boxes", "label": "Same message", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["worship Allah"]},
+      {"box": "people", "title": "the next messenger", "sub": ["worship Allah"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "no god but Him", "sub": ["will you not fear Him?"]}]},
+    "key": {"label": "Where he came from", "row": [
+      {"box": "trap", "title": "a stranger", "sub": ["easy to dismiss"], "strike": true},
+      {"box": "idea", "title": "one of their own", "sub": ["they knew him"]}]},
+    "then": "Allah sent this nation {idea}a messenger from among themselves{/idea}, with exactly Nuh's words: {idea}worship Allah, you have no god but Him.{/idea} Ibn Kathir says he called them to worship Allah alone, {trap}but they belied him and refused to follow him.{/trap}",
+    "now": "Sometimes the reminder comes from your own sister, your old classmate, the uncle you grew up with. {trap}Familiar voices are the easiest to ignore.{/trap}",
+    "old": "I know them too well to take them seriously.",
+    "new": "The truth often comes from someone close, in words I have heard before.",
+    "try": "Thank someone close to you who once reminded you of Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:33", "surah": 23, "ayah": 33, "place": "makkah",
+    "title": "He eats what you eat, so why listen?",
+    "subtitle": "Comfortable chiefs dismiss an ordinary messenger",
+    "picture": {"kind": "boxes", "label": "Who objected", "row": [
+      {"box": "people", "title": "the chiefs", "sub": ["given luxury"]},
+      {"box": "trap", "title": "denied the Hereafter", "sub": []},
+      {"conn": "said"},
+      {"box": "trap", "title": "eats, drinks like you", "sub": ["nothing special"]}]},
+    "key": {"label": "What comfort did", "row": [
+      {"box": "reward", "title": "luxury", "sub": ["a gift from Allah"]},
+      {"conn": "turned into"},
+      {"box": "trap", "title": "deafness", "sub": ["no need to listen"]}]},
+    "then": "The verse names who spoke: {trap}the chiefs who denied the meeting of the Hereafter{/trap}, and whom Allah had {reward}given the luxuries of worldly life{/reward}. Their argument: he eats and drinks like you. Ibn Kathir says they refused a human messenger.",
+    "now": "The more comfortable life gets, the easier it is to wave away reminders. Full fridge, good salary, holidays booked. {trap}Who needs a warning when everything works?{/trap}",
+    "old": "Life is going well, so I do not need reminding.",
+    "new": "Comfort is a gift, and it can quietly make me stop listening.",
+    "try": "On a good day this week, make a short dua thanking Allah and asking Him to keep your heart soft.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:34", "surah": 23, "ayah": 34, "place": "makkah",
+    "title": "Obey a man like you, and you lose, they said.",
+    "subtitle": "Pride dressed up as caution",
+    "picture": {"kind": "boxes", "label": "Their warning", "row": [
+      {"box": "people", "title": "follow him", "sub": []},
+      {"conn": "means"},
+      {"box": "trap", "title": "you lose", "sub": ["status, freedom, face"]}]},
+    "key": {"label": "Who really lost", "row": [
+      {"box": "trap", "title": "the followers", "sub": ["so the chiefs claimed"], "strike": true},
+      {"box": "idea", "title": "the deniers", "sub": ["as the story shows"]}]},
+    "then": "The chiefs warned their people: {trap}if you obey a human being like yourselves, you will be losers.{/trap} They framed following truth as a loss. The next verses show {idea}who actually lost.{/idea}",
+    "now": "\"If you start praying at work, people will think you're weird.\" \"If you stop drinking, you'll lose your friends.\" {trap}Loss is the first fear used against good change.{/trap}",
+    "old": "Following this will cost me too much.",
+    "new": "The real loss is walking away from the truth to protect my image.",
+    "try": "Name one good change you avoid because of what others might think. Take its smallest first step.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:35", "surah": 23, "ayah": 35, "place": "makkah",
+    "title": "Dust and bones, brought out alive? they mocked.",
+    "subtitle": "Disbelief in being raised again",
+    "picture": {"kind": "boxes", "label": "Their doubt", "row": [
+      {"box": "plain", "title": "death", "sub": []},
+      {"box": "plain", "title": "dust and bones", "sub": []},
+      {"conn": "then?"},
+      {"box": "trap", "title": "alive again?", "sub": ["they laughed"]}]},
+    "key": {"label": "What they forgot", "row": [
+      {"box": "trap", "title": "dust cannot live", "sub": [], "strike": true},
+      {"box": "idea", "title": "you came from dust", "sub": ["verse 12 already said it"]}]},
+    "then": "Ibn Kathir says they {trap}denied the meeting with Allah and the idea of physical resurrection{/trap}. Their mocking question: will we come out alive after becoming dust and bones? The surah had already answered: {idea}you were made from clay the first time.{/idea}",
+    "now": "You walk through a graveyard on the way to the shops. Old names, worn stones. {idea}The question in this verse is quietly asked in your own mind.{/idea} The first eleven verses are its answer.",
+    "old": "Bringing the dead back sounds impossible.",
+    "new": "The One who made me from dust can remake me from dust.",
+    "try": "Visit a graveyard this week, or pass one slowly, and make a dua for those buried there.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:36", "surah": 23, "ayah": 36, "place": "makkah",
+    "title": "Far, so far, they said, pushing the promise away.",
+    "subtitle": "Calling the Hereafter unlikely",
+    "picture": {"kind": "boxes", "label": "Their reply", "row": [
+      {"box": "idea", "title": "the promise", "sub": ["resurrection"]},
+      {"conn": "pushed off as"},
+      {"box": "trap", "title": "far, far", "sub": ["very unlikely"]}]},
+    "key": {"label": "Distance", "row": [
+      {"box": "trap", "title": "it is far away", "sub": [], "strike": true},
+      {"box": "idea", "title": "it is one breath away", "sub": ["death is near"]}]},
+    "then": "They repeated the word twice: {trap}far, far is what you are promised.{/trap} Ibn Kathir explains: {trap}very unlikely{/trap}. Not an argument, just a feeling of distance.",
+    "now": "You are twenty-five, healthy, busy. The Hereafter feels like something for old people in hospital beds. {idea}Feeling far is not the same as being far.{/idea}",
+    "old": "The Hereafter is so distant it barely matters now.",
+    "new": "What feels far may be the closest thing in my future.",
+    "try": "Read verses 15 and 16 again today and let them feel near.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:37", "surah": 23, "ayah": 37, "place": "makkah",
+    "title": "This life is all there is, they insisted.",
+    "subtitle": "A worldview with no second chapter",
+    "picture": {"kind": "boxes", "label": "Their view", "row": [
+      {"box": "people", "title": "we live", "sub": []},
+      {"box": "people", "title": "we die", "sub": []},
+      {"conn": "and"},
+      {"box": "trap", "title": "no raising", "sub": ["nothing after"]}]},
+    "key": {"label": "Two maps of life", "row": [
+      {"box": "trap", "title": "only this world", "sub": ["live, die, done"]},
+      {"box": "idea", "title": "this world, then return", "sub": ["deeds carried forward"]}]},
+    "then": "Their creed in one line: {trap}there is nothing but our life of this world. We die and we live, and we will not be raised.{/trap} This is why the chiefs could enjoy their luxury without fear of account.",
+    "now": "\"You only live once.\" The ad, the song, the friend's caption under a holiday photo. {idea}It is the same sentence, three thousand years later.{/idea} The question is what it makes you do.",
+    "old": "I only live once, so grab what I can.",
+    "new": "I live once here, then return, so I live carefully.",
+    "try": "Next time you hear \"you only live once\", finish it in your head: and then I return to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:38", "surah": 23, "ayah": 38, "place": "makkah",
+    "title": "Call him a liar, and the matter feels closed.",
+    "subtitle": "Rejecting the messenger to avoid the message",
+    "picture": {"kind": "boxes", "label": "Their verdict", "row": [
+      {"box": "people", "title": "the messenger", "sub": []},
+      {"conn": "called"},
+      {"box": "trap", "title": "a liar about Allah", "sub": []},
+      {"conn": "so"},
+      {"box": "trap", "title": "we will not believe", "sub": []}]},
+    "key": {"label": "The shortcut", "row": [
+      {"box": "trap", "title": "discredit the speaker", "sub": ["then ignore the words"]},
+      {"box": "idea", "title": "examine the words", "sub": ["is it true?"]}]},
+    "then": "Ibn Kathir says they accused him of {trap}inventing a lie against Allah in his Message, his warnings, and his promise of resurrection{/trap}. Then the final word: {trap}we will not believe him.{/trap} The door was shut from their side.",
+    "now": "An imam's lecture goes viral with a clip of his mistake, and suddenly nothing he ever said counts. {idea}Discrediting a person can become a way to escape what they said.{/idea}",
+    "old": "If I can find a flaw in the speaker, I can ignore the message.",
+    "new": "Truth stands on its own, even when I dislike who said it.",
+    "try": "Think of one truth you rejected because of the messenger. Look at it again on its own.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:39", "surah": 23, "ayah": 39, "place": "makkah",
+    "title": "The second messenger prays the same prayer as Nuh.",
+    "subtitle": "My Lord, help me",
+    "picture": {"kind": "boxes", "label": "Same words, new mouth", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["help me, they deny me"]},
+      {"box": "people", "title": "this messenger", "sub": ["help me, they deny me"]},
+      {"conn": "to"},
+      {"box": "idea", "title": "the same Lord", "sub": []}]},
+    "key": {"label": "When alone", "row": [
+      {"box": "trap", "title": "I am the first to face this", "sub": [], "strike": true},
+      {"box": "idea", "title": "Prophets prayed this too", "sub": ["you are in good company"]}]},
+    "then": "Word for word, the messenger repeats Nuh's dua: {idea}my Lord, help me, because they have denied me.{/idea} Ibn Kathir says he {idea}asked his Lord to help him against his people.{/idea} The story shows the same tools in every age.",
+    "now": "You feel like the only one in the office keeping your values, the only one in your friend group who prays. {idea}You are using a prayer that Prophets used.{/idea}",
+    "old": "No one has ever felt as alone as I do here.",
+    "new": "Prophets felt this and turned to Allah with the same few words.",
+    "try": "When you next feel alone in doing right, say: Rabbi unsurni, and remember who said it first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:40", "surah": 23, "ayah": 40, "place": "makkah",
+    "title": "In a little while, they will regret it.",
+    "subtitle": "Regret arrives sooner than people think",
+    "picture": {"kind": "boxes", "label": "Allah's answer", "row": [
+      {"box": "people", "title": "the messenger's dua", "sub": []},
+      {"conn": "answered"},
+      {"box": "idea", "title": "after a little", "sub": []},
+      {"conn": "they become"},
+      {"box": "trap", "title": "regretful", "sub": []}]},
+    "key": {"label": "Timing of regret", "row": [
+      {"box": "trap", "title": "plenty of time to fix it", "sub": [], "strike": true},
+      {"box": "idea", "title": "a little while", "sub": ["regret comes soon"]}]},
+    "then": "Allah answered at once: {trap}in a little while, they will surely be regretful{/trap}. Ibn Kathir says the regret is {trap}for their opposition and stubborn rejection{/trap}. It came sooner than they imagined.",
+    "now": "The phone call you kept postponing to a sick relative. The apology you were going to make someday. {idea}A little while passes fast.{/idea} Regret is cheapest to avoid today.",
+    "old": "I have time. I will sort it out later.",
+    "new": "A little while is all anyone has. I can act before regret comes.",
+    "try": "Make the call or send the message you have been putting off, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:41", "surah": 23, "ayah": 41, "place": "makkah",
+    "title": "Proud chiefs became like debris after a flood.",
+    "subtitle": "The end of the comfortable deniers",
+    "picture": {"kind": "boxes", "label": "What remained", "row": [
+      {"box": "people", "title": "luxury, power", "sub": ["the chiefs"]},
+      {"conn": "seized by"},
+      {"box": "trap", "title": "the shout", "sub": ["in truth"]},
+      {"conn": "left as"},
+      {"box": "trap", "title": "stubble", "sub": ["of no use to anyone"]}]},
+    "key": {"label": "Who was wronged", "row": [
+      {"box": "trap", "title": "Allah was harsh", "sub": [], "strike": true},
+      {"box": "idea", "title": "they wronged themselves", "sub": ["We wronged them not"]}]},
+    "then": "Ibn Kathir says {trap}the shout overtook them, as they deserved{/trap}, and they became like the scum left by a flood, of no benefit to anyone. He cites: {idea}We wronged them not, but they were the wrongdoers.{/idea} He adds: let those who hear this beware.",
+    "now": "Everything you build to feel important, the title, the following, the house, can turn to stubble. {idea}What lasts is what you did with it.{/idea} The warning is for your own heart, today.",
+    "old": "My status and comfort make me safe.",
+    "new": "Without faith and good deeds, all of it is stubble after a flood.",
+    "try": "Look at one thing you are proud of and ask: how can I use it for good this week?",
+    "related": ["46:25", "43:76"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

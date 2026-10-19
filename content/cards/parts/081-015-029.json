@@ -1,0 +1,283 @@
+[
+  {
+    "id": "81:15", "surah": 81, "ayah": 15, "place": "makkah",
+    "title": "An oath by the stars that withdraw.",
+    "subtitle": "Stars that hide by day",
+    "picture": {"kind": "boxes", "label": "Al-Khunnas", "row": [
+      {"box": "people", "title": "the stars", "sub": ["shine at night"]},
+      {"conn": "withdraw"},
+      {"box": "plain", "title": "by day", "sub": ["hidden, still there"]}]},
+    "key": {"label": "Unseen is not absent", "row": [
+      {"box": "plain", "title": "I cannot see it", "sub": ["so it is not there"], "strike": true},
+      {"box": "idea", "title": "hidden but real", "sub": ["like stars at noon"]}]},
+    "then": "Ali was asked about this and said: {idea}these are the stars that withdraw during the day and sweep across the sky at night.{/idea} The Prophet ﷺ recited these verses in the Fajr prayer. {reward}The oath opens the case for the Quran.{/reward}",
+    "now": "At noon in the city you cannot see one star. They have not gone anywhere. {idea}Some true things are just out of view for now.{/idea} The unseen in the Quran is like that.",
+    "old": "If I cannot see something, I find it hard to believe in.",
+    "new": "Many true things are simply hidden for now, like stars in daylight.",
+    "try": "Step outside tonight, find one star, and remember it was there all day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:16", "surah": 81, "ayah": 16, "place": "makkah",
+    "title": "Stars that run their course and slip away.",
+    "subtitle": "Order in their appearing and vanishing",
+    "picture": {"kind": "boxes", "label": "Their movement", "row": [
+      {"box": "people", "title": "al-jawar", "sub": ["running their course"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "al-kunnas", "sub": ["slipping out of sight"]}]},
+    "key": {"label": "What the pattern shows", "row": [
+      {"box": "plain", "title": "random", "sub": [], "strike": true},
+      {"box": "idea", "title": "ordered", "sub": ["by a Lord who keeps time"]}]},
+    "then": "Ali described them as stars that {idea}sweep across the sky at night{/idea} and vanish by day. The oath is made by things that keep a precise schedule. {reward}The same Lord who sets their course sends the message that follows.{/reward}",
+    "now": "Your calendar app sends you the prayer time to the minute because the sky is that reliable. {idea}You trust its order every day without thinking.{/idea} The verse asks you to trust its Maker too.",
+    "old": "The order in the sky is just how things work.",
+    "new": "The sky's exact rhythm points to the One who set it.",
+    "try": "Pray one prayer today right at its start time, matching the sky's rhythm.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:17", "surah": 81, "ayah": 17, "place": "makkah",
+    "title": "By the night as it comes and goes.",
+    "subtitle": "A word that means both arriving and leaving",
+    "picture": {"kind": "boxes", "label": "As'as", "row": [
+      {"box": "people", "title": "night", "sub": ["advancing with darkness"]},
+      {"box": "people", "title": "night", "sub": ["retreating, turning away"]}]},
+    "key": {"label": "Two readings", "row": [
+      {"box": "idea", "title": "approaches", "sub": ["Ibn Kathir prefers"]},
+      {"box": "idea", "title": "departs", "sub": ["Ibn Abbas, Qatadah"]}]},
+    "then": "Mujahid said it means {idea}its darkening{/idea}, and Al-Hasan said when it covers the people. Ibn Abbas said when it goes away. Ibn Kathir notes the word is used for both, and {reward}it is correct that the intent could be both of them, and Allah knows best.{/reward}",
+    "now": "You sit up late with your thoughts as the house goes dark, and later watch the dark thin out at the window. {idea}Night always arrives and always leaves.{/idea} So do the heavy seasons of your life.",
+    "old": "This dark stretch in my life will never lift.",
+    "new": "Like the night, hard times come in and also turn away.",
+    "try": "Spend two minutes tonight in the dark making dua about one thing that weighs on you.",
+    "related": ["92:1", "93:1", "6:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:18", "surah": 81, "ayah": 18, "place": "makkah",
+    "title": "By the dawn when it takes its first breath.",
+    "subtitle": "Morning described as breathing",
+    "picture": {"kind": "boxes", "label": "Tanaffas", "row": [
+      {"box": "plain", "title": "the night", "sub": ["held still"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "dawn breathes", "sub": ["rises, brightens"]}]},
+    "key": {"label": "After the dark", "row": [
+      {"box": "trap", "title": "the dark is final", "sub": [], "strike": true},
+      {"box": "reward", "title": "light breathes in", "sub": ["every single day"]}]},
+    "then": "Ad-Dahhak said {reward}when it rises.{/reward} Qatadah said {idea}when it brightens and advances.{/idea} Right after the night oath, Allah swears by the morning, the way light seems to exhale across the sky.",
+    "now": "You are awake for Fajr after a rough night, eyes heavy. Then the sky starts going grey, then blue. {reward}It feels like the day is breathing.{/reward} You can breathe with it.",
+    "old": "Mornings are just the start of another tiring day.",
+    "new": "Each dawn is the world breathing again by Allah's command.",
+    "try": "After Fajr tomorrow, step outside or to a window and take three slow breaths as the light comes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:19", "surah": 81, "ayah": 19, "place": "makkah",
+    "title": "This is the word carried by a noble messenger.",
+    "subtitle": "What all the oaths were for",
+    "picture": {"kind": "boxes", "label": "The oaths lead to", "row": [
+      {"box": "plain", "title": "stars, night, dawn", "sub": ["the oaths"]},
+      {"conn": "for"},
+      {"box": "idea", "title": "the Quran", "sub": ["conveyed by Jibril"]}]},
+    "key": {"label": "Who brought it", "row": [
+      {"box": "trap", "title": "a madman's talk", "sub": ["what Makkah claimed"], "strike": true},
+      {"box": "reward", "title": "a noble angel", "sub": ["Jibril"]}]},
+    "then": "Ibn Kathir says {reward}this Quran is being conveyed by a noble messenger{/reward}, an honorable angel of good character, {idea}and he is Jibril.{/idea} Ibn Abbas, Al-Hasan, Qatadah and others said this. The surah turns from the Hereafter to prophethood.",
+    "now": "You trust a news story more if it comes from a reliable source. {idea}The Quran's chain starts with the most reliable messenger in the heavens.{/idea} It deserves at least as much of your trust as the morning headlines.",
+    "old": "The Quran is a good book, like many others.",
+    "new": "The Quran came from Allah through a noble, trusted messenger.",
+    "try": "Read the next few verses of this surah today, knowing who carried them down.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:20", "surah": 81, "ayah": 20, "place": "makkah",
+    "title": "Mighty in strength, high in rank with Allah.",
+    "subtitle": "The status of the one who brought it",
+    "picture": {"kind": "boxes", "label": "Jibril's qualities", "row": [
+      {"box": "reward", "title": "dhi quwwah", "sub": ["mighty in creation and action"]},
+      {"box": "reward", "title": "makin", "sub": ["high rank with the Lord of the Throne"]}]},
+    "key": {"label": "Strength and closeness", "row": [
+      {"box": "idea", "title": "powerful", "sub": ["can deliver it"]},
+      {"box": "idea", "title": "near Allah", "sub": ["entrusted with it"]}]},
+    "then": "Ibn Kathir links it to 53:5-6: {reward}mighty in creation, mighty in strength and mighty in actions.{/reward} With the Lord of the Throne he is makin, meaning {idea}he has high status and lofty rank with Allah.{/idea}",
+    "now": "A courier with a fragile package needs strong hands and a trusted name. {idea}The Quran was given to the strongest and most trusted carrier.{/idea} Nothing in it was dropped on the way to you.",
+    "old": "The message may have been weakened somewhere along the way.",
+    "new": "Allah chose a mighty, trusted angel so the message would arrive whole.",
+    "try": "Memorise or review one short verse today, carrying it carefully yourself.",
+    "related": ["53:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:21", "surah": 81, "ayah": 21, "place": "makkah",
+    "title": "Obeyed in the heavens and fully trustworthy.",
+    "subtitle": "A leader among angels, faithful with the message",
+    "picture": {"kind": "boxes", "label": "His standing", "row": [
+      {"box": "reward", "title": "obeyed there", "sub": ["listened to among the angels"]},
+      {"box": "reward", "title": "amin", "sub": ["trustworthy"]}]},
+    "key": {"label": "Two praised messengers", "row": [
+      {"box": "people", "title": "Jibril", "sub": ["the angelic messenger"]},
+      {"box": "people", "title": "Muhammad ﷺ", "sub": ["the human messenger"]}]},
+    "then": "Qatadah said Jibril is {reward}from the high ranking, prestigious angels{/reward}, chosen for this message. Ibn Kathir notes it is something very great that {idea}Allah commends His angelic messenger and His human messenger{/idea} in back-to-back verses.",
+    "now": "Someone at work hands you a confidential file because they trust you completely. {idea}Trustworthiness is the quality Allah praises here.{/idea} It is also the one you can practise today.",
+    "old": "Being reliable is a nice extra, not central to faith.",
+    "new": "Trustworthiness is a quality Allah praises in His greatest messengers.",
+    "try": "Keep one promise today exactly as you said you would, even a small one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:22", "surah": 81, "ayah": 22, "place": "makkah",
+    "title": "Your companion is not mad.",
+    "subtitle": "The man they knew all his life",
+    "picture": {"kind": "boxes", "label": "The accusation", "row": [
+      {"box": "people", "title": "Makkah says", "sub": ["he is possessed"]},
+      {"conn": "Allah answers"},
+      {"box": "reward", "title": "not mad", "sub": ["your companion"]}]},
+    "key": {"label": "The word companion", "row": [
+      {"box": "plain", "title": "a stranger", "sub": ["unknown to them"], "strike": true},
+      {"box": "idea", "title": "your companion", "sub": ["one they knew well"]}]},
+    "then": "Ash-Shabi, Abu Salih and others said {idea}this refers to Muhammad ﷺ.{/idea} The surah introduction notes the Makkans called his message the talk of a madman. {reward}Allah calls him their companion{/reward}, someone they had lived beside for years.",
+    "now": "When someone close to you starts praying again, the family laughs it off: he has gone a bit extreme. {idea}Labels are easier than listening.{/idea} The verse invites you to judge the message, not the label.",
+    "old": "If people call someone strange, there is probably something to it.",
+    "new": "A mocking label is not an argument. I can listen for myself.",
+    "try": "Next time someone is mocked for their faith around you, say one kind word about them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:23", "surah": 81, "ayah": 23, "place": "makkah",
+    "title": "He saw him on the clear horizon.",
+    "subtitle": "An eyewitness, not a guess",
+    "picture": {"kind": "boxes", "label": "The sighting", "row": [
+      {"box": "people", "title": "Muhammad ﷺ", "sub": ["at al-Batha, Makkah"]},
+      {"conn": "saw"},
+      {"box": "reward", "title": "Jibril", "sub": ["true form, six hundred wings"]}]},
+    "key": {"label": "Source of the message", "row": [
+      {"box": "trap", "title": "imagination", "sub": [], "strike": true},
+      {"box": "idea", "title": "witnessed", "sub": ["in the clear horizon"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ saw Jibril {reward}in the form that Allah created him in, with six hundred wings{/reward}, at al-Batha in Makkah. He links it to 53:5-10, and suggests this surah came {idea}before the Night Journey{/idea}, since only the first sighting is mentioned.",
+    "now": "You believe a friend who says, I saw it with my own eyes, more than someone who heard a rumour. {idea}The Prophet ﷺ was an eyewitness.{/idea} The message did not come from a hunch.",
+    "old": "Revelation sounds like something a person could imagine.",
+    "new": "The Prophet ﷺ saw the one who brought it, clearly, in daylight.",
+    "try": "Read about the first revelation today, from a reliable seerah book or talk.",
+    "related": ["53:5", "53:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:24", "surah": 81, "ayah": 24, "place": "makkah",
+    "title": "He did not hold back any of it.",
+    "subtitle": "Not guessing, not stingy",
+    "picture": {"kind": "boxes", "label": "Two recitations", "row": [
+      {"box": "idea", "title": "zanin", "sub": ["not following conjecture"]},
+      {"box": "idea", "title": "danin", "sub": ["not stingy with it"]}]},
+    "key": {"label": "What he did with the unseen", "row": [
+      {"box": "trap", "title": "kept it", "sub": ["for a select few"], "strike": true},
+      {"box": "reward", "title": "gave it all", "sub": ["to everyone who wanted it"]}]},
+    "then": "Ibn Kathir reports two confirmed recitations: he {idea}does not follow false conjecture{/idea}, and he is not stingy. Qatadah said the Prophet ﷺ {reward}did not withhold it from the people. He announced it, conveyed it, and offered it to everyone who wanted it.{/reward}",
+    "now": "You learned something beautiful in a class and kept it in your notes app. {reward}The Prophet ﷺ gave away everything he was given.{/reward} Sharing good knowledge is following him.",
+    "old": "What I learn about faith is mostly for me.",
+    "new": "Good knowledge is meant to be passed on freely, as the Prophet ﷺ did.",
+    "try": "Share one useful thing you learned about faith with one person today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:25", "surah": 81, "ayah": 25, "place": "makkah",
+    "title": "Not the word of an outcast devil.",
+    "subtitle": "A source Shaytan could never reach",
+    "picture": {"kind": "boxes", "label": "Who could not produce it", "row": [
+      {"box": "trap", "title": "Shaytan", "sub": ["outcast, expelled"]},
+      {"conn": "unable to"},
+      {"box": "reward", "title": "the Quran", "sub": ["beyond him"]}]},
+    "key": {"label": "Source", "row": [
+      {"box": "trap", "title": "evil whisper", "sub": [], "strike": true},
+      {"box": "idea", "title": "from Allah", "sub": ["via Jibril"]}]},
+    "then": "Ibn Kathir explains Shaytan {trap}is not able to produce it, nor is it befitting of him.{/trap} He cites 26:210-212: the devils {idea}have been removed far from hearing it.{/idea}",
+    "now": "Your feed is full of voices pulling you toward anger, envy, and wasted hours. {idea}The Quran pulls the opposite way.{/idea} You can tell a source by where it leads you.",
+    "old": "All spiritual voices sound roughly the same.",
+    "new": "The Quran leads toward good in a way no evil whisper ever could.",
+    "try": "When you notice an urge toward something harmful today, say a'udhu billah and pause.",
+    "related": ["26:210"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:26", "surah": 81, "ayah": 26, "place": "makkah",
+    "title": "So where are you going?",
+    "subtitle": "A question to stop you in the hallway",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "reward", "title": "clear truth", "sub": ["in front of you"]},
+      {"conn": "yet you"},
+      {"box": "trap", "title": "walk away", "sub": ["where to?"]}]},
+    "key": {"label": "Where reason went", "row": [
+      {"box": "trap", "title": "away from the Book", "sub": ["and obeying Allah"]},
+      {"box": "idea", "title": "back to it", "sub": ["the only clear road"]}]},
+    "then": "Ibn Kathir reads it as {trap}where has your reason gone{/trap}, rejecting what is clear. Abu Bakr asked the same of a delegation who recited Musaylimah's gibberish: {idea}where have your senses gone?{/idea} Qatadah said it means away from the Book of Allah.",
+    "now": "You pick up your phone to check one thing and look up forty minutes later. {idea}Where were you going?{/idea} The verse asks that about your whole life, gently but directly.",
+    "old": "I am drifting a bit, but I know where I am headed.",
+    "new": "I need to ask honestly where my days are taking me.",
+    "try": "Ask yourself once today, out loud: where am I going with this?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:27", "surah": 81, "ayah": 27, "place": "makkah",
+    "title": "A reminder for all the worlds.",
+    "subtitle": "Not for one tribe or one time",
+    "picture": {"kind": "boxes", "label": "Its reach", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["a reminder"]},
+      {"conn": "for"},
+      {"box": "people", "title": "all mankind", "sub": ["everywhere, every age"]}]},
+    "key": {"label": "Who it is for", "row": [
+      {"box": "plain", "title": "Makkah in 610", "sub": [], "strike": true},
+      {"box": "reward", "title": "you, today", "sub": ["also addressed"]}]},
+    "then": "Ibn Kathir explains {idea}this Quran is a reminder for all of mankind.{/idea} {reward}They are reminded by it and receive admonition from it.{/reward} The surah was first heard in Makkah, but it speaks past its first audience.",
+    "now": "You read the Quran like a history book about other people. {idea}It is addressed to you, on your commute, in your kitchen.{/idea} Read one verse as a message with your name on it.",
+    "old": "The Quran was mainly for the people it first came to.",
+    "new": "The Quran is a reminder written for me as much as for them.",
+    "try": "Read one verse today and ask: what is this telling me to do?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:28", "surah": 81, "ayah": 28, "place": "makkah",
+    "title": "For whoever wants to walk straight.",
+    "subtitle": "The desire to stand upright",
+    "picture": {"kind": "boxes", "label": "Who benefits", "row": [
+      {"box": "people", "title": "whoever wills", "sub": ["seeks guidance"]},
+      {"conn": "holds to"},
+      {"box": "reward", "title": "the Quran", "sub": ["salvation and guidance"]}]},
+    "key": {"label": "Where guidance is", "row": [
+      {"box": "plain", "title": "anywhere I like", "sub": [], "strike": true},
+      {"box": "idea", "title": "in this Book", "sub": ["hold on to it"]}]},
+    "then": "Ibn Kathir says {reward}whoever seeks guidance must adhere to this Quran, for it is his salvation and guidance.{/reward} The verse puts the wish to walk straight in human hands. {idea}Abu Jahl heard it and claimed the matter was entirely up to him.{/idea}",
+    "now": "You keep saying you want to be more consistent with prayer. {idea}Wanting is the first step the verse names.{/idea} The next step is opening the Book that shows the way.",
+    "old": "Wanting to be better is not worth much without results.",
+    "new": "Sincerely wanting to walk straight is where guidance begins.",
+    "try": "Write one sentence today about how you want to walk straighter, and keep it near you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "81:29", "surah": 81, "ayah": 29, "place": "makkah",
+    "title": "You will only will what Allah wills.",
+    "subtitle": "Your choice, held inside His will",
+    "picture": {"kind": "boxes", "label": "Two wills", "row": [
+      {"box": "people", "title": "your will", "sub": ["real, chosen"]},
+      {"conn": "within"},
+      {"box": "idea", "title": "Allah's will", "sub": ["Lord of the worlds"]}]},
+    "key": {"label": "Abu Jahl's claim", "row": [
+      {"box": "trap", "title": "it is up to us", "sub": ["we stand if we wish"], "strike": true},
+      {"box": "idea", "title": "only if Allah wills", "sub": ["so ask Him"]}]},
+    "then": "When the previous verse came, Abu Jahl said {trap}the matter is up to us. If we wish, we will stand straight.{/trap} Then this verse came. Ibn Kathir explains {idea}the will is not left to you all{/idea}; everything is according to the will of Allah.",
+    "now": "You set a goal on New Year's and feel sure you can keep it on willpower. {idea}This verse turns that confidence into a dua.{/idea} Want it, work for it, and ask Allah to make you want it more.",
+    "old": "If I just try hard enough, I will stay on track.",
+    "new": "My effort is real, but I need Allah to will my steadiness.",
+    "try": "Make this dua today: O Turner of hearts, keep my heart firm on Your religion.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "id": "7:196", "surah": 7, "ayah": 196, "place": "makkah",
+    "title": "My protector is the One who sent the Book.",
+    "subtitle": "The Prophet's answer to every threat",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "trap", "title": "call your partners", "sub": ["plot against me"]},
+      {"box": "trap", "title": "give me no respite", "sub": ["do your worst"]},
+      {"conn": "because"},
+      {"box": "reward", "title": "Allah protects me", "sub": ["and every righteous one"]}]},
+    "key": {"label": "Who keeps you safe", "row": [
+      {"box": "people", "title": "the strong side", "sub": ["numbers, connections"], "strike": true},
+      {"box": "reward", "title": "the Revealer of the Book", "sub": ["ally of the righteous"]}]},
+    "then": "The idolaters were told to call on their so-called partners and plot against the Prophet ﷺ without delay. His answer: {reward}my protector is Allah, who sent down the Book, and He protects the righteous.{/reward} Ibn Kathir explains: His support is enough for me, in this life and the next, {idea}and for every righteous believer after me.{/idea}",
+    "now": "A rumor is going around the office about you. People with more influence seem to be against you. {trap}You feel small and outnumbered.{/trap} {reward}The One who sent the Quran is the ally of those who do right.{/reward}",
+    "old": "I am safe only if the powerful people are on my side.",
+    "new": "If I stay righteous, Allah is my protector, and that is enough.",
+    "try": "When you feel outnumbered today, say quietly: my protector is Allah. Then do the right thing.",
+    "related": ["11:54", "26:75"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:197", "surah": 7, "ayah": 197, "place": "makkah",
+    "title": "They cannot help you. They cannot even help themselves.",
+    "subtitle": "The helplessness of false gods",
+    "picture": {"kind": "boxes", "label": "What the idols can do", "row": [
+      {"box": "trap", "title": "help you", "sub": ["no"], "strike": true},
+      {"box": "trap", "title": "help themselves", "sub": ["no"], "strike": true},
+      {"box": "trap", "title": "create a fly", "sub": ["not even together"], "strike": true}]},
+    "key": {"label": "A test of a god", "row": [
+      {"box": "people", "title": "honored and perfumed", "sub": ["so it must be powerful"], "strike": true},
+      {"box": "idea", "title": "cannot defend itself", "sub": ["so how can it defend you"]}]},
+    "then": "Ibn Kathir tells of Amr ibn Al-Jamuh, a chief in Madinah who perfumed his idol. Two young men, both named Muadh, kept overturning it at night. He left a sword by it and said, defend yourself. When they tied it to a dead dog and threw it in a well, {trap}he realized it could not even save itself{/trap}, and {reward}he accepted Islam and held firm to it.{/reward}",
+    "now": "You check the follower count, the salary, the savings, the right contact in your phone. {trap}You lean on them like they are holding you up.{/trap} {idea}Ask of each one: could it save itself?{/idea}",
+    "old": "The things I rely on are strong enough to protect me.",
+    "new": "Anything that cannot protect itself cannot truly protect me.",
+    "try": "Pick one thing you lean on too hard. Say: this is from Allah, not my protector.",
+    "related": ["22:73", "37:95", "21:58"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:198", "surah": 7, "ayah": 198, "place": "makkah",
+    "title": "Eyes that look at you but do not see.",
+    "subtitle": "Painted eyes, no sight",
+    "picture": {"kind": "boxes", "label": "The idols", "row": [
+      {"box": "people", "title": "called to guidance", "sub": ["no hearing"]},
+      {"box": "people", "title": "seem to look at you", "sub": ["no seeing"]}]},
+    "key": {"label": "Appearance and reality", "row": [
+      {"box": "trap", "title": "it looks alive", "sub": ["eyes, a face"], "strike": true},
+      {"box": "idea", "title": "it sees nothing", "sub": ["the worshipper sees more"]}]},
+    "then": "Ibn Kathir explains that the idols seem to face you but cannot see. {idea}The people who worship them are better than them{/idea}, because people hear, see and have strength. He cites Ibrahim asking his father, {trap}why worship what neither hears nor sees?{/trap}",
+    "now": "You keep going back to the app for comfort after a hard day. It glows. It seems to look back. {trap}It does not know you exist.{/trap} {idea}You were made to turn to the One who sees you.{/idea}",
+    "old": "Things that seem responsive must be meeting my needs.",
+    "new": "Something can face me all day and still not see me. Allah sees me.",
+    "try": "Tonight, put the phone face down for ten minutes and tell Allah about your day.",
+    "related": ["19:42"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:199", "surah": 7, "ayah": 199, "place": "makkah",
+    "title": "Forgive, call to good, walk away from fools.",
+    "subtitle": "Three rules for dealing with people",
+    "picture": {"kind": "boxes", "label": "The three", "row": [
+      {"box": "idea", "title": "take forgiveness", "sub": ["pardon people's character"]},
+      {"box": "idea", "title": "enjoin the good", "sub": ["what is right"]},
+      {"box": "idea", "title": "turn away", "sub": ["from the ignorant"]}]},
+    "key": {"label": "When someone is rude", "row": [
+      {"box": "trap", "title": "punish them", "sub": ["match their tone"], "strike": true},
+      {"box": "idea", "title": "let it pass", "sub": ["ignoring may end it"]}]},
+    "then": "Jibril explained this verse to the Prophet ﷺ: {idea}forgive those who wrong you, give to those who deprive you, keep ties with those who cut you.{/idea} Ibn Kathir tells how a man insulted Umar, who nearly punished him. His nephew recited this verse, and {reward}Umar did nothing more.{/reward}",
+    "now": "Someone leaves a rude comment under your post. Your thumb is already typing the clever reply. {trap}You want the last word.{/trap} {idea}Close the app. Let the fool have the last word. You keep your peace.{/idea}",
+    "old": "If I let rudeness pass, I look weak.",
+    "new": "Pardoning and walking away is strength, not weakness.",
+    "try": "The next time someone is rude today, say nothing back. Just wish them well inside.",
+    "related": ["23:96", "41:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:200", "surah": 7, "ayah": 200, "place": "makkah",
+    "title": "When anger is stirred, run to Allah.",
+    "subtitle": "The whisper that pushes you to retaliate",
+    "picture": {"kind": "boxes", "label": "What happens", "row": [
+      {"box": "people", "title": "you forgive", "sub": ["or try to"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a whisper", "sub": ["get angry, hit back"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "seek refuge", "sub": ["He hears, He knows"]}]},
+    "key": {"label": "Two kinds of enemy", "row": [
+      {"box": "people", "title": "the rude person", "sub": ["gentleness may soften him"]},
+      {"box": "trap", "title": "Shaytan", "sub": ["gentleness does not work"]}]},
+    "then": "Right after the command to forgive, Allah warns about the urge that pulls against it. Ibn Jarir explains: {trap}if Shaytan lures you to anger, away from forgiving the ignorant and toward punishing him{/trap}, then seek refuge in Allah. Ibn Kathir notes a human enemy may soften with kindness, but {idea}the devil only leaves when you take refuge.{/idea}",
+    "now": "Your sibling says the thing that always gets you. Your face heats up. Old fights replay in your head. {trap}That push is not only you.{/trap} {idea}Say a'udhu billah, take a breath, and step out of the room.{/idea}",
+    "old": "My anger is completely mine. I just have to let it out.",
+    "new": "Some of that push is a whisper, and I can ask Allah to shield me from it.",
+    "try": "Next time you feel anger rising, say a'udhu billahi min ash-shaytan ir-rajim before speaking.",
+    "related": ["41:36", "23:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:201", "surah": 7, "ayah": 201, "place": "makkah",
+    "title": "They remember, and suddenly they see clearly.",
+    "subtitle": "How the mindful recover",
+    "picture": {"kind": "boxes", "label": "The recovery", "row": [
+      {"box": "trap", "title": "an evil thought", "sub": ["anger, a whisper"]},
+      {"conn": "they"},
+      {"box": "idea", "title": "remember Allah", "sub": ["His promise and warning"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "they see", "sub": ["aware of the error"]}]},
+    "key": {"label": "What taqwa looks like", "row": [
+      {"box": "people", "title": "never tempted", "sub": ["a perfect person"], "strike": true},
+      {"box": "idea", "title": "quick to remember", "sub": ["touched, then turning back"]}]},
+    "then": "Ibn Kathir describes the people of taqwa: when an evil thought, anger, or the intention to do wrong crosses their mind, {idea}they remember Allah's punishment and His great reward{/idea}, repent and seek refuge. {reward}Then they see aright{/reward}, aware of the error of their ways.",
+    "now": "You are halfway through typing the angry email. Then a verse you heard in Friday khutbah floats up. {idea}You stop.{/idea} {reward}Suddenly the email looks different. You delete it.{/reward}",
+    "old": "Good people do not get bad thoughts.",
+    "new": "The mindful get touched by bad thoughts too. They just remember quickly.",
+    "try": "Choose one short dhikr to be your stop word today, and use it when a bad impulse shows up.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:202", "surah": 7, "ayah": 202, "place": "makkah",
+    "title": "Their brothers keep pulling them deeper.",
+    "subtitle": "The voices that never stop pushing",
+    "picture": {"kind": "boxes", "label": "The other path", "row": [
+      {"box": "trap", "title": "the devils", "sub": ["never tire"]},
+      {"conn": "push"},
+      {"box": "trap", "title": "their brothers", "sub": ["who listen and obey"]},
+      {"conn": "into"},
+      {"box": "trap", "title": "deeper error", "sub": ["made to look easy"]}]},
+    "key": {"label": "Who you listen to", "row": [
+      {"box": "trap", "title": "no one stops", "sub": ["the push keeps coming"]},
+      {"box": "idea", "title": "you can stop", "sub": ["by remembering, like 7:201"]}]},
+    "then": "In contrast to the mindful, there are those Ibn Kathir calls {trap}the devils' brothers among mankind{/trap}, who follow and obey them. The devils make sin easy and appealing. Ibn Abbas said neither the people stop their evil nor do the devils stop luring them. {idea}The previous verse shows the way out.{/idea}",
+    "now": "One episode becomes five. One bet becomes a weekly habit. One cigarette with friends becomes a pack. {trap}The push never gets tired.{/trap} {idea}You can still choose to be the person who remembers.{/idea}",
+    "old": "I will stop once the pull gets weaker.",
+    "new": "The pull does not get tired, so I have to step out myself.",
+    "try": "Name one habit pulling you deeper. Put one small barrier in its way today.",
+    "related": ["17:27", "19:83"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:203", "surah": 7, "ayah": 203, "place": "makkah",
+    "title": "Show us a miracle. This Book is the miracle.",
+    "subtitle": "The demand for signs on demand",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "trap", "title": "why no sign?", "sub": ["make one yourself"]},
+      {"conn": "reply"},
+      {"box": "idea", "title": "I follow revelation", "sub": ["I do not invent"]},
+      {"box": "reward", "title": "this Quran", "sub": ["insight, guidance, mercy"]}]},
+    "key": {"label": "What proof looks like", "row": [
+      {"box": "people", "title": "a spectacle", "sub": ["something to watch"], "strike": true},
+      {"box": "reward", "title": "the Quran", "sub": ["the clearest evidence"]}]},
+    "then": "When the Prophet ﷺ did not bring a miracle, the pagans said: {trap}why have you not made one yourself?{/trap} He was told to answer that he only follows what his Lord reveals. Ibn Kathir explains that Allah then points to the Quran as {reward}the most powerful miracle and clearest proof{/reward}, guidance and mercy for those who believe.",
+    "now": "You tell yourself you would be more religious if you could see some sign, a dream, a clear message. {trap}Meanwhile the app with the whole Quran sits unopened.{/trap} {idea}The sign you are waiting for is already in your hand.{/idea}",
+    "old": "If I saw a real sign, I would change.",
+    "new": "The Quran itself is the sign, and it is already here.",
+    "try": "Read one page of the Quran today as if it were the sign you asked for.",
+    "related": ["26:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:204", "surah": 7, "ayah": 204, "place": "makkah",
+    "title": "When the Quran is recited, listen and be still.",
+    "subtitle": "Silence as a door to mercy",
+    "picture": {"kind": "boxes", "label": "Two responses", "row": [
+      {"box": "trap", "title": "make noise over it", "sub": ["what Quraysh urged"], "strike": true},
+      {"box": "idea", "title": "listen and be silent", "sub": ["out of respect"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "you receive mercy", "sub": []}]},
+    "key": {"label": "What listening is", "row": [
+      {"box": "people", "title": "background sound", "sub": ["on while I scroll"], "strike": true},
+      {"box": "idea", "title": "full attention", "sub": ["listening is the act"]}]},
+    "then": "After calling the Quran evidence, guidance and mercy, Allah commands people to listen to it in respect. Ibn Kathir notes this was the opposite of the Quraysh pagans, who said {trap}do not listen to this Quran, and make noise over it.{/trap} {reward}Listening in silence is a path to mercy.{/reward}",
+    "now": "The Quran plays in the car while you argue on a call. It plays at the gathering while everyone talks over it. {trap}It becomes wallpaper.{/trap} {idea}Turn off everything else for one surah and actually hear it.{/idea}",
+    "old": "Having the Quran on in the background is enough.",
+    "new": "Mercy comes when I stop and truly listen.",
+    "try": "Listen to one short surah today with nothing else going on. Eyes closed if you like.",
+    "related": ["41:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:205", "surah": 7, "ayah": 205, "place": "makkah",
+    "title": "Remember Him quietly, morning and evening.",
+    "subtitle": "Inner dhikr, humble and close",
+    "picture": {"kind": "boxes", "label": "How to remember", "row": [
+      {"box": "idea", "title": "within yourself", "sub": ["not loud"]},
+      {"box": "idea", "title": "humble and in awe", "sub": ["eager and fearful"]},
+      {"box": "reward", "title": "morning and evening", "sub": ["two daily anchors"]}]},
+    "key": {"label": "How near He is", "row": [
+      {"box": "people", "title": "far away", "sub": ["I must shout"], "strike": true},
+      {"box": "idea", "title": "close and hearing", "sub": ["a whisper reaches"]}]},
+    "then": "Ibn Kathir notes this was revealed in Makkah before the five prayers were ordained. Travelers once raised their voices in dua, and the Prophet ﷺ told them {idea}you are not calling one who is deaf or absent, but One who hears and is near.{/idea} {trap}Do not be among the heedless.{/trap}",
+    "now": "Morning: you check notifications before your feet touch the floor. Evening: you fall asleep mid-scroll. {trap}Allah is squeezed out at both ends.{/trap} {idea}A whispered subhanallah on the pillow reaches Him.{/idea}",
+    "old": "Dhikr needs a special time and a loud voice to count.",
+    "new": "A quiet, humble remembrance at dawn and dusk is close to Him.",
+    "try": "Tomorrow morning, before touching your phone, say subhanallah quietly three times.",
+    "related": ["50:39", "2:186"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "7:206", "surah": 7, "ayah": 206, "place": "makkah",
+    "title": "Those nearest to Him are never too proud to bow.",
+    "subtitle": "The angels as a model for worship",
+    "picture": {"kind": "boxes", "label": "The angels", "row": [
+      {"box": "people", "title": "near your Lord", "sub": ["the angels"]},
+      {"box": "idea", "title": "no arrogance", "sub": ["never too proud"]},
+      {"box": "idea", "title": "glorify Him", "sub": ["without tiring"]},
+      {"box": "reward", "title": "prostrate", "sub": ["to Him alone"]}]},
+    "key": {"label": "Where pride goes", "row": [
+      {"box": "trap", "title": "too busy to bow", "sub": ["I am important"], "strike": true},
+      {"box": "idea", "title": "nearness means bowing", "sub": ["the closer, the humbler"]}]},
+    "then": "The surah ends with the angels near Allah: {idea}they are never too proud to worship Him, they glorify Him and prostrate to Him.{/idea} Ibn Kathir says this reminder is so people imitate their tireless worship. He notes it is the first place in the Quran where reciters and listeners prostrate. {trap}Pride is what keeps a head up.{/trap}",
+    "now": "You finish a big presentation. Everyone praises you. You feel tall. {trap}Prayer time comes and you push it back.{/trap} {idea}The ones closest to Allah never feel too big to put their forehead down.{/idea}",
+    "old": "When I am doing well, I can let worship slide a little.",
+    "new": "The closer I am to Allah, the more naturally I bow.",
+    "try": "After your next success, make one sajdah of thanks to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

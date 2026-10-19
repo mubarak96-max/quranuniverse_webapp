@@ -1,0 +1,227 @@
+[
+  {
+    "id": "9:12", "surah": 9, "ayah": 12, "place": "madinah",
+    "title": "When an oath means nothing to the one who swore it.",
+    "subtitle": "Leaders who broke their word",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "a sworn treaty", "sub": ["for an agreed term"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "oaths broken", "sub": ["and the faith attacked"]},
+      {"conn": "aim"},
+      {"box": "idea", "title": "that they stop", "sub": ["the goal, not revenge"]}]},
+    "key": {"label": "What an oath is worth", "row": [
+      {"box": "trap", "title": "words to get by", "sub": ["no oaths to them"], "strike": true},
+      {"box": "idea", "title": "a weight I carry", "sub": ["my word binds me"]}]},
+    "then": "This addressed the idolaters of Quraysh who had sworn treaties and then broke them while attacking the faith. Qatadah named leaders of Makkah's opposition such as Abu Jahl and Umayyah bin Khalaf. The stated goal: {idea}that they might stop.{/idea}",
+    "now": "\"I swear I'll pay you back.\" \"Wallahi I'll be there.\" How easily the oath comes out, and how easily it is forgotten. The verse describes people for whom {trap}oaths meant nothing.{/trap} {idea}Make sure your own wallahi still weighs something.{/idea}",
+    "old": "Swearing by Allah is just a way to make people believe me.",
+    "new": "An oath by Allah is heavy. If I say it, I keep it.",
+    "try": "Stop using wallahi casually for one day. Save it for what you truly mean.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:13", "surah": 9, "ayah": 13, "place": "madinah",
+    "title": "Do you fear them? Allah has more right to be feared.",
+    "subtitle": "Which fear runs your decisions",
+    "picture": {"kind": "boxes", "label": "What they had done", "row": [
+      {"box": "trap", "title": "broke oaths", "sub": ["the treaty"]},
+      {"box": "trap", "title": "plotted expulsion", "sub": ["of the Messenger ﷺ"]},
+      {"box": "trap", "title": "struck first", "sub": ["at Badr"]},
+      {"conn": "yet you"},
+      {"box": "people", "title": "hesitate", "sub": ["out of fear"]}]},
+    "key": {"label": "Whose fear is bigger", "row": [
+      {"box": "people", "title": "fear of people", "sub": ["what will they do"], "strike": true},
+      {"box": "idea", "title": "fear of Allah", "sub": ["He has more right"]}]},
+    "then": "The believers were reminded that these opponents had {trap}broken their oaths, plotted to drive the Prophet ﷺ out of Makkah, and attacked first{/trap}, which Ibn Kathir links to Badr. Some still hesitated. The question cut through it: {idea}do you fear them? Allah has more right to be feared.{/idea}",
+    "now": "You know the right thing to say in the meeting, but you fear the boss. You know you should stop the gossip, but you fear the group. {idea}Ask yourself whose reaction you are really afraid of.{/idea} Then weigh it against Allah's.",
+    "old": "I stay quiet because of what people might do to me.",
+    "new": "People's reactions are small next to what Allah sees and decides.",
+    "try": "Do one right thing today that you have been avoiding out of fear of someone's reaction.",
+    "related": ["8:30", "60:1", "17:76"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:14", "surah": 9, "ayah": 14, "place": "madinah",
+    "title": "Allah could act alone, yet chose to act through them.",
+    "subtitle": "Being the hands through which Allah helps",
+    "picture": {"kind": "boxes", "label": "Who does the work", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["able to act by a word"]},
+      {"conn": "through"},
+      {"box": "people", "title": "your hands", "sub": ["the believers' effort"]},
+      {"conn": "and then"},
+      {"box": "reward", "title": "hearts healed", "sub": ["of those who were wronged"]}]},
+    "key": {"label": "Why the effort is asked", "row": [
+      {"box": "trap", "title": "Allah needs me", "sub": [], "strike": true},
+      {"box": "idea", "title": "I need to take part", "sub": ["it is my test and honor"]}]},
+    "then": "Ibn Kathir notes that Allah could destroy the enemies by a single command, yet asked the believers to strive, and promised {reward}victory and the healing of believing hearts{/reward}. Some early scholars said the wounded hearts were those of Khuza'ah, the allies attacked while under treaty.",
+    "now": "A neighbor needs help moving. A friend is grieving. You think: Allah will take care of them. {idea}Often He takes care of them through you{/idea}, and the healing in their chest begins with your knock on the door.",
+    "old": "If Allah wants something done, it will happen without me.",
+    "new": "Allah lets me be part of how His help arrives. That is an honor.",
+    "try": "Be the answer to someone's prayer today: one call, one errand, one meal.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:15", "surah": 9, "ayah": 15, "place": "madinah",
+    "title": "Anger leaves the heart, and repentance stays possible.",
+    "subtitle": "Relief for the wronged, a door for the wrongdoer",
+    "picture": {"kind": "boxes", "label": "Two things Allah does", "row": [
+      {"box": "reward", "title": "removes fury", "sub": ["from believing hearts"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "accepts repentance", "sub": ["of whom He wills"]}]},
+    "key": {"label": "Even about opponents", "row": [
+      {"box": "trap", "title": "they are beyond hope", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah may turn to them", "sub": ["Knowing, Wise"]}]},
+    "then": "The believers had carried {trap}anger at broken treaties and attacks{/trap} for years. Allah promised to remove that fury from their hearts. Then, in the same verse, a reminder that {idea}Allah turns in mercy to whom He wills{/idea}, even among those they had been fighting.",
+    "now": "You have been wronged, and the anger sits in your chest every time you see their name on your phone. {reward}Ask Allah to take the fury out of you.{/reward} And leave room for the thought that they might change. That is His business, not yours.",
+    "old": "My anger will only go when they get what they deserve.",
+    "new": "Allah can lift my anger, and He can still guide the one I am angry at.",
+    "try": "Make dua today for your anger to be removed, and for the one who wronged you to be guided.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:16", "surah": 9, "ayah": 16, "place": "madinah",
+    "title": "Did you think you would be left without a test?",
+    "subtitle": "Tests show who is sincere",
+    "picture": {"kind": "boxes", "label": "What tests reveal", "row": [
+      {"box": "people", "title": "we believe", "sub": ["said by all"]},
+      {"conn": "tested"},
+      {"box": "reward", "title": "those who strive", "sub": ["sincere inside and out"]},
+      {"box": "trap", "title": "secret confidants", "sub": ["loyalty elsewhere"]}]},
+    "key": {"label": "What a test is", "row": [
+      {"box": "trap", "title": "a sign Allah is angry", "sub": [], "strike": true},
+      {"box": "idea", "title": "a sorting", "sub": ["true from false intent"]}]},
+    "then": "Ibn Kathir explains that one wisdom behind these hard commands was {idea}to test the believers{/idea}, making clear who was sincere and who kept secret allies apart from Allah, His Messenger ﷺ and the believers. He ties it to {idea}\"Do people think they will be left because they say we believe?\"{/idea}",
+    "now": "Faith is easy on a calm Friday. Then comes the job loss, the diagnosis, the moment when standing with the right people costs you. {idea}That is where your faith becomes visible, first to you.{/idea}",
+    "old": "If my faith were real, life would not keep testing it.",
+    "new": "The test is how sincere faith shows itself, even to me.",
+    "try": "Name one current difficulty. Ask Allah to help you pass it well, not just escape it.",
+    "related": ["29:2", "3:142", "3:179"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:17", "surah": 9, "ayah": 17, "place": "madinah",
+    "title": "Maintaining a mosque does not replace believing in its Lord.",
+    "subtitle": "Service without faith at its root",
+    "picture": {"kind": "boxes", "label": "The Sacred Mosque then", "row": [
+      {"box": "idea", "title": "built by Ibrahim", "sub": ["for Allah alone"]},
+      {"conn": "kept by"},
+      {"box": "people", "title": "idolaters", "sub": ["who worshipped others in it"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "deeds in vain", "sub": ["no root beneath them"]}]},
+    "key": {"label": "What gives a deed value", "row": [
+      {"box": "trap", "title": "the outside of it", "sub": ["keys, upkeep, title"], "strike": true},
+      {"box": "idea", "title": "the faith inside it", "sub": ["for Allah alone"]}]},
+    "then": "The Sacred Mosque was built by Ibrahim for the worship of Allah alone. Yet the idolaters of Makkah held its keys and upkeep {trap}while openly associating partners with Allah{/trap}. The verse says such service, cut off from faith, {trap}becomes worthless.{/trap}",
+    "now": "You run the masjid's fundraiser, sit on the committee, post the Ramadan schedule. All good. {idea}But ask what is underneath it{/idea}: Allah, or the role, the respect, the title.",
+    "old": "My service to the community proves my faith.",
+    "new": "Service counts when it grows from real faith in Allah alone.",
+    "try": "Before your next act of service, pause and renew your intention for Allah alone.",
+    "related": ["8:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:18", "surah": 9, "ayah": 18, "place": "madinah",
+    "title": "Who truly keeps a mosque alive.",
+    "subtitle": "The four marks of a real maintainer",
+    "picture": {"kind": "boxes", "label": "The real maintainers", "row": [
+      {"box": "idea", "title": "believe", "sub": ["Allah and the Last Day"]},
+      {"box": "idea", "title": "pray", "sub": ["establish salah"]},
+      {"box": "idea", "title": "give", "sub": ["zakah"]},
+      {"box": "idea", "title": "fear only Allah", "sub": ["no one else"]},
+      {"conn": "they are"},
+      {"box": "reward", "title": "rightly guided", "sub": []}]},
+    "key": {"label": "What a mosque needs most", "row": [
+      {"box": "plain", "title": "bricks and budgets", "sub": [], "strike": true},
+      {"box": "reward", "title": "people of faith", "sub": ["who fill it with prayer"]}]},
+    "then": "After saying who cannot rightly maintain the mosques, the verse names who can: {idea}those who believe, pray, give zakah and fear none but Allah.{/idea} Companions said the masjids are the houses of Allah on earth, and {reward}He is generous to those who visit Him there.{/reward}",
+    "now": "A beautiful masjid with three people at Fajr. A small rented room packed at Isha. {idea}A mosque is kept alive by the people who show up and pray{/idea}, and you can be one of them this week.",
+    "old": "Keeping up the mosque is the job of the board and the imam.",
+    "new": "I maintain the mosque every time I come to it to pray.",
+    "try": "Pray one prayer in the masjid this week that you normally pray at home.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:19", "surah": 9, "ayah": 19, "place": "madinah",
+    "title": "Water for pilgrims is not the same as faith.",
+    "subtitle": "Prestige deeds versus the deeds of the heart",
+    "picture": {"kind": "boxes", "label": "The boast in Makkah", "row": [
+      {"box": "people", "title": "giving water", "sub": ["to the pilgrims"]},
+      {"box": "people", "title": "keeping the House", "sub": ["a family honor"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "faith and striving", "sub": ["for Allah"]}]},
+    "key": {"label": "Are they equal?", "row": [
+      {"box": "trap", "title": "my good works balance it", "sub": [], "strike": true},
+      {"box": "idea", "title": "not equal", "sub": ["in the sight of Allah"]}]},
+    "then": "Ibn Abbas said the people of Makkah used to boast that {trap}giving water to pilgrims and caring for the Sacred Mosque was better than faith{/trap}. Another report says al-Abbas, captured at Badr, made this argument. A report from An-Nu'man bin Bashir also describes Muslims debating which deed is best near the minbar.",
+    "now": "You sponsor an orphan, organize the charity run, are known as the generous one. Then someone asks about your prayer, and you point to the charity. {idea}Good deeds are not a trade for the heart's turning to Allah.{/idea}",
+    "old": "My visible good works make up for what is missing inside.",
+    "new": "Faith in Allah comes first. Nothing visible stands in for it.",
+    "try": "Look at one good thing you are known for. Ask whether you do it for Allah or for the name.",
+    "related": ["23:66"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:20", "surah": 9, "ayah": 20, "place": "madinah",
+    "title": "Believed, left home, gave wealth and self: higher in rank.",
+    "subtitle": "What real sacrifice looks like",
+    "picture": {"kind": "boxes", "label": "Their path", "row": [
+      {"box": "idea", "title": "believed", "sub": []},
+      {"conn": "then"},
+      {"box": "idea", "title": "emigrated", "sub": ["left home and people"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "strove", "sub": ["with wealth and life"]},
+      {"box": "reward", "title": "greater rank", "sub": ["the successful"]}]},
+    "key": {"label": "What raises rank", "row": [
+      {"box": "people", "title": "status in the city", "sub": ["keys and honors"], "strike": true},
+      {"box": "reward", "title": "what you gave up", "sub": ["for Allah"]}]},
+    "then": "In contrast to those who boasted of keeping the Sacred Mosque, this verse describes the early believers who {idea}believed, left their homes, and gave their wealth and their lives{/idea} for Allah. They are {reward}higher in rank with Allah, and they are the successful.{/reward}",
+    "now": "Status is easy to collect: titles, followers, a good family name. Sacrifice is quieter. Turning down the job that would have cost your prayers. Moving for your family's deen. {reward}That is what raises you with Allah.{/reward}",
+    "old": "My rank comes from my position and reputation.",
+    "new": "My rank with Allah comes from what I am willing to give for Him.",
+    "try": "Give up one comfort today for Allah's sake, quietly, and tell no one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:21", "surah": 9, "ayah": 21, "place": "madinah",
+    "title": "Their Lord sends them good news of mercy and pleasure.",
+    "subtitle": "The three gifts promised",
+    "picture": {"kind": "boxes", "label": "The good news", "row": [
+      {"box": "reward", "title": "mercy", "sub": ["from Him"]},
+      {"box": "reward", "title": "His pleasure", "sub": ["He is pleased with them"]},
+      {"box": "reward", "title": "gardens", "sub": ["lasting delight"]}]},
+    "key": {"label": "Who gives the good news", "row": [
+      {"box": "people", "title": "people's praise", "sub": ["fades"], "strike": true},
+      {"box": "reward", "title": "their Lord Himself", "sub": ["announces it"]}]},
+    "then": "Those who had left Makkah lost homes, families and trade. The verse says {reward}their own Lord gives them the good news{/reward}: mercy from Him, His pleasure, and gardens of lasting delight. What they gave up was replaced from Him directly.",
+    "now": "You did something hard for Allah's sake and nobody noticed. No thank you, no post, no credit. {reward}The good news is coming from a higher place than the group chat.{/reward}",
+    "old": "If no one appreciates what I gave up, it was wasted.",
+    "new": "Allah Himself has promised mercy and His pleasure for what I gave for Him.",
+    "try": "Recall one sacrifice nobody saw. Thank Allah that He saw it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:22", "surah": 9, "ayah": 22, "place": "madinah",
+    "title": "Forever there, and with Allah is a great reward.",
+    "subtitle": "A reward that does not end",
+    "picture": {"kind": "boxes", "label": "Time compared", "row": [
+      {"box": "people", "title": "a few years", "sub": ["of hardship here"]},
+      {"conn": "repaid with"},
+      {"box": "reward", "title": "forever", "sub": ["abiding there"]}]},
+    "key": {"label": "How to measure the cost", "row": [
+      {"box": "trap", "title": "it is too much to give", "sub": [], "strike": true},
+      {"box": "reward", "title": "a great reward with Allah", "sub": ["no end to it"]}]},
+    "then": "The promise to those early believers closes with two words of weight: {reward}forever{/reward}, and {reward}a great reward with Allah{/reward}. Whatever they had lost in a few years of exile and struggle was set against something without end.",
+    "now": "The night shift so your kids can study. The year of caring for a sick parent. Holding back your anger again and again. It feels endless. {idea}Measured against forever, it is short.{/idea}",
+    "old": "This sacrifice is costing me too much.",
+    "new": "Any sacrifice here is short next to a reward that never ends.",
+    "try": "When something hard comes up today, whisper: with Allah is a great reward.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "38:77", "surah": 38, "ayah": 77, "place": "makkah",
+    "title": "Get out from here, for you are cast out.",
+    "subtitle": "Pride cost Iblis his place",
+    "picture": {"kind": "boxes", "label": "What pride cost", "row": [
+      {"box": "trap", "title": "I am better", "sub": ["the claim"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "expelled", "sub": ["from the heavens"]},
+      {"box": "trap", "title": "humiliated", "sub": ["outcast"]}]},
+    "key": {"label": "What pride gets you", "row": [
+      {"box": "reward", "title": "a higher place", "sub": ["what Iblis expected"], "strike": true},
+      {"box": "trap", "title": "cast down", "sub": ["what he got"]}]},
+    "then": "Ibn Kathir says Allah {trap}exiled him, humiliated him, and cast him out of His mercy and His sacred presence{/trap}. He cast him down from the heavens to the earth, disgraced. The one who claimed to be higher ended up lowest.",
+    "now": "The person who insists on being the most important in every room usually ends up left out of the room. {trap}Pride promises height and delivers a fall.{/trap} {idea}Humility is the safer ground.{/idea}",
+    "old": "Holding my head high above others keeps my place secure.",
+    "new": "Pride is what costs a place. Humility keeps it.",
+    "try": "Let someone else take the credit or the front seat once today, gladly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:78", "surah": 38, "ayah": 78, "place": "makkah",
+    "title": "My curse is on you until the Day of Recompense.",
+    "subtitle": "Despair of mercy, by his own choice",
+    "picture": {"kind": "boxes", "label": "His name", "row": [
+      {"box": "trap", "title": "Iblis", "sub": ["ablasa: despaired"]},
+      {"conn": "of"},
+      {"box": "reward", "title": "mercy", "sub": ["he turned from it"]}]},
+    "key": {"label": "The difference from Adam", "row": [
+      {"box": "trap", "title": "argue and despair", "sub": ["Iblis"], "strike": true},
+      {"box": "idea", "title": "admit and return", "sub": ["the way back stays open"]}]},
+    "then": "Ibn Kathir says Allah called him Iblis, {trap}symbolizing that he had despaired of mercy{/trap}, that there was no hope for him of mercy. The curse stands until the Day of Recompense. He argued instead of returning.",
+    "now": "You made the same mistake again. A voice says: you are too far gone, why bother. {idea}That voice wants you to despair, like he did.{/idea} Do not take his name. Turn back.",
+    "old": "I have gone too far for Allah's mercy now.",
+    "new": "Despair of mercy is Iblis's way. A believer keeps returning.",
+    "try": "Whatever you feel too far gone about, make one sincere istighfar for it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:79", "surah": 38, "ayah": 79, "place": "makkah",
+    "title": "My Lord, give me respite until they are raised.",
+    "subtitle": "He asked for time, not forgiveness",
+    "picture": {"kind": "boxes", "label": "What he asked for", "row": [
+      {"box": "trap", "title": "Iblis", "sub": ["cast out"]},
+      {"conn": "asked for"},
+      {"box": "plain", "title": "time", "sub": ["until resurrection"]},
+      {"box": "trap", "title": "not forgiveness", "sub": ["never asked"], "strike": true}]},
+    "key": {"label": "What to ask for", "row": [
+      {"box": "trap", "title": "more time", "sub": ["to keep going my way"], "strike": true},
+      {"box": "idea", "title": "forgiveness", "sub": ["to come back"]}]},
+    "then": "Ibn Kathir says Iblis {trap}asked Allah to give him a reprieve until the Day of Resurrection{/trap}. Cast out of mercy, the one thing he did not ask for was forgiveness. He wanted time, and he had already decided what to use it for.",
+    "now": "You ask Allah for a longer life, a better job, more time before the deadline. {idea}How often do you also ask: forgive me?{/idea} Time without returning to Him is not the gift it seems.",
+    "old": "What I need most from Allah is more time.",
+    "new": "Time is only a gift if I use it to come back to Him.",
+    "try": "In your next dua, ask for forgiveness before you ask for anything else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:80", "surah": 38, "ayah": 80, "place": "makkah",
+    "title": "You are among those given respite.",
+    "subtitle": "The Forbearing does not hasten to punish",
+    "picture": {"kind": "boxes", "label": "Allah's answer", "row": [
+      {"box": "trap", "title": "Iblis", "sub": ["asked for time"]},
+      {"conn": "granted by"},
+      {"box": "idea", "title": "the Forbearing", "sub": ["does not hasten"]}]},
+    "key": {"label": "Being given time", "row": [
+      {"box": "people", "title": "Allah approves", "sub": ["or He would stop me"], "strike": true},
+      {"box": "idea", "title": "Allah is patient", "sub": ["the test continues"]}]},
+    "then": "Ibn Kathir says {idea}the Forbearing One, who does not hasten to punish those who disobey Him{/idea}, gave him a reprieve. Being given time did not mean being approved of. It meant the test went on.",
+    "now": "You did something wrong and nothing happened. No consequence, no one found out. {idea}Allah's patience with you is not approval.{/idea} It is room to turn around.",
+    "old": "If nothing bad happened, it must not have been that wrong.",
+    "new": "Allah's patience gives me time to return, not permission to continue.",
+    "try": "Think of one wrong that seemed to have no consequence, and fix what you can of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:81", "surah": 38, "ayah": 81, "place": "makkah",
+    "title": "Until the Day of the appointed time.",
+    "subtitle": "Even the respite has an end",
+    "picture": {"kind": "boxes", "label": "The respite", "row": [
+      {"box": "plain", "title": "time granted", "sub": ["to Iblis"]},
+      {"conn": "until"},
+      {"box": "idea", "title": "the appointed Day", "sub": ["known to Allah"]}]},
+    "key": {"label": "How long it lasts", "row": [
+      {"box": "trap", "title": "forever", "sub": ["no end in sight"], "strike": true},
+      {"box": "idea", "title": "a set time", "sub": ["then it ends"]}]},
+    "then": "Allah grants the respite only {idea}until the Day of the time appointed{/idea}. Ibn Kathir notes that once Iblis knew he was safe from destruction until then, {trap}he rebelled and transgressed{/trap}. Feeling safe made him bolder.",
+    "now": "When you feel there is plenty of time, you get careless: the prayer can wait, the apology can wait. {trap}Feeling safe made Iblis bolder.{/trap} {idea}Every respite has a date.{/idea}",
+    "old": "I have years ahead, so there is no rush to change.",
+    "new": "Every respite ends at a set time, so feeling safe should not make me careless.",
+    "try": "Do one thing today you keep postponing because you think you have time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:82", "surah": 38, "ayah": 82, "place": "makkah",
+    "title": "By Your might, I will mislead them all.",
+    "subtitle": "The enemy announced his plan",
+    "picture": {"kind": "boxes", "label": "His declared aim", "row": [
+      {"box": "trap", "title": "Iblis", "sub": ["respite granted"]},
+      {"conn": "vows"},
+      {"box": "trap", "title": "mislead them all", "sub": ["the children of Adam"]}]},
+    "key": {"label": "Knowing the enemy", "row": [
+      {"box": "people", "title": "he is a myth", "sub": ["nothing to guard against"], "strike": true},
+      {"box": "idea", "title": "a declared enemy", "sub": ["so I stay alert"]}]},
+    "then": "Once safe until the Day, Iblis swore {trap}I will surely mislead them all{/trap}. Ibn Kathir links it to another verse where he says he will seize and mislead Adam's offspring, all but a few. His goal is stated openly.",
+    "now": "The late night scroll that turns into something you regret. The thought that you deserve it just this once. {trap}It is not random.{/trap} {idea}Knowing there is a plan against you is half the defense.{/idea}",
+    "old": "My slips just happen. There is nothing behind them.",
+    "new": "Shaytan openly vowed to mislead me, so I guard myself on purpose.",
+    "try": "Say A'udhu billahi min ash-shaytan ir-rajim the next time a bad urge starts today.",
+    "related": ["17:62"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:83", "surah": 38, "ayah": 83, "place": "makkah",
+    "title": "Except Your sincere servants among them.",
+    "subtitle": "The ones he admits he cannot reach",
+    "picture": {"kind": "boxes", "label": "His exception", "row": [
+      {"box": "trap", "title": "mislead them all", "sub": ["his vow"]},
+      {"conn": "except"},
+      {"box": "reward", "title": "sincere servants", "sub": ["al-mukhlasin"]}]},
+    "key": {"label": "Protection", "row": [
+      {"box": "people", "title": "my own willpower", "sub": ["fight alone"], "strike": true},
+      {"box": "reward", "title": "sincere servanthood", "sub": ["Allah guards them"]}]},
+    "then": "Iblis himself excepts {reward}Your true servants{/reward}. Ibn Kathir connects them to the verse where Allah says: {reward}My servants, you have no authority over them{/reward}, and your Lord is enough as a Guardian.",
+    "now": "You have tried fighting the habit with willpower and apps and timers. {reward}The verse points to something deeper: sincerity.{/reward} Doing it for Allah alone is the place he cannot reach.",
+    "old": "Resisting temptation depends on how strong I am.",
+    "new": "Sincere servants of Allah are the ones he has no power over.",
+    "try": "Before one good deed today, pause and make the intention for Allah alone.",
+    "related": ["17:65"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:84", "surah": 38, "ayah": 84, "place": "makkah",
+    "title": "The truth, and the truth is what I say.",
+    "subtitle": "Allah's reply to Iblis's oath",
+    "picture": {"kind": "boxes", "label": "Two oaths", "row": [
+      {"box": "trap", "title": "Iblis swears", "sub": ["by Your might"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "Allah", "sub": ["the Truth, speaking truth"]}]},
+    "key": {"label": "Whose word stands", "row": [
+      {"box": "trap", "title": "the deceiver's vow", "sub": ["loud and bold"], "strike": true},
+      {"box": "idea", "title": "Allah's word", "sub": ["true, and it will happen"]}]},
+    "then": "Mujahid read it as {idea}I am the Truth, and the truth I say{/idea}. Another report from him: the truth is from Me and I speak the truth. As-Suddi saw it as an oath sworn by Allah. It answers the oath Iblis had just made.",
+    "now": "Loud voices tell you who you are and where you are going: ads, critics, your own worst thoughts. {idea}Only One speaks nothing but truth.{/idea} Let His word be the one you trust most.",
+    "old": "The loudest voices around me tell the truth about my life.",
+    "new": "Allah is the Truth and speaks only truth. His word outlasts every other.",
+    "try": "Replace one negative thing you tell yourself with a verse that says otherwise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:85", "surah": 38, "ayah": 85, "place": "makkah",
+    "title": "I will fill Hell with you and those who follow you.",
+    "subtitle": "Following him is a choice with an end",
+    "picture": {"kind": "boxes", "label": "Where following leads", "row": [
+      {"box": "trap", "title": "Iblis", "sub": ["the misleader"]},
+      {"box": "people", "title": "those who follow", "sub": ["by choice"]},
+      {"conn": "together in"},
+      {"box": "trap", "title": "Hell", "sub": ["one end"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "he made me do it", "sub": ["no choice"], "strike": true},
+      {"box": "idea", "title": "I chose to follow", "sub": ["or not to"]}]},
+    "then": "Allah says He will fill Hell with Iblis {trap}and those who follow him{/trap}, together. Ibn Kathir links it to the verse: go, and whoever of them follows you, Hell will be the recompense of you all. {idea}Following is the key word.{/idea}",
+    "now": "You hear the whisper, but you are the one who picks up the phone, opens the tab, says the cruel thing. {idea}He invites. You decide.{/idea} That means you can also decide not to.",
+    "old": "Shaytan made me do it.",
+    "new": "He can only call. Following him is my choice, and so is refusing.",
+    "try": "Notice one moment today when you could follow an urge, and choose not to.",
+    "related": ["32:13", "17:63"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:86", "surah": 38, "ayah": 86, "place": "makkah",
+    "title": "I ask no payment, and I do not pretend.",
+    "subtitle": "A message offered freely, without additions",
+    "picture": {"kind": "boxes", "label": "What he did not do", "row": [
+      {"box": "trap", "title": "ask a wage", "sub": ["for the message"], "strike": true},
+      {"box": "trap", "title": "add or invent", "sub": ["pretend to know"], "strike": true},
+      {"conn": "only"},
+      {"box": "idea", "title": "convey it", "sub": ["for Allah's Face"]}]},
+    "key": {"label": "Honest knowledge", "row": [
+      {"box": "trap", "title": "answer everything", "sub": ["to look learned"], "strike": true},
+      {"box": "idea", "title": "Allah knows best", "sub": ["when I do not know"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ asked {idea}no reward from the goods of this world{/idea}, and did not add anything to what Allah told him. Ibn Masud cited this verse and said: whoever knows should say it, and whoever does not should say {idea}Allah knows best{/idea}.",
+    "now": "Someone in the family chat asks a religious question and you feel the pressure to sound knowledgeable. {idea}Saying I do not know is part of knowledge.{/idea} No need to dress up a guess.",
+    "old": "Admitting I do not know makes me look ignorant.",
+    "new": "Saying Allah knows best when I do not know is part of real knowledge.",
+    "try": "Help someone today without expecting anything back, not even thanks.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:87", "surah": 38, "ayah": 87, "place": "makkah",
+    "title": "It is only a reminder for all the worlds.",
+    "subtitle": "The surah opened with a reminder and closes with one",
+    "picture": {"kind": "boxes", "label": "Who it is for", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["a reminder"]},
+      {"conn": "for"},
+      {"box": "people", "title": "humans and jinn", "sub": ["all held accountable"]},
+      {"box": "people", "title": "whoever it reaches", "sub": ["including you"]}]},
+    "key": {"label": "Who it is addressed to", "row": [
+      {"box": "people", "title": "people back then", "sub": ["in Makkah"], "strike": true},
+      {"box": "idea", "title": "everyone it reaches", "sub": ["today as well"]}]},
+    "then": "Ibn Abbas said the Quran is {idea}a reminder for all who are held accountable, humans and jinn{/idea}. Ibn Kathir links it to the verse: that I may warn you and whomever it reaches. The surah began with an oath by the Quran full of reminding, and ends here.",
+    "now": "You have read this surah on your phone, in a language far from Makkah, centuries later. {idea}It reached you. That makes it yours.{/idea}",
+    "old": "This was addressed to people long ago.",
+    "new": "It is a reminder for everyone it reaches, and it has reached me.",
+    "try": "Share one verse from this surah with someone, with its meaning, today.",
+    "related": ["6:19", "11:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "38:88", "surah": 38, "ayah": 88, "place": "makkah",
+    "title": "And you will surely know its truth after a while.",
+    "subtitle": "Every person will see it confirmed",
+    "picture": {"kind": "boxes", "label": "When it becomes clear", "row": [
+      {"box": "idea", "title": "its truth", "sub": ["will be confirmed"]},
+      {"conn": "after"},
+      {"box": "plain", "title": "death", "sub": ["Qatadah"]},
+      {"box": "plain", "title": "the Resurrection", "sub": ["Ikrimah"]}]},
+    "key": {"label": "When to believe", "row": [
+      {"box": "trap", "title": "once I see it", "sub": ["then it is too late"], "strike": true},
+      {"box": "idea", "title": "now", "sub": ["while it still helps"]}]},
+    "then": "Ibn Kathir says it means {idea}you will see confirmation that what he says is true{/idea}, and soon. Qatadah said after death. Ikrimah said on the Day of Resurrection. There is no contradiction, because whoever dies enters the matters of that Day.",
+    "now": "Everyone will know eventually. The question is only when you know it: now, while it can shape your mornings and your choices, or later, when it simply confirms. {idea}Knowing now is the mercy.{/idea}",
+    "old": "I will be certain about all this when I see it for myself.",
+    "new": "Everyone will see it is true in the end, so I let it change me now.",
+    "try": "Choose one change this surah asked of you, and start it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

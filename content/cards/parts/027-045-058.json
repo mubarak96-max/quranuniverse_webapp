@@ -1,0 +1,286 @@
+[
+  {
+    "id": "27:45", "surah": 27, "ayah": 45, "place": "makkah",
+    "title": "One call, and the town split in two.",
+    "subtitle": "Salih is sent to Thamud",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "Salih", "sub": ["their own brother"]},
+      {"conn": "calls"},
+      {"box": "idea", "title": "worship Allah", "sub": ["alone, no partner"]},
+      {"conn": "and then"},
+      {"box": "people", "title": "two parties", "sub": ["believers and deniers"]}]},
+    "key": {"label": "What the split means", "row": [
+      {"box": "trap", "title": "he caused trouble", "sub": ["he divided us"], "strike": true},
+      {"box": "idea", "title": "a choice appeared", "sub": ["each side chose"]}]},
+    "then": "Allah sent Salih to Thamud, {idea}one of their own{/idea}, calling them to worship Allah alone. Mujahid said they became two parties: {trap}believers and disbelievers{/trap}, quarreling with each other. Ibn Kathir links it to the arrogant leaders mocking the weak who believed.",
+    "now": "You start praying at work, or stop joining the gossip at lunch. Suddenly there are two groups at the table. {idea}You did not make the split. You made the choice visible.{/idea} Stay kind with both sides.",
+    "old": "If doing right causes friction, I must be doing something wrong.",
+    "new": "A clear call to good will sometimes show where people already stand.",
+    "try": "Keep one good practice today even if it makes you stand out, and stay gentle about it.",
+    "related": ["7:75"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:46", "surah": 27, "ayah": 46, "place": "makkah",
+    "title": "Why rush toward harm instead of good?",
+    "subtitle": "Salih asks his people to seek forgiveness",
+    "picture": {"kind": "boxes", "label": "Two things to ask for", "row": [
+      {"box": "trap", "title": "the punishment", "sub": ["bring it on, they said"]},
+      {"conn": "instead of"},
+      {"box": "reward", "title": "forgiveness", "sub": ["so you receive mercy"]}]},
+    "key": {"label": "What you are hurrying toward", "row": [
+      {"box": "trap", "title": "prove it, then", "sub": ["daring the warning"], "strike": true},
+      {"box": "idea", "title": "ask forgiveness", "sub": ["open the door to mercy"]}]},
+    "then": "Ibn Kathir explains Salih's question: {trap}why are you praying for the punishment to come{/trap}, and not asking Allah for His mercy? He urged them to {reward}seek forgiveness so they might receive mercy.{/reward}",
+    "now": "Your doctor warns about your blood pressure and you joke: something has to get me eventually. {trap}Daring the warning feels brave.{/trap} The wiser move is quieter: ask for help and change course while the door is open.",
+    "old": "If the warning is real, let it happen and we will see.",
+    "new": "When I am warned, the smart response is to seek forgiveness, not to dare the consequence.",
+    "try": "Say astaghfirullah three times today, thinking of one specific thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:47", "surah": 27, "ayah": 47, "place": "makkah",
+    "title": "They blamed him for their bad luck.",
+    "subtitle": "Calling the messenger a bad omen",
+    "picture": {"kind": "boxes", "label": "Their logic", "row": [
+      {"box": "trap", "title": "something bad", "sub": ["happens to us"]},
+      {"conn": "blamed on"},
+      {"box": "people", "title": "Salih and friends", "sub": ["a bad omen"]},
+      {"conn": "reply"},
+      {"box": "idea", "title": "you are tested", "sub": ["obey or disobey"]}]},
+    "key": {"label": "Where the bad luck comes from", "row": [
+      {"box": "trap", "title": "those people", "sub": ["they jinx us"], "strike": true},
+      {"box": "idea", "title": "a test from Allah", "sub": ["what will I do?"]}]},
+    "then": "Ibn Kathir says {trap}whenever anything bad happened to them, they said it was because of Salih and his companions.{/trap} Salih answered that their fate was with Allah. Qatadah explained: {idea}you are being tested to see whether you will obey or disobey.{/idea}",
+    "now": "The car breaks down the week your new colleague starts. The house feels unlucky since your sister-in-law moved in. {trap}It is easy to make a person the reason.{/trap} The question is how you respond to the test.",
+    "old": "When things go wrong, someone must be bringing bad luck.",
+    "new": "Hard times are tests from Allah, not proof that someone is cursed.",
+    "try": "Catch one moment today when you blame a person for bad luck. Replace it with a dua.",
+    "related": ["7:131", "4:78", "36:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:48", "surah": 27, "ayah": 48, "place": "makkah",
+    "title": "Nine men spread corruption and never set things right.",
+    "subtitle": "The ringleaders of Thamud",
+    "picture": {"kind": "boxes", "label": "The nine", "row": [
+      {"box": "trap", "title": "9", "sub": ["leaders of the town"], "num": true},
+      {"box": "trap", "title": "spread corruption", "sub": ["by every means"]},
+      {"box": "trap", "title": "never reform", "sub": ["no repair"]}]},
+    "key": {"label": "What corruption looks like", "row": [
+      {"box": "people", "title": "only big crimes", "sub": ["murder, war"], "strike": true},
+      {"box": "trap", "title": "small cheats too", "sub": ["clipping coins"]}]},
+    "then": "Ibn Kathir says these nine {trap}forced their opinions on the people because they were the leaders.{/trap} Ibn Abbas said they instigated the killing of the she-camel. Ata said {trap}they used to break silver coins{/trap}, and Sa'id bin Al-Musayyib called cutting coins part of spreading corruption.",
+    "now": "Shaving a few minutes off timesheets. Short-changing a customer by a coin. Pushing your opinion on the whole family because you are the eldest. {trap}Corruption often starts small and from the top.{/trap}",
+    "old": "Corruption is what powerful people do on the news.",
+    "new": "Corruption includes the small cheats and the pressure I put on people below me.",
+    "try": "Fix one small unfairness you have been letting slide, even if no one would notice.",
+    "related": ["54:29", "91:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:49", "surah": 27, "ayah": 49, "place": "makkah",
+    "title": "They swore by Allah to commit a crime.",
+    "subtitle": "The night plot against Salih",
+    "picture": {"kind": "boxes", "label": "The plot", "row": [
+      {"box": "trap", "title": "an oath by Allah", "sub": ["sworn to each other"]},
+      {"conn": "to"},
+      {"box": "trap", "title": "attack at night", "sub": ["him and his family"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "we saw nothing", "sub": ["a ready-made lie"]}]},
+    "key": {"label": "The trick", "row": [
+      {"box": "trap", "title": "technically true", "sub": ["we did not see it"]},
+      {"box": "idea", "title": "still a lie", "sub": ["Allah sees the plan"]}]},
+    "then": "Ibn Kathir explains they plotted to kill Salih and his family at night, then tell his relatives {trap}they knew nothing, and that they were telling the truth because none of them had seen anything.{/trap} They sealed it with an oath by Allah.",
+    "now": "\"I never said that\" when you typed it. \"I did not take it\" when you let someone else do it. {trap}Wording a lie to sound true still makes it a lie.{/trap} Allah knows what you planned.",
+    "old": "If my words are technically true, I am not lying.",
+    "new": "A clever wording does not hide the truth of what I did from Allah.",
+    "try": "Notice one time today you are tempted to give a technically true answer. Give the honest one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:50", "surah": 27, "ayah": 50, "place": "makkah",
+    "title": "They planned, and Allah planned.",
+    "subtitle": "The plot they could not see coming",
+    "picture": {"kind": "boxes", "label": "Two plans", "row": [
+      {"box": "trap", "title": "their plan", "sub": ["kill Salih by night"]},
+      {"box": "idea", "title": "Allah's plan", "sub": ["their plot backfires"]},
+      {"conn": "while"},
+      {"box": "people", "title": "they perceived not", "sub": ["no idea"]}]},
+    "key": {"label": "Whose plan wins", "row": [
+      {"box": "trap", "title": "the cleverest plotter", "sub": ["has it all mapped"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["sees what they do not"]}]},
+    "then": "Ibn Abi Hatim reports they waited in a cave near Salih's place of prayer to kill him. {idea}A rock came down from the mountain and covered the cave's mouth{/idea} with them inside. {reward}Allah saved Salih and those with him.{/reward}",
+    "now": "Someone at work is quietly building a case against you. Your ex is spreading stories. It keeps you up at night. {idea}Their plan is not the last plan.{/idea} Do what is right, and trust the One who sees everything.",
+    "old": "If people are plotting against me, I have to out-plot them.",
+    "new": "Allah has a plan above every plan, and they do not see it coming.",
+    "try": "Hand one worry about someone's scheming to Allah in dua tonight, then sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:51", "surah": 27, "ayah": 51, "place": "makkah",
+    "title": "Look how their plotting ended.",
+    "subtitle": "The outcome of the plan against Salih",
+    "picture": {"kind": "boxes", "label": "The outcome", "row": [
+      {"box": "trap", "title": "the plotters", "sub": ["the nine"]},
+      {"box": "trap", "title": "their people", "sub": ["who followed"]},
+      {"conn": "all"},
+      {"box": "trap", "title": "destroyed", "sub": ["before reaching him"]}]},
+    "key": {"label": "What the story asks", "row": [
+      {"box": "people", "title": "just history", "sub": ["long ago, elsewhere"], "strike": true},
+      {"box": "idea", "title": "look and learn", "sub": ["see how it ended"]}]},
+    "then": "Mujahid said {trap}before they could reach Salih, they and their people were all destroyed.{/trap} Ibn Kathir says Allah punished some of them in one place and some in another. The verse asks the listener to look at how it ended.",
+    "now": "You have watched someone build their success on lies and lose it all. {idea}The verse asks you to look, not to gloat.{/idea} Ask where your own plans are headed.",
+    "old": "Stories of ruined people are about someone else.",
+    "new": "Every ending I see is a mirror for checking where my own plans lead.",
+    "try": "Look at one plan you are working on. Ask how it ends if you keep going this way.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:52", "surah": 27, "ayah": 52, "place": "makkah",
+    "title": "Empty houses that still speak.",
+    "subtitle": "The ruins of Thamud as a sign",
+    "picture": {"kind": "boxes", "label": "What is left", "row": [
+      {"box": "trap", "title": "their houses", "sub": ["desolate, deserted"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "they did wrong", "sub": ["wronged themselves"]},
+      {"conn": "is"},
+      {"box": "idea", "title": "a sign", "sub": ["for people who know"]}]},
+    "key": {"label": "Who reads the ruins", "row": [
+      {"box": "people", "title": "tourists", "sub": ["take a photo, leave"], "strike": true},
+      {"box": "idea", "title": "people who know", "sub": ["take the lesson"]}]},
+    "then": "Their houses were left {trap}in utter ruin, deserted, because they did wrong.{/trap} The verse says this is {idea}a sign for people who know.{/idea} The listeners in Makkah knew the old ruins of Thamud.",
+    "now": "You walk past a shop that closed, a once-grand house now empty. {idea}Every abandoned place says: nothing here is permanent.{/idea} People who know take the lesson home with them.",
+    "old": "Ruins are just old buildings.",
+    "new": "Empty places remind me that only what I do for Allah lasts.",
+    "try": "The next empty or abandoned building you pass, say a short dua for a good ending.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:53", "surah": 27, "ayah": 53, "place": "makkah",
+    "title": "Those who believed and were mindful were saved.",
+    "subtitle": "The rescue inside the story",
+    "picture": {"kind": "boxes", "label": "Who was saved", "row": [
+      {"box": "people", "title": "Salih", "sub": ["and those with him"]},
+      {"box": "idea", "title": "believed", "sub": ["in his call"]},
+      {"box": "idea", "title": "had taqwa", "sub": ["were mindful of Allah"]},
+      {"conn": "were"},
+      {"box": "reward", "title": "saved", "sub": ["while the plot failed"]}]},
+    "key": {"label": "What saved them", "row": [
+      {"box": "people", "title": "numbers", "sub": ["they were few"], "strike": true},
+      {"box": "reward", "title": "faith and taqwa", "sub": ["Allah protected them"]}]},
+    "then": "After the ruin, the verse turns: {reward}Allah saved those who believed and had taqwa.{/reward} Ibn Kathir notes the believers had been called a bad omen and were the weaker party. They were the ones who came through.",
+    "now": "You feel outnumbered: the only one in your office who prays, the one parent who sets screen limits. {reward}Being few is not the same as being lost.{/reward} Faith and mindfulness are what carry you through.",
+    "old": "If I am in the minority, I am on the losing side.",
+    "new": "Safety comes from faith and mindfulness of Allah, not from numbers.",
+    "try": "Thank Allah today for one person who shares your faith and helps you keep it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:54", "surah": 27, "ayah": 54, "place": "makkah",
+    "title": "Doing wrong openly, with eyes wide open.",
+    "subtitle": "Lut confronts his people",
+    "picture": {"kind": "boxes", "label": "What Lut saw", "row": [
+      {"box": "people", "title": "Lut", "sub": ["warns his people"]},
+      {"conn": "about"},
+      {"box": "trap", "title": "open immorality", "sub": ["while you see"]},
+      {"box": "trap", "title": "in gatherings", "sub": ["every kind of evil"]}]},
+    "key": {"label": "What makes it worse", "row": [
+      {"box": "people", "title": "a private slip", "sub": ["hidden, regretted"]},
+      {"box": "trap", "title": "done in the open", "sub": ["knowing, unashamed"]}]},
+    "then": "Lut warned his people of Allah's punishment. Ibn Kathir explains {trap}while you see{/trap} as {trap}while you see one another, practicing every kind of evil in your meetings.{/trap} They knew what they were doing, and did it openly.",
+    "now": "The group chat where everyone shares what should not be shared. The office joke no one stops. {trap}When wrong becomes normal in the room, it gets harder to see.{/trap} Notice where you have stopped noticing.",
+    "old": "If everyone around me does it openly, it cannot be that bad.",
+    "new": "Doing wrong openly, with full knowledge, is a sign the heart has gone numb.",
+    "try": "Leave or quietly change one gathering, chat or habit where wrong has become normal.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:55", "surah": 27, "ayah": 55, "place": "makkah",
+    "title": "Desire leading where knowledge said no.",
+    "subtitle": "Lut calls his people ignorant",
+    "picture": {"kind": "boxes", "label": "Lut's charge", "row": [
+      {"box": "trap", "title": "desire", "sub": ["followed blindly"]},
+      {"conn": "over"},
+      {"box": "idea", "title": "what Allah made", "sub": ["natural and prescribed"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "ignorant", "sub": ["behaving senselessly"]}]},
+    "key": {"label": "What ignorance means here", "row": [
+      {"box": "people", "title": "lack of facts", "sub": ["they did not know"], "strike": true},
+      {"box": "trap", "title": "desire in charge", "sub": ["knowing, but not caring"]}]},
+    "then": "Lut said they were a people who behave senselessly. Ibn Kathir explains: {trap}you do not know anything of what is natural or what is prescribed by Allah.{/trap} He links it to their leaving what Allah had created for them.",
+    "now": "Late at night, you know what you should close, delete, or walk away from. {trap}Desire talks louder than what you know.{/trap} The verse calls that ignorance, even when you know better.",
+    "old": "My desires are just part of me, so following them is natural.",
+    "new": "Letting desire overrule what Allah taught me is a kind of ignorance.",
+    "try": "Next time a desire pushes against what you know is right, wait five minutes before acting.",
+    "related": ["26:165"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:56", "surah": 27, "ayah": 56, "place": "makkah",
+    "title": "Their only answer: throw out the clean ones.",
+    "subtitle": "Purity treated as a crime",
+    "picture": {"kind": "boxes", "label": "Their reply", "row": [
+      {"box": "people", "title": "Lut's family", "sub": ["keep themselves pure"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "expel them", "sub": ["not fit to live here"]}]},
+    "key": {"label": "What they could not stand", "row": [
+      {"box": "people", "title": "his argument", "sub": ["they had no reply"]},
+      {"box": "trap", "title": "his example", "sub": ["it embarrassed them"]}]},
+    "then": "They gave no other answer. Ibn Kathir explains their thinking: {trap}these people feel embarrassed by your deeds and do not approve, so expel them.{/trap} Lut's family was accused of one thing: {idea}wanting to stay pure.{/idea}",
+    "now": "Your friends tease you for not drinking at the party, for leaving early, for not joining the gossip. \"You think you are better than us.\" {idea}Sometimes your example is the whole argument.{/idea}",
+    "old": "If people push me out for my standards, I must be doing something wrong.",
+    "new": "Being pushed away for staying clean can be a sign I am holding on to something good.",
+    "try": "Keep one standard today that others tease you for, and smile when they do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:57", "surah": 27, "ayah": 57, "place": "makkah",
+    "title": "Saved, except the one who helped the wrong.",
+    "subtitle": "Lut's wife remained behind",
+    "picture": {"kind": "boxes", "label": "Who was saved", "row": [
+      {"box": "reward", "title": "Lut and family", "sub": ["saved"]},
+      {"conn": "except"},
+      {"box": "trap", "title": "his wife", "sub": ["stayed with them"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "she helped", "sub": ["told them of his guests"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "I did not do it", "sub": ["just approved"], "strike": true},
+      {"box": "trap", "title": "helping counts", "sub": ["approving counts"]}]},
+    "then": "Ibn Kathir says Lut's wife was destroyed with her people {trap}because she was a helper to what they did and approved of their evil deeds.{/trap} She told them about Lut's guests. Being married to a prophet did not save her.",
+    "now": "You did not write the cruel post, you just liked it. You did not cheat, you just told him where the answers were. {trap}Helping and approving are their own deeds.{/trap} And who you are close to will not carry you.",
+    "old": "If I did not commit the wrong myself, I am not involved.",
+    "new": "Helping or approving of wrong counts, and being close to good people will not save me alone.",
+    "try": "Undo one small way you have been helping or cheering on something wrong.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:58", "surah": 27, "ayah": 58, "place": "makkah",
+    "title": "They were warned, and still went ahead.",
+    "subtitle": "The end of Lut's people",
+    "picture": {"kind": "boxes", "label": "How it ended", "row": [
+      {"box": "people", "title": "the warning", "sub": ["reached them"]},
+      {"conn": "ignored"},
+      {"box": "trap", "title": "a rain", "sub": ["of stones"]},
+      {"box": "trap", "title": "evil rain", "sub": ["for those warned"]}]},
+    "key": {"label": "Why it is called evil", "row": [
+      {"box": "people", "title": "they did not know", "sub": ["no warning"], "strike": true},
+      {"box": "trap", "title": "they were warned", "sub": ["proof was established"]}]},
+    "then": "Ibn Kathir says the rain was stones, one after another. It fell on {trap}those against whom proof was established and whom the warning reached{/trap}, yet they denied the Messenger and resolved to drive him out.",
+    "now": "You have heard the reminder at Jumuah, read the verse, been told kindly by a friend. {idea}Hearing the warning is a mercy.{/idea} It is still not too late to act on it today.",
+    "old": "I have heard all the warnings before, so they do not apply to me anymore.",
+    "new": "Every warning I have heard is a mercy and a responsibility while I still have time.",
+    "try": "Think of one reminder you keep hearing and ignoring. Take one small step on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "id": "70:1", "surah": 70, "ayah": 1, "place": "makkah",
+    "title": "Someone dared the punishment to come.",
+    "subtitle": "Mocking a warning instead of heeding it",
+    "picture": {"kind": "boxes", "label": "The dare", "row": [
+      {"box": "people", "title": "a questioner", "sub": ["a mocker in Makkah"]},
+      {"conn": "demands"},
+      {"box": "trap", "title": "the punishment", "sub": ["\"bring it, if it is true\""]},
+      {"conn": "is"},
+      {"box": "idea", "title": "bound to happen", "sub": ["not a bluff"]}]},
+    "key": {"label": "What the dare assumed", "row": [
+      {"box": "people", "title": "it is an empty threat", "sub": ["call the bluff"], "strike": true},
+      {"box": "idea", "title": "it is already coming", "sub": ["asking only shows ignorance"]}]},
+    "then": "In Makkah the deniers laughed at the warning of the Last Day. Some went as far as praying: {trap}if this is the truth, rain stones down on us.{/trap} The surah opens by naming that dare and answering it: {idea}the punishment is real and on its way.{/idea}",
+    "now": "Someone at work jokes, \"If God cared, He would have done something by now.\" Or you catch yourself thinking a warning does not apply since nothing has happened yet. {trap}Silence is not the same as safety.{/trap}",
+    "old": "If nothing bad has happened yet, the warning was probably exaggerated.",
+    "new": "A delay is not a denial. What is promised is already on its way.",
+    "try": "Think of one warning you have been brushing off. Take it seriously for five minutes today.",
+    "related": ["22:47", "8:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:2", "surah": 70, "ayah": 2, "place": "makkah",
+    "title": "When it comes, nobody can push it back.",
+    "subtitle": "No one stands between the denier and the Day",
+    "picture": {"kind": "boxes", "label": "What could stop it", "row": [
+      {"box": "people", "title": "allies", "sub": ["friends, tribe"], "strike": true},
+      {"box": "reward", "title": "wealth", "sub": ["influence, status"], "strike": true},
+      {"box": "trap", "title": "no preventer", "sub": ["nothing holds it back"]}]},
+    "key": {"label": "The real defence", "row": [
+      {"box": "people", "title": "I can handle it later", "sub": ["I will find a way"], "strike": true},
+      {"box": "idea", "title": "only now is open", "sub": ["change before it comes"]}]},
+    "then": "The deniers of Quraysh trusted their clans and their wealth to protect them from anything. Ibn Kathir explains the verse plainly: {trap}no one can repel it if Allah wants it to happen.{/trap} The usual shields of Makkah would not work here.",
+    "now": "You know how to get out of most things: a phone call, a favour, a good lawyer, the right excuse. That skill makes you feel untouchable. {idea}Some doors cannot be talked open.{/idea} The time to prepare is before you reach them.",
+    "old": "There is always someone who can get me out of trouble.",
+    "new": "Before Allah's decree, my connections and excuses carry no weight.",
+    "try": "Notice one area where you rely on talking your way out. Choose honesty there today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:3", "surah": 70, "ayah": 3, "place": "makkah",
+    "title": "It comes from the Lord of the ways up.",
+    "subtitle": "Who stands behind the warning",
+    "picture": {"kind": "boxes", "label": "The source", "row": [
+      {"box": "trap", "title": "the punishment", "sub": ["the deniers mocked it"]},
+      {"conn": "comes from"},
+      {"box": "idea", "title": "Allah", "sub": ["owner of the ways of ascent"]}]},
+    "key": {"label": "Ways of ascent", "row": [
+      {"box": "idea", "title": "loftiness", "sub": ["high above all"]},
+      {"box": "idea", "title": "the paths to heaven", "sub": ["where angels rise"]}]},
+    "then": "The deniers spoke as if the warning were just Muhammad's ﷺ idea. This verse names the source. Ibn Abbas said the ways of ascent mean {idea}loftiness and abundance{/idea}, and Mujahid said they are {idea}the ways of rising into the heavens.{/idea}",
+    "now": "A notice from a friend you can ignore. A letter from the court you cannot. You open it differently because of who sent it. {idea}The Quran is a message from the One above everything{/idea}, and it reads differently when you remember that.",
+    "old": "A reminder is only as serious as the person reading it to me.",
+    "new": "The weight of the message comes from the One who sent it.",
+    "try": "Before you read Quran next, pause and say: this is from my Lord. Then read.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:4", "surah": 70, "ayah": 4, "place": "makkah",
+    "title": "A Day as long as fifty thousand years.",
+    "subtitle": "The length of the Day of Judgement",
+    "picture": {"kind": "boxes", "label": "What rises to Him", "row": [
+      {"box": "people", "title": "the angels", "sub": ["ascending"]},
+      {"box": "people", "title": "the Spirit", "sub": ["possibly Jibril"]},
+      {"conn": "on"},
+      {"box": "idea", "title": "50,000", "sub": ["years, the measure of that Day"], "num": true}]},
+    "key": {"label": "How the Day feels", "row": [
+      {"box": "trap", "title": "endless", "sub": ["for those who withheld and denied"]},
+      {"box": "reward", "title": "short", "sub": ["for those who prepared"]}]},
+    "then": "Ibn Abbas and others said this Day is the Day of Judgement. Ibn Kathir cites a hadith about the wealthy who {trap}did not give the due on their wealth{/trap}, standing through a Day of fifty thousand years until judgement is passed. The length is felt by those who denied.",
+    "now": "A five-minute wait at the doctor's feels like an hour when you are scared. A long dinner with friends flies by. {idea}Time stretches with how you arrive.{/idea} What you do with your wealth and hours now shapes how long that Day will feel.",
+    "old": "Judgement is one quick moment at the end.",
+    "new": "That Day is long, and how it feels depends on what I bring to it.",
+    "try": "Give something small today from what you have, even if no one asks.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:5", "surah": 70, "ayah": 5, "place": "makkah",
+    "title": "Be patient, and make it beautiful.",
+    "subtitle": "Patience without bitterness while being mocked",
+    "picture": {"kind": "boxes", "label": "What the Prophet ﷺ faced", "row": [
+      {"box": "trap", "title": "rejection", "sub": ["his own people"]},
+      {"box": "trap", "title": "mockery", "sub": ["\"hurry it up then\""]},
+      {"conn": "answered with"},
+      {"box": "idea", "title": "beautiful patience", "sub": ["no complaint, no revenge"]}]},
+    "key": {"label": "Two kinds of patience", "row": [
+      {"box": "people", "title": "gritted teeth", "sub": ["enduring while seething"], "strike": true},
+      {"box": "idea", "title": "gracious patience", "sub": ["calm, trusting, no grudge"]}]},
+    "then": "Ibn Kathir says this was addressed to the Prophet ﷺ: {idea}be patient with your people's rejection{/idea} and with their demand to hurry the punishment, since they thought it would never come. He was not told to argue harder. He was told to wait well.",
+    "now": "A relative keeps mocking your prayer at family dinners. A colleague rolls their eyes every time you decline the drinks. You can stay quiet and stew, or you can stay kind. {idea}Beautiful patience keeps your heart clean while you wait.{/idea}",
+    "old": "Being patient means swallowing it and resenting them quietly.",
+    "new": "Real patience is calm and trusting, with no grudge hidden inside it.",
+    "try": "The next time someone needles you today, answer once, kindly, and let it go.",
+    "related": ["42:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:6", "surah": 70, "ayah": 6, "place": "makkah",
+    "title": "They see it as far away.",
+    "subtitle": "The comfort of thinking the end is distant",
+    "picture": {"kind": "boxes", "label": "Their view", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["comfortable, busy"]},
+      {"conn": "see the Day as"},
+      {"box": "trap", "title": "far off", "sub": ["even impossible"]}]},
+    "key": {"label": "What far means here", "row": [
+      {"box": "trap", "title": "not soon", "sub": ["so not now"]},
+      {"box": "trap", "title": "not real", "sub": ["so never"]}]},
+    "then": "Ibn Kathir explains that the word for far, {trap}ba'id{/trap}, here means something they thought impossible. The deniers of Makkah did not just think the Hour was late. {trap}They thought it would never come.{/trap}",
+    "now": "You plan to fix your prayer when life calms down. To call your mother when work slows. To repent after this phase. {trap}Far away is a comfortable place to keep things.{/trap} It quietly turns later into never.",
+    "old": "There is plenty of time before any of this matters.",
+    "new": "Thinking it is far away is exactly how people end up unready.",
+    "try": "Pick one thing you keep saying you will do later. Do the first small step today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:7", "surah": 70, "ayah": 7, "place": "makkah",
+    "title": "But We see it near.",
+    "subtitle": "Allah's view of time versus ours",
+    "picture": {"kind": "boxes", "label": "Two views of one Day", "row": [
+      {"box": "people", "title": "they", "sub": ["see it far"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["sees it near"]}]},
+    "key": {"label": "Why near", "row": [
+      {"box": "idea", "title": "it is coming", "sub": ["all that approaches is near"]},
+      {"box": "idea", "title": "the time is hidden", "sub": ["known only to Allah"]}]},
+    "then": "Right after their view comes Allah's. Ibn Kathir notes that believers held its coming to be near, {idea}even though no one knows its time except Allah.{/idea} {idea}Whatever is approaching is near{/idea}, and it will surely happen.",
+    "now": "Your phone says your next birthday is months away. Then it arrives, and the last year feels like a week. Every deadline you ever had felt far until it did not. {idea}Near is the honest word.{/idea}",
+    "old": "The end is so far away it hardly affects my choices today.",
+    "new": "Anything certain to come is already close.",
+    "try": "Tonight, spend two minutes thinking: if it were near, what would I change first?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:8", "surah": 70, "ayah": 8, "place": "makkah",
+    "title": "The sky will look like murky oil.",
+    "subtitle": "The ceiling of the world melting",
+    "picture": {"kind": "boxes", "label": "What changes", "row": [
+      {"box": "plain", "title": "the sky", "sub": ["blue, fixed, always there"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "murky oil", "sub": ["like residue of oil"]}]},
+    "key": {"label": "What I count on", "row": [
+      {"box": "people", "title": "some things never change", "sub": ["the sky is the sky"], "strike": true},
+      {"box": "idea", "title": "everything here ends", "sub": ["even the sky"]}]},
+    "then": "The surah now describes the Day the deniers mocked. Ibn Abbas, Mujahid and others said the sky will be {trap}like the residue of oil.{/trap} The most stable thing anyone in Makkah could point to would lose its form.",
+    "now": "You look up from the bus stop and the sky is just there, like it always has been. You build your life assuming the backdrop stays fixed. {idea}Even the backdrop has an end date.{/idea}",
+    "old": "Some things in this world are permanent.",
+    "new": "Nothing here is fixed. Even the sky will change.",
+    "try": "Look up at the sky once today and remember it will not always look like this.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:9", "surah": 70, "ayah": 9, "place": "makkah",
+    "title": "Mountains will float like fluffed wool.",
+    "subtitle": "The heaviest things made light",
+    "picture": {"kind": "boxes", "label": "What changes", "row": [
+      {"box": "plain", "title": "the mountains", "sub": ["heavy, rooted"]},
+      {"conn": "become"},
+      {"box": "trap", "title": "fluffed wool", "sub": ["loose, drifting"]}]},
+    "key": {"label": "What looks solid", "row": [
+      {"box": "people", "title": "my solid ground", "sub": ["career, house, health"], "strike": true},
+      {"box": "idea", "title": "only Allah lasts", "sub": ["the rest drifts away"]}]},
+    "then": "Mujahid, Qatadah and As-Suddi said the mountains will be {trap}like fluffed wool{/trap}, as another verse calls it carded wool. For people who lived among the mountains of Makkah, nothing seemed more permanent.",
+    "now": "The house you are paying off. The career you built for fifteen years. The body you trust to carry you. They feel like mountains. {idea}They are real, and they are not forever.{/idea}",
+    "old": "The big, solid parts of my life will always hold me up.",
+    "new": "Even mountains drift on that Day. Only what I did for Allah stays.",
+    "try": "Name one solid thing you lean on. Thank Allah for it out loud.",
+    "related": ["101:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:10", "surah": 70, "ayah": 10, "place": "makkah",
+    "title": "No close friend will ask about a friend.",
+    "subtitle": "When everyone is consumed with themselves",
+    "picture": {"kind": "boxes", "label": "Two friends", "row": [
+      {"box": "people", "title": "a close friend", "sub": ["sees you in distress"]},
+      {"conn": "does not ask"},
+      {"box": "people", "title": "you", "sub": ["in the worst state"]}]},
+    "key": {"label": "Why the silence", "row": [
+      {"box": "people", "title": "they stopped caring", "sub": ["they betrayed me"], "strike": true},
+      {"box": "trap", "title": "they are drowning too", "sub": ["each has enough of his own"]}]},
+    "then": "Ibn Kathir says no close friend will ask about his friend {trap}while he sees him in the worst of conditions.{/trap} He will be worried about himself. He links it to the verse: every man that Day will have enough to make him careless of others.",
+    "now": "Think of the friend you call first in a crisis, the one in every family group chat who always replies. On that Day they will be facing their own record. {idea}The friendships worth having are the ones that help you prepare now.{/idea}",
+    "old": "My people will have my back no matter what.",
+    "new": "On that Day each person faces their own load. Help each other now, while it counts.",
+    "try": "Send one friend a message today that reminds them of Allah, kindly.",
+    "related": ["80:37", "31:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:11", "surah": 70, "ayah": 11, "place": "makkah",
+    "title": "He would hand over his own children to escape.",
+    "subtitle": "The ransom no one expects to offer",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "people", "title": "they see each other", "sub": ["faces known"]},
+      {"box": "people", "title": "the criminal", "sub": ["sees the horror"]},
+      {"conn": "offers"},
+      {"box": "reward", "title": "his children", "sub": ["dearest to his heart"]}]},
+    "key": {"label": "What fear does", "row": [
+      {"box": "people", "title": "I would die for my kids", "sub": ["here, today"]},
+      {"box": "trap", "title": "he would trade them", "sub": ["there, in panic"]}]},
+    "then": "They will be made to see one another, yet flee. Ibn Kathir says even the child {trap}dearer to him than the last beat of his heart{/trap} he would wish to offer as ransom when he sees the horrors. {trap}Even that would not be accepted.{/trap}",
+    "now": "You hold your child at the school gate and feel you would give anything for them. That love is real. The verse shows how far terror on that Day goes. {idea}The best protection for your family is the faith you build with them today.{/idea}",
+    "old": "Nothing could ever make me turn on the people I love.",
+    "new": "That Day's fear is beyond anything I know. Preparing now is the real love.",
+    "try": "Pray one prayer today with your family or child beside you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:12", "surah": 70, "ayah": 12, "place": "makkah",
+    "title": "His wife and his brother join the offer.",
+    "subtitle": "The ransom list keeps growing",
+    "picture": {"kind": "boxes", "label": "The list grows", "row": [
+      {"box": "reward", "title": "children", "sub": ["offered"]},
+      {"box": "reward", "title": "wife", "sub": ["his partner in life"]},
+      {"box": "reward", "title": "brother", "sub": ["his blood"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "not enough", "sub": ["none accepted"]}]},
+    "key": {"label": "Who carries my load", "row": [
+      {"box": "people", "title": "my family shares it", "sub": ["we are one unit"], "strike": true},
+      {"box": "idea", "title": "I carry my own", "sub": ["no one bears another's load"]}]},
+    "then": "The list continues: his wife, then his brother. Ibn Kathir pairs this with the verse that {trap}a heavily laden soul calls another to carry its load{/trap}, and nothing is lifted, even by close kin.",
+    "now": "Your brother covers for you with your parents. Your spouse handles the bills you forget. You lean on them for so much. {idea}On that Day, nobody can carry your deeds for you.{/idea}",
+    "old": "My family will share whatever I end up facing.",
+    "new": "Each person carries their own record. I should carry mine well.",
+    "try": "Do one task today you usually leave for your spouse or sibling.",
+    "related": ["35:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:13", "surah": 70, "ayah": 13, "place": "makkah",
+    "title": "Even the clan that sheltered him.",
+    "subtitle": "The tribe that always protected him",
+    "picture": {"kind": "boxes", "label": "His protection in life", "row": [
+      {"box": "people", "title": "his kindred", "sub": ["tribe, near kin"]},
+      {"conn": "sheltered"},
+      {"box": "people", "title": "him", "sub": ["always safe with them"]},
+      {"conn": "now offered as"},
+      {"box": "trap", "title": "ransom", "sub": ["refused"]}]},
+    "key": {"label": "What the clan was worth", "row": [
+      {"box": "reward", "title": "safety here", "sub": ["real in this life"]},
+      {"box": "trap", "title": "nothing there", "sub": ["kinship ends that Day"]}]},
+    "then": "In Makkah the clan was everything. It protected you, fed you, avenged you. Mujahid and As-Suddi said fasilah means {idea}his tribe and his kin{/idea}. Ibn Kathir cites the verse that when the Trumpet is blown, {trap}there will be no kinship among them.{/trap}",
+    "now": "Your surname opens doors. Your family's name gets you hired, forgiven, welcomed. That shelter is a gift. {trap}It does not carry over.{/trap} What carries over is how you used it.",
+    "old": "Where I come from and who my family is will protect me.",
+    "new": "The shelter of family ends at that Day. Only my deeds go further.",
+    "try": "Use your family's name or connections today to help someone who has none.",
+    "related": ["23:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:14", "surah": 70, "ayah": 14, "place": "makkah",
+    "title": "He would give the whole earth to be saved.",
+    "subtitle": "The biggest ransom imaginable",
+    "picture": {"kind": "boxes", "label": "The last offer", "row": [
+      {"box": "reward", "title": "everyone on earth", "sub": ["all of them"]},
+      {"box": "reward", "title": "earth full of gold", "sub": ["all wealth"]},
+      {"conn": "so that"},
+      {"box": "trap", "title": "it saves him", "sub": ["it does not"]}]},
+    "key": {"label": "What buys safety", "row": [
+      {"box": "reward", "title": "enough of anything", "sub": ["money, people"], "strike": true},
+      {"box": "idea", "title": "faith and deeds", "sub": ["brought from this life"]}]},
+    "then": "The offer reaches its limit. Ibn Kathir says {trap}no ransom will be accepted{/trap}, even if he brought all the people of the earth and enough gold to fill it. The deniers of Makkah trusted wealth. Here it is worth nothing.",
+    "now": "Payday comes, and for a moment you feel secure. Insurance, savings, an emergency fund. These are wise here. {idea}None of it is currency on that Day.{/idea} The only thing that crosses is what you did.",
+    "old": "With enough money, I can fix almost anything.",
+    "new": "All the wealth of the earth cannot buy one soul out of that Day.",
+    "try": "Give a small charity today, quietly, as a deposit for the Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "70:15", "surah": 70, "ayah": 15, "place": "makkah",
+    "title": "No. It is the Flame.",
+    "subtitle": "The bargaining is cut off",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "people", "title": "every ransom", "sub": ["children, kin, earth"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "No!", "sub": ["by no means"]},
+      {"box": "trap", "title": "Laza", "sub": ["the Flame"]}]},
+    "key": {"label": "Bargaining", "row": [
+      {"box": "people", "title": "deal at the end", "sub": ["I will negotiate then"], "strike": true},
+      {"box": "idea", "title": "the deal is now", "sub": ["repentance is open today"]}]},
+    "then": "After all the offers, one word: {trap}No!{/trap} Ibn Kathir says Allah is describing the Fire and {trap}the severity of its heat.{/trap} The criminal's bargaining ends there. The time for making deals was in this life.",
+    "now": "You have probably said it: I will sort it out with Allah later. As if there will be a meeting where you can explain. {idea}The meeting is now.{/idea} Every prayer, every apology, every time you turn back is the negotiation.",
+    "old": "When the time comes, I will find a way to make things right.",
+    "new": "The way to make things right is open today, and only today is promised.",
+    "try": "Make one sincere istighfar today for a specific thing, naming it to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

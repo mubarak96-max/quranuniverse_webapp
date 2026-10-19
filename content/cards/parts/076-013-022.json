@@ -1,0 +1,194 @@
+[
+  {
+    "id": "76:13", "surah": 76, "ayah": 13, "place": "madinah",
+    "title": "No burning sun, no biting cold.",
+    "subtitle": "Rest in a climate that never troubles",
+    "picture": {"kind": "boxes", "label": "In the Garden", "row": [
+      {"box": "reward", "title": "raised couches", "sub": ["under canopies"]},
+      {"box": "trap", "title": "harsh heat", "sub": ["none"], "strike": true},
+      {"box": "trap", "title": "bitter cold", "sub": ["none"], "strike": true}]},
+    "key": {"label": "The weather", "row": [
+      {"box": "people", "title": "always changing", "sub": ["too hot, too cold"], "strike": true},
+      {"box": "reward", "title": "one gentle climate", "sub": ["no wish to change it"]}]},
+    "then": "Ibn Kathir says there will be {reward}no disturbing heat and no painful cold, only one climate, always{/reward}, and they will not want it changed. Earlier, the righteous were patient. {idea}Now they recline.{/idea}",
+    "now": "You check the weather app every morning. Too hot to walk, too cold to go out, the AC bill, the heating bill. {reward}A place where the weather is never a problem is part of the promise.{/reward}",
+    "old": "Discomfort is just a permanent part of life.",
+    "new": "Every hot or freezing day here can be borne with a place of rest in mind.",
+    "try": "Next time the weather annoys you, say: there is a Garden with none of this.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:14", "surah": 76, "ayah": 14, "place": "madinah",
+    "title": "Shade close by, fruit that bends down to you.",
+    "subtitle": "Nothing out of reach",
+    "picture": {"kind": "boxes", "label": "The fruit", "row": [
+      {"box": "people", "title": "you stand", "sub": ["it rises with you"]},
+      {"box": "people", "title": "you sit", "sub": ["it lowers"]},
+      {"box": "reward", "title": "you lie down", "sub": ["it comes lower still"]}]},
+    "key": {"label": "Reaching", "row": [
+      {"box": "trap", "title": "thorns, distance", "sub": ["here"], "strike": true},
+      {"box": "reward", "title": "within reach", "sub": ["always"]}]},
+    "then": "Mujahid said {reward}if he stands it rises with him, if he sits it lowers, if he lies down it lowers more.{/reward} Qatadah said {idea}no thorn or distance keeps their hands from it.{/idea}",
+    "now": "Everything good here seems just out of reach: the promotion, the house, the rest you need. You keep stretching. {reward}In the Garden, what you want comes to you.{/reward}",
+    "old": "Everything I want, I have to reach and strain for.",
+    "new": "There is a place where good things bend toward me.",
+    "try": "Share fruit with someone today, and remember the fruit that bends down.",
+    "related": ["55:54", "69:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:15", "surah": 76, "ayah": 15, "place": "madinah",
+    "title": "Silver vessels and cups passed around to them.",
+    "subtitle": "Served, not serving",
+    "picture": {"kind": "boxes", "label": "At the table", "row": [
+      {"box": "people", "title": "servants", "sub": ["going around"]},
+      {"conn": "bring"},
+      {"box": "reward", "title": "silver vessels", "sub": ["food"]},
+      {"box": "reward", "title": "cups", "sub": ["drink"]}]},
+    "key": {"label": "Who serves", "row": [
+      {"box": "people", "title": "they fed others", "sub": ["verse 8"]},
+      {"conn": "now"},
+      {"box": "reward", "title": "they are served", "sub": ["in the Garden"]}]},
+    "then": "Ibn Kathir says {reward}servants will go around them with silver vessels of food and cups of drink.{/reward} These are the same people who, a few verses earlier, {idea}fed the poor, the orphan, and the captive while wanting the food themselves.{/idea}",
+    "now": "You are the one who always serves: the tea at family gatherings, the plates after Eid dinner, the one who clears the table. {reward}One day the plates come to you.{/reward}",
+    "old": "Being the one who serves means I am at the bottom.",
+    "new": "Those who served others here will be served there.",
+    "try": "Serve someone at your table today before you serve yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:16", "surah": 76, "ayah": 16, "place": "madinah",
+    "title": "Silver as clear as glass, filled just right.",
+    "subtitle": "Measured to your exact thirst",
+    "picture": {"kind": "boxes", "label": "The cups", "row": [
+      {"box": "reward", "title": "silver", "sub": ["white and precious"]},
+      {"box": "reward", "title": "clear as glass", "sub": ["see through it"]},
+      {"box": "reward", "title": "measured", "sub": ["not more, not less"]}]},
+    "key": {"label": "How much is poured", "row": [
+      {"box": "trap", "title": "too much or too little", "sub": ["like here"], "strike": true},
+      {"box": "reward", "title": "exactly enough", "sub": ["for your thirst"]}]},
+    "then": "Ibn Abbas and others said it is {reward}the whiteness of silver in the transparency of glass{/reward}, something with no likeness in this world. The measure is {idea}exactly what quenches their thirst, not more, not less.{/idea}",
+    "now": "You pour too much and waste it. You order too little and leave hungry. Nothing here is ever quite right. {reward}The Garden is precise to your need.{/reward}",
+    "old": "Nothing in life ever fits me exactly.",
+    "new": "Allah knows my measure. In the Garden it is met exactly.",
+    "try": "Take only as much as you need at your next meal.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:17", "surah": 76, "ayah": 17, "place": "madinah",
+    "title": "A cup mixed with ginger, warm after the cool.",
+    "subtitle": "Balance in every delight",
+    "picture": {"kind": "boxes", "label": "Two drinks", "row": [
+      {"box": "reward", "title": "camphor", "sub": ["cool, verse 5"]},
+      {"box": "reward", "title": "ginger", "sub": ["warm, this verse"]}]},
+    "key": {"label": "The design", "row": [
+      {"box": "people", "title": "one taste only", "sub": ["gets dull"], "strike": true},
+      {"box": "reward", "title": "balanced", "sub": ["cool then warm"]}]},
+    "then": "Ibn Kathir says {reward}one time they are given a drink mixed with camphor, which is cool, and another time with ginger, which is warm{/reward}, so their state is balanced. Those nearest to Allah {idea}drink from all of it as they wish.{/idea}",
+    "now": "Ginger tea on a cold evening, a cold drink at noon. Your body needs both. {reward}The Garden is not just more. It is perfectly balanced.{/reward}",
+    "old": "Paradise sounds like the same pleasure over and over.",
+    "new": "The Garden is full of variety and balance, designed with care.",
+    "try": "Make a cup of something warm today and thank Allah for its taste.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:18", "surah": 76, "ayah": 18, "place": "madinah",
+    "title": "A spring there named Salsabil.",
+    "subtitle": "A spring that never stops flowing",
+    "picture": {"kind": "boxes", "label": "Salsabil", "row": [
+      {"box": "reward", "title": "a spring", "sub": ["in Paradise"]},
+      {"box": "reward", "title": "always flowing", "sub": ["a strong current"]}]},
+    "key": {"label": "Its name", "row": [
+      {"box": "people", "title": "just a stream", "strike": true},
+      {"box": "reward", "title": "named, known", "sub": ["Salsabil"]}]},
+    "then": "Ikrimah said {reward}Salsabil is the name of a spring in Paradise.{/reward} Mujahid said it is called this {idea}because of its continuous flowing and the strength of its current.{/idea}",
+    "now": "You saved your energy for a weekend that went too fast. Joy here comes in drips: a good day, a good meal, then it is over. {reward}This spring is named for never stopping.{/reward}",
+    "old": "Good times always run out.",
+    "new": "There is a joy that keeps flowing and never runs dry.",
+    "try": "When a good moment ends today, ask Allah for the joy that does not end.",
+    "related": ["76:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:19", "surah": 76, "ayah": 19, "place": "madinah",
+    "title": "Servants like scattered pearls, forever young.",
+    "subtitle": "The beauty of those who serve them",
+    "picture": {"kind": "boxes", "label": "Around them", "row": [
+      {"box": "reward", "title": "young servants", "sub": ["never aging"]},
+      {"conn": "look like"},
+      {"box": "reward", "title": "scattered pearls", "sub": ["many, beautiful"]}]},
+    "key": {"label": "Time there", "row": [
+      {"box": "trap", "title": "everything ages", "sub": ["like here"], "strike": true},
+      {"box": "reward", "title": "one state forever", "sub": ["no change"]}]},
+    "then": "Ibn Kathir says they stay {reward}in one state forever, never growing older.{/reward} Seeing them rush to serve, with their beauty and fine clothes, {idea}you would think them scattered pearls{/idea}, and nothing is lovelier than pearls in a beautiful place.",
+    "now": "You notice your first grey hairs in the bathroom mirror. Your kids grow, your parents slow down. {reward}The Garden is a place where time stops taking.{/reward}",
+    "old": "Losing youth and beauty is just how it is.",
+    "new": "Nothing in the Garden fades. What is lost here is not lost forever.",
+    "try": "Use one hour of your health today for something that lasts.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:20", "surah": 76, "ayah": 20, "place": "madinah",
+    "title": "Look there, and you see delight and a great kingdom.",
+    "subtitle": "Even the least of them gets ten worlds",
+    "picture": {"kind": "boxes", "label": "The least in Paradise", "row": [
+      {"box": "people", "title": "this world", "sub": ["all of it"]},
+      {"conn": "times"},
+      {"box": "reward", "title": "ten", "sub": ["and more"], "num": true}]},
+    "key": {"label": "The size of it", "row": [
+      {"box": "trap", "title": "a small reward", "sub": ["a nice place"], "strike": true},
+      {"box": "reward", "title": "a great dominion", "sub": ["vast, splendid"]}]},
+    "then": "Ibn Kathir cites the authentic hadith: Allah will tell {idea}the last person to leave the Fire and enter Paradise{/idea}, {reward}you have the like of the world and ten times more.{/reward} If that is the least, he asks, what of those higher than him?",
+    "now": "You compare your flat to your cousin's house, your salary to your friend's. The world feels like a race for a bigger slice. {reward}The smallest place in the Garden is bigger than the whole world, ten times over.{/reward}",
+    "old": "I need more of this world to be satisfied.",
+    "new": "The smallest share there is more than all of this world.",
+    "try": "The next time you feel envy today, remember the ten worlds.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:21", "surah": 76, "ayah": 21, "place": "madinah",
+    "title": "Their Lord gives them a drink that purifies.",
+    "subtitle": "Beautiful outside, clean inside",
+    "picture": {"kind": "boxes", "label": "Outside and inside", "row": [
+      {"box": "reward", "title": "green silk", "sub": ["silver bracelets"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "a pure drink", "sub": ["from their Lord"]},
+      {"conn": "removes"},
+      {"box": "trap", "title": "envy, hatred", "sub": ["gone"], "strike": true}]},
+    "key": {"label": "What Paradise cleans", "row": [
+      {"box": "people", "title": "only the body", "sub": ["fine clothes"], "strike": true},
+      {"box": "reward", "title": "the heart too", "sub": ["no envy, no hate"]}]},
+    "then": "Ibn Kathir says the drink {reward}purifies their insides of envy, hatred, harm, and every bad trait.{/reward} Ali bin Abi Talib said at the gate of Paradise they will drink from one spring and {idea}Allah will remove whatever harm is inside them.{/idea}",
+    "now": "You dress well for the wedding and smile at the cousin you secretly resent. The outside is fine. Inside is a knot. {reward}In the Garden there is no knot left.{/reward}",
+    "old": "Looking good is enough.",
+    "new": "Allah cares about a clean heart, and in the Garden He makes it fully clean.",
+    "try": "Make dua today for someone you feel envy toward.",
+    "related": ["22:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:22", "surah": 76, "ayah": 22, "place": "madinah",
+    "title": "This is your reward. Your effort has been appreciated.",
+    "subtitle": "Small deeds, large return",
+    "picture": {"kind": "boxes", "label": "What is said to them", "row": [
+      {"box": "idea", "title": "your effort", "sub": ["small, unseen"]},
+      {"conn": "is"},
+      {"box": "reward", "title": "appreciated", "sub": ["by Allah"]}]},
+    "key": {"label": "Who noticed", "row": [
+      {"box": "trap", "title": "no one", "sub": ["no thanks, verse 9"], "strike": true},
+      {"box": "reward", "title": "Allah did", "sub": ["and thanked it"]}]},
+    "then": "Ibn Kathir says this will be said {reward}to honor them.{/reward} Allah {idea}rewards a small amount of deeds with a large amount of reward.{/idea} The people who wanted no thanks from anyone in verse 9 are thanked by Allah.",
+    "now": "You cleaned up after everyone and no one noticed. You stayed up with a sick child and no one knew. {reward}One day you will hear: your effort was appreciated.{/reward}",
+    "old": "If no one notices my effort, it does not count.",
+    "new": "Allah notices every effort and repays it far more than it was.",
+    "try": "Keep going with one unseen effort today, knowing it is seen.",
+    "related": ["69:24", "7:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

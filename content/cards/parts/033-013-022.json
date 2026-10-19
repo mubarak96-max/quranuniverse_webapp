@@ -1,0 +1,195 @@
+[
+  {
+    "id": "33:13", "surah": 33, "ayah": 13, "place": "madinah",
+    "title": "Our houses are exposed, they said. They only wanted to flee.",
+    "subtitle": "An excuse that hid the real reason",
+    "picture": {"kind": "boxes", "label": "What was said", "row": [
+      {"box": "trap", "title": "no place for you here", "sub": ["go back home"]},
+      {"box": "trap", "title": "our homes lie open", "sub": ["the excuse"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "they were not exposed", "sub": ["they wanted to flee"]}]},
+    "key": {"label": "Excuse and reason", "row": [
+      {"box": "people", "title": "a real concern", "sub": ["the story told"], "strike": true},
+      {"box": "trap", "title": "a wish to escape", "sub": ["what Allah exposed"]}]},
+    "then": "During the siege, some told the people of Madinah to go home. Ibn Abbas said a group asked permission, saying {trap}we fear our homes may be robbed{/trap}. Allah said their homes were not exposed. {trap}They only wanted to run{/trap} from where they were needed.",
+    "now": "The volunteer rota at the masjid, the family member who needs a carer this weekend. Suddenly you have a work thing. {idea}Allah knows the real reason{/idea} behind the excuse, even when you half-believe it yourself.",
+    "old": "My excuse is valid, so I am off the hook.",
+    "new": "Allah sees whether my reason is real or just a way to escape.",
+    "try": "Next time you reach for an excuse, ask yourself honestly what the real reason is.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:14", "surah": 33, "ayah": 14, "place": "madinah",
+    "title": "Faith that would fold at the first real pressure.",
+    "subtitle": "How shallow commitment behaves",
+    "picture": {"kind": "boxes", "label": "The scenario", "row": [
+      {"box": "trap", "title": "enemy from all sides", "sub": ["the city entered"]},
+      {"conn": "asked to"},
+      {"box": "trap", "title": "abandon faith", "sub": ["they would, quickly"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "faith for easy days", "sub": ["no roots"], "strike": true},
+      {"box": "idea", "title": "faith that stays", "sub": ["through fear"]}]},
+    "then": "Ibn Kathir, citing Qatadah and Ibn Jarir, says if the enemy had entered and demanded disbelief, {trap}they would have given in promptly{/trap}. They would not stay firm {trap}if faced with the slightest fear{/trap}.",
+    "now": "The new job where drinks after work are expected. The friends who laugh when you step out to pray. {idea}Pressure is quiet, not dramatic.{/idea} Faith with roots is built before the test arrives.",
+    "old": "I will be strong when a real test comes.",
+    "new": "Firmness is built in small daily choices, before the big test.",
+    "try": "Practise one small act of faith in public today that you usually hide.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:15", "surah": 33, "ayah": 15, "place": "madinah",
+    "title": "They had promised Allah. A promise to Him is asked about.",
+    "subtitle": "Covenants made in calm times",
+    "picture": {"kind": "boxes", "label": "Before and after", "row": [
+      {"box": "people", "title": "before the fear", "sub": ["we will never flee"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the fear came", "sub": ["the promise forgotten"]}]},
+    "key": {"label": "What happens to a promise", "row": [
+      {"box": "people", "title": "forgotten if hard", "sub": ["just words"], "strike": true},
+      {"box": "idea", "title": "asked about", "sub": ["Allah will ask"]}]},
+    "then": "Ibn Kathir says Allah reminds them of {idea}the promise they made before the fear struck{/idea}: that they would not turn their backs. {trap}Allah will inevitably ask them about that covenant.{/trap}",
+    "now": "Ramadan, when you promised yourself you would keep praying Fajr. The hospital visit when you swore you would call your father more. {idea}Those were promises to Allah too.{/idea} He will ask about them.",
+    "old": "Promises I made in emotional moments do not really count.",
+    "new": "A promise to Allah is remembered and asked about, even if I forget it.",
+    "try": "Pick one promise to Allah from a past Ramadan and restart it today, small.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:16", "surah": 33, "ayah": 16, "place": "madinah",
+    "title": "Running from death does not buy you more time.",
+    "subtitle": "Fleeing changes nothing about your appointed term",
+    "picture": {"kind": "boxes", "label": "The flight", "row": [
+      {"box": "people", "title": "flee", "sub": ["from death or danger"]},
+      {"conn": "gains"},
+      {"box": "trap", "title": "a little while", "sub": ["no extra time"]}]},
+    "key": {"label": "What decides your lifespan", "row": [
+      {"box": "people", "title": "avoiding every risk", "sub": ["my own escape"], "strike": true},
+      {"box": "idea", "title": "Allah's appointed term", "sub": ["neither earlier nor later"]}]},
+    "then": "Ibn Kathir says fleeing {idea}will not delay their appointed end or lengthen their lives{/idea}. It may even bring it sooner. He links it to 4:77: {reward}the enjoyment of this world is short, the Hereafter is better{/reward}.",
+    "now": "You avoid the hard conversation, the hospital visit, the responsibility, as if dodging them keeps you safe. {idea}Your time is already written.{/idea} What you do with it is the part you choose.",
+    "old": "If I avoid every hard thing, I will be safer.",
+    "new": "My time is set by Allah, so running from duty buys me nothing.",
+    "try": "Do one thing today you have been avoiding out of fear.",
+    "related": ["4:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:17", "surah": 33, "ayah": 17, "place": "madinah",
+    "title": "Who can shield you from Allah, if He wills harm or mercy?",
+    "subtitle": "No protector or helper but Him",
+    "picture": {"kind": "boxes", "label": "What Allah wills", "row": [
+      {"box": "trap", "title": "harm", "sub": ["no one can block it"]},
+      {"box": "reward", "title": "mercy", "sub": ["no one can stop it"]}]},
+    "key": {"label": "Where to run", "row": [
+      {"box": "people", "title": "away from Allah", "sub": ["to someone else"], "strike": true},
+      {"box": "idea", "title": "to Allah", "sub": ["the only protector"]}]},
+    "then": "Ibn Kathir says {idea}they have no one except Allah to respond to their cries{/idea}. Those fleeing the trench imagined safety elsewhere. But no one can block what He wills, {reward}whether harm or mercy{/reward}.",
+    "now": "The mercy you are waiting for: a job, a child, healing. No one can stop it if He wills it. {reward}And no one can give it if He does not.{/reward} So the only place to run is to Him.",
+    "old": "If I find the right person, they can protect me from anything.",
+    "new": "Only Allah can block harm or send mercy, so I run to Him.",
+    "try": "Ask Allah directly today for one mercy you have been waiting for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:18", "surah": 33, "ayah": 18, "place": "madinah",
+    "title": "Allah knows who holds others back from doing good.",
+    "subtitle": "The ones who say come here, stay comfortable",
+    "picture": {"kind": "boxes", "label": "What they said", "row": [
+      {"box": "trap", "title": "come to us", "sub": ["shade and fruit"]},
+      {"conn": "while they"},
+      {"box": "trap", "title": "hardly show up", "sub": ["only a little"]}]},
+    "key": {"label": "What Allah knows", "row": [
+      {"box": "people", "title": "no one notices", "sub": ["quiet discouragement"], "strike": true},
+      {"box": "idea", "title": "Allah already knows", "sub": ["every hinderer"]}]},
+    "then": "Ibn Kathir says Allah's knowledge covers those who {trap}told others not to go out{/trap}, saying to friends: come to us, to {trap}the shade and the fruits{/trap}. They themselves came to the battle only a little.",
+    "now": "Your friend is about to start memorising Qur'an, or volunteer on weekends. You say: relax, you do too much. {idea}Notice when you are the voice holding someone back.{/idea}",
+    "old": "Talking someone out of a hard good deed is just being caring.",
+    "new": "Allah knows when I hold others back from good, even gently.",
+    "try": "Encourage one person today in a good thing they are trying to do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:19", "surah": 33, "ayah": 19, "place": "madinah",
+    "title": "Frozen in fear, then sharp-tongued once it is safe.",
+    "subtitle": "Cowardice in danger, boasting after",
+    "picture": {"kind": "boxes", "label": "Two faces", "row": [
+      {"box": "trap", "title": "when fear comes", "sub": ["eyes rolling, terrified"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "when fear goes", "sub": ["sharp tongues, big claims"]}]},
+    "key": {"label": "What they combined", "row": [
+      {"box": "trap", "title": "cowardice", "sub": ["absent in danger"]},
+      {"box": "trap", "title": "lies", "sub": ["we were the bravest"]},
+      {"box": "trap", "title": "stinginess", "sub": ["give us our share"]}]},
+    "then": "Ibn Kathir says when security returned, they spoke eloquently, {trap}claiming they were the bravest{/trap}. Qatadah said at sharing time they were the loudest: {trap}give us, we were there with you{/trap}. In battle they had been the most absent.",
+    "now": "The group project where one person vanished, then presented the slides. The family crisis where someone showed up only for the will reading. {idea}Check whether you are ever that person.{/idea}",
+    "old": "I can take credit as long as I was around.",
+    "new": "Quiet presence in hard times matters more than loud claims later.",
+    "try": "Give credit today to someone who did work that you might be praised for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:20", "surah": 33, "ayah": 20, "place": "madinah",
+    "title": "They wished to be far away, asking for news from a distance.",
+    "subtitle": "Watching from the sidelines",
+    "picture": {"kind": "boxes", "label": "Where they wanted to be", "row": [
+      {"box": "trap", "title": "think the armies remain", "sub": ["still afraid"]},
+      {"conn": "wish to be"},
+      {"box": "trap", "title": "in the desert", "sub": ["asking how it went"]}]},
+    "key": {"label": "Where you stand", "row": [
+      {"box": "people", "title": "safe, far, following updates", "sub": ["a spectator"], "strike": true},
+      {"box": "idea", "title": "present with the believers", "sub": ["sharing the hardship"]}]},
+    "then": "Ibn Kathir says even after the Confederates left, they thought {trap}the armies were still nearby{/trap}. If they came back, these men would rather be {trap}out in the desert asking for news{/trap} than with the believers in Madinah.",
+    "now": "A relative is sick and you follow it on the family group chat, never visiting. A friend is struggling and you just watch their stories. {idea}Asking for news from far away is not the same as being there.{/idea}",
+    "old": "Keeping updated from a distance is enough support.",
+    "new": "Being present when it is hard is what loyalty means.",
+    "try": "Visit or call someone going through a hard time, instead of just checking updates.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:21", "surah": 33, "ayah": 21, "place": "madinah",
+    "title": "In the Messenger of Allah ﷺ you have the best example.",
+    "subtitle": "For whoever hopes in Allah and remembers Him much",
+    "picture": {"kind": "boxes", "label": "At the trench", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["patient, guarding, striving"]},
+      {"conn": "an example for"},
+      {"box": "people", "title": "those shaken", "sub": ["anxious, panicked"]}]},
+    "key": {"label": "Who follows the example", "row": [
+      {"box": "reward", "title": "hopes in Allah", "sub": ["and the Last Day"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "remembers Allah much", "sub": ["often"]}]},
+    "then": "Ibn Kathir calls this {idea}an important principle: follow the Messenger ﷺ in his words and deeds{/idea}. At Al-Ahzab, people were told to copy his {reward}patience, guarding, striving and waiting for Allah's way out{/reward}. It was said to those who panicked.",
+    "now": "Crisis at work, panic in the family chat, everyone shouting. You ask: what would he ﷺ do here? {idea}Patient, present, working, trusting.{/idea} That question changes how you walk into the room.",
+    "old": "The Prophet's ﷺ example is for worship, not for crises at work.",
+    "new": "His example covers how I act under pressure, every day.",
+    "try": "In your next stressful moment, pause and ask how the Prophet ﷺ would respond.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "33:22", "surah": 33, "ayah": 22, "place": "madinah",
+    "title": "Seeing the armies, the believers said: this is what was promised.",
+    "subtitle": "Hardship that increased faith",
+    "picture": {"kind": "boxes", "label": "Same armies, different response", "row": [
+      {"box": "trap", "title": "the Confederates", "sub": ["ten thousand"]},
+      {"conn": "believers said"},
+      {"box": "idea", "title": "Allah spoke the truth", "sub": ["we were told of this"]},
+      {"box": "reward", "title": "faith increased", "sub": ["and submission"]}]},
+    "key": {"label": "What a trial means", "row": [
+      {"box": "people", "title": "proof Allah left us", "sub": ["the hypocrite's view"], "strike": true},
+      {"box": "reward", "title": "proof He was truthful", "sub": ["help is near"]}]},
+    "then": "Ibn Abbas and Qatadah said the believers remembered 2:214: {idea}trials come, then the help of Allah is near{/idea}. So seeing the armies {reward}only added to their faith{/reward}. Ibn Kathir notes that faith can increase and decrease.",
+    "now": "The same layoff email reaches two colleagues. One says Allah has abandoned me. The other says I was told life would test me, and help is near. {reward}Same email, different heart.{/reward}",
+    "old": "Hardship means my faith is failing.",
+    "new": "Hardship can be the very thing that grows my faith, if I read it right.",
+    "try": "When something hard happens today, say: this is what Allah and His Messenger promised.",
+    "related": ["2:214"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "92:12", "surah": 92, "ayah": 12, "place": "makkah",
+    "title": "Showing the way is Allah's own task.",
+    "subtitle": "Guidance is His responsibility, walking it is yours",
+    "picture": {"kind": "boxes", "label": "Who explains the road", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["takes it upon Himself"]},
+      {"conn": "gives"},
+      {"box": "reward", "title": "guidance", "sub": ["lawful and forbidden made clear"]}]},
+    "key": {"label": "No one is left guessing", "row": [
+      {"box": "people", "title": "nobody told me", "sub": [], "strike": true},
+      {"box": "idea", "title": "the way is explained", "sub": ["and it reaches Him"]}]},
+    "then": "Qatadah said this means {idea}We will explain what is lawful and what is prohibited{/idea}. Others said whoever walks the path of guidance reaches Allah. Ibn Kathir compares it to: {idea}upon Allah is to explain the straight path{/idea}.",
+    "now": "You feel lost about a big decision: a job offer, a move, a relationship. {reward}The road is not hidden from you.{/reward} Allah has promised to show it. Your part is to ask and to look.",
+    "old": "I have to figure out what is right all by myself.",
+    "new": "Allah has taken it on Himself to show the way; I only need to seek it.",
+    "try": "Bring one decision you are stuck on to Allah in a short dua today.",
+    "related": ["16:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:13", "surah": 92, "ayah": 13, "place": "makkah",
+    "title": "This life and the next both belong to Allah.",
+    "subtitle": "Full control of the first and the last",
+    "picture": {"kind": "boxes", "label": "What is His", "row": [
+      {"box": "people", "title": "this world", "sub": ["the first"]},
+      {"box": "people", "title": "the Hereafter", "sub": ["the last"]},
+      {"conn": "both belong to"},
+      {"box": "idea", "title": "Allah", "sub": ["in complete control"]}]},
+    "key": {"label": "Where to seek things", "row": [
+      {"box": "trap", "title": "this world from people", "sub": [], "strike": true},
+      {"box": "idea", "title": "both from Allah", "sub": []}]},
+    "then": "Ibn Kathir explains it as Allah saying: {idea}they both belong to Us and I am in complete control of them{/idea}. The stingy man of the first half thought he owned his world. {trap}He did not own either one.{/trap}",
+    "now": "You chase a promotion as if your manager owns your future, and leave the Hereafter for later. {idea}Both are in the same Hand.{/idea} You can ask the One who owns both.",
+    "old": "This world is up to me; the next one is up to Allah.",
+    "new": "Both this life and the next are in Allah's control, so I ask Him for both.",
+    "try": "Ask Allah today for one good thing in this world and one in the next.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:14", "surah": 92, "ayah": 14, "place": "makkah",
+    "title": "A clear warning about a blazing Fire.",
+    "subtitle": "A warning given out of care",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["warns you"]},
+      {"conn": "of"},
+      {"box": "trap", "title": "a Fire", "sub": ["blazing"]}]},
+    "key": {"label": "Why warn at all", "row": [
+      {"box": "trap", "title": "to scare me off", "sub": [], "strike": true},
+      {"box": "reward", "title": "so I can avoid it", "sub": ["a warning is a mercy"]}]},
+    "then": "Mujahid said the word means {trap}blazing{/trap}. An-Nu'man bin Bashir reported the Prophet ﷺ saying in a sermon, {idea}I have warned you of the Fire{/idea}, so loudly that someone in the marketplace could hear it.",
+    "now": "A doctor tells you plainly that your blood pressure is dangerous. It is not cruelty, it is the most caring thing she can say. {reward}A warning given in time is a gift.{/reward}",
+    "old": "Warnings about the Fire are just meant to frighten me.",
+    "new": "Being warned clearly means I am being given a chance.",
+    "try": "Think of one habit you know is harming you, and take one step away from it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:15", "surah": 92, "ayah": 15, "place": "makkah",
+    "title": "Only the most wretched will enter it.",
+    "subtitle": "The Fire is for those who refuse",
+    "picture": {"kind": "boxes", "label": "Who enters", "row": [
+      {"box": "trap", "title": "the most wretched", "sub": ["only them"]},
+      {"conn": "surrounded by"},
+      {"box": "trap", "title": "the Fire", "sub": []}]},
+    "key": {"label": "Who refuses", "row": [
+      {"box": "people", "title": "all except", "sub": ["enter Paradise"]},
+      {"box": "trap", "title": "whoever refuses", "sub": ["by disobeying"]}]},
+    "then": "Ibn Kathir says none will enter it {trap}surrounded on all sides{/trap} except the most wretched. The Prophet ﷺ said: {reward}all of my followers will enter Paradise except whoever refuses{/reward}. Asked who refuses, he said whoever disobeys him.",
+    "now": "You worry you are not good enough for Allah's mercy. The door is open wide. {reward}The hadith says the only ones left out are the ones who refuse.{/reward} {idea}You are reading this. You have not refused.{/idea}",
+    "old": "Paradise is for a few perfect people.",
+    "new": "The door is wide open; only the one who refuses stays out.",
+    "try": "Do one act of obedience today with the thought that you are saying yes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:16", "surah": 92, "ayah": 16, "place": "makkah",
+    "title": "He denied in his heart and turned away in deeds.",
+    "subtitle": "Two parts of refusal",
+    "picture": {"kind": "boxes", "label": "The most wretched", "row": [
+      {"box": "trap", "title": "denied", "sub": ["in his heart"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "turned away", "sub": ["from doing the deeds"]}]},
+    "key": {"label": "Belief and action", "row": [
+      {"box": "people", "title": "heart only", "sub": ["it is what is inside"], "strike": true},
+      {"box": "idea", "title": "heart and limbs", "sub": ["both matter"]}]},
+    "then": "Ibn Kathir explains: {trap}denied, meaning in his heart{/trap}. {trap}Turned away, meaning from acting with his limbs{/trap} and doing deeds properly. The wretched one does both.",
+    "now": "You tell yourself your heart is good, so the prayers and the kindness can wait. {idea}The verse treats the heart and the hands as a pair.{/idea} Turning away with the hands is half of the problem.",
+    "old": "My intentions are good, so the actions do not matter as much.",
+    "new": "What I believe and what I do both count; neither replaces the other.",
+    "try": "Turn one good intention you have held for a while into an action today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:17", "surah": 92, "ayah": 17, "place": "makkah",
+    "title": "The most mindful will be kept far from it.",
+    "subtitle": "The one who is saved from the Fire",
+    "picture": {"kind": "boxes", "label": "Who is saved", "row": [
+      {"box": "reward", "title": "the most mindful", "sub": ["pure, pious"]},
+      {"conn": "kept away from"},
+      {"box": "trap", "title": "the Fire", "sub": []}]},
+    "key": {"label": "The two people", "row": [
+      {"box": "trap", "title": "most wretched", "sub": ["enters it"]},
+      {"box": "reward", "title": "most mindful", "sub": ["kept from it"]}]},
+    "then": "Ibn Kathir says {reward}the righteous, pure, most pious person will be saved from the Fire{/reward}. The surah now describes him in detail, as it did the wretched one. {idea}Two people, two ends.{/idea}",
+    "now": "You picture safety as a locked door or an insurance policy. {reward}This verse gives a different picture: a person kept far from harm because of who they became.{/reward}",
+    "old": "Being safe is about what I own or who I know.",
+    "new": "Real safety is being someone Allah keeps far from the Fire.",
+    "try": "Ask Allah today, in your own words, to keep you far from the Fire.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:18", "surah": 92, "ayah": 18, "place": "makkah",
+    "title": "He gives his wealth to make himself clean.",
+    "subtitle": "Giving as a way of purifying the self",
+    "picture": {"kind": "boxes", "label": "What his giving does", "row": [
+      {"box": "people", "title": "his wealth", "sub": []},
+      {"conn": "given to"},
+      {"box": "reward", "title": "purify himself", "sub": ["and his wealth"]}]},
+    "key": {"label": "Who benefits", "row": [
+      {"box": "people", "title": "only the receiver", "sub": [], "strike": true},
+      {"box": "reward", "title": "the giver too", "sub": ["he is cleaned"]}]},
+    "then": "Ibn Kathir: {reward}he spends his wealth in obedience of his Lord in order to purify himself{/reward}, his wealth, and what Allah gave him. Many scholars said these verses were revealed about {idea}Abu Bakr As-Siddiq{/idea}, though the wording is general.",
+    "now": "You give to the food bank and feel lighter walking out. That is not a coincidence. {reward}The giving cleaned something in you.{/reward} The bag of groceries helped two people.",
+    "old": "Charity is something I do for other people.",
+    "new": "When I give, I am also cleaning my own soul.",
+    "try": "Give something today and notice how it changes your mood afterwards.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:19", "surah": 92, "ayah": 19, "place": "makkah",
+    "title": "He is not paying anyone back for a favour.",
+    "subtitle": "Giving that is not a trade",
+    "picture": {"kind": "boxes", "label": "What his giving is not", "row": [
+      {"box": "people", "title": "a debt", "sub": ["owed to someone"]},
+      {"box": "people", "title": "a deal", "sub": ["to get something back"]},
+      {"conn": "neither"}]},
+    "key": {"label": "Two kinds of giving", "row": [
+      {"box": "trap", "title": "give to receive", "sub": ["a trade"], "strike": true},
+      {"box": "reward", "title": "give for Allah", "sub": ["nothing expected"]}]},
+    "then": "Ibn Kathir says {idea}his giving is not done to gain some favour in return{/idea}. He tells how Urwah bin Mas'ud said he owed Abu Bakr a debt, and {reward}Abu Bakr was angered at being thought owed anything{/reward}.",
+    "now": "You help a coworker move flat and later feel annoyed they never offered help back. {trap}Without noticing, the help became a loan.{/trap} {reward}Giving with no invoice is a different thing.{/reward}",
+    "old": "If I do something nice, I expect something back.",
+    "new": "My best giving has no bill attached to it.",
+    "try": "Do one favour today for someone who cannot repay you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:20", "surah": 92, "ayah": 20, "place": "makkah",
+    "title": "He gives only to seek his Lord's Face.",
+    "subtitle": "The one goal behind his giving",
+    "picture": {"kind": "boxes", "label": "What he is after", "row": [
+      {"box": "people", "title": "his giving", "sub": []},
+      {"conn": "only for"},
+      {"box": "reward", "title": "his Lord's Face", "sub": ["the Most High"]}]},
+    "key": {"label": "The aim", "row": [
+      {"box": "people", "title": "praise, thanks, returns", "sub": [], "strike": true},
+      {"box": "reward", "title": "to see Allah", "sub": ["in Paradise"]}]},
+    "then": "Ibn Kathir says he gives {reward}hoping to attain the blessing of seeing Him in the Gardens of Paradise{/reward}. Nothing less is the goal. {idea}Not thanks, not status, not a return.{/idea}",
+    "now": "You post about a fundraiser and keep checking who liked it. {trap}The likes start to feel like the point.{/trap} {reward}This verse points past every screen to one Face.{/reward}",
+    "old": "It is fine if some of my giving is for how it looks.",
+    "new": "The highest giving looks only toward Allah's Face.",
+    "try": "Give one thing today that no one will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "92:21", "surah": 92, "ayah": 21, "place": "makkah",
+    "title": "And he will be content.",
+    "subtitle": "The promise that ends the surah",
+    "picture": {"kind": "boxes", "label": "The end of the path", "row": [
+      {"box": "reward", "title": "gave for Allah", "sub": ["expected nothing"]},
+      {"conn": "will be"},
+      {"box": "reward", "title": "pleased", "sub": ["fully satisfied"]}]},
+    "key": {"label": "What he gave up, what he got", "row": [
+      {"box": "people", "title": "a return from people", "sub": ["never asked for"]},
+      {"box": "reward", "title": "contentment", "sub": ["from Allah"]}]},
+    "then": "Ibn Kathir: {reward}those with these characteristics will be pleased{/reward}. He mentions the Prophet ﷺ hoping that Abu Bakr would be {reward}called from every gate of Paradise{/reward}.",
+    "now": "You gave quietly and nobody thanked you. Maybe it still stings a little. {reward}The surah ends by telling you that you will be satisfied.{/reward} Not a little, not partly. Pleased.",
+    "old": "If no one thanks me, my giving was wasted.",
+    "new": "Allah promises the quiet giver that he will be fully content.",
+    "try": "Recall one unthanked kindness you did. Leave it with Allah and let it go.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

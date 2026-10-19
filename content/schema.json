@@ -1,0 +1,223 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Verse card",
+  "type": "object",
+  "required": [
+    "id",
+    "surah",
+    "ayah",
+    "place",
+    "title",
+    "subtitle",
+    "picture",
+    "key",
+    "then",
+    "now",
+    "old",
+    "new",
+    "try",
+    "meta"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9]+:[0-9]+$"
+    },
+    "surah": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 114
+    },
+    "ayah": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "place": {
+      "enum": [
+        "makkah",
+        "madinah"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "maxLength": 90,
+      "description": "One sentence, 12 words max, no quotes"
+    },
+    "subtitle": {
+      "type": "string",
+      "maxLength": 90
+    },
+    "picture": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "kind",
+            "src"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "const": "svg"
+            },
+            "src": {
+              "type": "string",
+              "description": "SVG with {{token}} colors from theme"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "kind",
+            "label",
+            "row"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "const": "boxes"
+            },
+            "label": {
+              "type": "string"
+            },
+            "row": {
+              "$ref": "#/definitions/row"
+            }
+          }
+        }
+      ]
+    },
+    "key": {
+      "type": "object",
+      "required": [
+        "label",
+        "row"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "row": {
+          "$ref": "#/definitions/row"
+        }
+      }
+    },
+    "then": {
+      "$ref": "#/definitions/rich"
+    },
+    "now": {
+      "$ref": "#/definitions/rich"
+    },
+    "old": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "new": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "try": {
+      "type": "string",
+      "maxLength": 160
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[0-9]+:[0-9]+$"
+      }
+    },
+    "meta": {
+      "type": "object",
+      "required": [
+        "version",
+        "status"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "version": {
+          "type": "integer"
+        },
+        "status": {
+          "enum": [
+            "draft",
+            "review",
+            "approved"
+          ]
+        },
+        "reviewer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "updated": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "rich": {
+      "type": "string",
+      "description": "Plain text with {idea}..{/idea}, {trap}..{/trap}, {reward}..{/reward} only"
+    },
+    "row": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "required": [
+              "box",
+              "title"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "box": {
+                "enum": [
+                  "idea",
+                  "trap",
+                  "reward",
+                  "people",
+                  "plain"
+                ]
+              },
+              "title": {
+                "type": "string"
+              },
+              "sub": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "strike": {
+                "type": "boolean"
+              },
+              "num": {
+                "type": "boolean"
+              }
+            }
+          },
+          {
+            "type": "object",
+            "required": [
+              "conn"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "conn": {
+                "type": "string"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

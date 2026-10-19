@@ -1,0 +1,235 @@
+[
+  {
+    "id": "56:63", "surah": 56, "ayah": 63, "place": "makkah",
+    "title": "Look at the seeds you plant.",
+    "subtitle": "Your effort and His growing",
+    "picture": {"kind": "boxes", "label": "Farming", "row": [
+      {"box": "people", "title": "you", "sub": ["till and plant"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah", "sub": ["makes it grow"]}]},
+    "key": {"label": "What to say", "row": [
+      {"box": "people", "title": "I grew this", "sub": ["my work did it"], "strike": true},
+      {"box": "idea", "title": "I tilled", "sub": ["He made it grow"]}]},
+    "then": "Allah turns to farming: {idea}do you see what you sow?{/idea} Ibn Kathir explains it as tilling the earth and planting seeds. Abu Hurayrah reported that the Prophet ﷺ taught people to say I tilled, rather than I made it grow.",
+    "now": "You plant tomatoes on the balcony, start a small business, raise a child. You do the work: watering, planning, waking up early. {idea}You sow.{/idea} The growing is not in your hands.",
+    "old": "My results come from my effort.",
+    "new": "My effort is sowing. The growing comes from Allah.",
+    "try": "Before starting one task today, say: I sow, You make it grow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:64", "surah": 56, "ayah": 64, "place": "makkah",
+    "title": "Is it you who makes it grow, or Us?",
+    "subtitle": "Credit where it belongs",
+    "picture": {"kind": "boxes", "label": "The seed", "row": [
+      {"box": "plain", "title": "seed in the soil"},
+      {"conn": "kept and grown by"},
+      {"box": "idea", "title": "Allah", "sub": ["out of compassion and mercy"]}]},
+    "key": {"label": "Credit", "row": [
+      {"box": "people", "title": "my green thumb", "sub": ["I'm good at this"], "strike": true},
+      {"box": "idea", "title": "Allah the Grower", "sub": ["He keeps the seed alive"]}]},
+    "then": "Allah asks: {idea}is it you that make it grow, or are We the Grower?{/idea} Ibn Kathir says Allah causes the seeds to stay firm and grow inside the earth, out of His compassion and mercy.",
+    "now": "A promotion, good exam grades, a deal that finally closes. It feels like your skill did it. {idea}Skill is the seed. Growth is a mercy.{/idea}",
+    "old": "My success is proof of my talent.",
+    "new": "My success is Allah's mercy working through my effort.",
+    "try": "Thank Allah out loud for one recent success, naming it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:65", "surah": 56, "ayah": 65, "place": "makkah",
+    "title": "He could turn it to dry stubble overnight.",
+    "subtitle": "The harvest is never guaranteed",
+    "picture": {"kind": "boxes", "label": "If Allah willed", "row": [
+      {"box": "reward", "title": "green crop"},
+      {"conn": "could become"},
+      {"box": "trap", "title": "dry debris", "sub": ["before the harvest"]},
+      {"conn": "leaving you"},
+      {"box": "people", "title": "in shock", "sub": ["blaming, grieving"]}]},
+    "key": {"label": "The harvest", "row": [
+      {"box": "plain", "title": "guaranteed", "sub": ["I did everything right"], "strike": true},
+      {"box": "idea", "title": "a mercy each time", "sub": ["it could have been dust"]}]},
+    "then": "Ibn Kathir explains: {trap}if Allah wills, He could dry the crops before they ripen{/trap}. Tafakkahun means you would be left wondering, blaming each other, or grieving, as Ikrimah, Al-Hasan and Qatadah said.",
+    "now": "The project you worked on for months gets cancelled the week before launch. You stare at the screen, blaming yourself, then everyone else. {idea}Every harvest that does arrive is a gift.{/idea}",
+    "old": "If I do everything right, the result is guaranteed.",
+    "new": "Every harvest that reaches me is mercy, not a given.",
+    "try": "Think of one thing that went right this week and thank Allah that it did not fall apart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:66", "surah": 56, "ayah": 66, "place": "makkah",
+    "title": "We are ruined, they would cry.",
+    "subtitle": "The first reaction to loss",
+    "picture": {"kind": "boxes", "label": "After the loss", "row": [
+      {"box": "trap", "title": "crop destroyed"},
+      {"conn": "they say"},
+      {"box": "trap", "title": "we're ruined", "sub": ["in debt, punished"]}]},
+    "key": {"label": "The reaction", "row": [
+      {"box": "plain", "title": "it's over", "sub": ["despair"]},
+      {"conn": "or"},
+      {"box": "idea", "title": "turn to Allah", "sub": ["the Owner of the harvest"]}]},
+    "then": "Allah describes what they would say: {trap}we are indeed Mughramun{/trap}. Ibn Kathir explains it as ruined. Mujahid and Ikrimah said it means being the target of revenge, and Qatadah said they would sometimes cry, we were punished.",
+    "now": "The car breaks down in the same week the rent is due. Your first words: I'm finished. {trap}Panic speaks first.{/trap} The verse shows you that reaction so you can catch it in yourself.",
+    "old": "When things fall apart, I'm ruined.",
+    "new": "Loss is real, but the One who grew it can give again.",
+    "try": "When something goes wrong today, say inna lillahi wa inna ilayhi rajiun before anything else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:67", "surah": 56, "ayah": 67, "place": "makkah",
+    "title": "No, we have been deprived.",
+    "subtitle": "From feeling ruined to feeling robbed",
+    "picture": {"kind": "boxes", "label": "Next they say", "row": [
+      {"box": "trap", "title": "we're ruined"},
+      {"conn": "then"},
+      {"box": "trap", "title": "we're deprived", "sub": ["robbed of what was ours"]}]},
+    "key": {"label": "Whose was it", "row": [
+      {"box": "trap", "title": "it was mine", "sub": ["I've been robbed"], "strike": true},
+      {"box": "idea", "title": "it was His", "sub": ["given, or held back"]}]},
+    "then": "Then they would say: {trap}nay, we are deprived{/trap}. Qatadah said they would say we were punished at some times and we were deprived at others. The feeling moves from loss to grievance, as if something owed had been taken.",
+    "now": "Someone else gets the promotion you were counting on. You feel robbed. {trap}But it was never yours yet.{/trap} {idea}Provision is given, not owed.{/idea}",
+    "old": "When I lose what I expected, I've been cheated.",
+    "new": "Everything I receive is a gift, so losing it is not theft.",
+    "try": "Think of one thing you feel robbed of and say: it was Yours to give, O Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:68", "surah": 56, "ayah": 68, "place": "makkah",
+    "title": "Look at the water you drink.",
+    "subtitle": "The most ordinary miracle",
+    "picture": {"kind": "boxes", "label": "Look at", "row": [
+      {"box": "plain", "title": "a glass of water"},
+      {"conn": "comes from"},
+      {"box": "idea", "title": "Allah", "sub": ["not from you"]}]},
+    "key": {"label": "Water", "row": [
+      {"box": "plain", "title": "just water", "sub": ["from the tap"], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["sent down for you"]}]},
+    "then": "After the crops, Allah points to something even closer: {idea}the water that you drink{/idea}. The same question returns: look at it, and ask who brings it to you.",
+    "now": "You fill a bottle at the office cooler without thinking. Half the time you leave it unfinished on the desk. {idea}The verse asks you to really look at it, once.{/idea}",
+    "old": "Water is just there; it's nothing special.",
+    "new": "Every drink of water is sent to me by Allah.",
+    "try": "Drink your next glass of water sitting down, with bismillah before and alhamdulillah after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:69", "surah": 56, "ayah": 69, "place": "makkah",
+    "title": "Did you bring it down from the clouds?",
+    "subtitle": "Rain is in no one's control but His",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "plain", "title": "the clouds"},
+      {"conn": "sent down by"},
+      {"box": "idea", "title": "Allah", "sub": ["the One who sends rain"]}]},
+    "key": {"label": "Who sends rain", "row": [
+      {"box": "people", "title": "us", "sub": ["our planning, our tech"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["the Sender of it"]}]},
+    "then": "Allah asks: {idea}is it you who brought it down from the clouds, or We?{/idea} Ibn Abbas and Mujahid said Al-Muzn means the clouds. Ibn Kathir says Allah is the One who causes the rain to fall.",
+    "now": "The weather app says 80 percent chance of rain and you plan around it. In a drought, everyone checks the same app with worry. {idea}No app sends rain.{/idea}",
+    "old": "Weather is just a system that runs itself.",
+    "new": "Rain is sent, and the Sender can be thanked.",
+    "try": "Next time it rains, go to the window and make a dua.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:70", "surah": 56, "ayah": 70, "place": "makkah",
+    "title": "He could make it salty. So why no thanks?",
+    "subtitle": "Fresh water is a choice He makes for you",
+    "picture": {"kind": "boxes", "label": "Allah could send", "row": [
+      {"box": "reward", "title": "fresh water", "sub": ["drinkable, grows crops"]},
+      {"conn": "or"},
+      {"box": "trap", "title": "salty water", "sub": ["undrinkable, useless"]}]},
+    "key": {"label": "The response", "row": [
+      {"box": "trap", "title": "taking it for granted", "sub": ["no thanks"], "strike": true},
+      {"box": "reward", "title": "gratitude", "sub": ["thanks for every sip"]}]},
+    "then": "Ibn Kathir explains that Allah could make the rain {trap}salty, sour, undrinkable and unfit for plants{/trap}. Then He asks: {idea}why do you not give thanks?{/idea} He links it to the verse about rain that grows crops, olives, dates and grapes.",
+    "now": "You only notice water when the tap runs brown or the bill doubles. {idea}Gratitude usually waits for loss.{/idea} The verse asks you to thank before that.",
+    "old": "I'll be grateful when something special happens.",
+    "new": "Every sip of fresh water is reason enough to thank Allah.",
+    "try": "Say alhamdulillah after every drink of water today.",
+    "related": ["16:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:71", "surah": 56, "ayah": 71, "place": "makkah",
+    "title": "Look at the fire you light.",
+    "subtitle": "The flame you strike every day",
+    "picture": {"kind": "boxes", "label": "Look at", "row": [
+      {"box": "plain", "title": "fire", "sub": ["cooking, heat, light"]},
+      {"conn": "kindled by"},
+      {"box": "people", "title": "you", "sub": ["but not created by you"]}]},
+    "key": {"label": "Fire", "row": [
+      {"box": "plain", "title": "just a tool", "sub": ["a lighter, a stove"], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["Allah made fire possible"]}]},
+    "then": "The third sign is fire: {idea}do you see the fire which you kindle?{/idea} Ibn Kathir says the Arabs rubbed green branches of two trees, Al-Markh and Al-Afar, against each other, and sparks would fly out.",
+    "now": "You click the stove on for tea, flick a lighter, turn up the heater. {idea}Fire is so normal you never look at it.{/idea} The verse asks you to look.",
+    "old": "Fire is just a utility I switch on.",
+    "new": "Even the flame on my stove is a sign from Allah.",
+    "try": "When you light the stove today, say bismillah and watch the flame for one second.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:72", "surah": 56, "ayah": 72, "place": "makkah",
+    "title": "Did you make the tree that feeds the flame?",
+    "subtitle": "Even the fuel was created",
+    "picture": {"kind": "boxes", "label": "The fuel", "row": [
+      {"box": "idea", "title": "the tree", "sub": ["grown by Allah"]},
+      {"conn": "gives"},
+      {"box": "plain", "title": "the fire", "sub": ["you only strike it"]}]},
+    "key": {"label": "Who made it", "row": [
+      {"box": "people", "title": "I made the fire", "sub": ["I struck the spark"], "strike": true},
+      {"box": "idea", "title": "Allah made the tree", "sub": ["He made fire possible"]}]},
+    "then": "Allah asks: {idea}is it you who produced its tree, or are We the Producer?{/idea} Ibn Kathir says Allah is the One who made kindling fire possible. The branches that sparked were from trees He grew.",
+    "now": "Gas in the pipes, wood in the stove, fuel at the station. {idea}You strike the spark, but every fuel was grown or stored by Allah{/idea} long before you were born.",
+    "old": "I produce what I use.",
+    "new": "I only use what Allah produced.",
+    "try": "Switch off one light or heater you don't need today, as thanks for the energy Allah gave.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:73", "surah": 56, "ayah": 73, "place": "makkah",
+    "title": "Fire is a reminder and a provision for travelers.",
+    "subtitle": "Comfort here, and a warning about there",
+    "picture": {"kind": "boxes", "label": "Fire's two roles", "row": [
+      {"box": "idea", "title": "a reminder", "sub": ["of the Fire of Hell"]},
+      {"box": "reward", "title": "a provision", "sub": ["cooking, warmth, light"]}]},
+    "key": {"label": "Seeing a flame", "row": [
+      {"box": "plain", "title": "only comfort", "sub": ["warm and useful"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "also a reminder", "sub": ["one part of seventy"]}]},
+    "then": "Mujahid and Qatadah said fire is {idea}a reminder of the Hellfire{/idea}; the Prophet ﷺ said this fire is one part of seventy of the Fire of Hell. It is also {reward}a provision{/reward}: Ibn Abbas said for travelers, Mujahid said for everyone who cooks and needs warmth.",
+    "now": "On a cold camping night the fire is everything: warmth, food, light, faces glowing around it. {idea}The same flame that comforts you also reminds you.{/idea}",
+    "old": "Fire is just warmth and cooking.",
+    "new": "Every flame is both a gift and a gentle warning.",
+    "try": "When you feel the warmth of a heater or stove today, ask Allah to protect you from the Fire.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:74", "surah": 56, "ayah": 74, "place": "makkah",
+    "title": "So glorify the name of your Lord, the Most Great.",
+    "subtitle": "The right response to seed, water and fire",
+    "picture": {"kind": "boxes", "label": "After the signs", "row": [
+      {"box": "idea", "title": "the seed"},
+      {"box": "idea", "title": "the water"},
+      {"box": "idea", "title": "the fire"},
+      {"conn": "so"},
+      {"box": "reward", "title": "glorify Him", "sub": ["the Most Great"]}]},
+    "key": {"label": "The response", "row": [
+      {"box": "plain", "title": "use and forget", "sub": ["take it for granted"], "strike": true},
+      {"box": "reward", "title": "use and glorify", "sub": ["say His name"]}]},
+    "then": "After creation, crops, rain and fire, the passage ends with a command: {reward}glorify the name of your Lord, the Most Great{/reward}. The signs are not a science lesson. They lead to praise.",
+    "now": "You finish your tea, wipe the counter, scroll to the next thing. {idea}Seed, water, fire: you used all three before breakfast.{/idea} The verse asks for one sentence of praise.",
+    "old": "Noticing blessings is enough.",
+    "new": "Noticing blessings should end in praising the One who gave them.",
+    "try": "After your next meal, say subhana Rabbiyal Azim three times.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

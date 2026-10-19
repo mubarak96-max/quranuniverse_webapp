@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "86:1",
+    "surah": 86,
+    "ayah": 1,
+    "place": "makkah",
+    "title": "By the sky and the one that comes by night.",
+    "subtitle": "An oath by a visitor in the dark",
+    "picture": {
+      "kind": "boxes",
+      "label": "The oath",
+      "row": [
+        {
+          "box": "plain",
+          "title": "the sky",
+          "sub": [
+            "and its radiant stars"
+          ]
+        },
+        {
+          "conn": "and"
+        },
+        {
+          "box": "idea",
+          "title": "At-Tariq",
+          "sub": [
+            "the night comer"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Why the name",
+      "row": [
+        {
+          "box": "idea",
+          "title": "Tariq",
+          "sub": [
+            "seen only at night"
+          ]
+        },
+        {
+          "box": "plain",
+          "title": "Taruq",
+          "sub": [
+            "arriving unexpectedly by night"
+          ]
+        }
+      ]
+    },
+    "then": "The surah came when the Makkans were using every plan to defeat the Quran's message. Qatadah said the star is called Tariq because {idea}it is only seen at night and hidden during the day{/idea}. The Prophet ﷺ named this surah as a fitting recitation for Maghrib.",
+    "now": "You drive home late and one bright star sits over the motorway. {idea}It was there all day, you just could not see it.{/idea} Some truths only show up when it gets dark.",
+    "old": "If I cannot see something, it is probably not there.",
+    "new": "Some things are always there and only show themselves at night.",
+    "try": "Step outside after dark tonight and find one star.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:2",
+    "surah": 86,
+    "ayah": 2,
+    "place": "makkah",
+    "title": "And what will make you know what the night comer is?",
+    "subtitle": "A question to make you look up",
+    "picture": {
+      "kind": "boxes",
+      "label": "The pause",
+      "row": [
+        {
+          "box": "people",
+          "title": "you",
+          "sub": [
+            "hearing the oath"
+          ]
+        },
+        {
+          "conn": "asked"
+        },
+        {
+          "box": "idea",
+          "title": "what is At-Tariq?",
+          "sub": [
+            "more than you think"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What a question does",
+      "row": [
+        {
+          "box": "people",
+          "title": "just a star",
+          "sub": [
+            "seen it a thousand times"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a sign worth a pause",
+          "sub": [
+            "look again"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir notes that Allah asks the question, then explains it in the next verse. {idea}The Quran often slows the listener down before a sign{/idea}, so it is not passed over.",
+    "now": "You have seen the night sky so often you no longer look. {idea}The question is a tap on the shoulder: look again, properly.{/idea}",
+    "old": "I already know what is up there.",
+    "new": "What I have stopped noticing may still have something to teach me.",
+    "try": "Look properly at one ordinary thing today that you usually ignore.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:3",
+    "surah": 86,
+    "ayah": 3,
+    "place": "makkah",
+    "title": "It is the star that pierces the dark.",
+    "subtitle": "Light that cuts through",
+    "picture": {
+      "kind": "boxes",
+      "label": "The star",
+      "row": [
+        {
+          "box": "plain",
+          "title": "the dark",
+          "sub": [
+            "night sky"
+          ]
+        },
+        {
+          "conn": "pierced by"
+        },
+        {
+          "box": "idea",
+          "title": "Ath-Thaqib",
+          "sub": [
+            "the illuminating star"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What it does",
+      "row": [
+        {
+          "box": "reward",
+          "title": "illuminates",
+          "sub": [
+            "Ibn Abbas"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "burns the devil",
+          "sub": [
+            "Ikrimah"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas said Ath-Thaqib means {idea}the illuminating{/idea}. Ikrimah said it illuminates and {trap}burns the Shaytan{/trap}. A small point of light, sworn by.",
+    "now": "One honest friend in a toxic workplace. One prayer in a messy day. {reward}A small light still pierces a big dark.{/reward}",
+    "old": "One small good thing cannot change a dark situation.",
+    "new": "A single point of light is enough to pierce the darkness.",
+    "try": "Be the one small light somewhere today: a kind word in a tense room.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:4",
+    "surah": 86,
+    "ayah": 4,
+    "place": "makkah",
+    "title": "Every soul has a guardian over it.",
+    "subtitle": "What the oath was for",
+    "picture": {
+      "kind": "boxes",
+      "label": "The answer to the oath",
+      "row": [
+        {
+          "box": "people",
+          "title": "every soul",
+          "sub": [
+            "you included"
+          ]
+        },
+        {
+          "conn": "has"
+        },
+        {
+          "box": "reward",
+          "title": "a guardian",
+          "sub": [
+            "from Allah, protecting it"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Alone or watched over",
+      "row": [
+        {
+          "box": "people",
+          "title": "no one is looking out for me",
+          "sub": [
+            "on my own"
+          ],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "guarded by Allah's command",
+          "sub": [
+            "before and behind"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says every soul has {reward}a guardian from Allah that protects it from calamities{/reward}, citing the angels in succession before and behind a person. The introduction adds that nothing in the universe survives without a guardian.",
+    "now": "The near miss on the road. The fall you walked away from. The illness caught early. {reward}You were guarded more times than you know.{/reward}",
+    "old": "I am basically on my own out there.",
+    "new": "Allah has set a guardian over me, every moment.",
+    "try": "Recall one near miss in your life and thank Allah for the guard you did not see.",
+    "related": [
+      "13:11"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:5",
+    "surah": 86,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "So let man look at what he was made from.",
+    "subtitle": "A humble origin, a strong argument",
+    "picture": {
+      "kind": "boxes",
+      "label": "The instruction",
+      "row": [
+        {
+          "box": "people",
+          "title": "man",
+          "sub": [
+            "proud, doubting"
+          ]
+        },
+        {
+          "conn": "look at"
+        },
+        {
+          "box": "plain",
+          "title": "his origin",
+          "sub": [
+            "weak beginnings"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What the look proves",
+      "row": [
+        {
+          "box": "plain",
+          "title": "He made me once",
+          "sub": [
+            "from almost nothing"
+          ]
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "idea",
+          "title": "He can again",
+          "sub": [
+            "the Hereafter is real"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says this alerts man to {trap}the weakness of his origin{/trap}, and its aim is to guide him to accept the Hereafter, {idea}because whoever can begin creation can repeat it{/idea}.",
+    "now": "You hold an ultrasound print of a baby the size of a bean. {idea}Every argument you have ever won started there.{/idea}",
+    "old": "I am self-made, and I find resurrection hard to believe.",
+    "new": "I came from almost nothing, so returning me is easy for my Maker.",
+    "try": "Look at a baby photo of yourself today and remember where you started.",
+    "related": [
+      "30:27"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:6",
+    "surah": 86,
+    "ayah": 6,
+    "place": "makkah",
+    "title": "He was made from a gushing fluid.",
+    "subtitle": "The humble start of every human",
+    "picture": {
+      "kind": "boxes",
+      "label": "The start",
+      "row": [
+        {
+          "box": "plain",
+          "title": "a gushing fluid",
+          "sub": [
+            "from man and woman"
+          ]
+        },
+        {
+          "conn": "by Allah's permission"
+        },
+        {
+          "box": "people",
+          "title": "a child",
+          "sub": [
+            "a whole human"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Where pride sits",
+      "row": [
+        {
+          "box": "people",
+          "title": "my status, my name",
+          "sub": [
+            "what I am proud of"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a drop, then a gift",
+          "sub": [
+            "everything given by Him"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says the child is produced from the fluid of both man and woman {idea}by the permission of Allah{/idea}. The verse states it plainly to show how simple the start of a person is.",
+    "now": "The CEO, the influencer, the professor, and the newborn in the incubator. {idea}Same beginning.{/idea} Any pride you carry started as a drop.",
+    "old": "Some people are simply made of better stuff.",
+    "new": "Every one of us began the same humble way, by Allah's permission.",
+    "try": "Treat one person you usually look down on with full respect today.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:7",
+    "surah": 86,
+    "ayah": 7,
+    "place": "makkah",
+    "title": "Coming from between the backbone and the ribs.",
+    "subtitle": "Both parents, one child",
+    "picture": {
+      "kind": "boxes",
+      "label": "From both",
+      "row": [
+        {
+          "box": "people",
+          "title": "the backbone",
+          "sub": [
+            "of the man"
+          ]
+        },
+        {
+          "box": "people",
+          "title": "the ribs",
+          "sub": [
+            "of the woman"
+          ]
+        },
+        {
+          "conn": "together"
+        },
+        {
+          "box": "reward",
+          "title": "a child",
+          "sub": [
+            "from both of them"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Who made it work",
+      "row": [
+        {
+          "box": "people",
+          "title": "biology alone",
+          "sub": [
+            "just how it works"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "by Allah's design",
+          "sub": [
+            "from both, by His leave"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas said it means {idea}the backbone of the man and the ribs of the woman{/idea}, and that the child is not born except from both of them.",
+    "now": "Your mother's patience and your father's laugh show up in you. {reward}You came from both of them, by Allah's design.{/reward} Gratitude to them is part of seeing the sign.",
+    "old": "How I was made is just biology, nothing more.",
+    "new": "My coming from my two parents is a sign of Allah's careful making.",
+    "try": "Make dua for both your parents today, by name.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:8",
+    "surah": 86,
+    "ayah": 8,
+    "place": "makkah",
+    "title": "He is surely able to bring him back.",
+    "subtitle": "The conclusion of the argument",
+    "picture": {
+      "kind": "boxes",
+      "label": "The logic",
+      "row": [
+        {
+          "box": "plain",
+          "title": "made from a drop",
+          "sub": [
+            "verses 5-7"
+          ]
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "idea",
+          "title": "able to return him",
+          "sub": [
+            "to life, after death"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Which is harder",
+      "row": [
+        {
+          "box": "people",
+          "title": "bringing back",
+          "sub": [
+            "seems impossible"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "starting from nothing",
+          "sub": [
+            "He already did"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says He is able to repeat his creation and resurrect him, which {idea}is clearly possible, because whoever can begin creation can surely repeat it{/idea}. The introduction says this is the surah's first theme.",
+    "now": "A builder who put up a house from bare ground can certainly rebuild it. {idea}You already accept that logic everywhere else.{/idea}",
+    "old": "Being raised after death sounds hard to believe.",
+    "new": "The One who made me from a drop can easily bring me back.",
+    "try": "When you wake up tomorrow, say the morning dua and think of it as a small rising.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:9",
+    "surah": 86,
+    "ayah": 9,
+    "place": "makkah",
+    "title": "The Day when secrets are tested.",
+    "subtitle": "Nothing stays hidden",
+    "picture": {
+      "kind": "boxes",
+      "label": "That Day",
+      "row": [
+        {
+          "box": "people",
+          "title": "secrets",
+          "sub": [
+            "kept for a lifetime"
+          ]
+        },
+        {
+          "conn": "are"
+        },
+        {
+          "box": "idea",
+          "title": "examined",
+          "sub": [
+            "exposed, made known"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What a secret is",
+      "row": [
+        {
+          "box": "people",
+          "title": "safely hidden",
+          "sub": [
+            "no one will know"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "waiting to be shown",
+          "sub": [
+            "on that Day"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says on that Day {trap}the secret will be made open and the concealed will be well known{/trap}. He cites the hadith that every betrayer will have a flag raised for him naming his betrayal.",
+    "now": "The deleted messages, the second account, the promise you broke quietly. {idea}Secrets can also be good: the charity no one saw, the night prayer.{/idea} Both come out.",
+    "old": "What I keep private will stay private forever.",
+    "new": "Every secret, good or bad, will be brought out on that Day.",
+    "try": "Add one good secret to your record today: a hidden charity or a quiet prayer.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:10",
+    "surah": 86,
+    "ayah": 10,
+    "place": "makkah",
+    "title": "Then he has no strength and no helper.",
+    "subtitle": "Alone with what you did",
+    "picture": {
+      "kind": "boxes",
+      "label": "What he lacks",
+      "row": [
+        {
+          "box": "trap",
+          "title": "no power",
+          "sub": [
+            "within himself"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "no helper",
+          "sub": [
+            "from anyone else"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What helps then",
+      "row": [
+        {
+          "box": "people",
+          "title": "my contacts",
+          "sub": [
+            "my lawyer, my family"
+          ],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "my deeds and His mercy",
+          "sub": [
+            "prepared now"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says man will have no power within himself and no helper from outside. {trap}He will not be able to save himself, nor will anyone else save him.{/trap}",
+    "now": "Here you can call a friend, hire a lawyer, borrow from family. {idea}That Day the phone list is empty.{/idea} {reward}What you send ahead now is your help then.{/reward}",
+    "old": "There will always be someone who can bail me out.",
+    "new": "On that Day only my deeds and Allah's mercy will help me.",
+    "try": "Send one good deed ahead today as if it were your only helper.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:11",
+    "surah": 86,
+    "ayah": 11,
+    "place": "makkah",
+    "title": "By the sky that returns the rain.",
+    "subtitle": "A second oath, about provision",
+    "picture": {
+      "kind": "boxes",
+      "label": "The sky's return",
+      "row": [
+        {
+          "box": "plain",
+          "title": "the sky",
+          "sub": [
+            "with rain clouds"
+          ]
+        },
+        {
+          "conn": "returns"
+        },
+        {
+          "box": "reward",
+          "title": "rain",
+          "sub": [
+            "again and again"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Why swear by it",
+      "row": [
+        {
+          "box": "reward",
+          "title": "sustenance returned",
+          "sub": [
+            "every year"
+          ]
+        },
+        {
+          "conn": "like"
+        },
+        {
+          "box": "idea",
+          "title": "the Quran",
+          "sub": [
+            "serious and true"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas said it means rain that falls and then falls again. Qatadah said {reward}it returns the sustenance of the creatures every year; without it they and their cattle would perish{/reward}.",
+    "now": "You turn the tap and water comes. Bread is on the supermarket shelf. {reward}Every bit of it traces back to rain that keeps returning.{/reward}",
+    "old": "Rain is just weather, nothing to think about.",
+    "new": "Every rainfall is Allah returning my provision to me.",
+    "try": "Next time it rains, say the dua for rain or simply thank Allah for it.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:12",
+    "surah": 86,
+    "ayah": 12,
+    "place": "makkah",
+    "title": "And by the earth that cracks open with growth.",
+    "subtitle": "Life breaking through the ground",
+    "picture": {
+      "kind": "boxes",
+      "label": "The earth's answer",
+      "row": [
+        {
+          "box": "reward",
+          "title": "rain falls",
+          "sub": [
+            "verse 11"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "the earth splits",
+          "sub": [
+            "plants push through"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "A picture of rising",
+      "row": [
+        {
+          "box": "plain",
+          "title": "seeds rise from soil",
+          "sub": [
+            "every spring"
+          ]
+        },
+        {
+          "conn": "like"
+        },
+        {
+          "box": "idea",
+          "title": "people rise from graves",
+          "sub": [
+            "verse 8"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas, Sa'id bin Jubayr, Ikrimah and others said it means {reward}splitting to bring forth plant growth{/reward}. The introduction says rain and growth are no child's play, but serious work.",
+    "now": "A green shoot forcing its way through a crack in the pavement outside your flat. {idea}Small, stubborn, unstoppable.{/idea}",
+    "old": "Plants growing is just nature doing its thing.",
+    "new": "Every sprout breaking the soil is a sign of how the dead will rise.",
+    "try": "Notice one plant growing somewhere unexpected today and say subhanAllah.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:13",
+    "surah": 86,
+    "ayah": 13,
+    "place": "makkah",
+    "title": "This Quran is a decisive word.",
+    "subtitle": "What the second oath confirms",
+    "picture": {
+      "kind": "boxes",
+      "label": "What it is",
+      "row": [
+        {
+          "box": "idea",
+          "title": "the Quran",
+          "sub": [
+            "sworn to by sky and earth"
+          ]
+        },
+        {
+          "conn": "is"
+        },
+        {
+          "box": "reward",
+          "title": "a decisive word",
+          "sub": [
+            "true, a just ruling"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How it settles things",
+      "row": [
+        {
+          "box": "people",
+          "title": "one opinion among many",
+          "sub": [
+            "take it or leave it"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "the word that separates",
+          "sub": [
+            "truth from falsehood"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas and Qatadah said fasl here means {idea}true{/idea}; someone else said {idea}a just ruling{/idea}. The surah introduction calls it a decisive Word that no plan of the disbelievers can defeat.",
+    "now": "Two loud opinions in the family chat, five videos saying opposite things. {idea}You need a word that settles it.{/idea}",
+    "old": "Everything is opinion, so nothing really settles a question.",
+    "new": "The Quran is the word that separates truth from falsehood for me.",
+    "try": "Bring one question you are confused about to the Quran today and look up a related verse.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:14",
+    "surah": 86,
+    "ayah": 14,
+    "place": "makkah",
+    "title": "And it is no joke.",
+    "subtitle": "Serious words deserve serious attention",
+    "picture": {
+      "kind": "boxes",
+      "label": "What it is not",
+      "row": [
+        {
+          "box": "trap",
+          "title": "amusement",
+          "sub": [
+            "not this"
+          ],
+          "strike": true
+        },
+        {
+          "conn": "rather"
+        },
+        {
+          "box": "idea",
+          "title": "serious and true",
+          "sub": [
+            "like rain and growth"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How to hear it",
+      "row": [
+        {
+          "box": "people",
+          "title": "background noise",
+          "sub": [
+            "while scrolling"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "full attention",
+          "sub": [
+            "it is serious"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says {idea}rather it is serious and true{/idea}. The introduction links it to the rain and plants: just as these are no child's play, the Quran's truths are no jest.",
+    "now": "Memes quoting verses, jokes about the Day of Judgement, a verse used as a punchline. {trap}It is easy to slide into treating it lightly.{/trap}",
+    "old": "A little joking about religion is harmless.",
+    "new": "The Quran is serious, so I handle its words with care.",
+    "try": "Next time a verse comes up in a joke today, gently change the subject.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:15",
+    "surah": 86,
+    "ayah": 15,
+    "place": "makkah",
+    "title": "They are plotting a plot.",
+    "subtitle": "Scheming against the message",
+    "picture": {
+      "kind": "boxes",
+      "label": "Their plan",
+      "row": [
+        {
+          "box": "trap",
+          "title": "the deniers",
+          "sub": [
+            "of Makkah"
+          ]
+        },
+        {
+          "conn": "plot"
+        },
+        {
+          "box": "trap",
+          "title": "to turn people away",
+          "sub": [
+            "from the Quran"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What they assume",
+      "row": [
+        {
+          "box": "trap",
+          "title": "our plan will win",
+          "sub": [
+            "we are clever enough"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "there is another plan",
+          "sub": [
+            "verse 16"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says they {trap}plot against the people, calling them to oppose the Quran{/trap}. The introduction says the Makkans were using every device to defeat the message.",
+    "now": "You are not plotting against the Quran. {idea}But you may be quietly plotting around it: the excuse ready for skipping prayer, the clever reason a verse does not apply to you.{/idea}",
+    "old": "I am not scheming against anything.",
+    "new": "I should check whether I am scheming around what Allah asks of me.",
+    "try": "Notice one excuse you use to avoid a good deed. Drop it today.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:16",
+    "surah": 86,
+    "ayah": 16,
+    "place": "makkah",
+    "title": "And I am planning a plan.",
+    "subtitle": "Allah's plan over every scheme",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two plans",
+      "row": [
+        {
+          "box": "trap",
+          "title": "their plot",
+          "sub": [
+            "verse 15"
+          ]
+        },
+        {
+          "conn": "against"
+        },
+        {
+          "box": "idea",
+          "title": "Allah's plan",
+          "sub": [
+            "brings theirs to nothing"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Whose plan stands",
+      "row": [
+        {
+          "box": "people",
+          "title": "the cleverest schemer",
+          "sub": [
+            "wins in the end"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "Allah's plan",
+          "sub": [
+            "undoes every scheme"
+          ]
+        }
+      ]
+    },
+    "then": "The introduction says the deniers thought their plans would defeat the Quran, but {idea}Allah too is devising a plan which will bring all their scheming to nothing{/idea}.",
+    "now": "Someone at work is plotting to push you out. A relative is turning family against you. {reward}You do not have to out-scheme them. There is a better Planner.{/reward}",
+    "old": "I have to out-plan everyone who works against me.",
+    "new": "Allah's plan stands over every scheme, including the ones against me.",
+    "try": "Hand one situation where you feel schemed against to Allah in dua today.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "86:17",
+    "surah": 86,
+    "ayah": 17,
+    "place": "makkah",
+    "title": "So give the deniers time. Leave them a little while.",
+    "subtitle": "Patience, not panic",
+    "picture": {
+      "kind": "boxes",
+      "label": "The instruction",
+      "row": [
+        {
+          "box": "people",
+          "title": "the Prophet ﷺ",
+          "sub": [
+            "facing their plots"
+          ]
+        },
+        {
+          "conn": "told to"
+        },
+        {
+          "box": "idea",
+          "title": "wait gently",
+          "sub": [
+            "do not hurry"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How to respond",
+      "row": [
+        {
+          "box": "trap",
+          "title": "rush to react",
+          "sub": [
+            "fight every scheme"
+          ]
+        },
+        {
+          "box": "reward",
+          "title": "patient waiting",
+          "sub": [
+            "a little while"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says it means {idea}wait for them and do not be in haste concerning them{/idea}, for a little while. The introduction calls it consolation for the Prophet ﷺ and a quiet warning to the deniers.",
+    "now": "You want to reply to the nasty comment right now, fix the injustice tonight, prove them wrong this week. {reward}Some things are better left to Allah's timing.{/reward}",
+    "old": "If I do not react right away, wrong will win.",
+    "new": "I can wait patiently, because Allah's timing is better than mine.",
+    "try": "Hold off one angry reply today. Wait a day before deciding.",
+    "related": [
+      "31:24"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  }
+]

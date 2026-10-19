@@ -1,0 +1,270 @@
+[
+  {
+    "id": "89:1", "surah": 89, "ayah": 1, "place": "makkah",
+    "title": "By the dawn.",
+    "subtitle": "An oath by the morning that ends every night",
+    "picture": {"kind": "boxes", "label": "What is sworn by", "row": [
+      {"box": "plain", "title": "night", "sub": ["dark, long"]},
+      {"conn": "breaks into"},
+      {"box": "idea", "title": "the dawn", "sub": ["the morning"]}]},
+    "key": {"label": "What the dawn says", "row": [
+      {"box": "trap", "title": "this dark is forever", "sub": ["nothing will change"], "strike": true},
+      {"box": "idea", "title": "dawn comes on time", "sub": ["a wise, regular order"]}]},
+    "then": "Revealed when {trap}the new Muslims of Makkah had begun to be persecuted.{/trap} Ali, Ibn Abbas and others said the dawn is the morning. Ibn Kathir says these oaths point to {idea}times of worship and the worship itself{/idea} done by Allah's humble servants.",
+    "now": "The alarm at Fajr, still dark outside. The night shift nurse watching the window go grey. A hard season that feels like it will never end. {idea}Dawn has never missed a day.{/idea} The One who sends it keeps the rest of His order too.",
+    "old": "My hard night will just keep going.",
+    "new": "The One who never misses a dawn is running my life too.",
+    "try": "Watch the sky at Fajr time once this week, even for one minute after praying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:2", "surah": 89, "ayah": 2, "place": "makkah",
+    "title": "By the ten nights.",
+    "subtitle": "The first ten days of Dhul-Hijjah",
+    "picture": {"kind": "boxes", "label": "The ten nights", "row": [
+      {"box": "idea", "title": "first ten of Dhul-Hijjah", "sub": ["said Ibn Abbas, Mujahid"]},
+      {"conn": "where"},
+      {"box": "reward", "title": "good deeds", "sub": ["most beloved to Allah"]}]},
+    "key": {"label": "Are all days the same?", "row": [
+      {"box": "trap", "title": "every day is equal", "sub": ["no season matters"], "strike": true},
+      {"box": "reward", "title": "some days weigh more", "sub": ["Allah chose them"]}]},
+    "then": "Ibn Abbas, Ibn Zubayr, Mujahid and others said these are {idea}the first ten days of Dhul-Hijjah.{/idea} The Prophet ﷺ said there are {reward}no days in which good deeds are more beloved to Allah than these days.{/reward}",
+    "now": "You plan your year around the Black Friday sale, the bonus month, the summer trip. {reward}Allah has His own season of best deals.{/reward} It comes every year, and most people let it pass like any other week.",
+    "old": "Special days are for other, more religious people.",
+    "new": "Allah gives me seasons where small deeds weigh more. I can use them.",
+    "try": "Put the first ten days of next Dhul-Hijjah in your phone calendar now with a reminder.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:3", "surah": 89, "ayah": 3, "place": "makkah",
+    "title": "By the even and the odd.",
+    "subtitle": "Two sacred days at the height of Hajj",
+    "picture": {"kind": "boxes", "label": "One explanation", "row": [
+      {"box": "idea", "title": "the odd", "sub": ["day of Arafah, the 9th"]},
+      {"box": "idea", "title": "the even", "sub": ["day of Sacrifice, the 10th"]}]},
+    "key": {"label": "How to read it", "row": [
+      {"box": "trap", "title": "just numbers", "sub": ["nothing to see"], "strike": true},
+      {"box": "idea", "title": "days of worship", "sub": ["sworn by for their worth"]}]},
+    "then": "A hadith mentions that {idea}the odd is the day of Arafah, on the ninth, and the even is the day of Sacrifice, on the tenth.{/idea} Ibn Abbas, Ikrimah and Ad-Dahhak said the same. Ibn Kathir notes other opinions exist too.",
+    "now": "Your days feel like a blur of numbers: date, shift, deadline. {idea}The verse swears by two dates that are full of worship.{/idea} It asks which of your days will be remembered for something you did for Allah.",
+    "old": "Dates on a calendar are just numbers to get through.",
+    "new": "Some days are sworn by because of the worship in them. Mine can hold worship too.",
+    "try": "Choose one day this week and plan one extra act of worship for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:4", "surah": 89, "ayah": 4, "place": "makkah",
+    "title": "By the night as it slips away.",
+    "subtitle": "The night always moves on",
+    "picture": {"kind": "boxes", "label": "The night", "row": [
+      {"box": "plain", "title": "night", "sub": ["arrives"]},
+      {"conn": "moves along"},
+      {"box": "plain", "title": "it departs", "sub": ["part after part"]}]},
+    "key": {"label": "What passing means", "row": [
+      {"box": "trap", "title": "time just disappears", "sub": [], "strike": true},
+      {"box": "idea", "title": "time follows an order", "sub": ["set by a Wise Lord"]}]},
+    "then": "Ibn Abbas said: {idea}when it goes away.{/idea} Abdullah ibn Zubayr said: {idea}as some parts of it remove other parts.{/idea} The surah opens with dawn and closes its oaths with night leaving, a picture of {idea}the regular order of night and day.{/idea}",
+    "now": "You lie awake at 3am with a worry. The night feels endless. Then the birds start. {idea}No night has ever stayed.{/idea} The same order that moves the night is the order that will bring every deed to account.",
+    "old": "Time just slips by without meaning anything.",
+    "new": "Every passing night is part of an order with a purpose.",
+    "try": "Before you sleep tonight, spend one minute thinking about how you used the day that just passed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:5", "surah": 89, "ayah": 5, "place": "makkah",
+    "title": "Is that not enough for anyone with sense?",
+    "subtitle": "The oaths are for the mind that holds itself back",
+    "picture": {"kind": "boxes", "label": "The oaths", "row": [
+      {"box": "idea", "title": "dawn, ten nights", "sub": ["even, odd, night"]},
+      {"conn": "enough for"},
+      {"box": "people", "title": "one with hijr", "sub": ["intellect that restrains"]}]},
+    "key": {"label": "What intelligence is", "row": [
+      {"box": "trap", "title": "being clever", "sub": ["winning arguments"], "strike": true},
+      {"box": "idea", "title": "hijr: restraint", "sub": ["stops you from the unfitting"]}]},
+    "then": "Ibn Kathir: hijr is {idea}intellect, sound reasoning and understanding.{/idea} It is called hijr because {idea}it prevents a person from doing what does not befit him.{/idea} The same root names the Hijr beside the Kaaba, a boundary.",
+    "now": "You are smart enough to pass exams and run a team. But can your mind stop you from sending the angry text, from the second helping of gossip? {idea}Real sense is the brake, not just the engine.{/idea}",
+    "old": "Being intelligent means knowing a lot.",
+    "new": "Being intelligent means my mind can hold me back from wrong.",
+    "try": "Next time you are about to say something you will regret, pause for three breaths first.",
+    "related": ["25:22"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:6", "surah": 89, "ayah": 6, "place": "makkah",
+    "title": "Have you not seen what your Lord did with Ad?",
+    "subtitle": "A nation that rejected its messenger Hud",
+    "picture": {"kind": "boxes", "label": "The story of Ad", "row": [
+      {"box": "people", "title": "Ad", "sub": ["strong, arrogant"]},
+      {"conn": "rejected"},
+      {"box": "people", "title": "Hud", "sub": ["their messenger"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "destroyed", "sub": ["a lesson to retell"]}]},
+    "key": {"label": "Why the story is told", "row": [
+      {"box": "trap", "title": "history about others", "sub": ["long ago, far away"], "strike": true},
+      {"box": "idea", "title": "a mirror for me", "sub": ["so believers learn"]}]},
+    "then": "Ad were {trap}rebellious, arrogant, deniers of His messengers.{/trap} Allah sent them Hud, saved him and the believers, and destroyed the rest with a violent wind. Ibn Kathir: their story is told {idea}so that the believers may learn a lesson.{/idea}",
+    "now": "A documentary about ruined cities. You watch it with popcorn, then move on. {idea}The Quran tells these stories so you look at yourself:{/idea} where in your life are you ignoring a clear warning because you feel strong?",
+    "old": "Stories of destroyed nations are just ancient history.",
+    "new": "These stories are told so I check my own arrogance now.",
+    "try": "Name one warning in your life you keep ignoring, and take one step to address it.",
+    "related": ["69:7", "69:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:7", "surah": 89, "ayah": 7, "place": "makkah",
+    "title": "Iram, the people of the lofty pillars.",
+    "subtitle": "The first Ad, who built on firm columns",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "lofty pillars", "sub": ["houses on firm columns"]},
+      {"box": "reward", "title": "great stature", "sub": ["strongest of their time"]}]},
+    "key": {"label": "What strength is for", "row": [
+      {"box": "trap", "title": "who is mightier than us?", "sub": ["their boast"], "strike": true},
+      {"box": "idea", "title": "use it to obey", "sub": ["what Hud told them"]}]},
+    "then": "Ibn Kathir: they lived in {reward}houses raised with firm pillars{/reward} and were the strongest people of their time. Hud reminded them of this blessing and told them to use it in obedience. Instead {trap}they said: who is mightier than us?{/trap}",
+    "now": "Your strong body at the gym. Your title at work. Your bank balance. {idea}Every strength you have is a blessing with a job attached.{/idea} The question is whether you use it for Allah or to look down on people.",
+    "old": "My strength and success are proof I am doing fine.",
+    "new": "My strength is a gift, and its job is obedience, not boasting.",
+    "try": "Use one strength you have today to help someone weaker, quietly.",
+    "related": ["7:69", "41:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:8", "surah": 89, "ayah": 8, "place": "makkah",
+    "title": "No one like them had been created in the land.",
+    "subtitle": "Their strength was unmatched in their time",
+    "picture": {"kind": "boxes", "label": "Ad in their day", "row": [
+      {"box": "reward", "title": "unmatched", "sub": ["power, stature"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "gone", "sub": ["no remnant"]}]},
+    "key": {"label": "What protects you", "row": [
+      {"box": "trap", "title": "being the best", "sub": ["no one like me"], "strike": true},
+      {"box": "idea", "title": "Allah is mightier", "sub": ["He created them"]}]},
+    "then": "Qatadah and Ibn Jarir said {idea}no tribe like them had been created in the land in their time.{/idea} Ibn Kathir calls this the correct view. Even so, they were brought down. Allah who created them was mightier than them.",
+    "now": "The company that was \"too big to fail.\" The champion who was unbeatable for ten years. {trap}Being number one has never protected anyone.{/trap} {idea}Only the One who made you is greater than all of it.{/idea}",
+    "old": "If I am at the top, I am safe.",
+    "new": "Even the strongest were made by One stronger. Safety is with Him.",
+    "try": "When you feel proud of being the best at something today, say: it is from Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:9", "surah": 89, "ayah": 9, "place": "makkah",
+    "title": "Thamud, who carved homes out of rock.",
+    "subtitle": "Skill and engineering that did not save them",
+    "picture": {"kind": "boxes", "label": "What Thamud did", "row": [
+      {"box": "people", "title": "Thamud", "sub": ["skilled builders"]},
+      {"conn": "carved"},
+      {"box": "reward", "title": "rock", "sub": ["houses in the valley"]}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "trap", "title": "what I build in stone", "sub": ["it will protect me"], "strike": true},
+      {"box": "idea", "title": "how I stand with Allah", "sub": ["that is what remains"]}]},
+    "then": "Ibn Abbas said: {idea}they carved and hewed the rocks.{/idea} Ibn Kathir links it to the verse where they are told: {trap}you carve houses in the mountains with great skill.{/trap} Their skill was real. It did not stop what came.",
+    "now": "The extension on your house. The career you engineered step by step. The savings plan carved in stone. {idea}Good things to build.{/idea} But they are not a shelter from Allah's judgement. Only obedience is.",
+    "old": "If I build well and plan well, I am secure.",
+    "new": "Skill is a gift. Security is in obeying the One who gave it.",
+    "try": "Look at one thing you have built or planned and ask Allah to put blessing in it.",
+    "related": ["26:149"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:10", "surah": 89, "ayah": 10, "place": "makkah",
+    "title": "And Pharaoh, the man of the stakes.",
+    "subtitle": "Power enforced through armies and cruelty",
+    "picture": {"kind": "boxes", "label": "Pharaoh's stakes", "row": [
+      {"box": "trap", "title": "armies", "sub": ["enforced his commands"]},
+      {"box": "trap", "title": "pegs", "sub": ["used to punish people"]}]},
+    "key": {"label": "How power is used", "row": [
+      {"box": "trap", "title": "control by fear", "sub": ["the Pharaoh way"]},
+      {"box": "idea", "title": "care for those under me", "sub": ["the way Allah loves"]}]},
+    "then": "Ibn Abbas said {trap}the stakes are the armies who enforced his commands.{/trap} Others, like Mujahid, said he used to fasten people to stakes as punishment. Either way, the image is of power held by force.",
+    "now": "You may not rule a country, but you may run a team, a classroom, a household. {trap}Fear works fast.{/trap} {idea}The question is how the people under your authority feel when you walk in.{/idea}",
+    "old": "Being firm and feared is how you keep control.",
+    "new": "Power held by fear is the Pharaoh pattern. I want the opposite.",
+    "try": "Do one kind thing today for someone you have authority over: a child, a staff member, a student.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:11", "surah": 89, "ayah": 11, "place": "makkah",
+    "title": "All of them crossed every limit in the land.",
+    "subtitle": "What Ad, Thamud and Pharaoh shared",
+    "picture": {"kind": "boxes", "label": "Three nations, one pattern", "row": [
+      {"box": "people", "title": "Ad", "sub": []},
+      {"box": "people", "title": "Thamud", "sub": []},
+      {"box": "people", "title": "Pharaoh", "sub": []},
+      {"conn": "all"},
+      {"box": "trap", "title": "transgressed", "sub": ["rebelled, arrogant"]}]},
+    "key": {"label": "The real problem", "row": [
+      {"box": "trap", "title": "having power", "sub": ["strength, skill, armies"], "strike": true},
+      {"box": "trap", "title": "crossing limits with it", "sub": ["that is transgression"]}]},
+    "then": "Ibn Kathir: {trap}they rebelled, were arrogant, and went about making corruption in the land and harming the people.{/trap} Strength, stone and armies were not the sin. {idea}Using them to cross limits was.{/idea}",
+    "now": "The extra hour you take from your employer. The rule you bend because no one checks. The temper you let loose because you can. {idea}Transgression starts small and personal.{/idea}",
+    "old": "Crossing limits is what tyrants do, not people like me.",
+    "new": "Any limit I cross because I can is the same seed.",
+    "try": "Notice one small limit you tend to cross, and keep it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:12", "surah": 89, "ayah": 12, "place": "makkah",
+    "title": "And they spread corruption everywhere.",
+    "subtitle": "Transgression always spills onto other people",
+    "picture": {"kind": "boxes", "label": "How it spreads", "row": [
+      {"box": "trap", "title": "transgression", "sub": ["inside them"]},
+      {"conn": "became"},
+      {"box": "trap", "title": "much corruption", "sub": ["harming the people"]}]},
+    "key": {"label": "Who it hurts", "row": [
+      {"box": "trap", "title": "only me", "sub": ["my own business"], "strike": true},
+      {"box": "trap", "title": "everyone around", "sub": ["it always spreads"]}]},
+    "then": "After crossing limits, the next step: {trap}they increased the corruption{/trap}, making mischief in the land and {trap}harming the people.{/trap} Wrong never stays private for long.",
+    "now": "One person cuts corners at work and soon the whole team does. One cruel joke in the group chat and everyone joins in. {idea}What you allow in yourself spreads to the people around you.{/idea} So does good.",
+    "old": "My bad habits only affect me.",
+    "new": "What I do spreads. I can spread good instead.",
+    "try": "Start one small good trend today: a kind word, an honest answer, a tidy shared space.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:13", "surah": 89, "ayah": 13, "place": "makkah",
+    "title": "So your Lord poured a punishment on them.",
+    "subtitle": "When corruption peaked, the reckoning came",
+    "picture": {"kind": "boxes", "label": "The end", "row": [
+      {"box": "trap", "title": "transgressed", "sub": ["verse 11"]},
+      {"box": "trap", "title": "corrupted", "sub": ["verse 12"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "punishment poured", "sub": ["could not be repelled"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "trap", "title": "nothing happened, so it is fine", "sub": [], "strike": true},
+      {"box": "idea", "title": "time to turn back", "sub": ["the delay is mercy"]}]},
+    "then": "Ibn Kathir: {trap}He sent down a torment from the sky that could not be repelled{/trap} from the criminals. The people of Makkah, who were persecuting the believers, heard this as a {idea}clear warning about where that road leads.{/idea}",
+    "now": "You did something wrong last year and nothing happened. So you did it again. {idea}Silence is not approval. It is time given to turn back.{/idea} The verse is about them, and it is a mirror for you.",
+    "old": "If nothing bad has happened, it must be fine.",
+    "new": "Delay is a chance to turn back, not a sign of approval.",
+    "try": "Seek forgiveness today for one wrong that you got away with.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:14", "surah": 89, "ayah": 14, "place": "makkah",
+    "title": "Your Lord is always watching.",
+    "subtitle": "He hears, He sees, and He will judge with justice",
+    "picture": {"kind": "boxes", "label": "What He does", "row": [
+      {"box": "idea", "title": "hears and sees", "sub": ["said Ibn Abbas"]},
+      {"box": "idea", "title": "watches", "sub": ["all that creation does"]},
+      {"box": "reward", "title": "judges justly", "sub": ["far from injustice"]}]},
+    "key": {"label": "Two ways to feel watched", "row": [
+      {"box": "trap", "title": "a spy camera", "sub": ["waiting to catch me"], "strike": true},
+      {"box": "reward", "title": "a just Witness", "sub": ["no good deed missed"]}]},
+    "then": "Ibn Abbas said: {idea}He hears and He sees.{/idea} Ibn Kathir: He watches over His creation and will reward each {reward}based on what each of them strove for{/reward}, judging with justice. For persecuted believers in Makkah, this was comfort.",
+    "now": "You are treated unfairly at work and no one notices. You are patient with a hard relative and no one sees. {reward}Your Lord is watching, and He is just.{/reward} The ones who wronged you are seen too.",
+    "old": "No one sees what I go through or what I do right.",
+    "new": "Allah is watching, so nothing I suffer or do is lost.",
+    "try": "When you feel unseen today, whisper: Allah sees this.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

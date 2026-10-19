@@ -1,0 +1,199 @@
+[
+  {
+    "id": "4:111", "surah": 4, "ayah": 111, "place": "madinah",
+    "title": "Every sin you earn lands on your own account.",
+    "subtitle": "No one else carries your burden",
+    "picture": {"kind": "boxes", "label": "Where a sin goes", "row": [
+      {"box": "people", "title": "you earn a sin", "sub": []},
+      {"conn": "it is written"},
+      {"box": "trap", "title": "against yourself", "sub": ["no one shares it"]},
+      {"box": "idea", "title": "Knowing, Wise", "sub": ["fair in all of it"]}]},
+    "key": {"label": "Whose account", "row": [
+      {"box": "people", "title": "they made me do it", "sub": ["spread the weight"], "strike": true},
+      {"box": "idea", "title": "it is mine", "sub": ["no bearer bears another's load"]}]},
+    "then": "Right after promising forgiveness to anyone who asks, Allah adds: {trap}whoever earns a sin earns it against himself{/trap}. Ibn Kathir links it to the verse that no bearer of burdens carries another's burden. It flows from Allah's {idea}knowledge, wisdom, fairness and mercy{/idea}.",
+    "now": "You blame the group chat for the gossip you joined. You blame your upbringing for the temper you never worked on. {idea}Those influences are real, but the sin you choose is yours.{/idea} The good news: so is the repentance.",
+    "old": "Part of what I did wrong belongs to the people who pushed me.",
+    "new": "What I choose is mine to answer for, and mine to repent from.",
+    "try": "Say one wrong you did today out loud, starting with I, not with anyone else's name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:112", "surah": 4, "ayah": 112, "place": "madinah",
+    "title": "Blaming the innocent doubles the sin.",
+    "subtitle": "The slander that makes your own wrong heavier",
+    "picture": {"kind": "boxes", "label": "What gets added", "row": [
+      {"box": "trap", "title": "your fault", "sub": ["the first sin"]},
+      {"conn": "pinned on"},
+      {"box": "people", "title": "an innocent", "sub": ["who did nothing"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "slander and plain sin", "sub": ["a second, heavier load"]}]},
+    "key": {"label": "Getting out of trouble", "row": [
+      {"box": "trap", "title": "shift the blame", "sub": ["now two wrongs"], "strike": true},
+      {"box": "idea", "title": "own it", "sub": ["one wrong, and forgivable"]}]},
+    "then": "Ibn Kathir titles this passage a {trap}warning to those who falsely accuse innocent people{/trap}. Whoever commits a fault and blames it on someone innocent {trap}has burdened himself with slander and a clear sin{/trap}, on top of what he did.",
+    "now": "The vase is broken and you say your little brother did it. The report was late and you say the intern dropped the ball. {trap}Now you carry two sins and someone else carries your shame.{/trap} The verse asks you to stop at one.",
+    "old": "Letting someone else take the blame is just self-protection.",
+    "new": "Blaming an innocent adds slander to my sin and wrongs another person.",
+    "try": "If someone took blame for something you did, tell them, or the person who blamed them, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:113", "surah": 4, "ayah": 113, "place": "madinah",
+    "title": "Allah's favor kept him from being misled.",
+    "subtitle": "Taught what he did not know",
+    "picture": {"kind": "boxes", "label": "What protected the Prophet ﷺ", "row": [
+      {"box": "trap", "title": "a group plotting", "sub": ["to mislead him"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "Allah's favor", "sub": ["the Book and wisdom"]},
+      {"box": "idea", "title": "taught him", "sub": ["what he did not know"]}]},
+    "key": {"label": "Who gets misled", "row": [
+      {"box": "people", "title": "the target", "sub": ["the plotters think"], "strike": true},
+      {"box": "trap", "title": "the plotters", "sub": ["they mislead only themselves"]}]},
+    "then": "Some people tried to steer the Prophet ﷺ into a wrong judgment, but {trap}they misled only themselves{/trap}. Allah reminds him: He sent down the Book and wisdom and {reward}taught you what you did not know{/reward}. Ibn Kathir links this to the verse that he did not know what the Book was before.",
+    "now": "Someone is working hard to pull you into a scheme, a lie, a fight that is not yours. Your protection is not cleverness. {reward}It is what Allah has taught you, kept close.{/reward} The ayat you know are a shield you may not notice you are holding.",
+    "old": "I avoid being misled because I am sharp.",
+    "new": "What keeps me straight is what Allah has taught me, and that is His favor.",
+    "try": "Thank Allah today for one thing in the Quran that has kept you from a mistake.",
+    "related": ["42:52", "28:86"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:114", "surah": 4, "ayah": 114, "place": "madinah",
+    "title": "Most whispers are empty, except these three.",
+    "subtitle": "Private talk that is worth having",
+    "picture": {"kind": "boxes", "label": "The good kind of secret talk", "row": [
+      {"box": "reward", "title": "charity", "sub": ["let us help them"]},
+      {"box": "reward", "title": "what is right", "sub": ["good advice"]},
+      {"box": "reward", "title": "reconciliation", "sub": ["bringing people back together"]}]},
+    "key": {"label": "Better than extra worship", "row": [
+      {"box": "people", "title": "more fasting and prayer", "sub": ["what I thought ranked highest"]},
+      {"box": "idea", "title": "mending relations", "sub": ["the Prophet ﷺ ranked it higher"]}]},
+    "then": "Allah says there is no good in most private talk, {idea}except urging charity, good, or reconciliation{/idea}. Abu Ad-Darda' reported the Prophet ﷺ said mending relations between people is better than the grade of extra fasting, prayer and charity, and that {trap}spoiling relations is the destroyer{/trap}.",
+    "now": "Look at your direct messages from this week. How much was complaint, gossip, or plans that go nowhere? {reward}Now imagine one message that helps two estranged cousins talk again.{/reward} That is the kind of whisper the verse rewards.",
+    "old": "What I say in private does not really matter.",
+    "new": "Private talk is either empty or it is charity, good counsel and peacemaking.",
+    "try": "Send one private message today that encourages charity, gives good advice, or helps two people reconcile.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:115", "surah": 4, "ayah": 115, "place": "madinah",
+    "title": "Turn away after seeing clearly, and you get what you chose.",
+    "subtitle": "Allah leaves a person on the path they pick",
+    "picture": {"kind": "boxes", "label": "The sequence", "row": [
+      {"box": "idea", "title": "guidance made clear", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "opposing it anyway", "sub": ["leaving the believers' way"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "left to that path", "sub": ["it starts to look good"]}]},
+    "key": {"label": "The quiet consequence", "row": [
+      {"box": "people", "title": "I can always switch back", "sub": ["whenever I like"], "strike": true},
+      {"box": "trap", "title": "it grows on you", "sub": ["the wrong path seems fair"]}]},
+    "then": "This is about someone who opposes the Messenger ﷺ {trap}after guidance has become clear{/trap}. Ibn Kathir explains that Allah {trap}makes the chosen path look good to him{/trap}, so he goes further, as in the verse: when they turned away, Allah turned their hearts away. The warning is sober.",
+    "now": "You know the habit is wrong. At first you feel guilty every time. After a year, you have reasons for it. After two, you defend it. {idea}That slow shift is what the verse warns about.{/idea} The sooner you turn back, the easier it is.",
+    "old": "I will deal with this when I am ready; it will stay the same until then.",
+    "new": "Staying on a path I know is wrong changes how it looks to me, so I turn back now.",
+    "try": "Name one wrong you have started to justify. Write down the reason you first knew it was wrong.",
+    "related": ["68:44", "61:5", "6:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:116", "surah": 4, "ayah": 116, "place": "madinah",
+    "title": "Everything but shirk can be forgiven.",
+    "subtitle": "The one line Allah draws, and the wide mercy below it",
+    "picture": {"kind": "boxes", "label": "The line", "row": [
+      {"box": "trap", "title": "partners with Allah", "sub": ["not forgiven"]},
+      {"box": "reward", "title": "everything less", "sub": ["forgiven for whom He wills"]}]},
+    "key": {"label": "Which worry is right", "row": [
+      {"box": "people", "title": "my sins are unforgivable", "sub": ["I am too far gone"], "strike": true},
+      {"box": "idea", "title": "guard tawhid", "sub": ["and hope for the rest"]}]},
+    "then": "Allah repeats a line from earlier in the surah: {trap}He does not forgive associating partners with Him{/trap}, but {reward}forgives what is less than that for whom He wills{/reward}. Ibn Kathir says whoever associates partners strays far and loses contentment in both lives.",
+    "now": "You worry endlessly about small sins but never think about where your heart actually leans. Luck charms, fear of what people think, money as your real safety. {idea}Guard your tawhid most of all.{/idea} Below that line, Allah's mercy is wide.",
+    "old": "My biggest risk is the number of my sins.",
+    "new": "My biggest care is keeping my worship for Allah alone, and hoping in His mercy for the rest.",
+    "try": "Ask yourself honestly: what do I rely on as if it were Allah? Say la ilaha illallah with that in mind.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:117", "surah": 4, "ayah": 117, "place": "madinah",
+    "title": "Behind every false god, the one really obeyed is Shaytan.",
+    "subtitle": "Who is actually being served",
+    "picture": {"kind": "boxes", "label": "What they thought vs what it was", "row": [
+      {"box": "people", "title": "female idols", "sub": ["as daughters of Allah"], "strike": true},
+      {"conn": "in reality"},
+      {"box": "trap", "title": "a rebellious Shaytan", "sub": ["who made it look fair"]}]},
+    "key": {"label": "Who you are really obeying", "row": [
+      {"box": "people", "title": "the thing itself", "sub": ["harmless object"], "strike": true},
+      {"box": "trap", "title": "the voice behind it", "sub": ["Shaytan"]}]},
+    "then": "Ad-Dahhak said the idolators claimed the angels were Allah's daughters and {trap}carved idols shaped like girls to worship them{/trap}. Ibn Kathir explains that Shaytan ordered this and made it look beautiful, so {trap}in reality they were worshipping Shaytan{/trap}.",
+    "now": "You do not bow to statues. But when you check your phone before your prayer, or bend your values for a promotion, ask who is giving the orders. {idea}The thing itself is not the master; the voice behind it is.{/idea}",
+    "old": "I would never worship anything other than Allah.",
+    "new": "Whatever I obey over Allah, I am really obeying the one who whispered it.",
+    "try": "Notice one thing today that you obeyed before Allah. Ask who was really behind that pull.",
+    "related": ["53:19", "36:60", "34:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:118", "surah": 4, "ayah": 118, "place": "madinah",
+    "title": "Shaytan announced his plan: a share of Allah's servants.",
+    "subtitle": "The enemy who told you exactly what he wants",
+    "picture": {"kind": "boxes", "label": "His declaration", "row": [
+      {"box": "trap", "title": "cursed by Allah", "sub": ["expelled from mercy"]},
+      {"conn": "vows to take"},
+      {"box": "people", "title": "a fixed portion", "sub": ["of Allah's servants"]}]},
+    "key": {"label": "Whose share you are in", "row": [
+      {"box": "people", "title": "his target is others", "sub": ["the obviously bad"], "strike": true},
+      {"box": "idea", "title": "his target is anyone", "sub": ["so I stay alert"]}]},
+    "then": "Ibn Kathir explains that Allah {trap}expelled Shaytan and banished him from His mercy{/trap}. Shaytan then vowed to take {trap}a fixed and known share{/trap} of Allah's servants. He is an enemy who has openly declared what he is after.",
+    "now": "If a stranger told you he was going to steal from your house, you would lock the doors. Shaytan said it plainly and you still leave the door open: the late nights, the endless scroll, the anger you never check. {idea}He told you his plan. Act like you heard it.{/idea}",
+    "old": "Shaytan is mostly a concern for people worse than me.",
+    "new": "He openly wants a share of all of Allah's servants, so I guard myself.",
+    "try": "Close one door Shaytan uses with you, like an app, a habit, or a time of night, for one day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:119", "surah": 4, "ayah": 119, "place": "madinah",
+    "title": "His tools: misleading, false hopes, and tampering with creation.",
+    "subtitle": "How Shaytan works, in his own words",
+    "picture": {"kind": "boxes", "label": "His methods", "row": [
+      {"box": "trap", "title": "mislead", "sub": ["off the true path"]},
+      {"box": "trap", "title": "false hopes", "sub": ["delay, procrastinate"]},
+      {"box": "trap", "title": "invented rituals", "sub": ["slitting cattle ears"]},
+      {"box": "trap", "title": "change Allah's creation", "sub": []}]},
+    "key": {"label": "The quietest tool", "row": [
+      {"box": "people", "title": "I will start tomorrow", "sub": ["feels harmless"], "strike": true},
+      {"box": "trap", "title": "a false hope", "sub": ["his named method"]}]},
+    "then": "Shaytan lists his methods. Ibn Kathir explains the false hopes as {trap}encouraging people to delay and procrastinate with good deeds{/trap}. He would also command invented rituals like slitting the ears of cattle, and changing Allah's creation. Whoever takes him as an ally {trap}suffers a clear loss{/trap}.",
+    "now": "I will start praying properly after exams. I will give charity once I get the raise. I will make up with my father next Eid. {trap}Each one sounds like a plan. It is a false hope.{/trap} The verse names procrastination as one of his tools.",
+    "old": "Putting off good deeds a little is harmless.",
+    "new": "The comfortable someday is one of Shaytan's tools. Today is what I have.",
+    "try": "Pick one good deed you keep saying you will start soon. Do it today, even in a small form.",
+    "related": ["59:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:120", "surah": 4, "ayah": 120, "place": "madinah",
+    "title": "His promises are only delusion.",
+    "subtitle": "What Shaytan offers, and what it turns out to be",
+    "picture": {"kind": "boxes", "label": "The promise", "row": [
+      {"box": "trap", "title": "he promises", "sub": ["you will win at both"]},
+      {"box": "trap", "title": "he stirs desire", "sub": ["just this once"]},
+      {"conn": "it turns out"},
+      {"box": "trap", "title": "delusion", "sub": ["nothing behind it"]}]},
+    "key": {"label": "Two promises", "row": [
+      {"box": "trap", "title": "Shaytan's", "sub": ["I betrayed you, he will admit"], "strike": true},
+      {"box": "idea", "title": "Allah's", "sub": ["a promise of truth"]}]},
+    "then": "Ibn Kathir explains that Shaytan {trap}deceitfully promises his followers that they will win in this life and the next{/trap}. He cites the verse where, once all is decided, Shaytan admits: {idea}Allah promised you the truth, and I promised you and betrayed you{/idea}.",
+    "now": "One more scroll will relax you. One small lie will fix it. The purchase will finally make you happy. You have heard these promises before, and you know how each one ended. {idea}Notice the pattern: the promise never delivers.{/idea}",
+    "old": "This time the shortcut will actually give me what I want.",
+    "new": "Shaytan's promises always end empty; only Allah's promise is true.",
+    "try": "Next time a temptation promises you something, say out loud: that is a delusion. Then walk away.",
+    "related": ["14:22"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

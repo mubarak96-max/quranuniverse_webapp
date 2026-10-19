@@ -1,0 +1,254 @@
+[
+  {
+    "id": "47:1", "surah": 47, "ayah": 1, "place": "madinah",
+    "title": "Blocking others from Allah's way empties your own deeds.",
+    "subtitle": "Deeds that come to nothing",
+    "picture": {"kind": "boxes", "label": "Two wrongs", "row": [
+      {"box": "trap", "title": "disbelieve", "sub": ["in Allah's signs"]},
+      {"box": "trap", "title": "hinder others", "sub": ["from His path"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "deeds wasted", "sub": ["like scattered dust"]}]},
+    "key": {"label": "What happens to their good", "row": [
+      {"box": "reward", "title": "still counts", "sub": ["I did nice things"], "strike": true},
+      {"box": "trap", "title": "made vain", "sub": ["no reward attached"]}]},
+    "then": "This surah came in Madinah when the small community was hemmed in by enemies. It opens on those who rejected Allah and {trap}blocked others from His path.{/trap} Ibn Kathir says Allah makes their deeds futile and denies them any reward, {trap}like dust scattered in the air.{/trap}",
+    "now": "Your friend wants to start praying and you joke about it until she stops. Your colleague wants to give charity and you talk him out of it. {trap}Getting in someone else's way is its own deed.{/trap} {idea}Be the person who opens the door, not the one who blocks it.{/idea}",
+    "old": "What others do with their faith is not affected by me.",
+    "new": "If I block someone from good, I lose more than they do.",
+    "try": "Encourage one person today in a good thing they are trying to do.",
+    "related": ["25:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:2", "surah": 47, "ayah": 2, "place": "madinah",
+    "title": "He wipes away their sins and sets their affairs right.",
+    "subtitle": "The surah where Muhammad ﷺ is named",
+    "picture": {"kind": "boxes", "label": "What they do", "row": [
+      {"box": "idea", "title": "believe", "sub": ["heart and soul"]},
+      {"box": "idea", "title": "do good", "sub": ["hidden and open"]},
+      {"box": "idea", "title": "believe in what came", "sub": ["to Muhammad ﷺ"]},
+      {"conn": "so He"},
+      {"box": "reward", "title": "removes misdeeds", "sub": ["amends their condition"]}]},
+    "key": {"label": "What gets fixed", "row": [
+      {"box": "trap", "title": "only my record", "sub": ["the past"], "strike": true},
+      {"box": "reward", "title": "my whole condition", "sub": ["my matter, my affairs"]}]},
+    "then": "The surah takes its name from this verse, which names Muhammad ﷺ. Ibn Kathir explains Bal as {reward}their matter, their affair, their condition.{/reward} He notes the Prophet ﷺ taught the reply to one who sneezes: {idea}may Allah guide you and set your affairs right.{/idea}",
+    "now": "Your life feels tangled: the job, the debt, the family tension, the thing you keep doing that you hate. {reward}The promise here is not just a clean record but a sorted life.{/reward} Belief and good deeds are the first thread to pull.",
+    "old": "Faith might clean my record, but my life stays messy.",
+    "new": "Allah promises to set my whole condition right when I believe and do good.",
+    "try": "When someone sneezes today and praises Allah, reply with may Allah guide you and set your affairs right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:3", "surah": 47, "ayah": 3, "place": "madinah",
+    "title": "The difference is what each side chose to follow.",
+    "subtitle": "Falsehood or truth from their Lord",
+    "picture": {"kind": "boxes", "label": "Two paths", "row": [
+      {"box": "trap", "title": "follow falsehood", "sub": ["chose it over truth"]},
+      {"box": "idea", "title": "follow the truth", "sub": ["from their Lord"]}]},
+    "key": {"label": "Why the outcomes differ", "row": [
+      {"box": "people", "title": "luck", "sub": ["some just got lucky"], "strike": true},
+      {"box": "idea", "title": "what they followed", "sub": ["a choice, made clear"]}]},
+    "then": "This verse explains the two before it. Ibn Kathir says deeds are lost for one group and sins forgiven for the other {idea}because one chose falsehood over truth, and the other followed the truth from their Lord.{/idea} Allah makes the end of each path clear.",
+    "now": "Every day you pick what to follow: which voice in your feed, which friend's advice, which inner urge. {idea}It does not feel like a big decision.{/idea} But the verse says outcomes come from the thing you keep following.",
+    "old": "Where people end up is mostly chance.",
+    "new": "Where I end up depends on what I choose to follow, and Allah has made both paths clear.",
+    "try": "List three voices you follow most. Ask of each: does this lead me to truth?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:4", "surah": 47, "ayah": 4, "place": "madinah",
+    "title": "He could have done it Himself; He tests you through each other.",
+    "subtitle": "Rules for a besieged community, and a deeper purpose",
+    "picture": {"kind": "boxes", "label": "The situation", "row": [
+      {"box": "people", "title": "Madinah", "sub": ["small, surrounded"]},
+      {"box": "plain", "title": "battle guidance", "sub": ["captives: grace or ransom"]},
+      {"conn": "and the reason"},
+      {"box": "idea", "title": "a test", "sub": ["some of you by others"]}]},
+    "key": {"label": "Why struggle at all", "row": [
+      {"box": "trap", "title": "Allah needs us", "sub": ["to win for Him"], "strike": true},
+      {"box": "idea", "title": "Allah tests us", "sub": ["to show who stands firm"]}]},
+    "then": "The surah introduction says fighting had been ordered for a tiny, boycotted Madinah facing all of Arabia. The verse gives battle guidance, including freeing captives by grace or ransom. {idea}Allah could have punished the enemy Himself, but He lets people be tested by each other.{/idea} {reward}Those killed in His cause will never have their deeds lost.{/reward}",
+    "now": "The difficult manager. The relative who tests your patience every visit. You wonder why Allah does not just fix it. {idea}The verse says some of us are tested through others.{/idea} How you act in that friction is the point.",
+    "old": "If Allah wanted, He would just remove the hard people from my life.",
+    "new": "Allah could remove every difficulty, but some are there to test and grow me.",
+    "try": "Think of one person who tests you. Choose one calm response before you see them next.",
+    "related": ["8:67", "3:142", "9:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:5", "surah": 47, "ayah": 5, "place": "madinah",
+    "title": "Guided onward and their condition set right.",
+    "subtitle": "What Allah does for those who gave their lives",
+    "picture": {"kind": "boxes", "label": "After they fell", "row": [
+      {"box": "people", "title": "killed in His cause", "sub": ["from the verse before"]},
+      {"conn": "He"},
+      {"box": "reward", "title": "guides them", "sub": ["to Paradise"]},
+      {"box": "reward", "title": "amends their state", "sub": ["their affairs"]}]},
+    "key": {"label": "Where it ends", "row": [
+      {"box": "trap", "title": "a loss", "sub": ["their story is over"], "strike": true},
+      {"box": "reward", "title": "a beginning", "sub": ["guided onward"]}]},
+    "then": "Many believers would die in the coming battles. Ibn Kathir says Allah would multiply their deeds, and that {reward}He will guide them means He will guide them to Paradise.{/reward} {idea}Their situation and affairs will be set right.{/idea}",
+    "now": "You sit with a family who lost someone good: a nurse who worked through the pandemic, a father who died working to feed his kids. It looks like an ending. {reward}The verse says for those who die striving for Allah, the story keeps going.{/reward}",
+    "old": "When a good person dies young, it is simply a loss.",
+    "new": "For those who give themselves for Allah, death opens onto guidance and repair.",
+    "try": "Make dua today for one good person you know who has passed away.",
+    "related": ["10:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:6", "surah": 47, "ayah": 6, "place": "madinah",
+    "title": "A Paradise He has already made known to them.",
+    "subtitle": "Not a strange place, but a known one",
+    "picture": {"kind": "boxes", "label": "The arrival", "row": [
+      {"box": "people", "title": "the believers", "sub": ["guided onward"]},
+      {"conn": "enter"},
+      {"box": "reward", "title": "Paradise", "sub": ["made known to them"]}]},
+    "key": {"label": "How it feels", "row": [
+      {"box": "plain", "title": "a stranger's house", "sub": ["unfamiliar"], "strike": true},
+      {"box": "reward", "title": "home", "sub": ["already known"]}]},
+    "then": "This finishes the promise to those who died in Allah's cause. {reward}He admits them to Paradise, which He has made known to them.{/reward} Ibn Kathir explains it as a place Allah has acquainted them with. {idea}They arrive somewhere they recognize.{/idea}",
+    "now": "Walking into your childhood home after years abroad: you know where the light switch is without looking. {reward}The verse describes Paradise like that for the believer: not a stranger's place, but one made known.{/reward}",
+    "old": "Paradise is a far, unknown place I cannot picture.",
+    "new": "Allah makes Paradise known to its people, so it feels like home.",
+    "try": "Read one verse describing Paradise today and picture it as a home being prepared.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:7", "surah": 47, "ayah": 7, "place": "madinah",
+    "title": "Support Allah's cause and He steadies your feet.",
+    "subtitle": "Help that comes back to the helper",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "people", "title": "you support", "sub": ["Allah's cause"]},
+      {"conn": "He"},
+      {"box": "reward", "title": "supports you", "sub": ["help returns"]},
+      {"box": "reward", "title": "firm feet", "sub": ["you do not slip"]}]},
+    "key": {"label": "Who needs whom", "row": [
+      {"box": "trap", "title": "Allah needs my help", "sub": ["He depends on me"], "strike": true},
+      {"box": "idea", "title": "I need His help", "sub": ["my effort opens it"]}]},
+    "then": "The believers in Madinah were few, poor, and surrounded, as the surah introduction describes. {idea}They are told: if you support Allah's cause, He will support you.{/idea} {reward}He will make your feet firm{/reward}, which is what a frightened, outnumbered group needs most.",
+    "now": "You stand up for what is right in a meeting and your voice shakes. You keep praying through a stressful exam season. {reward}The verse says the steadiness comes after you take the step.{/reward} Your feet get firmer while you are standing.",
+    "old": "I need to feel strong before I can stand up for what is right.",
+    "new": "When I stand for Allah's cause, He gives me the steadiness I lacked.",
+    "try": "Do one small right thing today that makes you a little nervous, and ask Allah to steady you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:8", "surah": 47, "ayah": 8, "place": "madinah",
+    "title": "For the rejecters, stumbling, and deeds that come to nothing.",
+    "subtitle": "The opposite of firm feet",
+    "picture": {"kind": "boxes", "label": "Two outcomes", "row": [
+      {"box": "reward", "title": "believers", "sub": ["feet made firm"]},
+      {"box": "trap", "title": "rejecters", "sub": ["misery", "deeds wasted"]}]},
+    "key": {"label": "What effort without faith gives", "row": [
+      {"box": "reward", "title": "a lasting result", "sub": ["it will add up"], "strike": true},
+      {"box": "trap", "title": "nothing that lasts", "sub": ["made vain"]}]},
+    "then": "Right after the promise of firm feet comes its opposite. {trap}For those who disbelieve there is misery, and Allah makes their deeds vain.{/trap} The same pairing as the surah's opening: {idea}what you build on decides whether it lasts.{/idea}",
+    "now": "You pour years into a goal with no thought of Allah: the house, the title, the follower count. {trap}It can all be real and still come to nothing in the end.{/trap} {idea}The same effort with Allah in it becomes something that lasts.{/idea}",
+    "old": "As long as I work hard, it all adds up.",
+    "new": "Effort only lasts when it is built on faith.",
+    "try": "Before your main task today, say Bismillah and set an intention for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:9", "surah": 47, "ayah": 9, "place": "madinah",
+    "title": "They hated what Allah sent, so their deeds lost their worth.",
+    "subtitle": "Dislike of revelation is the root",
+    "picture": {"kind": "boxes", "label": "The cause", "row": [
+      {"box": "trap", "title": "disliked", "sub": ["what Allah revealed"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "deeds worthless", "sub": ["nothing to hold"]}]},
+    "key": {"label": "Where it starts", "row": [
+      {"box": "people", "title": "just actions", "sub": ["what I do"], "strike": true},
+      {"box": "idea", "title": "the heart's stance", "sub": ["what I love or hate"]}]},
+    "then": "The verse names the reason behind the lost deeds. {trap}They disliked what Allah sent down.{/trap} {idea}The problem began in the heart, as a feeling toward revelation, before it showed in deeds.{/idea}",
+    "now": "A verse comes up that asks something hard of you: about money, or a relationship, or your tongue. {trap}You feel a small flinch of dislike.{/trap} {idea}That flinch is worth noticing gently, not hiding.{/idea} Ask Allah to make you love what He sent.",
+    "old": "My feelings about a verse do not matter if I mostly obey.",
+    "new": "How my heart feels toward what Allah sent shapes the worth of everything I do.",
+    "try": "Think of one Quranic teaching you resist. Ask Allah to help your heart accept it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:10", "surah": 47, "ayah": 10, "place": "madinah",
+    "title": "Walk the land and look at how others ended.",
+    "subtitle": "History as a mirror",
+    "picture": {"kind": "boxes", "label": "What travel shows", "row": [
+      {"box": "people", "title": "those before", "sub": ["denied their Messengers"]},
+      {"conn": "Allah"},
+      {"box": "trap", "title": "destroyed them", "sub": ["saved the believers"]},
+      {"box": "trap", "title": "the same pattern", "sub": ["for rejecters today"]}]},
+    "key": {"label": "What I take from ruins", "row": [
+      {"box": "plain", "title": "old stones", "sub": ["a nice day out"], "strike": true},
+      {"box": "idea", "title": "a warning", "sub": ["about my own choices"]}]},
+    "then": "The verse asks those who denied the Prophet ﷺ to travel and look. Ibn Kathir says Allah punished the earlier nations for their denial {reward}and saved the believers among them.{/reward} {trap}A similar end awaits those who repeat it.{/trap}",
+    "now": "You visit a museum or ruins on holiday and take photos. {idea}The verse asks for a different kind of looking: what did these people choose, and how did it end?{/idea} Then turn the question on your own habits.",
+    "old": "History is about other people and other times.",
+    "new": "The end of those before me is a mirror for my own choices.",
+    "try": "Next time you read or watch any history, ask one question: what does this teach me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:11", "surah": 47, "ayah": 11, "place": "madinah",
+    "title": "Allah is our Protector, and you have none.",
+    "subtitle": "The answer given at Uhud",
+    "picture": {"kind": "boxes", "label": "After Uhud", "row": [
+      {"box": "trap", "title": "we have al-Uzza", "sub": ["Abu Sufyan's boast"]},
+      {"conn": "the reply"},
+      {"box": "idea", "title": "Allah is our Mawla", "sub": ["you have none"]}]},
+    "key": {"label": "Who protects", "row": [
+      {"box": "people", "title": "numbers, idols", "sub": ["visible strength"], "strike": true},
+      {"box": "reward", "title": "Allah", "sub": ["the believers' Protector"]}]},
+    "then": "Ibn Kathir recounts that after Uhud, Abu Sufyan boasted of his idols: {trap}we have al-Uzza and you have none.{/trap} The Prophet ﷺ told his companions to reply: {idea}Allah is our Protector, and you have no protector.{/idea} This verse says the same.",
+    "now": "Someone mocks you: they have connections, money, a big family behind them, and you seem to have no one. {idea}Your reply does not need to be loud.{/idea} {reward}You have a Protector they cannot see.{/reward}",
+    "old": "Without people or power behind me, I am unprotected.",
+    "new": "Allah is the Protector of those who believe, whatever their numbers.",
+    "try": "When you feel outnumbered today, say quietly: Allah is my Protector.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:12", "surah": 47, "ayah": 12, "place": "madinah",
+    "title": "Eating like cattle, with no thought beyond the plate.",
+    "subtitle": "Two ways to live, two places to end",
+    "picture": {"kind": "boxes", "label": "Two lives", "row": [
+      {"box": "reward", "title": "believe, do good", "sub": ["gardens with rivers"]},
+      {"box": "trap", "title": "enjoy and eat", "sub": ["like cattle", "no other concern"]}]},
+    "key": {"label": "How one eats", "row": [
+      {"box": "trap", "title": "seven intestines", "sub": ["greed, no limit"]},
+      {"box": "idea", "title": "one intestine", "sub": ["the believer's measure"]}]},
+    "then": "Ibn Kathir says those who disbelieve {trap}eat like animals, munching with greed, with no concern beyond it.{/trap} He cites the Prophet ﷺ: {idea}a believer eats with one intestine, and a disbeliever with seven.{/idea}",
+    "now": "Dinner in front of a screen, one more episode, a second plate you did not need. {trap}Life becomes intake.{/trap} {idea}The verse is not against food; it is against a life that is only about the next bite.{/idea}",
+    "old": "Eating well and enjoying myself is all there is to a good life.",
+    "new": "Enjoyment is fine, but a life with no aim beyond the plate is a life wasted.",
+    "try": "At one meal today, eat without a screen and thank Allah before and after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "47:13", "surah": 47, "ayah": 13, "place": "madinah",
+    "title": "Stronger cities than the one that drove you out are gone.",
+    "subtitle": "Comfort for the Prophet ﷺ who left Makkah",
+    "picture": {"kind": "boxes", "label": "Leaving home", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["at the cave", "looking back"]},
+      {"box": "reward", "title": "Makkah", "sub": ["most beloved land"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "stronger towns", "sub": ["destroyed, no helper"]}]},
+    "key": {"label": "Who has the last word", "row": [
+      {"box": "trap", "title": "those who push you out", "sub": ["they won"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["no power outlasts Him"]}]},
+    "then": "Ibn Abbas reported that at the cave during the Hijrah, the Prophet ﷺ looked back at Makkah and said {reward}you are the most beloved of Allah's lands to Allah and to me; had I not been driven out, I would never have left.{/reward} {idea}Allah then revealed that mightier towns had been destroyed, with none to help them.{/idea}",
+    "now": "You had to leave a home, a job, a country, because of other people. You still miss it. {reward}The Prophet ﷺ loved the home he was forced from.{/reward} {idea}Loving a place is not weakness, and those who push you out do not have the last word.{/idea}",
+    "old": "If I was pushed out, they won and my love for that place was foolish.",
+    "new": "I can love what I lost and trust Allah with those who pushed me out.",
+    "try": "If you miss a place you had to leave, make a short dua for it and its people.",
+    "related": ["11:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

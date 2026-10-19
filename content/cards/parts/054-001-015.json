@@ -1,0 +1,295 @@
+[
+  {
+    "id": "54:1", "surah": 54, "ayah": 1, "place": "makkah",
+    "title": "The Hour is near, and the moon split.",
+    "subtitle": "A sign in the sky for a near Day",
+    "picture": {"kind": "boxes", "label": "What they saw in Makkah", "row": [
+      {"box": "people", "title": "Makkah", "sub": ["asked for a miracle"]},
+      {"conn": "shown"},
+      {"box": "idea", "title": "the moon split", "sub": ["Hira seen between the halves"]},
+      {"conn": "the Prophet ﷺ said"},
+      {"box": "idea", "title": "Be witnesses", "sub": []}]},
+    "key": {"label": "How near is the Hour", "row": [
+      {"box": "trap", "title": "far off", "sub": ["not my concern"], "strike": true},
+      {"box": "idea", "title": "like two fingers", "sub": ["index and middle"]}]},
+    "then": "Anas said the people of Makkah asked the Prophet ﷺ for a miracle, and {idea}the moon was split into two parts until they saw Mount Hira between them{/idea}. Ibn Mas'ud said he saw the mountain between the halves. The Prophet ﷺ said: {idea}Be witnesses.{/idea}",
+    "now": "You look up at the moon from a car park or a balcony and think nothing of it. The Prophet ﷺ held up two fingers side by side to show how close he and the Hour are. {trap}We live as if the end were very far away.{/trap}",
+    "old": "The end of the world is so far off it does not concern me.",
+    "new": "The Hour is near, and the sky itself was made a witness to that.",
+    "try": "Next time you see the moon, remember the Prophet's ﷺ two fingers and fix one thing you keep postponing.",
+    "related": ["16:1", "21:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:2", "surah": 54, "ayah": 2, "place": "makkah",
+    "title": "Shown a sign, they call it passing magic.",
+    "subtitle": "The excuse that makes any sign disappear",
+    "picture": {"kind": "boxes", "label": "Their reaction", "row": [
+      {"box": "idea", "title": "a clear sign", "sub": ["the moon split"]},
+      {"conn": "they"},
+      {"box": "trap", "title": "turn away", "sub": ["put it behind them"]},
+      {"conn": "and say"},
+      {"box": "trap", "title": "passing magic", "sub": ["it will fade soon"]}]},
+    "key": {"label": "What they called it", "row": [
+      {"box": "trap", "title": "he bewitched us", "sub": ["Quraysh's excuse"], "strike": true},
+      {"box": "idea", "title": "a sign seen by all", "sub": ["not only them"]}]},
+    "then": "Jubayr bin Mut'im reported that Quraysh said, {trap}Muhammad has bewitched us{/trap}. Then they said, if he bewitched us, he cannot bewitch everyone. Mujahid and Qatadah said mustamirr means {trap}it will soon go away{/trap}.",
+    "now": "Your prayer is answered on the exact day you needed it, and within a week you have filed it as coincidence. {trap}Calling it chance is our version of passing magic.{/trap}",
+    "old": "That was just a coincidence. It will not mean much tomorrow.",
+    "new": "A sign does not fade just because I decide to explain it away.",
+    "try": "Write down one answered prayer today so you do not file it away as luck.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:3", "surah": 54, "ayah": 3, "place": "makkah",
+    "title": "They denied and followed their desires.",
+    "subtitle": "Every matter settles where it belongs",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "trap", "title": "denied", "sub": ["the truth that came"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "followed desires", "sub": ["ignorance and whim"]}]},
+    "key": {"label": "Every matter settles", "row": [
+      {"box": "reward", "title": "good deeds", "sub": ["lead to good"]},
+      {"box": "trap", "title": "evil deeds", "sub": ["lead to evil"]}]},
+    "then": "Ibn Kathir says they {trap}rejected the truth, following what their desires called them to{/trap}. Qatadah explained every matter will be settled: {reward}good deeds take their doers to good{/reward}, and evil deeds to evil. Mujahid said: on the Day of Resurrection.",
+    "now": "You do what you feel like, and then tell yourself the story that makes it fine. {idea}Every choice has a resting place.{/idea} Each one is quietly carrying you somewhere.",
+    "old": "My choices just happen. They do not lead anywhere in particular.",
+    "new": "Every deed settles in its place, and takes me with it.",
+    "try": "Before one choice today, ask: where does this lead me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:4", "surah": 54, "ayah": 4, "place": "makkah",
+    "title": "They already had news enough to stop them.",
+    "subtitle": "The stories of earlier nations as brakes",
+    "picture": {"kind": "boxes", "label": "What reached them", "row": [
+      {"box": "idea", "title": "news of past nations", "sub": ["in the Quran"]},
+      {"conn": "containing"},
+      {"box": "reward", "title": "deterrence", "sub": ["lessons to make them stop"]}]},
+    "key": {"label": "What the stories are for", "row": [
+      {"box": "trap", "title": "entertainment", "sub": ["old tales"], "strike": true},
+      {"box": "idea", "title": "a brake", "sub": ["to stop before the edge"]}]},
+    "then": "Ibn Kathir says the Quran brought them {idea}the news of earlier nations that denied their messengers{/idea} and what befell them. In it are {reward}warnings and lessons to stop them{/reward} from idolatry and persisting in denial.",
+    "now": "You read about someone who lost their family to the same habit you are slowly building. You scroll on. {idea}Some stories reach you so you can stop in time.{/idea}",
+    "old": "Stories of other people's ruin are just stories.",
+    "new": "Their stories reached me so I can stop before I repeat them.",
+    "try": "Think of one cautionary story you know, and apply it to yourself today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:5", "surah": 54, "ayah": 5, "place": "makkah",
+    "title": "Perfect wisdom, yet warnings did not help them.",
+    "subtitle": "When the message is complete and the heart is closed",
+    "picture": {"kind": "boxes", "label": "The message", "row": [
+      {"box": "idea", "title": "perfect wisdom", "sub": ["nothing missing"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "warnings did not avail", "sub": ["hearts were sealed"]}]},
+    "key": {"label": "Where the problem is", "row": [
+      {"box": "trap", "title": "the message", "sub": ["not clear enough"], "strike": true},
+      {"box": "trap", "title": "the listener", "sub": ["who refuses to hear"]}]},
+    "then": "Ibn Kathir says the wisdom is perfect, {idea}Allah guides whom He wills{/idea}. But {trap}warnings do not benefit those whose hearts are sealed{/trap}. He cites: neither signs nor warners benefit those who will not believe.",
+    "now": "Your doctor explained everything clearly, printed the leaflet, booked the follow-up. You still did not change your diet. {trap}The problem was never the explanation.{/trap}",
+    "old": "If the message were clearer, I would act on it.",
+    "new": "The message is complete. What is missing is my willingness.",
+    "try": "Act today on one piece of good advice you already understand well.",
+    "related": ["6:149", "10:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:6", "surah": 54, "ayah": 6, "place": "makkah",
+    "title": "Turn from them, and wait for the Caller.",
+    "subtitle": "The Day a voice calls everyone out",
+    "picture": {"kind": "boxes", "label": "The instruction", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["call every sign magic"]},
+      {"conn": "turn away and wait"},
+      {"box": "idea", "title": "the Caller", "sub": ["on the Day of Recompense"]}]},
+    "key": {"label": "Who settles the argument", "row": [
+      {"box": "trap", "title": "more debate", "sub": ["with those who deny"], "strike": true},
+      {"box": "idea", "title": "the Day", "sub": ["will settle it"]}]},
+    "then": "Ibn Kathir says Allah told the Prophet ﷺ: {idea}turn away from those who deny a miracle and call it continuous magic{/idea}, and wait until the Day the Caller calls them to {trap}something terrible{/trap}, the Recompense and its hardships.",
+    "now": "You have explained yourself to a relative ten times, and they still twist your words. {idea}Some debates are not yours to finish.{/idea} Step back, and leave the final word to Allah.",
+    "old": "I have to convince everyone who disagrees with me.",
+    "new": "Some things will be settled on the Day, not by my arguing.",
+    "try": "Drop one argument today and leave it with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:7", "surah": 54, "ayah": 7, "place": "makkah",
+    "title": "Eyes lowered, they pour out like locusts.",
+    "subtitle": "The crowds of the Day of Resurrection",
+    "picture": {"kind": "boxes", "label": "The scene", "row": [
+      {"box": "people", "title": "the graves", "sub": []},
+      {"conn": "they come out"},
+      {"box": "trap", "title": "eyes humbled", "sub": ["covered with disgrace"]},
+      {"conn": "like"},
+      {"box": "plain", "title": "spreading locusts", "sub": ["crowds in every direction"]}]},
+    "key": {"label": "What changes that Day", "row": [
+      {"box": "trap", "title": "proud eyes", "sub": ["that mocked the signs"]},
+      {"box": "trap", "title": "humbled eyes", "sub": ["that cannot look up"]}]},
+    "then": "Ibn Kathir says the deniers' eyes will be {trap}covered with disgrace{/trap}. They will gather toward the place of Reckoning {idea}in such haste and crowds, as if they were locusts spreading{/idea}.",
+    "now": "You have been in a stadium crowd, or a station at rush hour, everyone moving at once. {idea}Now picture everyone who ever lived, all at once, all heading one way.{/idea} The question is how you want your eyes to be that Day.",
+    "old": "I will face that Day with my head up, whatever I did.",
+    "new": "How I use my eyes now decides whether they are lowered then.",
+    "try": "Lower your gaze once today from something you should not be looking at.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:8", "surah": 54, "ayah": 8, "place": "makkah",
+    "title": "Racing to the Caller: this is a hard Day.",
+    "subtitle": "No hesitating, no slowing down",
+    "picture": {"kind": "boxes", "label": "The movement", "row": [
+      {"box": "people", "title": "everyone", "sub": ["out of the graves"]},
+      {"conn": "racing to"},
+      {"box": "idea", "title": "the Caller", "sub": ["no slowing down"]}]},
+    "key": {"label": "Two speeds", "row": [
+      {"box": "trap", "title": "slow to the call now", "sub": ["the adhan, the reminder"]},
+      {"box": "trap", "title": "racing then", "sub": ["with no choice"]}]},
+    "then": "Ibn Kathir says they rush toward the Caller {trap}without being able to hesitate or slow down{/trap}. The deniers say: {trap}this is a hard Day{/trap}. He links it to: that Day will be hard, far from easy for the disbelievers.",
+    "now": "The adhan goes off on your phone and you swipe it away to finish the episode. Today you can delay the call. {idea}On that Day nobody delays.{/idea} Answering now is the gentle version.",
+    "old": "I will answer the call when it suits me.",
+    "new": "One Day I will run to the Caller. Better to walk to Him willingly now.",
+    "try": "When you hear the next adhan, stand up before the caller finishes.",
+    "related": ["74:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:9", "surah": 54, "ayah": 9, "place": "makkah",
+    "title": "Nuh's people called Our servant a madman.",
+    "subtitle": "Mocked, threatened and driven off",
+    "picture": {"kind": "boxes", "label": "What they did to Nuh", "row": [
+      {"box": "trap", "title": "denied him", "sub": ["categorically"]},
+      {"box": "trap", "title": "called him mad", "sub": []},
+      {"box": "trap", "title": "threatened him", "sub": ["stop or be stoned"]}]},
+    "key": {"label": "What Allah calls him", "row": [
+      {"box": "trap", "title": "a madman", "sub": ["his people's word"], "strike": true},
+      {"box": "idea", "title": "Our servant", "sub": ["Allah's word"]}]},
+    "then": "The surah turns to Nuh as {idea}before your people, O Muhammad{/idea}. They {trap}accused him of madness{/trap}. Ibn Zayd said they threatened him: if you do not stop, Nuh, you will be stoned. Allah calls him {idea}Our servant{/idea}.",
+    "now": "You start praying at work, or stop joining in a habit, and someone calls you extreme or strange. {idea}What they call you is not your real name.{/idea} What Allah calls you is.",
+    "old": "If people mock me for my faith, maybe I am doing it wrong.",
+    "new": "People called Nuh mad. Allah called him His servant. That is the name that matters.",
+    "try": "Next time someone mocks a good habit of yours, keep it anyway, calmly.",
+    "related": ["26:116"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:10", "surah": 54, "ayah": 10, "place": "makkah",
+    "title": "I am overpowered, so help me.",
+    "subtitle": "The shortest, most honest prayer",
+    "picture": {"kind": "boxes", "label": "Nuh's dua", "row": [
+      {"box": "people", "title": "I am overpowered", "sub": ["weak, cannot resist"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "help", "sub": ["Your religion"]}]},
+    "key": {"label": "What strength looks like", "row": [
+      {"box": "trap", "title": "pretend I can cope", "sub": ["hide the weakness"], "strike": true},
+      {"box": "idea", "title": "admit it to Allah", "sub": ["and ask"]}]},
+    "then": "Ibn Kathir explains Nuh's words: {idea}I am weak and cannot overcome or resist my people, so help Your religion{/idea}. After a long mission he did not pretend. He told his Lord exactly where he stood.",
+    "now": "You are drowning at work, or with a sick parent, or with a child you cannot reach. You tell everyone you are fine. {idea}Nuh's dua is four words of honesty.{/idea} You are allowed to say it too.",
+    "old": "Admitting I am overwhelmed is weakness.",
+    "new": "Telling Allah I am overpowered is where help begins.",
+    "try": "Say Nuh's words today about the thing that is overwhelming you: I am overpowered, so help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:11", "surah": 54, "ayah": 11, "place": "makkah",
+    "title": "We opened the gates of the sky.",
+    "subtitle": "The answer came pouring",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "people", "title": "Nuh's dua", "sub": ["help me"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "gates of heaven", "sub": ["water pouring down"]}]},
+    "key": {"label": "Where the water came from", "row": [
+      {"box": "plain", "title": "every other rain", "sub": ["from clouds"]},
+      {"box": "idea", "title": "that day", "sub": ["the sky's gates opened"]}]},
+    "then": "As-Suddi said munhamir means {idea}abundant{/idea}. Ibn Abbas said all rain before and since came from clouds, but {idea}that day the gates of the sky were opened{/idea}, and the water did not come from clouds.",
+    "now": "You prayed for one small thing for months and nothing seemed to move. Then everything came at once. {reward}When Allah answers, He is not limited to the usual channels.{/reward}",
+    "old": "Help can only come through the normal routes I can see.",
+    "new": "Allah can open gates I did not know existed.",
+    "try": "Ask Allah today for something you think is impossible, plainly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:12", "surah": 54, "ayah": 12, "place": "makkah",
+    "title": "Earth and sky waters met, as decreed.",
+    "subtitle": "Nothing about it was random",
+    "picture": {"kind": "boxes", "label": "The waters", "row": [
+      {"box": "plain", "title": "from the sky", "sub": ["pouring down"]},
+      {"box": "plain", "title": "from the earth", "sub": ["springs everywhere"]},
+      {"conn": "met for"},
+      {"box": "idea", "title": "a matter decreed", "sub": ["already measured"]}]},
+    "key": {"label": "Chaos or decree", "row": [
+      {"box": "trap", "title": "a random flood", "sub": ["nature out of control"], "strike": true},
+      {"box": "idea", "title": "measured", "sub": ["a matter predestined"]}]},
+    "then": "Ibn Kathir says water gushed {idea}from every part of the earth{/idea}, even from ovens with fire burning in them. The waters of sky and earth met {idea}for a matter already decreed{/idea}.",
+    "now": "A crisis hits from two sides at once: the job and the health scare in the same week. It feels like chaos. {idea}Nothing that meets you is unmeasured.{/idea}",
+    "old": "When everything goes wrong at once, it is pure chaos.",
+    "new": "Even what hits me from every side happens by a measure Allah set.",
+    "try": "In a stressful moment today, say: this too is measured by Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:13", "surah": 54, "ayah": 13, "place": "makkah",
+    "title": "Carried on planks and nails.",
+    "subtitle": "Rescue in a simple, humble vessel",
+    "picture": {"kind": "boxes", "label": "The ark", "row": [
+      {"box": "plain", "title": "planks", "sub": []},
+      {"box": "plain", "title": "nails", "sub": ["dusur"]},
+      {"conn": "carried"},
+      {"box": "reward", "title": "Nuh", "sub": ["and those with him"]}]},
+    "key": {"label": "What saved him", "row": [
+      {"box": "trap", "title": "the boat's strength", "sub": ["wood and nails"], "strike": true},
+      {"box": "idea", "title": "Allah carried him", "sub": ["We carried him"]}]},
+    "then": "Ibn Abbas, Sa'id bin Jubayr, Qatadah and others said dusur means {idea}nails{/idea}. The verse describes the ark plainly: planks and nails. Yet the subject of the sentence is Allah: {reward}We carried him{/reward}.",
+    "now": "Your savings are small, your support network is thin, your plan is held together with tape. {idea}It does not have to be grand to carry you.{/idea} Allah carried Nuh on wood and nails.",
+    "old": "My means are too small to get me through.",
+    "new": "Allah can carry me on very ordinary means.",
+    "try": "Thank Allah today for one ordinary thing that has kept you afloat.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:14", "surah": 54, "ayah": 14, "place": "makkah",
+    "title": "Sailing under Our eyes, for the one rejected.",
+    "subtitle": "Watched over the whole way",
+    "picture": {"kind": "boxes", "label": "The voyage", "row": [
+      {"box": "reward", "title": "the ark", "sub": ["sailing"]},
+      {"conn": "under"},
+      {"box": "idea", "title": "Our eyes", "sub": ["command, protection, watching"]}]},
+    "key": {"label": "What it was", "row": [
+      {"box": "trap", "title": "the rejected one", "sub": ["what his people made him"]},
+      {"box": "reward", "title": "the rewarded one", "sub": ["what Allah made him"]}]},
+    "then": "Ibn Kathir says under Our eyes means {idea}by Our command and under Our protection and observation{/idea}. It was {reward}a reward for Nuh{/reward}, the one his people had rejected.",
+    "now": "You were dismissed in a meeting, ignored in the family, left out of the group. {reward}Being rejected by people is not being unseen by Allah.{/reward} He watched every plank of that ark.",
+    "old": "If people reject me, I am on my own.",
+    "new": "The one people rejected sailed under Allah's eyes.",
+    "try": "When you feel overlooked today, say: Allah sees me, and that is enough.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:15", "surah": 54, "ayah": 15, "place": "makkah",
+    "title": "We left it as a sign. Who will remember?",
+    "subtitle": "Every ship is a reminder",
+    "picture": {"kind": "boxes", "label": "What was left", "row": [
+      {"box": "reward", "title": "the ark", "sub": ["or ships after it"]},
+      {"conn": "left as"},
+      {"box": "idea", "title": "a sign", "sub": ["is there anyone to remember?"]}]},
+    "key": {"label": "What remembering means", "row": [
+      {"box": "trap", "title": "knowing the story", "sub": ["and moving on"], "strike": true},
+      {"box": "idea", "title": "taking the lesson", "sub": ["receiving the admonition"]}]},
+    "then": "Qatadah said the ark was left until the first generation of this Ummah could see it. Ibn Kathir suggests the meaning is that {idea}Allah kept ships as a sign{/idea}, citing: We bore their offspring in the laden ship. The question follows: {idea}is there anyone who will remember?{/idea}",
+    "now": "You board a ferry, or watch container ships on the horizon from a beach. {idea}Each one floats by a law Allah set, the same one that carried Nuh.{/idea} The verse asks whether you will notice.",
+    "old": "Ships are just transport.",
+    "new": "Every ship that floats is a sign left for me to remember.",
+    "try": "The next time you see a boat or ship, say SubhanAllah and remember Nuh.",
+    "related": ["36:41", "69:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

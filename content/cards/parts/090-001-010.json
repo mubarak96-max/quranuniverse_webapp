@@ -1,0 +1,194 @@
+[
+  {
+    "id": "90:1", "surah": 90, "ayah": 1, "place": "makkah",
+    "title": "By this city, Makkah.",
+    "subtitle": "An oath by the sacred city, the Mother of Towns",
+    "picture": {"kind": "boxes", "label": "What is sworn by", "row": [
+      {"box": "idea", "title": "this city", "sub": ["Makkah", "Mother of the Towns"]},
+      {"conn": "made sacred"},
+      {"box": "idea", "title": "by Allah", "sub": ["since the heavens were created"]}]},
+    "key": {"label": "The No at the start", "row": [
+      {"box": "trap", "title": "what Quraysh claimed", "sub": ["refuted"], "strike": true},
+      {"box": "idea", "title": "I swear by this city", "sub": ["what Allah says"]}]},
+    "then": "Ibn Abbas said: {idea}this means Makkah.{/idea} Mujahid said the opening No is {trap}a refutation against Quraysh.{/trap} The Prophet ﷺ said {idea}Allah made this city sacred on the day He created the heavens and the earth.{/idea}",
+    "now": "Maybe you have stood in front of the Kaaba, or watched it on a livestream at 3am, or just turned toward it five times a day. {idea}Allah swears by that city.{/idea} The place your prayers face is honored by its Lord.",
+    "old": "Makkah is a holy place far away from my daily life.",
+    "new": "The city I turn to in every prayer is one Allah Himself swears by.",
+    "try": "At your next prayer, pause a moment while facing the qiblah and remember what you are facing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:2", "surah": 90, "ayah": 2, "place": "makkah",
+    "title": "And you, O Prophet ﷺ, live in this city.",
+    "subtitle": "The Prophet's ﷺ place in the sacred city",
+    "picture": {"kind": "boxes", "label": "Two things together", "row": [
+      {"box": "idea", "title": "the sacred city", "sub": ["verse 1"]},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["a resident in it"]}]},
+    "key": {"label": "What makes a place sacred", "row": [
+      {"box": "trap", "title": "the buildings", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah's decree", "sub": ["and who lives by it"]}]},
+    "then": "Ibn Abbas and many others said this told the Prophet ﷺ it would be {idea}permitted for him to fight in it{/idea}, which the Prophet ﷺ said was {idea}only for one hour of a day{/idea}, after which its sanctity returned. Revealed when Makkah's leaders had {trap}made it lawful for themselves to wrong him.{/trap}",
+    "now": "You may live somewhere hard: a tense home, a workplace where your values are mocked. {idea}The verse reminds the Prophet ﷺ that Allah sees exactly where he lives and what he faces there.{/idea} He sees your place too.",
+    "old": "Where I live and what I face there is not noticed by anyone.",
+    "new": "Allah knows the place I live in and what it costs me to be there.",
+    "try": "Make a short dua for the place you live and the people in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:3", "surah": 90, "ayah": 3, "place": "makkah",
+    "title": "By the father, and the child he fathered.",
+    "subtitle": "Adam and his children, every parent and child",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "idea", "title": "the city", "sub": ["the dwelling"]},
+      {"conn": "then"},
+      {"box": "people", "title": "Adam", "sub": ["the father"]},
+      {"box": "people", "title": "his children", "sub": ["all of humanity"]}]},
+    "key": {"label": "Readings in the tafsir", "row": [
+      {"box": "people", "title": "Adam and children", "sub": ["Mujahid, good and strong"]},
+      {"box": "people", "title": "every father and child", "sub": ["Ibn Jarir, also acceptable"]}]},
+    "then": "Mujahid and many others said: {idea}the begetter is Adam, and what he begot is his children.{/idea} Ibn Kathir: Allah swears by the Mother of Towns, then by its dwellers. Ibn Jarir held it is general: {idea}every father and his children.{/idea}",
+    "now": "Your father holding you on the first day. You holding your own child, or a nephew, years later. {idea}The chain from Adam runs through you.{/idea} Allah swears by it, so every link matters.",
+    "old": "Family is just the people I happen to be related to.",
+    "new": "Parent and child is a bond Allah swears by. My place in it matters.",
+    "try": "Call or message your father or mother today, or make dua for them if they have passed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:4", "surah": 90, "ayah": 4, "place": "makkah",
+    "title": "We created man into struggle.",
+    "subtitle": "Hardship is built into human life from the start",
+    "picture": {"kind": "boxes", "label": "The struggle", "row": [
+      {"box": "people", "title": "in the womb", "sub": ["enduring creation"]},
+      {"box": "people", "title": "birth, teething", "sub": ["hard from day one"]},
+      {"box": "people", "title": "earning a living", "sub": ["hard every day"]}]},
+    "key": {"label": "What life is", "row": [
+      {"box": "trap", "title": "a holiday gone wrong", "sub": ["I was meant to rest"], "strike": true},
+      {"box": "idea", "title": "made for struggle", "sub": ["effort is the point"]}]},
+    "then": "Ibn Abbas: {idea}he was created while in hardship. Do you not see him?{/idea} and he mentioned birth and teething. Mujahid linked it to {trap}his mother bears him with hardship{/trap}. Said bin Jubayr: in hardship and seeking a living.",
+    "now": "The rent, the commute, the night feeds, the exams. You keep thinking life will get easy once this one thing is sorted. {idea}Struggle is not a sign something went wrong.{/idea} It is the setting. What matters is what you strive for.",
+    "old": "If life is this hard, something must be wrong with me.",
+    "new": "Hardship is the ground I was made to walk on. It is not a failure.",
+    "try": "Name today's hardest task and offer the effort of it to Allah with a quick intention.",
+    "related": ["46:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:5", "surah": 90, "ayah": 5, "place": "makkah",
+    "title": "Does he think no one has power over him?",
+    "subtitle": "The illusion of being untouchable",
+    "picture": {"kind": "boxes", "label": "What he assumes", "row": [
+      {"box": "people", "title": "man", "sub": ["with his wealth"]},
+      {"conn": "thinks"},
+      {"box": "trap", "title": "none can touch me", "sub": ["no one will ask"]}]},
+    "key": {"label": "The question you face", "row": [
+      {"box": "trap", "title": "it is mine, no questions", "sub": [], "strike": true},
+      {"box": "idea", "title": "how earned, how spent?", "sub": ["you will be asked"]}]},
+    "then": "Al-Hasan said: {trap}no one is able to take his wealth.{/trap} Qatadah said: {idea}the son of Adam thinks he will not be asked about his wealth, how he earned it and how he spent it.{/idea} Right after being told he was made into struggle.",
+    "now": "A good salary, a solid pension, a house in your name. It starts to feel like armor. {idea}Every pound or dollar has two questions attached:{/idea} where did it come from, and where did it go?",
+    "old": "My money is my business. No one can touch it.",
+    "new": "I will be asked how I earned and spent every bit of it.",
+    "try": "Look at your last five purchases and ask yourself how you would explain each to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:6", "surah": 90, "ayah": 6, "place": "makkah",
+    "title": "He boasts: I have spent heaps of money.",
+    "subtitle": "Bragging about spending as if it were virtue",
+    "picture": {"kind": "boxes", "label": "His boast", "row": [
+      {"box": "people", "title": "I spent", "sub": ["piles of wealth"]},
+      {"conn": "admired by"},
+      {"box": "people", "title": "the crowd", "sub": ["praise for display"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "trap", "title": "how much I spent", "sub": ["the size of it"], "strike": true},
+      {"box": "idea", "title": "how and why I spent it", "sub": ["the method and the motive"]}]},
+    "then": "Mujahid, Al-Hasan and Qatadah said he says {trap}I spent an abundance of wealth.{/trap} The surah introduction explains: people {trap}admire the one who squanders for display{/trap}, while Allah sees how he earned it and why he spent it.",
+    "now": "The wedding with the fireworks. The birthday unboxing on social media. The donation announced loudly. {trap}Spending big is easy to brag about.{/trap} {idea}Allah looks at the intention, not the number.{/idea}",
+    "old": "If I spend a lot, I must be generous.",
+    "new": "It is not how much I spend, but how and why.",
+    "try": "Give one gift or charity this week without telling anyone about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:7", "surah": 90, "ayah": 7, "place": "makkah",
+    "title": "Does he think no one saw him?",
+    "subtitle": "Allah saw the spending and the motive behind it",
+    "picture": {"kind": "boxes", "label": "What was seen", "row": [
+      {"box": "people", "title": "the earning", "sub": ["how it came"]},
+      {"box": "people", "title": "the spending", "sub": ["where it went"]},
+      {"box": "people", "title": "the motive", "sub": ["why"]},
+      {"conn": "all seen by"},
+      {"box": "idea", "title": "Allah", "sub": []}]},
+    "key": {"label": "Who is watching", "row": [
+      {"box": "trap", "title": "the audience", "sub": ["the people who cheered"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["the One who matters"]}]},
+    "then": "Mujahid said: {idea}does he think Allah, the Mighty and Majestic, does not see him?{/idea} After the boast of verse 6, the question cuts through it. The crowd saw the display. {idea}Allah saw the whole story.{/idea}",
+    "now": "You post the restaurant bill, the new car, the holiday photos. Hundreds of people see. {idea}One sees the credit card debt, the motive, and the person you did not help.{/idea}",
+    "old": "What people see of me is what counts.",
+    "new": "Allah sees what is behind the picture I show.",
+    "try": "Before posting anything today, ask: who am I doing this for?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:8", "surah": 90, "ayah": 8, "place": "makkah",
+    "title": "Did We not give him two eyes?",
+    "subtitle": "The One who gave sight sees everything",
+    "picture": {"kind": "boxes", "label": "The gift", "row": [
+      {"box": "idea", "title": "Allah gave", "sub": []},
+      {"conn": "to him"},
+      {"box": "reward", "title": "two eyes", "sub": ["to see with"]}]},
+    "key": {"label": "The logic", "row": [
+      {"box": "trap", "title": "no one sees me", "sub": ["verse 7"], "strike": true},
+      {"box": "idea", "title": "the Giver of eyes sees", "sub": ["He made my sight"]}]},
+    "then": "Ibn Kathir: {reward}for him to see with them.{/reward} It answers verse 7 directly. He thinks no one sees him, yet {idea}the One who gave him eyes is asking.{/idea} The surah moves from accountability to blessings.",
+    "now": "Your eyes read this. They will scroll, read faces, see your children grow. {reward}You did not order them.{/reward} {idea}What you choose to look at with them is the answer to this verse.{/idea}",
+    "old": "My eyes are mine to look at whatever I like.",
+    "new": "My eyes are a gift from the One who sees me. I use them for Him.",
+    "try": "Lower your gaze once today from something you know you should not look at.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:9", "surah": 90, "ayah": 9, "place": "makkah",
+    "title": "And a tongue, and two lips?",
+    "subtitle": "The gift of speech and what it carries",
+    "picture": {"kind": "boxes", "label": "What they do", "row": [
+      {"box": "reward", "title": "a tongue", "sub": ["to say what is inside"]},
+      {"box": "reward", "title": "two lips", "sub": ["speech, eating, a smile"]}]},
+    "key": {"label": "Who owns your words", "row": [
+      {"box": "trap", "title": "the boast of verse 6", "sub": ["I spent heaps"], "strike": true},
+      {"box": "idea", "title": "words as a gift", "sub": ["used for good"]}]},
+    "then": "Ibn Kathir: a tongue {reward}to speak with and express what is inside him{/reward}, and two lips to help with speaking, eating, and to beautify the face. The same tongue that boasted in verse 6 was a gift.",
+    "now": "The voice note you sent in anger. The kind word to a cashier. The dua whispered in sujood. {idea}Same tongue, same lips.{/idea} Each word is a way of thanking, or not thanking, the One who gave them.",
+    "old": "My words are just words. They do not matter much.",
+    "new": "My tongue is a gift, and every word is a choice to use it well.",
+    "try": "Say one sincere compliment or thank-you today to someone who does not expect it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "90:10", "surah": 90, "ayah": 10, "place": "makkah",
+    "title": "And showed him the two roads.",
+    "subtitle": "Good and evil, both made clear",
+    "picture": {"kind": "boxes", "label": "Two paths", "row": [
+      {"box": "people", "title": "you", "sub": ["eyes, tongue, mind"]},
+      {"conn": "shown"},
+      {"box": "reward", "title": "the good", "sub": []},
+      {"box": "trap", "title": "the evil", "sub": []}]},
+    "key": {"label": "Whose choice", "row": [
+      {"box": "trap", "title": "I did not know", "sub": ["no one told me"], "strike": true},
+      {"box": "idea", "title": "both were shown", "sub": ["the choice is mine"]}]},
+    "then": "Ibn Masud said: {idea}the good and the evil.{/idea} Ali, Ibn Abbas, Mujahid and others said the same. Ibn Kathir links it to the verse: {idea}We showed him the way, whether he be grateful or ungrateful.{/idea} The ability to tell good from evil is itself a blessing.",
+    "now": "You stand at a crossroads many times a day: the honest answer or the easy lie, the prayer or the snooze button. {idea}You usually know which is which.{/idea} That knowing is a gift. The choosing is your part.",
+    "old": "I am not sure what is right, so I cannot be blamed.",
+    "new": "I was shown both roads. Knowing is a gift, and choosing is mine.",
+    "try": "At one small choice today, pause and pick the road you know is better.",
+    "related": ["76:2", "76:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

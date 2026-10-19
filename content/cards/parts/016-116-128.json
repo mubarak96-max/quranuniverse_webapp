@@ -1,0 +1,262 @@
+[
+  {
+    "id": "16:116", "surah": 16, "ayah": 116, "place": "makkah",
+    "title": "Don't let your tongue declare halal and haram from your whim.",
+    "subtitle": "Inventing rules and putting Allah's name on them",
+    "picture": {"kind": "boxes", "label": "Made-up rules", "row": [
+      {"box": "people", "title": "a whim", "sub": ["what suits me"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "this is lawful", "sub": ["or this is forbidden"]},
+      {"conn": "said about"},
+      {"box": "trap", "title": "Allah", "sub": ["a lie against Him"]}]},
+    "key": {"label": "Who sets the limits", "row": [
+      {"box": "trap", "title": "my opinion", "sub": ["what feels right to me"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["with evidence from Him"]}]},
+    "then": "The idolators had invented sacred camels like the Bahirah and Sa'ibah with no revelation behind them. Ibn Kathir says this verse includes {trap}whoever declares something lawful that Allah forbade, or forbidden that He permitted, only because it suits his opinion or whim.{/trap} Those who invent lies against Allah will not succeed.",
+    "now": "Someone at dinner says, that's definitely haram, with total confidence and no source. Another says, it's fine, Allah doesn't mind. {trap}Both are speaking for Allah without knowledge.{/trap} {idea}It is fine to say: I don't know, let me ask.{/idea}",
+    "old": "I can say what's halal or haram based on how it feels.",
+    "new": "Only Allah sets halal and haram; I speak about it only with knowledge.",
+    "try": "Next time you're about to call something halal or haram, check your source first or say I don't know.",
+    "related": ["31:24", "10:69"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:117", "surah": 16, "ayah": 117, "place": "makkah",
+    "title": "A brief enjoyment, then a painful end.",
+    "subtitle": "What lying about Allah really buys",
+    "picture": {"kind": "boxes", "label": "The trade", "row": [
+      {"box": "trap", "title": "brief enjoyment", "sub": ["in this world"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "painful punishment", "sub": ["in the Hereafter"]}]},
+    "key": {"label": "What success is", "row": [
+      {"box": "trap", "title": "it works for now", "sub": ["so it's fine"], "strike": true},
+      {"box": "idea", "title": "they will not succeed", "sub": ["here or there"]}]},
+    "then": "This follows the warning about inventing halal and haram. Ibn Kathir says they {trap}will never succeed, either in this world or the Hereafter. In this world it is transient pleasure{/trap}, then the return is to Allah.",
+    "now": "Bending a rule to make life easier feels great for a while: the shortcut, the convenient opinion. {trap}It is short.{/trap} {idea}What you gain from twisting the truth runs out faster than you think.{/idea}",
+    "old": "If it makes my life easier now, it's worth it.",
+    "new": "Comfort bought by twisting Allah's words is brief and ends badly.",
+    "try": "Drop one convenient opinion today that you hold only because it suits you.",
+    "related": ["31:24", "10:70"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:118", "surah": 16, "ayah": 118, "place": "makkah",
+    "title": "Stricter rules for an earlier people, and they wronged themselves.",
+    "subtitle": "Ease for this ummah, by contrast",
+    "picture": {"kind": "boxes", "label": "Two sets of rules", "row": [
+      {"box": "people", "title": "an earlier people", "sub": ["more forbidden to them"]},
+      {"box": "reward", "title": "this ummah", "sub": ["few limits, ease in need"]}]},
+    "key": {"label": "Who did the wrong", "row": [
+      {"box": "trap", "title": "Allah was harsh", "sub": ["unfair rules"], "strike": true},
+      {"box": "idea", "title": "they wronged themselves", "sub": ["the rules followed that"]}]},
+    "then": "Ibn Kathir says after allowing ease in necessity, {reward}part of making things easy for this ummah, because Allah desires ease for us{/reward}, the verse mentions what was forbidden to the Jews in their law, as related in Surat Al-An'am. {idea}Allah did not wrong them; they wronged themselves.{/idea}",
+    "now": "You complain that the deen is hard, then remember how much is open to you, and that need brings mercy. {reward}You've been given ease.{/reward} {idea}The question is whether you meet ease with gratitude or with carelessness.{/idea}",
+    "old": "My religion is too strict on me.",
+    "new": "Allah made my way easy; my own wrongs are what make life hard.",
+    "try": "List three ways your faith makes life easier, and thank Allah for them.",
+    "related": ["6:146", "4:160"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:119", "surah": 16, "ayah": 119, "place": "makkah",
+    "title": "Did wrong in ignorance, then repented and corrected: He forgives.",
+    "subtitle": "A door held open for every sinner",
+    "picture": {"kind": "boxes", "label": "The way back", "row": [
+      {"box": "trap", "title": "did wrong", "sub": ["out of ignorance"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "repented", "sub": ["gave up the sin"]},
+      {"box": "idea", "title": "corrected", "sub": ["turned to obedience"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["your Lord"]}]},
+    "key": {"label": "What ignorance means here", "row": [
+      {"box": "trap", "title": "only not knowing", "sub": ["so I don't qualify"], "strike": true},
+      {"box": "idea", "title": "every sin is ignorance", "sub": ["so the door is open"]}]},
+    "then": "Ibn Kathir says this honors believers who have sinned: {reward}whoever repents, He will accept his repentance.{/reward} Some of the Salaf said {idea}everyone who disobeys Allah is ignorant{/idea}, so this includes all sinners who give up their sins and turn to obedience.",
+    "now": "You knew it was wrong and did it anyway, so you think this verse isn't for you. {idea}Scholars said every sin is a kind of ignorance.{/idea} {reward}The door is open to you too.{/reward} Repent, then fix what you can.",
+    "old": "I knew better, so there's no forgiveness for me.",
+    "new": "Every sin is ignorance, and my Lord forgives those who repent and reform.",
+    "try": "Pick one sin, make sincere tawbah tonight, and replace it with one good habit tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:120", "surah": 16, "ayah": 120, "place": "makkah",
+    "title": "Ibrahim was a nation on his own, obedient and upright.",
+    "subtitle": "One man who stood for Tawhid",
+    "picture": {"kind": "boxes", "label": "Who Ibrahim was", "row": [
+      {"box": "idea", "title": "an Ummah", "sub": ["a leader, a nation alone"]},
+      {"box": "idea", "title": "Qanit", "sub": ["humble, obedient"]},
+      {"box": "idea", "title": "Hanif", "sub": ["steered clear of shirk"]}]},
+    "key": {"label": "How many it takes", "row": [
+      {"box": "trap", "title": "I need a crowd", "sub": ["to stand for truth"], "strike": true},
+      {"box": "idea", "title": "one is enough", "sub": ["Ibrahim was an Ummah"]}]},
+    "then": "Ibn Kathir says Allah praises Ibrahim, {idea}the Imam of the Hanifs and father of the Prophets.{/idea} Ummah means a leader who is followed; Mujahid said {reward}he was a nation on his own.{/reward} Qanit means humble and obedient; Hanif means deliberately steering clear of shirk.",
+    "now": "You're the only one in your office who prays, the only one in your friend group who doesn't drink. {reward}Ibrahim stood alone too, and Allah called him a nation.{/reward}",
+    "old": "Standing alone for my faith makes me odd.",
+    "new": "One person upright before Allah can be a whole nation in His eyes.",
+    "try": "Do one act of faith today openly where you'd usually hide it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:121", "surah": 16, "ayah": 121, "place": "makkah",
+    "title": "Grateful for His favors, so Allah chose and guided him.",
+    "subtitle": "Gratitude and being chosen",
+    "picture": {"kind": "boxes", "label": "Ibrahim's path", "row": [
+      {"box": "idea", "title": "grateful", "sub": ["for every favor"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "chosen", "sub": ["selected by Allah"]},
+      {"box": "reward", "title": "guided", "sub": ["to a straight path"]}]},
+    "key": {"label": "What gratitude looks like", "row": [
+      {"box": "trap", "title": "saying thanks", "sub": ["and nothing else"], "strike": true},
+      {"box": "idea", "title": "fulfilling", "sub": ["did all he was told"]}]},
+    "then": "Ibn Kathir says Ibrahim {idea}gave thanks for the blessings Allah gave him{/idea}, linking it to the verse calling him the one who fulfilled, meaning {idea}he did everything Allah commanded.{/idea} Allah chose him and guided him to worship Him alone.",
+    "now": "This surah has listed favor after favor: rain, cattle, honey, homes, senses. Ibrahim is the picture of the person who actually said thank you, with his whole life. {reward}You can be that person.{/reward}",
+    "old": "Gratitude is a feeling.",
+    "new": "Gratitude is doing what Allah asks with the gifts He gave.",
+    "try": "Turn one blessing into action today: use your health to pray or your money to give.",
+    "related": ["53:37", "21:51"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:122", "surah": 16, "ayah": 122, "place": "makkah",
+    "title": "Good in this world, and among the righteous in the next.",
+    "subtitle": "What Ibrahim was given",
+    "picture": {"kind": "boxes", "label": "His reward", "row": [
+      {"box": "reward", "title": "good here", "sub": ["a full, good life"]},
+      {"box": "reward", "title": "a truthful tongue", "sub": ["remembered well"]},
+      {"box": "reward", "title": "righteous there", "sub": ["in the Hereafter"]}]},
+    "key": {"label": "Two worlds or one", "row": [
+      {"box": "trap", "title": "faith costs this life", "sub": ["only later reward"], "strike": true},
+      {"box": "reward", "title": "good in both", "sub": ["here and hereafter"]}]},
+    "then": "Ibn Kathir says Allah {reward}granted him all that a believer needs for a good and complete life in this world.{/reward} Mujahid said the good was {reward}a truthful tongue{/reward}, meaning he is remembered with honor. In the Hereafter he is among the righteous.",
+    "now": "Thousands of years later, millions say Ibrahim's name in every prayer. {reward}That is the good name Allah gave him here.{/reward} {idea}How will people speak of you after you're gone?{/idea}",
+    "old": "Living for Allah means giving up a good life here.",
+    "new": "Allah can give good in this world and the next to those who live for Him.",
+    "try": "Do one thing today you would want to be remembered for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:123", "surah": 16, "ayah": 123, "place": "makkah",
+    "title": "The Prophet ﷺ was told: follow the way of Ibrahim.",
+    "subtitle": "The final Messenger follows the upright father",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["Hanif, no shirk"]},
+      {"conn": "followed by"},
+      {"box": "people", "title": "Muhammad ﷺ", "sub": ["Seal of the Messengers"]},
+      {"conn": "followed by"},
+      {"box": "people", "title": "you", "sub": ["the same path"]}]},
+    "key": {"label": "Whose way it is", "row": [
+      {"box": "trap", "title": "a new religion", "sub": ["cut off from before"], "strike": true},
+      {"box": "idea", "title": "Ibrahim's way", "sub": ["pure Tawhid"]}]},
+    "then": "Ibn Kathir says because of {idea}Ibrahim's perfection, greatness, and the soundness of his Tawhid{/idea}, Allah revealed to the Seal of the Messengers ﷺ to follow his way. He links it to the verse: a right religion, the religion of Ibrahim, a Hanif.",
+    "now": "When you pray, you send blessings on Ibrahim and his family in the final sitting, by name. {idea}You're standing in a line that goes all the way back.{/idea}",
+    "old": "My faith is just what my family happens to do.",
+    "new": "My faith is the path of Ibrahim, carried by the Prophet ﷺ to me.",
+    "try": "In your next prayer, pay attention to Ibrahim's name in the salawat and thank Allah for the line you're in.",
+    "related": ["6:161"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:124", "surah": 16, "ayah": 124, "place": "makkah",
+    "title": "Each nation got a day of worship; we were guided to Friday.",
+    "subtitle": "A day given, and those who differed over theirs",
+    "picture": {"kind": "boxes", "label": "The appointed day", "row": [
+      {"box": "people", "title": "earlier peoples", "sub": ["differed over the day"]},
+      {"box": "reward", "title": "this ummah", "sub": ["guided to Friday"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "Allah judges", "sub": ["what they differed over"]}]},
+    "key": {"label": "Last and first", "row": [
+      {"box": "people", "title": "last in time", "sub": ["the final ummah"]},
+      {"box": "reward", "title": "first on the Day", "sub": ["first to be judged"]}]},
+    "then": "Ibn Kathir says Allah prescribed a weekly day of worship for every nation, and for this ummah {reward}Friday, the day He completed His creation.{/reward} The Sabbath was for those who differed over it. He quotes the Prophet ﷺ: {idea}we are the last, but we will be the first on the Day of Resurrection.{/idea}",
+    "now": "Friday arrives and it can feel like any workday: emails, a rushed lunch, Jumu'ah squeezed in. {reward}It is a gift this ummah was guided to.{/reward} {idea}Treat it like one.{/idea}",
+    "old": "Friday is just another day with a prayer in the middle.",
+    "new": "Friday is a day Allah guided me to; it deserves my care.",
+    "try": "This Friday, arrive early for Jumu'ah and read some Quran before the khutbah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:125", "surah": 16, "ayah": 125, "place": "makkah",
+    "title": "Invite with wisdom and good words; argue in the best way.",
+    "subtitle": "How to call people to Allah",
+    "picture": {"kind": "boxes", "label": "Three ways to invite", "row": [
+      {"box": "idea", "title": "wisdom", "sub": ["the Book and Sunnah"]},
+      {"box": "idea", "title": "good advice", "sub": ["stories, gentle warning"]},
+      {"box": "idea", "title": "best argument", "sub": ["kind, gentle speech"]}]},
+    "key": {"label": "Who guides", "row": [
+      {"box": "trap", "title": "I must win them", "sub": ["exhaust myself"], "strike": true},
+      {"box": "idea", "title": "your Lord knows", "sub": ["who is guided"]}]},
+    "then": "Ibn Kathir says if anyone wants to debate, it should be {idea}with kindness, gentleness and good speech{/idea}, as Allah told Musa and Harun to speak mildly even to Pharaoh. Then: {reward}do not exhaust yourself with regret over those who go astray{/reward}, for guiding them is not your task.",
+    "now": "Your uncle makes a provocative comment about religion at a family dinner. You could win the argument and lose him. {idea}Speak gently, the way Musa was told to speak even to Pharaoh.{/idea}",
+    "old": "Winning the argument is how I defend my faith.",
+    "new": "I invite with wisdom and gentleness, and leave guidance to Allah.",
+    "try": "In your next disagreement about faith, lower your voice and say one kind thing first.",
+    "related": ["29:46", "20:44", "28:56"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:126", "surah": 16, "ayah": 126, "place": "makkah",
+    "title": "If you respond, keep it equal. Patience is better.",
+    "subtitle": "Justice as the limit, patience as the higher choice",
+    "picture": {"kind": "boxes", "label": "When you are wronged", "row": [
+      {"box": "trap", "title": "harm done to you", "sub": ["a real wrong"]},
+      {"conn": "you may"},
+      {"box": "people", "title": "respond equally", "sub": ["not more"]},
+      {"conn": "or"},
+      {"box": "reward", "title": "be patient", "sub": ["better for the patient"]}]},
+    "key": {"label": "Two good options, one better", "row": [
+      {"box": "trap", "title": "pay back double", "sub": ["teach them a lesson"], "strike": true},
+      {"box": "reward", "title": "patience", "sub": ["the better way"]}]},
+    "then": "Ibn Kathir says {idea}Allah commands justice in punishment and fairness in settling rights.{/idea} Ibn Sirin said if someone takes something from you, take something similar. Ibn Zayd said some strong new Muslims wanted to strike back at the idolators of Makkah, and this came. Then the verse adds: {reward}patience is better.{/reward}",
+    "now": "Your coworker took credit for your work in the meeting. Your hand is already typing a long email to the whole team. {idea}A fair response is allowed.{/idea} {reward}Patience is the better road, and it is rewarded.{/reward}",
+    "old": "If someone wrongs me, I should hit back harder.",
+    "new": "I may answer a wrong fairly, but patience is better.",
+    "try": "Wait 24 hours before responding to the next person who wrongs you.",
+    "related": ["42:40", "5:45"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:127", "surah": 16, "ayah": 127, "place": "makkah",
+    "title": "Be patient; your patience comes only from Allah.",
+    "subtitle": "Don't grieve or be squeezed by their plots",
+    "picture": {"kind": "boxes", "label": "Where patience comes from", "row": [
+      {"box": "people", "title": "you", "sub": ["told to be patient"]},
+      {"conn": "helped by"},
+      {"box": "idea", "title": "Allah", "sub": ["the source of patience"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "no grief", "sub": ["no distress at plots"]}]},
+    "key": {"label": "Patience", "row": [
+      {"box": "trap", "title": "my willpower", "sub": ["grit my teeth alone"], "strike": true},
+      {"box": "idea", "title": "a gift from Allah", "sub": ["ask Him for it"]}]},
+    "then": "Ibn Kathir says this {idea}tells us patience cannot be gained except by the will, help, decree and power of Allah.{/idea} The Prophet ﷺ is told not to grieve over those who oppose him or be distressed by their plots, {reward}for Allah is protecting, helping and supporting him.{/reward}",
+    "now": "You're running out of patience: with the kids, the landlord, the neighbor who keeps complaining. {idea}Stop trying to squeeze more out of yourself.{/idea} {reward}Ask the One who gives it.{/reward}",
+    "old": "I just need to try harder to be patient.",
+    "new": "Patience is something I ask Allah for, not only something I force.",
+    "try": "When patience runs low today, pause and say: O Allah, grant me patience.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:128", "surah": 16, "ayah": 128, "place": "makkah",
+    "title": "Allah is with those who are mindful and do good.",
+    "subtitle": "The closing promise of the surah",
+    "picture": {"kind": "boxes", "label": "Who Allah is with", "row": [
+      {"box": "idea", "title": "the mindful", "sub": ["keep away from the forbidden"]},
+      {"box": "idea", "title": "the doers of good", "sub": ["act in obedience"]},
+      {"conn": "supported by"},
+      {"box": "reward", "title": "Allah", "sub": ["help, guidance, care"]}]},
+    "key": {"label": "Two kinds of being with", "row": [
+      {"box": "people", "title": "with everyone", "sub": ["sees, hears, knows"]},
+      {"box": "reward", "title": "with the mindful", "sub": ["supports and helps"]}]},
+    "then": "Ibn Kathir says this is {reward}a special kind of being with: supporting, helping and guiding.{/reward} He cites the Prophet ﷺ in the cave saying to Abu Bakr: {idea}do not worry, Allah is with us.{/idea} Allah is with everyone by knowledge and sight, but with these by care. So ends Surat An-Nahl.",
+    "now": "You walk into the job interview, the hospital room, the hard conversation, feeling alone. {reward}If you stayed away from wrong and tried to do good, you're not alone in there.{/reward}",
+    "old": "I'm on my own when things get hard.",
+    "new": "Allah is with those who are mindful and do good, helping them.",
+    "try": "Before your next hard moment, whisper: Allah is with me, and do one good deed.",
+    "related": ["8:12", "20:46", "57:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

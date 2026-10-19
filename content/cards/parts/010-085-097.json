@@ -1,0 +1,266 @@
+[
+  {
+    "id": "10:85", "surah": 10, "ayah": 85, "place": "makkah",
+    "title": "On Allah we rely. Do not make us a trial for oppressors.",
+    "subtitle": "A dua for the weak under pressure",
+    "picture": {"kind": "boxes", "label": "Their reply to Musa", "row": [
+      {"box": "reward", "title": "we rely on Allah", "sub": ["they accepted the call"]},
+      {"conn": "and asked"},
+      {"box": "idea", "title": "not a trial", "sub": ["for the wrongdoers"]}]},
+    "key": {"label": "What they feared", "row": [
+      {"box": "trap", "title": "oppressors winning", "sub": ["and thinking they were right"]},
+      {"conn": "could"},
+      {"box": "trap", "title": "pull us into fitnah", "sub": ["shake our faith"]}]},
+    "then": "The Children of Israel answered Musa: {reward}in Allah we put our trust.{/reward} Ibn Kathir explains their dua: {trap}do not give them victory over us, so they think they were right and we were wrong.{/trap} Mujahid said it means do not let them push us into trial.",
+    "now": "You are being treated unfairly by a manager or landlord. You worry about the harm, and also about what it does to your faith. {reward}This dua covers both.{/reward} Trust Allah, and ask Him to keep you steady.",
+    "old": "When I am oppressed, my only worry is the harm.",
+    "new": "I also ask Allah to protect my faith from being shaken by it.",
+    "try": "Learn this dua today: Rabbana la taj'alna fitnatan lil-qawmi az-zalimin.",
+    "related": ["39:36", "65:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:86", "surah": 10, "ayah": 86, "place": "makkah",
+    "title": "Save us by Your mercy, not by our strength.",
+    "subtitle": "The second half of their dua",
+    "picture": {"kind": "boxes", "label": "What they asked for", "row": [
+      {"box": "people", "title": "the weak", "sub": ["no army of their own"]},
+      {"conn": "ask"},
+      {"box": "reward", "title": "Your mercy", "sub": ["and beneficence"]},
+      {"conn": "from"},
+      {"box": "trap", "title": "the deniers", "sub": ["who covered the truth"]}]},
+    "key": {"label": "What saves", "row": [
+      {"box": "people", "title": "our own strength", "sub": ["planning, numbers"], "strike": true},
+      {"box": "reward", "title": "His mercy", "sub": ["we trusted You"]}]},
+    "then": "Ibn Kathir explains: {reward}save us through Your mercy and beneficence{/reward} from those who denied the truth. Their dua ends with a statement of trust: {idea}we truly have believed in You and put our trust in You.{/idea}",
+    "now": "You have no connections, no savings cushion, no backup plan. It feels like powerlessness. {reward}Mercy is not earned by strength.{/reward} Ask for it plainly, as they did.",
+    "old": "Without power or resources, I have no way out.",
+    "new": "Allah's mercy can save me where my strength cannot.",
+    "try": "Make a short dua today that begins: O Allah, by Your mercy, save me from...",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:87", "surah": 10, "ayah": 87, "place": "makkah",
+    "title": "When the streets are unsafe, make your home a place of prayer.",
+    "subtitle": "Turning houses into places of worship",
+    "picture": {"kind": "boxes", "label": "The instruction", "row": [
+      {"box": "trap", "title": "public prayer unsafe", "sub": ["fear of Firaun"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "homes facing qiblah", "sub": ["places of worship"]},
+      {"box": "reward", "title": "establish prayer", "sub": ["give good news"]}]},
+    "key": {"label": "Where worship happens", "row": [
+      {"box": "people", "title": "only at the mosque", "sub": ["or not at all"], "strike": true},
+      {"box": "idea", "title": "at home too", "sub": ["the house as a prayer place"]}]},
+    "then": "Ibn Abbas said the Children of Israel told Musa they {trap}could not pray in public before Firaun's people.{/trap} So {idea}Allah let them pray in their houses, built facing the qiblah.{/idea} Mujahid said they feared being killed at their gatherings, so prayer could be in secret.",
+    "now": "Your home is where you scroll, eat, work, and argue. {idea}Does it have a corner where you pray?{/idea} A rug by the window, facing qiblah, can turn a flat into a place of worship.",
+    "old": "Home is for rest. Worship happens elsewhere.",
+    "new": "My home can be a place of prayer, especially when life outside is hard.",
+    "try": "Set up a small prayer corner at home today, even just a folded mat facing qiblah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:88", "surah": 10, "ayah": 88, "place": "makkah",
+    "title": "Wealth and splendor were used to lead people astray.",
+    "subtitle": "Musa's dua when there was no good left in them",
+    "picture": {"kind": "boxes", "label": "What Musa saw", "row": [
+      {"box": "reward", "title": "splendor and wealth", "sub": ["given to Firaun"]},
+      {"conn": "used to"},
+      {"box": "trap", "title": "mislead people", "sub": ["from Your way"]},
+      {"conn": "so he asked"},
+      {"box": "idea", "title": "destroy their wealth", "sub": ["seal their hearts"]}]},
+    "key": {"label": "What wealth means", "row": [
+      {"box": "trap", "title": "a sign of His love", "sub": ["rich means favoured"], "strike": true},
+      {"box": "idea", "title": "a test", "sub": ["it can draw one away"]}]},
+    "then": "Ibn Kathir says Musa prayed this {idea}when he was certain there was no good in them{/idea}, angry for the sake of Allah. One reading explains their wealth as a test: {trap}those misguided would think it was given because Allah loved them.{/trap}",
+    "now": "A rich, famous person lives openly against Allah, and the comments say: look how blessed they are. {trap}Wealth is not proof of Allah's pleasure.{/trap} It can be a test, for them and for the one watching.",
+    "old": "If someone is rich and successful, Allah must be pleased with them.",
+    "new": "Wealth can be a test, not a sign of His love.",
+    "try": "When you envy someone's riches today, say: may Allah bless them, and give me what is good for me.",
+    "related": ["20:131", "71:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:89", "surah": 10, "ayah": 89, "place": "makkah",
+    "title": "Your prayer is answered, so stay on the straight way.",
+    "subtitle": "What to do after a dua is accepted",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "people", "title": "Musa prayed", "sub": ["Harun said amin"]},
+      {"conn": "Allah said"},
+      {"box": "reward", "title": "accepted", "sub": ["the dua of both"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "stay steadfast", "sub": ["follow My command"]}]},
+    "key": {"label": "After the answer", "row": [
+      {"box": "trap", "title": "relax now", "sub": ["the job is done"], "strike": true},
+      {"box": "idea", "title": "be steadfast", "sub": ["keep to the way"]}]},
+    "then": "Ibn Kathir notes Musa prayed and {reward}Harun said amin{/reward}, so the dua is called theirs. Allah answered, then commanded: {idea}as I answered your prayer, remain steadfast on My command{/idea}, and do not follow those who do not know.",
+    "now": "The job offer came. The baby was born healthy. The visa arrived. You prayed for months. {idea}Now is when steadfastness matters.{/idea} An answered dua is a call to stay on course, not to drift.",
+    "old": "Once my dua is answered, I can ease off.",
+    "new": "An answered prayer is a reason to stay steady, not to stop.",
+    "try": "Think of one answered dua and keep one habit you started while waiting for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:90", "surah": 10, "ayah": 90, "place": "makkah",
+    "title": "Drowning, Firaun finally said: I believe.",
+    "subtitle": "The sea parts for some and closes on others",
+    "picture": {"kind": "boxes", "label": "At the sea", "row": [
+      {"box": "reward", "title": "the sea splits", "sub": ["dry paths for Israel"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "Firaun follows", "sub": ["in pride and enmity"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "drowning", "sub": ["now I believe"]}]},
+    "key": {"label": "When faith helps", "row": [
+      {"box": "trap", "title": "at the last breath", "sub": ["when there is no choice"], "strike": true},
+      {"box": "idea", "title": "while you can choose", "sub": ["before the waves"]}]},
+    "then": "Ibn Kathir describes the Children of Israel trapped at the shore, saying {trap}we are sure to be overtaken{/trap}, and Musa answering {reward}my Lord is with me, He will guide me.{/reward} The sea split. Firaun followed in pride, and {trap}believed only when it could no longer benefit him.{/trap}",
+    "now": "You are at your own shoreline: debt behind you, a wall of water ahead. {reward}Say what Musa said: my Lord is with me.{/reward} And whatever you keep postponing in faith, do not leave it for the last wave.",
+    "old": "I will get serious about faith when I have to.",
+    "new": "Faith counts while I still have a choice, not when the waves close in.",
+    "try": "In one hard situation today, say: my Lord is with me, He will guide me.",
+    "related": ["26:61", "26:62", "20:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:91", "surah": 10, "ayah": 91, "place": "makkah",
+    "title": "Now? After a lifetime of disobedience and corruption?",
+    "subtitle": "The reply to Firaun's last-second faith",
+    "picture": {"kind": "boxes", "label": "The reply", "row": [
+      {"box": "trap", "title": "refused before", "sub": ["years of disobedience"]},
+      {"box": "trap", "title": "a corrupter", "sub": ["misled the people"]},
+      {"conn": "and now"},
+      {"box": "idea", "title": "Now?", "sub": ["too late to benefit"]}]},
+    "key": {"label": "Timing", "row": [
+      {"box": "people", "title": "repent at the end", "sub": ["a final safety net"], "strike": true},
+      {"box": "idea", "title": "repent today", "sub": ["while it counts"]}]},
+    "then": "Ibn Kathir says the reply to Firaun was: {trap}do you say that now, when you disobeyed Allah before{/trap} and were among those who spread corruption and misled the people? The Prophet ﷺ related that Jibril {trap}feared mercy would reach Firaun{/trap} at that moment.",
+    "now": "\"I will sort myself out when I am older. Hajj at sixty, then I will change.\" {idea}No one is promised the warning before the end.{/idea} The open door is today's door.",
+    "old": "I can leave repentance for later in life.",
+    "new": "Repentance is for now, while it can still change my story.",
+    "try": "Repent today for one specific thing, and take one step away from it.",
+    "related": ["40:84", "28:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:92", "surah": 10, "ayah": 92, "place": "makkah",
+    "title": "His body was kept as a sign for those after him.",
+    "subtitle": "A tyrant's end preserved as a lesson",
+    "picture": {"kind": "boxes", "label": "What remained", "row": [
+      {"box": "trap", "title": "Firaun's body", "sub": ["thrown onto high land"]},
+      {"conn": "as"},
+      {"box": "idea", "title": "a sign", "sub": ["for those who come after"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "many heedless", "sub": ["of Our signs"]}]},
+    "key": {"label": "What power is worth", "row": [
+      {"box": "people", "title": "untouchable", "sub": ["the great king"], "strike": true},
+      {"box": "idea", "title": "a body on the shore", "sub": ["a lesson, nothing more"]}]},
+    "then": "Ibn Abbas said some of the Children of Israel {trap}doubted Firaun's death{/trap}, so the sea cast up his body, whole, in his known armour, onto high ground. Ibn Kathir says it was {idea}proof that Allah is All-Powerful.{/idea} The Prophet ﷺ fasted Ashura in thanks for that day.",
+    "now": "You feel small next to someone who holds power over you. Remember the king who claimed to be a god, {idea}washed up on the shore for everyone to see.{/idea} Power ends. Signs remain for the attentive.",
+    "old": "Those with power over me are untouchable.",
+    "new": "All power ends, and the end of tyrants is a sign for those who notice.",
+    "try": "Look up when the next day of Ashura falls, and plan to fast it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:93", "surah": 10, "ayah": 93, "place": "makkah",
+    "title": "They were given a good home, then split after knowledge came.",
+    "subtitle": "Division that came despite clear knowledge",
+    "picture": {"kind": "boxes", "label": "What they were given", "row": [
+      {"box": "reward", "title": "honorable dwelling", "sub": ["after Firaun fell"]},
+      {"box": "reward", "title": "good provision", "sub": ["lawful and pure"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "they differed", "sub": ["after knowledge came"]}]},
+    "key": {"label": "Why they divided", "row": [
+      {"box": "people", "title": "lack of knowledge", "sub": ["it was unclear"], "strike": true},
+      {"box": "trap", "title": "despite knowledge", "sub": ["Allah will judge it"]}]},
+    "then": "After Firaun's fall, Allah {reward}settled the Children of Israel in an honorable place and gave them good provision.{/reward} Ibn Kathir says {trap}there was no reason for disputes, since Allah had sent them knowledge.{/trap} He cites the hadith warning this Ummah too will split, and the saved are {idea}those upon what the Prophet ﷺ and his Companions were upon.{/idea}",
+    "now": "Your local community has a mosque, teachers, books, even apps. Yet the WhatsApp group is split over small things. {trap}More knowledge did not stop the division.{/trap} Look at your own part in it.",
+    "old": "Divisions happen because people do not know enough.",
+    "new": "Division often comes after knowledge, from the heart, not the head.",
+    "try": "In one disagreement with a fellow Muslim today, choose unity over winning.",
+    "related": ["7:137", "26:57"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:94", "surah": 10, "ayah": 94, "place": "makkah",
+    "title": "The truth has come from your Lord, so do not doubt.",
+    "subtitle": "Earlier scripture bears witness",
+    "picture": {"kind": "boxes", "label": "The reassurance", "row": [
+      {"box": "people", "title": "if in doubt", "sub": ["about the revelation"]},
+      {"conn": "ask"},
+      {"box": "idea", "title": "readers of the Book", "sub": ["it was described there"]},
+      {"box": "reward", "title": "truth has come", "sub": ["from your Lord"]}]},
+    "key": {"label": "What to do with doubt", "row": [
+      {"box": "trap", "title": "hide it, or quit", "sub": ["doubt means failure"], "strike": true},
+      {"box": "idea", "title": "seek and settle", "sub": ["the truth is there"]}]},
+    "then": "Ibn Kathir links this to the verse that the Prophet ﷺ is {idea}found written of in the Tawrah and Injil.{/idea} He says those with the earlier Books {trap}knew this as surely as they knew their own children{/trap}, yet some hid it. The address ends firm: {reward}the truth has come from your Lord.{/reward}",
+    "now": "A question pops up that you cannot answer, and you feel your faith wobble. {idea}You are allowed to ask, read, and look for evidence.{/idea} The verse points you toward answers and away from staying stuck.",
+    "old": "Having a question means my faith is weak.",
+    "new": "When doubt comes, I look for the truth, which is already there from my Lord.",
+    "try": "Write down one question about your faith and ask a knowledgeable person about it this week.",
+    "related": ["7:157"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:95", "surah": 10, "ayah": 95, "place": "makkah",
+    "title": "Do not be among those who deny Allah's signs.",
+    "subtitle": "The loss that comes with denial",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "idea", "title": "Allah's signs", "sub": ["clear and present"]},
+      {"conn": "if denied"},
+      {"box": "trap", "title": "the losers", "sub": ["the real loss"]}]},
+    "key": {"label": "What loss means", "row": [
+      {"box": "people", "title": "losing money", "sub": ["or status"], "strike": true},
+      {"box": "trap", "title": "losing the truth", "sub": ["after it came"]}]},
+    "then": "Right after the reassurance against doubt, the next warning follows: {trap}do not be among those who belie Allah's signs.{/trap} Ibn Kathir notes some who had clear evidence {trap}still did not believe.{/trap} That, the verse says, is the real loss.",
+    "now": "You notice a sign: a verse that answers what you were worrying about, a reminder at exactly the right moment. Then you shrug it off as coincidence. {idea}Pay attention to those moments.{/idea}",
+    "old": "Losing means failing in money or career.",
+    "new": "The biggest loss is turning away from Allah's signs after seeing them.",
+    "try": "Today, when something reminds you of Allah, stop and say subhanallah instead of shrugging.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:96", "surah": 10, "ayah": 96, "place": "makkah",
+    "title": "Some hearts have closed so far that they will not believe.",
+    "subtitle": "When the word of Allah comes due",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "rejected again and again", "sub": ["despite clear proof"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "the word came due", "sub": ["they will not believe"]}]},
+    "key": {"label": "Who decides your heart", "row": [
+      {"box": "people", "title": "it just happens", "sub": ["out of my hands"], "strike": true},
+      {"box": "idea", "title": "choices build it", "sub": ["each yes or no"]}]},
+    "then": "Ibn Kathir says these are people who {trap}did not believe despite clear evidence{/trap}, so the word of Allah came due on them. He compares it to Musa's dua against Firaun: {trap}they will not believe until they see the painful torment.{/trap}",
+    "now": "Each time you ignore a reminder, it gets easier to ignore the next. The reverse is also true. {idea}Each time you respond, your heart softens a little more.{/idea} You are building it today.",
+    "old": "My heart is how it is. I cannot change it.",
+    "new": "My responses to Allah's reminders are shaping my heart every day.",
+    "try": "Respond to the next reminder you get today, a verse or an adhan, straight away.",
+    "related": ["10:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:97", "surah": 10, "ayah": 97, "place": "makkah",
+    "title": "Even every sign would not move them until it was too late.",
+    "subtitle": "When signs are not the problem",
+    "picture": {"kind": "boxes", "label": "Every sign", "row": [
+      {"box": "idea", "title": "angels sent down", "sub": ["the dead speaking"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "no belief", "sub": ["until the punishment"]},
+      {"conn": "like"},
+      {"box": "trap", "title": "Firaun at sea", "sub": ["faith too late"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "the right sign", "sub": ["the perfect proof"], "strike": true},
+      {"box": "trap", "title": "a willing heart", "sub": ["no sign replaces it"]}]},
+    "then": "Ibn Kathir cites the verse: {trap}even if We sent angels, and the dead spoke to them, they would not have believed{/trap}, unless Allah willed. Their belief would only come when it {trap}could no longer benefit them{/trap}, as with Firaun.",
+    "now": "You have watched a dozen reminder videos this month, nodded at each, and changed nothing. {trap}The next video will not do it either.{/trap} One small action will do more than another sign.",
+    "old": "One more reminder and I will finally change.",
+    "new": "It is not signs I lack. It is a willing heart and one first step.",
+    "try": "Skip the next reminder video today, and act on the last one you already watched.",
+    "related": ["6:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

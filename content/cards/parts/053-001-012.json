@@ -1,0 +1,241 @@
+[
+  {
+    "id": "53:1", "surah": 53, "ayah": 1, "place": "makkah",
+    "title": "Sworn by a star that sets on time.",
+    "subtitle": "Why a setting star opens the surah",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "plain", "title": "the star", "sub": ["the Pleiades, per Mujahid"]},
+      {"conn": "goes down"},
+      {"box": "plain", "title": "at dawn", "sub": ["exactly when it should"]},
+      {"conn": "sworn by"},
+      {"box": "idea", "title": "Allah", "sub": ["swears by what He wills"]}]},
+    "key": {"label": "Who swears by what", "row": [
+      {"box": "people", "title": "the Creator", "sub": ["swears by His creation"]},
+      {"box": "people", "title": "the created", "sub": ["swear only by the Creator"]}]},
+    "then": "This was the first surah with a prostration, recited by the Prophet ﷺ publicly to the Quraysh. It opens with an oath. Mujahid said the star is the Pleiades as it sets at dawn. What the oath confirms comes next: {idea}your companion has not strayed.{/idea}",
+    "now": "You check the sunrise time on your phone and it is right to the minute. The sky keeps its schedule while you are asleep. {idea}Order you never had to arrange.{/idea} That steady sky is the opening witness for what comes next.",
+    "old": "The night sky is pretty, but it has nothing to say to me.",
+    "new": "The sky keeps its order, and that order is called as a witness.",
+    "try": "Step outside tonight for one minute and find one star. Let it remind you that the truth also keeps its path.",
+    "related": ["56:75"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:2", "surah": 53, "ayah": 2, "place": "makkah",
+    "title": "Your companion is not lost, and not crooked.",
+    "subtitle": "Two different ways to go wrong, both denied",
+    "picture": {"kind": "boxes", "label": "Two ways to go wrong", "row": [
+      {"box": "trap", "title": "lost", "sub": ["walks without knowledge"]},
+      {"box": "trap", "title": "crooked", "sub": ["knows the truth, swerves anyway"]},
+      {"conn": "neither"},
+      {"box": "idea", "title": "your companion", "sub": ["on the straight path"]}]},
+    "key": {"label": "What the oath confirms", "row": [
+      {"box": "people", "title": "a man gone strange", "sub": ["what Quraysh said"], "strike": true},
+      {"box": "idea", "title": "sane and truthful", "sub": ["the one you have known"]}]},
+    "then": "Allah calls the Prophet ﷺ {idea}your companion{/idea}: the man Quraysh had lived beside for forty years. Ibn Kathir explains the two denials. He is not {trap}lost like someone without knowledge{/trap}, and not {trap}crooked like someone who knows and turns away{/trap}.",
+    "now": "Think of the friend you grew up with. You know how they act when nobody is watching. When a rumor about them goes round the group chat, you weigh it against years of seeing them up close. {idea}Long closeness is evidence.{/idea}",
+    "old": "I judge a messenger by what people say about him today.",
+    "new": "Those who knew him longest had already seen he was not lost or crooked.",
+    "try": "Before you believe a rumor about someone today, ask what you have actually seen of them yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:3", "surah": 53, "ayah": 3, "place": "makkah",
+    "title": "He does not speak from what he wants.",
+    "subtitle": "Words that do not come from the ego",
+    "picture": {"kind": "boxes", "label": "Where the words come from", "row": [
+      {"box": "trap", "title": "desire", "sub": ["wish, mood, anger"], "strike": true},
+      {"conn": "not from"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["what he utters"]}]},
+    "key": {"label": "The test Quraysh tried", "row": [
+      {"box": "trap", "title": "he speaks when angry", "sub": ["so stop writing it down"], "strike": true},
+      {"box": "idea", "title": "Write!", "sub": ["only truth comes out of me"]}]},
+    "then": "Quraysh told Abdullah bin Amr to stop writing down the Prophet's ﷺ words, since {trap}he is human and speaks when angry{/trap}. He asked the Prophet ﷺ, who told him: {idea}Write. Only the truth comes out of me.{/idea}",
+    "now": "You send a message in anger and spend the next day explaining what you really meant. Your words follow your mood. {idea}This verse describes a speaker whose words did not bend to his mood.{/idea} That is why his words can be trusted when yours, on a bad day, cannot.",
+    "old": "Everyone's words are shaped by how they feel that day.",
+    "new": "His message did not bend to his moods, so I can lean on it fully.",
+    "try": "Next time you are angry, wait ten minutes before you send the message.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:4", "surah": 53, "ayah": 4, "place": "makkah",
+    "title": "It is only revelation, delivered whole.",
+    "subtitle": "No additions, no deletions",
+    "picture": {"kind": "boxes", "label": "How it arrived", "row": [
+      {"box": "idea", "title": "revelation", "sub": ["from Allah"]},
+      {"conn": "conveyed"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["the messenger"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the people", "sub": ["in its entirety"]}]},
+    "key": {"label": "What he did with it", "row": [
+      {"box": "trap", "title": "edited it", "sub": ["added or trimmed"], "strike": true},
+      {"box": "idea", "title": "delivered it", "sub": ["whole, as commanded"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ {idea}conveyed what he was commanded, in its entirety, without additions or deletions{/idea}. When a man questioned one of his statements, he answered simply: I said what I said.",
+    "now": "You forward a long message but quietly delete the line that makes you look bad. Or you add a bit to make it sound stronger. {trap}Most of us edit what we pass on.{/trap} The verse says this message reached you untouched.",
+    "old": "Every message gets shaped a little by the one carrying it.",
+    "new": "This one reached me exactly as it was sent.",
+    "try": "Pass on one piece of news today exactly as you heard it, without adding or trimming.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:5", "surah": 53, "ayah": 5, "place": "makkah",
+    "title": "His teacher was mighty in power.",
+    "subtitle": "Jibril, the one who taught him",
+    "picture": {"kind": "boxes", "label": "The chain of teaching", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the source"]},
+      {"conn": "sends"},
+      {"box": "reward", "title": "Jibril", "sub": ["mighty in power, trustworthy"]},
+      {"conn": "teaches"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["the trustworthy messenger"]}]},
+    "key": {"label": "Who taught him", "row": [
+      {"box": "people", "title": "people or books", "sub": ["what doubters assumed"], "strike": true},
+      {"box": "idea", "title": "a mighty angel", "sub": ["trusted with the message"]}]},
+    "then": "Ibn Kathir says the one {idea}mighty in power{/idea} is Jibril. Another surah calls him honorable, powerful, obeyed and trustworthy. {reward}A trustworthy angel brought it to a trustworthy messenger.{/reward}",
+    "now": "You pick a surgeon, a lawyer, a tutor for your child, and you ask who trained them. A strong teacher makes you trust the student. {idea}This verse tells you who trained the Prophet ﷺ.{/idea}",
+    "old": "He must have learned it from somewhere ordinary.",
+    "new": "His teacher was Jibril, strong and trustworthy, carrying it from Allah.",
+    "try": "Think of one good teacher you had and make a short dua for them today.",
+    "related": ["81:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:6", "surah": 53, "ayah": 6, "place": "makkah",
+    "title": "Strong and sound, he rose to his true form.",
+    "subtitle": "The first time Jibril was seen as he is",
+    "picture": {"kind": "boxes", "label": "What appeared", "row": [
+      {"box": "reward", "title": "Jibril", "sub": ["Dhu Mirrah: mighty, sound"]},
+      {"conn": "rose"},
+      {"box": "idea", "title": "true form", "sub": ["filling the horizon"]}]},
+    "key": {"label": "The angel he knew", "row": [
+      {"box": "people", "title": "the familiar visitor", "sub": ["usually in human shape"]},
+      {"box": "idea", "title": "the real size", "sub": ["six hundred wings"]}]},
+    "then": "Ibn Abbas reported that the Prophet ﷺ asked to see Jibril in his real form. {idea}A huge figure rose from the east and kept spreading.{/idea} Ibn Mas'ud reported he had six hundred wings, each filling a side of the horizon.",
+    "now": "You see a mountain in photos for years, then one day you stand at its foot. The size stops you. {idea}Knowing about something and seeing it are different.{/idea} This verse is the moment the messenger saw his teacher as he really is.",
+    "old": "The unseen world is probably small and vague.",
+    "new": "What I cannot see is larger than anything I can picture.",
+    "try": "Look at the widest sky you can find today and remember it is small next to what Allah created beyond it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:7", "surah": 53, "ayah": 7, "place": "makkah",
+    "title": "He stood on the highest horizon, where morning comes.",
+    "subtitle": "The place the day begins",
+    "picture": {"kind": "boxes", "label": "Where he was", "row": [
+      {"box": "reward", "title": "Jibril", "sub": ["in his true form"]},
+      {"conn": "at"},
+      {"box": "idea", "title": "the highest horizon", "sub": ["where the morning comes from"]}]},
+    "key": {"label": "What the horizon held", "row": [
+      {"box": "plain", "title": "the usual sunrise", "sub": ["light, nothing more"]},
+      {"box": "idea", "title": "this sunrise", "sub": ["an angel filling it"]}]},
+    "then": "Ikrimah said the highest horizon is {idea}where the morning comes from{/idea}. Mujahid said the place of sunrise. Qatadah said, that from which the day comes. The Prophet ﷺ saw Jibril there, standing over the place where light begins.",
+    "now": "You are driving early, and the eastern sky turns from grey to gold. Most mornings you barely notice. {idea}The same horizon once held the angel who carries revelation.{/idea} Dawn is not just weather.",
+    "old": "Sunrise is just the start of a work day.",
+    "new": "The horizon where day begins once held the carrier of revelation.",
+    "try": "Watch the sky at dawn once this week, even through a window.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:8", "surah": 53, "ayah": 8, "place": "makkah",
+    "title": "Then he came down and came close.",
+    "subtitle": "The angel moves toward the messenger",
+    "picture": {"kind": "boxes", "label": "The movement", "row": [
+      {"box": "reward", "title": "Jibril", "sub": ["on the high horizon"]},
+      {"conn": "approached, descended"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["on earth"]}]},
+    "key": {"label": "Who closed the distance", "row": [
+      {"box": "people", "title": "man climbs up", "sub": ["by his own effort"], "strike": true},
+      {"box": "idea", "title": "the message comes down", "sub": ["brought near to him"]}]},
+    "then": "Ibn Kathir says this describes Jibril {idea}descending to the Prophet ﷺ on earth{/idea} and drawing near. In the narration from Ibn Abbas, when the Prophet ﷺ fell unconscious at the sight, Jibril came down and revived him.",
+    "now": "You think of guidance as something you must climb toward, alone, after you fix yourself. This verse shows the opposite movement. {reward}The message came down and came close.{/reward} It is already near you, on a shelf or in a phone app.",
+    "old": "Guidance is far away and I have to reach it myself.",
+    "new": "Guidance was brought down and brought close to me.",
+    "try": "Open the Quran today, even for one verse, since it already came this close.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:9", "surah": 53, "ayah": 9, "place": "makkah",
+    "title": "Two bow lengths away, or nearer.",
+    "subtitle": "How close the angel came",
+    "picture": {"kind": "boxes", "label": "The distance", "row": [
+      {"box": "reward", "title": "Jibril", "sub": ["descending"]},
+      {"box": "plain", "title": "2", "sub": ["bow lengths, or less"], "num": true},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["receiving"]}]},
+    "key": {"label": "What or nearer means", "row": [
+      {"box": "trap", "title": "maybe further", "sub": ["room for doubt"], "strike": true},
+      {"box": "idea", "title": "that close, no further", "sub": ["the fact, confirmed"]}]},
+    "then": "Mujahid and Qatadah said this is the distance of two bows drawn to full length. Ibn Kathir explains that {idea}or nearer{/idea} confirms the distance and leaves no room to doubt it, like the verse on hearts as hard as stones {trap}or harder{/trap}.",
+    "now": "Someone tells you about an event secondhand, and you ask, were you really there? How close were you? {idea}This verse answers that question exactly.{/idea} The witness was near enough to measure the distance.",
+    "old": "A report about the unseen must be vague and distant.",
+    "new": "The one who received it was close enough to measure the distance.",
+    "try": "When you share something you heard today, say plainly how close you were to the source.",
+    "related": ["2:74", "37:147"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:10", "surah": 53, "ayah": 10, "place": "makkah",
+    "title": "He revealed to His servant what He revealed.",
+    "subtitle": "A message left unnamed, and a title kept",
+    "picture": {"kind": "boxes", "label": "What passed", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["through Jibril"]},
+      {"conn": "revealed"},
+      {"box": "reward", "title": "what He revealed", "sub": ["left unnamed"]},
+      {"conn": "to"},
+      {"box": "people", "title": "His servant", "sub": ["the Prophet ﷺ"]}]},
+    "key": {"label": "The title chosen", "row": [
+      {"box": "people", "title": "a great man", "sub": ["what we would say"]},
+      {"box": "idea", "title": "His servant", "sub": ["the honor Allah chose"]}]},
+    "then": "Ibn Kathir gives two meanings, both correct: Jibril conveyed what he conveyed, or Allah revealed through Jibril. Sa'id bin Jubayr said part of it was {reward}Did He not find you an orphan{/reward} and {reward}We raised high your fame{/reward}.",
+    "now": "At the highest moment of his life, the Prophet ﷺ is called {idea}His servant{/idea}. Not leader, not genius. You spend energy building a title on a CV or a profile. Here the highest title is belonging to Allah.",
+    "old": "Honor means a big title and people knowing my name.",
+    "new": "The highest honor is to be called His servant.",
+    "try": "In your next prayer, pause on the word abd in the tashahhud and feel what it means.",
+    "related": ["93:6", "94:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:11", "surah": 53, "ayah": 11, "place": "makkah",
+    "title": "The heart did not lie about what it saw.",
+    "subtitle": "Sight and heart agreed",
+    "picture": {"kind": "boxes", "label": "What he saw", "row": [
+      {"box": "people", "title": "the eyes", "sub": ["saw it"]},
+      {"conn": "and"},
+      {"box": "people", "title": "the heart", "sub": ["confirmed it"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "no illusion", "sub": ["a true sight"]}]},
+    "key": {"label": "Was it real", "row": [
+      {"box": "trap", "title": "a trick of the mind", "sub": ["what doubters claimed"], "strike": true},
+      {"box": "idea", "title": "true", "sub": ["the heart did not deny it"]}]},
+    "then": "Ibn Kathir records a discussion among the Companions on what he saw. A'ishah said {idea}it was Jibril{/idea}, seen twice in his true form. Ibn Abbas was reported saying he saw his Lord with his heart. Either way, the verse says the sight was true.",
+    "now": "You saw something with your own eyes, and later people keep telling you that you imagined it. Slowly you start doubting yourself. {idea}This verse settles it for the Prophet ﷺ: what he saw was real.{/idea}",
+    "old": "Maybe the whole thing was only in his head.",
+    "new": "His heart and his sight agreed. What he saw was true.",
+    "try": "Write down one clear moment when you felt Allah's help, so you do not let doubt erase it later.",
+    "related": ["6:103", "42:51"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:12", "surah": 53, "ayah": 12, "place": "makkah",
+    "title": "Will you argue with him about what he saw?",
+    "subtitle": "Arguing with an eyewitness",
+    "picture": {"kind": "boxes", "label": "The argument", "row": [
+      {"box": "people", "title": "Quraysh", "sub": ["did not see"]},
+      {"conn": "dispute with"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["saw it himself"]}]},
+    "key": {"label": "Who knows better", "row": [
+      {"box": "trap", "title": "the one who argues", "sub": ["was not there"], "strike": true},
+      {"box": "idea", "title": "the one who saw", "sub": ["the eyewitness"]}]},
+    "then": "The people of Makkah argued with the Prophet ﷺ over what he described. {trap}They had seen nothing, yet they disputed.{/trap} The verse turns it into a question: {idea}will you argue with a man about what he saw with his own eyes?{/idea}",
+    "now": "A nurse tells you what happened on the ward last night and you argue with her from your sofa. It sounds silly put that way. {trap}Yet we often argue hardest about things we never witnessed.{/trap}",
+    "old": "My opinion is as good as his account.",
+    "new": "Arguing with an eyewitness from a distance is not thinking. It is stubbornness.",
+    "try": "In your next disagreement, ask first: was I there, or am I guessing?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

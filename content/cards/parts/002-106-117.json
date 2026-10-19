@@ -1,0 +1,248 @@
+[
+  {
+    "id": "2:106", "surah": 2, "ayah": 106, "place": "madinah",
+    "title": "When Allah replaces a ruling, He brings one better or equal.",
+    "subtitle": "Change in guidance is not a mistake",
+    "picture": {"kind": "boxes", "label": "How replacement works", "row": [
+      {"box": "plain", "title": "a ruling", "sub": ["for its time"]},
+      {"conn": "replaced by"},
+      {"box": "reward", "title": "better or similar", "sub": ["easier, more beneficial"]},
+      {"conn": "because"},
+      {"box": "idea", "title": "Allah is able", "sub": ["over all things"]}]},
+    "key": {"label": "What a change means", "row": [
+      {"box": "people", "title": "the first one was wrong", "sub": [], "strike": true},
+      {"box": "idea", "title": "the Wise One chose the timing", "sub": []}]},
+    "then": "Some objected that a true revelation could never change a ruling. The verse answers: {idea}whatever Allah abrogates, He brings something better or like it.{/idea} Ibn Abbas said better means more beneficial and easier for you. Ibn Kathir notes this applies to rulings, not to stories.",
+    "now": "A doctor changes your child's medicine as she grows. A teacher moves you from easy drills to harder ones. Nobody calls that inconsistency. {idea}Allah, who knows us best, guided the first believers step by step.{/idea}",
+    "old": "If a ruling changed, maybe the guidance was not certain.",
+    "new": "Allah moved His servants from one ruling to a better one, with perfect timing.",
+    "try": "Think of one way Allah has eased something in your life over time. Thank Him for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:107", "surah": 2, "ayah": 107, "place": "madinah",
+    "title": "He owns the heavens and earth. You have no other protector.",
+    "subtitle": "Whose decision it is",
+    "picture": {"kind": "boxes", "label": "Who holds what", "row": [
+      {"box": "idea", "title": "the heavens and earth", "sub": ["His dominion"]},
+      {"conn": "and besides Him"},
+      {"box": "plain", "title": "no protector", "sub": []},
+      {"box": "plain", "title": "no helper", "sub": []}]},
+    "key": {"label": "Where I turn", "row": [
+      {"box": "people", "title": "my contacts, my savings", "sub": ["my real protection"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["owner and protector"]}]},
+    "then": "This verse continues the reply about changing rulings. Ibn Kathir: {idea}He alone owns His creation and does with it as He wills.{/idea} He gives health and illness, success and failure, and allows and forbids as He wills. {reward}Besides Him there is no protector and no helper.{/reward}",
+    "now": "The visa is pending. The test results are not back. You refresh your email and call the friend who knows someone. All fine, but {idea}the One who owns the outcome is not in your phone.{/idea} He is closer.",
+    "old": "If I pull enough strings, I can secure this.",
+    "new": "Allah owns everything, so He is the protector I lean on first.",
+    "try": "Before you call anyone about your worry today, make dua about it first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:108", "surah": 2, "ayah": 108, "place": "madinah",
+    "title": "Do not question your Messenger the way Musa was questioned.",
+    "subtitle": "Questions that seek to escape, not to learn",
+    "picture": {"kind": "boxes", "label": "Two kinds of question", "row": [
+      {"box": "idea", "title": "to understand", "sub": ["what was revealed"]},
+      {"box": "trap", "title": "to be difficult", "sub": ["bring us a book from the sky"]},
+      {"conn": "the second leads to"},
+      {"box": "trap", "title": "straying from the way", "sub": []}]},
+    "key": {"label": "The Prophet's ﷺ advice", "row": [
+      {"box": "people", "title": "ask about every what if", "sub": [], "strike": true},
+      {"box": "idea", "title": "do what you can of it", "sub": ["avoid what is forbidden"]}]},
+    "then": "Ibn Abbas said some challenged the Prophet ﷺ: {trap}bring us a book from heaven and make rivers flow, then we will believe.{/trap} The verse compares it to how Musa was questioned. When a man asked if Hajj was every year, the Prophet ﷺ said: {idea}leave me as I leave you. When I command you, do what you can.{/idea}",
+    "now": "Before helping your neighbour you ask: is it obligatory? Does it count if? You want a ruling for every corner before taking one step. {idea}Some questions help you walk. Some are ways of standing still.{/idea}",
+    "old": "I need every detail answered before I commit.",
+    "new": "I can act on what is clear and stop hunting for reasons to delay.",
+    "try": "Notice one question you keep asking to put off a good deed. Drop it and do the deed.",
+    "related": ["5:101", "14:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:109", "surah": 2, "ayah": 109, "place": "madinah",
+    "title": "They wished to turn you back. Pardon and overlook.",
+    "subtitle": "Meeting envy with patience",
+    "picture": {"kind": "boxes", "label": "What the believers faced", "row": [
+      {"box": "trap", "title": "a wish to turn you back", "sub": ["out of envy"]},
+      {"box": "trap", "title": "after truth was clear", "sub": []},
+      {"conn": "the answer"},
+      {"box": "idea", "title": "pardon and overlook", "sub": ["until Allah's command"]}]},
+    "key": {"label": "My response", "row": [
+      {"box": "people", "title": "match their hostility", "sub": [], "strike": true},
+      {"box": "idea", "title": "patience, trust in Allah", "sub": ["He is able"]}]},
+    "then": "The early believers in Madinah faced people who {trap}wished to turn them away from faith, out of envy,{/trap} even though the truth was clear to them. Allah told them to {idea}pardon and overlook until Allah brings His command.{/idea} Usamah bin Zayd said the Prophet ﷺ and his Companions forgave and were patient as told.",
+    "now": "Someone mocks your hijab at work, or your fasting at a family dinner. A cousin keeps saying you have changed, you used to be fun. {idea}You do not have to win every exchange.{/idea} Patience is not weakness; it is trusting that Allah is able.",
+    "old": "If I do not hit back, I will look weak.",
+    "new": "Pardoning and overlooking, while trusting Allah, is strength.",
+    "try": "Next time someone needles you about your faith, answer calmly or let it pass, and say a quiet dua.",
+    "related": ["3:186"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:110", "surah": 2, "ayah": 110, "place": "madinah",
+    "title": "Pray, give, and send good ahead. You will find it with Allah.",
+    "subtitle": "What to do while you wait",
+    "picture": {"kind": "boxes", "label": "Send it ahead", "row": [
+      {"box": "idea", "title": "prayer", "sub": []},
+      {"box": "idea", "title": "zakah", "sub": []},
+      {"box": "idea", "title": "any good", "sub": ["however small"]},
+      {"conn": "found"},
+      {"box": "reward", "title": "with Allah", "sub": ["nothing lost"]}]},
+    "key": {"label": "Where my energy goes", "row": [
+      {"box": "people", "title": "fighting every critic", "sub": [], "strike": true},
+      {"box": "reward", "title": "building with Allah", "sub": []}]},
+    "then": "Right after telling them to pardon and wait, Allah gives them something to do. {idea}Establish prayer, give zakah.{/idea} Ibn Kathir: Allah encouraged them to busy themselves with deeds that benefit them on the Day of Resurrection. {reward}Whatever good you send ahead, you will find it with Allah.{/reward}",
+    "now": "Instead of replying to the troll for the fifth time, close the app and pray two rakahs. Instead of rehearsing the argument in your head, give something to the person collecting outside the mosque. {reward}Nothing you do for Allah is lost, He sees it.{/reward}",
+    "old": "I have to deal with my critics before I can focus.",
+    "new": "The best answer to hostility is to keep sending good deeds ahead.",
+    "try": "Turn one moment of irritation today into two rakahs or a small charity.",
+    "related": ["40:52"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:111", "surah": 2, "ayah": 111, "place": "madinah",
+    "title": "Only we get into Paradise? Bring your proof.",
+    "subtitle": "Wishful thinking about who is saved",
+    "picture": {"kind": "boxes", "label": "The claim", "row": [
+      {"box": "trap", "title": "only our group", "sub": ["enters Paradise"]},
+      {"conn": "called"},
+      {"box": "trap", "title": "their wishes", "sub": ["without basis"]},
+      {"conn": "answered"},
+      {"box": "idea", "title": "bring your proof", "sub": ["if you are truthful"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "belonging to the right group", "sub": [], "strike": true},
+      {"box": "idea", "title": "evidence from Allah", "sub": []}]},
+    "then": "Some said {trap}none will enter Paradise unless he is a Jew or a Christian.{/trap} Abu Al-Aliyah said these were wishes they hoped Allah would grant, with no basis. The Prophet ﷺ was told to answer: {idea}bring your proof, if you are truthful.{/idea}",
+    "now": "We are from a religious family, so we are fine. Our mosque has the right way. Our group is the saved one. {trap}It is comfortable, and it can replace effort.{/trap} {idea}Ask yourself where the proof is for your own safety.{/idea}",
+    "old": "Being in the right group guarantees me Paradise.",
+    "new": "Paradise is not a membership card. I need truth and deeds, not labels.",
+    "try": "Write one thing you assume makes you safe with Allah. Ask: what is my evidence for it?",
+    "related": ["5:18", "3:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:112", "surah": 2, "ayah": 112, "place": "madinah",
+    "title": "Submit your whole self to Allah and do good.",
+    "subtitle": "Sincerity plus doing it right",
+    "picture": {"kind": "boxes", "label": "Two conditions", "row": [
+      {"box": "idea", "title": "submit your face", "sub": ["sincerely, for Allah"]},
+      {"box": "idea", "title": "be a doer of good", "sub": ["following the Messenger ﷺ"]},
+      {"conn": "brings"},
+      {"box": "reward", "title": "reward with your Lord", "sub": ["no fear, no grief"]}]},
+    "key": {"label": "A deed is accepted when", "row": [
+      {"box": "people", "title": "intention is enough", "sub": [], "strike": true},
+      {"box": "idea", "title": "sincere and correct", "sub": ["both together"]}]},
+    "then": "After rejecting the claim, the verse says who is saved: {idea}whoever submits himself to Allah and does good.{/idea} Ibn Kathir: a deed needs two conditions, done for Allah alone and done the way the Messenger ﷺ taught. Such people get {reward}their reward with their Lord, no fear and no grief.{/reward}",
+    "now": "You pray perfectly, but to be seen at the family gathering. Or you mean well, but invent your own way of worship. {idea}Sincerity and the right method, together.{/idea} Then the worry about tomorrow and regret about yesterday both lift.",
+    "old": "As long as my heart is in the right place, the form does not matter.",
+    "new": "A good deed is sincere for Allah and done the way the Prophet ﷺ showed.",
+    "try": "Pick one act of worship you do daily. Check both: why you do it, and how.",
+    "related": ["18:110", "4:142"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:113", "surah": 2, "ayah": 113, "place": "madinah",
+    "title": "Each said the other stands on nothing, both reciting scripture.",
+    "subtitle": "Dismissing others while holding the Book",
+    "picture": {"kind": "boxes", "label": "In front of the Prophet ﷺ", "row": [
+      {"box": "people", "title": "one side", "sub": ["you stand on nothing"]},
+      {"box": "people", "title": "other side", "sub": ["no, you stand on nothing"]},
+      {"conn": "while both"},
+      {"box": "idea", "title": "recite the Book", "sub": []},
+      {"box": "idea", "title": "Allah will judge", "sub": ["on the Day"]}]},
+    "key": {"label": "Who settles it", "row": [
+      {"box": "people", "title": "I decide who is worthless", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah judges the differences", "sub": []}]},
+    "then": "Ibn Abbas said a Christian delegation from Najran came to the Prophet ﷺ, and rabbis came to argue with them. {trap}Each side told the other: you follow nothing.{/trap} Both recited scripture. The verse says those without knowledge say the same, and {idea}Allah will judge between them on the Day of Resurrection.{/idea}",
+    "now": "The comment section under a lecture. One group of Muslims calls another worthless, and they reply in kind. Both quote the Quran. {trap}It feels like defending truth, but often it is ego.{/trap} {idea}Leave the final verdict to Allah, and check your own manners.{/idea}",
+    "old": "Those people have nothing, I am sure of it.",
+    "new": "Allah will judge our differences. My job is to be fair and sincere.",
+    "try": "Before you post a reply in a religious argument online, wait an hour. Then decide if it is needed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:114", "surah": 2, "ayah": 114, "place": "madinah",
+    "title": "None more unjust than one who blocks Allah's name in mosques.",
+    "subtitle": "Keeping people from remembering Allah",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "people", "title": "the mosques", "sub": ["where His name is said"]},
+      {"conn": "they"},
+      {"box": "trap", "title": "blocked people", "sub": ["from worship"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "worked for their ruin", "sub": []}]},
+    "key": {"label": "What keeps a mosque alive", "row": [
+      {"box": "people", "title": "a fine building", "sub": [], "strike": true},
+      {"box": "idea", "title": "remembrance of Allah", "sub": ["and people welcome in it"]}]},
+    "then": "Ibn Zayd and Ibn Abbas said this was about the Quraysh leaders who {trap}stopped the Prophet ﷺ from praying at the Kabah{/trap} and turned him back at Al-Hudaybiyyah. The Prophet ﷺ said no one before had ever been barred from the House. Ibn Kathir: {idea}keeping a mosque alive means remembering Allah in it,{/idea} not only decorating it.",
+    "now": "A newcomer walks into the mosque and gets a stare for her clothes. A teenager is shouted at for his phone and never comes back. A rota fight keeps the doors locked. {trap}We can block people from Allah's house without meaning to.{/trap}",
+    "old": "Mosques are safe as long as no one attacks them.",
+    "new": "Turning people away from Allah's house, even by coldness, is a serious wrong.",
+    "try": "Next time you are at the mosque, greet someone you do not know and make them feel welcome.",
+    "related": ["8:34", "9:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:115", "surah": 2, "ayah": 115, "place": "madinah",
+    "title": "East and west are Allah's. Wherever you turn, there He is.",
+    "subtitle": "Comfort for those cut off from their homeland",
+    "picture": {"kind": "boxes", "label": "Directions", "row": [
+      {"box": "plain", "title": "east", "sub": []},
+      {"box": "plain", "title": "west", "sub": []},
+      {"conn": "both belong to"},
+      {"box": "idea", "title": "Allah", "sub": ["the All-Encompassing"]}]},
+    "key": {"label": "Where Allah is found", "row": [
+      {"box": "people", "title": "only in one place", "sub": ["the place I lost"], "strike": true},
+      {"box": "reward", "title": "wherever you turn", "sub": []}]},
+    "then": "Ibn Kathir says this brought comfort to the Prophet ﷺ and his Companions, {trap}driven out of Makkah and away from the Sacred Mosque.{/trap} Ibn Abbas linked it to the change of qiblah, when some asked why the direction changed. {reward}To Allah belong the east and the west.{/reward} Ibn Umar applied it to voluntary prayer while travelling.",
+    "now": "You moved countries for work. The mosque you grew up in is far away. You pray on a hotel carpet, in an airport corner, in a hospital break room. {reward}Allah is not left behind with the old address.{/reward}",
+    "old": "I feel far from Allah since I left home.",
+    "new": "Allah encompasses every place. Wherever I am, I can turn to Him.",
+    "try": "Wherever you are today, find a quiet corner and pray there with full attention.",
+    "related": ["2:144"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:116", "surah": 2, "ayah": 116, "place": "madinah",
+    "title": "They claimed He has a son. Glory be to Him.",
+    "subtitle": "The Owner of all needs no offspring",
+    "picture": {"kind": "boxes", "label": "The reply", "row": [
+      {"box": "trap", "title": "Allah has a son", "sub": ["the claim"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "all in heavens and earth", "sub": ["belongs to Him"]},
+      {"box": "people", "title": "all obey Him", "sub": ["willingly or not"]}]},
+    "key": {"label": "Why it cannot be", "row": [
+      {"box": "people", "title": "a son shares his father's kind", "sub": []},
+      {"box": "idea", "title": "Allah has no equal", "sub": ["all are His servants"]}]},
+    "then": "Ibn Kathir: everything in the heavens and earth is owned by Allah and is His servant, {idea}so how could one of them be His son?{/idea} He cites the hadith: no one is more patient with hurtful words than Allah; {reward}they attribute a son to Him, yet He still gives them provision and health.{/reward}",
+    "now": "Think of how quickly you cut someone off for one insult. Then think of Allah, insulted with the worst claim, still feeding and healing the people who say it. {reward}His patience is beyond ours.{/reward} Let it make you humbler with people.",
+    "old": "I am entitled to cut off anyone who disrespects me.",
+    "new": "Allah, who owns everything, is patient even with those who wrong Him most.",
+    "try": "Say subhanallah slowly a few times today, and mean that He is above every flaw.",
+    "related": ["6:101", "19:88", "13:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:117", "surah": 2, "ayah": 117, "place": "madinah",
+    "title": "He originated the heavens and earth. He says Be, and it is.",
+    "subtitle": "Creation without a model, without effort",
+    "picture": {"kind": "boxes", "label": "How Allah creates", "row": [
+      {"box": "idea", "title": "Originator", "sub": ["nothing like it before"]},
+      {"conn": "decrees a matter"},
+      {"box": "idea", "title": "Be", "sub": []},
+      {"conn": "and"},
+      {"box": "reward", "title": "it is", "sub": []}]},
+    "key": {"label": "What is hard for Him", "row": [
+      {"box": "people", "title": "my problem is too big", "sub": [], "strike": true},
+      {"box": "idea", "title": "one word: Be", "sub": []}]},
+    "then": "Badi means He created the heavens and earth {idea}when nothing like them existed before.{/idea} Ibn Jarir said Allah also created Isa without a father by the same power. {reward}When He decrees a thing, He only says to it: Be, and it is.{/reward}",
+    "now": "The debt that feels impossible. The marriage that seems stuck. The illness the doctors shrug at. You have been treating it as too big. {reward}For the One who made the sky from nothing, it is one word.{/reward}",
+    "old": "This situation is too big to ever change.",
+    "new": "Nothing is too big for the One who says Be, and it is.",
+    "try": "Make dua today for the thing you have stopped asking for because it felt impossible.",
+    "related": ["6:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

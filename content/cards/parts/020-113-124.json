@@ -1,0 +1,236 @@
+[
+  {
+    "id": "20:113", "surah": 20, "ayah": 113, "place": "makkah",
+    "title": "Warnings repeated in many ways, so they might wake up.",
+    "subtitle": "Why the Quran says it more than once",
+    "picture": {"kind": "boxes", "label": "What the warnings aim for", "row": [
+      {"box": "idea", "title": "clear Arabic", "sub": ["no confusion in it"]},
+      {"box": "people", "title": "varied warnings", "sub": ["told many ways"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "taqwa", "sub": ["leave off sins"]},
+      {"box": "reward", "title": "remembrance", "sub": ["do deeds that bring near"]}]},
+    "key": {"label": "Why repeat it", "row": [
+      {"box": "people", "title": "nagging", "sub": ["heard it already"], "strike": true},
+      {"box": "idea", "title": "care", "sub": ["one of them will reach me"]}]},
+    "then": "Ibn Kathir says the Quran came {idea}as a bringer of glad tidings and a warner, in clear Arabic{/idea}. The warnings are varied so people will {reward}leave off sins{/reward}, or so it will {reward}produce acts of obedience that bring them closer to Allah{/reward}.",
+    "now": "Your mother reminds you for the fifth time to call your grandmother. It feels like nagging. Then one day it lands. {idea}Repetition is how love gets through.{/idea} The Quran repeats for the same reason.",
+    "old": "I have heard this warning before, so I can skip it.",
+    "new": "Allah repeats it in different ways because one of them might finally reach me.",
+    "try": "Next time you read a familiar warning verse, ask: what is it saying to me today?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:114", "surah": 20, "ayah": 114, "place": "makkah",
+    "title": "Do not rush; say: my Lord, increase me in knowledge.",
+    "subtitle": "Listening fully, then asking for more",
+    "picture": {"kind": "boxes", "label": "How to receive it", "row": [
+      {"box": "people", "title": "listen", "sub": ["until Jibril finishes"]},
+      {"conn": "then"},
+      {"box": "people", "title": "recite", "sub": ["after him"]},
+      {"box": "reward", "title": "ask for more", "sub": ["increase me in knowledge"]}]},
+    "key": {"label": "How learning works", "row": [
+      {"box": "trap", "title": "rush to grab it", "sub": ["strain to hold it"], "strike": true},
+      {"box": "idea", "title": "listen, then ask", "sub": ["Allah gathers it for you"]}]},
+    "then": "Ibn Abbas said the Prophet ﷺ {trap}went through great pains to retain the revelation{/trap}, moving his tongue quickly with Jibril. Allah made it easier: listen quietly, and We will gather it in your chest. Ibn Uyaynah said {reward}the Prophet ﷺ kept increasing in knowledge until Allah took him{/reward}.",
+    "now": "You start a course, a hifz plan, a new skill, and try to cram it all in one week. Then you burn out. {idea}Listen, take it in, and keep asking for more.{/idea} Knowledge grows over a lifetime.",
+    "old": "I need to learn everything quickly or I will lose it.",
+    "new": "I can learn calmly, trust Allah to keep it in me, and keep asking for more.",
+    "try": "Say \"Rabbi zidni ilma\" before you study or read anything today.",
+    "related": ["75:16"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:115", "surah": 20, "ayah": 115, "place": "makkah",
+    "title": "Adam was given a promise, and he forgot.",
+    "subtitle": "Forgetting is in the human name",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "a covenant", "sub": ["taken from Adam"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "he forgot", "sub": ["no firm resolve"]}]},
+    "key": {"label": "What forgetting means", "row": [
+      {"box": "trap", "title": "I am broken", "sub": ["I keep slipping"], "strike": true},
+      {"box": "idea", "title": "I am human", "sub": ["insan, the one who forgets"]}]},
+    "then": "Ibn Abbas said {idea}man was named Insan because he was given a covenant, but he forgot it{/idea}. Mujahid and Al-Hasan said \"forgot\" means he abandoned it. Allah found in him {trap}no firm willpower{/trap}. The story of Adam begins with a very human weakness.",
+    "now": "You set a goal on 1 January and by February it is gone. You promise yourself no more late-night scrolling, and there you are at 1am. {idea}Forgetting is part of being human{/idea}. The point is what you do when you remember.",
+    "old": "I keep forgetting my promises, so I must be a bad person.",
+    "new": "Forgetting is human, starting with Adam. Turning back when I remember is what matters.",
+    "try": "Write down one promise to Allah you forgot, and renew it today with one small step.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:116", "surah": 20, "ayah": 116, "place": "makkah",
+    "title": "The angels bowed to Adam, but Iblis refused.",
+    "subtitle": "Where the enmity began",
+    "picture": {"kind": "boxes", "label": "The command", "row": [
+      {"box": "reward", "title": "Adam", "sub": ["honored by Allah"]},
+      {"box": "people", "title": "the angels", "sub": ["prostrated"]},
+      {"box": "trap", "title": "Iblis", "sub": ["refused, arrogant"]}]},
+    "key": {"label": "What blocked Iblis", "row": [
+      {"box": "people", "title": "lack of knowledge", "sub": ["he did not know"], "strike": true},
+      {"box": "trap", "title": "arrogance", "sub": ["he would not bow"]}]},
+    "then": "Ibn Kathir says this shows {reward}how Adam was honored{/reward} and favored over much of creation. The angels prostrated as a sign of honor. {trap}Iblis refused and became arrogant{/trap}. From here began his enmity for Adam and his children.",
+    "now": "A younger colleague gets promoted over you, and something inside refuses to congratulate them. {trap}That refusal to bow to what Allah decided{/trap} is the oldest sin there is. Notice it when it rises.",
+    "old": "I have good reasons for not accepting someone else's honor.",
+    "new": "Refusing what Allah gave someone else is the arrogance of Iblis. I can choose to bow.",
+    "try": "Congratulate one person today on something you secretly envied them for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:117", "surah": 20, "ayah": 117, "place": "makkah",
+    "title": "This is your enemy: do not let him drive you out.",
+    "subtitle": "A clear warning, given in advance",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "trap", "title": "Iblis", "sub": ["enemy to you and your wife"]},
+      {"conn": "wants"},
+      {"box": "trap", "title": "you out", "sub": ["of Paradise"]},
+      {"box": "trap", "title": "toil", "sub": ["tired, worried, working"]}]},
+    "key": {"label": "What was known", "row": [
+      {"box": "people", "title": "a surprise", "sub": ["nobody told them"], "strike": true},
+      {"box": "idea", "title": "named in advance", "sub": ["\"this is your enemy\""]}]},
+    "then": "Allah told Adam: {trap}this is an enemy to you and your wife{/trap}, Hawwa. Ibn Kathir explains: do not be hasty in doing something that gets you expelled, or {trap}you will be tired, uncomfortable and worried, seeking your living{/trap}. In Paradise there was ease.",
+    "now": "You know the exact trigger: the late night, the certain app, the particular friend. {idea}The enemy has been named for you already.{/idea} Knowing his face is half the protection.",
+    "old": "Temptation catches me completely by surprise.",
+    "new": "Allah already named my enemy. I can learn his tricks and stay alert.",
+    "try": "Write down your top trigger for doing wrong, and one plan to avoid it this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:118", "surah": 20, "ayah": 118, "place": "makkah",
+    "title": "Here you will never be hungry or unclothed.",
+    "subtitle": "Inner and outer need, both covered",
+    "picture": {"kind": "boxes", "label": "What Paradise gave", "row": [
+      {"box": "reward", "title": "no hunger", "sub": ["inner humiliation"]},
+      {"box": "reward", "title": "no nakedness", "sub": ["outer humiliation"]}]},
+    "key": {"label": "What he already had", "row": [
+      {"box": "trap", "title": "something missing", "sub": ["I need more"], "strike": true},
+      {"box": "reward", "title": "fully provided", "sub": ["inside and out"]}]},
+    "then": "Ibn Kathir explains Allah {idea}combined hunger and nakedness{/idea} because hunger is an inner humiliation and nakedness an outer one. Adam was told {reward}both were taken care of{/reward}. He lacked nothing, inside or out.",
+    "now": "Your fridge has food. Your wardrobe has clothes. Yet you scroll the sales page feeling like something is missing. {idea}Notice what is already covered{/idea}, before the whisper of \"more\" arrives.",
+    "old": "I will be content once I get the next thing.",
+    "new": "Much of what I need is already given. Seeing that makes me harder to trick.",
+    "try": "Before buying anything non-essential today, name three things you already have.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:119", "surah": 20, "ayah": 119, "place": "makkah",
+    "title": "No thirst there, and no burning sun.",
+    "subtitle": "The other half of the promise",
+    "picture": {"kind": "boxes", "label": "Also given", "row": [
+      {"box": "reward", "title": "no thirst", "sub": ["inner heat"]},
+      {"box": "reward", "title": "no sun's heat", "sub": ["outer heat"]}]},
+    "key": {"label": "Leaving it for what?", "row": [
+      {"box": "reward", "title": "complete ease", "sub": ["hunger, thirst, heat, cover"]},
+      {"conn": "risked for"},
+      {"box": "trap", "title": "one tree", "sub": ["the only limit"]}]},
+    "then": "Ibn Kathir notes these two are also a pair: {idea}thirst is an inner heat, the sun's heat an outer one{/idea}. With this, every basic need was covered. Adam had {reward}complete ease{/reward}, and only one tree was off limits.",
+    "now": "Your marriage is good, your job is fine, your health is okay. Then one forbidden thing starts to look like the only thing that matters. {idea}One small limit can feel bigger than all the gifts.{/idea}",
+    "old": "The one thing I cannot have is the thing I need most.",
+    "new": "I have so much. One limit is not worth risking all of it.",
+    "try": "When one forbidden thing pulls at you today, list five gifts you would risk for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:120", "surah": 20, "ayah": 120, "place": "makkah",
+    "title": "Shall I show you the tree of forever?",
+    "subtitle": "The whisper always offers something bigger",
+    "picture": {"kind": "boxes", "label": "The whisper", "row": [
+      {"box": "trap", "title": "Shaytan", "sub": ["swore he was sincere"]},
+      {"conn": "offers"},
+      {"box": "trap", "title": "eternity", "sub": ["live forever"]},
+      {"box": "trap", "title": "a kingdom", "sub": ["that never fades"]}]},
+    "key": {"label": "How it sounds", "row": [
+      {"box": "trap", "title": "an enemy", "sub": ["obvious, ugly"], "strike": true},
+      {"box": "trap", "title": "a well-wisher", "sub": ["\"I only want good for you\""]}]},
+    "then": "Shaytan whispered to Adam about {trap}the tree of eternity and a kingdom that never decays{/trap}. Ibn Kathir notes another verse where he {trap}swore he was a sincere well-wisher{/trap}. He kept prodding until they ate from it.",
+    "now": "\"This deal will set you up for life.\" \"Just this once, it will make you happy forever.\" \"I am only saying this because I care about you.\" {idea}Temptation rarely sounds like an enemy.{/idea} It sounds like a friend promising forever.",
+    "old": "I would recognise a temptation easily if it came.",
+    "new": "The whisper dresses up as advice and promises what it cannot give.",
+    "try": "When something promises you \"forever\" or \"everything\" today, slow down and question it.",
+    "related": ["7:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:121", "surah": 20, "ayah": 121, "place": "makkah",
+    "title": "They ate, felt exposed, and reached for leaves.",
+    "subtitle": "The first shame after the first slip",
+    "picture": {"kind": "boxes", "label": "What followed", "row": [
+      {"box": "trap", "title": "they ate", "sub": ["both of them"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "exposed", "sub": ["what was covered showed"]},
+      {"box": "people", "title": "leaves", "sub": ["patched as a garment"]}]},
+    "key": {"label": "What the promise gave", "row": [
+      {"box": "trap", "title": "eternity", "sub": ["what was promised"], "strike": true},
+      {"box": "trap", "title": "shame", "sub": ["what actually came"]}]},
+    "then": "Adam and his wife ate, and {trap}what had been covered became exposed{/trap}. Mujahid said they {idea}patched the leaves on themselves like a garment{/idea}. Adam disobeyed his Lord and erred. The promised kingdom turned out to be shame.",
+    "now": "The moment after: closing the tab, deleting the message, feeling hot in the face. {trap}The promise was pleasure; the result is wanting to hide.{/trap} That feeling is not the end. Look at the next verse.",
+    "old": "After I slip, all I can do is hide and cover it up.",
+    "new": "Shame after a slip is real. Adam's story shows it is not the last chapter.",
+    "try": "After your next slip, do not hide it from Allah. Tell Him what you did in plain words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:122", "surah": 20, "ayah": 122, "place": "makkah",
+    "title": "Then his Lord chose him, forgave him, and guided him.",
+    "subtitle": "The slip was not the end of Adam",
+    "picture": {"kind": "boxes", "label": "After the slip", "row": [
+      {"box": "reward", "title": "chose him", "sub": []},
+      {"box": "reward", "title": "turned to him", "sub": ["with forgiveness"]},
+      {"box": "reward", "title": "guided him", "sub": []}]},
+    "key": {"label": "What defines Adam", "row": [
+      {"box": "trap", "title": "his mistake", "sub": ["the tree"], "strike": true},
+      {"box": "reward", "title": "being chosen", "sub": ["forgiven and guided"]}]},
+    "then": "Right after \"Adam disobeyed\" comes {reward}then his Lord chose him, turned to him with forgiveness, and guided him{/reward}. Ibn Kathir cites the hadith where Musa blamed Adam, and Adam answered that {idea}it had been written for him before he was created{/idea}.",
+    "now": "You made a mistake that everyone in your family still brings up. You feel defined by it. {reward}Allah's last word on Adam was not the tree.{/reward} It was chosen, forgiven, guided.",
+    "old": "My worst mistake is who I am.",
+    "new": "Allah can choose me, forgive me and guide me after my worst slip.",
+    "try": "Make sincere tawbah tonight for one mistake you feel defined by, and then let it rest.",
+    "related": ["2:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:123", "surah": 20, "ayah": 123, "place": "makkah",
+    "title": "Follow My guidance: no going astray, no misery.",
+    "subtitle": "The promise given at the descent",
+    "picture": {"kind": "boxes", "label": "Down to earth", "row": [
+      {"box": "trap", "title": "enemies", "sub": ["Adam's line and Iblis's"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "guidance comes", "sub": ["prophets and proofs"]},
+      {"box": "reward", "title": "no misguidance", "sub": ["no distress after"]}]},
+    "key": {"label": "What earth means", "row": [
+      {"box": "trap", "title": "abandoned", "sub": ["exiled and alone"], "strike": true},
+      {"box": "reward", "title": "guided", "sub": ["help keeps coming"]}]},
+    "then": "Allah sent Adam, Hawwa and Iblis down, {trap}some of you enemies to others{/trap}. Then the promise: guidance will come. Abu Al-Aliyah said that means {idea}the Prophets, the Messengers and the evidence{/idea}. Ibn Abbas said the follower {reward}will not be misguided here or distressed in the Hereafter{/reward}.",
+    "now": "Life on earth is the office politics, the traffic, the family fights. It is not Paradise. But {idea}guidance was promised for exactly this place{/idea}, and you are holding it in your hand right now.",
+    "old": "Life here is just hard and I am on my own.",
+    "new": "Allah sent guidance for this hard place. Following it keeps me from getting lost.",
+    "try": "Pick one verse from this surah and live by it for the rest of the day.",
+    "related": ["2:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:124", "surah": 20, "ayah": 124, "place": "makkah",
+    "title": "Turn from My remembrance, and life gets tight.",
+    "subtitle": "Comfort outside, tightness inside",
+    "picture": {"kind": "boxes", "label": "A narrow life", "row": [
+      {"box": "people", "title": "outside", "sub": ["eats, wears, lives as he likes"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "inside", "sub": ["confused, unsettled, tight"]}]},
+    "key": {"label": "Where hardship lives", "row": [
+      {"box": "people", "title": "in my bank", "sub": ["money fixes it"], "strike": true},
+      {"box": "idea", "title": "in my chest", "sub": ["remembrance widens it"]}]},
+    "then": "Ibn Kathir explains a life of hardship means {trap}no tranquillity and no ease in the chest{/trap}. Even if he looks comfortable, eating and wearing what he likes, {trap}his heart is in agitation and doubt{/trap}. Mujahid said being raised blind means having no proof.",
+    "now": "Nice flat, good salary, holidays twice a year, and still that heavy feeling on Sunday nights. {idea}Tightness of chest is not fixed by more stuff.{/idea} Remembering Allah is what widens it.",
+    "old": "If I had more money and comfort, I would feel at peace.",
+    "new": "Peace lives in the chest, and it comes from remembering Allah.",
+    "try": "When you feel that tightness today, stop and do two minutes of dhikr.",
+    "related": ["17:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

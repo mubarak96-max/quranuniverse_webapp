@@ -1,0 +1,702 @@
+[
+  {
+    "id": "93:1",
+    "surah": 93,
+    "ayah": 1,
+    "place": "makkah",
+    "title": "By the bright morning, after a hard silence.",
+    "subtitle": "An oath that opens a message of comfort",
+    "picture": {
+      "kind": "boxes",
+      "label": "What had happened",
+      "row": [
+        {
+          "box": "people",
+          "title": "revelation paused",
+          "sub": [
+            "for some days"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "the forenoon",
+          "sub": [
+            "and the light in it"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What the pause meant",
+      "row": [
+        {
+          "box": "trap",
+          "title": "he has been abandoned",
+          "sub": [
+            "what mockers said"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "morning still comes",
+          "sub": [
+            "the oath answers them"
+          ]
+        }
+      ]
+    },
+    "then": "Jibril was slow in coming for a time, and the Prophet ﷺ was affected by it. {trap}The idolaters said: his Lord has abandoned him.{/trap} This surah came in reply. Allah swears by {reward}the forenoon and the light He placed in it{/reward}.",
+    "now": "You prayed for weeks about something and heard nothing. Someone even said, maybe God is not listening to you. {reward}The surah opens with morning light{/reward}, the thing that always comes back after the dark.",
+    "old": "When my prayers feel unanswered, it means I have been left.",
+    "new": "A quiet stretch is not a goodbye; the morning still comes.",
+    "try": "Tomorrow, step into the morning light for a minute and remember a prayer that was answered.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:2",
+    "surah": 93,
+    "ayah": 2,
+    "place": "makkah",
+    "title": "And by the night, when it settles still.",
+    "subtitle": "Darkness that rests, not darkness that ends",
+    "picture": {
+      "kind": "boxes",
+      "label": "The second oath",
+      "row": [
+        {
+          "box": "people",
+          "title": "the night",
+          "sub": [
+            "settles, darkens"
+          ]
+        },
+        {
+          "conn": "after"
+        },
+        {
+          "box": "reward",
+          "title": "the morning",
+          "sub": []
+        }
+      ]
+    },
+    "key": {
+      "label": "What night is for",
+      "row": [
+        {
+          "box": "trap",
+          "title": "punishment",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "rest",
+          "sub": [
+            "appointed for stillness"
+          ]
+        }
+      ]
+    },
+    "then": "Mujahid, Qatadah and others said the night here {idea}settles, darkens and covers{/idea}. Ibn Kathir says light and dark both prove the power of their Creator. He cites: {idea}He appointed the night for resting{/idea}.",
+    "now": "A slow season at work, or a dry patch in your worship, feels like a punishment. {idea}Nights are not punishments. They are pauses.{/idea} The same Hand that brings the night brings the morning.",
+    "old": "A dark season means something has gone wrong.",
+    "new": "The night is made by the same Lord as the morning, and it has its own purpose.",
+    "try": "Tonight, rest on purpose. Put the phone away early and sleep.",
+    "related": [
+      "92:1",
+      "6:96"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:3",
+    "surah": 93,
+    "ayah": 3,
+    "place": "makkah",
+    "title": "Your Lord has not left you, and He is not angry.",
+    "subtitle": "The direct answer to the fear",
+    "picture": {
+      "kind": "boxes",
+      "label": "What the mockers claimed",
+      "row": [
+        {
+          "box": "trap",
+          "title": "abandoned",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "hated",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "conn": "answered by"
+        },
+        {
+          "box": "reward",
+          "title": "neither",
+          "sub": [
+            "not left, not hated"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Silence is not anger",
+      "row": [
+        {
+          "box": "trap",
+          "title": "pause = displeasure",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "pause = care",
+          "sub": [
+            "a time to rest"
+          ]
+        }
+      ]
+    },
+    "then": "Jundub reported that when the Prophet ﷺ was ill and did not stand for prayer for a night or two, a woman mocked him. {reward}Allah replied: your Lord has neither forsaken you nor hates you.{/reward} The introduction says the pause gave him rest, {idea}not a sign of displeasure{/idea}.",
+    "now": "You slipped up, then things got hard, and you decided Allah was angry and gone. {reward}This verse was said to the most beloved person to Allah, at his lowest moment.{/reward} The fear you feel is not proof.",
+    "old": "If life gets heavy, Allah must be displeased with me.",
+    "new": "Allah's silence for a while is not His leaving, and hardship is not His hatred.",
+    "try": "Say this verse's meaning out loud to yourself once today: my Lord has not left me.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:4",
+    "surah": 93,
+    "ayah": 4,
+    "place": "makkah",
+    "title": "What comes later is better than what is now.",
+    "subtitle": "The Hereafter is better than this first life",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two homes",
+      "row": [
+        {
+          "box": "people",
+          "title": "this world",
+          "sub": [
+            "shade of a tree"
+          ]
+        },
+        {
+          "conn": "is less than"
+        },
+        {
+          "box": "reward",
+          "title": "the Hereafter",
+          "sub": [
+            "better for you"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How he lived it",
+      "row": [
+        {
+          "box": "people",
+          "title": "soft mattress",
+          "sub": [
+            "offered to him"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a rider resting",
+          "sub": [
+            "then moving on"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Mas'ud saw the straw mat leave marks on the Prophet's ﷺ side and offered something soft. He said: {idea}the parable of me and this world is like a rider who rests in the shade of a tree, then passes on{/idea}. {reward}He chose what is with Allah.{/reward}",
+    "now": "You scroll through house listings and holiday photos, and your own life looks small. {idea}You are a rider under a tree.{/idea} The shade is good. It is not where you are going.",
+    "old": "This life is the main event.",
+    "new": "This life is the shade on the road; what is ahead is better.",
+    "try": "When you feel envy today, say quietly: what is with Allah is better.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:5",
+    "surah": 93,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "Your Lord will give you until you are satisfied.",
+    "subtitle": "A promise of generosity, not a bare minimum",
+    "picture": {
+      "kind": "boxes",
+      "label": "The promise",
+      "row": [
+        {
+          "box": "idea",
+          "title": "your Lord",
+          "sub": []
+        },
+        {
+          "conn": "will give"
+        },
+        {
+          "box": "reward",
+          "title": "until pleased",
+          "sub": [
+            "for him and his followers"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How much",
+      "row": [
+        {
+          "box": "people",
+          "title": "just enough",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "until satisfied",
+          "sub": [
+            "from His generosity"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says Allah will give him {reward}until He pleases him concerning his followers{/reward}, and from what He has prepared for him, including Al-Kawthar. When this was said, he had almost nothing. The introduction calls it {idea}a prophecy that came literally true{/idea}.",
+    "now": "You are in the hard first years: the small flat, the junior job, the bills. {reward}This verse was said to someone with far less.{/reward} Allah's giving is not measured in what you can see right now.",
+    "old": "Things will probably always be about this hard.",
+    "new": "Allah's promise is to give until I am content, even when I cannot see how.",
+    "try": "Write down one hope you have stopped asking for. Ask for it again tonight.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:6",
+    "surah": 93,
+    "ayah": 6,
+    "place": "makkah",
+    "title": "You were an orphan, and He gave you a home.",
+    "subtitle": "Looking back to see who was caring for you",
+    "picture": {
+      "kind": "boxes",
+      "label": "Who sheltered him",
+      "row": [
+        {
+          "box": "people",
+          "title": "father died",
+          "sub": [
+            "before his birth"
+          ]
+        },
+        {
+          "box": "people",
+          "title": "mother died",
+          "sub": [
+            "when he was six"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "grandfather, uncle",
+          "sub": [
+            "by Allah's decree"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Read your past again",
+      "row": [
+        {
+          "box": "trap",
+          "title": "I was on my own",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "I was sheltered",
+          "sub": [
+            "every step"
+          ]
+        }
+      ]
+    },
+    "then": "His father died before he was born, his mother {idea}Aminah{/idea} when he was six. His grandfather Abdul-Muttalib took him in, then his uncle {reward}Abu Talib{/reward}, who protected him for decades. Ibn Kathir calls all this Allah's protection and care.",
+    "now": "You remember the hard year: the move, the loss, the lonely school. Then you remember the teacher who noticed you, the aunt who took you in. {reward}You were never as alone as it felt.{/reward}",
+    "old": "Nobody was looking out for me back then.",
+    "new": "Looking back, Allah kept sending someone to shelter me.",
+    "try": "Think of one person who sheltered you when you were young. Send them a thank-you message.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:7",
+    "surah": 93,
+    "ayah": 7,
+    "place": "makkah",
+    "title": "You did not know the way, and He guided you.",
+    "subtitle": "Guidance that came as a gift",
+    "picture": {
+      "kind": "boxes",
+      "label": "Before and after",
+      "row": [
+        {
+          "box": "people",
+          "title": "unaware",
+          "sub": [
+            "of the Book and faith"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "guided",
+          "sub": [
+            "by revelation"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Where guidance came from",
+      "row": [
+        {
+          "box": "people",
+          "title": "I figured it out",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "it was given",
+          "sub": [
+            "a light from Allah"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir links this to the verse: {idea}you knew not what is the Book, nor what is faith{/idea}, but We made it a light. Before revelation the Prophet ﷺ did not have this knowledge. {reward}Allah gave it.{/reward}",
+    "now": "You remember who you were before you started praying, or before you came back to it. You did not reason your way there alone. {reward}Something opened a door.{/reward} That opening was a gift.",
+    "old": "My faith is something I worked out by myself.",
+    "new": "Whatever guidance I have was given to me, and I can thank Him for it.",
+    "try": "Recall the moment faith first meant something to you, and thank Allah for it in sujood.",
+    "related": [
+      "42:52"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:8",
+    "surah": 93,
+    "ayah": 8,
+    "place": "makkah",
+    "title": "You were in need, and He made you enough.",
+    "subtitle": "Poverty, then richness of the soul",
+    "picture": {
+      "kind": "boxes",
+      "label": "His two states",
+      "row": [
+        {
+          "box": "people",
+          "title": "poor",
+          "sub": [
+            "and patient"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "made rich",
+          "sub": [
+            "and thankful"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What wealth really is",
+      "row": [
+        {
+          "box": "people",
+          "title": "lots of things",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "a rich soul",
+          "sub": [
+            "content with what is given"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says Allah {reward}made him independent of all others besides Him{/reward}, so he knew both being poor and patient, and wealthy and thankful. The Prophet ﷺ said: {idea}wealth is the richness of the soul{/idea}.",
+    "now": "You compare your salary to a friend's and feel poor, though your fridge is full and your rent is paid. {idea}The verse points at a different kind of enough.{/idea} {reward}A soul that is content is rich.{/reward}",
+    "old": "I will feel secure once I have more.",
+    "new": "Real wealth is a soul made content by Allah, whatever the account says.",
+    "try": "List three things you already have that you once prayed for.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:9",
+    "surah": 93,
+    "ayah": 9,
+    "place": "makkah",
+    "title": "You were an orphan, so never crush an orphan.",
+    "subtitle": "Turning what you received into how you treat others",
+    "picture": {
+      "kind": "boxes",
+      "label": "The response",
+      "row": [
+        {
+          "box": "reward",
+          "title": "you were sheltered",
+          "sub": [
+            "verse 6"
+          ]
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "idea",
+          "title": "be gentle",
+          "sub": [
+            "to the orphan"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How to treat them",
+      "row": [
+        {
+          "box": "trap",
+          "title": "scorn, humiliate",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "a merciful father",
+          "sub": [
+            "Qatadah's words"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir: {idea}just as you were an orphan and Allah sheltered you, do not oppress the orphan{/idea}. Do not humiliate, scorn or despise him; be kind and gentle. Qatadah said: {reward}be like a merciful father to the orphan{/reward}.",
+    "now": "There is a kid in your child's class whose dad is gone. At the birthday party he hangs back. {reward}You can be the adult who notices him.{/reward} The kindness you got once is meant to pass through you.",
+    "old": "Other people's kids are not my responsibility.",
+    "new": "The care I received is meant to pass through me to someone without it.",
+    "try": "Do one kind thing this week for a child who has lost a parent, or give to an orphan fund.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:10",
+    "surah": 93,
+    "ayah": 10,
+    "place": "makkah",
+    "title": "Do not push away the one who asks.",
+    "subtitle": "Whether they ask for help or for knowledge",
+    "picture": {
+      "kind": "boxes",
+      "label": "The response",
+      "row": [
+        {
+          "box": "reward",
+          "title": "you were guided",
+          "sub": [
+            "verse 7"
+          ]
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "idea",
+          "title": "do not repel",
+          "sub": [
+            "the one asking"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Two kinds of askers",
+      "row": [
+        {
+          "box": "people",
+          "title": "asks for knowledge",
+          "sub": [
+            "seeking guidance"
+          ]
+        },
+        {
+          "box": "people",
+          "title": "asks for help",
+          "sub": [
+            "the poor, the weak"
+          ]
+        },
+        {
+          "conn": "meet both with"
+        },
+        {
+          "box": "reward",
+          "title": "mercy",
+          "sub": [
+            "and gentleness"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir: just as you were unaware and guided, {idea}do not scorn the one who asks for knowledge{/idea}. Ibn Ishaq said do not be arrogant or mean to the weak. Qatadah said: {reward}respond to the poor with mercy and gentleness{/reward}.",
+    "now": "A new colleague asks the same basic question twice. A man asks for change outside the station. Your first reflex is a sigh. {reward}You can say no kindly, or yes gently, but not with a shove.{/reward}",
+    "old": "Some questions and requests are just annoying.",
+    "new": "The one asking me is a chance to pass on what I was given.",
+    "try": "Next time someone asks you something today, answer slowly and kindly.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "93:11",
+    "surah": 93,
+    "ayah": 11,
+    "place": "makkah",
+    "title": "Speak about your Lord's blessing on you.",
+    "subtitle": "Gratitude that is said out loud",
+    "picture": {
+      "kind": "boxes",
+      "label": "The response",
+      "row": [
+        {
+          "box": "reward",
+          "title": "you were made rich",
+          "sub": [
+            "verse 8"
+          ]
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "idea",
+          "title": "tell of it",
+          "sub": [
+            "the favor of your Lord"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Two ways to hold a blessing",
+      "row": [
+        {
+          "box": "trap",
+          "title": "hide it",
+          "sub": [
+            "a kind of ingratitude"
+          ]
+        },
+        {
+          "box": "reward",
+          "title": "mention it",
+          "sub": [
+            "a kind of thanks"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir: just as you were poor and Allah made you rich, {idea}tell about Allah's favor upon you{/idea}. The Prophet ﷺ said: {reward}whoever is not thankful to people is not thankful to Allah{/reward}.",
+    "now": "Someone asks how you are and you say \"fine, tired, busy.\" Your child is healthy, you have work, you got through a hard year. {reward}You could say alhamdulillah and mean it.{/reward} Not a brag. A thank-you.",
+    "old": "Talking about my blessings sounds like showing off.",
+    "new": "Mentioning Allah's favor with humility is a way of thanking Him.",
+    "try": "Tell one person today about something good Allah gave you, and thank someone who helped.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  }
+]

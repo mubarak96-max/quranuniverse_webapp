@@ -1,0 +1,253 @@
+[
+  {
+    "id": "2:71", "surah": 2, "ayah": 71, "place": "madinah",
+    "title": "Any cow would have done. They asked until it was rare.",
+    "subtitle": "How extra questions made a simple command heavy",
+    "picture": {"kind": "boxes", "label": "How the command grew", "row": [
+      {"box": "idea", "title": "slaughter a cow", "sub": ["any cow at all"]},
+      {"conn": "they asked"},
+      {"box": "people", "title": "age? colour? use?", "sub": ["three rounds of questions"]},
+      {"conn": "became"},
+      {"box": "trap", "title": "one rare cow", "sub": ["hard to find, costly"]}]},
+    "key": {"label": "What the questions were for", "row": [
+      {"box": "people", "title": "we just want clarity", "sub": ["to be sure we get it right"], "strike": true},
+      {"box": "trap", "title": "delay", "sub": ["they nearly did not do it"]}]},
+    "then": "Musa told his people to slaughter a cow. Ibn Abbas said {idea}any cow would have been enough.{/idea} They kept asking about its age, its colour, its work. Each answer narrowed it. In the end they did it, but {trap}they almost did not.{/trap}",
+    "now": "You know the thing you should do. Call your mother. Start the prayer. Apologise. Instead you ask: what is the exact rule, what if, which way is best. You read three more articles on your phone. {trap}The questions become the reason it never happens.{/trap}",
+    "old": "I just need a few more details before I start.",
+    "new": "Sometimes my questions are a way of not doing what I already know.",
+    "try": "Pick one clear good thing you have been researching instead of doing. Do the simplest version today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:72", "surah": 2, "ayah": 72, "place": "madinah",
+    "title": "They hid a killing. Allah was going to bring it out.",
+    "subtitle": "The real reason behind the cow",
+    "picture": {"kind": "boxes", "label": "What happened first", "row": [
+      {"box": "trap", "title": "a man killed", "sub": ["no one admits it"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you killed him", "sub": ["no, you did"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah brings it out", "sub": ["what was hidden"]}]},
+    "key": {"label": "The hiding", "row": [
+      {"box": "people", "title": "if no one knows, it is buried", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah brings it out", "sub": ["hidden things surface"]}]},
+    "then": "A man was killed among the Children of Israel and no one would own it. {trap}Some said: you killed him. Others said: no, you did.{/trap} The verse names the real point of the whole cow story: {idea}Allah was going to bring out what they were hiding.{/idea}",
+    "now": "Something went missing at work and you know who took it. Or you are the one who broke the thing and let the blame float around the family. Everyone points sideways. {idea}Hidden things have a way of coming out.{/idea} Better that you bring it out first.",
+    "old": "If nobody can prove it, it stays buried.",
+    "new": "What I hide is already known, and Allah can bring it into the open.",
+    "try": "If you have let someone else carry blame for something small you did, tell them today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:73", "surah": 2, "ayah": 73, "place": "madinah",
+    "title": "A piece of the cow touched the dead man. He spoke.",
+    "subtitle": "A small sign of the great rising",
+    "picture": {"kind": "boxes", "label": "The sign", "row": [
+      {"box": "people", "title": "the slain man", "sub": ["killer unknown"]},
+      {"conn": "struck with"},
+      {"box": "plain", "title": "part of the cow", "sub": ["which part, not told"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "he lived", "sub": ["and named his killer"]}]},
+    "key": {"label": "What it points to", "row": [
+      {"box": "people", "title": "a one time wonder", "sub": ["a story about then"], "strike": true},
+      {"box": "idea", "title": "the dead will rise", "sub": ["so you might reason"]}]},
+    "then": "They struck the dead man with part of the cow and he came back to life. Ibn Kathir notes we are not told which part, because it does not help us. The point is bigger: {idea}this is how Allah brings the dead to life.{/idea} He lists five such scenes in this surah, all pointing to {reward}the Resurrection.{/reward}",
+    "now": "You stand by a grave after a funeral. Dust, silence, the car park. It feels final. Then spring comes and the bare tree outside your window is green again. {idea}Bringing back is not hard for the One who made it the first time.{/idea}",
+    "old": "Death looks like the end of the story.",
+    "new": "Every sign of life returning is a small rehearsal of the Day the dead rise.",
+    "try": "Next time you see a plant regrow or rain on dry ground, stop and think of the Resurrection for a moment.",
+    "related": ["36:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:74", "surah": 2, "ayah": 74, "place": "madinah",
+    "title": "Some stones soften. Their hearts did not.",
+    "subtitle": "A heart can get harder than rock",
+    "picture": {"kind": "boxes", "label": "What stones do", "row": [
+      {"box": "reward", "title": "rivers burst out", "sub": ["from some stones"]},
+      {"box": "reward", "title": "water seeps out", "sub": ["from cracked stones"]},
+      {"box": "reward", "title": "they fall down", "sub": ["in awe of Allah"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "their hearts", "sub": ["harder still"]}]},
+    "key": {"label": "After the sign", "row": [
+      {"box": "people", "title": "seeing a miracle softens you", "sub": [], "strike": true},
+      {"box": "trap", "title": "hearts hardened after it", "sub": ["seeing is not enough"]}]},
+    "then": "They had just seen a dead man stand up and speak. Ibn Abbas said his relatives still denied killing him. {trap}After that, their hearts hardened.{/trap} The verse compares them to stone, then reminds that {idea}even stones split, let water out, and fall in awe of Allah.{/idea}",
+    "now": "You heard a talk that made you cry. A week later you are back to the same scrolling, the same sharp words to your spouse. Then another reminder, and you feel it less. {trap}Hardness grows slowly.{/trap} The Quran later warns believers: has the time not come for hearts to soften?",
+    "old": "I have heard all this before, it does not move me anymore.",
+    "new": "If nothing moves me, that is a warning sign about my heart, not proof I know enough.",
+    "try": "Read one verse slowly today and stay with it until something in you responds.",
+    "related": ["57:16", "33:72", "17:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:75", "surah": 2, "ayah": 75, "place": "madinah",
+    "title": "They understood the words, then bent them anyway.",
+    "subtitle": "Why knowing is not the same as accepting",
+    "picture": {"kind": "boxes", "label": "What some did with the Book", "row": [
+      {"box": "people", "title": "heard Allah's words", "sub": []},
+      {"conn": "then"},
+      {"box": "idea", "title": "understood them", "sub": ["clearly"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "distorted them", "sub": ["knowingly"]}]},
+    "key": {"label": "The hard part", "row": [
+      {"box": "people", "title": "they just did not know", "sub": [], "strike": true},
+      {"box": "trap", "title": "they knew", "sub": ["and changed it anyway"]}]},
+    "then": "The believers in Madinah hoped the scholars around them would accept Islam. The verse lowers that hope. {trap}A party of them heard Allah's words, understood them, and changed their meaning while they knew.{/trap} Ibn Zayd said some would twist rulings for whoever paid.",
+    "now": "You know what the verse says about honesty in trade. Then a deal comes and you find a reading that lets you off. Or you quote the part of a hadith that suits your argument in the family group chat. {trap}Bending is easier when you already understand.{/trap}",
+    "old": "I know what it really means, I am just reading it flexibly.",
+    "new": "Twisting a clear meaning to suit me is worse than not knowing it at all.",
+    "try": "Think of one teaching you tend to stretch in your favour. Read it again as plainly as you can.",
+    "related": ["5:13", "2:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:76", "surah": 2, "ayah": 76, "place": "madinah",
+    "title": "One face in public, another in private.",
+    "subtitle": "Hiding the truth so you cannot be held to it",
+    "picture": {"kind": "boxes", "label": "Two rooms", "row": [
+      {"box": "people", "title": "with the believers", "sub": ["we believe"]},
+      {"conn": "but alone"},
+      {"box": "trap", "title": "with each other", "sub": ["do not tell them"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "no proof against us", "sub": ["before your Lord"]}]},
+    "key": {"label": "What they feared", "row": [
+      {"box": "people", "title": "losing the argument", "sub": [], "strike": true},
+      {"box": "idea", "title": "the truth itself", "sub": ["was the real problem"]}]},
+    "then": "Some of them said we believe when they met the Muslims. {trap}In private they warned each other: do not share what Allah opened for you in your Book,{/trap} or it will be used against you before your Lord. Ibn Abbas said this was about the coming Prophet ﷺ foretold in their Book.",
+    "now": "In the meeting you agree with the plan. In the corridor you tell a colleague it is nonsense. Or you know the facts that would settle a family dispute, but you keep them back because they hurt your side. {idea}Hiding the truth does not change it.{/idea}",
+    "old": "What I say in private is my own business.",
+    "new": "Truth I hide to win an argument still stands as witness against me.",
+    "try": "Next time you notice your private words contradict your public ones, choose one and make them match.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:77", "surah": 2, "ayah": 77, "place": "madinah",
+    "title": "Did they forget Allah was in both rooms?",
+    "subtitle": "The private room is not private",
+    "picture": {"kind": "boxes", "label": "What Allah knows", "row": [
+      {"box": "trap", "title": "what they conceal", "sub": ["the private talk"]},
+      {"box": "people", "title": "what they declare", "sub": ["we believe"]},
+      {"conn": "both known to"},
+      {"box": "idea", "title": "Allah", "sub": ["equally"]}]},
+    "key": {"label": "The question", "row": [
+      {"box": "people", "title": "keep it off the record", "sub": [], "strike": true},
+      {"box": "idea", "title": "there is no off the record", "sub": []}]},
+    "then": "After quoting their private warning to each other, the verse asks one short question. {idea}Do they not know that Allah knows what they hide and what they show?{/idea} Al-Hasan said the hidden part was what they said when alone, away from the Companions.",
+    "now": "You delete the message. You lower your voice. You close the office door before saying it. You plan so carefully what people will see. {idea}Allah is already in the room, before you shut the door.{/idea}",
+    "old": "As long as no one hears, it does not count.",
+    "new": "Allah hears the private version as clearly as the public one.",
+    "try": "Before your next private conversation about someone, ask: would I say this if they could hear?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:78", "surah": 2, "ayah": 78, "place": "madinah",
+    "title": "They did not know the Book, only their hopes about it.",
+    "subtitle": "Religion built on guesses",
+    "picture": {"kind": "boxes", "label": "What they held", "row": [
+      {"box": "people", "title": "the unlettered ones", "sub": ["did not read the Book"]},
+      {"conn": "held"},
+      {"box": "trap", "title": "wishful thinking", "sub": ["comforting claims"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "guesses", "sub": ["about Allah"]}]},
+    "key": {"label": "Their footing", "row": [
+      {"box": "people", "title": "I know my religion", "sub": ["from what people say"], "strike": true},
+      {"box": "idea", "title": "know the Book itself", "sub": ["not only wishes"]}]},
+    "then": "After the scholars who twisted the Book, the verse names another group. {trap}They could not read it and knew only wishes and guesses.{/trap} Mujahid said they did not understand what came to Musa, yet spoke falsehood. Qatadah said they held wrong ideas about Allah.",
+    "now": "Much of what you believe came from a forward on your phone, an uncle at a wedding, a clip with dramatic music. Some of it is true. Some is wishful. {idea}You have the Book itself, in your own language, a tap away.{/idea}",
+    "old": "I know enough about my faith from what I have picked up.",
+    "new": "What I picked up may be hope dressed as knowledge. I can check the source.",
+    "try": "Take one belief you heard secondhand and look it up in the Quran or a trusted teacher today.",
+    "related": ["29:48", "62:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:79", "surah": 2, "ayah": 79, "place": "madinah",
+    "title": "They wrote it themselves and sold it as Allah's word.",
+    "subtitle": "Putting Allah's name on your own words",
+    "picture": {"kind": "boxes", "label": "The trade", "row": [
+      {"box": "trap", "title": "write it by hand", "sub": ["their own words"]},
+      {"conn": "label it"},
+      {"box": "trap", "title": "this is from Allah", "sub": []},
+      {"conn": "for"},
+      {"box": "reward", "title": "a small price", "sub": ["this world"]}]},
+    "key": {"label": "What it cost them", "row": [
+      {"box": "reward", "title": "a little profit", "sub": ["what they earned"], "strike": true},
+      {"box": "trap", "title": "woe twice over", "sub": ["for writing, for earning"]}]},
+    "then": "A third group did worse. {trap}They wrote their own words and said: this is from Allah,{/trap} to sell it for a small price. Al-Hasan said the small price is this world and all it holds. Ibn Abbas told Muslims not to ask such people, since {idea}they had the Quran, fresh and unchanged.{/idea}",
+    "now": "You want people to do something, so you say Islam requires it, though you are not sure. You want to win a family argument, so you invent a hadith. {trap}Putting Allah's name on your own opinion is a heavy thing.{/trap} Say I think, when you only think.",
+    "old": "It is fine to say Islam says so if it helps people behave.",
+    "new": "Claiming Allah said what He did not say is one of the gravest lies.",
+    "try": "Next time you are tempted to say Islam says, check if you are sure. If not, say I think instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:80", "surah": 2, "ayah": 80, "place": "madinah",
+    "title": "We will only burn a few days. Says who?",
+    "subtitle": "A comfortable claim with no promise behind it",
+    "picture": {"kind": "boxes", "label": "Their claim", "row": [
+      {"box": "trap", "title": "only a few days", "sub": ["then we are out"]},
+      {"conn": "asked"},
+      {"box": "idea", "title": "did Allah promise you?", "sub": ["He keeps promises"]},
+      {"conn": "or"},
+      {"box": "trap", "title": "you speak without knowing", "sub": []}]},
+    "key": {"label": "The test of a claim", "row": [
+      {"box": "people", "title": "I feel safe", "sub": [], "strike": true},
+      {"box": "idea", "title": "where is the covenant?", "sub": ["show the promise"]}]},
+    "then": "Some claimed the Fire would touch them only for a few counted days. Ibn Abbas reported they said forty. The Prophet ﷺ was told to ask: {idea}did you take a covenant from Allah?{/idea} If so, He never breaks it. {trap}If not, you are saying about Allah what you do not know.{/trap}",
+    "now": "I pray sometimes, I am from a good family, I will be fine. It is the voice that lets you skip the hard change today. {idea}Ask it the same question: who promised you that?{/idea} Real hope is built on what Allah actually said.",
+    "old": "I will be fine in the end, whatever I do.",
+    "new": "My hope should rest on what Allah promised, not on what I assume about myself.",
+    "try": "Write down one easy assumption you make about your fate. Ask honestly where that promise came from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:81", "surah": 2, "ayah": 81, "place": "madinah",
+    "title": "Not wishes but deeds: sin can surround a person.",
+    "subtitle": "How small wrongs pile up into a cage",
+    "picture": {"kind": "boxes", "label": "How it closes in", "row": [
+      {"box": "trap", "title": "earns a wrong", "sub": ["one at a time"]},
+      {"conn": "keeps on"},
+      {"box": "trap", "title": "sin surrounds him", "sub": ["no repentance"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the Fire", "sub": ["lasting"]}]},
+    "key": {"label": "Small sins", "row": [
+      {"box": "people", "title": "it is only a small thing", "sub": [], "strike": true},
+      {"box": "trap", "title": "sticks make a fire", "sub": ["small ones gather"]}]},
+    "then": "The answer to their claim is: {idea}No, it is not as you wish.{/idea} Whoever earns evil and stays in it until sin surrounds him is among the people of the Fire. Ibn Kathir cites the Prophet ﷺ: {trap}beware of belittled sins, they gather on a person{/trap} like sticks gathered for a fire.",
+    "now": "One white lie at work. One skipped prayer. One unkind joke in the group chat. Each one feels like nothing. {trap}Together they become the walls around you.{/trap} {reward}Repentance opens a gap in the wall every single time.{/reward}",
+    "old": "It is only a small sin, it hardly counts.",
+    "new": "Small sins gather like sticks. Repenting early keeps them from closing in.",
+    "try": "Name one small habit you have stopped noticing as wrong. Ask Allah's forgiveness for it tonight.",
+    "related": ["4:123", "4:124"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:82", "surah": 2, "ayah": 82, "place": "madinah",
+    "title": "Belief plus good deeds: that is the way into Paradise.",
+    "subtitle": "The other side of the same scale",
+    "picture": {"kind": "boxes", "label": "The path", "row": [
+      {"box": "idea", "title": "believe", "sub": ["in Allah and His Messenger"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "do good deeds", "sub": ["that match the guidance"]},
+      {"conn": "lead to"},
+      {"box": "reward", "title": "Paradise", "sub": ["forever"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "who I belong to", "sub": ["family, group, label"], "strike": true},
+      {"box": "reward", "title": "what I believe and do", "sub": []}]},
+    "then": "Right after the warning comes the promise. {reward}Those who believe and do good deeds are the people of Paradise, there forever.{/reward} Ibn Kathir links it to 4:123: {idea}it is not by your wishes, nor the wishes of the People of the Book.{/idea}",
+    "now": "Not your surname. Not the mosque your father built. Not the badge on your profile. It is the quiet things: the prayer on a busy day, the honest invoice, the visit to a lonely neighbour. {reward}Those are what last.{/reward}",
+    "old": "Being part of a good community will see me through.",
+    "new": "Paradise is reached by belief that shows up in what I do.",
+    "try": "Do one good deed today that nobody will ever know about.",
+    "related": ["4:123", "4:124"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

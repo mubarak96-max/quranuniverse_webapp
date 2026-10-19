@@ -1,0 +1,311 @@
+[
+  {
+    "id": "35:1", "surah": 35, "ayah": 1, "place": "makkah",
+    "title": "The One who started everything still adds as He wills.",
+    "subtitle": "Praise for the Originator and His winged messengers",
+    "picture": {"kind": "boxes", "label": "What the verse opens with", "row": [
+      {"box": "idea", "title": "Fatir", "sub": ["the One who started it"]},
+      {"conn": "made"},
+      {"box": "people", "title": "the angels", "sub": ["messengers with wings"]},
+      {"conn": "and still"},
+      {"box": "reward", "title": "increases creation", "sub": ["as He wills"]}]},
+    "key": {"label": "Is creation finished?", "row": [
+      {"box": "plain", "title": "it was set once", "sub": ["now it just runs"], "strike": true},
+      {"box": "idea", "title": "He adds as He wills", "sub": ["able to do all things"]}]},
+    "then": "Ibn Abbas said he only understood the word Fatir when two bedouins argued over a well and one said, I started it. {idea}Allah is the One who started the heavens and the earth.{/idea} The angels carry His word between Him and His prophets, with wings to move quickly.",
+    "now": "You open your phone and scroll past a photo of a galaxy, then a newborn, then a storm. You feel nothing much. {idea}Each one was started by Someone.{/idea} This verse begins with praise before it asks anything of you.",
+    "old": "The world is just there, a backdrop to my day.",
+    "new": "Everything I see was started on purpose, and its Maker can still add to it.",
+    "try": "Step outside once today and look at one natural thing for ten seconds. Say alhamdulillah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:2", "surah": 35, "ayah": 2, "place": "makkah",
+    "title": "No door He opens can be shut by anyone.",
+    "subtitle": "Mercy given and held back by one hand",
+    "picture": {"kind": "boxes", "label": "Who controls the door", "row": [
+      {"box": "reward", "title": "mercy He opens", "sub": ["none can hold it back"]},
+      {"box": "trap", "title": "what He holds", "sub": ["none can release it"]},
+      {"conn": "both from"},
+      {"box": "idea", "title": "the Mighty, the Wise", "sub": ["one decision maker"]}]},
+    "key": {"label": "Where my outcome sits", "row": [
+      {"box": "people", "title": "the boss decides", "sub": ["or the market, or luck"], "strike": true},
+      {"box": "idea", "title": "Allah decides", "sub": ["people are only doors"]}]},
+    "then": "The Prophet ﷺ used to say after prayer: {idea}O Allah, none can withhold what You give, and none can give what You withhold.{/idea} The verse gave the believers in Makkah, who were pressured from all sides, one place to look.",
+    "now": "You are waiting for an email about the job. You refresh it again and again, as if the hiring manager holds your whole future. {reward}If it is written for you, no one can block it.{/reward} If it is held back, no one can force it open.",
+    "old": "If I do not please the right people, I will lose what I need.",
+    "new": "People are only the doors. The One who opens and closes them is Allah.",
+    "try": "After your next prayer, say the words: O Allah, none can withhold what You give. Mean one specific worry.",
+    "related": ["10:107"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:3", "surah": 35, "ayah": 3, "place": "makkah",
+    "title": "Who else sends you rain and food?",
+    "subtitle": "Remembering the favor leads to the One who gives it",
+    "picture": {"kind": "boxes", "label": "The question asked", "row": [
+      {"box": "reward", "title": "from the sky", "sub": ["rain"]},
+      {"box": "reward", "title": "from the earth", "sub": ["food and provision"]},
+      {"conn": "given by"},
+      {"box": "idea", "title": "Allah alone", "sub": ["no other creator"]}]},
+    "key": {"label": "Where thanks goes", "row": [
+      {"box": "trap", "title": "other gods", "sub": ["thanked for what Allah gave"], "strike": true},
+      {"box": "idea", "title": "no god but He", "sub": ["so why turn away?"]}]},
+    "then": "Makkah lived on rain, trade, and what the land could give. Yet its people turned to idols. The verse asks them to {idea}remember the favor{/idea} and then asks plainly: {trap}how are you turned away?{/trap}",
+    "now": "Payday comes and you thank your company, your skills, your side hustle. The food on the table, the water in the tap, the air in your chest arrived without a thank you. {idea}Remembering is the first step back.{/idea}",
+    "old": "I earned what I have through my own work.",
+    "new": "My work was the path, but every bit of provision came from Allah.",
+    "try": "Before eating today, name where the food came from all the way back to rain. Then thank Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:4", "surah": 35, "ayah": 4, "place": "makkah",
+    "title": "You are not the first to be called a liar.",
+    "subtitle": "Comfort for the Prophet when he was denied",
+    "picture": {"kind": "boxes", "label": "A long line", "row": [
+      {"box": "people", "title": "earlier messengers", "sub": ["denied by their people"]},
+      {"conn": "then"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["denied in Makkah"]},
+      {"conn": "all matters return to"},
+      {"box": "idea", "title": "Allah", "sub": ["He settles every account"]}]},
+    "key": {"label": "What rejection means", "row": [
+      {"box": "trap", "title": "I must be wrong", "sub": ["they did not believe me"], "strike": true},
+      {"box": "idea", "title": "the path of messengers", "sub": ["truth is often denied first"]}]},
+    "then": "The leaders of Makkah rejected the message of one God. Allah tells the Prophet ﷺ that {idea}the messengers before him brought the same message and were denied too.{/idea} The final word on all of it {reward}returns to Allah.{/reward}",
+    "now": "You speak up about something right at work or in the family chat, and you are laughed at or ignored. You start to doubt yourself. {idea}Being rejected does not make you wrong.{/idea} The outcome is not yours to settle.",
+    "old": "If people reject what I say, maybe I should stop.",
+    "new": "Rejection is an old path. The result belongs to Allah, not to the crowd.",
+    "try": "Think of one good thing you stopped doing because someone mocked it. Do it once today, quietly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:5", "surah": 35, "ayah": 5, "place": "makkah",
+    "title": "Two deceivers: this life and the one who whispers.",
+    "subtitle": "The promise is true, so do not be fooled",
+    "picture": {"kind": "boxes", "label": "What tries to fool you", "row": [
+      {"box": "trap", "title": "this present life", "sub": ["shiny, short"]},
+      {"box": "trap", "title": "the Deceiver", "sub": ["Shaytan, the arch liar"]},
+      {"conn": "against"},
+      {"box": "idea", "title": "Allah's promise", "sub": ["the Resurrection is true"]}]},
+    "key": {"label": "How to weigh it", "row": [
+      {"box": "trap", "title": "what is here now", "sub": ["feels like everything"], "strike": true},
+      {"box": "reward", "title": "what lasts", "sub": ["promised to His friends"]}]},
+    "then": "Ibn Kathir explains that {idea}this life is as nothing compared to what Allah has promised{/idea} to those who follow His messengers. The Deceiver is Shaytan, who wants people to {trap}treat the brief as if it were lasting.{/trap}",
+    "now": "Late at night you are deep in a shopping app, building a cart for a life you think will finally feel complete. Tomorrow there will be another cart. {trap}The feed never says it is temporary.{/trap} {idea}The promise of Allah does.{/idea}",
+    "old": "I will think about the next life once this one is sorted.",
+    "new": "This life is the test, not the prize. The promise ahead is the real thing.",
+    "try": "Delete one item from a wishlist or cart today and spend that thought on one lasting deed.",
+    "related": ["31:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:6", "surah": 35, "ayah": 6, "place": "makkah",
+    "title": "He is your enemy, so treat him as one.",
+    "subtitle": "Shaytan invites only to the Blaze",
+    "picture": {"kind": "boxes", "label": "His plan", "row": [
+      {"box": "trap", "title": "Shaytan", "sub": ["a declared enemy"]},
+      {"conn": "invites"},
+      {"box": "people", "title": "his party", "sub": ["those who follow him"]},
+      {"conn": "toward"},
+      {"box": "trap", "title": "the Blaze", "sub": ["his only goal"]}]},
+    "key": {"label": "How to see the whisper", "row": [
+      {"box": "people", "title": "just my own thought", "sub": ["harmless idea"], "strike": true},
+      {"box": "trap", "title": "an enemy's invitation", "sub": ["oppose it, do not trust it"]}]},
+    "then": "Ibn Kathir says Shaytan {trap}declared his enmity toward the children of Adam{/trap} when he refused to bow to Adam. So the believer is told to {idea}be even firmer against him{/idea} and not believe the things he dresses up as good.",
+    "now": "The voice that says skip prayer, you are tired. The one that says one look will not hurt. {trap}It sounds friendly and reasonable.{/trap} {idea}Naming it as an enemy takes away half its power.{/idea}",
+    "old": "Every thought in my head is mine and on my side.",
+    "new": "Some whispers come from an enemy who wants me lost. I can refuse them.",
+    "try": "The next time you hear a lazy or harmful whisper today, say a'udhu billah and do the opposite.",
+    "related": ["18:50"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:7", "surah": 35, "ayah": 7, "place": "makkah",
+    "title": "Two roads, two endings, set side by side.",
+    "subtitle": "Denial and its punishment, faith with forgiveness",
+    "picture": {"kind": "boxes", "label": "Where each road ends", "row": [
+      {"box": "trap", "title": "those who disbelieve", "sub": ["obeyed Shaytan"]},
+      {"conn": "meet"},
+      {"box": "trap", "title": "severe punishment", "sub": []},
+      {"box": "people", "title": "faith plus good deeds", "sub": ["obeyed the Merciful"]},
+      {"conn": "meet"},
+      {"box": "reward", "title": "forgiveness, great reward", "sub": ["sins wiped, deeds repaid"]}]},
+    "key": {"label": "What the reward includes", "row": [
+      {"box": "people", "title": "only the perfect", "sub": ["no room for my sins"], "strike": true},
+      {"box": "reward", "title": "forgiveness first", "sub": ["then reward for the good"]}]},
+    "then": "Right after warning about Shaytan's followers, the verse shows both endings. Ibn Kathir notes that believers get {reward}forgiveness for whatever sins they did{/reward} and {reward}a great reward for the good they did.{/reward}",
+    "now": "You look back at last year and see mostly mistakes. You assume the door is closed. {reward}This verse puts forgiveness before the reward.{/reward} The road is faith and good deeds, not a spotless past.",
+    "old": "I have messed up too much for any reward to be mine.",
+    "new": "The believer's ending starts with forgiveness. My part is faith and doing good now.",
+    "try": "Do one small good deed today with the intention that it is a fresh start.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:8", "surah": 35, "ayah": 8, "place": "makkah",
+    "title": "When the wrong thing starts to look good.",
+    "subtitle": "And do not let grief over others destroy you",
+    "picture": {"kind": "boxes", "label": "What happens inside", "row": [
+      {"box": "trap", "title": "an evil deed", "sub": []},
+      {"conn": "made to look"},
+      {"box": "trap", "title": "good", "sub": ["he sees it as right"]},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["grieving over them"]}]},
+    "key": {"label": "Whose job is guidance", "row": [
+      {"box": "people", "title": "I must change them", "sub": ["or it is my failure"], "strike": true},
+      {"box": "idea", "title": "Allah guides", "sub": ["He knows what they do"]}]},
+    "then": "Some in Makkah did wrong and believed they were doing right. The Prophet ﷺ was deeply saddened by it. Allah told him {idea}not to destroy himself in sorrow for them,{/idea} for {idea}Allah guides whom He wills with full knowledge and wisdom.{/idea}",
+    "now": "Two things to check. First, the habit you defend with good reasons: {trap}has it been dressed up for you?{/trap} Second, the brother you have argued with for years. {idea}Your job is to care and speak, not to carry his heart.{/idea}",
+    "old": "If someone I love does not change, I have failed them.",
+    "new": "I can call and care, but guidance is in Allah's hands, not mine.",
+    "try": "Make one sincere dua for someone you worry about, then put the worry down for today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:9", "surah": 35, "ayah": 9, "place": "makkah",
+    "title": "Dead ground turns green, and so will you rise.",
+    "subtitle": "Rain on a dead land as a picture of the Resurrection",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "idea", "title": "winds", "sub": ["sent by Allah"]},
+      {"conn": "raise"},
+      {"box": "plain", "title": "clouds", "sub": []},
+      {"conn": "to"},
+      {"box": "plain", "title": "dead land", "sub": []},
+      {"box": "reward", "title": "life again", "sub": ["so is the Resurrection"]}]},
+    "key": {"label": "Is coming back possible?", "row": [
+      {"box": "trap", "title": "dead is final", "sub": ["dust stays dust"], "strike": true},
+      {"box": "idea", "title": "watch the valley", "sub": ["barren, then green"]}]},
+    "then": "A man asked the Prophet ﷺ how Allah brings the dead back. He ﷺ asked him if he had not passed his people's valley {trap}dry and barren{/trap}, then seen it {reward}stirring and green.{/reward} That, he said, is how Allah brings the dead to life.",
+    "now": "You drive past the empty lot in late summer, all brown and cracked. A few weeks after the rain, it is full of grass. {idea}You have seen a small resurrection many times without calling it that.{/idea}",
+    "old": "Life after death is hard to picture, so I keep it vague.",
+    "new": "Every greening after rain is a preview of the Day I will rise.",
+    "try": "Next time it rains, watch a patch of ground for a moment and remember this verse.",
+    "related": ["22:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:10", "surah": 35, "ayah": 10, "place": "makkah",
+    "title": "Want honor? It all belongs to Allah.",
+    "subtitle": "Good words rise, good deeds lift them, show-offs fade",
+    "picture": {"kind": "boxes", "label": "What rises to Him", "row": [
+      {"box": "reward", "title": "good words", "sub": ["remembrance, Quran, dua"]},
+      {"conn": "lifted by"},
+      {"box": "reward", "title": "righteous deeds", "sub": ["duties done"]},
+      {"box": "trap", "title": "plotting for show", "sub": ["will perish"]}]},
+    "key": {"label": "Where honor comes from", "row": [
+      {"box": "trap", "title": "being seen", "sub": ["likes, status, image"], "strike": true},
+      {"box": "idea", "title": "obeying Allah", "sub": ["all honor is His"]}]},
+    "then": "Ibn Abbas explained that {reward}remembrance of Allah rises, and the deed carries it up.{/reward} Mujahid said those who plot evil are the show-offs who look obedient. {trap}Their plan fails and their reality comes out.{/trap}",
+    "now": "You post the charity drive, the gym streak, the Quran page. The likes come in and feel like honor. {idea}Honor that lasts comes from what Allah sees, not what the feed sees.{/idea} The show eventually slips.",
+    "old": "Being respected depends on how people see me.",
+    "new": "All honor belongs to Allah. My words and deeds rise to Him, seen or unseen.",
+    "try": "Do one good deed today that nobody will ever know about. Not even a hint.",
+    "related": ["4:139", "10:65", "63:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:11", "surah": 35, "ayah": 11, "place": "makkah",
+    "title": "Every pregnancy and every birthday is already known.",
+    "subtitle": "From dust to a full or short life, all recorded",
+    "picture": {"kind": "boxes", "label": "A human life", "row": [
+      {"box": "plain", "title": "dust", "sub": ["Adam's beginning"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "a drop", "sub": []},
+      {"conn": "then"},
+      {"box": "people", "title": "pairs", "sub": ["male and female"]},
+      {"box": "idea", "title": "lifespan in a Book", "sub": ["long or short"]}]},
+    "key": {"label": "Who knows the timeline", "row": [
+      {"box": "people", "title": "the doctor's estimate", "sub": ["the due date, the prognosis"], "strike": true},
+      {"box": "idea", "title": "His knowledge", "sub": ["easy for Allah"]}]},
+    "then": "The verse traces people from the dust of Adam to pairs that find rest in each other. {idea}No woman conceives or gives birth without His knowledge.{/idea} Every life, long or short, {idea}is written in a register.{/idea}",
+    "now": "A hospital corridor at 3 a.m. Someone is giving birth in one room and someone is fading in another. {idea}Neither is a surprise to Allah.{/idea} {reward}Your own days are counted with care, not by chance.{/reward}",
+    "old": "Life and death feel random and out of control.",
+    "new": "Every beginning and end is known and written by the One who finds it easy.",
+    "try": "Call or message an elderly relative today and simply ask how they are.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:12", "surah": 35, "ayah": 12, "place": "makkah",
+    "title": "Sweet river, salty sea, both feeding you.",
+    "subtitle": "Two kinds of water, so that you may give thanks",
+    "picture": {"kind": "boxes", "label": "Two waters", "row": [
+      {"box": "reward", "title": "fresh rivers", "sub": ["sweet to drink"]},
+      {"box": "plain", "title": "salty sea", "sub": ["bitter, but carries ships"]},
+      {"conn": "both give"},
+      {"box": "reward", "title": "fish, ornaments, trade", "sub": ["seek His bounty"]}]},
+    "key": {"label": "Why it is mentioned", "row": [
+      {"box": "plain", "title": "just geography", "sub": ["water is water"], "strike": true},
+      {"box": "idea", "title": "a reason to thank", "sub": ["made to serve you"]}]},
+    "then": "Ibn Kathir describes the fresh rivers flowing among people {reward}according to their needs{/reward}, and the salty ocean where big ships sail for trade. Both give fish and pearls. {idea}All of it was made to serve people so they would give thanks.{/idea}",
+    "now": "You turn on the tap, eat tuna from a can, and wait for a parcel shipped across an ocean. {idea}Three gifts of water before lunch.{/idea} The verse ends with perhaps you will be grateful.",
+    "old": "Water, food, and shipping are just how the world works.",
+    "new": "Each one is a favor placed in my path so I would thank the One behind it.",
+    "try": "Drink a glass of water slowly today and thank Allah for it before and after.",
+    "related": ["55:22"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:13", "surah": 35, "ayah": 13, "place": "makkah",
+    "title": "They do not own even the skin of a date seed.",
+    "subtitle": "The Lord of night and day versus false helpers",
+    "picture": {"kind": "boxes", "label": "Who owns what", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["night into day", "sun and moon on course"]},
+      {"conn": "versus"},
+      {"box": "trap", "title": "those called on besides Him", "sub": ["own not a qitmir"]}]},
+    "key": {"label": "What they hold", "row": [
+      {"box": "trap", "title": "real power", "sub": ["can help me"], "strike": true},
+      {"box": "trap", "title": "0", "sub": ["not even a date-seed thread"], "num": true}]},
+    "then": "Allah {idea}lengthens the night from the day and the day from the night{/idea} through summer and winter, and keeps the sun and moon on their course. The idols of Makkah, by contrast, {trap}did not own even the thin thread on a date pit.{/trap}",
+    "now": "You check the horoscope app, the lucky charm on the mirror, the influencer who promises success. {trap}None of them moved the sunrise this morning.{/trap} {idea}The One who did is your Lord.{/idea}",
+    "old": "A little extra help from somewhere else cannot hurt.",
+    "new": "Only the One who runs night and day owns anything. Everything else holds nothing.",
+    "try": "Watch the sunrise or sunset once this week and remember who runs it on time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:14", "surah": 35, "ayah": 14, "place": "makkah",
+    "title": "They cannot hear you, and could not answer if they did.",
+    "subtitle": "False helpers will disown you on the Day",
+    "picture": {"kind": "boxes", "label": "Calling on them", "row": [
+      {"box": "people", "title": "you call", "sub": []},
+      {"conn": "they"},
+      {"box": "trap", "title": "do not hear", "sub": []},
+      {"box": "trap", "title": "cannot answer", "sub": []},
+      {"conn": "on the Day"},
+      {"box": "trap", "title": "they disown you", "sub": []}]},
+    "key": {"label": "Who truly informs you", "row": [
+      {"box": "trap", "title": "the false helper", "sub": ["silent now, against you later"], "strike": true},
+      {"box": "idea", "title": "the All-Aware", "sub": ["tells you how it ends"]}]},
+    "then": "Ibn Kathir explains that the idols could not hear because they had no life in them. Even if they could, {trap}they could do nothing.{/trap} On the Day they will deny the worship given to them. {idea}None informs you like the All-Aware.{/idea}",
+    "now": "In a crisis you call everyone in your contacts list before you raise your hands to Allah. {trap}Some do not pick up. Some cannot help.{/trap} {idea}He hears the first time, before you even say it.{/idea}",
+    "old": "I will try every other option first and pray if nothing works.",
+    "new": "Only Allah truly hears and answers. He should be my first call, not my last.",
+    "try": "Next time something goes wrong today, make a short dua before you reach for your phone.",
+    "related": ["46:5", "19:81"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "35:15", "surah": 35, "ayah": 15, "place": "makkah",
+    "title": "You are the ones in need. He needs nothing.",
+    "subtitle": "All people stand in need before the Rich, the Praised",
+    "picture": {"kind": "boxes", "label": "Who needs whom", "row": [
+      {"box": "people", "title": "all people", "sub": ["need Him in everything"]},
+      {"conn": "turn to"},
+      {"box": "idea", "title": "Allah", "sub": ["Free of need", "Worthy of praise"]}]},
+    "key": {"label": "The real position", "row": [
+      {"box": "trap", "title": "self-made", "sub": ["I do not need anyone"], "strike": true},
+      {"box": "idea", "title": "faqir", "sub": ["in need, every breath"]}]},
+    "then": "Addressed to all of mankind, the verse sets out the plain truth. Ibn Kathir says {idea}people need Him in all that they do, but He has no need of them at all.{/idea} He is praised in everything He does and decrees.",
+    "now": "You pride yourself on not asking anyone for help. Then the Wi-Fi goes down, a tooth aches, the car will not start, and you feel how thin your independence is. {idea}Need is not weakness. It is your true position.{/idea}",
+    "old": "Needing help means I am weak or failing.",
+    "new": "I am always in need of Allah, and admitting it is the start of strength.",
+    "try": "Make one dua today that begins: O Allah, I am in need of You for this.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

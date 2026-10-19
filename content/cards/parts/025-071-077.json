@@ -1,0 +1,141 @@
+[
+  {
+    "id": "25:71", "surah": 25, "ayah": 71, "place": "makkah",
+    "title": "Whoever repents and does good has truly turned to Allah.",
+    "subtitle": "Repentance that is accepted, for any sin",
+    "picture": {"kind": "boxes", "label": "The way back", "row": [
+      {"box": "people", "title": "repents", "sub": ["turns away from the sin"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "does good", "sub": ["shows it in action"]},
+      {"conn": "has"},
+      {"box": "reward", "title": "turned to Allah", "sub": ["and He accepts"]}]},
+    "key": {"label": "Which sins", "row": [
+      {"box": "trap", "title": "only small ones", "sub": [], "strike": true},
+      {"box": "reward", "title": "great or small", "sub": ["He accepts repentance for any"]}]},
+    "then": "Ibn Kathir says this shows {reward}His mercy extends to all His creatures{/reward}: whoever repents, He accepts it {reward}for any sin, great or small{/reward}. He links it to 4:110, 9:104 and 39:53, despair not of the mercy of Allah.",
+    "now": "You have repented before and slipped again. You feel embarrassed to ask one more time. {idea}Turning back with good deeds is what makes it real{/idea}, and the door does not close because you came back again.",
+    "old": "I have asked forgiveness too many times; it does not count anymore.",
+    "new": "Every sincere turning back, followed by good, is accepted by Allah.",
+    "try": "After asking forgiveness today, follow it with one specific good action within the hour.",
+    "related": ["4:110", "9:104", "39:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:72", "surah": 25, "ayah": 72, "place": "makkah",
+    "title": "They do not witness falsehood, and pass idle talk with dignity.",
+    "subtitle": "Where the servants refuse to be present",
+    "picture": {"kind": "boxes", "label": "What they do", "row": [
+      {"box": "trap", "title": "false testimony", "sub": ["lies, foul speech"], "strike": true},
+      {"box": "trap", "title": "gatherings of falsehood", "sub": ["they do not attend"], "strike": true},
+      {"conn": "if they pass by"},
+      {"box": "idea", "title": "with dignity", "sub": ["untouched by it"]}]},
+    "key": {"label": "Being present", "row": [
+      {"box": "plain", "title": "just listening", "sub": ["I did not say it"], "strike": true},
+      {"box": "idea", "title": "being a witness", "sub": ["presence is participation"]}]},
+    "then": "Ibn Kathir says they do not bear witness to falsehood: {trap}lies, immorality, foul speech{/trap}. The Prophet ﷺ warned against false speech and false testimony, {trap}repeating it until the Companions wished he would stop{/trap}. When they pass by idle talk, {idea}they do not let it touch them{/idea}.",
+    "now": "The break-room conversation turns into mocking a colleague who is not there. You do not join in, but you stay and laugh. {idea}Being in the room is being a witness.{/idea} The servants find a way to leave with dignity.",
+    "old": "I did not say anything bad, I was just there.",
+    "new": "Where I choose to stay is part of what I testify to.",
+    "try": "The next time a conversation turns to gossip or mockery, change the subject or walk away calmly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:73", "surah": 25, "ayah": 73, "place": "makkah",
+    "title": "Reminded of His verses, they do not fall deaf and blind.",
+    "subtitle": "Letting the verses actually reach you",
+    "picture": {"kind": "boxes", "label": "When a verse is recited", "row": [
+      {"box": "trap", "title": "deaf and blind", "sub": ["hears, nothing changes"], "strike": true},
+      {"box": "idea", "title": "awake to it", "sub": ["heart moved, faith grows"]}]},
+    "key": {"label": "Hearing the Quran", "row": [
+      {"box": "plain", "title": "background sound", "sub": [], "strike": true},
+      {"box": "idea", "title": "something to respond to", "sub": ["change follows"]}]},
+    "then": "Ibn Kathir contrasts them with those who hear the words of Allah and {trap}are not moved to change their ways, as if deaf and blind{/trap}. The servants are like those in 8:2: {idea}when His verses are recited, their faith increases{/idea}.",
+    "now": "The Quran plays in the car on the way to work while you answer messages at red lights. It is on, but you are not there. {idea}The servants let it in.{/idea} Even one verse heard properly can turn the day.",
+    "old": "I listen to Quran a lot, so I am fine.",
+    "new": "Hearing it is not enough. The servants let the verses change them.",
+    "try": "Listen to one short surah today with nothing else in your hands, and notice one thing it asks of you.",
+    "related": ["8:2", "9:124"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:74", "surah": 25, "ayah": 74, "place": "makkah",
+    "title": "Our Lord, give us spouses and children who cool our eyes.",
+    "subtitle": "A dua for family and for leading in good",
+    "picture": {"kind": "boxes", "label": "What they ask for", "row": [
+      {"box": "reward", "title": "spouses", "sub": ["comfort of the eyes"]},
+      {"box": "reward", "title": "children", "sub": ["who obey Allah"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "leaders of the mindful", "sub": ["examples in good"]}]},
+    "key": {"label": "What comfort of the eyes is", "row": [
+      {"box": "plain", "title": "success and looks", "sub": ["a family to show off"], "strike": true},
+      {"box": "reward", "title": "faith that lasts", "sub": ["joy here and after"]}]},
+    "then": "Ibn Abbas said it means {reward}offspring who strive to obey Allah and bring joy in this world and the next{/reward}. Al-Miqdad said believers who saw loved ones refuse faith could not rest, and this dua was for that. Asking to be leaders means {idea}examples in good{/idea}, so guidance reaches beyond themselves.",
+    "now": "You worry about your teenager's friends, your marriage after a hard year, the baby who will not sleep. {reward}This is the dua for all of it{/reward}: not just that they are fine, but that they bring joy that reaches the Hereafter.",
+    "old": "My family will turn out fine if I work hard and provide well.",
+    "new": "The comfort I really want in my family is a gift I have to ask Allah for.",
+    "try": "Memorize this dua today and say it for your family after one prayer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:75", "surah": 25, "ayah": 75, "place": "makkah",
+    "title": "The high chamber is theirs because they were patient.",
+    "subtitle": "Greeted with peace at the end",
+    "picture": {"kind": "boxes", "label": "Their reward", "row": [
+      {"box": "people", "title": "the servants", "sub": ["all the traits above"]},
+      {"conn": "for their patience"},
+      {"box": "reward", "title": "the highest place", "sub": ["Paradise, raised high"]},
+      {"box": "reward", "title": "greeted with peace", "sub": ["welcome and honor"]}]},
+    "key": {"label": "What got them there", "row": [
+      {"box": "plain", "title": "being perfect", "sub": [], "strike": true},
+      {"box": "reward", "title": "patience", "sub": ["in doing what they did"]}]},
+    "then": "After listing the servants' traits, Allah names the reward: {reward}the high chamber{/reward}, named for its elevation. Ibn Kathir says it is {idea}because of their patience in doing what they did{/idea}. They will be met {reward}with words of welcome, honor, and peace{/reward}.",
+    "now": "Answering rudeness with calm, waking for night prayer, spending in balance, walking out of the gossip. None of it is flashy. {idea}All of it takes patience.{/idea} That is exactly what the verse says is rewarded.",
+    "old": "These small efforts do not add up to much.",
+    "new": "The patience in my small daily efforts is what earns the high place.",
+    "try": "Choose one trait from verses 63-74 and practice it patiently today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:76", "surah": 25, "ayah": 76, "place": "makkah",
+    "title": "Forever there: a beautiful home and a place to rest.",
+    "subtitle": "The home they will never want to leave",
+    "picture": {"kind": "boxes", "label": "Their home", "row": [
+      {"box": "reward", "title": "forever", "sub": ["never leave, never die"]},
+      {"box": "reward", "title": "excellent home", "sub": ["beautiful to see"]},
+      {"box": "reward", "title": "excellent rest", "sub": ["good to dwell in"]}]},
+    "key": {"label": "Answering verse 66", "row": [
+      {"box": "trap", "title": "evil settlement", "sub": ["what they asked to avoid"]},
+      {"box": "reward", "title": "excellent settlement", "sub": ["what they were given"]}]},
+    "then": "Ibn Kathir says they will {reward}settle there and never leave, move or die{/reward}, and never wish to move elsewhere. The words mirror verse 66: they had asked to be kept from {trap}an evil settlement{/trap}, and they receive {reward}an excellent one{/reward}.",
+    "now": "You have moved four times in six years. Leases end, rent goes up, jobs change cities. {reward}The verse promises a home you will never have to pack up{/reward}, and never want to.",
+    "old": "Nowhere really feels permanent.",
+    "new": "The permanent home is promised, and every patient step points toward it.",
+    "try": "Next time you feel unsettled about where you live, ask Allah for the home that never ends.",
+    "related": ["11:108"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:77", "surah": 25, "ayah": 77, "place": "makkah",
+    "title": "My Lord would not care for you, if not for your prayer.",
+    "subtitle": "The surah ends on what makes us matter",
+    "picture": {"kind": "boxes", "label": "What gives us weight", "row": [
+      {"box": "people", "title": "people", "sub": ["created to worship Him"]},
+      {"conn": "matter to Him by"},
+      {"box": "idea", "title": "their calling on Him", "sub": ["dua, worship"]},
+      {"conn": "but denial"},
+      {"box": "trap", "title": "clings to them", "sub": []}]},
+    "key": {"label": "What makes me count", "row": [
+      {"box": "plain", "title": "my status", "sub": ["job, wealth, followers"], "strike": true},
+      {"box": "idea", "title": "my calling on Him", "sub": ["my worship and dua"]}]},
+    "then": "The surah closes with a word to the deniers of Makkah. Ibn Kathir says {idea}He would not pay attention to you if you did not worship Him, for He created mankind to worship Him alone{/idea}. Their denial would stay with them. Ibn Mas'ud and others linked it to Badr; Al-Hasan to the Day of Resurrection.",
+    "now": "You measure your worth by your job title, your follower count, what your family thinks. Some days you feel invisible. {idea}What makes you matter to Allah is that you call on Him.{/idea} Every dua is you being seen.",
+    "old": "I matter because of what I achieve and who notices.",
+    "new": "I matter to my Lord because I turn to Him and call on Him.",
+    "try": "Make one dua today just to talk to Allah, with nothing to ask for but nearness to Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

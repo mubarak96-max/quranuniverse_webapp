@@ -1,0 +1,227 @@
+[
+  {
+    "id": "11:50", "surah": 11, "ayah": 50, "place": "makkah",
+    "title": "Their brother came with one message.",
+    "subtitle": "Hud calls 'Ad to worship Allah alone",
+    "picture": {"kind": "boxes", "label": "Hud's call", "row": [
+      {"box": "people", "title": "Hud", "sub": ["their own brother"]},
+      {"conn": "says"},
+      {"box": "idea", "title": "worship Allah", "sub": ["no god but Him"]},
+      {"conn": "your idols are"},
+      {"box": "trap", "title": "invented", "sub": ["names you made up"]}]},
+    "key": {"label": "What their gods were", "row": [
+      {"box": "people", "title": "real powers", "sub": ["we must keep them"], "strike": true},
+      {"box": "trap", "title": "made-up names", "sub": ["lies they invented"]}]},
+    "then": "After Nuh, the surah turns to the people of 'Ad and {idea}their brother Hud{/idea}, one of their own. He told them to worship Allah alone. The idols they worshipped were {trap}names they had invented and called gods{/trap}.",
+    "now": "Nobody around you bows to statues. But you might check your phone before you pray, or let a salary figure decide your mood. {trap}Some gods are just made-up importance.{/trap} Hud's call still applies: only One deserves that place.",
+    "old": "Idol worship is something from the ancient past.",
+    "new": "Anything I give Allah's place to is an invention, however modern it looks.",
+    "try": "Notice the first thing you reach for when you wake up tomorrow, and make it a short dhikr instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:51", "surah": 11, "ayah": 51, "place": "makkah",
+    "title": "He wanted nothing from them. Will you not think?",
+    "subtitle": "Free advice is a sign of sincerity",
+    "picture": {"kind": "boxes", "label": "What Hud asked for", "row": [
+      {"box": "plain", "title": "payment", "sub": ["none from you"], "strike": true},
+      {"conn": "only from"},
+      {"box": "reward", "title": "the One who made me", "sub": ["my reward is there"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "use your reason", "sub": ["who gains from this?"]}]},
+    "key": {"label": "How to judge advice", "row": [
+      {"box": "people", "title": "who said it", "sub": ["one of us, so ignore him"], "strike": true},
+      {"box": "idea", "title": "what he gains", "sub": ["nothing, so it is sincere"]}]},
+    "then": "Hud told 'Ad he asked them {reward}no reward{/reward}; his reward was with the One who created him. Ibn Kathir explains the point: someone is calling you to {idea}what benefits your life here and after{/idea}, and wants nothing from you. Will you not reason?",
+    "now": "The influencer sells you the course, the salesman needs his commission, the app wants your attention. Then a friend tells you something hard for your own good, and gets nothing out of it. {idea}That is the voice to listen to.{/idea}",
+    "old": "Advice that is free is probably worth what I paid for it.",
+    "new": "Advice from someone who wants nothing from me deserves my attention most.",
+    "try": "Think of someone who once told you a hard truth for free. Thank them today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:52", "surah": 11, "ayah": 52, "place": "makkah",
+    "title": "Seek forgiveness and the sky opens.",
+    "subtitle": "Repentance brings rain and added strength",
+    "picture": {"kind": "boxes", "label": "Hud's offer", "row": [
+      {"box": "idea", "title": "ask forgiveness", "sub": ["for what is past"]},
+      {"box": "idea", "title": "repent to Him", "sub": ["for what is ahead"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "abundant rain", "sub": ["from the sky"]},
+      {"box": "reward", "title": "strength upon strength", "sub": ["more than you have"]}]},
+    "key": {"label": "Where strength comes from", "row": [
+      {"box": "people", "title": "our own might", "sub": ["we are strong already"], "strike": true},
+      {"box": "reward", "title": "returning to Allah", "sub": ["adds to strength"]}]},
+    "then": "'Ad were a powerful people. Hud told them to {idea}seek forgiveness for the past and repent for the future{/idea}. Ibn Kathir notes that whoever does this, Allah makes provision and affairs easy for him. {reward}He would send them rain and add strength to their strength.{/reward} Do not turn away as criminals.",
+    "now": "It is payday and the money is already gone. The project at work is stuck. You feel drained. {reward}Istighfar is not only for sins{/reward}; it opens doors you cannot open yourself.",
+    "old": "Seeking forgiveness is only for when I have done something terrible.",
+    "new": "Turning back to Allah brings ease and strength into my everyday life.",
+    "try": "Say astaghfirullah slowly 30 times on your commute or before sleep tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:53", "surah": 11, "ayah": 53, "place": "makkah",
+    "title": "We will not leave our gods on your word.",
+    "subtitle": "Calling it no proof to avoid changing",
+    "picture": {"kind": "boxes", "label": "'Ad's three refusals", "row": [
+      {"box": "trap", "title": "no proof", "sub": ["you brought nothing"]},
+      {"box": "trap", "title": "we keep our gods", "sub": ["not for your saying"]},
+      {"box": "trap", "title": "we do not believe", "sub": ["in you"]}]},
+    "key": {"label": "What \"no proof\" meant", "row": [
+      {"box": "people", "title": "honest doubt", "sub": ["we need evidence"], "strike": true},
+      {"box": "trap", "title": "unwillingness", "sub": ["we will not let go"]}]},
+    "then": "'Ad answered Hud: {trap}you have brought us no clear proof{/trap}, and we will not leave our gods just because you say so. They asked how his mere words could be enough. Yet Ibn Kathir notes the idols they defended could not hear, see, help, or harm.",
+    "now": "You know the habit is hurting you: the late-night scrolling, the gossip, the loan you keep rolling over. Someone warns you and you say, \"Prove it.\" {idea}Sometimes asking for proof is a way to keep holding on.{/idea}",
+    "old": "I will change when someone gives me enough proof.",
+    "new": "Often I already know; asking for more proof can be a way to avoid letting go.",
+    "try": "Name one thing you keep asking for \"more proof\" about before changing. Take one step anyway.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:54", "surah": 11, "ayah": 54, "place": "makkah",
+    "title": "Our gods have struck you with madness.",
+    "subtitle": "Attacking the messenger instead of the message",
+    "picture": {"kind": "boxes", "label": "The accusation and reply", "row": [
+      {"box": "people", "title": "'Ad", "sub": ["our gods hurt you"]},
+      {"conn": "Hud replies"},
+      {"box": "idea", "title": "Allah is my witness", "sub": ["and you witness too"]},
+      {"conn": "I am"},
+      {"box": "reward", "title": "free of your idols", "sub": ["openly, without fear"]}]},
+    "key": {"label": "Who was really troubled", "row": [
+      {"box": "people", "title": "the one speaking truth", "sub": ["he must be unwell"], "strike": true},
+      {"box": "trap", "title": "the ones defending idols", "sub": ["that cannot harm"]}]},
+    "then": "'Ad said the only explanation was that {trap}one of their gods had afflicted Hud with madness{/trap}, because he spoke against them. Hud did not shrink back. {idea}He called Allah to witness, and them too{/idea}, that he was free of everything they set up beside Allah.",
+    "now": "You start praying at work or quit drinking, and friends say, \"What happened to you? You have gone strange.\" {idea}A label is not an argument.{/idea} Hud stood calm and clear when he was called mad.",
+    "old": "If people say I have gone strange, I should go back to how I was.",
+    "new": "Being called strange for following the truth says nothing about the truth.",
+    "try": "If someone teases you for a faith choice today, answer once, kindly and clearly, without apologizing for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:55", "surah": 11, "ayah": 55, "place": "makkah",
+    "title": "Plot against me, all of you, and do not wait.",
+    "subtitle": "One man challenges a whole nation and its idols",
+    "picture": {"kind": "boxes", "label": "Hud's challenge", "row": [
+      {"box": "people", "title": "Hud", "sub": ["alone"]},
+      {"conn": "says"},
+      {"box": "trap", "title": "plot, all of you", "sub": ["you and your gods"]},
+      {"conn": "and"},
+      {"box": "plain", "title": "no delay", "sub": ["not a blink"]}]},
+    "key": {"label": "Where his courage came from", "row": [
+      {"box": "people", "title": "his own strength", "sub": ["a brave man"], "strike": true},
+      {"box": "idea", "title": "their gods are nothing", "sub": ["and Allah is with him"]}]},
+    "then": "Hud turned the threat around. If your gods are real, {trap}plot against me, all of you, you and your gods{/trap}, and give me no respite, not even the blink of an eye. {idea}He knew their idols could do nothing.{/idea}",
+    "now": "You are scared to speak up in the meeting, to refuse the bribe, to stop laughing at the cruel joke. The crowd feels huge. {idea}Their power is smaller than it looks.{/idea} The fear you feel was always weaker than the One you trust.",
+    "old": "If everyone is against me, I cannot stand.",
+    "new": "When I stand with Allah, the crowd's power over me is far smaller than it seems.",
+    "try": "Say no to one small thing today you only went along with out of fear of others.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:56", "surah": 11, "ayah": 56, "place": "makkah",
+    "title": "Every creature's forelock is in His hand.",
+    "subtitle": "Trust in Allah, who controls every living thing",
+    "picture": {"kind": "boxes", "label": "Why Hud is not afraid", "row": [
+      {"box": "idea", "title": "I rely on Allah", "sub": ["my Lord and yours"]},
+      {"conn": "because"},
+      {"box": "people", "title": "every creature", "sub": ["held by its forelock"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "a straight path", "sub": ["He is just"]}]},
+    "key": {"label": "Who holds power", "row": [
+      {"box": "trap", "title": "the people threatening me", "sub": ["they decide my fate"], "strike": true},
+      {"box": "idea", "title": "Allah holds them", "sub": ["by the forelock"]}]},
+    "then": "Hud gave the reason for his calm: {idea}I have relied on Allah, my Lord and your Lord.{/idea} There is no moving creature except that He holds it by the forelock. Ibn Kathir says every creature is under His power, and {reward}He is just, never unjust in His ruling{/reward}.",
+    "now": "The landlord, the immigration officer, the boss who controls your contract. They seem to hold your future. {idea}Each of them is held by Allah.{/idea} You can be respectful and still not be afraid.",
+    "old": "The people with power over me decide what happens to me.",
+    "new": "Every person with power is in Allah's grip, so my trust goes to Him.",
+    "try": "Before facing someone who intimidates you, say quietly: my Lord holds them too.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:57", "surah": 11, "ayah": 57, "place": "makkah",
+    "title": "Turn away if you want; you will not harm Him.",
+    "subtitle": "The message delivered, the outcome with Allah",
+    "picture": {"kind": "boxes", "label": "If they turn away", "row": [
+      {"box": "idea", "title": "message delivered", "sub": ["my duty done"]},
+      {"box": "people", "title": "another people", "sub": ["will take your place"]},
+      {"box": "plain", "title": "no harm to Allah", "sub": ["only to yourselves"]},
+      {"box": "idea", "title": "Guardian of all", "sub": ["sees every deed"]}]},
+    "key": {"label": "Who loses by refusing", "row": [
+      {"box": "people", "title": "Allah needs us", "sub": ["our worship helps Him"], "strike": true},
+      {"box": "trap", "title": "we hurt ourselves", "sub": ["He needs nothing"]}]},
+    "then": "Hud told 'Ad that if they turned away, {idea}he had delivered what he was sent with{/idea}. Allah would bring another people to replace them. Their disbelief {trap}would not harm Allah at all, only themselves{/trap}. He watches over every word and deed.",
+    "now": "You skip the prayer and somehow feel you are hurting religion, or Allah. You are not. {trap}The one who loses is you{/trap}: the calm, the light, the help that prayer brings. He is the Guardian of all things; your worship is for your own good.",
+    "old": "When I neglect my worship, I am letting Allah down.",
+    "new": "Allah needs nothing from me; neglecting worship only harms me.",
+    "try": "Pray your next salah with the thought: this is for me, not for Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:58", "surah": 11, "ayah": 58, "place": "makkah",
+    "title": "Saved by mercy from a harsh punishment.",
+    "subtitle": "Hud and the believers are rescued",
+    "picture": {"kind": "boxes", "label": "When the command came", "row": [
+      {"box": "trap", "title": "the barren wind", "sub": ["destroyed the deniers"]},
+      {"conn": "but"},
+      {"box": "people", "title": "Hud and believers", "sub": ["the few"]},
+      {"conn": "saved by"},
+      {"box": "reward", "title": "mercy from Us", "sub": ["not their own strength"]}]},
+    "key": {"label": "What saved them", "row": [
+      {"box": "people", "title": "being better", "sub": ["they earned it"], "strike": true},
+      {"box": "reward", "title": "Allah's mercy", "sub": ["mentioned twice"]}]},
+    "then": "When Allah's command came, the {trap}barren wind{/trap} destroyed the deniers among 'Ad. Ibn Kathir says Allah's mercy and kindness {reward}saved Hud and those who believed with him{/reward} from that terrible punishment.",
+    "now": "You got through the year: the car accident that could have been worse, the test result that came back clear. You might credit your caution or luck. {reward}It was mercy.{/reward} Even the believers were saved by mercy, not by merit.",
+    "old": "I got through because I was careful and did things right.",
+    "new": "Every rescue in my life is a mercy from Allah, not my own achievement.",
+    "try": "Recall one close call you survived and say alhamdulillah for it by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:59", "surah": 11, "ayah": 59, "place": "makkah",
+    "title": "They followed every proud tyrant instead.",
+    "subtitle": "Whom 'Ad chose to obey",
+    "picture": {"kind": "boxes", "label": "The record of 'Ad", "row": [
+      {"box": "trap", "title": "rejected the signs", "sub": ["of their Lord"]},
+      {"box": "trap", "title": "disobeyed messengers", "sub": ["denying one is all"]},
+      {"box": "trap", "title": "obeyed the arrogant", "sub": ["every stubborn tyrant"]}]},
+    "key": {"label": "Who they listened to", "row": [
+      {"box": "people", "title": "the guide", "sub": ["Hud, who wanted nothing"], "strike": true},
+      {"box": "trap", "title": "the proud leaders", "sub": ["who opposed the truth"]}]},
+    "then": "This was 'Ad. They {trap}rejected their Lord's signs and disobeyed His messengers{/trap}. Ibn Kathir explains that rejecting one prophet is rejecting all of them. They left their rightly guided messenger and {trap}followed every proud, stubborn tyrant{/trap}.",
+    "now": "Think about whose voice you follow. The loud man at work who mocks rules, the friend who always pushes the reckless plan, the creator you binge every night. {idea}Who you obey shapes who you become.{/idea}",
+    "old": "I just go along with the strong personalities around me.",
+    "new": "Whose lead I follow is a choice, and it decides where I end up.",
+    "try": "List the three voices that influence your choices most. Ask if each points you toward Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:60", "surah": 11, "ayah": 60, "place": "makkah",
+    "title": "Remembered with a curse, here and on the Day.",
+    "subtitle": "How a powerful nation's story ends",
+    "picture": {"kind": "boxes", "label": "What followed 'Ad", "row": [
+      {"box": "people", "title": "'Ad", "sub": ["strong, proud people"]},
+      {"conn": "followed by"},
+      {"box": "trap", "title": "a curse in this world", "sub": ["whenever mentioned"]},
+      {"box": "trap", "title": "and on the Day", "sub": ["before witnesses"]}]},
+    "key": {"label": "What a legacy is", "row": [
+      {"box": "people", "title": "power and buildings", "sub": ["we will be remembered"], "strike": true},
+      {"box": "idea", "title": "how we treated truth", "sub": ["what history keeps"]}]},
+    "then": "The story of 'Ad closes soberly. Ibn Kathir says they are {trap}followed by a curse from Allah and the believers whenever they are mentioned{/trap}, and a call will be made against them on the Day of Resurrection. {idea}They denied their Lord.{/idea}",
+    "now": "You think about how you will be remembered: at your job, in your family, at your funeral. Not by your car or your title. {idea}By how you answered the truth when it came to you.{/idea} That is still in your hands today.",
+    "old": "My legacy is what I build and achieve.",
+    "new": "What lasts is how I answered Allah's call, and that is mine to shape now.",
+    "try": "Write one sentence you hope people say about you after you die, and do one thing today that fits it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

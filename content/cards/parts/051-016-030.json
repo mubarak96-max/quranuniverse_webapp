@@ -1,0 +1,295 @@
+[
+  {
+    "id": "51:16", "surah": 51, "ayah": 16, "place": "makkah",
+    "title": "Taking what their Lord gives, because they did good before.",
+    "subtitle": "Today's effort, tomorrow's gift",
+    "picture": {"kind": "boxes", "label": "Before and after", "row": [
+      {"box": "people", "title": "before", "sub": ["muhsinin, doers of good"]},
+      {"conn": "leads to"},
+      {"box": "reward", "title": "now", "sub": ["receiving from their Lord"]}]},
+    "key": {"label": "When reward is earned", "row": [
+      {"box": "people", "title": "there, somehow", "sub": [], "strike": true},
+      {"box": "idea", "title": "here, before that", "sub": ["qabla dhalik"]}]},
+    "then": "Ibn Kathir says the mindful will {reward}receive what their Lord gives them: delight, happiness and favors.{/reward} Why? Because {idea}before that, in the life of the world, they were doers of good.{/idea} He links it to 69:24: eat and drink for what you sent ahead.",
+    "now": "Every Sunday you visit your grandmother in the care home, though the drive is long and she sometimes forgets your name. {idea}That is before that.{/idea} {reward}The receiving comes later, and it is generous.{/reward}",
+    "old": "Paradise is something that just happens to good people at the end.",
+    "new": "What I receive there is what I sent ahead from here, by doing good now.",
+    "try": "Send one deed ahead today: visit, call, or give to someone who needs it.",
+    "related": ["69:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:17", "surah": 51, "ayah": 17, "place": "makkah",
+    "title": "They slept only a little of the night.",
+    "subtitle": "A part of every night kept for Allah",
+    "picture": {"kind": "boxes", "label": "Their nights", "row": [
+      {"box": "people", "title": "sleep", "sub": ["but little"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "night prayer", "sub": ["some part of every night"]}]},
+    "key": {"label": "Night prayer", "row": [
+      {"box": "people", "title": "all night or nothing", "sub": [], "strike": true},
+      {"box": "idea", "title": "some part, every night", "sub": ["even a little"]}]},
+    "then": "Ibn Abbas said {idea}every night they would worship Allah, even for a little part.{/idea} Anas said they prayed between Maghrib and Isha. In Madinah the Prophet's ﷺ first words were: feed people, keep family ties, spread salam, {reward}pray at night while people sleep, and enter Paradise in peace.{/reward}",
+    "now": "Your alarm is set for work, not for prayer. Night prayer feels like something for the very pious. {idea}The scholars said even a small part counts:{/idea} two rak'ahs before bed, or between Maghrib and Isha.",
+    "old": "Night prayer is for people with much more faith than me.",
+    "new": "Keeping even a little of the night for Allah is part of being among the doers of good.",
+    "try": "Pray two extra rak'ahs tonight before you sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:18", "surah": 51, "ayah": 18, "place": "makkah",
+    "title": "Before dawn, they were asking forgiveness.",
+    "subtitle": "The quiet hour when the door is open",
+    "picture": {"kind": "boxes", "label": "The last third of the night", "row": [
+      {"box": "idea", "title": "Allah calls", "sub": ["who repents? who asks?"]},
+      {"conn": "and they"},
+      {"box": "people", "title": "seek forgiveness", "sub": ["bil-ashar, before dawn"]}]},
+    "key": {"label": "After a full night", "row": [
+      {"box": "people", "title": "I did enough", "sub": [], "strike": true},
+      {"box": "idea", "title": "still I ask pardon", "sub": ["humble after worship"]}]},
+    "then": "Mujahid said they were praying. Others said they stood in prayer, then {idea}saved their asking for forgiveness for the hours before dawn.{/idea} The Prophet ﷺ said Allah descends to the lowest heaven in the last third of the night and asks: {reward}is there anyone seeking forgiveness, that I may forgive him?{/reward}",
+    "now": "You wake at 4am for no reason, scroll for a bit, and fall back asleep. {reward}That hour is when the question is being asked.{/reward} {idea}Even one astaghfirullah, said with meaning, answers it.{/idea}",
+    "old": "Forgiveness is for after big sins, not part of my daily rhythm.",
+    "new": "The hour before dawn is a standing invitation, and asking pardon is how the doers of good end their night.",
+    "try": "Set an alarm ten minutes before Fajr tomorrow and spend them saying astaghfirullah.",
+    "related": ["3:17", "12:98"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:19", "surah": 51, "ayah": 19, "place": "makkah",
+    "title": "In their wealth was a right for the asker and the deprived.",
+    "subtitle": "Including the needy who never ask",
+    "picture": {"kind": "boxes", "label": "Who has a share", "row": [
+      {"box": "reward", "title": "their wealth", "sub": ["a part set aside"]},
+      {"conn": "for"},
+      {"box": "people", "title": "the sa'il", "sub": ["the one who asks"]},
+      {"box": "people", "title": "the mahrum", "sub": ["the one who does not"]}]},
+    "key": {"label": "Whose money", "row": [
+      {"box": "people", "title": "all mine", "sub": ["charity is extra"], "strike": true},
+      {"box": "idea", "title": "a right in it", "sub": ["haqq, theirs already"]}]},
+    "then": "After their prayer, their giving. Ibn Kathir says {idea}a designated part{/idea} of their wealth belonged to the asker and the deprived. Aisha said the mahrum is one without a trade to earn from. The Prophet ﷺ said the truly poor is {reward}the one whose need is not known, so no one gives to him.{/reward}",
+    "now": "The man at the traffic light is easy to see. The colleague quietly skipping lunch to save money, or the single mother at school pick-up who never mentions bills, is not. {idea}The verse asks you to notice the ones who do not ask.{/idea}",
+    "old": "I give when someone asks me.",
+    "new": "Part of my wealth is already owed, including to those too proud or quiet to ask.",
+    "try": "Think of one person who might be struggling quietly, and help them discreetly this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:20", "surah": 51, "ayah": 20, "place": "makkah",
+    "title": "The earth is full of signs for the certain.",
+    "subtitle": "Valleys, rivers, people, all pointing one way",
+    "picture": {"kind": "boxes", "label": "Signs on earth", "row": [
+      {"box": "idea", "title": "plants and animals", "sub": []},
+      {"box": "idea", "title": "mountains and seas", "sub": []},
+      {"box": "idea", "title": "people", "sub": ["languages, colors, abilities"]},
+      {"conn": "for"},
+      {"box": "people", "title": "al-muqinin", "sub": ["those with certainty"]}]},
+    "key": {"label": "Who reads them", "row": [
+      {"box": "people", "title": "needs a miracle", "sub": [], "strike": true},
+      {"box": "idea", "title": "certainty reads signs", "sub": ["already everywhere"]}]},
+    "then": "Ibn Kathir lists the signs: {idea}plants, animals, valleys, mountains, deserts, rivers and oceans,{/idea} and people with different languages, colors, intentions and abilities. They testify to the Creator's power. Maududi notes the surah invites people to study the earth and heavens and test the message against them.",
+    "now": "On a train, look around the carriage: a dozen languages, faces, stories. Outside the window, fields, a river, a hill. {idea}The whole scene is a page of signs.{/idea} Certainty grows by reading it.",
+    "old": "I would believe more firmly if I saw something extraordinary.",
+    "new": "The ordinary earth is already full of signs; certainty is learning to read them.",
+    "try": "On your next journey, look out the window instead of at your phone and name three signs you see.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:21", "surah": 51, "ayah": 21, "place": "makkah",
+    "title": "And in yourselves. Will you not see?",
+    "subtitle": "The closest sign is your own body",
+    "picture": {"kind": "boxes", "label": "The sign in you", "row": [
+      {"box": "idea", "title": "every organ", "sub": ["in its right place"]},
+      {"box": "idea", "title": "flexible joints", "sub": ["made for worship"]},
+      {"conn": "asks"},
+      {"box": "people", "title": "will you not see?", "sub": []}]},
+    "key": {"label": "Where to look", "row": [
+      {"box": "people", "title": "out there", "sub": ["far away"], "strike": true},
+      {"box": "idea", "title": "in yourselves", "sub": ["wa fi anfusikum"]}]},
+    "then": "After the signs on earth, Allah points inward. Ibn Kathir says He {idea}put every organ in its rightful place.{/idea} Qatadah said whoever thinks about his own creation will see {idea}he was made with flexible joints so that worship is easy for him.{/idea}",
+    "now": "You bend into sujood without thinking: knees, hands, forehead, all moving together. You blink, breathe, heal a paper cut by tomorrow. {idea}A sign you carry everywhere.{/idea}",
+    "old": "My body is just something I live in.",
+    "new": "My own body is a sign of Allah, built so that worship comes easily.",
+    "try": "In your next sujood, notice for a moment how every joint made that position possible, and thank Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:22", "surah": 51, "ayah": 22, "place": "makkah",
+    "title": "Your provision is in the sky, and what you are promised.",
+    "subtitle": "Rain above, Paradise beyond",
+    "picture": {"kind": "boxes", "label": "In the heaven", "row": [
+      {"box": "reward", "title": "your provision", "sub": ["the rain"]},
+      {"box": "reward", "title": "what you are promised", "sub": ["Paradise"]}]},
+    "key": {"label": "Where my rizq is", "row": [
+      {"box": "people", "title": "in my job", "sub": ["if I lose it, I am lost"], "strike": true},
+      {"box": "reward", "title": "in the heaven", "sub": ["with Allah"]}]},
+    "then": "Ibn Abbas, Mujahid and others said {reward}provision in the heaven is the rain,{/reward} and {reward}what you are promised is Paradise.{/reward} Both come from above. The verses about signs end by turning your eyes upward.",
+    "now": "A redundancy email lands on a Tuesday morning. Your stomach drops because the job felt like where your food came from. {reward}Your provision was always in the heaven.{/reward} {idea}The job was one door it came through.{/idea}",
+    "old": "My income depends entirely on my employer.",
+    "new": "My provision is decreed above; jobs are only the doors it comes through.",
+    "try": "Before you look at your bank balance next, say: O Allah, You are my provider.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:23", "surah": 51, "ayah": 23, "place": "makkah",
+    "title": "As true as the fact that you can speak.",
+    "subtitle": "An oath by the Lord of heaven and earth",
+    "picture": {"kind": "boxes", "label": "How certain", "row": [
+      {"box": "idea", "title": "by the Lord", "sub": ["of heaven and earth"]},
+      {"conn": "it is"},
+      {"box": "reward", "title": "the truth", "sub": ["Judgment, Resurrection, Recompense"]},
+      {"conn": "as sure as"},
+      {"box": "people", "title": "you speaking", "sub": ["right now"]}]},
+    "key": {"label": "Level of certainty", "row": [
+      {"box": "people", "title": "probably true", "sub": [], "strike": true},
+      {"box": "idea", "title": "as real as your voice", "sub": ["no doubt at all"]}]},
+    "then": "Allah swears by Himself: {idea}all they were promised, Judgment, Resurrection and Recompense, will certainly occur.{/idea} Ibn Kathir says do not doubt it, just as you do not doubt that you can speak. Mu'adh used to tell his friends: {reward}what I say is as true as your being here.{/reward}",
+    "now": "Say something out loud right now. You heard it; you do not doubt it happened. {idea}That is the level of certainty this verse asks you to hold about the Day.{/idea}",
+    "old": "I believe in the Hereafter, but it feels less real than my daily life.",
+    "new": "The Hereafter is as real as my own voice, sworn by the Lord of heaven and earth.",
+    "try": "Say out loud today: the meeting with Allah is true. Hear yourself say it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:24", "surah": 51, "ayah": 24, "place": "makkah",
+    "title": "Has the story of Ibrahim's honored guests reached you?",
+    "subtitle": "A new story begins at a doorstep",
+    "picture": {"kind": "boxes", "label": "The visit", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["the Friend of Allah"]},
+      {"conn": "receives"},
+      {"box": "people", "title": "honored guests", "sub": ["three angels in human form"]}]},
+    "key": {"label": "Why honored", "row": [
+      {"box": "people", "title": "they were important", "sub": [], "strike": true},
+      {"box": "idea", "title": "he honored them", "sub": ["before knowing who they were"]}]},
+    "then": "Allah turns to a story told also in Surah Hud and Al-Hijr. Ibn Kathir says these were {idea}the guests whom Ibrahim honored.{/idea} They were three angels, Jibril, Mika'il and Israfil, who came looking like men. {reward}He honored them without knowing who they were.{/reward}",
+    "now": "A new neighbor knocks to ask for a ladder. A stranger shows up at the masjid after Jumu'ah, alone. {idea}You do not know who they are.{/idea} {reward}Ibrahim did not know either, and he honored them.{/reward}",
+    "old": "I make an effort for guests who matter.",
+    "new": "Every guest is worth honoring, because I never know who is at my door.",
+    "try": "Welcome one person today, a new colleague or neighbor, more warmly than you normally would.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:25", "surah": 51, "ayah": 25, "place": "makkah",
+    "title": "They said peace, and he answered with a fuller peace.",
+    "subtitle": "Returning a greeting better than it came",
+    "picture": {"kind": "boxes", "label": "The greeting", "row": [
+      {"box": "people", "title": "the guests", "sub": ["salaman"]},
+      {"conn": "he replies"},
+      {"box": "reward", "title": "Ibrahim", "sub": ["salamun, stronger"]},
+      {"box": "plain", "title": "strangers", "sub": ["a people unknown"]}]},
+    "key": {"label": "Returning a greeting", "row": [
+      {"box": "people", "title": "the same or less", "sub": [], "strike": true},
+      {"box": "reward", "title": "better than given", "sub": ["4:86"]}]},
+    "then": "The guests said salaman; Ibrahim replied salamun. Ibn Kathir explains his reply is {reward}the stronger greeting{/reward}, acting on 4:86: greet back with better or equal. He said: {idea}you are a people unknown to me,{/idea} and still welcomed them.",
+    "now": "Someone says hi in the corridor and you grunt back without looking up from your phone. {reward}Ibrahim answered strangers with more warmth than they gave.{/reward} {idea}A greeting is the smallest act of hospitality.{/idea}",
+    "old": "A quick nod is enough when someone greets me.",
+    "new": "When greeted, I can give back more warmth than I received, even to strangers.",
+    "try": "Return every greeting today with something fuller: a smile, a name, a full salam.",
+    "related": ["4:86"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:26", "surah": 51, "ayah": 26, "place": "makkah",
+    "title": "He slipped away to his family and brought a fattened calf.",
+    "subtitle": "Quiet, quick, generous hospitality",
+    "picture": {"kind": "boxes", "label": "What he did", "row": [
+      {"box": "people", "title": "slipped out", "sub": ["quietly, quickly"]},
+      {"conn": "brought"},
+      {"box": "reward", "title": "a fat calf", "sub": ["the best he had"]}]},
+    "key": {"label": "How to host", "row": [
+      {"box": "people", "title": "announce it", "sub": ["we will make you food"], "strike": true},
+      {"box": "idea", "title": "just bring it", "sub": ["discreetly, the best"]}]},
+    "then": "Ibn Kathir notes Ibrahim {idea}went inside discreetly and in haste{/idea}, and brought a calf roasted on hot coals, {reward}the best of what he had.{/reward} He did not first say, we will make you food. He simply had it prepared.",
+    "now": "Friends drop by unannounced. You could say, we were not expecting anyone. Or you could quietly put the kettle on and bring out the good biscuits, the ones saved for Eid. {reward}That is the Ibrahim way.{/reward}",
+    "old": "Hospitality means offering what is easy and convenient.",
+    "new": "Real hospitality is quick, quiet, and offers the best I have without announcing it.",
+    "try": "The next time someone visits, serve them the best thing in your kitchen without asking first.",
+    "related": ["11:69"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:27", "surah": 51, "ayah": 27, "place": "makkah",
+    "title": "He set it close to them: will you not eat?",
+    "subtitle": "The gentle way to offer",
+    "picture": {"kind": "boxes", "label": "The manners", "row": [
+      {"box": "idea", "title": "placed it near", "sub": ["not far away"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "will you not eat?", "sub": ["an invitation, not an order"]}]},
+    "key": {"label": "How to invite", "row": [
+      {"box": "people", "title": "eat!", "sub": ["a command"], "strike": true},
+      {"box": "idea", "title": "won't you eat?", "sub": ["a soft invitation"]}]},
+    "then": "Ibn Kathir draws manners from this: Ibrahim {idea}placed the food close to them{/idea} and did not order them to eat. He invited with a soft question, {reward}will you not eat?{/reward} He compares it to saying, would you be kind enough to?",
+    "now": "At a family dinner, someone shy sits at the far end and the dishes never reach them. Pass the plate, set it right in front of them, and say, won't you try this? {idea}Small courtesies make guests feel wanted.{/idea}",
+    "old": "Putting food on the table is enough; people can help themselves.",
+    "new": "Bringing it close and inviting gently is part of honoring a guest.",
+    "try": "At your next meal with others, serve someone else first and invite them gently.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:28", "surah": 51, "ayah": 28, "place": "makkah",
+    "title": "He felt afraid; they said do not fear, and brought good news.",
+    "subtitle": "Unease turning into glad tidings",
+    "picture": {"kind": "boxes", "label": "The turn", "row": [
+      {"box": "trap", "title": "they did not eat", "sub": ["he felt uneasy"]},
+      {"conn": "they said"},
+      {"box": "idea", "title": "fear not", "sub": []},
+      {"box": "reward", "title": "a knowing son", "sub": ["glad tidings of Ishaq"]}]},
+    "key": {"label": "The moment of fear", "row": [
+      {"box": "people", "title": "something bad is coming", "sub": [], "strike": true},
+      {"box": "reward", "title": "good news was coming", "sub": ["behind the unease"]}]},
+    "then": "Ibn Kathir explains from 11:70: {trap}when he saw their hands did not reach for the food, he felt fear.{/trap} They said do not fear, and {reward}gave him glad tidings of a knowledgeable son,{/reward} Ishaq, news as good for him as for his wife.",
+    "now": "Your phone buzzes with a missed call from the doctor's surgery and your mind races. Sometimes the call is bad news. Sometimes it is the opposite. {idea}Unease is not a prophecy.{/idea} {reward}Ibrahim's fear was the doorway to his best news.{/reward}",
+    "old": "When something feels off, I assume the worst.",
+    "new": "A moment of unease can be the doorway to good news from Allah.",
+    "try": "The next time you feel sudden dread today, say: O Allah, I ask You for the good in this.",
+    "related": ["11:70"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:29", "surah": 51, "ayah": 29, "place": "makkah",
+    "title": "His wife cried out: a barren old woman?",
+    "subtitle": "When good news sounds impossible",
+    "picture": {"kind": "boxes", "label": "Her reaction", "row": [
+      {"box": "people", "title": "she came forward", "sub": ["with a cry"]},
+      {"conn": "struck her face"},
+      {"box": "people", "title": "old and barren", "sub": ["even when young, no child"]}]},
+    "key": {"label": "What is possible", "row": [
+      {"box": "people", "title": "too late for me", "sub": [], "strike": true},
+      {"box": "idea", "title": "not too late for Him", "sub": ["see next verse"]}]},
+    "then": "Ibn Abbas and others said she {idea}came forward crying out{/idea} and struck her forehead, as people do when confronted with something astonishing. She said, Ibn Kathir explains: {trap}how can I give birth, old as I am, when even young I could not have children?{/trap}",
+    "now": "You have been trying for years, for a child, a cure, a reconciliation, and someone says it could still happen. You almost laugh, it sounds so far away. {idea}Her reaction is honest and human.{/idea} The answer to it comes next.",
+    "old": "Some doors have been closed too long to ever open.",
+    "new": "Being astonished by good news is human, but what seems impossible to me is not to Allah.",
+    "try": "Make dua today for the one thing you stopped asking for because it seemed impossible.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "51:30", "surah": 51, "ayah": 30, "place": "makkah",
+    "title": "Thus has your Lord said; He is the Wise, the Knowing.",
+    "subtitle": "His word settles what seemed impossible",
+    "picture": {"kind": "boxes", "label": "The reply", "row": [
+      {"box": "people", "title": "a barren old woman?", "sub": ["verse 29"]},
+      {"conn": "answer"},
+      {"box": "idea", "title": "thus says your Lord", "sub": []},
+      {"box": "idea", "title": "Wise, Knowing", "sub": ["knows what you are worthy of"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "people", "title": "age, biology, odds", "sub": [], "strike": true},
+      {"box": "idea", "title": "your Lord's word", "sub": ["wise in His decisions"]}]},
+    "then": "The angels answered her: {idea}thus has your Lord said.{/idea} Ibn Kathir explains He is {reward}All-Knowing of the honor you are worthy of{/reward} and most Wise in His words and decisions. The family that could not have a child would have Ishaq, and Ya'qub after him.",
+    "now": "The fertility clinic gave you percentages. The specialist gave you odds. {idea}Those numbers are real, and so is the One above them.{/idea} {reward}When He decides, His wisdom decides the timing too.{/reward}",
+    "old": "The odds tell me what will and will not happen.",
+    "new": "My Lord's word and wisdom are above every odd, and He knows what I am worthy of.",
+    "try": "Write down one hope you have, and under it write: thus has your Lord said; He is the Wise, the Knowing.",
+    "related": ["11:72"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

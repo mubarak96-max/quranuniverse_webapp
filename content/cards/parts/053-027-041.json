@@ -1,0 +1,296 @@
+[
+  {
+    "id": "53:27", "surah": 53, "ayah": 27, "place": "makkah",
+    "title": "Not believing in the Hereafter, they named angels female.",
+    "subtitle": "Careless claims grow where accountability is denied",
+    "picture": {"kind": "boxes", "label": "Root and branch", "row": [
+      {"box": "trap", "title": "no Hereafter", "sub": ["no one will ask me"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "angels named female", "sub": ["called Allah's daughters"]}]},
+    "key": {"label": "What they never asked", "row": [
+      {"box": "trap", "title": "say anything", "sub": ["nothing is recorded"], "strike": true},
+      {"box": "idea", "title": "it will be recorded", "sub": ["and they will be questioned"]}]},
+    "then": "Ibn Kathir says Allah admonishes the idolaters for {trap}calling the angels by female names and claiming they were Allah's daughters{/trap}. He cites another verse: did they witness their creation? {idea}Their testimony will be recorded, and they will be questioned.{/idea}",
+    "now": "When you think no one will ever check, you say things more loosely. A review you never verified. A claim about someone at work. {idea}Belief in a Day of questions makes your words careful.{/idea}",
+    "old": "What I say about things I cannot see does not really matter.",
+    "new": "Every claim I make will be recorded and asked about.",
+    "try": "Before you state something as fact today, ask yourself: could I answer for this?",
+    "related": ["43:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:28", "surah": 53, "ayah": 28, "place": "makkah",
+    "title": "Guessing never takes the place of truth.",
+    "subtitle": "No knowledge, only assumption",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "trap", "title": "knowledge", "sub": ["none"], "strike": true},
+      {"box": "trap", "title": "assumption", "sub": ["all they followed"]},
+      {"conn": "against"},
+      {"box": "idea", "title": "the truth", "sub": ["avails nothing against it"]}]},
+    "key": {"label": "The weight of a guess", "row": [
+      {"box": "trap", "title": "a confident guess", "sub": ["feels like knowing"], "strike": true},
+      {"box": "idea", "title": "worth nothing", "sub": ["next to the truth"]}]},
+    "then": "Ibn Kathir says {trap}conjecture is of no benefit and never takes the place of truth{/trap}. He quotes the Prophet ﷺ: {idea}Beware of suspicion, for suspicion is the most lying speech.{/idea}",
+    "now": "Your colleague did not reply to your message, and in your head a whole story builds: they are angry, they dislike you, they are plotting. {trap}It is all a guess.{/trap} A guess, however detailed, is still not the truth.",
+    "old": "I am pretty sure, so it is basically true.",
+    "new": "A guess, however confident, is worth nothing against the truth.",
+    "try": "Catch one assumption you make about someone today and ask them instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:29", "surah": 53, "ayah": 29, "place": "makkah",
+    "title": "Turn from the one who wants only this world.",
+    "subtitle": "When someone has turned their back on the Reminder",
+    "picture": {"kind": "boxes", "label": "The one described", "row": [
+      {"box": "trap", "title": "turns away", "sub": ["from Our Reminder"]},
+      {"box": "trap", "title": "wants only", "sub": ["the life of this world"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "turn away", "sub": ["do not chase him"]}]},
+    "key": {"label": "Where to put your energy", "row": [
+      {"box": "trap", "title": "argue forever", "sub": ["with the unwilling"], "strike": true},
+      {"box": "idea", "title": "step back", "sub": ["and keep your own heart"]}]},
+    "then": "The Prophet ﷺ was told to {idea}withdraw from the one who turns away from the Reminder{/idea}. Ibn Kathir describes such a person as one {trap}whose aim and knowledge are concentrated on this life{/trap} alone.",
+    "now": "You spend hours in comment threads arguing with someone who has no interest in listening. Your evening is gone, your heart is heavier. {idea}Some conversations are a signal to step back.{/idea}",
+    "old": "I must win every argument about faith.",
+    "new": "When someone has turned away, I can step back and guard my own heart.",
+    "try": "Leave one pointless argument today, online or off, without a last word.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:30", "surah": 53, "ayah": 30, "place": "makkah",
+    "title": "That is as far as their knowledge reaches.",
+    "subtitle": "When this world is the whole syllabus",
+    "picture": {"kind": "boxes", "label": "Their ceiling", "row": [
+      {"box": "people", "title": "this world", "sub": ["its affairs, its gains"]},
+      {"conn": "is"},
+      {"box": "trap", "title": "the sum of their knowledge", "sub": ["nothing beyond it"]}]},
+    "key": {"label": "Who knows who is guided", "row": [
+      {"box": "trap", "title": "I can tell", "sub": ["by looking"], "strike": true},
+      {"box": "idea", "title": "your Lord knows best", "sub": ["who strays, who is guided"]}]},
+    "then": "Ibn Kathir says seeking this life was {trap}the best knowledge they had acquired{/trap}. He mentions the supplication: {idea}O Allah, do not make this world our greatest concern, nor the limit of our knowledge.{/idea}",
+    "now": "You know your phone plan, the best exchange rate, the price of every car you might buy. {trap}Can you say as much about what comes after?{/trap} The verse names a ceiling many of us live under.",
+    "old": "Being well informed about this world is enough.",
+    "new": "If this world is all I know, my knowledge has stopped too early.",
+    "try": "Say the dua today: O Allah, do not make this world my greatest concern.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:31", "surah": 53, "ayah": 31, "place": "makkah",
+    "title": "Everything is His, so every deed is answered.",
+    "subtitle": "Ownership leads to recompense",
+    "picture": {"kind": "boxes", "label": "Why He owns it all", "row": [
+      {"box": "idea", "title": "all in heavens and earth", "sub": ["belongs to Allah"]},
+      {"conn": "so that"},
+      {"box": "trap", "title": "evil", "sub": ["met with what it did"]},
+      {"box": "reward", "title": "good", "sub": ["met with the best"]}]},
+    "key": {"label": "The measure", "row": [
+      {"box": "trap", "title": "evil", "sub": ["repaid as it was"]},
+      {"box": "reward", "title": "good", "sub": ["repaid with what is best"]}]},
+    "then": "Ibn Kathir says Allah {idea}created the creation in truth{/idea} and rules it with justice. He repays each by their deeds. Notice the difference: evil is met with what it did, but good is met with {reward}what is best{/reward}.",
+    "now": "You helped your neighbor carry boxes and nobody thanked you. You snapped at your child and nobody saw. {idea}Nothing in the world is ownerless, so nothing is lost.{/idea} And the good is repaid with more than it was.",
+    "old": "Most of what I do goes unnoticed and unanswered.",
+    "new": "Allah owns everything, so every deed is answered, and good with the best.",
+    "try": "Do one good deed today that nobody will see.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:32", "surah": 53, "ayah": 32, "place": "makkah",
+    "title": "Vast forgiveness, so do not praise yourselves.",
+    "subtitle": "Avoid the big sins, and stay humble",
+    "picture": {"kind": "boxes", "label": "The good-doers", "row": [
+      {"box": "idea", "title": "avoid major sins", "sub": ["and immoralities"]},
+      {"box": "people", "title": "slip in small ones", "sub": ["al-lamam"]},
+      {"conn": "met by"},
+      {"box": "reward", "title": "vast forgiveness", "sub": ["from your Lord"]}]},
+    "key": {"label": "Who is pure", "row": [
+      {"box": "trap", "title": "I am a good person", "sub": ["self-praise"], "strike": true},
+      {"box": "idea", "title": "He knows best", "sub": ["who truly fears Him"]}]},
+    "then": "Ibn Kathir says the good-doers avoid major sins, and their {reward}minor faults are forgiven{/reward}. He knew you in the womb. The Prophet ﷺ changed a girl's name from Barrah, the pious one, saying {idea}do not claim purity for yourselves{/idea}.",
+    "now": "Your profile says blessed and grateful. In your head you rank yourself against the cousin who stopped praying. {trap}Self-praise is quiet and easy.{/trap} The verse reminds you who knew you before your mother did.",
+    "old": "Compared to others, I am doing pretty well.",
+    "new": "He knew me in the womb. Only He knows who is truly good.",
+    "try": "When you feel better than someone today, stop and ask Allah to forgive you both.",
+    "related": ["4:31", "39:53", "4:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:33", "surah": 53, "ayah": 33, "place": "makkah",
+    "title": "Have you seen the one who turned away?",
+    "subtitle": "A portrait that begins with turning",
+    "picture": {"kind": "boxes", "label": "The portrait", "row": [
+      {"box": "people", "title": "a man", "sub": ["who heard the call"]},
+      {"conn": "turned away"},
+      {"box": "trap", "title": "from obedience", "sub": ["his back to it"]}]},
+    "key": {"label": "Where it starts", "row": [
+      {"box": "trap", "title": "one big rejection", "sub": ["what we picture"], "strike": true},
+      {"box": "idea", "title": "turning away", "sub": ["often slow and small"]}]},
+    "then": "Ibn Kathir says Allah here {trap}chastises those who turn away from His obedience{/trap}. He links it to another verse: he neither believed nor prayed, but denied and turned away. The next verses fill in the portrait.",
+    "now": "You used to read Quran after Fajr. Then once a week. Then the app sits unopened on your phone. {trap}Turning away rarely feels like a decision.{/trap} The verse asks you to look at the person who turned, and check your own direction.",
+    "old": "Turning away is something other people do, dramatically.",
+    "new": "Turning away can happen quietly, and I should check my direction.",
+    "try": "Pick up one good habit you let slip, and do it once today.",
+    "related": ["75:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:34", "surah": 53, "ayah": 34, "place": "makkah",
+    "title": "He gave a little, then stopped.",
+    "subtitle": "Like diggers who hit a rock and quit",
+    "picture": {"kind": "boxes", "label": "His giving", "row": [
+      {"box": "reward", "title": "gave a little", "sub": ["a start"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "stopped", "sub": ["hit a rock, quit"]}]},
+    "key": {"label": "The image", "row": [
+      {"box": "people", "title": "digging a well", "sub": ["work begun"]},
+      {"box": "trap", "title": "a rock", "sub": ["we are finished"]}]},
+    "then": "Ibn Abbas said: {trap}gave a little, then stopped giving{/trap}. Ikrimah and Sa'id gave a picture: people digging a well hit a rock, say {trap}we are finished{/trap}, and abandon the work.",
+    "now": "You set up a monthly donation, then cancel it the first tight month. You started visiting your aunt, then stopped after one awkward visit. {idea}The first rock is where giving is tested.{/idea}",
+    "old": "I gave once. That counts, even if I stopped.",
+    "new": "The test is not the first gift, but carrying on past the first rock.",
+    "try": "Restart one small act of giving you dropped, even at a smaller amount.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:35", "surah": 53, "ayah": 35, "place": "makkah",
+    "title": "Does he see the unseen, that he fears poverty?",
+    "subtitle": "Stinginess pretends to know the future",
+    "picture": {"kind": "boxes", "label": "His reasoning", "row": [
+      {"box": "trap", "title": "if I keep giving", "sub": ["I will be poor"]},
+      {"conn": "assumes"},
+      {"box": "trap", "title": "knowledge of the unseen", "sub": ["which he does not have"]}]},
+    "key": {"label": "The promise instead", "row": [
+      {"box": "trap", "title": "giving shrinks me", "sub": ["fear of poverty"], "strike": true},
+      {"box": "reward", "title": "He replaces it", "sub": ["the Best of providers"]}]},
+    "then": "Ibn Kathir says he stopped giving {trap}for fear of poverty{/trap}, as if he knew the future. The Prophet ﷺ said: {reward}Spend, Bilal, and do not fear less provision from the Owner of the Throne.{/reward}",
+    "now": "Payday comes, you see a request for help, and the thought arrives: what if I need this later? {trap}That thought acts as if it can see next month.{/trap} It cannot. The Provider can.",
+    "old": "If I give now, I might not have enough later.",
+    "new": "I cannot see the future, but I know Who replaces what I spend.",
+    "try": "Give a small amount today before the what-if thought finishes.",
+    "related": ["34:39"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:36", "surah": 53, "ayah": 36, "place": "makkah",
+    "title": "Has he not heard what Musa's scriptures said?",
+    "subtitle": "An old message, already delivered",
+    "picture": {"kind": "boxes", "label": "The source", "row": [
+      {"box": "idea", "title": "scriptures of Musa", "sub": ["revealed long before"]},
+      {"conn": "already said"},
+      {"box": "idea", "title": "what follows", "sub": ["the rules of accountability"]}]},
+    "key": {"label": "Is this new", "row": [
+      {"box": "trap", "title": "a new idea", "sub": ["easy to dismiss"], "strike": true},
+      {"box": "idea", "title": "an ancient truth", "sub": ["told to earlier prophets"]}]},
+    "then": "The surah asks whether this man was never told {idea}what is in the scriptures of Musa{/idea}. Ibn Kathir says the verses that follow are what Allah revealed in the scriptures of Ibrahim and Musa. The message was not new.",
+    "now": "You hear a hard truth about responsibility and want to wave it away as someone's opinion. {idea}Some truths have been repeated by every prophet.{/idea} When something is that old and that consistent, it deserves a pause.",
+    "old": "This is just one more opinion I can ignore.",
+    "new": "This truth was already in Musa's scriptures. It is not new.",
+    "try": "Read the next few verses slowly, as words told to many prophets before.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:37", "surah": 53, "ayah": 37, "place": "makkah",
+    "title": "And Ibrahim, who fulfilled everything.",
+    "subtitle": "One word that sums up a life",
+    "picture": {"kind": "boxes", "label": "What he fulfilled", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": []},
+      {"conn": "fulfilled"},
+      {"box": "idea", "title": "every command", "sub": ["and conveyed the message"]},
+      {"conn": "so became"},
+      {"box": "reward", "title": "a leader", "sub": ["for mankind"]}]},
+    "key": {"label": "What fulfilled means", "row": [
+      {"box": "trap", "title": "most of it", "sub": ["the easy parts"], "strike": true},
+      {"box": "idea", "title": "all of it", "sub": ["what he was ordered"]}]},
+    "then": "Ibn Abbas said {idea}he delivered all that Allah ordered him to deliver{/idea}. Qatadah said he obeyed Allah and conveyed His message. Ibn Kathir links it to the trials Ibrahim completed, after which Allah made him {reward}a leader for mankind{/reward}.",
+    "now": "You finish nine steps of a task and leave the last annoying one for later. Most people do. {idea}Ibrahim is remembered with one word: he finished.{/idea}",
+    "old": "Doing most of what is asked is good enough.",
+    "new": "Ibrahim is honored because he fulfilled all of it.",
+    "try": "Finish one task today that you left at ninety percent.",
+    "related": ["2:124", "16:123"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:38", "surah": 53, "ayah": 38, "place": "makkah",
+    "title": "No one carries another's load.",
+    "subtitle": "Each soul carries its own",
+    "picture": {"kind": "boxes", "label": "The burden", "row": [
+      {"box": "people", "title": "each soul", "sub": []},
+      {"conn": "carries"},
+      {"box": "trap", "title": "its own load", "sub": ["no transfers"]}]},
+    "key": {"label": "Can family carry it", "row": [
+      {"box": "trap", "title": "my relatives will help", "sub": ["share the weight"], "strike": true},
+      {"box": "idea", "title": "nothing lifted", "sub": ["even by near kin"]}]},
+    "then": "Ibn Kathir says {idea}every soul shall carry its own wrongs{/idea}, and no one else will carry them. He cites another verse: if one heavily laden calls another to help, {trap}nothing will be lifted, even by a close relative{/trap}.",
+    "now": "You grew up blamed for your brother's mistakes, or you lean on your parents' piety to cover your own gaps. {idea}Neither is how the scales work.{/idea} You are not carrying their load, and they are not carrying yours.",
+    "old": "I will be judged with my family, or because of them.",
+    "new": "I carry only my own load, and no one can carry it for me.",
+    "try": "Let go of guilt for one thing that was someone else's choice, not yours.",
+    "related": ["35:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:39", "surah": 53, "ayah": 39, "place": "makkah",
+    "title": "You have only what you strive for.",
+    "subtitle": "Effort is the currency",
+    "picture": {"kind": "boxes", "label": "What a person gets", "row": [
+      {"box": "people", "title": "a person", "sub": []},
+      {"conn": "gets"},
+      {"box": "reward", "title": "what he strove for", "sub": ["his own effort"]}]},
+    "key": {"label": "What keeps running", "row": [
+      {"box": "reward", "title": "a righteous child", "sub": ["who prays for him"]},
+      {"box": "reward", "title": "ongoing charity", "sub": []},
+      {"box": "reward", "title": "useful knowledge", "sub": []}]},
+    "then": "Ibn Kathir says the soul {idea}only benefits from the good it earns for itself{/idea}. Even the three things that continue after death in the hadith, {reward}a righteous child, ongoing charity, beneficial knowledge{/reward}, are in reality the results of one's own efforts.",
+    "now": "You are raising kids, teaching a younger colleague, planting a tree outside the building. {reward}Those efforts keep counting after you stop.{/reward} What you build now is what you will have.",
+    "old": "What I get in the end is mostly luck or other people.",
+    "new": "What I get is what I strove for, including what keeps going after me.",
+    "try": "Teach someone one useful thing today.",
+    "related": ["36:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:40", "surah": 53, "ayah": 40, "place": "makkah",
+    "title": "Your effort will be seen.",
+    "subtitle": "Nothing done is invisible",
+    "picture": {"kind": "boxes", "label": "Who sees it", "row": [
+      {"box": "people", "title": "your effort", "sub": ["done quietly"]},
+      {"conn": "will be"},
+      {"box": "idea", "title": "seen", "sub": ["on the Day of Resurrection"]}]},
+    "key": {"label": "Unnoticed vs unseen", "row": [
+      {"box": "trap", "title": "nobody noticed", "sub": ["so it is lost"], "strike": true},
+      {"box": "idea", "title": "it will be shown", "sub": ["by the Knower of the unseen"]}]},
+    "then": "Ibn Kathir says this means {idea}on the Day of Resurrection{/idea}, citing: Do deeds, Allah will see your deeds, and His Messenger and the believers. Then you will be returned to the Knower of the unseen and the seen, {reward}who will tell you what you used to do{/reward}.",
+    "now": "You stayed late to fix a mistake that was not yours. You cared for a parent for years and nobody at work knew. {reward}It will be seen.{/reward} Nothing done for Allah is invisible.",
+    "old": "If no one sees my effort, it is wasted.",
+    "new": "Every effort will be seen, even the ones no one noticed.",
+    "try": "Do one hidden kindness today and keep it between you and Allah.",
+    "related": ["9:105"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:41", "surah": 53, "ayah": 41, "place": "makkah",
+    "title": "Then it is repaid in full.",
+    "subtitle": "The fullest recompense",
+    "picture": {"kind": "boxes", "label": "The sequence", "row": [
+      {"box": "people", "title": "effort", "sub": ["made"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "seen", "sub": ["on the Day"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "repaid", "sub": ["in full"]}]},
+    "key": {"label": "How much comes back", "row": [
+      {"box": "trap", "title": "a fraction", "sub": ["like worldly wages"], "strike": true},
+      {"box": "reward", "title": "the fullest", "sub": ["nothing short"]}]},
+    "then": "The sequence ends here. The effort is made, it is seen, and {reward}then it is repaid with the fullest recompense{/reward}. Ibn Kathir says Allah repays in the best manner, good for good and evil for evil.",
+    "now": "Your payslip never matches the hours you really put in. Your parents never got repaid for what they gave you. {reward}This verse promises a payment that is complete.{/reward}",
+    "old": "Life never pays me back for what I give.",
+    "new": "Nothing is underpaid with Allah. It comes back in full.",
+    "try": "Think of one effort that felt unrewarded and hand it over to Allah in a short dua.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

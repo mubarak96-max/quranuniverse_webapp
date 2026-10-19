@@ -1,0 +1,301 @@
+[
+  {
+    "id": "39:30", "surah": 39, "ayah": 30, "place": "makkah",
+    "title": "You will die, and they will die too.",
+    "subtitle": "The one appointment no one misses",
+    "picture": {"kind": "boxes", "label": "Who dies", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["you will die"]},
+      {"box": "people", "title": "his opponents", "sub": ["they will die"]},
+      {"conn": "then all"},
+      {"box": "idea", "title": "before Allah", "sub": ["gathered together"]}]},
+    "key": {"label": "What death means", "row": [
+      {"box": "trap", "title": "an ending", "sub": ["the argument is over"], "strike": true},
+      {"box": "idea", "title": "a passage", "sub": ["to standing before Him"]}]},
+    "then": "Ibn Kathir notes this is one of the verses {idea}Abu Bakr recited when the Prophet ﷺ died{/idea}, so people would accept that he had truly passed. Even the best of creation would taste death.",
+    "now": "You argue with a relative for years over an inheritance, a slight, a wedding seating plan. Both of you act as if there is all the time in the world. {idea}You will die. They will die.{/idea} Then what was it all for?",
+    "old": "Death is something that happens to other people, later.",
+    "new": "Death came even to the Prophet ﷺ, so I should live each day as if I will stand before Allah.",
+    "try": "Think of one quarrel you are holding onto, and ask if it would matter at your funeral.",
+    "related": ["3:144"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:31", "surah": 39, "ayah": 31, "place": "makkah",
+    "title": "Every unsettled dispute will be reopened before your Lord.",
+    "subtitle": "Arguments do not end at the grave",
+    "picture": {"kind": "boxes", "label": "The court of the Day", "row": [
+      {"box": "people", "title": "the oppressed", "sub": ["bring their case"]},
+      {"conn": "against"},
+      {"box": "trap", "title": "the oppressor", "sub": ["who thought it was over"]},
+      {"conn": "judged by"},
+      {"box": "idea", "title": "your Lord", "sub": ["rights restored"]}]},
+    "key": {"label": "What happens to old wrongs", "row": [
+      {"box": "trap", "title": "forgotten", "sub": ["time washed it away"], "strike": true},
+      {"box": "idea", "title": "repeated until settled", "sub": ["every right returned"]}]},
+    "then": "When this was revealed, Az-Zubayr asked if their wrongs against others would be repeated. The Prophet ﷺ said {idea}yes, until everyone gets their right back.{/idea} Az-Zubayr said: by Allah, this is a very serious matter.",
+    "now": "The money you borrowed and never mentioned again. The coworker whose credit you took. The harsh words to your mother. {trap}They are not closed.{/trap} {reward}You can settle them here, while it is still easy.{/reward}",
+    "old": "Old wrongs fade if nobody brings them up.",
+    "new": "Every right will be restored before Allah, so I should return what I owe now.",
+    "try": "Settle one small debt or wrong today: pay it back, give credit, or apologize.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:32", "surah": 39, "ayah": 32, "place": "makkah",
+    "title": "Lying about Allah and rejecting truth: the double wrong.",
+    "subtitle": "Who could be more unjust",
+    "picture": {"kind": "boxes", "label": "Two faults together", "row": [
+      {"box": "trap", "title": "lies about Allah", "sub": ["partners, daughters, a son"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "denies the truth", "sub": ["when it reaches him"]}]},
+    "key": {"label": "Where the wrong lies", "row": [
+      {"box": "people", "title": "never heard it", "sub": ["a different case"]},
+      {"box": "trap", "title": "heard it and refused", "sub": ["truth came to him"]}]},
+    "then": "Ibn Kathir says the idolaters claimed Allah had partners and daughters, then rejected the truth brought by the Messengers. {trap}They combined both falsehoods{/trap}, which is why no one does more wrong.",
+    "now": "Someone shows you clear proof you were wrong. You feel the sting, and the easy move is to twist the facts and dismiss them. {idea}The test is what you do when truth reaches you.{/idea}",
+    "old": "If I don't like what the truth says, I can just ignore it.",
+    "new": "Rejecting truth once it reaches me is among the greatest wrongs.",
+    "try": "Think of one point someone made that you brushed off. Reconsider it honestly today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:33", "surah": 39, "ayah": 33, "place": "makkah",
+    "title": "The one who brought the truth, and those who believed it.",
+    "subtitle": "Bringing truth and accepting it",
+    "picture": {"kind": "boxes", "label": "Two roles", "row": [
+      {"box": "people", "title": "brought the truth", "sub": ["the Messenger ﷺ"]},
+      {"conn": "and"},
+      {"box": "people", "title": "believed it", "sub": ["the Muslims"]},
+      {"conn": "they are"},
+      {"box": "reward", "title": "people of taqwa", "sub": ["shunning shirk"]}]},
+    "key": {"label": "The contrast with the last verse", "row": [
+      {"box": "trap", "title": "denied the truth", "sub": ["when it came"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "confirmed it", "sub": ["when it came"]}]},
+    "then": "Mujahid and others said the one who brought the truth is {idea}the Messenger ﷺ{/idea}, and those who believed in it are the Muslims. Ibn Abbas said they are the ones who {idea}fear and shun shirk.{/idea}",
+    "now": "Someone says something true at the family dinner and the table goes quiet. You know they are right. You can stay silent, or be the one who says: yes, that is true. {reward}Confirming truth is its own good deed.{/reward}",
+    "old": "Only the one who speaks up first gets credit.",
+    "new": "Believing and backing the truth when it comes is also taqwa.",
+    "try": "Next time someone says something true and unpopular, quietly back them up.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:34", "surah": 39, "ayah": 34, "place": "makkah",
+    "title": "Whatever they wish for, with their Lord.",
+    "subtitle": "The reward of the doers of good",
+    "picture": {"kind": "boxes", "label": "What awaits", "row": [
+      {"box": "people", "title": "doers of good", "sub": ["who confirmed the truth"]},
+      {"conn": "receive"},
+      {"box": "reward", "title": "all they desire", "sub": ["with their Lord"]}]},
+    "key": {"label": "Two kinds of wanting", "row": [
+      {"box": "trap", "title": "wants here", "sub": ["never fully met"]},
+      {"box": "reward", "title": "wants there", "sub": ["whatever they ask for"]}]},
+    "then": "Ibn Kathir explains it is in Paradise: {reward}whatever they ask for, they will have.{/reward} It is called the reward of the muhsinin, those who do good.",
+    "now": "Your wish list grows every month: a better car, a bigger place, a holiday. Every wish met makes room for a new one. {reward}There is a place where wanting finally rests.{/reward}",
+    "old": "I will be happy once I get the next thing I want.",
+    "new": "The wishes that are fully met are kept with my Lord for those who do good.",
+    "try": "Delete one item from your shopping cart today and give its price, or part of it, in charity.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:35", "surah": 39, "ayah": 35, "place": "makkah",
+    "title": "Your worst erased, your best becomes the measure.",
+    "subtitle": "How Allah rewards the doers of good",
+    "picture": {"kind": "boxes", "label": "Two things He does", "row": [
+      {"box": "trap", "title": "worst deeds", "sub": ["wiped away"], "strike": true},
+      {"conn": "and"},
+      {"box": "reward", "title": "best deeds", "sub": ["set the reward"]}]},
+    "key": {"label": "How the record is read", "row": [
+      {"box": "trap", "title": "judged by my worst", "sub": ["one mistake defines me"], "strike": true},
+      {"box": "idea", "title": "rewarded by my best", "sub": ["for those who do good"]}]},
+    "then": "Ibn Kathir links it to the verse about people whose {reward}best deeds are accepted and whose evil deeds are overlooked.{/reward} This is the reward for those who brought and confirmed the truth.",
+    "now": "You keep replaying the worst thing you ever did, the night you would undo if you could. It feels like the headline of your life. {reward}For those who turn to Him and do good, the worst is erased and the best is the measure.{/reward}",
+    "old": "My worst mistake is who I really am.",
+    "new": "Allah can wipe my worst and pay me by the measure of my best.",
+    "try": "Do one good deed today with full effort, the kind you would want to be measured by.",
+    "related": ["46:16"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:36", "surah": 39, "ayah": 36, "place": "makkah",
+    "title": "Is Allah not enough for His servant?",
+    "subtitle": "When they try to frighten you",
+    "picture": {"kind": "boxes", "label": "The threat", "row": [
+      {"box": "trap", "title": "the idols", "sub": ["used to scare the Prophet ﷺ"]},
+      {"conn": "against"},
+      {"box": "people", "title": "His servant", "sub": ["who worships and relies"]},
+      {"conn": "protected by"},
+      {"box": "idea", "title": "Allah", "sub": ["sufficient"]}]},
+    "key": {"label": "What is enough", "row": [
+      {"box": "trap", "title": "I need backup", "sub": ["people, power, luck"], "strike": true},
+      {"box": "idea", "title": "Allah suffices", "sub": ["for the one who relies on Him"]}]},
+    "then": "Ibn Kathir says the idolaters {trap}tried to scare the Messenger ﷺ with their idols.{/trap} The reply is a question: {idea}is Allah not sufficient for His servant?{/idea} Some read it as His servants, covering all who rely on Him.",
+    "now": "A manager hints your contract may not be renewed. A relative warns that people will talk. Fear sits in your chest at 3am. {idea}Is Allah not enough for you?{/idea}",
+    "old": "I need to cover every angle myself or I am unsafe.",
+    "new": "Allah is enough for the one who worships Him and relies on Him.",
+    "try": "When a fear comes up today, say hasbunallah and name the fear to Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:37", "surah": 39, "ayah": 37, "place": "makkah",
+    "title": "Whom Allah guides, no one can mislead.",
+    "subtitle": "Guidance that cannot be taken away",
+    "picture": {"kind": "boxes", "label": "Who holds guidance", "row": [
+      {"box": "idea", "title": "Allah guides", "sub": ["the one who turns to Him"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "misleaders", "sub": ["powerless over him"], "strike": true}]},
+    "key": {"label": "Why it holds", "row": [
+      {"box": "idea", "title": "the Almighty", "sub": ["cannot be overwhelmed"]},
+      {"box": "idea", "title": "Owner of Retribution", "sub": ["against those who resist"]}]},
+    "then": "Ibn Kathir explains that {idea}whoever relies on Him and turns to Him will never be forsaken{/idea}, for He is the Almighty whom no one can overwhelm. This came while the Prophet ﷺ faced threats in Makkah.",
+    "now": "You worry that the new job, the new city, the new friends will pull you away from your deen. You feel fragile. {reward}Stay turned toward Him{/reward}, and no crowd can pull out what He placed.",
+    "old": "My faith could be taken from me at any time by the wrong people.",
+    "new": "When I keep turning to Allah, no one can mislead what He guides.",
+    "try": "Ask Allah today, in your own words, to keep your heart firm on His way.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:38", "surah": 39, "ayah": 38, "place": "makkah",
+    "title": "No one can lift His harm or hold back His mercy.",
+    "subtitle": "Sufficient for me is Allah",
+    "picture": {"kind": "boxes", "label": "The test question", "row": [
+      {"box": "trap", "title": "if He wills harm", "sub": ["can they remove it?"]},
+      {"box": "reward", "title": "if He wills mercy", "sub": ["can they withhold it?"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "hasbiyallah", "sub": ["Allah is enough for me"]}]},
+    "key": {"label": "What they already admit", "row": [
+      {"box": "people", "title": "Allah created all", "sub": ["they said so"]},
+      {"box": "trap", "title": "yet called on others", "sub": ["who cannot help or harm"], "strike": true}]},
+    "then": "The idolaters admitted Allah created the heavens and earth, yet called on others. Ibn Kathir cites the Prophet's ﷺ words: {idea}if the whole nation gathered to harm you, they could not, except what Allah decreed.{/idea}",
+    "now": "You keep checking the job portal, refreshing the inbox, calling the friend with connections. {trap}As if they decide.{/trap} Do your part, then rest: {reward}if He wills mercy, no one can block it.{/reward}",
+    "old": "My outcome depends on the right people saying yes.",
+    "new": "No one can stop a mercy Allah sends, so I rely on Him and do my part.",
+    "try": "After doing all you can for one worry today, say hasbiyallahu alayhi tawakkaltu and let it go.",
+    "related": ["11:54"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:39", "surah": 39, "ayah": 39, "place": "makkah",
+    "title": "Do your work, I will do mine. You will see.",
+    "subtitle": "Staying on your way under pressure",
+    "picture": {"kind": "boxes", "label": "Two workers", "row": [
+      {"box": "people", "title": "you work", "sub": ["your way"]},
+      {"box": "idea", "title": "I work", "sub": ["my way"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "you will know", "sub": ["the outcome shows"]}]},
+    "key": {"label": "How to respond", "row": [
+      {"box": "trap", "title": "win every argument", "sub": ["exhausting, endless"], "strike": true},
+      {"box": "idea", "title": "keep working", "sub": ["let the end speak"]}]},
+    "then": "Ibn Kathir calls it {trap}a threat and a warning{/trap} to those who opposed. The surah introduction says the Prophet ﷺ was to tell them their persecution would never deter him; {idea}he would continue his mission.{/idea}",
+    "now": "Your friends mock your choice not to drink at the office party. You could argue all night. Or you smile, drink your juice, and keep living your way. {idea}Time shows whose way was wise.{/idea}",
+    "old": "I need to convince everyone that I am right.",
+    "new": "I keep doing what is right and leave the outcome to show itself.",
+    "try": "Next time your faith is mocked, do not argue. Stay kind and stay the course.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:40", "surah": 39, "ayah": 40, "place": "makkah",
+    "title": "Disgrace here, and a lasting punishment after.",
+    "subtitle": "The end the warning points to",
+    "picture": {"kind": "boxes", "label": "What they will know", "row": [
+      {"box": "trap", "title": "disgrace", "sub": ["in this world"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "enduring punishment", "sub": ["on the Day"]}]},
+    "key": {"label": "The reply to it", "row": [
+      {"box": "people", "title": "it will not be me", "sub": ["careless confidence"], "strike": true},
+      {"box": "idea", "title": "seek refuge", "sub": ["and change course"]}]},
+    "then": "Ibn Kathir says the disgracing torment comes {trap}in this world{/trap} and the enduring one on the Day of Resurrection. He ends: {idea}we seek refuge with Allah from that.{/idea}",
+    "now": "You read a warning like this and quickly think of someone else who deserves it. {idea}Turn it inward.{/idea} Which part of my own way of living would I not want to bring before Him?",
+    "old": "Warnings like this are for the really bad people.",
+    "new": "Every warning is a chance for me to seek refuge and fix my own path.",
+    "try": "Say a'udhu billah sincerely once today and mean it for yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:41", "surah": 39, "ayah": 41, "place": "makkah",
+    "title": "Guidance benefits you; straying harms only you.",
+    "subtitle": "The messenger is not a guard over people",
+    "picture": {"kind": "boxes", "label": "Where it lands", "row": [
+      {"box": "idea", "title": "the Book", "sub": ["for all people, in truth"]},
+      {"conn": "if guided"},
+      {"box": "reward", "title": "for yourself", "sub": []},
+      {"conn": "if astray"},
+      {"box": "trap", "title": "against yourself", "sub": []}]},
+    "key": {"label": "The Prophet's ﷺ role", "row": [
+      {"box": "trap", "title": "trustee over them", "sub": ["forces them"], "strike": true},
+      {"box": "idea", "title": "a warner", "sub": ["conveys; Allah reckons"]}]},
+    "then": "Ibn Kathir explains the Book is for all of creation, and {idea}the benefit of guidance returns to the one guided.{/idea} The Prophet ﷺ was told he is not responsible for guiding them; his duty is to convey.",
+    "now": "You pray, you fast, you give, and part of you thinks you are doing Allah a favor. Or you skip it all and think it only affects your mood. {idea}It all comes back to you.{/idea}",
+    "old": "My worship is something I do for Allah's sake only, as a favor.",
+    "new": "Every step of guidance benefits my own soul, and every step away harms it.",
+    "try": "Before your next prayer, tell yourself: this is for my own soul.",
+    "related": ["11:12", "13:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:42", "surah": 39, "ayah": 42, "place": "makkah",
+    "title": "Every night He takes your soul, and most mornings returns it.",
+    "subtitle": "Sleep as a small death",
+    "picture": {"kind": "boxes", "label": "Two takings", "row": [
+      {"box": "trap", "title": "the greater death", "sub": ["soul kept"]},
+      {"box": "people", "title": "the lesser death", "sub": ["sleep"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "sent back", "sub": ["for a set term"]}]},
+    "key": {"label": "What waking means", "row": [
+      {"box": "trap", "title": "automatic", "sub": ["of course I wake up"], "strike": true},
+      {"box": "idea", "title": "a return", "sub": ["my soul sent back to me"]}]},
+    "then": "Ibn Kathir describes sleep as a lesser death. The Prophet ﷺ taught a bedtime dua: {idea}if You take my soul, have mercy on it, and if You send it back, protect it.{/idea}",
+    "now": "You fall asleep scrolling, phone on your face. You wake to an alarm and reach for it again. {reward}Your soul was taken and handed back.{/reward} That deserves more than a groan.",
+    "old": "Waking up every day is just normal.",
+    "new": "Every waking is my soul returned to me, a new term granted by Allah.",
+    "try": "Tonight, before sleep, say: In Your name, my Lord, I lie down, and in Your name I rise.",
+    "related": ["6:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:43", "surah": 39, "ayah": 43, "place": "makkah",
+    "title": "Intercessors that own nothing and understand nothing.",
+    "subtitle": "Whom do you rely on to speak for you",
+    "picture": {"kind": "boxes", "label": "What they chose", "row": [
+      {"box": "people", "title": "the idolaters", "sub": ["by their own whims"]},
+      {"conn": "took"},
+      {"box": "trap", "title": "intercessors", "sub": ["own nothing, no reason"]}]},
+    "key": {"label": "A check on reliance", "row": [
+      {"box": "trap", "title": "it will speak for me", "sub": ["charm, name, status"], "strike": true},
+      {"box": "idea", "title": "powerless", "sub": ["cannot hear or see"]}]},
+    "then": "Ibn Kathir says they took idols {trap}on the basis of their own whims, with no evidence.{/trap} These cannot think, hear, or see, yet they were expected to plead before Allah.",
+    "now": "You carry a lucky charm to the interview. You trust your family name to get you through. You think your title will speak for you someday. {idea}Ask what it actually owns.{/idea}",
+    "old": "Something or someone will put in a good word for me.",
+    "new": "Things that own nothing cannot speak for me before Allah.",
+    "try": "Notice one object or habit you treat as a good-luck guarantee, and let it go today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:44", "surah": 39, "ayah": 44, "place": "makkah",
+    "title": "All intercession belongs to Allah alone.",
+    "subtitle": "No one speaks without His permission",
+    "picture": {"kind": "boxes", "label": "Who decides", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["owns all intercession"]},
+      {"box": "idea", "title": "His dominion", "sub": ["heavens and earth"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you return", "sub": ["to Him"]}]},
+    "key": {"label": "How intercession works", "row": [
+      {"box": "trap", "title": "pull strings", "sub": ["find the right person"], "strike": true},
+      {"box": "idea", "title": "by His leave", "sub": ["for whom He is pleased with"]}]},
+    "then": "Ibn Kathir explains that intercession {idea}avails only for one Allah is pleased with, by His permission.{/idea} He cites the Throne Verse: who can intercede with Him except by His leave?",
+    "now": "You hope that being near pious people will be enough: the right mosque, the right circle, the scholar friend. Good company helps. {idea}But the one to please is Allah Himself.{/idea}",
+    "old": "Being close to good people will cover me.",
+    "new": "All intercession is His to grant, so my effort goes to pleasing Him.",
+    "try": "Do one act today purely to please Allah, not to be seen near anyone.",
+    "related": ["2:255"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "id": "37:1", "surah": 37, "ayah": 1, "place": "makkah",
+    "title": "By the angels standing in perfect rows.",
+    "subtitle": "Why ranks of angels are sworn by",
+    "picture": {"kind": "boxes", "label": "The first oath", "row": [
+      {"box": "people", "title": "the angels", "sub": ["in the heavens"]},
+      {"conn": "stand in"},
+      {"box": "idea", "title": "ranks", "sub": ["front rows completed first"]},
+      {"conn": "witnessing"},
+      {"box": "idea", "title": "One God", "sub": ["what the oath leads to"]}]},
+    "key": {"label": "What a row means", "row": [
+      {"box": "people", "title": "a line is just a line", "sub": ["stand anywhere"], "strike": true},
+      {"box": "idea", "title": "a row is worship", "sub": ["like the angels before their Lord"]}]},
+    "then": "Ibn Masud and many others said these are {idea}the angels{/idea}. Qatadah said they form ranks in the heavens. The Prophet ﷺ told his companions to form rows {idea}as the angels do before their Lord{/idea}: complete the front rows and stand close.",
+    "now": "You arrive at the mosque and stand at the back with gaps on either side, half thinking about your phone. {idea}The angels are standing in rows too, right now, in the heavens.{/idea} Your row on earth echoes theirs.",
+    "old": "Where I stand in prayer does not really matter.",
+    "new": "When I straighten my row, I am standing the way the angels stand.",
+    "try": "In your next congregational prayer, fill the gap beside you and straighten your line.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:2", "surah": 37, "ayah": 2, "place": "makkah",
+    "title": "By the angels who drive the clouds.",
+    "subtitle": "The unseen workers behind the weather",
+    "picture": {"kind": "boxes", "label": "The second oath", "row": [
+      {"box": "people", "title": "the angels", "sub": ["at work"]},
+      {"conn": "drive"},
+      {"box": "reward", "title": "the clouds", "sub": ["carrying rain"]}]},
+    "key": {"label": "Who moves the sky", "row": [
+      {"box": "people", "title": "just weather", "sub": ["pressure and wind"], "strike": true},
+      {"box": "idea", "title": "driven by command", "sub": ["angels doing their work"]}]},
+    "then": "Ibn Masud said these too are {idea}the angels{/idea}. As-Suddi and others said they {idea}drive the clouds.{/idea} For people living in the dry valleys of Makkah, clouds meant rain and life.",
+    "now": "You check the weather app and grumble at rain on your day off. {idea}Behind every cloud is a command being carried out{/idea}, and the rain is somebody's crop, somebody's drinking water.",
+    "old": "The weather is just something that happens.",
+    "new": "Even the clouds are moved by Allah's servants, on His orders.",
+    "try": "When you see clouds or rain today, say a short thanks for the rain and its blessing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:3", "surah": 37, "ayah": 3, "place": "makkah",
+    "title": "By the angels who bring the reminder.",
+    "subtitle": "The message came through a chain of trust",
+    "picture": {"kind": "boxes", "label": "The third oath", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the source"]},
+      {"conn": "sends through"},
+      {"box": "people", "title": "the angels", "sub": ["reciting the message"]},
+      {"conn": "to"},
+      {"box": "people", "title": "mankind", "sub": ["Scriptures and the Quran"]}]},
+    "key": {"label": "Where the words come from", "row": [
+      {"box": "trap", "title": "a man's ideas", "sub": ["made up"], "strike": true},
+      {"box": "idea", "title": "brought from Allah", "sub": ["carried by angels"]}]},
+    "then": "As-Suddi said {idea}the angels bring the Scriptures and the Quran from Allah to mankind.{/idea} Three oaths by the angels come before the main statement, like a solemn opening before something important is said.",
+    "now": "The Quran app on your phone sits between a game and a shopping app. It looks like just another app. {idea}The words in it travelled from Allah, through angels, to you.{/idea}",
+    "old": "The Quran is a book I can open whenever.",
+    "new": "The Quran is a message brought down by angels, and it reached me.",
+    "try": "Before you next open the Quran, pause for a second and remember where it came from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:4", "surah": 37, "ayah": 4, "place": "makkah",
+    "title": "Your God is One.",
+    "subtitle": "What the three oaths were leading to",
+    "picture": {"kind": "boxes", "label": "The oath and its point", "row": [
+      {"box": "people", "title": "rows, clouds, message", "sub": ["three oaths"]},
+      {"conn": "all point to"},
+      {"box": "idea", "title": "1", "sub": ["your God is One"], "num": true}]},
+    "key": {"label": "How many to please", "row": [
+      {"box": "trap", "title": "many masters", "sub": ["boss, crowd, idols, ego"], "strike": true},
+      {"box": "idea", "title": "One God", "sub": ["one to please"]}]},
+    "then": "Ibn Kathir says this is the statement the oaths confirm: {idea}there is no god worthy of worship but He.{/idea} The Quraysh worshipped many idols and mocked the Prophet ﷺ for calling to one God.",
+    "now": "Your boss wants one thing, your parents another, your friends a third, and your feed tells you who to be. {trap}You are pulled in ten directions.{/trap} {idea}One God means one direction.{/idea}",
+    "old": "I have to keep everyone happy.",
+    "new": "I only have One to answer to, and that makes life simpler.",
+    "try": "When you feel torn today, ask: what would please Allah here? Let that decide.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:5", "surah": 37, "ayah": 5, "place": "makkah",
+    "title": "Lord of every sunrise.",
+    "subtitle": "The One God runs the whole sky",
+    "picture": {"kind": "boxes", "label": "His lordship", "row": [
+      {"box": "idea", "title": "heavens", "sub": ["and all their stars"]},
+      {"box": "idea", "title": "earth", "sub": ["and all in it"]},
+      {"box": "idea", "title": "in between", "sub": ["every created thing"]},
+      {"box": "idea", "title": "the sunrises", "sub": ["each rising point"]}]},
+    "key": {"label": "Who controls the sky", "row": [
+      {"box": "people", "title": "it runs by itself", "sub": ["just orbits"], "strike": true},
+      {"box": "idea", "title": "Lord of the risings", "sub": ["controlling each one"]}]},
+    "then": "Ibn Kathir says He is the Sovereign who controls {idea}the stars and planets that rise in the east and set in the west.{/idea} The sun rises from a different point through the year, and He is Lord of each one.",
+    "now": "Your alarm goes off before dawn. Outside, the sun is coming up from a slightly different spot than last month. {idea}Every single sunrise is under His care{/idea}, including the one that started your day.",
+    "old": "Sunrise is just the start of another busy day.",
+    "new": "Each sunrise is placed there by my Lord, and so is my day.",
+    "try": "Watch the sunrise or the morning light once this week, and say the morning remembrance.",
+    "related": ["70:40", "55:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:6", "surah": 37, "ayah": 6, "place": "makkah",
+    "title": "The stars are decoration for the nearest sky.",
+    "subtitle": "Beauty placed for those who look up",
+    "picture": {"kind": "boxes", "label": "The sky", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["adorned it"]},
+      {"conn": "with"},
+      {"box": "reward", "title": "the stars", "sub": ["light and beauty"]},
+      {"conn": "for"},
+      {"box": "people", "title": "those who look", "sub": ["the people of earth"]}]},
+    "key": {"label": "Why the sky is beautiful", "row": [
+      {"box": "people", "title": "an accident", "sub": ["no one meant it"], "strike": true},
+      {"box": "reward", "title": "adornment", "sub": ["placed for the onlookers"]}]},
+    "then": "Ibn Kathir says Allah adorned the lowest heaven {reward}for those on earth who look at it{/reward}, and the stars give them light. He links it to 67:5 and 15:16, where the sky is beautified for the beholders.",
+    "now": "You have not looked at the night sky properly in months. Streetlights, screens, ceilings. {reward}The decoration is still up there{/reward}, put there for you to see.",
+    "old": "The sky is just there; I hardly notice it.",
+    "new": "The stars are a gift of beauty, and I am one of the people they were placed for.",
+    "try": "Turn off a light tonight and look at the sky for a few minutes.",
+    "related": ["67:5", "15:16"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:7", "surah": 37, "ayah": 7, "place": "makkah",
+    "title": "The sky is also guarded against rebel devils.",
+    "subtitle": "Beauty and protection in the same thing",
+    "picture": {"kind": "boxes", "label": "Two jobs of the stars", "row": [
+      {"box": "reward", "title": "adornment", "sub": ["beauty for us"]},
+      {"box": "idea", "title": "protection", "sub": ["a guard"]},
+      {"conn": "against"},
+      {"box": "trap", "title": "rebellious devils", "sub": ["insolent, trying to eavesdrop"]}]},
+    "key": {"label": "Is the message safe?", "row": [
+      {"box": "trap", "title": "anyone can tamper", "sub": ["devils can steal it"], "strike": true},
+      {"box": "idea", "title": "it is guarded", "sub": ["as it should be"]}]},
+    "then": "Ibn Kathir says this guards the heaven {idea}as it should be protected{/idea} from every insolent devil. When one tries to eavesdrop on the news in the heavens, {trap}a piercing fire comes and burns him.{/trap}",
+    "now": "You install security on your phone and lock the front door at night. You protect what matters. {idea}Allah protected His revelation far more carefully{/idea}, so what reached you is clean.",
+    "old": "Who knows what got mixed into the message over time.",
+    "new": "Allah guarded His revelation from the start, so I can trust it.",
+    "try": "Say a'udhu billah before reciting today, asking Allah to guard your heart as He guarded His word.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:8", "surah": 37, "ayah": 8, "place": "makkah",
+    "title": "They cannot listen in. They are struck from every side.",
+    "subtitle": "No way in to the exalted assembly",
+    "picture": {"kind": "boxes", "label": "The barrier", "row": [
+      {"box": "trap", "title": "the devils", "sub": ["trying to listen"]},
+      {"conn": "cannot reach"},
+      {"box": "idea", "title": "the exalted assembly", "sub": ["angels speaking of decrees"]},
+      {"box": "trap", "title": "pelted", "sub": ["from every direction"]}]},
+    "key": {"label": "Secret knowledge", "row": [
+      {"box": "trap", "title": "someone has the inside info", "sub": ["fortune tellers, whispers"], "strike": true},
+      {"box": "idea", "title": "the door is shut", "sub": ["from every side"]}]},
+    "then": "Ibn Kathir says the devils {trap}cannot reach the higher group{/trap}, the angels in the heavens, when they speak of Allah's laws and decrees. They are hit from all directions they try to approach from.",
+    "now": "A horoscope pops up in your feed. A relative swears by a fortune teller. {idea}The unseen is locked away from them{/idea}, struck from every side. Nobody has a back door into what Allah decrees.",
+    "old": "Maybe some people really can see what is coming for me.",
+    "new": "The unseen belongs to Allah, and those who claim it are cut off.",
+    "try": "Next time a horoscope or prediction shows up, scroll past and say tawakkaltu ala Allah.",
+    "related": ["34:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:9", "surah": 37, "ayah": 9, "place": "makkah",
+    "title": "Driven back, and a lasting punishment ahead.",
+    "subtitle": "Rebellion gets pushed away",
+    "picture": {"kind": "boxes", "label": "Their end", "row": [
+      {"box": "trap", "title": "repelled", "sub": ["rejected and prevented"]},
+      {"conn": "and later"},
+      {"box": "trap", "title": "constant punishment", "sub": ["in the Hereafter"]}]},
+    "key": {"label": "What rebellion gets", "row": [
+      {"box": "people", "title": "pushing in works", "sub": ["keep trying, you get through"], "strike": true},
+      {"box": "idea", "title": "rebellion is repelled", "sub": ["now and later"]}]},
+    "then": "Ibn Kathir says the devils are {trap}rejected, repelled and prevented{/trap} from reaching the heaven. In the Hereafter they will have an ongoing punishment, as 67:5 also says.",
+    "now": "You keep pushing at something you know is wrong: the shortcut at work, the habit you hide. It never quite gets you where you want. {idea}Some doors are shut for a reason.{/idea} Turning back is always open.",
+    "old": "If I push hard enough, I can get away with it.",
+    "new": "Going against Allah's order only pushes me further away, so I would rather turn back.",
+    "try": "Name one thing you keep forcing that you know is not right. Stop pushing at it today.",
+    "related": ["67:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:10", "surah": 37, "ayah": 10, "place": "makkah",
+    "title": "One word snatched, nine lies added.",
+    "subtitle": "Why stolen whispers are not to be trusted",
+    "picture": {"kind": "boxes", "label": "What happens", "row": [
+      {"box": "trap", "title": "a devil", "sub": ["snatches one word"]},
+      {"conn": "chased by"},
+      {"box": "idea", "title": "a piercing flame", "sub": ["shining brightly"]},
+      {"box": "trap", "title": "the soothsayer", "sub": ["gets one truth, many lies"]}]},
+    "key": {"label": "The mix", "row": [
+      {"box": "trap", "title": "it came true once", "sub": ["so trust it"], "strike": true},
+      {"box": "trap", "title": "1 truth, 9 lies", "sub": ["that is the recipe"]}]},
+    "then": "Ibn Abbas said devils once sat listening, then {trap}added nine words of their own{/trap} to every word they heard. When the Prophet ﷺ was sent, {idea}the flaming fire would strike them every time.{/idea}",
+    "now": "A rumour in the family group has one true detail, so everyone believes the rest. A scam email uses your real name. {trap}One true piece makes the lies feel safe.{/trap}",
+    "old": "If part of it is true, the rest is probably true too.",
+    "new": "A little truth is often used to carry a lot of falsehood.",
+    "try": "Before you forward the next message today, check whether all of it is true.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:11", "surah": 37, "ayah": 11, "place": "makkah",
+    "title": "Ask them: are you harder to make, or the heavens?",
+    "subtitle": "Made of sticky clay, doubting a return",
+    "picture": {"kind": "boxes", "label": "The comparison", "row": [
+      {"box": "people", "title": "humans", "sub": ["from sticky clay"]},
+      {"conn": "or"},
+      {"box": "idea", "title": "heavens, earth, angels", "sub": ["the mighty creatures"]},
+      {"box": "idea", "title": "which is harder?", "sub": ["they admitted: the heavens"]}]},
+    "key": {"label": "What you are made of", "row": [
+      {"box": "people", "title": "I am too much to remake", "sub": ["too complex"], "strike": true},
+      {"box": "idea", "title": "clay that sticks", "sub": ["simple for Him"]}]},
+    "then": "Ibn Masud said they {idea}admitted the heavens were harder to create{/idea} than they were. So why deny the resurrection? Mujahid and others said sticky clay is {idea}mud that clings to itself{/idea}, a humble start.",
+    "now": "Clay stuck to your shoes after a rainy walk, hard to scrape off. That is the material you began from. {idea}The One who built the sky out of nothing is not stretched by you.{/idea}",
+    "old": "I am too complicated a case for anything to fix.",
+    "new": "I began as clay, and the One who made the heavens can easily remake me.",
+    "try": "Touch some soil or clay today and remember where you came from.",
+    "related": ["40:57"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:12", "surah": 37, "ayah": 12, "place": "makkah",
+    "title": "You were amazed, and they were laughing.",
+    "subtitle": "Two reactions to the same truth",
+    "picture": {"kind": "boxes", "label": "Two reactions", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["astounded at their denial"]},
+      {"box": "trap", "title": "the deniers", "sub": ["mocking"]}]},
+    "key": {"label": "What mockery shows", "row": [
+      {"box": "people", "title": "they laugh, so it is silly", "sub": ["mockery as proof"], "strike": true},
+      {"box": "idea", "title": "the laughing is the strange part", "sub": ["the truth stays true"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ was {idea}astounded{/idea} that they denied the resurrection while he was certain of it. Qatadah said he was amazed by {trap}the mockery of the misguided.{/trap}",
+    "now": "You mention you are fasting or going to pray, and a colleague smirks. You feel small for a moment. {idea}The Prophet ﷺ was laughed at too, over the very same truth.{/idea}",
+    "old": "If people laugh at my faith, maybe I look foolish.",
+    "new": "Being mocked for the truth puts me in good company.",
+    "try": "If someone teases you about your faith today, answer with a calm smile and carry on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:13", "surah": 37, "ayah": 13, "place": "makkah",
+    "title": "Reminded, and still not remembering.",
+    "subtitle": "When reminders bounce off",
+    "picture": {"kind": "boxes", "label": "What happens", "row": [
+      {"box": "idea", "title": "a reminder", "sub": ["given to them"]},
+      {"conn": "meets"},
+      {"box": "trap", "title": "no attention", "sub": ["they do not take it in"]}]},
+    "key": {"label": "Hearing vs taking in", "row": [
+      {"box": "people", "title": "I heard it", "sub": ["so I am fine"], "strike": true},
+      {"box": "idea", "title": "I let it change me", "sub": ["that is remembering"]}]},
+    "then": "Ibn Kathir describes them as paying {trap}no attention{/trap} when reminded. They heard the warnings in Makkah again and again. {trap}The words reached their ears and stopped there.{/trap}",
+    "now": "You have heard the same Friday talk about backbiting many times. You nod, then go back to the group chat. {idea}A reminder only works if you let it in.{/idea}",
+    "old": "I already know this, so I can tune out.",
+    "new": "Knowing is not the same as remembering; I need to let it change something.",
+    "try": "Take one reminder you have heard many times and act on it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:14", "surah": 37, "ayah": 14, "place": "makkah",
+    "title": "They see a sign and make it a joke.",
+    "subtitle": "Mockery as a way to avoid thinking",
+    "picture": {"kind": "boxes", "label": "What they do", "row": [
+      {"box": "idea", "title": "a sign", "sub": ["clear evidence and proof"]},
+      {"conn": "is met with"},
+      {"box": "trap", "title": "ridicule", "sub": ["making fun of it"]}]},
+    "key": {"label": "Why joke?", "row": [
+      {"box": "trap", "title": "jokes end the talk", "sub": ["no need to think"], "strike": true},
+      {"box": "idea", "title": "pause and consider", "sub": ["what the sign says"]}]},
+    "then": "Ibn Kathir says an ayah here means {idea}clear evidence and proof{/idea}. Mujahid and Qatadah said {trap}they make fun of it.{/trap} Laughter was easier than facing what the sign meant.",
+    "now": "Someone shares a serious point in the chat and you reply with a laughing emoji, because thinking about it is uncomfortable. {trap}A joke can be a door you shut on purpose.{/trap}",
+    "old": "Laughing it off keeps things light.",
+    "new": "Sometimes my joke is a way of not facing a sign Allah sent me.",
+    "try": "The next time you feel like joking away something serious, stop and think about it for one minute first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "37:15", "surah": 37, "ayah": 15, "place": "makkah",
+    "title": "They called it plain magic.",
+    "subtitle": "Labelling the truth to avoid it",
+    "picture": {"kind": "boxes", "label": "Their label", "row": [
+      {"box": "idea", "title": "the message", "sub": ["what the Prophet ﷺ brought"]},
+      {"conn": "called"},
+      {"box": "trap", "title": "\"obvious magic\"", "sub": ["a label, not an answer"], "strike": true}]},
+    "key": {"label": "Labels vs answers", "row": [
+      {"box": "trap", "title": "name it and dismiss it", "sub": ["case closed"], "strike": true},
+      {"box": "idea", "title": "look at it", "sub": ["what is actually being said"]}]},
+    "then": "They said, in Ibn Kathir's words, {trap}this you have brought is nothing but plain magic.{/trap} Calling it magic let them ignore what it said without having to answer it.",
+    "now": "You hear advice you do not like and call it extreme, or old-fashioned, or preachy. {trap}The label saves you from thinking.{/trap} {idea}The question is whether it is true.{/idea}",
+    "old": "Once I name something as nonsense, I do not have to think about it.",
+    "new": "A label is not a reply; I owe the truth a real look.",
+    "try": "Think of one reminder you dismissed with a label. Look at what it actually said.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

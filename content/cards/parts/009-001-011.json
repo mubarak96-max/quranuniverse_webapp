@@ -1,0 +1,225 @@
+[
+  {
+    "id": "9:1", "surah": 9, "ayah": 1, "place": "madinah",
+    "title": "A chapter that opens with no Bismillah.",
+    "subtitle": "A public release from broken agreements",
+    "picture": {"kind": "boxes", "label": "How the surah begins", "row": [
+      {"box": "plain", "title": "no Bismillah", "sub": ["the only surah without it"]},
+      {"conn": "opens with"},
+      {"box": "idea", "title": "Bara'ah", "sub": ["a release from obligations"]},
+      {"conn": "addressed to"},
+      {"box": "people", "title": "treaty partners", "sub": ["idolaters of Arabia"]}]},
+    "key": {"label": "Why a public release", "row": [
+      {"box": "plain", "title": "quietly drift apart", "sub": ["no one is told"], "strike": true},
+      {"box": "idea", "title": "announce it openly", "sub": ["everyone knows where they stand"]}]},
+    "then": "This was one of the last surahs revealed, in the ninth year after the Hijrah. The Prophet ﷺ sent Abu Bakr to lead the Hajj, then sent Ali after him to read these verses aloud to the tribes gathered there. {idea}Nothing was hidden. The change was announced to everyone at once.{/idea}",
+    "now": "You need to end something: a business partnership, a shared flat, a role you can no longer carry. The easy way is to go quiet and let people guess. {idea}Saying it clearly, with notice, is a kindness{/idea} even when the news is hard.",
+    "old": "If I need out, I can just fade away and let them figure it out.",
+    "new": "Even an ending can be done honestly, out loud, with fair notice.",
+    "try": "Think of one thing you have been quietly drifting away from. Tell the person plainly where you stand.",
+    "related": ["4:176"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:2", "surah": 9, "ayah": 2, "place": "madinah",
+    "title": "Four months of freedom, and no escaping Allah.",
+    "subtitle": "A grace period before the change took effect",
+    "picture": {"kind": "boxes", "label": "The notice given", "row": [
+      {"box": "reward", "title": "4", "sub": ["months to move freely"], "num": true},
+      {"conn": "but know"},
+      {"box": "idea", "title": "no one outruns Allah", "sub": ["time is His too"]}]},
+    "key": {"label": "What a grace period is", "row": [
+      {"box": "trap", "title": "time to forget", "sub": ["it will blow over"], "strike": true},
+      {"box": "idea", "title": "time to think", "sub": ["a door left open"]}]},
+    "then": "The idolaters with open-ended treaties were given {reward}four months to travel the land safely{/reward} and decide what to do. The proclamation was read on the day of Arafah. The same breath reminded them that {trap}no one can escape Allah{/trap}.",
+    "now": "The doctor says: you have a few months to change your diet before this becomes serious. The manager says: here is time to improve. {idea}A deadline with mercy built in{/idea} is a gift, if you use it to turn rather than to wait it out.",
+    "old": "A long deadline means I can relax for now.",
+    "new": "A grace period is mercy, given so I can change before it ends.",
+    "try": "Pick one warning you have been given lately. Take the first small step on it today.",
+    "related": ["9:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:3", "surah": 9, "ayah": 3, "place": "madinah",
+    "title": "Announced on the biggest day, with repentance still offered.",
+    "subtitle": "A warning that ends on an invitation",
+    "picture": {"kind": "boxes", "label": "The announcement at Mina", "row": [
+      {"box": "people", "title": "the largest crowd", "sub": ["day of Sacrifice"]},
+      {"conn": "hears"},
+      {"box": "trap", "title": "the release", "sub": ["old ties dissolved"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "if you repent", "sub": ["that is best for you"]}]},
+    "key": {"label": "What the warning holds", "row": [
+      {"box": "trap", "title": "only a threat", "sub": ["no way back"], "strike": true},
+      {"box": "idea", "title": "a door in the wall", "sub": ["repent, it is better"]}]},
+    "then": "On the day of Sacrifice, when the greatest number of pilgrims gathered at Mina, Ali and others called out the announcement. Even in this stern moment, the verse says to the listeners: {reward}if you repent, that is better for you.{/reward}",
+    "now": "Someone tells you a hard truth about yourself, maybe in front of others. It stings. But listen to the end of the sentence: {idea}there is almost always a way back offered{/idea}. The warning is there so you take it.",
+    "old": "When I am warned, it means I have already been written off.",
+    "new": "Allah's warnings come with the door of repentance held open.",
+    "try": "Make a short, honest tawbah tonight for one specific thing. Name it to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:4", "surah": 9, "ayah": 4, "place": "madinah",
+    "title": "Those who kept their word kept their treaty.",
+    "subtitle": "Honoring agreements to the last day",
+    "picture": {"kind": "boxes", "label": "The exception", "row": [
+      {"box": "people", "title": "treaty partners", "sub": ["never broke terms"]},
+      {"box": "people", "title": "never helped attackers", "sub": ["stayed true"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "complete their term", "sub": ["to the agreed date"]}]},
+    "key": {"label": "Who Allah loves here", "row": [
+      {"box": "trap", "title": "the new policy wins", "sub": ["old promises void"], "strike": true},
+      {"box": "reward", "title": "the promise keepers", "sub": ["Allah loves the muttaqin"]}]},
+    "then": "Some tribes had treaties with a fixed end date and had never broken them or helped anyone against the Muslims. For them, {idea}the treaty stood until its last day{/idea}. Ibn Kathir explains the muttaqin here as those who keep their promises.",
+    "now": "You agreed to a contract, a rent, a shift swap, a favor for a friend. Then things changed and a better deal appeared. {reward}Allah loves the one who finishes the term anyway{/reward}, even when no one would blame you for wriggling out.",
+    "old": "When circumstances change, my old promises bend with them.",
+    "new": "A promise to someone who kept faith with me runs until its end.",
+    "try": "Find one commitment you are tempted to drop early. Finish it as agreed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:5", "surah": 9, "ayah": 5, "place": "madinah",
+    "title": "Even the sternest verse ends with forgiveness and mercy.",
+    "subtitle": "After the sacred months, the way back stays open",
+    "picture": {"kind": "boxes", "label": "The order of the verse", "row": [
+      {"box": "plain", "title": "grace months end", "sub": ["the four months"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "fighting resumes", "sub": ["outside the Sacred Area"]},
+      {"conn": "unless"},
+      {"box": "reward", "title": "they repent", "sub": ["let them go their way"]}]},
+    "key": {"label": "Where the verse lands", "row": [
+      {"box": "trap", "title": "the last word is war", "sub": [], "strike": true},
+      {"box": "idea", "title": "the last word is mercy", "sub": ["Forgiving, Merciful"]}]},
+    "then": "This verse spoke to a specific moment: when the four-month grace period ended, the state of war with those idolaters of Arabia would resume, though Ibn Kathir notes it excludes the Sacred Area. Yet it closes with {reward}if they repent, pray and give zakah, let them go their way{/reward}, and {idea}Allah is Forgiving, Merciful.{/idea}",
+    "now": "Think of a time you were sure someone had gone too far for any second chance. Maybe the someone was you. {idea}This verse does not end on the hard part.{/idea} It ends on a way back and on Allah's mercy, and that ending is for you too.",
+    "old": "Once things get this serious, there is no way back.",
+    "new": "Even at the hardest point, Allah leaves the path of return open.",
+    "try": "Pray one prayer today with the intention of coming back to Allah, whatever you carry.",
+    "related": ["2:191"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:6", "surah": 9, "ayah": 6, "place": "madinah",
+    "title": "Protect him, let him listen, then walk him home safely.",
+    "subtitle": "Safe passage for anyone who asks",
+    "picture": {"kind": "boxes", "label": "The visitor's path", "row": [
+      {"box": "people", "title": "he asks protection", "sub": ["even from the other side"]},
+      {"conn": "grant it"},
+      {"box": "idea", "title": "he hears Allah's words", "sub": ["the Quran recited"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "escort him safely", "sub": ["back to his own place"]}]},
+    "key": {"label": "Why he is protected", "row": [
+      {"box": "trap", "title": "he is the enemy", "sub": [], "strike": true},
+      {"box": "idea", "title": "he does not know yet", "sub": ["give him a chance to hear"]}]},
+    "then": "In the middle of verses about war, any idolater who asked for protection was to be given it, allowed to {idea}hear the Quran{/idea}, and then {reward}escorted to safety{/reward}. Ibn Kathir mentions the envoys of Quraysh at Hudaybiyyah, who went home amazed at what they had seen.",
+    "now": "Someone who disagrees with you sharply asks a sincere question. You could score a point or shut them out. {idea}The verse says: make them safe, let them hear, see them off well.{/idea} They may not know what you know.",
+    "old": "People on the other side of an argument do not deserve my patience.",
+    "new": "Someone asking to understand deserves safety and a fair hearing.",
+    "try": "Next time someone asks you a sincere question about your faith, answer gently and thank them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:7", "surah": 9, "ayah": 7, "place": "madinah",
+    "title": "As long as they stay straight with you, stay straight.",
+    "subtitle": "Faithfulness answers faithfulness",
+    "picture": {"kind": "boxes", "label": "The Hudaybiyyah treaty", "row": [
+      {"box": "people", "title": "Quraysh", "sub": ["treaty near the Haram"]},
+      {"conn": "upright?"},
+      {"box": "idea", "title": "be upright too", "sub": ["kept faithfully"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "they broke it", "sub": ["helped Banu Bakr attack"]}]},
+    "key": {"label": "Who breaks first", "row": [
+      {"box": "trap", "title": "break it when convenient", "sub": [], "strike": true},
+      {"box": "idea", "title": "never be the one who breaks", "sub": ["Allah loves the muttaqin"]}]},
+    "then": "The treaty of Hudaybiyyah, made near the Sacred Mosque, was kept by the Muslims from the sixth year {idea}until Quraysh themselves broke it{/idea} by helping Banu Bakr attack Khuza'ah. Ibn Kathir notes that some who fled later, like Ikrimah, were given safety and {reward}became excellent believers.{/reward}",
+    "now": "A colleague, a neighbor, an in-law you do not get along with. As long as they keep their side, {idea}keep yours fully{/idea}, no small digs, no quiet sabotage. Let it never be you who broke the peace.",
+    "old": "I keep my word only with people I like.",
+    "new": "If they stay straight with me, I stay straight with them, liked or not.",
+    "try": "With one difficult person, do your part of the arrangement perfectly this week.",
+    "related": ["48:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:8", "surah": 9, "ayah": 8, "place": "madinah",
+    "title": "Sweet words from the mouth, refusal in the heart.",
+    "subtitle": "When the tongue and the heart disagree",
+    "picture": {"kind": "boxes", "label": "What the verse exposes", "row": [
+      {"box": "people", "title": "pleasing words", "sub": ["to keep you calm"]},
+      {"conn": "while"},
+      {"box": "trap", "title": "hearts refuse", "sub": ["no regard for kinship or pact"]}]},
+    "key": {"label": "Two kinds of agreement", "row": [
+      {"box": "trap", "title": "mouth only", "sub": ["yes outside, no inside"], "strike": true},
+      {"box": "idea", "title": "mouth and heart", "sub": ["the yes is real"]}]},
+    "then": "The verse explains why some of those treaties could not last: if those parties gained the upper hand, {trap}they would respect neither kinship (ill) nor pledge (dhimmah){/trap}, as Ibn Abbas defined the words. {trap}They pleased with their mouths while their hearts refused.{/trap}",
+    "now": "\"Sure, I'll be there.\" \"No problem, happy to help.\" Said with a smile, while inside you have already decided not to. Before judging others with this verse, {idea}check how often your own yes is only in the mouth.{/idea}",
+    "old": "Saying yes to keep the peace is harmless, even if I don't mean it.",
+    "new": "A yes the heart refuses is a small betrayal. Let my words match me.",
+    "try": "Today, say no kindly to one thing you would have said a fake yes to.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:9", "surah": 9, "ayah": 9, "place": "madinah",
+    "title": "They sold Allah's signs for a small price.",
+    "subtitle": "Trading the truth for a little gain",
+    "picture": {"kind": "boxes", "label": "The trade", "row": [
+      {"box": "idea", "title": "Allah's signs", "sub": ["guidance, truth"]},
+      {"conn": "sold for"},
+      {"box": "trap", "title": "a small price", "sub": ["passing worldly gain"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "blocked others", "sub": ["from His way"]}]},
+    "key": {"label": "The real price", "row": [
+      {"box": "reward", "title": "a good deal", "sub": ["I got something"], "strike": true},
+      {"box": "trap", "title": "a terrible deal", "sub": ["evil is what they did"]}]},
+    "then": "Ibn Kathir explains that the idolaters {trap}gave up following Allah's signs for the lower affairs of this life{/trap} and then tried to keep the believers from the truth as well. Losing guidance yourself and blocking others from it were joined.",
+    "now": "The promotion that needs a small lie. Skipping prayer for one more hour of overtime. Laughing along when religion is mocked, to stay in the group. {trap}Every price paid for leaving the truth is small{/trap}, compared to what you give away.",
+    "old": "It is just this once, and what I get is worth it.",
+    "new": "Anything I take in exchange for Allah's guidance is a small price.",
+    "try": "Notice one small compromise you make for convenience. Skip it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:10", "surah": 9, "ayah": 10, "place": "madinah",
+    "title": "No regard for kinship, no regard for a pledge.",
+    "subtitle": "The ones who overstep every bond",
+    "picture": {"kind": "boxes", "label": "Two bonds ignored", "row": [
+      {"box": "people", "title": "ill", "sub": ["kinship, blood ties"]},
+      {"box": "people", "title": "dhimmah", "sub": ["a promise of protection"]},
+      {"conn": "both ignored"},
+      {"box": "trap", "title": "the transgressors", "sub": ["they crossed the line"]}]},
+    "key": {"label": "What makes a transgressor", "row": [
+      {"box": "trap", "title": "only open violence", "sub": [], "strike": true},
+      {"box": "idea", "title": "ignoring every tie", "sub": ["family and word alike"]}]},
+    "then": "The previous verse said they would not honor ties if they gained power over the Muslims. This verse widens it: {trap}toward any believer at all{/trap}, they respected neither kinship nor covenant. It is they, the verse says, who {trap}were the aggressors.{/trap}",
+    "now": "When you are angry with a cousin or a former friend, it is tempting to forget everything you owe them. The shared childhood, the favor they did, the promise you made. {idea}Hold on to the ties even when you are hurt.{/idea} That is the opposite of what this verse describes.",
+    "old": "Once someone wrongs me, I owe them nothing anymore.",
+    "new": "Family ties and promises still count, even when I am angry.",
+    "try": "Send one kind message to a relative you have been cold toward.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:11", "surah": 9, "ayah": 11, "place": "madinah",
+    "title": "Yesterday's opponents can become today's brothers.",
+    "subtitle": "Repentance turns enemies into family",
+    "picture": {"kind": "boxes", "label": "What changes everything", "row": [
+      {"box": "people", "title": "former opponents", "sub": ["who fought the believers"]},
+      {"conn": "repent, pray, give"},
+      {"box": "reward", "title": "your brothers", "sub": ["in the religion"]}]},
+    "key": {"label": "How to see them after", "row": [
+      {"box": "trap", "title": "never forget what they did", "sub": [], "strike": true},
+      {"box": "reward", "title": "brothers now", "sub": ["the past is closed"]}]},
+    "then": "Right after describing those who broke every bond, the verse opens the widest door: {reward}if they repent, pray and give zakah, they are your brothers in religion.{/reward} Ibn Kathir mentions men of Makkah who once fought and later became excellent believers.",
+    "now": "Someone who hurt you, or mocked your faith, turns around and changes. They show up at the masjid, or apologize. {idea}The verse asks you to call them brother, not to keep a file on them.{/idea}",
+    "old": "People who once opposed me will always be suspect.",
+    "new": "When someone truly turns back to Allah, they become my family.",
+    "try": "Greet warmly someone whose past you know. Let it stay in the past.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

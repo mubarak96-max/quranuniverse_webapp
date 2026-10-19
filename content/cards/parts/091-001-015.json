@@ -1,0 +1,292 @@
+[
+  {
+    "id": "91:1", "surah": 91, "ayah": 1, "place": "makkah",
+    "title": "The surah opens with the sun and its full light.",
+    "subtitle": "Why the brightest thing in the sky is sworn by",
+    "picture": {"kind": "boxes", "label": "What is sworn by", "row": [
+      {"box": "reward", "title": "the sun", "sub": ["its clear light"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "its brightness", "sub": ["the whole day it makes"]}]},
+    "key": {"label": "Where the oaths lead", "row": [
+      {"box": "people", "title": "just nature", "sub": ["pretty, nothing more"], "strike": true},
+      {"box": "idea", "title": "a pair of opposites", "sub": ["light and dark, good and evil"]}]},
+    "then": "Early Makkah, with opposition to the Prophet ﷺ growing hard. The surah starts with a run of oaths, and the first is {reward}the sun and its light{/reward}. Mujahid said it means its light; Qatadah said the whole day. {idea}The oaths build toward one point about the human soul.{/idea}",
+    "now": "Morning light comes through the blinds and you reach for your phone before you notice it. Ten minutes of headlines, then the commute. {idea}The light was a message before it was a weather report.{/idea} It is the opening line of an argument about you.",
+    "old": "Sunlight is just the start of another busy day.",
+    "new": "The sun is sworn by because something just as clear is about to be said about me.",
+    "try": "Tomorrow, before you check your phone, look at the morning light for ten seconds.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:2", "surah": 91, "ayah": 2, "place": "makkah",
+    "title": "The moon follows the sun and borrows its place.",
+    "subtitle": "Something that comes after, in order",
+    "picture": {"kind": "boxes", "label": "The order in the sky", "row": [
+      {"box": "reward", "title": "the sun", "sub": ["goes down"]},
+      {"conn": "then"},
+      {"box": "people", "title": "the moon", "sub": ["follows it"]}]},
+    "key": {"label": "What following shows", "row": [
+      {"box": "plain", "title": "random sky", "sub": ["things just happen"], "strike": true},
+      {"box": "idea", "title": "set order", "sub": ["each in its turn"]}]},
+    "then": "Mujahid and Ibn Abbas said the moon {idea}follows the sun{/idea}, or follows the day. Qatadah said it refers to the new crescent, which shows itself once the sun has set. People in Makkah watched for that thin moon every month.",
+    "now": "You step outside after sunset to take out the bins and there it is, a thin crescent above the rooftops. It came exactly when it should. {idea}The sky keeps its order without being asked.{/idea} Your days could use a little of that.",
+    "old": "The moon is just there some nights and not others.",
+    "new": "The moon keeps its turn behind the sun, and that order is a sign worth an oath.",
+    "try": "Find out tonight's moon phase and look for it before you sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:3", "surah": 91, "ayah": 3, "place": "makkah",
+    "title": "The day lights everything up and shows it.",
+    "subtitle": "Daylight that makes things visible",
+    "picture": {"kind": "boxes", "label": "What daylight does", "row": [
+      {"box": "reward", "title": "the day", "sub": ["comes in"]},
+      {"conn": "displays"},
+      {"box": "people", "title": "the world", "sub": ["lit, seen clearly"]}]},
+    "key": {"label": "Seen in the light", "row": [
+      {"box": "trap", "title": "hidden", "sub": ["no one can tell"], "strike": true},
+      {"box": "idea", "title": "displayed", "sub": ["the day shows things as they are"]}]},
+    "then": "Mujahid said this means {idea}when the day illuminates{/idea}. He linked it to a matching oath in the next surah, by the day as it appears. The listeners knew the difference between a dark path and a lit one.",
+    "now": "At night the messy room looks fine. Then the morning sun hits it and you see every cup and pile. {idea}Light does not create the mess, it shows it.{/idea} The same goes for the habits you only notice when someone points them out.",
+    "old": "If no one sees it, it is not really a problem.",
+    "new": "Things are already what they are; the light only shows them.",
+    "try": "Pick one corner of your home and tidy it in daylight today.",
+    "related": ["92:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:4", "surah": 91, "ayah": 4, "place": "makkah",
+    "title": "Then the night comes and covers it all.",
+    "subtitle": "The dark that takes over the sun's place",
+    "picture": {"kind": "boxes", "label": "Day gives way", "row": [
+      {"box": "reward", "title": "the sun", "sub": ["disappears"]},
+      {"conn": "covered by"},
+      {"box": "people", "title": "the night", "sub": ["horizons go dark"]}]},
+    "key": {"label": "Two opposites", "row": [
+      {"box": "reward", "title": "day", "sub": ["shows"]},
+      {"box": "people", "title": "night", "sub": ["covers"]}]},
+    "then": "Ibn Kathir says the night {idea}covers the sun{/idea} when it disappears and the horizons go dark. The surah introduction notes that day and night are opposites in effect, {idea}just as good and evil are{/idea}.",
+    "now": "It is late, the lights are off, and the house is quiet. This is when the small temptations get louder: the scrolling, the tab you would close if someone walked in. {trap}Darkness makes things feel like they do not count.{/trap} They still count.",
+    "old": "Night is when nothing much happens.",
+    "new": "Day and night are opposites, and so are the choices I make in each.",
+    "try": "Set one rule for your phone after dark tonight and keep it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:5", "surah": 91, "ayah": 5, "place": "makkah",
+    "title": "The sky, and the One who built it.",
+    "subtitle": "A built roof points to its builder",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "people", "title": "the sky", "sub": ["raised up high"]},
+      {"conn": "built by"},
+      {"box": "idea", "title": "its Builder", "sub": ["with strength"]}]},
+    "key": {"label": "Two readings, one meaning", "row": [
+      {"box": "plain", "title": "its building", "sub": ["Qatadah"]},
+      {"box": "plain", "title": "its Builder", "sub": ["Mujahid"]},
+      {"conn": "both mean"},
+      {"box": "idea", "title": "raised on purpose", "sub": []}]},
+    "then": "Qatadah read this as {idea}the sky and its construction{/idea}; Mujahid as the sky and its Constructor. Ibn Kathir says both views connect, since building means raising. He cites the verse: with strength did We construct the heaven.",
+    "now": "You lie on the grass at a picnic and look straight up. No pillars, no cracks, no repair crew. {idea}Something that big and that steady was built.{/idea} You would never assume a house built itself.",
+    "old": "The sky is just empty space above me.",
+    "new": "The sky is a building, and a building tells you someone built it.",
+    "try": "Look up at the sky for one full minute today and say SubhanAllah.",
+    "related": ["51:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:6", "surah": 91, "ayah": 6, "place": "makkah",
+    "title": "The earth, and the One who spread it out.",
+    "subtitle": "Ground laid flat so life can stand on it",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "people", "title": "the earth", "sub": ["under your feet"]},
+      {"conn": "spread by"},
+      {"box": "idea", "title": "its Spreader", "sub": ["laid out, proportioned"]}]},
+    "key": {"label": "Above and below", "row": [
+      {"box": "people", "title": "sky", "sub": ["raised"]},
+      {"box": "people", "title": "earth", "sub": ["spread"]}]},
+    "then": "Most early scholars, Mujahid, Qatadah and others, said this means {idea}He spread it out{/idea}. Ibn Abbas also said it means what He created in it, and that He proportioned it. Ibn Kathir pairs it with: We spread out the earth, how excellent a spreader.",
+    "now": "You walk barefoot across the kitchen floor or a beach. The ground holds you without a thought. {reward}You have never once had to ask it to stay still.{/reward} Steadiness you never noticed is still a gift.",
+    "old": "The ground is just the ground.",
+    "new": "The earth was spread for me to stand on, and that is worth noticing.",
+    "try": "Stand still outside for a moment today and feel the ground under you.",
+    "related": ["51:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:7", "surah": 91, "ayah": 7, "place": "makkah",
+    "title": "Your soul was shaped well, from the start.",
+    "subtitle": "The self made sound on a natural way",
+    "picture": {"kind": "boxes", "label": "The last oath", "row": [
+      {"box": "people", "title": "the soul", "sub": ["your self"]},
+      {"conn": "proportioned by"},
+      {"box": "idea", "title": "Allah", "sub": ["on the Fitrah"]}]},
+    "key": {"label": "Where you started", "row": [
+      {"box": "trap", "title": "born broken", "sub": ["bad at the core"], "strike": true},
+      {"box": "reward", "title": "born sound", "sub": ["on the right nature"]}]},
+    "then": "After sky and earth, the oath turns to {idea}the soul itself{/idea}. Ibn Kathir says Allah created it sound and well-proportioned upon the Fitrah. He cites the hadith: {reward}every child is born upon the Fitrah{/reward}.",
+    "now": "You hold a newborn at a family visit and nobody doubts that this child is good. You were that child once. {reward}The good in you is the original, not the add-on.{/reward} The mess came later and can be cleaned.",
+    "old": "Deep down I am just a bad person.",
+    "new": "My soul was made sound; what went wrong came after and is not who I am.",
+    "try": "Write one good instinct you had as a child that you still have.",
+    "related": ["30:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:8", "surah": 91, "ayah": 8, "place": "makkah",
+    "title": "You already know right from wrong inside.",
+    "subtitle": "Both paths were shown to the soul",
+    "picture": {"kind": "boxes", "label": "What the soul was given", "row": [
+      {"box": "trap", "title": "its wickedness", "sub": ["shown clearly"]},
+      {"box": "reward", "title": "its righteousness", "sub": ["shown clearly"]},
+      {"conn": "placed in"},
+      {"box": "people", "title": "the soul", "sub": []}]},
+    "key": {"label": "What you cannot claim", "row": [
+      {"box": "people", "title": "I did not know", "sub": [], "strike": true},
+      {"box": "idea", "title": "it was shown", "sub": ["good and evil explained"]}]},
+    "then": "Ibn Abbas said Allah {idea}explained the good and the evil to it{/idea}. Ibn Zayd said He placed both inside it. The surah introduction adds that this inner sense is real but not enough alone, which is why messengers were sent.",
+    "now": "You are about to send the sharp reply in the work chat and something in your chest says don't. You know that voice. {idea}It was put there on purpose.{/idea} {trap}Arguing it down is the real choice.{/trap}",
+    "old": "Right and wrong are just what each person decides.",
+    "new": "The knowing was placed in me; my job is to listen to it.",
+    "try": "Next time you feel that inner check today, stop and follow it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:9", "surah": 91, "ayah": 9, "place": "makkah",
+    "title": "All those oaths were for this: purify the soul.",
+    "subtitle": "Success is cleaning the self",
+    "picture": {"kind": "boxes", "label": "The answer to the oaths", "row": [
+      {"box": "people", "title": "the soul", "sub": ["shown both paths"]},
+      {"conn": "purified"},
+      {"box": "reward", "title": "success", "sub": ["the real kind"]}]},
+    "key": {"label": "What success means", "row": [
+      {"box": "people", "title": "more stuff", "sub": ["title, money, followers"], "strike": true},
+      {"box": "reward", "title": "a cleaner self", "sub": ["by obeying Allah"]}]},
+    "then": "Sun, moon, day, night, sky, earth, soul: all sworn by, and this is {idea}the answer{/idea}. Ibn Kathir says whoever purifies himself by obedience to Allah succeeds. Qatadah said it means {reward}cleansing it from low and ugly traits{/reward}.",
+    "now": "Your feed is full of success: promotions, new cars, wedding photos. None of it shows the person who finally stopped lying to their spouse. {reward}That is the success this verse means.{/reward}",
+    "old": "Success is what I can show people.",
+    "new": "Success is the slow work of cleaning my own soul.",
+    "try": "Pick one small ugly habit and skip it for one day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:10", "surah": 91, "ayah": 10, "place": "makkah",
+    "title": "Failure is burying the good inside you.",
+    "subtitle": "Hiding the soul under corruption",
+    "picture": {"kind": "boxes", "label": "The other path", "row": [
+      {"box": "people", "title": "the soul", "sub": ["born sound"]},
+      {"conn": "buried"},
+      {"box": "trap", "title": "failure", "sub": ["good covered over"]}]},
+    "key": {"label": "Two outcomes", "row": [
+      {"box": "reward", "title": "purified it", "sub": ["succeeds"]},
+      {"box": "trap", "title": "buried it", "sub": ["fails"]}]},
+    "then": "The word here means to {trap}bury it{/trap}, to cover over what is good. Ibn Kathir sets it against the verse before: one person cleans the soul, the other hides it. {idea}Same soul, same inspiration, opposite results.{/idea}",
+    "now": "Nobody wakes up and decides to become cold. It is one skipped prayer, one unkind joke laughed along with, one lie that worked. {trap}Layer by layer, the good gets buried.{/trap} {idea}It is still under there.{/idea}",
+    "old": "I am fine, I just do a few things I should not.",
+    "new": "Each small thing I let pile up is soil over the good in me.",
+    "try": "Name one layer you have been piling on. Do the opposite of it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:11", "surah": 91, "ayah": 11, "place": "makkah",
+    "title": "Thamud said no because of their arrogance.",
+    "subtitle": "The example of a people who buried the soul",
+    "picture": {"kind": "boxes", "label": "Why they rejected", "row": [
+      {"box": "trap", "title": "transgression", "sub": ["injustice they practised"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "denial", "sub": ["of their messenger"]}]},
+    "key": {"label": "The real cause", "row": [
+      {"box": "people", "title": "not enough proof", "sub": [], "strike": true},
+      {"box": "trap", "title": "their own wrongdoing", "sub": ["closed their hearts"]}]},
+    "then": "Now the surah gives a real example. Mujahid and Qatadah said Thamud rejected their messenger because of {trap}the injustice and transgression they practised{/trap}. Their behaviour came first; {trap}the denial grew out of it{/trap}.",
+    "now": "You know the truth about something but accepting it would mean changing how you live. So you find reasons to doubt it. {trap}The doubt is not about evidence, it is about comfort.{/trap} Notice when you do that.",
+    "old": "I would accept it if the proof were stronger.",
+    "new": "Sometimes I reject a truth because of how I live, not because of what I know.",
+    "try": "Name one truth you keep arguing with. Ask what it would cost you to accept it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:12", "surah": 91, "ayah": 12, "place": "makkah",
+    "title": "Their most wretched man stepped forward.",
+    "subtitle": "One man acts, a whole tribe stands behind",
+    "picture": {"kind": "boxes", "label": "Who went forth", "row": [
+      {"box": "people", "title": "Qudar bin Salif", "sub": ["leader, noble, obeyed"]},
+      {"conn": "went forth to"},
+      {"box": "people", "title": "the she-camel", "sub": ["Allah's sign"]}]},
+    "key": {"label": "What status does not do", "row": [
+      {"box": "reward", "title": "respected", "sub": ["so he must be right"], "strike": true},
+      {"box": "trap", "title": "most wretched", "sub": ["in Allah's words"]}]},
+    "then": "Ibn Kathir names him {trap}Qudar bin Salif{/trap}, the one who killed the she-camel. He was a strong, respected leader of noble lineage. The Prophet ﷺ described him in a sermon as {trap}a mighty man, invincible among his tribe{/trap}.",
+    "now": "The loudest person in the office, the one everyone defers to, proposes something you know is wrong. Nobody says anything because of who he is. {trap}Rank does not make him right.{/trap} Your silence is still your choice.",
+    "old": "If someone that important does it, it must be fine.",
+    "new": "The most respected person in the room can still be the most wretched.",
+    "try": "Think of one person you follow without question. Check one of their opinions yourself.",
+    "related": ["54:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:13", "surah": 91, "ayah": 13, "place": "makkah",
+    "title": "Salih warned them: leave Allah's camel and her water.",
+    "subtitle": "A clear, simple limit they were given",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "people", "title": "Salih", "sub": ["the messenger"]},
+      {"conn": "said"},
+      {"box": "idea", "title": "do not harm her", "sub": ["or her drinking day"]}]},
+    "key": {"label": "The deal", "row": [
+      {"box": "reward", "title": "her day", "sub": ["to drink"]},
+      {"box": "people", "title": "your day", "sub": ["to drink"]}]},
+    "then": "The messenger was {idea}Salih{/idea}. He told them not to touch the she-camel of Allah with harm, and {idea}not to transgress in her drinking{/idea}. She had a day to drink and they had a day, as they all knew.",
+    "now": "The rule is simple: one evening a week the phone stays off for the family. Everyone agreed. Then a message comes in and it feels small to break it. {trap}Small limits are where respect is tested.{/trap}",
+    "old": "It is a minor rule, crossing it will not matter.",
+    "new": "A clear limit from Allah is a test of respect, however small it looks.",
+    "try": "Keep one small promise today exactly as you made it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:14", "surah": 91, "ayah": 14, "place": "makkah",
+    "title": "One man did it, but all of them agreed.",
+    "subtitle": "Shared approval makes shared guilt",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "trap", "title": "denied him", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "killed her", "sub": ["the sign from the rock"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "destroyed", "sub": ["all equally"]}]},
+    "key": {"label": "Who was responsible", "row": [
+      {"box": "people", "title": "only the killer", "sub": [], "strike": true},
+      {"box": "trap", "title": "everyone who agreed", "sub": ["young, old, men, women"]}]},
+    "then": "Qatadah said the leader {trap}did not kill the she-camel until their youth, elderly, men and women all pledged to him{/trap}. Because they cooperated, the punishment fell on them all. That is the meaning of made it equal.",
+    "now": "Someone in the family group chat posts a cruel joke about a relative. You did not write it. You sent a laughing emoji. {trap}Approval is a kind of signature.{/trap} {idea}Staying out of it is also a choice.{/idea}",
+    "old": "I did not do it, I just went along.",
+    "new": "Going along with a wrong makes it partly mine.",
+    "try": "Next time a group mocks someone, do not react with approval. Stay quiet, or speak up kindly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "91:15", "surah": 91, "ayah": 15, "place": "makkah",
+    "title": "Allah does not fear what comes after.",
+    "subtitle": "No one can call Him to account",
+    "picture": {"kind": "boxes", "label": "After the punishment", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["acts with full power"]},
+      {"conn": "fears"},
+      {"box": "plain", "title": "0", "sub": ["no consequence from anyone"], "num": true}]},
+    "key": {"label": "Who answers to whom", "row": [
+      {"box": "people", "title": "people", "sub": ["always face consequences"]},
+      {"box": "idea", "title": "Allah", "sub": ["answers to no one"]}]},
+    "then": "Ibn Abbas said: {idea}Allah does not fear any consequences from anyone{/idea}. Mujahid, Al-Hasan and others said the same. Rulers on earth worry about revenge and alliances. {idea}Allah has no such worry.{/idea}",
+    "now": "You hold back from doing right because of what people might say or do: the boss, the in-laws, the comments section. {idea}Their reaction is not the final word.{/idea} {reward}The One you answer to is not afraid of any of them.{/reward}",
+    "old": "I have to weigh what everyone will think before I act.",
+    "new": "Only Allah's judgment is final, and He fears no one's reaction.",
+    "try": "Do one right thing today that you have delayed out of fear of what people think.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

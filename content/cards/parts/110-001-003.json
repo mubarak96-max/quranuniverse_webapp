@@ -1,0 +1,61 @@
+[
+  {
+    "id": "110:1", "surah": 110, "ayah": 1, "place": "madinah",
+    "title": "When Allah's help and the opening arrive.",
+    "subtitle": "Victory as a sign, not a trophy",
+    "picture": {"kind": "boxes", "label": "What arrived", "row": [
+      {"box": "reward", "title": "Allah's help", "sub": ["nasr"]},
+      {"box": "reward", "title": "the opening", "sub": ["the conquest of Makkah"]},
+      {"conn": "was a sign of"},
+      {"box": "idea", "title": "a mission complete", "sub": ["the end drawing near"]}]},
+    "key": {"label": "What the elders heard / what Ibn Abbas heard", "row": [
+      {"box": "people", "title": "praise when you win", "sub": ["a general rule"]},
+      {"box": "idea", "title": "his time is near", "sub": ["the Prophet's ﷺ life ending"]}]},
+    "then": "Ibn Abbas called this {idea}the last surah revealed{/idea}. When Umar asked the elders of Badr about it, some said it commands praise at victory. Young Ibn Abbas said it was {trap}Allah informing the Messenger ﷺ that his life was ending{/trap}. Umar agreed. The opening here is the conquest of Makkah.",
+    "now": "You finally get the thing you worked for years for: the degree, the house, the job. The party is planned. {idea}This surah suggests a different reading of success{/idea}: it may be a sign that a chapter is closing, and a reminder to look toward your Lord.",
+    "old": "Success means I have arrived and can relax.",
+    "new": "Success is help from Allah and a sign my time is moving. I respond with Him in mind.",
+    "try": "When something good happens today, say first: this is from the help of Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "110:2", "surah": 110, "ayah": 2, "place": "madinah",
+    "title": "You see people entering Allah's religion in crowds.",
+    "subtitle": "Years of patience, then whole tribes at once",
+    "picture": {"kind": "boxes", "label": "What changed", "row": [
+      {"box": "people", "title": "the tribes", "sub": ["waiting to see"]},
+      {"conn": "after Makkah opened"},
+      {"box": "reward", "title": "entered in crowds", "sub": ["within two years"]}]},
+    "key": {"label": "How it happened", "row": [
+      {"box": "plain", "title": "slow and steady forever", "sub": ["one by one"], "strike": true},
+      {"box": "reward", "title": "years, then all at once", "sub": ["when Allah opened it"]}]},
+    "then": "Ibn Kathir says the Arab regions {trap}were waiting for Makkah before accepting Islam{/trap}, saying if he wins over his people he is a true Prophet. After the conquest {reward}they entered in crowds{/reward}; within two years the peninsula was full of faith. Jabir later wept, remembering the Prophet ﷺ said they would also leave in crowds.",
+    "now": "You have been patient for years with a child, a project, a family member who never comes to the masjid. Nothing moves. {reward}Then one day it all opens.{/reward} And Jabir's tears are a reminder: holding on matters as much as arriving.",
+    "old": "If nothing has changed after all these years, nothing will.",
+    "new": "Allah can open in a moment what years of effort seemed not to move. Then I hold on.",
+    "try": "Make dua today for someone you have been patient with for a long time, by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "110:3", "surah": 110, "ayah": 3, "place": "madinah",
+    "title": "At the peak, glorify Him and ask forgiveness.",
+    "subtitle": "The response to victory is humility",
+    "picture": {"kind": "boxes", "label": "What to do", "row": [
+      {"box": "idea", "title": "glorify with praise", "sub": ["subhanallah wa bihamdihi"]},
+      {"box": "idea", "title": "seek forgiveness", "sub": ["astaghfirullah"]},
+      {"conn": "because"},
+      {"box": "reward", "title": "He is Tawwab", "sub": ["always accepts repentance"]}]},
+    "key": {"label": "What the peak calls for", "row": [
+      {"box": "trap", "title": "celebrate myself", "sub": ["I did it"], "strike": true},
+      {"box": "idea", "title": "praise and istighfar", "sub": ["He did it, forgive my gaps"]}]},
+    "then": "A'ishah said the Prophet ﷺ often said in his bowing and prostration: {idea}Glory to You, O Allah, our Lord, and praise be to You. O Allah, forgive me{/idea}, living out this verse. Near the end of his life he often said: {reward}glory and praise to Allah, I seek His forgiveness and repent to Him{/reward}.",
+    "now": "At the top of your achievement, your mind says: I did this. The verse says: {idea}glorify, praise, ask forgiveness{/idea}. Even the best effort had gaps, and the help was His. Ending a good thing with istighfar is how the best of people ended.",
+    "old": "Asking forgiveness is for when I have done something wrong.",
+    "new": "Even at my best moments I glorify Allah and ask His forgiveness, as the Prophet ﷺ did.",
+    "try": "Add this to your ruku and sujud today: Subhanaka Allahumma Rabbana wa bihamdika, Allahumma-ghfir li.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

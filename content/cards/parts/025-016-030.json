@@ -1,0 +1,301 @@
+[
+  {
+    "id": "25:16", "surah": 25, "ayah": 16, "place": "makkah",
+    "title": "Whatever they wish, forever, as a binding promise.",
+    "subtitle": "A promise from Allah that is owed",
+    "picture": {"kind": "boxes", "label": "What is promised", "row": [
+      {"box": "reward", "title": "whatever they wish", "sub": ["beyond what eyes have seen"]},
+      {"box": "reward", "title": "forever", "sub": ["it never ends"]},
+      {"conn": "is"},
+      {"box": "idea", "title": "a binding pledge", "sub": ["upon your Lord"]}]},
+    "key": {"label": "How sure it is", "row": [
+      {"box": "plain", "title": "a nice maybe", "sub": ["if things work out"], "strike": true},
+      {"box": "reward", "title": "a promise He binds Himself to", "sub": ["it must come to pass"]}]},
+    "then": "After describing the Fire, the surah describes the Garden: {reward}all that they desire, forever{/reward}. Ibn Kathir says the phrase means {idea}a binding pledge that must come to pass{/idea}. The pious may ask Him for it, because He promised.",
+    "now": "Your manager promised a raise next year and you have heard that before. People make promises they cannot keep. {idea}This one is made by the only One who never breaks His word{/idea}, and you are invited to ask for it.",
+    "old": "Promises disappoint, so I keep my hopes low.",
+    "new": "This is one promise I can hold Allah to, so I can hope fully.",
+    "try": "Ask Allah for Paradise by name in one of your prayers today.",
+    "related": ["37:62"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:17", "surah": 25, "ayah": 17, "place": "makkah",
+    "title": "Did they mislead you, or did you wander off yourselves?",
+    "subtitle": "The worshipped are questioned in front of the worshippers",
+    "picture": {"kind": "boxes", "label": "The gathering", "row": [
+      {"box": "people", "title": "the worshippers", "sub": ["gathered together"]},
+      {"box": "people", "title": "the worshipped", "sub": ["angels, Isa, Uzayr, others"]},
+      {"conn": "asked"},
+      {"box": "idea", "title": "who misled whom?", "sub": ["the question is public"]}]},
+    "key": {"label": "Who is responsible", "row": [
+      {"box": "trap", "title": "they told me to", "sub": ["blame the ones I followed"], "strike": true},
+      {"box": "idea", "title": "I chose it", "sub": ["the answer will come out"]}]},
+    "then": "On the Day of Resurrection, Allah will gather the idolators with those they worshipped. Mujahid said this includes {idea}Isa, Uzayr and the angels{/idea}. He will ask the worshipped: did you call them to this, or {trap}was it their own idea{/trap}? Ibn Kathir compares it to the question put to Isa in 5:116.",
+    "now": "You picked up a habit because your circle did it. You quietly plan to say \"everyone around me was doing it.\" {idea}The verse imagines that circle being asked{/idea}, and you hearing their answer.",
+    "old": "If I followed others, the blame is mostly theirs.",
+    "new": "The ones I follow will be asked about me, and they may say I chose this myself.",
+    "try": "Name one thing you do mainly because others around you do it. Decide if you would choose it alone.",
+    "related": ["5:116", "34:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:18", "surah": 25, "ayah": 18, "place": "makkah",
+    "title": "Comfort lasted so long they forgot the reminder.",
+    "subtitle": "How easy lives drift from the message",
+    "picture": {"kind": "boxes", "label": "How they got lost", "row": [
+      {"box": "reward", "title": "comfort", "sub": ["for them and their fathers"]},
+      {"conn": "over a long time"},
+      {"box": "trap", "title": "forgot the reminder", "sub": ["the message faded"]},
+      {"conn": "became"},
+      {"box": "trap", "title": "a ruined people", "sub": ["no good left in them"]}]},
+    "key": {"label": "What did the damage", "row": [
+      {"box": "people", "title": "someone misled them", "sub": ["we never called them"], "strike": true},
+      {"box": "trap", "title": "comfort without remembering", "sub": ["slow forgetting"]}]},
+    "then": "The worshipped reply: {idea}glory be to You, it was not for us to take protectors besides You{/idea}. They did not call anyone to worship them. Ibn Kathir explains the rest: {trap}a long time of comfort passed{/trap}, and people forgot what the messengers brought.",
+    "now": "Everything is fine. Salary in, kids healthy, weekends full. Weeks pass without a real prayer or a page of Quran, and nothing feels wrong. {trap}Comfort rarely pulls you away all at once. It lets you forget slowly.{/trap}",
+    "old": "Things are going well, so I must be doing fine with Allah.",
+    "new": "Ease is exactly when I am most likely to forget, so it needs more remembering.",
+    "try": "On a good day this week, stop for one minute and thank Allah for a specific comfort by name.",
+    "related": ["34:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:19", "surah": 25, "ayah": 19, "place": "makkah",
+    "title": "The ones they relied on will deny them.",
+    "subtitle": "Protectors who turn into witnesses against",
+    "picture": {"kind": "boxes", "label": "What they counted on", "row": [
+      {"box": "people", "title": "the worshipped", "sub": ["supposed helpers"]},
+      {"conn": "turn and say"},
+      {"box": "trap", "title": "you are lying", "sub": ["we never asked this"]},
+      {"conn": "leaving"},
+      {"box": "trap", "title": "no defense, no help", "sub": []}]},
+    "key": {"label": "What a helper is", "row": [
+      {"box": "people", "title": "whoever I lean on", "sub": ["will speak for me"], "strike": true},
+      {"box": "idea", "title": "only Allah", "sub": ["the rest cannot even help themselves"]}]},
+    "then": "The worshipped {trap}will show their worshippers to be liars{/trap} in claiming they were helpers who brought them close to Allah. Ibn Kathir links it to 46:5-6, where those called on become enemies. Then a warning: {idea}whoever does wrong among you{/idea} will taste a great punishment.",
+    "now": "You cut corners at work because a senior colleague said it was fine. Then the audit comes and he says he never said that. {trap}People you lean on in wrong things tend to step away when it counts.{/trap}",
+    "old": "If someone important approves, I am covered.",
+    "new": "No one I lean on in wrong will stand with me when it matters.",
+    "try": "If you are doing something only because someone said it is fine, check it yourself today.",
+    "related": ["46:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:20", "surah": 25, "ayah": 20, "place": "makkah",
+    "title": "Every messenger ate food and walked in markets.",
+    "subtitle": "The answer to verse 7, and a test for all of us",
+    "picture": {"kind": "boxes", "label": "The messengers before", "row": [
+      {"box": "people", "title": "ate food", "sub": ["needed it like anyone"]},
+      {"box": "people", "title": "walked the markets", "sub": ["traded, earned a living"]},
+      {"conn": "and still"},
+      {"box": "idea", "title": "chosen by Allah", "sub": ["He knows who to choose"]}]},
+    "key": {"label": "Why people differ in their lives", "row": [
+      {"box": "plain", "title": "random unfairness", "sub": ["some get more"], "strike": true},
+      {"box": "idea", "title": "a test", "sub": ["some of you for others"]}]},
+    "then": "This answers the objection from verse 7. Ibn Kathir says {idea}all the earlier messengers ate and went to markets to earn a living{/idea}. Then: We made some of you a trial for others, will you be patient? He notes the Prophet ﷺ was offered to be a king-prophet and {reward}chose to be a servant and messenger{/reward}.",
+    "now": "Your neighbor's son got the scholarship. Your sister's husband earns twice what yours does. You feel tested by other people's lives. {idea}The verse says that is exactly the test{/idea}, and your Lord is watching how you hold it.",
+    "old": "Other people's good fortune is unfair to me.",
+    "new": "Other people are part of my test, and patience with that is seen by Allah.",
+    "try": "Think of someone whose life makes you feel smaller. Make one sincere dua for them today.",
+    "related": ["12:109", "21:8", "6:124"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:21", "surah": 25, "ayah": 21, "place": "makkah",
+    "title": "Show us angels, show us our Lord, they demanded.",
+    "subtitle": "When demands are really pride",
+    "picture": {"kind": "boxes", "label": "Their demands", "row": [
+      {"box": "people", "title": "do not expect to meet Him", "sub": ["the speakers"]},
+      {"conn": "demand"},
+      {"box": "plain", "title": "angels sent to us", "sub": ["to confirm him"]},
+      {"box": "plain", "title": "see our Lord", "sub": ["face to face"]}]},
+    "key": {"label": "What it really was", "row": [
+      {"box": "plain", "title": "a fair request", "sub": ["just show proof"], "strike": true},
+      {"box": "trap", "title": "pride", "sub": ["they thought too highly of themselves"]}]},
+    "then": "People who did not expect to meet Allah asked for angels to come down to them, or {trap}to see their Lord directly{/trap}. Ibn Kathir links it to their demand in 17:92. Allah's verdict: {trap}they think too highly of themselves{/trap} and are scornful with great pride.",
+    "now": "You tell a friend you will start praying properly once you get a clear sign. Then a sign comes and you ask for a clearer one. {trap}Sometimes the bar keeps rising because you do not want to move.{/trap}",
+    "old": "I will believe and act once I get the proof I asked for.",
+    "new": "Setting the terms for Allah is pride, even when it sounds like reasonable doubt.",
+    "try": "Notice one condition you have set before you will change something. Drop it and take one step.",
+    "related": ["17:92", "6:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:22", "surah": 25, "ayah": 22, "place": "makkah",
+    "title": "They will see the angels, but not as they hoped.",
+    "subtitle": "The request granted at the worst moment",
+    "picture": {"kind": "boxes", "label": "When they see angels", "row": [
+      {"box": "people", "title": "at death", "sub": ["and on the Day"]},
+      {"conn": "bringing"},
+      {"box": "trap", "title": "no good news", "sub": ["for the criminals"]},
+      {"box": "trap", "title": "success forbidden", "sub": ["the angels say"]}]},
+    "key": {"label": "Two meetings with angels", "row": [
+      {"box": "trap", "title": "for the arrogant", "sub": ["no glad tidings"]},
+      {"box": "reward", "title": "for the steadfast", "sub": ["fear not, nor grieve"]}]},
+    "then": "They demanded to see angels. Ibn Kathir explains they will, {trap}at death and on the Day of Resurrection{/trap}, and it will bring no good news to them. The angels will say success is forbidden to them. He contrasts the believers, to whom the angels say {reward}fear not, nor grieve{/reward}, from 41:30.",
+    "now": "Some people want to be proven right so badly they forget what being proven right might cost. {idea}The same angels can arrive with comfort or with bad news{/idea}, and it depends on how you lived before they came.",
+    "old": "I want to see it with my own eyes before I take it seriously.",
+    "new": "By the time I see it, it will be too late to prepare. I want them to greet me with good news.",
+    "try": "Read 41:30 today and ask Allah to make you among those the angels comfort.",
+    "related": ["41:30", "8:50", "6:93"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:23", "surah": 25, "ayah": 23, "place": "makkah",
+    "title": "Their deeds become dust floating in a sunbeam.",
+    "subtitle": "Work that had no sincere root",
+    "picture": {"kind": "boxes", "label": "Their deeds", "row": [
+      {"box": "people", "title": "deeds they relied on", "sub": ["thought they would save them"]},
+      {"conn": "turned into"},
+      {"box": "trap", "title": "scattered dust", "sub": ["specks in a ray of sun"]}]},
+    "key": {"label": "What makes a deed last", "row": [
+      {"box": "plain", "title": "looking good", "sub": ["size, show"], "strike": true},
+      {"box": "idea", "title": "sincere and right", "sub": ["for Allah, in His way"]}]},
+    "then": "On the Day of Resurrection, Allah turns to the deeds the idolators thought would save them. Ibn Kathir says a deed counts when it is {idea}sincere and in line with what Allah set out{/idea}. Ali explained the dust as {trap}specks seen in the sun's rays through a small opening{/trap}.",
+    "now": "You helped at the charity drive and posted the photo. You gave, and made sure people knew. {idea}A sunbeam through the window shows how much dust is in the air{/idea}. Ask which of your deeds would hold weight if no one ever saw them.",
+    "old": "As long as I do good things, how and why I do them does not matter much.",
+    "new": "A good deed lasts when it is done sincerely for Allah, not for an audience.",
+    "try": "Do one good thing today that nobody will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:24", "surah": 25, "ayah": 24, "place": "makkah",
+    "title": "That Day, the people of the Garden have the best home.",
+    "subtitle": "A place to settle and a place to rest",
+    "picture": {"kind": "boxes", "label": "Their place that Day", "row": [
+      {"box": "reward", "title": "best settlement", "sub": ["a home to stay"]},
+      {"box": "reward", "title": "best resting place", "sub": ["somewhere to finally rest"]}]},
+    "key": {"label": "Side by side", "row": [
+      {"box": "trap", "title": "deeds as dust", "sub": ["the previous verse"]},
+      {"box": "reward", "title": "a home and rest", "sub": ["this verse"]}]},
+    "then": "Right after deeds turn to dust for the arrogant, the verse turns to the people of the Garden. That Day they have {reward}the best abode and the fairest place of repose{/reward}. The contrast is placed side by side, as the surah does again and again.",
+    "now": "You come home after a twelve-hour shift and just want to sit somewhere quiet. Everyone knows that longing. {reward}The verse promises a settlement and a rest{/reward} that no shift will end.",
+    "old": "Rest is something I will get when I retire, maybe.",
+    "new": "The truest rest is waiting for those who lived for Allah.",
+    "try": "Tonight, before sleeping, ask Allah for the best resting place in the Hereafter.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:25", "surah": 25, "ayah": 25, "place": "makkah",
+    "title": "The sky splits with clouds and angels pour down.",
+    "subtitle": "The Day when everything comes to judgment",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "idea", "title": "heaven split open", "sub": ["by clouds of light"]},
+      {"conn": "then"},
+      {"box": "people", "title": "angels descend", "sub": ["surrounding all creatures"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "judgment", "sub": ["the Lord comes to judge"]}]},
+    "key": {"label": "The angels they demanded", "row": [
+      {"box": "plain", "title": "on their terms", "sub": ["when they asked"], "strike": true},
+      {"box": "idea", "title": "on Allah's Day", "sub": ["in great numbers, for judgment"]}]},
+    "then": "They had asked for angels to be sent down. Here the angels do come down, on the Day of Resurrection, when {idea}the heaven is split by clouds{/idea}. Ibn Kathir says the angels will {idea}surround all creatures at the place of gathering{/idea}, and then judgment begins.",
+    "now": "Sitting in traffic, you look at the sky and it just looks like weather. {idea}This verse asks you to picture that same sky opening{/idea}, with no traffic, no phones, only you and what you did.",
+    "old": "The sky above me is just the background to my day.",
+    "new": "The same sky will one day open, and I will stand in front of my Lord.",
+    "try": "Next time you look up at the sky today, remember this Day for one breath.",
+    "related": ["2:210"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:26", "surah": 25, "ayah": 26, "place": "makkah",
+    "title": "That Day, all rule belongs to the Most Merciful.",
+    "subtitle": "No kings, no tyrants, one Sovereign",
+    "picture": {"kind": "boxes", "label": "Who rules that Day", "row": [
+      {"box": "trap", "title": "kings of the earth", "sub": ["where are they?"], "strike": true},
+      {"box": "trap", "title": "tyrants, arrogant", "sub": ["where are they?"], "strike": true},
+      {"box": "idea", "title": "the Most Merciful", "sub": ["the true Sovereign"]}]},
+    "key": {"label": "How the Day feels", "row": [
+      {"box": "trap", "title": "hard", "sub": ["for those who denied"]},
+      {"box": "reward", "title": "safe", "sub": ["the great terror does not grieve them"]}]},
+    "then": "Ibn Kathir cites the hadith in which Allah folds the heavens and says: {idea}I am the Sovereign, where are the kings of the earth?{/idea} The Day is hard for the disbelievers because it is the Day of justice. For the believers, he quotes 21:103: {reward}the greatest terror will not grieve them{/reward}.",
+    "now": "The person who controls your schedule, your visa, your pay seems very powerful today. {idea}Their power is borrowed, and it ends.{/idea} And the One who rules that Day calls Himself the Most Merciful.",
+    "old": "The people with power over my life decide my fate.",
+    "new": "All power returns to the Most Merciful, and He is the One I answer to.",
+    "try": "When someone's power over you makes you anxious today, say quietly: the kingdom belongs to the Most Merciful.",
+    "related": ["40:16", "74:9", "21:103"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:27", "surah": 25, "ayah": 27, "place": "makkah",
+    "title": "Biting his hands: if only I had walked with the Messenger.",
+    "subtitle": "The regret of the one who chose another path",
+    "picture": {"kind": "boxes", "label": "The wrongdoer that Day", "row": [
+      {"box": "trap", "title": "bites his hands", "sub": ["in sorrow"]},
+      {"conn": "says"},
+      {"box": "idea", "title": "if only", "sub": ["I had taken a path with him"]}]},
+    "key": {"label": "When regret helps", "row": [
+      {"box": "trap", "title": "that Day", "sub": ["regret avails nothing"]},
+      {"box": "reward", "title": "today", "sub": ["the path is still open"]}]},
+    "then": "Ibn Kathir describes the regret of {trap}the wrongdoer who rejected the path of the Messenger{/trap}. He says it may have been revealed about Uqbah bin Abi Mu'it or another, but {idea}it applies to every wrongdoer{/idea}. On that Day the regret will avail him nothing.",
+    "now": "You know which path you should be on. You keep saying next month. {reward}The verse is a voice from the future{/reward}, letting you hear the if only while you can still act on it.",
+    "old": "There is plenty of time to get serious later.",
+    "new": "I would rather feel the pull of this verse today than say if only on that Day.",
+    "try": "Pick one practice of the Prophet ﷺ you have neglected and do it once today.",
+    "related": ["33:66"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:28", "surah": 25, "ayah": 28, "place": "makkah",
+    "title": "Woe to me, I wish I had never befriended him.",
+    "subtitle": "The friend who pulled you away",
+    "picture": {"kind": "boxes", "label": "How it happened", "row": [
+      {"box": "people", "title": "so-and-so", "sub": ["a close friend"]},
+      {"conn": "pulled him"},
+      {"box": "trap", "title": "away from guidance", "sub": ["onto another path"]}]},
+    "key": {"label": "What a friend is", "row": [
+      {"box": "people", "title": "just company", "sub": ["no real effect"], "strike": true},
+      {"box": "idea", "title": "a direction", "sub": ["friends move you somewhere"]}]},
+    "then": "The wrongdoer names his regret: {trap}a close friend{/trap}. Ibn Kathir says this is the one among the callers to misguidance who diverted him from guidance, {idea}whether Umayyah bin Khalaf, his brother Ubayy, or someone else{/idea}. The verse leaves the name blank.",
+    "now": "The friend who always says skip it, one time is fine. The group that makes fun of you for praying. You laugh along. {idea}The verse leaves the name blank so you can fill it in{/idea}, and also ask whose blank you might be.",
+    "old": "My friends do not really change who I am.",
+    "new": "The people closest to me are shaping where I end up.",
+    "try": "Spend time this week with one friend who makes you better, and tell them so.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:29", "surah": 25, "ayah": 29, "place": "makkah",
+    "title": "He led me away after the reminder had reached me.",
+    "subtitle": "And Satan always walks away in the end",
+    "picture": {"kind": "boxes", "label": "The sequence", "row": [
+      {"box": "idea", "title": "the Reminder came", "sub": ["the Quran reached him"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the friend led him off", "sub": []},
+      {"conn": "and finally"},
+      {"box": "trap", "title": "Satan deserts", "sub": ["when he is needed"]}]},
+    "key": {"label": "Who stays", "row": [
+      {"box": "trap", "title": "the one who misled", "sub": ["will stand by me"], "strike": true},
+      {"box": "trap", "title": "a deserter", "sub": ["gone when it counts"]}]},
+    "then": "The regret goes on: {trap}he led me astray from the Reminder after it had come to me{/trap}. Ibn Kathir says the Reminder is the Quran. Then the verse adds that Satan is {trap}a deserter{/trap}: he leads man from the truth and abandons him.",
+    "now": "You heard the reminder. A talk, a verse, a friend's honest word. Then a scroll, a laugh, a distraction, and it was gone. {idea}The danger is not missing the message. It is being talked out of it after it arrives.{/idea}",
+    "old": "I heard it, so I am fine; I can come back to it.",
+    "new": "Once the reminder reaches me, the next pull away is the real test.",
+    "try": "After the next reminder that touches you, act on it within the hour, before anything talks you out of it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:30", "surah": 25, "ayah": 30, "place": "makkah",
+    "title": "My Lord, my people abandoned this Quran.",
+    "subtitle": "The Messenger's complaint, and the many ways to abandon",
+    "picture": {"kind": "boxes", "label": "Ways to abandon it", "row": [
+      {"box": "trap", "title": "not listening", "sub": ["talking over it"]},
+      {"box": "trap", "title": "not believing", "sub": []},
+      {"box": "trap", "title": "not pondering", "sub": ["never trying to understand"]},
+      {"box": "trap", "title": "not acting", "sub": ["ignoring its commands"]},
+      {"box": "trap", "title": "replacing it", "sub": ["songs, idle talk"]}]},
+    "key": {"label": "Who abandons it", "row": [
+      {"box": "people", "title": "only disbelievers", "sub": ["not me"], "strike": true},
+      {"box": "idea", "title": "anyone who neglects it", "sub": ["in any of these ways"]}]},
+    "then": "The Messenger ﷺ complains to Allah that his people {trap}deserted this Quran{/trap}. The idolators would make noise when it was recited. Ibn Kathir widens it: {idea}not pondering it, not acting on it, or turning to idle talk instead{/idea} are also forms of forsaking it.",
+    "now": "There is a Quran app on your phone. Last opened during Ramadan. You can name ten series you watched this year. {idea}This complaint is not only about Makkah.{/idea} It is gentle enough to reach you too.",
+    "old": "I believe in the Quran, so this verse is not about me.",
+    "new": "Believing in it while never reading or living it is also a way of leaving it.",
+    "try": "Open the Quran today and read one page slowly, with its meaning.",
+    "related": ["41:26", "6:112"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "id": "29:1", "surah": 29, "ayah": 1, "place": "makkah",
+    "title": "Three letters, then a hard question.",
+    "subtitle": "Pausing before a surah about tests",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "idea", "title": "Alif Lam Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "people", "title": "a question", "sub": ["do you think you will not be tested?"]}]},
+    "key": {"label": "What the letters ask of you", "row": [
+      {"box": "people", "title": "skim ahead", "sub": ["I know this already"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["something weighty follows"]}]},
+    "then": "This surah came in Makkah during {trap}heavy persecution of the early Muslims.{/trap} It opens with three letters whose meaning is known to Allah. Ibn Kathir does not explain them here. He points straight to what follows: {idea}a question about tests.{/idea}",
+    "now": "You open the app on the bus, half tired, thumb ready to scroll. Three letters you cannot translate sit at the top. {idea}They slow you down.{/idea} Before you hear the hard question, you are asked to be present for it.",
+    "old": "If I cannot understand a word, I can skip it.",
+    "new": "Some words are there to make me stop, so I hear what comes next properly.",
+    "try": "Before reading the next verse, put the phone down for three breaths and then read it slowly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:2", "surah": 29, "ayah": 2, "place": "makkah",
+    "title": "Saying I believe opens the test, not ends it.",
+    "subtitle": "Why faith is always tried",
+    "picture": {"kind": "boxes", "label": "What people expect", "row": [
+      {"box": "people", "title": "\"We believe\"", "sub": ["said once, with the tongue"]},
+      {"conn": "expects"},
+      {"box": "trap", "title": "to be left alone", "sub": ["no trial, no cost"], "strike": true}]},
+    "key": {"label": "How it actually works", "row": [
+      {"box": "trap", "title": "words then rest", "sub": ["the claim is enough"], "strike": true},
+      {"box": "idea", "title": "words then test", "sub": ["tested by level of faith"]}]},
+    "then": "The early Muslims of Makkah were being beaten, boycotted and mocked. The verse is {idea}a rebuke in the form of a question.{/idea} Ibn Kathir cites the hadith that the people most tested are the Prophets, then the righteous, then the next best, {reward}each by the strength of his faith.{/reward}",
+    "now": "You started praying on time this month. Then work got crushing, your sleep broke, and a family argument flared. {trap}It feels like it went wrong because you tried.{/trap} The verse says this is the normal shape of the road. {idea}The test is how claims become real.{/idea}",
+    "old": "If I am sincere, things should get easier.",
+    "new": "Being tested is not a sign that Allah left me. It is how my faith is shown to be true.",
+    "try": "Name one hard thing in your week and say, quietly, this is my test, not my punishment.",
+    "related": ["3:142", "2:214"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:3", "surah": 29, "ayah": 3, "place": "makkah",
+    "title": "Every generation before you was tested too.",
+    "subtitle": "Trials make the truthful and the liars evident",
+    "picture": {"kind": "boxes", "label": "The long line", "row": [
+      {"box": "people", "title": "those before", "sub": ["tested, shaken"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you", "sub": ["same road, your turn"]},
+      {"conn": "reveals"},
+      {"box": "idea", "title": "truthful or not", "sub": ["shown openly"]}]},
+    "key": {"label": "Why the test", "row": [
+      {"box": "trap", "title": "Allah finds out", "sub": ["as if He did not know"], "strike": true},
+      {"box": "idea", "title": "it becomes evident", "sub": ["He knew; now it is seen"]}]},
+    "then": "The persecuted believers in Makkah were reminded that {reward}earlier believers had faced the same.{/reward} Ibn Kathir explains that Allah already knows everything, past and future. The test makes {idea}who is sincere and who is lying{/idea} visible in the real world.",
+    "now": "You read about your grandparents leaving a home with almost nothing, holding on to their prayers. Now your test is smaller, a boss who mocks your fasting, a friend group that drifts. {idea}Same line, new name in it.{/idea}",
+    "old": "No one has had it as hard as me.",
+    "new": "I am standing where believers have always stood, and the test only shows what is already in my heart.",
+    "try": "Ask an older relative about one test they went through for their faith, and listen to the whole story.",
+    "related": ["2:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:4", "surah": 29, "ayah": 4, "place": "makkah",
+    "title": "No one outruns Allah.",
+    "subtitle": "The wrongdoers' mistaken sense of escape",
+    "picture": {"kind": "boxes", "label": "What they assume", "row": [
+      {"box": "people", "title": "the wrongdoer", "sub": ["no test seems to touch him"]},
+      {"conn": "thinks he can"},
+      {"box": "trap", "title": "outrun", "sub": ["get away clean"], "strike": true}]},
+    "key": {"label": "The real picture", "row": [
+      {"box": "trap", "title": "escaped", "sub": ["nothing happened to them"], "strike": true},
+      {"box": "idea", "title": "not yet", "sub": ["a greater reckoning ahead"]}]},
+    "then": "Believers were being tested while their oppressors seemed untouched. Ibn Kathir says those doing evil {trap}should not think they will escape{/trap} the trials, for a heavier reckoning lies ahead. {idea}Evil is what they judge.{/idea}",
+    "now": "You see a colleague cut corners, take credit, and get promoted anyway. You start to wonder why you bother being honest. {trap}It looks like he got away with it.{/trap} The verse widens the frame. {idea}The story is not finished.{/idea}",
+    "old": "People who do wrong and prosper have won.",
+    "new": "No one slips past Allah. Delay is not escape, for them or for me.",
+    "try": "Think of one small wrong you hoped nobody noticed. Fix it or ask forgiveness today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:5", "surah": 29, "ayah": 5, "place": "makkah",
+    "title": "The meeting you hope for is surely coming.",
+    "subtitle": "Hope with a date on the calendar",
+    "picture": {"kind": "boxes", "label": "The hope", "row": [
+      {"box": "people", "title": "you", "sub": ["hoping to meet Allah"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "His term", "sub": ["surely coming"]},
+      {"conn": "by"},
+      {"box": "idea", "title": "the All-Hearer", "sub": ["hears every dua"]}]},
+    "key": {"label": "What hope does", "row": [
+      {"box": "people", "title": "vague wish", "sub": ["someday, maybe"], "strike": true},
+      {"box": "idea", "title": "certain meeting", "sub": ["work for it now"]}]},
+    "then": "To believers who were suffering, this was reassurance. Ibn Kathir says whoever hopes to meet Allah and does good will have {reward}his hopes fulfilled and his deeds rewarded in full.{/reward} It will surely come, because {idea}He hears all supplications and knows every need.{/idea}",
+    "now": "You whisper a dua at night that nobody else knows about. You keep doing quiet good that no one thanks you for. {trap}It can feel like talking into the dark.{/trap} {idea}Someone hears, and the meeting is set.{/idea}",
+    "old": "My quiet prayers and efforts probably go nowhere.",
+    "new": "The One I hope to meet hears every word, and the meeting is certain.",
+    "try": "Make one dua tonight for something you have stopped asking for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:6", "surah": 29, "ayah": 6, "place": "makkah",
+    "title": "Your striving is for you, not for Him.",
+    "subtitle": "Allah does not need your effort",
+    "picture": {"kind": "boxes", "label": "Where the effort goes", "row": [
+      {"box": "people", "title": "you strive", "sub": ["patience, prayer, good"]},
+      {"conn": "returns to"},
+      {"box": "reward", "title": "yourself", "sub": ["the whole benefit"]}]},
+    "key": {"label": "Who gains", "row": [
+      {"box": "trap", "title": "I do Allah a favor", "sub": ["He owes me"], "strike": true},
+      {"box": "idea", "title": "Allah is free of need", "sub": ["the gain is all mine"]}]},
+    "then": "Believers in Makkah were paying a high price for their faith. Ibn Kathir explains that {reward}the benefit of every good deed comes back to the doer.{/reward} Even if everyone were as pious as the most pious person, {idea}it would add nothing to Allah's dominion.{/idea}",
+    "now": "You wake for Fajr in a cold room and feel a bit proud, like you have given something. Or you resent it, like a tax. {idea}Neither is quite right.{/idea} The effort is building you. {reward}You are the one who walks away richer.{/reward}",
+    "old": "My worship is something I give to Allah.",
+    "new": "My worship is something Allah gives me the chance to gain from.",
+    "try": "During one prayer today, think: this is for me, and thank Allah for letting me do it.",
+    "related": ["41:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:7", "surah": 29, "ayah": 7, "place": "makkah",
+    "title": "Your worst erased, your best rewarded.",
+    "subtitle": "How generously Allah weighs deeds",
+    "picture": {"kind": "boxes", "label": "The scale", "row": [
+      {"box": "trap", "title": "misdeeds", "sub": ["removed"], "strike": true},
+      {"box": "reward", "title": "best deeds", "sub": ["set the reward"]},
+      {"box": "reward", "title": "10 to 700", "sub": ["for one good deed"], "num": true}]},
+    "key": {"label": "How you are judged", "row": [
+      {"box": "trap", "title": "by my average", "sub": ["the bad drags it down"], "strike": true},
+      {"box": "idea", "title": "by my best", "sub": ["and the bad wiped away"]}]},
+    "then": "Ibn Kathir notes that although Allah needs nothing, {idea}He is kind and generous.{/idea} He accepts the smallest good, multiplies one good deed from ten to seven hundred, and counts a bad deed as only one, {reward}or overlooks it entirely.{/reward}",
+    "now": "You replay your worst moments at 2am, the shout at your kid, the lie at work. You assume that is who you are on the record. {idea}The verse promises a different accounting{/idea} for the one who believes and keeps doing good.",
+    "old": "My bad days define me in Allah's eyes.",
+    "new": "Allah wipes the misdeeds of those who believe and do good, and rewards them by their best.",
+    "try": "Do one good deed today you would be glad to be judged by.",
+    "related": ["4:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:8", "surah": 29, "ayah": 8, "place": "makkah",
+    "title": "Be good to your parents, but not at Allah's expense.",
+    "subtitle": "When love for family pulls against faith",
+    "picture": {"kind": "boxes", "label": "Sa'd's story", "row": [
+      {"box": "people", "title": "Sa'd", "sub": ["a young believer"]},
+      {"box": "people", "title": "his mother", "sub": ["\"I will not eat until you leave\""]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "this verse", "sub": ["kindness yes, obedience no"]}]},
+    "key": {"label": "Two duties, one order", "row": [
+      {"box": "trap", "title": "obey in everything", "sub": ["even against Allah"], "strike": true},
+      {"box": "idea", "title": "honor them, hold firm", "sub": ["kind, and true to Allah"]}]},
+    "then": "Families in Makkah pressed converts to return to the old religion, even using the Quran's own respect for parents as leverage. Sa'd said his mother refused food until he left Islam. {idea}This verse was revealed:{/idea} goodness to parents, but {trap}no obedience in associating partners with Allah.{/trap}",
+    "now": "Your father wants you to skip prayer at the wedding so you do not \"embarrass the family.\" Your mother says you are being extreme. {reward}You still owe them warmth and respect.{/reward} {idea}You do not owe them your faith.{/idea}",
+    "old": "If I refuse my parents anything, I am a bad child.",
+    "new": "I can be gentle and loyal to my parents and still keep Allah first.",
+    "try": "Do one kind thing for a parent today, especially if you disagree with them about something.",
+    "related": ["17:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:9", "surah": 29, "ayah": 9, "place": "makkah",
+    "title": "You will be gathered with the righteous.",
+    "subtitle": "The company you keep in the end",
+    "picture": {"kind": "boxes", "label": "Where you end up", "row": [
+      {"box": "people", "title": "you", "sub": ["believed, did good"]},
+      {"conn": "admitted among"},
+      {"box": "reward", "title": "the righteous", "sub": ["your true family"]}]},
+    "key": {"label": "Who you are gathered with", "row": [
+      {"box": "people", "title": "only blood family", "sub": ["whoever I was born to"], "strike": true},
+      {"box": "idea", "title": "those you loved for Allah", "sub": ["the company of faith"]}]},
+    "then": "This follows the verse about parents who pushed their children away from Islam. Ibn Kathir says Allah {reward}gathers the believer with the righteous,{/reward} not necessarily with his parents, even if he was closest to them in this world. {idea}A person is gathered with those he loves,{/idea} in faith.",
+    "now": "You are the only one at the dinner table who prays. Sometimes you feel like the odd one out in your own family. {reward}The verse gives you a place to belong.{/reward} It promises you a company of good people at the end.",
+    "old": "If my family does not share my faith, I am alone.",
+    "new": "Allah places the believer among the righteous. I am not walking this alone.",
+    "try": "Message one friend who helps you be better and tell them you are grateful for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:10", "surah": 29, "ayah": 10, "place": "makkah",
+    "title": "When people hurt him, he thought Allah had.",
+    "subtitle": "Faith that flips when the pressure comes",
+    "picture": {"kind": "boxes", "label": "Two seasons", "row": [
+      {"box": "trap", "title": "harmed", "sub": ["treats it like Allah's punishment"]},
+      {"conn": "then"},
+      {"box": "people", "title": "victory", "sub": ["\"we were with you\""]}]},
+    "key": {"label": "What he confused", "row": [
+      {"box": "trap", "title": "people's harm", "sub": ["felt as Allah's anger"], "strike": true},
+      {"box": "idea", "title": "a trial", "sub": ["passing, survivable"]}]},
+    "then": "Some in Makkah claimed faith with their lips, but when hurt for it {trap}they treated people's harm like Allah's punishment{/trap} and left Islam, as Ibn 'Abbas explained. Yet when ease and gain came, they would say {trap}we were with you.{/trap} {idea}Allah knows what is in every heart.{/idea}",
+    "now": "You are open about your faith until someone at work makes a joke about it. Then you go quiet, and later you hide it. When being Muslim becomes popular in your circle, you are suddenly loud again. {idea}Allah sees the whole pattern.{/idea}",
+    "old": "When believing costs me, maybe it is a sign it was a mistake.",
+    "new": "People's pressure is a trial, not Allah's verdict. My faith is shown by staying the same in both seasons.",
+    "try": "Notice one place where you hide your faith out of fear, and take one small step to stop hiding it.",
+    "related": ["22:11", "4:141"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:11", "surah": 29, "ayah": 11, "place": "makkah",
+    "title": "Hardship and ease both sort hearts.",
+    "subtitle": "How the believer and the hypocrite are shown",
+    "picture": {"kind": "boxes", "label": "Two tests", "row": [
+      {"box": "trap", "title": "hardship", "sub": ["who stays?"]},
+      {"box": "reward", "title": "ease", "sub": ["who stays grateful?"]},
+      {"conn": "make evident"},
+      {"box": "idea", "title": "true faith", "sub": ["obeying in both"]}]},
+    "key": {"label": "Who is sincere", "row": [
+      {"box": "trap", "title": "obeys when it suits", "sub": ["only when life goes my way"], "strike": true},
+      {"box": "idea", "title": "obeys in both", "sub": ["hard days and easy days"]}]},
+    "then": "Ibn Kathir explains that Allah tests people {trap}with calamities{/trap} and {reward}with times of ease{/reward} to distinguish believers from hypocrites. The question is who obeys in both, and who obeys only {idea}when things go the way they want.{/idea}",
+    "now": "Payday arrives with a bonus and suddenly you forget the duas you made when rent was due. Or a hospital visit makes you pray hard, then you drift once the scan is clear. {idea}Both seasons are the test.{/idea}",
+    "old": "Tests only come when life gets hard.",
+    "new": "Easy days test my heart as much as hard ones.",
+    "try": "Thank Allah out loud today for one thing that is going well, before you ask for anything else.",
+    "related": ["47:31", "3:179"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:12", "surah": 29, "ayah": 12, "place": "makkah",
+    "title": "No one can carry your sins for you.",
+    "subtitle": "The empty promise: do it, I will take the blame",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "people", "title": "Quraysh leaders", "sub": ["\"follow our way\""]},
+      {"conn": "promise"},
+      {"box": "trap", "title": "we carry your sins", "sub": ["on our shoulders"], "strike": true}]},
+    "key": {"label": "What really happens", "row": [
+      {"box": "trap", "title": "the blame moves", "sub": ["it is on them now"], "strike": true},
+      {"box": "idea", "title": "each carries his own", "sub": ["no one lifts it for you"]}]},
+    "then": "The disbelievers of Quraysh told the believers: leave your religion, follow our way, and {trap}we will bear your sins.{/trap} Ibn Kathir compares it to someone saying, do this and the sin is on my shoulders. Allah calls it a lie, for {idea}no soul bears another's burden.{/idea}",
+    "now": "A friend says, \"Just sign it, everyone does, if anything happens it is on me.\" A cousin says the same about a shady loan. {trap}It sounds generous.{/trap} {idea}But on the Day, your choices stay yours.{/idea}",
+    "old": "If someone else talked me into it, the blame is theirs.",
+    "new": "No one can take my sins off me, however confident they sound.",
+    "try": "Next time someone says it is on me, pause and ask yourself if you would still do it alone.",
+    "related": ["35:18", "70:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:13", "surah": 29, "ayah": 13, "place": "makkah",
+    "title": "Those who mislead carry extra loads.",
+    "subtitle": "Influence adds to your burden or your reward",
+    "picture": {"kind": "boxes", "label": "The loads", "row": [
+      {"box": "people", "title": "the misleader", "sub": ["calls others to wrong"]},
+      {"conn": "carries"},
+      {"box": "trap", "title": "own load", "sub": ["his own sins"]},
+      {"box": "trap", "title": "plus others", "sub": ["for those he misled"]}]},
+    "key": {"label": "What spreads", "row": [
+      {"box": "trap", "title": "call to misguidance", "sub": ["share of every follower's sin"]},
+      {"box": "reward", "title": "call to guidance", "sub": ["share of every follower's reward"]}]},
+    "then": "Ibn Kathir quotes the Sahih hadith: whoever calls to guidance gets {reward}a reward like those who follow him,{/reward} and whoever calls to misguidance carries {trap}a burden like those who follow him,{/trap} without reducing anyone's own share. They will also be questioned about the lies they invented.",
+    "now": "You forward a cruel meme to the family group chat and twenty people pass it on. You teach your little brother a shortcut that is really cheating. {trap}Things you start keep traveling.{/trap} {reward}So do the good things.{/reward}",
+    "old": "What others do after copying me is on them.",
+    "new": "What I start, good or bad, keeps counting for me long after.",
+    "try": "Share one thing today that you would be happy for a hundred people to copy.",
+    "related": ["16:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:14", "surah": 29, "ayah": 14, "place": "makkah",
+    "title": "Nuh called his people for 950 years.",
+    "subtitle": "Patience longer than any lifetime",
+    "picture": {"kind": "boxes", "label": "Nuh's mission", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["night and day, openly and secretly"]},
+      {"box": "idea", "title": "950", "sub": ["years of calling"], "num": true},
+      {"conn": "then"},
+      {"box": "trap", "title": "the Flood", "sub": ["seized the wrongdoers"]}]},
+    "key": {"label": "What success means", "row": [
+      {"box": "trap", "title": "results on my clock", "sub": ["they must change now"], "strike": true},
+      {"box": "idea", "title": "faithful calling", "sub": ["guidance is Allah's"]}]},
+    "then": "Ibn Kathir says Allah {reward}consoled the Prophet ﷺ{/reward} with Nuh, who called his people a thousand years less fifty, night and day, and {trap}only a few believed.{/trap} So do not grieve for those who refuse. {idea}Allah guides whom He wills.{/idea}",
+    "now": "You have been gently reminding your brother to pray for three years. He still rolls his eyes. {trap}You feel like a failure.{/trap} Nuh kept going for centuries. {idea}Your job is the calling, with kindness. The heart is in Allah's hand.{/idea}",
+    "old": "If they have not changed by now, I have failed.",
+    "new": "I am asked to be faithful and patient. Guidance belongs to Allah.",
+    "try": "Make dua tonight, by name, for one person you have been trying to help, and let go of the timeline.",
+    "related": ["10:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "29:15", "surah": 29, "ayah": 15, "place": "makkah",
+    "title": "The ship that saved them became a sign.",
+    "subtitle": "Every boat on the water is a reminder",
+    "picture": {"kind": "boxes", "label": "After the Flood", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["and the believers"]},
+      {"conn": "saved in"},
+      {"box": "reward", "title": "the ship", "sub": ["kept as a sign"]},
+      {"conn": "for"},
+      {"box": "people", "title": "all people", "sub": ["in every age"]}]},
+    "key": {"label": "What a boat is", "row": [
+      {"box": "plain", "title": "just transport", "sub": ["metal and engines"], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["of how Allah rescued"]}]},
+    "then": "Allah saved Nuh and those who believed with him on the ship. Ibn Kathir mentions the view of Qatadah that the ship remained on Mount Judi, or that {idea}sailing itself was left as a reminder{/idea} of how {reward}Allah saved mankind from the Flood.{/reward}",
+    "now": "You ride the ferry to work, or watch a cargo ship crawl along the horizon on holiday. {idea}It floats because Allah lets it.{/idea} The verse turns an ordinary commute into a memory of rescue.",
+    "old": "A boat is just a machine that works.",
+    "new": "Every ship on the water is a quiet sign of Allah saving the believers.",
+    "try": "Next time you see water, a river, sea or even rain on a window, say alhamdulillah for being kept safe.",
+    "related": ["36:41", "69:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

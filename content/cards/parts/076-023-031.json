@@ -1,0 +1,171 @@
+[
+  {
+    "id": "76:23", "surah": 76, "ayah": 23, "place": "madinah",
+    "title": "We sent the Quran down to you, piece by piece.",
+    "subtitle": "A reminder of the honor first",
+    "picture": {"kind": "boxes", "label": "The gift", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["sent it down"]},
+      {"conn": "in stages"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["honored with it"]}]},
+    "key": {"label": "What comes first", "row": [
+      {"box": "trap", "title": "the hardship", "sub": ["what I notice"], "strike": true},
+      {"box": "reward", "title": "the honor", "sub": ["what Allah reminds of"]}]},
+    "then": "Ibn Kathir says Allah {reward}reminds His Messenger ﷺ of how He blessed him by revealing the Quran.{/reward} The next verse asks for patience. {idea}The blessing is named before the burden.{/idea}",
+    "now": "A hard week: a deadline, a fight at home, money short. You forget everything good. {idea}Before asking for patience, Allah reminds you what you have been given.{/idea} You have the Quran in your pocket.",
+    "old": "My troubles are the main story of my life.",
+    "new": "I have been honored with guidance. That comes first, then the patience.",
+    "try": "Read one short passage of the Quran today as a gift, not a task.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:24", "surah": 76, "ayah": 24, "place": "madinah",
+    "title": "Be patient with His decree. Do not obey those pulling you away.",
+    "subtitle": "Patience and refusing pressure",
+    "picture": {"kind": "boxes", "label": "Two instructions", "row": [
+      {"box": "idea", "title": "be patient", "sub": ["with His decision"]},
+      {"box": "trap", "title": "do not obey", "sub": ["the sinner, the denier"]}]},
+    "key": {"label": "Who you follow", "row": [
+      {"box": "trap", "title": "the pressure", "sub": ["to drop the message"], "strike": true},
+      {"box": "reward", "title": "trust in Allah", "sub": ["He handles it"]}]},
+    "then": "Ibn Kathir says: {reward}be patient with His decree and know He will handle your affairs well.{/reward} Do not obey those who {trap}want to turn you from what was revealed to you.{/trap} The sinner is wrong in his deeds; the denier is wrong in his heart.",
+    "now": "Your friends make fun of your prayer breaks. A coworker says you are too strict. The pressure is gentle but constant. {idea}Patience here means not bending, and trusting Allah with the result.{/idea}",
+    "old": "If enough people push me, it is fine to give in a little.",
+    "new": "I can be patient and still not obey those pulling me from what is right.",
+    "try": "Hold one small line today that you usually give up under pressure.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:25", "surah": 76, "ayah": 25, "place": "madinah",
+    "title": "Remember your Lord's name, morning and evening.",
+    "subtitle": "How patience is fueled",
+    "picture": {"kind": "boxes", "label": "The day framed", "row": [
+      {"box": "idea", "title": "morning", "sub": ["the start of the day"]},
+      {"box": "people", "title": "the day", "sub": ["work, pressure"]},
+      {"box": "idea", "title": "evening", "sub": ["the end of the day"]}]},
+    "key": {"label": "Where strength comes from", "row": [
+      {"box": "trap", "title": "willpower alone", "sub": ["run out by noon"], "strike": true},
+      {"box": "reward", "title": "remembering Him", "sub": ["at both ends"]}]},
+    "then": "Right after being told to be patient and not give in, the Prophet ﷺ is told {idea}to remember his Lord's name at the beginning of the day and at its end.{/idea} {reward}That is where patience is refilled.{/reward}",
+    "now": "Your morning starts with a phone full of notifications, and ends the same way. {idea}Put Allah's name at both ends instead.{/idea} A short dhikr before the phone, and one after it is off.",
+    "old": "I will stay patient by gritting my teeth.",
+    "new": "Patience is fed by remembering Allah at the start and end of my day.",
+    "try": "Tomorrow morning, say one dhikr before you check your phone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:26", "surah": 76, "ayah": 26, "place": "madinah",
+    "title": "And at night, prostrate and glorify Him long.",
+    "subtitle": "The night as a place of strength",
+    "picture": {"kind": "boxes", "label": "The night", "row": [
+      {"box": "people", "title": "the world sleeps"},
+      {"conn": "while you"},
+      {"box": "idea", "title": "prostrate", "sub": ["glorify Him long"]}]},
+    "key": {"label": "The night is for", "row": [
+      {"box": "trap", "title": "scrolling", "sub": ["until 2 a.m."], "strike": true},
+      {"box": "reward", "title": "sujud", "sub": ["a private meeting"]}]},
+    "then": "Ibn Kathir links this to the command in Surah Al-Isra to {idea}pray at night as an extra prayer{/idea}, and to the opening of Al-Muzzammil: {reward}stand the night, except a little.{/reward} The night is where the Prophet ﷺ gathered strength for the day.",
+    "now": "Midnight, the house is silent, and you are on your phone again. Ten minutes of that could be two rakahs. {idea}No one sees you. That is the point.{/idea}",
+    "old": "The night is just for sleep or downtime.",
+    "new": "Some of the night is a private meeting with Allah that gives me strength.",
+    "try": "Before sleep tonight, pray two short rakahs, even just two.",
+    "related": ["17:79", "73:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:27", "surah": 76, "ayah": 27, "place": "madinah",
+    "title": "They love the now and leave a heavy Day behind them.",
+    "subtitle": "Why people turn away",
+    "picture": {"kind": "boxes", "label": "What they hold", "row": [
+      {"box": "trap", "title": "the immediate", "sub": ["held close"]},
+      {"box": "trap", "title": "a heavy Day", "sub": ["put behind their backs"]}]},
+    "key": {"label": "The Day", "row": [
+      {"box": "people", "title": "out of sight", "sub": ["so out of mind"], "strike": true},
+      {"box": "trap", "title": "heavy", "sub": ["coming either way"]}]},
+    "then": "Ibn Kathir says Allah {trap}reproaches those who love the world, devoted to it, who put the Hereafter behind them.{/trap} The heavy Day is {idea}the Day of Judgement.{/idea} This explains the pressure in verse 24.",
+    "now": "You put the hard letter in a drawer so you do not have to see it. It is still there. The deadline still comes. {idea}Putting the Day behind you does not make it lighter.{/idea}",
+    "old": "If I do not think about the Day, it will not weigh on me.",
+    "new": "The Day is heavy whether I look at it or not. Better to face it.",
+    "try": "Spend two minutes today thinking honestly about the Day, then do one good thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:28", "surah": 76, "ayah": 28, "place": "madinah",
+    "title": "We made you strong, and We can remake you.",
+    "subtitle": "Your strength is His creation",
+    "picture": {"kind": "boxes", "label": "Their strength", "row": [
+      {"box": "idea", "title": "We created them", "sub": ["strengthened their frame"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "We can replace", "sub": ["raise or swap them"]}]},
+    "key": {"label": "Whose strength", "row": [
+      {"box": "trap", "title": "mine", "sub": ["I built it"], "strike": true},
+      {"box": "idea", "title": "His", "sub": ["given and taken"]}]},
+    "then": "Ibn Abbas and Mujahid said it means {idea}their creation.{/idea} Ibn Kathir says the second half means {idea}We will resurrect them and repeat their creation{/idea}; Ibn Jarir said it also means {trap}Allah could bring another people in their place.{/trap}",
+    "now": "You are proud of your gym routine, your sharp mind, your health. It feels self-made. {idea}The frame you are proud of was built by Him and can be rebuilt by Him.{/idea}",
+    "old": "My strength is something I made myself.",
+    "new": "My strength was given. The One who gave it can replace me, or raise me again.",
+    "try": "Use your strength today to help someone weaker, carry something, lift something.",
+    "related": ["4:133", "14:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:29", "surah": 76, "ayah": 29, "place": "madinah",
+    "title": "This is a reminder. Whoever wills, take a path to your Lord.",
+    "subtitle": "The door is open",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "idea", "title": "this surah", "sub": ["a reminder"]},
+      {"conn": "whoever wills"},
+      {"box": "reward", "title": "a path", "sub": ["to his Lord"]}]},
+    "key": {"label": "Who can take it", "row": [
+      {"box": "trap", "title": "only the pious", "sub": ["not me"], "strike": true},
+      {"box": "reward", "title": "whoever wills", "sub": ["the door is open"]}]},
+    "then": "Ibn Kathir says {idea}this surah is a reminder{/idea}, and the path is {reward}for whoever wants to be guided by the Quran.{/reward} He compares it to the verse: what loss would they have if they believed?",
+    "now": "You feel you are too far gone, too many years of not praying, too many mistakes. {reward}The verse does not list requirements. It says: whoever wills.{/reward}",
+    "old": "The path to Allah is for people better than me.",
+    "new": "The path is open to anyone who wants it, including me.",
+    "try": "Take one step on the path today: one prayer, one page, one sincere dua.",
+    "related": ["4:39"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:30", "surah": 76, "ayah": 30, "place": "madinah",
+    "title": "You cannot will unless Allah wills.",
+    "subtitle": "Even the wanting is from Him",
+    "picture": {"kind": "boxes", "label": "Where guidance comes from", "row": [
+      {"box": "people", "title": "your will", "sub": ["real but limited"]},
+      {"conn": "under"},
+      {"box": "idea", "title": "Allah's will", "sub": ["All-Knowing, All-Wise"]}]},
+    "key": {"label": "Guidance", "row": [
+      {"box": "trap", "title": "self-made", "sub": ["I guided myself"], "strike": true},
+      {"box": "reward", "title": "His help", "sub": ["so ask for it"]}]},
+    "then": "Ibn Kathir says {idea}no one can guide himself, enter faith, or benefit himself unless Allah wills.{/idea} He knows who deserves guidance and {reward}makes it easy for him.{/reward}",
+    "now": "You finally started praying regularly and feel quietly proud. Or you keep trying and failing and feel hopeless. {idea}Both feelings forget something: the will to turn is itself a gift from Allah.{/idea} So ask Him for it.",
+    "old": "Staying on the path is all down to my own effort.",
+    "new": "My effort matters, but it rests on Allah's will. I ask Him to keep me.",
+    "try": "Ask Allah today, in your own words, to keep your heart firm on His path.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "76:31", "surah": 76, "ayah": 31, "place": "madinah",
+    "title": "He admits whom He wills into His mercy.",
+    "subtitle": "The surah ends where it began: two paths",
+    "picture": {"kind": "boxes", "label": "Two ends", "row": [
+      {"box": "reward", "title": "His mercy", "sub": ["whom He wills"]},
+      {"box": "trap", "title": "a painful punishment", "sub": ["for the wrongdoers"]}]},
+    "key": {"label": "The end", "row": [
+      {"box": "people", "title": "grateful or ungrateful", "sub": ["verse 3"]},
+      {"conn": "ends in"},
+      {"box": "idea", "title": "mercy or punishment", "sub": ["verse 31"]}]},
+    "then": "Ibn Kathir says {idea}whoever He guides, no one can lead astray; whoever He leaves astray, no one can guide.{/idea} The surah opened with two paths, grateful or ungrateful, and closes with their two ends: {reward}His mercy{/reward} or {trap}a painful punishment for wrongdoers.{/trap}",
+    "now": "You finish this surah on a Friday morning, maybe in the dawn prayer. Two paths, two ends, laid out start to finish. {reward}The door to His mercy is the one this surah keeps pointing to.{/reward}",
+    "old": "I will figure out which way I am going later.",
+    "new": "There are two ends. I ask Allah, today, to admit me into His mercy.",
+    "try": "Ask Allah, by name, to enter you into His mercy, in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

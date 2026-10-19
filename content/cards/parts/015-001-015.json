@@ -1,0 +1,302 @@
+[
+  {
+    "id": "15:1", "surah": 15, "ayah": 1, "place": "makkah",
+    "title": "Three letters, then a Book that is clear.",
+    "subtitle": "A pause before a plain message",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Alif Lam Ra", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the Book", "sub": ["verses of revelation"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "a clear Quran", "sub": ["plain, not hidden"]}]},
+    "key": {"label": "What the opening asks", "row": [
+      {"box": "people", "title": "skim and move on", "sub": ["I know this already"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["something clear is coming"]}]},
+    "then": "This surah came in Makkah after years of the Prophet ﷺ calling his people, while their mockery only grew. It opens with three letters whose meaning is known to Allah. Then it says what follows is {idea}a Book, and a clear Quran{/idea}.",
+    "now": "You open the app between two notifications, thumb already itching to scroll. The letters at the start do not explain themselves. They just make you stop. {idea}The message after them is plain enough to act on.{/idea}",
+    "old": "I need to understand everything before the Quran can speak to me.",
+    "new": "Some things are Allah's to know; what He made clear is mine to take.",
+    "try": "Before reading your next passage, sit still for ten seconds with the phone face down.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:2", "surah": 15, "ayah": 2, "place": "makkah",
+    "title": "A day comes when they wish they had submitted.",
+    "subtitle": "Regret that arrives too late",
+    "picture": {"kind": "boxes", "label": "Two moments", "row": [
+      {"box": "people", "title": "this life", "sub": ["the door is open"]},
+      {"conn": "later"},
+      {"box": "trap", "title": "the wish", "sub": ["if only we had been Muslims"]}]},
+    "key": {"label": "When the choice counts", "row": [
+      {"box": "trap", "title": "decide later", "sub": ["there is always time"], "strike": true},
+      {"box": "idea", "title": "decide now", "sub": ["the wish only helps here"]}]},
+    "then": "Ibn Kathir explains that those who rejected faith will one day {trap}regret having lived in disbelief{/trap}. Some early scholars said this wish comes when they see believers who sinned being brought out of Hell by Allah's mercy.",
+    "now": "You know the feeling after a missed call from someone who is now gone. You meant to call back. The verse points at a bigger version of that. {idea}The time to turn is while the line is still open.{/idea}",
+    "old": "I will get serious about my faith once life calms down.",
+    "new": "The regret the verse describes is avoidable, but only from this side.",
+    "try": "Do one act of worship today you have been saving for later.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:3", "surah": 15, "ayah": 3, "place": "makkah",
+    "title": "Eating, enjoying, and distracted by hope.",
+    "subtitle": "When long plans push out repentance",
+    "picture": {"kind": "boxes", "label": "A full life, missing one thing", "row": [
+      {"box": "people", "title": "eat", "sub": ["the meals"]},
+      {"box": "people", "title": "enjoy", "sub": ["the comforts"]},
+      {"box": "trap", "title": "false hope", "sub": ["there is always tomorrow"]},
+      {"conn": "until"},
+      {"box": "idea", "title": "they will know", "sub": ["the truth arrives"]}]},
+    "key": {"label": "What hope can do", "row": [
+      {"box": "trap", "title": "hope as delay", "sub": ["distracts from turning back"]},
+      {"box": "idea", "title": "turning to Allah", "sub": ["what the hope pushed aside"]}]},
+    "then": "Allah tells His Messenger ﷺ to leave the mockers to their meals and pleasures. Ibn Kathir calls it a stern threat. Their {trap}long hopes distracted them from repentance{/trap} and from turning to Allah, until they would come to know.",
+    "now": "The five-year plan on your notes app. The holiday you are saving for. The promotion. None of it is wrong. {trap}But it can fill every hour{/trap} until there is no room left to ask if you are right with Allah.",
+    "old": "I have plenty of time; there are other things to sort out first.",
+    "new": "Hopes for this life are fine until they crowd out turning back to Allah.",
+    "try": "Add one line to tomorrow's to-do list: a minute of seeking forgiveness.",
+    "related": ["14:30", "77:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:4", "surah": 15, "ayah": 4, "place": "makkah",
+    "title": "Every town that fell had a known decree.",
+    "subtitle": "Nothing ends by accident",
+    "picture": {"kind": "boxes", "label": "Before a town falls", "row": [
+      {"box": "people", "title": "a town", "sub": ["given evidence"]},
+      {"conn": "has"},
+      {"box": "idea", "title": "a known decree", "sub": ["its written term"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "its end", "sub": ["when the term is over"]}]},
+    "key": {"label": "How it really works", "row": [
+      {"box": "people", "title": "random collapse", "sub": ["bad luck"], "strike": true},
+      {"box": "idea", "title": "warned, then timed", "sub": ["evidence first, then the term"]}]},
+    "then": "Ibn Kathir says Allah never destroys a town until {idea}He has given it clear evidence{/idea} and its time has run out. This was a warning to the people of Makkah to leave their stubbornness while they still could.",
+    "now": "You notice the doctor's warnings, the friend who keeps saying something is off, the small signs at work. Warnings come before endings. {idea}Hearing them is a mercy, not a nuisance.{/idea}",
+    "old": "Bad endings just happen out of nowhere.",
+    "new": "Allah sends signs first; the end comes only after the term is written and met.",
+    "try": "Think of one warning someone gave you recently. Take it seriously for a day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:5", "surah": 15, "ayah": 5, "place": "makkah",
+    "title": "No nation moves its deadline, early or late.",
+    "subtitle": "The term is fixed",
+    "picture": {"kind": "boxes", "label": "A nation's term", "row": [
+      {"box": "trap", "title": "earlier", "sub": ["cannot advance it"], "strike": true},
+      {"box": "idea", "title": "the term", "sub": ["set by Allah"]},
+      {"box": "trap", "title": "later", "sub": ["cannot delay it"], "strike": true}]},
+    "key": {"label": "What I control", "row": [
+      {"box": "people", "title": "the timing", "sub": ["not mine"], "strike": true},
+      {"box": "idea", "title": "what I do before it", "sub": ["fully mine"]}]},
+    "then": "Right after saying every town has a known decree, the verse adds that {idea}no nation can bring its term forward or push it back{/idea}. Ibn Kathir reads it as a plain warning to Makkah: the time is set, so change now.",
+    "now": "The hospital corridor, waiting for news you cannot speed up. Or a deadline at work you wish would move. Some times are simply not in your hands. {reward}What you do before them is.{/reward}",
+    "old": "If I worry enough, I can somehow control how long things last.",
+    "new": "The time is Allah's; the deeds inside it are mine.",
+    "try": "Let go of one worry about timing today and spend that energy on one good deed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:6", "surah": 15, "ayah": 6, "place": "makkah",
+    "title": "They called the bearer of the Reminder mad.",
+    "subtitle": "Mockery used instead of an answer",
+    "picture": {"kind": "boxes", "label": "What they said", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["brings the Reminder"]},
+      {"conn": "is called"},
+      {"box": "trap", "title": "a madman", "sub": ["for leaving forefathers' ways"]}]},
+    "key": {"label": "The real issue", "row": [
+      {"box": "trap", "title": "he is mad", "sub": ["the insult"], "strike": true},
+      {"box": "idea", "title": "he is inconvenient", "sub": ["he asks us to change"]}]},
+    "then": "The Quraysh mocked the Prophet ﷺ as {trap}one who only claims to receive the Reminder{/trap}. Ibn Kathir says they called him mad because he invited them to leave the way of their forefathers.",
+    "now": "In the family group chat, someone shares a reminder about prayer and gets an eye-roll emoji. You have done it too, maybe. {idea}Mocking the messenger is easier than facing the message.{/idea}",
+    "old": "If someone sounds strange, I can dismiss what they say.",
+    "new": "An insult is often how people avoid a truth that asks them to change.",
+    "try": "The next time a reminder annoys you, ask what part of it is true before reacting.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:7", "surah": 15, "ayah": 7, "place": "makkah",
+    "title": "Bring us angels, they demanded, if you are honest.",
+    "subtitle": "Setting conditions for believing",
+    "picture": {"kind": "boxes", "label": "Their demand", "row": [
+      {"box": "people", "title": "the Quraysh", "sub": ["want proof on their terms"]},
+      {"conn": "demand"},
+      {"box": "trap", "title": "angels", "sub": ["to witness for him"]}]},
+    "key": {"label": "Who sets the terms", "row": [
+      {"box": "trap", "title": "show me first", "sub": ["then I will believe"], "strike": true},
+      {"box": "idea", "title": "the signs given", "sub": ["already enough"]}]},
+    "then": "After calling him mad, they asked why he did not {trap}bring angels to bear witness{/trap} for him. Ibn Kathir compares it to Pharaoh asking why angels were not sent along with Musa.",
+    "now": "You tell yourself you will start praying once you feel something. Once you get a sign. Once life proves it. {trap}You are writing the terms for Allah.{/trap} The signs around you are already speaking.",
+    "old": "I will commit when I get the proof I want.",
+    "new": "Asking for my own kind of proof can be a way of saying no politely.",
+    "try": "Write down one sign of Allah's care you already received this week.",
+    "related": ["43:53", "25:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:8", "surah": 15, "ayah": 8, "place": "makkah",
+    "title": "When angels descend, the waiting is over.",
+    "subtitle": "Why their demand was dangerous",
+    "picture": {"kind": "boxes", "label": "If angels came down", "row": [
+      {"box": "idea", "title": "angels", "sub": ["come only with the truth"]},
+      {"conn": "means"},
+      {"box": "trap", "title": "no respite", "sub": ["no more time"]}]},
+    "key": {"label": "What they were asking for", "row": [
+      {"box": "people", "title": "a proof", "sub": ["what they thought"], "strike": true},
+      {"box": "trap", "title": "the end of time to repent", "sub": ["what it would be"]}]},
+    "then": "Allah answers the demand. Angels are sent down only {idea}with the truth{/idea}, which Mujahid explained as the message and the punishment. If they came as asked, {trap}the deniers would get no more respite{/trap}.",
+    "now": "You keep waiting for one big moment to force you to change. But when the truly big moment comes, there is no after. {reward}The quiet time you have now is the gift.{/reward}",
+    "old": "A dramatic sign would make it easier for me to change.",
+    "new": "The quiet time before the final sign is mercy, not a lack of proof.",
+    "try": "Change one small thing today without waiting for a push.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:9", "surah": 15, "ayah": 9, "place": "makkah",
+    "title": "Allah sent the Reminder and Allah guards it.",
+    "subtitle": "The Quran is protected by its Sender",
+    "picture": {"kind": "boxes", "label": "Who keeps it", "row": [
+      {"box": "idea", "title": "We sent it", "sub": ["the Reminder, the Quran"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "We guard it", "sub": ["from change or alteration"]}]},
+    "key": {"label": "Under attack, yet safe", "row": [
+      {"box": "trap", "title": "the mockery", "sub": ["you are mad"]},
+      {"conn": "cannot touch"},
+      {"box": "reward", "title": "the guarded Book", "sub": ["Allah protects it"]}]},
+    "then": "They mocked the Prophet ﷺ as one who only claimed to receive the Reminder. Allah replies that {idea}it is He who sent it down{/idea}, and Ibn Kathir notes He {reward}protects it from being changed or altered{/reward}.",
+    "now": "You hear a clip online claiming the Quran was rewritten, or you feel your own faith wobbling. The Book in your hand is not held up by you. {reward}Allah keeps it.{/reward} Your part is to read it.",
+    "old": "I have to defend the Quran or it might be lost.",
+    "new": "Allah guards His Book; my job is to live by it.",
+    "try": "Read one page of the Quran today, slowly, as a message kept just for you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:10", "surah": 15, "ayah": 10, "place": "makkah",
+    "title": "You are not the first messenger sent.",
+    "subtitle": "Comfort for the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "A long line", "row": [
+      {"box": "people", "title": "earlier peoples", "sub": ["many communities"]},
+      {"conn": "were sent"},
+      {"box": "idea", "title": "messengers", "sub": ["before you"]},
+      {"conn": "and now"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["in Makkah"]}]},
+    "key": {"label": "How it feels vs. what is true", "row": [
+      {"box": "people", "title": "only me", "sub": ["nobody faced this"], "strike": true},
+      {"box": "idea", "title": "a path walked before", "sub": ["by every messenger"]}]},
+    "then": "Ibn Kathir says Allah was {idea}consoling His Messenger ﷺ{/idea} after Quraysh rejected him. The surah introduction notes he had grown tired after years of effort. Allah reminds him that messengers came before him to earlier peoples.",
+    "now": "You are the only one in the office who prays. Or the only one at home trying to keep the family calm. {idea}Others walked this before you{/idea}, and Allah saw each of them.",
+    "old": "Nobody has ever been in a spot as lonely as mine.",
+    "new": "I am walking a path many before me walked, and they were not left alone.",
+    "try": "Read a short story of one earlier prophet tonight and notice what he faced.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:11", "surah": 15, "ayah": 11, "place": "makkah",
+    "title": "Every messenger who came was mocked.",
+    "subtitle": "Ridicule is an old pattern",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "idea", "title": "a messenger", "sub": ["comes to a people"]},
+      {"conn": "meets"},
+      {"box": "trap", "title": "ridicule", "sub": ["every single time"]}]},
+    "key": {"label": "What mockery proves", "row": [
+      {"box": "trap", "title": "the message failed", "sub": ["they laughed"], "strike": true},
+      {"box": "idea", "title": "the usual response", "sub": ["even to prophets"]}]},
+    "then": "Ibn Kathir says {trap}no messenger came to a nation without being rejected and mocked{/trap}. For the Prophet ﷺ, facing ridicule in Makkah, this meant the laughter was not a sign he had failed.",
+    "now": "You start wearing hijab, or you stop drinking at work dinners, and someone jokes about it. It stings. {idea}The joke says more about an old pattern than about you.{/idea}",
+    "old": "If people laugh at what I do, I must be doing it wrong.",
+    "new": "Being mocked for doing right has happened to the best people who ever lived.",
+    "try": "Next time a joke stings, answer it with calm kindness, then let it go.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:12", "surah": 15, "ayah": 12, "place": "makkah",
+    "title": "Stubborn hearts let denial settle in.",
+    "subtitle": "What arrogance does to the heart",
+    "picture": {"kind": "boxes", "label": "How it enters", "row": [
+      {"box": "trap", "title": "stubbornness", "sub": ["too proud to follow"]},
+      {"conn": "lets in"},
+      {"box": "trap", "title": "denial", "sub": ["shirk, said Anas and Al-Hasan"]},
+      {"conn": "into"},
+      {"box": "people", "title": "the heart", "sub": ["of the guilty"]}]},
+    "key": {"label": "Where it starts", "row": [
+      {"box": "people", "title": "it just happened", "sub": ["I drifted"], "strike": true},
+      {"box": "trap", "title": "pride came first", "sub": ["then denial settled"]}]},
+    "then": "Ibn Kathir explains that Allah lets disbelief enter the hearts of those {trap}too stubborn and too arrogant{/trap} to follow His guidance. Anas and Al-Hasan Al-Basri said what enters is shirk.",
+    "now": "Someone corrects you in a meeting and you are right that they are wrong, so you dig in. Next time you dig in faster. {trap}Pride makes the next refusal easier.{/trap} The heart hardens one stubborn moment at a time.",
+    "old": "My heart just drifts on its own; I am not responsible for it.",
+    "new": "Each time I refuse out of pride, I make room for the next refusal.",
+    "try": "Today, accept one correction without defending yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:13", "surah": 15, "ayah": 13, "place": "makkah",
+    "title": "They will not believe, though history already spoke.",
+    "subtitle": "The way of earlier peoples is known",
+    "picture": {"kind": "boxes", "label": "What already happened", "row": [
+      {"box": "trap", "title": "the deniers", "sub": ["destroyed"]},
+      {"box": "reward", "title": "prophets and followers", "sub": ["saved"]},
+      {"conn": "known as"},
+      {"box": "idea", "title": "the way of the ancients", "sub": ["a lesson on record"]}]},
+    "key": {"label": "Reading the past", "row": [
+      {"box": "people", "title": "old stories", "sub": ["nothing to do with me"], "strike": true},
+      {"box": "idea", "title": "a pattern", "sub": ["that repeats"]}]},
+    "then": "The stubborn would not believe in the Quran. Yet Ibn Kathir says {idea}the way of the earlier peoples was well known{/idea}: Allah destroyed those who rejected His messengers and {reward}saved the prophets and their followers{/reward}.",
+    "now": "You have watched a friend ignore every warning about a habit and lose a lot to it. You know how that story goes. {idea}The question is whether you read your own life with the same eyes.{/idea}",
+    "old": "What happened to people long ago does not tell me anything.",
+    "new": "The past is a map of how rejection and faith usually end.",
+    "try": "Pick one lesson from someone else's mistake and apply it to yourself this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:14", "surah": 15, "ayah": 14, "place": "makkah",
+    "title": "Even a gate into the sky would not convince them.",
+    "subtitle": "When the problem is not lack of proof",
+    "picture": {"kind": "boxes", "label": "The biggest sign imaginable", "row": [
+      {"box": "idea", "title": "a gate opened", "sub": ["into the heaven"]},
+      {"conn": "they"},
+      {"box": "people", "title": "climb all day", "sub": ["seeing it themselves"]},
+      {"conn": "still"},
+      {"box": "trap", "title": "no faith", "sub": ["stubbornness wins"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "more proof", "sub": ["what they claimed"], "strike": true},
+      {"box": "trap", "title": "a willing heart", "sub": ["what they lacked"]}]},
+    "then": "They had demanded angels. Allah says that even if a {idea}gate to heaven were opened{/idea} and they climbed through it, they would still refuse. Ibn Kathir calls it the extent of their {trap}stubborn resistance to the truth{/trap}.",
+    "now": "You ask a friend for advice, then argue with every answer. Ten more answers would not help. {trap}You had already decided.{/trap} Sometimes the problem is not the evidence. It is the will.",
+    "old": "If I just had more evidence, I would change.",
+    "new": "When my heart refuses, no amount of proof is enough.",
+    "try": "Name one thing you keep asking about but already know the answer to. Act on it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:15", "surah": 15, "ayah": 15, "place": "makkah",
+    "title": "Our eyes were tricked, they would say.",
+    "subtitle": "Explaining away what you clearly saw",
+    "picture": {"kind": "boxes", "label": "Their excuse", "row": [
+      {"box": "idea", "title": "what they saw", "sub": ["the heavens themselves"]},
+      {"conn": "explained as"},
+      {"box": "trap", "title": "dazzled eyes", "sub": ["our vision was blocked"]},
+      {"box": "trap", "title": "magic", "sub": ["we are bewitched"]}]},
+    "key": {"label": "Two ways to meet a sign", "row": [
+      {"box": "trap", "title": "it was a trick", "sub": ["explain it away"], "strike": true},
+      {"box": "idea", "title": "it was real", "sub": ["let it change me"]}]},
+    "then": "Even after climbing into heaven, they would say {trap}our eyes have been dazzled, we are bewitched{/trap}. Ibn Zayd said the dazzled one is like someone intoxicated, who cannot reason.",
+    "now": "Your prayer is answered and you call it coincidence. You recover and say it was just the medicine. {trap}There is always an explanation ready.{/trap} The verse asks you to notice the habit of explaining Allah away.",
+    "old": "There is a normal explanation for everything good that happens to me.",
+    "new": "The habit of explaining away signs can blind me as much as any spell.",
+    "try": "Tonight, name one good thing from today and thank Allah for it by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

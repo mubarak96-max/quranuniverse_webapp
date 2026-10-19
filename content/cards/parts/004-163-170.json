@@ -1,0 +1,164 @@
+[
+  {
+    "id": "4:163", "surah": 4, "ayah": 163, "place": "madinah",
+    "title": "The same revelation that reached Nuh and Ibrahim reached you.",
+    "subtitle": "One long line of prophets, one source",
+    "picture": {"kind": "boxes", "label": "One chain of revelation", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["and those after him"]},
+      {"box": "people", "title": "Ibrahim to Isa", "sub": ["Ismail, Ishaq, Yaqub, Ayyub, Yunus"]},
+      {"box": "people", "title": "Dawud", "sub": ["given the Zabur"]},
+      {"conn": "and now"},
+      {"box": "idea", "title": "Muhammad ﷺ", "sub": ["the same revelation"]}]},
+    "key": {"label": "Where the Quran comes from", "row": [
+      {"box": "trap", "title": "nothing after Musa", "sub": ["revelation stopped"], "strike": true},
+      {"box": "idea", "title": "the same source", "sub": ["one Lord, one chain"]}]},
+    "then": "Ibn Abbas reported that two men, Sukayn and Adi bin Zayd, told the Prophet ﷺ that {trap}they knew of nothing Allah sent down to any human after Musa.{/trap} This verse was the reply. It names prophet after prophet and places Muhammad ﷺ {idea}in the same line of revelation.{/idea}",
+    "now": "You open the Quran on your phone between meetings. It can feel like just another app. {idea}But the words on that screen come from the same source that spoke to Nuh, Ibrahim and Dawud.{/idea} {reward}You are holding the latest link in a very old chain.{/reward}",
+    "old": "The Quran is a book I read sometimes.",
+    "new": "The Quran is the same revelation that reached every prophet, now reaching me.",
+    "try": "Before reading the Quran today, pause and remember who else received revelation from this same Lord.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:164", "surah": 4, "ayah": 164, "place": "madinah",
+    "title": "Some messengers you know by name. Many more you never will.",
+    "subtitle": "Messengers told and untold, and Musa spoken to directly",
+    "picture": {"kind": "boxes", "label": "Allah's messengers", "row": [
+      {"box": "people", "title": "named to you", "sub": ["about twenty five"]},
+      {"box": "people", "title": "not named", "sub": ["known to Allah"]},
+      {"box": "reward", "title": "Musa", "sub": ["Allah spoke to him directly"]}]},
+    "key": {"label": "Who Allah sent guidance to", "row": [
+      {"box": "trap", "title": "only the ones I know", "sub": [], "strike": true},
+      {"box": "idea", "title": "many more", "sub": ["untold stories"]}]},
+    "then": "Ibn Kathir lists about {idea}twenty five prophets named in the Quran{/idea}, from Adam to Muhammad ﷺ. The verse adds that there are {idea}others Allah did not tell us about.{/idea} Musa is singled out with a special honor: {reward}Allah spoke to him directly{/reward}, which is why he is called the Kalim.",
+    "now": "You meet a stranger on a train who is quietly kind to everyone. Nobody will ever write their story. The verse is a reminder that {idea}Allah's work reaches far beyond the stories you know.{/idea} {reward}Untold does not mean unseen.{/reward}",
+    "old": "If I have not heard of it, it probably did not matter much.",
+    "new": "Allah's care for people goes far beyond the stories that reached me.",
+    "try": "Learn the names of three prophets from the Quran you could not name before.",
+    "related": ["7:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:165", "surah": 4, "ayah": 165, "place": "madinah",
+    "title": "Good news and warnings, so no one can say: nobody told me.",
+    "subtitle": "Why Allah sent messengers at all",
+    "picture": {"kind": "boxes", "label": "What messengers bring", "row": [
+      {"box": "reward", "title": "good tidings", "sub": ["for those who obey"]},
+      {"box": "trap", "title": "warnings", "sub": ["for those who defy"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "no excuse left", "sub": ["for anyone"]}]},
+    "key": {"label": "What it shows about Allah", "row": [
+      {"box": "trap", "title": "waiting to catch people", "sub": [], "strike": true},
+      {"box": "reward", "title": "loves to give excuse", "sub": ["so He explained first"]}]},
+    "then": "Ibn Kathir explains that Allah sent books and messengers to make plain {idea}what He loves and what He dislikes{/idea}, so no one has an argument against Him. The Prophet ﷺ said: {reward}no one loves to give excuse more than Allah{/reward}, and that is why He sent prophets with good news and warnings.",
+    "now": "A good manager explains the rules on day one, so nobody is blindsided later. Allah did far more than that. {reward}He sent person after person to explain it kindly.{/reward} The verse asks you to notice how much {idea}you have already been told.{/idea}",
+    "old": "Nobody ever really explained to me what Allah wants.",
+    "new": "Allah went out of His way to explain, because He loves to give people a chance.",
+    "try": "Read one short passage of the Quran today as if it were written to you personally.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:166", "surah": 4, "ayah": 166, "place": "madinah",
+    "title": "When people deny it, Allah Himself is witness to the Quran.",
+    "subtitle": "The testimony that does not depend on anyone's approval",
+    "picture": {"kind": "boxes", "label": "Who bears witness", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["sent it with His knowledge"]},
+      {"box": "people", "title": "the angels", "sub": ["also witness"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "the Quran", "sub": ["sent to Muhammad ﷺ"]}]},
+    "key": {"label": "Whose testimony counts", "row": [
+      {"box": "trap", "title": "the deniers", "sub": ["refuse to accept"], "strike": true},
+      {"box": "idea", "title": "Allah is enough", "sub": ["as a witness"]}]},
+    "then": "After listing the prophets, the verse answers those who denied the Prophet ﷺ. Ibn Kathir explains: {idea}even if they deny and defy you, Allah testifies{/idea} that He sent you the Quran. He sent it {reward}with His knowledge{/reward}, which no messenger or angel could know without His leave.",
+    "now": "Your coworker rolls their eyes when you step out to pray. A cousin calls your faith old-fashioned. {trap}It stings, and you start doubting yourself.{/trap} The verse steadies you. {idea}The Quran's truth was never waiting for their approval.{/idea}",
+    "old": "If people around me doubt my faith, maybe I should doubt it too.",
+    "new": "Allah's witness is enough. Other people's doubt does not change the truth.",
+    "try": "Next time someone mocks your faith, quietly say: Allah is enough as a witness.",
+    "related": ["2:255"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:167", "surah": 4, "ayah": 167, "place": "madinah",
+    "title": "Losing your way is one thing. Blocking others is further still.",
+    "subtitle": "Rejecting the truth and stopping others from it",
+    "picture": {"kind": "boxes", "label": "Two steps away", "row": [
+      {"box": "trap", "title": "disbelieve", "sub": ["refuse the truth"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "block others", "sub": ["from Allah's way"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "far astray", "sub": []}]},
+    "key": {"label": "What I pass on", "row": [
+      {"box": "trap", "title": "my choice only", "sub": ["affects only me"], "strike": true},
+      {"box": "idea", "title": "I shape others too", "sub": ["toward or away"]}]},
+    "then": "Ibn Kathir explains that these people not only {trap}refused to follow the truth{/trap} themselves, they {trap}worked hard to stop others{/trap} from embracing it. That is why they have strayed so far. The verse looks at {idea}what we do to other people's path{/idea}, not only our own.",
+    "now": "You tease your younger brother for starting to pray. You tell a friend fasting is pointless. {trap}You think it is just a joke.{/trap} The verse asks you to notice that {idea}your words can push someone away from Allah{/idea}, or toward Him.",
+    "old": "My attitude to religion only affects me.",
+    "new": "My words can open or close the way to Allah for someone else.",
+    "try": "Encourage one person today in a good step they are taking toward Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:168", "surah": 4, "ayah": 168, "place": "madinah",
+    "title": "Disbelief joined with wrongdoing closes the road to forgiveness.",
+    "subtitle": "When rejection and injustice go together",
+    "picture": {"kind": "boxes", "label": "What they combined", "row": [
+      {"box": "trap", "title": "disbelief", "sub": ["in His signs"]},
+      {"box": "trap", "title": "wrongdoing", "sub": ["to self and others"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "no path", "sub": ["no forgiveness"]}]},
+    "key": {"label": "Where hope lives", "row": [
+      {"box": "trap", "title": "keep going this way", "sub": ["the road narrows"]},
+      {"box": "idea", "title": "turn while alive", "sub": ["the door is still open"]}]},
+    "then": "Ibn Kathir describes these as people who {trap}reject Allah's signs, His Book and His Messenger{/trap}, wrong themselves and hinder others, and break His limits. The verse describes {idea}the end of that road if it is never left.{/idea} Earlier in this surah, the door of repentance stays open to the living.",
+    "now": "This verse is sober on purpose. It is not for labeling people. It is for checking your own direction. {trap}Each injustice you excuse makes the next one easier.{/trap} {idea}Turning back today is still possible{/idea}, and that is the mercy hidden in the warning.",
+    "old": "Warnings like this are about other people.",
+    "new": "Warnings are road signs for me, telling me where a path ends while I can still turn.",
+    "try": "Name one wrong you keep excusing in yourself. Ask Allah's forgiveness for it tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:169", "surah": 4, "ayah": 169, "place": "madinah",
+    "title": "Only one road is left for them, and it leads to Hell.",
+    "subtitle": "The road you keep choosing is the road you get",
+    "picture": {"kind": "boxes", "label": "Where the road goes", "row": [
+      {"box": "trap", "title": "no path to good", "sub": []},
+      {"conn": "except"},
+      {"box": "trap", "title": "the path of Hell", "sub": ["forever"]},
+      {"box": "idea", "title": "easy for Allah", "sub": []}]},
+    "key": {"label": "What I am choosing", "row": [
+      {"box": "trap", "title": "just this once", "sub": [], "strike": true},
+      {"box": "idea", "title": "a direction", "sub": ["roads are walked daily"]}]},
+    "then": "The verse completes the one before it. Ibn Kathir explains that the only {trap}path left to those who persist{/trap} in disbelief and injustice is the path of Hell. {idea}And that is easy for Allah{/idea}: no one escapes His judgment by power or cleverness.",
+    "now": "You do not end up somewhere by accident. You end up there by small turns, made every day. {trap}One skipped prayer, one more lie, one more cruel word.{/trap} The verse asks you to {idea}look at the road you are walking{/idea} and choose its direction now.",
+    "old": "Where I end up will be decided some other day.",
+    "new": "Where I end up is being decided by the small turns I make today.",
+    "try": "Make one small turn toward Allah today that you would want to keep making.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "4:170", "surah": 4, "ayah": 170, "place": "madinah",
+    "title": "The truth has come to you. Believing is better for you.",
+    "subtitle": "An invitation to all of humanity",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "people", "title": "O mankind", "sub": ["everyone"]},
+      {"conn": "has come to you"},
+      {"box": "idea", "title": "the Messenger ﷺ", "sub": ["with the truth"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "believe", "sub": ["better for you"]}]},
+    "key": {"label": "Who benefits", "row": [
+      {"box": "trap", "title": "Allah gains from it", "sub": [], "strike": true},
+      {"box": "reward", "title": "you gain", "sub": ["He needs nothing"]}]},
+    "then": "After stern warnings, the verse turns to {idea}all of humanity{/idea} with an open invitation. Ibn Kathir explains that the Prophet ﷺ came with guidance and clear proof, so {reward}following him is better for you.{/reward} If anyone refuses, Allah is far too rich to be harmed by it.",
+    "now": "A doctor tells you to change your diet, then says: it is for you, not me. {idea}The invitation to faith is like that.{/idea} Allah loses nothing if you ignore it. {reward}You are the one who gains{/reward} if you say yes.",
+    "old": "Faith is something I do for Allah.",
+    "new": "Faith is a gift offered to me, for my own good.",
+    "try": "Thank Allah today, in your own words, for the guidance that reached you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

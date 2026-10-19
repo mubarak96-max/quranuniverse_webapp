@@ -1,0 +1,264 @@
+[
+  {
+    "id": "68:1", "surah": 68, "ayah": 1, "place": "makkah",
+    "title": "Allah swears by the pen and what it writes.",
+    "subtitle": "Writing as a gift worth pausing over",
+    "picture": {"kind": "boxes", "label": "What is sworn by", "row": [
+      {"box": "plain", "title": "Nun", "sub": ["meaning known to Allah"]},
+      {"box": "idea", "title": "the pen", "sub": ["how knowledge is kept"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "what they write", "sub": ["people, and the recording angels"]}]},
+    "key": {"label": "What a pen is", "row": [
+      {"box": "people", "title": "just a tool", "sub": ["ink and plastic"], "strike": true},
+      {"box": "reward", "title": "a favor from Allah", "sub": ["He taught by the pen"]}]},
+    "then": "The surah opens with the letter Nun, whose meaning is known to Allah. Then an oath by the pen. Ibn Kathir says this alerts people to a favor: {reward}Allah taught them writing, and through it knowledge is gained.{/reward} Some early scholars said it also points to {idea}the angels recording every deed.{/idea}",
+    "now": "You type hundreds of words a day. Messages, notes, comments, a quick reply at midnight. Every one of them is a pen moving. {idea}Somewhere, your deeds are being written too.{/idea} The oath asks you to stop and notice both.",
+    "old": "Writing is ordinary. Everyone can do it.",
+    "new": "The ability to write and learn is a gift, and my own record is being written right now.",
+    "try": "Before you send your next message today, reread it once as if it were going into your record.",
+    "related": ["96:3", "38:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:2", "surah": 68, "ayah": 2, "place": "makkah",
+    "title": "The one they called mad was the sanest man there.",
+    "subtitle": "A label from people who refused the truth",
+    "picture": {"kind": "boxes", "label": "The accusation", "row": [
+      {"box": "people", "title": "his people", "sub": ["denied the guidance"]},
+      {"conn": "call him"},
+      {"box": "trap", "title": "madman", "sub": ["a label, not a fact"]},
+      {"conn": "answered by"},
+      {"box": "reward", "title": "his Lord's favor", "sub": ["you are not mad"]}]},
+    "key": {"label": "Why the label came", "row": [
+      {"box": "trap", "title": "something was wrong with him", "sub": ["their story"], "strike": true},
+      {"box": "idea", "title": "they rejected his message", "sub": ["so they attacked the man"]}]},
+    "then": "This is one of the earliest surahs, sent when opposition in Makkah had turned harsh. The chiefs called the Prophet ﷺ insane. Ibn Kathir explains they did this {trap}because they denied the clear truth he brought.{/trap} Allah answers directly: {reward}by your Lord's favor, you are not mad.{/reward}",
+    "now": "You start praying at work, or stop joining the gossip, and someone says you have gone strange. The family group chat jokes that you have changed. {trap}A label is easier than an argument.{/trap} {idea}It often says more about the one who throws it.{/idea}",
+    "old": "If people call me strange, maybe I am the problem.",
+    "new": "When people cannot answer the truth, they label the person carrying it.",
+    "try": "Think of one label someone gave you for doing right. Let it go with a quiet du'a for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:3", "surah": 68, "ayah": 3, "place": "makkah",
+    "title": "A reward that never runs out.",
+    "subtitle": "What patience under insults earns",
+    "picture": {"kind": "boxes", "label": "What he gave and got", "row": [
+      {"box": "people", "title": "conveyed the message", "sub": ["patient with abuse"]},
+      {"conn": "earns"},
+      {"box": "reward", "title": "reward", "sub": ["not cut off", "not counted out"]}]},
+    "key": {"label": "How long it lasts", "row": [
+      {"box": "people", "title": "thanks that fade", "sub": ["people forget"], "strike": true},
+      {"box": "reward", "title": "uninterrupted", "sub": ["never cut off, never perishes"]}]},
+    "then": "Right after the insult comes the comfort. Ibn Kathir says the reward is for {idea}conveying the message and being patient with their abuse.{/idea} The word means it is {reward}never cut off{/reward}, and Mujahid said it is without reckoning.",
+    "now": "You care for a sick parent and nobody notices. You keep your temper with a rude customer for the hundredth time. People forget by evening. {reward}Allah's reward for patience does not expire.{/reward}",
+    "old": "If no one sees my patience, it was wasted.",
+    "new": "Patience for Allah earns a reward that never stops, seen or unseen.",
+    "try": "Do one patient thing today that no one will notice, and intend it only for Allah.",
+    "related": ["11:108", "95:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:4", "surah": 68, "ayah": 4, "place": "makkah",
+    "title": "His character was the Quran, lived out.",
+    "subtitle": "The answer to their insult was his conduct",
+    "picture": {"kind": "boxes", "label": "What A'ishah said", "row": [
+      {"box": "people", "title": "Sa'd asks", "sub": ["what was his character?"]},
+      {"conn": "she answers"},
+      {"box": "idea", "title": "the Quran", "sub": ["did what it said", "left what it forbade"]}]},
+    "key": {"label": "What great character looked like", "row": [
+      {"box": "reward", "title": "never said uff", "sub": ["ten years of service, Anas said"]},
+      {"box": "reward", "title": "chose the easier way", "sub": ["unless it was sin"]},
+      {"box": "reward", "title": "no revenge for himself", "sub": ["only for Allah's limits"]}]},
+    "then": "When A'ishah was asked about the character of the Prophet ﷺ, she said: {idea}his character was the Quran.{/idea} Anas served him for ten years and said he {reward}never once said a word of displeasure{/reward} or asked why something was or was not done.",
+    "now": "Your kid spills juice on the laptop. Your coworker misses the deadline again. The urge is to snap, to say why did you do that. {idea}Ten years and not one uff.{/idea} That is the standard this verse praises.",
+    "old": "Good character means being nice when it is easy.",
+    "new": "Great character is living the Quran in the small moments that test you.",
+    "try": "The next time someone makes a small mistake near you today, skip the why did you. Just help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:5", "surah": 68, "ayah": 5, "place": "makkah",
+    "title": "Wait. Both sides will see clearly soon.",
+    "subtitle": "Truth does not need to win every argument now",
+    "picture": {"kind": "boxes", "label": "Two who will see", "row": [
+      {"box": "people", "title": "you", "sub": ["will see"]},
+      {"box": "people", "title": "they", "sub": ["will see"]},
+      {"conn": "when"},
+      {"box": "idea", "title": "the truth shows", "sub": ["in time"]}]},
+    "key": {"label": "When it is settled", "row": [
+      {"box": "trap", "title": "right now, by me", "sub": ["win the argument today"], "strike": true},
+      {"box": "idea", "title": "soon, by Allah", "sub": ["everyone will see"]}]},
+    "then": "The Prophet ﷺ was being mocked daily. Instead of telling him to argue back, Allah says: {idea}you will see, and they will see.{/idea} Ibn Kathir explains it means both he and his opponents {reward}will come to know{/reward} the truth.",
+    "now": "Someone spreads a false story about you at work. You want to post a long reply tonight and prove everything. {trap}The urge to settle it all right now.{/trap} {idea}Some things are made clear by time and by Allah, not by you.{/idea}",
+    "old": "If I do not defend myself now, the lie will win.",
+    "new": "Truth comes out in its time. I can stay calm and keep doing right.",
+    "try": "Pick one argument you are itching to win. Leave it unsent for 24 hours.",
+    "related": ["54:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:6", "surah": 68, "ayah": 6, "place": "makkah",
+    "title": "The real question: who was truly lost?",
+    "subtitle": "The accusation turned back on the accusers",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "the accused", "sub": ["called mad"]},
+      {"conn": "or"},
+      {"box": "people", "title": "the accusers", "sub": ["denied the truth"]},
+      {"conn": "which is"},
+      {"box": "trap", "title": "the afflicted one?", "sub": ["misguided, insane"]}]},
+    "key": {"label": "Who is afflicted", "row": [
+      {"box": "people", "title": "the one who looks different", "sub": [], "strike": true},
+      {"box": "trap", "title": "the one who refuses truth", "sub": ["however normal he seems"]}]},
+    "then": "They said the Prophet ﷺ was the afflicted one. The verse turns the question around. Ibn Kathir says it means they will know {trap}who is insane and misguided{/trap} among them. Like the other verse: {idea}tomorrow they will know who is the liar.{/idea}",
+    "now": "You are the only one at the table not drinking, or not laughing at the cruel joke. You feel like the odd one. {idea}Being the odd one is not the same as being wrong.{/idea} Ask the real question quietly in your heart.",
+    "old": "If I am the only one, I must be the one who is off.",
+    "new": "Being alone with the truth is not madness. Leaving the truth is.",
+    "try": "Next time you feel like the odd one out for doing right, say silently: Allah knows who is guided.",
+    "related": ["54:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:7", "surah": 68, "ayah": 7, "place": "makkah",
+    "title": "Allah knows best who strayed and who is guided.",
+    "subtitle": "The final judge of who is right",
+    "picture": {"kind": "boxes", "label": "Who knows", "row": [
+      {"box": "trap", "title": "who strayed", "sub": ["from His path"]},
+      {"box": "idea", "title": "your Lord", "sub": ["knows best"]},
+      {"box": "reward", "title": "who is guided", "sub": ["on His path"]}]},
+    "key": {"label": "Whose verdict counts", "row": [
+      {"box": "people", "title": "public opinion", "sub": ["the crowd decides"], "strike": true},
+      {"box": "idea", "title": "your Lord", "sub": ["most knowing of both"]}]},
+    "then": "The argument in Makkah was loud. The chiefs had the crowd. This verse closes the matter: {idea}your Lord knows best{/idea} who has gone astray and who is guided. The verdict is {reward}not decided by the majority.{/reward}",
+    "now": "Likes, views, the comment section, the opinion of your cousins. All of it votes on who you are. {trap}You can spend your life chasing that vote.{/trap} {idea}Only one opinion about your path really matters.{/idea}",
+    "old": "What people think of me tells me if I am on the right path.",
+    "new": "Only Allah truly knows who is guided, so His view is the one I live for.",
+    "try": "Ask Allah once today: guide me, and keep me among those You know are guided.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:8", "surah": 68, "ayah": 8, "place": "makkah",
+    "title": "Do not take orders from those who deny the truth.",
+    "subtitle": "Staying firm when pressure is loud",
+    "picture": {"kind": "boxes", "label": "The pressure", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["loud and powerful"]},
+      {"conn": "push"},
+      {"box": "trap", "title": "obey us", "sub": ["drop the message"]},
+      {"conn": "answer"},
+      {"box": "idea", "title": "do not obey", "sub": ["hold what you were given"]}]},
+    "key": {"label": "What you already have", "row": [
+      {"box": "trap", "title": "their approval", "sub": ["what they offer"], "strike": true},
+      {"box": "reward", "title": "Allah's favor", "sub": ["guidance and great character"]}]},
+    "then": "Ibn Kathir links this to the verses before: {reward}just as We favored you with guidance and great character{/reward}, so do not obey the deniers. The surah introduction says the noise around the Prophet ﷺ was {trap}meant to scare him into giving in.{/trap}",
+    "now": "Friends who laugh at your fasting. A manager who hints that honesty is naive. A feed that tells you faith is old fashioned. {trap}Pressure rarely says obey. It says relax.{/trap} {idea}You do not have to follow it.{/idea}",
+    "old": "If enough people push, it is easier to just go along.",
+    "new": "Their pressure does not get a vote over what Allah has given me.",
+    "try": "Notice one voice today that pushes you away from your faith. Mute it, even for a day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:9", "surah": 68, "ayah": 9, "place": "makkah",
+    "title": "They wanted a deal: you soften, we soften.",
+    "subtitle": "The quiet trap of compromise on truth",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "trap", "title": "you go quiet", "sub": ["about our idols"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "we go quiet", "sub": ["about your religion"]},
+      {"conn": "means"},
+      {"box": "trap", "title": "leave the truth", "sub": ["bit by bit"]}]},
+    "key": {"label": "What looks fair", "row": [
+      {"box": "people", "title": "meet in the middle", "sub": ["sounds reasonable"], "strike": true},
+      {"box": "idea", "title": "truth is not traded", "sub": ["keep it whole"]}]},
+    "then": "The chiefs offered a deal. Ibn Abbas said it meant {trap}you permit our idols, and we permit your religion.{/trap} Mujahid said they wanted him to {trap}be quiet about their gods and abandon the truth.{/trap} The verse names the offer so he would see it clearly.",
+    "now": "Just skip prayer this once, the meeting is important. Just laugh along, it is only a joke. {trap}Small trades, each one reasonable.{/trap} {idea}Kindness to people is not the same as trading away what is true.{/idea}",
+    "old": "A little compromise keeps the peace with everyone.",
+    "new": "I can be gentle with people without bargaining away what is true.",
+    "try": "Name one small thing you have been softening on to fit in. Decide to hold it this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:10", "surah": 68, "ayah": 10, "place": "makkah",
+    "title": "The one who swears all the time is weak inside.",
+    "subtitle": "Why constant oaths are a warning sign",
+    "picture": {"kind": "boxes", "label": "The habit", "row": [
+      {"box": "trap", "title": "swears constantly", "sub": ["by Allah, I swear"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "he is a liar", "sub": ["hides behind oaths"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "do not obey him", "sub": []}]},
+    "key": {"label": "What oaths prove", "row": [
+      {"box": "people", "title": "more swearing, more true", "sub": [], "strike": true},
+      {"box": "trap", "title": "more swearing, less trust", "sub": ["weakness seeks cover"]}]},
+    "then": "The verse begins describing a type of man the people of Makkah knew. Ibn Kathir says the liar, {trap}due to his weakness and disgrace{/trap}, hides behind false oaths using Allah's names, and swears all the time without need. Ibn Abbas said mahin means {trap}the liar.{/trap}",
+    "now": "I swear, wallahi, on my mother. You hear it in sales pitches and in your own mouth when you are late again. {trap}The more you need oaths, the less your word stands alone.{/trap} {idea}Plain truth needs no swearing.{/idea}",
+    "old": "Swearing by Allah makes people believe me.",
+    "new": "A truthful person's plain word is enough. Constant oaths cheapen Allah's name.",
+    "try": "Go one full day without swearing by Allah in casual talk. Let your yes be yes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:11", "surah": 68, "ayah": 11, "place": "makkah",
+    "title": "He mocks people and carries tales between them.",
+    "subtitle": "Gossip that breaks good relationships",
+    "picture": {"kind": "boxes", "label": "What he does", "row": [
+      {"box": "trap", "title": "scorner", "sub": ["slanders and mocks"]},
+      {"box": "trap", "title": "tale carrier", "sub": ["goes from person to person"]},
+      {"conn": "result"},
+      {"box": "trap", "title": "broken ties", "sub": ["between people who were fine"]}]},
+    "key": {"label": "What gossip is", "row": [
+      {"box": "people", "title": "just passing news", "sub": ["harmless talk"], "strike": true},
+      {"box": "trap", "title": "corrupting good relations", "sub": ["the Prophet ﷺ warned of it"]}]},
+    "then": "Ibn Kathir explains this man goes around {trap}carrying tales to spoil relations between people{/trap} when they were good. The Prophet ﷺ passed two graves and said one of them was punished for {trap}spreading gossip.{/trap}",
+    "now": "Did you hear what she said about you? A screenshot forwarded to the wrong chat. A whisper in the office kitchen. {trap}Two people who were fine are now cold.{/trap} {idea}The carrier is part of the damage.{/idea}",
+    "old": "I only repeated what I heard.",
+    "new": "Carrying words that break people apart is its own serious wrong.",
+    "try": "The next time you hear something about someone, let it stop with you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:12", "surah": 68, "ayah": 12, "place": "makkah",
+    "title": "He blocks good, crosses limits, and dives into sin.",
+    "subtitle": "Three faces of the same hard heart",
+    "picture": {"kind": "boxes", "label": "Three traits", "row": [
+      {"box": "trap", "title": "preventer of good", "sub": ["withholds what he has"]},
+      {"box": "trap", "title": "transgressor", "sub": ["goes past the limits"]},
+      {"box": "trap", "title": "sinful", "sub": ["delves into the forbidden"]}]},
+    "key": {"label": "Where it starts", "row": [
+      {"box": "people", "title": "I just keep what is mine", "sub": [], "strike": true},
+      {"box": "trap", "title": "holding back good", "sub": ["the first trait listed"]}]},
+    "then": "The description continues. Ibn Kathir explains: {trap}he refuses to give and withholds the good he has{/trap}, he goes beyond the limits even in what is allowed, and {trap}he delves into forbidden things.{/trap}",
+    "now": "The donation link you scroll past. The help you could give a junior colleague but do not. Telling a friend not to bother volunteering. {trap}Blocking good is quiet. Nobody calls it a sin.{/trap} {idea}The verse does.{/idea}",
+    "old": "Not giving is not the same as doing harm.",
+    "new": "Holding back good I could easily give is a real fault, not a neutral choice.",
+    "try": "Give one small good you have been holding back today: a coin, a kind word, an hour.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:13", "surah": 68, "ayah": 13, "place": "makkah",
+    "title": "Harsh, greedy, and known everywhere for his evil.",
+    "subtitle": "When cruelty becomes what you are known for",
+    "picture": {"kind": "boxes", "label": "How he stood out", "row": [
+      {"box": "trap", "title": "'utul", "sub": ["cruel, harsh, stingy"]},
+      {"box": "trap", "title": "zanim", "sub": ["marked out by his evil"]},
+      {"conn": "like"},
+      {"box": "plain", "title": "a sheep with a cut ear", "sub": ["easy to spot in the flock"]}]},
+    "key": {"label": "Who the Prophet ﷺ described", "row": [
+      {"box": "reward", "title": "weak and humble", "sub": ["people of Paradise"]},
+      {"box": "trap", "title": "cruel and arrogant", "sub": ["people of the Fire"]}]},
+    "then": "Ibn Kathir says 'utul means {trap}cruel, harsh, greedy and stingy.{/trap} Ibn Abbas described a man of Quraysh who stood out for his evil like {trap}a sheep with a piece of its ear cut off.{/trap} The Prophet ﷺ said the people of Paradise are {reward}the weak and humble.{/reward}",
+    "now": "Think of the person at work everyone warns new hires about. Known for one thing. {trap}Reputations are built one harsh reply at a time.{/trap} {idea}What would people say you are known for?{/idea}",
+    "old": "Being tough and hard makes people respect me.",
+    "new": "Harshness marks a person. Humility is what Allah honors.",
+    "try": "Ask someone close to you, gently: is there a way I come across as harsh?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

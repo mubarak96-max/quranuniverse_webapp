@@ -1,0 +1,197 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Al-Masad Cards</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,400&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a row of fixed-width share cards on a quiet ground; each card is the product, the page is only a table to lay them on. */
+:root{
+  --display:"Newsreader",Georgia,serif;
+  --body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --mono:"JetBrains Mono",Consolas,monospace;
+  --old:#7a4f32; --new:#a21caf;
+  /* A · Royal: royal blue + sky + coral on cool white */
+  --bg:#f4f6fb; --card:#ffffff; --fg:#111827; --muted:#5b6475; --line:#e4e8f2;
+  --idea:#2f4bd6; --good:#0ea5e9; --warn:#f43f5e; --gold:#f59e0b; --you:#64748b;
+}
+:root[data-palette="b"]{
+  --old:#7a4f32; --new:#1d4ed8;
+  /* B · Plum: violet + pink + amber on blush white */
+  --bg:#faf5f9; --card:#ffffff; --fg:#231a2e; --muted:#6b5f78; --line:#efe3ee;
+  --idea:#6d28d9; --good:#ec4899; --warn:#dc2626; --gold:#f59e0b; --you:#857a93;
+}
+:root[data-palette="c"]{
+  --old:#7a4f32; --new:#a21caf;
+  /* C · Navy & Gold: deep navy + bright blue + gold on warm white */
+  --bg:#f8f6f1; --card:#ffffff; --fg:#141a2e; --muted:#5e6478; --line:#ebe6dc;
+  --idea:#1e3a8a; --good:#2563eb; --warn:#b91c1c; --gold:#d4a017; --you:#7c8296;
+}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);margin:0;
+  padding-block:clamp(16px,4vw,32px);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1{font-family:var(--display);font-weight:500;font-size:clamp(22px,6vw,28px);margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 24px;max-width:60ch}
+.row{display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start;justify-content:center}
+@media (min-width:1300px){.row{justify-content:flex-start}}
+.card{width:min(100%,380px);background:var(--card);border:0;box-shadow:0 8px 28px color-mix(in srgb,var(--idea) 12%,transparent);border-radius:22px;padding:clamp(16px,5vw,22px);display:flex;flex-direction:column;gap:16px;min-width:0}
+.ref{font-family:var(--mono);font-size:12px;letter-spacing:.08em;color:var(--muted);display:flex;justify-content:space-between}
+.ref b{color:#fff;background:var(--idea);font-weight:600;padding:3px 10px;border-radius:999px}
+.idea{font-family:var(--display);font-size:clamp(19px,4.8vw,21px);line-height:1.25;font-weight:600;text-wrap:balance;margin:0;color:var(--fg)}
+.fig{background:color-mix(in srgb,var(--idea) 7%,var(--card));border-radius:16px;padding:14px 10px}
+.fig svg{width:100%;height:auto;display:block;font-family:var(--body)}
+.sec{display:flex;flex-direction:column;gap:12px}
+.sec > div + div{padding-top:12px;border-top:1px dotted var(--line)}
+.sec p{margin:0;font-size:15px;line-height:1.45}
+.story p::first-letter{font-family:var(--display);font-size:2.6em;line-height:.8;float:left;padding:4px 6px 0 0;color:var(--idea);font-weight:600}
+.shift{display:flex;flex-direction:column;gap:10px}
+.shift p{display:flex;flex-direction:column;gap:2px;padding-left:14px;border-left:2px solid var(--line)}
+.shift p:last-child{border-left-color:var(--new)}
+.shift em{font-style:normal;font-family:var(--body);font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--muted)}
+.shift p:last-child em{color:var(--idea)}
+.shift p:first-child{border-left-color:color-mix(in srgb,var(--old) 35%,transparent)}
+.shift p:first-child span{color:var(--old);text-decoration:line-through;text-decoration-thickness:1px;text-decoration-color:color-mix(in srgb,var(--old) 55%,transparent)}
+.shift p:last-child span{font-weight:600;color:var(--new)}
+.today{padding-top:18px !important;border-top:0 !important;position:relative;margin-top:4px}
+.today::before{content:"";position:absolute;top:0;left:0;width:36px;height:3px;border-radius:2px;background:var(--idea)}
+.today p{font-family:var(--display);font-size:clamp(19px,5vw,21px);line-height:1.25;font-weight:600;color:var(--idea);text-wrap:balance}
+.foot{font-size:11px;color:var(--muted);display:flex;justify-content:space-between;border-top:1px solid var(--line);padding-top:10px}
+.key{margin-top:28px;font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:16px}
+.pal{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 20px}
+.pal button{font:600 13px var(--body);padding:7px 12px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;cursor:pointer}
+.pal button:hover{border-color:var(--idea)}
+.intro{max-width:62ch;margin:0 0 24px;font-size:15px;line-height:1.5;color:var(--muted)}
+.key span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px;background:var(--c)}
+</style></head><body>
+
+<h1>Al-Masad, five cards</h1>
+<div class="pal">
+  <button onclick="document.documentElement.dataset.palette='a'">A · Royal</button>
+  <button onclick="document.documentElement.dataset.palette='b'">B · Plum</button>
+  <button onclick="document.documentElement.dataset.palette='c'">C · Navy &amp; Gold</button>
+</div>
+<p class="intro">Surah 111, Makkah, 5 verses. The only enemy of Islam named in the Quran: the Prophet's own uncle, and the wife who helped him. One card per verse.</p>
+<div class="row">
+<article class="card">
+  <div class="ref"><b>111:1</b><span>AL-MASAD</span></div>
+  <p class="idea">The uncle said "may you perish." Allah said it back, and wrote it down forever.</p>
+  <div class="fig"><svg viewBox="0 0 320 190" role="img"><defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--idea)"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--warn)"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--gold)"/></marker></defs>
+<circle cx="52" cy="78" r="13" fill="var(--you)"/><rect x="40" y="94" width="24" height="30" rx="6" fill="var(--you)"/>
+<text x="52" y="142" font-size="11" fill="var(--muted)" text-anchor="middle">the uncle</text>
+<rect x="84" y="56" width="104" height="30" rx="8" fill="var(--warn)"/>
+<text x="136" y="76" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">"may you perish"</text>
+<line x1="190" y1="71" x2="236" y2="71" stroke="var(--warn)" stroke-width="2.5" marker-end="url(#aw)"/>
+<circle cx="268" cy="78" r="13" fill="var(--idea)"/><rect x="256" y="94" width="24" height="30" rx="6" fill="var(--idea)"/>
+<text x="268" y="142" font-size="11" fill="var(--idea)" text-anchor="middle" font-weight="600">the Prophet ﷺ</text>
+<path d="M268 40 C268 10, 52 10, 52 54" fill="none" stroke="var(--gold)" stroke-width="3" marker-end="url(#ag)"/>
+<text x="160" y="18" font-size="12" font-weight="700" fill="var(--gold)" text-anchor="middle">Allah answers, and writes it down</text>
+<text x="160" y="178" font-size="12" fill="var(--muted)" text-anchor="middle" font-style="italic">his own words, returned to him, recited forever</text></svg></div>
+  <div class="sec">
+    <div class="story"><p>The Prophet ﷺ climbed a hill, called all of Makkah, and warned them. His own uncle stood up, dusted off his hands: "Is this why you gathered us? May you perish." The one man whose job was to protect him.</p></div>
+    <div class="story"><p>The relative who mocks your choices at every gathering. The one who should have your back and laughs the loudest instead. You keep hoping blood will fix it.</p></div>
+    <div class="shift"><p><span>Family will come around if I keep proving myself.</span></p><p><span>Some will not. Allah defended His Prophet when his uncle would not. Your worth does not wait on their approval.</span></p></div>
+    <div class="today"><p>Stop rehearsing the argument with that relative. Do your work. Let the record be written elsewhere.</p></div>
+  </div>
+  <div class="foot"><span>simplified · read the tafsir</span><span>appname</span></div>
+</article>
+<article class="card">
+  <div class="ref"><b>111:2</b><span>AL-MASAD</span></div>
+  <p class="idea">"I will buy my way out with my money and my sons." The two things he trusted most bought nothing.</p>
+  <div class="fig"><svg viewBox="0 0 320 190" role="img">
+<rect x="30" y="50" width="90" height="62" rx="10" fill="var(--gold)"/>
+<text x="75" y="78" font-size="13" font-weight="700" fill="#2a1f05" text-anchor="middle">wealth</text>
+<text x="75" y="98" font-size="11" fill="#2a1f05" text-anchor="middle">"I will pay"</text>
+<rect x="130" y="50" width="90" height="62" rx="10" fill="var(--gold)"/>
+<text x="175" y="78" font-size="13" font-weight="700" fill="#2a1f05" text-anchor="middle">children</text>
+<text x="175" y="98" font-size="11" fill="#2a1f05" text-anchor="middle">"they will save me"</text>
+<line x1="228" y1="81" x2="256" y2="81" stroke="var(--idea)" stroke-width="2.5"/>
+<rect x="258" y="40" width="40" height="84" rx="6" fill="none" stroke="var(--idea)" stroke-width="2.5"/>
+<line x1="278" y1="40" x2="278" y2="124" stroke="var(--idea)" stroke-width="2.5"/>
+<text x="278" y="150" font-size="11" fill="var(--idea)" text-anchor="middle" font-weight="600">the Day</text>
+<text x="278" y="165" font-size="11" fill="var(--idea)" text-anchor="middle" font-weight="600">gate closed</text>
+<text x="125" y="150" font-size="34" font-weight="700" fill="var(--warn)" text-anchor="middle">= 0</text>
+<text x="125" y="176" font-size="12" fill="var(--muted)" text-anchor="middle" font-style="italic">nothing he owned could cross</text></svg></div>
+  <div class="sec">
+    <div class="story"><p>Abu Lahab was rich, connected, with grown sons. Warned about the Day, he said: if it is true, I will ransom myself with my wealth and my children. This verse is the reply.</p></div>
+    <div class="story"><p>The savings account. The pension. The kids who will "take care of me." The network. Everything you quietly count on when the thought of death passes through.</p></div>
+    <div class="shift"><p><span>What I own and who I raised are my safety net.</span></p><p><span>They are blessings for here, not currency for there. Nothing I own crosses with me except what I did with it.</span></p></div>
+    <div class="today"><p>Name one thing you are secretly relying on instead of Allah. Say it out loud.</p></div>
+  </div>
+  <div class="foot"><span>simplified · read the tafsir</span><span>appname</span></div>
+</article>
+<article class="card">
+  <div class="ref"><b>111:3</b><span>AL-MASAD</span></div>
+  <p class="idea">They called him "father of flame" for his glowing face. Allah told him where the flame would end up.</p>
+  <div class="fig"><svg viewBox="0 0 320 190" role="img">
+<rect x="20" y="52" width="120" height="58" rx="10" fill="none" stroke="var(--gold)" stroke-width="2.5"/>
+<text x="80" y="76" font-size="13" font-weight="700" fill="var(--gold)" text-anchor="middle">Abu Lahab</text>
+<text x="80" y="96" font-size="11" fill="var(--muted)" text-anchor="middle">"father of flame"</text>
+<text x="80" y="130" font-size="11" fill="var(--muted)" text-anchor="middle">a glowing face, a proud name</text>
+<line x1="146" y1="81" x2="186" y2="81" stroke="var(--idea)" stroke-width="2.5"/>
+<text x="166" y="70" font-size="11" fill="var(--idea)" text-anchor="middle" font-weight="700">same word</text>
+<path d="M240 130 C205 110, 215 80, 232 60 C236 78, 248 80, 250 66 C268 84, 272 112, 240 130z" fill="var(--warn)"/>
+<path d="M240 122 C226 110, 232 96, 240 86 C244 96, 254 100, 250 110 C252 118, 246 124, 240 122z" fill="var(--gold)"/>
+<text x="240" y="150" font-size="12" font-weight="700" fill="var(--warn)" text-anchor="middle">a fire of lahab</text>
+<text x="160" y="178" font-size="12" fill="var(--muted)" text-anchor="middle" font-style="italic">the flame moves from his face to his address</text></svg></div>
+  <div class="sec">
+    <div class="story"><p>His real name was Abdul-Uzza. People called him Abu Lahab because his face shone, and he loved the name. The verse turns it over: the flame will not be on his face. He will be inside it.</p></div>
+    <div class="story"><p>The reputation you polish. The title, the nickname, the way people describe you at parties. Built on what? If it is built on someone else's back, it has an ending.</p></div>
+    <div class="shift"><p><span>A good name is what people call me.</span></p><p><span>A good name is what my deeds will be called on that Day. The rest is lighting.</span></p></div>
+    <div class="today"><p>Ask what one person you have wronged would call you. Fix that before polishing anything else.</p></div>
+  </div>
+  <div class="foot"><span>simplified · read the tafsir</span><span>appname</span></div>
+</article>
+<article class="card">
+  <div class="ref"><b>111:4</b><span>AL-MASAD</span></div>
+  <p class="idea">She did not sit it out. She carried the wood that kept his fire burning.</p>
+  <div class="fig"><svg viewBox="0 0 320 190" role="img"><defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--idea)"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--warn)"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--gold)"/></marker></defs>
+<circle cx="62" cy="70" r="13" fill="var(--you)"/><rect x="50" y="86" width="24" height="34" rx="6" fill="var(--you)"/>
+<g stroke="var(--warn)" stroke-width="3" stroke-linecap="round"><line x1="76" y1="92" x2="112" y2="76"/><line x1="76" y1="100" x2="114" y2="88"/><line x1="78" y1="108" x2="112" y2="100"/></g>
+<text x="62" y="140" font-size="11" fill="var(--muted)" text-anchor="middle">Umm Jamil</text>
+<text x="100" y="140" font-size="11" fill="var(--warn)" text-anchor="middle">+ wood</text>
+<line x1="124" y1="90" x2="196" y2="90" stroke="var(--warn)" stroke-width="2.5" marker-end="url(#aw)" stroke-dasharray="6 4"/>
+<text x="160" y="78" font-size="11" fill="var(--warn)" text-anchor="middle" font-weight="700">feeds</text>
+<path d="M250 128 C210 106, 222 70, 242 46 C246 68, 262 70, 262 52 C284 76, 288 108, 250 128z" fill="var(--warn)"/>
+<path d="M250 120 C234 108, 240 92, 250 80 C254 92, 266 96, 262 108 C264 116, 256 122, 250 120z" fill="var(--gold)"/>
+<text x="250" y="150" font-size="12" font-weight="700" fill="var(--warn)" text-anchor="middle">his fire</text>
+<text x="160" y="178" font-size="12" fill="var(--muted)" text-anchor="middle" font-style="italic">thorns on his path by night, fuel for the hate by day</text></svg></div>
+  <div class="sec">
+    <div class="story"><p>Umm Jamil, sister of Abu Sufyan, one of the leading women of Quraysh. She scattered thorns on the path the Prophet ﷺ walked at night. She was not dragged into her husband's hatred. She fed it.</p></div>
+    <div class="story"><p>The friend who, every time you are angry, adds a story. The spouse who never says "let it go." The group chat that keeps a grudge alive for years. Wood carriers.</p></div>
+    <div class="shift"><p><span>I am only reacting to what others started.</span></p><p><span>Feeding a fire is its own deed. Carrying the wood counts the same as lighting it.</span></p></div>
+    <div class="today"><p>Think of one grudge you keep warm for someone else. Put the wood down.</p></div>
+  </div>
+  <div class="foot"><span>simplified · read the tafsir</span><span>appname</span></div>
+</article>
+<article class="card">
+  <div class="ref"><b>111:5</b><span>AL-MASAD</span></div>
+  <p class="idea">The rope she used to carry thorns ends up around her own neck.</p>
+  <div class="fig"><svg viewBox="0 0 320 190" role="img">
+<g fill="none" stroke="var(--warn)" stroke-width="5" stroke-linecap="round">
+<path d="M40 60 C70 40, 100 40, 130 60"/><path d="M40 70 C70 50, 100 50, 130 70"/></g>
+<g stroke="var(--warn)" stroke-width="2.5" stroke-linecap="round"><line x1="60" y1="92" x2="110" y2="80"/><line x1="58" y1="102" x2="112" y2="94"/><line x1="62" y1="112" x2="108" y2="106"/></g>
+<text x="85" y="140" font-size="11" fill="var(--muted)" text-anchor="middle">the rope that carried the thorns</text>
+<path d="M140 65 C190 40, 230 40, 250 70" fill="none" stroke="var(--idea)" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="196" y="40" font-size="11" fill="var(--idea)" text-anchor="middle" font-weight="700">same rope</text>
+<circle cx="250" cy="82" r="14" fill="var(--you)"/>
+<ellipse cx="250" cy="108" rx="24" ry="10" fill="none" stroke="var(--warn)" stroke-width="5"/>
+<rect x="238" y="112" width="24" height="24" rx="5" fill="var(--you)"/>
+<text x="250" y="152" font-size="11" fill="var(--warn)" text-anchor="middle" font-weight="700">now a collar</text>
+<text x="160" y="178" font-size="12" fill="var(--muted)" text-anchor="middle" font-style="italic">what she carried for others, she wears</text></svg></div>
+  <div class="sec">
+    <div class="story"><p>A rope of palm fiber was a worker's tool: bind the bundle, carry it on your back. She used hers to carry harm. The surah ends with the same rope, twisted, on her neck. The tool became the sentence.</p></div>
+    <div class="story"><p>The sharp tongue that wins every argument. The talent for finding people's weak spots. The screenshot folder. Whatever you use to hurt, you are also tying to yourself.</p></div>
+    <div class="shift"><p><span>My weapons are separate from me. I pick them up, I put them down.</span></p><p><span>What I carry for others, I wear. The rope goes both ways.</span></p></div>
+    <div class="today"><p>Delete one thing you kept as a weapon.</p></div>
+  </div>
+  <div class="foot"><span>simplified · read the tafsir</span><span>appname</span></div>
+</article>
+</div>
+<div class="key">
+  <span style="--c:var(--idea)">the idea</span>
+  <span style="--c:var(--good)">good outcome</span>
+  <span style="--c:var(--warn)">threat</span>
+  <span style="--c:var(--gold)">reward / what he trusted</span>
+  <span style="--c:var(--you)">people</span>
+</div>
+</body></html>

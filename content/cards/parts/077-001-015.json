@@ -1,0 +1,291 @@
+[
+  {
+    "id": "77:1", "surah": 77, "ayah": 1, "place": "makkah",
+    "title": "By the winds sent out, one gust after another.",
+    "subtitle": "Why the surah swears by the wind",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "people", "title": "the winds", "sub": ["sent in gusts"]},
+      {"conn": "sworn by, to prove"},
+      {"box": "idea", "title": "the Day", "sub": ["what you are promised"]}]},
+    "key": {"label": "What the wind shows", "row": [
+      {"box": "trap", "title": "just weather", "sub": ["random air"], "strike": true},
+      {"box": "idea", "title": "sent", "sub": ["by a Sender, on purpose"]}]},
+    "then": "Ibn Masud reported this surah was revealed to the Prophet ﷺ {idea}in a cave at Mina{/idea}, and he learned it fresh from his mouth. Ibn Masud, Ibn Abbas and others said the \"ones sent forth\" are {idea}the winds{/idea}; some said angels. Umm al-Fadl said it was {reward}the last thing she heard him recite, in the Maghrib prayer.{/reward}",
+    "now": "A breeze through the window on a hot night. You barely notice it. {idea}The word used here is \"sent.\"{/idea} Every gust is dispatched, like a message, by the One who also promised the Day.",
+    "old": "The wind is just air moving around.",
+    "new": "Even the wind is sent. Nothing in the world is purposeless.",
+    "try": "Next time you feel a breeze, say SubhanAllah and remember it was sent.",
+    "related": ["15:22", "7:57"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:2", "surah": 77, "ayah": 2, "place": "makkah",
+    "title": "And by the winds that blow with violent force.",
+    "subtitle": "The same air, now a storm",
+    "picture": {"kind": "boxes", "label": "Two faces of wind", "row": [
+      {"box": "people", "title": "gentle gusts", "sub": ["verse 1"]},
+      {"box": "trap", "title": "storm winds", "sub": ["loud, violent"]}]},
+    "key": {"label": "Who controls the storm", "row": [
+      {"box": "trap", "title": "nature alone", "sub": ["no one"], "strike": true},
+      {"box": "idea", "title": "by His command", "sub": ["gentle or fierce"]}]},
+    "then": "Ibn Jarir affirmed that these {trap}are the winds{/trap}; Arabs said winds 'asafat {trap}when they roar with their blowing.{/trap} {idea}The One who sends a breeze can send a storm.{/idea}",
+    "now": "A storm warning on your phone. Trees bending, power out, you sitting in the dark with candles. {idea}You feel how small you are.{/idea} The same power will bring the Day.",
+    "old": "Storms are just bad luck.",
+    "new": "The power behind a storm is the power behind the Day.",
+    "try": "During the next strong wind, make a short dua for safety and mercy.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:3", "surah": 77, "ayah": 3, "place": "makkah",
+    "title": "And by the winds that spread the clouds.",
+    "subtitle": "Winds that carry mercy",
+    "picture": {"kind": "boxes", "label": "What the winds do", "row": [
+      {"box": "idea", "title": "the winds", "sub": ["spread out"]},
+      {"conn": "scatter"},
+      {"box": "reward", "title": "the clouds", "sub": ["ahead of the rain"]}]},
+    "key": {"label": "The wind's job", "row": [
+      {"box": "trap", "title": "only harm", "sub": ["storms"], "strike": true},
+      {"box": "reward", "title": "herald of mercy", "sub": ["brings rain"]}]},
+    "then": "Ibn Kathir says these are {idea}winds that scatter clouds across the sky{/idea} by Allah's will; Abu Salih said it is the rain. He cites the verse: {reward}He sends the winds as glad tidings before His mercy.{/reward}",
+    "now": "Clouds gather after a dry month. Farmers watch the sky, you watch the forecast. {reward}The wind that brings them is part of a system built for you.{/reward}",
+    "old": "Rain just happens when it happens.",
+    "new": "The winds carry rain by design. Mercy is sent before it arrives.",
+    "try": "When it next rains, make a dua. Rain is a time of mercy.",
+    "related": ["7:57"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:4", "surah": 77, "ayah": 4, "place": "makkah",
+    "title": "And by the angels who separate truth from falsehood.",
+    "subtitle": "The ones who bring the dividing line",
+    "picture": {"kind": "boxes", "label": "What they separate", "row": [
+      {"box": "idea", "title": "truth"},
+      {"box": "trap", "title": "falsehood"},
+      {"conn": "also"},
+      {"box": "idea", "title": "lawful / forbidden", "sub": ["guidance / misguidance"]}]},
+    "key": {"label": "Where the line comes from", "row": [
+      {"box": "trap", "title": "my own feeling", "sub": ["it seems fine"], "strike": true},
+      {"box": "idea", "title": "revelation", "sub": ["brought by angels"]}]},
+    "then": "Ibn Kathir says here there is {idea}no difference of opinion: these are the angels.{/idea} They descend with Allah's command to the messengers, {idea}separating truth from falsehood, guidance from misguidance, lawful from forbidden.{/idea}",
+    "now": "Everything online is blurred: opinions, hot takes, \"it depends.\" You lose the sense of what is actually right. {idea}The revelation is the line that does not blur.{/idea}",
+    "old": "Right and wrong are mostly up to each person.",
+    "new": "Allah sent a clear line through His angels. I can find it.",
+    "try": "When you are unsure about something today, check what the Quran says first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:5", "surah": 77, "ayah": 5, "place": "makkah",
+    "title": "And by the angels who deliver the reminder.",
+    "subtitle": "Revelation reaching the messengers",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the command"]},
+      {"conn": "through"},
+      {"box": "people", "title": "the angels", "sub": ["deliver it"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the messengers", "sub": ["then to us"]}]},
+    "key": {"label": "What the Quran is", "row": [
+      {"box": "trap", "title": "human ideas", "sub": ["made up"], "strike": true},
+      {"box": "idea", "title": "a reminder delivered", "sub": ["from Allah"]}]},
+    "then": "Ibn Kathir says the angels {idea}bring the revelation to the messengers.{/idea} It is called dhikr, a reminder. {reward}It was carried with care, all the way down to you.{/reward}",
+    "now": "You get dozens of reminders a day: meetings, bills, birthdays. You tap them away. {idea}This one was delivered by angels.{/idea} It deserves more than a swipe.",
+    "old": "The Quran is one more thing on my list.",
+    "new": "The Quran is a reminder Allah sent through angels, meant for me.",
+    "try": "Set one phone reminder today that is only for reading a few verses.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:6", "surah": 77, "ayah": 6, "place": "makkah",
+    "title": "To excuse some, and to warn others.",
+    "subtitle": "Two purposes of the message",
+    "picture": {"kind": "boxes", "label": "The message does two things", "row": [
+      {"box": "reward", "title": "an excuse", "sub": ["clears those who heed"]},
+      {"box": "trap", "title": "a warning", "sub": ["for those who oppose"]}]},
+    "key": {"label": "What the message is", "row": [
+      {"box": "trap", "title": "only threats", "sub": ["scary"], "strike": true},
+      {"box": "reward", "title": "also a way out", "sub": ["absolution"]}]},
+    "then": "Ibn Kathir says the revelation contains {reward}exemption or absolvement for the creatures{/reward} and {trap}a warning of Allah's torment if they oppose His command.{/trap} {idea}It opens a door and marks a cliff edge.{/idea}",
+    "now": "A doctor tells you your blood sugar is high. It sounds like bad news. But it is also the moment you can still fix it. {reward}A warning in time is a gift.{/reward}",
+    "old": "Religious warnings are just there to scare me.",
+    "new": "A warning comes with an excuse attached: a way to be cleared.",
+    "try": "Read one warning verse today and ask: what way out does it offer me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:7", "surah": 77, "ayah": 7, "place": "makkah",
+    "title": "What you are promised will surely happen.",
+    "subtitle": "The point of all five oaths",
+    "picture": {"kind": "boxes", "label": "What is promised", "row": [
+      {"box": "idea", "title": "the Hour", "sub": ["the horn"]},
+      {"box": "idea", "title": "bodies raised", "sub": ["all gathered"]},
+      {"box": "idea", "title": "every deed repaid", "sub": ["good for good"]}]},
+    "key": {"label": "The promise", "row": [
+      {"box": "trap", "title": "might happen", "strike": true},
+      {"box": "idea", "title": "will occur", "sub": ["no avoiding it"]}]},
+    "then": "Ibn Kathir says {idea}this is the subject of the oaths.{/idea} The Hour, the horn, the raising of bodies, the gathering of first and last, {reward}and every doer repaid for his deed: good for good, evil for evil.{/reward} {idea}It will come to pass.{/idea}",
+    "now": "You make promises you mean to keep: I will call, I will pay you back, I will be there. Some slip. {idea}This promise does not slip.{/idea}",
+    "old": "The Day might happen. Who knows?",
+    "new": "It will happen. Winds and angels are sworn by to make that clear.",
+    "try": "Do one good deed today with the promise of repayment in mind.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:8", "surah": 77, "ayah": 8, "place": "makkah",
+    "title": "When the stars are wiped out.",
+    "subtitle": "The lights that guided travelers go dark",
+    "picture": {"kind": "boxes", "label": "The stars", "row": [
+      {"box": "people", "title": "stars", "sub": ["guiding, shining"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "their light leaves", "sub": ["obliterated"]}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "trap", "title": "the stars", "sub": ["eternal-seeming"], "strike": true},
+      {"box": "idea", "title": "the promise", "sub": ["verse 7"]}]},
+    "then": "Ibn Kathir says {trap}their light will leave{/trap}, comparing it to the verses about stars falling and scattering. In Makkah, people {idea}navigated deserts by these stars.{/idea}",
+    "now": "You go camping and see the night sky without city lights. Thousands of stars, ancient and steady. {idea}Even they will go out.{/idea} The promise of the Day is steadier than they are.",
+    "old": "The stars will be there long after me.",
+    "new": "The stars have an end. What Allah promised does not.",
+    "try": "Look up at the night sky tonight for one minute and remember this verse.",
+    "related": ["81:2", "82:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:9", "surah": 77, "ayah": 9, "place": "makkah",
+    "title": "When the sky is split open.",
+    "subtitle": "The roof over the world cracks",
+    "picture": {"kind": "boxes", "label": "The sky", "row": [
+      {"box": "people", "title": "the sky", "sub": ["a seamless roof"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "split", "sub": ["sides weak, edges falling"]}]},
+    "key": {"label": "What is solid", "row": [
+      {"box": "trap", "title": "the sky above", "sub": ["always there"], "strike": true},
+      {"box": "idea", "title": "Allah's word", "sub": ["the only fixed thing"]}]},
+    "then": "Ibn Kathir says it is {trap}cleft asunder, its sides fall and its edges become weak.{/trap} The sky that looked like the most solid thing {idea}opens like a cracked shell.{/idea}",
+    "now": "You look up on a blue afternoon and the sky feels like a ceiling that will always hold. {idea}This verse says it will crack.{/idea} What are you building under it?",
+    "old": "The sky is the most permanent thing there is.",
+    "new": "Even the sky will open. Only what I do for Allah stays.",
+    "try": "Do one thing today that will still matter when the sky splits.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:10", "surah": 77, "ayah": 10, "place": "makkah",
+    "title": "When the mountains are blown away like dust.",
+    "subtitle": "No trace of them left",
+    "picture": {"kind": "boxes", "label": "The mountains", "row": [
+      {"box": "people", "title": "mountains", "sub": ["huge, fixed"]},
+      {"conn": "become"},
+      {"box": "trap", "title": "nothing", "sub": ["no sight, no trace"]}]},
+    "key": {"label": "What looks permanent", "row": [
+      {"box": "trap", "title": "mountains", "sub": ["will always stand"], "strike": true},
+      {"box": "idea", "title": "a level plain", "sub": ["everyone gathered"]}]},
+    "then": "Ibn Kathir says {trap}they will be removed and no sight or trace of them will remain.{/trap} He cites the verse where {idea}the earth becomes a level plain and all people are gathered, none left behind.{/idea}",
+    "now": "You drive past the mountains on a family trip. They were there when your grandparents were young. {idea}They will be gone.{/idea} So will every big problem that feels like a mountain to you today.",
+    "old": "My problems are like mountains: huge and fixed.",
+    "new": "Even mountains will be dust. My problems are smaller than they look.",
+    "try": "Name one worry that feels like a mountain, and hand it to Allah in dua.",
+    "related": ["20:105", "18:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:11", "surah": 77, "ayah": 11, "place": "makkah",
+    "title": "When the messengers are gathered at their appointed time.",
+    "subtitle": "The witnesses called forward",
+    "picture": {"kind": "boxes", "label": "The messengers", "row": [
+      {"box": "people", "title": "every messenger", "sub": ["across history"]},
+      {"conn": "gathered"},
+      {"box": "idea", "title": "the appointed time", "sub": ["to testify"]}]},
+    "key": {"label": "Why they come", "row": [
+      {"box": "people", "title": "past figures", "sub": ["just history"], "strike": true},
+      {"box": "idea", "title": "witnesses", "sub": ["about who listened"]}]},
+    "then": "Ibn Abbas said it means {idea}gathered{/idea}; Mujahid said {idea}postponed{/idea}; Ibrahim said {idea}promised.{/idea} Ibn Kathir links it to the verse where {reward}the Prophets and witnesses are brought forward and judgment is given with truth.{/reward}",
+    "now": "You read about the prophets as stories for children. Nuh, Musa, Isa, Muhammad ﷺ. {idea}They will be present that Day, as witnesses to whether the message was heard.{/idea}",
+    "old": "The prophets are figures from the past.",
+    "new": "The messengers will be gathered to testify. Their message is for me now.",
+    "try": "Send salawat on the Prophet ﷺ ten times today.",
+    "related": ["5:109", "39:69"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:12", "surah": 77, "ayah": 12, "place": "makkah",
+    "title": "For which Day was all this delayed?",
+    "subtitle": "A question to make you lean in",
+    "picture": {"kind": "boxes", "label": "Delayed until", "row": [
+      {"box": "people", "title": "stars, sky, mountains", "sub": ["messengers too"]},
+      {"conn": "all waiting for"},
+      {"box": "idea", "title": "which Day?"}]},
+    "key": {"label": "The delay", "row": [
+      {"box": "trap", "title": "means it is cancelled", "strike": true},
+      {"box": "idea", "title": "means it is set", "sub": ["for its Day"]}]},
+    "then": "Ibn Kathir says: {idea}for which Day are the messengers postponed and their matter awaited, until the Hour is established?{/idea} He cites: {reward}do not think Allah will fail to keep His promise to His messengers.{/reward}",
+    "now": "A trial date keeps being moved. The other side starts acting like it will never happen. {idea}Delay is not cancellation.{/idea}",
+    "old": "If it has not happened yet, it probably will not.",
+    "new": "It is delayed to a set Day. The delay is time given to me.",
+    "try": "Use one delayed thing today, a free hour, as time to prepare.",
+    "related": ["14:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:13", "surah": 77, "ayah": 13, "place": "makkah",
+    "title": "For the Day of Sorting.",
+    "subtitle": "The Day everyone is separated",
+    "picture": {"kind": "boxes", "label": "The Day of Sorting", "row": [
+      {"box": "people", "title": "all of humanity", "sub": ["mixed together now"]},
+      {"conn": "sorted into"},
+      {"box": "reward", "title": "Paradise"},
+      {"box": "trap", "title": "the Fire"}]},
+    "key": {"label": "Right now", "row": [
+      {"box": "people", "title": "all in one crowd", "sub": ["looks the same"]},
+      {"conn": "that Day"},
+      {"box": "idea", "title": "separated", "sub": ["by what we did"]}]},
+    "then": "The answer to the question: {idea}the Day of Sorting Out{/idea}, the Day when the people of Paradise are separated from the people of the Fire. Ibn Kathir calls it {idea}the Day when it is judged between them with truth.{/idea}",
+    "now": "At work, at school, in the mall, everyone is mixed: honest and dishonest, kind and cruel, all in the same queue. {idea}One Day the queues split.{/idea}",
+    "old": "In the end, everyone ends up in the same place.",
+    "new": "There is a Day of sorting, and I am choosing my line now.",
+    "try": "Do one thing today that belongs in the line you want to stand in.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:14", "surah": 77, "ayah": 14, "place": "makkah",
+    "title": "And what will make you know what that Day is?",
+    "subtitle": "Too big to imagine",
+    "picture": {"kind": "boxes", "label": "Your sense of it", "row": [
+      {"box": "people", "title": "what you imagine", "sub": ["small, vague"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "what it is", "sub": ["far greater"]}]},
+    "key": {"label": "The Day", "row": [
+      {"box": "trap", "title": "I get it", "sub": ["heard it before"], "strike": true},
+      {"box": "idea", "title": "beyond me", "sub": ["so take it seriously"]}]},
+    "then": "Ibn Kathir says Allah asks this {idea}to magnify its matter.{/idea} The listeners in Makkah had demanded the Day as a joke. {trap}The question tells them they have no idea what they are asking for.{/trap}",
+    "now": "You hear about the Day of Judgement so often it sounds normal, like a weather report. {idea}This verse stops you: you do not actually know what it is.{/idea}",
+    "old": "I have heard enough about the Day already.",
+    "new": "Whatever I think the Day is, it is bigger.",
+    "try": "Sit for one quiet minute today and just think about standing before Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "77:15", "surah": 77, "ayah": 15, "place": "makkah",
+    "title": "Woe, that Day, to those who denied it was coming.",
+    "subtitle": "The first refrain: after the Day of Sorting",
+    "picture": {"kind": "boxes", "label": "After all the signs", "row": [
+      {"box": "idea", "title": "winds, angels", "sub": ["sworn by"]},
+      {"box": "idea", "title": "stars, sky, mountains", "sub": ["undone"]},
+      {"conn": "and still"},
+      {"box": "trap", "title": "denied", "sub": ["woe to them"]}]},
+    "key": {"label": "What the woe answers", "row": [
+      {"box": "trap", "title": "\"bring it if true\"", "sub": ["the mocking demand"], "strike": true},
+      {"box": "trap", "title": "woe that Day", "sub": ["the reply"]}]},
+    "then": "This is the first of ten times this line comes. Here it follows {idea}the Day of Sorting and the undoing of the sky{/idea}. Ibn Kathir says it means {trap}woe to them from Allah's torment that is coming.{/trap} The surah introduction says Makkah's people had demanded the Day as a joke.",
+    "now": "Someone mocks the idea of judgement on a podcast and the room laughs. You laugh along so you do not look strange. {idea}This verse asks where you will stand when the joke is over.{/idea}",
+    "old": "Joking about the Day is harmless.",
+    "new": "Denying the Day, even laughing it off, is something I do not want to be part of.",
+    "try": "Next time the Day is mocked around you, do not laugh along.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

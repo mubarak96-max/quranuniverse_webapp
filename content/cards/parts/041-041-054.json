@@ -1,0 +1,285 @@
+[
+  {
+    "id": "41:41", "surah": 41, "ayah": 41, "place": "makkah",
+    "title": "They rejected the Reminder, and it is a mighty Book.",
+    "subtitle": "A protected book no one can match",
+    "picture": {"kind": "boxes", "label": "What they rejected", "row": [
+      {"box": "people", "title": "the Reminder came", "sub": ["the Quran"]},
+      {"conn": "they"},
+      {"box": "trap", "title": "disbelieved", "sub": []},
+      {"conn": "yet it is"},
+      {"box": "idea", "title": "a mighty Book", "sub": ["protected, unmatched"]}]},
+    "key": {"label": "Who loses", "row": [
+      {"box": "people", "title": "the Book is hurt", "sub": [], "strike": true},
+      {"box": "trap", "title": "the rejecter loses", "sub": ["the Book stays mighty"]}]},
+    "then": "Ad-Dahhak, As-Suddi and Qatadah said the Reminder here {idea}is the Quran.{/idea} Ibn Kathir says it is {idea}protected and preserved, and nobody can produce anything like it.{/idea} Quraysh rejected it, but rejection did nothing to its standing.",
+    "now": "A book has sat on your shelf for years, the cover dusty. You meant to read it properly. {idea}It has not lost anything by waiting.{/idea} The only one missing out is the person who keeps not opening it.",
+    "old": "If I ignore the Quran, it does not really matter much.",
+    "new": "The Quran stays mighty whether I read it or not. Ignoring it only costs me.",
+    "try": "Open a physical or digital mushaf today and read one page.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:42", "surah": 41, "ayah": 42, "place": "makkah",
+    "title": "Falsehood cannot reach it from front or back.",
+    "subtitle": "Sent down by the Wise, the Praiseworthy",
+    "picture": {"kind": "boxes", "label": "How it is guarded", "row": [
+      {"box": "trap", "title": "falsehood", "sub": ["from before"]},
+      {"box": "trap", "title": "falsehood", "sub": ["from behind"]},
+      {"conn": "cannot reach"},
+      {"box": "idea", "title": "the Quran", "sub": ["from the Wise, Praised"]}]},
+    "key": {"label": "What you can trust", "row": [
+      {"box": "people", "title": "everything gets edited", "sub": ["nothing stays true"], "strike": true},
+      {"box": "reward", "title": "one source uncorrupted", "sub": ["no way to corrupt it"]}]},
+    "then": "Ibn Kathir says {idea}there is no way to corrupt it{/idea}, because it came from the Lord of the worlds. He is Wise in all He says and does, and {reward}Praiseworthy in all He commands and forbids.{/reward}",
+    "now": "Your feed shows a story, then a correction, then a correction of the correction. Edited photos, rewritten history, deleted posts. {reward}In all that noise, there is one text that falsehood cannot get into.{/reward}",
+    "old": "Everything is spin; nothing I read can be fully trusted.",
+    "new": "The Quran is guarded from falsehood on every side. I can rest my trust there.",
+    "try": "Replace five minutes of news scrolling today with five minutes of Quran.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:43", "surah": 41, "ayah": 43, "place": "makkah",
+    "title": "Every insult you hear, messengers before you heard too.",
+    "subtitle": "Comfort for the rejected, and a Lord of forgiveness",
+    "picture": {"kind": "boxes", "label": "Same words, older times", "row": [
+      {"box": "people", "title": "messengers before", "sub": ["rejected, insulted"]},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["hearing the same"]},
+      {"conn": "and your Lord"},
+      {"box": "reward", "title": "forgives", "sub": ["those who turn back"]}]},
+    "key": {"label": "What rejection means", "row": [
+      {"box": "people", "title": "I am failing", "sub": ["no one listens"], "strike": true},
+      {"box": "idea", "title": "the old pattern", "sub": ["prophets faced it too"]}]},
+    "then": "Qatadah and As-Suddi said: {idea}nothing is said to you by way of rejection that was not said to the messengers before you.{/idea} As they bore insults with patience, so must you. Then a balance: your Lord {reward}forgives those who turn to Him{/reward}, and punishes those who persist.",
+    "now": "You try to do the right thing and someone mocks you for it. A family member calls you extreme for praying on time. {idea}You are not the first. You are walking an old road.{/idea}",
+    "old": "If people mock me for my faith, I must be doing something wrong.",
+    "new": "Mockery for doing right is an old pattern. Messengers faced it, and patience is the answer.",
+    "try": "The next time someone mocks a good habit of yours, answer calmly and keep doing it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:44", "surah": 41, "ayah": 44, "place": "makkah",
+    "title": "For believers, guidance and cure; for others, a distant call.",
+    "subtitle": "The same words, two very different effects",
+    "picture": {"kind": "boxes", "label": "One book, two hearts", "row": [
+      {"box": "idea", "title": "the Quran", "sub": []},
+      {"conn": "is to believers"},
+      {"box": "reward", "title": "guidance and cure", "sub": ["for doubt and confusion"]},
+      {"conn": "to others"},
+      {"box": "trap", "title": "heavy ears", "sub": ["called from far away"]}]},
+    "key": {"label": "What was the real issue", "row": [
+      {"box": "people", "title": "the language", "sub": ["Arabic or foreign"], "strike": true},
+      {"box": "trap", "title": "stubbornness", "sub": ["any form would be refused"]}]},
+    "then": "Ibn Kathir says their rejection was {trap}the disbelief of stubbornness.{/trap} Had it come in a foreign language, they would have complained it was not Arabic. For a believer it is {reward}guidance for the heart and a cure for doubts.{/reward} Mujahid said the distant place is far from their hearts.",
+    "now": "Two people sit through the same Friday talk. One leaves lighter, a doubt settled. The other says it was too long. {idea}The words were the same. The hearts were not.{/idea}",
+    "old": "If the reminder were delivered better, it would reach me.",
+    "new": "The Quran heals the heart that comes to it in faith. Distance is in the listener, not the words.",
+    "try": "Bring one real doubt or worry to the Quran today and read a passage with it in mind.",
+    "related": ["26:198", "17:82", "2:171"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:45", "surah": 41, "ayah": 45, "place": "makkah",
+    "title": "Musa's people argued over their book too.",
+    "subtitle": "A delay that is a mercy, not a forgetting",
+    "picture": {"kind": "boxes", "label": "Then and now", "row": [
+      {"box": "people", "title": "Musa's Scripture", "sub": ["disputed"]},
+      {"box": "people", "title": "the Quran", "sub": ["doubted"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "a Word went before", "sub": ["judgment is delayed"]}]},
+    "key": {"label": "Why no instant judgment", "row": [
+      {"box": "people", "title": "Allah does not care", "sub": [], "strike": true},
+      {"box": "idea", "title": "an appointed term", "sub": ["time given to return"]}]},
+    "then": "Ibn Kathir says Musa's people {trap}disputed his Scripture and showed him no respect{/trap}, just as Quraysh did with the Prophet ﷺ. Had a word not gone before from Allah, {idea}delaying the reckoning to an appointed term{/idea}, it would have been settled already.",
+    "now": "You did something wrong and nothing happened. A week passed, then a month. {trap}It is easy to think it did not matter.{/trap} {idea}The delay is time given, not a sign that no one noticed.{/idea}",
+    "old": "If nothing bad happened after I did wrong, it must not have mattered.",
+    "new": "Allah's delay is a mercy with a deadline. It is space for me to turn back.",
+    "try": "Think of one wrong that seemed to have no consequence, and seek forgiveness for it today.",
+    "related": ["46:35", "42:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:46", "surah": 41, "ayah": 46, "place": "makkah",
+    "title": "Your good is for you, your harm is against you.",
+    "subtitle": "And your Lord is never unjust",
+    "picture": {"kind": "boxes", "label": "Where deeds land", "row": [
+      {"box": "reward", "title": "good deed", "sub": ["its benefit comes to you"]},
+      {"box": "trap", "title": "bad deed", "sub": ["its harm returns to you"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "never unjust", "sub": ["proof comes first"]}]},
+    "key": {"label": "Who gains from my deeds", "row": [
+      {"box": "people", "title": "Allah or others", "sub": ["I do it for them"], "strike": true},
+      {"box": "reward", "title": "my own soul", "sub": ["it all comes back"]}]},
+    "then": "Ibn Kathir says the benefit of a good deed {reward}comes back to the one who did it{/reward}, and so do the consequences of evil. Allah {idea}punishes no one except after establishing proof and sending a messenger.{/idea}",
+    "now": "You hold the door for a stranger, help your kid with homework, pray when you are tired. It feels like giving away. {reward}It is all landing in your own account.{/reward} So is the sharp reply you send at midnight.",
+    "old": "When I do good, I am mostly doing it for others.",
+    "new": "Every good deed is a gift to my own soul, and every harm I do lands on me too.",
+    "try": "Do one good deed today and quietly remind yourself it is for your own soul.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:47", "surah": 41, "ayah": 47, "place": "makkah",
+    "title": "He knows the Hour, every fruit, every birth.",
+    "subtitle": "Nothing grows or is born outside His knowledge",
+    "picture": {"kind": "boxes", "label": "What only He knows", "row": [
+      {"box": "idea", "title": "the Hour", "sub": ["no one else knows"]},
+      {"box": "idea", "title": "every fruit", "sub": ["leaving its sheath"]},
+      {"box": "idea", "title": "every pregnancy", "sub": ["and every birth"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "where are My partners", "sub": ["none will testify"]}]},
+    "key": {"label": "What false partners do", "row": [
+      {"box": "people", "title": "stand up for me", "sub": [], "strike": true},
+      {"box": "trap", "title": "vanish", "sub": ["no one bears witness"]}]},
+    "then": "When Jibril asked about the Hour, the Prophet ﷺ said {idea}the one asked knows no more than the one asking.{/idea} Ibn Kathir adds that every fruit from its sheath and every pregnancy is in His knowledge. On the Day, those who worshipped others will say {trap}none of us bears witness to any partner.{/trap}",
+    "now": "You are waiting outside a delivery room, or for test results, or for a harvest of a different kind: a job offer, an answer. {idea}He already knows every detail of what is coming.{/idea} You can hand Him the waiting.",
+    "old": "I need to know what is coming before I can feel calm.",
+    "new": "He knows every birth, every fruit, every hour. My calm can rest on His knowing.",
+    "try": "Name one thing you are anxiously waiting for and give it to Allah in a short dua.",
+    "related": ["79:44", "7:187", "6:59"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:48", "surah": 41, "ayah": 48, "place": "makkah",
+    "title": "What they called on before simply disappears.",
+    "subtitle": "False supports leave when you need them",
+    "picture": {"kind": "boxes", "label": "On that Day", "row": [
+      {"box": "trap", "title": "what they invoked", "sub": ["gone, no benefit"]},
+      {"conn": "and they realize"},
+      {"box": "trap", "title": "no escape", "sub": []}]},
+    "key": {"label": "What you lean on", "row": [
+      {"box": "trap", "title": "things that vanish", "sub": [], "strike": true},
+      {"box": "reward", "title": "the One who stays", "sub": []}]},
+    "then": "Ibn Kathir says those they used to invoke {trap}will go away and be of no benefit to them.{/trap} The idolators of Makkah trusted their idols to intercede. On the Day, there would be no refuge from what they had done.",
+    "now": "You lean on a habit to cope: a show, a snack, a scroll. It is there every night. {trap}Then the real crisis comes and it has nothing to offer.{/trap} {reward}The verse asks what will still be there when everything else leaves.{/reward}",
+    "old": "The things I rely on will be there when I really need them.",
+    "new": "Only Allah remains when every other support disappears. He is the one to lean on now.",
+    "try": "Next time you reach for a comfort habit today, make a short dua first.",
+    "related": ["18:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:49", "surah": 41, "ayah": 49, "place": "makkah",
+    "title": "Never tired of asking, quick to lose hope.",
+    "subtitle": "How we swing between wanting and despair",
+    "picture": {"kind": "boxes", "label": "The human swing", "row": [
+      {"box": "people", "title": "asking for good", "sub": ["wealth, health, never tired"]},
+      {"conn": "then hardship"},
+      {"box": "trap", "title": "despair", "sub": ["nothing good will come again"]}]},
+    "key": {"label": "After hardship", "row": [
+      {"box": "trap", "title": "it is over", "sub": ["never good again"], "strike": true},
+      {"box": "idea", "title": "keep asking", "sub": ["He has not changed"]}]},
+    "then": "Ibn Kathir says man {idea}never gets bored of asking for good things{/idea} like wealth and health, but when trial or poverty touches him, he {trap}thinks he will never experience anything good again.{/trap} The verse describes a pattern, not one person.",
+    "now": "Your duas are long when you want a promotion. Then the rejection email arrives, and you close the prayer mat for a month. {trap}One hard week and you decide nothing will ever go right.{/trap}",
+    "old": "When something goes wrong, it proves nothing good is coming.",
+    "new": "Hardship is not the end of good. The same Lord I asked yesterday is there today.",
+    "try": "If something has gone wrong this week, make one dua for good anyway, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:50", "surah": 41, "ayah": 50, "place": "makkah",
+    "title": "Relief comes, and he says: I earned this.",
+    "subtitle": "Taking credit for mercy",
+    "picture": {"kind": "boxes", "label": "After the hard times", "row": [
+      {"box": "reward", "title": "a taste of mercy", "sub": ["after adversity"]},
+      {"conn": "he says"},
+      {"box": "trap", "title": "this is mine", "sub": ["I deserve it"]},
+      {"box": "trap", "title": "and if there is a Lord", "sub": ["He will be good to me"]}]},
+    "key": {"label": "Where the good came from", "row": [
+      {"box": "trap", "title": "my merit", "sub": [], "strike": true},
+      {"box": "reward", "title": "His mercy", "sub": ["a taste from Him"]}]},
+    "then": "Ibn Kathir says when good comes after difficulty, he says {trap}this is because of me, I deserve this.{/trap} He doubts the Hour, yet assumes if it comes, Allah will treat him well anyway. Ibn Kathir links this to the verse that {trap}man transgresses when he sees himself as self-sufficient.{/trap}",
+    "now": "The job finally comes through after months of searching. Within a week you are telling people it was your interview skills. {trap}The months of dua are forgotten.{/trap} {reward}It was a taste of mercy.{/reward}",
+    "old": "When things finally go well, it is because I worked for it.",
+    "new": "Every relief after hardship is a mercy tasted from Allah, not a wage I earned.",
+    "try": "Think of one good thing that came after a hard time and thank Allah for it by name.",
+    "related": ["96:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:51", "surah": 41, "ayah": 51, "place": "makkah",
+    "title": "Blessed, he turns away; in trouble, he prays at length.",
+    "subtitle": "Remembering Allah only in emergencies",
+    "picture": {"kind": "boxes", "label": "Two seasons", "row": [
+      {"box": "reward", "title": "blessing", "sub": []},
+      {"conn": "he"},
+      {"box": "trap", "title": "turns away", "sub": ["too proud to obey"]},
+      {"box": "trap", "title": "hardship", "sub": []},
+      {"conn": "he"},
+      {"box": "people", "title": "long duas", "sub": ["many words, one want"]}]},
+    "key": {"label": "When to turn to Him", "row": [
+      {"box": "people", "title": "only in emergencies", "sub": [], "strike": true},
+      {"box": "idea", "title": "in ease and hardship", "sub": ["the same Lord"]}]},
+    "then": "Ibn Kathir says when given favor, man {trap}turns away from obedience and is too proud.{/trap} When difficulty touches him, he makes long supplications, {trap}long on words, short on meaning.{/trap} He links it to the verse of the man who prays lying, sitting and standing, then forgets once the harm is lifted.",
+    "now": "In the hospital waiting room you pray like never before. Two weeks after the all-clear, you are back to skipping Fajr. {idea}The verse is not mocking the dua. It is asking you to keep it going.{/idea}",
+    "old": "I will turn to Allah seriously when I really need Him.",
+    "new": "I need Him in the good days too. Remembering Him in ease keeps me close in hardship.",
+    "try": "Make a dua of thanks today for something that is going well right now.",
+    "related": ["51:39", "10:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:52", "surah": 41, "ayah": 52, "place": "makkah",
+    "title": "What if it really is from Allah?",
+    "subtitle": "A question worth sitting with",
+    "picture": {"kind": "boxes", "label": "The question put to them", "row": [
+      {"box": "idea", "title": "if it is from Allah", "sub": []},
+      {"conn": "and you"},
+      {"box": "trap", "title": "rejected it", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "who is more astray", "sub": ["far from guidance"]}]},
+    "key": {"label": "The risk", "row": [
+      {"box": "people", "title": "nothing to lose", "sub": ["by ignoring it"], "strike": true},
+      {"box": "trap", "title": "everything at stake", "sub": ["if it is true"]}]},
+    "then": "The Prophet ﷺ is told to ask the deniers: {idea}tell me, if this Quran is from Allah and you reject it, what is your position?{/idea} Ibn Kathir says such a person is in {trap}stubborn opposition, on a path far from guidance.{/trap}",
+    "now": "You would not ignore a letter from the bank that says your account is at risk, just in case it is real. {idea}Ask the same honest question about the Quran.{/idea} What if every word is true?",
+    "old": "I can put off taking the Quran seriously until I am sure.",
+    "new": "If it is from Allah, then ignoring it is the biggest risk I could take.",
+    "try": "Ask yourself honestly today: if every verse is true, what one thing would I change?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:53", "surah": 41, "ayah": 53, "place": "makkah",
+    "title": "Signs on the horizons and inside yourselves.",
+    "subtitle": "Proof outside and within, and Allah as Witness",
+    "picture": {"kind": "boxes", "label": "Where the signs are", "row": [
+      {"box": "idea", "title": "the horizons", "sub": ["events in the world"]},
+      {"box": "idea", "title": "within themselves", "sub": ["their own bodies, lives"]},
+      {"conn": "until"},
+      {"box": "reward", "title": "it is clear", "sub": ["this is the truth"]}]},
+    "key": {"label": "What is enough", "row": [
+      {"box": "people", "title": "more proof first", "sub": [], "strike": true},
+      {"box": "idea", "title": "He is Witness", "sub": ["over all things"]}]},
+    "then": "Mujahid and others said the signs included events like {idea}Badr and the conquest of Makkah{/idea}, which the Quraysh lived through. Ibn Kathir adds it may mean {idea}the human body and its design{/idea}, showing the Creator's wisdom. And {reward}Allah is enough as a Witness.{/reward}",
+    "now": "Your heartbeat, without you asking. The way your cut healed by itself. The turn in your life you never planned. {idea}Signs, inside and around you.{/idea} You have been reading them all along without noticing.",
+    "old": "I would believe more firmly if I saw a clear sign.",
+    "new": "Signs are already in the world and in my own body. Allah is witness over everything.",
+    "try": "Put your hand on your chest for a minute today, feel your heartbeat, and say alhamdulillah.",
+    "related": ["4:166"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "41:54", "surah": 41, "ayah": 54, "place": "makkah",
+    "title": "In doubt about meeting their Lord, who surrounds everything.",
+    "subtitle": "The surah ends with the meeting ahead",
+    "picture": {"kind": "boxes", "label": "The close of the surah", "row": [
+      {"box": "trap", "title": "doubt", "sub": ["about the meeting"]},
+      {"conn": "while"},
+      {"box": "idea", "title": "He surrounds all", "sub": ["power, control, knowledge"]}]},
+    "key": {"label": "How the meeting is treated", "row": [
+      {"box": "trap", "title": "irrelevant", "sub": ["no thought, no effort"], "strike": true},
+      {"box": "idea", "title": "certain", "sub": ["and easy for Him"]}]},
+    "then": "Ibn Kathir says they {trap}did not think about the Hour or strive for it; they regarded it as irrelevant.{/trap} But it will come. The surah ends saying {idea}all of creation is under His control and knowledge{/idea}, so bringing the Hour is easy for Him.",
+    "now": "You plan the holiday, the next career step, the kids' schooling. The one meeting that is certain gets no planning at all. {idea}The surah ends by placing it back on your calendar.{/idea}",
+    "old": "Meeting Allah is far off; I will think about it later.",
+    "new": "The meeting with my Lord is certain, and He surrounds everything, including my today.",
+    "try": "Spend two minutes tonight thinking about meeting Allah, and what you hope to bring.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "45:12", "surah": 45, "ayah": 12, "place": "makkah",
+    "title": "He made the sea carry your ships.",
+    "subtitle": "Trade and travel as a gift to thank for",
+    "picture": {"kind": "boxes", "label": "What the sea does", "row": [
+      {"box": "idea", "title": "His command", "sub": ["told the sea to carry"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "ships sail", "sub": ["goods from far away"]},
+      {"box": "people", "title": "you seek bounty", "sub": ["trade and business"]}]},
+    "key": {"label": "Where the goods come from", "row": [
+      {"box": "people", "title": "the supply chain", "sub": ["just logistics"], "strike": true},
+      {"box": "reward", "title": "His bounty", "sub": ["so that you thank"]}]},
+    "then": "Ibn Kathir says Allah {idea}ordered the sea to carry ships{/idea}, so people could seek His bounty {reward}in commercial and business transactions{/reward}, and be thankful for provisions brought from distant lands.",
+    "now": "The bananas in your kitchen crossed an ocean. Your phone was shipped in a container. {reward}Half of what you own floated to you.{/reward} The verse asks you to notice and thank.",
+    "old": "Imported goods are just what shops sell.",
+    "new": "The sea carrying my things to me is a favour from Allah.",
+    "try": "Pick one item in your home that came from overseas and thank Allah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:13", "surah": 45, "ayah": 13, "place": "makkah",
+    "title": "All in the heavens and earth, put at your service.",
+    "subtitle": "Everything is from Him alone",
+    "picture": {"kind": "boxes", "label": "What serves you", "row": [
+      {"box": "plain", "title": "stars", "sub": ["for direction"]},
+      {"box": "plain", "title": "mountains", "sub": ["for stability"]},
+      {"box": "plain", "title": "rivers and seas", "sub": ["for life"]},
+      {"conn": "all"},
+      {"box": "idea", "title": "from Him", "sub": ["without partners"]}]},
+    "key": {"label": "Who gave it", "row": [
+      {"box": "people", "title": "nature, chance", "sub": ["it is just there"], "strike": true},
+      {"box": "idea", "title": "all from Him", "sub": ["for those who think"]}]},
+    "then": "Ibn Kathir names {reward}the stars, the mountains, the seas, the rivers{/reward} and all that people use. Ibn Abbas said: {idea}everything is from Allah{/idea}, without rivals. It is a sign for people who think deeply.",
+    "now": "You flick a switch and the lights come on. You open a tap. A GPS satellite finds you in seconds. {idea}All of it rests on a world that was made to serve you.{/idea}",
+    "old": "The world just happens to be useful to us.",
+    "new": "The world was put at my service, all of it from Him.",
+    "try": "Spend one minute tonight thinking about one thing in nature that serves you every day.",
+    "related": ["16:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:14", "surah": 45, "ayah": 14, "place": "makkah",
+    "title": "Tell the believers to forgive those who harm them.",
+    "subtitle": "Leaving the recompense to Allah",
+    "picture": {"kind": "boxes", "label": "In early Makkah", "row": [
+      {"box": "people", "title": "the believers", "sub": ["facing harm"]},
+      {"conn": "told to"},
+      {"box": "idea", "title": "forgive, endure", "sub": ["so hearts may soften"]},
+      {"conn": "while"},
+      {"box": "idea", "title": "Allah recompenses", "sub": ["each by what they earned"]}]},
+    "key": {"label": "Who settles accounts", "row": [
+      {"box": "trap", "title": "I must get even", "sub": ["or it goes unpaid"], "strike": true},
+      {"box": "idea", "title": "He will repay", "sub": ["nothing is lost"]}]},
+    "then": "Ibn Kathir says in the beginning of Islam, believers were told to {idea}forgive and endure the harm{/idea} of the idolaters, so that their hearts might incline to Islam. Mujahid said those who hope not for Allah's Days are those who {trap}do not appreciate His favours{/trap}. Allah Himself will repay each.",
+    "now": "A relative said something cruel at a family dinner. You replay it at night and plan your comeback. {idea}You can let it go and leave the account with Allah.{/idea}",
+    "old": "If I forgive, they get away with it.",
+    "new": "Forgiving does not erase their deed. It hands the account to Allah.",
+    "try": "Think of one person who hurt you and say: Allah, I leave this with You.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:15", "surah": 45, "ayah": 15, "place": "makkah",
+    "title": "Your good is for you, your harm is on you.",
+    "subtitle": "Every deed comes back to its doer",
+    "picture": {"kind": "boxes", "label": "Where deeds land", "row": [
+      {"box": "reward", "title": "good deed", "sub": ["for yourself"]},
+      {"box": "trap", "title": "bad deed", "sub": ["against yourself"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "return to your Lord", "sub": ["all deeds shown"]}]},
+    "key": {"label": "Who benefits", "row": [
+      {"box": "people", "title": "I do it for them", "sub": ["a favour to others"], "strike": true},
+      {"box": "reward", "title": "I do it for me", "sub": ["it returns to me"]}]},
+    "then": "Right after telling believers to forgive, the verse reminds them: {reward}good is for yourself{/reward}, {trap}evil is against yourself{/trap}. Ibn Kathir says all will return to Allah on the Day, when people and their actions are shown, and He will repay good with good and evil with evil.",
+    "now": "You hold the door, stay late to help a colleague, and no one says thanks. It stings. {reward}That deed is filed under your name, not theirs.{/reward}",
+    "old": "When my kindness goes unnoticed, it was wasted.",
+    "new": "Every good I do is for me, noticed or not.",
+    "try": "Do one kind thing today that no one will ever know was you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:16", "surah": 45, "ayah": 16, "place": "makkah",
+    "title": "Scripture, wisdom and prophethood were given before.",
+    "subtitle": "The Children of Israel received great gifts",
+    "picture": {"kind": "boxes", "label": "What they were given", "row": [
+      {"box": "reward", "title": "the Scripture", "sub": ["Divine Books"]},
+      {"box": "reward", "title": "judgement", "sub": ["understanding and law"]},
+      {"box": "reward", "title": "prophethood", "sub": ["messengers among them"]},
+      {"box": "reward", "title": "good things", "sub": ["food and drink"]}]},
+    "key": {"label": "What a gift brings", "row": [
+      {"box": "people", "title": "a guarantee", "sub": ["we are safe"], "strike": true},
+      {"box": "idea", "title": "a responsibility", "sub": ["to stay true to it"]}]},
+    "then": "Ibn Kathir says Allah mentions the favours He gave the Children of Israel: {reward}revealing Divine Books, sending Messengers, and granting kingship{/reward}, good food and drink, and preference over the nations of their time.",
+    "now": "You grew up with the Quran in the house, a masjid down the road, parents who prayed. {idea}Those are gifts many never had.{/idea} The question is what you are doing with them.",
+    "old": "Having been raised with faith means I am on safe ground.",
+    "new": "Being given much means I will be asked about much.",
+    "try": "List three religious blessings you were given without asking, and thank Allah for each.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:17", "surah": 45, "ayah": 17, "place": "makkah",
+    "title": "They split after knowledge came, out of rivalry.",
+    "subtitle": "Division born of envy, not ignorance",
+    "picture": {"kind": "boxes", "label": "How division came", "row": [
+      {"box": "reward", "title": "clear proofs", "sub": ["knowledge arrived"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "envy", "sub": ["against each other"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "division", "sub": ["Allah will judge it"]}]},
+    "key": {"label": "Why people split", "row": [
+      {"box": "people", "title": "not enough knowledge", "sub": ["confusion"], "strike": true},
+      {"box": "trap", "title": "rivalry", "sub": ["after they knew"]}]},
+    "then": "Ibn Kathir says they were given clear proofs, {trap}yet they differed among themselves after the proof came, out of transgression against each other{/trap}. He says the verse is {idea}a warning to the Muslim Ummah as well{/idea}, not to take the same path.",
+    "now": "Two masjid committees in the same town stop speaking. Both know the same verses. {trap}It is not knowledge they lack. It is the ego in the room.{/trap}",
+    "old": "Arguments in a community are about who is right.",
+    "new": "Many splits come from rivalry, after everyone already knew the truth.",
+    "try": "Next time you disagree with a fellow Muslim, ask: is this about truth or about winning?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:18", "surah": 45, "ayah": 18, "place": "makkah",
+    "title": "You are set on a clear way, so follow it.",
+    "subtitle": "Not the desires of those who do not know",
+    "picture": {"kind": "boxes", "label": "Two directions", "row": [
+      {"box": "idea", "title": "a clear way", "sub": ["revealed from your Lord"]},
+      {"conn": "not"},
+      {"box": "trap", "title": "desires", "sub": ["of those who know not"]}]},
+    "key": {"label": "What I follow", "row": [
+      {"box": "trap", "title": "what is popular", "sub": ["what people want"], "strike": true},
+      {"box": "idea", "title": "the way given", "sub": ["follow it"]}]},
+    "then": "Ibn Kathir says this tells the Prophet ﷺ: {idea}follow what was revealed to you from your Lord{/idea}, and do not follow the desires of those who do not know. It comes right after the warning about splitting.",
+    "now": "Everyone on your timeline has an opinion on how to live, what to want, what to drop. {trap}Their loudness is not knowledge.{/trap} You already have a way. Walk it.",
+    "old": "I should shape my life around what most people think is right.",
+    "new": "I have been given a clear way. Others' desires are not a guide.",
+    "try": "Mute one account today that keeps pulling you away from your values.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:19", "surah": 45, "ayah": 19, "place": "makkah",
+    "title": "Allah is the protector of the mindful.",
+    "subtitle": "Wrongdoers back each other, and it fails",
+    "picture": {"kind": "boxes", "label": "Two kinds of alliance", "row": [
+      {"box": "trap", "title": "wrongdoers", "sub": ["allies of one another"]},
+      {"conn": "versus"},
+      {"box": "reward", "title": "Allah", "sub": ["Protector of the mindful"]}]},
+    "key": {"label": "Whose backing counts", "row": [
+      {"box": "people", "title": "the right crowd", "sub": ["they will cover me"], "strike": true},
+      {"box": "reward", "title": "His protection", "sub": ["darkness to light"]}]},
+    "then": "Ibn Kathir asks what the loyalty of wrongdoers to each other will give them: {trap}only more loss and ruin{/trap}. But {reward}Allah is the Protector of those who have taqwa{/reward}, and He brings them out of darkness into light.",
+    "now": "The group at work that covers for each other's shortcuts. It feels safe to be inside it. {reward}Allah's protection does not depend on being in any crowd.{/reward}",
+    "old": "I am safest when I am inside the strong group.",
+    "new": "The One who protects the mindful is the only backing that holds.",
+    "try": "Do the right thing in one small situation today even if the group does otherwise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:20", "surah": 45, "ayah": 20, "place": "makkah",
+    "title": "Insight for people, and mercy for the certain.",
+    "subtitle": "The Quran as a way of seeing",
+    "picture": {"kind": "boxes", "label": "What the Quran is", "row": [
+      {"box": "idea", "title": "clear insight", "sub": ["for all mankind"]},
+      {"box": "idea", "title": "guidance", "sub": ["the way"]},
+      {"box": "reward", "title": "mercy", "sub": ["for the certain"]}]},
+    "key": {"label": "How I use it", "row": [
+      {"box": "people", "title": "read and close", "sub": ["done for the day"], "strike": true},
+      {"box": "idea", "title": "see through it", "sub": ["lenses for life"]}]},
+    "then": "Ibn Kathir says this refers to the Quran: {idea}a clear insight and evidence for mankind{/idea}, and {reward}a guidance and a mercy for people of certainty{/reward}. Basa'ir means things that help you see.",
+    "now": "New glasses: suddenly the street signs are sharp and you realise how blurry life was. {idea}The Quran is meant to work like that.{/idea} Not just read, but looked through.",
+    "old": "The Quran is something I read, then return to my day.",
+    "new": "The Quran is a lens to see my day through.",
+    "try": "Carry one verse in mind today and look at one situation through it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:21", "surah": 45, "ayah": 21, "place": "makkah",
+    "title": "Do the wrongdoers think they will be treated alike?",
+    "subtitle": "Good and evil are never equal",
+    "picture": {"kind": "boxes", "label": "The assumption", "row": [
+      {"box": "trap", "title": "those who do evil", "sub": ["in life and death"]},
+      {"conn": "equal to?"},
+      {"box": "reward", "title": "believers who do good", "sub": ["in life and death"]}]},
+    "key": {"label": "Is it all the same", "row": [
+      {"box": "trap", "title": "it all evens out", "sub": ["everyone ends the same"], "strike": true},
+      {"box": "idea", "title": "never equal", "sub": ["His justice separates them"]}]},
+    "then": "Ibn Kathir says {idea}the believers and the disbelievers are never equal{/idea}, in this life or the next. Thinking otherwise is a bad thought about Allah's justice. He reports that Tamim ad-Dari once {reward}stood in night prayer until morning reciting only this verse{/reward}.",
+    "now": "You watch someone cheat their way up at work and do fine. You wonder if being honest was pointless. {idea}The verse says it was never the same, and it will not end the same.{/idea}",
+    "old": "In the end, the honest and the cheaters end up in the same place.",
+    "new": "Allah's justice will never treat the doer of good like the doer of evil.",
+    "try": "Recite this verse slowly once tonight, the way Tamim ad-Dari did, and let it sink in.",
+    "related": ["59:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:22", "surah": 45, "ayah": 22, "place": "makkah",
+    "title": "Created in truth, so each soul gets its due.",
+    "subtitle": "Justice is built into creation",
+    "picture": {"kind": "boxes", "label": "Why it was made", "row": [
+      {"box": "idea", "title": "heavens and earth", "sub": ["created in truth"]},
+      {"conn": "so that"},
+      {"box": "people", "title": "each soul", "sub": ["repaid for what it earned"]},
+      {"box": "reward", "title": "no one wronged", "sub": ["not even a little"]}]},
+    "key": {"label": "Will I be treated fairly", "row": [
+      {"box": "people", "title": "no one will notice", "sub": ["my effort is lost"], "strike": true},
+      {"box": "idea", "title": "full justice", "sub": ["nothing missed, no one wronged"]}]},
+    "then": "Ibn Kathir explains created with truth as {idea}created in justice{/idea}, so that each person is recompensed for what he earned, and {reward}they will not be wronged{/reward}. It answers the false assumption of the verse before.",
+    "now": "You were passed over for a promotion you earned. The unfairness sits in your chest. {reward}Nothing you did is lost from the record.{/reward} Full justice is coming.",
+    "old": "Some of my efforts will just disappear unseen.",
+    "new": "Creation was built on justice. Every soul gets exactly its due.",
+    "try": "Think of one unfairness you carry and say: Allah, You are the Just, I trust You with it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "45:23", "surah": 45, "ayah": 23, "place": "makkah",
+    "title": "Have you seen one who made his desire his god?",
+    "subtitle": "When wanting becomes the one who commands",
+    "picture": {"kind": "boxes", "label": "How it works", "row": [
+      {"box": "trap", "title": "desire says good", "sub": ["he does it"]},
+      {"box": "trap", "title": "desire says bad", "sub": ["he leaves it"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "sealed", "sub": ["hearing, heart, sight"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "trap", "title": "what I feel like", "sub": ["my mood rules"], "strike": true},
+      {"box": "idea", "title": "what Allah wants", "sub": ["even against my mood"]}]},
+    "then": "Ibn Kathir describes one who {trap}abides by his lust: whatever it portrays as good he does, whatever it portrays as evil he leaves{/trap}. Allah left him astray after knowledge reached him, so he no longer hears, understands or sees what would help him.",
+    "now": "You skip the prayer because you are not in the mood. You buy it because you want it. You say it because it feels good to say. {trap}Who is actually giving the orders?{/trap}",
+    "old": "Following my feelings is just being true to myself.",
+    "new": "If my desire always decides, it has become my god.",
+    "try": "Today, do one good thing you do not feel like doing, just because Allah wants it.",
+    "related": ["7:186"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

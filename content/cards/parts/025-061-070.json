@@ -1,0 +1,198 @@
+[
+  {
+    "id": "25:61", "surah": 25, "ayah": 61, "place": "makkah",
+    "title": "Great stars, a burning lamp, and a moon that glows.",
+    "subtitle": "The sky as a sign of His blessing",
+    "picture": {"kind": "boxes", "label": "What He placed in the sky", "row": [
+      {"box": "idea", "title": "great stars", "sub": ["giant, adorning the sky"]},
+      {"box": "idea", "title": "a lamp", "sub": ["the sun, shining"]},
+      {"box": "idea", "title": "a glowing moon", "sub": ["lit by another light"]}]},
+    "key": {"label": "Two kinds of light", "row": [
+      {"box": "idea", "title": "the sun", "sub": ["a lamp, its own blaze"]},
+      {"box": "reward", "title": "the moon", "sub": ["gentle, reflected light"]}]},
+    "then": "Allah praises Himself for the beauty He placed in the sky. Ibn Kathir says Al-Buruj are {idea}the giant stars{/idea}, the lamp is {idea}the sun{/idea}, and the moon gives light {reward}illuminated by something else, different from the sun's light{/reward}. He links it to 10:5 and to Nuh's words in 71:15-16.",
+    "now": "You step out of the car late at night and the moon is huge over the car park. You glance and go inside. {idea}The verse opens with Blessed is He{/idea}, asking you to stay and look a little longer.",
+    "old": "The sky is just there, I have seen it a thousand times.",
+    "new": "Every star, the sun and the moon were placed by Him, and they call me to praise Him.",
+    "try": "Tonight, step outside for one minute, look at the sky, and say Tabarak Allah.",
+    "related": ["67:5", "78:13", "10:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:62", "surah": 25, "ayah": 62, "place": "makkah",
+    "title": "Night and day take turns, for whoever wants to remember.",
+    "subtitle": "A second chance built into every day",
+    "picture": {"kind": "boxes", "label": "The cycle", "row": [
+      {"box": "idea", "title": "night", "sub": ["dark"]},
+      {"conn": "follows and is followed by"},
+      {"box": "idea", "title": "day", "sub": ["light"]},
+      {"conn": "for"},
+      {"box": "reward", "title": "remembering and thanks", "sub": ["whoever wants it"]}]},
+    "key": {"label": "A missed chance", "row": [
+      {"box": "trap", "title": "gone for good", "sub": ["I blew it today"], "strike": true},
+      {"box": "reward", "title": "make it up", "sub": ["night after day, day after night"]}]},
+    "then": "Ibn Kathir says the night and day {idea}follow one another so servants know the times of worship{/idea}. Whoever misses something at night can make it up by day, and the other way. He cites the hadith: {reward}Allah spreads His Hand at night for the one who did wrong by day to repent{/reward}, and by day for the one who did wrong by night.",
+    "now": "You lost your temper at work, skipped your prayers, and went to bed feeling like a failure. {reward}The night was already a door held open{/reward}, and the morning is another one.",
+    "old": "Today went badly, so I have ruined it.",
+    "new": "Night and day keep replacing each other so I can always turn back.",
+    "try": "Before sleeping tonight, ask forgiveness for one thing from today, then sleep in peace.",
+    "related": ["14:33", "7:54", "36:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:63", "surah": 25, "ayah": 63, "place": "makkah",
+    "title": "They walk gently, and answer insults with peace.",
+    "subtitle": "The first marks of the servants of the Most Merciful",
+    "picture": {"kind": "boxes", "label": "The servants of the Most Merciful", "row": [
+      {"box": "idea", "title": "walk gently", "sub": ["dignity, no arrogance"]},
+      {"conn": "and when insulted"},
+      {"box": "idea", "title": "say peace", "sub": ["no insult back"]}]},
+    "key": {"label": "Humility", "row": [
+      {"box": "trap", "title": "acting weak", "sub": ["a show of humility"], "strike": true},
+      {"box": "idea", "title": "calm and dignified", "sub": ["purposeful, not proud"]}]},
+    "then": "After all the objections, the surah now shows what the believers look like. Ibn Kathir says they walk {idea}with dignity and humility, not arrogance{/idea}. It does not mean walking like a sick person. When the foolish insult them, {reward}they forgive, overlook, and say only good{/reward}, as the Prophet ﷺ did.",
+    "now": "A driver cuts you off and gestures at you through the window. Someone leaves a rude comment on your post. Your thumb is already typing the reply. {idea}The servants of the Most Merciful say peace and move on.{/idea}",
+    "old": "If I do not hit back, they will think I am weak.",
+    "new": "Answering rudeness with calm is strength the Most Merciful loves in His servants.",
+    "try": "The next time someone is rude to you today, do not reply in kind. Say something calm or say nothing.",
+    "related": ["17:37", "28:55"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:64", "surah": 25, "ayah": 64, "place": "makkah",
+    "title": "Their nights are spent bowing and standing for their Lord.",
+    "subtitle": "What the servants do when no one sees",
+    "picture": {"kind": "boxes", "label": "Their nights", "row": [
+      {"box": "people", "title": "the servants", "sub": ["while others sleep"]},
+      {"conn": "spend the night"},
+      {"box": "idea", "title": "prostrating", "sub": []},
+      {"box": "idea", "title": "standing", "sub": ["for their Lord"]}]},
+    "key": {"label": "The best of nights", "row": [
+      {"box": "plain", "title": "just for sleep", "sub": [], "strike": true},
+      {"box": "reward", "title": "also for Him", "sub": ["even a part of it"]}]},
+    "then": "Ibn Kathir says {reward}their nights are the best of nights{/reward}, spent in worship and obedience. He links it to 51:17, {idea}they slept little by night and asked forgiveness before dawn{/idea}, and to 32:16, their sides forsake their beds.",
+    "now": "Your day belongs to the job, the kids, the commute. The night belongs to the phone. {reward}A few minutes of the night given to Allah{/reward}, when the house is quiet, can be the most honest part of your day.",
+    "old": "Night prayer is for very pious people, not for someone like me.",
+    "new": "Even two short units of prayer at night make my night part of that night.",
+    "try": "Tonight, pray two short units before sleeping, or set an alarm for ten minutes before Fajr.",
+    "related": ["51:17", "32:16", "39:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:65", "surah": 25, "ayah": 65, "place": "makkah",
+    "title": "Even after night prayer, they ask to be saved.",
+    "subtitle": "Worship without self-satisfaction",
+    "picture": {"kind": "boxes", "label": "Their dua", "row": [
+      {"box": "people", "title": "after prayer", "sub": ["standing, prostrating"]},
+      {"conn": "they say"},
+      {"box": "idea", "title": "turn it away from us", "sub": ["the punishment of Hell"]},
+      {"box": "trap", "title": "it clings", "sub": ["it does not fade"]}]},
+    "key": {"label": "After doing good", "row": [
+      {"box": "trap", "title": "I have done enough", "sub": [], "strike": true},
+      {"box": "idea", "title": "still I ask", "sub": ["hope and fear together"]}]},
+    "then": "The same people who spend the night in prayer still say: {idea}Our Lord, avert from us the torment of Hell{/idea}. Al-Hasan explained the word for clinging: {trap}whatever strikes a person and then passes is not that; it is what lasts{/trap}. Their worship did not make them feel safe from it.",
+    "now": "You had a good Ramadan, gave in charity, prayed on time for a month. A quiet thought arrives: I am one of the good ones now. {idea}The servants of the Most Merciful pray and still ask.{/idea}",
+    "old": "I have done a lot of good, so I am safe.",
+    "new": "The more I worship, the more I ask Allah to save me, not the less.",
+    "try": "After your next prayer, ask Allah sincerely to protect you from the Fire.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:66", "surah": 25, "ayah": 66, "place": "makkah",
+    "title": "An evil place to settle and to stay.",
+    "subtitle": "Why they keep asking",
+    "picture": {"kind": "boxes", "label": "What they ask to be kept from", "row": [
+      {"box": "trap", "title": "evil as a settlement", "sub": []},
+      {"box": "trap", "title": "evil as a residence", "sub": []}]},
+    "key": {"label": "Two homes in this surah", "row": [
+      {"box": "trap", "title": "this one", "sub": ["evil to settle in"]},
+      {"box": "reward", "title": "the Garden", "sub": ["best settlement, verse 24"]}]},
+    "then": "The servants' prayer continues: {trap}it is evil as an abode and as a place to rest{/trap}. Ibn Kathir explains, how evil it looks as a dwelling and as a place to stay. The surah keeps placing two homes side by side, and {reward}the servants know which one they want{/reward}.",
+    "now": "You spend months comparing flats, reading reviews, checking the area. You care a lot about where you will live. {idea}The servants care that much about the last home too{/idea}, and they ask for it in their prayers.",
+    "old": "I will think about where I end up when I get older.",
+    "new": "I put effort into where I live here. My final home deserves more.",
+    "try": "Ask Allah tonight for a good final home, in the same words you would use for something you really want.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:67", "surah": 25, "ayah": 67, "place": "makkah",
+    "title": "When they spend, neither wasteful nor stingy, but balanced.",
+    "subtitle": "Money handled in the middle way",
+    "picture": {"kind": "boxes", "label": "Spending", "row": [
+      {"box": "trap", "title": "wasteful", "sub": ["more than they need"], "strike": true},
+      {"box": "idea", "title": "balanced", "sub": ["the fair middle"]},
+      {"box": "trap", "title": "stingy", "sub": ["even to their families"], "strike": true}]},
+    "key": {"label": "What a good spender is", "row": [
+      {"box": "plain", "title": "spends the least", "sub": [], "strike": true},
+      {"box": "idea", "title": "spends rightly", "sub": ["enough, not too much"]}]},
+    "then": "Ibn Kathir says they are {trap}not extravagant, spending more than they need{/trap}, nor {trap}miserly toward their families{/trap}. They follow the fairest way. {idea}The best of matters are those which are moderate.{/idea} He links it to 17:29.",
+    "now": "Payday. The online cart is full by evening. Or the opposite: you save every penny and your kids go without things they actually need. {idea}The verse puts the servant in the middle{/idea}, with a hand neither tied nor fully open.",
+    "old": "Being good with money means spending as little as possible, or I deserve to treat myself.",
+    "new": "The servant of the Most Merciful spends in balance: enough for needs, without waste.",
+    "try": "Look at your last week of spending. Find one waste to cut and one need you have been neglecting.",
+    "related": ["17:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:68", "surah": 25, "ayah": 68, "place": "makkah",
+    "title": "They keep away from three great wrongs.",
+    "subtitle": "No partner with Allah, no unjust killing, no zina",
+    "picture": {"kind": "boxes", "label": "What they avoid", "row": [
+      {"box": "trap", "title": "another god", "sub": ["with Allah"], "strike": true},
+      {"box": "trap", "title": "unjust killing", "sub": ["of a soul He made sacred"], "strike": true},
+      {"box": "trap", "title": "zina", "sub": ["unlawful intimacy"], "strike": true}]},
+    "key": {"label": "The weight of these", "row": [
+      {"box": "plain", "title": "just rules", "sub": [], "strike": true},
+      {"box": "trap", "title": "the gravest sins", "sub": ["the Prophet ﷺ named them"]}]},
+    "then": "Ibn Mas'ud said the Prophet ﷺ was asked which sin is greatest. He said: {trap}that you set up a rival to Allah when He created you{/trap}, then killing one's child, then adultery with a neighbor's wife, and this verse came confirming it. Ibn Abbas reported that people who had done these came asking {reward}if there was a way back{/reward}.",
+    "now": "Most of us will never take a life. But you can see how the big wrongs begin small: a loyalty given to something above Allah, a glance that becomes a chat, anger allowed to grow. {idea}The servants guard the edges, not only the cliff.{/idea}",
+    "old": "I would never do those things, so this verse is not for me.",
+    "new": "The great sins start with small steps, and the servants avoid the steps too.",
+    "try": "Identify one small step in your life that leads toward something serious. Close it today.",
+    "related": ["39:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:69", "surah": 25, "ayah": 69, "place": "makkah",
+    "title": "For those who persist, the punishment is doubled.",
+    "subtitle": "The seriousness, said plainly before the door opens",
+    "picture": {"kind": "boxes", "label": "If they persist", "row": [
+      {"box": "trap", "title": "punishment doubled", "sub": ["on the Day"]},
+      {"box": "trap", "title": "humiliated", "sub": ["staying in disgrace"]},
+      {"conn": "unless"},
+      {"box": "reward", "title": "next verse", "sub": ["those who repent"]}]},
+    "key": {"label": "Why say it so plainly", "row": [
+      {"box": "trap", "title": "to crush hope", "sub": [], "strike": true},
+      {"box": "idea", "title": "to show the weight", "sub": ["before the door opens"]}]},
+    "then": "Ibn Kathir explains the punishment for these sins as {trap}repeated and intensified, in disgrace{/trap}. But the very next verse begins {reward}except those who repent{/reward}. He calls it evidence that even the repentance of a murderer is accepted.",
+    "now": "A doctor tells you the scan is serious, then says: but there is a treatment. You need both sentences. {idea}The weight is said plainly so the way out means something.{/idea}",
+    "old": "Hearing how serious sin is makes me want to give up.",
+    "new": "The seriousness is shown so I take the way back seriously, and it is right there.",
+    "try": "If something heavy weighs on you, read the next verse, 25:70, slowly today.",
+    "related": ["4:93", "4:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "25:70", "surah": 25, "ayah": 70, "place": "makkah",
+    "title": "Repent, believe, do good, and He turns sins into good deeds.",
+    "subtitle": "The most hopeful exception",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "people", "title": "repent, believe, do good", "sub": []},
+      {"conn": "then Allah"},
+      {"box": "trap", "title": "their sins", "sub": ["struck out"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "reward", "title": "good deeds", "sub": ["replaced"]}]},
+    "key": {"label": "My past", "row": [
+      {"box": "trap", "title": "a stain forever", "sub": [], "strike": true},
+      {"box": "reward", "title": "rewritten as good", "sub": ["if I repent"]}]},
+    "then": "Abu Dharr narrated that a man will be shown his minor sins and told: {reward}for every evil deed you now have a good one{/reward}. He will say, O Lord, I did things I do not see here, and {reward}the Prophet ﷺ smiled{/reward}. An old man asked if even his betrayals could be forgiven. He was told: even your betrayals.",
+    "now": "There is something in your past you never tell anyone. It replays in your head at 3am. {reward}Allah does not only erase it for the one who repents. He replaces it with good.{/reward}",
+    "old": "What I did is too much; I can only hope it is ignored.",
+    "new": "If I truly turn back, Allah can turn my worst deeds into good ones.",
+    "try": "Make one honest repentance today for a thing you have kept hidden, then do one good deed after it.",
+    "related": ["39:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

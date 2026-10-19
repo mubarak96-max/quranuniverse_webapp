@@ -1,0 +1,265 @@
+[
+  {
+    "id": "3:83", "surah": 3, "ayah": 83, "place": "madinah",
+    "title": "Everything already submits. Will you choose to?",
+    "subtitle": "Willing or unwilling, all returns to Him",
+    "picture": {"kind": "boxes", "label": "Who submits", "row": [
+      {"box": "people", "title": "heavens and earth", "sub": ["angels, shadows, creatures"]},
+      {"conn": "submit to"},
+      {"box": "idea", "title": "Allah", "sub": ["willingly or unwillingly"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "return to Him", "sub": ["every one of them"]}]},
+    "key": {"label": "Two ways to submit", "row": [
+      {"box": "people", "title": "body only", "sub": ["under His power, unwilling"]},
+      {"box": "reward", "title": "heart and body", "sub": ["the believer's way"]}]},
+    "then": "The verse asks those who wanted another way: is it other than Allah's religion you want? Ibn Kathir explains that {idea}the believer submits in heart and body{/idea}, while the one who refuses {trap}submits in body only{/trap}, because no one escapes His control.",
+    "now": "Your heart beats without asking you. You fall asleep whether you planned to or not. Gravity holds your coffee cup in place. {idea}You already live inside His order.{/idea} {reward}The only choice left is whether your heart joins in.{/reward}",
+    "old": "Submitting to Allah means giving up my freedom.",
+    "new": "I am already held by His order. Choosing to submit is joining willingly what I cannot escape.",
+    "try": "Notice three things in your body today that happen without your permission. Thank Allah for each.",
+    "related": ["13:15", "39:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:84", "surah": 3, "ayah": 84, "place": "madinah",
+    "title": "We believe in all the prophets, without distinction.",
+    "subtitle": "One message from Ibrahim to Muhammad ﷺ",
+    "picture": {"kind": "boxes", "label": "One line of messengers", "row": [
+      {"box": "people", "title": "Ibrahim to Ya'qub", "sub": ["and the twelve tribes"]},
+      {"box": "people", "title": "Musa and Isa", "sub": ["Tawrah and Injil"]},
+      {"box": "people", "title": "what came to us", "sub": ["the Quran"]},
+      {"conn": "all from"},
+      {"box": "idea", "title": "their Lord", "sub": ["one source"]}]},
+    "key": {"label": "How we hold them", "row": [
+      {"box": "trap", "title": "pick favorites", "sub": ["accept some, reject some"], "strike": true},
+      {"box": "idea", "title": "believe in all", "sub": ["and submit to Him"]}]},
+    "then": "The Prophet ﷺ is told to declare faith in Allah and in what came to Ibrahim, Isma'il, Ishaq, Ya'qub, the tribes, Musa, Isa and all the prophets. Ibn Kathir: {idea}Muslims believe in every prophet and every Book Allah sent{/idea}, and {trap}never disbelieve in any of them{/trap}.",
+    "now": "You read the story of Musa ﷺ as if it belongs to someone else's history. Or Isa ﷺ feels like another religion's figure. {idea}They are your prophets too.{/idea} Their stories are your inheritance.",
+    "old": "The earlier prophets belong to other people. Mine is only Muhammad ﷺ.",
+    "new": "Every prophet is part of my faith, and their lessons are written to me as well.",
+    "try": "Read or listen to one short story of a prophet other than Muhammad ﷺ today and take one lesson from it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:85", "surah": 3, "ayah": 85, "place": "madinah",
+    "title": "A way other than submission will not be accepted.",
+    "subtitle": "What counts is the way Allah set",
+    "picture": {"kind": "boxes", "label": "Two paths", "row": [
+      {"box": "idea", "title": "Islam", "sub": ["submission to Allah alone"]},
+      {"box": "trap", "title": "another way", "sub": ["not accepted, a loss"]}]},
+    "key": {"label": "Whose terms", "row": [
+      {"box": "people", "title": "my own version", "sub": ["what feels right to me"], "strike": true},
+      {"box": "idea", "title": "what He legislated", "sub": ["the measure of acceptance"]}]},
+    "then": "This follows the declaration of faith in all prophets. Ibn Kathir explains it as {trap}whoever seeks other than what Allah legislated{/trap}, and cites the Prophet ﷺ: {idea}whoever does a deed not in line with our matter, it is rejected{/idea}.",
+    "now": "You build a little custom religion: keep the parts you like, skip the parts that cost you. A prayer here, a holiday there. {trap}It feels personal and sincere.{/trap} {idea}Sincerity still needs the right shape.{/idea}",
+    "old": "As long as I mean well, the form of my worship doesn't matter.",
+    "new": "Meaning well matters, and so does doing it the way Allah asked.",
+    "try": "Pick one act of worship you do by habit and check today how the Prophet ﷺ actually did it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:86", "surah": 3, "ayah": 86, "place": "madinah",
+    "title": "Turning away after seeing the clear signs.",
+    "subtitle": "When the proof was already in your hands",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "belief", "sub": ["once held"]},
+      {"box": "reward", "title": "witness", "sub": ["the Messenger is true"]},
+      {"box": "reward", "title": "clear signs", "sub": ["came to them"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "turned back", "sub": ["into darkness"]}]},
+    "key": {"label": "Why it is grave", "row": [
+      {"box": "people", "title": "I never knew", "sub": ["a different case"]},
+      {"box": "trap", "title": "I knew and left", "sub": ["a willing leap into blindness"]}]},
+    "then": "Ibn Abbas reported that a man of the Ansar accepted Islam, then left and joined the idolaters. {idea}He later regretted it{/idea} and sent his people to ask if he could repent. These verses came down, through to {reward}Allah is Forgiving, Merciful{/reward}, and he returned.",
+    "now": "You saw an answered dua. You felt peace in a prayer you can still remember. Then a busy year, a new circle, and it all feels distant. {trap}Forgetting what you once saw clearly.{/trap} The man in this story still came back.",
+    "old": "What I felt back then was just a phase.",
+    "new": "The signs I once saw were real. Walking away from them is the danger, and the way back is still open.",
+    "try": "Write down one moment you clearly felt Allah's help. Keep it where you will see it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:87", "surah": 3, "ayah": 87, "place": "madinah",
+    "title": "Their reward is distance from all mercy.",
+    "subtitle": "The outcome of turning away after knowing",
+    "picture": {"kind": "boxes", "label": "Who withdraws mercy", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["first"]},
+      {"box": "people", "title": "the angels", "sub": ["with Him"]},
+      {"box": "people", "title": "all people", "sub": ["together"]},
+      {"conn": "upon"},
+      {"box": "trap", "title": "the one who left", "sub": ["after clear proof"]}]},
+    "key": {"label": "What it is", "row": [
+      {"box": "people", "title": "bad luck", "sub": ["random hardship"], "strike": true},
+      {"box": "trap", "title": "a recompense", "sub": ["the result of a choice"]}]},
+    "then": "The verse describes the outcome for those of the previous verse who {trap}turned away after clear signs{/trap}. The curse means being far from mercy. The next verses keep the door open: {reward}except those who repent{/reward}.",
+    "now": "You keep putting off coming back, as if there is always next month. The verse is sober about where that road ends. {idea}It is a warning given early, while you can still turn.{/idea}",
+    "old": "Consequences are far away. There is no rush.",
+    "new": "A warning is a mercy when it comes in time to change direction.",
+    "try": "Name one thing you have been putting off returning to Allah about. Take the first small step today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:88", "surah": 3, "ayah": 88, "place": "madinah",
+    "title": "No lightening, no delay, once the time has passed.",
+    "subtitle": "Why now is the time to turn",
+    "picture": {"kind": "boxes", "label": "After the end", "row": [
+      {"box": "trap", "title": "not lightened", "sub": ["not even an hour"]},
+      {"box": "trap", "title": "not delayed", "sub": ["no extension"]}]},
+    "key": {"label": "When the door is open", "row": [
+      {"box": "people", "title": "I'll fix it later", "sub": ["there will be time"], "strike": true},
+      {"box": "reward", "title": "now", "sub": ["while it can still be changed"]}]},
+    "then": "This continues the description of those who left the faith after clear proof and stayed away. Ibn Kathir says {trap}the torment will not be lessened, not even for an hour{/trap}. Then comes the exception in the very next verse: {reward}those who repent{/reward}.",
+    "now": "Deadlines at work get extended. Bills can be paid late with a fee. You are used to life giving you one more chance. {idea}Today is the extension.{/idea}",
+    "old": "There is always more time to make things right.",
+    "new": "There is a last day for turning back, and today is still before it.",
+    "try": "Make one sincere istighfar today, in your own words, for something specific.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:89", "surah": 3, "ayah": 89, "place": "madinah",
+    "title": "Except those who repent and set things right.",
+    "subtitle": "The door that stays open",
+    "picture": {"kind": "boxes", "label": "The way back", "row": [
+      {"box": "people", "title": "repent", "sub": ["turn back to Allah"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "set right", "sub": ["fix what was broken"]},
+      {"conn": "meets"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["Allah"]}]},
+    "key": {"label": "After a fall", "row": [
+      {"box": "trap", "title": "too late for me", "sub": ["I went too far"], "strike": true},
+      {"box": "reward", "title": "except", "sub": ["the one who turns back"]}]},
+    "then": "After the warnings comes one word: except. This is the verse the man from the Ansar heard. Ibn Kathir calls it a sign of {reward}Allah's kindness, compassion and mercy{/reward} toward those who {idea}repent to Him{/idea}.",
+    "now": "You left prayer for years. You said things about faith you regret. You think the door shut behind you. {reward}Read the word \"except\" again.{/reward} {idea}Turn back, then repair one thing.{/idea}",
+    "old": "After what I did, there is no way back for me.",
+    "new": "Repentance plus repair is always met by a Forgiving, Merciful Lord.",
+    "try": "Repent sincerely for one thing, then do one concrete act that sets it right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:90", "surah": 3, "ayah": 90, "place": "madinah",
+    "title": "Repentance at the very end is not accepted.",
+    "subtitle": "Leaving again and again until death",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "people", "title": "believe", "sub": ["at first"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "leave", "sub": ["and keep increasing"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "death arrives", "sub": ["repentance too late"]}]},
+    "key": {"label": "When it counts", "row": [
+      {"box": "trap", "title": "at the last breath", "sub": ["no longer accepted"]},
+      {"box": "reward", "title": "while living", "sub": ["the door of 3:89"]}]},
+    "then": "Ibn Abbas reported some people accepted Islam, left, returned, and left again. Ibn Kathir explains the verse is about those who {trap}insist until death{/trap}, linking it to {idea}repentance being of no effect when death is already present{/idea}.",
+    "now": "\"I'll get serious when I'm older.\" You say it at twenty, then at forty. A phone call from a hospital reminds you that no one gets a schedule. {idea}Repentance works best while it still feels early.{/idea}",
+    "old": "I can always turn back at the end.",
+    "new": "Turning back is a gift of the living. I don't get to choose my last day.",
+    "try": "Do the thing you planned to do \"when you are older\" in its smallest form today.",
+    "related": ["4:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:91", "surah": 3, "ayah": 91, "place": "madinah",
+    "title": "An earth full of gold could not ransom them.",
+    "subtitle": "What could have been given, cheaply, in life",
+    "picture": {"kind": "boxes", "label": "The offer too late", "row": [
+      {"box": "reward", "title": "earth full of gold", "sub": ["offered as ransom"]},
+      {"conn": "rejected"},
+      {"box": "trap", "title": "no helpers", "sub": ["no one to rescue"]}]},
+    "key": {"label": "What was asked", "row": [
+      {"box": "reward", "title": "all the gold", "sub": ["on that Day"], "strike": true},
+      {"box": "idea", "title": "something easier", "sub": ["faith, asked in this life"]}]},
+    "then": "Ibn Kathir cites the Prophet ﷺ: a man is asked whether he would ransom himself with the earth's fill of gold, and he says yes. He is told {idea}I asked you for what is less and easier than that{/idea}. He was also asked about a generous man, and said it did not help because {trap}he never once asked, Lord, forgive my sins{/trap}.",
+    "now": "You give to charity, help neighbors, show up for people. All good. But you have never once sat down and said, \"My Lord, forgive me.\" {idea}What Allah asks is small, and it is asked now.{/idea}",
+    "old": "If I do enough good, I won't need to turn to Allah.",
+    "new": "Good deeds need a heart turned to Allah. What He asks is much less than gold.",
+    "try": "Say \"Rabbi ighfir li khati'ati yawm ad-din\" (my Lord, forgive my sins on the Day of Judgment) once today, meaning it.",
+    "related": ["2:123", "14:31", "5:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:92", "surah": 3, "ayah": 92, "place": "madinah",
+    "title": "You won't reach righteousness until you give what you love.",
+    "subtitle": "Giving the best, not the leftovers",
+    "picture": {"kind": "boxes", "label": "Abu Talhah's garden", "row": [
+      {"box": "reward", "title": "Bayruha", "sub": ["his most loved property"]},
+      {"conn": "given for"},
+      {"box": "idea", "title": "Allah", "sub": ["\"I hope for its reward\""]},
+      {"conn": "to"},
+      {"box": "people", "title": "his relatives", "sub": ["on the Prophet's advice ﷺ"]}]},
+    "key": {"label": "What to give", "row": [
+      {"box": "people", "title": "what I don't need", "sub": ["old clothes, spare change"], "strike": true},
+      {"box": "reward", "title": "what I love", "sub": ["profitable wealth"]}]},
+    "then": "Abu Talhah owned a garden facing the Prophet's mosque ﷺ, where the Prophet ﷺ would drink its water. Hearing this verse he gave it away. The Prophet ﷺ said {reward}that is profitable wealth{/reward} and advised giving it to his relatives. Umar asked the same about {idea}his most precious land in Khaybar{/idea}.",
+    "now": "Clearing out the closet for the donation bin, you give the jacket you never wear. The one you love stays on the hanger. {idea}Righteousness lives in the second one.{/idea} {reward}It is not loss. It is profit.{/reward}",
+    "old": "Giving what I don't need is still generous.",
+    "new": "The giving that reaches righteousness is the giving that costs me something I love.",
+    "try": "Give one thing today that you actually like, not just what you can spare.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:93", "surah": 3, "ayah": 93, "place": "madinah",
+    "title": "Bring the Torah and read it, if you are truthful.",
+    "subtitle": "Settling a dispute by going to the source",
+    "picture": {"kind": "boxes", "label": "The history", "row": [
+      {"box": "idea", "title": "all food lawful", "sub": ["before the Torah"]},
+      {"conn": "except"},
+      {"box": "people", "title": "Israel's vow", "sub": ["camel meat and milk, in illness"]},
+      {"conn": "test"},
+      {"box": "reward", "title": "bring the Torah", "sub": ["read it aloud"]}]},
+    "key": {"label": "How to settle it", "row": [
+      {"box": "people", "title": "louder claims", "sub": ["who argues harder"], "strike": true},
+      {"box": "idea", "title": "open the source", "sub": ["and read it together"]}]},
+    "then": "Some claimed laws had never changed. Ibn Kathir records that the Prophet ﷺ reminded them Israel (Ya'qub) {idea}vowed during a long illness to give up his favorite food and drink{/idea}, and they agreed. The verse invites them: {reward}bring the Torah and recite it{/reward}.",
+    "now": "A family argument about what grandfather really said in his will. A heated thread about what a study proved. Everyone is sure. {idea}Go get the document and read it together.{/idea}",
+    "old": "Whoever argues the most confidently must be right.",
+    "new": "The fair way to settle a claim is to open the source and read it honestly.",
+    "try": "In your next disagreement, suggest checking the original source together before arguing further.",
+    "related": ["3:92", "2:177", "76:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:94", "surah": 3, "ayah": 94, "place": "madinah",
+    "title": "Inventing lies about Allah after the proof is wrongdoing.",
+    "subtitle": "When the evidence is in and you still insist",
+    "picture": {"kind": "boxes", "label": "After the evidence", "row": [
+      {"box": "reward", "title": "the source read", "sub": ["the matter is clear"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a lie invented", "sub": ["attributed to Allah"]}]},
+    "key": {"label": "What it makes you", "row": [
+      {"box": "people", "title": "just stubborn", "sub": ["a strong opinion"], "strike": true},
+      {"box": "trap", "title": "a wrongdoer", "sub": ["the verse's own word"]}]},
+    "then": "After the call to bring the Torah, the verse says whoever still {trap}invents a lie about Allah{/trap} is the wrongdoer. Ibn Kathir explains it as those who claimed Allah would never send another prophet, {idea}though evidence showed laws had changed before{/idea}.",
+    "now": "You checked. The source says you were wrong. Now comes the moment where you could say \"I see\" or find a new angle to keep your position. {idea}Saying \"I was wrong\" is the honest exit.{/idea}",
+    "old": "Admitting I was wrong makes me look weak.",
+    "new": "Holding on after the proof is clear turns a mistake into wrongdoing.",
+    "try": "Admit one thing you were wrong about recently, out loud, to the person involved.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:95", "surah": 3, "ayah": 95, "place": "madinah",
+    "title": "Allah has spoken the truth. Follow Ibrahim's upright way.",
+    "subtitle": "Back to the shared root",
+    "picture": {"kind": "boxes", "label": "The way", "row": [
+      {"box": "idea", "title": "Allah spoke truth", "sub": ["in the Quran"]},
+      {"conn": "so follow"},
+      {"box": "reward", "title": "Ibrahim", "sub": ["hanif, inclining to truth"]},
+      {"conn": "who was"},
+      {"box": "trap", "title": "no idolater", "sub": ["never associated partners"], "strike": true}]},
+    "key": {"label": "After the argument", "row": [
+      {"box": "people", "title": "winning the debate", "sub": ["the end goal"], "strike": true},
+      {"box": "idea", "title": "following the way", "sub": ["the actual goal"]}]},
+    "then": "After the debate, the Prophet ﷺ is told to say: {idea}Allah has spoken the truth{/idea}, so follow the religion of Ibrahim. Ibn Kathir calls it {reward}the straight, complete and clear way{/reward}, and cites other verses that say the same.",
+    "now": "You spent an hour arguing about religion online and haven't prayed yet. You know every counterpoint and none of the practice. {idea}The argument ends. The way begins.{/idea}",
+    "old": "Knowing I'm right is the main thing.",
+    "new": "Truth is meant to be followed, the way Ibrahim followed it, not just defended.",
+    "try": "After your next religious discussion, go and do one act of worship before anything else.",
+    "related": ["6:161", "16:123"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

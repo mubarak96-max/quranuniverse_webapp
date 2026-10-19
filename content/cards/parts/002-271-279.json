@@ -1,0 +1,192 @@
+[
+  {
+    "id": "2:271", "surah": 2, "ayah": 271, "place": "madinah",
+    "title": "Giving openly is good. Giving secretly to the poor is better.",
+    "subtitle": "So hidden your left hand does not know",
+    "picture": {"kind": "boxes", "label": "Two ways to give", "row": [
+      {"box": "reward", "title": "openly", "sub": ["good, may inspire others"]},
+      {"box": "reward", "title": "in secret", "sub": ["better for you"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "sins wiped away", "sub": ["some of them"]}]},
+    "key": {"label": "What secrecy protects", "row": [
+      {"box": "people", "title": "people should know", "sub": ["it builds my name"], "strike": true},
+      {"box": "idea", "title": "the heart from showing off", "sub": ["shade on the Day"]}]},
+    "then": "Ibn Kathir says concealing charity is better because {idea}it protects you from showing off{/idea}, though open giving is better when others will copy it. Among the seven shaded on the Day is {reward}one who gives so secretly that his left hand does not know what his right gave{/reward}.",
+    "now": "The bank transfer with no reference name. The envelope slipped under a neighbor's door. The bill quietly paid at the counter for the family behind you. {reward}No one claps.{/reward} That is the point.",
+    "old": "If no one knows I gave, it does not inspire anyone.",
+    "new": "Open giving has its place, but my secret gifts protect my heart and reach Allah directly.",
+    "try": "Give one anonymous gift today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:272", "surah": 2, "ayah": 272, "place": "madinah",
+    "title": "Guiding them is not your job. Your giving is for you.",
+    "subtitle": "Kindness to those who do not share your faith",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "polytheist relatives", "sub": ["in need"]},
+      {"conn": "should we"},
+      {"box": "plain", "title": "give to them?", "sub": ["the Companions hesitated"]},
+      {"conn": "the verse"},
+      {"box": "reward", "title": "yes, for Allah's Face", "sub": ["repaid in full"]}]},
+    "key": {"label": "Whose job is guidance", "row": [
+      {"box": "people", "title": "only help those who believe", "sub": ["the deserving"], "strike": true},
+      {"box": "idea", "title": "Allah guides; you give", "sub": ["your reward is safe"]}]},
+    "then": "Ibn Abbas said the Companions {trap}disliked giving charity to their polytheist relatives{/trap}, until this verse came. Ata said you will not be asked about the receiver. The Prophet ﷺ told of a man who unknowingly gave to a thief, a rich man, and an adulteress; he was told {reward}your charity was accepted{/reward}, perhaps it would change them.",
+    "now": "Your uncle who mocks your faith is struggling with rent. The neighbor of another religion just lost her job. {idea}You are not their judge, and you do not control their hearts.{/idea} Help them for Allah's sake.",
+    "old": "My charity should only go to people who deserve it.",
+    "new": "Guidance belongs to Allah; my job is to give sincerely, and the reward is mine.",
+    "try": "Do one kind, practical thing for a relative or neighbor you disagree with.",
+    "related": ["41:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:273", "surah": 2, "ayah": 273, "place": "madinah",
+    "title": "The neediest are often the ones too dignified to ask.",
+    "subtitle": "Look for the poor who look fine",
+    "picture": {"kind": "boxes", "label": "Hidden need", "row": [
+      {"box": "people", "title": "they look well-off", "sub": ["neat clothes, quiet"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "cannot earn", "sub": ["restricted, stuck"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "do not beg", "sub": ["you know them by signs"]}]},
+    "key": {"label": "Who the needy are", "row": [
+      {"box": "people", "title": "the one asking loudest", "sub": ["visible need"], "strike": true},
+      {"box": "idea", "title": "the one who never asks", "sub": ["no one notices"]}]},
+    "then": "These were {idea}emigrants in Madinah who had left everything{/idea} and could not travel to earn. The ignorant {trap}thought them rich because of their restraint{/trap}. The Prophet ﷺ said the truly needy is not the one turned away by a date or two, but {idea}the one who has not enough, whom no one notices, and who asks no one{/idea}.",
+    "now": "The colleague who always says she is fine but brings no lunch. The student who never joins the group meals. The single dad who keeps quiet. {idea}Look again.{/idea} Find a way to give that does not cost them their dignity.",
+    "old": "If someone needed help, they would ask for it.",
+    "new": "The people most in need are often silent, and I should look for them.",
+    "try": "Think of one person who might be quietly struggling. Find a gentle way to help.",
+    "related": ["48:29", "47:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:274", "surah": 2, "ayah": 274, "place": "madinah",
+    "title": "Night and day, secret and open: giving as a way of life.",
+    "subtitle": "Generosity in every season",
+    "picture": {"kind": "boxes", "label": "Every kind of time", "row": [
+      {"box": "reward", "title": "night", "sub": ["when no one sees"]},
+      {"box": "reward", "title": "day", "sub": ["in plain view"]},
+      {"box": "reward", "title": "secret, public", "sub": ["both"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "reward with their Lord", "sub": ["no fear, no grief"]}]},
+    "key": {"label": "What kind of giver", "row": [
+      {"box": "people", "title": "giving in Ramadan only", "sub": ["a seasonal habit"], "strike": true},
+      {"box": "idea", "title": "giving at all times", "sub": ["a character"]}]},
+    "then": "This verse closes the long passage on charity with a portrait: people who give {reward}by night and by day, secretly and publicly{/reward}. Not one big donation, but a life. Their reward is with their Lord, and {idea}no fear or grief{/idea} touches them.",
+    "now": "You give generously in the last ten nights of Ramadan, then the rest of the year it stops. {idea}What if giving were part of your Tuesday?{/idea} A small regular amount, at any hour, in any mood.",
+    "old": "Charity is something I do at special times.",
+    "new": "Giving can be the rhythm of my ordinary days and nights.",
+    "try": "Set up a small, regular donation today, even a tiny one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:275", "surah": 2, "ayah": 275, "place": "madinah",
+    "title": "They said trade and riba are the same. Allah drew the line.",
+    "subtitle": "Profiting from another's need versus fair exchange",
+    "picture": {"kind": "boxes", "label": "Two dealings", "row": [
+      {"box": "reward", "title": "trade", "sub": ["fair exchange, shared risk"]},
+      {"conn": "not the same as"},
+      {"box": "trap", "title": "riba", "sub": ["gain from someone's debt"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "the past forgiven", "sub": ["for whoever stops"]}]},
+    "key": {"label": "The argument", "row": [
+      {"box": "people", "title": "it is all just business", "sub": ["same thing"], "strike": true},
+      {"box": "idea", "title": "Allah knows the harm", "sub": ["He permitted one, forbade one"]}]},
+    "then": "This passage follows the verses on charity, as Ibn Kathir notes: {reward}the givers{/reward} are followed by {trap}those who take people's money unjustly{/trap}. The argument, trade is just like riba, is answered: Allah permitted one and forbade the other. He knows what harms His servants and is {idea}more merciful to them than a mother to her infant{/idea}. Whoever stops, the past is with Allah.",
+    "now": "Being sure every deal is fair can feel complicated. {idea}Notice the heart of it: does my gain come from someone else's desperation?{/idea} Umar himself said some types of riba were not clear to him. Ask people of knowledge, and take the door the verse leaves open.",
+    "old": "Money is money; how it grows is just business.",
+    "new": "How my money grows matters to Allah, and there is always a way back for whoever turns.",
+    "try": "Look at one of your financial dealings honestly, and ask someone knowledgeable one question about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:276", "surah": 2, "ayah": 276, "place": "madinah",
+    "title": "Allah drains what riba gathers and grows what charity gives.",
+    "subtitle": "The hidden arithmetic of money",
+    "picture": {"kind": "boxes", "label": "Two directions", "row": [
+      {"box": "trap", "title": "riba", "sub": ["looks like growth"]},
+      {"conn": "Allah"},
+      {"box": "trap", "title": "wipes it out", "sub": ["no blessing left"]},
+      {"box": "reward", "title": "charity", "sub": ["looks like loss"]},
+      {"conn": "Allah"},
+      {"box": "reward", "title": "raises it", "sub": ["to a mountain"]}]},
+    "key": {"label": "What really grows", "row": [
+      {"box": "people", "title": "the bigger number", "sub": ["the balance"], "strike": true},
+      {"box": "idea", "title": "what Allah blesses", "sub": ["a date becomes a mountain"]}]},
+    "then": "Ibn Mas'ud said riba {trap}ends up with less, even if it was a lot{/trap}. The Prophet ﷺ said that whoever gives even a date from honest earnings, {reward}Allah takes it in His right hand and raises it, as one raises a foal, until it is like a mountain{/reward}.",
+    "now": "The account keeps growing, but somehow there is never any peace in the house. Meanwhile the family who give from a small income always seem to have enough. {idea}Barakah does not show up on a statement.{/idea}",
+    "old": "Giving shrinks my money and clever deals make it grow.",
+    "new": "Allah removes the blessing from unjust gain and grows a single honest date into a mountain.",
+    "try": "Give the value of a date from honest money today and picture it growing.",
+    "related": ["5:100", "30:39"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:277", "surah": 2, "ayah": 277, "place": "madinah",
+    "title": "Faith, good deeds, prayer, zakah: and then no fear.",
+    "subtitle": "The steady life set beside the anxious chase",
+    "picture": {"kind": "boxes", "label": "The four", "row": [
+      {"box": "idea", "title": "believe", "sub": ["the root"]},
+      {"box": "idea", "title": "do good", "sub": ["kind to creation"]},
+      {"box": "idea", "title": "pray", "sub": ["established"]},
+      {"box": "idea", "title": "give zakah", "sub": ["the due on wealth"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "no fear, no grief", "sub": ["reward with their Lord"]}]},
+    "key": {"label": "Where security comes from", "row": [
+      {"box": "people", "title": "more money", "sub": ["by any means"], "strike": true},
+      {"box": "reward", "title": "a steady life with Allah", "sub": ["safe on the Day"]}]},
+    "then": "Between the verses on riba, Allah sets a contrast. Ibn Kathir says the riba-taker is {trap}not satisfied with the pure provision Allah gave{/trap}. Then come those who believe, are kind to creation, pray and give: {reward}their reward is with their Lord, no fear, no grief{/reward}.",
+    "now": "You lie awake doing sums, chasing the next side hustle, refreshing the crypto app. {idea}The verse offers a different kind of security.{/idea} Pray on time, give what is due, be kind. Let that be the floor under you.",
+    "old": "I will feel safe once I have enough money.",
+    "new": "Faith, prayer and giving are the real safety net, here and on the Day.",
+    "try": "Check that your zakah or regular giving is up to date, and pray your next prayer on time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:278", "surah": 2, "ayah": 278, "place": "madinah",
+    "title": "Let go of what is still owed in riba, if you believe.",
+    "subtitle": "Walking away from money you were counting on",
+    "picture": {"kind": "boxes", "label": "The case at Makkah", "row": [
+      {"box": "people", "title": "two tribes", "sub": ["old riba unpaid"]},
+      {"conn": "one said"},
+      {"box": "idea", "title": "no riba in Islam", "sub": ["we will not pay it"]},
+      {"conn": "the verse"},
+      {"box": "reward", "title": "we repent", "sub": ["they let it go"]}]},
+    "key": {"label": "What faith asks", "row": [
+      {"box": "people", "title": "it was agreed before", "sub": ["so I can still collect"], "strike": true},
+      {"box": "idea", "title": "let it go for Allah", "sub": ["if you are believers"]}]},
+    "then": "Zayd bin Aslam and others said Thaqif demanded old riba from Banu al-Mughirah after both became Muslim. Banu al-Mughirah said: {idea}we do not pay riba in Islam{/idea}. The governor of Makkah wrote to the Prophet ﷺ, and this verse came. They said: {reward}we repent to Allah and abandon what is left{/reward}.",
+    "now": "Money you were promised, money you had already planned to spend. {trap}Letting it go feels like losing.{/trap} The verse asks for taqwa exactly there, at the point where it costs you something real.",
+    "old": "Giving up money I am entitled to is just foolish.",
+    "new": "Leaving unjust gain behind for Allah is what faith looks like when it costs me.",
+    "try": "Name one gain you suspect is not clean. Ask someone with knowledge how to make it right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:279", "surah": 2, "ayah": 279, "place": "madinah",
+    "title": "Keep your capital. Do no wrong, and suffer no wrong.",
+    "subtitle": "A fair deal that cuts both ways",
+    "picture": {"kind": "boxes", "label": "The settlement", "row": [
+      {"box": "trap", "title": "keep taking riba", "sub": ["a war with Allah"]},
+      {"conn": "or"},
+      {"box": "reward", "title": "repent", "sub": ["capital is yours"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "no one wronged", "sub": ["no more, no less"]}]},
+    "key": {"label": "What fairness means", "row": [
+      {"box": "people", "title": "repenting means losing all", "sub": ["so why bother"], "strike": true},
+      {"box": "idea", "title": "your capital stays", "sub": ["no injustice either way"]}]},
+    "then": "The warning is the starkest in the passage: {trap}a war from Allah and His Messenger{/trap}. Yet the door stays open: {reward}if you repent, your capital is yours{/reward}. At the Farewell Hajj the Prophet ﷺ cancelled old riba, starting with his own uncle al-Abbas's: {idea}you take back your capital, wronging no one and not wronged{/idea}.",
+    "now": "You are afraid that turning back means losing everything you built. {reward}It does not.{/reward} The verse protects you as well as the other person: you keep what is fairly yours. Repentance is not ruin.",
+    "old": "If I try to fix this, I will lose everything.",
+    "new": "Allah lets me keep what is fairly mine; only the injustice has to go.",
+    "try": "Write down one step you could take this month toward cleaner money.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

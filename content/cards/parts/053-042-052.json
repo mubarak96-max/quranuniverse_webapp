@@ -1,0 +1,220 @@
+[
+  {
+    "id": "53:42", "surah": 53, "ayah": 42, "place": "makkah",
+    "title": "To your Lord is the final end.",
+    "subtitle": "Every road ends at the same place",
+    "picture": {"kind": "boxes", "label": "Where everything returns", "row": [
+      {"box": "people", "title": "every life", "sub": ["every path, every plan"]},
+      {"conn": "returns to"},
+      {"box": "idea", "title": "your Lord", "sub": ["the end point"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "Paradise", "sub": []},
+      {"box": "trap", "title": "or the Fire", "sub": []}]},
+    "key": {"label": "What the end is", "row": [
+      {"box": "trap", "title": "the grave", "sub": ["the final stop"], "strike": true},
+      {"box": "idea", "title": "your Lord", "sub": ["the real destination"]}]},
+    "then": "Ibn Kathir says this is {idea}the return of everything on the Day of Resurrection{/idea}. Mu'adh bin Jabal stood among the tribe of Awd and said he was the Prophet's ﷺ envoy to them: {idea}know that the return is to Allah{/idea}, to Paradise or the Fire.",
+    "now": "You map out a career path, a five-year plan, a retirement date. Every plan has a last line. {idea}This verse writes the true last line for all of them.{/idea}",
+    "old": "My plans end where my life ends.",
+    "new": "Every road I take ends with my Lord.",
+    "try": "Look at one plan you are making and ask: how does this end with Allah?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:43", "surah": 53, "ayah": 43, "place": "makkah",
+    "title": "He makes you laugh, and He makes you weep.",
+    "subtitle": "Both your tears and your laughter come from Him",
+    "picture": {"kind": "boxes", "label": "Two opposites", "row": [
+      {"box": "reward", "title": "laughter", "sub": ["and its causes"]},
+      {"box": "people", "title": "tears", "sub": ["and their causes"]},
+      {"conn": "both from"},
+      {"box": "idea", "title": "Allah", "sub": ["who created the ability"]}]},
+    "key": {"label": "Who is behind the mood", "row": [
+      {"box": "trap", "title": "pure chance", "sub": ["good day, bad day"], "strike": true},
+      {"box": "idea", "title": "His creation", "sub": ["the ability and the cause"]}]},
+    "then": "Ibn Kathir says Allah {idea}created in His creatures the ability to laugh or weep{/idea}, and the causes for each. Both opposites are His work. The listeners of Makkah are being shown a Lord who is present in their most ordinary moments.",
+    "now": "Morning: a voice note from your child that makes you laugh out loud. Evening: a call from the hospital. {idea}Both moments come from the same Lord.{/idea} Neither is outside His care.",
+    "old": "My good days are luck and my bad days are bad luck.",
+    "new": "Both my laughter and my tears come from Him, so I can turn to Him in both.",
+    "try": "The next time you laugh today, say Alhamdulillah. The next time you cry, say it too.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:44", "surah": 53, "ayah": 44, "place": "makkah",
+    "title": "He causes death, and He gives life.",
+    "subtitle": "The two doors only He opens",
+    "picture": {"kind": "boxes", "label": "His work", "row": [
+      {"box": "people", "title": "death", "sub": ["created by Him"]},
+      {"box": "reward", "title": "life", "sub": ["created by Him"]},
+      {"conn": "both by"},
+      {"box": "idea", "title": "Allah", "sub": []}]},
+    "key": {"label": "Who holds the keys", "row": [
+      {"box": "trap", "title": "doctors, fate, chance", "sub": ["decide it"], "strike": true},
+      {"box": "idea", "title": "He alone", "sub": ["Creator of death and life"]}]},
+    "then": "Ibn Kathir links this to another verse: {idea}He who created death and life{/idea}, to test which of you is best in deeds. The surah keeps listing what only Allah does, against the idols named earlier.",
+    "now": "A maternity ward and an ICU on the same floor of the same hospital. You walk past both on the way to the lift. {idea}Every arrival and every departure there is His decision.{/idea}",
+    "old": "Life and death are decided by medicine and luck.",
+    "new": "Only He gives life and only He takes it, so my days are in His hand.",
+    "try": "Visit or call someone who is ill today.",
+    "related": ["67:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:45", "surah": 53, "ayah": 45, "place": "makkah",
+    "title": "He created the pairs, male and female.",
+    "subtitle": "Two kinds, both His design",
+    "picture": {"kind": "boxes", "label": "The pairs", "row": [
+      {"box": "people", "title": "male", "sub": []},
+      {"box": "people", "title": "female", "sub": []},
+      {"conn": "created by"},
+      {"box": "idea", "title": "Allah", "sub": ["in due proportion"]}]},
+    "key": {"label": "Answering the earlier claim", "row": [
+      {"box": "trap", "title": "daughters for Allah", "sub": ["their invention"], "strike": true},
+      {"box": "idea", "title": "He creates both", "sub": ["male and female"]}]},
+    "then": "Earlier the surah rejected the claim that angels were Allah's daughters. Now it states that {idea}He creates both male and female{/idea}. Ibn Kathir links it to another surah: was he not a drop, then a clot, then shaped, then made into two sexes?",
+    "now": "You look at a scan on the screen, waiting to hear boy or girl. {idea}Neither choice is yours, and both are His creation.{/idea} The verse puts that moment back in His hands.",
+    "old": "One kind of child is more of a blessing than the other.",
+    "new": "Both male and female are His creation and His gift.",
+    "try": "Thank Allah today, by name, for each child or sibling in your family.",
+    "related": ["75:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:46", "surah": 53, "ayah": 46, "place": "makkah",
+    "title": "From a tiny drop, a whole person.",
+    "subtitle": "The humble beginning of everyone",
+    "picture": {"kind": "boxes", "label": "The start", "row": [
+      {"box": "plain", "title": "a drop", "sub": ["when it is emitted"]},
+      {"conn": "becomes"},
+      {"box": "people", "title": "a person", "sub": ["male or female"]}]},
+    "key": {"label": "What that proves", "row": [
+      {"box": "idea", "title": "He made this", "sub": ["from almost nothing"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "He can raise the dead", "sub": ["is He not able?"]}]},
+    "then": "Ibn Kathir cites the verse: {trap}does man think he will be left neglected?{/trap} Was he not a drop? Then a clot, then shaped. It ends: {idea}is He not able to give life to the dead?{/idea} The beginning argues for the return.",
+    "now": "You hold a newborn in the hospital and cannot believe something this whole began so small. {idea}The same power is behind the promise of resurrection.{/idea} Your start is proof of your return.",
+    "old": "Resurrection is too hard to believe.",
+    "new": "If He made me from a drop, bringing me back is not hard for Him.",
+    "try": "Look at your own hand for ten seconds and remember it began as a drop.",
+    "related": ["75:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:47", "surah": 53, "ayah": 47, "place": "makkah",
+    "title": "Upon Him is the second creation.",
+    "subtitle": "He made you once. He will make you again.",
+    "picture": {"kind": "boxes", "label": "Two creations", "row": [
+      {"box": "people", "title": "first creation", "sub": ["from a drop"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the next creation", "sub": ["resurrection"]}]},
+    "key": {"label": "Is the second harder", "row": [
+      {"box": "trap", "title": "impossible", "sub": ["what doubters claim"], "strike": true},
+      {"box": "idea", "title": "the same Maker", "sub": ["just as He began it"]}]},
+    "then": "Ibn Kathir explains: {idea}just as He first originated creation, He is able to bring it back{/idea}, resurrecting it for the Day of Judgement. The answer to doubt about the return is the first creation itself.",
+    "now": "You rebuild an app you once wrote and it takes a fraction of the time, because you made it before. {idea}Remaking is never harder for the one who made it.{/idea}",
+    "old": "Once I am dust, that is the end of me.",
+    "new": "The One who made me once has promised to make me again.",
+    "try": "Say tonight before sleep: in Your name I die and I live.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:48", "surah": 53, "ayah": 48, "place": "makkah",
+    "title": "He gives wealth, and He gives contentment.",
+    "subtitle": "Two gifts: having, and being satisfied",
+    "picture": {"kind": "boxes", "label": "What He gives", "row": [
+      {"box": "reward", "title": "wealth", "sub": ["aghna: He enriches"]},
+      {"box": "reward", "title": "contentment", "sub": ["aqna, per Ibn Abbas"]},
+      {"conn": "from"},
+      {"box": "idea", "title": "Allah", "sub": []}]},
+    "key": {"label": "Which one you need", "row": [
+      {"box": "trap", "title": "more money", "sub": ["the only gift I want"], "strike": true},
+      {"box": "reward", "title": "and contentment", "sub": ["so the money is enough"]}]},
+    "then": "Ibn Kathir says Allah gives wealth and lets it remain, so people can benefit from it. Mujahid said aghna is {reward}He gives wealth{/reward}. Ibn Abbas and Mujahid also said aqna means {reward}He gave contentment{/reward}.",
+    "now": "Payday arrives, and two days later you feel just as short as before. Someone else earns half and sleeps fine. {reward}Wealth and contentment are two different gifts, and both are His.{/reward}",
+    "old": "If I earn more, I will finally feel enough.",
+    "new": "Wealth and contentment are separate gifts. I can ask for both.",
+    "try": "In your dua today, ask Allah for contentment with what you have, by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:49", "surah": 53, "ayah": 49, "place": "makkah",
+    "title": "He is the Lord of Sirius.",
+    "subtitle": "The star they worshipped has a Lord",
+    "picture": {"kind": "boxes", "label": "The star", "row": [
+      {"box": "trap", "title": "Sirius", "sub": ["worshipped by some Arabs"]},
+      {"conn": "has"},
+      {"box": "idea", "title": "a Lord", "sub": ["Allah"]}]},
+    "key": {"label": "Bright is not divine", "row": [
+      {"box": "trap", "title": "brightest star", "sub": ["so worship it"], "strike": true},
+      {"box": "idea", "title": "created thing", "sub": ["with a Lord over it"]}]},
+    "then": "Ibn Abbas, Mujahid, Qatadah and Ibn Zayd said ash-Shi'ra is {idea}the bright star, Sirius{/idea}, which {trap}a group of Arabs used to worship{/trap}. The surah names it to say: even the brightest thing in your sky has a Lord.",
+    "now": "A celebrity, a bright career, a big name on a stage. Some things shine so hard that people start treating them as more than human. {idea}Brightness is still created.{/idea} It has a Lord.",
+    "old": "Some people and things are so impressive they deserve awe.",
+    "new": "Even the brightest thing has a Lord. The awe belongs to Him.",
+    "try": "When someone dazzles you today, say quietly: their Lord is greater.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:50", "surah": 53, "ayah": 50, "place": "makkah",
+    "title": "He destroyed the former people of Ad.",
+    "subtitle": "The strongest nation, gone",
+    "picture": {"kind": "boxes", "label": "Ad", "row": [
+      {"box": "people", "title": "Ad", "sub": ["people of Hud"]},
+      {"box": "trap", "title": "strongest, fiercest", "sub": ["lofty pillars"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "destroyed", "sub": ["by a violent wind"]}]},
+    "key": {"label": "What strength did", "row": [
+      {"box": "trap", "title": "strength protects", "sub": ["what they trusted"], "strike": true},
+      {"box": "idea", "title": "obedience protects", "sub": ["strength did not"]}]},
+    "then": "Ad were the people of Hud. Ibn Kathir says they were {trap}among the strongest and fiercest people{/trap}, and the most rebellious against Allah and His messenger. He links it to Iram of the pillars, and the wind sent on them for seven nights and eight days.",
+    "now": "You feel safe because of what you have built: the job title, the savings, the strong body at the gym. {idea}Strength is a gift, not a shield against Allah.{/idea} Use it for Him.",
+    "old": "If I am strong and secure enough, nothing can touch me.",
+    "new": "Strength did not save Ad. Only turning to Allah keeps me safe.",
+    "try": "Use one of your strengths today to help someone weaker.",
+    "related": ["89:6", "69:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:51", "surah": 53, "ayah": 51, "place": "makkah",
+    "title": "And Thamud, none of them left.",
+    "subtitle": "A whole people, no remnant",
+    "picture": {"kind": "boxes", "label": "Thamud", "row": [
+      {"box": "people", "title": "Thamud", "sub": ["after Ad"]},
+      {"conn": "He spared"},
+      {"box": "trap", "title": "none", "sub": ["destroyed them all"]}]},
+    "key": {"label": "The lesson for the listener", "row": [
+      {"box": "trap", "title": "it was them", "sub": ["a story about others"], "strike": true},
+      {"box": "idea", "title": "it is a warning", "sub": ["for my own conduct"]}]},
+    "then": "Ibn Kathir says this {trap}declares that He destroyed them all and spared none{/trap}. The surah lists the ruined peoples one after another, so the warning builds.",
+    "now": "You read about a company that collapsed overnight, every job gone. You assume you would have seen it coming. {idea}The verse asks: what are you ignoring right now?{/idea}",
+    "old": "Stories of ruined nations are history, not a message to me.",
+    "new": "These stories are warnings for how I live today.",
+    "try": "Name one warning sign in your own life you keep ignoring, and take one step about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:52", "surah": 53, "ayah": 52, "place": "makkah",
+    "title": "Nuh's people before them were worse still.",
+    "subtitle": "The longest warning, the hardest refusal",
+    "picture": {"kind": "boxes", "label": "The order", "row": [
+      {"box": "trap", "title": "people of Nuh", "sub": ["first"]},
+      {"conn": "before"},
+      {"box": "trap", "title": "Ad and Thamud", "sub": ["after"]}]},
+    "key": {"label": "Why they are singled out", "row": [
+      {"box": "trap", "title": "more unjust", "sub": ["in disobeying Allah"]},
+      {"box": "trap", "title": "more rebellious", "sub": ["than those after"]}]},
+    "then": "The people of Nuh came {idea}before Ad and Thamud{/idea}. Ibn Kathir says they were {trap}more unjust in disobeying Allah than those who came after them{/trap}. The surah moves backward through history to its first great refusal.",
+    "now": "Someone keeps reminding you, kindly, for years: pray, call your mother, stop that habit. The longer you refuse, the easier refusing gets. {trap}Long refusal hardens.{/trap}",
+    "old": "I have heard this reminder a hundred times. It does not move me now.",
+    "new": "A long refusal is more serious, not less. I can still turn back.",
+    "try": "Take one reminder you keep brushing off and act on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

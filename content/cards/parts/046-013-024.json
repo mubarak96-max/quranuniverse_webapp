@@ -1,0 +1,240 @@
+[
+  {
+    "id": "46:13", "surah": 46, "ayah": 13, "place": "makkah",
+    "title": "Say it once, then keep walking straight.",
+    "subtitle": "Faith that is said and then stood on",
+    "picture": {"kind": "boxes", "label": "Two steps", "row": [
+      {"box": "idea", "title": "Our Lord is Allah", "sub": ["said with the tongue"]},
+      {"conn": "and then"},
+      {"box": "idea", "title": "stand firm", "sub": ["stay on course"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "no fear, no grief", "sub": ["ahead or behind"]}]},
+    "key": {"label": "What faith needs", "row": [
+      {"box": "people", "title": "one big moment", "sub": ["I said it, done"], "strike": true},
+      {"box": "idea", "title": "steady after", "sub": ["the saying, then the staying"]}]},
+    "then": "The verse comes right after the warning to wrongdoers and good news to the doers of good. It describes those who say {idea}our Lord is Allah{/idea} and then stay on that course. Ibn Kathir explains: {reward}no fear about what is ahead, no grief over what they left behind.{/reward}",
+    "now": "You felt it strongly in Ramadan. The prayers were on time, the phone was down. Then the ordinary weeks came back. {idea}This verse praises the staying, not just the starting.{/idea} Small and steady still counts as standing firm.",
+    "old": "My faith only counts when I feel it strongly.",
+    "new": "What counts is saying it and then quietly staying on the path day after day.",
+    "try": "Choose one small act of worship you can keep every day this week, and start today.",
+    "related": ["41:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:14", "surah": 46, "ayah": 14, "place": "makkah",
+    "title": "A home that lasts, for what they kept doing.",
+    "subtitle": "Paradise as the reward of a steady life",
+    "picture": {"kind": "boxes", "label": "Where it leads", "row": [
+      {"box": "people", "title": "the steadfast", "sub": ["from the verse before"]},
+      {"conn": "become"},
+      {"box": "reward", "title": "people of Paradise", "sub": ["abiding forever"]}]},
+    "key": {"label": "What the deeds do", "row": [
+      {"box": "trap", "title": "buy Paradise", "sub": ["I earned it myself"], "strike": true},
+      {"box": "reward", "title": "open to mercy", "sub": ["a cause, by His grace"]}]},
+    "then": "Those who said our Lord is Allah and stood firm are called {reward}the companions of Paradise, forever.{/reward} Ibn Kathir notes the phrase for what they used to do: {idea}their deeds are a cause for reaching mercy and being surrounded by it.{/idea}",
+    "now": "You keep a habit you cannot see paying off: a monthly charity transfer, a call to your mother every Sunday. It feels small. {idea}The verse says used to do: the repeated things.{/idea} {reward}Mercy meets what you kept doing.{/reward}",
+    "old": "My small, repeated good deeds do not really add up to anything.",
+    "new": "What I keep doing becomes a door for Allah's mercy.",
+    "try": "Pick one good thing you already do regularly and do it today with intention.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:15", "surah": 46, "ayah": 15, "place": "makkah",
+    "title": "Thirty months of her hardship, and a prayer at forty.",
+    "subtitle": "Gratitude to parents and turning back at maturity",
+    "picture": {"kind": "boxes", "label": "A life in stages", "row": [
+      {"box": "people", "title": "mother", "sub": ["carried with hardship", "birth with hardship"]},
+      {"box": "plain", "title": "30", "sub": ["months of carrying and nursing"], "num": true},
+      {"conn": "until"},
+      {"box": "people", "title": "age forty", "sub": ["full maturity"]},
+      {"conn": "he prays"},
+      {"box": "idea", "title": "make me grateful", "sub": ["for me and my parents"]}]},
+    "key": {"label": "The prayer at forty", "row": [
+      {"box": "reward", "title": "thank You", "sub": ["for me and my parents"]},
+      {"box": "idea", "title": "good deeds", "sub": ["that please You"]},
+      {"box": "reward", "title": "my children", "sub": ["make them good"]},
+      {"box": "idea", "title": "I turn back", "sub": ["I am Muslim"]}]},
+    "then": "Right after speaking of faith, the verse turns to parents, as the Quran often does. Ibn Kathir describes {trap}the fatigue, sickness, heaviness and pain{/trap} a mother bears, and the thirty months of carrying and nursing. At forty, a person's mind and patience mature. {idea}Ibn Kathir says this is a call for anyone reaching forty to renew repentance.{/idea}",
+    "now": "Your mother's text says she has not heard from you in a while. You are busy, a deadline, a meeting. Thirty months of your life she carried and fed you before you could say thanks. {reward}The prayer here thanks Allah for her too.{/reward} And it asks good for your own children.",
+    "old": "My parents did what parents do. I will thank them when life slows down.",
+    "new": "My parents' hardship is a gift I owe thanks for, to them and to Allah, now.",
+    "try": "Call or message one of your parents today just to thank them for one specific thing.",
+    "related": ["17:23", "31:14", "2:233"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:16", "surah": 46, "ayah": 16, "place": "makkah",
+    "title": "Their best is accepted, their worst is overlooked.",
+    "subtitle": "The promise for those who turn back",
+    "picture": {"kind": "boxes", "label": "What Allah does with their record", "row": [
+      {"box": "reward", "title": "the best", "sub": ["accepted"]},
+      {"box": "trap", "title": "the bad", "sub": ["overlooked"], "strike": true},
+      {"conn": "so"},
+      {"box": "reward", "title": "Paradise", "sub": ["a true promise"]}]},
+    "key": {"label": "How the record is read", "row": [
+      {"box": "trap", "title": "every flaw counted", "sub": ["I am not good enough"], "strike": true},
+      {"box": "reward", "title": "best deeds kept", "sub": ["errors forgiven"]}]},
+    "then": "This is for the person in the verse before: grateful, praying for parents and children, turning back to Allah. Ibn Kathir says {reward}many of their errors will be forgiven and a modest amount of deeds will be accepted.{/reward} {idea}It is a promise of truth.{/idea}",
+    "now": "You replay your worst moments at 2am: the shouting, the lie, the wasted years. You feel your good is too small to matter. {reward}This verse describes a Lord who takes the best and overlooks the rest{/reward} for those who turn back.",
+    "old": "My mistakes outweigh anything good I have done.",
+    "new": "When I turn back, Allah keeps my best and overlooks my worst.",
+    "try": "Say one sincere sentence of repentance tonight, then name one good thing you did today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:17", "surah": 46, "ayah": 17, "place": "makkah",
+    "title": "Uff to his parents, while they pray for him.",
+    "subtitle": "The other kind of child, and his parents' pleading",
+    "picture": {"kind": "boxes", "label": "One house, two sides", "row": [
+      {"box": "trap", "title": "the son", "sub": ["Uff to you", "old legends"]},
+      {"box": "people", "title": "the parents", "sub": ["ask Allah to guide him", "believe, it is true"]}]},
+    "key": {"label": "Who is doing what", "row": [
+      {"box": "trap", "title": "contempt", "sub": ["from the child"]},
+      {"box": "reward", "title": "prayer", "sub": ["from the parents"]}]},
+    "then": "After the grateful child comes the opposite. Ibn Kathir says this is a general description of anyone who speaks to parents with contempt and denies resurrection. He notes the claim it was about Abdur-Rahman bin Abi Bakr is weak, and Aishah rejected it. {reward}The parents keep asking Allah to guide him.{/reward}",
+    "now": "Your mother reminds you to pray and you roll your eyes, sigh, say not now. {trap}Uff is that sigh.{/trap} {reward}Meanwhile she is making dua for you every night.{/reward} Even when you disagree, the tone is the deed.",
+    "old": "A sigh or an eye roll at my parents is not a big deal.",
+    "new": "My tone to my parents matters, and their worried prayers for me deserve gentleness.",
+    "try": "The next time a parent nags you today, answer with one soft sentence instead of a sigh.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:18", "surah": 46, "ayah": 18, "place": "makkah",
+    "title": "Joining the line of those who lost before.",
+    "subtitle": "Where that attitude ends up",
+    "picture": {"kind": "boxes", "label": "The company they keep", "row": [
+      {"box": "trap", "title": "the scornful son", "sub": ["from the verse before"]},
+      {"conn": "joins"},
+      {"box": "trap", "title": "past nations", "sub": ["of jinn and men"]},
+      {"conn": "all"},
+      {"box": "trap", "title": "losers", "sub": ["lost themselves"]}]},
+    "key": {"label": "Who this is about", "row": [
+      {"box": "people", "title": "one named man", "sub": ["not me"], "strike": true},
+      {"box": "idea", "title": "a type", "sub": ["anyone who acts so"]}]},
+    "then": "Ibn Kathir says the word those confirms the previous verse describes a type of person, not one man. Al-Hasan and Qatadah said it is {trap}the disbelieving, sinful one who is undutiful to his parents and denies resurrection.{/trap} Such people end up with their likes from earlier generations.",
+    "now": "It is easy to read this and think of someone else's rude son. {idea}The verse describes a pattern, so it is a mirror.{/idea} Contempt at home and dismissing the Hereafter tend to travel together. {reward}The pattern can be broken today.{/reward}",
+    "old": "This is about some bad person from long ago.",
+    "new": "This describes a pattern, and I can check myself for any piece of it.",
+    "try": "Ask yourself honestly how you spoke to your parents this week. Fix one thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:19", "surah": 46, "ayah": 19, "place": "makkah",
+    "title": "Everyone gets their exact level, and no one is wronged.",
+    "subtitle": "Degrees for both sides, perfect fairness",
+    "picture": {"kind": "boxes", "label": "Levels", "row": [
+      {"box": "reward", "title": "Paradise", "sub": ["levels go up"]},
+      {"box": "trap", "title": "the Fire", "sub": ["levels go down"]},
+      {"conn": "for all"},
+      {"box": "idea", "title": "full payment", "sub": ["no speck of injustice"]}]},
+    "key": {"label": "How it is measured", "row": [
+      {"box": "people", "title": "all the same", "sub": ["it does not matter"], "strike": true},
+      {"box": "idea", "title": "by what they did", "sub": ["each deed counts"]}]},
+    "then": "After the grateful child and the scornful one, the verse says all have degrees. Ibn Kathir quotes Abdur-Rahman bin Zayd: {idea}the levels of the Fire descend, and those of Paradise ascend.{/idea} {reward}Allah will not wrong anyone, even by a speck of dust.{/reward}",
+    "now": "At work, the person who does the least gets the same bonus as you. It stings. {idea}Here nothing is averaged out.{/idea} {reward}Every kind word to your parents, every hidden effort, gets its exact weight.{/reward}",
+    "old": "What I do does not really change much in the end.",
+    "new": "Every deed shifts my level, and none of it is lost or unfairly counted.",
+    "try": "Do one good thing today that nobody will see, knowing it is counted exactly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:20", "surah": 46, "ayah": 20, "place": "makkah",
+    "title": "You spent all your good things in the world.",
+    "subtitle": "Pleasure used up, arrogance answered",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "trap", "title": "used up pleasures", "sub": ["in worldly life"]},
+      {"box": "trap", "title": "arrogant", "sub": ["without right"]},
+      {"box": "trap", "title": "rebelled", "sub": ["against Allah's command"]}]},
+    "key": {"label": "Umar's caution", "row": [
+      {"box": "reward", "title": "enjoy everything now", "sub": ["no limit"], "strike": true},
+      {"box": "idea", "title": "hold some back", "sub": ["for what lasts"]}]},
+    "then": "On the Day the disbelievers face the Fire, they are told they used up their good things in this life. Ibn Kathir says Umar bin Al-Khattab {idea}gave up many joys of food and drink, afraid of being like those reproached here.{/idea} {trap}Their arrogance and rebellion are answered with humiliation.{/trap}",
+    "now": "Payday comes and the cart fills fast: food delivery, a new gadget, the upgrade. {idea}None of it is wrong in itself.{/idea} But if every good thing is spent on the now, with no thanks and no giving, {trap}the verse says something is being used up.{/trap}",
+    "old": "I worked for it, so I should enjoy all of it right now.",
+    "new": "Blessings are for thanks and sharing, not only for using up.",
+    "try": "Skip one small treat today and give its price to someone in need.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:21", "surah": 46, "ayah": 21, "place": "makkah",
+    "title": "Remember the brother of Aad, warning his own people.",
+    "subtitle": "Hud among the sand dunes",
+    "picture": {"kind": "boxes", "label": "The scene", "row": [
+      {"box": "people", "title": "Hud", "sub": ["their brother"]},
+      {"conn": "warns"},
+      {"box": "people", "title": "Aad", "sub": ["at al-Ahqaf, the dunes"]},
+      {"box": "idea", "title": "worship only Allah", "sub": ["I fear a mighty Day"]}]},
+    "key": {"label": "Why tell this now", "row": [
+      {"box": "people", "title": "alone in it", "sub": ["no one ever faced this"], "strike": true},
+      {"box": "reward", "title": "a brother before you", "sub": ["warners came before"]}]},
+    "then": "Ibn Kathir says this story was told {reward}to console the Prophet ﷺ{/reward} as his people rejected him. Hud was sent to Aad at al-Ahqaf, a land of sand dunes; Qatadah said in Yemen. The surah takes its name from here. {idea}Other warners had come before and after him.{/idea}",
+    "now": "You are the only one in the family who prays, or who speaks up at work about something wrong. It feels lonely. {reward}The verse says: remember those who stood where you stand.{/reward} Hud was a brother to his people, not a stranger shouting at them.",
+    "old": "Nobody has ever been as alone as I am in this.",
+    "new": "Others stood in the same spot before me, and their stories are told to steady me.",
+    "try": "Read one short story of a Prophet today and notice what he faced.",
+    "related": ["41:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:22", "surah": 46, "ayah": 22, "place": "makkah",
+    "title": "Bring it on, if you are telling the truth.",
+    "subtitle": "Daring the warning to come",
+    "picture": {"kind": "boxes", "label": "Their reply to Hud", "row": [
+      {"box": "trap", "title": "turn us from our gods?", "sub": ["you came to delude us"]},
+      {"box": "trap", "title": "bring it", "sub": ["the threat, if it is real"]}]},
+    "key": {"label": "What the dare shows", "row": [
+      {"box": "people", "title": "confidence", "sub": ["we are not afraid"], "strike": true},
+      {"box": "trap", "title": "disbelief", "sub": ["sure it will not happen"]}]},
+    "then": "Aad accused Hud of trying to pull them from their gods. Then they said {trap}bring us what you threaten us with.{/trap} Ibn Kathir explains they asked to hurry the punishment because they believed it would not happen.",
+    "now": "The doctor says cut down on sugar or there will be trouble. You laugh and order dessert: show me. {trap}Daring a warning feels brave in the moment.{/trap} {idea}It usually just means you do not believe it yet.{/idea}",
+    "old": "If it were really coming, it would have happened already.",
+    "new": "Daring a warning is not courage; it is not believing it.",
+    "try": "Think of one warning you have been laughing off. Take one small step toward it today.",
+    "related": ["42:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:23", "surah": 46, "ayah": 23, "place": "makkah",
+    "title": "When it comes is with Allah; my job is to tell you.",
+    "subtitle": "Hud knows his role and its limits",
+    "picture": {"kind": "boxes", "label": "Hud's answer", "row": [
+      {"box": "idea", "title": "knowledge is with Allah", "sub": ["the when"]},
+      {"box": "people", "title": "I convey", "sub": ["what I was sent with"]},
+      {"box": "trap", "title": "you act ignorantly", "sub": ["no understanding"]}]},
+    "key": {"label": "His role", "row": [
+      {"box": "people", "title": "make it happen", "sub": ["prove it now"], "strike": true},
+      {"box": "idea", "title": "deliver the message", "sub": ["leave results to Allah"]}]},
+    "then": "Hud did not take the bait. Ibn Kathir paraphrases: {idea}Allah knows best about you; my duty is to deliver my message.{/idea} {trap}He told them plainly they were a people with no understanding.{/trap}",
+    "now": "You advised your brother about a bad deal. He says, so when will it fail then? You cannot answer that. {idea}You can only say what you believe is true, kindly, and leave the outcome.{/idea}",
+    "old": "If I give advice, I have to be able to prove exactly how it plays out.",
+    "new": "My part is to say the truth clearly; the timing and results belong to Allah.",
+    "try": "Give one honest piece of advice today and let go of needing to win the argument.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:24", "surah": 46, "ayah": 24, "place": "makkah",
+    "title": "They saw a cloud and thought it was rain.",
+    "subtitle": "What they cheered was what they had asked for",
+    "picture": {"kind": "boxes", "label": "What they saw", "row": [
+      {"box": "reward", "title": "a cloud", "sub": ["rain at last", "after drought"], "strike": true},
+      {"conn": "was really"},
+      {"box": "trap", "title": "a wind", "sub": ["the punishment they dared"]}]},
+    "key": {"label": "The habit of the Prophet ﷺ", "row": [
+      {"box": "idea", "title": "seek its good", "sub": ["when the wind blew"]},
+      {"box": "idea", "title": "seek refuge", "sub": ["from any harm it holds"]}]},
+    "then": "Aad were in a drought, so a dark cloud made them glad. {trap}It was the wind they had asked to hurry.{/trap} Aishah said that when the Prophet ﷺ saw clouds or wind, worry showed on his face. {idea}He asked Allah for its good and sought refuge from its harm, and was relieved when rain fell.{/idea}",
+    "now": "A big offer lands in your inbox. Everyone says it is perfect. {idea}The Prophet ﷺ would greet even welcome things with a prayer.{/idea} Not fear, just humility: you cannot always see what a cloud carries.",
+    "old": "Anything that looks good coming my way must be good.",
+    "new": "I can welcome what comes with a prayer for its good and protection from its harm.",
+    "try": "Next time it rains or the wind picks up, ask Allah for its good and refuge from its harm.",
+    "related": ["51:42"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

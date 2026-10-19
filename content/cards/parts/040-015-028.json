@@ -1,0 +1,282 @@
+[
+  {
+    "id": "40:15", "surah": 40, "ayah": 15, "place": "makkah",
+    "title": "Revelation comes down to warn of the Day everyone meets.",
+    "subtitle": "The Day of Meeting, and why messengers are sent",
+    "picture": {"kind": "boxes", "label": "From above", "row": [
+      {"box": "idea", "title": "Owner of the Throne", "sub": ["exalted above all ranks"]},
+      {"conn": "sends revelation to"},
+      {"box": "people", "title": "a servant He chooses", "sub": ["to warn"]},
+      {"conn": "of"},
+      {"box": "plain", "title": "the Day of Meeting", "sub": ["every deed found"]}]},
+    "key": {"label": "What the message is for", "row": [
+      {"box": "people", "title": "just information", "sub": ["interesting to know"], "strike": true},
+      {"box": "idea", "title": "a warning", "sub": ["about a meeting ahead"]}]},
+    "then": "Ibn Abbas said the Day of Meeting is {idea}one of the names of the Day of Resurrection,{/idea} the Day everyone finds out about their deeds, good and bad. Allah, exalted above His creation, {idea}sends revelation to warn of it.{/idea}",
+    "now": "You have a big appointment in the calendar and you prepare for days: the interview, the hearing, the scan results. {idea}There is one meeting no one can reschedule.{/idea} The Quran in your hand exists to get you ready for it.",
+    "old": "The Quran is mostly something to know about.",
+    "new": "The Quran is a warning sent ahead so I am ready for a meeting I cannot miss.",
+    "try": "Ask yourself one question tonight: if that meeting were tomorrow, what would I fix first?",
+    "related": ["16:2", "26:192"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:16", "surah": 40, "ayah": 16, "place": "makkah",
+    "title": "Whose is the kingdom today? Allah's, the One.",
+    "subtitle": "The Day nothing is hidden and every king falls silent",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "everyone", "sub": ["out in the open", "no shade, no cover"]},
+      {"conn": "asked"},
+      {"box": "plain", "title": "whose is the kingdom", "sub": ["no one answers"]},
+      {"box": "idea", "title": "Allah, the One", "sub": ["the Irresistible"]}]},
+    "key": {"label": "Who holds power", "row": [
+      {"box": "people", "title": "kings of the earth", "sub": ["where are they"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["subdues all things"]}]},
+    "then": "Ibn Kathir says on that Day people will {idea}appear in the open with nothing to shelter or cover them.{/idea} He mentions the hadith where Allah asks, {trap}where are the kings of the earth, the tyrants, the proud?{/trap} Then the answer: the kingdom is Allah's, the One.",
+    "now": "You hide things well: the browser history, the side of you only your phone knows. And you fear people with power over you, the manager, the landlord. {idea}That Day, nothing is hidden and no one holds power but Allah.{/idea}",
+    "old": "The people with power over me now are the ones I really answer to.",
+    "new": "Every title ends. The only kingdom left standing is Allah's, and I answer to Him.",
+    "try": "Next time you fear someone's power over you, say quietly: the kingdom is Allah's.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:17", "surah": 40, "ayah": 17, "place": "makkah",
+    "title": "No injustice today, not even a speck.",
+    "subtitle": "Every soul repaid for what it earned",
+    "picture": {"kind": "boxes", "label": "The reckoning", "row": [
+      {"box": "people", "title": "every soul", "sub": ["what it earned"]},
+      {"conn": "repaid"},
+      {"box": "reward", "title": "good deed", "sub": ["tenfold"]},
+      {"box": "trap", "title": "bad deed", "sub": ["just one"]}]},
+    "key": {"label": "What to fear", "row": [
+      {"box": "trap", "title": "being treated unfairly", "sub": ["by Him"], "strike": true},
+      {"box": "idea", "title": "my own record", "sub": ["blame no one but myself"]}]},
+    "then": "Ibn Kathir says Allah does not do {idea}even a speck of dust's weight of injustice.{/idea} A good deed gets ten times, a bad deed only one. He quotes the hadith: {trap}whoever finds other than good, let him blame no one but himself.{/trap}",
+    "now": "You have been wronged at work, credit stolen, your side never heard. It eats at you. {reward}On that Day, every unfair thing is settled.{/reward} And the same fairness looks at how you treated the junior colleague, the cashier, your sibling.",
+    "old": "Life is unfair and nothing will ever set it right.",
+    "new": "Every wrong will be weighed with perfect fairness, including the ones I did.",
+    "try": "Right one small wrong you did to someone this week: an apology, a repayment, a credit given.",
+    "related": ["31:28", "54:50"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:18", "surah": 40, "ayah": 18, "place": "makkah",
+    "title": "A Day so near that hearts rise to the throat.",
+    "subtitle": "The Approaching Day, and no friend for the wrongdoer",
+    "picture": {"kind": "boxes", "label": "The Approaching Day", "row": [
+      {"box": "people", "title": "hearts", "sub": ["at the throats", "silent with fear"]},
+      {"box": "trap", "title": "no close friend", "sub": ["for the wrongdoer"]},
+      {"box": "trap", "title": "no obeyed intercessor", "sub": ["all means cut"]}]},
+    "key": {"label": "How far it is", "row": [
+      {"box": "people", "title": "far away", "sub": ["plenty of time"], "strike": true},
+      {"box": "idea", "title": "drawing near", "sub": ["its very name"]}]},
+    "then": "Ibn Kathir says the Approaching Day is a name of the Day of Judgement, {idea}called so because it is close.{/idea} Qatadah said hearts will reach the throats from fear, {trap}neither coming out nor going back.{/trap} No one speaks without His permission.",
+    "now": "You have felt a small version: the doctor about to read the result, your heart in your throat. You call the friend who always helps. {idea}That Day, the friend you rely on cannot reach you.{/idea} What helps is what you send ahead now.",
+    "old": "The Day is so far off it does not affect my week.",
+    "new": "Allah calls it the Approaching Day. It is nearer than my plans assume.",
+    "try": "Do one good deed today that you would want to find waiting for you on that Day.",
+    "related": ["53:57", "54:1", "78:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:19", "surah": 40, "ayah": 19, "place": "makkah",
+    "title": "He knows the glance and the thought behind it.",
+    "subtitle": "The betrayal of the eyes and what hearts hide",
+    "picture": {"kind": "boxes", "label": "What He sees", "row": [
+      {"box": "trap", "title": "the stolen glance", "sub": ["eyes that look innocent"]},
+      {"box": "trap", "title": "the hidden wish", "sub": ["what I would do if I could"]},
+      {"conn": "all known to"},
+      {"box": "idea", "title": "Allah", "sub": ["great and small"]}]},
+    "key": {"label": "Where sin starts", "row": [
+      {"box": "people", "title": "nobody noticed", "sub": ["so it did not happen"], "strike": true},
+      {"box": "idea", "title": "He knows", "sub": ["so I feel shy before Him"]}]},
+    "then": "Ibn Kathir says this is said so that people {idea}feel a proper shyness before Allah.{/idea} Ad-Dahhak said the betrayal of the eyes is a wink, or {trap}saying you saw something when you did not.{/trap} Ibn Abbas said Allah knows when a look intends betrayal.",
+    "now": "The second look on the train. The reply that sounds kind but hides a dig. The thing you say you did not see. {idea}No one in the room catches it. He does.{/idea} Not to shame you, but so you can catch it yourself.",
+    "old": "If no one sees it, it does not really count.",
+    "new": "Allah sees the glance and the wish behind it, so I can be honest with myself too.",
+    "try": "Next time your eyes drift where they should not, lower them once and say astaghfirullah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:20", "surah": 40, "ayah": 20, "place": "makkah",
+    "title": "Only Allah judges with truth. The rest decide nothing.",
+    "subtitle": "The Hearing, the Seeing, against gods that cannot rule",
+    "picture": {"kind": "boxes", "label": "Two kinds of judge", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["judges with truth", "hears and sees all"]},
+      {"box": "trap", "title": "what they call on", "sub": ["cannot judge anything"], "strike": true}]},
+    "key": {"label": "Whose verdict lasts", "row": [
+      {"box": "people", "title": "the crowd's verdict", "sub": ["what people decide"], "strike": true},
+      {"box": "idea", "title": "His verdict", "sub": ["just, every time"]}]},
+    "then": "Ibn Abbas explained that Allah {reward}rewards good with good and evil with evil.{/reward} The idols people called on {trap}own nothing and decide nothing.{/trap} Allah hears all that His creatures say and knows all about them.",
+    "now": "The comments section has decided you are wrong. Your extended family has a verdict too. It feels final. {idea}None of those judgements are the one that counts.{/idea} The One who heard the whole story judges with truth.",
+    "old": "What people decide about me is the final word.",
+    "new": "Only Allah, who heard and saw everything, gives the verdict that lasts.",
+    "try": "When a harsh judgement about you stings today, tell Allah your side in a short dua.",
+    "related": ["53:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:21", "surah": 40, "ayah": 21, "place": "makkah",
+    "title": "Stronger nations built more, and it did not save them.",
+    "subtitle": "Travel and look at the ruins",
+    "picture": {"kind": "boxes", "label": "Those before", "row": [
+      {"box": "reward", "title": "great strength", "sub": ["more than Quraysh"]},
+      {"box": "reward", "title": "buildings, traces", "sub": ["still in the land"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "seized for their sins", "sub": ["no protector"]}]},
+    "key": {"label": "What protects", "row": [
+      {"box": "reward", "title": "strength and building", "sub": ["will keep me safe"], "strike": true},
+      {"box": "idea", "title": "Allah only", "sub": ["no one shields from Him"]}]},
+    "then": "Ibn Kathir says the past nations were {reward}stronger than Quraysh and left buildings and dwellings{/reward} the Makkans could not match. Yet they were seized for rejecting their messengers, and {trap}no one could protect them from Allah.{/trap}",
+    "now": "You walk past an old ruin on holiday and take a photo. Someone once thought those walls would last forever. {idea}Your career, your house, your savings are walls too.{/idea} Good to build. Not enough to lean on.",
+    "old": "If I build enough, I will be safe.",
+    "new": "Stronger people built more and still had no protector except Allah.",
+    "try": "Next time you pass an old building, ask: what am I building that lasts past me?",
+    "related": ["46:26", "30:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:22", "surah": 40, "ayah": 22, "place": "makkah",
+    "title": "Clear proofs came, and they still said no.",
+    "subtitle": "The reason behind the ruin",
+    "picture": {"kind": "boxes", "label": "Cause and effect", "row": [
+      {"box": "people", "title": "messengers", "sub": ["with clear proofs"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "disbelief", "sub": ["despite the signs"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "seized", "sub": ["He is Powerful"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "not enough proof", "sub": ["they did not know"], "strike": true},
+      {"box": "trap", "title": "the will to accept", "sub": ["proof was clear"]}]},
+    "then": "Ibn Kathir says Allah gives the reason: their messengers came {idea}with clear proof and definitive evidence,{/idea} and {trap}despite all these signs they disbelieved.{/trap} It was not a lack of information. It was refusal.",
+    "now": "You know your sleep is wrecked by the phone. You know that friendship is harming you. {trap}The evidence is in, and you keep asking for more.{/trap} Sometimes the problem is not knowing. It is not wanting to change.",
+    "old": "I would change if I were just more sure.",
+    "new": "Often I already know enough. What is missing is the will to act on it.",
+    "try": "Pick one thing you already know you should change. Take the first step before tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:23", "surah": 40, "ayah": 23, "place": "makkah",
+    "title": "Musa was sent with signs and clear authority.",
+    "subtitle": "The story that comforted the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "The sending", "row": [
+      {"box": "idea", "title": "Allah", "sub": []},
+      {"conn": "sends"},
+      {"box": "people", "title": "Musa", "sub": ["with signs", "and clear proof"]}]},
+    "key": {"label": "Why the story is told", "row": [
+      {"box": "people", "title": "a history lesson", "sub": ["long ago, far away"], "strike": true},
+      {"box": "reward", "title": "a promise", "sub": ["the truth wins in the end"]}]},
+    "then": "In Makkah, people were plotting against the Prophet ﷺ. Ibn Kathir says Allah {reward}consoles him and gives glad tidings of victory,{/reward} as happened to Musa. The surah introduction notes this story answers {trap}the plots to kill him.{/trap}",
+    "now": "You are in a long hard season: a job where you are the only honest one, a family where you are the odd one out. {reward}Allah tells you stories of people who stood where you stand and came through.{/reward} Read them as letters to you.",
+    "old": "My struggle is unique and no one has been here before.",
+    "new": "Others stood exactly here with less, and Allah carried them through.",
+    "try": "Read the story of Musa in this surah this week as if it were written for your situation.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:24", "surah": 40, "ayah": 24, "place": "makkah",
+    "title": "The king, the adviser, the rich man: one answer.",
+    "subtitle": "Pharaoh, Haman and Qarun call him a magician",
+    "picture": {"kind": "boxes", "label": "Who heard Musa", "row": [
+      {"box": "people", "title": "Pharaoh", "sub": ["king of Egypt"]},
+      {"box": "people", "title": "Haman", "sub": ["his adviser"]},
+      {"box": "people", "title": "Qarun", "sub": ["the richest trader"]},
+      {"conn": "said"},
+      {"box": "trap", "title": "magician, liar", "sub": ["the old label"]}]},
+    "key": {"label": "Their response", "row": [
+      {"box": "trap", "title": "attack the messenger", "sub": ["a label instead of an answer"]},
+      {"box": "idea", "title": "the message", "sub": ["left unanswered"]}]},
+    "then": "Ibn Kathir names them: Pharaoh the king, Haman his adviser, Qarun the richest trader. They called Musa {trap}a sorcerer and a liar.{/trap} He notes every messenger heard the same, as 51:52 says: magician or madman.",
+    "now": "Someone says something true that you do not want to hear. It is easier to say: they are extreme, they are crazy, they are a hypocrite. {trap}A label ends the conversation without answering it.{/trap} Notice when you do that.",
+    "old": "If I can dismiss the person, I can ignore the point.",
+    "new": "Labelling the messenger is how power avoids the message. I can do better.",
+    "try": "Next time someone says a hard truth to you, reply to the point, not the person.",
+    "related": ["51:52"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:25", "surah": 40, "ayah": 25, "place": "makkah",
+    "title": "When the truth arrived, they answered with cruelty.",
+    "subtitle": "A second order against the Children of Israel, and its failure",
+    "picture": {"kind": "boxes", "label": "Their reply", "row": [
+      {"box": "idea", "title": "the truth", "sub": ["clear proof from Allah"]},
+      {"conn": "answered by"},
+      {"box": "trap", "title": "an order of oppression", "sub": ["to humiliate the believers"]},
+      {"conn": "ends in"},
+      {"box": "trap", "title": "failure", "sub": ["plots in vain"]}]},
+    "key": {"label": "How plots end", "row": [
+      {"box": "trap", "title": "power wins", "sub": ["the strong decide"], "strike": true},
+      {"box": "idea", "title": "plots go astray", "sub": ["their schemes failed"]}]},
+    "then": "Ibn Kathir says this was a second order against the sons of the Children of Israel, {trap}meant to humiliate the people{/trap} so they would see Musa as a bad omen. Yet {idea}the plots of the disbelievers were doomed to failure.{/idea}",
+    "now": "When you cannot win an argument, it is tempting to hit back another way: freeze someone out, cut their hours, spread a story. {trap}Pressure in place of a reply.{/trap} The verse says where that road ends.",
+    "old": "When I am losing, I can use pressure to win.",
+    "new": "Pressure used against the truth always goes astray in the end.",
+    "try": "If you are using silence or pressure on someone to win, stop today and talk to them honestly.",
+    "related": ["7:129"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:26", "surah": 40, "ayah": 26, "place": "makkah",
+    "title": "The tyrant claims he is protecting the people's religion.",
+    "subtitle": "Pharaoh dresses his plan as public concern",
+    "picture": {"kind": "boxes", "label": "Pharaoh's speech", "row": [
+      {"box": "trap", "title": "let me kill Musa", "sub": ["and let him call his Lord"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "I fear for you", "sub": ["your religion", "corruption in the land"]}]},
+    "key": {"label": "What was really going on", "row": [
+      {"box": "people", "title": "concern for you", "sub": ["as he claimed"], "strike": true},
+      {"box": "trap", "title": "fear for his power", "sub": ["stubborn arrogance"]}]},
+    "then": "Ibn Kathir calls let him call his Lord {trap}the utmost in offensive stubbornness.{/trap} Pharaoh said he feared Musa would change their religion and spread corruption, and Ibn Kathir remarks, {idea}as if Pharaoh would be concerned about corruption.{/idea}",
+    "now": "You catch yourself saying I am only worried about you, when really you are worried about losing control. The office rule, the family decision. {trap}Self-interest wearing the clothes of concern.{/trap} Check the real motive.",
+    "old": "I am only doing this for everyone's good.",
+    "new": "Sometimes my concern for others is cover for protecting my own position.",
+    "try": "Before your next firm decision for someone else, ask: who does this really protect?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:27", "surah": 40, "ayah": 27, "place": "makkah",
+    "title": "Musa's answer to a death threat was to seek refuge.",
+    "subtitle": "Refuge in the Lord of both of them",
+    "picture": {"kind": "boxes", "label": "Musa's reply", "row": [
+      {"box": "trap", "title": "the threat", "sub": ["let me kill Musa"]},
+      {"conn": "answered with"},
+      {"box": "idea", "title": "I seek refuge", "sub": ["in my Lord and your Lord"]},
+      {"conn": "from"},
+      {"box": "trap", "title": "every arrogant one", "sub": ["who denies the Reckoning"]}]},
+    "key": {"label": "First response to fear", "row": [
+      {"box": "people", "title": "panic or rage", "sub": ["fight fire with fire"], "strike": true},
+      {"box": "idea", "title": "take refuge", "sub": ["turn to Allah first"]}]},
+    "then": "Hearing he would be killed, Musa said: {idea}I seek refuge in my Lord and your Lord.{/idea} Ibn Kathir adds that when the Prophet ﷺ feared people, he would say: {reward}O Allah, we seek refuge in You from their evil.{/reward}",
+    "now": "A threatening message, a bully at school, a manager who has it in for you. Your first reflex is panic or a furious reply. {idea}Musa's first move was a sentence to Allah.{/idea} You can borrow it.",
+    "old": "When I am threatened, I have to handle it all myself.",
+    "new": "My first move against a threat is to seek refuge in Allah, then act.",
+    "try": "Learn the Prophet's ﷺ dua: O Allah, we seek refuge in You from their evil. Say it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:28", "surah": 40, "ayah": 28, "place": "makkah",
+    "title": "Would you kill a man for saying, My Lord is Allah?",
+    "subtitle": "A hidden believer speaks up in Pharaoh's court",
+    "picture": {"kind": "boxes", "label": "His argument", "row": [
+      {"box": "people", "title": "a believer", "sub": ["of Pharaoh's family", "faith kept hidden"]},
+      {"conn": "asks"},
+      {"box": "plain", "title": "if he lies", "sub": ["it is on him"]},
+      {"box": "trap", "title": "if he is truthful", "sub": ["some of it reaches you"]}]},
+    "key": {"label": "When to speak", "row": [
+      {"box": "people", "title": "stay quiet", "sub": ["not my place"], "strike": true},
+      {"box": "reward", "title": "a just word", "sub": ["before an unjust ruler"]}]},
+    "then": "This believer from Pharaoh's family {idea}hid his faith until the day Pharaoh said, let me kill Musa.{/idea} Then he spoke. Ibn Kathir notes Abu Bakr used {reward}these same words{/reward} when he pushed away the man strangling the Prophet ﷺ at the Kabah.",
+    "now": "Someone is being torn apart in the group chat, at the staff meeting, at the family dinner. You have stayed quiet for months. {idea}This man shows there is a moment to speak.{/idea} He used calm logic, not insults.",
+    "old": "It is not my place to speak up for someone in trouble.",
+    "new": "There comes a moment when a calm, fair word for someone is exactly my place.",
+    "try": "Next time someone is unfairly attacked in front of you, say one calm, fair sentence for them.",
+    "related": ["28:20", "44:17", "42:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

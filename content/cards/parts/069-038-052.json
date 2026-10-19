@@ -1,0 +1,294 @@
+[
+  {
+    "id": "69:38", "surah": 69, "ayah": 38, "place": "makkah",
+    "title": "Allah swears by everything you can see.",
+    "subtitle": "The visible world as a witness",
+    "picture": {"kind": "boxes", "label": "What is sworn by", "row": [
+      {"box": "idea", "title": "what you see", "sub": ["His creation"]},
+      {"conn": "shows"},
+      {"box": "reward", "title": "His signs", "sub": ["the perfection of His Names"]}]},
+    "key": {"label": "What the world is", "row": [
+      {"box": "people", "title": "just scenery", "sub": [], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["pointing to its Maker"]}]},
+    "then": "The second part of the surah turns to the Quran itself. Ibn Kathir says Allah {idea}swears by His creation, in which His signs can be seen{/idea}, and which {reward}show the perfection of His Names and Attributes.{/reward}",
+    "now": "The sunrise through the kitchen window. Your baby's fingers. The rain on the car roof. {idea}Everything you see is a witness.{/idea} The oath asks you to look again.",
+    "old": "What I see every day is ordinary.",
+    "new": "Everything I see is a sign of Allah, sworn by as a witness.",
+    "try": "Stop once today and look closely at one ordinary thing. Say subhanAllah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:39", "surah": 69, "ayah": 39, "place": "makkah",
+    "title": "And by everything you cannot see.",
+    "subtitle": "Most of reality is hidden from you",
+    "picture": {"kind": "boxes", "label": "Two worlds", "row": [
+      {"box": "people", "title": "what you see", "sub": ["a small part"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "what you do not", "sub": ["the hidden things"]}]},
+    "key": {"label": "What is real", "row": [
+      {"box": "people", "title": "only what I see", "sub": [], "strike": true},
+      {"box": "idea", "title": "the seen and unseen", "sub": ["both sworn by"]}]},
+    "then": "Ibn Kathir says Allah then {idea}swears by the hidden things they cannot see.{/idea} Both oaths together confirm one thing: {reward}the Quran is His Speech and revelation.{/reward}",
+    "now": "Wi-Fi, gravity, the air in your lungs. You cannot see any of it, and you rely on all of it. {idea}The unseen is not unreal.{/idea} Angels, the soul, the Hereafter belong to it too.",
+    "old": "If I cannot see it, I find it hard to believe.",
+    "new": "Much of what is most real is unseen, and Allah swears by it.",
+    "try": "Think of one unseen blessing you depend on today, and thank Allah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:40", "surah": 69, "ayah": 40, "place": "makkah",
+    "title": "This is the word of a noble Messenger.",
+    "subtitle": "What the oath is sworn for",
+    "picture": {"kind": "boxes", "label": "The chain of the message", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the Speaker"]},
+      {"conn": "conveyed by"},
+      {"box": "people", "title": "Jibril", "sub": ["the angelic messenger"]},
+      {"conn": "to"},
+      {"box": "people", "title": "Muhammad ﷺ", "sub": ["the human Messenger"]}]},
+    "key": {"label": "Whose words", "row": [
+      {"box": "people", "title": "his own", "sub": ["what they claimed"], "strike": true},
+      {"box": "idea", "title": "conveyed from Allah", "sub": ["a messenger delivers"]}]},
+    "then": "Ibn Kathir explains the word messenger {idea}carries the meaning of conveying{/idea}, because a messenger delivers from the sender. In Surat At-Takwir it is used for Jibril, here for {reward}Muhammad ﷺ, who carried the trust faithfully.{/reward}",
+    "now": "A courier brings you a letter. You do not think the words are his. {idea}The Quran came through noble messengers{/idea}, delivered without change. {reward}It is a letter to you.{/reward}",
+    "old": "The Quran is a book written by a man.",
+    "new": "It is Allah's word, delivered faithfully by noble messengers.",
+    "try": "Before reading Quran today, remind yourself: this is Allah speaking to me.",
+    "related": ["81:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:41", "surah": 69, "ayah": 41, "place": "makkah",
+    "title": "Not the word of a poet. Little do you believe.",
+    "subtitle": "The verse that answered Umar's thought",
+    "picture": {"kind": "boxes", "label": "Umar listening", "row": [
+      {"box": "people", "title": "Umar", "sub": ["behind the Prophet ﷺ"]},
+      {"conn": "thinks"},
+      {"box": "trap", "title": "he is a poet", "sub": ["as Quraysh said"]},
+      {"conn": "then hears"},
+      {"box": "idea", "title": "not a poet", "sub": ["at that very moment"]}]},
+    "key": {"label": "Beautiful words", "row": [
+      {"box": "people", "title": "just poetry", "sub": [], "strike": true},
+      {"box": "idea", "title": "revelation", "sub": ["beauty with truth"]}]},
+    "then": "The surah introduction tells that Umar, before Islam, stood behind the Prophet ﷺ as he recited this surah. Amazed at its beauty, Umar thought {trap}he must be a poet{/trap}, and just then he heard: {idea}it is not the word of a poet.{/idea}",
+    "now": "You hear a recitation and feel it is beautiful, like a good song. {trap}It is easy to stop at the sound.{/trap} {idea}The beauty is there to carry you to the meaning.{/idea}",
+    "old": "The Quran is beautiful, like great poetry.",
+    "new": "Its beauty is not poetry. It is revelation, asking me to believe.",
+    "try": "Listen to one short recitation today, then read its meaning.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:42", "surah": 69, "ayah": 42, "place": "makkah",
+    "title": "Not a fortune teller either. Little do you reflect.",
+    "subtitle": "The second answer that reached Umar's heart",
+    "picture": {"kind": "boxes", "label": "Umar's next thought", "row": [
+      {"box": "trap", "title": "a soothsayer then", "sub": ["if not a poet"]},
+      {"conn": "then hears"},
+      {"box": "idea", "title": "nor a soothsayer", "sub": ["little you reflect"]}]},
+    "key": {"label": "What is missing", "row": [
+      {"box": "people", "title": "more evidence", "sub": [], "strike": true},
+      {"box": "idea", "title": "reflection", "sub": ["little do you remember"]}]},
+    "then": "Umar then thought, {trap}he must be a soothsayer, if not a poet.{/trap} The very next words recited were {idea}nor the word of a soothsayer, little do you reflect.{/idea} Umar said Islam entered deep into his heart.",
+    "now": "You hear a verse that seems to answer what you were just thinking. {idea}It happens.{/idea} The question is whether you stop and reflect, {trap}or move on to the next video.{/trap}",
+    "old": "I would believe more if I had more proof.",
+    "new": "Often what I lack is not proof but reflection.",
+    "try": "Take one verse you read today and spend five minutes thinking about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:43", "surah": 69, "ayah": 43, "place": "makkah",
+    "title": "A revelation from the Lord of all the worlds.",
+    "subtitle": "Where it truly comes from",
+    "picture": {"kind": "boxes", "label": "Its source", "row": [
+      {"box": "trap", "title": "poet?", "sub": []},
+      {"box": "trap", "title": "soothsayer?", "sub": []},
+      {"conn": "no"},
+      {"box": "idea", "title": "the Lord of the worlds", "sub": ["sent down"]}]},
+    "key": {"label": "What it is", "row": [
+      {"box": "people", "title": "human words", "sub": [], "strike": true},
+      {"box": "idea", "title": "revelation", "sub": ["from the Lord of all that exists"]}]},
+    "then": "After the two denials comes the positive answer. Ibn Kathir: {idea}this is the revelation sent down from the Lord of all that exists.{/idea} Umar heard this line and {reward}it stayed in his heart{/reward}, though he believed fully only later.",
+    "now": "The Quran on your shelf, maybe dusty. The app you open in Ramadan. {idea}It is a message from the Lord of every world.{/idea} {reward}Some seeds take years to grow, like Umar's.{/reward}",
+    "old": "I will take the Quran seriously when I feel ready.",
+    "new": "It is from the Lord of the worlds, and even a little attention plants a seed.",
+    "try": "Open the Quran today and read just one page.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:44", "surah": 69, "ayah": 44, "place": "makkah",
+    "title": "Had he made up a single word about Us.",
+    "subtitle": "The Messenger ﷺ could not invent a thing",
+    "picture": {"kind": "boxes", "label": "The claim and the answer", "row": [
+      {"box": "trap", "title": "he forged it", "sub": ["the deniers said"]},
+      {"conn": "if so"},
+      {"box": "idea", "title": "Allah would act at once", "sub": ["swiftly"]}]},
+    "key": {"label": "What it proves", "row": [
+      {"box": "people", "title": "he added his own words", "sub": [], "strike": true},
+      {"box": "idea", "title": "he conveyed exactly", "sub": ["truthful and guided"]}]},
+    "then": "Ibn Kathir explains: {trap}if Muhammad ﷺ forged something against Us{/trap}, or added or removed anything from the Message, {idea}We would surely be swift in punishing him.{/idea} And of course, {reward}he did not do any of this.{/reward}",
+    "now": "You pass on a quote you are not sure of. You say the Prophet ﷺ said something you saw in a forwarded message. {trap}It is easy to add to religion.{/trap} {idea}Even the Messenger ﷺ was held to exactness.{/idea}",
+    "old": "Passing on a nice saying about Islam is harmless.",
+    "new": "Words attributed to Allah or His Messenger ﷺ must be exact.",
+    "try": "Before forwarding the next religious quote, check its source first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:45", "surah": 69, "ayah": 45, "place": "makkah",
+    "title": "We would have seized him by the right hand.",
+    "subtitle": "The strongest grip, to show how serious it is",
+    "picture": {"kind": "boxes", "label": "The image", "row": [
+      {"box": "idea", "title": "the right hand", "sub": ["stronger in grabbing"]},
+      {"conn": "shows"},
+      {"box": "idea", "title": "no escape", "sub": ["if he had forged"]}]},
+    "key": {"label": "What the verse protects", "row": [
+      {"box": "trap", "title": "doubt in the message", "sub": []},
+      {"box": "reward", "title": "trust in the message", "sub": ["Allah guarded it"]}]},
+    "then": "Ibn Kathir says it has been explained that the right hand is mentioned {idea}because it is stronger in grabbing.{/idea} The point is that {reward}Allah Himself guarded the message{/reward}, and the Prophet ﷺ was truthful.",
+    "now": "You wonder sometimes if what you read was changed over time. {reward}Allah guarded this message from the start{/reward}, even from the one who brought it. {idea}You can trust what you hold.{/idea}",
+    "old": "Maybe the message was changed along the way.",
+    "new": "Allah guarded the message so firmly that even its Messenger ﷺ could not alter it.",
+    "try": "Thank Allah today for preserving the Quran you can open on your phone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:46", "surah": 69, "ayah": 46, "place": "makkah",
+    "title": "Then We would have cut his life artery.",
+    "subtitle": "The certainty that he spoke only truth",
+    "picture": {"kind": "boxes", "label": "Al-watin", "row": [
+      {"box": "idea", "title": "the heart's artery", "sub": ["Ibn Abbas"]},
+      {"conn": "would be cut"},
+      {"box": "idea", "title": "if he lied", "sub": ["he did not"]}]},
+    "key": {"label": "What happened", "row": [
+      {"box": "people", "title": "he forged and survived", "sub": [], "strike": true},
+      {"box": "reward", "title": "he conveyed and was helped", "sub": ["with proofs and miracles"]}]},
+    "then": "Ibn Abbas said al-watin is {idea}the artery attached to the heart.{/idea} Ibn Kathir sums it up: the point is that {reward}he ﷺ is truthful, righteous and guided{/reward}, and Allah helped him with clear proofs.",
+    "now": "People trust a doctor who has never been caught lying. {reward}The Messenger ﷺ conveyed the message to the end and was never stopped.{/reward} {idea}That itself is a sign of who sent him.{/idea}",
+    "old": "How can I be sure the Prophet ﷺ spoke the truth?",
+    "new": "Allah said He would have stopped any lie at once. He never did.",
+    "try": "Read one hadith about the Prophet's honesty today and share it with someone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:47", "surah": 69, "ayah": 47, "place": "makkah",
+    "title": "And none of you could have shielded him.",
+    "subtitle": "No one stands between Allah and His decision",
+    "picture": {"kind": "boxes", "label": "Who could stop it", "row": [
+      {"box": "people", "title": "his people", "sub": []},
+      {"box": "people", "title": "his friends", "sub": []},
+      {"conn": "could prevent"},
+      {"box": "trap", "title": "0", "sub": ["no one at all"], "num": true}]},
+    "key": {"label": "Protection", "row": [
+      {"box": "people", "title": "people can protect me", "sub": [], "strike": true},
+      {"box": "idea", "title": "only Allah protects", "sub": []}]},
+    "then": "Ibn Kathir explains: {trap}none of you would be able to come between Us and him{/trap} if We wanted it. The deniers could not have protected him. {idea}And because no one could stop Allah, his safety proved his truth.{/idea}",
+    "now": "You think the right connections will protect you. The lawyer, the uncle with influence. {trap}No one can stand between you and Allah.{/trap} {idea}So seek protection from Him directly.{/idea}",
+    "old": "With the right people behind me, I am safe.",
+    "new": "No one can shield me from Allah. Only He can protect me.",
+    "try": "Say a short du'a for protection this morning instead of relying only on people.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:48", "surah": 69, "ayah": 48, "place": "makkah",
+    "title": "It is a reminder for those mindful of Allah.",
+    "subtitle": "Who the Quran actually reaches",
+    "picture": {"kind": "boxes", "label": "Same book, two effects", "row": [
+      {"box": "reward", "title": "the mindful", "sub": ["guidance and healing"]},
+      {"box": "trap", "title": "the deniers", "sub": ["heaviness in the ears"]}]},
+    "key": {"label": "What decides the effect", "row": [
+      {"box": "people", "title": "the book alone", "sub": [], "strike": true},
+      {"box": "idea", "title": "the heart that receives it", "sub": ["taqwa"]}]},
+    "then": "Ibn Kathir says the Quran is a reminder for the mindful, and cites: {reward}it is for those who believe a guide and a healing{/reward}, and for those who disbelieve {trap}there is heaviness in their ears.{/trap}",
+    "now": "Two people hear the same verse on the same radio. One stops and thinks, one changes the station. {idea}The difference is the heart.{/idea} {reward}A little taqwa opens the ears.{/reward}",
+    "old": "The Quran does not seem to affect me much.",
+    "new": "The more mindful of Allah I am, the more the Quran reaches me.",
+    "try": "Before reading or listening to Quran today, ask Allah to open your heart to it.",
+    "related": ["41:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:49", "surah": 69, "ayah": 49, "place": "makkah",
+    "title": "We know some among you will still deny.",
+    "subtitle": "Clarity does not force belief",
+    "picture": {"kind": "boxes", "label": "After all this", "row": [
+      {"box": "idea", "title": "clear explanation", "sub": []},
+      {"conn": "still"},
+      {"box": "trap", "title": "some deny", "sub": ["and Allah knows them"]}]},
+    "key": {"label": "My job", "row": [
+      {"box": "people", "title": "make everyone believe", "sub": [], "strike": true},
+      {"box": "idea", "title": "believe myself, and share", "sub": []}]},
+    "then": "Ibn Kathir explains that even {idea}with this explanation and clarification{/idea}, there will still be {trap}those who reject the Quran.{/trap} Allah knew it, and told His Messenger ﷺ so.",
+    "now": "You share a reminder with your family and someone rolls their eyes. You explain your faith to a coworker and it goes nowhere. {idea}Allah already knew some would deny.{/idea} {reward}Your task is to be sincere, not to convince everyone.{/reward}",
+    "old": "If people do not accept what I share, I failed.",
+    "new": "Some will deny however clear it is. My part is to share sincerely.",
+    "try": "Share one good reminder today and let go of how it is received.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:50", "surah": 69, "ayah": 50, "place": "makkah",
+    "title": "It will be deep regret for those who reject it.",
+    "subtitle": "The Quran ignored becomes a sorrow",
+    "picture": {"kind": "boxes", "label": "Two meanings", "row": [
+      {"box": "trap", "title": "the rejection", "sub": ["anguish on that Day"]},
+      {"box": "trap", "title": "the Quran itself", "sub": ["a cause of anguish"]}]},
+    "key": {"label": "What the Quran becomes", "row": [
+      {"box": "reward", "title": "a guide", "sub": ["if followed"]},
+      {"box": "trap", "title": "a regret", "sub": ["if rejected"]}]},
+    "then": "Ibn Jarir said {trap}this rejection will be anguish for the disbelievers on the Day of Judgment.{/trap} Ibn Kathir adds it may refer to the Quran itself, and cites: {trap}a barrier will be set between them and what they desire.{/trap}",
+    "now": "The course you never took. The call you never returned. {trap}Regret is for chances missed.{/trap} {reward}The Quran is a chance in your hand right now.{/reward}",
+    "old": "I can always come back to the Quran later.",
+    "new": "The Quran I ignore now could become my regret. The Quran I follow becomes my guide.",
+    "try": "Set a small daily Quran time, even five minutes, starting today.",
+    "related": ["26:200", "34:54"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:51", "surah": 69, "ayah": 51, "place": "makkah",
+    "title": "It is the certain truth.",
+    "subtitle": "No doubt, suspicion, or confusion in it",
+    "picture": {"kind": "boxes", "label": "What it is", "row": [
+      {"box": "idea", "title": "haqq", "sub": ["true"]},
+      {"box": "idea", "title": "yaqin", "sub": ["certain"]},
+      {"conn": "no"},
+      {"box": "trap", "title": "doubt", "sub": ["or confusion"]}]},
+    "key": {"label": "The surah's circle", "row": [
+      {"box": "idea", "title": "al-Haqqah", "sub": ["the opening"]},
+      {"conn": "to"},
+      {"box": "idea", "title": "haqq al-yaqin", "sub": ["the close"]}]},
+    "then": "Ibn Kathir says it is {idea}the right and truthful news in which there is no doubt, suspicion or confusion.{/idea} The surah began with al-Haqqah, the inevitable reality, and {reward}closes by calling the Quran the certain truth.{/reward}",
+    "now": "Headlines change by the hour. Experts reverse themselves. Your feed contradicts itself before lunch. {trap}Certainty is rare.{/trap} {reward}Here is a book with none of that doubt.{/reward}",
+    "old": "Nothing can really be known for certain.",
+    "new": "The Quran is truth I can stand on when everything else shifts.",
+    "try": "When you feel unsure today, read one verse and let it steady you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:52", "surah": 69, "ayah": 52, "place": "makkah",
+    "title": "So glorify the name of your Lord, the Most Great.",
+    "subtitle": "The fitting response to all that was said",
+    "picture": {"kind": "boxes", "label": "After the surah", "row": [
+      {"box": "idea", "title": "the Day is real", "sub": []},
+      {"box": "idea", "title": "the Quran is true", "sub": []},
+      {"conn": "so"},
+      {"box": "reward", "title": "glorify your Lord", "sub": ["the Most Great"]}]},
+    "key": {"label": "The response", "row": [
+      {"box": "people", "title": "close the book and move on", "sub": [], "strike": true},
+      {"box": "reward", "title": "glorify Him", "sub": ["Who sent it down"]}]},
+    "then": "Ibn Kathir says this means glorify {idea}the One Who sent down this magnificent Quran.{/idea} After the Day of Judgment, the records, and the truth of the message, {reward}the surah ends with praise.{/reward}",
+    "now": "You finish a powerful talk and immediately check your phone. {trap}The moment passes.{/trap} {reward}This verse asks you to end with your Lord's name on your tongue.{/reward}",
+    "old": "After reading, I just move on with my day.",
+    "new": "The right ending to hearing the truth is glorifying the One who sent it.",
+    "try": "Say subhana Rabbiyal 'Azim slowly three times right now, then in each ruku' today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

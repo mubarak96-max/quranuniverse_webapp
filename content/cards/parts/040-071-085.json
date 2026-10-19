@@ -1,0 +1,296 @@
+[
+  {
+    "id": "40:71", "surah": 40, "ayah": 71, "place": "makkah",
+    "title": "Those who lived unbound will be bound.",
+    "subtitle": "Collars and chains for those who denied the Book",
+    "picture": {"kind": "boxes", "label": "A reversal", "row": [
+      {"box": "people", "title": "in this life", "sub": ["free to deny"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "that Day", "sub": ["bound and led"]}]},
+    "key": {"label": "What freedom is", "row": [
+      {"box": "people", "title": "no limits on me", "sub": ["do whatever I like"], "strike": true},
+      {"box": "idea", "title": "freely choosing good", "sub": ["while I still can"]}]},
+    "then": "These verses continue the warning to {trap}those who deny the Book and the messengers.{/trap} Ibn Kathir says the chains are attached to the collars and {trap}the keepers of Hell will drag them along.{/trap} Those who refused every limit end up with no freedom at all.",
+    "now": "You tell yourself no one can tell you what to do. No rules, no limits, just your choices. {idea}This verse shows where unchecked freedom can end.{/idea} The real freedom is choosing good today, while you still can.",
+    "old": "Freedom means no one tells me what to do.",
+    "new": "Real freedom is using my choices well, while they are still mine.",
+    "try": "Choose one limit for yourself today for Allah's sake, and keep it gently.",
+    "related": ["77:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:72", "surah": 40, "ayah": 72, "place": "makkah",
+    "title": "From scalding water into the Fire.",
+    "subtitle": "The end the deniers were warned about",
+    "picture": {"kind": "boxes", "label": "Their path that Day", "row": [
+      {"box": "trap", "title": "scalding water", "sub": []},
+      {"conn": "then"},
+      {"box": "trap", "title": "the Fire", "sub": []}]},
+    "key": {"label": "Why it is described", "row": [
+      {"box": "people", "title": "to scare me off", "sub": [], "strike": true},
+      {"box": "idea", "title": "to turn me back", "sub": ["while the door is open"]}]},
+    "then": "Ibn Kathir links this verse to 55:43-44, where those who denied Hell {trap}go between it and fierce boiling water.{/trap} It is the outcome of a life spent arguing against the signs of Allah.",
+    "now": "Hard verses like this are not there to crush you. They are there for the moment you are about to cross a line you know is wrong. {idea}Remembering the end can stop you at the edge.{/idea} And the door of repentance is still open.",
+    "old": "Thinking about Hell only makes me anxious.",
+    "new": "Remembering the end is a mercy that keeps me from walking toward it.",
+    "try": "Make the short dua today: O Allah, protect me from the Fire. Say it with hope.",
+    "related": ["55:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:73", "surah": 40, "ayah": 73, "place": "makkah",
+    "title": "Where are the partners you used to worship?",
+    "subtitle": "The question asked when help is needed most",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "plain", "title": "where are they", "sub": ["the partners"]},
+      {"conn": "can they"},
+      {"box": "trap", "title": "help you today", "sub": ["no answer"]}]},
+    "key": {"label": "What I lean on", "row": [
+      {"box": "people", "title": "it will be there", "sub": ["when I need it"], "strike": true},
+      {"box": "idea", "title": "only Allah remains", "sub": []}]},
+    "then": "Ibn Kathir explains it will be said to them: {trap}where are the idols you worshipped instead of Allah? Can they help you today?{/trap} The moment they most need help is the moment their gods are gone.",
+    "now": "Imagine every thing you lean on in place of Allah being asked: where are you now? The savings, the status, the people you please. {idea}This question is coming for all of them.{/idea} Better to ask it yourself today.",
+    "old": "The things I rely on will be there when I need them.",
+    "new": "Anything I put beside Allah will be gone when I need it most.",
+    "try": "Ask yourself today: what do I trust that will not be there on that Day?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:74", "surah": 40, "ayah": 74, "place": "makkah",
+    "title": "They vanished. We never really called on anything.",
+    "subtitle": "False gods disappear, and their worshippers deny them",
+    "picture": {"kind": "boxes", "label": "Their answer", "row": [
+      {"box": "trap", "title": "they have vanished", "sub": ["cannot do anything"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "we never worshipped", "sub": ["denying their own past"]}]},
+    "key": {"label": "What was worshipped", "row": [
+      {"box": "people", "title": "something real", "sub": ["as I thought"], "strike": true},
+      {"box": "trap", "title": "nothing", "sub": ["it was empty all along"]}]},
+    "then": "Ibn Kathir explains they will say {trap}their gods have gone and can do nothing for them,{/trap} then deny ever having worshipped them, like 6:23. Their whole life's devotion turns out to have been {trap}to nothing.{/trap}",
+    "now": "Think of something you once lived for: a crush, a rank in a game, a follower count. Years later you can hardly believe it mattered. {idea}Some things look empty only in hindsight.{/idea} Ask now what will look empty later.",
+    "old": "What I live for now will always matter.",
+    "new": "Some things I chase will look like nothing in the end. I can choose differently now.",
+    "try": "Write down one thing you spend hours on. Ask honestly: will this matter on the Day?",
+    "related": ["6:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:75", "surah": 40, "ayah": 75, "place": "makkah",
+    "title": "Because you exulted on earth without right.",
+    "subtitle": "The angels name the cause: arrogant joy and excess",
+    "picture": {"kind": "boxes", "label": "The reason given", "row": [
+      {"box": "trap", "title": "exulting", "sub": ["without any right"]},
+      {"box": "trap", "title": "insolence", "sub": ["extravagance"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "this end", "sub": []}]},
+    "key": {"label": "Two kinds of joy", "row": [
+      {"box": "trap", "title": "joy that boasts", "sub": ["without right"]},
+      {"box": "reward", "title": "joy that thanks", "sub": ["knows the Giver"]}]},
+    "then": "Ibn Kathir says the angels will tell them their suffering is {trap}recompense for exulting in the earth without any right, and for their extravagance.{/trap} It was not happiness that was wrong, but {trap}arrogant joy that forgot Allah.{/trap}",
+    "now": "You get the promotion and post about it like you made it happen alone. You laugh at the one who failed. {trap}That is joy without right.{/trap} The same joy, with alhamdulillah and humility, becomes gratitude.",
+    "old": "My success is mine to show off.",
+    "new": "Joy is good when it thanks Allah. Joy that boasts and looks down is the danger.",
+    "try": "Next time something good happens, say alhamdulillah before you tell anyone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:76", "surah": 40, "ayah": 76, "place": "makkah",
+    "title": "A wretched home for the arrogant.",
+    "subtitle": "Arrogance is named as the defining trait",
+    "picture": {"kind": "boxes", "label": "Who it is for", "row": [
+      {"box": "trap", "title": "the arrogant", "sub": ["ignored His signs"]},
+      {"conn": "enter"},
+      {"box": "trap", "title": "the gates of Hell", "sub": ["a wretched residence"]}]},
+    "key": {"label": "The root sin", "row": [
+      {"box": "people", "title": "just one bad act", "sub": [], "strike": true},
+      {"box": "trap", "title": "arrogance", "sub": ["refusing proof"]}]},
+    "then": "Ibn Kathir says it is {trap}a terrible final destination for those who arrogantly ignored the signs of Allah{/trap} and refused His proof. The surah keeps returning to one root: {idea}pride that will not submit to truth.{/idea}",
+    "now": "Pride does not always look loud. Sometimes it is quietly refusing to say sorry, or never asking for help, or never admitting you were wrong. {idea}Humility is the antidote,{/idea} and it starts small.",
+    "old": "Arrogance is something only loud people have.",
+    "new": "Quiet pride that refuses truth is the root this surah keeps warning about.",
+    "try": "Admit one mistake to someone today, plainly, without excuses.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:77", "surah": 40, "ayah": 77, "place": "makkah",
+    "title": "Be patient. Whether you see it or not, they return to Us.",
+    "subtitle": "The Prophet ﷺ may not see every promise fulfilled",
+    "picture": {"kind": "boxes", "label": "Two possibilities", "row": [
+      {"box": "reward", "title": "you see some of it", "sub": ["in your lifetime"]},
+      {"box": "people", "title": "or you pass first", "sub": []},
+      {"conn": "either way"},
+      {"box": "idea", "title": "they return to Us", "sub": ["the promise holds"]}]},
+    "key": {"label": "When patience pays", "row": [
+      {"box": "people", "title": "only if I see results", "sub": [], "strike": true},
+      {"box": "idea", "title": "the promise is true", "sub": ["with or without me"]}]},
+    "then": "Ibn Kathir says Allah commands the Prophet ﷺ {idea}to patiently bear the rejection{/idea} of his people. He did see much of it: {reward}Makkah and the Arabian Peninsula during his lifetime.{/reward} But the verse says even if not, all return to Allah.",
+    "now": "You raise your kids well, plant a tree, start a project for your community. You may not see how it turns out. {idea}You do not have to see the end to be sure of it.{/idea}",
+    "old": "If I will not see the results, why bother?",
+    "new": "Allah's promise is true whether I live to see it or not.",
+    "try": "Do one good thing today whose results you will probably never see.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:78", "surah": 40, "ayah": 78, "place": "makkah",
+    "title": "Many messengers, most of their stories untold.",
+    "subtitle": "Signs only by Allah's permission",
+    "picture": {"kind": "boxes", "label": "The messengers", "row": [
+      {"box": "people", "title": "stories told", "sub": ["some of them"]},
+      {"box": "people", "title": "stories not told", "sub": ["many, many more"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "signs", "sub": ["only by His leave"]}]},
+    "key": {"label": "Who makes miracles", "row": [
+      {"box": "people", "title": "the messenger", "sub": ["on demand"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["when He permits"]}]},
+    "then": "Ibn Kathir says Allah {reward}consoles the Prophet ﷺ{/reward}: many messengers came before, and those whose stories are not told are many more. {idea}None could bring a sign except by Allah's leave.{/idea} When His command comes, it is decided with truth.",
+    "now": "You think of the good people in history and know a handful of names. Most did their work unseen. {idea}Being unknown to people is not the same as being unknown to Allah.{/idea}",
+    "old": "If my good work is not known, it does not count.",
+    "new": "Most of Allah's messengers are unnamed to us. He knows every one.",
+    "try": "Do one good deed today that will never be posted, praised, or known.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:79", "surah": 40, "ayah": 79, "place": "makkah",
+    "title": "Animals to ride and to eat, made for you.",
+    "subtitle": "Livestock as a daily sign of His care",
+    "picture": {"kind": "boxes", "label": "The livestock", "row": [
+      {"box": "reward", "title": "camels", "sub": ["ride, milk, carry"]},
+      {"box": "reward", "title": "cattle", "sub": ["food, milk, plowing"]},
+      {"box": "reward", "title": "sheep", "sub": ["food, milk, wool"]}]},
+    "key": {"label": "Where food comes from", "row": [
+      {"box": "people", "title": "the supermarket", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah made them for you", "sub": []}]},
+    "then": "Ibn Kathir lists the blessing: camels are ridden, milked and carry burdens to distant lands; cattle give milk and plow; sheep give food and milk; {reward}their hair and wool make tents and clothing.{/reward} {idea}All made for people by Allah.{/idea}",
+    "now": "Your dinner came in plastic from a shelf. The milk in your tea, the wool in your jumper, the leather of your shoes. {idea}Every one of them traces back to animals Allah made for you.{/idea}",
+    "old": "Food and clothing are just things I buy.",
+    "new": "The animals that feed and clothe me are a gift Allah made for me.",
+    "try": "At your next meal, say bismillah slowly and think of where the food came from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:80", "surah": 40, "ayah": 80, "place": "makkah",
+    "title": "On animals and ships you reach what your heart wants.",
+    "subtitle": "Travel and getting to your goals as a blessing",
+    "picture": {"kind": "boxes", "label": "How you are carried", "row": [
+      {"box": "reward", "title": "on animals", "sub": ["many benefits"]},
+      {"box": "reward", "title": "on ships", "sub": ["across the sea"]},
+      {"conn": "to reach"},
+      {"box": "people", "title": "a need in your heart", "sub": []}]},
+    "key": {"label": "Who gets you there", "row": [
+      {"box": "people", "title": "my own effort", "sub": ["only"], "strike": true},
+      {"box": "idea", "title": "He carries you", "sub": ["by what He made"]}]},
+    "then": "The verse continues the list of what livestock give: {reward}many other benefits,{/reward} and the means to {reward}reach a need in your heart,{/reward} with ships alongside them. Ibn Kathir notes camels carried heavy loads on journeys to distant lands.",
+    "now": "You board the bus, the plane, the ferry to visit family or reach a new job. {idea}You are carried.{/idea} The verse invites you to notice that every journey toward something you want is a gift.",
+    "old": "Getting where I need to go is just logistics.",
+    "new": "Every journey that brings me to what I want is Allah carrying me.",
+    "try": "On your next trip, say the travel dua or simply thank Allah as you set off.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:81", "surah": 40, "ayah": 81, "place": "makkah",
+    "title": "He shows you His signs. Which one will you deny?",
+    "subtitle": "Signs on the horizons and in yourselves",
+    "picture": {"kind": "boxes", "label": "Where the signs are", "row": [
+      {"box": "idea", "title": "the horizons", "sub": ["sky, animals, sea"]},
+      {"box": "idea", "title": "yourselves", "sub": ["your own life"]},
+      {"conn": "so"},
+      {"box": "plain", "title": "which do you deny", "sub": []}]},
+    "key": {"label": "What denial takes", "row": [
+      {"box": "people", "title": "honest doubt", "sub": [], "strike": true},
+      {"box": "trap", "title": "stubbornness", "sub": ["and arrogance"]}]},
+    "then": "Ibn Kathir explains He shows you {idea}His proof and evidence, on the horizons and in yourselves.{/idea} You cannot deny any of them {trap}unless you are stubborn and arrogant.{/trap}",
+    "now": "Your heartbeat, the way a wound closes, your child's first word, the sunrise from the window. {idea}Signs are not rare. They are constant.{/idea} The question is which one you will keep walking past.",
+    "old": "Signs of Allah are rare and hard to find.",
+    "new": "His signs are everywhere, including in me. Ignoring them takes effort.",
+    "try": "Find one sign of Allah in your own body today and thank Him for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:82", "surah": 40, "ayah": 82, "place": "makkah",
+    "title": "More people, more power, more building. None of it helped.",
+    "subtitle": "The surah returns to the ruins of past nations",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "numbers", "sub": ["more than them"]},
+      {"box": "reward", "title": "strength", "sub": []},
+      {"box": "reward", "title": "traces in the land", "sub": ["great wealth"]},
+      {"conn": "availed"},
+      {"box": "trap", "title": "nothing", "sub": []}]},
+    "key": {"label": "What I earn", "row": [
+      {"box": "reward", "title": "my wealth protects me", "sub": [], "strike": true},
+      {"box": "idea", "title": "only what I did for Him", "sub": []}]},
+    "then": "As the surah closes, it echoes verse 21. Ibn Kathir says these nations had {reward}great strength, left traces in the earth and amassed great wealth.{/reward} {trap}None of that could prevent the punishment of Allah at all.{/trap}",
+    "now": "You work overtime to build a bigger safety net: more income, more contacts, more property. Fine, but quietly you think it makes you safe. {idea}Earnings help here. They do not protect you from Allah.{/idea}",
+    "old": "Earning more will make me safe.",
+    "new": "What I earn cannot save me. Only how I lived before Allah can.",
+    "try": "Give a small charity today from your earnings, as a sign of where your trust is.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:83", "surah": 40, "ayah": 83, "place": "makkah",
+    "title": "They were pleased with their own knowledge and mocked the rest.",
+    "subtitle": "Knowledge as a reason to refuse guidance",
+    "picture": {"kind": "boxes", "label": "Their response", "row": [
+      {"box": "people", "title": "messengers", "sub": ["clear proofs"]},
+      {"conn": "met by"},
+      {"box": "trap", "title": "we know better", "sub": ["proud of worldly knowledge"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "what they mocked", "sub": ["surrounded them"]}]},
+    "key": {"label": "What knowledge is for", "row": [
+      {"box": "people", "title": "proof I need no one", "sub": [], "strike": true},
+      {"box": "idea", "title": "a reason for humility", "sub": ["there is more to know"]}]},
+    "then": "Ibn Kathir says they {trap}were content with the knowledge they had{/trap} and said they did not need what the messengers brought. Mujahid said they claimed, {trap}we know better than them; we will not be resurrected.{/trap}",
+    "now": "You have a degree, you read a lot, you can win any debate at dinner. It is easy to feel you have outgrown faith. {idea}Knowing a lot about the world can make you deaf to what is beyond it.{/idea}",
+    "old": "I know enough not to need guidance.",
+    "new": "Worldly knowledge is good, but it can make me too proud to hear the truth.",
+    "try": "Ask a question today about faith that you assumed you already knew the answer to.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:84", "surah": 40, "ayah": 84, "place": "makkah",
+    "title": "When they saw the punishment, they finally said: Allah alone.",
+    "subtitle": "Belief that arrives only when it is forced",
+    "picture": {"kind": "boxes", "label": "Their last words", "row": [
+      {"box": "trap", "title": "they saw it", "sub": ["with their own eyes"]},
+      {"conn": "then said"},
+      {"box": "people", "title": "we believe in Allah alone", "sub": ["too late"]}]},
+    "key": {"label": "When belief counts", "row": [
+      {"box": "trap", "title": "after seeing it", "sub": ["like Pharaoh drowning"]},
+      {"box": "reward", "title": "before seeing it", "sub": ["faith in the unseen"]}]},
+    "then": "Ibn Kathir says they affirmed Allah is One and rejected their false gods, {trap}but at the time when excuses were of no use.{/trap} He compares it to {trap}Pharaoh saying I believe as he was drowning{/trap} (10:90).",
+    "now": "Everyone believes in the alarm once the smoke is in the room. {reward}The value of faith is believing before you see.{/reward} The words they said too late are words you can say today, and they count.",
+    "old": "I will commit fully when I see proof with my own eyes.",
+    "new": "Faith counts because it comes before seeing. Today the same words still count.",
+    "try": "Say la ilaha illallah slowly today, knowing it counts because you have not seen.",
+    "related": ["10:90"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:85", "surah": 40, "ayah": 85, "place": "makkah",
+    "title": "Faith after seeing the punishment does not help.",
+    "subtitle": "The way of Allah, and the open door before it",
+    "picture": {"kind": "boxes", "label": "The rule", "row": [
+      {"box": "reward", "title": "repentance accepted", "sub": ["until the death rattle"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "door closed", "sub": ["the way of Allah"]}]},
+    "key": {"label": "How long the door is open", "row": [
+      {"box": "people", "title": "I have unlimited time", "sub": [], "strike": true},
+      {"box": "reward", "title": "open now", "sub": ["not forever"]}]},
+    "then": "Ibn Kathir explains this is {idea}the way of Allah with all who repent only when they see the punishment.{/idea} He cites the hadith: {reward}Allah accepts the repentance of His servant as long as the death rattle has not reached his throat.{/reward} With this, the surah ends.",
+    "now": "The surah opened with the Forgiver of sin, the Acceptor of repentance. It closes by showing the door does not stay open forever. {reward}Right now, reading this, it is open.{/reward}",
+    "old": "I can always repent later, at the end.",
+    "new": "The door of repentance is wide open now, and I do not know when it closes.",
+    "try": "Before you sleep tonight, repent sincerely for one thing. Do not wait for later.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

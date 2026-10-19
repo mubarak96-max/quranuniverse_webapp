@@ -1,0 +1,195 @@
+[
+  {
+    "id": "53:53", "surah": 53, "ayah": 53, "place": "makkah",
+    "title": "The overturned towns, brought down.",
+    "subtitle": "The cities of Lut's people",
+    "picture": {"kind": "boxes", "label": "The towns", "row": [
+      {"box": "people", "title": "the towns", "sub": ["where Lut was sent"]},
+      {"conn": "were"},
+      {"box": "trap", "title": "overturned", "sub": ["turned upside down"]}]},
+    "key": {"label": "What was turned over", "row": [
+      {"box": "trap", "title": "a way of life", "sub": ["defended to the end"]},
+      {"box": "idea", "title": "the warning", "sub": ["given by Lut first"]}]},
+    "then": "Ibn Kathir says these are {trap}the cities to which Prophet Lut was sent{/trap}. Allah turned their cities upside down over them. Like the other nations in this list, they had been warned by a prophet first.",
+    "now": "You keep telling yourself a habit is harmless because everyone around you does it. {idea}Normal around you is not the same as right.{/idea} The verse invites a look at your own life, not your neighbor's.",
+    "old": "If everyone in my circle does it, it cannot be that bad.",
+    "new": "A warning ignored by a whole town is still a warning.",
+    "try": "Look at one habit your circle treats as normal and ask honestly if Allah is pleased with it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:54", "surah": 53, "ayah": 54, "place": "makkah",
+    "title": "Covered by what covered them.",
+    "subtitle": "Left unnamed, so it weighs more",
+    "picture": {"kind": "boxes", "label": "What came down", "row": [
+      {"box": "trap", "title": "what covered them", "sub": ["stones, per Ibn Kathir"]},
+      {"conn": "on"},
+      {"box": "people", "title": "the towns", "sub": ["who had been warned"]}]},
+    "key": {"label": "Two coverings in one surah", "row": [
+      {"box": "reward", "title": "the Lote Tree", "sub": ["covered with light"]},
+      {"box": "trap", "title": "the towns", "sub": ["covered with punishment"]}]},
+    "then": "Ibn Kathir says what covered them is like {trap}the stones sent on them{/trap}, citing: how evil was the rain of those who had been warned. The same phrase appeared earlier for the Lote Tree, which was covered with {reward}light and colors{/reward}.",
+    "now": "Two people hear the same reminder on the same Friday. One goes home softer, one goes home annoyed. {idea}The same words can cover you with light or leave you exposed.{/idea} The difference is how you receive them.",
+    "old": "Warnings are for people much worse than me.",
+    "new": "The same message can lift me or condemn me, depending on how I receive it.",
+    "try": "Take one reminder you hear this week and act on it within a day.",
+    "related": ["26:173"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:55", "surah": 53, "ayah": 55, "place": "makkah",
+    "title": "Which of your Lord's favors will you doubt?",
+    "subtitle": "After the whole list, the question",
+    "picture": {"kind": "boxes", "label": "The favors listed", "row": [
+      {"box": "reward", "title": "laughter and tears", "sub": []},
+      {"box": "reward", "title": "life", "sub": []},
+      {"box": "reward", "title": "wealth, contentment", "sub": []},
+      {"box": "reward", "title": "warnings", "sub": ["from past nations"]},
+      {"conn": "which will you"},
+      {"box": "trap", "title": "doubt?", "sub": []}]},
+    "key": {"label": "Who is asked", "row": [
+      {"box": "people", "title": "O man", "sub": ["per Qatadah"]},
+      {"box": "people", "title": "that means me", "sub": ["the reader"]}]},
+    "then": "Qatadah explained it as: {idea}which of Allah's favors for you, O man, do you doubt?{/idea} Ibn Jarir preferred this meaning. It closes the long list of what Allah does: laughter, tears, life, death, wealth, and the lessons of past peoples.",
+    "now": "You scroll past a hundred blessings a day: hot water, a working phone, a friend who texts back. {trap}Then one thing goes wrong and you wonder if He cares.{/trap} The question is put to you.",
+    "old": "I am not sure Allah has really been good to me.",
+    "new": "The list of His favors is longer than my doubts.",
+    "try": "Write down five favors from today before you sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:56", "surah": 53, "ayah": 56, "place": "makkah",
+    "title": "A warner, like the warners before.",
+    "subtitle": "Not a new thing among the messengers",
+    "picture": {"kind": "boxes", "label": "The line of warners", "row": [
+      {"box": "people", "title": "earlier messengers", "sub": ["the warners of old"]},
+      {"conn": "and now"},
+      {"box": "idea", "title": "the Prophet ﷺ", "sub": ["a warner like them"]}]},
+    "key": {"label": "What a warner is", "row": [
+      {"box": "trap", "title": "a threat", "sub": ["someone trying to scare"], "strike": true},
+      {"box": "idea", "title": "someone who rushes", "sub": ["to save you in time"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ was sent {idea}just like the warners of old{/idea}, citing: I am not a new thing among the messengers. The Prophet ﷺ described himself as {idea}the naked warner{/idea}, one who rushes to warn his people so fast he does not stop to dress.",
+    "now": "Your friend sees smoke from your kitchen and runs in shouting, without shoes. You do not call that rude. {idea}A real warner is someone who loves you enough to hurry.{/idea}",
+    "old": "Warnings in religion are just meant to scare me.",
+    "new": "A warner hurries because he cares what happens to me.",
+    "try": "Thank someone today who once warned you about something for your own good.",
+    "related": ["46:9", "34:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:57", "surah": 53, "ayah": 57, "place": "makkah",
+    "title": "The near event has come near.",
+    "subtitle": "The Day of Resurrection draws closer",
+    "picture": {"kind": "boxes", "label": "What approaches", "row": [
+      {"box": "idea", "title": "al-Azifah", "sub": ["the Day of Resurrection"]},
+      {"conn": "has drawn"},
+      {"box": "trap", "title": "near", "sub": ["nearer than it was"]}]},
+    "key": {"label": "Small things add up", "row": [
+      {"box": "trap", "title": "one stick of wood", "sub": ["a small sin"]},
+      {"conn": "and another"},
+      {"box": "trap", "title": "a fire", "sub": ["enough to cook bread"]}]},
+    "then": "Ibn Kathir says this is the {idea}Day of Resurrection, drawn nearer{/idea}, like the next surah's opening, the Hour has drawn near. He cites the Prophet's ﷺ warning about small sins: {trap}people each bring one stick until they have enough fire to bake bread{/trap}.",
+    "now": "One skipped prayer. One small lie on a form. One unkind joke in the group chat. {trap}Each feels like a single stick.{/trap} The Day is coming closer while the pile grows.",
+    "old": "There is plenty of time, and my sins are small.",
+    "new": "The Day is near, and small sins add up like sticks on a fire.",
+    "try": "Pick one small sin you repeat and drop it for today.",
+    "related": ["54:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:58", "surah": 53, "ayah": 58, "place": "makkah",
+    "title": "No one but Allah can lift it.",
+    "subtitle": "Nobody can stop it or say when",
+    "picture": {"kind": "boxes", "label": "Who can avert it", "row": [
+      {"box": "trap", "title": "anyone else", "sub": ["no one"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["alone knows its time"]}]},
+    "key": {"label": "What I can control", "row": [
+      {"box": "trap", "title": "when it comes", "sub": ["not mine"], "strike": true},
+      {"box": "idea", "title": "how I meet it", "sub": ["that is mine"]}]},
+    "then": "Ibn Kathir says {idea}no one besides Allah can prevent it from coming{/idea}, nor does anyone know when it will come except Him. The warner hurries to tell people about it so that it does not catch them unprepared.",
+    "now": "You cannot stop an exam date, a due date, a court date. You can only prepare. {idea}The Day is the same: not in your control, but your readiness is.{/idea}",
+    "old": "If I cannot control it, why think about it?",
+    "new": "I cannot stop the Day, but I can be ready for it.",
+    "try": "Do one thing today you would want done if the Day came tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:59", "surah": 53, "ayah": 59, "place": "makkah",
+    "title": "Are you surprised by this message?",
+    "subtitle": "Wonder that is really doubt",
+    "picture": {"kind": "boxes", "label": "Their reaction", "row": [
+      {"box": "idea", "title": "the Quran", "sub": ["recited to them"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "wonder", "sub": ["doubting it is true"]}]},
+    "key": {"label": "Two kinds of wonder", "row": [
+      {"box": "trap", "title": "can this be true?", "sub": ["doubt dressed as surprise"], "strike": true},
+      {"box": "idea", "title": "how true this is", "sub": ["awe that moves you"]}]},
+    "then": "Ibn Kathir says Allah admonishes the idolaters because they {trap}hear the Quran, yet turn away from it in heedless play{/trap}. Their wondering was {trap}doubting that it is true{/trap}.",
+    "now": "Someone shares a verse in the family chat and you react with a raised eyebrow, half amused, half dismissive. {trap}Surprise can be a polite way of not listening.{/trap}",
+    "old": "Some of what the Quran says is just surprising, not serious.",
+    "new": "My surprise should turn into reflection, not dismissal.",
+    "try": "Take one verse that surprised you and read its tafsir this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:60", "surah": 53, "ayah": 60, "place": "makkah",
+    "title": "You laugh, and you do not weep.",
+    "subtitle": "The wrong response to the right words",
+    "picture": {"kind": "boxes", "label": "Two responses", "row": [
+      {"box": "trap", "title": "laughing", "sub": ["in jest and mockery"]},
+      {"box": "reward", "title": "weeping", "sub": ["as believers do"]}]},
+    "key": {"label": "What the believers did", "row": [
+      {"box": "trap", "title": "laugh it off", "sub": ["no effect"], "strike": true},
+      {"box": "reward", "title": "fall down weeping", "sub": ["and grow in humility"]}]},
+    "then": "Ibn Kathir says they laughed {trap}in jest and mockery{/trap}, and did not weep {reward}as those who believe in it weep{/reward}. He cites the believers who fall on their faces weeping, and it increases their humility. Earlier, the surah said He makes people laugh and weep.",
+    "now": "You hear a heavy reminder in a talk and someone near you cracks a joke. You laugh too. {trap}Laughter can be a way to escape a feeling we should stay with.{/trap}",
+    "old": "Making light of serious things is just my personality.",
+    "new": "Some words deserve tears, and laughing them off is a loss.",
+    "try": "Listen to one recitation today without your phone, and let it reach you.",
+    "related": ["17:109"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:61", "surah": 53, "ayah": 61, "place": "makkah",
+    "title": "While you amuse yourselves and look away.",
+    "subtitle": "Distraction in place of listening",
+    "picture": {"kind": "boxes", "label": "What samidun means", "row": [
+      {"box": "trap", "title": "singing", "sub": ["Ibn Abbas, Yemeni dialect"]},
+      {"box": "trap", "title": "turning away", "sub": ["Ibn Abbas, Mujahid, Ikrimah"]}]},
+    "key": {"label": "Noise vs attention", "row": [
+      {"box": "trap", "title": "drown it out", "sub": ["with entertainment"], "strike": true},
+      {"box": "idea", "title": "listen", "sub": ["in silence"]}]},
+    "then": "Ibn Abbas said samidun means {trap}singing{/trap}, from a Yemeni usage: sing for us. In another report he said it means {trap}turning away{/trap}, and Mujahid and Ikrimah said the same. They filled the air with noise rather than hear.",
+    "now": "Silence makes you uneasy, so a podcast plays in the car, music in the kitchen, a video while you eat. {trap}There is never a quiet moment for anything to reach you.{/trap}",
+    "old": "Background noise is harmless. It helps me relax.",
+    "new": "Constant noise can be a way of turning away.",
+    "try": "Spend five minutes in silence today with nothing playing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "53:62", "surah": 53, "ayah": 62, "place": "makkah",
+    "title": "So prostrate to Allah and worship Him.",
+    "subtitle": "The verse that brought a whole gathering down",
+    "picture": {"kind": "boxes", "label": "That day in Makkah", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["recited and prostrated"]},
+      {"conn": "and with him"},
+      {"box": "people", "title": "everyone present", "sub": ["Muslims and idolaters"]},
+      {"conn": "except"},
+      {"box": "trap", "title": "one old man", "sub": ["raised dust to his forehead"]}]},
+    "key": {"label": "A later regret", "row": [
+      {"box": "trap", "title": "I refused that day", "sub": ["al-Muttalib, not yet Muslim"]},
+      {"box": "reward", "title": "never again", "sub": ["always prostrated after"]}]},
+    "then": "Ibn Abbas reported that when the Prophet ﷺ recited An-Najm and prostrated, {idea}those present prostrated with him{/idea}. Al-Muttalib bin Abi Wada'ah refused that day. After he became Muslim, {reward}he never heard this surah to its end without prostrating{/reward}.",
+    "now": "You hear the call to prayer during a meeting, or a sajdah verse in a recitation, and you hesitate because people might watch. {idea}The whole surah has been building to this one movement.{/idea} It is never too late to make up a missed one.",
+    "old": "I will bow down when the moment is more convenient.",
+    "new": "After all these signs, the right answer is to fall down before Him.",
+    "try": "Make one long, unhurried sujood today and stay in it a little longer than usual.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "27:1", "surah": 27, "ayah": 1, "place": "makkah",
+    "title": "Two letters, then a clear Book.",
+    "subtitle": "Pausing before the surah of the ant",
+    "picture": {"kind": "boxes", "label": "How it opens", "row": [
+      {"box": "plain", "title": "Ta Sin", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the Quran", "sub": ["verses that are recited"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "a clear Book", "sub": ["plain and evident"]}]},
+    "key": {"label": "What the letters ask", "row": [
+      {"box": "people", "title": "solve the code", "sub": ["guess what they mean"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["something clear is coming"]}]},
+    "then": "Surah An-Naml came in the middle Makkan years, right after Ash-Shu'ara. It opens with two letters, Ta and Sin, whose meaning is known to Allah. Then it says what follows is {idea}a Book that is plain and evident{/idea}, not hidden or vague.",
+    "now": "You open the app on the bus, thumb ready to scroll. Two letters you cannot explain sit at the top. {idea}That small not-knowing is a pause button.{/idea} What comes after is meant to be clear, if you slow down enough to hear it.",
+    "old": "Parts of the Quran I cannot explain are not really for me.",
+    "new": "Even what I cannot explain tells me to slow down, because what follows is clear.",
+    "try": "Before your next recitation, take one slow breath and read the first line twice.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:2", "surah": 27, "ayah": 2, "place": "makkah",
+    "title": "Guidance and good news, for those who take it.",
+    "subtitle": "Who actually gets the benefit of the Book",
+    "picture": {"kind": "boxes", "label": "What the Book carries", "row": [
+      {"box": "idea", "title": "guidance", "sub": ["the way to walk"]},
+      {"box": "reward", "title": "good news", "sub": ["what waits at the end"]},
+      {"conn": "reaches"},
+      {"box": "people", "title": "the believers", "sub": ["who follow and practice it"]}]},
+    "key": {"label": "Where the benefit lands", "row": [
+      {"box": "people", "title": "owning a copy", "sub": ["on the shelf"], "strike": true},
+      {"box": "idea", "title": "acting on it", "sub": ["believe, follow, practice"]}]},
+    "then": "Ibn Kathir explains that guidance and good news come from the Quran {idea}for those who believe in it, follow it and put it into practice.{/idea} The same Book is a warning for those who turn away. The listeners in Makkah were hearing which side they could choose.",
+    "now": "The beautiful mushaf from your wedding sits in its box. The Quran app has a streak you broke months ago. {reward}The good news is real{/reward}, but it lands on the person who opens it and does one thing it says.",
+    "old": "Having the Quran close by is enough to be blessed by it.",
+    "new": "The guidance reaches me when I start living by it, even a little.",
+    "try": "Pick one line you already know and act on it once today.",
+    "related": ["41:44", "19:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:3", "surah": 27, "ayah": 3, "place": "makkah",
+    "title": "Prayer, giving, and certainty about the Hereafter.",
+    "subtitle": "Three marks of the people who benefit",
+    "picture": {"kind": "boxes", "label": "The believers described", "row": [
+      {"box": "idea", "title": "prayer", "sub": ["kept up, on time"]},
+      {"box": "idea", "title": "zakah", "sub": ["wealth shared"]},
+      {"box": "reward", "title": "certainty", "sub": ["the Hereafter is real"]}]},
+    "key": {"label": "What holds the other two", "row": [
+      {"box": "people", "title": "habits alone", "sub": ["done on autopilot"], "strike": true},
+      {"box": "idea", "title": "certain of the return", "sub": ["gives the habits meaning"]}]},
+    "then": "The believers of verse 2 are described: they pray, they give, and {reward}they are certain about the Hereafter{/reward}. Ibn Kathir lists what that certainty includes: resurrection, reward and punishment for every deed, Paradise and Hell. The surah introduction says denial of the Hereafter is the biggest block to following the guidance.",
+    "now": "You pray, but your mind is on the email. You give, but you check if anyone noticed. {idea}Certainty about the return changes both.{/idea} The prayer becomes a meeting and the giving becomes savings you will actually see again.",
+    "old": "Prayer and charity are boxes I tick to stay a good Muslim.",
+    "new": "When I am sure I will return to Allah, prayer and giving stop being chores and start being investments.",
+    "try": "Before one prayer today, remind yourself in one sentence that you will meet Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:4", "surah": 27, "ayah": 4, "place": "makkah",
+    "title": "Without the Hereafter, everything you do looks fine.",
+    "subtitle": "How denial makes deeds look beautiful",
+    "picture": {"kind": "boxes", "label": "What happens", "row": [
+      {"box": "trap", "title": "no Hereafter", "sub": ["it will never happen"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "deeds look good", "sub": ["made fair-seeming"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "wandering blindly", "sub": ["lost and confused"]}]},
+    "key": {"label": "The mirror", "row": [
+      {"box": "people", "title": "it feels right", "sub": ["so it must be right"], "strike": true},
+      {"box": "idea", "title": "feeling is not proof", "sub": ["the measure is the return"]}]},
+    "then": "Ibn Kathir explains that those who think the Hereafter will never happen are left with their deeds made to seem good to them. {trap}They are left in their misguidance, lost and confused.{/trap} He calls it the result of their own first refusal.",
+    "now": "Nobody scrolls back through their week and thinks they were the villain. The sharp reply in the family chat felt justified. The shortcut at work felt smart. {trap}Without a day of accounting, everything starts to look fine.{/trap}",
+    "old": "If it feels right to me, it probably is right.",
+    "new": "Things feeling right is exactly what happens when I stop thinking about the return.",
+    "try": "Look at one thing you did this week that felt totally justified. Ask how it looks on the Day.",
+    "related": ["6:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:5", "surah": 27, "ayah": 5, "place": "makkah",
+    "title": "The biggest loss is the one you never saw coming.",
+    "subtitle": "Where blind wandering ends",
+    "picture": {"kind": "boxes", "label": "The end of the road", "row": [
+      {"box": "trap", "title": "wandering blindly", "sub": ["from verse 4"]},
+      {"conn": "ends in"},
+      {"box": "trap", "title": "the worst punishment", "sub": ["here and there"]},
+      {"box": "trap", "title": "greatest losers", "sub": ["lost themselves and wealth"]}]},
+    "key": {"label": "What counts as losing", "row": [
+      {"box": "people", "title": "losing money", "sub": ["a bad deal"], "strike": true},
+      {"box": "trap", "title": "losing yourself", "sub": ["the loss that lasts"]}]},
+    "then": "This continues the description of those who deny the Hereafter. Ibn Kathir says the punishment is in this world and the next, and that among everyone gathered, {trap}they are the ones who lose their own souls and their wealth.{/trap}",
+    "now": "You track losses closely: the stock that dropped, the deposit you never got back, the job that went to someone else. {idea}The verse points at a bigger ledger.{/idea} The real loss is a life spent wandering without ever looking up.",
+    "old": "My biggest losses are the ones that hit my bank account.",
+    "new": "The loss that matters is losing my own self by never preparing for the return.",
+    "try": "Write down one thing you would hate to lose. Then ask what you are doing for your next life this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:6", "surah": 27, "ayah": 6, "place": "makkah",
+    "title": "This comes from the Wise, the Knowing.",
+    "subtitle": "The source behind what the Prophet ﷺ received",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "idea", "title": "the All-Wise", "sub": ["wise in commands"]},
+      {"box": "idea", "title": "the All-Knowing", "sub": ["knows major and minor"]},
+      {"conn": "gives"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["receives the Quran"]}]},
+    "key": {"label": "Why trust it", "row": [
+      {"box": "people", "title": "a man's ideas", "sub": ["what Makkah claimed"], "strike": true},
+      {"box": "idea", "title": "true and just", "sub": ["from the One who knows"]}]},
+    "then": "Allah tells the Prophet ﷺ that he is receiving the Quran from One {idea}Wise in His commands and prohibitions, and Knowing all things, major and minor.{/idea} Ibn Kathir adds that whatever He says is absolute truth and His rulings are fully fair.",
+    "now": "You read a verse that asks something hard of you, and a voice says it does not fit your situation. {idea}The One who said it knows your situation better than you.{/idea} Wisdom is not missing from the command just because you cannot see it yet.",
+    "old": "If a verse does not make sense to me right now, it may not apply to me.",
+    "new": "It comes from the One who knows everything about me, so I can trust it before I understand it.",
+    "try": "Take one teaching you struggle with and ask Allah to show you its wisdom.",
+    "related": ["6:115"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:7", "surah": 27, "ayah": 7, "place": "makkah",
+    "title": "He went for directions and warmth, found far more.",
+    "subtitle": "Musa lost in the dark, seeing a fire",
+    "picture": {"kind": "boxes", "label": "That night", "row": [
+      {"box": "people", "title": "Musa and family", "sub": ["lost, at night, cold"]},
+      {"conn": "sees"},
+      {"box": "plain", "title": "a fire", "sub": ["beside the mountain"]},
+      {"conn": "hopes for"},
+      {"box": "reward", "title": "news or an ember", "sub": ["the way, some warmth"]}]},
+    "key": {"label": "What he went for vs what he got", "row": [
+      {"box": "people", "title": "directions", "sub": ["a small need"]},
+      {"box": "reward", "title": "great news, great light", "sub": ["he was chosen"]}]},
+    "then": "Ibn Kathir describes Musa traveling with his family at night in the dark, {trap}having lost his way.{/trap} He saw a fire by the mountain and went to ask for directions or bring back an ember. In the end, he came back with {reward}great news and a great light.{/reward}",
+    "now": "You walk into the mosque only because you needed a quiet place to sit after the hospital visit. You open the Quran because sleep would not come. {reward}Small, ordinary needs can lead you to the biggest turning points.{/reward}",
+    "old": "I only turn to Allah for small practical needs, so it does not really count.",
+    "new": "Walking toward Allah for a small need can be the start of something much bigger.",
+    "try": "Next time you need something small, go to Allah for it first, out loud.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:8", "surah": 27, "ayah": 8, "place": "makkah",
+    "title": "A fire that was blessing, not danger.",
+    "subtitle": "The call Musa heard at the bush",
+    "picture": {"kind": "boxes", "label": "What he found", "row": [
+      {"box": "plain", "title": "the bush", "sub": ["burning, yet greener"]},
+      {"conn": "a voice"},
+      {"box": "reward", "title": "blessed", "sub": ["who is at it, around it"]},
+      {"box": "idea", "title": "glory to Allah", "sub": ["Lord of the worlds"]}]},
+    "key": {"label": "How to see it", "row": [
+      {"box": "plain", "title": "a strange sight", "sub": ["something to fear"], "strike": true},
+      {"box": "idea", "title": "a holy moment", "sub": ["Allah is above it all"]}]},
+    "then": "Ibn Kathir describes a {idea}fire burning in a green bush, the bush growing greener as the fire grew brighter.{/idea} Ibn Abbas said it was shining light. Musa stood amazed and was called. Allah is then glorified as far above all creation, nothing like Him.",
+    "now": "Some moments stop you: a newborn's first breath in a hospital room, the sky at Fajr with the street empty. {idea}You are standing near something sacred.{/idea} The right reaction is to slow down and say subhanAllah.",
+    "old": "Overwhelming moments are just strange things that happen.",
+    "new": "Some moments are reminders that I am standing in front of the Lord of the worlds.",
+    "try": "The next time something amazes you today, say subhanAllah before you reach for your phone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:9", "surah": 27, "ayah": 9, "place": "makkah",
+    "title": "It is I, Allah, the Mighty, the Wise.",
+    "subtitle": "Allah introduces Himself to Musa",
+    "picture": {"kind": "boxes", "label": "Who was speaking", "row": [
+      {"box": "people", "title": "O Musa", "sub": ["called by name"]},
+      {"conn": "it is"},
+      {"box": "idea", "title": "Allah", "sub": ["no one else"]},
+      {"box": "idea", "title": "Mighty, Wise", "sub": ["power with purpose"]}]},
+    "key": {"label": "Two names together", "row": [
+      {"box": "idea", "title": "All-Mighty", "sub": ["subdued all things"]},
+      {"box": "idea", "title": "All-Wise", "sub": ["in every word and deed"]}]},
+    "then": "Ibn Kathir explains that Allah told Musa {idea}the One addressing him was his Lord, the All-Mighty who has subdued all things, the All-Wise in all His words and deeds.{/idea} Musa was being prepared for a mission to Pharaoh.",
+    "now": "You are about to face something big: a tough boss, a family conflict, a diagnosis. {idea}The One who calls you by name is Mighty enough to help and Wise enough to know how.{/idea} His power never comes without purpose.",
+    "old": "Powerful people do what they want, and sometimes that crushes me.",
+    "new": "The One who is truly powerful is also perfectly wise, and He knows my name.",
+    "try": "Before facing something hard today, say \"Ya Aziz, Ya Hakim\" and ask Him for help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:10", "surah": 27, "ayah": 10, "place": "makkah",
+    "title": "He ran, and Allah said: do not fear.",
+    "subtitle": "The staff, the snake, and reassurance",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "plain", "title": "the staff", "sub": ["thrown down"]},
+      {"conn": "became"},
+      {"box": "trap", "title": "a quick snake", "sub": ["moving fast"]},
+      {"conn": "so"},
+      {"box": "people", "title": "Musa ran", "sub": ["did not look back"]}]},
+    "key": {"label": "The reassurance", "row": [
+      {"box": "people", "title": "fear means failure", "sub": ["I am not ready"], "strike": true},
+      {"box": "idea", "title": "fear not", "sub": ["you are chosen, safe here"]}]},
+    "then": "When Musa threw his stick, it moved like a fast, agile snake, and he ran without looking back {trap}because he was so afraid.{/trap} Ibn Kathir explains the reply: {idea}do not fear, I want to choose you as a Messenger.{/idea}",
+    "now": "Your hands shake in the interview. You freeze at the first speech, the first night with a newborn, the first day at a new job. {idea}Musa ran too.{/idea} Fear in the moment did not cancel his calling.",
+    "old": "If I am scared, maybe I am not the right person for this.",
+    "new": "Even a great prophet felt fear, and Allah answered it with reassurance, not rejection.",
+    "try": "Name one fear you carry about something Allah has put in your path. Ask Him to calm it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:11", "surah": 27, "ayah": 11, "place": "makkah",
+    "title": "Wrong, then good after evil, then forgiveness.",
+    "subtitle": "Good news tucked into Musa's call",
+    "picture": {"kind": "boxes", "label": "The path back", "row": [
+      {"box": "trap", "title": "did wrong", "sub": ["an evil deed"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "good after evil", "sub": ["gives it up, repents"]},
+      {"conn": "meets"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["repentance accepted"]}]},
+    "key": {"label": "What the past decides", "row": [
+      {"box": "trap", "title": "the wrong I did", "sub": ["defines me forever"], "strike": true},
+      {"box": "idea", "title": "what I do next", "sub": ["can replace it"]}]},
+    "then": "Ibn Kathir calls this {reward}good news for mankind:{/reward} whoever does an evil deed, then gives it up and repents and turns to Allah, Allah will accept his repentance. He points to other verses that say the same.",
+    "now": "You still remember what you said to your mother at sixteen. The money you never paid back. The years you did not pray. {reward}The door is not about your past.{/reward} It is about swapping the bad for something good, starting now.",
+    "old": "What I did is too heavy for me to start over.",
+    "new": "Allah asks me to replace bad with good, and He meets that with forgiveness.",
+    "try": "Pick one old wrong. Do one good thing today that moves the other way.",
+    "related": ["20:82", "4:110"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:12", "surah": 27, "ayah": 12, "place": "makkah",
+    "title": "A shining hand, one of nine signs.",
+    "subtitle": "Equipped before being sent to Pharaoh",
+    "picture": {"kind": "boxes", "label": "The second sign", "row": [
+      {"box": "people", "title": "his hand", "sub": ["into his garment"]},
+      {"conn": "comes out"},
+      {"box": "reward", "title": "white, shining", "sub": ["without any harm"]},
+      {"box": "idea", "title": "9", "sub": ["signs for Pharaoh"], "num": true}]},
+    "key": {"label": "Before the mission", "row": [
+      {"box": "people", "title": "sent empty-handed", "sub": ["figure it out"], "strike": true},
+      {"box": "idea", "title": "sent with signs", "sub": ["proof given first"]}]},
+    "then": "Ibn Kathir describes Musa's hand coming out {reward}white and shining like a piece of the moon{/reward}, with no harm to it. These were two of nine signs he would take to Pharaoh and his people, who are described as {trap}rebellious.{/trap}",
+    "now": "You are asked to speak up in a hard room, raise a child alone, or care for a sick parent. You feel unequipped. {idea}Allah sent Musa with what he needed before the hard part began.{/idea} Look at what you have already been given.",
+    "old": "I am facing this with nothing in my hands.",
+    "new": "When Allah sends me into something hard, He gives me what I need first.",
+    "try": "List three things Allah has already given you for the hardest task in front of you.",
+    "related": ["17:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:13", "surah": 27, "ayah": 13, "place": "makkah",
+    "title": "Clear signs, and they called it magic.",
+    "subtitle": "How you dismiss what you do not want",
+    "picture": {"kind": "boxes", "label": "Their response", "row": [
+      {"box": "idea", "title": "clear signs", "sub": ["visible, obvious"]},
+      {"conn": "labelled"},
+      {"box": "trap", "title": "obvious magic", "sub": ["a trick, nothing more"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "their own magic", "sub": ["defeated, disgraced"]}]},
+    "key": {"label": "The move", "row": [
+      {"box": "trap", "title": "label it", "sub": ["so you never face it"]},
+      {"box": "idea", "title": "look at it", "sub": ["and let it change you"]}]},
+    "then": "When the signs came to Pharaoh's people, {idea}clear and obvious{/idea}, they said it was magic. Ibn Kathir says they wanted to oppose it with their own magic, {trap}but they were defeated and sent back disgraced.{/trap}",
+    "now": "Your friend points out something true about how you treat your sister. You reply: you are just being dramatic. {trap}A quick label lets you skip the hard truth.{/trap} The sign was clear. The label was a way out.",
+    "old": "If I can name what is happening, I do not need to deal with it.",
+    "new": "Giving a clear truth a dismissive label is a way of running from it.",
+    "try": "Think of one piece of feedback you labelled and dismissed. Look at it again honestly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "27:14", "surah": 27, "ayah": 14, "place": "makkah",
+    "title": "They knew it was true, and said no.",
+    "subtitle": "Denial out of pride, not doubt",
+    "picture": {"kind": "boxes", "label": "Inside and outside", "row": [
+      {"box": "idea", "title": "inside", "sub": ["convinced it was true"]},
+      {"box": "trap", "title": "outside", "sub": ["rejected it in words"]},
+      {"conn": "because of"},
+      {"box": "trap", "title": "wrong and pride", "sub": ["too proud to follow"]}]},
+    "key": {"label": "What really blocks", "row": [
+      {"box": "people", "title": "not enough proof", "sub": ["show me more"], "strike": true},
+      {"box": "trap", "title": "pride", "sub": ["I know, but I will not"]}]},
+    "then": "Ibn Kathir says Pharaoh's people {trap}knew deep down that this was truth from Allah, but denied it, stubborn and arrogant.{/trap} They were too proud to follow. The Prophet ﷺ is told to see how they ended: drowned in a single morning.",
+    "now": "You know you owe your colleague an apology. You know the habit is hurting you. You still argue, delay, change the subject. {trap}It is rarely about proof.{/trap} It is about not wanting to bend.",
+    "old": "I just need more convincing before I change.",
+    "new": "Sometimes I already know, and what stops me is pride, not doubt.",
+    "try": "Do one thing today you already know is right but have been too proud to do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

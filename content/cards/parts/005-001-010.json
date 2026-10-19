@@ -1,0 +1,211 @@
+[
+  {
+    "id": "5:1", "surah": 5, "ayah": 1, "place": "madinah",
+    "title": "Keep your word, starting with your word to Allah.",
+    "subtitle": "A surah that opens with a promise kept",
+    "picture": {"kind": "boxes", "label": "What the opening asks", "row": [
+      {"box": "people", "title": "you who believe", "sub": ["pay full attention"]},
+      {"conn": "fulfill"},
+      {"box": "idea", "title": "the obligations", "sub": ["promises, treaties, limits"]},
+      {"conn": "within"},
+      {"box": "reward", "title": "what is lawful", "sub": ["a wide, open space"]}]},
+    "key": {"label": "What a contract is", "row": [
+      {"box": "people", "title": "only signed papers", "sub": ["the rest is flexible"], "strike": true},
+      {"box": "idea", "title": "every word given", "sub": ["to Allah and to people"]}]},
+    "then": "This surah came after the treaty of Hudaibiyah, when keeping agreements mattered for a whole community. A man once asked Ibn Mas'ud for advice. He said: {idea}when you hear O you who believe, give it your full attention.{/idea} Ibn Abbas said these obligations are {reward}what Allah permitted, forbade and set limits for.{/reward}",
+    "now": "You said you would call back. You told your friend you would be at the wedding. You clicked I agree on the terms at work. {trap}Small promises slip first.{/trap} The verse puts all of them under one word: fulfill.",
+    "old": "A promise is serious only when it is written and signed.",
+    "new": "Every word I give is a contract, and keeping it is part of my faith.",
+    "try": "Think of one small promise you made this week and have not kept. Keep it today.",
+    "related": ["13:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:2", "surah": 5, "ayah": 2, "place": "madinah",
+    "title": "They blocked you once. Do not let that make you unjust.",
+    "subtitle": "Hatred is not a license to cross the line",
+    "picture": {"kind": "boxes", "label": "After Hudaibiyah", "row": [
+      {"box": "trap", "title": "they blocked the way", "sub": ["no Umrah that year"]},
+      {"conn": "tempts"},
+      {"box": "trap", "title": "payback", "sub": ["block them in return"]},
+      {"conn": "instead"},
+      {"box": "idea", "title": "help each other", "sub": ["in good, not in harm"]}]},
+    "key": {"label": "What your anger is allowed to do", "row": [
+      {"box": "trap", "title": "they started it", "sub": ["so I may hit back"], "strike": true},
+      {"box": "idea", "title": "stay just", "sub": ["your hurt does not move the line"]}]},
+    "then": "In 6 AH the Prophet ﷺ set out with about 1400 Muslims for Umrah, and {trap}Quraysh stopped them from reaching the Sacred Mosque.{/trap} Many pilgrims later had to pass through Muslim land on their way to Makkah. The verse told the believers {idea}not to block them in revenge{/idea}, and to work together only on what is good.",
+    "now": "The colleague who took credit for your project now needs your sign-off. The relative who skipped your wedding asks for a favor. {trap}You finally have the power to pay it back.{/trap} The verse says: {idea}your old wound does not get a vote.{/idea}",
+    "old": "If someone wronged me, I am allowed to treat them a little worse.",
+    "new": "What they did to me does not change what is right for me to do.",
+    "try": "Think of one person you are quietly waiting to pay back. Do one fair thing for them instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:3", "surah": 5, "ayah": 3, "place": "madinah",
+    "title": "The religion is complete, and mercy is built into it.",
+    "subtitle": "A list of limits that ends in a gift and an exception",
+    "picture": {"kind": "boxes", "label": "How the verse moves", "row": [
+      {"box": "trap", "title": "what harms", "sub": ["foods, divining arrows"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "this day", "sub": ["religion perfected, favor completed"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "the forced one", "sub": ["Forgiving, Merciful"]}]},
+    "key": {"label": "What a complete religion means", "row": [
+      {"box": "people", "title": "a list of no", "sub": ["rules for their own sake"], "strike": true},
+      {"box": "idea", "title": "a finished favor", "sub": ["with room for real need"]}]},
+    "then": "Ibn Kathir explains that these foods were forbidden for {trap}the harm they cause, to body and to faith.{/trap} Qatadah said people before Islam would beat an animal with sticks and eat it once it died. Right after the list, the verse announces {idea}the religion perfected and the favor completed{/idea}, and ends with mercy for anyone forced by hunger.",
+    "now": "You flip a coin, check a horoscope app, or wait for a sign before a big choice. {trap}Arrows in a new shape.{/trap} The verse says you are not left guessing: {idea}the guidance is already complete{/idea}, and the door for hard situations is already open.",
+    "old": "Religion is a long list of things I am not allowed to have.",
+    "new": "It is a finished gift from Someone who already made room for my hardest days.",
+    "try": "Before one decision today, skip the luck charm or app. Ask Allah for good and choose with a calm heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:4", "surah": 5, "ayah": 4, "place": "madinah",
+    "title": "They asked what is allowed. The answer: all that is good.",
+    "subtitle": "Starting from the good, and saying His name over it",
+    "picture": {"kind": "boxes", "label": "The question and the reply", "row": [
+      {"box": "people", "title": "they ask", "sub": ["what is lawful for us?"]},
+      {"conn": "answer"},
+      {"box": "reward", "title": "the good things", "sub": ["a wide, clean table"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "Allah's name", "sub": ["said over what you eat"]}]},
+    "key": {"label": "The default", "row": [
+      {"box": "people", "title": "everything is suspect", "sub": ["fear first"], "strike": true},
+      {"box": "idea", "title": "the good is open", "sub": ["the limits are few, and named"]}]},
+    "then": "The companions asked what they could eat. The answer begins with {reward}all good things{/reward}, even game caught by trained hunting animals, as Allah taught them. The Prophet ﷺ taught his young stepson Umar bin Abi Salamah: {idea}say Allah's name, eat with your right hand, and eat from what is in front of you.{/idea}",
+    "now": "Lunch at your desk, eyes on the phone, food gone before you tasted it. Or dinner at home where everyone reaches across the table. {idea}A name said before the first bite{/idea} turns an ordinary meal into a moment of remembering.",
+    "old": "Eating is just fuel. Nothing to think about.",
+    "new": "Every meal starts from a wide permission, and His name makes it a moment with Him.",
+    "try": "At your next meal, say Bismillah slowly and eat the first three bites without your phone.",
+    "related": ["6:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:5", "surah": 5, "ayah": 5, "place": "madinah",
+    "title": "Your food is lawful to them, and theirs to you.",
+    "subtitle": "A shared table and fair dealing with neighbors",
+    "picture": {"kind": "boxes", "label": "What this day opened", "row": [
+      {"box": "reward", "title": "the good things", "sub": ["made lawful"]},
+      {"box": "people", "title": "their food", "sub": ["lawful for you"]},
+      {"conn": "and"},
+      {"box": "people", "title": "your food", "sub": ["lawful for them"]},
+      {"box": "idea", "title": "fair dealing", "sub": ["give as you receive"]}]},
+    "key": {"label": "How the table works", "row": [
+      {"box": "people", "title": "only take", "sub": ["accept, never return"], "strike": true},
+      {"box": "idea", "title": "give back in kind", "sub": ["equal and fair"]}]},
+    "then": "After listing what is forbidden, the verse widens the table: the food of the People of the Scripture is lawful, and {idea}you may feed them from yours.{/idea} Ibn Kathir calls this {reward}equal compensation and fair treatment.{/reward} The verse ends with a sober line: faith is what gives deeds their worth.",
+    "now": "The neighbor knocks with a plate of food on a holiday. The coworker brings cake for the team. {idea}You get to answer kindness with kindness.{/idea} The plate goes back to their door, never empty.",
+    "old": "I accept what others offer, but I owe them nothing.",
+    "new": "A shared table is a two-way street, and fairness goes both directions.",
+    "try": "Return a kindness today: a plate, a message, a small gift for someone who gave you something.",
+    "related": ["4:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:6", "surah": 5, "ayah": 6, "place": "madinah",
+    "title": "Allah does not want hardship for you. He wants you clean.",
+    "subtitle": "Washing before prayer, and ease when water is gone",
+    "picture": {"kind": "boxes", "label": "Getting ready to stand", "row": [
+      {"box": "people", "title": "you rise to pray", "sub": ["with an intention"]},
+      {"conn": "wash"},
+      {"box": "idea", "title": "face, arms, head, feet", "sub": ["water first"]},
+      {"conn": "no water?"},
+      {"box": "reward", "title": "clean earth", "sub": ["the door stays open"]}]},
+    "key": {"label": "What the washing is for", "row": [
+      {"box": "trap", "title": "a hurdle", "sub": ["to make prayer hard"], "strike": true},
+      {"box": "idea", "title": "purity and favor", "sub": ["so that you may be grateful"]}]},
+    "then": "Ibn Kathir notes that the washing begins with intention, citing the hadith: {idea}actions are judged by their intentions.{/idea} On the Day of Victory the Prophet ﷺ prayed five prayers with one washing, and told Umar he did it on purpose. When water runs out, {reward}clean earth is enough.{/reward}",
+    "now": "You are in a hospital corridor, or a train, or a long shift with no sink nearby. {trap}It feels like prayer is out of reach today.{/trap} The verse says {reward}Allah does not want hardship for you.{/reward} The way back is always made possible.",
+    "old": "If I cannot do it perfectly, I should not do it at all.",
+    "new": "He made a way for every situation, because He wants me to come, not to struggle.",
+    "try": "At your next washing for prayer, slow down and make the intention in your heart first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:7", "surah": 5, "ayah": 7, "place": "madinah",
+    "title": "You once said: we hear and we obey. Remember it.",
+    "subtitle": "The pledge you made, and the One who sees inside",
+    "picture": {"kind": "boxes", "label": "The pledge", "row": [
+      {"box": "reward", "title": "His favor", "sub": ["the guidance, the Messenger"]},
+      {"conn": "answered by"},
+      {"box": "people", "title": "we hear, we obey", "sub": ["in ease and in hardship"]},
+      {"conn": "known to"},
+      {"box": "idea", "title": "the All-Knower", "sub": ["of what hearts hide"]}]},
+    "key": {"label": "What the pledge was", "row": [
+      {"box": "people", "title": "a one-time moment", "sub": ["said once, then done"], "strike": true},
+      {"box": "idea", "title": "a living promise", "sub": ["renewed every day"]}]},
+    "then": "Ibn Kathir says this was the pledge the companions gave when they embraced Islam: {idea}to hear and obey, when they felt active and when they did not.{/idea} The verse reminds them of that favor and that promise, and that {trap}Allah knows what is inside the chest.{/trap}",
+    "now": "The day you first prayed for real. The Ramadan night you cried and promised to change. {trap}Months later it feels far away.{/trap} The verse does not scold. It says: {idea}remember what you said, and remember who heard it.{/idea}",
+    "old": "That promise was a moment of emotion. Life moved on.",
+    "new": "The promise is still mine, and the One I made it to still remembers it.",
+    "try": "Recall one promise you made to Allah in a strong moment. Do one small part of it today.",
+    "related": ["57:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:8", "surah": 5, "ayah": 8, "place": "madinah",
+    "title": "Be just even to the people you cannot stand.",
+    "subtitle": "Justice that does not depend on how you feel",
+    "picture": {"kind": "boxes", "label": "Where justice is tested", "row": [
+      {"box": "people", "title": "a friend", "sub": ["easy to be fair"]},
+      {"box": "people", "title": "an enemy", "sub": ["hard to be fair"]},
+      {"conn": "both get"},
+      {"box": "idea", "title": "justice", "sub": ["nearer to taqwa"]}]},
+    "key": {"label": "The test of fairness", "row": [
+      {"box": "trap", "title": "fair when I like them", "sub": ["feelings decide"], "strike": true},
+      {"box": "idea", "title": "fair to everyone", "sub": ["Allah decides"]}]},
+    "then": "An-Nu'man bin Bashir's father gave him a gift and asked the Prophet ﷺ to witness it. The Prophet ﷺ asked if every child had received the same. He had not. The Prophet ﷺ said: {idea}fear Allah and treat your children equally{/idea}, and {trap}I will not be a witness to injustice.{/trap}",
+    "now": "The family group chat is splitting over an old argument. You know your cousin has a point, but you cannot stand him. {trap}Silence feels safer.{/trap} The verse asks you to {idea}stand up for the truth, even when it helps someone you dislike.{/idea}",
+    "old": "I can be fair to people who treat me well.",
+    "new": "Justice is owed to everyone, and that is what brings me close to Allah.",
+    "try": "Say one fair, true thing today about someone you dislike, even if only in your own heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:9", "surah": 5, "ayah": 9, "place": "madinah",
+    "title": "A promise of forgiveness and a great reward.",
+    "subtitle": "Deeds are the path, mercy is the gate",
+    "picture": {"kind": "boxes", "label": "The promise", "row": [
+      {"box": "people", "title": "faith", "sub": ["believe"]},
+      {"box": "people", "title": "good deeds", "sub": ["act on it"]},
+      {"conn": "lead to"},
+      {"box": "reward", "title": "forgiveness", "sub": ["for what slipped"]},
+      {"box": "reward", "title": "great reward", "sub": ["Paradise"]}]},
+    "key": {"label": "How the reward comes", "row": [
+      {"box": "people", "title": "I earned it", "sub": ["my deeds paid for it"], "strike": true},
+      {"box": "idea", "title": "His mercy", "sub": ["deeds are the road to it"]}]},
+    "then": "Right after the call to be just, comes a promise. Ibn Kathir explains that people will not enter Paradise by their actions alone, but {reward}by Allah's mercy and favor.{/reward} Good deeds are {idea}the cause and path that lead to His mercy.{/idea} So all thanks are due to Him.",
+    "now": "You keep a mental score: prayers done, charity given, days missed. {trap}Some days the score looks bad and you want to quit.{/trap} The verse speaks of forgiveness first. {idea}Your deeds are a road, not a receipt.{/idea}",
+    "old": "I will only be saved if my good outweighs my bad by enough.",
+    "new": "My deeds are the road, and His mercy is the gate at its end.",
+    "try": "After your next prayer, thank Allah for one good deed He made easy for you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:10", "surah": 5, "ayah": 10, "place": "madinah",
+    "title": "Turning away from the signs has an end too.",
+    "subtitle": "The other side of the promise, stated plainly",
+    "picture": {"kind": "boxes", "label": "Two roads, side by side", "row": [
+      {"box": "reward", "title": "believe and do good", "sub": ["verse 9"]},
+      {"conn": "or"},
+      {"box": "trap", "title": "deny the signs", "sub": ["verse 10"]},
+      {"conn": "end"},
+      {"box": "trap", "title": "the Fire", "sub": ["a just outcome"]}]},
+    "key": {"label": "What this shows", "row": [
+      {"box": "people", "title": "it all ends the same", "sub": ["choices do not matter"], "strike": true},
+      {"box": "idea", "title": "perfect justice", "sub": ["each road has its end"]}]},
+    "then": "Verse 9 gave a promise. This verse states the other road in one line. Ibn Kathir says it shows {idea}Allah's perfect justice, wisdom and judgment{/idea}: He is never wrong. Promise and warning stand {trap}side by side so no one is surprised.{/trap}",
+    "now": "A reminder in a friend's message. A verse that stops you during a scroll. {trap}You swipe past without thinking.{/trap} This verse is not about someone else. {idea}It asks what you do with the signs that reach you.{/idea}",
+    "old": "Warnings are for other people who are far worse than me.",
+    "new": "The signs reach me too, and how I respond is what counts.",
+    "try": "Next time a reminder reaches you today, pause for ten seconds before moving on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

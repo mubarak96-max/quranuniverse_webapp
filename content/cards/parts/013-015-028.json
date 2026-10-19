@@ -1,0 +1,282 @@
+[
+  {
+    "id": "13:15", "surah": 13, "ayah": 15, "place": "madinah",
+    "title": "Everything bows to Allah, even your shadow.",
+    "subtitle": "Willing or not, all creation submits",
+    "picture": {"kind": "boxes", "label": "Who prostrates", "row": [
+      {"box": "people", "title": "the willing", "sub": ["believers, by choice"]},
+      {"box": "people", "title": "the unwilling", "sub": ["still under His control"]},
+      {"box": "plain", "title": "their shadows", "sub": ["morning and afternoon"]},
+      {"conn": "all bow to"},
+      {"box": "idea", "title": "Allah", "sub": ["full control over everything"]}]},
+    "key": {"label": "The only real choice", "row": [
+      {"box": "people", "title": "I am outside His rule", "sub": ["I decide everything"], "strike": true},
+      {"box": "idea", "title": "willingly or unwillingly", "sub": ["the choice is only how"]}]},
+    "then": "The surah keeps showing the people of Makkah signs of Allah's power. Here it says {idea}everything in the heavens and earth prostrates to Him{/idea}. Believers do it willingly. Those who refuse are still subject to Him, and even their shadows lean and stretch through the day.",
+    "now": "Walk outside at eight in the morning and your shadow is long beside you. At four in the afternoon it falls the other way. You did not plan either. {idea}Your body already follows His order.{/idea} The only question left is whether your heart joins it.",
+    "old": "I am free to live as if no one is in charge.",
+    "new": "Everything already bows to Allah; I get to choose to bow willingly.",
+    "try": "Next time you see your shadow, let it remind you to make one sincere sajdah today.",
+    "related": ["16:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:16", "surah": 13, "ayah": 16, "place": "madinah",
+    "title": "Why lean on helpers who cannot even help themselves?",
+    "subtitle": "The Creator versus things that create nothing",
+    "picture": {"kind": "boxes", "label": "The questions asked", "row": [
+      {"box": "idea", "title": "Lord of heavens?", "sub": ["they answer: Allah"]},
+      {"conn": "yet they take"},
+      {"box": "trap", "title": "other protectors", "sub": ["no benefit, no harm", "not even for themselves"]}]},
+    "key": {"label": "Are they equal?", "row": [
+      {"box": "people", "title": "blind and seeing", "sub": ["darkness and light"], "strike": true},
+      {"box": "idea", "title": "Creator of all", "sub": ["the One, the Irresistible"]}]},
+    "then": "The idol worshippers of Makkah admitted Allah made the heavens and earth. Ibn Kathir notes they even said in their pilgrim chant that He owned their other gods. Still {trap}they turned to those gods for help{/trap}. The verse asks: {idea}did your gods create anything like His creation?{/idea}",
+    "now": "The bill is due and your first thought is the friend with money, then the boss, then luck. You check your horoscope app out of habit. None of these made the sky or keep your heart beating. {trap}They need help themselves.{/trap}",
+    "old": "I believe in Allah, but in real life I lean on whatever seems useful.",
+    "new": "If He alone created everything, He is the one to turn to first.",
+    "try": "Before you ask any person for help with your next problem, ask Allah first in one short dua.",
+    "related": ["39:3", "34:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:17", "surah": 13, "ayah": 17, "place": "madinah",
+    "title": "Foam rises fast and vanishes; what helps people stays.",
+    "subtitle": "Two parables of truth and falsehood",
+    "picture": {"kind": "boxes", "label": "Two scenes", "row": [
+      {"box": "plain", "title": "rain in valleys", "sub": ["each holds its measure", "foam rides on top"]},
+      {"box": "plain", "title": "ore in fire", "sub": ["for jewelry and tools", "scum rises too"]}]},
+    "key": {"label": "What remains", "row": [
+      {"box": "trap", "title": "the foam", "sub": ["loud, on top, gone"]},
+      {"conn": "while"},
+      {"box": "reward", "title": "what benefits", "sub": ["water, gold, stays in the earth"]}]},
+    "then": "Ibn Kathir explains two parables. Rain fills valleys, each by its size, as hearts hold knowledge by their capacity. {trap}Foam rises on the flood and on melted metal, then scatters.{/trap} {idea}The water and the metal remain.{/idea} Ibn Abbas said the foam is doubt and what remains is certainty.",
+    "now": "A rumour trends for two days, then nobody remembers it. A loud opinion gets a million views and is forgotten by Friday. The quiet teacher who explained things kindly is still remembered years later. {reward}What actually helps people stays.{/reward}",
+    "old": "Whatever is loudest and on top right now must be winning.",
+    "new": "Falsehood is foam: it rises fast and has nothing under it.",
+    "try": "Choose one small useful thing to do today that nobody will see, like teaching or fixing something.",
+    "related": ["29:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:18", "surah": 13, "ayah": 18, "place": "madinah",
+    "title": "Answering His call now is worth more than the whole earth later.",
+    "subtitle": "Two responses, two endings",
+    "picture": {"kind": "boxes", "label": "Two groups", "row": [
+      {"box": "people", "title": "those who answered", "sub": ["obeyed, believed"]},
+      {"conn": "receive"},
+      {"box": "reward", "title": "Al-Husna", "sub": ["the best reward"]}]},
+    "key": {"label": "The offer that comes too late", "row": [
+      {"box": "trap", "title": "the earth twice over", "sub": ["offered as ransom"], "strike": true},
+      {"box": "idea", "title": "a response today", "sub": ["what is accepted"]}]},
+    "then": "After the parable of foam, the verse names the outcome. {reward}Those who answered their Lord get the best reward.{/reward} Ibn Kathir says those who refused would, on that Day, offer the earth full of gold and more to save themselves, and {trap}it would not be accepted{/trap}.",
+    "now": "The adhan goes off on your phone while you are mid-scroll. A small voice says pray now, and another says in a minute. That small moment of answering is cheap today. {idea}Later, nothing you own could buy it back.{/idea}",
+    "old": "I will answer Allah's call properly once life settles down.",
+    "new": "The response is easy now and priceless later; today is the time to answer.",
+    "try": "Next adhan you hear today, stop what you are doing within one minute and go pray.",
+    "related": ["10:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:19", "surah": 13, "ayah": 19, "place": "madinah",
+    "title": "Knowing the truth and being blind to it are not the same.",
+    "subtitle": "Who actually takes the reminder",
+    "picture": {"kind": "boxes", "label": "Two people", "row": [
+      {"box": "people", "title": "the one who knows", "sub": ["what came is the truth"]},
+      {"conn": "not like"},
+      {"box": "trap", "title": "the blind one", "sub": ["cannot see what benefits him"]}]},
+    "key": {"label": "Who is reminded", "row": [
+      {"box": "people", "title": "anyone who hears", "sub": ["just listening is enough"], "strike": true},
+      {"box": "idea", "title": "people of understanding", "sub": ["they reflect and take lessons"]}]},
+    "then": "The verse asks if a person who knows the revelation to the Prophet ﷺ is true can be like a blind person. Ibn Kathir says they are never equal. {idea}Only people of sound understanding take the reminder{/idea}, and he adds a prayer: we ask Allah to make us among them.",
+    "now": "Two people sit in the same Friday khutbah. One scrolls under the table. The other walks out thinking about one sentence for the rest of the day. {idea}Same words, different hearts.{/idea}",
+    "old": "Hearing the Quran is enough; the rest will happen on its own.",
+    "new": "The reminder works on those who stop and think about it.",
+    "try": "Pick one verse you heard this week and spend two minutes thinking about what it asks of you.",
+    "related": ["6:115", "59:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:20", "surah": 13, "ayah": 20, "place": "madinah",
+    "title": "People of understanding keep their word.",
+    "subtitle": "The first mark: promises kept",
+    "picture": {"kind": "boxes", "label": "The first quality", "row": [
+      {"box": "people", "title": "people of understanding", "sub": ["from the verse before"]},
+      {"conn": "they"},
+      {"box": "idea", "title": "fulfill the covenant", "sub": ["with Allah"]},
+      {"box": "idea", "title": "never break it", "sub": ["the trust they took"]}]},
+    "key": {"label": "The contrast", "row": [
+      {"box": "trap", "title": "promise, then break", "sub": ["the hypocrite's habit"], "strike": true},
+      {"box": "reward", "title": "promise, then keep", "sub": ["the believer's habit"]}]},
+    "then": "This begins a list of the qualities of those who earn the good home. The first is {idea}keeping the covenant with Allah and not breaking it{/idea}. Ibn Kathir contrasts them with the hypocrite, who {trap}breaks a promise when he makes one and betrays when trusted{/trap}.",
+    "now": "You told your mother you would call on Sunday. You told a coworker you would send the file by five. You told Allah, in a hard week, that you would pray on time. {reward}Small promises kept are how trust is built.{/reward}",
+    "old": "A promise is a nice intention; plans change.",
+    "new": "Keeping my word, to Allah and to people, is part of my faith.",
+    "try": "Think of one promise you made and forgot. Keep it today, or tell the person honestly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:21", "surah": 13, "ayah": 21, "place": "madinah",
+    "title": "They keep joined what Allah wants joined.",
+    "subtitle": "Family ties and a watchful heart",
+    "picture": {"kind": "boxes", "label": "What they join", "row": [
+      {"box": "people", "title": "relatives", "sub": ["ties not cut"]},
+      {"box": "people", "title": "the poor", "sub": ["shown kindness"]},
+      {"conn": "because they"},
+      {"box": "idea", "title": "fear their Lord", "sub": ["remember He is watching"]}]},
+    "key": {"label": "Why they stay connected", "row": [
+      {"box": "people", "title": "only if they deserve it", "sub": ["they cut me first"], "strike": true},
+      {"box": "idea", "title": "Allah ordered it", "sub": ["and the reckoning is real"]}]},
+    "then": "The list continues. Ibn Kathir says these people {idea}are good to relatives and do not sever kinship{/idea}, and are kind to the poor. They remember Allah is watching in what they do and say, and {trap}they fear a hard reckoning{/trap}.",
+    "now": "The family group chat has gone quiet since the argument at the wedding. Your cousin has not called in two years, and neither have you. {idea}One message can rejoin what pride has cut.{/idea}",
+    "old": "If they stopped calling, it is not my job to reach out.",
+    "new": "Keeping family ties is an order from Allah, not a reward for good behavior.",
+    "try": "Send one short, warm message today to a relative you have drifted from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:22", "surah": 13, "ayah": 22, "place": "madinah",
+    "title": "They answer harm with good.",
+    "subtitle": "Patience, prayer, giving, and a gentle reply",
+    "picture": {"kind": "boxes", "label": "Their habits", "row": [
+      {"box": "idea", "title": "patience", "sub": ["for their Lord's Face"]},
+      {"box": "idea", "title": "prayer", "sub": ["kept with care"]},
+      {"box": "idea", "title": "giving", "sub": ["secretly and openly"]},
+      {"box": "idea", "title": "good for evil", "sub": ["harm met with pardon"]},
+      {"conn": "earn"},
+      {"box": "reward", "title": "the good end", "sub": ["the final home"]}]},
+    "key": {"label": "How they reply", "row": [
+      {"box": "trap", "title": "evil for evil", "sub": ["you hurt me, I hurt you"], "strike": true},
+      {"box": "idea", "title": "good for evil", "sub": ["patience and forgiveness"]}]},
+    "then": "Ibn Kathir explains each habit. Their patience is for Allah's pleasure, not for show. They pray with care and give in every condition, by night and day. {idea}When people harm them, they answer with patience, pardon and forgiveness.{/idea} {reward}For such people there is a good end.{/reward}",
+    "now": "A driver cuts you off and gestures. A sibling says something sharp at dinner. Someone leaves a nasty comment on your post. Your thumb is ready to reply. {idea}A calm, kind answer is the harder and better move.{/idea}",
+    "old": "If someone is rude to me, they deserve the same back.",
+    "new": "Meeting harm with good is a sign of the people Allah praises.",
+    "try": "The next time someone is short with you today, answer with one kind sentence instead.",
+    "related": ["41:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:23", "surah": 13, "ayah": 23, "place": "madinah",
+    "title": "Paradise is not lonely; your righteous family comes too.",
+    "subtitle": "Gardens of Eden and a reunion",
+    "picture": {"kind": "boxes", "label": "Who enters", "row": [
+      {"box": "people", "title": "the believer", "sub": ["who lived these qualities"]},
+      {"box": "people", "title": "righteous family", "sub": ["parents, spouses, children"]},
+      {"conn": "enter"},
+      {"box": "reward", "title": "Gardens of Eden", "sub": ["lasting residence"]}]},
+    "key": {"label": "A gathering", "row": [
+      {"box": "people", "title": "each one alone", "sub": ["no one I love"], "strike": true},
+      {"box": "reward", "title": "together again", "sub": ["eyes comforted by loved ones"]}]},
+    "then": "Ibn Kathir says 'Adn means a lasting home. {reward}Allah gathers believers with their righteous parents, spouses and children{/reward} so their eyes are comforted, and raises the lower ones to join the higher. {idea}Angels come to them from every gate.{/idea}",
+    "now": "You stand at a grave of a grandparent and wonder if you will ever see them again. You worry about your children growing up away from faith. {reward}The promise is a reunion{/reward}, and your own effort can be part of the bridge.",
+    "old": "Whatever happens after death, I face it alone.",
+    "new": "Allah can gather the righteous of a family together in Paradise.",
+    "try": "Make dua today, by name, for a parent, spouse or child to be with you in Jannah.",
+    "related": ["52:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:24", "surah": 13, "ayah": 24, "place": "madinah",
+    "title": "Peace upon you, for what you patiently endured.",
+    "subtitle": "The angels name the reason for the reward",
+    "picture": {"kind": "boxes", "label": "The welcome", "row": [
+      {"box": "people", "title": "the angels", "sub": ["from every gate"]},
+      {"conn": "say"},
+      {"box": "reward", "title": "Salam", "sub": ["peace be upon you"]},
+      {"conn": "because"},
+      {"box": "idea", "title": "you were patient", "sub": ["the reason given"]}]},
+    "key": {"label": "What was rewarded", "row": [
+      {"box": "people", "title": "an easy life", "sub": ["no struggle at all"], "strike": true},
+      {"box": "idea", "title": "patience", "sub": ["the struggle itself is honored"]}]},
+    "then": "The angels greet the people of Paradise. Ibn Kathir cites a hadith in Ahmad about poor emigrants who {trap}died with needs still in their chests{/trap}. {reward}Allah sends angels to greet them with Salam from every gate.{/reward} The reward names their patience.",
+    "now": "The hospital corridor at two in the morning. The job you keep showing up to though it drains you. The prayer you make while nothing seems to change. {idea}None of that patience is lost.{/idea} It is the very thing the angels will mention.",
+    "old": "My struggles are just bad luck I have to get through.",
+    "new": "Patient endurance is what the angels will greet me for.",
+    "try": "Name one thing you are enduring right now and tell Allah you are being patient for Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:25", "surah": 13, "ayah": 25, "place": "madinah",
+    "title": "Breaking promises and cutting ties is the opposite road.",
+    "subtitle": "The mirror image of the believers' qualities",
+    "picture": {"kind": "boxes", "label": "Their habits", "row": [
+      {"box": "trap", "title": "break the covenant", "sub": ["after agreeing to it"]},
+      {"box": "trap", "title": "cut what Allah joined", "sub": ["kinship severed"]},
+      {"box": "trap", "title": "spread corruption", "sub": ["in the land"]},
+      {"conn": "lead to"},
+      {"box": "trap", "title": "the bad home", "sub": ["away from mercy"]}]},
+    "key": {"label": "Two lists, side by side", "row": [
+      {"box": "reward", "title": "keep, join", "sub": ["verses 20 and 21"]},
+      {"box": "trap", "title": "break, cut", "sub": ["this verse"]}]},
+    "then": "Ibn Kathir says this verse is the exact opposite of the qualities just listed. Where the believers kept their word and family ties, {trap}these broke their covenant, cut ties and spread harm{/trap}. He cites the hadith on the signs of a hypocrite: lying, breaking promises, betraying trust.",
+    "now": "It rarely starts big. One broken promise to a friend. One ignored call from a parent. One story passed on that you knew was untrue. {idea}Habits form a road, and roads lead somewhere.{/idea}",
+    "old": "Little broken promises and family fallouts are just part of life.",
+    "new": "These small breaks are the opposite of the believers' road; I can turn back.",
+    "try": "Look at the two lists in verses 20 to 25 and pick one quality to move toward this week.",
+    "related": ["13:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:26", "surah": 13, "ayah": 26, "place": "madinah",
+    "title": "More money is not proof that Allah is pleased.",
+    "subtitle": "Provision is a test, and this life is small",
+    "picture": {"kind": "boxes", "label": "Who decides provision", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["by His wisdom and justice"]},
+      {"conn": "extends or restricts"},
+      {"box": "people", "title": "provision", "sub": ["for whom He wills"]}]},
+    "key": {"label": "How big is this world", "row": [
+      {"box": "trap", "title": "everything", "sub": ["wealth means I am blessed"], "strike": true},
+      {"box": "idea", "title": "a fingertip in the sea", "sub": ["compared to the Hereafter"]}]},
+    "then": "Ibn Kathir says Allah widens and narrows provision by His wisdom. {trap}Those who rejoiced in wealth did not realize they were being tested.{/trap} He cites a hadith in Muslim: {idea}this world beside the Hereafter is like the water on a finger dipped in the sea.{/idea}",
+    "now": "Payday comes and the account looks good, and you feel like life is on your side. A friend's business fails and you quietly assume he did something wrong. {idea}Both are tests, not report cards.{/idea}",
+    "old": "If I have more, Allah must be happier with me.",
+    "new": "Rich or tight, it is a test, and this life is tiny next to the next.",
+    "try": "Next time you check your bank balance, say Alhamdulillah and remember it is a test, not a grade.",
+    "related": ["23:55", "4:77", "87:16"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:27", "surah": 13, "ayah": 27, "place": "madinah",
+    "title": "Miracles do not guide; turning back to Allah does.",
+    "subtitle": "The demand for a sign, and the real door",
+    "picture": {"kind": "boxes", "label": "What they asked", "row": [
+      {"box": "people", "title": "the idolaters", "sub": ["why no sign for him?"]},
+      {"conn": "wanted"},
+      {"box": "trap", "title": "Safa turned to gold", "sub": ["springs, green fields"]}]},
+    "key": {"label": "What brings guidance", "row": [
+      {"box": "trap", "title": "a miracle", "sub": ["then I would believe"], "strike": true},
+      {"box": "idea", "title": "turning to Him", "sub": ["He guides whoever turns back"]}]},
+    "then": "Ibn Kathir reports a hadith that the idolaters asked for Mount Safa to become gold. Allah offered the Prophet ﷺ their request, or {reward}an open door of repentance and mercy{/reward}, and he chose the door of mercy. {idea}Guidance is not tied to miracles; Allah guides those who turn to Him.{/idea}",
+    "now": "You catch yourself thinking: if only I got a clear sign, I would change. If this job comes through, I will start praying. {idea}The sign you wait for is not the key.{/idea} Turning toward Him is, and that door is already open.",
+    "old": "If Allah showed me something undeniable, I would finally change.",
+    "new": "Guidance comes to whoever turns back to Allah, sign or no sign.",
+    "try": "Stop waiting for a sign. Make one small turn toward Allah today, like two rakahs of sincere prayer.",
+    "related": ["21:5", "10:101", "6:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "13:28", "surah": 13, "ayah": 28, "place": "madinah",
+    "title": "Hearts find rest in remembering Allah.",
+    "subtitle": "Where a restless heart settles",
+    "picture": {"kind": "boxes", "label": "Those who turned back", "row": [
+      {"box": "people", "title": "the believers", "sub": ["from the verse before"]},
+      {"conn": "remember"},
+      {"box": "idea", "title": "Allah", "sub": ["their Protector"]},
+      {"conn": "and find"},
+      {"box": "reward", "title": "rest", "sub": ["tranquil hearts"]}]},
+    "key": {"label": "Where calm comes from", "row": [
+      {"box": "trap", "title": "the next thing", "sub": ["one more scroll, one more buy"], "strike": true},
+      {"box": "reward", "title": "remembering Him", "sub": ["the heart settles"]}]},
+    "then": "Right after saying Allah guides those who turn to Him, the verse describes them. Ibn Kathir says {reward}their hearts become calm when Allah is remembered{/reward}, pleased to have Him as Protector and Supporter. {idea}He is worthy of it.{/idea}",
+    "now": "It is late, you are anxious, and you have refreshed the same app ten times. Nothing settles. {idea}Put the phone face down and say SubhanAllah slowly, ten times.{/idea} Notice your breathing change.",
+    "old": "When I am anxious, I need a distraction.",
+    "new": "My heart is made to settle when it remembers Allah.",
+    "try": "Tonight before sleep, sit for two minutes with no phone and quietly remember Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

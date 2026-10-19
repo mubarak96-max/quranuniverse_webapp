@@ -1,0 +1,267 @@
+[
+  {
+    "id": "3:13", "surah": 3, "ayah": 13, "place": "madinah",
+    "title": "At Badr, the smaller army won.",
+    "subtitle": "Help comes from Allah, not from numbers",
+    "picture": {"kind": "boxes", "label": "Two armies at Badr", "row": [
+      {"box": "people", "title": "the believers", "sub": ["fewer, weaker"]},
+      {"box": "people", "title": "the Quraysh army", "sub": ["larger, confident"]},
+      {"conn": "victory to"},
+      {"box": "reward", "title": "the believers", "sub": ["by Allah's support"]}]},
+    "key": {"label": "What decides the outcome", "row": [
+      {"box": "trap", "title": "bigger numbers", "sub": ["more people, more resources"], "strike": true},
+      {"box": "idea", "title": "Allah's support", "sub": ["to whom He wills"]}]},
+    "then": "Ibn Kathir explains this refers to the two camps that met at Badr. Each side saw the other as twice its size. {idea}Ibn Mas'ud said they looked twice as many{/idea}, then at the clash each side looked smaller to the other. {reward}Allah gave victory to the weak little force.{/reward}",
+    "now": "You are the only one in your office who prays. The only one in the family trying to stop gossip. It feels like you against a crowd. {idea}Badr says the count is not what decides it.{/idea}",
+    "old": "I am outnumbered, so there is no point trying.",
+    "new": "Allah supports whom He wills, and numbers do not limit Him.",
+    "try": "Do one right thing today that you avoided because nobody else was doing it.",
+    "related": ["8:44", "8:42", "3:123"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:14", "surah": 3, "ayah": 14, "place": "madinah",
+    "title": "The things you love were made to look beautiful.",
+    "subtitle": "Real delights, but short ones",
+    "picture": {"kind": "boxes", "label": "What the heart is drawn to", "row": [
+      {"box": "reward", "title": "spouse, children", "sub": ["love and family"]},
+      {"box": "reward", "title": "gold and silver", "sub": ["heaped-up wealth"]},
+      {"box": "reward", "title": "horses, cattle, land", "sub": ["status and income"]},
+      {"conn": "but better is"},
+      {"box": "idea", "title": "the return to Allah", "sub": ["the best destination"]}]},
+    "key": {"label": "It depends on why", "row": [
+      {"box": "trap", "title": "for pride", "sub": ["boasting, dominating others"]},
+      {"box": "reward", "title": "for good", "sub": ["family, charity, worship"]}]},
+    "then": "Ibn Kathir explains these are real delights Allah placed in this life. {idea}Whether they are praised or blamed depends on the purpose.{/idea} Wealth gathered for pride is a test. {reward}Wealth spent on family and good is encouraged.{/reward}",
+    "now": "You scroll through houses you cannot afford and cars you do not need. The pull is real, and the verse admits it. {idea}The question is what you want them for{/idea}, and whether they are leading you somewhere better.",
+    "old": "Wanting nice things means I am a bad Muslim.",
+    "new": "The pull is natural. What matters is what I do with it and where it leads.",
+    "try": "Pick one thing you want badly and write down why you want it.",
+    "related": ["9:72"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:15", "surah": 3, "ayah": 15, "place": "madinah",
+    "title": "Shall I tell you about something better?",
+    "subtitle": "What waits for the mindful, and the greatest part",
+    "picture": {"kind": "boxes", "label": "What is better", "row": [
+      {"box": "reward", "title": "gardens", "sub": ["rivers beneath", "forever"]},
+      {"box": "reward", "title": "purified spouses", "sub": ["free of all harm"]},
+      {"box": "reward", "title": "Allah's approval", "sub": ["the greatest of all"]}]},
+    "key": {"label": "The trade", "row": [
+      {"box": "people", "title": "what fades", "sub": ["gold, land, horses"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "what lasts", "sub": ["with your Lord, forever"]}]},
+    "then": "Right after listing the world's delights, the Prophet ﷺ is told to offer something better. Ibn Kathir notes the gardens are eternal, and that {reward}Allah's pleasure descends on them and He is never angry with them again{/reward}, which another verse calls greater still.",
+    "now": "You finally buy the phone you saved for. A week later it is just a phone. {idea}The verse is not telling you to want less. It is telling you to want more{/idea}, something that does not wear off.",
+    "old": "Giving up things now means I lose out.",
+    "new": "I am not losing, I am being offered something far better.",
+    "try": "When a craving hits today, quietly say: something better is with my Lord.",
+    "related": ["9:72"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:16", "surah": 3, "ayah": 16, "place": "madinah",
+    "title": "We believed, so forgive us.",
+    "subtitle": "The mindful lean on faith, not on their record",
+    "picture": {"kind": "boxes", "label": "Their prayer", "row": [
+      {"box": "people", "title": "the mindful", "sub": ["promised the gardens"]},
+      {"conn": "say"},
+      {"box": "idea", "title": "we have believed", "sub": ["in You, Your Book, Your Messenger"]},
+      {"box": "reward", "title": "so forgive us", "sub": ["and save us from the Fire"]}]},
+    "key": {"label": "What they bring", "row": [
+      {"box": "trap", "title": "a clean record", "sub": ["look what I did"], "strike": true},
+      {"box": "idea", "title": "faith and need", "sub": ["forgive our shortcomings"]}]},
+    "then": "Ibn Kathir describes these as the pious servants promised the reward just mentioned. They ask, {idea}because of our faith in You, forgive our errors and shortcomings{/idea}, by Your bounty and mercy. They do not present themselves as perfect.",
+    "now": "You missed Fajr again and feel like a fraud for even asking. {reward}The people Allah praises here are asking for forgiveness too.{/reward} Faith with mistakes is still the ticket to ask.",
+    "old": "I have messed up too much to ask for forgiveness.",
+    "new": "Belief is the reason I can ask, not the reason I should be ashamed to.",
+    "try": "Say this dua once today: Rabbana innana amanna faghfir lana dhunubana.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:17", "surah": 3, "ayah": 17, "place": "madinah",
+    "title": "Five habits, ending in the quiet before dawn.",
+    "subtitle": "What the mindful actually do",
+    "picture": {"kind": "boxes", "label": "Five qualities", "row": [
+      {"box": "idea", "title": "patient", "sub": ["in obeying and refraining"]},
+      {"box": "idea", "title": "truthful", "sub": ["faith shown in deeds"]},
+      {"box": "idea", "title": "obedient", "sub": ["devoted to Allah"]},
+      {"box": "idea", "title": "spending", "sub": ["on kin and the needy"]},
+      {"box": "reward", "title": "seeking forgiveness", "sub": ["before dawn"]}]},
+    "key": {"label": "The last third of the night", "row": [
+      {"box": "people", "title": "just sleep time", "sub": ["nothing happens then"], "strike": true},
+      {"box": "reward", "title": "who will ask Me?", "sub": ["Allah calls out each night"]}]},
+    "then": "Ibn Kathir lists these qualities and highlights the last. In the hadith, {reward}every night in the last third, Allah asks who is seeking forgiveness so He may forgive.{/reward} He notes Ibn Umar would ask if the late night had come, then pray until dawn.",
+    "now": "You wake at 4am for no reason and reach for your phone. {idea}That might be the best hour of your day.{/idea} A minute of asking forgiveness while the house is silent.",
+    "old": "The middle of the night is wasted time.",
+    "new": "The pre-dawn quiet is when Allah is asking who wants forgiveness.",
+    "try": "Set an alarm 10 minutes before Fajr once this week and say astaghfirullah.",
+    "related": ["12:98"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:18", "surah": 3, "ayah": 18, "place": "madinah",
+    "title": "Allah testifies first, then the angels, then the people of knowledge.",
+    "subtitle": "The greatest testimony, and who gets to join it",
+    "picture": {"kind": "boxes", "label": "Three witnesses", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the most truthful witness"]},
+      {"box": "people", "title": "the angels", "sub": ["testify too"]},
+      {"box": "people", "title": "people of knowledge", "sub": ["named beside them"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "none but Him", "sub": ["maintaining justice"]}]},
+    "key": {"label": "Why knowledge matters", "row": [
+      {"box": "trap", "title": "learning is optional", "sub": ["faith is enough"], "strike": true},
+      {"box": "reward", "title": "a witness's place", "sub": ["next to the angels"]}]},
+    "then": "Ibn Kathir says Allah is the most truthful and just witness, and He named the angels and the people of knowledge alongside His testimony. {reward}This shows the great virtue of those who have knowledge.{/reward} He also {idea}maintains His creation in justice{/idea} in all He does.",
+    "now": "You keep meaning to take that class or finally read a tafsir. Life is busy. {reward}The verse places people of knowledge in a line with the angels.{/reward} Each thing you learn about Allah makes you a better witness.",
+    "old": "Learning about my faith is something for scholars.",
+    "new": "Knowing Allah well lets me stand with the witnesses to His oneness.",
+    "try": "Learn the meaning of one of Allah's names today, and use it in a dua.",
+    "related": ["4:166"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:19", "surah": 3, "ayah": 19, "place": "madinah",
+    "title": "They split after knowledge came, out of rivalry.",
+    "subtitle": "The true religion, and why people divide over truth",
+    "picture": {"kind": "boxes", "label": "How division happened", "row": [
+      {"box": "reward", "title": "knowledge came", "sub": ["clear proofs given"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "rivalry", "sub": ["envy, hatred"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "dispute", "sub": ["rejecting the right side"]}]},
+    "key": {"label": "Why people differ", "row": [
+      {"box": "people", "title": "lack of info", "sub": ["they just did not know"], "strike": true},
+      {"box": "trap", "title": "envy", "sub": ["they knew, but resented"]}]},
+    "then": "Ibn Kathir explains that submission to Allah, following all His messengers, is the religion with Him. Those given scripture before divided {trap}out of envy, hatred and enmity{/trap}, after proofs had come. {trap}Hatred made some reject the other side even when it was right.{/trap}",
+    "now": "Your cousin makes a good point in the family argument and you refuse to admit it because it is him. {trap}That is the same disease.{/trap} Disagreements often come from rivalry, not from missing facts.",
+    "old": "I would never reject a truth I clearly know.",
+    "new": "Envy can make me refuse what I know is right, just because of who said it.",
+    "try": "Admit someone you dislike was right about one thing, out loud or in your heart.",
+    "related": ["3:85"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:20", "surah": 3, "ayah": 20, "place": "madinah",
+    "title": "Your job is to convey, not to convince.",
+    "subtitle": "When someone argues about your faith",
+    "picture": {"kind": "boxes", "label": "When they argue", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["I have submitted to Allah"]},
+      {"conn": "asks"},
+      {"box": "people", "title": "everyone", "sub": ["scripture people and others"]},
+      {"box": "idea", "title": "will you submit?", "sub": ["the choice is theirs"]}]},
+    "key": {"label": "Whose responsibility", "row": [
+      {"box": "trap", "title": "I must win them over", "sub": ["at any cost"], "strike": true},
+      {"box": "idea", "title": "only to convey", "sub": ["Allah sees the servants"]}]},
+    "then": "Ibn Kathir explains that when people argued about Allah's oneness, the Prophet ﷺ was told to say he had made his worship sincere for Allah. {idea}If they turned away, his duty was only to convey.{/idea} Their reckoning is with Allah, who knows who deserves guidance.",
+    "now": "Your friend asks about Islam, then pushes back hard. You leave feeling you failed because they did not agree. {reward}You did your part.{/reward} Guidance is not in your hands.",
+    "old": "If they do not accept, I failed.",
+    "new": "My part is to share clearly and kindly. The heart is in Allah's hands.",
+    "try": "Make dua by name for someone you once tried to explain Islam to.",
+    "related": ["12:108", "7:158", "21:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:21", "surah": 3, "ayah": 21, "place": "madinah",
+    "title": "Silencing the one who calls for justice.",
+    "subtitle": "Arrogance that rejects the truth and its messengers",
+    "picture": {"kind": "boxes", "label": "The past crime", "row": [
+      {"box": "people", "title": "prophets", "sub": ["called to the truth"]},
+      {"box": "people", "title": "those who order justice", "sub": ["ordinary people"]},
+      {"conn": "killed by"},
+      {"box": "trap", "title": "arrogance", "sub": ["refusing the truth"]}]},
+    "key": {"label": "What arrogance is", "row": [
+      {"box": "people", "title": "thinking highly of myself", "sub": ["just ego"], "strike": true},
+      {"box": "trap", "title": "refusing truth", "sub": ["and looking down on people"]}]},
+    "then": "Ibn Kathir explains this censures those among the People of the Book who denied Allah's signs and {trap}killed prophets who only called them to the truth{/trap}, and people who ordered justice. He cites the hadith: arrogance is refusing the truth and degrading people.",
+    "now": "In a meeting, someone points out a fair problem with your plan. You roll your eyes and talk over them. {trap}That small move is the seed of what this verse describes.{/trap} {idea}The fix is listening when someone calls for fairness.{/idea}",
+    "old": "Arrogance is about bragging, and I do not brag.",
+    "new": "Arrogance is refusing truth and dismissing people, even quietly.",
+    "try": "The next time someone corrects you today, thank them before you answer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:22", "surah": 3, "ayah": 22, "place": "madinah",
+    "title": "Their deeds came to nothing, here and after.",
+    "subtitle": "When good works are emptied out",
+    "picture": {"kind": "boxes", "label": "What remained", "row": [
+      {"box": "people", "title": "their works", "sub": ["whatever they built"]},
+      {"conn": "became"},
+      {"box": "trap", "title": "worthless", "sub": ["in this world and next"]},
+      {"box": "trap", "title": "no helpers", "sub": ["no one to save them"]}]},
+    "key": {"label": "What makes deeds count", "row": [
+      {"box": "trap", "title": "deeds alone", "sub": ["the size of my good"], "strike": true},
+      {"box": "idea", "title": "deeds with humility", "sub": ["accepting the truth"]}]},
+    "then": "This continues the previous verse about those who rejected the truth and harmed its callers. Ibn Kathir notes they were punished with {trap}humiliation in this life and loss in the Hereafter{/trap}, their works lost and with no helpers.",
+    "now": "You give, volunteer, help out, then hold it over people. Or you do good while refusing to hear any correction. {idea}Good deeds need a humble heart to carry them.{/idea}",
+    "old": "As long as I do good things, it all counts.",
+    "new": "Arrogance can empty out my deeds, so I guard my heart as well as my actions.",
+    "try": "Do one good deed today and tell no one, not even as a hint.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:23", "surah": 3, "ayah": 23, "place": "madinah",
+    "title": "Invited to their own book, they turned away.",
+    "subtitle": "Following scripture only when it agrees with you",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "people", "title": "people of scripture", "sub": ["claimed to follow it"]},
+      {"conn": "invited to"},
+      {"box": "idea", "title": "the Book of Allah", "sub": ["to settle the dispute"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "turned away", "sub": ["averse"]}]},
+    "key": {"label": "Who is the judge", "row": [
+      {"box": "trap", "title": "me", "sub": ["I follow it when I like it"], "strike": true},
+      {"box": "idea", "title": "the Book", "sub": ["even when I lose"]}]},
+    "then": "Ibn Kathir explains that those who claimed to follow the Torah and the Gospel were called to refer to them, books which commanded them to follow the Prophet ﷺ. {trap}When called, a group turned away with aversion.{/trap}",
+    "now": "You quote verses when they win you the argument with your spouse. When one cuts against you, you change the subject. {idea}The Book is either the judge or it is not.{/idea}",
+    "old": "I follow the Quran, as long as it does not cost me much.",
+    "new": "I let the Book judge me too, not only the people I argue with.",
+    "try": "Think of one dispute you are in. Ask honestly what the Quran says, even if it goes against you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:24", "surah": 3, "ayah": 24, "place": "madinah",
+    "title": "Just a few days in the Fire, they told themselves.",
+    "subtitle": "The comfortable lie that makes wrongdoing easy",
+    "picture": {"kind": "boxes", "label": "The lie they told themselves", "row": [
+      {"box": "trap", "title": "only a few days", "sub": ["we will be fine"]},
+      {"conn": "made them"},
+      {"box": "trap", "title": "dare to defy", "sub": ["the truth"]},
+      {"box": "people", "title": "self-deceived", "sub": ["by what they invented"]}]},
+    "key": {"label": "Where it came from", "row": [
+      {"box": "trap", "title": "Allah promised it", "sub": ["we are special"], "strike": true},
+      {"box": "trap", "title": "they invented it", "sub": ["no authority from Allah"]}]},
+    "then": "Ibn Kathir explains what made them dare to defy the truth was a claim that {trap}the Fire would only touch them for a few days{/trap}. They deceived themselves with it, though Allah gave no authority for that claim.",
+    "now": "It is only a small lie. Allah is forgiving anyway. I will repent later. {trap}These are the phrases you hear in your own head right before you do it.{/trap} {idea}Hope is real, but not as a license.{/idea}",
+    "old": "Allah is forgiving, so this small thing does not matter.",
+    "new": "Hoping for mercy is right, but using it as an excuse is self-deception.",
+    "try": "Catch one excuse you tell yourself today and say the honest version instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:25", "surah": 3, "ayah": 25, "place": "madinah",
+    "title": "Every soul paid in full, and no one wronged.",
+    "subtitle": "The Day that ends all self-deception",
+    "picture": {"kind": "boxes", "label": "On that Day", "row": [
+      {"box": "people", "title": "everyone gathered", "sub": ["no doubt it comes"]},
+      {"conn": "each soul gets"},
+      {"box": "idea", "title": "exactly what it earned", "sub": ["in full"]},
+      {"box": "reward", "title": "no injustice", "sub": ["not even a little"]}]},
+    "key": {"label": "How the reckoning works", "row": [
+      {"box": "trap", "title": "my excuses", "sub": ["I am an exception"], "strike": true},
+      {"box": "idea", "title": "full fairness", "sub": ["what you earned, nothing else"]}]},
+    "then": "After their comfortable claim, Allah asks how it will be when He gathers them on the Day about which there is no doubt. Ibn Kathir explains {idea}each person will be paid in full what he earned{/idea}, and none will be dealt with unjustly.",
+    "now": "You worked late and your colleague took the credit. {reward}On that Day, nothing is misplaced.{/reward} {idea}And your own quiet wrongs are on the same scale.{/idea} Full justice is good news and a reminder at once.",
+    "old": "What I do quietly will just disappear.",
+    "new": "Every deed is kept and paid in full, fairly, mine included.",
+    "try": "Fix one small wrong you did this week, before that Day does it for you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

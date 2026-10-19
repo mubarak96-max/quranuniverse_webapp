@@ -1,0 +1,260 @@
+[
+  {
+    "id": "22:28", "surah": 22, "ayah": 28, "place": "madinah",
+    "title": "Come for the benefits, remember His name, feed the poor.",
+    "subtitle": "What the pilgrims gain in the known days",
+    "picture": {"kind": "boxes", "label": "Why they come", "row": [
+      {"box": "reward", "title": "benefits", "sub": ["this world and the next"]},
+      {"box": "idea", "title": "His name", "sub": ["on the known days"]},
+      {"box": "people", "title": "the poor", "sub": ["fed from what was given"]}]},
+    "key": {"label": "Whose provision", "row": [
+      {"box": "people", "title": "my animal, my meat", "sub": ["I earned it"], "strike": true},
+      {"box": "idea", "title": "what He provided", "sub": ["so share it"]}]},
+    "then": "Ibn Abbas said the benefits are {reward}in this world and the Hereafter{/reward}: Allah's pleasure, and also trade and sacrifice. He said the known days are the first ten of Dhul-Hijjah, and Ibn Kathir cites the Prophet ﷺ saying no days are more beloved to Allah for good deeds.",
+    "now": "Eid morning, the smell of cooking, bags of meat lined up by the door. Some go to family, some to the neighbor who never asks. {idea}The verse puts the poor right next to the remembrance of Allah{/idea}, in the same breath.",
+    "old": "Worship is between me and Allah; feeding people is a separate thing.",
+    "new": "Remembering Allah and feeding the one in need belong together.",
+    "try": "Give food today to someone who would not ask for it.",
+    "related": ["2:198", "6:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:29", "surah": 22, "ayah": 29, "place": "madinah",
+    "title": "Finish the rites, keep your vows, circle the ancient House.",
+    "subtitle": "How the pilgrimage is brought to its end",
+    "picture": {"kind": "boxes", "label": "Closing steps", "row": [
+      {"box": "people", "title": "end untidiness", "sub": ["shave, wash, fresh clothes"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "fulfill vows", "sub": ["keep what you promised"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "tawaf", "sub": ["around the ancient House"]}]},
+    "key": {"label": "How a journey ends", "row": [
+      {"box": "people", "title": "just stop", "sub": ["the big part is done"], "strike": true},
+      {"box": "idea", "title": "close it well", "sub": ["the end is worship too"]}]},
+    "then": "Ibn Abbas said ending the untidiness means {idea}coming out of ihram{/idea}: shaving, trimming nails, ordinary clothes. Ibn Kathir describes the Prophet ﷺ on the Day of Sacrifice: stoning, sacrifice, shaving, then tawaf. The House is called ancient, Al-Hasan said, as the first set up for people.",
+    "now": "You finish a big project and want to collapse on the sofa, leaving the last emails unsent and the thank-yous unsaid. {idea}The verse gives the journey a proper ending{/idea}: tidy up, keep your word, return to Allah.",
+    "old": "Once the main effort is done, the rest does not matter.",
+    "new": "Finishing well, keeping promises, and ending with Allah are part of the deed.",
+    "try": "Keep one small promise today that you had quietly let slide.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:30", "surah": 22, "ayah": 30, "place": "madinah",
+    "title": "Honor what is sacred, shun idols and shun false speech.",
+    "subtitle": "Idol worship and lying, named side by side",
+    "picture": {"kind": "boxes", "label": "Two things to avoid", "row": [
+      {"box": "idea", "title": "honor the sacred", "sub": ["better with your Lord"]},
+      {"conn": "so shun"},
+      {"box": "trap", "title": "filth of idols", "sub": ["shirk"]},
+      {"box": "trap", "title": "false speech", "sub": ["lies, false witness"]}]},
+    "key": {"label": "How serious is a lie", "row": [
+      {"box": "people", "title": "a small thing", "sub": ["everyone does it"], "strike": true},
+      {"box": "trap", "title": "next to shirk", "sub": ["named together here"]}]},
+    "then": "Ibn Kathir notes that {trap}shirk and false speech are mentioned together{/trap}. He records the Prophet ﷺ sitting up and repeating his warning about false statements and false witness until the Companions wished he would stop.",
+    "now": "Your manager asks if the report was checked. You say yes, though you only skimmed it. Or you add a little to a story to make it land. {idea}The verse lists that kind of speech beside idols.{/idea} Honesty is a form of worship.",
+    "old": "A small lie to smooth things over does no harm.",
+    "new": "False words sit close to false gods; truth is part of honoring Allah.",
+    "try": "Catch yourself before one small exaggeration today and say it straight.",
+    "related": ["7:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:31", "surah": 22, "ayah": 31, "place": "madinah",
+    "title": "Like someone who fell from the sky and was snatched away.",
+    "subtitle": "A picture of what shirk does to a person",
+    "picture": {"kind": "boxes", "label": "The fall", "row": [
+      {"box": "people", "title": "the one who associates", "sub": ["partners with Allah"]},
+      {"conn": "falls"},
+      {"box": "trap", "title": "from the sky", "sub": ["nothing to hold"]},
+      {"box": "trap", "title": "birds or wind", "sub": ["snatched or swept far"]}]},
+    "key": {"label": "Where safety is", "row": [
+      {"box": "people", "title": "many supports", "sub": ["more options, more safety"], "strike": true},
+      {"box": "idea", "title": "inclining to Allah", "sub": ["one firm hold"]}]},
+    "then": "The verse first describes the {idea}hunafa{/idea}, inclining to Allah alone, then gives a parable. Ibn Kathir says the one who sets up partners is {trap}far from true guidance{/trap}, like a person dropped from the sky into a remote and desolate place.",
+    "now": "You hang your sense of worth on likes, a title, a partner's mood, all at once. When one gives way, you feel yourself falling with nothing to grab. {idea}The verse offers one firm hold instead of many loose ones.{/idea}",
+    "old": "The more things I lean on, the safer I am.",
+    "new": "Leaning on many things besides Allah leaves me with nothing when they let go.",
+    "try": "When you feel shaken today, say: Allah is enough for me.",
+    "related": ["6:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:32", "surah": 22, "ayah": 32, "place": "madinah",
+    "title": "Honoring Allah's symbols comes from a mindful heart.",
+    "subtitle": "Respect for His signs shows what is inside",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "people", "title": "choosing the best", "sub": ["healthy, fine animals"]},
+      {"conn": "comes from"},
+      {"box": "idea", "title": "taqwa of hearts", "sub": ["mindfulness inside"]}]},
+    "key": {"label": "What you give", "row": [
+      {"box": "people", "title": "whatever is left", "sub": ["it still counts"], "strike": true},
+      {"box": "reward", "title": "the best you have", "sub": ["that is honoring"]}]},
+    "then": "Ibn Abbas said honoring the symbols includes {reward}choosing fat, healthy animals{/reward} for sacrifice. Abu Umamah said the Muslims in Madinah used to fatten their sacrifice animals. Care in the outward act came from mindfulness inside.",
+    "now": "You give the old coat with the broken zip to the donation box and keep the good one. You pray in the last minutes when you are tired. {idea}The verse links the quality of what you give to the state of your heart.{/idea}",
+    "old": "As long as I give something, the quality does not matter.",
+    "new": "Giving my best to Allah's symbols is how my heart's respect shows.",
+    "try": "Give one thing today that you actually value, not leftovers.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:33", "surah": 22, "ayah": 33, "place": "madinah",
+    "title": "Use them for a while, then bring them to the House.",
+    "subtitle": "Benefit now, offering later",
+    "picture": {"kind": "boxes", "label": "The camel's life", "row": [
+      {"box": "reward", "title": "benefits", "sub": ["milk, wool, riding"]},
+      {"conn": "for a term, then"},
+      {"box": "idea", "title": "the ancient House", "sub": ["the place of sacrifice"]}]},
+    "key": {"label": "Can you use it", "row": [
+      {"box": "people", "title": "too holy to touch", "sub": ["walk beside it"], "strike": true},
+      {"box": "idea", "title": "ride it gently", "sub": ["benefit until the time"]}]},
+    "then": "Ibn Kathir records the Prophet ﷺ seeing a man walking beside his sacrifice camel. {idea}Ride it{/idea}, he said, and when the man objected, said it again. Another report adds: ride it gently as you need.",
+    "now": "You set aside money for charity, or time for family, and it feels like it must stay untouched until the big moment. {reward}The verse lets you enjoy the good of it along the way{/reward}, as long as it reaches where it is meant to go.",
+    "old": "Anything dedicated to Allah must be kept untouched and stiff.",
+    "new": "What is set aside for Allah can still bring gentle good on the way.",
+    "try": "Enjoy one blessing today with gratitude, knowing it is on its way back to Him.",
+    "related": ["5:95", "48:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:34", "surah": 22, "ayah": 34, "place": "madinah",
+    "title": "Every nation had a rite; the God is One.",
+    "subtitle": "Many rites, one Lord, and good news for the humble",
+    "picture": {"kind": "boxes", "label": "Across the nations", "row": [
+      {"box": "people", "title": "every nation", "sub": ["given a rite"]},
+      {"conn": "to"},
+      {"box": "idea", "title": "mention His name", "sub": ["over His provision"]},
+      {"conn": "because"},
+      {"box": "idea", "title": "your God is One", "sub": ["so submit to Him"]}]},
+    "key": {"label": "Who gets good news", "row": [
+      {"box": "people", "title": "the loud and proud", "sub": ["who show off"], "strike": true},
+      {"box": "reward", "title": "the humble", "sub": ["content, submitting"]}]},
+    "then": "Ibn Kathir says sacrifice in Allah's name {idea}was prescribed for all nations{/idea}. Laws differed between prophets, but every messenger called to worship Allah alone. Mujahid said the humble here are those who find contentment in their faith.",
+    "now": "You meet someone from another background whose grandparents also gave thanks before slaughter, or fasted, or prayed. {idea}The verse says that echo is not an accident{/idea}: one Lord sent the call through many prophets.",
+    "old": "My worship is just my culture's habit.",
+    "new": "Every true rite pointed to the same One God; mine is an answer to Him.",
+    "try": "Say Bismillah and Allahu Akbar before your next meal, slowly, meaning it.",
+    "related": ["21:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:35", "surah": 22, "ayah": 35, "place": "madinah",
+    "title": "The humble: moved, patient, praying, giving.",
+    "subtitle": "Four signs of the people given good news",
+    "picture": {"kind": "boxes", "label": "Who they are", "row": [
+      {"box": "idea", "title": "hearts tremble", "sub": ["when Allah is mentioned"]},
+      {"box": "idea", "title": "patient", "sub": ["with what befalls them"]},
+      {"box": "idea", "title": "pray", "sub": ["keep their salah"]},
+      {"box": "idea", "title": "spend", "sub": ["from what they were given"]}]},
+    "key": {"label": "What humility looks like", "row": [
+      {"box": "people", "title": "a feeling", "sub": ["I am humble inside"], "strike": true},
+      {"box": "reward", "title": "four habits", "sub": ["seen in heart and hands"]}]},
+    "then": "Ibn Kathir says it is best to explain the humble by {idea}what comes next{/idea}: hearts that fear Allah when He is mentioned, patience in affliction, prayer, and spending on family and the needy, the opposite of the hypocrites.",
+    "now": "A hard week at the hospital with your father. You still pray in the corridor, you still bring tea for the night nurse, and when the imam says Allah's name your eyes fill. {reward}That is the person this verse is describing.{/reward}",
+    "old": "Humility is about speaking softly and looking modest.",
+    "new": "Humility shows in a heart that responds, patience, prayer and giving.",
+    "try": "Pick the weakest of the four habits in your life and do it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:36", "surah": 22, "ayah": 36, "place": "madinah",
+    "title": "The camels are His symbols, and a reason to be grateful.",
+    "subtitle": "Sacrifice, sharing, and seeing the gift",
+    "picture": {"kind": "boxes", "label": "The sacrifice", "row": [
+      {"box": "reward", "title": "camels and cattle", "sub": ["much good in them"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "Allah's name", "sub": ["as they stand in lines"]},
+      {"conn": "then"},
+      {"box": "people", "title": "eat and feed", "sub": ["the one who asks and who does not"]}]},
+    "key": {"label": "Why they obey you", "row": [
+      {"box": "people", "title": "my strength", "sub": ["I control them"], "strike": true},
+      {"box": "idea", "title": "He subjected them", "sub": ["that you may be grateful"]}]},
+    "then": "Ibn Kathir calls the camels {reward}a blessing and one of His symbols{/reward}. He records the Prophet ﷺ sacrificing on Eid, saying Bismillah and Allahu Akbar, offering on behalf of those of his Ummah who could not, and giving to the poor.",
+    "now": "Think of the car that gets you to work, the cow behind your milk carton, the delivery driver's motorbike. Powerful things serving you every day. {idea}The verse says they were made to serve you so you would say thank you.{/idea}",
+    "old": "The animals and tools I use are just there for me.",
+    "new": "Everything strong that serves me was placed under me by Him, for gratitude.",
+    "try": "Thank Allah out loud for one thing that serves you every day without complaint.",
+    "related": ["5:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:37", "surah": 22, "ayah": 37, "place": "madinah",
+    "title": "Not the meat, not the blood, only your taqwa reaches Him.",
+    "subtitle": "What Allah actually receives from a sacrifice",
+    "picture": {"kind": "boxes", "label": "What reaches Allah", "row": [
+      {"box": "plain", "title": "meat", "sub": ["does not reach"], "strike": true},
+      {"box": "plain", "title": "blood", "sub": ["does not reach"], "strike": true},
+      {"box": "reward", "title": "taqwa", "sub": ["this reaches Him"]}]},
+    "key": {"label": "What is being offered", "row": [
+      {"box": "people", "title": "an animal", "sub": ["Allah needs it"], "strike": true},
+      {"box": "idea", "title": "a heart", "sub": ["He has need of nothing"]}]},
+    "then": "Ibn Jurayj said people before Islam put meat and blood on the House, and some Companions said they had more right to do it. {idea}This verse was the answer.{/idea} Ibn Kathir cites the Prophet ﷺ: Allah looks at your hearts and deeds.",
+    "now": "You post the photo of your donation, the receipt, the queue at the food bank. Nothing wrong with that. {idea}But what reaches Allah is not in the photo.{/idea} It is the quiet intention behind it.",
+    "old": "The bigger and more visible my offering, the more it counts.",
+    "new": "Allah needs nothing from me; He receives the sincerity inside the act.",
+    "try": "Do one good deed today that no one will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:38", "surah": 22, "ayah": 38, "place": "madinah",
+    "title": "Allah defends those who believe.",
+    "subtitle": "Protection for the trusting, none for the treacherous",
+    "picture": {"kind": "boxes", "label": "Who is defended", "row": [
+      {"box": "people", "title": "the believers", "sub": ["trusting, turning to Him"]},
+      {"conn": "defended by"},
+      {"box": "idea", "title": "Allah", "sub": ["from plots and evil"]}]},
+    "key": {"label": "What He dislikes", "row": [
+      {"box": "trap", "title": "treachery", "sub": ["breaking your word"]},
+      {"box": "trap", "title": "ingratitude", "sub": ["denying the blessing"]}]},
+    "then": "Ibn Kathir says Allah {reward}protects, guards and supports{/reward} those who trust Him and turn to Him, against the plots of wrongdoers. He dislikes treachery in promises and ingratitude for blessings. The exiled believers in Madinah needed to hear this.",
+    "now": "Someone at work is talking about you behind your back, and you lie awake planning your defense. {reward}The verse says you are not defending yourself alone.{/reward} Your part is to stay honest and grateful.",
+    "old": "If I do not fight every battle myself, I will be crushed.",
+    "new": "Allah defends those who believe; I stay trustworthy and thankful.",
+    "try": "Hand one worry about other people's plots to Allah in a short dua tonight.",
+    "related": ["39:36", "65:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:39", "surah": 22, "ayah": 39, "place": "madinah",
+    "title": "Permission came to those who had been wronged.",
+    "subtitle": "The first word allowing the persecuted to defend themselves",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "the believers", "sub": ["persecuted years in Makkah"]},
+      {"conn": "were"},
+      {"box": "trap", "title": "wronged and fought", "sub": ["driven from home"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "permission given", "sub": ["Allah able to help them"]}]},
+    "key": {"label": "Why now", "row": [
+      {"box": "people", "title": "in Makkah", "sub": ["outnumbered, patience"]},
+      {"box": "idea", "title": "in Madinah", "sub": ["a home, then permission"]}]},
+    "then": "Many early scholars said this was {idea}the first verse revealed about fighting{/idea}. Ibn Abbas linked it to the Prophet ﷺ and his Companions being driven from Makkah. Ibn Kathir explains that in Makkah they were outnumbered, so the permission came only once they had a home in Madinah.",
+    "now": "You are not on a battlefield. But you may be in a situation where you were wronged and kept silent for years. {idea}The verse shows that patience and standing up both have their time{/idea}, and Allah is the one who gives the help.",
+    "old": "Being patient means I can never stand up for what is right.",
+    "new": "Patience has a time and standing up has a time; help comes from Allah in both.",
+    "try": "Think of one wrong you are carrying. Ask Allah for wisdom on whether to wait or act.",
+    "related": ["47:4", "9:14", "47:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "22:40", "surah": 22, "ayah": 40, "place": "madinah",
+    "title": "Expelled from their homes for saying: our Lord is Allah.",
+    "subtitle": "And why places of worship still stand",
+    "picture": {"kind": "boxes", "label": "Their only crime", "row": [
+      {"box": "people", "title": "the emigrants", "sub": ["evicted without right"]},
+      {"conn": "for saying"},
+      {"box": "idea", "title": "our Lord is Allah", "sub": ["nothing else"]}]},
+    "key": {"label": "What would be lost", "row": [
+      {"box": "trap", "title": "no checking of evil", "sub": ["the strong crush the weak"]},
+      {"box": "people", "title": "monasteries, churches", "sub": ["synagogues, mosques torn down"]}]},
+    "then": "Ibn Abbas said they were driven from Makkah to Madinah {trap}unjustly{/trap}, having wronged no one; their only offense was belief in One God. Ibn Kathir says if Allah did not check some people by others, the strong would destroy the weak, and houses of worship where His name is mentioned would fall.",
+    "now": "You walk past a mosque, a church, a small chapel, all still open, people going in to pray. You never think about why they are still standing. {reward}The verse says it is Allah's protection{/reward}, checking harm through means He creates.",
+    "old": "Places of worship and freedom to pray are just normal.",
+    "new": "Every open house of worship is a protection from Allah, not a given.",
+    "try": "Visit your local mosque today, even briefly, and thank Allah it is open.",
+    "related": ["60:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

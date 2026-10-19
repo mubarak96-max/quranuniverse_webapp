@@ -1,0 +1,291 @@
+[
+  {
+    "id": "26:166", "surah": 26, "ayah": 166, "place": "makkah",
+    "title": "Leaving what your Lord made for you.",
+    "subtitle": "Transgression is walking past the lawful",
+    "picture": {"kind": "boxes", "label": "Lut's charge", "row": [
+      {"box": "reward", "title": "what He created for you", "sub": ["your spouses"]},
+      {"conn": "you leave it for"},
+      {"box": "trap", "title": "what crosses the line", "sub": []},
+      {"conn": "so you are"},
+      {"box": "trap", "title": "transgressors", "sub": ["going beyond limits"]}]},
+    "key": {"label": "What transgressing means", "row": [
+      {"box": "people", "title": "nothing good was offered", "sub": [], "strike": true},
+      {"box": "idea", "title": "the good was right there", "sub": ["and they passed it by"]}]},
+    "then": "Lut {idea}taught them to turn to the wives Allah had created for them.{/idea} The lawful was already provided and close at hand. He calls them {trap}a trespassing people{/trap}: they went past what was given to reach what was forbidden.",
+    "now": "Your spouse is in the next room while you scroll toward something you should not. Your salary is enough, and you still reach for what is not yours. {idea}The lawful was already provided.{/idea}",
+    "old": "I cross limits because what is allowed does not satisfy me.",
+    "new": "Allah already placed what is good for me within reach; transgressing is walking past it.",
+    "try": "Spend real attention today on one lawful blessing you usually overlook, like your spouse or your family.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:167", "surah": 26, "ayah": 167, "place": "makkah",
+    "title": "Stop, Lut, or we will drive you out.",
+    "subtitle": "When people want to be clean, the town expels them",
+    "picture": {"kind": "boxes", "label": "Their only answer", "row": [
+      {"box": "people", "title": "Lut", "sub": ["warns and teaches"]},
+      {"conn": "answered with"},
+      {"box": "trap", "title": "expulsion", "sub": ["we will drive you out"]}]},
+    "key": {"label": "Why they wanted him gone", "row": [
+      {"box": "trap", "title": "he harms us", "sub": [], "strike": true},
+      {"box": "idea", "title": "they want to be pure", "sub": ["as their own words admit"]}]},
+    "then": "Their response was only: {trap}if you do not give up what you have brought, we will expel you from among us.{/trap} Elsewhere they said, {idea}they are people who want to be clean and pure.{/idea} His purity was their complaint.",
+    "now": "You stop joining the gossip at work, or stop drinking at the team dinner. Slowly, the invitations stop. {idea}Sometimes being left out is a sign you are on the right side.{/idea}",
+    "old": "If people push me out, I must be doing something wrong.",
+    "new": "Being pushed out for doing right is a cost the messengers paid too.",
+    "try": "If you have lost a circle for doing right, thank Allah for the reason, and seek better company.",
+    "related": ["27:56"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:168", "surah": 26, "ayah": 168, "place": "makkah",
+    "title": "I detest what you do.",
+    "subtitle": "Lut declares himself free of their deed",
+    "picture": {"kind": "boxes", "label": "Lut's stance", "row": [
+      {"box": "trap", "title": "they persisted", "sub": ["would not give up"]},
+      {"conn": "so he said"},
+      {"box": "idea", "title": "I detest your deed", "sub": ["I do not accept it"]}]},
+    "key": {"label": "What he rejected", "row": [
+      {"box": "trap", "title": "the people", "sub": ["hatred of persons"], "strike": true},
+      {"box": "idea", "title": "the deed", "sub": ["your deed, he said"]}]},
+    "then": "When Lut saw {trap}they would not give up their ways{/trap}, he said he was among those who detest {idea}their deed.{/idea} Ibn Kathir explains: {idea}I do not like it, I do not accept it, I have nothing to do with it.{/idea}",
+    "now": "Your friends joke about something cruel, and you laugh along so you do not seem uptight. Silence and laughter both sound like approval. {idea}You can refuse the deed without hating the person.{/idea}",
+    "old": "If I stay friendly, I have to accept what they do.",
+    "new": "I can stay kind to people while clearly refusing their wrong.",
+    "try": "Next time a cruel joke comes up today, do not laugh. Calmly change the subject.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:169", "surah": 26, "ayah": 169, "place": "makkah",
+    "title": "My Lord, save me and my family.",
+    "subtitle": "A prayer for protection from surrounding harm",
+    "picture": {"kind": "boxes", "label": "Lut's dua", "row": [
+      {"box": "people", "title": "me", "sub": []},
+      {"box": "people", "title": "my family", "sub": []},
+      {"conn": "save from"},
+      {"box": "trap", "title": "what they do", "sub": ["and where it leads"]}]},
+    "key": {"label": "Where to turn", "row": [
+      {"box": "trap", "title": "my own strength", "sub": ["I can shield them"], "strike": true},
+      {"box": "idea", "title": "My Lord", "sub": ["only He can save"]}]},
+    "then": "After declaring himself free of their deed, Lut {idea}prayed to Allah{/idea}: save me and my family from what they do. He was one man with his household, surrounded by a whole town. {reward}He turned the problem over to his Lord.{/reward}",
+    "now": "You worry about what your kids see on their phones, at school, in the street. You cannot control all of it. {idea}You can make Lut's dua for them every night.{/idea}",
+    "old": "Protecting my family depends entirely on me.",
+    "new": "I do my part, and I ask the One who can actually protect them.",
+    "try": "Tonight, make dua by name for each person in your household to be kept safe from harm.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:170", "surah": 26, "ayah": 170, "place": "makkah",
+    "title": "So We saved him and his family.",
+    "subtitle": "The dua was answered",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "people", "title": "Lut prayed", "sub": ["save me and my family"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "saved", "sub": ["he and his family"]}]},
+    "key": {"label": "What it took", "row": [
+      {"box": "reward", "title": "obeyed the command", "sub": ["left at night"]},
+      {"box": "idea", "title": "patience", "sub": ["did not turn back"]}]},
+    "then": "Allah answered: {reward}We saved him and his family.{/reward} Allah commanded him to leave with his family at night and {idea}not to turn around{/idea}. Ibn Kathir notes {reward}they patiently obeyed the command of Allah and persevered.{/reward}",
+    "now": "You need to leave something behind: a job that pulls you into wrong, a circle that drags you down. Leaving is the first step. {idea}Not turning back to it is the second.{/idea}",
+    "old": "Once I pray, the rescue should just happen to me.",
+    "new": "Rescue often comes as a command to walk out, and patience not to look back.",
+    "try": "If there is something you have already left for Allah, take one step today to not go back to it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:171", "surah": 26, "ayah": 171, "place": "makkah",
+    "title": "Except one who stayed behind, his own wife.",
+    "subtitle": "Being close to a prophet was not enough",
+    "picture": {"kind": "boxes", "label": "Who was not saved", "row": [
+      {"box": "people", "title": "Lut's house", "sub": ["saved"]},
+      {"conn": "except"},
+      {"box": "trap", "title": "an old woman", "sub": ["his wife", "remained behind"]}]},
+    "key": {"label": "What saves a person", "row": [
+      {"box": "people", "title": "who you live with", "sub": ["a prophet's household"], "strike": true},
+      {"box": "idea", "title": "what you choose", "sub": ["your own heart"]}]},
+    "then": "Ibn Kathir says this was {trap}his wife, who was a bad old woman{/trap}. She stayed behind and met the fate of those who remained. She lived inside a prophet's house, and {idea}it did not save her.{/idea}",
+    "now": "Your father is the imam, your mother never misses a prayer, your brother memorized the Quran. It is easy to feel covered by them. {idea}Their closeness to Allah is theirs.{/idea}",
+    "old": "Coming from a religious family keeps me safe.",
+    "new": "No one's faith can carry me; I have to choose my own.",
+    "try": "Do one act of worship today purely as your own, not because family expects it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:172", "surah": 26, "ayah": 172, "place": "makkah",
+    "title": "Then the rest were destroyed.",
+    "subtitle": "After the believers left",
+    "picture": {"kind": "boxes", "label": "The order of events", "row": [
+      {"box": "reward", "title": "believers out", "sub": ["at night, not turning"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the others", "sub": ["destroyed"]}]},
+    "key": {"label": "What the timing shows", "row": [
+      {"box": "trap", "title": "everyone together", "sub": ["good and bad alike"], "strike": true},
+      {"box": "idea", "title": "the saved first", "sub": ["then the rest"]}]},
+    "then": "The word {idea}then{/idea} matters. Lut and his family were brought out first. {trap}Afterward, the others were destroyed.{/trap} Allah separated those who obeyed from those who stayed.",
+    "now": "When things fall apart around you, a company scandal, a friend group collapsing, it can feel random. {idea}The question is where you were standing before it came.{/idea}",
+    "old": "When disaster comes, it does not matter what I did.",
+    "new": "What I choose before the test decides where I stand in it.",
+    "try": "Ask yourself honestly where you are standing today. Take one step to the side you want to be on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:173", "surah": 26, "ayah": 173, "place": "makkah",
+    "title": "A rain on those who had been warned.",
+    "subtitle": "The weight is in the word warned",
+    "picture": {"kind": "boxes", "label": "What came first", "row": [
+      {"box": "idea", "title": "warned", "sub": ["many times, clearly"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a rain", "sub": ["stones of baked clay"]}]},
+    "key": {"label": "Why it was evil", "row": [
+      {"box": "people", "title": "no one told them", "sub": [], "strike": true},
+      {"box": "trap", "title": "they were warned", "sub": ["and chose to stay"]}]},
+    "then": "Ibn Kathir says Allah {trap}rained upon them stones of baked clay, piled up.{/trap} The verse names them by one quality: {idea}those who had been warned.{/idea} Lut had told them plainly, and they had threatened him in return.",
+    "now": "The doctor told you about your blood sugar. Your boss told you about the deadlines. Your heart told you about that habit. {idea}You were warned. That is a mercy while there is still time.{/idea}",
+    "old": "Bad outcomes just come out of nowhere.",
+    "new": "Most warnings come early; what I do with them is mine.",
+    "try": "Take one warning you have been given, health, money or faith, and act on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:174", "surah": 26, "ayah": 174, "place": "makkah",
+    "title": "A sign left in the land itself.",
+    "subtitle": "The refrain after Lut's story",
+    "picture": {"kind": "boxes", "label": "What remained", "row": [
+      {"box": "people", "title": "Sadum", "sub": ["a mighty nation"]},
+      {"conn": "became"},
+      {"box": "idea", "title": "a known place", "sub": ["near the Jordan Valley"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "most did not believe", "sub": []}]},
+    "key": {"label": "What a sign needs", "row": [
+      {"box": "people", "title": "to be seen", "sub": [], "strike": true},
+      {"box": "idea", "title": "to be reflected on", "sub": ["seeing is not enough"]}]},
+    "then": "Ibn Kathir notes the land of Lut's people became a lake {idea}well known in the land of Al-Ghur, the Jordan Valley.{/idea} Travelers passed it. The refrain repeats: {trap}in this is a sign, yet most of them are not believers.{/trap}",
+    "now": "You drive past the hospital, the cemetery, the house of the neighbor who lost everything. You have seen it so often it means nothing now. {idea}A sign can become scenery.{/idea}",
+    "old": "I have seen enough reminders to know them already.",
+    "new": "The danger is not missing the sign, but getting used to it.",
+    "try": "Next time you pass a place that reminds you of death or loss, stop for a moment and reflect.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:175", "surah": 26, "ayah": 175, "place": "makkah",
+    "title": "Mighty against the town, merciful to one family.",
+    "subtitle": "Both names seen in Lut's story",
+    "picture": {"kind": "boxes", "label": "Both names at once", "row": [
+      {"box": "idea", "title": "the All-Mighty", "sub": ["a whole nation ended"]},
+      {"box": "reward", "title": "the Most Merciful", "sub": ["a small family brought out"]}]},
+    "key": {"label": "Numbers do not decide", "row": [
+      {"box": "trap", "title": "the many are safe", "sub": ["the town was huge"], "strike": true},
+      {"box": "reward", "title": "the few were saved", "sub": ["one household"]}]},
+    "then": "A mighty nation was ended, and one small family walked out at night. {idea}His might was not stopped by their numbers.{/idea} {reward}His mercy found the few who obeyed.{/reward} The Prophet ﷺ and his small group in Makkah heard this.",
+    "now": "You feel outnumbered: the only one in your office who prays, the only one in your family trying to change. {reward}Allah's mercy does not need a crowd.{/reward}",
+    "old": "If most people are doing it, I am probably safe going along.",
+    "new": "Allah sees the one who obeys, even alone among many.",
+    "try": "Do one right thing today that you would normally skip because no one around you does it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:176", "surah": 26, "ayah": 176, "place": "makkah",
+    "title": "The people of the thicket denied too.",
+    "subtitle": "Madyan, named after what they worshipped",
+    "picture": {"kind": "boxes", "label": "Who they were", "row": [
+      {"box": "people", "title": "Al-Aykah", "sub": ["people of Madyan"]},
+      {"conn": "named after"},
+      {"box": "trap", "title": "a tree", "sub": ["or tangled trees they worshipped"]}]},
+    "key": {"label": "What named them", "row": [
+      {"box": "people", "title": "where they lived", "sub": [], "strike": true},
+      {"box": "trap", "title": "what they adored", "sub": ["it became their name"]}]},
+    "then": "The companions of Al-Aykah were, by the most correct view, {idea}the people of Madyan.{/idea} They took their name from Al-Aykah, {trap}a tree, or a thicket of tangled trees, which they used to worship.{/trap} They too denied the messengers.",
+    "now": "People are often known by what they chase: the gym guy, the crypto guy, the one always talking about her career. {idea}What would you be named after?{/idea}",
+    "old": "What I am obsessed with is just a hobby.",
+    "new": "What I give my heart to can become my identity.",
+    "try": "Ask a close friend what you talk about most. Listen to the answer honestly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:177", "surah": 26, "ayah": 177, "place": "makkah",
+    "title": "Shu'ayb spoke, but not called their brother.",
+    "subtitle": "A missing word that tells a story",
+    "picture": {"kind": "boxes", "label": "The difference", "row": [
+      {"box": "people", "title": "Hud, Salih, Lut", "sub": ["their brother"]},
+      {"box": "people", "title": "Shu'ayb", "sub": ["just Shu'ayb"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "their name", "sub": ["tied to the tree they worshipped"]}]},
+    "key": {"label": "Why no brother", "row": [
+      {"box": "trap", "title": "he was not one of them", "sub": [], "strike": true},
+      {"box": "idea", "title": "the name was the tree's", "sub": ["he shared their blood, not that"]}]},
+    "then": "Here the Quran says {idea}when Shu'ayb said to them{/idea}, not their brother Shu'ayb. Ibn Kathir explains it is because {trap}their name denoted their worship of Al-Aykah.{/trap} Shu'ayb was their brother by blood but had no share in that name.",
+    "now": "You can belong to a family, a team, a culture, and still not share in what is wrong in it. {idea}Belonging does not mean taking the whole label.{/idea}",
+    "old": "If I belong to a group, I have to carry everything it stands for.",
+    "new": "I can be loyal to my people without sharing in what they worship besides Allah.",
+    "try": "Think of one thing your circle takes for granted that you do not agree with. Keep your distance from it, kindly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:178", "surah": 26, "ayah": 178, "place": "makkah",
+    "title": "A trustworthy messenger to a dishonest market.",
+    "subtitle": "Shu'ayb's honesty set against their cheating",
+    "picture": {"kind": "boxes", "label": "Two kinds of trust", "row": [
+      {"box": "reward", "title": "Shu'ayb", "sub": ["trustworthy messenger"]},
+      {"box": "trap", "title": "Madyan", "sub": ["unfair weights and measures"]}]},
+    "key": {"label": "What they lacked", "row": [
+      {"box": "people", "title": "belief only", "sub": [], "strike": true},
+      {"box": "idea", "title": "trust in trade", "sub": ["honest dealings too"]}]},
+    "then": "Shu'ayb says {reward}I am a trustworthy messenger to you.{/reward} Ibn Kathir notes he {idea}commanded them to be fair in weights and measures.{/idea} A people who cheated in trade were sent a man defined by trust.",
+    "now": "You sell a used phone and do not mention the cracked camera. You file an expense that is a bit rounded up. {idea}Trustworthiness is tested at the till, not only at the mosque.{/idea}",
+    "old": "Business is business; faith is separate.",
+    "new": "Being trustworthy covers my receipts as much as my prayers.",
+    "try": "In your next sale or purchase, mention one detail that is in the other person's favor.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:179", "surah": 26, "ayah": 179, "place": "makkah",
+    "title": "Fear Allah and obey me, said the fifth messenger.",
+    "subtitle": "The same call reaches Madyan",
+    "picture": {"kind": "boxes", "label": "Shu'ayb's call", "row": [
+      {"box": "idea", "title": "taqwa of Allah", "sub": []},
+      {"conn": "and"},
+      {"box": "people", "title": "obey me", "sub": ["even in your trading"]}]},
+    "key": {"label": "Where taqwa lives", "row": [
+      {"box": "trap", "title": "in worship only", "sub": [], "strike": true},
+      {"box": "idea", "title": "in the marketplace", "sub": ["where they weighed and measured"]}]},
+    "then": "Shu'ayb gives the same call as Nuh, Hud, Salih and Lut: {idea}have taqwa of Allah, and obey me.{/idea} For Madyan, obeying him would mean {reward}fair weights and measures{/reward}, right where they made their living.",
+    "now": "Your shop, your freelance invoices, your online store. That is where your taqwa will be tested most this week. {idea}Mindfulness of Allah goes to work with you.{/idea}",
+    "old": "I am mindful of Allah when I pray.",
+    "new": "Mindfulness of Allah is just as real when I quote a price.",
+    "try": "Before your next work task today, say bismillah and remember Allah is watching the work.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:180", "surah": 26, "ayah": 180, "place": "makkah",
+    "title": "To traders, he asked no payment.",
+    "subtitle": "Shu'ayb's call came free",
+    "picture": {"kind": "boxes", "label": "Madyan's world", "row": [
+      {"box": "people", "title": "everything priced", "sub": ["a trading people"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "Shu'ayb's advice", "sub": ["no charge", "reward from Allah"]}]},
+    "key": {"label": "What a free gift means", "row": [
+      {"box": "trap", "title": "worthless", "sub": ["nothing free is worth much"], "strike": true},
+      {"box": "idea", "title": "sincere", "sub": ["nothing to gain from you"]}]},
+    "then": "To a people who lived by buying and selling, Shu'ayb said: {reward}no reward do I ask of you for it; my reward is only from the Lord of all the worlds.{/reward} He was the {idea}fifth messenger in this surah to say it.{/idea}",
+    "now": "You are used to paying for everything: courses, coaching, advice. Then someone gives you honest guidance for free and you value it less. {idea}Free does not mean cheap.{/idea}",
+    "old": "Advice I did not pay for cannot be worth much.",
+    "new": "The most valuable guidance often comes from people asking nothing in return.",
+    "try": "Thank someone today who once gave you good advice for free.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

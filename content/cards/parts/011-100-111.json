@@ -1,0 +1,251 @@
+[
+  {
+    "id": "11:100", "surah": 11, "ayah": 100, "place": "makkah",
+    "title": "Some towns still stand, some were mown down.",
+    "subtitle": "Looking back at the ruins as a lesson",
+    "picture": {"kind": "boxes", "label": "The news of the towns", "row": [
+      {"box": "idea", "title": "stories told to you", "sub": ["of the past nations"]},
+      {"conn": "of them"},
+      {"box": "plain", "title": "some still standing", "sub": ["traces remain"]},
+      {"box": "trap", "title": "some reaped", "sub": ["wiped out entirely"]}]},
+    "key": {"label": "Why these stories", "row": [
+      {"box": "plain", "title": "old history", "sub": ["interesting but distant"], "strike": true},
+      {"box": "idea", "title": "a mirror", "sub": ["for how I live now"]}]},
+    "then": "After the stories of the prophets and their nations, Allah tells the Prophet ﷺ these are {idea}news of the towns We relate to you{/idea}. Of them, some still stand, and {trap}some have been reaped, totally destroyed{/trap}, like a harvested field.",
+    "now": "You watch a documentary about an ancient city in ruins, then switch to the next show. Or you walk past a closed-down factory that once employed half the town. {idea}Pause on it.{/idea} Every ruin is a question about how its people lived.",
+    "old": "Stories of destroyed nations are just history.",
+    "new": "These stories are told so I look at my own life while there is still time.",
+    "try": "Next time you see ruins or an abandoned building, ask yourself one honest question about your own habits.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:101", "surah": 11, "ayah": 101, "place": "makkah",
+    "title": "We did not wrong them; they wronged themselves.",
+    "subtitle": "False gods added nothing but loss",
+    "picture": {"kind": "boxes", "label": "What happened at the end", "row": [
+      {"box": "people", "title": "the nations", "sub": ["rejected their messengers"]},
+      {"conn": "called on"},
+      {"box": "trap", "title": "their gods", "sub": ["besides Allah"]},
+      {"conn": "which gave"},
+      {"box": "trap", "title": "only ruin", "sub": ["loss here and after"]}]},
+    "key": {"label": "Who did the wrong", "row": [
+      {"box": "people", "title": "Allah was harsh", "sub": ["it was unfair"], "strike": true},
+      {"box": "trap", "title": "they wronged themselves", "sub": ["by rejecting the truth"]}]},
+    "then": "Allah says {idea}We did not wrong them{/idea} when We destroyed them; {trap}they wronged themselves{/trap} by rejecting their messengers. When the command came, their idols could not help or save them. Mujahid and Qatadah said those gods only added loss.",
+    "now": "You stayed up gaming instead of studying, then blamed the exam. You spent on credit, then blamed the bank. {idea}Some wounds are self-inflicted.{/idea} Seeing that is not shame; it is the start of change.",
+    "old": "When things go badly, it is usually someone else's fault.",
+    "new": "Allah wrongs no one; much of my harm comes from my own choices, which I can change.",
+    "try": "Name one problem you keep blaming on others and write one thing you did that fed it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:102", "surah": 11, "ayah": 102, "place": "makkah",
+    "title": "Respite is long, but the seizing is sure.",
+    "subtitle": "Delay is not escape",
+    "picture": {"kind": "boxes", "label": "How it works", "row": [
+      {"box": "people", "title": "a wrongdoer", "sub": ["keeps going"]},
+      {"conn": "given"},
+      {"box": "plain", "title": "respite", "sub": ["time, and more time"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "He seizes", "sub": ["and there is no escape"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "people", "title": "I got away with it", "sub": ["nothing happened"], "strike": true},
+      {"box": "idea", "title": "a chance to turn back", "sub": ["the respite is mercy"]}]},
+    "then": "This is how Allah seizes towns that do wrong, and {trap}His seizing is painful and severe{/trap}. The Prophet ﷺ said Allah gives respite to the wrongdoer until, when He seizes him, he cannot escape, and then he recited this verse. {idea}What He did to them, He does to any like them.{/idea}",
+    "now": "You have been cutting corners for months and nothing has happened. No audit, no consequence. It starts to feel safe. {idea}Respite is not approval.{/idea} It is time given to turn back while turning back is still possible.",
+    "old": "If nothing bad has happened yet, what I am doing must be fine.",
+    "new": "Delay is a mercy and a warning, not a sign that I got away with it.",
+    "try": "Stop one small wrong today that you have been getting away with.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:103", "surah": 11, "ayah": 103, "place": "makkah",
+    "title": "A Day everyone is gathered and everyone sees.",
+    "subtitle": "The ruins point to a bigger gathering",
+    "picture": {"kind": "boxes", "label": "What the ruins point to", "row": [
+      {"box": "idea", "title": "a sign", "sub": ["for those who fear the next life"]},
+      {"conn": "of"},
+      {"box": "people", "title": "a gathered Day", "sub": ["first and last of mankind"]},
+      {"box": "plain", "title": "a witnessed Day", "sub": ["angels, messengers, all creation"]}]},
+    "key": {"label": "Who learns from the ruins", "row": [
+      {"box": "people", "title": "everyone", "sub": ["the lesson is obvious"], "strike": true},
+      {"box": "idea", "title": "those who fear", "sub": ["the punishment of the next life"]}]},
+    "then": "The destruction of deniers and rescue of believers is {idea}a sign for those who fear the punishment of the Hereafter{/idea}. It points to a Day when all people, the first and last, are gathered. Ibn Kathir says angels and messengers will be present, and {reward}the Most Just will not wrong anyone by an atom's weight{/reward}.",
+    "now": "You stand in a packed stadium, or the crowd at Eid prayer, and feel small among thousands. {idea}Imagine every human ever, in one place.{/idea} Everyone seen. That thought can make your private choices feel very public.",
+    "old": "What I do in private stays private.",
+    "new": "There is a Day when everyone is gathered and everything is seen, so I live with that in view.",
+    "try": "In the next crowd you are part of, remember the Day of gathering and make a quiet dua for it.",
+    "related": ["40:51", "18:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:104", "surah": 11, "ayah": 104, "place": "makkah",
+    "title": "The Day is delayed only to a counted term.",
+    "subtitle": "Not a minute more, not a minute less",
+    "picture": {"kind": "boxes", "label": "The timing", "row": [
+      {"box": "plain", "title": "it is delayed", "sub": ["it seems far"]},
+      {"conn": "only until"},
+      {"box": "idea", "title": "a counted term", "sub": ["fixed by Allah"]},
+      {"conn": "which"},
+      {"box": "trap", "title": "cannot move", "sub": ["not more, not less"]}]},
+    "key": {"label": "What the delay is", "row": [
+      {"box": "people", "title": "it may never come", "sub": ["it has been so long"], "strike": true},
+      {"box": "idea", "title": "a countdown", "sub": ["already numbered"]}]},
+    "then": "The Day just described is not cancelled by being far away. {idea}Allah only delays it to a counted term{/idea}, a fixed time, as Ibn Kathir says, that {trap}cannot be increased or decreased{/trap}.",
+    "now": "The deadline is months away, so you do not start. Then it is next week. {idea}A counted term is already counting.{/idea} Your own days are numbered the same way; every one used is one fewer.",
+    "old": "There is plenty of time before I need to get serious.",
+    "new": "My days and the Day are both counted, so I use the time I have now.",
+    "try": "Do today one good thing you keep putting off for \"later.\"",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:105", "surah": 11, "ayah": 105, "place": "makkah",
+    "title": "No one speaks except by His leave.",
+    "subtitle": "A silent Day that splits into two",
+    "picture": {"kind": "boxes", "label": "When that Day comes", "row": [
+      {"box": "plain", "title": "silence", "sub": ["no soul speaks unpermitted"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the wretched", "sub": ["one group"]},
+      {"box": "reward", "title": "the happy", "sub": ["the other group"]}]},
+    "key": {"label": "What decides the group", "row": [
+      {"box": "people", "title": "talking my way out", "sub": ["excuses, explanations"], "strike": true},
+      {"box": "idea", "title": "what I did", "sub": ["the pens already wrote"]}]},
+    "then": "On that Day {idea}no soul will speak except by Allah's permission{/idea}. In the hadith of intercession, the Prophet ﷺ said even the messengers will only say: O Allah, save us, save us. People will be {trap}wretched{/trap} or {reward}happy{/reward}. Umar asked if it depended on deeds; the Prophet ﷺ said each person is eased toward what he was created for.",
+    "now": "You are used to explaining yourself: to HR, to your parents, in the comments. You can usually talk your way through. {idea}On that Day, words are by permission only.{/idea} What speaks for you is what you did today.",
+    "old": "I can always explain myself later.",
+    "new": "On that Day my deeds speak, not my excuses, so I let them speak well now.",
+    "try": "Do one good deed today quietly, without telling anyone, and let it speak for you later.",
+    "related": ["78:38", "20:108", "42:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:106", "surah": 11, "ayah": 106, "place": "makkah",
+    "title": "The wretched will be in the Fire, gasping.",
+    "subtitle": "A sober glimpse of the losing side",
+    "picture": {"kind": "boxes", "label": "The wretched", "row": [
+      {"box": "trap", "title": "in the Fire", "sub": ["their final place"]},
+      {"conn": "where"},
+      {"box": "trap", "title": "heavy breathing", "sub": ["out and in, in distress"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "seek refuge", "sub": ["while you can"]}]},
+    "key": {"label": "Why it is described", "row": [
+      {"box": "people", "title": "to scare me off", "sub": ["fear for its own sake"], "strike": true},
+      {"box": "idea", "title": "to turn me back", "sub": ["while the door is open"]}]},
+    "then": "Allah describes the wretched in the Fire. Ibn Abbas explained the two words as {trap}hard sounds of breathing out and breathing in{/trap}, from the distress they feel. Ibn Kathir adds: {idea}we seek refuge with Allah from such evil{/idea}.",
+    "now": "You take an easy breath right now without thinking. In a hard workout, or a panic attack, you learn what it is to struggle for air. {idea}Every easy breath is a gift and a chance.{/idea} Use it to turn toward Him.",
+    "old": "Thinking about the Fire is too heavy; better to avoid it.",
+    "new": "Allah describes it so I seek refuge and change course while I still can.",
+    "try": "After your next prayer, say: O Allah, protect me from the Fire, three times.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:107", "surah": 11, "ayah": 107, "place": "makkah",
+    "title": "As long as the heavens and earth endure.",
+    "subtitle": "Lasting, except what your Lord wills",
+    "picture": {"kind": "boxes", "label": "How long", "row": [
+      {"box": "trap", "title": "abiding there", "sub": ["as heavens and earth endure"]},
+      {"conn": "except"},
+      {"box": "reward", "title": "what your Lord wills", "sub": ["intercession, mercy"]},
+      {"conn": "for"},
+      {"box": "idea", "title": "He does what He wills", "sub": ["no one compels Him"]}]},
+    "key": {"label": "The one door named", "row": [
+      {"box": "trap", "title": "no hope at all", "sub": ["for any sinner"], "strike": true},
+      {"box": "reward", "title": "La ilaha illallah", "sub": ["mercy reaches its people"]}]},
+    "then": "Ibn Jarir said the Arabs used \"as long as the heavens and earth endure\" to mean forever. Then comes {reward}except what your Lord wills{/reward}. Many scholars said this refers to sinful believers in tawhid, brought out by intercession, and even those whose only good was {reward}saying La ilaha illallah{/reward}.",
+    "now": "You feel your sins are too many to ever be forgiven. Your record feels like a debt you cannot pay. {reward}The one word of tawhid carries enormous weight.{/reward} Hold on to it, and build on it.",
+    "old": "If I have sinned badly, there is no hope left for me.",
+    "new": "Allah does what He wills, and His mercy reaches even those with very little good, if they held to tawhid.",
+    "try": "Say La ilaha illallah slowly and sincerely ten times today, thinking about its meaning.",
+    "related": ["14:48", "6:128"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:108", "surah": 11, "ayah": 108, "place": "makkah",
+    "title": "A gift that is never cut off.",
+    "subtitle": "The happy ones in Paradise, forever",
+    "picture": {"kind": "boxes", "label": "The happy ones", "row": [
+      {"box": "people", "title": "followers of the messengers", "sub": ["the blessed"]},
+      {"conn": "in"},
+      {"box": "reward", "title": "Paradise", "sub": ["abiding forever"]},
+      {"conn": "as"},
+      {"box": "reward", "title": "a gift unbroken", "sub": ["never cut off"]}]},
+    "key": {"label": "How long joy lasts", "row": [
+      {"box": "plain", "title": "it will end", "sub": ["all good things do"], "strike": true},
+      {"box": "reward", "title": "never cut off", "sub": ["no death, no aging"]}]},
+    "then": "The blessed, the followers of the messengers, will be in Paradise forever. Ibn Kathir says Allah ended with {reward}a gift without an end{/reward} so no one would think it could stop. The Prophet ﷺ said the people of Paradise will be told they will {reward}live and never die, stay young, healthy and never grieve{/reward}.",
+    "now": "The holiday ends, the new phone gets old, the best day is followed by Monday. Every joy here has an expiry date. {reward}Imagine one that never does.{/reward} That is what your small good deeds are aimed at.",
+    "old": "Every happiness eventually runs out.",
+    "new": "The joy Allah promises the believers is a gift that never ends.",
+    "try": "When a good moment ends today, say: O Allah, give me the joy that never ends.",
+    "related": ["21:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:109", "surah": 11, "ayah": 109, "place": "makkah",
+    "title": "They worship only what their fathers worshipped.",
+    "subtitle": "Copying without knowing is no foundation",
+    "picture": {"kind": "boxes", "label": "Their only argument", "row": [
+      {"box": "people", "title": "the polytheists", "sub": ["of Makkah"]},
+      {"conn": "copy"},
+      {"box": "trap", "title": "their fathers", "sub": ["without any proof"]},
+      {"conn": "and receive"},
+      {"box": "plain", "title": "their full share", "sub": ["nothing reduced"]}]},
+    "key": {"label": "Why they believed it", "row": [
+      {"box": "people", "title": "it is true", "sub": ["we checked"], "strike": true},
+      {"box": "trap", "title": "it is inherited", "sub": ["our fathers did it"]}]},
+    "then": "Allah tells the Prophet ﷺ not to doubt that the polytheists' worship is false. Ibn Kathir says {trap}they had no support for it except copying their fathers in ignorance{/trap}. Allah will give everyone their portion in full.",
+    "now": "You do some things because \"our family always does it\": the way you spend at weddings, the grudges, even parts of worship you never asked about. {idea}Inherited is not the same as checked.{/idea} Keep what is true, question what is only habit.",
+    "old": "If my family has always done it, it must be right.",
+    "new": "I need to know why I do what I do, not just that my elders did it.",
+    "try": "Pick one family custom and look up whether it truly has a basis in the deen.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:110", "surah": 11, "ayah": 110, "place": "makkah",
+    "title": "Musa's Book was disputed too.",
+    "subtitle": "Comfort for the Prophet ﷺ facing denial",
+    "picture": {"kind": "boxes", "label": "A pattern before", "row": [
+      {"box": "idea", "title": "the Book to Musa", "sub": ["clear guidance"]},
+      {"conn": "yet"},
+      {"box": "people", "title": "they differed", "sub": ["some believed, some denied"]},
+      {"conn": "judgment held by"},
+      {"box": "plain", "title": "a prior word", "sub": ["a set time"]}]},
+    "key": {"label": "What denial means", "row": [
+      {"box": "people", "title": "the message failed", "sub": ["if people reject it"], "strike": true},
+      {"box": "idea", "title": "an old pattern", "sub": ["prophets faced it before"]}]},
+    "then": "Allah reminds the Prophet ﷺ that {idea}He gave Musa the Book, and people differed over it{/idea}. So he has an example in earlier prophets and should not grieve. Ibn Jarir said that {trap}if the judgment had not been delayed to a set time{/trap}, it would have been decided immediately.",
+    "now": "You share something true and beneficial and get mocked, or ignored, by your own family. You wonder if you said it wrong. {idea}Even revealed Books were argued over.{/idea} Rejection does not make the truth less true.",
+    "old": "If people argue against the truth I share, I must have failed.",
+    "new": "Disagreement over truth is an old pattern; my job is to stay patient and sincere.",
+    "try": "When someone rejects a good word from you today, let it go without bitterness.",
+    "related": ["17:15", "20:129"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:111", "surah": 11, "ayah": 111, "place": "makkah",
+    "title": "Every one of them is paid in full.",
+    "subtitle": "Nothing small or great is overlooked",
+    "picture": {"kind": "boxes", "label": "The full account", "row": [
+      {"box": "people", "title": "every person", "sub": ["first and last nations"]},
+      {"conn": "repaid for"},
+      {"box": "reward", "title": "good deeds", "sub": ["fully rewarded"]},
+      {"box": "trap", "title": "bad deeds", "sub": ["fully accounted"]},
+      {"box": "idea", "title": "All-Aware", "sub": ["of what they do"]}]},
+    "key": {"label": "What gets counted", "row": [
+      {"box": "people", "title": "only the big things", "sub": ["small stuff slips by"], "strike": true},
+      {"box": "idea", "title": "everything", "sub": ["small and great, fine and ugly"]}]},
+    "then": "Allah will gather the early and later generations and {idea}repay each of them their deeds in full{/idea}. Ibn Kathir says He knows all of them: {reward}their honorable deeds{/reward} and {trap}their despicable deeds{/trap}, the small and the great.",
+    "now": "The extra minute you stayed to help a coworker. The snide remark in the family group. The coin you gave without anyone seeing. {idea}None of it is lost.{/idea} That is a warning and a huge comfort at once.",
+    "old": "Small acts, good or bad, do not really count.",
+    "new": "Allah knows every small deed and repays it fully, so nothing good I do is wasted.",
+    "try": "Do one tiny good deed today that no one will notice, trusting that He does.",
+    "related": ["36:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

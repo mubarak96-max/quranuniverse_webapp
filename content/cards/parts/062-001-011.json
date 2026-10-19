@@ -1,0 +1,230 @@
+[
+  {
+    "id": "62:1", "surah": 62, "ayah": 1, "place": "madinah",
+    "title": "The King, the Holy, praised by all things.",
+    "subtitle": "Four names before the Friday surah begins",
+    "picture": {"kind": "boxes", "label": "Who He is", "row": [
+      {"box": "idea", "title": "the King", "sub": ["owns and runs it all"]},
+      {"box": "idea", "title": "the Holy", "sub": ["free of every flaw"]},
+      {"box": "idea", "title": "the Mighty", "sub": ["nothing overpowers Him"]},
+      {"box": "idea", "title": "the Wise", "sub": ["nothing is random"]}]},
+    "key": {"label": "Who is praising", "row": [
+      {"box": "people", "title": "only the living", "sub": ["people, maybe animals"], "strike": true},
+      {"box": "reward", "title": "every single thing", "sub": ["even stones and stars"]}]},
+    "then": "The Prophet ﷺ used to recite this surah in the Friday prayer. Ibn Kathir says it opens by telling us that {idea}everything in the heavens and earth glorifies Allah{/idea}, living creatures and lifeless things alike. He is the King in full control, and the Holy, free of every shortcoming.",
+    "now": "Friday morning. You are rushing: work, the school run, a meeting before the prayer. Pause for one breath. {idea}The room you are in, the chair, the window, the light, are already praising the King.{/idea} You are the one who can choose to.",
+    "old": "Worship is something only people do, and only at certain times.",
+    "new": "All of creation is praising its King, and I get to join with words.",
+    "try": "This Friday, before the prayer, say SubhanAllah ten times slowly, thinking of the King and the Holy.",
+    "related": ["17:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:2", "surah": 62, "ayah": 2, "place": "madinah",
+    "title": "A messenger from among them, reciting, purifying, teaching.",
+    "subtitle": "What the Prophet ﷺ was sent to do",
+    "picture": {"kind": "boxes", "label": "His work", "row": [
+      {"box": "people", "title": "people in clear error", "sub": ["lost the way of Ibrahim"]},
+      {"conn": "received"},
+      {"box": "idea", "title": "recites His verses", "sub": ["the words reach them"]},
+      {"box": "idea", "title": "purifies them", "sub": ["the heart is cleaned"]},
+      {"box": "idea", "title": "teaches", "sub": ["the Book and wisdom"]}]},
+    "key": {"label": "What changed them", "row": [
+      {"box": "people", "title": "only information", "sub": ["facts about religion"], "strike": true},
+      {"box": "reward", "title": "purified and taught", "sub": ["hearts and minds both"]}]},
+    "then": "Ibn Kathir says the Arabs had once followed the religion of Ibrahim, then changed it for idol worship and doubt. This verse is the answer to Ibrahim's old prayer for a messenger from among them. {idea}He recited, purified, and taught the Book and wisdom{/idea}, to people who {trap}had been in clear error{/trap}.",
+    "now": "You watch hours of Islamic clips. You know a lot. But is anything being cleaned out of you, the temper, the envy, the habit? {idea}Recite, purify, teach.{/idea} Knowledge alone was never the whole of it.",
+    "old": "Learning more facts about Islam is what makes me a better Muslim.",
+    "new": "The Quran came to clean my heart, not just to fill my head.",
+    "try": "After your next Quran reading, ask: what one thing in me does this verse want to clean?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:3", "surah": 62, "ayah": 3, "place": "madinah",
+    "title": "And others who have not yet joined them.",
+    "subtitle": "The message was always meant to reach you",
+    "picture": {"kind": "boxes", "label": "Who it was for", "row": [
+      {"box": "people", "title": "the first believers", "sub": ["in Madinah"]},
+      {"conn": "and"},
+      {"box": "people", "title": "Salman's people", "sub": ["from Persia"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "others to come", "sub": ["all who believe later"]}]},
+    "key": {"label": "Where you fit", "row": [
+      {"box": "people", "title": "too late, too far", "sub": ["it was for them, then"], "strike": true},
+      {"box": "reward", "title": "\"others among them\"", "sub": ["you were in the plan"]}]},
+    "then": "Abu Hurayrah said they were sitting with the Prophet ﷺ when this was revealed. They asked three times who these others were. He put his hand on Salman al-Farisi and said: {reward}if faith were at the Pleiades, men from these people would reach it{/reward}. Mujahid said it means all later non-Arabs who believe.",
+    "now": "You were born centuries later, in a city the Companions never heard of, maybe into a family that never practised. {reward}You are part of \"others who have not yet joined them\".{/reward} {idea}You were expected.{/idea}",
+    "old": "The real Muslims were the first ones. I am just a distant copy.",
+    "new": "Allah named people like me in His Book before I was born.",
+    "try": "Make a dua today for the Companions, and thank Allah that the message reached you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:4", "surah": 62, "ayah": 4, "place": "madinah",
+    "title": "That is Allah's favor, given to whom He wills.",
+    "subtitle": "Guidance is a gift, not a reward we earned first",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "idea", "title": "Allah's favor", "sub": ["great and wide"]},
+      {"conn": "gives"},
+      {"box": "reward", "title": "a messenger", "sub": ["the Book, wisdom"]},
+      {"conn": "to"},
+      {"box": "people", "title": "whom He wills", "sub": ["first and later ones"]}]},
+    "key": {"label": "How you got here", "row": [
+      {"box": "people", "title": "I found it myself", "sub": ["my smart choices"], "strike": true},
+      {"box": "reward", "title": "it was given", "sub": ["His favor first"]}]},
+    "then": "After naming the first believers and those who would join later, the passage says this is {reward}the favor of Allah{/reward}, and He is the Owner of mighty favor. Ibn Kathir says the Messenger ﷺ came when the way had become obscure, at the time it was most needed.",
+    "now": "It is easy to feel proud of being the one in the family who prays, or the one who \"came back\". {idea}Every step of that was a gift.{/idea} {trap}Pride turns a gift into a trophy.{/trap}",
+    "old": "I am guided because I made better choices than others.",
+    "new": "My guidance is Allah's favor to me, and He can give it to anyone.",
+    "try": "Think of someone you look down on for their faith. Make a sincere dua for them instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:5", "surah": 62, "ayah": 5, "place": "madinah",
+    "title": "Like a donkey carrying a load of books.",
+    "subtitle": "Carrying scripture without carrying it out",
+    "picture": {"kind": "boxes", "label": "The donkey", "row": [
+      {"box": "people", "title": "a donkey", "sub": ["strong back"]},
+      {"conn": "carries"},
+      {"box": "reward", "title": "volumes of books", "sub": ["wisdom on its back"]},
+      {"conn": "gains"},
+      {"box": "trap", "title": "nothing", "sub": ["it does not understand"]}]},
+    "key": {"label": "What carrying means", "row": [
+      {"box": "people", "title": "having the book", "sub": ["owning, reciting it"], "strike": true},
+      {"box": "idea", "title": "living by it", "sub": ["the real carrying"]}]},
+    "then": "The verse speaks of those given the Torah who did not carry out what it said. Ibn Kathir explains that a donkey carrying books uses only its strength. {trap}They read the letters but did not act on the meanings{/trap}, and unlike the donkey, they had minds that could have understood.",
+    "now": "A beautiful Quran on the shelf. Apps with every tafsir. Verses memorised as a child. {trap}And none of it touches how you speak to your mother or spend your salary.{/trap} {idea}The question is not what you carry, but what carries you.{/idea}",
+    "old": "Having the Quran close and reciting it is enough.",
+    "new": "A book on my back is weight. A book in my life is guidance.",
+    "try": "Choose one verse you already know by heart and do one thing today that it asks.",
+    "related": ["7:179"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:6", "surah": 62, "ayah": 6, "place": "madinah",
+    "title": "If you are Allah's chosen, then wish for death.",
+    "subtitle": "A challenge to a claim of special closeness",
+    "picture": {"kind": "boxes", "label": "The claim and the test", "row": [
+      {"box": "trap", "title": "the claim", "sub": ["\"we alone are His friends\""]},
+      {"conn": "tested by"},
+      {"box": "idea", "title": "wish for death", "sub": ["if you are sure"]}]},
+    "key": {"label": "What proves closeness", "row": [
+      {"box": "people", "title": "saying we are close", "sub": ["a title, a label"], "strike": true},
+      {"box": "idea", "title": "not fearing the meeting", "sub": ["a life ready for Him"]}]},
+    "then": "Some among the Jews of Madinah claimed they alone were Allah's friends. Ibn Kathir says the challenge meant: {idea}if you are sure you are right, call on Allah to let the misguided side die{/idea}. The same challenge appears in Surah Al-Baqarah.",
+    "now": "It is easy to say \"we are the good ones\", our family, our mosque, our circle. {trap}Then picture meeting Allah tonight.{/trap} {idea}If that thought frightens you, the confidence was a label, not a reality.{/idea} The verse asks you, not just them.",
+    "old": "I belong to the right group, so I am safe with Allah.",
+    "new": "Closeness to Allah shows in being ready to meet Him, not in a label.",
+    "try": "Ask yourself honestly: if I met Allah tonight, what is the one thing I would want to fix first? Start on it.",
+    "related": ["2:94"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:7", "surah": 62, "ayah": 7, "place": "madinah",
+    "title": "They never wish for it, because of what they sent ahead.",
+    "subtitle": "Deeds go before us and wait",
+    "picture": {"kind": "boxes", "label": "What waits ahead", "row": [
+      {"box": "people", "title": "their hands", "sub": ["what they did"]},
+      {"conn": "sent ahead"},
+      {"box": "trap", "title": "wrongs and sins", "sub": ["waiting at the meeting"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "fear of death", "sub": ["never wishing for it"]}]},
+    "key": {"label": "Why death feels heavy", "row": [
+      {"box": "people", "title": "death itself", "sub": ["just the unknown"], "strike": true},
+      {"box": "idea", "title": "what I sent ahead", "sub": ["deeds already there"]}]},
+    "then": "Allah says they will never wish for death {trap}because of what their hands have sent before them{/trap}. Ibn Kathir names it: disbelief, injustice and sins. And {idea}Allah knows the wrongdoers{/idea} well.",
+    "now": "You flinch at a funeral, at a hospital corridor, at a scary scan result. Part of it is natural. But part of it is the list in your head of things you have not put right. {idea}You can still send different things ahead.{/idea}",
+    "old": "I fear death because it is scary and unknown.",
+    "new": "What makes death heavy is what I have sent ahead, and I can still change that.",
+    "try": "Send one good thing ahead today: a secret charity, an apology, or a prayer no one sees.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:8", "surah": 62, "ayah": 8, "place": "madinah",
+    "title": "The death you run from will meet you.",
+    "subtitle": "Running away only changes the direction you face",
+    "picture": {"kind": "boxes", "label": "The road", "row": [
+      {"box": "people", "title": "you run", "sub": ["away from death"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "it meets you", "sub": ["from the front"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the Knower", "sub": ["of seen and unseen"]},
+      {"box": "people", "title": "you are told", "sub": ["what you used to do"]}]},
+    "key": {"label": "Which way to face", "row": [
+      {"box": "trap", "title": "run from it", "sub": ["it still arrives"], "strike": true},
+      {"box": "idea", "title": "prepare for it", "sub": ["it arrives either way"]}]},
+    "then": "Allah tells the Prophet ﷺ to say that the death they flee {trap}will surely meet them{/trap}, and then they return to the Knower of the unseen and the seen. Ibn Kathir links it to another verse: death overtakes you even in high, strong towers.",
+    "now": "You avoid writing a will. You change the subject when someone mentions the grave. You keep busy. {trap}None of it slows death down.{/trap} {idea}Facing it calmly is what changes how you live today.{/idea}",
+    "old": "If I do not think about death, I can live more freely.",
+    "new": "Death is coming toward me anyway, so I want to meet it ready.",
+    "try": "Spend two quiet minutes today thinking about your own death, then do one thing you would want done before it.",
+    "related": ["4:78"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:9", "surah": 62, "ayah": 9, "place": "madinah",
+    "title": "When Friday's call comes, go and leave the trade.",
+    "subtitle": "A weekly pause that is better for you",
+    "picture": {"kind": "boxes", "label": "Friday", "row": [
+      {"box": "people", "title": "the market", "sub": ["buying, selling"]},
+      {"conn": "the call comes"},
+      {"box": "idea", "title": "go to remembrance", "sub": ["heart first, calmly"]},
+      {"box": "reward", "title": "better for you", "sub": ["if you only knew"]}]},
+    "key": {"label": "What hastening means", "row": [
+      {"box": "people", "title": "running with your feet", "sub": ["rushing, out of breath"], "strike": true},
+      {"box": "idea", "title": "going with your heart", "sub": ["intention, calm, focus"]}]},
+    "then": "Ibn Kathir says Jumu'ah comes from gathering, the day believers meet each week. Al-Hasan said that hastening here {idea}is not done with the feet, but with the heart, the intention and humility{/idea}. The Prophet ﷺ told people to come to prayer with calm and dignity.",
+    "now": "It is Friday, 12:40. Your inbox is full and a client call is booked. The adhan app buzzes. {trap}Five more minutes, just this one email.{/trap} {idea}Close the laptop. The pause is the gift.{/idea}",
+    "old": "Friday prayer interrupts my busiest part of the day.",
+    "new": "The weekly pause for Allah is better for me than the business I leave.",
+    "try": "This Friday, set an alarm fifteen minutes before Jumu'ah and stop work when it rings.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:10", "surah": 62, "ayah": 10, "place": "madinah",
+    "title": "Then go out, seek His bounty, and remember Him often.",
+    "subtitle": "Work is welcome once worship has its place",
+    "picture": {"kind": "boxes", "label": "After the prayer", "row": [
+      {"box": "idea", "title": "prayer done", "sub": ["the gathering ends"]},
+      {"conn": "then"},
+      {"box": "people", "title": "spread out", "sub": ["back to the land"]},
+      {"box": "reward", "title": "seek His bounty", "sub": ["work, trade, earn"]},
+      {"box": "idea", "title": "remember Him much", "sub": ["along the way"]}]},
+    "key": {"label": "Work and worship", "row": [
+      {"box": "people", "title": "two separate worlds", "sub": ["mosque here, job there"], "strike": true},
+      {"box": "idea", "title": "one life", "sub": ["earning with remembrance"]}]},
+    "then": "Right after telling believers to leave trade for the prayer, Allah tells them to {reward}go out and seek His bounty{/reward} once it is done. Work was never the enemy. The verse only asks them to {idea}keep remembering Allah much{/idea} while they do it.",
+    "now": "You walk out of the mosque and straight back to the warehouse, the clinic, the shop. {idea}The remembering does not stop at the door.{/idea} A quiet bismillah before a meeting, alhamdulillah when a sale goes through.",
+    "old": "Once prayer is over, I am back in the real world.",
+    "new": "Earning a living is seeking Allah's bounty, and remembering Him can come with me.",
+    "try": "Pick one moment at work today, like opening your laptop, and attach a short dhikr to it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "62:11", "surah": 62, "ayah": 11, "place": "madinah",
+    "title": "They ran to the caravan and left you standing.",
+    "subtitle": "When something shiny walks past during the sermon",
+    "picture": {"kind": "boxes", "label": "That Friday", "row": [
+      {"box": "idea", "title": "the Prophet ﷺ", "sub": ["standing, giving the sermon"]},
+      {"conn": "meanwhile"},
+      {"box": "trap", "title": "a caravan arrives", "sub": ["goods and drums"]},
+      {"conn": "most left"},
+      {"box": "reward", "title": "twelve men", "sub": ["stayed with him"]}]},
+    "key": {"label": "What is better", "row": [
+      {"box": "trap", "title": "trade and fun", "sub": ["right here, right now"], "strike": true},
+      {"box": "reward", "title": "what is with Allah", "sub": ["and He provides best"]}]},
+    "then": "Jabir said a caravan reached Madinah while the Prophet ﷺ was giving the Friday sermon. {trap}People left, and only twelve men remained.{/trap} This verse came down. Allah answered: {reward}what is with Him is better{/reward}, and He is the best of providers.",
+    "now": "The imam is speaking and your phone lights up: a sale, a match score, a message. Your attention runs out the door. {idea}The caravan still arrives every Friday.{/idea} {reward}Be one of the ones who stay.{/reward}",
+    "old": "If I miss this deal or this moment, I lose out.",
+    "new": "What is with Allah is better, and He is the One who provides anyway.",
+    "try": "At your next Jumu'ah or class, switch your phone fully off before it starts.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

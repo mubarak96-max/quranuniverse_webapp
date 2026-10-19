@@ -1,0 +1,269 @@
+[
+  {
+    "id": "6:141", "surah": 6, "ayah": 141, "place": "makkah",
+    "title": "Eat from the harvest, give its due, and do not waste.",
+    "subtitle": "Gardens, palms and olives, with three instructions",
+    "picture": {"kind": "boxes", "label": "From His gardens", "row": [
+      {"box": "reward", "title": "trellised and wild", "sub": ["vines, palms, crops"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "eat", "sub": ["when it ripens"]},
+      {"box": "idea", "title": "give its due", "sub": ["on harvest day"]},
+      {"box": "trap", "title": "no excess", "sub": ["He does not love it"]}]},
+    "key": {"label": "Whose harvest is it", "row": [
+      {"box": "people", "title": "all mine", "sub": ["I grew it"], "strike": true},
+      {"box": "idea", "title": "His, with a share for others", "sub": ["He produced the gardens"]}]},
+    "then": "The idolaters had carved up crops and cattle with invented rules. Allah reminds them {idea}He produced the gardens, trellised and wild.{/idea} Mujahid said when the poor are present on harvest day, {reward}give them some of it.{/reward} Ibn Kathir reads the warning on excess as mainly about eating, citing: eat and drink without extravagance or arrogance.",
+    "now": "Payday lands. The first thought is the new phone, the takeaway, the upgrade. {reward}This verse puts someone else's share right next to yours{/reward}, on the same day the money arrives. {trap}And it warns against eating and spending past what you need.{/trap}",
+    "old": "What I earned is mine to enjoy however I like.",
+    "new": "It came from Allah. I enjoy it, share some, and do not overdo it.",
+    "try": "On your next payday, give a small amount to someone in need the same day.",
+    "related": ["68:17", "7:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:142", "surah": 6, "ayah": 142, "place": "makkah",
+    "title": "Animals to carry and feed you. Eat, and skip Satan's footsteps.",
+    "subtitle": "Provision received with gratitude, not invented rules",
+    "picture": {"kind": "boxes", "label": "What the cattle give", "row": [
+      {"box": "reward", "title": "carriers", "sub": ["camels for burden"]},
+      {"box": "reward", "title": "small ones", "sub": ["meat, milk, wool"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "eat His provision", "sub": []},
+      {"box": "trap", "title": "Satan's footsteps", "sub": ["a clear enemy"]}]},
+    "key": {"label": "Where Satan leads", "row": [
+      {"box": "people", "title": "only big sins", "sub": [], "strike": true},
+      {"box": "trap", "title": "step by step", "sub": ["even through invented rules"]}]},
+    "then": "Ibn Zayd explained it: some animals carry people and loads, others are {reward}eaten and milked, with their wool used for mats and clothes.{/reward} All are Allah's provision. The pagans had followed devilish ideas in forbidding some of them. {trap}Do not follow Satan's footsteps; he is a clear enemy.{/trap}",
+    "now": "Your wool jumper, your morning milk, the leather of your shoes. {reward}All of it came from animals Allah made useful to you.{/reward} {trap}Satan rarely asks for a leap. He asks for one small step at a time.{/trap}",
+    "old": "Satan only matters when I am tempted by something huge.",
+    "new": "Satan works in footsteps. I watch the small steps, and I thank Allah for what He gave.",
+    "try": "Look at one thing you use today that came from an animal, and thank Allah for it by name.",
+    "related": ["36:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:143", "surah": 6, "ayah": 143, "place": "makkah",
+    "title": "Male or female, or what is in the womb? Show your proof.",
+    "subtitle": "Sheep and goats, and a question about invented bans",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "plain", "title": "sheep: two", "sub": ["male and female"]},
+      {"box": "plain", "title": "goats: two", "sub": ["male and female"]},
+      {"conn": "which did He forbid?"},
+      {"box": "idea", "title": "inform me with knowledge", "sub": ["if you are truthful"]}]},
+    "key": {"label": "What a rule needs", "row": [
+      {"box": "people", "title": "custom", "sub": ["our fathers did it"], "strike": true},
+      {"box": "idea", "title": "knowledge from Allah", "sub": ["real evidence"]}]},
+    "then": "Ibn Kathir says these verses expose the ignorance of the Arabs before Islam, who banned certain animals. Ibn Abbas explained: {idea}Allah did not forbid any of these.{/idea} Does a womb give anything but males and females? So why ban some and allow others? {trap}Tell me with knowledge, if you are truthful.{/trap}",
+    "now": "Someone tells you a thing is forbidden. You ask where it says so, and they get offended. {idea}Asking for knowledge is not rudeness. The Quran itself asks it.{/idea} Ask politely, and keep asking.",
+    "old": "Questioning a religious claim is disrespectful.",
+    "new": "The Quran itself asks for proof. I can ask, kindly, where a rule comes from.",
+    "try": "Next time you hear a surprising religious claim, ask gently: what is the source?",
+    "related": ["39:6", "6:139"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:144", "surah": 6, "ayah": 144, "place": "makkah",
+    "title": "Were you there when Allah gave this command?",
+    "subtitle": "Camels and cattle, and lies told to mislead",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "plain", "title": "camels: two", "sub": []},
+      {"box": "plain", "title": "cattle: two", "sub": []},
+      {"conn": "were you"},
+      {"box": "idea", "title": "witnesses?", "sub": ["when He ordered it"]},
+      {"box": "trap", "title": "lie to mislead", "sub": ["without knowledge"]}]},
+    "key": {"label": "The size of the wrong", "row": [
+      {"box": "people", "title": "a harmless tradition", "sub": [], "strike": true},
+      {"box": "trap", "title": "most unjust", "sub": ["a lie about Allah"]}]},
+    "then": "The same question repeats for camels and cattle. Then a sharper one: {idea}were you present when Allah ordered this?{/idea} Ibn Kathir says it mocks their invented bans. {trap}No one is more unjust than one who lies about Allah to mislead people without knowledge.{/trap} He names Amr bin Luhay as the first to change the religion this way.",
+    "now": "You forward a message: \"The Prophet ﷺ said...\" You never checked it. Hundreds of people now believe it. {trap}One unchecked claim can mislead many.{/trap} {idea}Were you there? Do you know?{/idea}",
+    "old": "Sharing a religious message is always good, even if I am not sure it is true.",
+    "new": "Spreading claims about Allah without knowledge can mislead people. I check first.",
+    "try": "Before forwarding any religious message today, check its source or do not send it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:145", "surah": 6, "ayah": 145, "place": "makkah",
+    "title": "The list of forbidden food is short, and mercy covers need.",
+    "subtitle": "What revelation actually names, against invented bans",
+    "picture": {"kind": "boxes", "label": "What the verse names", "row": [
+      {"box": "trap", "title": "dead animals", "sub": []},
+      {"box": "trap", "title": "poured blood", "sub": []},
+      {"box": "trap", "title": "swine", "sub": []},
+      {"box": "trap", "title": "for other than Allah", "sub": []},
+      {"conn": "but in need"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": []}]},
+    "key": {"label": "The shape of the rules", "row": [
+      {"box": "people", "title": "everything is suspect", "sub": ["ban first"], "strike": true},
+      {"box": "idea", "title": "a short list", "sub": ["wide room, and mercy"]}]},
+    "then": "The Prophet ﷺ is told to answer those who invented bans: {idea}I do not find in what was revealed to me{/idea} anything forbidden except these. Ibn Kathir notes other texts add to this list. Ibn Abbas said: {reward}what Allah allowed is lawful, what He forbade is unlawful, and there is no sin in what He did not mention.{/reward}",
+    "now": "Some people make religion feel like a minefield, where every step might be wrong. {idea}Allah's limits are clear and few compared to the open land.{/idea} {reward}And when you are truly forced, His mercy is there.{/reward}",
+    "old": "Religion is mostly a long list of things I cannot do.",
+    "new": "Allah's limits are clear and few, and His mercy is wide.",
+    "try": "Make a note of five good things Allah has made fully allowed for you, and enjoy one today with thanks.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:146", "surah": 6, "ayah": 146, "place": "makkah",
+    "title": "Some restrictions came as the price of rebellion.",
+    "subtitle": "Extra limits earned by defiance, and the loophole trick",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "trap", "title": "rebellion", "sub": ["defying commands"]},
+      {"conn": "led to"},
+      {"box": "plain", "title": "extra restrictions", "sub": ["certain animals, certain fats"]},
+      {"box": "idea", "title": "We are truthful", "sub": ["not a self-made ban"]}]},
+    "key": {"label": "How to treat a limit", "row": [
+      {"box": "trap", "title": "find the loophole", "sub": ["melt it and sell it"], "strike": true},
+      {"box": "idea", "title": "honor its purpose", "sub": ["not just its wording"]}]},
+    "then": "Allah tells of foods He forbade to the Children of Israel, and says {trap}this was a recompense for their rebellion{/trap}, not a rule they took from Ya'qub as they claimed. Ibn Kathir cites the hadith warning against those who, when fats were forbidden, {trap}melted them down, sold them, and used the price.{/trap}",
+    "now": "You would never take a bribe. But a \"gift\" after the contract? You would never cheat a customer. But the small print? {trap}Renaming a thing to slip past a limit is the oldest trick.{/trap} {idea}Respect what the rule is for.{/idea}",
+    "old": "If I find a technical way around a rule, I am not doing anything wrong.",
+    "new": "Getting around Allah's limits with tricks is its own kind of rebellion.",
+    "try": "Think of one place you use a technicality to get around something. Drop the trick this week.",
+    "related": ["4:160"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:147", "surah": 6, "ayah": 147, "place": "makkah",
+    "title": "If they deny you, say: your Lord's mercy is vast.",
+    "subtitle": "Hope and warning in the same breath",
+    "picture": {"kind": "boxes", "label": "The reply to rejection", "row": [
+      {"box": "people", "title": "they deny you", "sub": []},
+      {"conn": "say"},
+      {"box": "reward", "title": "vast mercy", "sub": ["come and seek it"]},
+      {"box": "trap", "title": "His force", "sub": ["not turned from criminals"]}]},
+    "key": {"label": "How Allah speaks", "row": [
+      {"box": "people", "title": "only threats", "sub": [], "strike": true},
+      {"box": "idea", "title": "hope with warning", "sub": ["always together"]}]},
+    "then": "Even when the Prophet ﷺ is rejected, his reply opens with {reward}your Lord is the Owner of vast mercy{/reward}, an invitation. Then the warning that His punishment is not turned away from criminals. Ibn Kathir notes that {idea}Allah often joins hope and warning{/idea}, as at the end of this same surah.",
+    "now": "You have messed up badly, again. Part of you says it is over. {reward}The first thing this verse says, even to those rejecting the Prophet ﷺ, is that mercy is vast.{/reward} {idea}The warning is real. So is the open door.{/idea}",
+    "old": "After what I have done, there is only punishment waiting for me.",
+    "new": "His mercy is vast and open to me. The warning is there so I walk through that door.",
+    "try": "Make istighfar today for the one thing you think is too big to be forgiven.",
+    "related": ["6:165", "13:6", "15:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:148", "surah": 6, "ayah": 148, "place": "makkah",
+    "title": "If Allah wanted, we would not have done it, they said.",
+    "subtitle": "Blaming fate for your own choices",
+    "picture": {"kind": "boxes", "label": "Their excuse", "row": [
+      {"box": "trap", "title": "Allah willed it", "sub": ["so He approves"]},
+      {"conn": "same as"},
+      {"box": "people", "title": "those before", "sub": ["until they tasted it"]},
+      {"conn": "reply"},
+      {"box": "idea", "title": "show your knowledge", "sub": ["you only guess"]}]},
+    "key": {"label": "What decree means", "row": [
+      {"box": "trap", "title": "it happened, so it is fine", "sub": [], "strike": true},
+      {"box": "idea", "title": "allowed is not approved", "sub": ["I still choose"]}]},
+    "then": "The idolaters argued: {trap}if Allah had willed, we and our fathers would not have done shirk{/trap}, so He must approve. Ibn Kathir says earlier nations used the same excuse. If it were true, He would not have punished them. {idea}Do you have any knowledge? You only follow guesses.{/idea}",
+    "now": "\"It was written for me.\" You say it about the lie, the shortcut, the habit you keep feeding. {trap}Decree becomes a blanket you hide under.{/trap} {idea}Allah's knowledge of your choice does not make the choice His.{/idea}",
+    "old": "If I did it, Allah must have wanted it, so I am off the hook.",
+    "new": "Allah knowing what I will do does not make wrong right. I still own my choices.",
+    "try": "Catch one moment today where you blame fate. Replace it with: I chose this, and I can choose again.",
+    "related": ["43:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:149", "surah": 6, "ayah": 149, "place": "makkah",
+    "title": "The final argument belongs to Allah.",
+    "subtitle": "He could have guided all of you",
+    "picture": {"kind": "boxes", "label": "The reply", "row": [
+      {"box": "idea", "title": "the perfect proof", "sub": ["is Allah's"]},
+      {"conn": "if He willed"},
+      {"box": "reward", "title": "all guided", "sub": []},
+      {"box": "plain", "title": "no excuse left", "sub": ["for disobeying Him"]}]},
+    "key": {"label": "Who has the last word", "row": [
+      {"box": "people", "title": "my clever excuse", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah's complete proof", "sub": ["no gap in it"]}]},
+    "then": "After their excuse about fate, the reply: {idea}with Allah is the perfect, far-reaching argument.{/idea} Ibn Kathir says He has the perfect wisdom to guide or misguide whom He wills, and is pleased with the believers. Ad-Dahhak said: {trap}no one has an excuse if he disobeys Allah.{/trap}",
+    "now": "You have rehearsed your excuse for years. Busy, stressed, raised that way, nobody taught me. {idea}Picture saying it to the One who knows every hour you had.{/idea} Better to drop the excuse now and just ask for help.",
+    "old": "I have good reasons for not changing, and Allah will accept them.",
+    "new": "Allah's proof is complete. Instead of excuses, I can ask Him for guidance.",
+    "try": "Write your favorite excuse down, then cross it out and write a dua for help instead.",
+    "related": ["6:35", "10:99", "11:118"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:150", "surah": 6, "ayah": 150, "place": "makkah",
+    "title": "Bring your witnesses. If they lie, do not testify with them.",
+    "subtitle": "Refusing to join a false testimony",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "idea", "title": "bring witnesses", "sub": ["that Allah forbade this"]},
+      {"conn": "if they testify"},
+      {"box": "trap", "title": "false testimony", "sub": []},
+      {"box": "people", "title": "do not join it", "sub": ["or follow their desires"]}]},
+    "key": {"label": "When the crowd agrees", "row": [
+      {"box": "people", "title": "go along", "sub": ["everyone is saying it"], "strike": true},
+      {"box": "idea", "title": "do not add your voice", "sub": ["to what is false"]}]},
+    "then": "The Prophet ﷺ is told to ask them to {idea}bring witnesses that Allah forbade this.{/idea} If they testify anyway, Ibn Kathir says {trap}their testimony is false{/trap}, so do not testify with them, and do not follow the desires of those who deny the signs and set up equals to their Lord.",
+    "now": "The whole family agrees a relative is to blame. Everyone in the meeting nods along to a claim you know is wrong. {trap}It is easy to add your nod.{/trap} {idea}You can stay silent, or say what you know, but do not sign off on a lie.{/idea}",
+    "old": "If everyone else is saying it, it is fine for me to agree.",
+    "new": "When a group backs something false, I do not add my voice to it.",
+    "try": "In the next group conversation where something unfair is said, decline to agree, even quietly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:151", "surah": 6, "ayah": 151, "place": "makkah",
+    "title": "Come, hear what your Lord truly forbade.",
+    "subtitle": "The first of the commands Ibn Mas'ud called a sealed will",
+    "picture": {"kind": "boxes", "label": "The list begins", "row": [
+      {"box": "idea", "title": "no partners", "sub": ["with Him"]},
+      {"box": "reward", "title": "parents", "sub": ["with excellence"]},
+      {"box": "trap", "title": "no killing children", "sub": ["We provide for both"]},
+      {"box": "trap", "title": "no indecency", "sub": ["open or hidden"]},
+      {"box": "trap", "title": "no killing a soul", "sub": ["Allah made sacred"]}]},
+    "key": {"label": "Real versus invented rules", "row": [
+      {"box": "people", "title": "cattle taboos", "sub": ["their own inventions"], "strike": true},
+      {"box": "idea", "title": "what Allah forbade", "sub": ["revelation, not guesses"]}]},
+    "then": "After all the invented food bans, the Prophet ﷺ says: {idea}come, I will recite what your Lord actually forbade.{/idea} Ibn Mas'ud said whoever wants to read the will of the Messenger ﷺ on which he placed his seal should read these verses. Ibn Kathir notes {reward}kindness to parents{/reward} sits right next to worshipping Allah alone.",
+    "now": "You argue about small details of religion online while not calling your mother back for a week. {idea}These verses are the real list.{/idea} {reward}Your parents are near the top, right after Allah.{/reward}",
+    "old": "Being religious is mostly about the small details I argue about.",
+    "new": "Allah's real list starts with Him alone, kindness to parents, and protecting life.",
+    "try": "Call or visit one of your parents today, or make dua for them if they have passed.",
+    "related": ["17:23", "31:14", "4:116"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:152", "surah": 6, "ayah": 152, "place": "makkah",
+    "title": "Fair measure, honest words, even against your own family.",
+    "subtitle": "Orphans, weights, testimony and promises",
+    "picture": {"kind": "boxes", "label": "The list continues", "row": [
+      {"box": "people", "title": "orphan's wealth", "sub": ["only to improve it"]},
+      {"box": "idea", "title": "full measure", "sub": ["with justice"]},
+      {"box": "idea", "title": "just words", "sub": ["even for a relative"]},
+      {"box": "idea", "title": "keep Allah's covenant", "sub": []},
+      {"box": "reward", "title": "only what you can bear", "sub": []}]},
+    "key": {"label": "Where justice gets hard", "row": [
+      {"box": "people", "title": "fair with strangers", "sub": ["easy"], "strike": true},
+      {"box": "idea", "title": "fair with family", "sub": ["when it costs"]}]},
+    "then": "Ibn Abbas said that when this was revealed, guardians of orphans became so careful they kept the orphans' food separate. Allah then eased it. Ibn Kathir says {idea}justice is commanded in actions and words, with near and far relatives alike.{/idea} And {reward}no one is burdened beyond what they can bear{/reward}; an honest mistake after real effort is not a sin.",
+    "now": "Your brother is in the wrong in the family dispute, and everyone looks at you. {idea}Being fair now costs something.{/idea} The same with the bill you split, the hours you log, the promise you made. {reward}Allah asks only what you can carry.{/reward}",
+    "old": "I am fair, except when it is my own family.",
+    "new": "Justice counts most when it is against my own people. And Allah asks only what I can bear.",
+    "try": "In one small matter today, choose the fair option even if it costs you or someone close.",
+    "related": ["2:220", "83:1", "5:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "6:153", "surah": 6, "ayah": 153, "place": "makkah",
+    "title": "One straight path, and many side roads that scatter you.",
+    "subtitle": "The line drawn in the sand",
+    "picture": {"kind": "boxes", "label": "The drawing", "row": [
+      {"box": "trap", "title": "side paths", "sub": ["a caller on each"]},
+      {"box": "idea", "title": "the straight path", "sub": ["one line"]},
+      {"box": "trap", "title": "side paths", "sub": ["a caller on each"]}]},
+    "key": {"label": "Why one and many", "row": [
+      {"box": "people", "title": "all roads lead there", "sub": [], "strike": true},
+      {"box": "idea", "title": "truth is one", "sub": ["falsehood splits into many"]}]},
+    "then": "Ibn Mas'ud reported the Prophet ﷺ {idea}drew a straight line in the sand and said: this is Allah's path.{/idea} Then he drew lines to its right and left: {trap}on each of these paths is a devil calling to it.{/trap} Then he recited this verse. Ibn Kathir notes the path is singular because truth is one, and the other ways are many.",
+    "now": "A new guru every month. A new trend every week. Each one shouts from its own side road. {trap}You end up scattered, pulled in every direction.{/trap} {idea}Hold the one line, and the noise from the sides gets easier to ignore.{/idea}",
+    "old": "Trying every path is how I will find the right one.",
+    "new": "There is one straight path, and the side roads exist to pull me off it.",
+    "try": "Draw a straight line on paper with lines branching off. Name one side road you want to stop walking.",
+    "related": ["42:13", "2:257"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

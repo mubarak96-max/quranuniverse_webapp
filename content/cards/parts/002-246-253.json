@@ -1,0 +1,164 @@
+[
+  {
+    "id": "2:246", "surah": 2, "ayah": 246, "place": "madinah",
+    "title": "They begged for the chance, then walked away when it came.",
+    "subtitle": "Big promises made before the test arrives",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "people", "title": "the people", "sub": ["give us a king"]},
+      {"conn": "promise"},
+      {"box": "reward", "title": "we will fight", "sub": ["we were driven out"]},
+      {"conn": "when it came"},
+      {"box": "trap", "title": "they turned away", "sub": ["all but a few"]}]},
+    "key": {"label": "What a promise is worth", "row": [
+      {"box": "people", "title": "saying it is enough", "sub": ["I really mean it"], "strike": true},
+      {"box": "idea", "title": "doing it when it costs", "sub": ["only a few did"]}]},
+    "then": "Mujahid said the prophet here was Samuel. Wahb says the Children of Israel had {trap}lost their land, their children, and the Ark{/trap}. They demanded a king to lead them. Their prophet asked: would you hold back if it were prescribed? They swore not. When it came, {trap}most turned away{/trap}.",
+    "now": "If I just had the time, I would memorize Qur'an. If I just had the money, I would give. Then the free weekend comes, the bonus arrives. {trap}The promise evaporates.{/trap} Allah knows the gap between what we say and what we do.",
+    "old": "If the right situation came, I would definitely step up.",
+    "new": "The test is not what I promise beforehand, but what I do when the moment arrives.",
+    "try": "Pick one thing you keep saying you would do if only. Do a small part of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:247", "surah": 2, "ayah": 247, "place": "madinah",
+    "title": "Allah chose the poor water-carrier. Knowledge and strength over status.",
+    "subtitle": "When we judge who deserves to lead",
+    "picture": {"kind": "boxes", "label": "The objection", "row": [
+      {"box": "people", "title": "Talut", "sub": ["not of royal line", "no wealth"]},
+      {"conn": "they said"},
+      {"box": "trap", "title": "we deserve it more", "sub": ["family, money"]},
+      {"conn": "Allah gave him"},
+      {"box": "reward", "title": "knowledge, stature", "sub": ["chosen by Allah"]}]},
+    "key": {"label": "What qualifies a person", "row": [
+      {"box": "people", "title": "lineage and wealth", "sub": ["the right family"], "strike": true},
+      {"box": "idea", "title": "knowledge and strength", "sub": ["Allah's choosing"]}]},
+    "then": "Ibn Kathir says Talut was {trap}not from the royal house of Judah, and was poor{/trap}; some said he carried water, others that he dyed leather. The people argued with their prophet instead of accepting. He replied: {reward}Allah chose him and increased him in knowledge and stature{/reward}. Allah gives authority to whom He wills.",
+    "now": "The new manager came from the warehouse floor, not the right university. The imam is young and from the wrong family. {trap}You catch yourself sneering.{/trap} The verse asks: is your objection about ability, or about pride?",
+    "old": "Leaders should come from the right background and the right money.",
+    "new": "Allah raises people by knowledge and strength, and my pride is no judge of who deserves it.",
+    "try": "Say one sincere word of support to someone in a role you secretly thought you deserved more.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:248", "surah": 2, "ayah": 248, "place": "madinah",
+    "title": "The sign came with sakinah: calm sent down from your Lord.",
+    "subtitle": "What returned to them with the Ark",
+    "picture": {"kind": "boxes", "label": "The sign of Talut", "row": [
+      {"box": "people", "title": "the Ark returns", "sub": ["carried by angels"]},
+      {"conn": "holding"},
+      {"box": "reward", "title": "sakinah", "sub": ["peace, mercy"]},
+      {"box": "reward", "title": "a remnant", "sub": ["of Moses and Aaron"]}]},
+    "key": {"label": "What they really needed", "row": [
+      {"box": "people", "title": "more power", "sub": ["a stronger army"], "strike": true},
+      {"box": "idea", "title": "calm from Allah", "sub": ["sakinah in the heart"]}]},
+    "then": "Their prophet promised the {reward}Ark taken by their enemy would come back{/reward}. Qatadah and Ar-Rabi said the sakinah in it meant grace and mercy. Ibn Abbas said it held {reward}Moses' staff and remnants of the Tablets{/reward}, and that angels carried it until they placed it before Talut while people watched.",
+    "now": "Before the job interview, the surgery, the hard conversation, you want a guarantee. What you need first is a settled heart. {reward}Sakinah is the gift that comes before victory.{/reward} Ask for it by name.",
+    "old": "I will feel calm once everything works out.",
+    "new": "Calm is something Allah sends down, and I can ask Him for it before anything works out.",
+    "try": "Before your next stressful moment, ask Allah: send down sakinah on my heart.",
+    "related": ["20:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:249", "surah": 2, "ayah": 249, "place": "madinah",
+    "title": "A handful from the river, or drink your fill and fall away.",
+    "subtitle": "Small restraints sort out who is ready",
+    "picture": {"kind": "boxes", "label": "The river test", "row": [
+      {"box": "trap", "title": "drink freely", "sub": ["thirst not quenched"]},
+      {"box": "reward", "title": "one handful", "sub": ["enough, and stays"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the few", "sub": ["a small group can win"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "people", "title": "numbers and supplies", "sub": ["we are too few"], "strike": true},
+      {"box": "idea", "title": "Allah is with the patient", "sub": ["by His permission"]}]},
+    "then": "Talut's army met a river. Ibn Abbas said: {reward}whoever took a handful was quenched; whoever drank freely stayed thirsty{/reward}. Al-Bara said the Companions at Badr were about the same number as those who crossed with Talut, a little over three hundred. Facing Goliath, the certain ones said: {idea}how often has a small group overcome a large one{/idea}.",
+    "now": "The snack drawer. The extra hour of scrolling. One more episode. {trap}Drinking your fill never quite satisfies.{/trap} A handful is enough, and the small restraints build the person who can face the big tests.",
+    "old": "Small indulgences do not matter when the big test comes.",
+    "new": "The way I handle a small thirst trains me for the big battle.",
+    "try": "Pick one craving today and stop at a handful.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:250", "surah": 2, "ayah": 250, "place": "madinah",
+    "title": "Pour patience on us, plant our feet, give us victory.",
+    "subtitle": "The dua of the few before the giant",
+    "picture": {"kind": "boxes", "label": "Their dua, in three parts", "row": [
+      {"box": "reward", "title": "pour patience", "sub": ["from You, on us"]},
+      {"box": "reward", "title": "plant our feet", "sub": ["no running, no weakness"]},
+      {"box": "reward", "title": "give us victory", "sub": ["over those who deny"]}]},
+    "key": {"label": "Where strength comes from", "row": [
+      {"box": "people", "title": "I am strong enough", "sub": ["self-made courage"], "strike": true},
+      {"box": "idea", "title": "poured down from Allah", "sub": ["patience is asked for"]}]},
+    "then": "When the few under Talut faced the many under Goliath, they did not boast. Ibn Kathir says they asked Allah to {reward}send down patience from Him{/reward}, to {reward}keep their feet firm and save them from running away and feebleness{/reward}, and to grant victory.",
+    "now": "The exam hall. The courtroom. Facing a boss twice your size in the company. {idea}You do not have to manufacture courage.{/idea} You can ask for it to be poured on you like water.",
+    "old": "I have to find the strength in myself to face this.",
+    "new": "Patience and steady feet are gifts I can ask Allah to pour on me.",
+    "try": "Memorize this dua today: Rabbana afrigh alayna sabran wa thabbit aqdamana.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:251", "surah": 2, "ayah": 251, "place": "madinah",
+    "title": "A young soldier, David, felled the giant by Allah's permission.",
+    "subtitle": "How Allah keeps the earth from ruin",
+    "picture": {"kind": "boxes", "label": "The outcome", "row": [
+      {"box": "people", "title": "David", "sub": ["one of the soldiers"]},
+      {"conn": "by Allah's leave"},
+      {"box": "trap", "title": "Goliath falls", "sub": ["the army is routed"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "kingship, wisdom", "sub": ["prophethood given"]}]},
+    "key": {"label": "Why evil does not win", "row": [
+      {"box": "people", "title": "the strong do as they like", "sub": ["no one checks them"], "strike": true},
+      {"box": "idea", "title": "Allah checks people by people", "sub": ["or the earth would rot"]}]},
+    "then": "Ibn Kathir notes Israelite reports that {idea}David killed Goliath with a sling{/idea}. Allah then gave him kingship and wisdom and taught him what He willed. If Allah did not {idea}push back some people by means of others{/idea}, the earth would be corrupted; Ibn Kathir links this to 22:40, where houses of worship would be torn down.",
+    "now": "The bully in the office who no one stands up to. The neighbor who intimidates the street. {idea}Allah often stops harm through ordinary people who step in.{/idea} Sometimes that person is you.",
+    "old": "Someone else will deal with the injustice around me.",
+    "new": "Allah protects the earth through people who stand up, and I might be one of them.",
+    "try": "Step in kindly for one person being treated unfairly today, even in a small way.",
+    "related": ["22:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:252", "surah": 2, "ayah": 252, "place": "madinah",
+    "title": "These stories are told to you in truth. You are a messenger.",
+    "subtitle": "Why old stories land on the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "The story's purpose", "row": [
+      {"box": "plain", "title": "Talut, the river", "sub": ["David and Goliath"]},
+      {"conn": "recited"},
+      {"box": "idea", "title": "in truth", "sub": ["as it happened"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["one of the messengers"]}]},
+    "key": {"label": "Why read old stories", "row": [
+      {"box": "people", "title": "ancient history", "sub": ["nothing to do with me"], "strike": true},
+      {"box": "idea", "title": "truth for now", "sub": ["the few still win"]}]},
+    "then": "Ibn Kathir says these verses tell the story {idea}exactly as it happened{/idea}, matching what remained in the earlier scriptures. Then Allah tells the Prophet ﷺ directly: {reward}you are one of the messengers{/reward}. The small band in Madinah heard their own situation in the few who crossed the river.",
+    "now": "You read about Talut and think it is a children's story. But you are the one facing a giant at work, at home, in your own habits. {idea}It is told to you in truth, for you.{/idea}",
+    "old": "Quran stories are history lessons about other people.",
+    "new": "These stories are true and told to me, for the giants I face today.",
+    "try": "Retell the Talut story to a child or friend tonight in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:253", "surah": 2, "ayah": 253, "place": "madinah",
+    "title": "Allah ranked the messengers. Do not turn them into a fight.",
+    "subtitle": "Honor all the prophets without point-scoring",
+    "picture": {"kind": "boxes", "label": "Among the messengers", "row": [
+      {"box": "reward", "title": "spoken to", "sub": ["Moses, Muhammad ﷺ"]},
+      {"box": "reward", "title": "raised in rank", "sub": ["seen on the Night Journey"]},
+      {"box": "reward", "title": "Jesus", "sub": ["clear proofs", "the Pure Spirit"]}]},
+    "key": {"label": "Who decides rank", "row": [
+      {"box": "trap", "title": "argue whose is better", "sub": ["slap over a prophet"], "strike": true},
+      {"box": "idea", "title": "Allah alone ranks them", "sub": ["we believe and submit"]}]},
+    "then": "Ibn Kathir reports a Muslim who {trap}slapped a Jewish man in an argument over Moses' rank{/trap}. The Prophet ﷺ said: {idea}do not prefer me over the prophets{/idea}, and spoke of seeing Moses holding the Throne on the Day. Ranking belongs to Allah, not to our quarrels. Later generations still fought after clear proofs, by Allah's will.",
+    "now": "The comment thread where someone insults another faith's prophet, and you want to hit back harder. {idea}The Prophet ﷺ himself told us not to turn the prophets into a contest.{/idea} Respect them all, and let Allah rank them.",
+    "old": "Defending my faith means proving my prophet is the best in every argument.",
+    "new": "I honor every messenger Allah sent, and leave their ranking to Him.",
+    "try": "Read about one prophet you know little about today, with respect.",
+    "related": ["17:55"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

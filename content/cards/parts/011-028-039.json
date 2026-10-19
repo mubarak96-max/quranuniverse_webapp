@@ -1,0 +1,251 @@
+[
+  {
+    "id": "11:28", "surah": 11, "ayah": 28, "place": "makkah",
+    "title": "Truth cannot be forced on a closed heart.",
+    "subtitle": "Nuh refuses to push what they hate",
+    "picture": {"kind": "boxes", "label": "What Nuh holds", "row": [
+      {"box": "idea", "title": "clear proof", "sub": ["certainty from his Lord"]},
+      {"box": "reward", "title": "a mercy", "sub": ["prophethood given to him"]},
+      {"conn": "hidden from"},
+      {"box": "people", "title": "his people", "sub": ["they did not see its worth"]}]},
+    "key": {"label": "How truth is offered", "row": [
+      {"box": "trap", "title": "force it on them", "sub": ["make them accept"], "strike": true},
+      {"box": "idea", "title": "show it clearly", "sub": ["the heart must open itself"]}]},
+    "then": "Nuh's people had just called him an ordinary man followed by the lowest of them. He answered calmly. He had {idea}clear proof and a mercy from his Lord{/idea}, but it was hidden from their eyes, so they rushed to reject it. {trap}Should we force it on you while you hate it?{/trap}",
+    "now": "Your brother scoffs every time you mention prayer at the family dinner. You feel the urge to win, to corner him with arguments until he gives in. {idea}Nuh did not force.{/idea} He kept the door open and his voice gentle.",
+    "old": "If I care about someone, I should push until they agree.",
+    "new": "My job is to make the truth clear; opening the heart is not mine to force.",
+    "try": "Next time faith comes up with someone who resists, say one kind sentence and then let it rest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:29", "surah": 11, "ayah": 29, "place": "makkah",
+    "title": "He asked for no money and dropped no one.",
+    "subtitle": "Nuh refuses to send the poor believers away",
+    "picture": {"kind": "boxes", "label": "The chiefs' demand", "row": [
+      {"box": "people", "title": "the chiefs", "sub": ["too important to sit with them"]},
+      {"conn": "demand"},
+      {"box": "trap", "title": "drive them away", "sub": ["the weak believers"]},
+      {"conn": "Nuh says"},
+      {"box": "idea", "title": "they will meet their Lord", "sub": ["I will not"]}]},
+    "key": {"label": "Who matters", "row": [
+      {"box": "people", "title": "the important people", "sub": ["keep them happy"], "strike": true},
+      {"box": "reward", "title": "those who believed", "sub": ["however low their status"]}]},
+    "then": "The chiefs wanted Nuh to separate himself from the believers, because they felt {trap}too important to sit with them{/trap}. Quraysh later asked the Prophet ﷺ the same thing, to hold a private gathering just for the elite. Nuh said he took {reward}no payment, his reward was with Allah{/reward}, and he would not drive anyone away.",
+    "now": "The masjid committee wants the big donor at the front and the quiet uncle who sweeps the floor out of sight. The work group chat has an inner circle. {idea}Nuh kept the poor believers at his side{/idea} even when it cost him the powerful.",
+    "old": "To get the influential people on board, I may have to sideline the ordinary ones.",
+    "new": "Those who turned to Allah keep their place, whatever it costs me with the powerful.",
+    "try": "Sit with or message someone at your masjid or work whom others usually overlook.",
+    "related": ["6:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:30", "surah": 11, "ayah": 30, "place": "makkah",
+    "title": "Who would protect me if I pushed them out?",
+    "subtitle": "Rejecting the humble has its own reckoning",
+    "picture": {"kind": "boxes", "label": "The question Nuh asks", "row": [
+      {"box": "trap", "title": "drive them away", "sub": ["to please the chiefs"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "who helps me", "sub": ["against Allah?"]},
+      {"conn": "so"},
+      {"box": "people", "title": "will you not think", "sub": ["remember and reflect"]}]},
+    "key": {"label": "Whose anger to fear", "row": [
+      {"box": "people", "title": "the chiefs' displeasure", "sub": ["what I feared"], "strike": true},
+      {"box": "idea", "title": "Allah's displeasure", "sub": ["no one shields me from it"]}]},
+    "then": "Nuh kept answering the chiefs who wanted the weak believers gone. He turned their demand around: {trap}if I drove them away, who would help me against Allah?{/trap} Then he asked them to {idea}stop and think{/idea}.",
+    "now": "You are planning the wedding guest list and someone says to cut the relatives who \"do not fit.\" Or a manager asks you to quietly freeze out the new hire nobody likes. {idea}Ask Nuh's question.{/idea} Whose displeasure are you really avoiding?",
+    "old": "Losing the approval of important people is the bigger risk.",
+    "new": "Wronging a humble believer puts me against Allah, and no one can shield me from that.",
+    "try": "Before you leave someone out of something this week, ask yourself who you are pleasing by it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:31", "surah": 11, "ayah": 31, "place": "makkah",
+    "title": "No treasures, no unseen, no angel, no judging hearts.",
+    "subtitle": "Nuh says honestly what he is not",
+    "picture": {"kind": "boxes", "label": "What Nuh does not claim", "row": [
+      {"box": "plain", "title": "Allah's treasures", "sub": ["not in my hands"], "strike": true},
+      {"box": "plain", "title": "the unseen", "sub": ["only what Allah shows"], "strike": true},
+      {"box": "plain", "title": "an angel", "sub": ["a human messenger"], "strike": true},
+      {"box": "idea", "title": "Allah knows hearts", "sub": ["not me, not you"]}]},
+    "key": {"label": "The people you look down on", "row": [
+      {"box": "trap", "title": "no good for them", "sub": ["what your eyes decided"], "strike": true},
+      {"box": "idea", "title": "Allah knows their souls", "sub": ["judging them would be wrong"]}]},
+    "then": "Nuh told his people plainly that he was {idea}only a human messenger{/idea}. He did not hold Allah's treasures, know the unseen, or claim to be an angel. And he would not say of the believers they looked down on that {trap}Allah would give them no good{/trap}. Allah knows what is inside them.",
+    "now": "At the bus stop you see a man in a stained jacket, mumbling, and something in you files him as worthless. In the office you quietly rank people by title. {idea}You do not see souls.{/idea} The one your eyes dismiss may be dearer to Allah than you.",
+    "old": "I can tell what a person is worth from how they look and where they stand.",
+    "new": "Only Allah knows what is inside a soul, so writing someone off would make me the wrongdoer.",
+    "try": "Catch one quick judgment you make about a stranger today and replace it with a silent prayer for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:32", "surah": 11, "ayah": 32, "place": "makkah",
+    "title": "Enough talking, bring the punishment then.",
+    "subtitle": "Tired of argument, they dare the warning",
+    "picture": {"kind": "boxes", "label": "How they ended the talk", "row": [
+      {"box": "people", "title": "you argued", "sub": ["for so long"]},
+      {"conn": "we still refuse"},
+      {"box": "trap", "title": "bring it on", "sub": ["what you warn us of"]},
+      {"conn": "if"},
+      {"box": "plain", "title": "you are truthful", "sub": ["their challenge"]}]},
+    "key": {"label": "What the dare shows", "row": [
+      {"box": "people", "title": "strong confidence", "sub": ["we are not scared"], "strike": true},
+      {"box": "trap", "title": "a closed heart", "sub": ["asking for harm over change"]}]},
+    "then": "After long years of Nuh's advice, his people gave their final word. {trap}You have argued with us long enough, and we still will not follow you.{/trap} They asked him to bring the punishment he warned of, hurrying Allah's anger on themselves rather than change.",
+    "now": "Your doctor has warned you about your blood sugar three visits in a row. You roll your eyes and say \"we all die of something.\" {idea}A dare can be a way of not listening.{/idea} Sometimes \"bring it on\" just means \"I will not change.\"",
+    "old": "Challenging a warning shows I am not afraid of it.",
+    "new": "Daring the warning to come is often just a way to avoid changing.",
+    "try": "Think of one warning you keep brushing off, about health, money, or faith. Write down one small step you could take.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:33", "surah": 11, "ayah": 33, "place": "makkah",
+    "title": "The punishment is not mine to bring.",
+    "subtitle": "Nuh points them away from himself to Allah",
+    "picture": {"kind": "boxes", "label": "Who holds the outcome", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["only a warner"]},
+      {"conn": "not him but"},
+      {"box": "idea", "title": "Allah", "sub": ["brings it if He wills"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "no escape", "sub": ["nothing slips from Him"]}]},
+    "key": {"label": "The dare's mistake", "row": [
+      {"box": "people", "title": "the warner controls it", "sub": ["so test him"], "strike": true},
+      {"box": "idea", "title": "Allah controls it", "sub": ["timing is His"]}]},
+    "then": "They had dared Nuh to bring the punishment. He did not boast or threaten back. {idea}Only Allah brings it, if He wills{/idea}, he said, and {trap}no one can escape Him{/trap}. The warner is only a messenger, not the one in control.",
+    "now": "Someone mocks you: \"So where is this Day you keep talking about?\" You feel you need to prove it on the spot. {idea}You do not hold the timing.{/idea} You can only say what you know and leave the rest with Allah.",
+    "old": "If I cannot prove the warning right now, I look foolish.",
+    "new": "The outcome and its timing belong to Allah; I am only asked to speak honestly.",
+    "try": "When someone challenges your faith today, answer briefly and calmly, without needing to win.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:34", "surah": 11, "ayah": 34, "place": "makkah",
+    "title": "Good advice cannot help a heart that refuses it.",
+    "subtitle": "Sincere counsel has limits, and all return to Him",
+    "picture": {"kind": "boxes", "label": "Nuh's honest limit", "row": [
+      {"box": "people", "title": "my advice", "sub": ["sincere, given freely"]},
+      {"conn": "cannot help if"},
+      {"box": "trap", "title": "astray by choice", "sub": ["Allah leaves them to it"]},
+      {"conn": "still"},
+      {"box": "idea", "title": "He is your Lord", "sub": ["to Him you return"]}]},
+    "key": {"label": "Who guides", "row": [
+      {"box": "people", "title": "the right words", "sub": ["will surely change them"], "strike": true},
+      {"box": "idea", "title": "Allah's will", "sub": ["owner of how it ends"]}]},
+    "then": "Nuh admitted the limit of his own effort. {trap}My advice will not benefit you{/trap} if Allah's will is to leave you astray. Then he reminded them who they were dealing with: {idea}He is your Lord, and to Him you will return{/idea}, the One who owns how every matter ends.",
+    "now": "You have sent your friend article after article about leaving a harmful habit. You rewrite the perfect message at 1 a.m. {idea}Advice is your part. Guidance is Allah's.{/idea} You can give your best and still not be the one who changes a heart.",
+    "old": "If they do not change, I must not have said it well enough.",
+    "new": "I give sincere advice; whether it benefits is in Allah's hands, and we all return to Him.",
+    "try": "Make dua tonight for one person you have been trying to advise, instead of sending another message.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:35", "surah": 11, "ayah": 35, "place": "makkah",
+    "title": "If I made it up, the sin is mine alone.",
+    "subtitle": "A pause in Nuh's story to answer Makkah",
+    "picture": {"kind": "boxes", "label": "The charge and the reply", "row": [
+      {"box": "people", "title": "Makkah's critics", "sub": ["he invented this"]},
+      {"conn": "Say"},
+      {"box": "trap", "title": "if I lied", "sub": ["my crime is on me"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "I am clear", "sub": ["of what you commit"]}]},
+    "key": {"label": "Who carries what", "row": [
+      {"box": "people", "title": "shared blame", "sub": ["we all answer together"], "strike": true},
+      {"box": "idea", "title": "each carries his own", "sub": ["my deeds, your deeds"]}]},
+    "then": "In the middle of Nuh's story, Allah turns to the Prophet ﷺ. The disbelievers of Makkah said {trap}he made this up{/trap}. He is told to answer: if I invented it, the crime is mine alone. {idea}But I am innocent of what you do.{/idea} The one who knows Allah's punishment for lying about Him would not lie.",
+    "now": "Someone in the comments says your faith is something you were just taught and never checked. You feel defensive. {idea}You answer for your own choices{/idea}, and so do they. That thought is calming, not cold.",
+    "old": "I have to defend myself against every accusation or it will stick.",
+    "new": "Each person carries their own deeds before Allah; I only need to be honest in mine.",
+    "try": "Let one unfair comment about you go unanswered today, and check only that your own conduct is clean.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:36", "surah": 11, "ayah": 36, "place": "makkah",
+    "title": "No one else will believe. Do not grieve.",
+    "subtitle": "Allah lifts the weight off Nuh's shoulders",
+    "picture": {"kind": "boxes", "label": "After centuries of calling", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["I have been overcome"]},
+      {"conn": "Allah reveals"},
+      {"box": "plain", "title": "the door has closed", "sub": ["only those already believing"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "do not grieve", "sub": ["over what they did"]}]},
+    "key": {"label": "What Nuh was carrying", "row": [
+      {"box": "trap", "title": "their choices", "sub": ["as if they were his fault"], "strike": true},
+      {"box": "idea", "title": "his own duty", "sub": ["done, and seen by Allah"]}]},
+    "then": "Nuh's people had hurried Allah's punishment on themselves, and Nuh had called to his Lord that he was overcome. Then came the revelation: {idea}none of your people will believe except those who already have{/idea}. {reward}So do not be distressed by what they do.{/reward}",
+    "now": "You have kept the family together for years: the calls, the peace-making, the hosting. Some relatives still turn away. {reward}You are allowed to stop carrying their choices.{/reward} Doing your part is not the same as owning their response.",
+    "old": "If they do not respond, it is a failure I must keep grieving.",
+    "new": "Once I have done my part, Allah Himself tells me not to be crushed by others' choices.",
+    "try": "Name one person whose choices you keep blaming yourself for. Say: I did my part, the rest is with Allah.",
+    "related": ["71:26", "54:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:37", "surah": 11, "ayah": 37, "place": "makkah",
+    "title": "Build the ship under Our eyes.",
+    "subtitle": "Work done while Allah watches and teaches",
+    "picture": {"kind": "boxes", "label": "The command", "row": [
+      {"box": "idea", "title": "build the ship", "sub": ["with your own hands"]},
+      {"box": "reward", "title": "under Our eyes", "sub": ["watched and protected"]},
+      {"box": "reward", "title": "by Our revelation", "sub": ["We teach you how"]},
+      {"box": "trap", "title": "do not plead", "sub": ["for the wrongdoers now"]}]},
+    "key": {"label": "How he worked", "row": [
+      {"box": "people", "title": "alone", "sub": ["figuring it out myself"], "strike": true},
+      {"box": "idea", "title": "watched and taught", "sub": ["every plank seen"]}]},
+    "then": "Allah told Nuh to build the ship {reward}under Our eyes and with Our revelation{/reward}, meaning He would watch and teach him what to do. Nuh was also told not to plead for the wrongdoers anymore. {trap}Their drowning had been decided.{/trap}",
+    "now": "You are on a long night shift, or patching code nobody will praise, or cooking for a family that barely says thanks. It feels unseen. {idea}It is under His eyes.{/idea} Nuh's planks were not glamorous either.",
+    "old": "Work nobody notices does not really count.",
+    "new": "Every plank I lay is seen by Allah, and He guides the work I do for Him.",
+    "try": "Before one ordinary task today, say quietly: You see this, so help me do it well.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:38", "surah": 11, "ayah": 38, "place": "makkah",
+    "title": "They laughed at a ship on dry land.",
+    "subtitle": "Mockery while obeying, and Nuh's steady reply",
+    "picture": {"kind": "boxes", "label": "At the building site", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["building, plank by plank"]},
+      {"conn": "chiefs pass by"},
+      {"box": "trap", "title": "mockery", "sub": ["every single time"]},
+      {"conn": "he replies"},
+      {"box": "idea", "title": "we will laugh too", "sub": ["when the truth shows"]}]},
+    "key": {"label": "Who looks foolish", "row": [
+      {"box": "people", "title": "the builder", "sub": ["a boat with no sea"], "strike": true},
+      {"box": "trap", "title": "the mockers", "sub": ["laughing at a warning"]}]},
+    "then": "Nuh kept building. {trap}Every time the chiefs of his people passed, they mocked him{/trap}, rejecting his warning that they would drown. He did not stop. He answered that if they laughed now, {idea}the laughter would one day turn back on them{/idea}.",
+    "now": "Your coworkers smirk when you step out to pray. Your friends tease you for skipping the bar night or saving instead of spending. {idea}Keep building.{/idea} Mockery is loud today, but it does not decide how things end.",
+    "old": "If people laugh at what I am doing, maybe I am the one who is wrong.",
+    "new": "Mockery does not make obedience foolish; the end will show who was right.",
+    "try": "The next time someone teases you for a good habit, smile, say nothing back, and carry on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:39", "surah": 11, "ayah": 39, "place": "makkah",
+    "title": "Soon you will know who is disgraced.",
+    "subtitle": "Two outcomes, here and after",
+    "picture": {"kind": "boxes", "label": "What is coming", "row": [
+      {"box": "plain", "title": "soon you will know", "sub": ["the mockery ends"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "disgrace", "sub": ["in this life"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "a lasting punishment", "sub": ["that does not lift"]}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "people", "title": "today's laughter", "sub": ["feels like the final word"], "strike": true},
+      {"box": "idea", "title": "the final outcome", "sub": ["who is honored, who is not"]}]},
+    "then": "Nuh finished his answer to the mockers with {trap}a serious warning{/trap}. They would soon see who would be humiliated in this life and who would face a lasting punishment after it. {idea}The scene at the shipyard was not the end of the story.{/idea}",
+    "now": "You scroll past a clip of someone being mocked for their faith, and you laugh along before you think. Or you are the one laughed at. {idea}Today's laughter is not the last word.{/idea} Ask which side of that warning your own habits are building toward.",
+    "old": "What people think of me right now is what matters.",
+    "new": "The real outcome comes later, and it is my conduct, not the crowd, that decides it.",
+    "try": "Skip or report one video today that mocks someone's faith instead of sharing it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "78:17", "surah": 78, "ayah": 17, "place": "makkah",
+    "title": "The Day of Decision already has a date.",
+    "subtitle": "An appointment that cannot move",
+    "picture": {"kind": "boxes", "label": "The appointment", "row": [
+      {"box": "idea", "title": "the Day of Decision", "sub": ["a fixed time"]},
+      {"conn": "known only to"},
+      {"box": "idea", "title": "Allah", "sub": ["no one else knows when"]}]},
+    "key": {"label": "Can it be moved", "row": [
+      {"box": "trap", "title": "it can be put off", "sub": ["or cancelled"], "strike": true},
+      {"box": "idea", "title": "fixed", "sub": ["not a moment added or cut"]}]},
+    "then": "After the proofs, the surah answers the original question. Ibn Kathir says the Day is at {idea}a fixed time with a set appointment{/idea}. It cannot be added to or decreased, and no one knows its time except Allah.",
+    "now": "Your calendar is full of things you can reschedule. Meetings, dentist, the call with your cousin. {trap}This one is already booked{/trap}, and you will not get a reminder the day before.",
+    "old": "There is always time later to get ready.",
+    "new": "The Day is fixed. My readiness is the only thing I can still change.",
+    "try": "Pick one thing you would want settled before that Day and take a first step on it.",
+    "related": ["11:104"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:18", "surah": 78, "ayah": 18, "place": "makkah",
+    "title": "The Horn is blown and everyone comes in crowds.",
+    "subtitle": "Every nation arriving together",
+    "picture": {"kind": "boxes", "label": "The arrival", "row": [
+      {"box": "idea", "title": "the Horn", "sub": ["blown"]},
+      {"conn": "brings out"},
+      {"box": "people", "title": "crowds", "sub": ["group after group"]}]},
+    "key": {"label": "How you arrive", "row": [
+      {"box": "people", "title": "lost in the crowd", "sub": ["no one will notice me"], "strike": true},
+      {"box": "idea", "title": "with your group", "sub": ["each nation with its Messenger"]}]},
+    "then": "Mujahid said the crowds come {idea}group after group.{/idea} Ibn Jarir said each nation comes with its Messenger. Ibn Kathir also reports a hadith that between the two blowings of the Horn is forty, and Abu Hurayrah would not say forty of what.",
+    "now": "Think of a stadium emptying after a match, thousands pouring out of every gate. Now picture every human who ever lived. {idea}You will be in one of those crowds{/idea}, and the question is whose people you walk with.",
+    "old": "In a crowd that big, I will just blend in.",
+    "new": "Everyone comes in groups. I choose now which group I belong to.",
+    "try": "Ask yourself honestly: whose way of living am I following most closely?",
+    "related": ["17:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:19", "surah": 78, "ayah": 19, "place": "makkah",
+    "title": "The sky that seemed sealed opens into gates.",
+    "subtitle": "The strong heavens give way",
+    "picture": {"kind": "boxes", "label": "What changes", "row": [
+      {"box": "idea", "title": "seven strong heavens", "sub": ["verse 12"]},
+      {"conn": "become"},
+      {"box": "idea", "title": "gates", "sub": ["paths for angels descending"]}]},
+    "key": {"label": "What looked permanent", "row": [
+      {"box": "plain", "title": "the sky never changes", "sub": [], "strike": true},
+      {"box": "idea", "title": "it opens", "sub": ["on His command"]}]},
+    "then": "Earlier the surah pointed to the seven strong heavens as proof. Now that same sky {idea}is opened and becomes gates.{/idea} Ibn Kathir says these are paths and routes for the angels to come down.",
+    "now": "You grew up under the same sky. It feels like a ceiling that will always be there. {idea}The strongest thing you can see is temporary.{/idea} So are the things you thought could never change in your life.",
+    "old": "Some things are fixed forever and I can build on them.",
+    "new": "Even the sky will open. Only Allah is permanent.",
+    "try": "Look up once today and remember that what is above you will one day open.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:20", "surah": 78, "ayah": 20, "place": "makkah",
+    "title": "Mountains move and become a mirage.",
+    "subtitle": "The pegs are pulled up",
+    "picture": {"kind": "boxes", "label": "The mountains", "row": [
+      {"box": "idea", "title": "pegs of the earth", "sub": ["verse 7"]},
+      {"conn": "moved away"},
+      {"box": "trap", "title": "a mirage", "sub": ["looks like something, is nothing"]}]},
+    "key": {"label": "What is solid", "row": [
+      {"box": "plain", "title": "mountains are forever", "sub": [], "strike": true},
+      {"box": "trap", "title": "a mirage", "sub": ["then no trace at all"]}]},
+    "then": "Ibn Kathir explains the mirage: the mountains {trap}appear to be something, but are actually nothing,{/trap} and then are removed completely, without base or trace. He ties it to verses where mountains pass like clouds and become like carded wool.",
+    "now": "The career you thought was a mountain. The house, the reputation, the savings. On a hot road you see water ahead that is not there. {idea}Much of what looks solid is that kind of shimmer.{/idea}",
+    "old": "My achievements are solid. They will stand.",
+    "new": "If mountains become a mirage, only what I did for Allah stays.",
+    "try": "Name one thing you treat as a mountain in your life. Ask if it will last that Day.",
+    "related": ["27:88", "101:5", "20:105"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:21", "surah": 78, "ayah": 21, "place": "makkah",
+    "title": "Hell has been waiting, already prepared.",
+    "subtitle": "A place lying in wait",
+    "picture": {"kind": "boxes", "label": "What the verse says", "row": [
+      {"box": "trap", "title": "Hell", "sub": ["lying in wait"]},
+      {"conn": "prepared for"},
+      {"box": "people", "title": "those who rebel", "sub": ["verse 22"]}]},
+    "key": {"label": "Is it far off", "row": [
+      {"box": "plain", "title": "a distant idea", "sub": ["not yet real"], "strike": true},
+      {"box": "trap", "title": "already waiting", "sub": ["prepared in advance"]}]},
+    "then": "Ibn Kathir explains that Hell {trap}is waiting in preparation.{/trap} The people in Makkah spoke of the afterlife as a story. The verse speaks of it as something already in place.",
+    "now": "You treat consequences as something far away. The test result you have not opened, the habit you keep saying you will drop. {idea}The verse is a warning given early, while there is still time to turn.{/idea}",
+    "old": "Consequences are a problem for a later version of me.",
+    "new": "It is already prepared, which is why the warning comes now, while I can still change.",
+    "try": "Make one sincere istighfar today for a habit you know you need to leave.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:22", "surah": 78, "ayah": 22, "place": "makkah",
+    "title": "For the transgressors it becomes their return.",
+    "subtitle": "Where rebellion ends up",
+    "picture": {"kind": "boxes", "label": "Who returns there", "row": [
+      {"box": "people", "title": "the transgressors", "sub": ["rejectors who oppose the Messengers"]},
+      {"conn": "return to"},
+      {"box": "trap", "title": "their destination", "sub": ["a final residence"]}]},
+    "key": {"label": "What decides the destination", "row": [
+      {"box": "plain", "title": "bad luck", "sub": [], "strike": true},
+      {"box": "trap", "title": "crossing limits", "sub": ["chosen over and over"]}]},
+    "then": "Ibn Kathir says the transgressors are {trap}the disobedient rejectors who oppose the Messengers.{/trap} The word for destination means a place of return and final outcome. The road leads where it was always heading.",
+    "now": "Small lines crossed at work, at home, online. Each one feels too small to count. {idea}A destination is just the sum of the turns you took.{/idea} The good news is that you can still turn.",
+    "old": "One small wrong step does not change where I am going.",
+    "new": "Where I end up is built from the limits I keep crossing or keeping.",
+    "try": "Notice one small line you cross often. Keep it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:23", "surah": 78, "ayah": 23, "place": "makkah",
+    "title": "Remaining there for ages upon ages.",
+    "subtitle": "A length no one can count",
+    "picture": {"kind": "boxes", "label": "How long", "row": [
+      {"box": "trap", "title": "ages", "sub": ["one era after another"]},
+      {"conn": "known to"},
+      {"box": "idea", "title": "Allah alone", "sub": ["no one else knows its length"]}]},
+    "key": {"label": "Compared to now", "row": [
+      {"box": "plain", "title": "this life feels long", "sub": [], "strike": true},
+      {"box": "idea", "title": "this life is short", "sub": ["what comes after is not"]}]},
+    "then": "Scholars quoted by Ibn Kathir discussed the word ages. Qatadah said it is {trap}that which has no end: whenever one era ends, another follows.{/trap} Ar-Rabi said no one knows how much it is except Allah.",
+    "now": "You count your life in years: school, job, retirement. It feels endless when you are bored in a queue. {idea}Set against ages without number, it is a short window{/idea}, and it is the window for choosing.",
+    "old": "My life is long. There is plenty of time.",
+    "new": "My life is the short part. What I do in it shapes the long part.",
+    "try": "Spend five minutes today on something you want to count for the long part.",
+    "related": ["11:107"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:24", "surah": 78, "ayah": 24, "place": "makkah",
+    "title": "No coolness, no drink to relieve them.",
+    "subtitle": "Comfort denied",
+    "picture": {"kind": "boxes", "label": "What is missing", "row": [
+      {"box": "trap", "title": "no coolness", "sub": ["for their hearts"], "strike": true},
+      {"box": "trap", "title": "no good drink", "sub": ["nothing to relieve"], "strike": true}]},
+    "key": {"label": "What we take for granted", "row": [
+      {"box": "plain", "title": "comfort is a right", "sub": [], "strike": true},
+      {"box": "reward", "title": "comfort is a gift", "sub": ["from Allah, here and now"]}]},
+    "then": "Ibn Kathir explains that {trap}they will find no coolness for their hearts, nor any good drink.{/trap} For people living in the heat of Makkah, cool shade and water were the most basic relief.",
+    "now": "A glass of cold water after a hot afternoon. An air-conditioned room. A fan at night. {reward}Each small relief is a gift you can thank Him for{/reward}, and a reminder to live in a way that keeps you near His mercy.",
+    "old": "Cold water and shade are just normal.",
+    "new": "Every coolness I feel is from Allah, and it can be gone.",
+    "try": "Drink your next glass of water slowly and say Alhamdulillah after it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:25", "surah": 78, "ayah": 25, "place": "makkah",
+    "title": "Only scalding water and foul fluid.",
+    "subtitle": "The exception that is no relief",
+    "picture": {"kind": "boxes", "label": "What they get instead", "row": [
+      {"box": "trap", "title": "instead of coolness", "sub": ["scalding water"]},
+      {"box": "trap", "title": "instead of drink", "sub": ["foul fluid"]}]},
+    "key": {"label": "The meaning", "row": [
+      {"box": "plain", "title": "some relief after all", "sub": [], "strike": true},
+      {"box": "trap", "title": "the opposite", "sub": ["of what they wanted"]}]},
+    "then": "Abu Al-Aliyah, quoted by Ibn Kathir, said the scalding water is the exception to coolness and the foul fluid the exception to drink. {trap}What is offered is the opposite of relief.{/trap} Ibn Kathir adds a prayer: may Allah save us from that.",
+    "now": "The verse is not here to frighten you into despair. It is here like a warning sign on a cliff road. {idea}Read it, then make the same dua Ibn Kathir made:{/idea} O Allah, save us from that.",
+    "old": "Verses like this are just meant to scare people.",
+    "new": "They are a warning given in mercy, so I can ask for protection now.",
+    "try": "Say once today, sincerely: O Allah, protect me from the Fire.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:26", "surah": 78, "ayah": 26, "place": "makkah",
+    "title": "An exact recompense for what they did.",
+    "subtitle": "Nothing unfair in the outcome",
+    "picture": {"kind": "boxes", "label": "How it matches", "row": [
+      {"box": "people", "title": "their deeds", "sub": ["in this life"]},
+      {"conn": "matched by"},
+      {"box": "trap", "title": "their recompense", "sub": ["exactly fitting"]}]},
+    "key": {"label": "Is it fair", "row": [
+      {"box": "trap", "title": "too harsh", "sub": ["out of proportion"], "strike": true},
+      {"box": "idea", "title": "fitting", "sub": ["in accordance with their deeds"]}]},
+    "then": "Ibn Kathir explains that what happens to them is {idea}in accordance with the wicked deeds they did in this life.{/idea} Mujahid and Qatadah said the same. No one is wronged.",
+    "now": "You know the feeling when someone gets away with cheating, lying, or hurting others. It eats at you. {idea}Nothing is lost on Allah.{/idea} And the same justice means your quiet good deeds are not lost either.",
+    "old": "People who do wrong often get away with it.",
+    "new": "Every deed meets its exact match. Nothing slips through.",
+    "try": "Do one good deed today that no one will see.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:27", "surah": 78, "ayah": 27, "place": "makkah",
+    "title": "They never expected to be held to account.",
+    "subtitle": "The root of the problem",
+    "picture": {"kind": "boxes", "label": "How they lived", "row": [
+      {"box": "trap", "title": "no reckoning", "sub": ["so they believed"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "living without limits", "sub": ["nothing to answer for"]}]},
+    "key": {"label": "What changes behavior", "row": [
+      {"box": "trap", "title": "no one is checking", "sub": [], "strike": true},
+      {"box": "idea", "title": "an account is coming", "sub": ["so each day matters"]}]},
+    "then": "Ibn Kathir says they {trap}did not believe there would be an abode in which they would be taken to account.{/trap} This is the reason given for everything before it. Their behavior grew from that one belief.",
+    "now": "Think of how people drive when they know there is no speed camera. Or how a team works when the manager is away. {idea}What you expect to answer for shapes what you do.{/idea}",
+    "old": "No one really keeps track of what I do.",
+    "new": "Expecting an account is what keeps a person honest when no one is watching.",
+    "try": "Tonight, spend two minutes reviewing your day as if you will be asked about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:28", "surah": 78, "ayah": 28, "place": "makkah",
+    "title": "They denied the signs, and denied them hard.",
+    "subtitle": "Rejection as a stubborn habit",
+    "picture": {"kind": "boxes", "label": "What they did with the proofs", "row": [
+      {"box": "idea", "title": "Allah's signs", "sub": ["sent with the Messengers"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "total denial", "sub": ["rejection and stubbornness"]}]},
+    "key": {"label": "Why they rejected", "row": [
+      {"box": "plain", "title": "not enough proof", "sub": [], "strike": true},
+      {"box": "trap", "title": "obstinacy", "sub": ["the proof was there"]}]},
+    "then": "Ibn Kathir says they denied Allah's evidences and proofs {trap}with rejection and obstinacy.{/trap} The surah just listed proof after proof: the earth, sleep, the sun, the rain. They had seen all of it.",
+    "now": "Someone you love tells you, gently, that you have a temper. You argue every point. You know they are right. {idea}The problem is rarely a lack of evidence.{/idea} It is the wall we put up before listening.",
+    "old": "If the proof were clear enough, I would accept it.",
+    "new": "Often the proof is clear. What I need is the humility to accept it.",
+    "try": "The next time someone corrects you today, say \"you may be right\" before replying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:29", "surah": 78, "ayah": 29, "place": "makkah",
+    "title": "Everything has been counted and written down.",
+    "subtitle": "The record misses nothing",
+    "picture": {"kind": "boxes", "label": "The record", "row": [
+      {"box": "people", "title": "every deed", "sub": ["of every creature"]},
+      {"conn": "recorded in"},
+      {"box": "idea", "title": "a Book", "sub": ["known and written"]}]},
+    "key": {"label": "What gets lost", "row": [
+      {"box": "plain", "title": "most of it is forgotten", "sub": [], "strike": true},
+      {"box": "idea", "title": "nothing is lost", "sub": ["good or bad"]}]},
+    "then": "Ibn Kathir explains: {idea}Allah knows the deeds of all creatures and has written them,{/idea} and will reward them based on that. If the deeds are good, the reward is good. Those who expected no account forgot that every act was already recorded.",
+    "now": "Your phone logs every step, every tap, every search. You forget most of it within the hour. {idea}A truer record is being kept{/idea}, and it also holds the kind words, the patience, the hidden charity.",
+    "old": "Small things I do vanish. They do not add up.",
+    "new": "Everything is counted. Even my smallest good deed is written.",
+    "try": "Do one small kindness today and trust that it has been written.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:30", "surah": 78, "ayah": 30, "place": "makkah",
+    "title": "Taste it. Nothing will be added but more of it.",
+    "subtitle": "The end of the warning section",
+    "picture": {"kind": "boxes", "label": "What they hear", "row": [
+      {"box": "trap", "title": "taste it", "sub": ["what you denied"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "no relief added", "sub": ["only more of the same"]}]},
+    "key": {"label": "When to change", "row": [
+      {"box": "trap", "title": "change later", "sub": ["there, it is too late"], "strike": true},
+      {"box": "reward", "title": "change now", "sub": ["here, the door is open"]}]},
+    "then": "This verse closes the section on those who denied the reckoning. They are told to {trap}taste what they denied.{/trap} The next verse turns at once to the people of taqwa, so the listener sees both outcomes side by side.",
+    "now": "The warning ends here, and the very next verse opens on gardens. That is the shape of your life right now: {reward}both doors still open in front of you.{/reward} You are reading this while you can still choose.",
+    "old": "Hearing about punishment just makes me feel hopeless.",
+    "new": "The warning is given here, while I can still choose the other path.",
+    "try": "Read the next verse, 78:31, right after this one, and make a dua for its reward.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

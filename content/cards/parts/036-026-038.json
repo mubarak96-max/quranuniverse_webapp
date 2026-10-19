@@ -1,0 +1,263 @@
+[
+  {
+    "id": "36:26", "surah": 36, "ayah": 26, "place": "makkah",
+    "title": "Enter Paradise. And his first thought was his people.",
+    "subtitle": "Even after they killed him, he wished them good",
+    "picture": {"kind": "boxes", "label": "What he said", "row": [
+      {"box": "trap", "title": "killed by his people", "sub": []},
+      {"conn": "then"},
+      {"box": "reward", "title": "enter Paradise", "sub": ["all pain removed"]},
+      {"conn": "he says"},
+      {"box": "idea", "title": "if only my people knew", "sub": []}]},
+    "key": {"label": "His heart toward them", "row": [
+      {"box": "trap", "title": "now they will pay", "sub": [], "strike": true},
+      {"box": "reward", "title": "if only they knew", "sub": ["so they could follow"]}]},
+    "then": "After his people killed him, he was told: enter Paradise. Ibn Kathir says Allah {reward}took away all the sickness, grief, and exhaustion of this world.{/reward} Ibn Abbas said {idea}he was sincere to his people in life and after death.{/idea}",
+    "now": "Someone in your life has hurt you badly. You imagine the day they finally get what they deserve. {idea}This man, the moment he reached Paradise, wished his killers could see it so they would be saved.{/idea}",
+    "old": "Those who wronged me deserve to suffer.",
+    "new": "A sincere heart wants guidance even for those who hurt it.",
+    "try": "Say one dua today for the guidance of someone who wronged you.",
+    "related": ["36:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:27", "surah": 36, "ayah": 27, "place": "makkah",
+    "title": "My Lord forgave me and placed me among the honored.",
+    "subtitle": "What he wished his people could see",
+    "picture": {"kind": "boxes", "label": "What he received", "row": [
+      {"box": "people", "title": "faith in his Lord", "sub": ["and in the messengers"]},
+      {"conn": "brought"},
+      {"box": "reward", "title": "forgiveness", "sub": []},
+      {"box": "reward", "title": "honor", "sub": ["among the honored"]}]},
+    "key": {"label": "Who was honored", "row": [
+      {"box": "people", "title": "the powerful town", "sub": ["seemed to win"], "strike": true},
+      {"box": "reward", "title": "the rope worker", "sub": ["honored by Allah"]}]},
+    "then": "Abu Mijlaz said he was forgiven {idea}because of his faith in his Lord and his belief in the messengers.{/idea} He wished his people could see {reward}the great reward and lasting blessings{/reward}, so they too would follow. Ibn Kathir: he was so keen for them to be guided.",
+    "now": "You feel invisible at work, overlooked at family events, never the one people call important. {reward}This man was a sick rope worker from the edge of town.{/reward} {idea}Allah placed him among the honored.{/idea}",
+    "old": "Being honored means being noticed by people.",
+    "new": "True honor is being forgiven and honored by Allah, whoever notices me here.",
+    "try": "Do one quiet act of faith today and remind yourself that Allah's honor is enough.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:28", "surah": 36, "ayah": 28, "place": "makkah",
+    "title": "No army from the sky was needed.",
+    "subtitle": "The matter was simpler than that for Allah",
+    "picture": {"kind": "boxes", "label": "What Allah did not need", "row": [
+      {"box": "plain", "title": "an army of angels", "sub": ["not sent"]},
+      {"conn": "because"},
+      {"box": "idea", "title": "far simpler", "sub": ["for His power"]}]},
+    "key": {"label": "The town's strength", "row": [
+      {"box": "people", "title": "too strong to touch", "sub": [], "strike": true},
+      {"box": "idea", "title": "nothing to Him", "sub": ["no army required"]}]},
+    "then": "Ibn Masud, as Ibn Ishaq reported, said {idea}We did not seek to outnumber them, for the matter was simpler than that.{/idea} The town felt powerful after killing a believer. {trap}Its power counted for nothing.{/trap}",
+    "now": "The bully at school, the manager who seems untouchable, the person who always gets away with it. {trap}They look so strong.{/trap} {idea}To Allah, no effort is needed at all.{/idea} You do not have to be the one who brings them down.",
+    "old": "Some people are too powerful for anything to touch them.",
+    "new": "No one is strong before Allah. He needs no army to deal with them.",
+    "try": "Hand over one injustice that is eating at you to Allah in dua today, and let it rest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:29", "surah": 36, "ayah": 29, "place": "makkah",
+    "title": "One shout, and they were still.",
+    "subtitle": "How quickly a proud town ended",
+    "picture": {"kind": "boxes", "label": "The end", "row": [
+      {"box": "trap", "title": "one shout", "sub": ["a single blast"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "extinguished", "sub": ["like a fire put out"]}]},
+    "key": {"label": "How long it takes", "row": [
+      {"box": "people", "title": "slow decline", "sub": ["plenty of warning"], "strike": true},
+      {"box": "trap", "title": "one moment", "sub": ["then still"]}]},
+    "then": "Ibn Kathir reports that {trap}one blast came and they were all still{/trap}, leaving no trace. The word used is like a fire going out. The town that seemed so loud and sure of itself was silent in one moment.",
+    "now": "You plan the next five years: the promotion, the house, the trip. {trap}All of it rests on breaths you do not control.{/trap} {idea}This is not to scare you but to wake you.{/idea} Live as someone who might be called any moment.",
+    "old": "I have plenty of time before anything changes.",
+    "new": "Everything can end in one moment. That makes today precious, not scary.",
+    "try": "Settle one thing today you would not want left undone: an apology, a debt, a call.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:30", "surah": 36, "ayah": 30, "place": "makkah",
+    "title": "What a regret for people: every messenger was mocked.",
+    "subtitle": "Alas for those who neglected Allah's command",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "idea", "title": "a messenger comes", "sub": []},
+      {"conn": "met with"},
+      {"box": "trap", "title": "mockery", "sub": ["every time"]},
+      {"conn": "ending in"},
+      {"box": "trap", "title": "regret", "sub": ["on the Day"]}]},
+    "key": {"label": "What mockery hides", "row": [
+      {"box": "people", "title": "just a joke", "sub": [], "strike": true},
+      {"box": "trap", "title": "rejecting truth", "sub": ["with a laugh"]}]},
+    "then": "Qatadah said it means {trap}alas for mankind, who have neglected the command of Allah.{/trap} Ibn Kathir says they will feel this regret on the Day when they see what they denied. {trap}Every messenger was met with mockery.{/trap}",
+    "now": "A meme about prayer, a joke about the hereafter in the group chat. You laugh along because everyone does. {trap}Mockery is the easiest way to dodge the truth.{/trap} {idea}Do not let a joke carry you past something serious.{/idea}",
+    "old": "Joking about religion is harmless fun.",
+    "new": "Mocking the message is how people have always avoided it, and it ends in regret.",
+    "try": "The next time a joke mocks faith, do not forward it or laugh along.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:31", "surah": 36, "ayah": 31, "place": "makkah",
+    "title": "So many generations gone, and none came back.",
+    "subtitle": "One life here, no return",
+    "picture": {"kind": "boxes", "label": "The past nations", "row": [
+      {"box": "people", "title": "many generations", "sub": ["destroyed before"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "none return", "sub": ["one life only"]}]},
+    "key": {"label": "How many tries", "row": [
+      {"box": "trap", "title": "we come back again", "sub": ["another round"], "strike": true},
+      {"box": "idea", "title": "this world once", "sub": ["then the return to Allah"]}]},
+    "then": "Ibn Kathir says those destroyed before {idea}came to this world only once and will not return to it.{/idea} He notes the verse refutes the belief that people {trap}come back to this world as they had been before.{/trap}",
+    "now": "You walk through a graveyard, or scroll past old family photos. {idea}Every face there had one life, just like you.{/idea} {reward}You are in yours now, and it still has pages to fill.{/reward}",
+    "old": "Somehow I will get another chance if I mess this up.",
+    "new": "I have one life in this world. It is the only one, so it matters.",
+    "try": "Visit or picture a graveyard this week and make dua for those resting there.",
+    "related": ["23:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:32", "surah": 36, "ayah": 32, "place": "makkah",
+    "title": "All of them will be brought before Us.",
+    "subtitle": "Every nation, past and future, gathered",
+    "picture": {"kind": "boxes", "label": "The gathering", "row": [
+      {"box": "people", "title": "past nations", "sub": []},
+      {"box": "people", "title": "nations to come", "sub": []},
+      {"box": "people", "title": "you", "sub": []},
+      {"conn": "all before"},
+      {"box": "idea", "title": "Allah", "sub": ["deeds repaid in full"]}]},
+    "key": {"label": "Who is excused", "row": [
+      {"box": "people", "title": "some slip through", "sub": [], "strike": true},
+      {"box": "idea", "title": "all present", "sub": ["no one missing"]}]},
+    "then": "Ibn Kathir says {idea}all past nations and those yet to come will be gathered and brought to account{/idea} before Allah, and repaid for their good and evil deeds. He links it to the verse that {reward}your Lord will repay their works in full.{/reward}",
+    "now": "At a packed stadium you feel like one face in sixty thousand. {idea}On that Day, you will not be lost in the crowd.{/idea} {reward}Every good thing you did will be found too.{/reward}",
+    "old": "I am just one of billions. Nobody will notice my small deeds.",
+    "new": "Every single person will stand before Allah, and every deed will be counted.",
+    "try": "Do one deed today you would be glad to see on that Day.",
+    "related": ["11:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:33", "surah": 36, "ayah": 33, "place": "makkah",
+    "title": "The dead earth comes back to life and feeds you.",
+    "subtitle": "A sign of the Creator and the Resurrection",
+    "picture": {"kind": "boxes", "label": "The sign", "row": [
+      {"box": "plain", "title": "dead earth", "sub": ["arid, bare"]},
+      {"conn": "given life"},
+      {"box": "reward", "title": "grain", "sub": ["food for you and cattle"]},
+      {"box": "idea", "title": "a sign", "sub": ["He can raise the dead"]}]},
+    "key": {"label": "What bread points to", "row": [
+      {"box": "plain", "title": "just farming", "sub": [], "strike": true},
+      {"box": "idea", "title": "life from death", "sub": ["every harvest"]}]},
+    "then": "Ibn Kathir says this is {idea}evidence of the Creator and His power to resurrect the dead.{/idea} The earth is dead and bare, then water comes and it swells with growth. {reward}It becomes provision for them and their cattle.{/reward}",
+    "now": "You tear open a loaf of bread at breakfast without a thought. {idea}It started as a dry field that came back to life.{/idea} {reward}Every slice is a small sign of resurrection, and a gift.{/reward}",
+    "old": "Food comes from the supermarket.",
+    "new": "Food comes from dead earth brought to life, a sign of Allah's power and care.",
+    "try": "Before your next meal, remember the field it came from and say alhamdulillah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:34", "surah": 36, "ayah": 34, "place": "makkah",
+    "title": "Gardens of dates and grapes, and springs bursting out.",
+    "subtitle": "Variety and water placed where they are needed",
+    "picture": {"kind": "boxes", "label": "What He placed", "row": [
+      {"box": "reward", "title": "date palms", "sub": []},
+      {"box": "reward", "title": "grapevines", "sub": []},
+      {"box": "reward", "title": "springs", "sub": ["flowing where needed"]}]},
+    "key": {"label": "Why the variety", "row": [
+      {"box": "plain", "title": "random abundance", "sub": [], "strike": true},
+      {"box": "idea", "title": "a reminder of blessing", "sub": ["kind after kind"]}]},
+    "then": "For people in a dry land, gardens and springs were the clearest blessing. Ibn Kathir says Allah {reward}created rivers which flow to the places where they are needed{/reward}, and when reminding of blessings {idea}He mentions different kinds of fruit.{/idea}",
+    "now": "You stand in the fruit aisle choosing between three kinds of grapes and complain the dates are pricey. {reward}Each one grew from water He sent to the right place.{/reward} {idea}Notice the gift before the price.{/idea}",
+    "old": "Fruit and water are ordinary things.",
+    "new": "Every fruit and every spring was placed for me by Allah, on purpose.",
+    "try": "Eat one date or piece of fruit slowly today and thank Allah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:35", "surah": 36, "ayah": 35, "place": "makkah",
+    "title": "Your hands did not make it. Will you not be thankful?",
+    "subtitle": "The fruit is His, even when you planted",
+    "picture": {"kind": "boxes", "label": "Who made the fruit", "row": [
+      {"box": "people", "title": "your hands", "sub": ["plant, tend"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "His mercy", "sub": ["makes it grow"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "give thanks", "sub": []}]},
+    "key": {"label": "Whose effort", "row": [
+      {"box": "people", "title": "I made this", "sub": ["my work, my results"], "strike": true},
+      {"box": "idea", "title": "He provided", "sub": ["my work was the means"]}]},
+    "then": "Ibn Abbas and Qatadah said {idea}it all came by the mercy of Allah, not by their own labor and strength.{/idea} Ibn Jarir read it as including what their hands planted. Either way, the verse ends: {reward}will they not then give thanks?{/reward}",
+    "now": "You finally get the raise, the good grade, the garden tomatoes. {trap}You think: I earned this.{/trap} {idea}You did the work, but the growth was His.{/idea} The verse just asks for thanks.",
+    "old": "What I worked for is mine, I made it happen.",
+    "new": "My effort was the means. The result was Allah's gift, and it deserves thanks.",
+    "try": "Thank Allah out loud today for one result you have been calling your own achievement.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:36", "surah": 36, "ayah": 36, "place": "makkah",
+    "title": "Glory to Him who made everything in pairs.",
+    "subtitle": "Plants, people, and what we do not know",
+    "picture": {"kind": "boxes", "label": "Pairs", "row": [
+      {"box": "plain", "title": "what the earth grows", "sub": ["crops, fruits"]},
+      {"box": "people", "title": "ourselves", "sub": ["male and female"]},
+      {"box": "plain", "title": "what we do not know", "sub": ["creation beyond us"]},
+      {"conn": "all by"},
+      {"box": "idea", "title": "Subhan Allah", "sub": []}]},
+    "key": {"label": "Limits of knowledge", "row": [
+      {"box": "people", "title": "we know it all", "sub": ["science has mapped it"], "strike": true},
+      {"box": "idea", "title": "and what they know not", "sub": ["more than we see"]}]},
+    "then": "After listing gifts of the earth, the verse turns to praise. Ibn Kathir explains pairs as crops and plants, {idea}male and female among people{/idea}, and {idea}kinds of creatures they know nothing of.{/idea} He links it to: of everything We created pairs.",
+    "now": "A documentary shows a new deep-sea creature no one had seen before. {idea}This verse already said there is more we do not know.{/idea} {reward}Every discovery is another reason to say subhanallah.{/reward}",
+    "old": "Humans have pretty much figured out the natural world.",
+    "new": "Creation is far larger than my knowledge, and all of it praises its Maker.",
+    "try": "Say subhanallah 33 times today while thinking about something in nature that amazes you.",
+    "related": ["51:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:37", "surah": 36, "ayah": 37, "place": "makkah",
+    "title": "The day is peeled off the night, and darkness comes.",
+    "subtitle": "Night as a sign",
+    "picture": {"kind": "boxes", "label": "The sign of night", "row": [
+      {"box": "plain", "title": "the day", "sub": ["light"]},
+      {"conn": "peeled away"},
+      {"box": "plain", "title": "the night", "sub": ["darkness"]},
+      {"box": "idea", "title": "a sign for them", "sub": ["His might"]}]},
+    "key": {"label": "What sunset is", "row": [
+      {"box": "plain", "title": "just routine", "sub": [], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["one following the other"]}]},
+    "then": "Ibn Kathir says Allah {idea}causes night and day to follow one another{/idea}, one coming as the other goes. The word used is like peeling off a skin. The Prophet ﷺ said when night comes and the sun sets, {reward}the fasting person breaks the fast.{/reward}",
+    "now": "Sunset hits while you are still on a work call, lights coming on across the city. {idea}The day was just peeled off and you barely looked up.{/idea} Ramadan teaches you to watch this moment. Every day offers it.",
+    "old": "Night just happens. It is the end of my productive hours.",
+    "new": "Each nightfall is a sign of the One who peels the day away on time.",
+    "try": "Stop for one minute at sunset today, look outside, and say subhanallah.",
+    "related": ["7:54"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:38", "surah": 36, "ayah": 38, "place": "makkah",
+    "title": "The sun runs toward its resting place by His decree.",
+    "subtitle": "The decree of the Mighty, the Knowing",
+    "picture": {"kind": "boxes", "label": "The sun's course", "row": [
+      {"box": "plain", "title": "the sun", "sub": ["always moving"]},
+      {"conn": "toward"},
+      {"box": "idea", "title": "its fixed point", "sub": ["set by Allah"]},
+      {"box": "idea", "title": "Mighty, Knowing", "sub": ["none can oppose"]}]},
+    "key": {"label": "Who keeps it on time", "row": [
+      {"box": "plain", "title": "it runs itself", "sub": [], "strike": true},
+      {"box": "idea", "title": "His decree", "sub": ["He knows every movement"]}]},
+    "then": "The Prophet ﷺ told Abu Dharr at sunset that {idea}the sun goes and prostrates beneath the Throne{/idea}, reciting this verse. Another view, Ibn Kathir notes, is that its term ends on the Day of Resurrection. {idea}It is the decree of the Almighty, the All-Knowing.{/idea}",
+    "now": "Your weather app tells you sunrise at 6:42 tomorrow, to the minute. {idea}That precision is a decree, not an accident.{/idea} {reward}The sun bows to its Lord. You can too.{/reward}",
+    "old": "The sun's movement is just physics, nothing to do with me.",
+    "new": "The sun moves by Allah's decree and submits to Him. It invites me to submit as well.",
+    "try": "Pray your next prayer on time today, matching the sun's own obedience.",
+    "related": ["14:33", "6:96"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

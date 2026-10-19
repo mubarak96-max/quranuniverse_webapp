@@ -1,0 +1,324 @@
+[
+  {
+    "id": "12:96", "surah": 12, "ayah": 96, "place": "makkah",
+    "title": "The shirt touched his face, and he could see again.",
+    "subtitle": "Good news arrives, and Ya'qub's hope is proved right",
+    "picture": {"kind": "boxes", "label": "The arrival", "row": [
+      {"box": "people", "title": "the bearer", "sub": ["brings the shirt"]},
+      {"conn": "cast over"},
+      {"box": "people", "title": "Ya'qub's face", "sub": ["blind from grief"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "sight returns", "sub": ["did I not tell you?"]}]},
+    "key": {"label": "Who carried it", "row": [
+      {"box": "trap", "title": "the bloodied shirt", "sub": ["he once brought a lie"]},
+      {"conn": "now"},
+      {"box": "reward", "title": "the healing shirt", "sub": ["he brings the truth"]}]},
+    "then": "Mujahid and As-Suddi said the bearer of good news was Yahudha. As-Suddi added that he had once brought {trap}Yusuf's shirt with false blood{/trap}, so he wanted to erase that error with this good act. The shirt was placed on Ya'qub's face and {reward}his sight came back{/reward}. He said: did I not tell you I know from Allah what you do not?",
+    "now": "You were the one who broke the bad news, told the lie, caused the rift. Now you can be the one who brings the good news, makes the call, carries the apology. {idea}The hand that did harm can be the hand that heals.{/idea}",
+    "old": "I caused that hurt, so I am the last person who can fix it.",
+    "new": "The one who did wrong can choose to carry the good news next.",
+    "try": "Be the one who delivers a piece of good news or an apology today, in person.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:97", "surah": 12, "ayah": 97, "place": "makkah",
+    "title": "Father, ask forgiveness for us, we were wrong.",
+    "subtitle": "The sons' confession to the one they hurt most",
+    "picture": {"kind": "boxes", "label": "Their request", "row": [
+      {"box": "people", "title": "the sons", "sub": ["humbled"]},
+      {"conn": "ask"},
+      {"box": "people", "title": "their father", "sub": ["the one they grieved"]},
+      {"box": "idea", "title": "pray for us", "sub": ["we have been sinners"]}]},
+    "key": {"label": "Who they turned to", "row": [
+      {"box": "trap", "title": "avoid him", "sub": ["too ashamed"], "strike": true},
+      {"box": "idea", "title": "ask him", "sub": ["the one they wronged"]}]},
+    "then": "Once the truth was out and Ya'qub could see, Ibn Kathir says the brothers came to him {idea}with humbleness{/idea}: {trap}O our father, ask forgiveness for our sins; we have been sinners.{/trap} They went to the very person whose heart they had broken.",
+    "now": "The parent you said hurtful things to as a teenager. The friend you ghosted. Shame makes you want to keep away. {idea}Going back and saying I was wrong, please pray for me, is hard and healing.{/idea}",
+    "old": "I am too ashamed to face the person I hurt.",
+    "new": "Going back to the one I wronged and asking for their prayers is the way home.",
+    "try": "Send one honest message today: I was wrong, please forgive me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:98", "surah": 12, "ayah": 98, "place": "makkah",
+    "title": "I will ask my Lord to forgive you.",
+    "subtitle": "A father's promise, saved for the right hour",
+    "picture": {"kind": "boxes", "label": "Ya'qub's answer", "row": [
+      {"box": "people", "title": "I will ask", "sub": ["soon, not now"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "my Lord", "sub": ["the Forgiving, the Merciful"]}]},
+    "key": {"label": "Why he waited", "row": [
+      {"box": "trap", "title": "holding a grudge", "sub": ["not yet forgiven"], "strike": true},
+      {"box": "idea", "title": "the best time", "sub": ["the last part of the night"]}]},
+    "then": "Ya'qub said: {idea}I will ask my Lord to forgive you{/idea}; He is the Forgiving, the Merciful. Ibn Mas'ud and several others said he {reward}delayed it until the last part of the night{/reward}, to make the prayer at its best time. He forgives those who repent.",
+    "now": "Your child apologizes. You say: I will pray for you. Then you actually do, at 4 a.m., when the house is quiet. {idea}Praying for someone at the best hour is a gift they never see.{/idea}",
+    "old": "Saying I will pray for you is just a polite phrase.",
+    "new": "Promising to pray for someone is a commitment, best kept at the best time.",
+    "try": "Make a dua tonight before Fajr for someone who has asked you to pray for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:99", "surah": 12, "ayah": 99, "place": "makkah",
+    "title": "Enter Egypt, if Allah wills, in safety.",
+    "subtitle": "Yusuf goes out to welcome his parents",
+    "picture": {"kind": "boxes", "label": "The welcome", "row": [
+      {"box": "people", "title": "the family", "sub": ["leaves Canaan"]},
+      {"conn": "met by"},
+      {"box": "people", "title": "Yusuf", "sub": ["goes out to receive them"]},
+      {"conn": "says"},
+      {"box": "reward", "title": "enter in safety", "sub": ["the famine is behind you"]}]},
+    "key": {"label": "How he received them", "row": [
+      {"box": "people", "title": "wait in the palace", "sub": ["let them come to me"], "strike": true},
+      {"box": "idea", "title": "go out to meet them", "sub": ["take them close"]}]},
+    "then": "When Yusuf heard his family was near, Ibn Kathir says he {idea}went out to receive them{/idea}, and the king sent notables with him. He took his parents close and said: {reward}enter Egypt, if Allah wills, in safety{/reward}, safe from the hardship and famine they had suffered.",
+    "now": "Your parents arrive at the airport after years apart. You could wait at home. {idea}Go to the gate. Carry the bags. Say: you are safe now.{/idea} Make your welcome match the distance they travelled.",
+    "old": "I have done well, so they should come to me.",
+    "new": "Success is a reason to go out and meet my family, not wait for them.",
+    "try": "Go out of your way today to welcome or visit a parent or elder.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:100", "surah": 12, "ayah": 100, "place": "makkah",
+    "title": "This is my dream from long ago, my Lord made it true.",
+    "subtitle": "Yusuf looks back on the whole road",
+    "picture": {"kind": "boxes", "label": "Looking back", "row": [
+      {"box": "people", "title": "the dream", "sub": ["eleven stars, sun, moon"]},
+      {"box": "trap", "title": "the road", "sub": ["well, prison, enmity"]},
+      {"conn": "and now"},
+      {"box": "reward", "title": "made true", "sub": ["my Lord is Subtle"]}]},
+    "key": {"label": "How he told the story", "row": [
+      {"box": "trap", "title": "you threw me in a well", "sub": ["blame"], "strike": true},
+      {"box": "idea", "title": "He took me out of prison", "sub": ["gratitude"]}]},
+    "then": "His parents and eleven brothers bowed before him, and Yusuf said: {reward}this is my dream from before; my Lord made it true.{/reward} He thanked Allah for taking him out of prison and bringing them from the desert. Notice: {idea}he mentions the prison, not the well{/idea}, and blames Shaytan, not his brothers, for the rift.",
+    "now": "At the wedding, the graduation, the family dinner after years of tension, you tell the story of how you got here. {idea}You can tell it as a list of who hurt you, or as a list of how Allah helped you.{/idea}",
+    "old": "Telling my story means naming everyone who wronged me.",
+    "new": "I can tell my story through Allah's kindness, without reopening old wounds.",
+    "try": "Write three lines about a hard chapter of your life, mentioning only how Allah helped.",
+    "related": ["12:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:101", "surah": 12, "ayah": 101, "place": "makkah",
+    "title": "At the top of it all, he asked to die a Muslim.",
+    "subtitle": "Yusuf's prayer when everything was complete",
+    "picture": {"kind": "boxes", "label": "His prayer", "row": [
+      {"box": "reward", "title": "You gave me", "sub": ["authority, knowledge"]},
+      {"box": "idea", "title": "You are my protector", "sub": ["here and in the Hereafter"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "let me die a Muslim", "sub": ["join me with the righteous"]}]},
+    "key": {"label": "What he wanted most", "row": [
+      {"box": "people", "title": "more of this", "sub": ["keep the throne"], "strike": true},
+      {"box": "idea", "title": "a good ending", "sub": ["with the righteous"]}]},
+    "then": "With his family reunited and his authority complete, Ibn Kathir says Yusuf asked Allah to {idea}continue His favor into the Hereafter{/idea}: let me die a Muslim and join me with the righteous. The Prophet ﷺ, at his own death, said three times: {reward}O Allah, to the highest companion.{/reward}",
+    "now": "The best week of your life: the new job, the new baby, the family finally at peace. {idea}That is exactly when Yusuf asked for a good ending.{/idea} Not more of the good times, but to finish well.",
+    "old": "When life is going well, I just want it to stay this way.",
+    "new": "At the height of blessing, the wisest prayer is for a good ending.",
+    "try": "Add Yusuf's words to your prayer today: let me die a Muslim and join me with the righteous.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:102", "surah": 12, "ayah": 102, "place": "makkah",
+    "title": "You were not there, yet you know their plot.",
+    "subtitle": "The story itself is a sign for the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "How it was known", "row": [
+      {"box": "trap", "title": "the brothers' plot", "sub": ["planned in secret"]},
+      {"conn": "unseen by"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["not present"]},
+      {"conn": "told by"},
+      {"box": "idea", "title": "revelation", "sub": ["news of the unseen"]}]},
+    "key": {"label": "Why the story was told", "row": [
+      {"box": "people", "title": "an old tale", "sub": ["just history"], "strike": true},
+      {"box": "idea", "title": "a lesson and a sign", "sub": ["for him and those who opposed him"]}]},
+    "then": "Some Makkans had asked the Prophet ﷺ about the Israelites in Egypt to test him. Allah revealed the whole story. Ibn Kathir says it is {idea}news of the unseen{/idea}: he was not there when the brothers {trap}plotted to throw Yusuf in the well{/trap}. It carries a lesson for him and a reminder to those who opposed him.",
+    "now": "You have just finished one of the longest stories in the Quran. You know details no history book in Makkah held. {idea}Pause on that. The story reached you as revelation, not rumor.{/idea}",
+    "old": "This is just a beautiful old story.",
+    "new": "This story is a sign of revelation and a lesson aimed at me.",
+    "try": "Pick one moment from Surah Yusuf that stood out to you and tell someone why.",
+    "related": ["3:44", "28:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:103", "surah": 12, "ayah": 103, "place": "makkah",
+    "title": "Most people will not believe, however much you want it.",
+    "subtitle": "Comfort for the one who cares deeply",
+    "picture": {"kind": "boxes", "label": "The reality", "row": [
+      {"box": "people", "title": "your eagerness", "sub": ["you want them guided"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "most people", "sub": ["will not believe"]}]},
+    "key": {"label": "What is in your hands", "row": [
+      {"box": "trap", "title": "their response", "sub": ["I must make them believe"], "strike": true},
+      {"box": "idea", "title": "your message", "sub": ["deliver it sincerely"]}]},
+    "then": "After the proof of the story, Allah tells the Prophet ﷺ: {trap}most people will not believe, even if you eagerly desire it.{/trap} Ibn Kathir links this to similar verses, such as: if you follow most of those on earth, they will mislead you. {idea}The numbers are not the measure of truth.{/idea}",
+    "now": "You share something meaningful with your family, your friends, your colleague. They shrug. You feel you failed. {idea}Your job is to share it with care, not to control their hearts.{/idea}",
+    "old": "If they do not accept it, I must have failed.",
+    "new": "Most people may not accept the truth, and that is not on me.",
+    "try": "Think of someone you keep trying to convince. Make dua for them instead of arguing today.",
+    "related": ["6:116", "26:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:104", "surah": 12, "ayah": 104, "place": "makkah",
+    "title": "No payment asked, only a reminder for all the worlds.",
+    "subtitle": "The message is free",
+    "picture": {"kind": "boxes", "label": "The Prophet's call", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["gives sincere advice"]},
+      {"conn": "asks"},
+      {"box": "trap", "title": "0", "sub": ["no fee, no price"], "num": true},
+      {"box": "reward", "title": "a reminder", "sub": ["for all the worlds"]}]},
+    "key": {"label": "Why he called", "row": [
+      {"box": "people", "title": "for gain", "sub": ["money, status"], "strike": true},
+      {"box": "idea", "title": "for Allah", "sub": ["and their good"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ {idea}asked for no price or compensation{/idea} for his advice and his call to good. He did it seeking Allah's Face and sincere good for people. The Quran is {reward}a reminder to all the worlds{/reward}, so they may be guided and saved.",
+    "now": "You help a younger colleague, teach your nephew to read Quran, give advice to a friend. {idea}No invoice, no favor to call in later.{/idea} Sincere advice is lighter when nothing is expected back.",
+    "old": "If I give my time, I should get something for it.",
+    "new": "The best advice is given freely, for Allah, and for the other person's good.",
+    "try": "Give one piece of genuinely helpful advice or help today, expecting nothing back.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:105", "surah": 12, "ayah": 105, "place": "makkah",
+    "title": "So many signs we walk past without a glance.",
+    "subtitle": "The heavens and earth, unnoticed",
+    "picture": {"kind": "boxes", "label": "Signs all around", "row": [
+      {"box": "idea", "title": "the sky", "sub": ["stars, planets"]},
+      {"box": "idea", "title": "the earth", "sub": ["mountains, seas, deserts"]},
+      {"box": "idea", "title": "living things", "sub": ["fruits, same shape, new taste"]},
+      {"conn": "yet people"},
+      {"box": "trap", "title": "turn away", "sub": ["pass by"]}]},
+    "key": {"label": "How we see", "row": [
+      {"box": "people", "title": "scenery", "sub": ["background noise"], "strike": true},
+      {"box": "idea", "title": "signs", "sub": ["pointing to the One"]}]},
+    "then": "Allah says people pass by countless signs in the heavens and earth and {trap}turn away from them{/trap}. Ibn Kathir lists them: {idea}stars and planets, fertile land side by side, mountains, oceans with crashing waves, deserts{/idea}, and fruits alike in shape but different in taste, scent and color.",
+    "now": "The commute with your head down in your phone. The sunset behind the car park you never look at. The orange you peel without noticing. {idea}Signs, all of them, passed by every day.{/idea}",
+    "old": "Nature is just the background to my day.",
+    "new": "The world around me is full of signs I keep walking past.",
+    "try": "Stop once today, look at one natural thing for a full minute, and say subhanAllah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:106", "surah": 12, "ayah": 106, "place": "makkah",
+    "title": "They believe in Allah, yet set up partners with Him.",
+    "subtitle": "Faith mixed with something else",
+    "picture": {"kind": "boxes", "label": "A mixed belief", "row": [
+      {"box": "idea", "title": "who created this?", "sub": ["Allah, they say"]},
+      {"conn": "and yet"},
+      {"box": "trap", "title": "partners", "sub": ["in worship, in reliance"]}]},
+    "key": {"label": "Hidden partners", "row": [
+      {"box": "people", "title": "only idols", "sub": ["not my problem"], "strike": true},
+      {"box": "trap", "title": "showing off, omens", "sub": ["quiet partners in the heart"]}]},
+    "then": "Ibn 'Abbas said they had part of faith: asked who created the heavens and earth, they said Allah, {trap}yet they worshipped others with Him{/trap}. Al-Hasan applied it to someone who does good deeds {trap}to show off{/trap}. Ibn Kathir also mentions hidden forms, like believing in omens, which the Prophet ﷺ said {idea}Allah removes through trust in Him{/idea}.",
+    "now": "You pray, then check if anyone saw. You believe in Allah, but a black cat or a broken mirror still ruins your day. {idea}Small things can quietly share the place in your heart that belongs to Allah alone.{/idea}",
+    "old": "I believe in Allah, so this verse is about other people.",
+    "new": "Even a believer can let small partners creep in; trust in Allah clears them out.",
+    "try": "Do one good deed today that no one else will ever know about.",
+    "related": ["31:13", "4:142"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:107", "surah": 12, "ayah": 107, "place": "makkah",
+    "title": "Do they feel safe that the Hour will not come suddenly?",
+    "subtitle": "The danger of feeling too secure",
+    "picture": {"kind": "boxes", "label": "What could come", "row": [
+      {"box": "people", "title": "life as usual", "sub": ["no sense of danger"]},
+      {"conn": "while"},
+      {"box": "trap", "title": "the Hour", "sub": ["suddenly, unperceived"]}]},
+    "key": {"label": "The right feeling", "row": [
+      {"box": "trap", "title": "total security", "sub": ["nothing will happen to me"], "strike": true},
+      {"box": "idea", "title": "awake and hopeful", "sub": ["ready, and trusting His mercy"]}]},
+    "then": "Allah asks whether those who set up partners {trap}feel secure from an overwhelming punishment, or the Hour coming suddenly{/trap} while they do not perceive it. Ibn Kathir cites similar verses, which end: {reward}your Lord is full of kindness, Most Merciful.{/reward}",
+    "now": "You keep saying: I will sort out my prayer after the exams, after the wedding, after I retire. {idea}None of us is promised that later.{/idea} The good news: the door to Allah is open right now.",
+    "old": "I have plenty of time to sort myself out later.",
+    "new": "The Hour comes without notice, so the best time to turn back is now.",
+    "try": "Do today one thing you have been putting off for later with Allah.",
+    "related": ["16:45", "7:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:108", "surah": 12, "ayah": 108, "place": "makkah",
+    "title": "This is my way: I call to Allah with clear sight.",
+    "subtitle": "The Prophet's ﷺ path, and those who follow it",
+    "picture": {"kind": "boxes", "label": "The way", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["calls to Allah"]},
+      {"box": "people", "title": "those who follow", "sub": ["call the same way"]},
+      {"conn": "with"},
+      {"box": "idea", "title": "insight", "sub": ["knowledge and certainty"]}]},
+    "key": {"label": "How to call", "row": [
+      {"box": "trap", "title": "loud and unsure", "sub": ["guesswork"], "strike": true},
+      {"box": "idea", "title": "clear and certain", "sub": ["with knowledge"]}]},
+    "then": "Allah tells the Prophet ﷺ to declare: {idea}this is my way.{/idea} Ibn Kathir says he called to the testimony that there is no god but Allah {reward}with sure knowledge, certainty and evidence{/reward}, and those who follow him call the same way. Glorified is Allah above any partner.",
+    "now": "Someone at work asks about your faith. You can bluff, or say: let me find out properly and come back. {idea}Clear sight first, then speaking.{/idea} Following the Prophet ﷺ means learning before teaching.",
+    "old": "Sharing my faith just means saying something, anything.",
+    "new": "The Prophet's ﷺ way is calling to Allah with knowledge and clear sight.",
+    "try": "Learn one thing properly today that someone might ask you about your faith.",
+    "related": ["17:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:109", "surah": 12, "ayah": 109, "place": "makkah",
+    "title": "Travel the earth, and look at how the story ended.",
+    "subtitle": "Human messengers, and the lessons in ruins",
+    "picture": {"kind": "boxes", "label": "What to see", "row": [
+      {"box": "people", "title": "messengers", "sub": ["humans from the towns"]},
+      {"conn": "rejected by"},
+      {"box": "trap", "title": "past nations", "sub": ["their end is visible"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "the Hereafter", "sub": ["best for the mindful"]}]},
+    "key": {"label": "Why travel", "row": [
+      {"box": "people", "title": "sightseeing", "sub": ["photos and souvenirs"], "strike": true},
+      {"box": "idea", "title": "reflection", "sub": ["hearts that understand"]}]},
+    "then": "Ibn 'Abbas said the messengers were {idea}humans, not angels{/idea}, as some had claimed. Allah asks those who rejected the Prophet ﷺ: have you not travelled and seen {trap}the end of those before you{/trap}? Ibn Kathir says Allah saved the believers, and {reward}the home of the Hereafter is far better{/reward} for them.",
+    "now": "You visit old ruins on holiday, scroll photos of empty palaces. {idea}Stop and ask: these people were sure of themselves too. What lasted?{/idea} Let the trip become a lesson.",
+    "old": "Old ruins are just interesting history.",
+    "new": "The ruins of the past are reminders that only what is with Allah lasts.",
+    "try": "Next time you see something old and abandoned, pause and think about your own legacy.",
+    "related": ["25:20", "22:46", "40:51"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:110", "surah": 12, "ayah": 110, "place": "makkah",
+    "title": "When hope was nearly gone, Our help came.",
+    "subtitle": "Victory arrives at the darkest point",
+    "picture": {"kind": "boxes", "label": "How help comes", "row": [
+      {"box": "trap", "title": "a long trial", "sub": ["help delayed"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "near despair", "sub": ["rejected by their people"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "Our help", "sub": ["the believers saved"]}]},
+    "key": {"label": "When help comes", "row": [
+      {"box": "people", "title": "it is too late", "sub": ["nothing will change"], "strike": true},
+      {"box": "reward", "title": "it is near", "sub": ["at the hardest point"]}]},
+    "then": "Ibn Kathir says Allah sends help to His messengers {trap}when distress surrounds them{/trap}. 'A'ishah explained: the trial of the believers was long and help delayed, until the messengers lost hope in their people, and {reward}then Allah's help came{/reward}. Ibn 'Abbas recited: when will Allah's help come? Surely, Allah's help is near.",
+    "now": "Month eleven of job hunting. The fertility clinic again. The family feud in its fifth year. {trap}It feels like the end of hope.{/trap} {reward}That is the exact point this verse says help arrives.{/reward}",
+    "old": "If it has not come after all this time, it is not coming.",
+    "new": "Allah's help often arrives just when hope has run thinnest.",
+    "try": "Say today, about the thing you have waited longest for: Allah's help is near.",
+    "related": ["2:214"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:111", "surah": 12, "ayah": 111, "place": "makkah",
+    "title": "In their stories is a lesson for people who think.",
+    "subtitle": "The close of Surah Yusuf",
+    "picture": {"kind": "boxes", "label": "What these stories are", "row": [
+      {"box": "idea", "title": "a lesson", "sub": ["for sound minds"]},
+      {"box": "people", "title": "not invented", "sub": ["confirms what came before"]},
+      {"box": "reward", "title": "guidance and mercy", "sub": ["for those who believe"]}]},
+    "key": {"label": "How to read it", "row": [
+      {"box": "people", "title": "a story to enjoy", "sub": ["then close the book"], "strike": true},
+      {"box": "idea", "title": "a lesson to carry", "sub": ["into my own life"]}]},
+    "then": "The surah ends by saying the stories of the messengers are {idea}a lesson for people of understanding{/idea}. Ibn Kathir says the Quran is not a forged tale but confirms the earlier books and explains what people need. It is {reward}guidance and mercy{/reward}, turning hearts from misguidance to guidance.",
+    "now": "Jealous brothers. A false accusation. Prison. A family torn apart and brought back together. {idea}Somewhere in Yusuf's story is your own family, your own wait, your own test.{/idea} Find it.",
+    "old": "Yusuf's story happened long ago to other people.",
+    "new": "This story is a lesson and a mercy written for my own life.",
+    "try": "Write down the one lesson from Surah Yusuf you most need right now, and keep it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "id": "104:1",
+    "surah": 104,
+    "ayah": 1,
+    "place": "makkah",
+    "title": "Woe to the one who mocks and belittles people.",
+    "subtitle": "Slander by word and by gesture",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two kinds of mockery",
+      "row": [
+        {
+          "box": "trap",
+          "title": "humazah",
+          "sub": [
+            "hand and eye"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "lumazah",
+          "sub": [
+            "the tongue"
+          ]
+        },
+        {
+          "conn": "both"
+        },
+        {
+          "box": "people",
+          "title": "belittle people",
+          "sub": [
+            "find fault, disgrace"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What mockery is",
+      "row": [
+        {
+          "box": "plain",
+          "title": "just banter",
+          "sub": [
+            "harmless jokes"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "a woe-worthy sin",
+          "sub": [
+            "belittling Allah's servants"
+          ]
+        }
+      ]
+    },
+    "then": "Every Arab knew this character and thought it ugly, Maududi says. Ibn Kathir explains one slanders by speech, the other by action: {trap}he finds fault with people and belittles them{/trap}. Mujahid said humazah is with the hand and eye, lumazah {trap}with the tongue{/trap}.",
+    "now": "The eye-roll when a colleague speaks in a meeting. The screenshot shared with a laughing emoji. The impression of your aunt's accent at dinner. {trap}None of it feels like a big sin.{/trap} The surah opens with woe for exactly this.",
+    "old": "It is just a joke. Everyone does it.",
+    "new": "An eye-roll or a joke at someone's expense is serious enough to open a surah with woe.",
+    "try": "Today, when you feel the urge to mock someone, even silently, say something kind about them instead.",
+    "related": [
+      "68:11"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:2",
+    "surah": 104,
+    "ayah": 2,
+    "place": "makkah",
+    "title": "He gathers money and counts it again and again.",
+    "subtitle": "Wealth that fills the whole day",
+    "picture": {
+      "kind": "boxes",
+      "label": "His routine",
+      "row": [
+        {
+          "box": "trap",
+          "title": "gathers",
+          "sub": [
+            "piles it up"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "trap",
+          "title": "counts",
+          "sub": [
+            "over and over"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "people",
+          "title": "sleeps",
+          "sub": [
+            "exhausted, empty"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Why he mocks",
+      "row": [
+        {
+          "box": "plain",
+          "title": "unrelated habits",
+          "sub": [
+            "money and mockery"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "linked",
+          "sub": [
+            "wealth makes him look down"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says he {trap}piles some of it on top of the rest and counts it up{/trap}. Muhammad bin Ka'b said: his wealth occupies his day, going from this to that, and {trap}at night he sleeps like a corpse{/trap}.",
+    "now": "Checking the banking app at red lights. Refreshing the investment chart before bed. Calculating what everyone else earns. {idea}The verse puts the counter right after the mocker{/idea}: looking down on people often grows from counting what you have.",
+    "old": "Keeping track of my money is just being careful.",
+    "new": "When counting money fills my day, it starts to fill my heart and shape how I see people.",
+    "try": "Do not check your bank balance or investments today. Notice how often you want to.",
+    "related": [
+      "70:18"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:3",
+    "surah": 104,
+    "ayah": 3,
+    "place": "makkah",
+    "title": "He thinks his money will keep him alive forever.",
+    "subtitle": "The quiet belief behind hoarding",
+    "picture": {
+      "kind": "boxes",
+      "label": "His hidden belief",
+      "row": [
+        {
+          "box": "trap",
+          "title": "my wealth",
+          "sub": [
+            "gathered and counted"
+          ]
+        },
+        {
+          "conn": "will make me"
+        },
+        {
+          "box": "trap",
+          "title": "last forever",
+          "sub": [
+            "in this world"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What money buys",
+      "row": [
+        {
+          "box": "trap",
+          "title": "permanence",
+          "sub": [
+            "security forever"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a little comfort",
+          "sub": [
+            "for a limited time"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says {trap}he thinks gathering wealth will make him last forever in this worldly life{/trap}. Nobody says it out loud. Maududi notes such people often seem to thrive here, which is why {idea}the Hereafter becomes necessary{/idea}.",
+    "now": "The pension planner says you are set until 95. The insurance covers every case. It feels like {trap}nothing can touch you now{/trap}. Then a scan result arrives that no money can reverse. The verse names the belief behind the spreadsheet.",
+    "old": "If I save enough, I will be safe from whatever comes.",
+    "new": "Money can soften life, but it cannot extend it by a single breath.",
+    "try": "Write down one thing money cannot protect you from. Ask Allah for protection from it.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:4",
+    "surah": 104,
+    "ayah": 4,
+    "place": "makkah",
+    "title": "No. He will be thrown into the Crusher.",
+    "subtitle": "The end of the one who belittled others",
+    "picture": {
+      "kind": "boxes",
+      "label": "The reversal",
+      "row": [
+        {
+          "box": "trap",
+          "title": "he crushed people",
+          "sub": [
+            "with words and looks"
+          ]
+        },
+        {
+          "conn": "is thrown into"
+        },
+        {
+          "box": "trap",
+          "title": "Al-Hutamah",
+          "sub": [
+            "the Crusher"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What he expected",
+      "row": [
+        {
+          "box": "trap",
+          "title": "to last forever",
+          "sub": [
+            "as he reckoned"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "No!",
+          "sub": [
+            "it is not as he claims"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says {idea}But no!{/idea} means the matter is not as he claims. Al-Hutamah is one of the names of the Fire, called so {trap}because it crushes whoever is in it{/trap}. The one who broke people down meets a name that matches.",
+    "now": "You have watched someone crush another person with a comment, and walk away smiling. Maybe you have done it. {idea}The verse says the matter is not as they think.{/idea} Turn it on yourself: whose spirit have you crushed lately?",
+    "old": "People who put others down usually get away with it.",
+    "new": "Nobody gets away with crushing people. Allah answers with a single word: no.",
+    "try": "Think of one person you made feel small. Apologise to them today, or make dua for them.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:5",
+    "surah": 104,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "Do you know what the Crusher is?",
+    "subtitle": "A question before the description",
+    "picture": {
+      "kind": "boxes",
+      "label": "The pause",
+      "row": [
+        {
+          "box": "trap",
+          "title": "Al-Hutamah",
+          "sub": [
+            "named"
+          ]
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "idea",
+          "title": "what will make you know?",
+          "sub": [
+            "asked"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What I think I know",
+      "row": [
+        {
+          "box": "plain",
+          "title": "a familiar warning",
+          "sub": [
+            "heard it before"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "beyond my knowing",
+          "sub": [
+            "Allah must tell me"
+          ]
+        }
+      ]
+    },
+    "then": "As in Al-Qari'ah, Allah pauses with a question before describing the Fire. Maududi says the surah is built so that {idea}the listener reaches the conclusion himself{/idea}: a man with this character {trap}deserves this end{/trap}.",
+    "now": "You have read many warnings and they have slid off. This question puts a hand on your shoulder. {idea}Stop. Do you actually know?{/idea} The answer that follows is not for curiosity, it is for change.",
+    "old": "I know what Hell is. I do not need it explained.",
+    "new": "Allah's question tells me I do not fully know, and that it matters that I learn.",
+    "try": "Pause after reading this card and ask Allah to keep your tongue and eyes from belittling anyone.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:6",
+    "surah": 104,
+    "ayah": 6,
+    "place": "makkah",
+    "title": "It is Allah's own fire, kept burning.",
+    "subtitle": "A fire with His name on it",
+    "picture": {
+      "kind": "boxes",
+      "label": "What it is",
+      "row": [
+        {
+          "box": "trap",
+          "title": "the fire of Allah",
+          "sub": [
+            "His, not man's"
+          ]
+        },
+        {
+          "conn": "is"
+        },
+        {
+          "box": "trap",
+          "title": "Al-Muqadah",
+          "sub": [
+            "kindled, kept alight"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Whose fire",
+      "row": [
+        {
+          "box": "plain",
+          "title": "an ordinary fire",
+          "sub": [
+            "like any other"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "Allah's fire",
+          "sub": [
+            "linked to His justice"
+          ]
+        }
+      ]
+    },
+    "then": "This is the answer to the question. The fire is named as {trap}the fire of Allah{/trap}, kindled and kept alight. Ibn Kathir places it as the explanation of Al-Hutamah, the end of {idea}the one who gathered wealth and belittled people{/idea}.",
+    "now": "People who mock others often think nobody important is watching. The verse attaches Allah's own name to the answer. {idea}Belittling His servants is not a small matter to Him.{/idea} It also means His justice for the belittled is personal.",
+    "old": "Mocking people is a small social thing, not something Allah cares about.",
+    "new": "Allah takes the dignity of His servants personally, including the ones I find easy to mock.",
+    "try": "Defend someone today who is being mocked, even with one sentence.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:7",
+    "surah": 104,
+    "ayah": 7,
+    "place": "makkah",
+    "title": "It reaches all the way to the heart.",
+    "subtitle": "Where the mockery began",
+    "picture": {
+      "kind": "boxes",
+      "label": "Where it reaches",
+      "row": [
+        {
+          "box": "trap",
+          "title": "the fire",
+          "sub": [
+            "rises"
+          ]
+        },
+        {
+          "conn": "up to"
+        },
+        {
+          "box": "people",
+          "title": "the hearts",
+          "sub": [
+            "where contempt lived"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Where mockery starts",
+      "row": [
+        {
+          "box": "plain",
+          "title": "on the tongue",
+          "sub": [
+            "just words"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "in the heart",
+          "sub": [
+            "contempt for people"
+          ]
+        }
+      ]
+    },
+    "then": "Thabit Al-Bunani said it will reach them all the way to their hearts, and {trap}then he cried{/trap}. The mockery and the hoarding both began in the heart: {idea}contempt for people and love of wealth{/idea}.",
+    "now": "The cruel joke starts long before you say it. It starts as a small feeling of being better than someone. {idea}That feeling is in your heart right now, or it is not.{/idea} The verse goes straight to the root.",
+    "old": "What matters is what I say, not what I feel.",
+    "new": "Contempt begins in the heart. That is where I need to clean first.",
+    "try": "When you catch yourself feeling superior to someone today, make a quiet dua for them.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:8",
+    "surah": 104,
+    "ayah": 8,
+    "place": "makkah",
+    "title": "It will be closed over them.",
+    "subtitle": "No way out once the door shuts",
+    "picture": {
+      "kind": "boxes",
+      "label": "The closing",
+      "row": [
+        {
+          "box": "trap",
+          "title": "the Fire",
+          "sub": [
+            "mu'sadah"
+          ]
+        },
+        {
+          "conn": "is"
+        },
+        {
+          "box": "trap",
+          "title": "sealed over them",
+          "sub": [
+            "covering them"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "When doors are open",
+      "row": [
+        {
+          "box": "trap",
+          "title": "then",
+          "sub": [
+            "the gates are shut"
+          ]
+        },
+        {
+          "box": "reward",
+          "title": "now",
+          "sub": [
+            "tawbah is open"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says this means {trap}covering{/trap}, as explained in Surat Al-Balad. Ibn Abbas said {trap}the gates will be shut upon them{/trap}. The man who thought nothing could close in on him is closed in.",
+    "now": "Every closed door implies a time it was open. {reward}Right now the door of repentance is wide open{/reward} for anyone who mocked, hoarded, or looked down on others. That is what this verse is pointing to.",
+    "old": "There is always time to change later.",
+    "new": "One day the doors close. Today they are open, so today is when I walk through.",
+    "try": "Make tawbah today for one specific time you belittled someone.",
+    "related": [
+      "90:20"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "104:9",
+    "surah": 104,
+    "ayah": 9,
+    "place": "makkah",
+    "title": "In long, stretched-out columns.",
+    "subtitle": "The final image of the surah",
+    "picture": {
+      "kind": "boxes",
+      "label": "The image",
+      "row": [
+        {
+          "box": "trap",
+          "title": "pillars",
+          "sub": [
+            "stretched forth"
+          ]
+        },
+        {
+          "conn": "over"
+        },
+        {
+          "box": "people",
+          "title": "those inside",
+          "sub": [
+            "held in place"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What he built, what holds him",
+      "row": [
+        {
+          "box": "trap",
+          "title": "piles of wealth",
+          "sub": [
+            "built up here"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "columns",
+          "sub": [
+            "holding him there"
+          ]
+        }
+      ]
+    },
+    "then": "Atiyah Al-Awfi said {trap}pillars of iron{/trap}. As-Suddi said made of fire. Ibn Abbas said there will be columns over them. The surah ends on this image, the opposite of {idea}the towering wealth he piled up and counted{/idea}.",
+    "now": "You see the towers people build: portfolios, follower counts, status. They look like they hold you up. {idea}This surah asks what you are building, and whether it will hold you up or hold you down.{/idea} It is not too late to build differently.",
+    "old": "What I pile up here will hold me up.",
+    "new": "What I build from contempt and greed becomes the thing that holds me down.",
+    "try": "Give something you have been holding onto to someone who needs it more.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  }
+]

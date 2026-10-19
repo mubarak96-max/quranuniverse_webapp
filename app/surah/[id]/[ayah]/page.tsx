@@ -1,0 +1,86 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { VerseCard } from "@/components/VerseCard";
+import { getCard, getSurah, getTafsir, getTranslation, getTransliteration, getWords } from "@/lib/data";
+
+type Params = Promise<{ id: string; ayah: string }>;
+
+// Verse pages render on first request and are then cached, so the build does not generate all 6,236.
+export function generateStaticParams() {
+  return [];
+}
+
+export async function generateMetadata({ params }: { params: Params }) {
+  const { id, ayah } = await params;
+  const card = getCard(Number(id), Number(ayah));
+  return { title: card ? `${card.title} · ${id}:${ayah}` : `${id}:${ayah} · Quran Cards` };
+}
+
+export default async function VersePage({ params }: { params: Params }) {
+  const { id: sid, ayah: aid } = await params;
+  const id = Number(sid);
+  const ayah = Number(aid);
+  const surah = getSurah(id);
+  const verse = surah?.verses.find((v) => v.id === ayah);
+  if (!surah || !verse) notFound();
+
+  const key = `${id}:${ayah}`;
+  const card = getCard(id, ayah);
+  const tafsir = getTafsir(key);
+  const arabicWords = verse.text.split(" ");
+  const glosses = getWords(key);
+  const prev = ayah > 1 ? `/surah/${id}/${ayah - 1}` : id > 1 ? `/surah/${id - 1}/${getSurah(id - 1)!.total_verses}` : null;
+  const next = ayah < surah.total_verses ? `/surah/${id}/${ayah + 1}` : id < 114 ? `/surah/${id + 1}/1` : null;
+
+  return (
+    <div className="verse-page">
+      <nav className="crumbs">
+        <Link href="/">Surahs</Link>
+        <span>/</span>
+        <Link href={`/surah/${id}`}>{surah.transliteration}</Link>
+        <span>/</span>
+        <span>{key}</span>
+      </nav>
+
+      <section className="verse-block">
+        <p className="ar verse-ar big" lang="ar" dir="rtl">
+          {verse.text}
+        </p>
+        <p className="translit" dangerouslySetInnerHTML={{ __html: getTransliteration(key) }} />
+        <p className="verse-en">{getTranslation(key)}</p>
+        {glosses.length > 0 && (
+          <details className="drawer">
+            <summary>Word by word</summary>
+            <ol className="wbw" dir="rtl">
+              {arabicWords.map((w, i) => (
+                <li key={i}>
+                  <span className="ar" lang="ar">
+                    {w}
+                  </span>
+                  <span className="gloss" dir="ltr" dangerouslySetInnerHTML={{ __html: glosses[i] ?? "" }} />
+                </li>
+              ))}
+            </ol>
+          </details>
+        )}
+      </section>
+
+      {card ? <VerseCard card={card} surahName={surah.transliteration} /> : <p className="empty">No card yet.</p>}
+
+      {tafsir && (
+        <details className="drawer tafsir">
+          <summary>
+            Tafsir Ibn Kathir
+            {tafsir.from !== key && <small> (shared passage from {tafsir.from})</small>}
+          </summary>
+          <div className="prose" dangerouslySetInnerHTML={{ __html: tafsir.html }} />
+        </details>
+      )}
+
+      <nav className="pager">
+        {prev ? <Link href={prev}>← Previous</Link> : <span />}
+        {next ? <Link href={next}>Next →</Link> : <span />}
+      </nav>
+    </div>
+  );
+}

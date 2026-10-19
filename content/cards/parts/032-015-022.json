@@ -1,0 +1,159 @@
+[
+  {
+    "id": "32:15", "surah": 32, "ayah": 15, "place": "makkah",
+    "title": "Reminded by the verses, they fall into prostration.",
+    "subtitle": "The verse that gives the surah its name",
+    "picture": {"kind": "boxes", "label": "How believers respond", "row": [
+      {"box": "idea", "title": "reminded", "sub": ["by the verses"]},
+      {"conn": "they"},
+      {"box": "reward", "title": "fall in sajdah", "sub": ["and glorify their Lord"]},
+      {"box": "idea", "title": "not too proud", "sub": ["to submit"]}]},
+    "key": {"label": "What belief looks like", "row": [
+      {"box": "people", "title": "agreeing in my head", "sub": ["no change"], "strike": true},
+      {"box": "reward", "title": "forehead on the ground", "sub": ["in word and deed"]}]},
+    "then": "The surah is named As-Sajdah after this verse. Ibn Kathir says true believers {idea}listen to the verses and obey them in word and deed{/idea}. They are {reward}not too proud to submit{/reward}, unlike the rebellious who scorn worship.",
+    "now": "A verse in Taraweeh hits you hard. You feel it in your chest. Then the car park, the traffic, and it is gone. {reward}The believer's response goes all the way down to the floor.{/reward} Sajdah is where a reminder becomes real.",
+    "old": "Feeling moved by a verse is enough.",
+    "new": "A reminder is meant to bring me down in sajdah, not just stir me.",
+    "try": "After your next prayer, stay in one extra sajdah and say subhana rabbiyal a'la slowly.",
+    "related": ["40:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:16", "surah": 32, "ayah": 16, "place": "makkah",
+    "title": "They leave their beds to call their Lord in fear and hope.",
+    "subtitle": "Night prayer and giving",
+    "picture": {"kind": "boxes", "label": "At night", "row": [
+      {"box": "people", "title": "a warm bed", "sub": ["comfort, sleep"]},
+      {"conn": "they leave it"},
+      {"box": "idea", "title": "call their Lord", "sub": ["in fear and hope"]},
+      {"box": "reward", "title": "spend", "sub": ["from what He gave"]}]},
+    "key": {"label": "Two wings of dua", "row": [
+      {"box": "trap", "title": "fear", "sub": ["of His punishment"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "hope", "sub": ["for His reward"]}]},
+    "then": "Mujahid and Al-Hasan said this means {idea}voluntary night prayer{/idea}. Ad-Dahhak said Isha and Fajr in congregation. When Mu'adh asked about the gates of goodness, the Prophet ﷺ mentioned {reward}prayer in the depth of the night{/reward} and recited this verse.",
+    "now": "The alarm for Fajr. The duvet is heavy and warm, and your thumb goes to snooze. {idea}This verse is about that exact moment.{/idea} Getting up is where fear and hope meet.",
+    "old": "Night prayer is for very pious people, not me.",
+    "new": "Leaving a warm bed for Allah, even briefly, is the act this verse praises.",
+    "try": "Tonight, set your alarm ten minutes before Fajr and pray two short rak'ahs.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:17", "surah": 32, "ayah": 17, "place": "makkah",
+    "title": "No soul knows the joy kept hidden for them.",
+    "subtitle": "A hidden reward for hidden deeds",
+    "picture": {"kind": "boxes", "label": "What is kept for them", "row": [
+      {"box": "reward", "title": "no eye has seen", "sub": ["beyond any view"]},
+      {"box": "reward", "title": "no ear has heard", "sub": ["beyond any description"]},
+      {"box": "reward", "title": "no heart imagined", "sub": ["comfort for the eyes"]}]},
+    "key": {"label": "Why it is hidden", "row": [
+      {"box": "people", "title": "they hid their deeds", "sub": ["night prayer, quiet giving"]},
+      {"conn": "so Allah"},
+      {"box": "reward", "title": "hid their reward", "sub": ["a fitting match"]}]},
+    "then": "Ibn Kathir says {reward}because they concealed their good deeds, Allah concealed the reward{/reward}. The Prophet ﷺ reported that Allah said He has prepared for His righteous servants {reward}what no eye has seen and no ear has heard{/reward}.",
+    "now": "You prayed at 4am and told no one. You sent money to a struggling friend with no name on the transfer. {reward}That secret has a secret waiting for it.{/reward} Some things are better kept between you and Allah.",
+    "old": "If no one knows my good deeds, they barely count.",
+    "new": "The deeds I hide are the ones Allah answers with a hidden gift.",
+    "try": "Do one good deed today and tell absolutely no one about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:18", "surah": 32, "ayah": 18, "place": "makkah",
+    "title": "The believer and the rebel are not equal.",
+    "subtitle": "Allah's justice does not blur them together",
+    "picture": {"kind": "boxes", "label": "Two people", "row": [
+      {"box": "people", "title": "the believer", "sub": ["follows the Messengers"]},
+      {"conn": "not equal to"},
+      {"box": "trap", "title": "the rebel", "sub": ["rejects and disobeys"]}]},
+    "key": {"label": "How it ends", "row": [
+      {"box": "people", "title": "it all evens out", "sub": ["everyone ends the same"], "strike": true},
+      {"box": "idea", "title": "not equal before Allah", "sub": ["justice and generosity"]}]},
+    "then": "Ibn Kathir says that in {idea}His justice and generosity{/idea}, Allah will not judge believers like those who rebelled. Some early scholars said it came about Ali bin Abi Talib and Uqbah bin Abi Mu'ayt.",
+    "now": "Your honest colleague gets passed over and the one who cuts corners gets promoted. {trap}It feels like it makes no difference.{/trap} {idea}Allah does not score them the same{/idea}, even when the office does.",
+    "old": "In the end, good and bad people all get the same.",
+    "new": "Allah's justice keeps them apart, even when the world mixes them up.",
+    "try": "Keep doing one honest thing at work today, even if it costs you a little.",
+    "related": ["45:21", "38:28", "59:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:19", "surah": 32, "ayah": 19, "place": "makkah",
+    "title": "Gardens of Refuge, a welcome for honoured guests.",
+    "subtitle": "The believers' home",
+    "picture": {"kind": "boxes", "label": "What they receive", "row": [
+      {"box": "idea", "title": "believed", "sub": ["in their hearts"]},
+      {"box": "idea", "title": "did good", "sub": ["as the signs teach"]},
+      {"conn": "welcomed into"},
+      {"box": "reward", "title": "Gardens of Refuge", "sub": ["homes, lofty rooms"]}]},
+    "key": {"label": "How they arrive", "row": [
+      {"box": "people", "title": "squeezed in", "sub": ["barely let through"], "strike": true},
+      {"box": "reward", "title": "as a guest", "sub": ["welcomed and honoured"]}]},
+    "then": "Ibn Kathir says the Gardens hold {reward}dwellings, houses and lofty rooms{/reward}. The word used means {reward}something prepared to welcome and honour a guest{/reward}, given for what they used to do.",
+    "now": "Think of arriving at your grandmother's house after a long trip. The food is ready, the room is made up, she has been waiting. {reward}That is the word used here.{/reward} The believer arrives as an expected guest.",
+    "old": "If I make it to Paradise, I will just scrape through.",
+    "new": "Allah welcomes the believer as an honoured guest He has been waiting for.",
+    "try": "Welcome a guest or visitor today with real care, and think of this verse.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:20", "surah": 32, "ayah": 20, "place": "makkah",
+    "title": "No escape from the Fire they used to deny.",
+    "subtitle": "The end of those who rebelled",
+    "picture": {"kind": "boxes", "label": "The other home", "row": [
+      {"box": "trap", "title": "rebelled", "sub": ["disobeyed Allah"]},
+      {"conn": "end in"},
+      {"box": "trap", "title": "the Fire", "sub": ["no way out"]}]},
+    "key": {"label": "What they had said", "row": [
+      {"box": "people", "title": "it will never happen", "sub": ["denied it"], "strike": true},
+      {"box": "trap", "title": "taste what you denied", "sub": ["it was real"]}]},
+    "then": "Ibn Kathir says those who disobeyed Allah will have the Fire as their dwelling, and {trap}every time they try to escape they are returned{/trap}. They are told to taste {trap}what they used to deny{/trap}.",
+    "now": "You hear a verse like this and want to skip ahead. Stay with it for a moment. {idea}It is meant for you to still have a choice.{/idea} The door of repentance is open today.",
+    "old": "Verses about the Fire are only for other people.",
+    "new": "This warning is a mercy that reaches me while I can still turn back.",
+    "try": "Make sincere tawbah today for one specific thing, and ask Allah to protect you from the Fire.",
+    "related": ["22:22"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:21", "surah": 32, "ayah": 21, "place": "makkah",
+    "title": "Smaller hardships now, so that they may return.",
+    "subtitle": "Trials in this world as a wake-up call",
+    "picture": {"kind": "boxes", "label": "Two kinds of hardship", "row": [
+      {"box": "plain", "title": "the nearer one", "sub": ["illness, problems now"]},
+      {"conn": "before"},
+      {"box": "trap", "title": "the greater one", "sub": ["in the Hereafter"]}]},
+    "key": {"label": "What a trial is for", "row": [
+      {"box": "people", "title": "pointless suffering", "sub": ["just bad luck"], "strike": true},
+      {"box": "idea", "title": "a call to return", "sub": ["perhaps they repent"]}]},
+    "then": "Ibn Abbas said the nearer punishment means {idea}diseases and problems in this world{/idea}, a test from Allah {idea}so that His servants repent to Him{/idea}. Many early scholars said the same.",
+    "now": "The car breaks down the week rent is due. A health scare you did not see coming. {idea}It could be a nudge home.{/idea} Before asking why me, ask: is there something I need to turn back from?",
+    "old": "Bad things in my life are just random.",
+    "new": "Some hardships are invitations to come back to Allah before it is late.",
+    "try": "Think of one recent difficulty and ask what it might be calling you back to.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "32:22", "surah": 32, "ayah": 22, "place": "makkah",
+    "title": "Who does more wrong than one reminded who turns away?",
+    "subtitle": "Turning from a clear reminder",
+    "picture": {"kind": "boxes", "label": "What happens", "row": [
+      {"box": "idea", "title": "reminded", "sub": ["signs made clear"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "turns away", "sub": ["as if he never knew"]}]},
+    "key": {"label": "What Qatadah warned", "row": [
+      {"box": "people", "title": "turning away is neutral", "sub": ["just not interested"], "strike": true},
+      {"box": "trap", "title": "most misguided, most in need", "sub": ["the one who turns from dhikr"]}]},
+    "then": "Ibn Kathir says no one does more wrong than one who is shown the signs clearly and then {trap}neglects them, as if he does not know them{/trap}. Qatadah said: {idea}beware of turning away from the remembrance of Allah{/idea}.",
+    "now": "You read the verse about lying, nodded, and lied on the timesheet the same week. {trap}Knowing makes it heavier, not lighter.{/trap} The answer is not to stop reading, but to let the reminder land.",
+    "old": "If I do not think about the reminder, it does not apply to me.",
+    "new": "Once I have been reminded, turning away is its own wrong.",
+    "try": "Pick one reminder you heard this week and act on it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

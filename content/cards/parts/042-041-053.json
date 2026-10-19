@@ -1,0 +1,259 @@
+[
+  {
+    "id": "42:41", "surah": 42, "ayah": 41, "place": "makkah",
+    "title": "Standing up for yourself after a wrong is not a sin.",
+    "subtitle": "The wronged person is not the one blamed",
+    "picture": {"kind": "boxes", "label": "Who carries the blame", "row": [
+      {"box": "trap", "title": "the wrong", "sub": ["someone started it"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you respond", "sub": ["fairly, no more"]},
+      {"conn": "leaves"},
+      {"box": "idea", "title": "no blame", "sub": ["on the one wronged"]}]},
+    "key": {"label": "What fairness allows", "row": [
+      {"box": "people", "title": "good people never push back", "sub": ["silence is always holier"], "strike": true},
+      {"box": "idea", "title": "a fair response is allowed", "sub": ["blame stays with the starter"]}]},
+    "then": "These verses come right after the description of believers who consult each other and defend themselves when wronged. Ibn Kathir explains: {idea}there is no sin on the one who answers back{/idea} against the person who wronged him. The burden sits on whoever started it, as long as the reply does not go too far.",
+    "now": "A coworker takes credit for your report in front of the manager. You calmly send the email with the original timestamps. Part of you feels guilty, as if a good person would just swallow it. {idea}A fair answer is not a sin.{/idea} {trap}Going past fair is.{/trap}",
+    "old": "If I defend myself, I am being as bad as them.",
+    "new": "A measured response to a real wrong carries no blame. Only the starter and the one who oversteps are blamed.",
+    "try": "Think of one wrong you swallowed out of guilt. Decide on one calm, fair sentence you could say about it.",
+    "related": ["2:194", "16:126"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:42", "surah": 42, "ayah": 42, "place": "makkah",
+    "title": "The blame falls on the one who oppresses first.",
+    "subtitle": "Starting harm is what gets held to account",
+    "picture": {"kind": "boxes", "label": "Where the path of blame runs", "row": [
+      {"box": "trap", "title": "wrongs people", "sub": ["starts the harm"]},
+      {"box": "trap", "title": "acts unjustly", "sub": ["without any right"]},
+      {"conn": "faces"},
+      {"box": "trap", "title": "painful punishment", "sub": ["held to account"]}]},
+    "key": {"label": "Who started it matters", "row": [
+      {"box": "people", "title": "both sides are equal", "sub": ["a fight is a fight"], "strike": true},
+      {"box": "idea", "title": "the starter carries it", "sub": ["unless the reply oversteps"]}]},
+    "then": "Ibn Kathir quotes a Sahih hadith: when two people insult each other, {trap}the one who began carries the blame{/trap}, unless the wronged one goes too far. He also tells of a governor who was advised to sleep only after making sure his hands held no one's blood or wealth unjustly.",
+    "now": "In the family group chat an old argument flares up. Someone says \"you are both as bad as each other.\" Maybe. Or maybe one person lit the match. {idea}Ask yourself honestly which one you are.{/idea}",
+    "old": "In any conflict, everyone shares the blame equally.",
+    "new": "Allah sees who started the harm, and that is where the weight falls.",
+    "try": "Before sleeping tonight, check one thing: do you owe anyone an apology or a debt? Settle one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:43", "surah": 42, "ayah": 43, "place": "makkah",
+    "title": "Patience and forgiving take more strength than revenge.",
+    "subtitle": "The harder, higher choice after being wronged",
+    "picture": {"kind": "boxes", "label": "Two allowed roads", "row": [
+      {"box": "people", "title": "answer fairly", "sub": ["permitted, no blame"]},
+      {"box": "reward", "title": "bear it and forgive", "sub": ["a matter of resolve"]},
+      {"conn": "brings"},
+      {"box": "reward", "title": "honor", "sub": ["forgiving raises a person"]}]},
+    "key": {"label": "What forgiving really is", "row": [
+      {"box": "people", "title": "forgiving is weakness", "sub": ["they will walk over me"], "strike": true},
+      {"box": "idea", "title": "forgiving is resolve", "sub": ["Allah raises the forgiver"]}]},
+    "then": "Having allowed a fair reply, the passage now points higher. Ibn Kathir says this means {idea}bearing the insult with patience and covering the wrong{/idea}. He cites a Sahih hadith: Allah does not increase a person who forgives except in {reward}honor{/reward}.",
+    "now": "Your sibling said something cruel at a family dinner years ago. You have every right to bring it up. Instead you choose, on purpose, to let it go and still call on their birthday. {idea}That is not weakness. It takes real strength.{/idea}",
+    "old": "If I forgive, I lose and they win.",
+    "new": "Forgiving is the strong choice, and Allah raises the one who makes it.",
+    "try": "Pick one small hurt from this week and forgive it fully. Do not mention it again.",
+    "related": ["5:45"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:44", "surah": 42, "ayah": 44, "place": "makkah",
+    "title": "Is there any way back? The question that comes too late.",
+    "subtitle": "Wishing for a second chance after time runs out",
+    "picture": {"kind": "boxes", "label": "The late question", "row": [
+      {"box": "people", "title": "the wrongdoers", "sub": ["see what is coming"]},
+      {"conn": "ask"},
+      {"box": "trap", "title": "any way back?", "sub": ["to the world they left"]}]},
+    "key": {"label": "When return is possible", "row": [
+      {"box": "people", "title": "I will fix it later", "sub": ["there is always time"], "strike": true},
+      {"box": "idea", "title": "the way back is now", "sub": ["while you still can"]}]},
+    "then": "The Makkan listeners were told how the wrongdoers will react on the Day of Resurrection. Ibn Kathir says {trap}they will wish they could go back to this world{/trap}, and links it to another passage where they say, if only we were sent back.",
+    "now": "You keep a list in your head: pray properly from next month, call your mother more once work calms down. The list never shrinks. {idea}The \"way back\" they will beg for is the day you are living now.{/idea}",
+    "old": "I have plenty of time to turn things around.",
+    "new": "The return people will long for later is open to me today.",
+    "try": "Take one item off your someday list and do it today, even a small piece of it.",
+    "related": ["18:17", "6:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:45", "surah": 42, "ayah": 45, "place": "makkah",
+    "title": "The real losers are those who lose themselves and family.",
+    "subtitle": "What true loss looks like on the final Day",
+    "picture": {"kind": "boxes", "label": "What is lost", "row": [
+      {"box": "trap", "title": "themselves", "sub": ["their own souls"]},
+      {"box": "trap", "title": "their families", "sub": ["separated from loved ones"]},
+      {"conn": "says"},
+      {"box": "people", "title": "the believers", "sub": ["these are the losers"]}]},
+    "key": {"label": "Measuring loss", "row": [
+      {"box": "people", "title": "losing money or status", "sub": ["the worst that can happen"], "strike": true},
+      {"box": "idea", "title": "losing yourself", "sub": ["and the people you love"]}]},
+    "then": "The scene shows people brought before the Fire, {trap}humbled, stealing glances{/trap} out of fear. Ibn Kathir explains that the believers will name them the greatest losers: they lose themselves and are {trap}separated from their families and companions{/trap}.",
+    "now": "You lose a deal and cannot sleep. You check the stock app ten times a day. Meanwhile your kids eat dinner while you scroll. {idea}This verse redraws the map of what losing really means.{/idea}",
+    "old": "Real loss is about money, career, and reputation.",
+    "new": "The loss that matters is losing my own soul and the bond with the people I love.",
+    "try": "Tonight, put the phone in another room for one meal and be fully with your family.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:46", "surah": 42, "ayah": 46, "place": "makkah",
+    "title": "No helper other than Allah will stand for them.",
+    "subtitle": "Every backup besides Allah falls away",
+    "picture": {"kind": "boxes", "label": "Who comes to help", "row": [
+      {"box": "people", "title": "allies and patrons", "sub": ["relied on in life"]},
+      {"conn": "on that Day"},
+      {"box": "trap", "title": "none appear", "sub": ["no one to save"]}]},
+    "key": {"label": "Where real help is", "row": [
+      {"box": "people", "title": "my people will cover me", "sub": ["connections solve everything"], "strike": true},
+      {"box": "idea", "title": "only Allah helps", "sub": ["build on that now"]}]},
+    "then": "The Quraysh leaned on tribe, alliances and idols. Ibn Kathir explains that on that Day {trap}no one will save them from what they face{/trap}, and whoever Allah lets go astray has {trap}no way to salvation{/trap}.",
+    "now": "You know a person in every office. A cousin in HR, a friend at the bank. It feels like a safety net for anything. {idea}Connections help here, but they are not who you will stand with on the last Day.{/idea}",
+    "old": "As long as I have the right people, I am covered.",
+    "new": "Every helper but Allah eventually steps back. My real backing is my relationship with Him.",
+    "try": "Next time you reach for a contact to solve a problem, make a short dua first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:47", "surah": 42, "ayah": 47, "place": "makkah",
+    "title": "Answer your Lord before the Day no one can push back.",
+    "subtitle": "An invitation with a deadline",
+    "picture": {"kind": "boxes", "label": "The call and the clock", "row": [
+      {"box": "idea", "title": "your Lord calls", "sub": ["respond"]},
+      {"conn": "before"},
+      {"box": "trap", "title": "the Day", "sub": ["cannot be averted"]},
+      {"box": "trap", "title": "no refuge", "sub": ["nowhere to hide"]}]},
+    "key": {"label": "Where refuge is", "row": [
+      {"box": "people", "title": "I can hide from it", "sub": ["deny it, delay it"], "strike": true},
+      {"box": "idea", "title": "refuge from Him is with Him", "sub": ["so turn to Him"]}]},
+    "then": "After describing the Day, the verse turns to the listeners with a direct call. Ibn Kathir says once Allah commands it, {trap}it comes in the blink of an eye{/trap}, and there is no place to hide, and {reward}no refuge from Him except with Him{/reward}.",
+    "now": "The notification says \"Your session will expire in 60 seconds.\" You rush to save. Life has a timer too, without the countdown on screen. {idea}This verse is the gentle notification.{/idea}",
+    "old": "I will respond when I am ready.",
+    "new": "The call is open now, and the only safe place from Allah is running toward Him.",
+    "try": "Answer one call of Allah today right away: pray the next prayer at its start time.",
+    "related": ["75:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:48", "surah": 42, "ayah": 48, "place": "makkah",
+    "title": "Your job is to deliver. Hearts belong to Allah.",
+    "subtitle": "The messenger's limit, and the human mood swing",
+    "picture": {"kind": "boxes", "label": "Two truths", "row": [
+      {"box": "idea", "title": "only to convey", "sub": ["not a guardian over them"]},
+      {"box": "people", "title": "man in ease", "sub": ["rejoices"]},
+      {"box": "trap", "title": "man in hardship", "sub": ["forgets every blessing"]}]},
+    "key": {"label": "Reading the present moment", "row": [
+      {"box": "trap", "title": "today is everything", "sub": ["ease, I boast; pain, I despair"], "strike": true},
+      {"box": "idea", "title": "thankful and patient", "sub": ["good in both states"]}]},
+    "then": "The Prophet ﷺ was told that if the idolaters turned away, {idea}his duty was only to convey{/idea}. Then the verse describes people: Ibn Kathir says in hardship a person {trap}forgets the previous times of ease{/trap} and sees only the present. He cites the hadith that the believer thanks in good times and is patient in bad, and both are good for him.",
+    "now": "You shared a reminder with a friend and they ignored it. You feel like you failed. Then a bad week at work, and you say \"nothing ever goes right for me,\" forgetting last month's raise. {idea}Deliver, then let go. Remember the good.{/idea}",
+    "old": "If they do not change, I failed; if today is bad, life is bad.",
+    "new": "My part is to deliver kindly. And one hard day does not erase years of blessings.",
+    "try": "Write down three good things from the past month that you have stopped noticing.",
+    "related": ["2:272", "13:40"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:49", "surah": 42, "ayah": 49, "place": "makkah",
+    "title": "Daughters or sons: each child is a gift He chooses.",
+    "subtitle": "Children come by His will, not our design",
+    "picture": {"kind": "boxes", "label": "Who decides the gift", "row": [
+      {"box": "idea", "title": "Allah owns all", "sub": ["heavens and earth"]},
+      {"conn": "gives"},
+      {"box": "reward", "title": "daughters", "sub": ["to whom He wills"]},
+      {"box": "reward", "title": "sons", "sub": ["to whom He wills"]}]},
+    "key": {"label": "How to see a child", "row": [
+      {"box": "people", "title": "one is better", "sub": ["hoping for the right one"], "strike": true},
+      {"box": "reward", "title": "both are gifts", "sub": ["the verse says He grants"]}]},
+    "then": "The surah closes by reminding the Makkans who rules creation. Ibn Kathir notes some are given {reward}daughters only{/reward}, as Al-Baghawi said of Lut, and some {reward}sons only{/reward}, as of Ibrahim. Both are described with the same word: a gift.",
+    "now": "At the baby shower, an aunt says \"next time, insha'Allah, a boy.\" Or the reverse. The parents smile politely. {idea}The verse uses one word for both: He grants.{/idea} Neither is the consolation prize.",
+    "old": "Having a certain kind of child would make the family complete.",
+    "new": "Every child is a deliberate gift from the Owner of everything.",
+    "try": "Tell a parent you know, sincerely, that their child is a gift. Mean it for whatever child they have.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:50", "surah": 42, "ayah": 50, "place": "makkah",
+    "title": "Some get both, some get none. He knows why.",
+    "subtitle": "Childlessness is also within His wise knowledge",
+    "picture": {"kind": "boxes", "label": "Four ways people are given", "row": [
+      {"box": "reward", "title": "daughters", "sub": ["only"]},
+      {"box": "reward", "title": "sons", "sub": ["only"]},
+      {"box": "reward", "title": "both", "sub": ["sons and daughters"]},
+      {"box": "people", "title": "none", "sub": ["like Yahya and Isa"]}]},
+    "key": {"label": "What having none means", "row": [
+      {"box": "trap", "title": "a sign of failure", "sub": ["something is wrong with me"], "strike": true},
+      {"box": "idea", "title": "All-Knowing, All-Able", "sub": ["chosen with wisdom"]}]},
+    "then": "Ibn Kathir lists four groups of people: given daughters, given sons, given both, and given none. Al-Baghawi names {idea}Yahya and Isa{/idea} among those who had no children, noble prophets. The verse ends: {idea}He is Knowing and Able{/idea}.",
+    "now": "Another wedding, another relative asking \"any news yet?\" You smile and change the subject, then cry in the car. {idea}The verse places you in the same company as prophets{/idea}, inside His knowledge, not outside His care.",
+    "old": "Not having children means I am lacking or being punished.",
+    "new": "Whether I have children or not, it is known and chosen by the All-Knowing.",
+    "try": "If someone you know is waiting for a child, do not ask \"any news?\" Pray for them quietly instead.",
+    "related": ["19:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:51", "surah": 42, "ayah": 51, "place": "makkah",
+    "title": "How Allah speaks to a human: three ways only.",
+    "subtitle": "Revelation, behind a veil, or through a messenger",
+    "picture": {"kind": "boxes", "label": "The three ways", "row": [
+      {"box": "idea", "title": "inspiration", "sub": ["cast into the heart"]},
+      {"box": "idea", "title": "behind a veil", "sub": ["as with Musa"]},
+      {"box": "idea", "title": "a messenger", "sub": ["Jibril brings it"]}]},
+    "key": {"label": "What we expect", "row": [
+      {"box": "people", "title": "God would just appear", "sub": ["if this were real"], "strike": true},
+      {"box": "idea", "title": "Most High, Wise", "sub": ["He chooses how to speak"]}]},
+    "then": "The Makkans were amazed that a man could receive revelation. Ibn Kathir explains the three ways: something {idea}cast into the heart{/idea} of the Prophet ﷺ, speech {idea}from behind a veil{/idea} as with Musa, or an angel like Jibril sent with the message.",
+    "now": "You wish for a sign, a dream, a voice telling you what to do about the job offer. Meanwhile the Quran sits on your shelf, the words He already sent through a messenger. {idea}He has spoken. The question is whether you open it.{/idea}",
+    "old": "If Allah wanted to guide me, He would give me a clear sign.",
+    "new": "He already speaks through what He sent. I need to listen to it.",
+    "try": "Open the Quran today and read one page slowly, as if it was addressed to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:52", "surah": 42, "ayah": 52, "place": "makkah",
+    "title": "He did not know the Book. Then came the light.",
+    "subtitle": "The Quran as a spirit and a light",
+    "picture": {"kind": "boxes", "label": "Before and after", "row": [
+      {"box": "people", "title": "before", "sub": ["did not know the Book"]},
+      {"conn": "then We sent"},
+      {"box": "idea", "title": "a spirit", "sub": ["the Quran"]},
+      {"box": "reward", "title": "a light", "sub": ["to guide whom He wills"]}]},
+    "key": {"label": "Where the guidance came from", "row": [
+      {"box": "people", "title": "he made it up", "sub": ["his own ideas"], "strike": true},
+      {"box": "idea", "title": "it was sent", "sub": ["he did not know before"]}]},
+    "then": "Ibn Kathir explains that the spirit of Our command means {idea}the Quran{/idea}. Before it, the Prophet ﷺ did not know the details of the Book or faith. Allah made it {reward}a light{/reward} to guide whom He wills, and he ﷺ guides to the straight path.",
+    "now": "You walk into a dark room at night and fumble for the switch, banging your knee on the table. Then the light comes on and everything has a place. {reward}That is what this verse calls the Quran.{/reward}",
+    "old": "The Quran is a book of rules I should read sometimes.",
+    "new": "The Quran is a light sent to show me the straight path.",
+    "try": "Pick one verse you read today and ask: what does this light show me in my own life?",
+    "related": ["41:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "42:53", "surah": 42, "ayah": 53, "place": "makkah",
+    "title": "All matters end up with Allah.",
+    "subtitle": "The path belongs to the One who owns all",
+    "picture": {"kind": "boxes", "label": "Where it all goes", "row": [
+      {"box": "idea", "title": "path of Allah", "sub": ["His guidance"]},
+      {"box": "reward", "title": "owns all", "sub": ["heavens and earth"]},
+      {"conn": "and to Him"},
+      {"box": "idea", "title": "all matters", "sub": ["return for judgement"]}]},
+    "key": {"label": "Who has the final word", "row": [
+      {"box": "people", "title": "it is in their hands", "sub": ["the boss, the court"], "strike": true},
+      {"box": "idea", "title": "it returns to Allah", "sub": ["He judges every matter"]}]},
+    "then": "The surah ends here. Ibn Kathir says the path is {idea}His laws which He enjoins{/idea}, and He is the Lord and Sovereign of all. {idea}All matters come back to Him{/idea} and He judges them.",
+    "now": "You are waiting on a visa decision, a test result, a court date. It feels like a stranger behind a desk holds your future. {idea}Every file ends up on His desk.{/idea}",
+    "old": "My future depends on the people making decisions about me.",
+    "new": "Every decision, every case, ends with Allah, who owns it all.",
+    "try": "Name one outcome you are anxious about. Say: \"to You all matters return,\" and hand it over.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

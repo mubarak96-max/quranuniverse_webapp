@@ -1,0 +1,230 @@
+[
+  {
+    "id": "9:23", "surah": 9, "ayah": 23, "place": "madinah",
+    "title": "Love your family, but do not let them pull you from faith.",
+    "subtitle": "When closeness becomes a pull away from Allah",
+    "picture": {"kind": "boxes", "label": "The pull at the time", "row": [
+      {"box": "people", "title": "fathers, brothers", "sub": ["who preferred disbelief"]},
+      {"conn": "pulling"},
+      {"box": "people", "title": "the believer", "sub": ["caught between"]},
+      {"conn": "toward"},
+      {"box": "idea", "title": "Allah first", "sub": ["faith is not traded"]}]},
+    "key": {"label": "What is forbidden", "row": [
+      {"box": "trap", "title": "loving family", "sub": [], "strike": true},
+      {"box": "trap", "title": "siding against faith", "sub": ["for family's sake"]}]},
+    "then": "In those years, families in Arabia were split: a son believing, a father fighting him. The believers were told not to take as {trap}allies and confidants{/trap} relatives who had chosen disbelief over faith and stood against it. Ibn Kathir links it to {idea}\"You will not find a people who believe in Allah... loving those who oppose Allah.\"{/idea}",
+    "now": "Your family wants you to skip Jumuah for the reunion, or mocks your hijab, or pushes you toward a deal you know is wrong. You can stay kind and present. {idea}What you cannot do is let their pull decide your faith for you.{/idea}",
+    "old": "Keeping my family happy comes before everything.",
+    "new": "I can honor my family and still refuse to let them pull me from Allah.",
+    "try": "Next time family pressure clashes with your faith, answer with warmth and a clear no.",
+    "related": ["58:22"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:24", "surah": 9, "ayah": 24, "place": "madinah",
+    "title": "Eight loves on one side, Allah on the other.",
+    "subtitle": "A checklist of what holds your heart",
+    "picture": {"kind": "boxes", "label": "The list in the verse", "row": [
+      {"box": "people", "title": "family", "sub": ["fathers, sons, brothers", "spouses, clan"]},
+      {"box": "reward", "title": "wealth", "sub": ["what you have earned"]},
+      {"box": "reward", "title": "trade", "sub": ["you fear its decline"]},
+      {"box": "reward", "title": "homes", "sub": ["that please you"]},
+      {"conn": "dearer than"},
+      {"box": "idea", "title": "Allah and His Messenger ﷺ", "sub": ["and striving for Him"]}]},
+    "key": {"label": "The real question", "row": [
+      {"box": "trap", "title": "loving these is wrong", "sub": [], "strike": true},
+      {"box": "idea", "title": "which comes first", "sub": ["when they clash"]}]},
+    "then": "As the believers were called to give and strive, this verse listed {reward}everything a person naturally loves{/reward} and asked which was dearer. Ibn Kathir adds the moment Umar said the Prophet ﷺ was dearer to him than all but himself, and was told faith means {idea}more than yourself too{/idea}. Then Umar said: now you are.",
+    "now": "Read the list slowly: your parents, your kids, your partner, your savings, your business, your flat you finally decorated. {idea}None is wrong to love.{/idea} The test is the moment one of them asks you to put Allah second. Which one would win?",
+    "old": "I love Allah most, I just never get asked to prove it.",
+    "new": "When my loves clash with Allah, the one I choose shows what is first.",
+    "try": "Read the list in the verse and honestly mark which item would most easily pull you away.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:25", "surah": 9, "ayah": 25, "place": "madinah",
+    "title": "Your large numbers pleased you, and gave you nothing.",
+    "subtitle": "The lesson of Hunayn",
+    "picture": {"kind": "boxes", "label": "At Hunayn", "row": [
+      {"box": "people", "title": "12000", "sub": ["the largest army yet"], "num": true},
+      {"conn": "felt"},
+      {"box": "trap", "title": "we cannot lose", "sub": ["confidence in numbers"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "ambush, flight", "sub": ["the wide earth felt tight"]}]},
+    "key": {"label": "Where victory comes from", "row": [
+      {"box": "trap", "title": "our numbers", "sub": ["and supplies"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["few or many"]}]},
+    "then": "In the eighth year, just after Makkah, a Muslim army of about twelve thousand marched to Hunayn. {trap}They were pleased with their numbers.{/trap} Hawazin ambushed them in the valley and most fled. {idea}The Prophet ﷺ stayed firm{/idea}, calling out: I am the Prophet, no lie.",
+    "now": "A full team, a big budget, a strong CV, a big family behind you. You walk in sure it cannot go wrong, and it does. {idea}Prepare well, but put your trust in Allah, not in the size of what you have.{/idea}",
+    "old": "With all this behind me, I cannot fail.",
+    "new": "No amount of people or resources replaces relying on Allah.",
+    "try": "Before your next big task, say a short dua asking Allah for success instead of counting your advantages.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:26", "surah": 9, "ayah": 26, "place": "madinah",
+    "title": "Then came calm from Allah, and help no one saw.",
+    "subtitle": "Sakinah after panic",
+    "picture": {"kind": "boxes", "label": "What turned it around", "row": [
+      {"box": "people", "title": "a few stood firm", "sub": ["around the Prophet ﷺ"]},
+      {"conn": "Allah sent"},
+      {"box": "reward", "title": "sakinah", "sub": ["calm in the hearts"]},
+      {"box": "reward", "title": "unseen soldiers", "sub": ["angels"]}]},
+    "key": {"label": "What happens in panic", "row": [
+      {"box": "trap", "title": "it is over", "sub": ["everyone ran"], "strike": true},
+      {"box": "reward", "title": "calm is sent down", "sub": ["to those who stay"]}]},
+    "then": "Al-Abbas called out to the companions of the Pledge under the Tree, and the fleeing Muslims answered: here we are. They returned to the Prophet ﷺ. Allah then {reward}sent down His calm on His Messenger and the believers{/reward}, and {reward}soldiers they did not see.{/reward}",
+    "now": "The test results come back bad. The business collapses. Your mind races and you want to run. {idea}Turn back toward Allah, even after a first panic.{/idea} Calm is something He sends down; ask for it.",
+    "old": "Once I have panicked and failed, it is too late.",
+    "new": "Even after I run, I can turn back, and Allah can send calm.",
+    "try": "In your next anxious moment, stop and ask Allah for sakinah by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:27", "surah": 9, "ayah": 27, "place": "madinah",
+    "title": "After the battle, the door of repentance stayed open.",
+    "subtitle": "Yesterday's opponent, forgiven",
+    "picture": {"kind": "boxes", "label": "After Hunayn", "row": [
+      {"box": "trap", "title": "the battle", "sub": ["defeat for the attackers"]},
+      {"conn": "after that"},
+      {"box": "reward", "title": "repentance accepted", "sub": ["for whom He wills"]}]},
+    "key": {"label": "Is defeat the end?", "row": [
+      {"box": "trap", "title": "they are finished", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah may still turn to them", "sub": ["Forgiving, Merciful"]}]},
+    "then": "Right after describing the defeat of those who fought at Hunayn, the verse adds: {reward}after that, Allah turns in mercy to whom He wills.{/reward} The ones who had just been fighting the believers were not shut out from forgiveness.",
+    "now": "You lost the argument badly, or you were the one in the wrong. The defeat feels like the end of the story. {idea}It does not have to be.{/idea} After the loss comes the chance to turn back to Allah.",
+    "old": "After what I did, there is no coming back.",
+    "new": "Even after a failure or defeat, Allah's forgiveness is still on offer.",
+    "try": "Think of a recent failure. Turn it into one sincere istighfar today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:28", "surah": 9, "ayah": 28, "place": "madinah",
+    "title": "Afraid of losing income? Allah will enrich you.",
+    "subtitle": "When doing right threatens your livelihood",
+    "picture": {"kind": "boxes", "label": "The fear in Makkah", "row": [
+      {"box": "idea", "title": "the new ruling", "sub": ["idolaters not to approach"]},
+      {"conn": "people feared"},
+      {"box": "trap", "title": "markets will close", "sub": ["trade will vanish"]},
+      {"conn": "Allah said"},
+      {"box": "reward", "title": "I will enrich you", "sub": ["from My bounty"]}]},
+    "key": {"label": "Where provision comes from", "row": [
+      {"box": "trap", "title": "the old arrangement", "sub": ["my customers"], "strike": true},
+      {"box": "reward", "title": "Allah's bounty", "sub": ["from other doors"]}]},
+    "then": "In the ninth year, it was ruled that after that season the idolaters would no longer come to the Sacred Mosque. Ibn Ishaq reports the people's fear: {trap}our markets will close and our earnings will vanish.{/trap} The reply: {reward}Allah will enrich you from His bounty, if He wills.{/reward}",
+    "now": "Your biggest client wants you to cut a corner. Refusing could cost you the account, the rent, the school fees. {reward}The verse speaks straight to that fear{/reward}: your provision was never in that one door.",
+    "old": "If I do the right thing, I will lose my income.",
+    "new": "My provision comes from Allah, who has more doors than I can see.",
+    "try": "Name one money fear that keeps you from doing right. Say: Allah will enrich me from His bounty.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:29", "surah": 9, "ayah": 29, "place": "madinah",
+    "title": "The call that led to Tabuk, in drought and heat.",
+    "subtitle": "The setting of the hard march north",
+    "picture": {"kind": "boxes", "label": "The ninth year", "row": [
+      {"box": "idea", "title": "the call", "sub": ["march north, to the Romans"]},
+      {"conn": "in"},
+      {"box": "trap", "title": "drought and heat", "sub": ["a hard year"]},
+      {"conn": "most"},
+      {"box": "reward", "title": "about 30000 answered", "sub": ["some stayed behind"]}]},
+    "key": {"label": "When the call is hard", "row": [
+      {"box": "trap", "title": "wait for an easy year", "sub": [], "strike": true},
+      {"box": "idea", "title": "answer in the hard year", "sub": ["that is the test"]}]},
+    "then": "Ibn Kathir places this verse in the ninth year, when the command came to fight the People of the Book and the Prophet ﷺ prepared to march against the Romans. {trap}It was a year of drought and intense heat.{/trap} About thirty thousand marched to Tabuk, camped about twenty days, and returned. {trap}Some, including hypocrites, stayed behind.{/trap}",
+    "now": "The hard call never comes in an easy season. The parent needs care during your busiest year. The fast comes in the longest days. {idea}This part of the surah is about who answers when it costs something{/idea}, and you are asked that question in your own life.",
+    "old": "I will answer Allah's call once things get easier.",
+    "new": "The call that matters often comes in the hardest season. That is the test.",
+    "try": "Do one act of obedience today that you have been postponing until life is less busy.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:30", "surah": 9, "ayah": 30, "place": "madinah",
+    "title": "Words from the mouth, with no proof behind them.",
+    "subtitle": "Saying things about Allah without knowledge",
+    "picture": {"kind": "boxes", "label": "What the verse criticizes", "row": [
+      {"box": "trap", "title": "a son of God claim", "sub": ["said with the mouth"]},
+      {"conn": "copied from"},
+      {"box": "trap", "title": "older sayings", "sub": ["of earlier disbelief"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "Allah is One", "sub": ["no son, no partner"]}]},
+    "key": {"label": "What gives a belief weight", "row": [
+      {"box": "trap", "title": "it was passed down", "sub": ["and repeated"], "strike": true},
+      {"box": "idea", "title": "it is true from Allah", "sub": ["with proof"]}]},
+    "then": "The verse addresses claims made at the time that Allah had a son, {trap}\"a saying from their mouths\"{/trap}, Ibn Kathir explains, with no proof, {trap}imitating what earlier peoples had said.{/trap} The surah answers it with pure tawhid: Allah alone, without partner or child.",
+    "now": "You repeat something about Allah you heard on a video or from an uncle: \"Allah will never forgive that,\" \"this dua guarantees anything.\" Is it from Allah, or just from mouths? {idea}Check what you say about Allah before you say it.{/idea}",
+    "old": "If many people say it about Allah, it must be right.",
+    "new": "What I say about Allah needs to come from Him, not from repetition.",
+    "try": "Pick one belief you hold about Allah. Look up its source in the Quran or a sound hadith.",
+    "related": ["9:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:31", "surah": 9, "ayah": 31, "place": "madinah",
+    "title": "Obeying people over Allah is a form of worship.",
+    "subtitle": "The question Adi bin Hatim asked",
+    "picture": {"kind": "boxes", "label": "Adi's question", "row": [
+      {"box": "people", "title": "Adi bin Hatim", "sub": ["we never worshipped them"]},
+      {"conn": "the Prophet ﷺ"},
+      {"box": "trap", "title": "they made halal haram", "sub": ["and haram halal"]},
+      {"conn": "and you"},
+      {"box": "trap", "title": "obeyed them", "sub": ["that is the worship"]}]},
+    "key": {"label": "What worship includes", "row": [
+      {"box": "trap", "title": "only bowing down", "sub": [], "strike": true},
+      {"box": "idea", "title": "obeying over Allah", "sub": ["in what He made lawful"]}]},
+    "then": "Adi bin Hatim, chief of Tayy, came to Madinah and heard this verse. He said: they did not worship their scholars. The Prophet ﷺ replied that {trap}they made lawful what was forbidden and forbade what was lawful, and people followed{/trap}. {idea}That obedience was the worship.{/idea} Adi accepted Islam that day.",
+    "now": "Your boss, your favorite influencer, your friend group, even a popular preacher. When one of them says something Allah made clear is fine is wrong, or the reverse, and you go along without thinking, {idea}ask whose word you are really following.{/idea}",
+    "old": "As long as I do not bow to anyone, I am worshipping only Allah.",
+    "new": "Whoever I obey over Allah in what is lawful and unlawful, I have raised up.",
+    "try": "Think of one thing you do only because someone you admire says so. Check what Allah says about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:32", "surah": 9, "ayah": 32, "place": "madinah",
+    "title": "Blowing at the sun to put it out.",
+    "subtitle": "Allah's light will be completed",
+    "picture": {"kind": "boxes", "label": "Ibn Kathir's image", "row": [
+      {"box": "people", "title": "a mouth blowing", "sub": ["arguments, lies"]},
+      {"conn": "at"},
+      {"box": "idea", "title": "the sun", "sub": ["Allah's light"]},
+      {"conn": "result"},
+      {"box": "reward", "title": "light completed", "sub": ["Allah refuses otherwise"]}]},
+    "key": {"label": "Whose job is the light", "row": [
+      {"box": "trap", "title": "it depends on me", "sub": ["will it survive?"], "strike": true},
+      {"box": "reward", "title": "Allah perfects it", "sub": ["my job is to walk in it"]}]},
+    "then": "Ibn Kathir says those who tried to put out the guidance with {trap}argument and lies{/trap} are like {trap}someone blowing at the sun or the moon to extinguish it.{/trap} He also notes kafir comes from covering, like night covering things or a farmer covering seed.",
+    "now": "You read a viral thread mocking Islam and feel your stomach drop, as if the truth itself is in danger. {reward}It is not.{/reward} Allah will complete His light. {idea}Your part is to keep it lit in your own home and heart.{/idea}",
+    "old": "Every attack on the faith makes me afraid it will fade.",
+    "new": "Allah has promised to complete His light. I only need to walk in it.",
+    "try": "Instead of scrolling one more argument online, read one page of Quran today.",
+    "related": ["57:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:33", "surah": 9, "ayah": 33, "place": "madinah",
+    "title": "Sent with guidance and the religion of truth.",
+    "subtitle": "What the Messenger ﷺ brought",
+    "picture": {"kind": "boxes", "label": "Two things he brought", "row": [
+      {"box": "idea", "title": "guidance", "sub": ["true news, useful faith"]},
+      {"box": "idea", "title": "religion of truth", "sub": ["deeds that benefit"]},
+      {"conn": "Allah will"},
+      {"box": "reward", "title": "make it prevail", "sub": ["though some dislike it"]}]},
+    "key": {"label": "What prevails first", "row": [
+      {"box": "trap", "title": "only out there", "sub": ["in the world"], "strike": true},
+      {"box": "idea", "title": "first in me", "sub": ["over my own desires"]}]},
+    "then": "Ibn Kathir explains guidance as {idea}the true reports and beneficial faith{/idea} the Prophet ﷺ brought, and the religion of truth as {idea}the righteous deeds that benefit in this life and the next.{/idea} Tamim Ad-Dari, once a Christian, said he saw goodness and honor come to those of his people who accepted it.",
+    "now": "You may never shape what happens on a world stage. But there is a small territory you do govern: your tongue, your phone, your mornings. {idea}Let the guidance prevail there first.{/idea}",
+    "old": "Islam's success is about what happens far away from me.",
+    "new": "The guidance prevails first in the life I actually run.",
+    "try": "Choose one habit today and bring it in line with what the Prophet ﷺ taught.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

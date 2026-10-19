@@ -1,0 +1,234 @@
+[
+  {
+    "id": "82:1", "surah": 82, "ayah": 1, "place": "makkah",
+    "title": "The sky will split open.",
+    "subtitle": "The ceiling of the world cracks",
+    "picture": {"kind": "boxes", "label": "Infitar", "row": [
+      {"box": "people", "title": "the sky", "sub": ["whole, unbroken"]},
+      {"conn": "is"},
+      {"box": "trap", "title": "cleft asunder", "sub": ["split apart"]}]},
+    "key": {"label": "Seeing the Day", "row": [
+      {"box": "idea", "title": "read this surah", "sub": ["with 81 and 84"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "see it", "sub": ["as if with your eyes"]}]},
+    "then": "Ibn Kathir explains it simply: {trap}it splits{/trap}, citing 73:18. The Prophet ﷺ named this surah among those to read to {idea}see the Day of Resurrection as if with your own eyes{/idea}, and suggested it to Muadh as a fitting recitation for prayer.",
+    "now": "You look up at a clear blue sky on your lunch break, and it looks like it could never break. {idea}It will.{/idea} Short surahs like this one are a gift for your next prayer, easy to recite and full of weight.",
+    "old": "The sky above me is the most unchanging thing there is.",
+    "new": "Even the sky will split. This surah helps me picture that Day.",
+    "try": "Recite this surah in one of your prayers today, or listen to it once.",
+    "related": ["73:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:2", "surah": 82, "ayah": 2, "place": "makkah",
+    "title": "The planets and stars will drop.",
+    "subtitle": "What held its place, falling",
+    "picture": {"kind": "boxes", "label": "Intatharat", "row": [
+      {"box": "people", "title": "al-kawakib", "sub": ["stars and planets"]},
+      {"conn": "become"},
+      {"box": "trap", "title": "fallen", "sub": ["scattered like beads"]}]},
+    "key": {"label": "Order and its end", "row": [
+      {"box": "idea", "title": "set in place", "sub": ["by Allah"]},
+      {"conn": "released by"},
+      {"box": "idea", "title": "Allah", "sub": ["when He wills"]}]},
+    "then": "Ibn Kathir says it means {trap}fallen.{/trap} After the sky splits, the lights inside it fall. {idea}The same order that held them all this time is lifted.{/idea} This echoes 81:2, a surah from about the same period.",
+    "now": "You stand on a dark beach on holiday, the sky crowded with stars, and feel tiny. {idea}They hang there because Allah holds them.{/idea} So does every part of your day.",
+    "old": "The universe runs by itself.",
+    "new": "Every star stays in place only because Allah holds it there.",
+    "try": "Say subhanAllah three times the next time you look at the night sky.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:3", "surah": 82, "ayah": 3, "place": "makkah",
+    "title": "The seas burst into each other.",
+    "subtitle": "Boundaries that held, broken",
+    "picture": {"kind": "boxes", "label": "Fujjirat", "row": [
+      {"box": "people", "title": "fresh water", "sub": []},
+      {"box": "people", "title": "salt water", "sub": []},
+      {"conn": "burst into"},
+      {"box": "trap", "title": "one another", "sub": ["then the water goes"]}]},
+    "key": {"label": "Barriers", "row": [
+      {"box": "plain", "title": "fixed forever", "sub": [], "strike": true},
+      {"box": "idea", "title": "held by Allah", "sub": ["released on that Day"]}]},
+    "then": "Ibn Abbas said {trap}Allah will cause some of it to burst forth over other parts.{/trap} Al-Hasan added that its water will go away. Qatadah said {idea}its fresh water will mix with its salt water.{/idea}",
+    "now": "You keep your work self and your private self in separate boxes, like fresh and salt water. {idea}On that Day the walls come down.{/idea} The goal is to be one person all the way through.",
+    "old": "I can keep different parts of my life sealed off from each other.",
+    "new": "One day all walls break. Better to be the same person everywhere now.",
+    "try": "Notice one place where your private and public self differ, and close the gap a little.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:4", "surah": 82, "ayah": 4, "place": "makkah",
+    "title": "Graves are turned over and emptied.",
+    "subtitle": "Those inside come out",
+    "picture": {"kind": "boxes", "label": "Bu'thirat", "row": [
+      {"box": "plain", "title": "the graves", "sub": ["quiet for ages"]},
+      {"conn": "searched, moved"},
+      {"box": "idea", "title": "people come out", "sub": ["raised"]}]},
+    "key": {"label": "The grave is", "row": [
+      {"box": "plain", "title": "the final place", "sub": [], "strike": true},
+      {"box": "idea", "title": "a waiting place", "sub": ["opened on the Day"]}]},
+    "then": "Ibn Abbas said it means {idea}searched.{/idea} As-Suddi said {reward}they will be moved and those who are in them will come out.{/reward} The cosmic scenes now turn to people.",
+    "now": "You drive past the cemetery on your way to work every day without a thought. {idea}Every grave there will open.{/idea} Including the one that will one day be yours.",
+    "old": "Once someone is buried, their story is over.",
+    "new": "Every grave will open, and every story continues.",
+    "try": "Make dua today for the people buried in the nearest cemetery to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:5", "surah": 82, "ayah": 5, "place": "makkah",
+    "title": "Each soul knows what it sent ahead and left behind.",
+    "subtitle": "Deeds done and deeds neglected",
+    "picture": {"kind": "boxes", "label": "Two lists", "row": [
+      {"box": "reward", "title": "sent forward", "sub": ["what I did"]},
+      {"box": "trap", "title": "kept back", "sub": ["what I left undone"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "plain", "title": "only what I did", "sub": [], "strike": true},
+      {"box": "idea", "title": "also what I left", "sub": ["the good I put off"]}]},
+    "then": "Ibn Kathir says simply {idea}when this happens, then this will occur.{/idea} After the sky, stars, seas and graves, {reward}each person knows what they sent forward and what they left behind.{/reward}",
+    "now": "The donation you meant to make, the visit to your aunt you kept postponing, the course of Quran you never started. {trap}Those sit on the left-behind list.{/trap} You still have time to move some across.",
+    "old": "As long as I avoid bad things, I am fine.",
+    "new": "The good I kept putting off will also be shown to me.",
+    "try": "Do one good thing today that you have postponed for more than a month.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:6", "surah": 82, "ayah": 6, "place": "makkah",
+    "title": "What fooled you about your Generous Lord?",
+    "subtitle": "Generosity is not permission",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "reward", "title": "al-Karim", "sub": ["your Generous Lord"]},
+      {"conn": "and yet you"},
+      {"box": "trap", "title": "disobeyed", "sub": ["met Him carelessly"]}]},
+    "key": {"label": "How to read generosity", "row": [
+      {"box": "trap", "title": "He is kind, so it is fine", "sub": [], "strike": true},
+      {"box": "idea", "title": "He is kind, so shame on me", "sub": ["for meeting Him badly"]}]},
+    "then": "Ibn Kathir says {trap}this is a threat, not an attempt to get a reply.{/trap} It means: O son of Adam, what deceived you about your Lord, {idea}the Most Great, so that you went forth disobeying Him?{/idea} Allah will ask on the Day: what deceived you concerning Me?",
+    "now": "You skip a prayer and tell yourself Allah is forgiving, He will understand. {idea}His generosity is real.{/idea} The verse asks whether you are using it as a reason to come closer, or an excuse to stay away.",
+    "old": "Allah is so generous, my slips do not really matter.",
+    "new": "Because Allah is so generous, I should be ashamed to meet Him carelessly.",
+    "try": "When you catch yourself saying Allah will understand today, take that as a cue to do the deed instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:7", "surah": 82, "ayah": 7, "place": "makkah",
+    "title": "He made you, shaped you, balanced you.",
+    "subtitle": "Three gifts in your own body",
+    "picture": {"kind": "boxes", "label": "Three steps", "row": [
+      {"box": "reward", "title": "created", "sub": []},
+      {"box": "reward", "title": "fashioned", "sub": ["complete, straight"]},
+      {"box": "reward", "title": "balanced", "sub": ["well proportioned"]}]},
+    "key": {"label": "From what to what", "row": [
+      {"box": "plain", "title": "a drop like spit", "sub": []},
+      {"conn": "into"},
+      {"box": "idea", "title": "you, walking", "sub": ["and then you withheld"]}]},
+    "then": "Ibn Kathir says {reward}He made you complete, straight, and perfectly balanced.{/reward} The Prophet ﷺ placed a finger on spit in his palm and related Allah's words: I made you from something like this, then you gathered wealth and withheld it, {trap}until at death you say: now I will give charity.{/trap}",
+    "now": "You stand at the mirror and only see what you want to change. {reward}Two working hands, eyes that read this.{/reward} The hadith adds one more warning: do not wait until the last breath to be generous.",
+    "old": "My body is just how it happens to be, with flaws I dislike.",
+    "new": "Allah shaped and balanced me on purpose, and I can give back with it now.",
+    "try": "Give some charity today, any amount, while it is easy.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:8", "surah": 82, "ayah": 8, "place": "makkah",
+    "title": "In whatever form He chose, He put you together.",
+    "subtitle": "Your face, chosen by Allah",
+    "picture": {"kind": "boxes", "label": "Resemblance", "row": [
+      {"box": "people", "title": "father", "sub": []},
+      {"box": "people", "title": "mother", "sub": []},
+      {"box": "people", "title": "uncles", "sub": []},
+      {"conn": "Allah chose"},
+      {"box": "idea", "title": "your form", "sub": ["as He willed"]}]},
+    "key": {"label": "Who decided", "row": [
+      {"box": "plain", "title": "chance", "sub": ["random genes"], "strike": true},
+      {"box": "idea", "title": "Allah's will", "sub": ["He assembled you"]}]},
+    "then": "Mujahid said it means {idea}in which resemblance: the father, the mother, the paternal uncle, or the maternal uncle.{/idea} Ibn Kathir cites a man who came to the Prophet ﷺ worried that his child did not look like him, and was told {reward}it is probably an inherited strain.{/reward}",
+    "now": "At family gatherings someone always says: he has his grandfather's nose. {idea}That nose was chosen.{/idea} Your face is not an accident to be ashamed of, and neither is anyone else's.",
+    "old": "How I look is just luck, good or bad.",
+    "new": "Allah chose the form He assembled me in, and that is enough.",
+    "try": "Stop yourself from one comment about your own looks, or someone else's, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:9", "surah": 82, "ayah": 9, "place": "makkah",
+    "title": "The real reason: you deny the reckoning.",
+    "subtitle": "The root under careless living",
+    "picture": {"kind": "boxes", "label": "Root and fruit", "row": [
+      {"box": "trap", "title": "denying the Day", "sub": ["in the heart"]},
+      {"conn": "produces"},
+      {"box": "trap", "title": "disobedience", "sub": ["toward the Generous"]}]},
+    "key": {"label": "What fooled you", "row": [
+      {"box": "plain", "title": "Allah's kindness", "sub": [], "strike": true},
+      {"box": "idea", "title": "doubt about the Day", "sub": ["the real cause"]}]},
+    "then": "Ibn Kathir explains: {trap}you are only compelled to oppose the Most Generous{/trap} because you reject in your hearts {idea}the Hereafter, the recompense and the reckoning.{/idea} The question in verse 6 now gets its answer.",
+    "now": "You would never cheat on an exam if you knew the invigilator was watching. {idea}The cheating starts when you stop believing anyone will check.{/idea} The verse puts the finger on that quiet doubt.",
+    "old": "I believe in the Day, but it does not affect much of what I do.",
+    "new": "The less real the reckoning feels, the more careless I become.",
+    "try": "Before one decision today, ask: how will this look on the Day?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:10", "surah": 82, "ayah": 10, "place": "makkah",
+    "title": "There are guardians over you.",
+    "subtitle": "You are never unattended",
+    "picture": {"kind": "boxes", "label": "Who is with you", "row": [
+      {"box": "people", "title": "you", "sub": ["every moment"]},
+      {"conn": "watched by"},
+      {"box": "idea", "title": "hafizin", "sub": ["guardian angels"]}]},
+    "key": {"label": "Alone?", "row": [
+      {"box": "plain", "title": "no one around", "sub": [], "strike": true},
+      {"box": "idea", "title": "guardians present", "sub": ["always"]}]},
+    "then": "Right after naming the denial of the Day, Allah answers it: {idea}indeed there are noble guardian angels over you.{/idea} Ibn Kathir says, {trap}so do not meet them with evil deeds.{/trap}",
+    "now": "You are alone in the car at midnight, or in a hotel room on a work trip. {idea}You are not actually alone.{/idea} That can be a comfort as much as a check.",
+    "old": "When I am by myself, no one sees what I do.",
+    "new": "Allah's appointed guardians are with me, even in empty rooms.",
+    "try": "In your next moment alone today, do one small good thing for your guardians to write.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:11", "surah": 82, "ayah": 11, "place": "makkah",
+    "title": "Noble writers, recording.",
+    "subtitle": "The dignity of who writes your record",
+    "picture": {"kind": "boxes", "label": "Kiraman Katibin", "row": [
+      {"box": "reward", "title": "kiram", "sub": ["noble"]},
+      {"box": "idea", "title": "katibin", "sub": ["writing it down"]}]},
+    "key": {"label": "How to treat them", "row": [
+      {"box": "trap", "title": "give them evil to write", "sub": []},
+      {"box": "reward", "title": "give them good", "sub": ["honor their nobility"]}]},
+    "then": "Ibn Kathir describes them as {reward}noble guardian angels{/reward} who {idea}write down all that you do.{/idea} The surah introduction calls them trustworthy writers preparing a complete record.",
+    "now": "Imagine someone you deeply respect sitting beside you at your desk all day. {reward}You would choose your words differently.{/reward} The ones beside you are nobler than any person you know.",
+    "old": "Being recorded feels like surveillance.",
+    "new": "Noble companions are writing, and I can give them something good to write.",
+    "try": "Say one kind sentence today that you would be glad to have written down.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "82:12", "surah": 82, "ayah": 12, "place": "makkah",
+    "title": "They know whatever you do.",
+    "subtitle": "Nothing slips past the record",
+    "picture": {"kind": "boxes", "label": "Their knowledge", "row": [
+      {"box": "people", "title": "your deeds", "sub": ["big and small"]},
+      {"conn": "all"},
+      {"box": "idea", "title": "known", "sub": ["and written"]}]},
+    "key": {"label": "What gets recorded", "row": [
+      {"box": "plain", "title": "the big moments", "sub": ["only"], "strike": true},
+      {"box": "idea", "title": "everything", "sub": ["whatever you do"]}]},
+    "then": "Ibn Kathir reads verses 10 to 12 together: there are guardian angels over you, {idea}they write down all that you do.{/idea} {reward}The record is complete{/reward}, and it is being prepared now, as the surah introduction says.",
+    "now": "The extra minute of patience with a slow cashier. The snide reply you typed and deleted. {idea}All of it is known.{/idea} That means no good thing you do is ever wasted.",
+    "old": "Small things I do are not worth recording.",
+    "new": "Everything I do is known, so every small good counts.",
+    "try": "Do one tiny good deed today on purpose, knowing it will be written.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": "3:109", "surah": 3, "ayah": 109, "place": "madinah",
+    "title": "Everything belongs to Allah, and every matter returns to Him.",
+    "subtitle": "Who has the final say",
+    "picture": {"kind": "boxes", "label": "Ownership", "row": [
+      {"box": "people", "title": "heavens and earth", "sub": ["all of it"]},
+      {"conn": "belongs to"},
+      {"box": "idea", "title": "Allah", "sub": ["His servants, His property"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "all matters", "sub": ["return to Him"]}]},
+    "key": {"label": "Where it ends", "row": [
+      {"box": "people", "title": "the HR decision", "sub": ["the final word"], "strike": true},
+      {"box": "idea", "title": "His decision", "sub": ["in this life and the next"]}]},
+    "then": "This closes the passage on unity and the Day of bright and dark faces. Ibn Kathir: all are {idea}His servants and His property{/idea}, and {reward}His is the decision{/reward} in this life and the Hereafter.",
+    "now": "You are waiting on the visa decision, the job offer, the test result. It feels like everything depends on one office. {idea}That office belongs to Him too.{/idea}",
+    "old": "My future is in the hands of the people deciding my case.",
+    "new": "Every matter, including the one I am waiting on, returns to Allah.",
+    "try": "For the decision you are waiting on, make dua first, then follow up.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:110", "surah": 3, "ayah": 110, "place": "madinah",
+    "title": "The best community, on one condition: good, wrong, and faith.",
+    "subtitle": "A title that comes with a job",
+    "picture": {"kind": "boxes", "label": "Best for people", "row": [
+      {"box": "idea", "title": "enjoin right", "sub": ["urge the good"]},
+      {"box": "idea", "title": "forbid wrong", "sub": ["stop the harm"]},
+      {"box": "idea", "title": "believe in Allah", "sub": ["the root of both"]},
+      {"conn": "makes"},
+      {"box": "reward", "title": "the best nation", "sub": ["most beneficial for mankind"]}]},
+    "key": {"label": "How you get the title", "row": [
+      {"box": "people", "title": "by being born into it", "sub": ["automatic"], "strike": true},
+      {"box": "idea", "title": "by the condition", "sub": ["whoever fulfills it shares the praise"]}]},
+    "then": "Ibn Kathir explains it as {reward}the best of peoples for the people{/reward}, the most beneficial to mankind. Umar recited this on Hajj, seeing the crowds, and said {idea}whoever wants to be of this community, let him fulfill Allah's condition{/idea}.",
+    "now": "You say \"we're the best ummah\" in a heated comment thread. Then you scroll past someone being mocked and say nothing. {idea}The title is a job description.{/idea}",
+    "old": "Being Muslim makes me part of the best community automatically.",
+    "new": "The best community is the one that does good, stops wrong and believes. I earn my share by doing it.",
+    "try": "Do one thing today that is useful to someone outside your own circle.",
+    "related": ["5:79"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:111", "surah": 3, "ayah": 111, "place": "madinah",
+    "title": "They can annoy you, but they cannot truly harm you.",
+    "subtitle": "Hostility that hurts but cannot break",
+    "picture": {"kind": "boxes", "label": "What they can do", "row": [
+      {"box": "trap", "title": "annoyance", "sub": ["words, trouble"]},
+      {"conn": "but not"},
+      {"box": "reward", "title": "real harm", "sub": ["Allah's promise"]}]},
+    "key": {"label": "How big it is", "row": [
+      {"box": "trap", "title": "it will ruin me", "sub": ["their hostility"], "strike": true},
+      {"box": "idea", "title": "a trifling annoyance", "sub": ["the verse's own size for it"]}]},
+    "then": "The early believers in Madinah faced open hostility. Ibn Kathir calls this verse {reward}good news to the believers{/reward}: opponents would bring {trap}only a trifling annoyance{/trap}, and would not be helped against them.",
+    "now": "The coworker who undermines you in meetings. The relative who mocks your prayer. It stings every time. {idea}Allah calls it annoyance, not ruin.{/idea}",
+    "old": "Their hostility can wreck my life.",
+    "new": "People can annoy me, but they cannot touch what Allah protects.",
+    "try": "Next time someone needles you for your faith, respond calmly once, then let it go.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:112", "surah": 3, "ayah": 112, "place": "madinah",
+    "title": "Small disobedience, repeated, grew into rejecting the signs.",
+    "subtitle": "How great wrongs begin",
+    "picture": {"kind": "boxes", "label": "The slide", "row": [
+      {"box": "trap", "title": "disobeyed", "sub": ["again and again"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "transgressed", "sub": ["crossed the limits"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "rejected the signs", "sub": ["and killed prophets"]}]},
+    "key": {"label": "Where it starts", "row": [
+      {"box": "people", "title": "the big sin", "sub": ["comes out of nowhere"], "strike": true},
+      {"box": "idea", "title": "the small habit", "sub": ["prepares the way"]}]},
+    "then": "The verse describes humiliation that came upon those it addresses, except under a covenant from Allah and from people. It names the cause twice. Ibn Kathir explains that what led them to {trap}reject Allah's signs and kill His messengers{/trap} was that {idea}they often disobeyed and crossed His limits{/idea}.",
+    "now": "Skipping one prayer becomes skipping the day. One white lie at work becomes the way you handle every awkward question. {trap}Nobody falls far in one step.{/trap} {idea}Watch the small repeat.{/idea}",
+    "old": "Little sins are harmless. I'd never do anything serious.",
+    "new": "Repeated small disobedience is how hearts get ready for big wrongs.",
+    "try": "Pick one small sin you repeat often. Break the streak once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:113", "surah": 3, "ayah": 113, "place": "madinah",
+    "title": "They are not all the same.",
+    "subtitle": "Never judging a whole group by some",
+    "picture": {"kind": "boxes", "label": "Among the People of the Book", "row": [
+      {"box": "people", "title": "some rebuked", "sub": ["earlier verses"]},
+      {"box": "reward", "title": "some upright", "sub": ["reciting at night, in sujood"]}]},
+    "key": {"label": "Fairness", "row": [
+      {"box": "trap", "title": "they're all alike", "sub": ["one label for everyone"], "strike": true},
+      {"box": "idea", "title": "not all the same", "sub": ["Allah's own words"]}]},
+    "then": "Right after strong criticism, the Quran says: {idea}they are not all alike{/idea}. Ibn Kathir reports it came about scholars of the People of the Book who believed, like Abdullah bin Salam. They {reward}stood at night reciting Allah's verses in prostration{/reward}.",
+    "now": "A bad experience with one person from a certain background and you start saying \"those people.\" A news story and suddenly a whole group has one face. {idea}Even after criticism, the Quran stops to be fair.{/idea}",
+    "old": "Once I've seen the worst of a group, I know what they're all like.",
+    "new": "Allah Himself says they are not all the same. I owe people that fairness too.",
+    "try": "Catch yourself once today saying \"they all\" about any group, and correct it.",
+    "related": ["3:199"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:114", "surah": 3, "ayah": 114, "place": "madinah",
+    "title": "They believe, call to good, and race toward good deeds.",
+    "subtitle": "Hastening, not just doing",
+    "picture": {"kind": "boxes", "label": "Their qualities", "row": [
+      {"box": "idea", "title": "believe", "sub": ["in Allah and the Last Day"]},
+      {"box": "idea", "title": "enjoin and forbid", "sub": ["right and wrong"]},
+      {"box": "idea", "title": "hasten", "sub": ["to good deeds"]},
+      {"conn": "they are"},
+      {"box": "reward", "title": "the righteous", "sub": ["Allah's description"]}]},
+    "key": {"label": "The pace", "row": [
+      {"box": "people", "title": "I'll get to it", "sub": ["some day"], "strike": true},
+      {"box": "reward", "title": "hasten", "sub": ["race toward the good"]}]},
+    "then": "The verse continues the praise of those among the People of the Book who believed. Ibn Kathir notes they {idea}implement the Book and follow the Prophet ﷺ{/idea}, and they {reward}hasten in all good works{/reward}.",
+    "now": "A fundraiser link in the group chat. You think, I'll donate later. Later never comes. {reward}Righteous people click first.{/reward}",
+    "old": "Good deeds can wait until I have more time.",
+    "new": "Righteousness is a pace. The righteous hurry to good.",
+    "try": "Do the next good deed that crosses your path today immediately, without postponing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:115", "surah": 3, "ayah": 115, "place": "madinah",
+    "title": "No good they do will be denied them.",
+    "subtitle": "Nothing good is lost with Allah",
+    "picture": {"kind": "boxes", "label": "Every good deed", "row": [
+      {"box": "reward", "title": "a good deed", "sub": ["seen or unseen"]},
+      {"conn": "known to"},
+      {"box": "idea", "title": "Allah", "sub": ["Knower of the God-conscious"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "never lost", "sub": ["rewarded in full"]}]},
+    "key": {"label": "What happens to it", "row": [
+      {"box": "trap", "title": "unnoticed, wasted", "sub": ["no one thanked me"], "strike": true},
+      {"box": "reward", "title": "not rejected", "sub": ["kept with Allah"]}]},
+    "then": "Ibn Kathir explains: {reward}their good deeds will not be lost with Allah{/reward}, for {idea}no deed escapes His knowledge{/idea}, nor is any reward for doing good ever lost with Him.",
+    "now": "You stayed late to clean up after the event and no one noticed. You cared for a parent for years and siblings never said thanks. {reward}It is not lost.{/reward}",
+    "old": "If no one notices the good I do, it's as if it didn't happen.",
+    "new": "Allah knows every good deed, and none of it is thrown away.",
+    "try": "Do one good thing today and deliberately tell no one about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:116", "surah": 3, "ayah": 116, "place": "madinah",
+    "title": "Wealth and children will not shield anyone from Allah.",
+    "subtitle": "What can't stand between you and Him",
+    "picture": {"kind": "boxes", "label": "What they relied on", "row": [
+      {"box": "reward", "title": "wealth", "sub": ["savings, property"]},
+      {"box": "reward", "title": "children", "sub": ["family, name"]},
+      {"conn": "against Allah"},
+      {"box": "trap", "title": "nothing", "sub": ["avails at all"]}]},
+    "key": {"label": "What to lean on", "row": [
+      {"box": "reward", "title": "what I have", "sub": ["will protect me"], "strike": true},
+      {"box": "idea", "title": "what I do", "sub": ["with faith"]}]},
+    "then": "After praising the upright, the verse turns to those who disbelieve: {trap}neither wealth nor children will avail them against Allah{/trap}. Ibn Kathir says {idea}nothing can avert His punishment{/idea} for them.",
+    "now": "The life insurance, the property, the kids who will be successful. You feel safe because of them. {idea}They are gifts for here.{/idea} Before Allah, only faith and deeds stand.",
+    "old": "With enough money and a good family, I'm secure.",
+    "new": "Nothing I own or raised can stand in for faith before Allah.",
+    "try": "Use some of your money or time today for something that will count with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:117", "surah": 3, "ayah": 117, "place": "madinah",
+    "title": "Spending without faith is a harvest hit by frost.",
+    "subtitle": "Building on a foundation that cannot hold",
+    "picture": {"kind": "boxes", "label": "The parable", "row": [
+      {"box": "reward", "title": "a ripe harvest", "sub": ["ready to gather"]},
+      {"conn": "struck by"},
+      {"box": "trap", "title": "frost wind", "sub": ["cold that burns like fire"]},
+      {"conn": "leaves"},
+      {"box": "trap", "title": "nothing", "sub": ["when most needed"]}]},
+    "key": {"label": "Who did the wrong", "row": [
+      {"box": "trap", "title": "Allah wronged them", "sub": ["the verse denies it"], "strike": true},
+      {"box": "people", "title": "they wronged themselves", "sub": ["no firm foundation"]}]},
+    "then": "Ibn Kathir explains that the wind of sir is {trap}a freezing wind that burns crops like fire{/trap}, striking produce ready to harvest and depriving its owner {idea}when he needs it most{/idea}. Such spending was not built on firm foundations.",
+    "now": "Months of work on a project, then the hard drive dies with no backup. That sinking feeling. {idea}Make sure your good deeds are backed up with faith and sincerity.{/idea}",
+    "old": "Any good I do will count, whatever my intention.",
+    "new": "Good deeds need the foundation of faith and sincerity, or the harvest can be lost.",
+    "try": "Before your next act of giving, pause and make your intention for Allah alone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:118", "surah": 3, "ayah": 118, "place": "madinah",
+    "title": "Don't make insiders of those who wish you harm.",
+    "subtitle": "Choosing who sits in your inner circle",
+    "picture": {"kind": "boxes", "label": "Two kinds of advisors", "row": [
+      {"box": "reward", "title": "one urges good", "sub": ["and encourages it"]},
+      {"box": "trap", "title": "one urges harm", "sub": ["and pushes for it"]},
+      {"conn": "protected is"},
+      {"box": "idea", "title": "whom Allah protects", "sub": ["the only safe one"]}]},
+    "key": {"label": "The inner circle", "row": [
+      {"box": "people", "title": "anyone friendly", "sub": ["gets my secrets"], "strike": true},
+      {"box": "idea", "title": "the sincere", "sub": ["who want good for me"]}]},
+    "then": "Ibn Kathir explains the warning was against taking as close advisors {trap}those who wished the believers hardship{/trap}, who had access to their secrets. He cites the Prophet ﷺ: every leader has {idea}two circles of advisors, one urging good and one urging evil{/idea}.",
+    "now": "The friend who always knows your business and somehow your business always gets around. The colleague whose advice keeps landing you in trouble. {idea}Ask who your inner circle actually wants for you.{/idea}",
+    "old": "Anyone who is nice to me can be trusted with everything.",
+    "new": "My inner circle should be people who want good for me and urge me toward it.",
+    "try": "Think of who you share your private worries with. Ask if they push you toward good.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:119", "surah": 3, "ayah": 119, "place": "madinah",
+    "title": "You love them, they don't love you back.",
+    "subtitle": "Two faces: kind in public, enraged in private",
+    "picture": {"kind": "boxes", "label": "Two faces", "row": [
+      {"box": "people", "title": "when they meet you", "sub": ["\"we believe\""]},
+      {"box": "trap", "title": "when alone", "sub": ["biting fingertips in rage"]},
+      {"conn": "known to"},
+      {"box": "idea", "title": "Allah", "sub": ["what is in the hearts"]}]},
+    "key": {"label": "What to judge by", "row": [
+      {"box": "people", "title": "the smile", "sub": ["in front of me"], "strike": true},
+      {"box": "idea", "title": "Allah knows hearts", "sub": ["I don't have to"]}]},
+    "then": "The believers liked certain hypocrites, thinking they were believers. Ibn Kathir: they {trap}pretended kindness in public and concealed rage in private{/trap}. The verse ends: {idea}Allah knows what is in the hearts{/idea}.",
+    "now": "Now turn it on yourself. You are warm to someone's face, then roll your eyes in the group chat after. {trap}Two faces is easy to slip into.{/trap} {idea}Allah sees the private one.{/idea}",
+    "old": "What I say about people in private doesn't matter if I'm nice to their face.",
+    "new": "Allah knows what is in my heart. I want my private face to match my public one.",
+    "try": "Say nothing about someone today that you wouldn't say to their face.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:120", "surah": 3, "ayah": 120, "place": "madinah",
+    "title": "Patience and taqwa make their plots harmless.",
+    "subtitle": "The defense that works",
+    "picture": {"kind": "boxes", "label": "Their mood", "row": [
+      {"box": "reward", "title": "good reaches you", "sub": ["it grieves them"]},
+      {"box": "trap", "title": "harm reaches you", "sub": ["they rejoice"]}]},
+    "key": {"label": "Your defense", "row": [
+      {"box": "people", "title": "outplot them", "sub": ["fight fire with fire"], "strike": true},
+      {"box": "idea", "title": "patience and taqwa", "sub": ["their plot harms nothing"]}]},
+    "then": "Ibn Kathir notes when the believers had good years they were displeased, and when hardship came, {trap}as at Uhud{/trap}, they were pleased. Allah's direction: {idea}be patient and fear Allah{/idea}, and {reward}their cunning will not harm you at all{/reward}.",
+    "now": "The rival who smirks when you fail and goes quiet when you succeed. You want to beat them at their game. {idea}The verse offers a different plan: patience and taqwa.{/idea} Allah surrounds what they do.",
+    "old": "I have to scheme back to protect myself from people who want me to fail.",
+    "new": "Patience and fearing Allah are the real protection. He surrounds whatever they do.",
+    "try": "When someone's envy bothers you today, answer with sabr and a quiet dua instead of a counter-move.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

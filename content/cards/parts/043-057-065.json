@@ -1,0 +1,179 @@
+[
+  {
+    "id": "43:57", "surah": 43, "ayah": 57, "place": "makkah",
+    "title": "They heard the name of Isa and laughed.",
+    "subtitle": "Grabbing a clever point to escape the message",
+    "picture": {"kind": "boxes", "label": "The gathering", "row": [
+      {"box": "idea", "title": "the Prophet ﷺ", "sub": ["recited a warning"]},
+      {"conn": "they raised"},
+      {"box": "people", "title": "the son of Maryam", "sub": ["as a counterpoint"]},
+      {"box": "trap", "title": "loud laughter", "sub": ["we won"]}]},
+    "key": {"label": "What they were after", "row": [
+      {"box": "people", "title": "the truth", "sub": ["an honest question"], "strike": true},
+      {"box": "trap", "title": "a win", "sub": ["a point to reject with"]}]},
+    "then": "Ibn Ishaq reports the Prophet ﷺ recited a warning about false gods in a gathering of Quraysh. Abdullah bin Az-Zabari then asked about Isa, whom others worshipped, and {trap}those sitting with him were amazed and thought he had a good point{/trap}. Ibn Kathir says {trap}they used this argument to reject the message{/trap}.",
+    "now": "Someone gives you a hard reminder and you come back with \"but what about that scholar who did...\" The room nods, you feel clever. {trap}The reminder is forgotten.{/trap}",
+    "old": "If I can find a hole in the argument, I do not need to listen.",
+    "new": "A clever comeback is not the same as an answer to the truth.",
+    "try": "Next time you hear a reminder, resist the \"what about\" and ask what it asks of you.",
+    "related": ["21:98", "21:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:58", "surah": 43, "ayah": 58, "place": "makkah",
+    "title": "They argued to win, not to understand.",
+    "subtitle": "When debate becomes a hobby",
+    "picture": {"kind": "boxes", "label": "Their question", "row": [
+      {"box": "trap", "title": "our gods or him?", "sub": ["a trap question"]},
+      {"conn": "only for"},
+      {"box": "trap", "title": "argument", "sub": ["a quarrelsome people"]}]},
+    "key": {"label": "Why you argue", "row": [
+      {"box": "trap", "title": "to win", "sub": ["score the point"], "strike": true},
+      {"box": "idea", "title": "to find the truth", "sub": ["even if I lose"]}]},
+    "then": "Ibn Kathir says they knew Isa was not meant by the warning, {trap}and said it only for the sake of argument{/trap}. He cites a hadith from Abu Umamah: {trap}no people go astray after guidance except that they turn to futile argument{/trap}, then the Prophet ﷺ recited this verse.",
+    "now": "Two hours in a comment thread about religion, and neither of you will change your mind. You are not looking for truth, just the last word. {trap}The hadith says that is a sign of drifting.{/trap}",
+    "old": "Arguing about religion shows I care about it.",
+    "new": "Arguing to win is often a sign I have stopped seeking guidance.",
+    "try": "Leave one argument today without replying, and spend the time on a prayer instead.",
+    "related": ["21:98"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:59", "surah": 43, "ayah": 59, "place": "makkah",
+    "title": "Isa was a servant, honored by Allah's favor.",
+    "subtitle": "His true status with Allah",
+    "picture": {"kind": "boxes", "label": "Who Isa was", "row": [
+      {"box": "people", "title": "a servant", "sub": ["no more than that"]},
+      {"box": "reward", "title": "given favor", "sub": ["by Allah"]},
+      {"box": "idea", "title": "an example", "sub": ["for the Children of Israel"]}]},
+    "key": {"label": "What honor means", "row": [
+      {"box": "people", "title": "honor makes you divine", "sub": ["worthy of worship"], "strike": true},
+      {"box": "idea", "title": "honor is a favor", "sub": ["the servant stays a servant"]}]},
+    "then": "Ibn Kathir explains the Prophet ﷺ answered: Isa is {idea}the servant and Messenger of Allah{/idea}. Those like him who spent their lives in devotion to Allah were later taken as lords by others. The verse sets his status: {reward}a servant Allah favored{/reward}.",
+    "now": "A beloved teacher, a scholar you admire, a parent. It is easy to treat them as if they cannot be wrong. {idea}The noblest people are honored servants, and their honor points to Allah, not to themselves.{/idea}",
+    "old": "Someone this good deserves my total devotion.",
+    "new": "Even the greatest people are servants of Allah. My devotion belongs to Him.",
+    "try": "Think of someone you admire deeply. Thank Allah for the good He placed in them.",
+    "related": ["21:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:60", "surah": 43, "ayah": 60, "place": "makkah",
+    "title": "He could replace us all with angels.",
+    "subtitle": "Allah does not need anyone",
+    "picture": {"kind": "boxes", "label": "If He willed", "row": [
+      {"box": "people", "title": "you", "sub": ["on the earth"]},
+      {"conn": "could become"},
+      {"box": "idea", "title": "angels", "sub": ["succeeding one another"]}]},
+    "key": {"label": "Who needs whom", "row": [
+      {"box": "people", "title": "He needs our worship", "sub": ["we do Him a favor"], "strike": true},
+      {"box": "idea", "title": "we need Him", "sub": ["He could replace us"]}]},
+    "then": "Right after declaring Isa a servant, the verse reminds the Quraysh: {idea}if it were Our will, We would have made angels to replace you on the earth{/idea}. Angels and humans alike are His creation, and none of them is needed by Him.",
+    "now": "You pray and feel a little proud, as if you did Allah a favor by showing up. You give charity and expect a thank-you. {idea}He does not need it. You do.{/idea}",
+    "old": "My worship is a gift I give to Allah.",
+    "new": "Allah needs nothing from me. Being allowed to worship Him is the gift.",
+    "try": "After your next prayer, say \"alhamdulillah for letting me pray\" instead of moving on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:61", "surah": 43, "ayah": 61, "place": "makkah",
+    "title": "A sign of the Hour, so do not doubt it.",
+    "subtitle": "Isa as knowledge of the coming Hour",
+    "picture": {"kind": "boxes", "label": "What points to the Hour", "row": [
+      {"box": "people", "title": "Isa", "sub": ["raised the dead by Allah's leave"]},
+      {"conn": "a sign of"},
+      {"box": "idea", "title": "the Hour", "sub": ["have no doubt"]},
+      {"box": "reward", "title": "follow Me", "sub": ["the straight path"]}]},
+    "key": {"label": "About the Hour", "row": [
+      {"box": "people", "title": "maybe, someday", "sub": ["not really real"], "strike": true},
+      {"box": "idea", "title": "no doubt", "sub": ["so follow the path"]}]},
+    "then": "Ibn Kathir says {idea}the miracles and signs that happened at his hands{/idea}, such as raising the dead and healing the sick, are signs of the approach of the Hour. The verse then says: {idea}have no doubt about it, and follow Me{/idea}.",
+    "now": "You believe in the Day of Judgment the way you believe in retirement: true, but far away, not something to plan around today. {idea}The verse says remove the doubt, and then walk.{/idea}",
+    "old": "The Hour is real, but it does not affect my daily choices.",
+    "new": "If I truly do not doubt the Hour, I will follow the path today.",
+    "try": "Make one choice today as if the Hour were near: settle a debt, forgive someone, or pray on time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:62", "surah": 43, "ayah": 62, "place": "makkah",
+    "title": "Do not let Satan block you. He is a clear enemy.",
+    "subtitle": "Knowing who is pushing you off the path",
+    "picture": {"kind": "boxes", "label": "On the path", "row": [
+      {"box": "reward", "title": "the straight path", "sub": ["just described"]},
+      {"conn": "blocked by"},
+      {"box": "trap", "title": "Satan", "sub": ["a clear enemy"]}]},
+    "key": {"label": "That voice inside", "row": [
+      {"box": "people", "title": "just my mood", "sub": ["I am tired"], "strike": true},
+      {"box": "trap", "title": "an enemy's push", "sub": ["name it and resist"]}]},
+    "then": "After calling people to follow the straight path, the verse warns {trap}do not let Satan hinder you{/trap}. Earlier in the surah, the companion devil turned people away while they felt guided. Here he is named plainly: {trap}a clear enemy{/trap}.",
+    "now": "The alarm goes for Fajr and a reasonable voice says \"you need sleep, you have a big day.\" It sounds like self-care. {trap}Sometimes it is the enemy, speaking softly.{/trap}",
+    "old": "My excuses are just me being practical.",
+    "new": "Some of the voices pulling me away are from an enemy, and I can name him.",
+    "try": "Next time you hear the excuse to skip something good, say \"a'udhu billah\" and do it anyway.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:63", "surah": 43, "ayah": 63, "place": "makkah",
+    "title": "Isa came with wisdom to clear up their disputes.",
+    "subtitle": "A prophet's message: clarity, taqwa, obedience",
+    "picture": {"kind": "boxes", "label": "What Isa brought", "row": [
+      {"box": "idea", "title": "clear proofs", "sub": ["signs from Allah"]},
+      {"box": "idea", "title": "wisdom", "sub": ["al-hikmah"]},
+      {"box": "reward", "title": "clarity", "sub": ["on what they differed"]},
+      {"conn": "so"},
+      {"box": "people", "title": "fear Allah, obey", "sub": ["his call"]}]},
+    "key": {"label": "When people differ", "row": [
+      {"box": "trap", "title": "pick a side, fight", "sub": ["prove the others wrong"], "strike": true},
+      {"box": "idea", "title": "return to guidance", "sub": ["with taqwa"]}]},
+    "then": "Isa told his people he came {idea}with wisdom, and to make clear some of that in which you differ{/idea}. His call was the same as every prophet's: {idea}have taqwa of Allah and obey me{/idea}.",
+    "now": "Your community is split on something: the mosque board, the eid date, a family inheritance. Everyone is sure. {idea}A prophet's way was to bring clarity and remind people to fear Allah, not to win the fight.{/idea}",
+    "old": "When people disagree, my job is to prove I am right.",
+    "new": "When people differ, the goal is clarity and taqwa, not victory.",
+    "try": "In one disagreement, ask the other person to explain their view fully before you speak.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:64", "surah": 43, "ayah": 64, "place": "makkah",
+    "title": "My Lord and your Lord. Worship Him.",
+    "subtitle": "Isa's own words point away from himself",
+    "picture": {"kind": "boxes", "label": "Isa's message", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["my Lord"]},
+      {"box": "idea", "title": "Allah", "sub": ["your Lord"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "worship Him", "sub": ["the straight path"]}]},
+    "key": {"label": "Where Isa pointed", "row": [
+      {"box": "people", "title": "toward himself", "sub": ["worship me"], "strike": true},
+      {"box": "idea", "title": "toward Allah", "sub": ["one Lord for all"]}]},
+    "then": "Isa said plainly: {idea}Allah is my Lord and your Lord, so worship Him{/idea}. Earlier, Ibn Kathir noted that all the messengers called to the same thing: worship Allah alone. Isa placed himself next to his people, as a servant of the same Lord.",
+    "now": "The best teachers you have had pointed past themselves: \"do not follow me, follow the evidence.\" {idea}Isa's words do the same, pointing to the One Lord of you both.{/idea}",
+    "old": "Great people want to be followed.",
+    "new": "The truly great point away from themselves, to Allah.",
+    "try": "If someone praises you this week, gently say \"alhamdulillah, it is from Allah.\"",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:65", "surah": 43, "ayah": 65, "place": "makkah",
+    "title": "One clear message, and still they split apart.",
+    "subtitle": "Division after clarity",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "one clear call", "sub": ["worship Him"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "groups differed", "sub": ["and separated"]},
+      {"box": "trap", "title": "a painful Day", "sub": ["for the wrongdoers"]}]},
+    "key": {"label": "Where division comes from", "row": [
+      {"box": "people", "title": "the message was unclear", "sub": ["so we split"], "strike": true},
+      {"box": "trap", "title": "people wronged", "sub": ["after it was clear"]}]},
+    "then": "After Isa's plain call to worship Allah alone, {trap}the groups among them differed{/trap}. Ibn Kathir notes that misguided people who came after such devoted servants took them as lords. The warning is for {trap}those who do wrong{/trap}.",
+    "now": "The family was close until the inheritance. The message of the will was clear, but people took sides anyway. {trap}Division rarely comes from a lack of clarity. It comes from ego.{/trap} Ask which side of that you are on.",
+    "old": "We split because the issue was complicated.",
+    "new": "Often we split after things were clear, because of pride.",
+    "try": "Reach out to one person you drifted from over a disagreement, with a simple \"salam, how are you?\"",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

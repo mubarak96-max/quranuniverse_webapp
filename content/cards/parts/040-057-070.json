@@ -1,0 +1,283 @@
+[
+  {
+    "id": "40:57", "surah": 40, "ayah": 57, "place": "makkah",
+    "title": "The sky is bigger than you. Bringing you back is easy.",
+    "subtitle": "An argument for the resurrection from scale",
+    "picture": {"kind": "boxes", "label": "Compare the size", "row": [
+      {"box": "idea", "title": "heavens and earth", "sub": ["already created"]},
+      {"conn": "greater than"},
+      {"box": "people", "title": "one human", "sub": ["made again"]}]},
+    "key": {"label": "What they accepted, what they denied", "row": [
+      {"box": "people", "title": "He made the sky", "sub": ["they agreed"]},
+      {"box": "trap", "title": "He cannot raise us", "sub": ["they denied"], "strike": true}]},
+    "then": "Ibn Kathir notes many Arabs {idea}accepted that Allah created the heavens and earth{/idea} but denied the resurrection. {trap}They accepted the greater thing and denied the lesser.{/trap} The One who made the sky can easily remake a person.",
+    "now": "You look up from a dark field and see thousands of stars, and you feel small. Then you doubt He can bring you back after death. {idea}The stars are the bigger job.{/idea} Most people never put the two thoughts side by side.",
+    "old": "Rising again after death seems hard to believe.",
+    "new": "The One who built the sky can rebuild me. That is the smaller task.",
+    "try": "Look at the night sky for one minute tonight and think about this verse.",
+    "related": ["46:33"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:58", "surah": 40, "ayah": 58, "place": "makkah",
+    "title": "The blind and the seeing are not the same.",
+    "subtitle": "Nor the one who does good and the one who does harm",
+    "picture": {"kind": "boxes", "label": "Two pairs", "row": [
+      {"box": "people", "title": "the blind", "sub": ["sees nothing"]},
+      {"box": "people", "title": "the seeing", "sub": ["sees far"]},
+      {"conn": "like"},
+      {"box": "reward", "title": "believers doing good", "sub": []},
+      {"box": "trap", "title": "the evildoer", "sub": []}]},
+    "key": {"label": "Does it matter how I live", "row": [
+      {"box": "people", "title": "it all ends the same", "sub": [], "strike": true},
+      {"box": "idea", "title": "not equal", "sub": ["a huge difference"]}]},
+    "then": "Ibn Kathir explains that a blind man who sees nothing {idea}is not the same as a man who sees as far as his eyes reach.{/idea} In the same way, {trap}the righteous and the corrupt are not equal.{/trap} Little do people remember this.",
+    "now": "Sometimes it feels pointless. The cheat got promoted, the honest one got overlooked. {idea}It looks equal from here. It is not.{/idea} Doing good is not wasted just because nobody clapped.",
+    "old": "Good or bad, everyone ends up the same.",
+    "new": "Living rightly and living wrongly are as different as seeing and blindness.",
+    "try": "Do one honest thing today that costs you a little and that no one will notice.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:59", "surah": 40, "ayah": 59, "place": "makkah",
+    "title": "The Hour is coming. No doubt about it.",
+    "subtitle": "Certain, even if most do not believe",
+    "picture": {"kind": "boxes", "label": "Two facts", "row": [
+      {"box": "idea", "title": "the Hour", "sub": ["surely coming"]},
+      {"conn": "yet"},
+      {"box": "people", "title": "most people", "sub": ["do not believe"]}]},
+    "key": {"label": "What makes it true", "row": [
+      {"box": "people", "title": "how many believe", "sub": ["a majority vote"], "strike": true},
+      {"box": "idea", "title": "Allah's word", "sub": ["no doubt in it"]}]},
+    "then": "After the proof from creation, the verse states it plainly: {idea}the Hour will come to pass.{/idea} Ibn Kathir says most people {trap}do not believe in it, and in fact doubt it altogether.{/trap}",
+    "now": "Your friends never talk about the Hereafter. Nobody at work does. It starts to feel unreal because no one mentions it. {idea}Truth is not a vote.{/idea} Something can be certain while most people forget it.",
+    "old": "If almost nobody around me believes it, maybe it is not real.",
+    "new": "The Hour is certain whether or not the people around me think about it.",
+    "try": "Bring up the Hereafter gently in one conversation this week, in a natural way.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:60", "surah": 40, "ayah": 60, "place": "makkah",
+    "title": "Call on Me and I will answer you.",
+    "subtitle": "Dua is worship, and pride is what stops it",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "people", "title": "you", "sub": ["call on Me"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "I will respond", "sub": ["guaranteed"]},
+      {"box": "trap", "title": "too proud to ask", "sub": ["humiliation"]}]},
+    "key": {"label": "Asking Allah", "row": [
+      {"box": "people", "title": "bothering Him", "sub": ["I should not ask so much"], "strike": true},
+      {"box": "idea", "title": "dua is worship", "sub": ["He loves to be asked"]}]},
+    "then": "Ibn Kathir says Allah, {reward}by His grace, encourages His servants to call on Him and guarantees to respond.{/reward} The Prophet ﷺ said: {idea}supplication is worship,{/idea} then recited this verse. Those too proud to call on Him are warned.",
+    "now": "You hate asking people for things. Asking your parents for money, your boss for a day off, feels like begging. {reward}Allah is the opposite: He loves to be asked.{/reward} Sufyan Ath-Thawri called Him the One who loves most those who ask.",
+    "old": "I should not keep asking Allah for small things.",
+    "new": "Asking Allah is itself worship, and He has promised to answer.",
+    "try": "Ask Allah today for one small, ordinary thing you would normally not bother Him with.",
+    "related": ["22:78"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:61", "surah": 40, "ayah": 61, "place": "makkah",
+    "title": "Night to rest, day to see. Most do not say thanks.",
+    "subtitle": "The daily rhythm as a gift",
+    "picture": {"kind": "boxes", "label": "The daily cycle", "row": [
+      {"box": "reward", "title": "night", "sub": ["rest from work"]},
+      {"box": "reward", "title": "day", "sub": ["light to travel and earn"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "no thanks", "sub": ["most people"]}]},
+    "key": {"label": "What sleep is", "row": [
+      {"box": "people", "title": "lost time", "sub": ["just a body need"], "strike": true},
+      {"box": "reward", "title": "a gift", "sub": ["so you can return"]}]},
+    "then": "Ibn Kathir says Allah reminds us that He gave the night {reward}to rest from our activities{/reward} and the day with its light {reward}for journeys and business.{/reward} Yet most people do not show gratitude for it.",
+    "now": "You scroll past midnight, wake up tired, curse the alarm. Then rush into the daylight to work. {idea}The whole rhythm is a gift you never asked for.{/idea} Thanks can start with how you treat your sleep.",
+    "old": "Night and day are just how things are.",
+    "new": "Rest at night and light by day are gifts from Allah worth thanking Him for.",
+    "try": "Tonight, put your phone away ten minutes earlier and thank Allah for sleep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:62", "surah": 40, "ayah": 62, "place": "makkah",
+    "title": "That is your Lord, Creator of all. So why turn away?",
+    "subtitle": "Turning from the Creator to things that create nothing",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["Creator of all things"]},
+      {"conn": "or"},
+      {"box": "trap", "title": "hand-made idols", "sub": ["create nothing"], "strike": true}]},
+    "key": {"label": "Where to turn", "row": [
+      {"box": "trap", "title": "what I made", "sub": ["cannot help me"]},
+      {"box": "idea", "title": "Who made me", "sub": ["can"]}]},
+    "then": "Ibn Kathir explains the One who made night and day is {idea}Allah, the One, Creator of all things.{/idea} So how can you worship {trap}idols which create nothing, being themselves hand-made and carved?{/trap}",
+    "now": "Your own creations can start to rule you: the business you built, the image you curated, the plan you made. {trap}You serve what you made.{/trap} The verse turns you back to the One who made you.",
+    "old": "What I built is what keeps me going.",
+    "new": "Things I made cannot sustain me. The One who made me can.",
+    "try": "Name one thing you made that you serve too much. Give that time to Allah once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:63", "surah": 40, "ayah": 63, "place": "makkah",
+    "title": "This is how people before were turned away too.",
+    "subtitle": "Ignorance and desire as the road away from truth",
+    "picture": {"kind": "boxes", "label": "The same road", "row": [
+      {"box": "people", "title": "earlier peoples", "sub": ["denied His signs"]},
+      {"conn": "and"},
+      {"box": "people", "title": "Quraysh", "sub": ["the same way"]},
+      {"conn": "by"},
+      {"box": "trap", "title": "desire and ignorance", "sub": ["no proof"]}]},
+    "key": {"label": "What turns people away", "row": [
+      {"box": "people", "title": "strong evidence", "sub": [], "strike": true},
+      {"box": "trap", "title": "desires", "sub": ["and ignorance"]}]},
+    "then": "Ibn Kathir says just as Quraysh were led astray, {trap}those before them worshipped others with no proof, on the basis of ignorance and desires.{/trap} They denied the signs of Allah.",
+    "now": "When you drift from prayer, it is rarely because of a strong argument. It is the late nights, the new friends, a want you do not want to give up. {trap}Desire does the steering.{/trap} Notice it.",
+    "old": "If I drift from faith, it is because I have good reasons.",
+    "new": "Usually what pulls me away is desire, not evidence.",
+    "try": "Notice one desire that keeps pulling you from a good habit. Make dua about it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:64", "surah": 40, "ayah": 64, "place": "makkah",
+    "title": "He shaped you, and shaped you well.",
+    "subtitle": "Home, roof, form and food, all from Him",
+    "picture": {"kind": "boxes", "label": "What He made for you", "row": [
+      {"box": "reward", "title": "the earth", "sub": ["a stable home"]},
+      {"box": "reward", "title": "the sky", "sub": ["a roof"]},
+      {"box": "reward", "title": "your form", "sub": ["the best shape"]},
+      {"box": "reward", "title": "good things", "sub": ["food and drink"]}]},
+    "key": {"label": "How you see your body", "row": [
+      {"box": "people", "title": "not good enough", "sub": ["fix this, hide that"], "strike": true},
+      {"box": "reward", "title": "made well", "sub": ["by Him"]}]},
+    "then": "Ibn Kathir explains Allah made the earth {reward}stable and spread out to live on,{/reward} the sky a protecting roof, and {reward}created you in the best and most perfect form,{/reward} with good food and drink. He made the home, the people and the provision.",
+    "now": "You stand at the mirror and list everything wrong with your face. The filters, the comparisons. {reward}He shaped you and made your shape good.{/reward} The verse ends: blessed is Allah, Lord of the worlds.",
+    "old": "My body is a list of flaws to fix.",
+    "new": "Allah shaped me and made my form good. I can thank Him for it.",
+    "try": "Next time you look in the mirror, thank Allah for one part of you before criticising anything.",
+    "related": ["2:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:65", "surah": 40, "ayah": 65, "place": "makkah",
+    "title": "He is the Ever-Living. Call on Him sincerely.",
+    "subtitle": "The One who never dies deserves your call",
+    "picture": {"kind": "boxes", "label": "Who He is", "row": [
+      {"box": "idea", "title": "the Ever-Living", "sub": ["first and last"]},
+      {"box": "idea", "title": "none but Him", "sub": ["no equal"]},
+      {"conn": "so"},
+      {"box": "people", "title": "call on Him", "sub": ["sincere, praising"]}]},
+    "key": {"label": "Who to depend on", "row": [
+      {"box": "people", "title": "people who pass away", "sub": [], "strike": true},
+      {"box": "idea", "title": "the One who lives forever", "sub": []}]},
+    "then": "Ibn Kathir says He is {idea}the Ever-Living, who was, is and shall be, the First and the Last.{/idea} He mentions that Ibn Az-Zubayr said after every prayer, {reward}we worship Him in all sincerity,{/reward} and that the Prophet ﷺ used to say this.",
+    "now": "You lost someone you leaned on: a grandparent, a mentor, a friend. The phone number still sits in your contacts. {idea}Everyone you depend on will one day be gone, except Him.{/idea} He is the one who always picks up.",
+    "old": "The people I rely on will always be there.",
+    "new": "Only Allah is Ever-Living. My deepest reliance belongs with Him.",
+    "try": "After your next prayer, say slowly: la ilaha illallah, with sincerity for Him alone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:66", "surah": 40, "ayah": 66, "place": "makkah",
+    "title": "Once clear proof came, I could not worship anything else.",
+    "subtitle": "The Prophet ﷺ states his position plainly",
+    "picture": {"kind": "boxes", "label": "The Prophet's ﷺ answer", "row": [
+      {"box": "people", "title": "clear proofs", "sub": ["came from my Lord"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "other gods", "sub": ["forbidden to me"], "strike": true},
+      {"box": "idea", "title": "submit", "sub": ["to the Lord of the worlds"]}]},
+    "key": {"label": "After you know", "row": [
+      {"box": "people", "title": "keep both options", "sub": ["just in case"], "strike": true},
+      {"box": "idea", "title": "commit", "sub": ["the proof decided it"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ is told to tell the idol worshippers that {trap}Allah forbids worshipping idols and false gods{/trap} besides Him. Then the next verses give the evidence: {idea}no one but Him deserves worship.{/idea}",
+    "now": "You know what is true but keep a back door open: the old habit, the lucky charm, the it cannot hurt. {idea}The Prophet ﷺ shows the next step after knowing: commit.{/idea}",
+    "old": "I can know the truth and still keep my options open.",
+    "new": "Once the proof is clear, the honest step is to submit fully.",
+    "try": "Close one back door today: an old habit or charm that competes with your trust in Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:67", "surah": 40, "ayah": 67, "place": "makkah",
+    "title": "Dust, a drop, a clot, a child, an adult, an elder.",
+    "subtitle": "Every stage of your life is in His hand",
+    "picture": {"kind": "boxes", "label": "Your stages", "row": [
+      {"box": "plain", "title": "dust", "sub": []},
+      {"box": "plain", "title": "drop, clot", "sub": []},
+      {"box": "people", "title": "a child", "sub": []},
+      {"box": "people", "title": "full strength", "sub": []},
+      {"box": "people", "title": "an elder", "sub": ["if you reach it"]}]},
+    "key": {"label": "Who controls the timeline", "row": [
+      {"box": "people", "title": "I plan my life", "sub": ["all the way to old age"], "strike": true},
+      {"box": "idea", "title": "He sets the term", "sub": ["some leave earlier"]}]},
+    "then": "Ibn Kathir explains that Allah alone takes you through each stage, {idea}by His command and decree.{/idea} Some die before birth, some in childhood or youth, {trap}before old age.{/trap} Ibn Jurayj said this is so you may remember the Resurrection.",
+    "now": "You have a five-year plan, a pension calculator, a bucket list for retirement. Good. But you also know someone who never reached thirty. {idea}The term is His.{/idea} Live today as if it counts.",
+    "old": "I will have plenty of time to get serious later.",
+    "new": "Every stage is from Allah and the end is set by Him, so today matters.",
+    "try": "Do one thing today you have been saving for when you are older and more serious.",
+    "related": ["22:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:68", "surah": 40, "ayah": 68, "place": "makkah",
+    "title": "He gives life and death. He says Be, and it is.",
+    "subtitle": "Nothing resists what He decides",
+    "picture": {"kind": "boxes", "label": "His power", "row": [
+      {"box": "idea", "title": "gives life", "sub": []},
+      {"box": "idea", "title": "causes death", "sub": []},
+      {"conn": "and"},
+      {"box": "idea", "title": "Be", "sub": ["and it is"]}]},
+    "key": {"label": "How hard is it for Him", "row": [
+      {"box": "people", "title": "my problem is too big", "sub": [], "strike": true},
+      {"box": "idea", "title": "one word", "sub": ["Be"]}]},
+    "then": "Ibn Kathir says Allah {idea}is the only One who gives life and death.{/idea} When He decides a thing, He says Be, and it is. {idea}He cannot be opposed or resisted.{/idea}",
+    "now": "The diagnosis, the visa that is stuck, the debt that will not shrink. It feels like a wall. {idea}For Allah, nothing is a wall.{/idea} What He wills needs only one word.",
+    "old": "My problem is too big to be solved.",
+    "new": "Nothing is hard for the One who says Be, and it is.",
+    "try": "Ask Allah today for help with the problem you think is too big, plainly and with hope.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:69", "surah": 40, "ayah": 69, "place": "makkah",
+    "title": "See how those who argue against His signs are turned away.",
+    "subtitle": "A moment of wonder at minds diverted from truth",
+    "picture": {"kind": "boxes", "label": "The puzzle", "row": [
+      {"box": "idea", "title": "clear signs", "sub": ["life, death, creation"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "dispute", "sub": ["falsehood against truth"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "turned away", "sub": ["minds diverted"]}]},
+    "key": {"label": "Where to look", "row": [
+      {"box": "people", "title": "at them", "sub": ["how blind they are"], "strike": true},
+      {"box": "idea", "title": "at myself", "sub": ["where I argue with truth"]}]},
+    "then": "After all these signs of creation, Allah asks the Prophet ﷺ: do you not wonder at those who {trap}dispute the truth by means of falsehood,{/trap} as Ibn Kathir puts it, {trap}how their minds are diverted?{/trap}",
+    "now": "It is easy to shake your head at people who argue against the obvious. Harder to see your own version: the hours you spend justifying a habit you know is wrong. {idea}Read this as a mirror first.{/idea}",
+    "old": "Only other people argue against what is obvious.",
+    "new": "I too can argue myself away from what I know is true.",
+    "try": "Catch one moment today where you argue with a truth you already accept. Stop and drop it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "40:70", "surah": 40, "ayah": 70, "place": "makkah",
+    "title": "They denied the Book and the messengers. They will come to know.",
+    "subtitle": "A short, stern warning",
+    "picture": {"kind": "boxes", "label": "What they rejected", "row": [
+      {"box": "idea", "title": "the Book", "sub": []},
+      {"box": "idea", "title": "the messengers' message", "sub": ["guidance, clear proof"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "they will know", "sub": ["a stern warning"]}]},
+    "key": {"label": "When you find out", "row": [
+      {"box": "trap", "title": "later", "sub": ["when it cannot help"]},
+      {"box": "reward", "title": "now", "sub": ["while it still helps"]}]},
+    "then": "Ibn Kathir says they denied the Book and {idea}the guidance and clear proof{/idea} the messengers brought. They will come to know is {trap}a stern warning and clear threat{/trap} from the Lord, like woe that Day to the deniers.",
+    "now": "Everyone finds out eventually whether the warning was true. The only choice is when. {reward}Finding out now, through the Book, is a mercy.{/reward} Finding out later is the warning.",
+    "old": "I will see for myself when the time comes.",
+    "new": "I can learn the truth now from the Book, instead of finding out too late.",
+    "try": "Open the Quran today and read the next page with the intention to learn, not just finish.",
+    "related": ["77:15"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "id": "26:1", "surah": 26, "ayah": 1, "place": "makkah",
+    "title": "Three letters, then a long run of stories.",
+    "subtitle": "Pausing before a surah full of warnings",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Ta Sin Mim", "sub": ["three letters", "meaning known to Allah"]},
+      {"conn": "before"},
+      {"box": "idea", "title": "seven nations", "sub": ["told one after another"]}]},
+    "key": {"label": "What the letters ask", "row": [
+      {"box": "people", "title": "skip to the point", "sub": ["I only want the lesson"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["something weighty follows"]}]},
+    "then": "This surah came in the middle Makkan years, when the Prophet ﷺ was being called a poet and a sorcerer. It opens with three letters, Ta Sin Mim. {idea}Their meaning is known to Allah.{/idea} What follows is a long series of stories about people who were shown signs and still refused.",
+    "now": "You open the app between two notifications, half your mind still on the email you did not answer. Before the stories begin, there are three letters you cannot explain. {idea}A small speed bump.{/idea} A chance to put the phone face down and actually arrive.",
+    "old": "I need to understand every word before it can do anything for me.",
+    "new": "Some words exist to make me stop, notice, and listen to what comes next.",
+    "try": "Before you read today, take three slow breaths and silence your phone first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:2", "surah": 26, "ayah": 2, "place": "makkah",
+    "title": "A Book that draws a clear line.",
+    "subtitle": "What clear means in this surah",
+    "picture": {"kind": "boxes", "label": "What the Book does", "row": [
+      {"box": "idea", "title": "the clear Book", "sub": ["plain, unambiguous"]},
+      {"conn": "separates"},
+      {"box": "reward", "title": "guidance", "sub": ["truth"]},
+      {"box": "trap", "title": "misguidance", "sub": ["falsehood"]}]},
+    "key": {"label": "Where the problem sits", "row": [
+      {"box": "people", "title": "it is too unclear", "sub": ["that is why I hold back"], "strike": true},
+      {"box": "idea", "title": "it is clear", "sub": ["the question is my will"]}]},
+    "then": "The people of Makkah said the message was poetry or magic. This verse answers first: these are verses of {idea}a clear Book{/idea}, one that separates truth from falsehood and guidance from misguidance. The rest of the surah shows that people refused it, not because it was unclear.",
+    "now": "You tell yourself you will start praying on time once you understand everything better. You have watched hours of videos about it. {trap}The fog is not always in the message.{/trap} Sometimes the instruction is clear, and the delay is yours.",
+    "old": "If it were clearer, I would already be doing it.",
+    "new": "The Book is clear. What I do with that clarity is the real test.",
+    "try": "Pick one thing you already know is right and have been delaying. Do it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:3", "surah": 26, "ayah": 3, "place": "makkah",
+    "title": "You were never meant to carry their choices.",
+    "subtitle": "Allah consoles His Messenger ﷺ in his grief",
+    "picture": {"kind": "boxes", "label": "The weight he felt", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["eager for them to be guided"]},
+      {"conn": "grieves over"},
+      {"box": "people", "title": "his people", "sub": ["refusing, mocking"]}]},
+    "key": {"label": "Whose job is what", "row": [
+      {"box": "trap", "title": "their faith is on me", "sub": ["grief that wears you down"], "strike": true},
+      {"box": "idea", "title": "convey, then trust", "sub": ["guidance belongs to Allah"]}]},
+    "then": "The Prophet ﷺ was so keen for his people to be guided that the grief was wearing him down. Ibn Kathir says this verse is {reward}Allah consoling His Messenger{/reward} for those who would not believe, like the verse telling him not to destroy himself in sorrow for them.",
+    "now": "Your brother stopped praying years ago. Every family dinner you push, then lie awake replaying it. {trap}You have made his heart your project.{/trap} {idea}Your part is to love him and speak well.{/idea} The rest was never in your hands.",
+    "old": "If someone I love does not change, I have failed.",
+    "new": "I can care deeply and still let Allah hold what only He can hold.",
+    "try": "Make one sincere dua for someone you worry about, then let tonight be calm.",
+    "related": ["35:8", "18:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:4", "surah": 26, "ayah": 4, "place": "makkah",
+    "title": "Allah could force every neck to bow. He chose not to.",
+    "subtitle": "Faith only counts when it is chosen",
+    "picture": {"kind": "boxes", "label": "What could happen", "row": [
+      {"box": "idea", "title": "a sign from the sky", "sub": ["if Allah willed"]},
+      {"conn": "would make"},
+      {"box": "people", "title": "every neck bow", "sub": ["no choice left"]}]},
+    "key": {"label": "Why it does not", "row": [
+      {"box": "trap", "title": "forced belief", "sub": ["not what Allah wants"], "strike": true},
+      {"box": "reward", "title": "chosen belief", "sub": ["the only kind He accepts"]}]},
+    "then": "Quraysh kept demanding a sign that would settle things. Ibn Kathir explains: Allah could send a sign that would {idea}force them to believe{/idea}, but He does not, because {reward}He wants no one to believe except by choice.{/reward}",
+    "now": "You wish Allah would just send you a sign. A dream, a voice, a moment so loud you could not doubt again. But a faith that is forced is not yours. {idea}The quiet choice you make each morning is the thing He wants.{/idea}",
+    "old": "If Allah wanted me to believe more, He would show me something undeniable.",
+    "new": "The freedom to choose is the gift. My choosing is what makes it worth something.",
+    "try": "Tomorrow morning, before checking anything, choose to say one dua on purpose.",
+    "related": ["10:99", "11:118"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:5", "surah": 26, "ayah": 5, "place": "makkah",
+    "title": "Every new reminder, the same turned back.",
+    "subtitle": "A habit of turning away",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "idea", "title": "a fresh reminder", "sub": ["from the Most Merciful"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "turning away", "sub": ["every single time"]}]},
+    "key": {"label": "Where the reminder comes from", "row": [
+      {"box": "people", "title": "another lecture", "sub": ["heard it before"], "strike": true},
+      {"box": "reward", "title": "mercy", "sub": ["sent by the Most Merciful"]}]},
+    "then": "Each time new revelation came to the Prophet ﷺ, many in Makkah turned away. Ibn Kathir notes this was the pattern with every nation: {trap}most people turn away from each new reminder.{/trap} The verse names the sender: {reward}the Most Merciful.{/reward}",
+    "now": "Your friend forwards a short reminder in the group chat. You swipe it away without reading. A khutbah topic hits close, and you start thinking about lunch. {trap}Turning away becomes automatic.{/trap} {idea}Each reminder is mercy knocking.{/idea}",
+    "old": "I have heard this before, so it is not for me.",
+    "new": "A reminder from the Most Merciful is mercy, even when it is familiar.",
+    "try": "The next reminder someone sends you, read it fully before replying or scrolling.",
+    "related": ["12:103", "36:30", "23:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:6", "surah": 26, "ayah": 6, "place": "makkah",
+    "title": "What they laughed at will come back as news.",
+    "subtitle": "Mockery has a delayed answer",
+    "picture": {"kind": "boxes", "label": "The sequence", "row": [
+      {"box": "trap", "title": "they denied", "sub": ["and mocked"]},
+      {"conn": "then comes"},
+      {"box": "idea", "title": "the news", "sub": ["of what they mocked"]}]},
+    "key": {"label": "What mockery changes", "row": [
+      {"box": "people", "title": "laughing makes it false", "sub": ["if it is a joke, it is safe"], "strike": true},
+      {"box": "idea", "title": "truth arrives anyway", "sub": ["after a while"]}]},
+    "then": "Quraysh did not only reject the message. They {trap}ridiculed it{/trap}. Ibn Kathir explains that they will {idea}come to know the consequences of that denial after a while{/idea}, and links it to the surah's last verse about wrongdoers learning where they end up.",
+    "now": "Someone at work rolls their eyes when you step out to pray, and you laugh along to fit in. Or you make a joke about something sacred because it gets a reaction. {trap}A laugh does not change what is true.{/trap} It only changes how you will feel when you see it.",
+    "old": "If I make it a joke, I do not have to take it seriously.",
+    "new": "Mocking something real does not shrink it. It only delays the moment I meet it.",
+    "try": "Next time a joke about faith comes up, simply do not join in.",
+    "related": ["26:227"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:7", "surah": 26, "ayah": 7, "place": "makkah",
+    "title": "They asked for a sign. The ground was full of them.",
+    "subtitle": "Every noble kind growing from the earth",
+    "picture": {"kind": "boxes", "label": "What the earth produces", "row": [
+      {"box": "plain", "title": "the earth", "sub": ["spread out"]},
+      {"conn": "grows"},
+      {"box": "reward", "title": "every noble kind", "sub": ["crops, fruit, animals"]}]},
+    "key": {"label": "Where the sign is", "row": [
+      {"box": "people", "title": "show me a miracle", "sub": ["something from the sky"], "strike": true},
+      {"box": "idea", "title": "look down", "sub": ["the earth is already speaking"]}]},
+    "then": "The people demanded a sign from the sky. The verse points them to the ground. Ibn Kathir says Allah tells those who opposed His Messenger ﷺ that He is the One who {idea}created the earth and made every good kind of crop, fruit and animal grow{/idea} in it.",
+    "now": "You walk past the market stall of mangoes, the green strip by the bus stop, a dog asleep in the sun. You are waiting for some big moment to feel faith. {reward}It is growing on your street.{/reward} You just have not looked.",
+    "old": "I would believe more if I saw something extraordinary.",
+    "new": "The ordinary things growing around me are the extraordinary sign.",
+    "try": "Hold one piece of fruit today and look at it for ten seconds before eating.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:8", "surah": 26, "ayah": 8, "place": "makkah",
+    "title": "The sign was there. Most still did not believe.",
+    "subtitle": "The first refrain, after the living earth",
+    "picture": {"kind": "boxes", "label": "What the earth proved", "row": [
+      {"box": "reward", "title": "every noble kind", "sub": ["grown from the earth"]},
+      {"conn": "is"},
+      {"box": "idea", "title": "a sign", "sub": ["of the Creator's power"]}]},
+    "key": {"label": "What most did", "row": [
+      {"box": "people", "title": "seeing leads to believing", "sub": ["automatically"], "strike": true},
+      {"box": "trap", "title": "most did not", "sub": ["the sign was not the problem"]}]},
+    "then": "This line will repeat after every story in the surah. Here it follows the living earth. Ibn Kathir says the growing earth is {idea}evidence of the power of the Creator{/idea}, yet despite that {trap}the majority do not believe.{/trap}",
+    "now": "Your phone has a gallery of sunsets and your kid's first steps. You saved them because they moved you. Then you closed the app. {idea}Moved is not the same as changed.{/idea} The sign did its part.",
+    "old": "Being amazed by creation is the same as having faith.",
+    "new": "A sign is an invitation. Most people admire it and still walk past.",
+    "try": "Next time something in nature moves you, say Subhan Allah out loud before moving on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:9", "surah": 26, "ayah": 9, "place": "makkah",
+    "title": "Mighty enough to end it. Merciful enough to wait.",
+    "subtitle": "Two names that close each story",
+    "picture": {"kind": "boxes", "label": "Your Lord is", "row": [
+      {"box": "idea", "title": "the Mighty", "sub": ["power over all things"]},
+      {"box": "reward", "title": "the Merciful", "sub": ["gives time to repent"]}]},
+    "key": {"label": "Why the delay", "row": [
+      {"box": "people", "title": "nothing happened", "sub": ["so it must be fine"], "strike": true},
+      {"box": "reward", "title": "He is giving time", "sub": ["to turn back"]}]},
+    "then": "The surah's second refrain. Ibn Kathir explains that Allah is {idea}Mighty{/idea}, with power to subdue all things, and {reward}Merciful{/reward}, because He does not hurry to punish the one who sins but gives him time to repent. Sa'id bin Jubayr said He is merciful to those who turn back to Him.",
+    "now": "You did something last year you are still ashamed of, and nothing fell on you. Part of you decided it did not matter. {reward}The quiet is not indifference. It is time given.{/reward} The door you think is closed has been held open.",
+    "old": "If nothing bad happened, Allah must not mind.",
+    "new": "The time I have been given is His mercy, waiting for me to turn back.",
+    "try": "Say astaghfirullah tonight for one specific thing, by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:10", "surah": 26, "ayah": 10, "place": "makkah",
+    "title": "The first story begins with a call to Musa.",
+    "subtitle": "Sent to the wrongdoing people",
+    "picture": {"kind": "boxes", "label": "The call", "row": [
+      {"box": "idea", "title": "your Lord", "sub": ["called from the mountain"]},
+      {"conn": "sends"},
+      {"box": "people", "title": "Musa", "sub": ["chosen and spoken to"]},
+      {"conn": "to"},
+      {"box": "trap", "title": "the wrongdoers", "sub": ["oppressors"]}]},
+    "key": {"label": "Who does the sending", "row": [
+      {"box": "people", "title": "Musa volunteers", "sub": ["his own idea"], "strike": true},
+      {"box": "idea", "title": "Allah calls", "sub": ["Musa answers"]}]},
+    "then": "After the earth's signs, the surah turns to stories. Ibn Kathir describes how Allah {idea}called Musa from the side of the mountain{/idea}, spoke with him, chose him and sent him to Fir'awn and his people. Their description comes first: {trap}wrongdoing people.{/trap}",
+    "now": "You see something wrong at work. A manager humiliating the new hire, a number fudged on a report. You think someone else will say something. {idea}Sometimes the call to stand up comes to you, not to someone braver.{/idea}",
+    "old": "Standing up to wrong is for people more qualified than me.",
+    "new": "When the call comes to me, it is because I was the one sent.",
+    "try": "Notice one small unfairness today and say one honest, kind sentence about it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:11", "surah": 26, "ayah": 11, "place": "makkah",
+    "title": "Will they not fear Allah? A question, not a curse.",
+    "subtitle": "The door left open for Fir'awn's people",
+    "picture": {"kind": "boxes", "label": "The message carries", "row": [
+      {"box": "people", "title": "Fir'awn's people", "sub": ["named as wrongdoers"]},
+      {"conn": "asked"},
+      {"box": "idea", "title": "will they not fear?", "sub": ["a question still open"]}]},
+    "key": {"label": "The tone", "row": [
+      {"box": "trap", "title": "they are finished", "sub": ["no point trying"], "strike": true},
+      {"box": "reward", "title": "a question", "sub": ["room to turn back"]}]},
+    "then": "Allah names the people: {trap}the people of Fir'awn{/trap}, who were oppressing the Children of Israel. Then comes a question, not a verdict: {idea}will they not fear Allah?{/idea} Even to them, a messenger is being sent.",
+    "now": "There is someone you have written off. An ex-friend, a relative who hurt you. In your head their story is already over. {reward}Allah sent a messenger even to Fir'awn's people.{/reward} The question was still open for them.",
+    "old": "Some people are too far gone to bother with.",
+    "new": "If Allah left a question open for them, I can leave a little room too.",
+    "try": "Think of someone you have written off and make a short dua for their guidance.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:12", "surah": 26, "ayah": 12, "place": "makkah",
+    "title": "Even a prophet said: I am afraid.",
+    "subtitle": "Musa tells his Lord his fear honestly",
+    "picture": {"kind": "boxes", "label": "What Musa says", "row": [
+      {"box": "people", "title": "Musa", "sub": ["given the mission"]},
+      {"conn": "admits"},
+      {"box": "trap", "title": "I fear", "sub": ["they will deny me"]}]},
+    "key": {"label": "Where fear goes", "row": [
+      {"box": "people", "title": "hide it", "sub": ["fear means weak faith"], "strike": true},
+      {"box": "idea", "title": "say it to Allah", "sub": ["honesty in dua"]}]},
+    "then": "Musa does not pretend. His first words after the command are {trap}My Lord, I fear they will deny me.{/trap} Ibn Kathir says Musa {idea}asked Allah to remove these difficulties{/idea} for him, as he did in Surah Ta Ha when he asked for his chest to be opened.",
+    "now": "You have the job interview, the hard talk with your parents, the presentation tomorrow. You tell everyone you are fine. {idea}You can tell Allah you are scared.{/idea} Musa did, and the mission still went ahead.",
+    "old": "Admitting fear means I do not trust Allah enough.",
+    "new": "Telling Allah exactly what I fear is part of trusting Him.",
+    "try": "Tonight, tell Allah in plain words one fear you have about tomorrow.",
+    "related": ["20:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:13", "surah": 26, "ayah": 13, "place": "makkah",
+    "title": "Tight chest, slow tongue. So send my brother too.",
+    "subtitle": "Asking for help is part of the mission",
+    "picture": {"kind": "boxes", "label": "What Musa names", "row": [
+      {"box": "trap", "title": "a tight chest", "sub": ["anxiety"]},
+      {"box": "trap", "title": "a slow tongue", "sub": ["words do not flow"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "send Harun", "sub": ["a helper"]}]},
+    "key": {"label": "What strength looks like", "row": [
+      {"box": "people", "title": "do it alone", "sub": ["needing help is failure"], "strike": true},
+      {"box": "idea", "title": "ask for a partner", "sub": ["Musa did"]}]},
+    "then": "Musa names his weaknesses: {trap}his chest tightens and his tongue is not fluent.{/trap} Then he asks for a solution: {reward}send for Harun.{/reward} Ibn Kathir links this to Ta Ha, where Musa asks for ease and is told his request is granted.",
+    "now": "You took on the community event, the family move, the project nobody else wanted. Your chest is tight and you are too proud to ask. {idea}Musa asked for his brother.{/idea} Naming what you lack and asking for help is not weakness.",
+    "old": "If I need help, I am not cut out for this.",
+    "new": "Knowing my limits and asking for a partner is how hard things get done.",
+    "try": "Ask one person today to help with one specific part of something heavy.",
+    "related": ["20:25", "20:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:14", "surah": 26, "ayah": 14, "place": "makkah",
+    "title": "His past was waiting for him in Egypt.",
+    "subtitle": "Musa's fear of the old charge",
+    "picture": {"kind": "boxes", "label": "What Musa carries", "row": [
+      {"box": "trap", "title": "the old deed", "sub": ["the Egyptian he killed"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "I fear", "sub": ["they will kill me"]}]},
+    "key": {"label": "What decides the mission", "row": [
+      {"box": "people", "title": "my past disqualifies me", "sub": ["they will bring it up"], "strike": true},
+      {"box": "idea", "title": "Allah still sends him", "sub": ["the past is not the end"]}]},
+    "then": "Ibn Kathir explains the charge: Musa had {trap}killed an Egyptian{/trap}, and that was why he had fled Egypt. Now he is being sent straight back to the people who wanted him for it. He tells Allah plainly that he fears for his life.",
+    "now": "You want to start teaching kids at the masjid, or speak up in the family. But there is that thing from years ago, and you are sure someone will remember. {idea}Musa's past was real, and he was still sent.{/idea}",
+    "old": "My past mistakes mean I have no right to do good now.",
+    "new": "My past can be named honestly and still not have the last word.",
+    "try": "Write down one good thing you have held back from because of your past. Take one step.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:15", "surah": 26, "ayah": 15, "place": "makkah",
+    "title": "No. Go, both of you. We are with you, listening.",
+    "subtitle": "Allah's answer to every fear Musa named",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "idea", "title": "No", "sub": ["do not fear that"]},
+      {"box": "reward", "title": "go both", "sub": ["Harun granted"]},
+      {"box": "reward", "title": "with Our signs", "sub": ["proof in hand"]},
+      {"box": "reward", "title": "We are with you", "sub": ["listening"]}]},
+    "key": {"label": "What changes", "row": [
+      {"box": "people", "title": "the fear goes away", "sub": ["then I can go"], "strike": true},
+      {"box": "idea", "title": "Allah goes with you", "sub": ["so you can go afraid"]}]},
+    "then": "Allah answers Musa's fears in one line. {idea}No{/idea}, do not be afraid of that. Harun will go too. Ibn Kathir explains being with them means {reward}His protection, care, support and help{/reward}, like the verse I am with you both, hearing and seeing.",
+    "now": "You are in the car outside the hospital, or the courthouse, or the office where you will hand in your notice. Your hands are cold. {reward}Nothing about the room has changed, but you do not walk in alone.{/reward} He is listening.",
+    "old": "I will go once I stop being afraid.",
+    "new": "I can go while still afraid, because Allah is with me and listening.",
+    "try": "Before your next hard moment, whisper: Allah is with me, He hears.",
+    "related": ["28:35", "20:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

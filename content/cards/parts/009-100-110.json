@@ -1,0 +1,230 @@
+[
+  {
+    "id": "9:100", "surah": 9, "ayah": 100, "place": "madinah",
+    "title": "Allah is pleased with them, and they with Him.",
+    "subtitle": "The first ones, and those who follow well",
+    "picture": {"kind": "boxes", "label": "Who the verse names", "row": [
+      {"box": "people", "title": "the Muhajirin", "sub": ["left their homes first"]},
+      {"box": "people", "title": "the Ansar", "sub": ["took them in first"]},
+      {"box": "people", "title": "those who follow", "sub": ["with excellence"]},
+      {"conn": "all receive"},
+      {"box": "reward", "title": "mutual pleasure", "sub": ["He with them, they with Him"]}]},
+    "key": {"label": "Where you fit", "row": [
+      {"box": "people", "title": "too late for this", "sub": ["it was only for them"], "strike": true},
+      {"box": "idea", "title": "following well", "sub": ["the door left open"]}]},
+    "then": "After many verses on those who stayed behind, the surah turns to {reward}the foremost{/reward}: the Muhajirin and Ansar. Scholars Ibn Kathir cites said they were those who gave the pledge at Hudaybiyyah, or who prayed toward both qiblahs. Then come {idea}those who followed them with excellence.{/idea}",
+    "now": "You may feel your faith is second-hand, learned from an app, a parent, a convert friend's story. The verse leaves a place in the circle for {idea}those who followed well{/idea}, long after the first ones. Being late does not lock you out.",
+    "old": "The great reward was only for the first generation.",
+    "new": "Following their lead with excellence brings me into the same pleasure.",
+    "try": "Read about one of the early Companions today and copy one small habit of theirs.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:101", "surah": 9, "ayah": 101, "place": "madinah",
+    "title": "You do not know them; We know them.",
+    "subtitle": "Hypocrisy no one could see, not even the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "Hidden in plain sight", "row": [
+      {"box": "people", "title": "around Madinah", "sub": ["some hypocrites"]},
+      {"box": "people", "title": "in Madinah", "sub": ["persisting in it"]},
+      {"conn": "unknown to"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["saw them daily"]},
+      {"box": "idea", "title": "known to Allah", "sub": ["every one"]}]},
+    "key": {"label": "Whose job it is", "row": [
+      {"box": "trap", "title": "label others", "sub": ["\"he is for the Fire\""], "strike": true},
+      {"box": "idea", "title": "know myself", "sub": ["the only file I can read"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ {idea}used to see them day and night{/idea} without knowing exactly who they were. Qatadah drew a lesson: some people claim to know who is in Paradise and who is in the Fire, yet {trap}do not know their own end.{/trap} You know more about yourself than about anyone else.",
+    "now": "Someone in the comments says that scholar is a hypocrite, that cousin is going to Hell, that family is not real Muslims. It sounds confident. {idea}The verse says even the Prophet ﷺ was not given that knowledge of everyone.{/idea} Your own heart is the only one you can check.",
+    "old": "I can usually tell who is sincere and who is fake.",
+    "new": "Only Allah knows hearts; my job is to examine my own.",
+    "try": "The next time you want to judge someone's faith, look at your own instead.",
+    "related": ["47:30", "26:112", "11:86"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:102", "surah": 9, "ayah": 102, "place": "madinah",
+    "title": "They admitted it: good deeds mixed with a bad one.",
+    "subtitle": "Hope for people who are partly good",
+    "picture": {"kind": "boxes", "label": "Abu Lubabah and his friends", "row": [
+      {"box": "people", "title": "stayed behind", "sub": ["out of laziness, not doubt"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "admitted it", "sub": ["tied themselves to pillars"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "were untied", "sub": ["pardoned by the Prophet ﷺ"]}]},
+    "key": {"label": "What a mixed record means", "row": [
+      {"box": "people", "title": "one bad deed", "sub": ["and I am ruined"], "strike": true},
+      {"box": "reward", "title": "perhaps He turns", "sub": ["to those who admit it"]}]},
+    "then": "Ibn Kathir says these were believers who stayed away from Tabuk {idea}out of laziness and preferring comfort{/idea}, not doubt. Abu Lubabah and some friends tied themselves to the masjid pillars until the Prophet ﷺ would untie them. When this verse came, {reward}he untied and pardoned them.{/reward} The verse covers all who mix good and bad.",
+    "now": "You pray, you are kind to your parents, you give. And there is one thing you keep doing that you are not proud of. {reward}The verse is for you.{/reward} Not hiding it, not excusing it, just admitting it to Allah is where the door opens.",
+    "old": "My bad deed cancels out the good in me.",
+    "new": "Admitting the bad alongside the good is the start of being forgiven.",
+    "try": "Tell Allah plainly about one wrong you keep repeating. Ask Him to turn to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:103", "surah": 9, "ayah": 103, "place": "madinah",
+    "title": "Charity cleans the giver, and a prayer comforts them.",
+    "subtitle": "What giving does for the one who gives",
+    "picture": {"kind": "boxes", "label": "What the charity does", "row": [
+      {"box": "people", "title": "the giver", "sub": ["hands over wealth"]},
+      {"conn": "is"},
+      {"box": "reward", "title": "purified", "sub": ["cleaned of the stain"]},
+      {"box": "reward", "title": "made to grow", "sub": ["in goodness"]},
+      {"box": "reward", "title": "prayed for", "sub": ["a comfort for them"]}]},
+    "key": {"label": "Who gains from charity", "row": [
+      {"box": "people", "title": "only the receiver", "sub": ["I lose, they gain"], "strike": true},
+      {"box": "reward", "title": "the giver too", "sub": ["purified and comforted"]}]},
+    "then": "Allah told the Prophet ﷺ to take charity {reward}to purify and sanctify{/reward} the givers, and to pray for them. Whenever charity was brought, he would pray for the family who brought it, like {reward}O Allah, bless the family of Abu Awfa.{/reward} Ibn Abbas said his prayer was a mercy for them.",
+    "now": "You transfer your zakah and close the app. It feels like a bill paid. But giving is also a wash for you: the attachment loosens, the heart lightens. {idea}And when someone thanks you and prays for you, that prayer is a gift back.{/idea}",
+    "old": "Charity is something I lose for someone else's benefit.",
+    "new": "Charity cleans and comforts me as much as it helps them.",
+    "try": "When someone gives to you or helps you today, make a short dua for them out loud.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:104", "surah": 9, "ayah": 104, "place": "madinah",
+    "title": "Your charity reaches Allah's Hand first.",
+    "subtitle": "He accepts both repentance and giving",
+    "picture": {"kind": "boxes", "label": "What Allah accepts", "row": [
+      {"box": "idea", "title": "repentance", "sub": ["from His servants"]},
+      {"box": "idea", "title": "charity", "sub": ["received in His Right Hand"]},
+      {"conn": "grows into"},
+      {"box": "reward", "title": "like Uhud", "sub": ["a bite becomes a mountain"]}]},
+    "key": {"label": "How small gifts are treated", "row": [
+      {"box": "people", "title": "too small to count", "sub": ["one date, one bite"], "strike": true},
+      {"box": "reward", "title": "raised and grown", "sub": ["like a pony raised with care"]}]},
+    "then": "Ibn Kathir says this verse {idea}encourages repentance and charity{/idea}, each of which erases sins. The Prophet ﷺ said Allah receives charity in His Right Hand and {reward}raises it as one of you raises a young horse, until a bite becomes like Uhud.{/reward} Ibn Masud said charity reaches Allah's Hand before the needy's hand.",
+    "now": "The few coins in the masjid box. The meal you bought the man outside the station. The small transfer you almost did not bother with. {reward}It does not stay small.{/reward} Allah takes it and raises it, the way you raise something you love.",
+    "old": "What I can afford to give is too small to matter.",
+    "new": "Allah accepts even a little and grows it far beyond what I gave.",
+    "try": "Give something small today, a meal, a few coins, and pair it with a quiet repentance.",
+    "related": ["2:276"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:105", "surah": 9, "ayah": 105, "place": "madinah",
+    "title": "Do your deeds; they will be seen.",
+    "subtitle": "Seen by Allah, His Messenger, and the believers",
+    "picture": {"kind": "boxes", "label": "Who sees your work", "row": [
+      {"box": "people", "title": "your deeds", "sub": ["what you actually do"]},
+      {"conn": "seen by"},
+      {"box": "idea", "title": "Allah", "sub": ["first and fully"]},
+      {"box": "people", "title": "His Messenger ﷺ", "sub": ["and the believers"]},
+      {"box": "idea", "title": "then shown to you", "sub": ["every one of them"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "people", "title": "how I look today", "sub": ["good for now"], "strike": true},
+      {"box": "idea", "title": "how I end", "sub": ["deeds at the finish"]}]},
+    "then": "Mujahid saw this as a warning to those who defy Allah: their deeds will be shown. Aishah said: if someone's good deeds please you, recite this verse. The Prophet ﷺ said {idea}do not be pleased with anyone's deeds until you see how they end{/idea}, for people change in both directions.",
+    "now": "You are on a good streak: praying on time, reading every day. Or you are in a bad one and feel it is too late. {idea}Neither is the end of your story.{/idea} The verse simply says: keep working, it is all seen.",
+    "old": "My current streak, good or bad, defines me.",
+    "new": "What I keep doing to the end is what will be shown.",
+    "try": "Do one good deed today as if it might be the last thing on your record.",
+    "related": ["69:18", "86:9", "100:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:106", "surah": 9, "ayah": 106, "place": "madinah",
+    "title": "Three men left waiting for Allah's decision.",
+    "subtitle": "When your case is still open",
+    "picture": {"kind": "boxes", "label": "The three who stayed behind", "row": [
+      {"box": "people", "title": "Kab bin Malik", "sub": []},
+      {"box": "people", "title": "Mararah bin Ar-Rabi", "sub": []},
+      {"box": "people", "title": "Hilal bin Umayyah", "sub": []},
+      {"conn": "left with"},
+      {"box": "idea", "title": "Allah's decree", "sub": ["not yet announced"]}]},
+    "key": {"label": "What waiting means", "row": [
+      {"box": "trap", "title": "already rejected", "sub": ["no answer means no"], "strike": true},
+      {"box": "reward", "title": "mercy first", "sub": ["it comes before His anger"]}]},
+    "then": "Ibn Abbas and others said these were {idea}three Companions{/idea} who stayed behind from Tabuk out of laziness, not doubt. Unlike Abu Lubabah's group, they did not tie themselves up, and their pardon {trap}was delayed.{/trap} Ibn Kathir adds: they were at Allah's mercy, and {reward}His mercy comes before His anger.{/reward}",
+    "now": "You repented, you meant it, and still the guilt has not lifted. No sign, no relief yet. {reward}Waiting is not the same as rejection.{/reward} These three men waited too, and the answer came later in this very surah.",
+    "old": "If I do not feel forgiven yet, I am not.",
+    "new": "Waiting for Allah's answer can still end in His mercy.",
+    "try": "Keep up one sincere act of repentance today even if you do not feel any change yet.",
+    "related": ["9:117", "9:118"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:107", "surah": 9, "ayah": 107, "place": "madinah",
+    "title": "A mosque built to harm and divide.",
+    "subtitle": "When something good-looking is built for bad",
+    "picture": {"kind": "boxes", "label": "What they said and what it was", "row": [
+      {"box": "people", "title": "\"for the sick\"", "sub": ["on rainy nights"]},
+      {"conn": "really"},
+      {"box": "trap", "title": "to harm", "sub": ["the Quba community"]},
+      {"box": "trap", "title": "to divide", "sub": ["the believers"]},
+      {"box": "trap", "title": "an outpost", "sub": ["for a sworn enemy"]}]},
+    "key": {"label": "What the verse looks at", "row": [
+      {"box": "people", "title": "the building", "sub": ["looks like worship"], "strike": true},
+      {"box": "idea", "title": "the intention", "sub": ["Allah testifies they lied"]}]},
+    "then": "A man named Abu Amir turned against the Prophet ﷺ and sought outside help to fight him. He told some hypocrites in Madinah to build a base. They built a mosque {trap}next to the masjid of Quba{/trap} and asked the Prophet ﷺ to pray in it, saying it was for the weak on rainy nights. {idea}Allah testified they were lying.{/idea}",
+    "now": "A new group in the community, with a nice name and a good cause, but every meeting ends with talk against the other masjid. A project you start partly to outshine someone. {idea}The verse asks what you are really building, and why.{/idea}",
+    "old": "If it looks religious, the intention must be good.",
+    "new": "Something can look like worship and still be built to divide.",
+    "try": "Look at one thing you are involved in. Ask honestly: does it bring people together?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:108", "surah": 9, "ayah": 108, "place": "madinah",
+    "title": "A mosque founded on taqwa from the first day.",
+    "subtitle": "Quba, and people who love to be clean",
+    "picture": {"kind": "boxes", "label": "Two buildings, side by side", "row": [
+      {"box": "trap", "title": "the harmful one", "sub": ["never stand in it"]},
+      {"box": "idea", "title": "Quba", "sub": ["founded on taqwa"]},
+      {"conn": "filled with"},
+      {"box": "reward", "title": "people who purify", "sub": ["loved by Allah"]}]},
+    "key": {"label": "What makes a place worthy", "row": [
+      {"box": "people", "title": "how new it is", "sub": ["how fine it looks"], "strike": true},
+      {"box": "idea", "title": "its foundation", "sub": ["taqwa from day one"]}]},
+    "then": "Ibn Kathir says Quba was built {idea}from the first day on taqwa{/idea}, to gather the believers. The Prophet ﷺ said {reward}one prayer in Quba is like an Umrah{/reward}, and he used to visit it riding and walking. He asked its people about their purification, which Allah had praised.",
+    "now": "Maybe it is a small, old prayer room with worn carpets, where the same quiet people come every Fajr and take care with their wudu. Nothing about it trends online. {idea}That is often what a place founded on taqwa looks like.{/idea}",
+    "old": "The impressive places are where real worship happens.",
+    "new": "A place built on taqwa, with people who keep themselves clean, is what Allah loves.",
+    "try": "Make your next wudu slowly and carefully, as someone Allah loves for purifying.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:109", "surah": 9, "ayah": 109, "place": "madinah",
+    "title": "Built on taqwa, or on the edge of a crumbling bank.",
+    "subtitle": "What your life is resting on",
+    "picture": {"kind": "boxes", "label": "Two foundations", "row": [
+      {"box": "idea", "title": "on taqwa", "sub": ["and His pleasure"]},
+      {"box": "trap", "title": "on a cliff edge", "sub": ["about to give way"]},
+      {"conn": "which"},
+      {"box": "trap", "title": "collapses", "sub": ["with the builder in it"]}]},
+    "key": {"label": "What holds the building", "row": [
+      {"box": "people", "title": "what it looks like", "sub": ["walls, a roof"], "strike": true},
+      {"box": "idea", "title": "what it stands on", "sub": ["the ground beneath"]}]},
+    "then": "Ibn Kathir explains that a masjid built on {idea}taqwa and Allah's pleasure{/idea} is not the same as one built to harm and divide. The second was built {trap}on the edge of a steep hole{/trap} that gives way. Jabir said he saw smoke rising from the harmful mosque in the Prophet's ﷺ time.",
+    "now": "A career built on cutting corners. A friendship built on gossip about others. A marriage built on keeping up appearances. They can stand for years. {trap}Then one day the ground under them gives way.{/trap} The verse asks what you are building on.",
+    "old": "If it is standing, it must be built well.",
+    "new": "What lasts is what rests on taqwa, not what looks solid now.",
+    "try": "Pick one thing you are building, a habit, a plan, a relationship. Check its foundation.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "9:110", "surah": 9, "ayah": 110, "place": "madinah",
+    "title": "What they built kept doubt alive inside them.",
+    "subtitle": "How a wrong project stays in the heart",
+    "picture": {"kind": "boxes", "label": "What remained", "row": [
+      {"box": "trap", "title": "the building", "sub": ["torn down"]},
+      {"conn": "but left"},
+      {"box": "trap", "title": "doubt", "sub": ["in their hearts"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "the end", "sub": ["hearts cut off by death"]}]},
+    "key": {"label": "Where the harm lives", "row": [
+      {"box": "people", "title": "outside", "sub": ["it was only bricks"], "strike": true},
+      {"box": "trap", "title": "inside", "sub": ["the doubt they inherited"]}]},
+    "then": "Ibn Kathir says that because of this awful act, {trap}they inherited hypocrisy in their hearts{/trap}, the way calf worshippers stayed attached to the calf. Many early scholars said {trap}until their hearts are cut{/trap} means until they die. {idea}Allah knows and is wise{/idea} in repaying every deed.",
+    "now": "Maybe you once helped start a rumor about someone. It is long over, everyone has moved on. But you still feel uneasy around that person, still defensive when it comes up. {idea}What we build against others can keep living in us.{/idea} Turning back sooner is a mercy.",
+    "old": "Once it is over and done, it no longer affects me.",
+    "new": "A wrong I built can stay in my heart until I sincerely undo it.",
+    "try": "Undo one old wrong quietly today: a kind word, an apology, a correction.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

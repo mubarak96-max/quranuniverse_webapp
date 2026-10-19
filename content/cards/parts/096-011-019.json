@@ -1,0 +1,173 @@
+[
+  {
+    "id": "96:11", "surah": 96, "ayah": 11, "place": "makkah",
+    "title": "What if the one you stop is rightly guided?",
+    "subtitle": "A gentle question before the warning",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "trap", "title": "you stop him", "sub": []},
+      {"conn": "but what if"},
+      {"box": "reward", "title": "he is guided", "sub": ["in his actions"]}]},
+    "key": {"label": "Check first", "row": [
+      {"box": "people", "title": "I am sure he is wrong", "sub": [], "strike": true},
+      {"box": "idea", "title": "what if he is right?", "sub": []}]},
+    "then": "Ibn Kathir says Allah {idea}first admonished him with what was better{/idea}: do you think this man you are stopping is upon the straight path in his action? {reward}Before any threat, a question.{/reward}",
+    "now": "Your teenager starts wearing hijab, or your friend starts going to the mosque, and your first reaction is to argue them out of it. {idea}Pause and ask: what if they are on the right path?{/idea}",
+    "old": "I know better than them what is good for them.",
+    "new": "Before I oppose someone's good, I should ask if they are the one who is guided.",
+    "try": "Think of someone whose choice you have criticized. Ask yourself honestly if they might be right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:12", "surah": 96, "ayah": 12, "place": "makkah",
+    "title": "Or if he is calling people to be mindful of Allah?",
+    "subtitle": "His words, not just his actions",
+    "picture": {"kind": "boxes", "label": "What he says", "row": [
+      {"box": "people", "title": "the one you stop", "sub": []},
+      {"conn": "is urging"},
+      {"box": "reward", "title": "taqwa", "sub": ["in his statements"]}]},
+    "key": {"label": "Guided in both", "row": [
+      {"box": "reward", "title": "his actions", "sub": ["verse 11"]},
+      {"box": "reward", "title": "his words", "sub": ["verse 12"]}]},
+    "then": "Ibn Kathir: is he upon guidance in his action, {idea}or enjoining taqwa in his statements{/idea}? {trap}Yet you rebuke him and threaten him for his prayer.{/trap}",
+    "now": "Someone in the family chat shares a reminder about prayer and gets mocked. {idea}Their message was a call to be mindful.{/idea} You do not have to agree with the delivery to respect the call.",
+    "old": "People who give reminders are just being preachy.",
+    "new": "Someone urging taqwa deserves a hearing, not a rebuke.",
+    "try": "Reply kindly to the next reminder someone shares, even if it is not your style.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:13", "surah": 96, "ayah": 13, "place": "makkah",
+    "title": "And what if the one stopping him denies and turns away?",
+    "subtitle": "Now look at the other side",
+    "picture": {"kind": "boxes", "label": "The two men", "row": [
+      {"box": "reward", "title": "the one praying", "sub": ["guided, urging taqwa"]},
+      {"box": "trap", "title": "the one stopping", "sub": ["denies, turns away"]}]},
+    "key": {"label": "Who is really wrong", "row": [
+      {"box": "people", "title": "the one praying", "sub": [], "strike": true},
+      {"box": "trap", "title": "the one blocking", "sub": []}]},
+    "then": "After asking about the one who prays, the verses turn to the one who forbids. {trap}What if he is the one who denies and turns away?{/trap} The questions set the two men side by side so the listener can judge.",
+    "now": "You are in an argument and sure you are the reasonable one. {idea}Try swapping places for a second.{/idea} {trap}Is it possible you are the one turning away?{/trap}",
+    "old": "In any conflict, I am usually the one in the right.",
+    "new": "I should check whether I am the one denying and turning away.",
+    "try": "In your next disagreement, ask yourself once: what if I am the one in the wrong?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:14", "surah": 96, "ayah": 14, "place": "makkah",
+    "title": "Does he not know that Allah sees?",
+    "subtitle": "The sentence that changes everything",
+    "picture": {"kind": "boxes", "label": "Who is watching", "row": [
+      {"box": "people", "title": "the scene", "sub": ["one prays, one threatens"]},
+      {"conn": "seen by"},
+      {"box": "idea", "title": "Allah", "sub": ["sees and hears"]}]},
+    "key": {"label": "Being seen", "row": [
+      {"box": "trap", "title": "no one will know", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah sees", "sub": ["and repays in full"]}]},
+    "then": "Ibn Kathir: does he not know that {idea}Allah sees him and hears his words{/idea}, and {trap}will compensate him in full{/trap} for what he has done? The whole surah turns on this short question.",
+    "now": "You are alone in the car, the office, the bedroom, phone in hand. Nobody will know. {idea}Allah sees.{/idea} {reward}He also sees the late-night prayer no one else knows about.{/reward}",
+    "old": "If nobody sees it, it does not really count.",
+    "new": "Allah sees everything I do, the wrong and the good alike.",
+    "try": "Today, do one good deed only Allah will see, and skip one wrong only He would see.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:15", "surah": 96, "ayah": 15, "place": "makkah",
+    "title": "If he does not stop, he will be seized.",
+    "subtitle": "A warning that still leaves room to stop",
+    "picture": {"kind": "boxes", "label": "The condition", "row": [
+      {"box": "trap", "title": "if he persists", "sub": ["in his stubbornness"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "seized", "sub": ["by the forelock"]}]},
+    "key": {"label": "The open door", "row": [
+      {"box": "trap", "title": "keeps going", "sub": ["seized"]},
+      {"box": "reward", "title": "stops", "sub": ["the warning lifts"]}]},
+    "then": "Ibn Kathir says this means {trap}if he does not recant from his discord and obstinacy{/trap}. The warning begins with if. {reward}Even for Abu Jahl, there was a moment to stop.{/reward}",
+    "now": "You know there is something you keep doing that you should not. The warning signs keep coming. {reward}The word if means you still have time.{/reward} Stopping today is still possible.",
+    "old": "I have gone too far to stop now.",
+    "new": "The warning starts with if; I can still stop.",
+    "try": "Pick one wrong you keep repeating and decide today when you will stop.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:16", "surah": 96, "ayah": 16, "place": "makkah",
+    "title": "A lying, sinful forelock.",
+    "subtitle": "The front of the head, where pride shows",
+    "picture": {"kind": "boxes", "label": "What the forelock did", "row": [
+      {"box": "trap", "title": "lying", "sub": ["in its statements"]},
+      {"box": "trap", "title": "sinful", "sub": ["in its actions"]}]},
+    "key": {"label": "Words and deeds", "row": [
+      {"box": "people", "title": "just talk", "sub": ["threats mean nothing"], "strike": true},
+      {"box": "trap", "title": "both count", "sub": ["lies and sins"]}]},
+    "then": "Ibn Kathir: the forelock of Abu Jahl was {trap}lying in its statements and sinful in its actions{/trap}. The forelock is the front of the head, the part a proud man holds high. {idea}It is named for both its words and its deeds.{/idea}",
+    "now": "You carry your head high in the meeting while padding the numbers. {trap}The verse puts the lie and the pride in the same place.{/trap} {idea}Lowering your head in sujood is the opposite of that.{/idea}",
+    "old": "What I say and what I do are separate things.",
+    "new": "My words and my actions are both written in the same record.",
+    "try": "Correct one small exaggeration or untruth you told recently.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:17", "surah": 96, "ayah": 17, "place": "makkah",
+    "title": "Then let him call his gang.",
+    "subtitle": "His boast about numbers, answered",
+    "picture": {"kind": "boxes", "label": "His boast", "row": [
+      {"box": "trap", "title": "Abu Jahl", "sub": ["I have the most kinsmen"]},
+      {"conn": "let him call"},
+      {"box": "people", "title": "his council", "sub": ["his tribe"]}]},
+    "key": {"label": "Where strength lies", "row": [
+      {"box": "people", "title": "numbers", "sub": ["the biggest crowd"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": []}]},
+    "then": "Ibn Abbas reported that Abu Jahl threatened the Prophet ﷺ and said: {trap}By Allah, I have the most kinsmen of this valley with me{/trap}. Then Allah revealed: let him call his council. {idea}His crowd was his whole argument.{/idea}",
+    "now": "In the group chat, everyone has sided against you, and it feels like that settles who is right. {idea}A crowd is not a proof.{/idea} And when you are the one with the crowd, it is not a licence.",
+    "old": "Whoever has more people on their side wins.",
+    "new": "Numbers do not decide right and wrong; Allah does.",
+    "try": "Next time you feel outnumbered for doing right, hold your position calmly once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:18", "surah": 96, "ayah": 18, "place": "makkah",
+    "title": "We will call the angels of Hell.",
+    "subtitle": "His side against Allah's side",
+    "picture": {"kind": "boxes", "label": "The two calls", "row": [
+      {"box": "people", "title": "his council", "sub": ["men of the valley"]},
+      {"conn": "against"},
+      {"box": "idea", "title": "the guards", "sub": ["Allah's angels"]}]},
+    "key": {"label": "Who protects the one praying", "row": [
+      {"box": "people", "title": "no one", "sub": ["he is alone"], "strike": true},
+      {"box": "reward", "title": "the angels", "sub": ["between him and harm"]}]},
+    "then": "Ibn Kathir says these are {idea}the angels of torment{/idea}, so he may know whose side will win. Ibn Abbas said if he had called his people, {idea}the angels would have seized him at once{/idea}. Abu Hurayrah reported that he once drew near, then {reward}retreated, saying he saw a ditch of fire between them{/reward}.",
+    "now": "You stand up for what is right at work and feel completely alone. {reward}You are not as alone as it looks.{/reward} The one who prays has protection no one else can see.",
+    "old": "If I stand for the truth, I will be on my own.",
+    "new": "Allah defends those who worship Him in ways I cannot see.",
+    "try": "Make a short dua for protection today before you face something difficult.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "96:19", "surah": 96, "ayah": 19, "place": "makkah",
+    "title": "Do not obey him. Bow down and come close.",
+    "subtitle": "The answer to threats is prostration",
+    "picture": {"kind": "boxes", "label": "What to do", "row": [
+      {"box": "trap", "title": "do not obey him", "sub": ["the one forbidding"]},
+      {"conn": "instead"},
+      {"box": "reward", "title": "prostrate", "sub": []},
+      {"conn": "and"},
+      {"box": "reward", "title": "draw near", "sub": ["to Allah"]}]},
+    "key": {"label": "Closest to Allah", "row": [
+      {"box": "people", "title": "standing tall", "sub": [], "strike": true},
+      {"box": "reward", "title": "in sujood", "sub": ["the closest a servant gets"]}]},
+    "then": "Ibn Kathir: {idea}pray wherever you wish and do not worry about him, for Allah will protect you{/idea}. The Prophet ﷺ said: {reward}the closest a servant is to his Lord is when he is in prostration, so make much dua{/reward}.",
+    "now": "The pressure is on: people mocking, deadlines crushing, a voice telling you to drop your prayers for a while. {reward}The surah ends with: put your forehead down and come closer.{/reward} The answer to every threat is the floor of the prayer mat.",
+    "old": "When life pushes on me, I need to stand stronger on my own.",
+    "new": "When pressure comes, I go down in sujood and draw closer to Allah.",
+    "try": "In your next sujood, stay a little longer and ask Allah for something you need.",
+    "related": ["84:1", "96:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

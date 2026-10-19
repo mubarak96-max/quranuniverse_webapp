@@ -1,0 +1,261 @@
+[
+  {
+    "id": "36:13", "surah": 36, "ayah": 13, "place": "makkah",
+    "title": "Tell them the story of the town.",
+    "subtitle": "A parable set before the people of Makkah",
+    "picture": {"kind": "boxes", "label": "The parable begins", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["told to tell it"]},
+      {"conn": "about"},
+      {"box": "people", "title": "the people of a town", "sub": []},
+      {"conn": "when"},
+      {"box": "idea", "title": "messengers came", "sub": []}]},
+    "key": {"label": "Why a story", "row": [
+      {"box": "plain", "title": "just history", "sub": ["about them, back then"], "strike": true},
+      {"box": "idea", "title": "a mirror", "sub": ["for the listener now"]}]},
+    "then": "Allah tells the Prophet ﷺ to set an example before his people who denied him. Ibn Ishaq relayed reports that the town was Antioch, but {idea}some scholars were not sure of that.{/idea} The point is the pattern: {trap}messengers came, and the town had to choose.{/trap}",
+    "now": "You hear a story in a talk and immediately think of someone else who needs it. {idea}The Quran tells stories so you will see yourself in them.{/idea} Read this one as if it is about your street.",
+    "old": "Quran stories are about people long ago.",
+    "new": "Each story is a mirror held up to me and my choices today.",
+    "try": "As you read the next few verses, ask at each step: which person am I here?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:14", "surah": 36, "ayah": 14, "place": "makkah",
+    "title": "Two were denied, so a third was sent.",
+    "subtitle": "Allah reinforced His messengers",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "two messengers", "sub": ["denied quickly"]},
+      {"conn": "strengthened by"},
+      {"box": "people", "title": "a third", "sub": []},
+      {"box": "idea", "title": "we are sent to you", "sub": ["by your Lord"]}]},
+    "key": {"label": "After rejection", "row": [
+      {"box": "trap", "title": "give up", "sub": ["it did not work"], "strike": true},
+      {"box": "idea", "title": "reinforced", "sub": ["Allah adds support"]}]},
+    "then": "Ibn Kathir says the town {trap}hastened to disbelieve in the two{/trap}, so Allah {reward}supported and strengthened them with a third.{/reward} Together they said they were sent from the Lord who created them, calling to worship Him alone.",
+    "now": "You tried to start a study circle with a friend and nobody came. {idea}Rejection was not the end of the messengers' work.{/idea} {reward}Sometimes Allah sends a third person just when you need one.{/reward}",
+    "old": "If my good effort is rejected, it was a mistake to try.",
+    "new": "Allah supports those who keep calling to good. Help can arrive after rejection.",
+    "try": "Message one friend today and invite them to join you in one good deed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:15", "surah": 36, "ayah": 15, "place": "makkah",
+    "title": "You are only human like us.",
+    "subtitle": "The oldest excuse for rejecting messengers",
+    "picture": {"kind": "boxes", "label": "Their reply", "row": [
+      {"box": "trap", "title": "just humans", "sub": ["like us"]},
+      {"box": "trap", "title": "nothing revealed", "sub": []},
+      {"box": "trap", "title": "you are lying", "sub": []}]},
+    "key": {"label": "What they expected", "row": [
+      {"box": "trap", "title": "an angel", "sub": ["then we would believe"], "strike": true},
+      {"box": "idea", "title": "a human messenger", "sub": ["who can be followed"]}]},
+    "then": "Ibn Kathir says they reasoned: {trap}we are human and you are human, so why would you get revelation and not us?{/trap} Many nations said the same, he notes, citing verses where people asked {trap}shall mere men guide us?{/trap}",
+    "now": "Your cousin gives you good advice, and your first thought is: who is he to tell me, he messes up too. {trap}Dismissing the message because of the messenger is an old trick.{/trap} {idea}Weigh the words, not just the person.{/idea}",
+    "old": "I only take advice from people who are better than me.",
+    "new": "Truth can come through ordinary people. I should judge the message, not dismiss the messenger.",
+    "try": "Think of one piece of good advice you rejected because of who said it. Try it today.",
+    "related": ["64:6", "14:10", "17:94"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:16", "surah": 36, "ayah": 16, "place": "makkah",
+    "title": "Our Lord knows we were sent to you.",
+    "subtitle": "When you cannot prove it, Allah is your witness",
+    "picture": {"kind": "boxes", "label": "Their answer", "row": [
+      {"box": "people", "title": "the messengers", "sub": ["called liars"]},
+      {"conn": "appeal to"},
+      {"box": "idea", "title": "our Lord knows", "sub": ["He is the witness"]}]},
+    "key": {"label": "Who confirms the truth", "row": [
+      {"box": "people", "title": "public approval", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah as witness", "sub": ["enough"]}]},
+    "then": "Ibn Kathir explains their reply: {idea}Allah knows we are His messengers.{/idea} If they were lying, He would have taken vengeance on them, but {reward}He would make them prevail{/reward}, and everyone would learn whose end was good.",
+    "now": "Someone at work accuses you of something you did not do, and you cannot prove it. {idea}You can still say: Allah knows.{/idea} {reward}That is not weakness. It is the strongest witness there is.{/reward}",
+    "old": "If I cannot prove I am right, I have lost.",
+    "new": "Allah knows the truth. His knowledge is enough for me.",
+    "try": "If you feel misjudged today, say quietly: Allah knows, and leave it there.",
+    "related": ["29:52"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:17", "surah": 36, "ayah": 17, "place": "makkah",
+    "title": "Our only duty is to convey it clearly.",
+    "subtitle": "The messengers knew the limits of their job",
+    "picture": {"kind": "boxes", "label": "The job", "row": [
+      {"box": "idea", "title": "convey clearly", "sub": ["that is all"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "obey: happiness", "sub": []},
+      {"box": "trap", "title": "refuse: consequences", "sub": []}]},
+    "key": {"label": "Whose result", "row": [
+      {"box": "trap", "title": "I must convince", "sub": [], "strike": true},
+      {"box": "idea", "title": "I must be clear", "sub": ["the response is theirs"]}]},
+    "then": "Ibn Kathir explains: {idea}all we have to do is convey the message.{/idea} If you obey, {reward}happiness in this world and the next{/reward} is yours. If not, you will soon know the consequences.",
+    "now": "You keep rewriting the message to your sibling, trying to get it perfect so they will finally listen. {idea}Be clear, be kind, then let it go.{/idea} The response is not your burden.",
+    "old": "If they do not accept it, I explained it badly.",
+    "new": "My duty is clear delivery. Acceptance is between them and Allah.",
+    "try": "Say one clear, kind thing today that you have been holding back, then stop pushing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:18", "surah": 36, "ayah": 18, "place": "makkah",
+    "title": "You are bad luck for us.",
+    "subtitle": "Blaming the reminder for the trouble",
+    "picture": {"kind": "boxes", "label": "The town's reaction", "row": [
+      {"box": "trap", "title": "an evil omen", "sub": ["bad things are your fault"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "threats", "sub": ["stoning, punishment"]}]},
+    "key": {"label": "Where trouble comes from", "row": [
+      {"box": "trap", "title": "the one who reminds", "sub": ["brings bad luck"], "strike": true},
+      {"box": "idea", "title": "from Allah", "sub": ["tied to our own deeds"]}]},
+    "then": "Qatadah said they claimed {trap}if something bad befalls us, it will be because of you.{/trap} Mujahid said they believed people like these messengers always brought punishment on a town. Then came {trap}the threat to stone them.{/trap}",
+    "now": "Since that friend started reminding you to pray, you feel uncomfortable around them. {trap}You start avoiding them as if they bring bad vibes.{/trap} {idea}The discomfort may be your conscience waking up.{/idea}",
+    "old": "Since that person came along, things feel worse. They must be the problem.",
+    "new": "The reminder is not the bad luck. Sometimes discomfort is the start of change.",
+    "try": "Thank, instead of avoid, the next person who reminds you of Allah.",
+    "related": ["7:131", "27:47", "4:78"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:19", "surah": 36, "ayah": 19, "place": "makkah",
+    "title": "Your bad omen is with you.",
+    "subtitle": "Because you were reminded? No, you went too far",
+    "picture": {"kind": "boxes", "label": "The messengers' reply", "row": [
+      {"box": "trap", "title": "your omen", "sub": ["thrown back at you"]},
+      {"box": "people", "title": "because reminded?", "sub": []},
+      {"conn": "no"},
+      {"box": "trap", "title": "you transgress", "sub": ["excess is the cause"]}]},
+    "key": {"label": "Where the cause sits", "row": [
+      {"box": "people", "title": "outside me", "sub": ["the people, the timing"], "strike": true},
+      {"box": "idea", "title": "inside me", "sub": ["my own excess"]}]},
+    "then": "The messengers answered: {trap}your omens are thrown back at you.{/trap} Qatadah said it means, {idea}because we reminded you about Allah, you saw an evil omen in us{/idea}, but in truth they were a people who went beyond limits.",
+    "now": "Every bad week you blame the boss, the traffic, the economy. {idea}The verse asks you to look at what you carry with you.{/idea} {reward}That is good news: it means you can change something.{/reward}",
+    "old": "My problems are always caused by other people.",
+    "new": "Some of my trouble travels with me. Owning it is the first step to fixing it.",
+    "try": "Tonight, write one problem from today and one way you may have contributed to it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:20", "surah": 36, "ayah": 20, "place": "makkah",
+    "title": "A man came running from the far end of town.",
+    "subtitle": "One ordinary believer stood up for the messengers",
+    "picture": {"kind": "boxes", "label": "The turn in the story", "row": [
+      {"box": "trap", "title": "the town", "sub": ["set on killing the messengers"]},
+      {"conn": "but"},
+      {"box": "people", "title": "a man running", "sub": ["from the farthest part"]},
+      {"conn": "says"},
+      {"box": "idea", "title": "follow the messengers", "sub": []}]},
+    "key": {"label": "Who can stand up", "row": [
+      {"box": "people", "title": "the important people", "sub": ["leaders, scholars"], "strike": true},
+      {"box": "idea", "title": "anyone", "sub": ["even from the edge of town"]}]},
+    "then": "Ibn Ishaq's reports say when the town resolved to kill the messengers, a man came running to help them. {idea}They said his name was Habib, a rope worker{/idea}, sickly, yet {reward}giving half his earnings in charity.{/reward}",
+    "now": "Someone in the family group chat is being mocked for wearing hijab or for praying, and everyone stays silent. {idea}You are not the imam. You are not important.{/idea} {reward}You can still be the one who comes running.{/reward}",
+    "old": "Speaking up is for people with status. I am nobody.",
+    "new": "One ordinary person from the edge of town can stand up for the truth.",
+    "try": "The next time someone is mocked for their faith, say one supportive sentence.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:21", "surah": 36, "ayah": 21, "place": "makkah",
+    "title": "Follow those who ask you for nothing.",
+    "subtitle": "Two signs of a trustworthy guide",
+    "picture": {"kind": "boxes", "label": "His argument", "row": [
+      {"box": "reward", "title": "ask no payment", "sub": ["nothing to gain"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "rightly guided", "sub": ["calling to Allah alone"]}]},
+    "key": {"label": "Who to trust", "row": [
+      {"box": "trap", "title": "the one selling", "sub": ["courses, followers, fame"], "strike": true},
+      {"box": "idea", "title": "the one asking nothing", "sub": ["and guided"]}]},
+    "then": "The man gave his people two simple reasons. Ibn Kathir says the messengers {reward}asked no wages for the message{/reward} and {idea}were rightly guided in calling to the worship of Allah alone.{/idea}",
+    "now": "Your feed is full of people who want something from you: a subscription, a click, a donation link. {idea}Notice who gives you good and asks nothing back.{/idea} That is a sign worth trusting.",
+    "old": "The most popular voice is the one worth following.",
+    "new": "A guide who wants nothing from me and points to Allah is worth listening to.",
+    "try": "Unfollow one account today that only sells, and follow one that teaches for free.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:22", "surah": 36, "ayah": 22, "place": "makkah",
+    "title": "Why should I not worship the One who made me?",
+    "subtitle": "The simplest reason for faith",
+    "picture": {"kind": "boxes", "label": "His reasoning", "row": [
+      {"box": "idea", "title": "He created me", "sub": []},
+      {"conn": "and"},
+      {"box": "idea", "title": "to Him you return", "sub": ["all of you"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "I worship Him", "sub": ["what stops me?"]}]},
+    "key": {"label": "Starting point", "row": [
+      {"box": "people", "title": "why should I worship?", "sub": [], "strike": true},
+      {"box": "idea", "title": "why should I not?", "sub": ["He made me"]}]},
+    "then": "The man turns it into a personal question. Ibn Kathir paraphrases it: {idea}what is there to stop me from sincerely worshipping the One who created me?{/idea} He then reminds them that {trap}they too will return to Him for judgment.{/trap}",
+    "now": "You find yourself needing a reason to pray today. {idea}Flip it around: why not?{/idea} The One who made your eyes, your hands, this morning, is asking for a few minutes.",
+    "old": "I need a good reason to worship before I commit.",
+    "new": "He made me. The real question is what is stopping me.",
+    "try": "Before your next prayer, ask yourself this verse's question and answer it honestly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:23", "surah": 36, "ayah": 23, "place": "makkah",
+    "title": "If harm is meant for me, they could not save me.",
+    "subtitle": "The helplessness of false gods",
+    "picture": {"kind": "boxes", "label": "If the Merciful intends harm", "row": [
+      {"box": "trap", "title": "their intercession", "sub": ["of no use"]},
+      {"box": "trap", "title": "their rescue", "sub": ["cannot save"]},
+      {"conn": "only"},
+      {"box": "idea", "title": "He can remove it", "sub": []}]},
+    "key": {"label": "Backup plans", "row": [
+      {"box": "trap", "title": "other protectors", "sub": ["in case"], "strike": true},
+      {"box": "idea", "title": "only Him", "sub": ["none removes harm but He"]}]},
+    "then": "The man asks: {trap}shall I take other gods besides Him?{/trap} Ibn Kathir calls it a rebuke. These idols {trap}could neither harm nor benefit{/trap}, and if Allah willed harm, {idea}none could remove it but He.{/idea}",
+    "now": "Lab results pending, you rely on the best clinic, the right connections, the insurance plan. {idea}They are means, not saviors.{/idea} {reward}The One who can remove harm is the One to ask first.{/reward}",
+    "old": "With the right contacts and backup plans, I am covered.",
+    "new": "Only Allah can remove harm. Everything else is just a means He may use.",
+    "try": "Before your next appointment or big decision, ask Allah first, then use the means.",
+    "related": ["6:17"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:24", "surah": 36, "ayah": 24, "place": "makkah",
+    "title": "Then I would be clearly lost.",
+    "subtitle": "Calling his own alternative by its name",
+    "picture": {"kind": "boxes", "label": "His verdict on himself", "row": [
+      {"box": "trap", "title": "worship others", "sub": ["instead of Allah"]},
+      {"conn": "would mean"},
+      {"box": "trap", "title": "plain error", "sub": []}]},
+    "key": {"label": "How to talk about it", "row": [
+      {"box": "people", "title": "they are lost", "sub": ["pointing at them"], "strike": true},
+      {"box": "idea", "title": "I would be lost", "sub": ["speaking of himself"]}]},
+    "then": "He does not say you are in error. He says {idea}I would be in plain error{/idea} if I took them as gods. Ibn Kathir explains it means {trap}if I were to take them as gods instead of Allah.{/trap} He speaks of himself to soften their hearts.",
+    "now": "When you want to correct someone, it is easy to say: you are wrong. {idea}This man said: if I did that, I would be wrong.{/idea} {reward}That is how you invite without attacking.{/reward}",
+    "old": "Calling out other people's mistakes is the way to help them.",
+    "new": "Speaking about myself first lets the truth reach others without a fight.",
+    "try": "In your next disagreement, use an I sentence instead of a you sentence.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "36:25", "surah": 36, "ayah": 25, "place": "makkah",
+    "title": "I have believed in your Lord, so hear me.",
+    "subtitle": "Declaring faith openly, whatever it costs",
+    "picture": {"kind": "boxes", "label": "His declaration", "row": [
+      {"box": "people", "title": "the man", "sub": []},
+      {"conn": "declares"},
+      {"box": "idea", "title": "I believe in your Lord", "sub": ["listen, bear witness"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "his people turn on him", "sub": []}]},
+    "key": {"label": "His last words", "row": [
+      {"box": "trap", "title": "curse them", "sub": [], "strike": true},
+      {"box": "reward", "title": "guide my people", "sub": ["they do not know"]}]},
+    "then": "Ibn Jarir thought he was speaking to the messengers: {idea}bear witness that I have believed.{/idea} The reports say his people then turned on him and killed him. Qatadah said {reward}he kept praying, O Allah, guide my people, for they do not know.{/reward}",
+    "now": "Someone hurts you because of your faith, maybe a cruel comment from a coworker. {trap}You want to hit back.{/trap} {reward}This man, as he was being killed, prayed for his own people to be guided.{/reward}",
+    "old": "When people hurt me for my faith, I have the right to hate them.",
+    "new": "I can hold to my faith openly and still wish guidance for those who hurt me.",
+    "try": "Make dua today for guidance for someone who has been unkind to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

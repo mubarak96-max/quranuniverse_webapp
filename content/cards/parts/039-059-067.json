@@ -1,0 +1,177 @@
+[
+  {
+    "id": "39:59", "surah": 39, "ayah": 59, "place": "makkah",
+    "title": "But My verses did come to you.",
+    "subtitle": "The answer to every excuse",
+    "picture": {"kind": "boxes", "label": "The reply", "row": [
+      {"box": "idea", "title": "My verses came", "sub": ["the guidance was given"]},
+      {"conn": "but you"},
+      {"box": "trap", "title": "denied", "sub": []},
+      {"box": "trap", "title": "were arrogant", "sub": []}]},
+    "key": {"label": "What the real block was", "row": [
+      {"box": "people", "title": "no guidance", "sub": ["the excuse"], "strike": true},
+      {"box": "trap", "title": "pride", "sub": ["the actual reason"]}]},
+    "then": "This answers the soul who said: if only Allah had guided me. {idea}The verses had come.{/idea} The problem was never a lack of guidance; it was {trap}denial and arrogance.{/trap}",
+    "now": "You know the verse about backbiting. You have heard the talk on lying at work. It is not that you do not know. {trap}Sometimes it is just not wanting to be told.{/trap}",
+    "old": "I would follow the truth if only it were clearer.",
+    "new": "Often the truth is clear enough; what holds me back is pride.",
+    "try": "Name one thing you already know you should do, and admit to Allah that pride is in the way.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:60", "surah": 39, "ayah": 60, "place": "makkah",
+    "title": "Lies about Allah show on the face that Day.",
+    "subtitle": "Arrogance and its home",
+    "picture": {"kind": "boxes", "label": "On the Day", "row": [
+      {"box": "people", "title": "lied about Allah", "sub": ["partners, offspring"]},
+      {"conn": "faces"},
+      {"box": "trap", "title": "darkened", "sub": ["by their fabrications"]}]},
+    "key": {"label": "The root", "row": [
+      {"box": "trap", "title": "arrogance", "sub": ["refusing to follow truth"]},
+      {"box": "idea", "title": "humility", "sub": ["accepting it when it comes"]}]},
+    "then": "Ibn Kathir says they lied about Allah by claiming He had partners or offspring, so {trap}their faces will be dark because of their lies.{/trap} Their home is the result of {trap}stubborn pride and refusal to follow the truth.{/trap}",
+    "now": "You catch yourself saying something about Allah you never checked: He would never forgive that person, He definitely wants this for me. {idea}Speak about Him only with knowledge, and humbly.{/idea}",
+    "old": "Speaking loosely about what Allah wants is harmless.",
+    "new": "Saying false things about Allah is serious, and humility is the cure.",
+    "try": "Before saying what Allah will or will not do today, stop and ask if you actually know.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:61", "surah": 39, "ayah": 61, "place": "makkah",
+    "title": "No harm will touch them, and no grief.",
+    "subtitle": "Safe on the day of the greatest terror",
+    "picture": {"kind": "boxes", "label": "The rescue", "row": [
+      {"box": "people", "title": "those with taqwa", "sub": ["mindful of Allah"]},
+      {"conn": "delivered to"},
+      {"box": "reward", "title": "their success", "sub": ["what Allah decreed for them"]},
+      {"box": "reward", "title": "no evil, no grief", "sub": ["on that Day"]}]},
+    "key": {"label": "Two kinds of safety", "row": [
+      {"box": "trap", "title": "safe from worry now", "sub": ["comfort, distraction"], "strike": true},
+      {"box": "idea", "title": "safe on that Day", "sub": ["the greater terror"]}]},
+    "then": "Next to the darkened faces, Ibn Kathir says the people of taqwa will be safe: {reward}the greater terror of that Day will not grieve them{/reward}; they will be removed from all evil and given all that is good.",
+    "now": "You lie awake with a dozen worries: rent, health, a child far away. Some will pass, some will not. {reward}There is a safety coming that no worry can reach.{/reward} Taqwa is the road there.",
+    "old": "Feeling safe means having nothing to worry about right now.",
+    "new": "The safety that lasts belongs to the mindful, on the Day it matters most.",
+    "try": "When a worry comes today, add: and on that Day, O Allah, make me among the safe.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:62", "surah": 39, "ayah": 62, "place": "makkah",
+    "title": "Creator of everything, and in charge of everything.",
+    "subtitle": "Nothing is outside His care",
+    "picture": {"kind": "boxes", "label": "His relation to all", "row": [
+      {"box": "idea", "title": "Creator", "sub": ["of all things"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Trustee", "sub": ["over all things"]}]},
+    "key": {"label": "What is in His hands", "row": [
+      {"box": "trap", "title": "the big things", "sub": ["the rest is up to me"], "strike": true},
+      {"box": "idea", "title": "all things", "sub": ["the small ones too"]}]},
+    "then": "Ibn Kathir says Allah is {idea}the Creator, Lord, Sovereign and Controller of all things{/idea}; everything is under His dominion, power and guardianship.",
+    "now": "You trust Allah with the big diagnosis but white-knuckle the parking spot, the traffic, the email reply. {idea}Trustee over all things means the small ones too.{/idea}",
+    "old": "Allah handles the big matters; the details are on me.",
+    "new": "He created and manages everything, even the details I fret about.",
+    "try": "Hand one small daily stress to Allah today with a short dua instead of fretting.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:63", "surah": 39, "ayah": 63, "place": "makkah",
+    "title": "He holds the keys of the heavens and the earth.",
+    "subtitle": "Who opens and who closes",
+    "picture": {"kind": "boxes", "label": "The keys", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["owns the keys"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "the treasures", "sub": ["of heavens and earth"]}]},
+    "key": {"label": "Who loses", "row": [
+      {"box": "people", "title": "the one who lost money", "sub": ["what I call losing"], "strike": true},
+      {"box": "trap", "title": "the one who denied His signs", "sub": ["the real losers"]}]},
+    "then": "Mujahid said maqalid means keys; As-Suddi said treasures. Ibn Kathir says {idea}both mean that control of all things is in Allah's hand.{/idea} Those who deny His signs are the losers.",
+    "now": "You stand outside a closed door: a visa, a job offer, a rishta that went quiet. You keep knocking on people. {idea}The keys are with Him.{/idea}",
+    "old": "The right person holds the key to what I need.",
+    "new": "Every key to every door belongs to Allah.",
+    "try": "For one closed door in your life, ask Allah directly today before asking anyone else.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:64", "surah": 39, "ayah": 64, "place": "makkah",
+    "title": "You want me to worship something else? No.",
+    "subtitle": "Refusing a compromise on worship",
+    "picture": {"kind": "boxes", "label": "The offer", "row": [
+      {"box": "people", "title": "the idolaters", "sub": ["worship ours"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "we worship yours", "sub": ["a trade"], "strike": true}]},
+    "key": {"label": "The answer", "row": [
+      {"box": "trap", "title": "meet halfway", "sub": ["a little of both"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["not negotiable"]}]},
+    "then": "Ibn Abbas reported the idolaters invited the Messenger ﷺ {trap}to worship their gods, and they would then worship his God with him.{/trap} This verse is the reply.",
+    "now": "Your friends say: come to this one thing, then we will come to the mosque with you. It sounds fair. {idea}Some things are not up for trade.{/idea} Be kind, but be clear.",
+    "old": "A little compromise in faith keeps the peace.",
+    "new": "Worship belongs to Allah alone and is not something to bargain with.",
+    "try": "Decide in advance on one line you will not cross, so you can say no kindly when asked.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:65", "surah": 39, "ayah": 65, "place": "makkah",
+    "title": "Shirk would wipe out every deed, even a prophet's.",
+    "subtitle": "The one thing that empties the account",
+    "picture": {"kind": "boxes", "label": "The warning", "row": [
+      {"box": "people", "title": "you and those before", "sub": ["the prophets"]},
+      {"conn": "if you associate"},
+      {"box": "trap", "title": "deeds void", "sub": ["among the losers"]}]},
+    "key": {"label": "What it applies to", "row": [
+      {"box": "trap", "title": "only the obvious", "sub": ["bowing to idols"], "strike": true},
+      {"box": "idea", "title": "worship kept pure", "sub": ["no partner in any form"]}]},
+    "then": "Revealed with the reply to the idolaters' offer. Ibn Kathir compares it to the verse about the prophets: {trap}had they associated others with Allah, all they did would have been of no benefit.{/trap}",
+    "now": "Years of prayers, charity, fasting. Then a quiet reliance on a charm, a fortune-teller, a person you treat as all-powerful. {idea}Keep the foundation clean, or the house has nothing to stand on.{/idea}",
+    "old": "With enough good deeds, a little shirk does not matter.",
+    "new": "Deeds stand on pure worship; associating partners empties them.",
+    "try": "Check one habit today for hidden reliance on something besides Allah, and drop it.",
+    "related": ["6:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:66", "surah": 39, "ayah": 66, "place": "makkah",
+    "title": "Instead: worship Allah and be grateful.",
+    "subtitle": "The positive command after the warning",
+    "picture": {"kind": "boxes", "label": "The way forward", "row": [
+      {"box": "trap", "title": "shirk", "sub": ["rejected"], "strike": true},
+      {"conn": "rather"},
+      {"box": "idea", "title": "worship Allah", "sub": ["sincerely, alone"]},
+      {"box": "reward", "title": "be grateful", "sub": ["among the thankful"]}]},
+    "key": {"label": "What fills the space", "row": [
+      {"box": "people", "title": "just avoid wrong", "sub": ["a clean slate"]},
+      {"box": "idea", "title": "worship and thanks", "sub": ["a full life"]}]},
+    "then": "After the warning, the command. Ibn Kathir says {idea}you and those who follow you should make your worship sincerely for Allah alone{/idea}, and be among the grateful.",
+    "now": "You spend energy on what you should not do. This verse shifts the focus: {idea}worship Him and be thankful.{/idea} Gratitude is the daily shape of sincere worship.",
+    "old": "Faith is mostly a list of things to avoid.",
+    "new": "Faith is worshipping Allah alone and living gratefully.",
+    "try": "After each prayer today, name one thing you are grateful for before you get up.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "39:67", "surah": 39, "ayah": 67, "place": "makkah",
+    "title": "They never measured Allah as He deserves.",
+    "subtitle": "The whole earth in His grip on the Day",
+    "picture": {"kind": "boxes", "label": "On the Day", "row": [
+      {"box": "plain", "title": "the whole earth", "sub": ["within His grip"]},
+      {"box": "plain", "title": "the heavens", "sub": ["folded in His right hand"]},
+      {"conn": "He says"},
+      {"box": "idea", "title": "I am the King", "sub": ["where are the kings?"]}]},
+    "key": {"label": "Our estimate of Him", "row": [
+      {"box": "trap", "title": "too small", "sub": ["one power among many"], "strike": true},
+      {"box": "idea", "title": "Glory be to Him", "sub": ["above all they associate"]}]},
+    "then": "Ibn Abbas said whoever believes {idea}Allah is able to do all things{/idea} has estimated Him rightly. Ibn Kathir reports the Prophet ﷺ recited this on the minbar, saying Allah will declare: {idea}I am the King.{/idea}",
+    "now": "Your boss's mood decides your week. A government office decides your year. They feel huge. {idea}On that Day He will ask: where are the kings of the earth?{/idea} Measure Him rightly, and the rest shrinks.",
+    "old": "The powerful people around me are what really decide things.",
+    "new": "The whole earth is in Allah's grip; nothing is bigger than Him.",
+    "try": "When someone powerful intimidates you today, quietly say Allahu akbar and remember who is King.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

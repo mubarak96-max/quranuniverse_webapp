@@ -1,0 +1,229 @@
+[
+  {
+    "id": "2:83", "surah": 2, "ayah": 83, "place": "madinah",
+    "title": "Worship Allah, be good to people, speak kindly. Then most turned away.",
+    "subtitle": "The covenant in one sentence",
+    "picture": {"kind": "boxes", "label": "What the covenant asked", "row": [
+      {"box": "idea", "title": "worship Allah alone", "sub": ["the first right"]},
+      {"box": "people", "title": "parents, relatives", "sub": ["orphans, the needy"]},
+      {"box": "idea", "title": "speak good words", "sub": ["to all people"]},
+      {"box": "idea", "title": "prayer and zakah", "sub": []},
+      {"conn": "but"},
+      {"box": "trap", "title": "most turned away", "sub": ["except a few"]}]},
+    "key": {"label": "The order of rights", "row": [
+      {"box": "people", "title": "faith is only rituals", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah, then parents, then people", "sub": ["worship and kindness together"]}]},
+    "then": "Allah reminds the Children of Israel of the covenant He took from them. {idea}Worship none but Allah. Be good to parents, relatives, orphans and the poor. Speak good to people.{/idea} Ibn Kathir notes Allah often pairs His right with the parents' right. {trap}Except a few, they turned away knowingly.{/trap}",
+    "now": "You pray on time, then snap at your mother on the phone. You give charity online, then talk down to the cashier. The covenant holds these together. The Prophet ﷺ said: {reward}do not belittle any good, even meeting your brother with a cheerful face.{/reward}",
+    "old": "As long as I do my prayers, how I talk to people is a separate matter.",
+    "new": "Worship and kind speech are in the same covenant. One without the other is incomplete.",
+    "try": "Call or message one parent or older relative today just to say something kind.",
+    "related": ["21:25", "17:23", "4:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:84", "surah": 2, "ayah": 84, "place": "madinah",
+    "title": "Do not shed each other's blood. They agreed, as witnesses.",
+    "subtitle": "A promise made with eyes open",
+    "picture": {"kind": "boxes", "label": "The promise", "row": [
+      {"box": "idea", "title": "no killing each other", "sub": []},
+      {"box": "idea", "title": "no evicting each other", "sub": ["from homes"]},
+      {"conn": "and they"},
+      {"box": "people", "title": "agreed and witnessed", "sub": ["fully aware"]}]},
+    "key": {"label": "Who is your own", "row": [
+      {"box": "people", "title": "them over there", "sub": ["other people's blood"], "strike": true},
+      {"box": "idea", "title": "your own selves", "sub": ["one people, one body"]}]},
+    "then": "The covenant forbade them to kill one another or drive one another out of their homes. Ibn Kathir notes the words are literally your own selves, because {idea}people of one faith are like one soul.{/idea} He cites the Prophet ﷺ: believers are like one body. {trap}And they agreed to it as witnesses.{/trap}",
+    "now": "The cousin you have not spoken to in years over an inheritance. The colleague from your own community you quietly push out of a job. {idea}Hurting your own is hurting yourself.{/idea} You signed up to this the day you said you believe.",
+    "old": "This fight is with them, it has nothing to do with me.",
+    "new": "When I harm my own people, I am wounding the body I belong to.",
+    "try": "Think of one relative or fellow believer you are cold with. Send a simple greeting today.",
+    "related": ["2:54"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:85", "surah": 2, "ayah": 85, "place": "madinah",
+    "title": "They ransomed the captives they had helped capture.",
+    "subtitle": "Believing in part of the Book",
+    "picture": {"kind": "boxes", "label": "In the wars of Madinah", "row": [
+      {"box": "trap", "title": "fight their own", "sub": ["beside their allies"]},
+      {"box": "trap", "title": "drive them out", "sub": ["loot their homes"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "ransom the captives", "sub": ["as the Torah commands"]}]},
+    "key": {"label": "The question", "row": [
+      {"box": "people", "title": "I keep part of it", "sub": ["the part that suits me"], "strike": true},
+      {"box": "idea", "title": "part of the Book?", "sub": ["and reject the rest?"]}]},
+    "then": "Before Islam, the Aws and Khazraj of Madinah fought often. Jewish tribes allied with each side, so {trap}they ended up killing and expelling their own.{/trap} After the war they ransomed their captives, as the Torah required. Ibn Abbas said this verse was about that. {idea}Do you believe in part and reject part?{/idea}",
+    "now": "You fast every Ramadan and keep a contract you know is crooked. You are strict about halal meat and loose about your words in the group chat. {idea}It is easy to keep the rules that cost nothing.{/idea} The verse asks about the ones you skip.",
+    "old": "I follow the parts of my religion that matter most to me.",
+    "new": "Picking only the commands that suit me is believing in part and rejecting part.",
+    "try": "Name one teaching you know but quietly ignore. Take one small step toward it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:86", "surah": 2, "ayah": 86, "place": "madinah",
+    "title": "They bought this world and paid with the next.",
+    "subtitle": "A bad trade, seen at its end",
+    "picture": {"kind": "boxes", "label": "The trade", "row": [
+      {"box": "reward", "title": "the Hereafter", "sub": ["what they gave"]},
+      {"conn": "for"},
+      {"box": "people", "title": "this world", "sub": ["what they took"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "no lightening, no help", "sub": []}]},
+    "key": {"label": "What lasts", "row": [
+      {"box": "people", "title": "a good deal now", "sub": [], "strike": true},
+      {"box": "trap", "title": "a lost deal forever", "sub": ["no one to help"]}]},
+    "then": "This sums up the previous verse. They broke the Book where it cost them and kept it where it was easy, all for worldly gain. Ibn Kathir: {trap}they preferred this life to the Hereafter.{/trap} So their punishment will not be lightened, nor will anyone help them.",
+    "now": "You skip the prayer to close the deal. You cut a corner on the tax form. You stay quiet when you should speak because it might cost you the promotion. {idea}Each one is a small purchase.{/idea} Ask what you are paying with.",
+    "old": "I will sort out the Hereafter later. Right now I need to get ahead.",
+    "new": "Every time I trade the next life for this one, I am the one who loses.",
+    "try": "Before one decision today, ask: what am I paying for this, and is it worth it?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:87", "surah": 2, "ayah": 87, "place": "madinah",
+    "title": "Whenever a messenger said what they did not want, they grew arrogant.",
+    "subtitle": "When truth collides with desire",
+    "picture": {"kind": "boxes", "label": "A line of messengers", "row": [
+      {"box": "people", "title": "Musa", "sub": ["given the Torah"]},
+      {"box": "people", "title": "messengers after him", "sub": ["one after another"]},
+      {"box": "people", "title": "Isa son of Maryam", "sub": ["clear signs, Jibril"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "denial and killing", "sub": []}]},
+    "key": {"label": "The real reason", "row": [
+      {"box": "people", "title": "the proof was weak", "sub": [], "strike": true},
+      {"box": "trap", "title": "it was not what they wanted", "sub": []}]},
+    "then": "Allah gave Musa the Torah, then sent messengers after him, then Isa with clear signs, supported by the Holy Spirit, which Ibn Masud and others said is Jibril. Ibn Kathir: {trap}the messengers commanded what went against their desires,{/trap} so they denied some and killed others.",
+    "now": "A friend tells you, gently, that you are wrong about something. A doctor says what you do not want to hear. Your child points out your temper. {trap}The urge is to attack the messenger.{/trap} {idea}The real question is whether it is true.{/idea}",
+    "old": "I reject it because it is not convincing.",
+    "new": "Often I reject it because it is inconvenient, not because it is false.",
+    "try": "Recall the last hard truth someone told you. Consider it again without defending yourself.",
+    "related": ["5:44", "3:50", "26:193"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:88", "surah": 2, "ayah": 88, "place": "madinah",
+    "title": "Our hearts are wrapped, they said. It was not an excuse.",
+    "subtitle": "Calling a closed heart a full one",
+    "picture": {"kind": "boxes", "label": "Their claim", "row": [
+      {"box": "trap", "title": "our hearts are covered", "sub": ["we cannot take it in"]},
+      {"box": "trap", "title": "or: already full", "sub": ["we need nothing from you"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "it was their disbelief", "sub": ["that closed them"]}]},
+    "key": {"label": "Cause and effect", "row": [
+      {"box": "people", "title": "I was made this way", "sub": [], "strike": true},
+      {"box": "trap", "title": "refusal closes the heart", "sub": []}]},
+    "then": "They said their hearts were wrapped. Ibn Abbas and Mujahid said: covered, screened. Another reading from Ibn Abbas: {trap}our hearts are full of knowledge and need nothing from you.{/trap} The verse replies that {idea}it was their disbelief that sealed them,{/idea} so little did they believe.",
+    "now": "I am just not a spiritual person. I already know all this. That is not for someone like me. {trap}They sound like humility or honesty, but they can be doors we close ourselves.{/trap} A closed heart usually started as a no.",
+    "old": "Religion just does not reach me, that is how I am.",
+    "new": "A heart closes from repeated refusals. It can open with small yeses.",
+    "try": "Next time you think that is not for me, try one small piece of it anyway.",
+    "related": ["41:5", "4:155"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:89", "surah": 2, "ayah": 89, "place": "madinah",
+    "title": "They prayed for him to come. When he came, they refused.",
+    "subtitle": "Recognising the truth and still saying no",
+    "picture": {"kind": "boxes", "label": "Before and after", "row": [
+      {"box": "people", "title": "before", "sub": ["a prophet will come", "we will win with him"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "he came", "sub": ["confirming their Book"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "they disbelieved", "sub": ["though they recognised him"]}]},
+    "key": {"label": "What changed", "row": [
+      {"box": "people", "title": "the evidence", "sub": [], "strike": true},
+      {"box": "trap", "title": "he was not from them", "sub": []}]},
+    "then": "Before the Prophet ﷺ came, some of them told the Arabs of Madinah: {idea}a prophet is coming and with him we will defeat you.{/idea} Ibn Abbas said Muadh bin Jabal later reminded them of this. Abu Al-Aliyah said {trap}when they saw he was not one of them, they rejected him{/trap} though they knew.",
+    "now": "You pray for a good husband for your daughter. One comes, kind and devout, but from a family or background you did not picture. You prayed for a job, and it came through someone you dislike. {idea}Sometimes the answer arrives in a form we did not order.{/idea}",
+    "old": "I will accept the answer if it comes the way I expected.",
+    "new": "When what I asked for arrives, I should not reject it for the wrapper it came in.",
+    "try": "Think of one prayer that was answered in an unexpected form. Thank Allah for it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:90", "surah": 2, "ayah": 90, "place": "madinah",
+    "title": "Envy that Allah gave His favour to someone else.",
+    "subtitle": "Selling yourself for a grudge",
+    "picture": {"kind": "boxes", "label": "What drove it", "row": [
+      {"box": "reward", "title": "Allah's favour", "sub": ["given to whom He wills"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "envy", "sub": ["why him, not us?"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "wrath upon wrath", "sub": []}]},
+    "key": {"label": "Whose decision", "row": [
+      {"box": "people", "title": "it should have been us", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah gives as He wills", "sub": []}]},
+    "then": "As-Suddi said they sold themselves. The motive the verse names is {trap}resentment that Allah would send His favour on whom He wills.{/trap} Ibn Kathir: there is no envy worse than this. Abu Al-Aliyah explained the wrath upon wrath as their rejection of Isa, then of Muhammad ﷺ.",
+    "now": "Your colleague gets the promotion. Your friend's child gets into the school yours did not. A sister gets married first. {trap}The question why her, not me can sour everything.{/trap} {idea}Allah's gifts to others take nothing from you.{/idea}",
+    "old": "It is not fair that they got it instead of me.",
+    "new": "Allah gives His favour to whom He wills. Resenting it only hurts me.",
+    "try": "Think of someone whose blessing stings you. Make a sincere dua for them to have more of it.",
+    "related": ["40:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:91", "surah": 2, "ayah": 91, "place": "madinah",
+    "title": "Only what came to us, they said. Then why kill your prophets?",
+    "subtitle": "A loyalty that does not hold up",
+    "picture": {"kind": "boxes", "label": "Their answer", "row": [
+      {"box": "people", "title": "what came to us", "sub": ["is enough"]},
+      {"conn": "rejecting"},
+      {"box": "idea", "title": "what came after", "sub": ["the truth, confirming theirs"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "their own prophets", "sub": ["killed before"]}]},
+    "key": {"label": "The test of the claim", "row": [
+      {"box": "people", "title": "we are loyal to our Book", "sub": [], "strike": true},
+      {"box": "trap", "title": "you followed your desires", "sub": ["even against it"]}]},
+    "then": "Asked to believe in what Allah revealed, they said: {trap}we believe in what was sent to us.{/trap} But {idea}the new revelation confirmed what they had.{/idea} The Prophet ﷺ was told to ask: if you are true to your own Book, why did you kill the prophets who came upholding it?",
+    "now": "We have always done it this way, says the uncle, about a custom the religion never asked for. Loyalty to tradition is good, until it becomes a shield against the truth. {idea}Ask whether you are loyal to the source, or only to what is familiar.{/idea}",
+    "old": "I am loyal to what my people have always held.",
+    "new": "Real loyalty to guidance means accepting truth when it comes, even from outside my circle.",
+    "try": "Pick one family custom you defend. Check what the Quran or Sunnah actually says about it.",
+    "related": ["2:146", "2:87", "7:148"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:92", "surah": 2, "ayah": 92, "place": "madinah",
+    "title": "Musa brought clear proofs. They turned to a calf anyway.",
+    "subtitle": "Forgetting so fast",
+    "picture": {"kind": "boxes", "label": "What they had seen", "row": [
+      {"box": "reward", "title": "clear proofs", "sub": ["the sea, the staff, the hand"]},
+      {"conn": "then, while he was away"},
+      {"box": "trap", "title": "the calf", "sub": ["made from their ornaments"]}]},
+    "key": {"label": "What they knew", "row": [
+      {"box": "people", "title": "they did not know better", "sub": [], "strike": true},
+      {"box": "trap", "title": "wrongdoers", "sub": ["knowing there is no god but Allah"]}]},
+    "then": "Ibn Kathir lists the signs: the flood, the locusts, the staff, the hand, the parted sea, the manna and quails. Yet when Musa went to the mountain, {trap}they took the calf as a god.{/trap} The verse calls them wrongdoers, because {idea}they knew there is no god but Allah.{/idea}",
+    "now": "You came back from Umrah glowing. Three weeks later the phone is back in charge and the prayers are slipping. Or your teacher travels and the study circle falls apart. {trap}Some of us lean on the person, not on Allah.{/trap}",
+    "old": "I am strong in faith when the right people are around me.",
+    "new": "My faith should stand when the reminder-giver is away, not only when he is near.",
+    "try": "Choose one practice you only do around others. Do it alone today.",
+    "related": ["7:148", "7:149"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:93", "surah": 2, "ayah": 93, "place": "madinah",
+    "title": "We hear and we disobey. The calf had soaked into their hearts.",
+    "subtitle": "When love of a thing drinks up the heart",
+    "picture": {"kind": "boxes", "label": "Under the mountain", "row": [
+      {"box": "idea", "title": "hold it firmly, listen", "sub": ["the covenant"]},
+      {"conn": "they said"},
+      {"box": "trap", "title": "we hear and disobey", "sub": []},
+      {"conn": "because"},
+      {"box": "trap", "title": "love of the calf", "sub": ["absorbed in their hearts"]}]},
+    "key": {"label": "What their faith was doing", "row": [
+      {"box": "people", "title": "we are believers", "sub": [], "strike": true},
+      {"box": "trap", "title": "what does it tell you to do?", "sub": ["look at the result"]}]},
+    "then": "Allah raised the mountain over them and said: {idea}hold firmly to what We gave you, and listen.{/idea} They said: we hear and we disobey. Qatadah said {trap}love of the calf soaked into their hearts{/trap} until it lived there. The verse asks: how bad is what your faith tells you to do?",
+    "now": "You know the verse. You can recite it. And yet the thing you love more, the habit, the screen, the money, wins every time. {trap}Love that soaks in quietly can outvote what you know.{/trap} What a heart drinks, it starts to obey.",
+    "old": "I know what is right, so I must be fine.",
+    "new": "What my heart loves most decides what I do, more than what I know.",
+    "try": "Notice one thing you reach for automatically today. Ask if it has soaked too deep.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

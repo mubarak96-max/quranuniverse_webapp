@@ -1,0 +1,251 @@
+[
+  {
+    "id": "54:43", "surah": 54, "ayah": 43, "place": "makkah",
+    "title": "Are you better than them, or do you have a pass?",
+    "subtitle": "The question turns from past nations to the listeners",
+    "picture": {"kind": "boxes", "label": "Two possible excuses", "row": [
+      {"box": "people", "title": "we are better", "sub": ["than the old nations"], "strike": true},
+      {"box": "people", "title": "we are exempt", "sub": ["a written immunity"], "strike": true}]},
+    "key": {"label": "The real situation", "row": [
+      {"box": "trap", "title": "special exception", "sub": ["rules are for others"], "strike": true},
+      {"box": "idea", "title": "same standard", "sub": ["same warnings, same accounting"]}]},
+    "then": "After five stories, the surah faces the idolaters of Quraysh. Ibn Kathir explains: {trap}are you better than those nations that were destroyed?{/trap} Or do you have {idea}immunity from Allah{/idea} written in a scripture, so that punishment will not touch you?",
+    "now": "You read about someone ruined by debt, a lie, a hidden habit, and think: I am not like that. Quietly you hold a pass in your pocket that says the rules bend for you. {idea}Nobody has that pass.{/idea}",
+    "old": "Those stories are about worse people than me.",
+    "new": "No one has a written exemption. The same standard applies to me.",
+    "try": "Pick one warning you assumed was for others, and apply it to yourself today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:44", "surah": 54, "ayah": 44, "place": "makkah",
+    "title": "We are many, we back each other, we will win.",
+    "subtitle": "Trusting the size of your group",
+    "picture": {"kind": "boxes", "label": "What they relied on", "row": [
+      {"box": "people", "title": "a great multitude", "sub": ["numbers"]},
+      {"box": "people", "title": "mutual support", "sub": ["we cover each other"]},
+      {"conn": "they thought"},
+      {"box": "reward", "title": "victory", "sub": ["guaranteed"], "strike": true}]},
+    "key": {"label": "What protects", "row": [
+      {"box": "people", "title": "the crowd", "sub": ["safety in numbers"], "strike": true},
+      {"box": "idea", "title": "being right with Allah", "sub": []}]},
+    "then": "Ibn Kathir says Quraysh believed {trap}they would support each other{/trap} and their great gathering would protect them from anyone who meant them harm. The Muslims in Makkah were few and weak at the time.",
+    "now": "Everyone at work fiddles the expense forms. The whole group chat says it is fine. {trap}When the majority agrees, it feels safe.{/trap} {idea}Numbers can make something feel normal, never make it right.{/idea}",
+    "old": "If everyone is doing it, we are covered.",
+    "new": "A crowd cannot shield anyone from Allah.",
+    "try": "Notice one thing you do only because the people around you do it. Pause on it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:45", "surah": 54, "ayah": 45, "place": "makkah",
+    "title": "The crowd will be routed and turn their backs.",
+    "subtitle": "A Makkan promise the Prophet ﷺ recited at Badr",
+    "picture": {"kind": "boxes", "label": "Promise, then fulfillment", "row": [
+      {"box": "idea", "title": "revealed in Makkah", "sub": ["Muslims few and weak"]},
+      {"conn": "years later"},
+      {"box": "reward", "title": "Badr", "sub": ["the Prophet ﷺ recites it"]}]},
+    "key": {"label": "What looked impossible", "row": [
+      {"box": "people", "title": "they are too many", "sub": [], "strike": true},
+      {"box": "idea", "title": "the crowd will scatter", "sub": ["Allah keeps His word"]}]},
+    "then": "Al-Bukhari records that at Badr the Prophet ﷺ prayed hard in his tent, until Abu Bakr said it was enough. Then he went out in armor {reward}reciting this verse{/reward}. Aishah said it had been revealed in Makkah {idea}when she was a young girl{/idea}.",
+    "now": "You are in a long situation that looks fixed: a hostile manager, a family pressure, a loneliness. Years pass. {idea}A promise from Allah can wait years and still arrive on time.{/idea}",
+    "old": "If it has not changed by now, it never will.",
+    "new": "Allah's promises can be revealed long before they are seen.",
+    "try": "Make one sincere dua today about something that feels stuck, like the Prophet ﷺ did.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:46", "surah": 54, "ayah": 46, "place": "makkah",
+    "title": "Defeat here is small. The Hour is far more bitter.",
+    "subtitle": "The real appointment is not on the battlefield",
+    "picture": {"kind": "boxes", "label": "Two appointments", "row": [
+      {"box": "trap", "title": "defeat in this world", "sub": ["hard, but passing"]},
+      {"conn": "and beyond it"},
+      {"box": "trap", "title": "the Hour", "sub": ["more grievous, more bitter"]}]},
+    "key": {"label": "What matters most", "row": [
+      {"box": "people", "title": "winning now", "sub": ["the only scoreboard"], "strike": true},
+      {"box": "idea", "title": "the Hour", "sub": ["the appointment for everyone"]}]},
+    "then": "The Prophet ﷺ recited this verse at Badr together with the one before it. The defeat of the crowd in this life was coming, but {idea}the Hour is their real appointment{/idea}, and it is {trap}more grievous and more bitter{/trap}.",
+    "now": "You lose an argument, a contract, a match, and it feels like the end of the world. It is not. {idea}There is one appointment you cannot reschedule{/idea}, and how you stand there is what really counts.",
+    "old": "The worst thing that can happen is losing here.",
+    "new": "The Hour is the appointment that puts every other loss in proportion.",
+    "try": "Next time you feel crushed by a loss, ask: how will this look on the Day?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:47", "surah": 54, "ayah": 47, "place": "makkah",
+    "title": "The guilty are lost now and burning later.",
+    "subtitle": "Confusion in this life, fire in the next",
+    "picture": {"kind": "boxes", "label": "Two states", "row": [
+      {"box": "trap", "title": "error", "sub": ["doubt, confusion, hesitation"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the blaze", "sub": ["what doubt ends in"]}]},
+    "key": {"label": "Where it starts", "row": [
+      {"box": "people", "title": "the fire is far off", "sub": [], "strike": true},
+      {"box": "trap", "title": "the confusion is now", "sub": ["a heart without direction"]}]},
+    "then": "Ibn Kathir says the criminals are {trap}misguided away from the truth and engulfed in confusion{/trap}, because of the doubts they live in. He says this fits every disbeliever and every innovator. Their end matches the state they lived in.",
+    "now": "You know the feeling of lying awake, unsure what you believe or why you are doing any of it. That restlessness is not neutral. {idea}Clarity about Allah is a gift worth asking for every night.{/idea}",
+    "old": "Living with doubt is just being open-minded.",
+    "new": "Staying lost on purpose is a state that has an end.",
+    "try": "Tonight, ask Allah for guidance in your own words, about one thing you feel unsure of.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:48", "surah": 54, "ayah": 48, "place": "makkah",
+    "title": "Those who walked blindly are dragged on their faces.",
+    "subtitle": "The end mirrors the way they lived",
+    "picture": {"kind": "boxes", "label": "Mirror image", "row": [
+      {"box": "trap", "title": "in this life", "sub": ["no idea where they were heading"]},
+      {"conn": "on the Day"},
+      {"box": "trap", "title": "dragged face down", "sub": ["unaware where they are taken"]}]},
+    "key": {"label": "The link", "row": [
+      {"box": "people", "title": "random punishment", "sub": [], "strike": true},
+      {"box": "idea", "title": "the end matches the path", "sub": ["misguided here, lost there"]}]},
+    "then": "Ibn Kathir draws the link: {idea}just as they were consumed in doubt{/idea}, they end in the Fire. Just as they did not know where they were going, they are {trap}dragged on their faces, unaware where they are taken{/trap}.",
+    "now": "You drift from one day to the next on autopilot: phone, work, phone, sleep. Nobody chose the direction, it just happened. {idea}Where you are heading is being decided by how you walk today.{/idea}",
+    "old": "I will think about direction later. Right now I am just getting by.",
+    "new": "A life without direction leads to an end without direction.",
+    "try": "Write one sentence about where you want your life to be heading with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:49", "surah": 54, "ayah": 49, "place": "makkah",
+    "title": "Everything was created with a measure.",
+    "subtitle": "Allah's decree behind every detail",
+    "picture": {"kind": "boxes", "label": "What the verse shows", "row": [
+      {"box": "idea", "title": "every thing", "sub": ["large or small"]},
+      {"conn": "created by"},
+      {"box": "idea", "title": "a measure", "sub": ["known and written before"]}]},
+    "key": {"label": "How to read what happens", "row": [
+      {"box": "trap", "title": "if only I had...", "sub": ["opens the door to Shaytan"], "strike": true},
+      {"box": "idea", "title": "Allah decreed it", "sub": ["and He does as He wills"]}]},
+    "then": "Abu Hurayrah said Quraysh came {trap}arguing with the Prophet ﷺ about the decree{/trap}, and this verse was revealed. Ibn Kathir cites the hadith: seek Allah's help, do not give in to weakness, and {idea}do not say if only I had done this{/idea}.",
+    "now": "You missed the flight, the job went to someone else, the test came back bad. Your mind replays it: if only, if only. {idea}Do your best, then let the measure be Allah's.{/idea} It is not giving up, it is putting the weight down.",
+    "old": "If I had done one thing differently, this would not have happened.",
+    "new": "What reached me was measured for me. My job is effort and trust.",
+    "try": "Next time you catch yourself saying if only, replace it with: Allah decreed, and He does as He wills.",
+    "related": ["25:2", "87:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:50", "surah": 54, "ayah": 50, "place": "makkah",
+    "title": "His command is one word, faster than a blink.",
+    "subtitle": "No delay between Allah's will and what happens",
+    "picture": {"kind": "boxes", "label": "How Allah commands", "row": [
+      {"box": "idea", "title": "one command", "sub": ["never needs repeating"]},
+      {"conn": "faster than"},
+      {"box": "people", "title": "a blink", "sub": ["the quickest thing you know"]}]},
+    "key": {"label": "How long it takes", "row": [
+      {"box": "people", "title": "it will take ages", "sub": ["too big to change"], "strike": true},
+      {"box": "idea", "title": "one word", "sub": ["no delay, not an instant"]}]},
+    "then": "Ibn Kathir explains: Allah commands a thing {idea}once, without needing to repeat it{/idea}, and it exists faster than the blink of an eye, without delay. It follows the verse about decree: what He measured, He brings about instantly.",
+    "now": "You have been praying about something for months and it feels too big: the illness, the debt, the son who will not talk to you. {idea}For Allah, changing it is one word.{/idea} The wait is wisdom, not difficulty.",
+    "old": "My problem is too big to change quickly.",
+    "new": "Nothing is hard for Allah. When He wills, it happens in a blink.",
+    "try": "Make dua for the thing that feels hardest, as if asking for the easiest thing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:51", "surah": 54, "ayah": 51, "place": "makkah",
+    "title": "We destroyed people like you. Will anyone remember?",
+    "subtitle": "The last refrain of the surah",
+    "picture": {"kind": "boxes", "label": "The surah's history lesson", "row": [
+      {"box": "people", "title": "Noah's people", "sub": []},
+      {"box": "people", "title": "Ad, Thamud", "sub": []},
+      {"box": "people", "title": "Lot's people, Pharaoh", "sub": []},
+      {"conn": "and you are"},
+      {"box": "idea", "title": "their likes", "sub": ["same choices"]}]},
+    "key": {"label": "Who they were", "row": [
+      {"box": "people", "title": "strangers from long ago", "sub": [], "strike": true},
+      {"box": "idea", "title": "your kind", "sub": ["people making the same choices"]}]},
+    "then": "Ibn Kathir says \"your likes\" means {idea}the earlier nations who denied their messengers{/idea}. The question is whether anyone will take a lesson from {trap}the humiliation and punishment{/trap} that came to them.",
+    "now": "You watch someone else's life fall apart from the same habit you have, and you think it is about them. {idea}The surah says: they were like you.{/idea} Their story is free advice, if you take it.",
+    "old": "Those people were nothing like me.",
+    "new": "People who made my choices before me are my lesson.",
+    "try": "Think of one person whose mistake you have seen. Learn one thing from it, without judging them.",
+    "related": ["34:54"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:52", "surah": 54, "ayah": 52, "place": "makkah",
+    "title": "Everything they did is in the records.",
+    "subtitle": "Nothing done is lost",
+    "picture": {"kind": "boxes", "label": "Where deeds go", "row": [
+      {"box": "people", "title": "what they did", "sub": ["every action"]},
+      {"conn": "written in"},
+      {"box": "idea", "title": "the records", "sub": ["kept by the angels"]}]},
+    "key": {"label": "What happens to a deed", "row": [
+      {"box": "people", "title": "done and forgotten", "sub": [], "strike": true},
+      {"box": "idea", "title": "done and written", "sub": []}]},
+    "then": "Ibn Kathir says everything they did is {idea}recorded in the Books of Record entrusted to the angels{/idea}. The deniers forgot their deeds as soon as they did them. {trap}The record did not forget.{/trap}",
+    "now": "You delete the messages, clear the browser history, and it feels like it never happened. You also forget the quiet good you did: the lift you gave, the bill you paid for a friend. {reward}Both are kept.{/reward}",
+    "old": "Once it is over and nobody saw, it is gone.",
+    "new": "Every deed is written down, the hidden bad and the hidden good.",
+    "try": "Do one good deed today that no one will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:53", "surah": 54, "ayah": 53, "place": "makkah",
+    "title": "Small and big, everything is written.",
+    "subtitle": "Why small sins are not small",
+    "picture": {"kind": "boxes", "label": "What gets recorded", "row": [
+      {"box": "people", "title": "small", "sub": ["a glance, a word"]},
+      {"box": "people", "title": "big", "sub": ["what everyone noticed"]},
+      {"conn": "both"},
+      {"box": "idea", "title": "inscribed", "sub": ["nothing left out"]}]},
+    "key": {"label": "The small ones", "row": [
+      {"box": "people", "title": "too small to count", "sub": [], "strike": true},
+      {"box": "trap", "title": "someone records them", "sub": ["beware of small sins"]}]},
+    "then": "Ibn Kathir says the record {idea}leaves nothing, large or small{/idea}. He cites the hadith in which the Prophet ﷺ told Aishah: {trap}beware of small sins{/trap}, because someone is assigned by Allah to record them.",
+    "now": "The small lie to get off a call. The tiny mockery in the group chat. The five minutes you steal from work. {trap}They feel like nothing{/trap}. So does the smile to a tired cashier. {idea}Small is counted too, both ways.{/idea}",
+    "old": "Small things do not really count.",
+    "new": "Small deeds add up, and every one of them is written.",
+    "try": "Catch one small wrong you do by habit today and skip it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:54", "surah": 54, "ayah": 54, "place": "makkah",
+    "title": "The mindful will be among gardens and rivers.",
+    "subtitle": "The other ending, after all the warnings",
+    "picture": {"kind": "boxes", "label": "Two endings", "row": [
+      {"box": "trap", "title": "the deniers", "sub": ["confusion, dragged, disgraced"]},
+      {"box": "reward", "title": "the mindful", "sub": ["gardens and rivers"]}]},
+    "key": {"label": "What the surah is about", "row": [
+      {"box": "trap", "title": "only threats", "sub": [], "strike": true},
+      {"box": "reward", "title": "a way out", "sub": ["for those with taqwa"]}]},
+    "then": "After a whole surah of nations who denied, the ending turns. Ibn Kathir says those with taqwa are in {reward}gardens and rivers{/reward}, unlike the end of the miserable: {trap}loss, confusion, disgrace{/trap}.",
+    "now": "You finish reading a hard surah and feel heavy, as if the warnings were all there was. Then this. {reward}The door was open the whole time{/reward}, for anyone who chose to be mindful of Allah.",
+    "old": "These warnings are just meant to scare me.",
+    "new": "The warnings exist so I can reach the gardens instead.",
+    "try": "End today by asking Allah for Jannah, by name, in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "54:55", "surah": 54, "ayah": 55, "place": "makkah",
+    "title": "A seat of truth, near the King who is able.",
+    "subtitle": "The final reward: closeness to Allah",
+    "picture": {"kind": "boxes", "label": "Where the mindful sit", "row": [
+      {"box": "reward", "title": "a seat of truth", "sub": ["a place of honor"]},
+      {"conn": "near"},
+      {"box": "idea", "title": "the Able King", "sub": ["who measured everything"]}]},
+    "key": {"label": "The greatest part", "row": [
+      {"box": "reward", "title": "gardens", "sub": ["beautiful, but not all"]},
+      {"box": "reward", "title": "being near Him", "sub": ["the true reward"]}]},
+    "then": "Ibn Kathir says the seat of truth is in the {reward}dwelling of Allah's honor{/reward}, surrounded by His pleasure and generosity, near the King who created and measured everything. He cites the hadith: {idea}the just will be on podiums of light{/idea} with Allah, those fair with their families and those in their care.",
+    "now": "You are fair when it is hard: dividing chores at home, judging a dispute between your kids, paying your staff on time. {idea}That fairness is a seat being prepared.{/idea}",
+    "old": "Being fair at home is a small thing.",
+    "new": "Justice with my family and those in my care brings me near the King.",
+    "try": "Be deliberately fair today with someone who depends on you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

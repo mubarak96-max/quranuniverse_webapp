@@ -1,0 +1,308 @@
+[
+  {
+    "id": "78:1", "surah": 78, "ayah": 1, "place": "makkah",
+    "title": "What are they all whispering about?",
+    "subtitle": "A surah that opens with a question",
+    "picture": {"kind": "boxes", "label": "The scene in Makkah", "row": [
+      {"box": "people", "title": "the people", "sub": ["asking one another"]},
+      {"conn": "keep circling"},
+      {"box": "idea", "title": "one topic", "sub": ["what happens after death"]}]},
+    "key": {"label": "What the question shows", "row": [
+      {"box": "people", "title": "just idle talk", "sub": ["nothing to worry about"], "strike": true},
+      {"box": "idea", "title": "it keeps coming back", "sub": ["the heart knows it matters"]}]},
+    "then": "In the earliest years in Makkah, the Prophet ﷺ spoke of a Day when everyone would be raised and questioned. People argued about it among themselves. {idea}Allah opens the surah by asking what they are asking about,{/idea} as if to say: you already know this is big.",
+    "now": "Late at night, scrolling, a video about death slips into your feed. You swipe past it. A week later at a funeral, the same thought returns. {idea}Some questions do not go away when you ignore them.{/idea}",
+    "old": "The big questions about death can wait until I am older.",
+    "new": "The fact that I keep asking means the question deserves an answer now.",
+    "try": "Write down one question about the afterlife you have pushed away. Read this surah with it in mind.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:2", "surah": 78, "ayah": 2, "place": "makkah",
+    "title": "The great news nobody can afford to miss.",
+    "subtitle": "The Day of Judgement called the great news",
+    "picture": {"kind": "boxes", "label": "What they ask about", "row": [
+      {"box": "people", "title": "their questions", "sub": ["half curious, half mocking"]},
+      {"conn": "are about"},
+      {"box": "idea", "title": "the great news", "sub": ["the Day of Judgement"]}]},
+    "key": {"label": "How big is it", "row": [
+      {"box": "plain", "title": "one more headline", "sub": ["forgotten by tomorrow"], "strike": true},
+      {"box": "idea", "title": "the great news", "sub": ["overwhelming, it changes everything"]}]},
+    "then": "Ibn Kathir explains that the great news is the Day of Judgement. He calls it {trap}dreadful, overwhelming information.{/trap} The people of Makkah were treating it as a topic for debate.",
+    "now": "Your phone buzzes all day with breaking news. Prices, scandals, scores. Most of it is gone by dinner. {idea}One piece of news outlasts all of it{/idea} and it is about you.",
+    "old": "News is what is happening out there, to other people.",
+    "new": "The greatest news is the one that will happen to me.",
+    "try": "Next time you open a news app, pause first and remember the great news for ten seconds.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:3", "surah": 78, "ayah": 3, "place": "makkah",
+    "title": "They disagree, but the Day does not.",
+    "subtitle": "Two camps on the same news",
+    "picture": {"kind": "boxes", "label": "The split", "row": [
+      {"box": "people", "title": "those who believe", "sub": ["it will come"]},
+      {"conn": "versus"},
+      {"box": "people", "title": "those who deny", "sub": ["it will not"]}]},
+    "key": {"label": "What the disagreement changes", "row": [
+      {"box": "plain", "title": "many opinions", "sub": ["so maybe it is uncertain"], "strike": true},
+      {"box": "idea", "title": "one reality", "sub": ["opinions do not move it"]}]},
+    "then": "Ibn Kathir says the people were split into two views: {idea}some believed in the Day, some rejected it.{/idea} The verse names the disagreement without granting it any weight.",
+    "now": "A family argument about whether a symptom is serious. One uncle says it is nothing. The doctor's scan says otherwise. {trap}The vote at the dinner table does not change the result.{/trap}",
+    "old": "If people disagree so much, maybe nobody really knows.",
+    "new": "Disagreement is about us. The Day itself is not up for a vote.",
+    "try": "Notice one belief you hold only because people around you hold it. Ask if it is true.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:4", "surah": 78, "ayah": 4, "place": "makkah",
+    "title": "No. They are going to know.",
+    "subtitle": "The debate ends in seeing",
+    "picture": {"kind": "boxes", "label": "Where the arguing ends", "row": [
+      {"box": "people", "title": "arguing now", "sub": ["guessing, denying"]},
+      {"conn": "turns into"},
+      {"box": "idea", "title": "knowing", "sub": ["seeing it for themselves"]}]},
+    "key": {"label": "The reply", "row": [
+      {"box": "trap", "title": "it will never happen", "sub": ["their claim"], "strike": true},
+      {"box": "idea", "title": "they will know", "sub": ["soon, firsthand"]}]},
+    "then": "After naming their argument, Allah answers with one word: {trap}No.{/trap} Ibn Kathir calls this a severe threat and a direct warning. Their doubt will be replaced by certainty, whether they want it or not.",
+    "now": "You tell yourself the warning light on the dashboard is probably fine. You keep driving. {trap}One day you will know{/trap} whether it was. Better to know now, at a garage, than later on the highway.",
+    "old": "If I do not look at it, it is not really there.",
+    "new": "Everyone will know in the end. The only choice is whether I know in time.",
+    "try": "Face one small thing you have been avoiding checking, a message, a bill, a habit.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:5", "surah": 78, "ayah": 5, "place": "makkah",
+    "title": "Said twice, so it lands.",
+    "subtitle": "The repeated warning",
+    "picture": {"kind": "boxes", "label": "The warning, twice", "row": [
+      {"box": "trap", "title": "No, they will know", "sub": ["first time"]},
+      {"conn": "then again"},
+      {"box": "trap", "title": "No, they will know", "sub": ["second time"]}]},
+    "key": {"label": "Why repeat it", "row": [
+      {"box": "plain", "title": "heard it once", "sub": ["enough, move on"], "strike": true},
+      {"box": "idea", "title": "repeated on purpose", "sub": ["a warning meant to stick"]}]},
+    "then": "The warning of the previous verse is repeated with {idea}then{/idea} in front of it. Ibn Kathir treats both together as a severe threat. Repetition in Arabic speech gives weight, like a parent saying a child's name twice.",
+    "now": "A friend says, \"Please, call your mother.\" Then later, quietly, says it again. {idea}The second time is the one you remember.{/idea} The surah does that before it starts showing you proof.",
+    "old": "I have heard the warnings about death so many times they mean nothing.",
+    "new": "It is repeated because I keep forgetting, not because it is empty.",
+    "try": "Pick one reminder you hear often and say it to yourself slowly, as if for the first time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:6", "surah": 78, "ayah": 6, "place": "makkah",
+    "title": "The ground under you was laid out like a bed.",
+    "subtitle": "The first proof: the earth itself",
+    "picture": {"kind": "boxes", "label": "What the earth is", "row": [
+      {"box": "idea", "title": "the earth", "sub": ["firm, settled, peaceful"]},
+      {"conn": "made as"},
+      {"box": "reward", "title": "a bed", "sub": ["a place to rest on"]}]},
+    "key": {"label": "What it proves", "row": [
+      {"box": "plain", "title": "just the ground", "sub": ["it was always there"], "strike": true},
+      {"box": "idea", "title": "made for you", "sub": ["and the Maker can remake"]}]},
+    "then": "Now the surah turns from warning to evidence. Ibn Kathir says Allah lists amazing things He made {idea}as proof of His ability to bring the Hereafter.{/idea} The first is the earth, a firm and peaceful resting place.",
+    "now": "You come home after a long shift and drop onto the bed. You do not think about the floor holding the bed, or the earth holding the floor. {reward}Everything you lean on was laid out for you.{/reward}",
+    "old": "The earth is just there. Nothing to think about.",
+    "new": "The One who spread out a resting place for me can raise me again.",
+    "try": "Tonight before sleep, put your hand on the floor and thank Allah for the ground.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:7", "surah": 78, "ayah": 7, "place": "makkah",
+    "title": "Mountains are the pegs that hold the tent down.",
+    "subtitle": "Stability you never notice",
+    "picture": {"kind": "boxes", "label": "The picture", "row": [
+      {"box": "people", "title": "the earth", "sub": ["like a spread tent"]},
+      {"conn": "held by"},
+      {"box": "idea", "title": "mountains", "sub": ["pegs, keeping it firm"]}]},
+    "key": {"label": "What you take for granted", "row": [
+      {"box": "plain", "title": "the ground stays still", "sub": ["by itself"], "strike": true},
+      {"box": "idea", "title": "it is held", "sub": ["so you can live on it"]}]},
+    "then": "Ibn Kathir explains that Allah made the mountains as pegs {idea}to hold the earth in place and make it firm,{/idea} so it is fit to live on and does not quake with its people. The listeners in Makkah lived surrounded by mountains.",
+    "now": "Camping, you hammer in the pegs before the wind comes. Nobody admires the pegs. But at 3am in a storm, {reward}they are the reason you are still dry.{/reward}",
+    "old": "The things that keep my life steady are boring.",
+    "new": "The quiet things holding me in place were placed there on purpose.",
+    "try": "Name one steady person or routine in your life and thank them, or Allah for them, today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:8", "surah": 78, "ayah": 8, "place": "makkah",
+    "title": "Created in pairs, made to need each other.",
+    "subtitle": "Male and female as a sign",
+    "picture": {"kind": "boxes", "label": "How life continues", "row": [
+      {"box": "people", "title": "male", "sub": []},
+      {"box": "people", "title": "female", "sub": []},
+      {"conn": "together bring"},
+      {"box": "reward", "title": "new life", "sub": ["generation after generation"]}]},
+    "key": {"label": "What it means", "row": [
+      {"box": "plain", "title": "biology, nothing more", "sub": [], "strike": true},
+      {"box": "idea", "title": "a sign", "sub": ["repose, affection, mercy"]}]},
+    "then": "Ibn Kathir explains pairs as male and female, enjoying each other, and through them children come. He links it to the verse that Allah created spouses {reward}that you may find repose in them, with affection and mercy between you.{/reward}",
+    "now": "A newborn in a hospital corridor, two tired parents staring at her. A grandmother who has seen this four times still cries. {idea}Every family photo is a sign of the One who made us in pairs.{/idea}",
+    "old": "Marriage and children are just how life goes.",
+    "new": "Being made in pairs is one of His signs, pointing back to Him.",
+    "try": "Say one kind, specific thing to your spouse, parent, or sibling today.",
+    "related": ["30:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:9", "surah": 78, "ayah": 9, "place": "makkah",
+    "title": "Sleep is a gift that stops you every night.",
+    "subtitle": "Rest built into your body",
+    "picture": {"kind": "boxes", "label": "The daily cycle", "row": [
+      {"box": "people", "title": "the day", "sub": ["running, earning, worrying"]},
+      {"conn": "ends in"},
+      {"box": "reward", "title": "sleep", "sub": ["movement stops, rest comes"]}]},
+    "key": {"label": "What sleep shows", "row": [
+      {"box": "plain", "title": "wasted hours", "sub": ["time I could be working"], "strike": true},
+      {"box": "idea", "title": "a designed rest", "sub": ["and a small rehearsal of waking"]}]},
+    "then": "Ibn Kathir explains sleep as {reward}a stopping of movement to rest{/reward} from going back and forth seeking a living all day. It is listed among the proofs that Allah can bring people back.",
+    "now": "You fight sleep with one more episode, one more email. Then you wake up and the world is new again. {idea}Every morning you are brought back,{/idea} and you never once arranged it yourself.",
+    "old": "Sleep is lost time I should cut down.",
+    "new": "Sleep is a mercy, and waking up each day is a small proof of rising again.",
+    "try": "Tonight, put the phone away ten minutes earlier and let sleep be a gift.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:10", "surah": 78, "ayah": 10, "place": "makkah",
+    "title": "The night is worn like clothing.",
+    "subtitle": "Darkness as covering and calm",
+    "picture": {"kind": "boxes", "label": "What the night does", "row": [
+      {"box": "idea", "title": "the night", "sub": ["shade and darkness"]},
+      {"conn": "covers"},
+      {"box": "people", "title": "the people", "sub": ["a tranquil residence"]}]},
+    "key": {"label": "How to see the dark", "row": [
+      {"box": "trap", "title": "something to fear", "sub": ["or fill with screens"], "strike": true},
+      {"box": "reward", "title": "a garment", "sub": ["covering, calming, private"]}]},
+    "then": "Ibn Kathir says the night's shade and darkness {reward}covers people{/reward}, and quotes Qatadah: a tranquil residence. The listeners lived without electric light. Night meant the town went quiet.",
+    "now": "The city never really goes dark now. Streetlights, the laptop glow, the phone under the blanket. {idea}The night was given to cover you and calm you,{/idea} and you can still take it back.",
+    "old": "Night is just more hours for screens.",
+    "new": "Night is a covering given to me for rest and stillness.",
+    "try": "Turn off all lights and screens for five minutes tonight and just sit in the dark.",
+    "related": ["91:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:11", "surah": 78, "ayah": 11, "place": "makkah",
+    "title": "The day was made bright for earning a living.",
+    "subtitle": "Your workday is also a gift",
+    "picture": {"kind": "boxes", "label": "Night and day", "row": [
+      {"box": "people", "title": "night", "sub": ["for rest"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "day", "sub": ["light to work, trade, move"]}]},
+    "key": {"label": "What work is", "row": [
+      {"box": "trap", "title": "a grind I hate", "sub": ["nothing to do with Allah"], "strike": true},
+      {"box": "idea", "title": "a given daylight", "sub": ["provision comes through it"]}]},
+    "then": "Ibn Kathir explains that Allah made the day {reward}radiant and shining{/reward} so people can come and go for their livelihood, earning, and business. In a trading town like Makkah, this was the rhythm of every day.",
+    "now": "The alarm at 6am, the bus, the shop shutter going up. It feels like your own effort. {idea}The light you work in was made for that work.{/idea} The paycheck is provision, not just salary.",
+    "old": "My job is just the grind I need to survive.",
+    "new": "The day itself was made for my earning. My work sits inside His care.",
+    "try": "Before you start work tomorrow, say Bismillah and ask for good provision.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:12", "surah": 78, "ayah": 12, "place": "makkah",
+    "title": "Seven strong heavens built above your head.",
+    "subtitle": "Look up at the proof",
+    "picture": {"kind": "boxes", "label": "What is above you", "row": [
+      {"box": "people", "title": "you", "sub": ["small, below"]},
+      {"conn": "under"},
+      {"box": "idea", "title": "7", "sub": ["strong heavens, vast and precise"], "num": true}]},
+    "key": {"label": "The argument", "row": [
+      {"box": "trap", "title": "raising the dead is hard", "sub": ["too hard to believe"], "strike": true},
+      {"box": "idea", "title": "He built the sky", "sub": ["you are the smaller task"]}]},
+    "then": "Ibn Kathir describes the seven heavens in their {idea}vastness, loftiness, perfection, and precision,{/idea} adorned with stars. The deniers doubted that Allah could rebuild a body. He points them to what He already built above them.",
+    "now": "On a rooftop or a dark road outside the city, you look up and the stars seem endless. Your worries shrink a little. {idea}The One who built that does not struggle with you.{/idea}",
+    "old": "My problems are too big and tangled to be solved.",
+    "new": "The Builder of the sky is not stretched by anything in my life.",
+    "try": "Step outside tonight and look at the sky for one full minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:13", "surah": 78, "ayah": 13, "place": "makkah",
+    "title": "A blazing lamp hung up for the whole world.",
+    "subtitle": "The sun as a placed lamp",
+    "picture": {"kind": "boxes", "label": "The lamp", "row": [
+      {"box": "idea", "title": "the sun", "sub": ["radiant, burning"]},
+      {"conn": "lights up"},
+      {"box": "people", "title": "all the earth", "sub": ["every person on it"]}]},
+    "key": {"label": "Who switched it on", "row": [
+      {"box": "plain", "title": "it just shines", "sub": [], "strike": true},
+      {"box": "idea", "title": "it was placed", "sub": ["a lamp has a Maker"]}]},
+    "then": "Ibn Kathir explains the lamp as {reward}the radiant sun that gives light to all the world.{/reward} Its light reaches everyone on earth. A lamp is something someone sets up and lights, and the verse uses that word.",
+    "now": "You would never think the light in your kitchen switched itself on. Yet every morning the sun comes up over your street, {idea}lighting every home at once{/idea}, and you call it weather.",
+    "old": "The sun is just a fact of nature.",
+    "new": "The sun is a lamp, and a lamp means Someone placed it.",
+    "try": "Catch the sunrise or sunset once this week and thank Allah for its light.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:14", "surah": 78, "ayah": 14, "place": "makkah",
+    "title": "Rain pours from heavy clouds.",
+    "subtitle": "Water sent down in abundance",
+    "picture": {"kind": "boxes", "label": "Where the water comes from", "row": [
+      {"box": "idea", "title": "the clouds", "sub": ["heavy, full of rain"]},
+      {"conn": "pour down"},
+      {"box": "reward", "title": "water", "sub": ["abundant, continuous"]}]},
+    "key": {"label": "What the rain is", "row": [
+      {"box": "plain", "title": "the forecast", "sub": ["just weather"], "strike": true},
+      {"box": "idea", "title": "sent down", "sub": ["by the One who sends"]}]},
+    "then": "Ibn Kathir reports from Ibn Abbas that the source here means the clouds. Scholars explained the water as {reward}poured out, continuous, abundant.{/reward} For people in a dry valley like Makkah, rain was life itself.",
+    "now": "A heavy shower and you complain about the traffic and your wet shoes. Somewhere a farmer is on his knees in thanks. {idea}Same rain, sent down from the same Lord.{/idea}",
+    "old": "Rain is mostly an inconvenience.",
+    "new": "Rain is sent down, and it is one of the ways He gives life.",
+    "try": "Next time it rains, pause and make a short dua instead of complaining.",
+    "related": ["30:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:15", "surah": 78, "ayah": 15, "place": "makkah",
+    "title": "From the rain, grain and green plants.",
+    "subtitle": "Dead ground brought to life",
+    "picture": {"kind": "boxes", "label": "What the water brings out", "row": [
+      {"box": "reward", "title": "water", "sub": ["sent down"]},
+      {"conn": "brings out"},
+      {"box": "reward", "title": "grain", "sub": ["stored for people and cattle"]},
+      {"box": "reward", "title": "plants", "sub": ["eaten fresh"]}]},
+    "key": {"label": "The hidden argument", "row": [
+      {"box": "trap", "title": "dead stays dead", "sub": ["their assumption"], "strike": true},
+      {"box": "idea", "title": "dry earth sprouts", "sub": ["so can the dead"]}]},
+    "then": "Ibn Kathir explains grain as what is stored for people and cattle, and plants as the fresh vegetables. {idea}Bare earth, then rain, then green.{/idea} The listeners saw this every season and still doubted they could be brought back.",
+    "now": "The bag of rice in your cupboard, the tomatoes at the market stall. Each one started as a dry seed in dead-looking soil. {reward}You eat a small resurrection every day.{/reward}",
+    "old": "Food comes from the shop.",
+    "new": "Every grain I eat was brought out of dead ground by His rain.",
+    "try": "At your next meal, think of where one item on your plate began.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "78:16", "surah": 78, "ayah": 16, "place": "makkah",
+    "title": "Gardens growing thick and tangled together.",
+    "subtitle": "Variety from one water",
+    "picture": {"kind": "boxes", "label": "The gardens", "row": [
+      {"box": "reward", "title": "one water", "sub": []},
+      {"conn": "brings"},
+      {"box": "reward", "title": "dense gardens", "sub": ["many fruits, colors, tastes"]}]},
+    "key": {"label": "What variety shows", "row": [
+      {"box": "plain", "title": "random growth", "sub": [], "strike": true},
+      {"box": "idea", "title": "a deliberate Maker", "sub": ["same water, different fruits"]}]},
+    "then": "Ibn Kathir explains these gardens as gathered close together, with {reward}fruits of different colors, tastes, and fragrances{/reward} in one place. He links it to the verse about plots watered with the same water, yet differing in taste. This ends the list of proofs.",
+    "now": "A fruit stall: mangoes, grapes, dates, oranges, piled side by side. Same sun, same soil, same rain. {idea}All that difference is a signature.{/idea} The list of proofs ends here, and the surah turns to the Day.",
+    "old": "Nature produces what it produces.",
+    "new": "So much variety from one water points to One who plans.",
+    "try": "Buy or eat one fruit today slowly and notice its color, smell, and taste.",
+    "related": ["13:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

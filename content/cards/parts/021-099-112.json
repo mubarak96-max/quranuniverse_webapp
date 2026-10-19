@@ -1,0 +1,275 @@
+[
+  {
+    "id": "21:99", "surah": 21, "ayah": 99, "place": "makkah",
+    "title": "Had they been gods, they would not have gone in.",
+    "subtitle": "The final proof against false gods",
+    "picture": {"kind": "boxes", "label": "The reasoning", "row": [
+      {"box": "plain", "title": "if gods", "sub": []},
+      {"conn": "would not"},
+      {"box": "trap", "title": "enter it", "sub": []},
+      {"box": "idea", "title": "but they do", "sub": ["so they are not"]}]},
+    "key": {"label": "What a god is", "row": [
+      {"box": "trap", "title": "something powerful", "sub": ["for now"], "strike": true},
+      {"box": "idea", "title": "beyond all harm", "sub": ["only Allah"]}]},
+    "then": "The tafsir explains: {idea}if these idols had really been gods, they would not have entered the Fire{/idea}. Their end is the proof of what they were. The worshippers and what they worshipped {trap}remain there together{/trap}.",
+    "now": "That thing you trust to keep you safe, a career or a reputation, can be damaged by one bad week. {trap}If it can be harmed, it cannot be your god.{/trap} {idea}Only Allah is beyond all harm.{/idea}",
+    "old": "What I rely on seems strong enough to keep me safe.",
+    "new": "Anything that can be harmed cannot be my real refuge. Only Allah is beyond harm.",
+    "try": "Notice one thing you treat as unbreakable today, and remember it can fail.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:100", "surah": 21, "ayah": 100, "place": "makkah",
+    "title": "Deep sighing there, and no hearing.",
+    "subtitle": "Those who refused to listen, unable to hear",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "heavy sighing", "sub": []},
+      {"box": "trap", "title": "no hearing", "sub": []}]},
+    "key": {"label": "When to listen", "row": [
+      {"box": "trap", "title": "later", "sub": ["when there's nothing to hear"], "strike": true},
+      {"box": "reward", "title": "now", "sub": ["while words can help"]}]},
+    "then": "The tafsir links the sighing to another verse about the people of the Fire. The verse adds that {trap}therein they will hear not{/trap}. In this life they {idea}listened to revelation while they played{/idea}, as the surah's opening said.",
+    "now": "Every day you can hear the adhan, a reminder, a friend's honest advice. {reward}Hearing is a gift you have right now.{/reward} {idea}Use it while it can still change something.{/idea}",
+    "old": "I can always tune in to reminders later.",
+    "new": "Being able to hear guidance is a gift. I should use it now.",
+    "try": "When you hear the next adhan, stop what you are doing and listen to it all.",
+    "related": ["11:106"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:101", "surah": 21, "ayah": 101, "place": "makkah",
+    "title": "Those already promised the best are kept far from it.",
+    "subtitle": "Mercy that went ahead of the righteous",
+    "picture": {"kind": "boxes", "label": "The blessed", "row": [
+      {"box": "reward", "title": "the best", "sub": ["went before them"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "far removed", "sub": ["from the Fire"]}]},
+    "key": {"label": "Who is excluded", "row": [
+      {"box": "trap", "title": "all who were worshipped", "sub": ["even 'Isa"], "strike": true},
+      {"box": "reward", "title": "the righteous", "sub": ["kept far"]}]},
+    "then": "Ibn Az-Zab'ari argued that if all worshipped besides Allah go to the Fire, then so would the angels, 'Uzayr and 'Isa. The Prophet ﷺ answered that whoever likes to be worshipped instead of Allah will be with his worshippers. Then this verse came: {reward}those for whom good has gone ahead from Allah are kept far from it{/reward}.",
+    "now": "You worry: what if I'm swept up with everyone else? {idea}Allah's justice separates.{/idea} {reward}Those who lived for Him are kept far{/reward}, even if others misused their names.",
+    "old": "On the Day, I might be lumped in with everyone around me.",
+    "new": "Allah separates. Those who lived for Him are kept far from the Fire.",
+    "try": "Ask Allah today to make you one of those for whom good has gone ahead.",
+    "related": ["10:26", "55:60"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:102", "surah": 21, "ayah": 102, "place": "makkah",
+    "title": "Not even its faintest sound, and everything they desire.",
+    "subtitle": "Safe from fear, surrounded by what they love",
+    "picture": {"kind": "boxes", "label": "The blessed", "row": [
+      {"box": "idea", "title": "no sound of it", "sub": ["not the faintest"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "what they desire", "sub": ["forever"]}]},
+    "key": {"label": "What Paradise is", "row": [
+      {"box": "people", "title": "just safety", "sub": ["escape from harm"], "strike": true},
+      {"box": "reward", "title": "safety and joy", "sub": ["all they love"]}]},
+    "then": "The tafsir says the blessed {idea}will not feel its heat in their bodies{/idea}. They will be {reward}safe from what they fear, and have all that they love and desire{/reward}. Just as they did good in this world, Allah makes their final destiny good.",
+    "now": "The neighbour's renovation noise, the traffic, the constant alerts. You crave just a little quiet. {reward}Imagine complete safety, with everything your heart wants.{/reward} {idea}That is what doing good here leads to.{/idea}",
+    "old": "The best I can hope for is just to escape punishment.",
+    "new": "Allah promises not just safety but everything the heart desires.",
+    "try": "Spend two minutes picturing Paradise as the verse describes, then make dua for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:103", "surah": 21, "ayah": 103, "place": "makkah",
+    "title": "The greatest terror will not grieve them; angels greet them.",
+    "subtitle": "Calm on the most frightening day",
+    "picture": {"kind": "boxes", "label": "Their welcome", "row": [
+      {"box": "trap", "title": "greatest terror", "sub": ["for everyone else"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "no grief", "sub": []},
+      {"box": "reward", "title": "angels", "sub": ["this is your Day"]}]},
+    "key": {"label": "What that Day is", "row": [
+      {"box": "trap", "title": "only terror", "sub": [], "strike": true},
+      {"box": "reward", "title": "a promised day", "sub": ["for the believers"]}]},
+    "then": "After describing the deniers, Allah describes the blessed: {reward}the greatest terror will not grieve them{/reward}. The angels will meet them with the words, {idea}this is your Day which you were promised{/idea}.",
+    "now": "You think of the Day of Judgement with dread, like the worst exam of your life. {reward}For those who lived for Allah, it is the day they were waiting for{/reward}, with angels at the door.",
+    "old": "The Day of Judgement is only something to dread.",
+    "new": "For the believers it is a promised day, met with angels' greeting.",
+    "try": "Next time you think of the Day with fear, add hope: ask to be greeted by the angels.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:104", "surah": 21, "ayah": 104, "place": "makkah",
+    "title": "The sky rolled up like a scroll, and creation begun again.",
+    "subtitle": "The One who began creation will repeat it",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "the heaven", "sub": []},
+      {"conn": "rolled like"},
+      {"box": "plain", "title": "a written scroll", "sub": []},
+      {"box": "idea", "title": "creation again", "sub": ["as it began"]}]},
+    "key": {"label": "Is it possible", "row": [
+      {"box": "trap", "title": "too much to undo", "sub": ["or remake"], "strike": true},
+      {"box": "idea", "title": "a binding promise", "sub": ["We will do it"]}]},
+    "then": "On the Day of Resurrection the heaven will be rolled up like a scroll. Ibn 'Abbas said the word means {idea}the record, rolled up{/idea}. The Prophet ﷺ said people will be gathered {trap}barefoot, naked, and uncircumcised{/trap}, then recited: as We began the first creation, We will repeat it.",
+    "now": "You fold a letter, roll up a poster, close a notebook full of a year's plans. {idea}That is how easily Allah will fold the sky.{/idea} {reward}He made you once from nothing; making you again is a promise He keeps.{/reward}",
+    "old": "It is hard to imagine the whole world ending and starting again.",
+    "new": "The One who began creation will repeat it. It is His promise.",
+    "try": "Close your notebook or laptop tonight and remember: one Day the sky will fold like this.",
+    "related": ["39:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:105", "surah": 21, "ayah": 105, "place": "makkah",
+    "title": "It was written long ago: My righteous servants inherit the land.",
+    "subtitle": "A promise recorded in the earlier Books",
+    "picture": {"kind": "boxes", "label": "What is written", "row": [
+      {"box": "idea", "title": "the Zabur", "sub": ["after the Reminder"]},
+      {"conn": "records"},
+      {"box": "reward", "title": "the land", "sub": ["of Paradise"]},
+      {"box": "people", "title": "righteous servants", "sub": ["inherit it"]}]},
+    "key": {"label": "Who ends up with it", "row": [
+      {"box": "trap", "title": "the powerful", "sub": [], "strike": true},
+      {"box": "reward", "title": "the righteous", "sub": ["by His decree"]}]},
+    "then": "Ibn 'Abbas, Ash-Sha'bi and others said the Zabur was revealed to Dawud, and the Reminder is the Tawrah. {idea}Allah wrote in them that His righteous servants would inherit the land.{/idea} Ibn 'Abbas said {reward}this means the land of Paradise{/reward}.",
+    "now": "You see people cheat their way to the big house and the corner office. {trap}It looks like they own everything.{/trap} {reward}The lasting inheritance was written long ago for the righteous.{/reward}",
+    "old": "The people who grab the most end up with the most.",
+    "new": "The lasting inheritance belongs to Allah's righteous servants. It is written.",
+    "try": "Choose the honest option in one small money matter today, trusting that inheritance.",
+    "related": ["7:128", "40:51", "24:55"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:106", "surah": 21, "ayah": 106, "place": "makkah",
+    "title": "In this Quran is a clear message for people who worship.",
+    "subtitle": "Enough guidance for anyone who wants it",
+    "picture": {"kind": "boxes", "label": "Who it is for", "row": [
+      {"box": "idea", "title": "this Quran", "sub": ["a plain message"]},
+      {"conn": "for"},
+      {"box": "people", "title": "worshippers", "sub": ["who choose to obey"]}]},
+    "key": {"label": "What I need", "row": [
+      {"box": "trap", "title": "more sources", "sub": ["one more book, one more talk"], "strike": true},
+      {"box": "reward", "title": "it is sufficient", "sub": ["if I act on it"]}]},
+    "then": "The tafsir says the Quran is {reward}a plain message, beneficial and sufficient{/reward} for a people who worship Allah. These are people {idea}who would rather obey Allah than follow Shaytan or their own desires{/idea}.",
+    "now": "You save posts, buy books, bookmark talks, and feel you never know enough to begin. {trap}Collecting feels like progress.{/trap} {reward}The guidance you need is already in your hands.{/reward}",
+    "old": "I need to learn much more before I can really live my faith.",
+    "new": "The Quran is enough for someone who wants to worship. I can start with what I know.",
+    "try": "Act on one verse you already know today instead of looking for something new.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:107", "surah": 21, "ayah": 107, "place": "makkah",
+    "title": "He was sent only as a mercy to all the worlds.",
+    "subtitle": "The Prophet as the gift the Makkans called a problem",
+    "picture": {"kind": "boxes", "label": "Why he was sent", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": []},
+      {"conn": "sent as"},
+      {"box": "reward", "title": "a mercy", "sub": ["to all the worlds"]}]},
+    "key": {"label": "What he was", "row": [
+      {"box": "trap", "title": "a curse", "sub": ["a trouble to us"], "strike": true},
+      {"box": "reward", "title": "a mercy", "sub": ["for all peoples"]}]},
+    "then": "The surah introduction says the Makkans considered him a distress, but {reward}he had come as a blessing{/reward}. When asked to pray against the idolaters, he said: {idea}I was not sent as a curse; I was sent as a mercy{/idea}. Ibn 'Abbas said even those who rejected him were spared what struck earlier nations.",
+    "now": "Someone annoys you at work and you want to snap. {idea}The one you follow was sent as mercy, even to those who opposed him.{/idea} {reward}You carry a little of that mercy into every room.{/reward}",
+    "old": "Being religious means being strict and hard on people.",
+    "new": "The Prophet ﷺ was sent as mercy. Following him means being merciful.",
+    "try": "Treat one difficult person today with deliberate gentleness.",
+    "related": ["14:28", "41:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:108", "surah": 21, "ayah": 108, "place": "makkah",
+    "title": "The whole message: your God is one. Will you submit?",
+    "subtitle": "Revelation boiled down to one question",
+    "picture": {"kind": "boxes", "label": "What was revealed", "row": [
+      {"box": "idea", "title": "one God", "sub": ["your God"]},
+      {"conn": "so"},
+      {"box": "people", "title": "will you submit?", "sub": []}]},
+    "key": {"label": "What it asks", "row": [
+      {"box": "people", "title": "agreement", "sub": ["yes, He is one"], "strike": true},
+      {"box": "idea", "title": "submission", "sub": ["follow it and live it"]}]},
+    "then": "Near the end, the Prophet ﷺ is told to say: {idea}it is revealed to me that your God is only one God{/idea}. The tafsir calls this the main objective of revelation, that Allah be worshipped. Then the question: {reward}will you follow and submit to it?{/reward}",
+    "now": "You believe Allah is one. You'd say it without blinking. {trap}The question is whether your week shows it.{/trap} {idea}Submission is belief that reaches your calendar, your wallet, your tongue.{/idea}",
+    "old": "I already believe Allah is one; that is the main thing.",
+    "new": "Believing He is one is the start. Submitting to Him is the answer the verse asks for.",
+    "try": "Pick one area of life you keep separate from faith, and bring Allah into it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:109", "surah": 21, "ayah": 109, "place": "makkah",
+    "title": "If they turn away: I have told you all equally.",
+    "subtitle": "Delivering the message clearly, then stepping back",
+    "picture": {"kind": "boxes", "label": "His stance", "row": [
+      {"box": "people", "title": "they turn away", "sub": []},
+      {"conn": "he says"},
+      {"box": "idea", "title": "you all know", "sub": ["equally informed"]},
+      {"box": "plain", "title": "near or far?", "sub": ["I do not know"]}]},
+    "key": {"label": "My job", "row": [
+      {"box": "trap", "title": "force agreement", "sub": [], "strike": true},
+      {"box": "idea", "title": "convey clearly", "sub": ["then leave it to Allah"]}]},
+    "then": "If they ignored his call, he was to say: {idea}I have informed you all alike{/idea}. The tafsir compares it to: for me my deeds and for you yours. And on the Hour: {trap}it will surely come, but I do not know whether it is near or far{/trap}.",
+    "now": "You have told your brother your concern about his choices, clearly and kindly. He disagrees. {trap}You keep pushing and it gets worse.{/trap} {idea}Sometimes your part is done once the message is clear.{/idea}",
+    "old": "If someone doesn't accept what I say, I have to keep pressing.",
+    "new": "My job is to say it clearly and kindly. The rest is between them and Allah.",
+    "try": "Let go of one argument you keep restarting. Make dua for that person instead.",
+    "related": ["10:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:110", "surah": 21, "ayah": 110, "place": "makkah",
+    "title": "He knows what you say out loud and what you hide.",
+    "subtitle": "The open and the hidden, equally known",
+    "picture": {"kind": "boxes", "label": "What He knows", "row": [
+      {"box": "people", "title": "spoken aloud", "sub": []},
+      {"box": "people", "title": "kept hidden", "sub": []},
+      {"conn": "both"},
+      {"box": "idea", "title": "known", "sub": ["and repaid"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "what's public", "sub": [], "strike": true},
+      {"box": "idea", "title": "both sides", "sub": ["minor and major"]}]},
+    "then": "The tafsir says Allah {idea}knows the unseen in its entirety{/idea}: what His creatures do openly and what they do secretly. {trap}He will repay them for it, both minor and major.{/trap} The surah opened with the Prophet ﷺ saying his Lord knows every word.",
+    "now": "The polite smile in the meeting, and the thought behind it. The kind post online, and the comment you typed and deleted. {idea}Allah knows both versions of you.{/idea} {reward}Making them match is a kind of peace.{/reward}",
+    "old": "What people see is what matters.",
+    "new": "Allah knows what I show and what I hide. I want the two to match.",
+    "try": "Notice one gap today between what you say and what you think. Close it a little.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:111", "surah": 21, "ayah": 111, "place": "makkah",
+    "title": "Perhaps the delay is a test, and enjoyment for a while.",
+    "subtitle": "Why ease without consequences can be a trial",
+    "picture": {"kind": "boxes", "label": "The delay", "row": [
+      {"box": "plain", "title": "nothing yet", "sub": ["no punishment"]},
+      {"conn": "may be"},
+      {"box": "trap", "title": "a test", "sub": []},
+      {"box": "reward", "title": "enjoyment", "sub": ["for a time"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "people", "title": "I got away with it", "sub": [], "strike": true},
+      {"box": "idea", "title": "time on the clock", "sub": ["a trial"]}]},
+    "then": "The Prophet ﷺ said he did not know; {trap}perhaps it is a trial for you, and an enjoyment for a while{/trap}. Ibn Jarir explained it as {idea}being delayed as a test, with enjoyment for an allotted time{/idea}.",
+    "now": "You did something wrong and nothing happened. No one found out. Life carried on. {trap}It feels like you got away with it.{/trap} {idea}The quiet afterwards may be the test itself.{/idea}",
+    "old": "If nothing bad happened, it was not a big deal.",
+    "new": "A delay is not a pardon. It may be time given to turn back.",
+    "try": "Take one wrong you got away with and quietly repair it or seek forgiveness.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "21:112", "surah": 21, "ayah": 112, "place": "makkah",
+    "title": "My Lord, judge in truth. We seek the Merciful's help.",
+    "subtitle": "The surah's last word: handing it all to Allah",
+    "picture": {"kind": "boxes", "label": "His final prayer", "row": [
+      {"box": "idea", "title": "judge in truth", "sub": ["between us"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Ar-Rahman", "sub": ["whose help is sought"]},
+      {"box": "trap", "title": "what they say", "sub": ["lies and slander"]}]},
+    "key": {"label": "Where it ends", "row": [
+      {"box": "trap", "title": "winning", "sub": ["the last word mine"], "strike": true},
+      {"box": "idea", "title": "His judgment", "sub": ["and His help"]}]},
+    "then": "The prophets used to say: {idea}our Lord, judge between us and our people in truth{/idea}. Zayd bin Aslam said when the Prophet ﷺ witnessed fighting, he would say: my Lord, judge in truth. The surah ends seeking {reward}the help of the Most Merciful{/reward} against all their fabrications.",
+    "now": "Someone spreads lies about you, and you lie awake drafting replies. {idea}This verse is a better reply{/idea}: my Lord, judge in truth. {reward}Then lean on the Most Merciful and sleep.{/reward}",
+    "old": "I have to set every record straight myself.",
+    "new": "I can hand the judgment to Allah and seek the Merciful's help. That is enough.",
+    "try": "Tonight, about one thing said against you, say: Rabbi uhkum bil-haqq, and leave it there.",
+    "related": ["7:89"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "26:181", "surah": 26, "ayah": 181, "place": "makkah",
+    "title": "Give as you take, take as you give.",
+    "subtitle": "Full measure, no loss to others",
+    "picture": {"kind": "boxes", "label": "Madyan's double standard", "row": [
+      {"box": "trap", "title": "when taking", "sub": ["full measure"]},
+      {"box": "trap", "title": "when giving", "sub": ["short measure"]},
+      {"conn": "Shu'ayb said"},
+      {"box": "idea", "title": "one standard", "sub": ["give as you take"]}]},
+    "key": {"label": "What fairness means", "row": [
+      {"box": "people", "title": "a little less", "sub": ["no one will notice"], "strike": true},
+      {"box": "idea", "title": "the same both ways", "sub": ["what I want, I give"]}]},
+    "then": "Shu'ayb commanded them to give full measure. Ibn Kathir explains: {trap}do not cause loss by giving short measure while taking full measure when you are the ones taking.{/trap} {idea}Give as you take, and take as you give.{/idea}",
+    "now": "You count your change carefully at the shop. But when you split the restaurant bill, you round your share down. When you bill a client, you round up. {idea}One scale for you, another for them.{/idea}",
+    "old": "I am careful not to be cheated, and that is just being smart.",
+    "new": "The fairness I demand for myself is the fairness I owe everyone else.",
+    "try": "In your next split bill or transaction, round in the other person's favor.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:182", "surah": 26, "ayah": 182, "place": "makkah",
+    "title": "Weigh with a straight balance.",
+    "subtitle": "The scale itself must be honest",
+    "picture": {"kind": "boxes", "label": "The balance", "row": [
+      {"box": "trap", "title": "a bent scale", "sub": ["tilted quietly"]},
+      {"box": "idea", "title": "a straight scale", "sub": ["true and even"]}]},
+    "key": {"label": "Where cheating hides", "row": [
+      {"box": "people", "title": "only in the act", "sub": [], "strike": true},
+      {"box": "trap", "title": "in the tool", "sub": ["a rigged system"]}]},
+    "then": "Shu'ayb told them to {idea}weigh with the true and straight balance.{/idea} Ibn Kathir notes simply that {idea}the balance is the scales.{/idea} Honest weighing begins with an honest tool.",
+    "now": "The scale is not always metal. It is the fine print on your contract, the hidden fee in your app, the rule you wrote that always favors you. {trap}A bent rule cheats every time it is used.{/trap}",
+    "old": "As long as I am not lying outright, I am honest.",
+    "new": "Honesty includes the systems and rules I set up, not just my words.",
+    "try": "Look at one rule or arrangement you control at home or work. Check that it is fair both ways.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:183", "surah": 26, "ayah": 183, "place": "makkah",
+    "title": "Do not shortchange people or spread corruption.",
+    "subtitle": "Small cheating and open harm named together",
+    "picture": {"kind": "boxes", "label": "Two wrongs", "row": [
+      {"box": "trap", "title": "shortchanging", "sub": ["reducing people's things"]},
+      {"box": "trap", "title": "mischief", "sub": ["banditry on the roads"]}]},
+    "key": {"label": "How they are linked", "row": [
+      {"box": "people", "title": "small versus big", "sub": ["one is minor"], "strike": true},
+      {"box": "idea", "title": "same root", "sub": ["taking what is not yours"]}]},
+    "then": "Shu'ayb said: {trap}do not shortchange them{/trap}, and do not spread corruption in the land. Ibn Kathir explains the second as {trap}engaging in banditry{/trap}, like sitting on every road threatening people. The quiet thief and the open robber are named in one breath.",
+    "now": "You would never rob anyone. But you leave work early on paid hours, use the company printer for personal stuff, skip paying back the small loan. {idea}It is the same habit, just quieter.{/idea}",
+    "old": "Small unfairness is nothing like real crime.",
+    "new": "Shortchanging people in small things grows from the same root as open harm.",
+    "try": "Pay back one small thing you owe today, money, time, or a favor.",
+    "related": ["7:86"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:184", "surah": 26, "ayah": 184, "place": "makkah",
+    "title": "Fear the One who made you and all before you.",
+    "subtitle": "The Creator of every generation",
+    "picture": {"kind": "boxes", "label": "Who He created", "row": [
+      {"box": "people", "title": "you", "sub": ["Madyan now"]},
+      {"box": "people", "title": "the generations of old", "sub": ["your forefathers"]},
+      {"conn": "all by"},
+      {"box": "idea", "title": "one Creator", "sub": ["have taqwa of Him"]}]},
+    "key": {"label": "Their measure", "row": [
+      {"box": "trap", "title": "our fathers' ways", "sub": ["the standard"], "strike": true},
+      {"box": "idea", "title": "our fathers' Creator", "sub": ["the real standard"]}]},
+    "then": "Shu'ayb warns them of {idea}Allah who created them and created their forefathers.{/idea} Ibn Kathir links it to Musa's words, {idea}your Lord and the Lord of your ancient fathers.{/idea} The ones they followed were also created and also answerable.",
+    "now": "You look at old family photos: great-grandparents you never met. They lived, worked, traded, and are gone. {idea}The same Lord made them and made you.{/idea}",
+    "old": "My forefathers set the rules I live by.",
+    "new": "My forefathers and I answer to the same Creator.",
+    "try": "Make dua today for your grandparents and those before them, by name if you know them.",
+    "related": ["26:26", "36:62"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:185", "surah": 26, "ayah": 185, "place": "makkah",
+    "title": "Bewitched, they called him, just like Thamud did.",
+    "subtitle": "Different peoples, the same excuse",
+    "picture": {"kind": "boxes", "label": "Same words, two nations", "row": [
+      {"box": "trap", "title": "Thamud", "sub": ["you are bewitched"]},
+      {"box": "trap", "title": "Madyan", "sub": ["you are bewitched"]}]},
+    "key": {"label": "Why the same", "row": [
+      {"box": "people", "title": "coincidence", "sub": [], "strike": true},
+      {"box": "idea", "title": "like minds", "sub": ["refusal speaks the same way"]}]},
+    "then": "Ibn Kathir notes Madyan responded {trap}like Thamud responded to their Messenger, for they were of like mind.{/trap} They said, {trap}you are one of those affected by witchcraft.{/trap} Centuries apart, refusal used the same words.",
+    "now": "Notice your own excuses. They sound the same every time: I am too busy, it is not the right time, they are exaggerating. {idea}Same words, same refusal.{/idea}",
+    "old": "My reasons for not changing are unique to my situation.",
+    "new": "My excuses usually sound exactly like everyone else's.",
+    "try": "Write down your most-used excuse. Next time you hear yourself say it, pause.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:186", "surah": 26, "ayah": 186, "place": "makkah",
+    "title": "Just a man like us, and we think a liar.",
+    "subtitle": "Suspicion as a defense",
+    "picture": {"kind": "boxes", "label": "Their reasoning", "row": [
+      {"box": "trap", "title": "a man like us", "sub": ["nothing special"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "a liar", "sub": ["deliberately lying"]}]},
+    "key": {"label": "What they assumed", "row": [
+      {"box": "trap", "title": "ordinary means false", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah chooses", "sub": ["an ordinary man to carry truth"]}]},
+    "then": "Madyan said {trap}we think you are deliberately lying to us, and Allah has not sent you.{/trap} Because he was a human like them, they could not accept he had a message. Quraysh said the same about the Prophet ﷺ.",
+    "now": "Your younger sibling tells you something wise about your temper. Your first thought: who are you to tell me? {idea}Truth does not need an impressive messenger.{/idea}",
+    "old": "I listen to advice from people above me, not people like me.",
+    "new": "Truth can come through ordinary people, and I should not miss it because of who brings it.",
+    "try": "Take one piece of advice seriously today from someone you usually would not.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:187", "surah": 26, "ayah": 187, "place": "makkah",
+    "title": "Then bring down the sky on us.",
+    "subtitle": "Daring the punishment out of stubbornness",
+    "picture": {"kind": "boxes", "label": "Their dare", "row": [
+      {"box": "people", "title": "Shu'ayb warns", "sub": []},
+      {"conn": "they reply"},
+      {"box": "trap", "title": "drop a piece of sky", "sub": ["if you are truthful"]}]},
+    "key": {"label": "What the dare shows", "row": [
+      {"box": "trap", "title": "confidence", "sub": ["we are not afraid"], "strike": true},
+      {"box": "idea", "title": "obstinacy", "sub": ["a closed heart talking"]}]},
+    "then": "They demanded {trap}a piece of the heaven to fall on them{/trap}, said in a stubborn, obstinate way. Ibn Kathir compares it to Quraysh, who said {trap}rain down stones on us{/trap} if this is the truth. The dare was meant to mock.",
+    "now": "Someone warns you about where your spending is heading. You laugh: what, am I going to end up bankrupt? {idea}Laughing at a warning does not make it smaller.{/idea}",
+    "old": "If I mock a warning, it shows I am not scared of it.",
+    "new": "Mocking a warning is often how a heart avoids facing it.",
+    "try": "Think of one warning you have joked about. Treat it seriously for five minutes today.",
+    "related": ["17:90", "17:92", "8:32"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:188", "surah": 26, "ayah": 188, "place": "makkah",
+    "title": "My Lord knows best what you do.",
+    "subtitle": "Shu'ayb hands the matter back to Allah",
+    "picture": {"kind": "boxes", "label": "Shu'ayb's reply", "row": [
+      {"box": "trap", "title": "their dare", "sub": ["bring the sky down"]},
+      {"conn": "he answers"},
+      {"box": "idea", "title": "my Lord knows", "sub": ["He judges, not me"]}]},
+    "key": {"label": "What he refused", "row": [
+      {"box": "trap", "title": "to argue back", "sub": ["prove it now"], "strike": true},
+      {"box": "reward", "title": "to trust Allah", "sub": ["He will not be unjust"]}]},
+    "then": "Shu'ayb did not take the bait. He said {idea}my Lord is the best knower of what you do.{/idea} Ibn Kathir explains: {reward}if you deserve it, He will punish you, and He will not treat you unjustly.{/reward}",
+    "now": "Someone provokes you in the comments, daring you to prove your point. You could fire back for an hour. {idea}Or you could say: Allah knows, and close the app.{/idea}",
+    "old": "When someone dares me, I have to respond and win.",
+    "new": "I can leave the final judgement to Allah, who knows and is never unjust.",
+    "try": "Leave one argument today unanswered. Say to yourself: Allah knows best.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:189", "surah": 26, "ayah": 189, "place": "makkah",
+    "title": "The cloud they ran to was the punishment.",
+    "subtitle": "The Day of Shadow",
+    "picture": {"kind": "boxes", "label": "How it came", "row": [
+      {"box": "trap", "title": "intense heat", "sub": ["for days"]},
+      {"conn": "then"},
+      {"box": "people", "title": "a shading cloud", "sub": ["they ran to it"]},
+      {"conn": "which brought"},
+      {"box": "trap", "title": "the torment", "sub": ["of a Great Day"]}]},
+    "key": {"label": "What they asked for", "row": [
+      {"box": "trap", "title": "a piece of sky", "sub": ["their dare"]},
+      {"box": "idea", "title": "from the sky", "sub": ["an exact recompense"]}]},
+    "then": "They had asked for a piece of the sky to fall. Ibn Kathir says Allah sent {trap}intense heat{/trap}, then a cloud. They gathered beneath it for shade, and {trap}the punishment came from it.{/trap} It was {idea}an exact recompense{/idea} for what they had demanded.",
+    "now": "The thing you run to for relief, the late-night scrolling, the shopping, the drink, feels like shade at first. {idea}Check what you are running toward.{/idea}",
+    "old": "Whatever gives me relief right now must be good for me.",
+    "new": "Not every shade is safe; real shelter is with Allah.",
+    "try": "Next time you reach for quick relief today, pause and make a short dua instead first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:190", "surah": 26, "ayah": 190, "place": "makkah",
+    "title": "A sign for anyone who cheats on the scale.",
+    "subtitle": "The refrain after Shu'ayb's story",
+    "picture": {"kind": "boxes", "label": "Madyan's story", "row": [
+      {"box": "trap", "title": "short measure", "sub": []},
+      {"box": "trap", "title": "mocked the warning", "sub": []},
+      {"box": "trap", "title": "dared the sky", "sub": []},
+      {"conn": "left"},
+      {"box": "idea", "title": "a sign", "sub": ["most still did not believe"]}]},
+    "key": {"label": "Who the sign is for", "row": [
+      {"box": "people", "title": "ancient traders", "sub": ["long gone"], "strike": true},
+      {"box": "idea", "title": "anyone who weighs", "sub": ["every deal I make"]}]},
+    "then": "The last of the seven stories ends here. A trading people who {trap}gave short measure and mocked their messenger{/trap} were taken. Then the refrain: {idea}in this is a sign, yet most of them are not believers.{/idea}",
+    "now": "Every invoice, every online sale, every time you split costs with a roommate, you are holding a scale. {idea}Madyan's sign is about that moment.{/idea}",
+    "old": "Stories of ancient nations are history, not about me.",
+    "new": "Each story is a sign aimed at a habit I might share.",
+    "try": "Review one recent deal you made. If it was unfair, make it right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:191", "surah": 26, "ayah": 191, "place": "makkah",
+    "title": "Mighty over the deniers, merciful to the believers.",
+    "subtitle": "The last refrain of the seven stories",
+    "picture": {"kind": "boxes", "label": "Ibn Kathir's reading", "row": [
+      {"box": "idea", "title": "All-Mighty", "sub": ["in punishing the disbelievers"]},
+      {"box": "reward", "title": "Most Merciful", "sub": ["to His believing servants"]}]},
+    "key": {"label": "Which side I stand on", "row": [
+      {"box": "trap", "title": "fixed by fate", "sub": ["nothing I can do"], "strike": true},
+      {"box": "idea", "title": "chosen by me", "sub": ["belief and conduct"]}]},
+    "then": "Ibn Kathir explains the refrain: {idea}He is All-Mighty in His punishment of the disbelievers{/idea}, and {reward}Most Merciful towards His believing servants.{/reward} After seven stories, the Prophet ﷺ is reminded once more who is in control.",
+    "now": "You have just read story after story of people who ignored warnings. You might feel heavy. {reward}This is the reminder that the door of mercy is open to you right now.{/reward}",
+    "old": "These stories just make me afraid.",
+    "new": "The same Lord who is mighty is merciful to anyone who turns to Him.",
+    "try": "End today with a short tawbah: ask Allah's forgiveness for one specific thing.",
+    "related": ["26:8", "26:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:192", "surah": 26, "ayah": 192, "place": "makkah",
+    "title": "This Quran came from the Lord of the worlds.",
+    "subtitle": "After the stories, the source is named",
+    "picture": {"kind": "boxes", "label": "Where it comes from", "row": [
+      {"box": "idea", "title": "Lord of the worlds", "sub": []},
+      {"conn": "sent down"},
+      {"box": "reward", "title": "the Quran", "sub": ["a reminder from the Most Gracious"]}]},
+    "key": {"label": "What Quraysh claimed", "row": [
+      {"box": "trap", "title": "poetry, magic", "sub": ["his own words"], "strike": true},
+      {"box": "idea", "title": "revelation", "sub": ["from the Lord of all"]}]},
+    "then": "After seven stories of past nations, the surah turns to the Quran itself. Ibn Kathir says this refers back to the start, where it is called {reward}a Reminder from the Most Gracious.{/reward} {idea}Allah has sent it down to you and revealed it to you.{/idea}",
+    "now": "The Quran app sits on your phone between social media and the weather. Same screen, same thumb. {idea}Only one of them came from the Lord of the worlds.{/idea}",
+    "old": "The Quran is one good book among many.",
+    "new": "The Quran is words sent down from the Lord of everything that exists.",
+    "try": "Before reading any Quran today, pause and remember Who is speaking.",
+    "related": ["26:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:193", "surah": 26, "ayah": 193, "place": "makkah",
+    "title": "The trustworthy spirit carried it down.",
+    "subtitle": "Jibril, the messenger to the messengers",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "idea", "title": "Allah", "sub": []},
+      {"conn": "through"},
+      {"box": "reward", "title": "Jibril", "sub": ["the trustworthy Ruh"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the Prophet ﷺ", "sub": []}]},
+    "key": {"label": "Trust at every step", "row": [
+      {"box": "people", "title": "trustworthy messengers", "sub": ["Nuh to Shu'ayb"]},
+      {"box": "reward", "title": "trustworthy carrier", "sub": ["Jibril"]}]},
+    "then": "The trustworthy Ruh is {reward}Jibril{/reward}, and Ibn Kathir says on this {idea}there is no dispute.{/idea} Every messenger in this surah said, I am a trustworthy messenger to you. Now the one who brought the Quran is called {reward}trustworthy{/reward} too.",
+    "now": "You forward messages in the family group without checking. You pass on what you heard with a little added. {idea}The Quran reached you through a chain that never added or dropped a word.{/idea}",
+    "old": "Passing information along is no big responsibility.",
+    "new": "Carrying words faithfully is a trust, and the Quran came through the most trustworthy hands.",
+    "try": "Before forwarding anything today, check it first.",
+    "related": ["2:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:194", "surah": 26, "ayah": 194, "place": "makkah",
+    "title": "Placed on his heart, so he could warn.",
+    "subtitle": "The Quran lands on a heart first",
+    "picture": {"kind": "boxes", "label": "Where it landed", "row": [
+      {"box": "reward", "title": "his heart", "sub": ["nothing added or removed"]},
+      {"conn": "so he could"},
+      {"box": "trap", "title": "warn", "sub": ["those who go against it"]},
+      {"box": "reward", "title": "give glad tidings", "sub": ["to those who follow"]}]},
+    "key": {"label": "Where the Quran goes", "row": [
+      {"box": "people", "title": "ears only", "sub": ["just heard"], "strike": true},
+      {"box": "idea", "title": "the heart", "sub": ["then out to others"]}]},
+    "then": "Jibril brought it {reward}upon your heart, O Muhammad ﷺ, with nothing added or taken away.{/reward} Its purpose: {idea}to warn people of the punishment for opposing it, and to give glad tidings to the believers who follow it.{/idea}",
+    "now": "You listen to recitation in the car, beautiful, half paying attention. It reaches your ears. {idea}The Quran was sent to reach the heart first.{/idea}",
+    "old": "Hearing the Quran is enough.",
+    "new": "The Quran is meant to land in my heart and then shape how I speak to others.",
+    "try": "Pick one short verse today and let it sit in your heart by repeating it slowly.",
+    "related": ["2:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:195", "surah": 26, "ayah": 195, "place": "makkah",
+    "title": "In clear Arabic, leaving no room for excuses.",
+    "subtitle": "A message made plain on purpose",
+    "picture": {"kind": "boxes", "label": "Why clear Arabic", "row": [
+      {"box": "idea", "title": "perfect and eloquent", "sub": []},
+      {"conn": "so that"},
+      {"box": "reward", "title": "clear proof", "sub": ["the straight path shown"]},
+      {"box": "trap", "title": "no excuses", "sub": ["we did not understand"]}]},
+    "key": {"label": "The excuse removed", "row": [
+      {"box": "trap", "title": "too unclear", "sub": ["I could not follow"], "strike": true},
+      {"box": "idea", "title": "made plain", "sub": ["for whoever wants it"]}]},
+    "then": "Ibn Kathir says Allah revealed it {idea}in perfect and eloquent Arabic, so that it may be quite clear{/idea}, {trap}leaving no room for excuses{/trap}, establishing clear proof and showing the straight path. Quraysh understood every word.",
+    "now": "You do not read Arabic, so you tell yourself the Quran is not really for you. Yet there is a translation on your phone right now. {idea}Clarity is one tap away.{/idea}",
+    "old": "I cannot understand the Quran, so I am excused from it.",
+    "new": "The Quran was made clear on purpose; my job is to open it.",
+    "try": "Read the meaning of one short surah today in a language you understand well.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

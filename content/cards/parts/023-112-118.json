@@ -1,0 +1,138 @@
+[
+  {
+    "id": "23:112", "surah": 23, "ayah": 112, "place": "makkah",
+    "title": "How many years did you stay on earth?",
+    "subtitle": "A question about the length of a life",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "idea", "title": "how long?", "sub": ["in number of years"]},
+      {"conn": "asked about"},
+      {"box": "people", "title": "your whole life", "sub": []}]},
+    "key": {"label": "How it feels", "row": [
+      {"box": "people", "title": "a lifetime", "sub": ["seventy, eighty years"]},
+      {"conn": "will seem"},
+      {"box": "trap", "title": "very short", "sub": ["see next verse"]}]},
+    "then": "Ibn Kathir says Allah {idea}tells them how much they wasted in their short lives by failing to obey Him{/idea}. If they had been patient during their short stay, {reward}they would have won like His pious friends{/reward}.",
+    "now": "Your phone tells you your screen time each week. Imagine one screen that showed your whole life: {idea}how many hours went where?{/idea}",
+    "old": "I have decades ahead of me.",
+    "new": "One day I will be asked how long I stayed, so I count my years well.",
+    "try": "Check your screen time today and give one hour back to something that matters.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:113", "surah": 23, "ayah": 113, "place": "makkah",
+    "title": "A day or part of a day, they will say.",
+    "subtitle": "A whole life shrinks to an afternoon",
+    "picture": {"kind": "boxes", "label": "Their answer", "row": [
+      {"box": "people", "title": "a whole life", "sub": []},
+      {"conn": "felt like"},
+      {"box": "trap", "title": "a day or less", "sub": []},
+      {"conn": "so"},
+      {"box": "plain", "title": "ask the counters", "sub": ["we cannot tell"]}]},
+    "key": {"label": "Time", "row": [
+      {"box": "trap", "title": "plenty of it", "sub": [], "strike": true},
+      {"box": "idea", "title": "it will feel like a day", "sub": []}]},
+    "then": "They will reply: {trap}we stayed a day or part of a day; ask those who keep count.{/trap} Ibn Kathir says this means {idea}those who keep the records{/idea}. Looking back, a whole lifetime will feel that short.",
+    "now": "Your school days, your wedding, the birth of your first child. They already feel like yesterday. {idea}That is the feeling this verse describes, stretched over a whole life.{/idea}",
+    "old": "Life is long, there is time to waste.",
+    "new": "My whole life will feel like part of a day, so I fill today well.",
+    "try": "Tonight, look back at today and name one hour you would spend differently tomorrow.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:114", "surah": 23, "ayah": 114, "place": "makkah",
+    "title": "You stayed only a little, if only you had known.",
+    "subtitle": "Trading the eternal for the brief",
+    "picture": {"kind": "boxes", "label": "The trade", "row": [
+      {"box": "trap", "title": "the brief", "sub": ["this world"]},
+      {"conn": "chosen over"},
+      {"box": "reward", "title": "the eternal", "sub": ["the Hereafter"]}]},
+    "key": {"label": "If only you had known", "row": [
+      {"box": "trap", "title": "short pleasures first", "sub": [], "strike": true},
+      {"box": "idea", "title": "the eternal first", "sub": ["patience for a little"]}]},
+    "then": "Ibn Kathir says: {trap}it was only a short time, however you look at it.{/trap} If you had known, {idea}you would not have preferred the transient to the eternal{/idea}. If you had obeyed patiently like the believers, {reward}you would have won as they did{/reward}.",
+    "now": "Five minutes of anger that cost a friendship. One night of fun that cost a marriage. {idea}The short thing always looks bigger up close.{/idea} You know now, so you can choose differently.",
+    "old": "What I want now matters more than what comes later.",
+    "new": "This life is a little while, so I will not trade forever for it.",
+    "try": "Before one tempting choice today, ask: will this matter in a hundred years?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:115", "surah": 23, "ayah": 115, "place": "makkah",
+    "title": "Did you think We created you for nothing?",
+    "subtitle": "Your life has a purpose and a return",
+    "picture": {"kind": "boxes", "label": "Two views of life", "row": [
+      {"box": "trap", "title": "created in play", "sub": ["no purpose, no return"], "strike": true},
+      {"box": "idea", "title": "created to worship", "sub": ["and returned to Us"]}]},
+    "key": {"label": "Why you are here", "row": [
+      {"box": "trap", "title": "to amuse myself", "sub": ["like animals, no account"], "strike": true},
+      {"box": "idea", "title": "to worship Allah", "sub": ["and carry out His commands"]}]},
+    "then": "Ibn Kathir explains: {trap}did you think you were created in vain, with nothing required of you?{/trap} Or created to play and amuse yourselves like animals with no reward or punishment? {idea}But you were created to worship Allah and carry out His commands.{/idea}",
+    "now": "A Sunday spent on the sofa, scrolling, with a dull feeling that nothing you do matters. {idea}This verse says the opposite: your life was made on purpose, and you are going back to the One who made it.{/idea}",
+    "old": "Life is random and I am just passing time.",
+    "new": "I was created on purpose, and I am going back to Allah.",
+    "try": "Write one line today answering: what am I living for? Keep it where you will see it.",
+    "related": ["75:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:116", "surah": 23, "ayah": 116, "place": "makkah",
+    "title": "Exalted is Allah, the True King, Lord of the Noble Throne.",
+    "subtitle": "Far above creating anything in vain",
+    "picture": {"kind": "boxes", "label": "Who He is", "row": [
+      {"box": "idea", "title": "the True King", "sub": []},
+      {"box": "idea", "title": "no god but He", "sub": []},
+      {"box": "reward", "title": "Lord of the Noble Throne", "sub": ["beautiful, splendid"]}]},
+    "key": {"label": "What fits Him", "row": [
+      {"box": "trap", "title": "creating without purpose", "sub": [], "strike": true},
+      {"box": "idea", "title": "the True King", "sub": ["far above that"]}]},
+    "then": "Ibn Kathir says He is {idea}sanctified above the idea that He should create anything in vain, for He is the True King{/idea}. The Throne is mentioned as {reward}the highest point of creation, described as karim: beautiful in appearance and splendid in form{/reward}.",
+    "now": "Earthly kings and bosses make random decisions and change their minds. {idea}The True King never does anything without wisdom, including making you.{/idea}",
+    "old": "Some of what happens in my life is pointless.",
+    "new": "The True King does nothing in vain, including what He does with me.",
+    "try": "Think of one hardship you thought was pointless. Ask Allah to show you its wisdom.",
+    "related": ["26:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:117", "surah": 23, "ayah": 117, "place": "makkah",
+    "title": "Calling on another god has no proof, and cannot succeed.",
+    "subtitle": "The surah's final word on success",
+    "picture": {"kind": "boxes", "label": "Two ends", "row": [
+      {"box": "reward", "title": "the believers", "sub": ["have succeeded, verse 1"]},
+      {"box": "trap", "title": "the disbelievers", "sub": ["will not succeed, verse 117"]}]},
+    "key": {"label": "What they had", "row": [
+      {"box": "trap", "title": "another god", "sub": ["no proof at all"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "account with his Lord", "sub": []}]},
+    "then": "Ibn Kathir says whoever worships anything with Allah has {trap}no evidence for what he says{/trap}, and {idea}Allah will call him to account{/idea}. They will not prosper or be saved. The surah opened with {reward}the believers have succeeded{/reward} and closes on its mirror.",
+    "now": "You lean on the lucky charm, the horoscope, the person you think can fix everything. {trap}Ask what proof you have that any of it can help.{/trap} {idea}The surah began and ends with one question: what is real success?{/idea}",
+    "old": "It does not hurt to rely on other things alongside Allah.",
+    "new": "Only reliance on Allah has proof behind it, and only it leads to success.",
+    "try": "Remove one thing from your life you rely on without any real basis.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:118", "surah": 23, "ayah": 118, "place": "makkah",
+    "title": "The surah closes with a plea for forgiveness and mercy.",
+    "subtitle": "The surah ends by handing you a dua",
+    "picture": {"kind": "boxes", "label": "The final dua", "row": [
+      {"box": "idea", "title": "forgive", "sub": ["wipe away and conceal sins"]},
+      {"box": "reward", "title": "have mercy", "sub": ["guide me to say and do good"]},
+      {"conn": "for"},
+      {"box": "idea", "title": "Best of the merciful", "sub": []}]},
+    "key": {"label": "How the surah ends", "row": [
+      {"box": "trap", "title": "with a threat", "sub": [], "strike": true},
+      {"box": "reward", "title": "with a dua", "sub": ["put in your mouth"]}]},
+    "then": "After all the warnings, Allah teaches the Prophet ﷺ and us one last line. Ibn Kathir says {idea}forgiveness means wiping away sins and concealing them from people{/idea}, and {reward}mercy means guiding a person and helping him say and do good things{/reward}.",
+    "now": "You finish a long surah full of warnings, and maybe you feel heavy. {reward}Allah does not leave you there. He gives you the words to ask Him: forgive me, have mercy on me.{/reward}",
+    "old": "After reading all those warnings, I feel there is no hope for me.",
+    "new": "The surah ends by teaching me to ask the Best of the merciful, so hope is open.",
+    "try": "Say this dua today, slowly, three times: Rabbighfir warham wa anta khayrur-rahimin.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

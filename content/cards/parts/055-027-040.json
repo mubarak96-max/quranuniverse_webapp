@@ -1,0 +1,270 @@
+[
+  {
+    "id": "55:27", "surah": 55, "ayah": 27, "place": "madinah",
+    "title": "Only your Lord's Face remains, full of majesty and honor.",
+    "subtitle": "What lasts when everything else ends",
+    "picture": {"kind": "boxes", "label": "After everything passes", "row": [
+      {"box": "trap", "title": "all on earth", "sub": ["will perish"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "His Face", "sub": ["Owner of Majesty and Honor"]}]},
+    "key": {"label": "What to live for", "row": [
+      {"box": "people", "title": "what passes", "sub": ["status, money, praise"], "strike": true},
+      {"box": "idea", "title": "His Face", "sub": ["what remains"]}]},
+    "then": "Ibn Kathir says only Allah's Face remains, because {idea}He is the Ever Living who never dies{/idea}. He links it to those who call on their Lord {reward}seeking His Face{/reward}, and those who feed others saying, we feed you only for Allah's Face.",
+    "now": "You do a favor for a neighbor and wait for thanks that never comes. You post something good and count the likes. {idea}All of that fades.{/idea} Doing it for His Face is the only version that lasts.",
+    "old": "If nobody notices what I do, it was wasted.",
+    "new": "What I do for Allah's Face is the only thing that will not perish.",
+    "try": "Do one kind act today purely for Allah, and tell no one.",
+    "related": ["28:88", "18:28", "76:9"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:28", "surah": 55, "ayah": 28, "place": "madinah",
+    "title": "A Lord who never dies. Which favor would you deny?",
+    "subtitle": "The refrain after everything perishes except Him",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "a Lord who remains", "sub": ["when all else is gone"]},
+      {"box": "reward", "title": "a fair judgement", "sub": ["for every soul"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "Death is", "row": [
+      {"box": "trap", "title": "the end of everything", "sub": [], "strike": true},
+      {"box": "reward", "title": "a return to the Living", "sub": ["who judges fairly"]}]},
+    "then": "Ibn Kathir says after stating that everyone on earth will die and return to {idea}Dhul-Jalal wal-Ikram{/idea}, who will {reward}judge them by His fair judgement{/reward}, Allah asks again which of His favors they would deny.",
+    "now": "You sit in a hospital corridor waiting for news of someone you love. Everything feels fragile. {reward}The One who never dies is still there{/reward}, and no injustice in this world goes unjudged by Him.",
+    "old": "Death is just loss.",
+    "new": "That my Lord never dies and judges fairly is a favor in the face of every loss.",
+    "try": "Say Ya Hayyu Ya Qayyum three times today when you feel anxious.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:29", "surah": 55, "ayah": 29, "place": "madinah",
+    "title": "Everyone in heaven and earth asks Him. Every day He acts.",
+    "subtitle": "All creation in need, and Allah never idle",
+    "picture": {"kind": "boxes", "label": "Every single day", "row": [
+      {"box": "people", "title": "all creatures", "sub": ["in heaven and on earth"]},
+      {"conn": "ask"},
+      {"box": "idea", "title": "Allah", "sub": ["answers, gives, relieves, cures"]}]},
+    "key": {"label": "My need is", "row": [
+      {"box": "people", "title": "a burden to Him", "sub": [], "strike": true},
+      {"box": "idea", "title": "His daily affair", "sub": ["He answers the one who asks"]}]},
+    "then": "Ibn Kathir says Allah is {idea}free of need{/idea} while every creature needs Him, willingly or not. Ubayd bin Umayr said of His daily affairs: {reward}He answers the one who calls, gives to the one who asks, removes hardship, cures the one seeking a cure{/reward}.",
+    "now": "Right now, millions are asking Him: a student before an exam, a mother in labor, a farmer looking at the sky. You think your small request will get lost. {idea}Answering is what He does, every day.{/idea}",
+    "old": "My small problems are not worth bringing to Allah.",
+    "new": "Every day He is busy answering, giving and healing. My request is welcome.",
+    "try": "Ask Allah today for one small, specific thing you need.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:30", "surah": 55, "ayah": 30, "place": "madinah",
+    "title": "He answers every day. Which favor would you deny?",
+    "subtitle": "The refrain after all creation asks Him",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "an open door", "sub": ["every day, for everyone"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "The favor of being heard", "row": [
+      {"box": "people", "title": "nobody listens to me", "sub": [], "strike": true},
+      {"box": "reward", "title": "my Lord listens", "sub": ["daily"]}]},
+    "then": "The refrain follows the picture of {idea}everyone in the heavens and earth asking Him{/idea}, and Him attending to an affair every day. The favor is that {reward}the door to ask is always open{/reward}.",
+    "now": "You leave a message on a customer service line and wait three days. You text a friend and get left on read. {reward}With Allah you never wait in a queue.{/reward} {idea}Forgetting to ask is the only way to miss it.{/idea}",
+    "old": "When I need help, I have to find someone with time for me.",
+    "new": "My Lord has time for me every day. That is a favor I cannot deny.",
+    "try": "Pick a fixed moment today, like after a prayer, just to ask Allah for what you need.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:31", "surah": 55, "ayah": 31, "place": "madinah",
+    "title": "We will attend to you, O two weighty races.",
+    "subtitle": "A day of reckoning for humans and jinn",
+    "picture": {"kind": "boxes", "label": "Who is addressed", "row": [
+      {"box": "people", "title": "humans", "sub": []},
+      {"box": "people", "title": "jinn", "sub": []},
+      {"conn": "will be"},
+      {"box": "idea", "title": "attended to", "sub": ["judged and repaid"]}]},
+    "key": {"label": "What it means", "row": [
+      {"box": "people", "title": "Allah is too busy", "sub": ["to notice me"], "strike": true},
+      {"box": "idea", "title": "nothing distracts Him", "sub": ["from anything"]}]},
+    "then": "Ibn Jurayj said it means {idea}We shall judge you{/idea}, and Al-Bukhari said, We shall repay you, adding that {reward}nothing keeps Allah from attending to anything else{/reward}. It is an Arabic way of speaking. Ath-thaqalan means humans and jinn.",
+    "now": "You assume what you did last week is lost in the noise of eight billion people. Nobody important noticed. {idea}The verse says you will be personally attended to.{/idea} That is serious, and it also means you matter.",
+    "old": "I am too small for my deeds to really be looked at.",
+    "new": "Allah will attend to me personally. My life is not lost in the crowd.",
+    "try": "Look back over yesterday and ask: what would I want to show Allah from it?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:32", "surah": 55, "ayah": 32, "place": "madinah",
+    "title": "Told in advance. Which favor would you deny?",
+    "subtitle": "The refrain after the promise of reckoning",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "a warning in advance", "sub": ["time to prepare"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "What a warning is", "row": [
+      {"box": "trap", "title": "a threat", "sub": [], "strike": true},
+      {"box": "reward", "title": "a mercy", "sub": ["told before it is too late"]}]},
+    "then": "Ibn Kathir says Allah's {idea}warnings against His punishment{/idea} should move creatures to leave disobedience, and {reward}this is why He reminds them of it as a favor{/reward}. Being told about the reckoning before it comes is itself a gift.",
+    "now": "Your manager tells you a week early that the audit is coming. You are annoyed, then relieved: at least there is time. {reward}Allah told you about the reckoning in your lifetime.{/reward} {idea}That is the head start.{/idea}",
+    "old": "Hearing about judgement only makes me anxious.",
+    "new": "Being warned while I can still change is a favor.",
+    "try": "Fix one thing today you would not want to face unprepared.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:33", "surah": 55, "ayah": 33, "place": "madinah",
+    "title": "Escape the heavens and earth if you can. You cannot.",
+    "subtitle": "No way out of Allah's rule, except by His leave",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "people", "title": "jinn and humans", "sub": []},
+      {"conn": "try to pass"},
+      {"box": "idea", "title": "beyond heaven and earth", "sub": ["only with authority from Him"]}]},
+    "key": {"label": "Where I can go", "row": [
+      {"box": "people", "title": "somewhere He cannot reach", "sub": [], "strike": true},
+      {"box": "idea", "title": "nowhere outside His rule", "sub": ["so turn toward Him"]}]},
+    "then": "Ibn Kathir says it means {idea}you will never escape Allah's decree{/idea}, which surrounds you wherever you are. On the Day of Gathering, angels will surround creation in seven rows. He cites: on that Day man will say, {trap}where is the escape? No refuge{/trap}.",
+    "now": "You move cities, change your number, start a new job to leave a mistake behind. It follows you in your head. {idea}You cannot run from Allah, but you can always run to Him.{/idea}",
+    "old": "If I get far enough away, I can leave it all behind.",
+    "new": "There is no escape from Allah, only refuge with Him.",
+    "try": "Turn to Allah today about the thing you have been trying to run from.",
+    "related": ["75:10", "10:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:34", "surah": 55, "ayah": 34, "place": "madinah",
+    "title": "No way out but to Him. Which favor would you deny?",
+    "subtitle": "The refrain after the challenge to escape",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "knowing the truth now", "sub": ["no escape, so prepare"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "What the limits mean", "row": [
+      {"box": "trap", "title": "being trapped", "sub": [], "strike": true},
+      {"box": "reward", "title": "being held", "sub": ["by a Lord who warns first"]}]},
+    "then": "After the challenge to {idea}pass beyond the regions of the heavens and earth{/idea}, the refrain returns. Ibn Kathir says the warnings in these verses are meant to {reward}turn creatures away from disobedience{/reward}, which is why they are called favors.",
+    "now": "A child who knows the rules of the house feels safer than one who does not. You know where all roads end. {reward}That clarity lets you stop running and start walking toward Him.{/reward}",
+    "old": "Knowing I cannot escape feels like a trap.",
+    "new": "Knowing where every road ends is a favor that helps me choose mine.",
+    "try": "Write down one direction you want to walk toward Allah this month.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:35", "surah": 55, "ayah": 35, "place": "madinah",
+    "title": "Flame and smoke sent on them, and no one to help.",
+    "subtitle": "What meets those who try to flee on that Day",
+    "picture": {"kind": "boxes", "label": "If they try to escape", "row": [
+      {"box": "people", "title": "trying to flee", "sub": ["on the Day"]},
+      {"conn": "met by"},
+      {"box": "trap", "title": "flame and smoke", "sub": ["no defense"]}]},
+    "key": {"label": "Who can defend me", "row": [
+      {"box": "people", "title": "my own strength", "sub": ["or my allies"], "strike": true},
+      {"box": "idea", "title": "only Allah's mercy", "sub": []}]},
+    "then": "Ibn Abbas said shuwaz is {trap}the flame of fire{/trap}, and nuhas its smoke; others said molten brass. Ibn Kathir explains that if humans and jinn try to escape on the Day, angels will turn them back, and {idea}they will not be able to defend themselves{/idea}.",
+    "now": "You are used to defending yourself: the right words in an argument, a good lawyer, a friend who takes your side. {idea}There is a day when none of that works.{/idea} Building a record with Allah now is the only defense.",
+    "old": "I can always talk my way out of trouble.",
+    "new": "On that Day no one defends himself. Only what I did now will help.",
+    "try": "Seek Allah's forgiveness for one specific thing today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:36", "surah": 55, "ayah": 36, "place": "madinah",
+    "title": "Warned of the fire today. Which favor would you deny?",
+    "subtitle": "The refrain after the flame and smoke",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "a clear warning", "sub": ["given while there is time"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "Why a warning is a favor", "row": [
+      {"box": "trap", "title": "the fire itself", "sub": ["not a favor"]},
+      {"box": "reward", "title": "being told of it", "sub": ["so I can turn back"]}]},
+    "then": "Ibn Kathir says Allah's warnings of punishment, like these verses, {idea}should encourage all creatures to abandon disobedience{/idea}. That is {reward}why Allah reminds them of this as a favor{/reward}, right after describing the fire.",
+    "now": "A smoke alarm going off at 3 a.m. is awful, and it saves your life. {reward}The warning is the kindness{/reward}, not the fire. {idea}These verses are the alarm.{/idea}",
+    "old": "Verses about the fire are hard to hear, so I skip them.",
+    "new": "The warning is a mercy that keeps me from what it describes.",
+    "try": "Next time you hear a warning verse, ask Allah for protection instead of skipping it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:37", "surah": 55, "ayah": 37, "place": "madinah",
+    "title": "When the sky splits and turns red like oil.",
+    "subtitle": "The heaven itself changes on that Day",
+    "picture": {"kind": "boxes", "label": "The sky on that Day", "row": [
+      {"box": "people", "title": "the heaven", "sub": ["raised high, firm"]},
+      {"conn": "splits and"},
+      {"box": "trap", "title": "melts like oil", "sub": ["rose-red, shifting colors"]}]},
+    "key": {"label": "What is permanent", "row": [
+      {"box": "people", "title": "the sky", "sub": ["always there"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": []}]},
+    "then": "Ibn Kathir says this is on the Day of Resurrection, when the heaven is {trap}torn and frail{/trap}. It will melt like heated metal and take on colors like dye, red, yellow, blue, green. {idea}This shows the extent of that Day's horrors.{/idea}",
+    "now": "You look up at a clear blue sky and it feels like the most permanent thing there is. The same sky that 55:7 says He raised. {idea}Even it will change on His command.{/idea}",
+    "old": "Some things in the world will always be there.",
+    "new": "Even the sky is temporary. Only Allah does not change.",
+    "try": "Look at the sky today and remember that it, too, obeys its Lord.",
+    "related": ["69:16", "25:25", "84:1"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:38", "surah": 55, "ayah": 38, "place": "madinah",
+    "title": "Told of the sky's splitting. Which favor would you deny?",
+    "subtitle": "The refrain after the heaven melts like oil",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "a stable sky now", "sub": ["and news of what is coming"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "Today's sky", "row": [
+      {"box": "people", "title": "just how it is", "sub": [], "strike": true},
+      {"box": "reward", "title": "held in place for now", "sub": ["a respite to use"]}]},
+    "then": "After the image of {trap}the heaven splitting{/trap}, the refrain comes again. The sky that is whole today is a mercy, and so is being told it will not stay that way, so people can {reward}turn back while there is time{/reward}.",
+    "now": "You wake up, open the blinds, and the sky is where it was. Another ordinary day. {reward}An ordinary day is time you were given{/reward}, before the Day when the sky does not hold.",
+    "old": "One more normal day is nothing special.",
+    "new": "Every day the sky still holds is a respite from my Lord.",
+    "try": "Use the first ten minutes of tomorrow for something you would be glad to show Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:39", "surah": 55, "ayah": 39, "place": "madinah",
+    "title": "On that Day no one will be asked about his sin.",
+    "subtitle": "A moment when excuses are not even heard",
+    "picture": {"kind": "boxes", "label": "At that moment", "row": [
+      {"box": "people", "title": "humans and jinn", "sub": []},
+      {"conn": "not asked"},
+      {"box": "trap", "title": "no excuses", "sub": ["no speaking"]}]},
+    "key": {"label": "When I can explain", "row": [
+      {"box": "people", "title": "on the Day", "sub": ["I will explain then"], "strike": true},
+      {"box": "idea", "title": "now", "sub": ["repentance is open today"]}]},
+    "then": "Ibn Kathir links it to the verse: {trap}a Day when they shall not speak, nor be allowed to give excuses{/trap}. That is one stage. Later all will be questioned, and Qatadah said {idea}mouths will be sealed and hands and feet will speak{/idea}.",
+    "now": "You rehearse explanations in your head: I was tired, I was busy, everyone did it. You think you will make your case later. {idea}The time for explaining yourself to Allah is now, in prayer, in tawbah.{/idea}",
+    "old": "I will explain my reasons when the time comes.",
+    "new": "There will be a moment with no excuses. The time to speak is now.",
+    "try": "Tonight, speak to Allah honestly about one mistake, with no excuses.",
+    "related": ["77:35", "15:92"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "55:40", "surah": 55, "ayah": 40, "place": "madinah",
+    "title": "Speak now while you can. Which favor would you deny?",
+    "subtitle": "The refrain after the silence of that Day",
+    "picture": {"kind": "boxes", "label": "The favor just named", "row": [
+      {"box": "reward", "title": "a voice today", "sub": ["to repent and explain"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "which favor would you deny?", "sub": []}]},
+    "key": {"label": "What I have right now", "row": [
+      {"box": "trap", "title": "silence later", "sub": ["no excuses accepted"]},
+      {"box": "reward", "title": "words now", "sub": ["tawbah still accepted"]}]},
+    "then": "After the verse about {trap}a Day with no questions and no excuses{/trap}, the refrain asks again. Ibn Kathir says these warnings are themselves a favor. Being told that the door closes is {reward}an invitation to walk through it while it is open{/reward}.",
+    "now": "You keep drafting the apology text and deleting it. You keep meaning to make tawbah after Ramadan, after the exams. {reward}Today your words still count.{/reward} {idea}That is a favor not everyone will have later.{/idea}",
+    "old": "There will always be time to say sorry.",
+    "new": "Being able to repent today is a favor I should not waste.",
+    "try": "Send the apology you have been putting off, to a person or to Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "2:262", "surah": 2, "ayah": 262, "place": "madinah",
+    "title": "Give, then never bring it up again.",
+    "subtitle": "The gift that is not followed by reminders",
+    "picture": {"kind": "boxes", "label": "A clean gift", "row": [
+      {"box": "people", "title": "you give", "sub": ["for Allah"]},
+      {"conn": "no"},
+      {"box": "trap", "title": "reminders", "sub": ["remember what I did?"], "strike": true},
+      {"box": "trap", "title": "injury", "sub": ["hurting the receiver"], "strike": true},
+      {"conn": "so"},
+      {"box": "reward", "title": "reward with your Lord", "sub": ["no fear, no grief"]}]},
+    "key": {"label": "What completes a gift", "row": [
+      {"box": "people", "title": "the moment I hand it over", "sub": ["done"], "strike": true},
+      {"box": "idea", "title": "what I do after", "sub": ["silence, no harm"]}]},
+    "then": "Ibn Kathir: Allah praises those who give and then {trap}do not remind the receiver, by word or action{/trap}, nor harm them. Their reward is {reward}with their Lord Himself{/reward}, with no fear on the Day and no grief over what they leave behind.",
+    "now": "You lent your brother money last year. Every family dinner, you drop a little hint. You paid for your friend's ticket and mention it when you argue. {trap}Each hint takes a bite out of the gift.{/trap}",
+    "old": "I gave it, so I have a right to mention it now and then.",
+    "new": "A gift is complete when I let it go and never use it against anyone.",
+    "try": "Think of something you gave that you keep bringing up. Decide today never to mention it again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:263", "surah": 2, "ayah": 263, "place": "madinah",
+    "title": "A kind word and forgiveness beat charity that stings.",
+    "subtitle": "When you cannot give without hurting, give words instead",
+    "picture": {"kind": "boxes", "label": "Two offers", "row": [
+      {"box": "reward", "title": "a kind word", "sub": ["a dua for them"]},
+      {"box": "reward", "title": "forgiveness", "sub": ["overlooking a fault"]},
+      {"conn": "better than"},
+      {"box": "trap", "title": "charity that hurts", "sub": ["money plus a sting"]}]},
+    "key": {"label": "What Allah needs", "row": [
+      {"box": "people", "title": "Allah needs my money", "sub": ["so any gift counts"], "strike": true},
+      {"box": "idea", "title": "He is Free of need", "sub": ["and Forbearing"]}]},
+    "then": "Ibn Kathir explains the kind word as {reward}compassionate speech and a dua for Muslims{/reward}, and forgiveness as {reward}pardoning a wrong done to you{/reward}. These are better than charity followed by injury. Allah is Rich, needing nothing, and Forbearing.",
+    "now": "Someone asks you for help on a day you are broke and irritated. You could throw a fiver at them with a lecture. {reward}Or you could say, I cannot today, may Allah make it easy for you, and mean it.{/reward}",
+    "old": "Giving something is always better than giving nothing.",
+    "new": "A gentle word or a pardon can be worth more than money given with a sting.",
+    "try": "The next time you have to say no to someone asking, say it with a sincere dua for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:264", "surah": 2, "ayah": 264, "place": "madinah",
+    "title": "Charity for show is dust on a rock. Rain leaves it bare.",
+    "subtitle": "How reminders and showing off erase a deed",
+    "picture": {"kind": "boxes", "label": "The parable", "row": [
+      {"box": "people", "title": "a smooth rock", "sub": ["a little dust on top"]},
+      {"conn": "heavy rain"},
+      {"box": "trap", "title": "left bare", "sub": ["nothing grows"]}]},
+    "key": {"label": "What it looked like vs what it was", "row": [
+      {"box": "people", "title": "plenty of deeds", "sub": ["everyone saw them"], "strike": true},
+      {"box": "trap", "title": "nothing kept", "sub": ["done for people's praise"]}]},
+    "then": "Ibn Kathir describes the show-off who {trap}pretends to give for Allah but seeks people's praise{/trap}. His deeds are like dust on a smooth rock: they look plentiful, then {trap}a downpour leaves it bare{/trap}. Ad-Dahhak said the parable also fits the one who gives and then reminds or harms.",
+    "now": "The donation screenshot posted to your story. The fundraiser where you make sure your name is read out. {trap}It looks like a lot of dust on the rock.{/trap} Ask yourself who the gift was really for.",
+    "old": "As long as the money reaches the needy, my motive does not matter.",
+    "new": "If I give to be seen, the rain can wash away everything I thought I had.",
+    "try": "Give one gift this week that nobody, not even your closest friend, will know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:265", "surah": 2, "ayah": 265, "place": "madinah",
+    "title": "Sincere giving is a hilltop garden. Even a drizzle makes it fruit.",
+    "subtitle": "The opposite of dust on a rock",
+    "picture": {"kind": "boxes", "label": "The parable", "row": [
+      {"box": "reward", "title": "a garden on high ground", "sub": ["always fertile"]},
+      {"conn": "heavy rain"},
+      {"box": "reward", "title": "double fruit", "sub": ["more than others"]},
+      {"conn": "or drizzle"},
+      {"box": "reward", "title": "still enough", "sub": ["never barren"]}]},
+    "key": {"label": "What makes the soil good", "row": [
+      {"box": "people", "title": "the size of the gift", "sub": ["big donations only"], "strike": true},
+      {"box": "idea", "title": "seeking Allah, sure of Him", "sub": ["certain of reward"]}]},
+    "then": "Right after the bare rock comes the garden. Those who give {idea}seeking only Allah's pleasure, certain He will reward them{/idea}, are like a garden on a height. Ibn Kathir says {reward}if heavy rain does not fall, light rain suffices{/reward}: the believer's good deeds never become barren.",
+    "now": "You only have a little to give this month, a coin in the box, a sandwich for the man at the station. {reward}With sincerity, that drizzle is enough.{/reward} Allah sees what you do.",
+    "old": "My small gifts are too little to matter.",
+    "new": "Given sincerely, even a small gift falls on fertile ground and grows.",
+    "try": "Give something small today and quietly say: for You, Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:266", "surah": 2, "ayah": 266, "place": "madinah",
+    "title": "A lifetime garden burned just when he was old and needed it.",
+    "subtitle": "Do not undo your good deeds at the end",
+    "picture": {"kind": "boxes", "label": "The parable", "row": [
+      {"box": "reward", "title": "a rich garden", "sub": ["palms, vines, rivers"]},
+      {"box": "people", "title": "old age, weak children", "sub": ["no strength to replant"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a fiery whirlwind", "sub": ["all burned"]}]},
+    "key": {"label": "What the garden is", "row": [
+      {"box": "people", "title": "good deeds are safe forever", "sub": ["banked once done"], "strike": true},
+      {"box": "idea", "title": "guard them to the end", "sub": ["later evil can undo them"]}]},
+    "then": "Umar asked the Companions who this verse was about; they said Allah knows best. Young Ibn Abbas spoke up: {idea}it is a parable for a deed{/idea}, a man who did good, then {trap}turned to disobedience until he annulled his good works{/trap}. The Prophet ﷺ used to pray: make Your widest provision for me in my old age.",
+    "now": "Years of volunteering, then a bitter falling-out that turns into slander. A lifetime of prayer, then a business deal that cheats people. {trap}A good garden can burn late.{/trap} Protect what you built.",
+    "old": "I have done enough good in my life; I am set.",
+    "new": "My good deeds are a garden I must keep guarding until my last day.",
+    "try": "Make the Prophet's ﷺ dua today: O Allah, make Your widest provision for me in my old age.",
+    "related": ["29:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:267", "surah": 2, "ayah": 267, "place": "madinah",
+    "title": "Do not give Allah what you would only take with eyes closed.",
+    "subtitle": "Giving from the best, not the leftovers",
+    "picture": {"kind": "boxes", "label": "In the Prophet's masjid ﷺ", "row": [
+      {"box": "people", "title": "date bunches hung", "sub": ["for the poor"]},
+      {"conn": "slipped in"},
+      {"box": "trap", "title": "poor-quality dates", "sub": ["the leftovers"]},
+      {"conn": "verse came"},
+      {"box": "idea", "title": "give the good", "sub": ["what you earned well"]}]},
+    "key": {"label": "The test for a gift", "row": [
+      {"box": "people", "title": "what I no longer want", "sub": ["the old, the broken"], "strike": true},
+      {"box": "idea", "title": "would I accept it?", "sub": ["without squinting"]}]},
+    "then": "Al-Bara said the Ansar would {reward}hang date branches in the Prophet's masjid ﷺ for the poor emigrants{/reward}. Some {trap}slipped in poor dates among the good{/trap}. Ibn Abbas said: how do you accept for Me what you would not accept for yourselves? Allah is Rich and Praiseworthy.",
+    "now": "Clearing out your wardrobe and sending the stained shirts to the charity bag. Donating the expired tins from the back of the cupboard. {idea}Would you take it with your eyes open?{/idea}",
+    "old": "Charity is a good place for the things I do not need anymore.",
+    "new": "I give Allah the kind of thing I would be happy to receive myself.",
+    "try": "Give away one thing in good condition that you actually like.",
+    "related": ["22:37"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:268", "surah": 2, "ayah": 268, "place": "madinah",
+    "title": "Shaytan whispers you will go broke. Allah promises forgiveness and more.",
+    "subtitle": "Two voices when you reach for your wallet",
+    "picture": {"kind": "boxes", "label": "Two promises", "row": [
+      {"box": "trap", "title": "Shaytan", "sub": ["you will be poor", "do what is shameful"]},
+      {"conn": "versus"},
+      {"box": "reward", "title": "Allah", "sub": ["forgiveness from Him", "and bounty"]}]},
+    "key": {"label": "Whose voice is that", "row": [
+      {"box": "people", "title": "just being careful", "sub": ["my own good sense"], "strike": true},
+      {"box": "trap", "title": "a whisper of fear", "sub": ["seek refuge from it"]}]},
+    "then": "The Prophet ﷺ said Shaytan and the angel both touch the heart. {trap}Shaytan's touch threatens evil and denies truth{/trap}; {reward}the angel's touch promises good and confirms truth{/reward}. Whoever feels the first should seek refuge in Allah. Then he recited this verse.",
+    "now": "You see the appeal for the flood victims. A voice says: rent is due, you cannot afford this, be sensible. {trap}Notice where that voice comes from.{/trap} Allah's promise is forgiveness and more, not less.",
+    "old": "My fear of running out is just being responsible.",
+    "new": "The fear of poverty that stops all giving is a whisper, and Allah promises more.",
+    "try": "Next time fear stops you from giving, say a'udhu billah and give a little anyway.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:269", "surah": 2, "ayah": 269, "place": "madinah",
+    "title": "Whoever is given wisdom has been given a lot of good.",
+    "subtitle": "The gift worth envying",
+    "picture": {"kind": "boxes", "label": "What hikmah is", "row": [
+      {"box": "idea", "title": "hikmah", "sub": ["understanding the Qur'an"]},
+      {"conn": "given to"},
+      {"box": "people", "title": "whom He wills", "sub": ["by His choice"]},
+      {"conn": "is"},
+      {"box": "reward", "title": "much good", "sub": ["more than wealth"]}]},
+    "key": {"label": "What to envy", "row": [
+      {"box": "people", "title": "their money, their car", "sub": ["what they own"], "strike": true},
+      {"box": "idea", "title": "wealth spent well, wisdom taught", "sub": ["the two envied"]}]},
+    "then": "Ibn Abbas said wisdom here is {idea}knowledge of the Qur'an{/idea}: its clear and less clear parts, what it permits and forbids, its parables. Ibn Mas'ud heard the Prophet ﷺ say {reward}no envy except in two{/reward}: a man given wealth who spends it rightly, and a man given wisdom who judges by it and teaches it.",
+    "now": "You scroll past the influencer's holiday and feel a pang. {idea}The person truly worth envying is the one who understands the Qur'an and lives it.{/idea} That gift is still on offer to you.",
+    "old": "The people I admire most are the ones with the best lifestyle.",
+    "new": "Wisdom from Allah is the real wealth, and I can ask Him for it.",
+    "try": "Spend ten minutes today reading the explanation of one verse you recite often.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:270", "surah": 2, "ayah": 270, "place": "madinah",
+    "title": "Every coin you spend and every vow you make, Allah knows.",
+    "subtitle": "Nothing given is lost or unseen",
+    "picture": {"kind": "boxes", "label": "What is recorded", "row": [
+      {"box": "reward", "title": "what you spend", "sub": ["big or small"]},
+      {"box": "reward", "title": "what you vow", "sub": ["promises to Allah"]},
+      {"conn": "all"},
+      {"box": "idea", "title": "known to Allah", "sub": ["rewarded"]}]},
+    "key": {"label": "Who noticed", "row": [
+      {"box": "people", "title": "nobody saw it", "sub": ["so it was wasted"], "strike": true},
+      {"box": "idea", "title": "Allah knows it", "sub": ["for His Face"]}]},
+    "then": "Ibn Kathir says Allah has {idea}perfect knowledge of every good deed, charity and vow{/idea}, and rewards greatly when it is done for His Face. Those who turn away from Him have {trap}no helpers{/trap} to save them on the Day.",
+    "now": "The vow you made in the hospital corridor: if she pulls through, I will. The monthly direct debit no one knows about. {idea}Allah knows every one.{/idea} Have you kept the promise you made when you were scared?",
+    "old": "Promises made in a crisis do not really count once it passes.",
+    "new": "Allah knows every promise I made Him and every coin I gave.",
+    "try": "Remember one promise you made to Allah in a hard moment. Take one step to keep it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

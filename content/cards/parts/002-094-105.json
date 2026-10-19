@@ -1,0 +1,247 @@
+[
+  {
+    "id": "2:94", "surah": 2, "ayah": 94, "place": "madinah",
+    "title": "If Paradise is only for you, why fear death?",
+    "subtitle": "A claim tested against the heart",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "people", "title": "the claim", "sub": ["the Hereafter is ours alone"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "wish for death", "sub": ["if you are truthful"]}]},
+    "key": {"label": "What gives it away", "row": [
+      {"box": "people", "title": "words of certainty", "sub": [], "strike": true},
+      {"box": "idea", "title": "how you feel about meeting Him", "sub": []}]},
+    "then": "Some claimed the home of the Hereafter was theirs alone. The Prophet ﷺ was told to answer: {idea}then wish for death, if you are truthful.{/idea} Ibn Abbas said it meant: call on Allah to bring death on whichever side is lying. {trap}They declined.{/trap}",
+    "now": "It is easy to say I am fine with Allah in a discussion at the dinner table. The honest check is quieter. When you think of meeting Him tonight, do you feel ready, or do you want more time to fix things? {idea}That feeling tells you what to work on.{/idea}",
+    "old": "I am sure I am on the right side, so I have nothing to worry about.",
+    "new": "My real confidence shows in how I feel about meeting Allah, not in what I claim.",
+    "try": "Ask yourself honestly: if I met Allah tonight, what would I want to have fixed? Start on it.",
+    "related": ["62:6", "3:61"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:95", "surah": 2, "ayah": 95, "place": "madinah",
+    "title": "They will never wish it, because of what their hands sent ahead.",
+    "subtitle": "Deeds go ahead of us",
+    "picture": {"kind": "boxes", "label": "Why they hold back", "row": [
+      {"box": "trap", "title": "what their hands did", "sub": ["already sent ahead"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "no wish to arrive", "sub": ["where it waits"]}]},
+    "key": {"label": "What we send ahead", "row": [
+      {"box": "people", "title": "deeds stay behind me", "sub": [], "strike": true},
+      {"box": "idea", "title": "deeds arrive first", "sub": ["and wait for me"]}]},
+    "then": "The verse answers its own challenge. {trap}They will never wish for death, because of what their hands have sent before them.{/trap} Ibn Kathir: because they knew the Prophet ﷺ was true, yet denied him. {idea}Allah knows the wrongdoers.{/idea}",
+    "now": "Every message you send, every shift you work honestly or not, every kindness at home goes ahead of you like luggage on a flight. {idea}You will meet it at the other end.{/idea} The good news: you can still add to what goes ahead today.",
+    "old": "What I did is in the past, it is behind me.",
+    "new": "What I did has gone ahead of me, and I will meet it again.",
+    "try": "Send one good deed ahead today on purpose: a charity, a visit, a sincere apology.",
+    "related": ["62:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:96", "surah": 2, "ayah": 96, "place": "madinah",
+    "title": "A thousand years would not move him one step from it.",
+    "subtitle": "A long life is not an escape",
+    "picture": {"kind": "boxes", "label": "The wish", "row": [
+      {"box": "trap", "title": "greed for life", "sub": ["any kind of life"]},
+      {"conn": "wishing for"},
+      {"box": "plain", "title": "1000", "sub": ["years"], "num": true},
+      {"conn": "still"},
+      {"box": "trap", "title": "no escape", "sub": ["Allah sees what they do"]}]},
+    "key": {"label": "What delay does", "row": [
+      {"box": "people", "title": "more time saves me", "sub": [], "strike": true},
+      {"box": "idea", "title": "only what I do with it", "sub": []}]},
+    "then": "The verse describes {trap}people greedier for life than anyone, wishing to live a thousand years.{/trap} Ibn Abbas said long life would not save them from punishment. Ibn Zayd compared it to Iblis, whose long life did not help him. {idea}Allah sees what they do.{/idea}",
+    "now": "The anti-ageing creams. The fear of birthdays. The plan to turn to Allah when you retire. {trap}Time alone fixes nothing.{/trap} {reward}A short life spent well is worth more than a long one spent running.{/reward}",
+    "old": "If I just have more years, I will sort myself out.",
+    "new": "More years only help if I change. Changing can start today.",
+    "try": "Pick one change you are postponing until later in life. Do a small piece of it this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:97", "surah": 2, "ayah": 97, "place": "madinah",
+    "title": "Enemy of Jibril? He only brought what Allah sent.",
+    "subtitle": "Blaming the messenger for the message",
+    "picture": {"kind": "boxes", "label": "Who brought the Quran", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["gave permission"]},
+      {"conn": "through"},
+      {"box": "people", "title": "Jibril", "sub": ["the trusted messenger"]},
+      {"conn": "to"},
+      {"box": "people", "title": "the Prophet's ﷺ heart", "sub": []},
+      {"box": "reward", "title": "guidance, good news", "sub": ["for the believers"]}]},
+    "key": {"label": "The excuse", "row": [
+      {"box": "people", "title": "I dislike the angel", "sub": ["so I reject the message"], "strike": true},
+      {"box": "idea", "title": "he obeys his Lord", "sub": ["the message is Allah's"]}]},
+    "then": "Ibn Jarir said scholars agree this was revealed when some said {trap}Jibril is our enemy, Mikail our friend.{/trap} Anas narrated that Abdullah bin Salam heard the Prophet ﷺ say Jibril told him the answers to three questions, then accepted Islam. {idea}Jibril brings nothing except by Allah's command.{/idea}",
+    "now": "You do not like the imam, so you ignore the reminder he gave. You do not like your sister in law, so the true thing she said does not count. {trap}Disliking the carrier is an easy way out of the message.{/trap}",
+    "old": "I cannot take that seriously, look who said it.",
+    "new": "If the message is from Allah, my feelings about the carrier do not change it.",
+    "try": "Think of a good reminder you dismissed because of who said it. Take one thing from it today.",
+    "related": ["4:150", "26:193", "41:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:98", "surah": 2, "ayah": 98, "place": "madinah",
+    "title": "You cannot pick and choose among Allah's angels and messengers.",
+    "subtitle": "Enmity to one is enmity to all",
+    "picture": {"kind": "boxes", "label": "One chain", "row": [
+      {"box": "idea", "title": "Allah", "sub": []},
+      {"box": "people", "title": "His angels", "sub": []},
+      {"box": "people", "title": "His messengers", "sub": []},
+      {"box": "people", "title": "Jibril and Mikail", "sub": ["named on purpose"]}]},
+    "key": {"label": "The logic", "row": [
+      {"box": "people", "title": "I can love one and hate another", "sub": [], "strike": true},
+      {"box": "idea", "title": "they all come from Him", "sub": ["reject one, reject all"]}]},
+    "then": "Jibril and Mikail are both named because some claimed one as enemy and the other as friend. Ibn Kathir: {idea}whoever takes one messenger as an enemy has taken them all as enemies,{/idea} since all are sent by Allah. He cites 22:75: Allah chooses messengers from angels and from people.",
+    "now": "You love the verses about mercy and skip the ones about accountability. You quote one scholar you like and wave off another who is just as sound. {idea}Guidance comes as a whole.{/idea} Taking only the parts you like is choosing yourself over the Sender.",
+    "old": "I accept the parts of the message that feel right to me.",
+    "new": "The angels and messengers all serve one Lord. Accepting Him means accepting all of them.",
+    "try": "Read one verse today on a topic you usually avoid. Sit with it without arguing.",
+    "related": ["22:75"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:99", "surah": 2, "ayah": 99, "place": "madinah",
+    "title": "The signs are clear. Only defiance denies them.",
+    "subtitle": "When the problem is not the evidence",
+    "picture": {"kind": "boxes", "label": "What was sent", "row": [
+      {"box": "idea", "title": "clear verses", "sub": ["recited day and night"]},
+      {"conn": "by"},
+      {"box": "people", "title": "an unlettered Prophet ﷺ", "sub": ["who read no book"]},
+      {"conn": "rejected by"},
+      {"box": "trap", "title": "the defiant", "sub": []}]},
+    "key": {"label": "Where the gap is", "row": [
+      {"box": "people", "title": "not enough proof", "sub": [], "strike": true},
+      {"box": "trap", "title": "not enough willingness", "sub": []}]},
+    "then": "Ibn Jarir said the clear signs included the Quran telling the hidden details of earlier scriptures. Ibn Abbas: {idea}you recite this Book though you never read a book, and you tell them what is in theirs.{/idea} The verse says {trap}only the defiantly disobedient deny such signs.{/trap}",
+    "now": "You ask for one more sign before you change. Then it comes, a scare at the clinic, a friend's sudden death, and you ask for another. {trap}At some point the question is not proof but will.{/trap}",
+    "old": "If I had clearer proof, I would commit.",
+    "new": "The signs are already clear. What I need is the will to act on them.",
+    "try": "Name one sign Allah has already shown you. Act on it in one small way today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:100", "surah": 2, "ayah": 100, "place": "madinah",
+    "title": "Every promise made, some threw it away.",
+    "subtitle": "A pattern of broken pledges",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "idea", "title": "a covenant", "sub": ["made today"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "thrown aside", "sub": ["broken tomorrow"]},
+      {"conn": "again"},
+      {"box": "trap", "title": "and again", "sub": []}]},
+    "key": {"label": "Why", "row": [
+      {"box": "people", "title": "circumstances changed", "sub": [], "strike": true},
+      {"box": "trap", "title": "most did not believe", "sub": []}]},
+    "then": "When reminded of their covenant about the Prophet ﷺ, Malik bin As-Sayf said Allah never took any pledge from them. Then this verse came. Al-Hasan Al-Basri said: {trap}they make a promise today and break it tomorrow.{/trap}",
+    "now": "I will start praying properly after Eid. I will call my father this weekend. I will stop that habit from Monday. {trap}A promise you keep breaking becomes a pattern.{/trap} {idea}Small promises kept build a trustworthy heart.{/idea}",
+    "old": "I meant it when I promised. Breaking it later is just life.",
+    "new": "The promises I keep breaking say something about what I really believe.",
+    "try": "Keep one small promise today, even one you made only to yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:101", "surah": 2, "ayah": 101, "place": "madinah",
+    "title": "The Book thrown behind their backs, as if unknown.",
+    "subtitle": "Turning away from what you know",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "people", "title": "a messenger came", "sub": ["confirming their Book"]},
+      {"conn": "so they"},
+      {"box": "trap", "title": "threw the Book back", "sub": ["behind their backs"]},
+      {"conn": "and acted"},
+      {"box": "trap", "title": "as if they did not know", "sub": []}]},
+    "key": {"label": "Not ignorance", "row": [
+      {"box": "people", "title": "they did not know", "sub": [], "strike": true},
+      {"box": "trap", "title": "they knew and hid it", "sub": []}]},
+    "then": "As-Suddi said: when the Prophet ﷺ came, they wanted to argue using the Torah, but {idea}the Torah and the Quran agreed.{/idea} So they set the Torah aside and turned to books of magic. Qatadah: {trap}they knew the truth, abandoned it, and denied even having it.{/trap}",
+    "now": "The Quran on your shelf, wrapped in cloth, high and safe, and untouched since Ramadan. Not rejected. Just behind your back. {idea}Bring it in front of you again, even for one page.{/idea}",
+    "old": "I respect the Quran, I just do not have time to read it.",
+    "new": "Keeping the Book out of sight is a quiet way of throwing it behind my back.",
+    "try": "Take the Quran down today and read one page, with the translation if you need it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:102", "surah": 2, "ayah": 102, "place": "madinah",
+    "title": "They swapped the Book for magic that harms and never helps.",
+    "subtitle": "Sulayman was innocent; the devils were not",
+    "picture": {"kind": "boxes", "label": "What they followed", "row": [
+      {"box": "trap", "title": "what the devils recited", "sub": ["lies about Sulayman"]},
+      {"box": "plain", "title": "Harut and Marut", "sub": ["we are a trial"]},
+      {"conn": "used to"},
+      {"box": "trap", "title": "split husband and wife", "sub": ["only by Allah's leave"]}]},
+    "key": {"label": "The trade", "row": [
+      {"box": "people", "title": "secret power", "sub": ["what they hoped to gain"], "strike": true},
+      {"box": "trap", "title": "harm, no benefit", "sub": ["no share in the Hereafter"]}]},
+    "then": "As-Suddi narrated that devils mixed lies with stolen news and spread books of sorcery, then claimed {trap}Sulayman ruled by magic.{/trap} The verse clears him: {idea}Sulayman did not disbelieve, the devils did.{/idea} The two angels at Babylon warned anyone first: we are a trial, do not disbelieve.",
+    "now": "Someone suggests a person who can fix your marriage or bind a rival. Or you spend nights on videos about curses and charms. {trap}It promises control and delivers fear.{/trap} {idea}Nothing harms you except by Allah's leave.{/idea}",
+    "old": "There must be some hidden power that can fix this for me.",
+    "new": "No one can harm me except by Allah's leave, so I turn to Him, not to secrets.",
+    "try": "When you feel afraid of harm from others, make a sincere dua for protection and leave it with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:103", "surah": 2, "ayah": 103, "place": "madinah",
+    "title": "Had they believed and been mindful, the reward was far better.",
+    "subtitle": "The door that stayed open",
+    "picture": {"kind": "boxes", "label": "The other road", "row": [
+      {"box": "idea", "title": "believe", "sub": []},
+      {"box": "idea", "title": "be mindful of Allah", "sub": []},
+      {"conn": "leads to"},
+      {"box": "reward", "title": "reward from Allah", "sub": ["far better"]}]},
+    "key": {"label": "Two trades", "row": [
+      {"box": "trap", "title": "magic", "sub": ["harm, no share"], "strike": true},
+      {"box": "reward", "title": "faith and mindfulness", "sub": ["better, if they knew"]}]},
+    "then": "After the warning about magic, the verse turns gently. {reward}If they had believed and feared Allah, the reward from Him would have been better,{/reward} if only they knew. {idea}The better trade was always available.{/idea}",
+    "now": "The shortcut always looks faster: the bribe to speed up the papers, the charm to win the person, the lie to close the sale. {reward}The slow way with Allah pays more, and it is never too late to take it.{/reward}",
+    "old": "Doing it the straight way means losing out.",
+    "new": "What Allah gives for faith and mindfulness is better than any shortcut.",
+    "try": "Choose the straight way in one situation today where a shortcut tempts you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:104", "surah": 2, "ayah": 104, "place": "madinah",
+    "title": "Drop the word that can be twisted. Use a clear one.",
+    "subtitle": "Manners of speech with the Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "Two words", "row": [
+      {"box": "trap", "title": "Ra'ina", "sub": ["could be twisted into an insult"], "strike": true},
+      {"conn": "instead"},
+      {"box": "idea", "title": "Unzurna", "sub": ["look at us, help us understand"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "listen", "sub": []}]},
+    "key": {"label": "What matters in words", "row": [
+      {"box": "people", "title": "I meant it well", "sub": [], "strike": true},
+      {"box": "idea", "title": "choose words that cannot be bent", "sub": []}]},
+    "then": "Some used the word {trap}ra'ina with a twist of the tongue as mockery,{/trap} as 4:46 describes. Some believers used it innocently. Allah told the believers to {idea}say unzurna instead, a clear word with no double meaning, and to listen.{/idea}",
+    "now": "A joke in the family group chat with a hidden edge. A reply at work that sounds polite but stings. Or an innocent word you keep using that others hear as mockery. {idea}Respectful speech chooses words that cannot be bent.{/idea}",
+    "old": "My words are fine as long as I mean them well.",
+    "new": "Good manners include choosing words that cannot be twisted into disrespect.",
+    "try": "Before you send your next message, reread it once for any double meaning.",
+    "related": ["4:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:105", "surah": 2, "ayah": 105, "place": "madinah",
+    "title": "Some do not want good to reach you. Allah chooses anyway.",
+    "subtitle": "Mercy is not up for others' approval",
+    "picture": {"kind": "boxes", "label": "Two wills", "row": [
+      {"box": "trap", "title": "what some wish", "sub": ["no good for you"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "what Allah wills", "sub": ["His mercy to whom He chooses"]},
+      {"box": "reward", "title": "great bounty", "sub": ["His alone"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "people can block my good", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah singles out for mercy", "sub": []}]},
+    "then": "The verse tells the early believers that some among the People of the Scripture and the idolaters {trap}did not want any good sent down to them from their Lord.{/trap} The answer: {idea}Allah chooses for His mercy whom He wills, and He is the owner of great bounty.{/idea}",
+    "now": "The relative who hopes your business fails. The colleague who would rather you did not get the role. You feel their wish like a weight. {idea}Their wish has no say in Allah's mercy.{/idea} Keep doing good and leave the giving to Him.",
+    "old": "If they are against me, my chances are ruined.",
+    "new": "No one's ill wish can stop the mercy Allah has chosen for me.",
+    "try": "When you notice someone's envy, make dua for yourself and for them, and carry on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

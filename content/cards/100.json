@@ -1,0 +1,717 @@
+[
+  {
+    "id": "100:1",
+    "surah": 100,
+    "ayah": 1,
+    "place": "makkah",
+    "title": "By the horses that run until they pant.",
+    "subtitle": "An oath by full effort",
+    "picture": {
+      "kind": "boxes",
+      "label": "What is sworn by",
+      "row": [
+        {
+          "box": "plain",
+          "title": "the horses",
+          "sub": [
+            "galloping in Allah's path"
+          ]
+        },
+        {
+          "conn": "running until"
+        },
+        {
+          "box": "idea",
+          "title": "they pant",
+          "sub": [
+            "the sound of full effort"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Why swear by them",
+      "row": [
+        {
+          "box": "people",
+          "title": "a random image",
+          "sub": [
+            "just a horse"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a witness",
+          "sub": [
+            "set against man's ingratitude"
+          ]
+        }
+      ]
+    },
+    "then": "Arabia was full of tribal raids at dawn, and every listener knew the sound of horses. Ibn Kathir says Allah swears by horses {idea}galloping in His path{/idea}, running until you hear them pant. The oath leads to one point: {trap}man is ungrateful to his Lord{/trap}.",
+    "now": "Think of something that gives everything for whoever feeds it: a loyal dog at the door, a horse that runs flat out when called. Then think of how you answer {idea}the One who feeds you{/idea}. The oath is setting up that comparison.",
+    "old": "An oath about horses has nothing to do with me.",
+    "new": "Allah draws my eye to a creature giving its all, before asking what I give.",
+    "try": "Watch any animal today for one minute and think about who provides for it, and for you.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:2",
+    "surah": 100,
+    "ayah": 2,
+    "place": "makkah",
+    "title": "Hooves on rock, striking sparks of fire.",
+    "subtitle": "Running so hard the stones flash",
+    "picture": {
+      "kind": "boxes",
+      "label": "The scene",
+      "row": [
+        {
+          "box": "plain",
+          "title": "hooves",
+          "sub": [
+            "striking rocks"
+          ]
+        },
+        {
+          "conn": "throw"
+        },
+        {
+          "box": "idea",
+          "title": "sparks",
+          "sub": [
+            "fire from stone"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What sparks show",
+      "row": [
+        {
+          "box": "plain",
+          "title": "half effort",
+          "sub": [
+            "a casual trot"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "total effort",
+          "sub": [
+            "enough to light stone"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says this is {idea}the striking of their hooves on the rocks{/idea}, which makes sparks of fire fly. The listeners had seen it. The oath builds speed and force, verse by verse, toward its point.",
+    "now": "You know what full effort looks like. You have seen it at a deadline, a match, a wedding you organized. Sparks fly. {trap}Then prayer time comes and you trot.{/trap} The picture asks where your sparks go.",
+    "old": "I give my best where it counts: work, family, my goals.",
+    "new": "Full effort is a gift from Allah. I can bring some of it back to Him.",
+    "try": "Give your next prayer the focus you would give an important meeting.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:3",
+    "surah": 100,
+    "ayah": 3,
+    "place": "makkah",
+    "title": "Charging at dawn, while others still sleep.",
+    "subtitle": "The early morning raid",
+    "picture": {
+      "kind": "boxes",
+      "label": "When it happens",
+      "row": [
+        {
+          "box": "plain",
+          "title": "dawn",
+          "sub": [
+            "the early morning"
+          ]
+        },
+        {
+          "conn": "the horses"
+        },
+        {
+          "box": "idea",
+          "title": "charge",
+          "sub": [
+            "while the town is quiet"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What dawn checked",
+      "row": [
+        {
+          "box": "idea",
+          "title": "adhan heard",
+          "sub": [
+            "left alone"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "no adhan",
+          "sub": [
+            "no protection"
+          ]
+        }
+      ]
+    },
+    "then": "Raids at dawn were the dread of Arabia. Ibn Kathir notes the Prophet ﷺ would wait at dawn to {idea}listen for the adhan{/idea} from a people. If he heard it, {reward}he left them alone{/reward}.",
+    "now": "Dawn in your house: alarms snoozed, curtains shut, the phone the first thing you reach for. In that story {idea}the call to prayer was a shield{/idea}. Is the adhan heard from your home at dawn?",
+    "old": "Dawn is just for sleeping in when I can.",
+    "new": "Dawn is when a home shows whether Allah's name is called in it.",
+    "try": "Tomorrow, say the words of the adhan quietly to yourself when you wake at Fajr.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:4",
+    "surah": 100,
+    "ayah": 4,
+    "place": "makkah",
+    "title": "Dust thrown up in clouds behind them.",
+    "subtitle": "The trail that effort leaves",
+    "picture": {
+      "kind": "boxes",
+      "label": "What they leave",
+      "row": [
+        {
+          "box": "plain",
+          "title": "the charge",
+          "sub": [
+            "at full speed"
+          ]
+        },
+        {
+          "conn": "raises"
+        },
+        {
+          "box": "plain",
+          "title": "clouds of dust",
+          "sub": [
+            "over the place"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What effort leaves",
+      "row": [
+        {
+          "box": "plain",
+          "title": "no trace",
+          "sub": [
+            "it all disappears"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a visible trail",
+          "sub": [
+            "everyone can see it"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says this is {idea}the dust at the place of the battle{/idea}, stirred up by the horses. Each verse of the oath adds a detail the Arabs knew well: the panting, the sparks, the dawn, now {trap}the dust cloud{/trap}.",
+    "now": "Everything you chase leaves a dust cloud. The late nights, the stress, the people you rushed past. Some trails you will be proud of. {trap}Some you will wish settled faster.{/trap} Look back at your week's dust.",
+    "old": "I just keep moving. I do not look back at what I stir up.",
+    "new": "Every chase leaves a trail. I want mine to be worth looking at.",
+    "try": "Tonight, look back over today and name one thing you stirred up that you need to settle.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:5",
+    "surah": 100,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "Plunging together into the very centre.",
+    "subtitle": "The end of the charge",
+    "picture": {
+      "kind": "boxes",
+      "label": "Where the charge ends",
+      "row": [
+        {
+          "box": "plain",
+          "title": "the horses",
+          "sub": [
+            "as one"
+          ]
+        },
+        {
+          "conn": "reach"
+        },
+        {
+          "box": "idea",
+          "title": "the centre",
+          "sub": [
+            "the heart of the host"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What the oath was for",
+      "row": [
+        {
+          "box": "plain",
+          "title": "a story about horses",
+          "sub": [
+            "that is all"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a build-up",
+          "sub": [
+            "to a truth about you"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas and others said this means {idea}into the midst of the enemy{/idea}, all together. Here the five-verse oath ends. Everything has been heading somewhere, and the next verse says what: {trap}man and his Lord{/trap}.",
+    "now": "You have been reading a vivid scene, like the first minutes of a film. Now the camera turns. {idea}It turns to you.{/idea} Every oath in the Quran is a door, and this one opens onto your own heart.",
+    "old": "The opening of a surah is just setting the scene.",
+    "new": "The oath was building toward me. Allah wanted my full attention first.",
+    "try": "Before reading the next verse, pause for a breath and ask Allah to show you yourself honestly.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:6",
+    "surah": 100,
+    "ayah": 6,
+    "place": "makkah",
+    "title": "Man counts his troubles and forgets the favours.",
+    "subtitle": "What all the oaths were sworn about",
+    "picture": {
+      "kind": "boxes",
+      "label": "The kanud",
+      "row": [
+        {
+          "box": "trap",
+          "title": "counts calamities",
+          "sub": [
+            "remembers every bad day"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "forgets favours",
+          "sub": [
+            "the good fades quickly"
+          ]
+        },
+        {
+          "conn": "toward"
+        },
+        {
+          "box": "idea",
+          "title": "his Lord",
+          "sub": [
+            "who gave it all"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How it feels inside",
+      "row": [
+        {
+          "box": "people",
+          "title": "I am just realistic",
+          "sub": [
+            "life is hard"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "ungrateful",
+          "sub": [
+            "the verse's word: kanud"
+          ]
+        }
+      ]
+    },
+    "then": "This is what all the oaths were sworn about. A long list of early scholars said {trap}al-kanud means ungrateful{/trap}. Al-Hasan put it sharply: {idea}the kanud is the one who counts his calamities and forgets Allah's favours{/idea}.",
+    "now": "Someone asks how you are. You list the traffic, the boss, the back pain, the bills. You do not mention the eyesight, the warm bed, the child who hugged you. {trap}Kanud.{/trap} Most of us are, most days.",
+    "old": "I am not ungrateful. I am just honest about how hard things are.",
+    "new": "If I can list my troubles faster than my blessings, the verse is describing me.",
+    "try": "Write down five blessings from today before you write or say a single complaint.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:7",
+    "surah": 100,
+    "ayah": 7,
+    "place": "makkah",
+    "title": "And he is his own witness to it.",
+    "subtitle": "Ingratitude shows in word and deed",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two witnesses",
+      "row": [
+        {
+          "box": "idea",
+          "title": "Allah",
+          "sub": [
+            "sees it"
+          ]
+        },
+        {
+          "box": "people",
+          "title": "man himself",
+          "sub": [
+            "his words and deeds"
+          ]
+        },
+        {
+          "conn": "testify to"
+        },
+        {
+          "box": "trap",
+          "title": "his ingratitude",
+          "sub": [
+            "plain to see"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Where the evidence is",
+      "row": [
+        {
+          "box": "plain",
+          "title": "hidden inside",
+          "sub": [
+            "no one can tell"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "in my own words",
+          "sub": [
+            "what I say and do"
+          ]
+        }
+      ]
+    },
+    "then": "Qatadah and Sufyan said {idea}Allah is a witness to that{/idea}. Al-Qurazi said it can also mean {trap}man is a witness against himself{/trap}: it is obvious from his statements and his deeds.",
+    "now": "Scroll back through your messages from last week. Count the complaints. Count the thank-yous. {trap}Your own words are the evidence.{/trap} You do not need anyone else to testify.",
+    "old": "Deep down I am grateful, even if I do not say it.",
+    "new": "My words and actions already show what I am. I can change what they show.",
+    "try": "Send one message today that only says thank you, to Allah in dua or to a person who helped you.",
+    "related": [
+      "9:17"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:8",
+    "surah": 100,
+    "ayah": 8,
+    "place": "makkah",
+    "title": "His love of wealth is fierce.",
+    "subtitle": "Where the ungrateful heart is tied",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two readings, both true",
+      "row": [
+        {
+          "box": "trap",
+          "title": "intense love",
+          "sub": [
+            "of wealth"
+          ]
+        },
+        {
+          "box": "trap",
+          "title": "tight fist",
+          "sub": [
+            "stingy because of it"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What wealth is",
+      "row": [
+        {
+          "box": "trap",
+          "title": "the main goal",
+          "sub": [
+            "loved fiercely"
+          ],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "a favour",
+          "sub": [
+            "to thank Allah for"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says khayr here means wealth. One view is {trap}he is severe in his love of it{/trap}. The other is {trap}he is covetous and stingy because of it{/trap}. He says both views are correct.",
+    "now": "Payday comes and the number in your banking app decides your mood for the week. A friend asks for a small loan and you feel your chest tighten. {idea}The verse names the grip.{/idea} Naming it is the first step to loosening it.",
+    "old": "Wanting more money is just being responsible.",
+    "new": "Money is a favour from Allah. When I love it fiercely, I grip what I should thank Him for.",
+    "try": "Give away a small amount today, enough that you feel it, and notice your grip loosen.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:9",
+    "surah": 100,
+    "ayah": 9,
+    "place": "makkah",
+    "title": "Does he not know the graves will be emptied?",
+    "subtitle": "The question that ends the race",
+    "picture": {
+      "kind": "boxes",
+      "label": "What is coming",
+      "row": [
+        {
+          "box": "people",
+          "title": "the graves",
+          "sub": [
+            "holding the dead"
+          ]
+        },
+        {
+          "conn": "will be"
+        },
+        {
+          "box": "idea",
+          "title": "poured out",
+          "sub": [
+            "the dead brought forth"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Where the race ends",
+      "row": [
+        {
+          "box": "trap",
+          "title": "the bank balance",
+          "sub": [
+            "the finish line"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "the grave opened",
+          "sub": [
+            "the real finish"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says here Allah {idea}encourages turning away from worldly things and striving for the Hereafter{/idea}. The question means the dead in the graves {trap}will be brought out{/trap}. Maududi notes the surah shows how man behaves when he forgets this.",
+    "now": "You plan five years ahead: the promotion, the house, the savings target. Rarely do you plan for the day {idea}the grave gives you back{/idea}. The question is gentle: do you not know? You do. You just do not think about it.",
+    "old": "I will think about death when I am older.",
+    "new": "The race for wealth ends at a grave that will open. I plan for that finish line too.",
+    "try": "Add one thing to your plans this year that is only for the Hereafter.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:10",
+    "surah": 100,
+    "ayah": 10,
+    "place": "makkah",
+    "title": "What hides in the heart will be brought out.",
+    "subtitle": "Intentions, not just actions, exposed",
+    "picture": {
+      "kind": "boxes",
+      "label": "What is exposed",
+      "row": [
+        {
+          "box": "people",
+          "title": "the chest",
+          "sub": [
+            "hidden motives"
+          ]
+        },
+        {
+          "conn": "brought out as"
+        },
+        {
+          "box": "idea",
+          "title": "plain to see",
+          "sub": [
+            "made apparent"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What gets judged",
+      "row": [
+        {
+          "box": "plain",
+          "title": "only what I did",
+          "sub": [
+            "the outside"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "why I did it",
+          "sub": [
+            "the inside too"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas and others said {idea}what was in their souls will be exposed and made apparent{/idea}. Maududi says the surah warns that not only visible deeds but {trap}even the secrets of the heart{/trap} will be examined.",
+    "now": "You donated, but partly to be seen. You visited, but mostly out of duty. You smiled, but with a grudge. {idea}Allah will bring out the why behind the what.{/idea} That also means the good you hid will come out.",
+    "old": "As long as I do the right thing, my reasons are my business.",
+    "new": "My reasons will come out. I can clean them now, while only Allah sees them.",
+    "try": "Before one good deed today, stop and quietly make the intention: for Allah.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "100:11",
+    "surah": 100,
+    "ayah": 11,
+    "place": "makkah",
+    "title": "That Day, their Lord knows them completely.",
+    "subtitle": "Full knowledge, full justice",
+    "picture": {
+      "kind": "boxes",
+      "label": "What He knows",
+      "row": [
+        {
+          "box": "idea",
+          "title": "their Lord",
+          "sub": [
+            "Well-Acquainted"
+          ]
+        },
+        {
+          "conn": "knows"
+        },
+        {
+          "box": "people",
+          "title": "all they did",
+          "sub": [
+            "outside and inside"
+          ]
+        },
+        {
+          "conn": "and gives"
+        },
+        {
+          "box": "reward",
+          "title": "fair reward",
+          "sub": [
+            "not the slightest injustice"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What full knowledge means",
+      "row": [
+        {
+          "box": "trap",
+          "title": "only exposure",
+          "sub": [
+            "something to fear"
+          ],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "perfect fairness",
+          "sub": [
+            "nothing missed, nothing wronged"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says He {idea}knows all that they used to do{/idea} and will compensate them with what they deserve. {reward}He does not do even the slightest injustice.{/reward}",
+    "now": "Nobody saw how hard you tried with your sick parent. Nobody knew the anger you swallowed at work. People misjudge you every week. {reward}Your Lord knows you completely.{/reward} That is a warning, and a great comfort.",
+    "old": "Nobody really understands what I go through.",
+    "new": "My Lord knows me fully, and He will never wrong me by even a speck.",
+    "try": "Tell Allah in dua tonight about one struggle nobody else knows about.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  }
+]

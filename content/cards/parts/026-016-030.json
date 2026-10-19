@@ -1,0 +1,291 @@
+[
+  {
+    "id": "26:16", "surah": 26, "ayah": 16, "place": "makkah",
+    "title": "Two brothers walk in with one message.",
+    "subtitle": "Messengers of the Lord of all the worlds",
+    "picture": {"kind": "boxes", "label": "Who stands before Fir'awn", "row": [
+      {"box": "people", "title": "Musa and Harun", "sub": ["both sent"]},
+      {"conn": "from"},
+      {"box": "idea", "title": "Lord of the worlds", "sub": ["not of Egypt only"]},
+      {"conn": "to"},
+      {"box": "trap", "title": "Fir'awn", "sub": ["who called himself god"]}]},
+    "key": {"label": "Whose authority", "row": [
+      {"box": "people", "title": "two men vs a king", "sub": ["no contest"], "strike": true},
+      {"box": "idea", "title": "the Lord of all", "sub": ["sent them"]}]},
+    "then": "Allah tells both brothers to go to Fir'awn and say they are {idea}messengers of the Lord of the worlds.{/idea} Ibn Kathir notes it means both of us have been sent to you. Two men from an enslaved people would say this to {trap}a king who claimed to be a god.{/trap}",
+    "now": "You have to tell the landlord the repairs are not legal, or tell a senior relative the plan is wrong. You feel small in the room. {idea}What you are saying does not get its weight from your size.{/idea} Truth said gently still has its weight.",
+    "old": "Who am I to say this to someone so powerful?",
+    "new": "What matters is whether what I carry is true, not how big I am.",
+    "try": "Say one true thing today that you have been too intimidated to say, calmly.",
+    "related": ["20:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:17", "surah": 26, "ayah": 17, "place": "makkah",
+    "title": "The message included a demand: let them go.",
+    "subtitle": "Faith that speaks up for the oppressed",
+    "picture": {"kind": "boxes", "label": "The demand", "row": [
+      {"box": "trap", "title": "Children of Israel", "sub": ["enslaved, tortured"]},
+      {"conn": "send with us"},
+      {"box": "reward", "title": "freedom", "sub": ["servants of Allah"]}]},
+    "key": {"label": "What the message is about", "row": [
+      {"box": "people", "title": "only belief", "sub": ["nothing about how people live"], "strike": true},
+      {"box": "idea", "title": "belief and justice", "sub": ["let them go"]}]},
+    "then": "The second half of the message is practical. Ibn Kathir explains it as: {reward}let them go, free them{/reward} from your captivity, subjugation and torture, for they are believing servants of Allah. The Children of Israel were living in {trap}humiliating torture{/trap} under Fir'awn.",
+    "now": "At work, the cleaner is shouted at and nobody says anything. In the family, one cousin is always the one blamed. {idea}Faith is not only what you believe in private.{/idea} It also asks who around you is being crushed, and whether you will speak.",
+    "old": "My religion is about my prayers, not about how others are treated.",
+    "new": "Standing up for someone being crushed is part of the message too.",
+    "try": "Do one small thing today for someone who is usually overlooked or mistreated.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:18", "surah": 26, "ayah": 18, "place": "makkah",
+    "title": "Fir'awn answers truth with: I raised you.",
+    "subtitle": "Using past favors to silence someone",
+    "picture": {"kind": "boxes", "label": "Fir'awn's move", "row": [
+      {"box": "people", "title": "Musa as a child", "sub": ["raised in the palace"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "a debt", "sub": ["so stay quiet"]}]},
+    "key": {"label": "What a favor buys", "row": [
+      {"box": "trap", "title": "I did things for you", "sub": ["so you cannot correct me"], "strike": true},
+      {"box": "idea", "title": "the truth stands", "sub": ["whoever raised whom"]}]},
+    "then": "Fir'awn does not answer the message. He {trap}turned away and ignored him{/trap}, Ibn Kathir says, with scorn, and changed the subject: we raised you in our home and on our bed, fed you, did you favors for years. Musa grew up in Fir'awn's house.",
+    "now": "You raise a concern with your boss and hear: after everything I have done for you. A parent says: I paid for your degree, so you do not get an opinion. {trap}A past favor is being turned into a gag.{/trap} Gratitude is real. So is the question that was asked.",
+    "old": "If they helped me before, I have no right to disagree now.",
+    "new": "I can be grateful for a favor and still say what is true.",
+    "try": "Notice if you ever remind someone of your favors to win an argument. Drop it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:19", "surah": 26, "ayah": 19, "place": "makkah",
+    "title": "Then he brought up the worst thing Musa ever did.",
+    "subtitle": "Dragging up the past to win the present",
+    "picture": {"kind": "boxes", "label": "Fir'awn's charge", "row": [
+      {"box": "trap", "title": "your deed", "sub": ["you killed one of ours"]},
+      {"box": "trap", "title": "ingrate", "sub": ["you denied our favors"]}]},
+    "key": {"label": "What he avoids", "row": [
+      {"box": "people", "title": "talk about Musa", "sub": ["his crime, his debt"]},
+      {"box": "idea", "title": "the actual message", "sub": ["Lord of the worlds, free them"], "strike": true}]},
+    "then": "Fir'awn names the killing: {trap}you did your deed{/trap}. Then the label: one of the ungrateful. Ibn Kathir says this means one who denies favors. He is still not answering the message. He is putting Musa's past on trial instead.",
+    "now": "In the family argument, someone says: and what about what you did in 2019? Suddenly the real issue is gone and everyone is talking about you. {trap}Changing the subject to your past is a way to avoid the point.{/trap}",
+    "old": "If they bring up my past, I have lost the argument.",
+    "new": "My past can be real and the point I am making can still be true.",
+    "try": "In your next disagreement, stay on the issue itself and do not bring up old faults.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:20", "surah": 26, "ayah": 20, "place": "makkah",
+    "title": "Musa does not deny it. Yes, I did it.",
+    "subtitle": "Owning a past mistake without excuses",
+    "picture": {"kind": "boxes", "label": "Musa's reply", "row": [
+      {"box": "people", "title": "I did it", "sub": ["no denial"]},
+      {"conn": "back when"},
+      {"box": "trap", "title": "I was astray", "sub": ["before revelation"]}]},
+    "key": {"label": "How to face your past", "row": [
+      {"box": "trap", "title": "deny or defend", "sub": ["it was not really me"], "strike": true},
+      {"box": "idea", "title": "own it plainly", "sub": ["then and now are different"]}]},
+    "then": "Musa's answer is short. {idea}I did it then, when I was in error.{/idea} Ibn Kathir explains that this was {trap}before revelation was sent{/trap} to him and before Allah made him a prophet. He does not lie, and he does not argue about it.",
+    "now": "Someone brings up how you used to be. The parties, the lies, the way you treated a friend. You feel the heat rise. {idea}You can say: yes, that was me, and I was lost then.{/idea} No speech needed. It takes the weapon out of their hand.",
+    "old": "I need to defend my past or hide it.",
+    "new": "I can own my past honestly, because I am not who I was then.",
+    "try": "Think of one past mistake you get defensive about. Say to yourself: yes, that was me then.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:21", "surah": 26, "ayah": 21, "place": "makkah",
+    "title": "I ran. Then my Lord gave me something new.",
+    "subtitle": "The past chapter closed, a new one opened",
+    "picture": {"kind": "boxes", "label": "Musa's story", "row": [
+      {"box": "trap", "title": "I fled", "sub": ["out of fear"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "wisdom", "sub": ["granted by my Lord"]},
+      {"box": "reward", "title": "a messenger", "sub": ["appointed"]}]},
+    "key": {"label": "What defines him", "row": [
+      {"box": "people", "title": "the man who fled", "sub": ["forever"], "strike": true},
+      {"box": "idea", "title": "the man sent back", "sub": ["by his Lord"]}]},
+    "then": "Musa admits he {trap}fled out of fear.{/trap} Then he points to what Allah did: {reward}granted him wisdom and made him one of the messengers.{/reward} Ibn Kathir says Musa means the first situation ended and another took its place.",
+    "now": "You dropped out, lost the job, left the marriage. In your head you are still the person who ran. {reward}But Allah can turn the person who fled into the one sent back with something good.{/reward} The worst chapter does not have to be the last one.",
+    "old": "The worst thing I did is who I really am.",
+    "new": "Allah can close an old chapter and give me a new role.",
+    "try": "Write one sentence about who you are now that your old self could not have written.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:22", "surah": 26, "ayah": 22, "place": "makkah",
+    "title": "You raised one boy and enslaved his whole people.",
+    "subtitle": "Musa weighs the favor against the harm",
+    "picture": {"kind": "boxes", "label": "The scale", "row": [
+      {"box": "reward", "title": "one boy raised", "sub": ["your favor to me"]},
+      {"conn": "against"},
+      {"box": "trap", "title": "a people enslaved", "sub": ["your harm to them"]}]},
+    "key": {"label": "What the favor is worth", "row": [
+      {"box": "trap", "title": "I owe you silence", "sub": ["you raised me"], "strike": true},
+      {"box": "idea", "title": "it does not cancel", "sub": ["what you did to them"]}]},
+    "then": "Musa turns Fir'awn's argument around. Ibn Kathir paraphrases: {idea}is there any comparison{/idea} between your favors to one man among them and {trap}the evil you have done to all of them?{/trap} The favor to Musa came out of a system that crushed his people.",
+    "now": "The company gives you a bonus and a team lunch, while the contract workers are underpaid. Someone gives generously to your cause and treats their staff badly. {idea}Kindness to you does not erase harm to others.{/idea}",
+    "old": "They have been good to me, so I should not question what they do to others.",
+    "new": "A favor to me does not cancel injustice to many.",
+    "try": "Ask yourself if loyalty to someone is keeping you quiet about how they treat others.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:23", "surah": 26, "ayah": 23, "place": "makkah",
+    "title": "And what is this Lord of the worlds?",
+    "subtitle": "Fir'awn's question was really a denial",
+    "picture": {"kind": "boxes", "label": "Fir'awn's claim", "row": [
+      {"box": "trap", "title": "Fir'awn", "sub": ["I know no god but me"]},
+      {"conn": "asks"},
+      {"box": "people", "title": "what Lord?", "sub": ["other than me"]}]},
+    "key": {"label": "What the question was", "row": [
+      {"box": "people", "title": "honest curiosity", "sub": ["what is His nature?"], "strike": true},
+      {"box": "trap", "title": "a denial", "sub": ["no Lord but me"]}]},
+    "then": "Fir'awn used to tell his people {trap}I know not that you have a god other than me{/trap}, and he fooled them into obeying. Ibn Kathir explains that his question was not curiosity about Allah's nature. He {trap}denied that the Creator existed at all{/trap}, and meant: who is this Lord besides me?",
+    "now": "You ask: but why does Allah let this happen? Sometimes it is a real question and you want the answer. Sometimes it is a door you have already shut, said as a question. {idea}Ask honestly.{/idea} A question asked with a closed heart is not looking for an answer.",
+    "old": "Every question I ask about faith is just honest searching.",
+    "new": "A question can be a search or a wall. I should know which one I am asking.",
+    "try": "Take one doubt you have and look into it today, honestly wanting the answer.",
+    "related": ["28:38", "43:54", "20:49"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:24", "surah": 26, "ayah": 24, "place": "makkah",
+    "title": "Musa points up, down, and everything between.",
+    "subtitle": "The Lord of the heavens and the earth",
+    "picture": {"kind": "boxes", "label": "Musa's answer", "row": [
+      {"box": "idea", "title": "the heavens", "sub": ["stars still and moving"]},
+      {"box": "idea", "title": "the earth", "sub": ["seas, mountains, trees"]},
+      {"box": "idea", "title": "between them", "sub": ["winds, birds"]}]},
+    "key": {"label": "What it takes", "row": [
+      {"box": "people", "title": "more evidence", "sub": ["it is not enough"], "strike": true},
+      {"box": "reward", "title": "a heart seeking certainty", "sub": ["if you seek to be sure"]}]},
+    "then": "Musa does not describe Allah's essence. He points to His works: {idea}the Lord of the heavens and the earth and all between them.{/idea} Ibn Kathir lists the stars, oceans, mountains, winds and birds, all {reward}submitting and humbling themselves{/reward} before Him. If you seek certainty, it is there.",
+    "now": "You are stuck in traffic, staring at the brake lights. Look up: clouds moving, a bird crossing, a sky you did not make. {idea}The proof Musa gave is right outside your window.{/idea} The question is whether you want to be sure.",
+    "old": "I need a clever argument before I can feel sure.",
+    "new": "The heavens and earth answer the question if I really want an answer.",
+    "try": "Step outside for two minutes today and look up. Just look.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:25", "surah": 26, "ayah": 25, "place": "makkah",
+    "title": "Do you hear this? Fir'awn turns to the crowd.",
+    "subtitle": "Mockery as a way to avoid answering",
+    "picture": {"kind": "boxes", "label": "Fir'awn's move", "row": [
+      {"box": "people", "title": "Musa's answer", "sub": ["clear, reasoned"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "do you not hear?", "sub": ["turning to the chiefs"]}]},
+    "key": {"label": "What replaced the reply", "row": [
+      {"box": "idea", "title": "a counter-argument", "sub": ["none came"], "strike": true},
+      {"box": "trap", "title": "an audience", "sub": ["to laugh with him"]}]},
+    "then": "Fir'awn had no answer. Ibn Kathir says he turned to {trap}the chiefs and leaders around him{/trap} and, mocking, said: do you not hear? Meaning, are you not amazed at this man claiming {trap}you have a god other than me{/trap}?",
+    "now": "Someone makes a fair point in the group chat, and instead of replying, you screenshot it to another chat with a laughing emoji. {trap}You did not answer it. You found an audience.{/trap} That is the Fir'awn move, small size.",
+    "old": "If people laugh with me, I must be right.",
+    "new": "Rallying an audience is not the same as having an answer.",
+    "try": "Next time you disagree with someone, reply to them directly instead of mocking them to others.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:26", "surah": 26, "ayah": 26, "place": "makkah",
+    "title": "Your Lord, and the Lord of your forefathers.",
+    "subtitle": "Musa speaks to the crowd about their own origins",
+    "picture": {"kind": "boxes", "label": "Before Fir'awn", "row": [
+      {"box": "people", "title": "your forefathers", "sub": ["before Fir'awn's time"]},
+      {"box": "people", "title": "you", "sub": ["standing here"]},
+      {"conn": "all made by"},
+      {"box": "idea", "title": "one Lord", "sub": ["who created you all"]}]},
+    "key": {"label": "Who was there first", "row": [
+      {"box": "trap", "title": "Fir'awn", "sub": ["a god who arrived late"], "strike": true},
+      {"box": "idea", "title": "the Lord", "sub": ["of your first fathers"]}]},
+    "then": "Fir'awn turned to the crowd, so Musa answers the crowd. Ibn Kathir explains: {idea}the One Who created you and your forefathers{/idea}, those who came before Fir'awn and his time. {trap}A god who was born recently{/trap} cannot be the Lord of those who lived before him.",
+    "now": "The thing you treat as everything, the boss, the follower count, the career, did not exist when your grandmother was praying. It will not exist when your grandchildren are. {idea}Your Lord was Lord before all of it.{/idea}",
+    "old": "What controls my life right now is what really matters.",
+    "new": "Anything that came after my grandparents cannot be my Lord.",
+    "try": "Call or message a grandparent or elder today and ask what they relied on in hard times.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:27", "surah": 26, "ayah": 27, "place": "makkah",
+    "title": "Out of answers, Fir'awn calls him mad.",
+    "subtitle": "Name-calling when the argument is lost",
+    "picture": {"kind": "boxes", "label": "The escalation", "row": [
+      {"box": "idea", "title": "Musa's proof", "sub": ["your Lord and your fathers'"]},
+      {"conn": "answered by"},
+      {"box": "trap", "title": "he is mad", "sub": ["your so-called messenger"]}]},
+    "key": {"label": "What the insult shows", "row": [
+      {"box": "people", "title": "Musa is wrong", "sub": ["because he is crazy"], "strike": true},
+      {"box": "trap", "title": "Fir'awn is cornered", "sub": ["no answer left"]}]},
+    "then": "Fir'awn mocks the messenger as {trap}your messenger who has been sent to you{/trap}, then calls him a madman. Ibn Kathir explains Fir'awn meant there is no sense in claiming {trap}any god other than me.{/trap} The Prophet ﷺ was being called mad in Makkah too.",
+    "now": "You hear it in the comments: he is crazy, she is unhinged, ignore them. Sometimes you are the one typing it. {idea}When you reach for a label instead of an answer, notice that.{/idea}",
+    "old": "Calling someone crazy settles the matter.",
+    "new": "An insult usually means the argument has run out.",
+    "try": "Catch yourself once today before calling someone stupid or crazy, and answer their point instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:28", "surah": 26, "ayah": 28, "place": "makkah",
+    "title": "Lord of the sunrise and the sunset. Can Fir'awn swap them?",
+    "subtitle": "Musa calmly answers the insult with more proof",
+    "picture": {"kind": "boxes", "label": "Musa's third answer", "row": [
+      {"box": "idea", "title": "the east", "sub": ["where the lights rise"]},
+      {"box": "idea", "title": "the west", "sub": ["where they set"]},
+      {"conn": "who controls?"},
+      {"box": "trap", "title": "not Fir'awn", "sub": ["he cannot reverse it"]}]},
+    "key": {"label": "How Musa responds", "row": [
+      {"box": "trap", "title": "insult back", "sub": ["you are mad, Fir'awn"], "strike": true},
+      {"box": "idea", "title": "reason again", "sub": ["if you would think"]}]},
+    "then": "Called a madman, Musa does not insult back. He says {idea}Lord of the east and the west.{/idea} Ibn Kathir explains: if Fir'awn is truly your lord, let him make the sun set in the east and rise in the west, like Ibrahim's challenge to the king. {reward}If you did but understand.{/reward}",
+    "now": "Your cousin calls you a fanatic at the wedding. Everyone looks. You could snap back. {idea}Musa answered an insult with a sunrise.{/idea} A calm, clear reply often lands better than a sharp one.",
+    "old": "When someone insults me, I have to hit back to keep my dignity.",
+    "new": "Staying calm and reasonable when insulted is its own kind of strength.",
+    "try": "The next time someone is rude to you, answer with one calm sentence and stop there.",
+    "related": ["2:258"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:29", "surah": 26, "ayah": 29, "place": "makkah",
+    "title": "Lose the debate, reach for the prison.",
+    "subtitle": "Fir'awn turns from argument to threat",
+    "picture": {"kind": "boxes", "label": "When proof wins", "row": [
+      {"box": "idea", "title": "the proof", "sub": ["clear and rational"]},
+      {"conn": "answered by"},
+      {"box": "trap", "title": "prison", "sub": ["if you take another god"]}]},
+    "key": {"label": "What force proves", "row": [
+      {"box": "people", "title": "power means right", "sub": ["the stronger one wins"], "strike": true},
+      {"box": "trap", "title": "the argument is lost", "sub": ["that is why force appears"]}]},
+    "then": "Ibn Kathir titles this part: after the rational proof, {trap}Fir'awn resorts to force.{/trap} When proof had been established against him clearly, he threatened prison, thinking there would be {trap}no further room for discussion.{/trap}",
+    "now": "Your manager cannot answer your concern, so you get a warning about attitude. A parent loses the argument and says: as long as you live under my roof. {trap}When reasons run out, threats come in.{/trap} Notice it in others, and in your own voice too.",
+    "old": "Whoever can punish me must be the one who is right.",
+    "new": "Threats appear when reasons run out. Power and truth are different things.",
+    "try": "When you have power over someone today, a child or a junior, give a reason instead of a threat.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:30", "surah": 26, "ayah": 30, "place": "makkah",
+    "title": "Even if I show you something undeniable?",
+    "subtitle": "Musa answers a threat with an offer",
+    "picture": {"kind": "boxes", "label": "Musa's reply", "row": [
+      {"box": "trap", "title": "prison", "sub": ["Fir'awn's threat"]},
+      {"conn": "met with"},
+      {"box": "idea", "title": "clear proof", "sub": ["even if I bring it?"]}]},
+    "key": {"label": "What Musa keeps doing", "row": [
+      {"box": "people", "title": "back down", "sub": ["the threat worked"], "strike": true},
+      {"box": "idea", "title": "keep offering truth", "sub": ["calmly, one more time"]}]},
+    "then": "Threatened with prison, Musa does not panic or plead. He asks: even if I bring you {idea}something manifest{/idea}? Ibn Kathir explains this as {idea}clear and definitive proof.{/idea} Musa keeps the conversation on the truth.",
+    "now": "You are told: stop bringing up the budget or you are off the team. You do not have to shout. You can say: what if I show you the numbers? {idea}A calm offer of evidence keeps the door open.{/idea}",
+    "old": "When I am threatened, I either fight or go silent.",
+    "new": "There is a third way: stay calm and keep offering what is true.",
+    "try": "In a tense moment today, ask: can I show you why I think this?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

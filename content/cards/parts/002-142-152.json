@@ -1,0 +1,225 @@
+[
+  {
+    "id": "2:142", "surah": 2, "ayah": 142, "place": "madinah",
+    "title": "East and west both belong to Allah.",
+    "subtitle": "When people mock you for changing direction",
+    "picture": {"kind": "boxes", "label": "The mocking question", "row": [
+      {"box": "people", "title": "the believers", "sub": ["turn from Jerusalem", "toward the Ka'bah"]},
+      {"conn": "and critics ask"},
+      {"box": "trap", "title": "what turned them?", "sub": ["one day this way", "next day that way"]}]},
+    "key": {"label": "The answer", "row": [
+      {"box": "trap", "title": "a direction is holy itself", "sub": ["so changing it is weakness"], "strike": true},
+      {"box": "idea", "title": "the command is Allah's", "sub": ["we face where He says"]}]},
+    "then": "In Madinah the Muslims had prayed toward Bayt Al-Maqdis for about sixteen or seventeen months. When the command came to face the Ka'bah, some people said: {trap}what is wrong with them, facing one way and then another?{/trap} The verse answers before the question even spreads: {idea}east and west belong to Allah.{/idea}",
+    "now": "You start praying again, or stop a habit your friends still enjoy. Someone in the family group chat says, \"So now you are religious?\" The change looks strange from outside. {idea}You did not switch sides. You followed the One who owns every direction.{/idea}",
+    "old": "If I change my ways, people will see me as unstable.",
+    "new": "Changing to follow Allah is not instability. It is the most stable thing I can do.",
+    "try": "Think of one good change you made that someone questioned. Thank Allah for it quietly tonight.",
+    "related": ["2:115", "2:177"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:143", "surah": 2, "ayah": 143, "place": "madinah",
+    "title": "No prayer offered in obedience is ever wasted.",
+    "subtitle": "A middle community, a test, and a mercy",
+    "picture": {"kind": "boxes", "label": "What the change revealed", "row": [
+      {"box": "people", "title": "the Qiblah changes", "sub": ["a heavy moment"]},
+      {"conn": "shows"},
+      {"box": "reward", "title": "who follows", "sub": ["turned at once, even mid-prayer"]},
+      {"box": "trap", "title": "who turns back", "sub": ["on his heels"]}]},
+    "key": {"label": "The worried question", "row": [
+      {"box": "trap", "title": "the old prayers are lost", "sub": ["those who died before"], "strike": true},
+      {"box": "idea", "title": "Allah never wastes faith", "sub": ["He is Kind, Merciful"]}]},
+    "then": "Some Muslims had died before the Qiblah changed, and the believers worried about their prayers toward Jerusalem. {reward}Allah would never make your faith be lost.{/reward} The same verse calls them a just, middle community, and says the change was {trap}heavy except for those Allah guided.{/trap}",
+    "now": "You prayed for years with little knowledge. Now you learn more and a quiet voice says, \"All those years did not count.\" Or your late grandmother practised as she knew how. {reward}Sincere obedience with what you knew is not erased by learning more.{/reward}",
+    "old": "Everything I did before I knew better was worthless.",
+    "new": "Allah keeps what I gave Him sincerely, and the test is whether I follow now.",
+    "try": "Make a short dua for someone who died before you could teach or learn from them more.",
+    "related": ["2:144"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:144", "surah": 2, "ayah": 144, "place": "madinah",
+    "title": "Allah saw him looking up at the sky.",
+    "subtitle": "A silent longing that was answered",
+    "picture": {"kind": "boxes", "label": "The unspoken wish", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["loved Ibrahim's Qiblah"]},
+      {"conn": "keeps looking up"},
+      {"box": "idea", "title": "We have seen", "sub": ["your face turning"]},
+      {"conn": "answer"},
+      {"box": "reward", "title": "a Qiblah you love", "sub": ["Al-Masjid Al-Haram"]}]},
+    "key": {"label": "How he waited", "row": [
+      {"box": "trap", "title": "act on the wish alone", "sub": ["decide for yourself"], "strike": true},
+      {"box": "idea", "title": "long, then wait", "sub": ["supplicate and look up"]}]},
+    "then": "The Prophet ﷺ prayed toward Bayt Al-Maqdis as commanded, yet he loved the Qiblah of Ibrahim. He would supplicate and keep looking up at the sky, {idea}waiting for Allah's command{/idea} rather than changing it himself. Then came: {reward}We have seen the turning of your face.{/reward}",
+    "now": "There is a wish you have not told anyone. A job, a child, a healing, a way out. You look up at the ceiling at night more than you admit. {reward}The verse says your silent looking up is seen.{/reward} Keep asking, and keep obeying while you wait.",
+    "old": "If I do not say it out loud, no one knows what I long for.",
+    "new": "Allah sees even the turning of my face before I speak.",
+    "try": "Tonight, look up and name your quiet wish to Allah in one sentence.",
+    "related": ["2:142", "2:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:145", "surah": 2, "ayah": 145, "place": "madinah",
+    "title": "No sign moves a heart set on its desire.",
+    "subtitle": "Why more proof does not always help",
+    "picture": {"kind": "boxes", "label": "Every sign brought", "row": [
+      {"box": "reward", "title": "every proof", "sub": ["all the signs"]},
+      {"conn": "meets"},
+      {"box": "trap", "title": "desire", "sub": ["already decided"]},
+      {"conn": "result"},
+      {"box": "trap", "title": "no change", "sub": ["they would not follow"]}]},
+    "key": {"label": "The warning turned inward", "row": [
+      {"box": "trap", "title": "follow their wishes", "sub": ["after knowledge came"], "strike": true},
+      {"box": "idea", "title": "hold to what you know", "sub": ["knowledge raises the stakes"]}]},
+    "then": "The People of the Scripture knew the truth, yet Ibn Kathir says {trap}no proof would make them abandon their desires.{/trap} Then the warning is aimed at the Prophet ﷺ and his community: following others' wishes {idea}after knowledge has come{/idea} is wrongdoing, because the proof against one who knows is stronger.",
+    "now": "You know the facts about a habit. The article, the doctor's warning, the ayah. You still scroll past it, waiting for one more proof. {trap}The problem was never missing evidence.{/trap} {idea}Knowing more makes your choice weigh more.{/idea}",
+    "old": "If I just had more proof, I would change.",
+    "new": "When desire is in charge, proof is never enough. What I already know is my test.",
+    "try": "Pick one thing you already know is right and do the first small step today.",
+    "related": ["10:96", "10:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:146", "surah": 2, "ayah": 146, "place": "madinah",
+    "title": "They knew him like they knew their own sons.",
+    "subtitle": "Hiding what you clearly recognize",
+    "picture": {"kind": "boxes", "label": "How well they knew", "row": [
+      {"box": "people", "title": "a father", "sub": ["knows his own son"]},
+      {"conn": "that sure"},
+      {"box": "idea", "title": "the truth", "sub": ["described in their Books"]},
+      {"conn": "yet some"},
+      {"box": "trap", "title": "conceal it", "sub": ["while they know"]}]},
+    "key": {"label": "The real gap", "row": [
+      {"box": "trap", "title": "they did not know", "sub": ["ignorance"], "strike": true},
+      {"box": "trap", "title": "they knew and hid it", "sub": ["concealment"]}]},
+    "then": "The Arabs used knowing your own child as a picture of something {idea}completely obvious.{/idea} Ibn Kathir reports that 'Abdullah bin Salam, a scholar of the Israelites who became Muslim, said he recognized the Prophet ﷺ like that and even more. Yet {trap}a party hid the truth while knowing it.{/trap}",
+    "now": "At work you know whose idea it really was. In the family you know who was actually wrong in the fight. Staying quiet is easier. {trap}Hiding what you clearly know is its own act.{/trap} {idea}Saying it, gently, is the honest choice.{/idea}",
+    "old": "If I stay quiet about what I know, I have done nothing wrong.",
+    "new": "Hiding a truth I recognize as clearly as my own child is a choice I will answer for.",
+    "try": "Give credit today to someone whose good work you know went unnoticed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:147", "surah": 2, "ayah": 147, "place": "madinah",
+    "title": "The truth is from your Lord. Do not doubt.",
+    "subtitle": "Steadying the heart after others deny",
+    "picture": {"kind": "boxes", "label": "Around the believers", "row": [
+      {"box": "trap", "title": "mockery", "sub": ["what turned them?"]},
+      {"box": "trap", "title": "concealment", "sub": ["hiding what they know"]},
+      {"conn": "against it"},
+      {"box": "idea", "title": "the truth", "sub": ["from your Lord"]}]},
+    "key": {"label": "Where certainty comes from", "row": [
+      {"box": "people", "title": "what people say", "sub": ["shifts every day"], "strike": true},
+      {"box": "idea", "title": "where it comes from", "sub": ["your Lord"]}]},
+    "then": "After describing those who mocked the change and those who hid what they knew, Allah {idea}strengthens the resolve of the Prophet ﷺ and the believers.{/idea} What came to him is {reward}the truth without doubt.{/reward}",
+    "now": "You read a clever post online that makes your faith feel shaky. The comments pile on. Your certainty starts to depend on who sounds louder. {idea}The truth does not get its strength from the comment section.{/idea}",
+    "old": "If enough people question it, maybe it is not true.",
+    "new": "Truth is measured by its source, not by how many argue with it.",
+    "try": "Next time doubt comes from a post, close it and read one ayah slowly instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:148", "surah": 2, "ayah": 148, "place": "madinah",
+    "title": "Stop arguing about direction. Race to do good.",
+    "subtitle": "Everyone faces somewhere; all are gathered",
+    "picture": {"kind": "boxes", "label": "Every people", "row": [
+      {"box": "people", "title": "each faces a way", "sub": ["their own direction"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "race to good", "sub": ["hasten, compete"]},
+      {"conn": "because"},
+      {"box": "reward", "title": "all brought together", "sub": ["wherever you are"]}]},
+    "key": {"label": "Where energy goes", "row": [
+      {"box": "trap", "title": "win the argument", "sub": ["endless debate"], "strike": true},
+      {"box": "idea", "title": "win the race", "sub": ["good deeds first"]}]},
+    "then": "Ibn 'Abbas said this speaks of the followers of different religions: {idea}each has a direction it faces.{/idea} Allah's answer is not more debate but {reward}hasten toward all that is good.{/reward} Wherever people are scattered, Allah is able to bring them all together.",
+    "now": "The argument in the comments has run three days. Nobody is changing their mind. Meanwhile the neighbour needs a lift and the charity box is empty. {idea}The verse moves you off the debate floor and onto the race track.{/idea}",
+    "old": "I have to win this argument first.",
+    "new": "My time is better spent getting ahead in good than getting ahead in debate.",
+    "try": "Leave one online argument unanswered and do one good deed in that time instead.",
+    "related": ["5:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:149", "surah": 2, "ayah": 149, "place": "madinah",
+    "title": "Wherever you set out from, face the same House.",
+    "subtitle": "A command repeated so the heart settles",
+    "picture": {"kind": "boxes", "label": "From anywhere", "row": [
+      {"box": "people", "title": "wherever you set out", "sub": ["home, road, any land"]},
+      {"conn": "turn to"},
+      {"box": "idea", "title": "Al-Masjid Al-Haram", "sub": ["the truth from your Lord"]},
+      {"box": "reward", "title": "Allah sees", "sub": ["not unaware of what you do"]}]},
+    "key": {"label": "Why say it again", "row": [
+      {"box": "plain", "title": "first", "sub": ["your wish is granted"]},
+      {"box": "idea", "title": "now", "sub": ["it is the truth from Me"]}]},
+    "then": "This is the second time the command is given. Ibn Kathir explains each repetition adds something: first Allah granted what the Prophet ﷺ wished for, and here He states {idea}it is also the truth from Him{/idea} that He loves. It ends with a reminder: {reward}Allah is not unaware of what you do.{/reward}",
+    "now": "You travel for work, move cities, change jobs. The coffee shop changes, the commute changes, the people around you change. {idea}One thing stays fixed: the direction your heart turns.{/idea} Wherever you set out from, it is the same House.",
+    "old": "When life moves me around, my faith moves around with it.",
+    "new": "Wherever I start from, I have one fixed point to turn toward.",
+    "try": "Next time you are somewhere new, find the Qiblah first and pause facing it for a moment.",
+    "related": ["2:144"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:150", "surah": 2, "ayah": 150, "place": "madinah",
+    "title": "Fear them not. Fear Me.",
+    "subtitle": "When critics will talk no matter what",
+    "picture": {"kind": "boxes", "label": "Two kinds of critics", "row": [
+      {"box": "people", "title": "people with an argument", "sub": ["now have none"]},
+      {"box": "trap", "title": "the wrongdoers", "sub": ["will argue anyway"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "fear Me", "sub": ["not their doubts"]}]},
+    "key": {"label": "What the command gives", "row": [
+      {"box": "trap", "title": "a loss to defend", "sub": ["another thing to explain"], "strike": true},
+      {"box": "reward", "title": "a completed favor", "sub": ["and guidance"]}]},
+    "then": "The third repetition. Facing the Ka'bah removed the argument that the Muslims were only following another people's Qiblah. Yet {trap}those bent on wrong would still argue.{/trap} So Allah says: do not fear the doubts they raise, {idea}fear Me alone{/idea}, so that I may {reward}complete My favor upon you.{/reward}",
+    "now": "You change something for Allah and brace for the remarks. Some people will understand. {trap}Some will find a complaint whatever you do.{/trap} Their voices take up your evenings. {idea}You cannot satisfy them. You only have to stand right with Allah.{/idea}",
+    "old": "I need to answer every critic before I can feel at peace.",
+    "new": "Some critics will never be satisfied. Fear of Allah is the only fear that settles me.",
+    "try": "Name one person whose opinion you fear too much. Ask Allah to free your heart from it.",
+    "related": ["2:144"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:151", "surah": 2, "ayah": 151, "place": "madinah",
+    "title": "A messenger from among you, teaching what you never knew.",
+    "subtitle": "The biggest favor in the chain of favors",
+    "picture": {"kind": "boxes", "label": "What the Messenger ﷺ brought", "row": [
+      {"box": "reward", "title": "recites", "sub": ["Our verses"]},
+      {"box": "reward", "title": "purifies", "sub": ["from the ills of the soul"]},
+      {"box": "reward", "title": "teaches", "sub": ["the Book and wisdom"]},
+      {"box": "reward", "title": "and more", "sub": ["what you did not know"]}]},
+    "key": {"label": "Before and after", "row": [
+      {"box": "trap", "title": "Jahiliyyah", "sub": ["foolish words, darkness"], "strike": true},
+      {"box": "idea", "title": "light and knowledge", "sub": ["truthful tongues, pious hearts"]}]},
+    "then": "Just as Allah completed His favor with the Qiblah, He had already given a greater one: {reward}a Messenger ﷺ from among themselves.{/reward} Ibn Kathir says he cleansed them of the worst behavior of Jahiliyyah, when {trap}they used to utter foolish statements{/trap}, and raised them to deep knowledge.",
+    "now": "Think of the things you know today that you did not know at fifteen. How to pray. How to seek forgiveness. Why kindness to parents matters. {reward}Someone carried that to you, link by link, from him ﷺ.{/reward}",
+    "old": "What I know about my faith is just what I grew up with.",
+    "new": "Everything good I know traces back to a gift Allah sent among people like me.",
+    "try": "Send a short thank you message to someone who first taught you something about Islam.",
+    "related": ["3:164", "14:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:152", "surah": 2, "ayah": 152, "place": "madinah",
+    "title": "Remember Me and I will remember you.",
+    "subtitle": "The smallest exchange with the largest return",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "people", "title": "you remember Him", "sub": ["alone or in a gathering"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "He remembers you", "sub": ["in a better gathering"]}]},
+    "key": {"label": "Who moves faster", "row": [
+      {"box": "people", "title": "a hand span", "sub": ["you draw closer"]},
+      {"conn": "He comes"},
+      {"box": "reward", "title": "an arm's length", "sub": ["walk to Him, He runs"]}]},
+    "then": "After listing His favors, Allah asks for remembrance and gratitude. Ibn Kathir cites the authentic hadith: {reward}whoever mentions Me to himself, I mention him to Myself; whoever mentions Me in a gathering, I mention him in a better one.{/reward} And {idea}be grateful to Me and do not deny Me.{/idea}",
+    "now": "You are stuck in traffic, or in the hospital waiting room, phone at 8 percent. You whisper \"Alhamdulillah\" and nobody hears. {reward}The Lord of everything mentions you in return.{/reward} One small word, a remembrance from Him back.",
+    "old": "My little dhikr in the car does not really matter.",
+    "new": "When I remember Allah, even quietly, He remembers me.",
+    "try": "Pick one daily wait, like the kettle or a red light, and say one dhikr there.",
+    "related": ["14:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

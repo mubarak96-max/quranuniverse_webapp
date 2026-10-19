@@ -1,0 +1,233 @@
+[
+  {
+    "id": "46:1", "surah": 46, "ayah": 1, "place": "makkah",
+    "title": "Two letters that ask you to stop and listen.",
+    "subtitle": "Letters that open the surah and ask for attention",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Ha Mim", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the Book", "sub": ["from the Mighty, the Wise"]}]},
+    "key": {"label": "What the letters ask", "row": [
+      {"box": "people", "title": "skim to the point", "sub": ["I know what comes next"], "strike": true},
+      {"box": "idea", "title": "pause first", "sub": ["attention before meaning"]}]},
+    "then": "This surah came in Makkah in the year the Prophet ﷺ called the year of sorrow. A long boycott had just ended, and he had lost Abu Talib and Khadijah. It opens with two letters, Ha Mim. {idea}Their meaning is known to Allah.{/idea} What they do for the listener is clear: stop, and listen to what follows.",
+    "now": "You open the app between two notifications. Your thumb is already looking for the next thing. Two letters sit there that you cannot decode or rush. {idea}They slow you down on purpose.{/idea} The next lines are worth a full breath.",
+    "old": "If I cannot understand a word, I can skip past it.",
+    "new": "Some words are there to make me pause before I read on.",
+    "try": "Before you read the next verse, put your phone on silent and take one slow breath.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:2", "surah": 46, "ayah": 2, "place": "makkah",
+    "title": "The message comes from someone mighty and wise.",
+    "subtitle": "Who sent the Book, and what that changes",
+    "picture": {"kind": "boxes", "label": "Where the Book comes from", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["the Almighty", "the All-Wise"]},
+      {"conn": "sends down"},
+      {"box": "reward", "title": "the Book", "sub": ["to His Messenger ﷺ"]}]},
+    "key": {"label": "Two sides of the Sender", "row": [
+      {"box": "idea", "title": "Mighty", "sub": ["nothing can stop His word"]},
+      {"box": "idea", "title": "Wise", "sub": ["every word placed with purpose"]}]},
+    "then": "The people of Makkah treated the Quran as one man's words. Ibn Kathir explains that the verse names its true source: {idea}Allah, of unimaginable glory, wise in what He says and does.{/idea} The Prophet ﷺ was being pushed hard, but the message was not his to lose.",
+    "now": "You get a letter from a hospital, a bank, a school. You read it differently depending on who signed it. A note from a friend you skim. {reward}A note from someone who knows everything and means well,{/reward} you read twice.",
+    "old": "This is an old book that people quote at me.",
+    "new": "This is a message from the One who is both strong and wise, sent to me.",
+    "try": "Read one verse today as if it had your name on the envelope.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:3", "surah": 46, "ayah": 3, "place": "makkah",
+    "title": "Nothing was made as a game, and everything has an end date.",
+    "subtitle": "Creation has a purpose and a fixed term",
+    "picture": {"kind": "boxes", "label": "How the world was made", "row": [
+      {"box": "idea", "title": "in truth", "sub": ["not idle play"]},
+      {"box": "idea", "title": "for a term", "sub": ["fixed, no more, no less"]},
+      {"conn": "yet some"},
+      {"box": "trap", "title": "turn away", "sub": ["from the warning"]}]},
+    "key": {"label": "What the world is", "row": [
+      {"box": "trap", "title": "random and endless", "sub": ["nothing really matters"], "strike": true},
+      {"box": "idea", "title": "purposeful and timed", "sub": ["it all leads somewhere"]}]},
+    "then": "Ibn Kathir says the heavens and earth were made {idea}not in idle play and falsehood{/idea}, and for a duration that will not grow or shrink. The disbelievers of Makkah had a Book and a Messenger ﷺ in front of them. {trap}They were distracted and kept turning away.{/trap}",
+    "now": "Some nights the world feels like noise: news, scrolling, bills, the same week again. It is easy to think none of it adds up. {idea}This verse says it does, and it has a deadline.{/idea} The clock on your life is real, not random.",
+    "old": "Life just happens, and it will keep going like this.",
+    "new": "The world was made with purpose, and it has a set time to end.",
+    "try": "Look at the sky for one minute tonight and ask what it was made for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:4", "surah": 46, "ayah": 4, "place": "makkah",
+    "title": "Show me what they made, or show me your proof.",
+    "subtitle": "A fair challenge to anything worshipped besides Allah",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "plain", "title": "what did they create?", "sub": ["one patch of earth"]},
+      {"box": "plain", "title": "a share in the sky?", "sub": ["none at all"]},
+      {"box": "plain", "title": "a scripture or trace?", "sub": ["any evidence"]}]},
+    "key": {"label": "What they had", "row": [
+      {"box": "trap", "title": "0", "sub": ["no text, no reason"], "num": true},
+      {"box": "idea", "title": "Allah alone", "sub": ["owns and controls it all"]}]},
+    "then": "The Prophet ﷺ is told to ask the idol worshippers simple questions. {idea}What have your idols made? Bring a book or a trace of knowledge.{/idea} Ibn Kathir notes they did not own even the thin skin on a date stone. {trap}They had no proof from revelation or from reason.{/trap}",
+    "now": "You give hours to something because everyone around you does. The trend, the habit, the thing you check first each morning. Ask it the verse's question. {idea}What has it actually made in my life? Where is the proof?{/idea}",
+    "old": "Lots of people rely on it, so it must be worth it.",
+    "new": "Before I trust something, I can ask what it has made and what proof it has.",
+    "try": "Pick one habit you lean on. Write one honest line on what it has given you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:5", "surah": 46, "ayah": 5, "place": "makkah",
+    "title": "Calling out to something that cannot hear you.",
+    "subtitle": "The most lost person, in one picture",
+    "picture": {"kind": "boxes", "label": "A one-way call", "row": [
+      {"box": "people", "title": "the caller", "sub": ["asking, hoping"]},
+      {"conn": "calls"},
+      {"box": "trap", "title": "the idol", "sub": ["cannot hear, see, or act"]},
+      {"conn": "answers"},
+      {"box": "trap", "title": "never", "sub": ["until the Day"]}]},
+    "key": {"label": "Who hears", "row": [
+      {"box": "trap", "title": "it will help", "sub": ["if I ask enough"], "strike": true},
+      {"box": "idea", "title": "Allah hears", "sub": ["every call made to Him"]}]},
+    "then": "Ibn Kathir says no one is more misguided than a person who asks idols for what they cannot give. {trap}They are senseless stones. They do not even know they are being asked.{/trap} The caller waits for an answer that will not come.",
+    "now": "You keep refreshing for a reply from someone who will never write back. You keep hoping a purchase will make you feel safe. {trap}The call goes out, nothing comes back.{/trap} {idea}Allah is the One who hears.{/idea}",
+    "old": "If I keep asking, it will eventually come through for me.",
+    "new": "Only Allah hears every call, so my real asking belongs with Him.",
+    "try": "Take one worry you have been carrying alone and say it to Allah in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:6", "surah": 46, "ayah": 6, "place": "makkah",
+    "title": "What you leaned on will turn against you.",
+    "subtitle": "False supports desert you when you need them most",
+    "picture": {"kind": "boxes", "label": "On the Day", "row": [
+      {"box": "people", "title": "the worshipper", "sub": ["gathered with everyone"]},
+      {"conn": "turns to"},
+      {"box": "trap", "title": "the false gods", "sub": ["now enemies", "deny the worship"]}]},
+    "key": {"label": "When it counts", "row": [
+      {"box": "reward", "title": "my backup", "sub": ["they will stand by me"], "strike": true},
+      {"box": "trap", "title": "my accuser", "sub": ["they disown me"]}]},
+    "then": "On the Day of gathering, the things people worshipped will become their enemies and deny they were ever worshipped. Ibn Kathir links it to Ibrahim's words: {trap}the love they shared in this life turns to cursing each other.{/trap} They betray them when they need them most.",
+    "now": "The friend group you bent your values to fit. The boss you pleased by cutting corners. When it goes wrong, they say they never asked you to. {trap}What you leaned on steps back.{/trap} {idea}Lean only on what will stand with you later.{/idea}",
+    "old": "The people and things I go along with will back me up.",
+    "new": "Anything I put in Allah's place will step away from me at the moment I need it.",
+    "try": "Notice one choice you make just to keep someone pleased. Ask if it pleases Allah too.",
+    "related": ["19:81", "29:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:7", "surah": 46, "ayah": 7, "place": "makkah",
+    "title": "Calling clear truth magic so you do not have to face it.",
+    "subtitle": "A label used to avoid what was clear",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "clear verses", "sub": ["recited to them"]},
+      {"conn": "they call it"},
+      {"box": "trap", "title": "plain magic", "sub": ["a label, not an answer"]}]},
+    "key": {"label": "What the label does", "row": [
+      {"box": "trap", "title": "magic", "sub": ["so I can ignore it"], "strike": true},
+      {"box": "idea", "title": "the truth", "sub": ["it reached them"]}]},
+    "then": "When the clear verses were recited, the leaders of Makkah said {trap}this is plain magic.{/trap} Ibn Kathir says in this they lied and went astray. {idea}The verse calls it what it was: the truth that had come to them.{/idea}",
+    "now": "Someone you love points out a thing you need to change. Instead of thinking about it, you say they are just being dramatic. {trap}A quick label closes the door.{/trap} {idea}The truth was still in the room.{/idea}",
+    "old": "If I can name it as something silly, I do not have to deal with it.",
+    "new": "Putting a label on the truth does not make it any less true.",
+    "try": "Think of one piece of advice you brushed off. Give it two honest minutes today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:8", "surah": 46, "ayah": 8, "place": "makkah",
+    "title": "If he made it up, who could protect him?",
+    "subtitle": "The answer of the Prophet ﷺ to the charge of invention",
+    "picture": {"kind": "boxes", "label": "His reply", "row": [
+      {"box": "trap", "title": "he invented it", "sub": ["their charge"]},
+      {"conn": "then"},
+      {"box": "people", "title": "you cannot save me", "sub": ["from Allah"]},
+      {"box": "idea", "title": "Allah is Witness", "sub": ["between me and you"]}]},
+    "key": {"label": "How it ends", "row": [
+      {"box": "trap", "title": "a warning", "sub": ["He knows what you say"]},
+      {"box": "reward", "title": "an open door", "sub": ["Forgiving, Merciful"]}]},
+    "then": "They said Muhammad ﷺ forged the Quran. He answers: {idea}if I lied about Allah, none of you could protect me from Him.{/idea} Ibn Kathir says the verse is a serious warning, yet it closes with {reward}the Forgiving, the Merciful{/reward}, an invitation to turn back.",
+    "now": "You have said harsh things about someone, maybe in a group chat. Then you hear they were honest all along. The verse shows a hard truth and a soft one together. {reward}The door to turn back is still open.{/reward}",
+    "old": "Once I have taken a side, I cannot go back on it.",
+    "new": "Even after I have been wrong out loud, Allah keeps forgiveness open.",
+    "try": "If you spoke unfairly about someone, quietly correct it with one person today.",
+    "related": ["72:22", "69:44", "25:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:9", "surah": 46, "ayah": 9, "place": "makkah",
+    "title": "Not something new, and not claiming to know the unseen.",
+    "subtitle": "The humility of the Prophet ﷺ about what he knew",
+    "picture": {"kind": "boxes", "label": "What he said of himself", "row": [
+      {"box": "people", "title": "not the first", "sub": ["Messengers came before"]},
+      {"box": "people", "title": "I do not know", "sub": ["what will be done with us"]},
+      {"box": "idea", "title": "I follow revelation", "sub": ["a clear warner"]}]},
+    "key": {"label": "Speaking about others' fate", "row": [
+      {"box": "trap", "title": "he is surely saved", "sub": ["I can tell"], "strike": true},
+      {"box": "idea", "title": "I hope for him", "sub": ["Allah knows"]}]},
+    "then": "Ibn Kathir records that when Uthman bin Maz'un died, a woman said Allah had surely honored him. The Prophet ﷺ asked how she knew, and said {idea}even he did not know what would happen to him{/idea}, though he hoped good for Uthman. {reward}Later she dreamed of Uthman with a flowing spring, and the Prophet ﷺ said it was his deeds.{/reward}",
+    "now": "At a funeral, someone says he is definitely in Paradise. Online, someone says another person is definitely lost. {trap}Both speak as if they can see the unseen.{/trap} {idea}Hope for people, pray for them, and leave the verdict to Allah.{/idea}",
+    "old": "I can tell who is good and who is lost.",
+    "new": "Even the Prophet ﷺ only hoped, so I can hope and pray and leave the judgment to Allah.",
+    "try": "Make a short prayer today for someone who passed away, without deciding their fate.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:10", "surah": 46, "ayah": 10, "place": "makkah",
+    "title": "Someone who knew the earlier books believed, while you refused.",
+    "subtitle": "A witness from those with scripture",
+    "picture": {"kind": "boxes", "label": "Two reactions", "row": [
+      {"box": "reward", "title": "a witness", "sub": ["from the Children of Israel", "recognized and believed"]},
+      {"box": "trap", "title": "you", "sub": ["arrogantly refused"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "trap", "title": "pride", "sub": ["blocks guidance"]},
+      {"box": "idea", "title": "recognizing truth", "sub": ["opens it"]}]},
+    "then": "Ibn Kathir says the earlier scriptures foretold things like what the Quran brings. {reward}A person from the Children of Israel recognized it and believed.{/reward} Many early scholars said this includes Abdullah bin Salam. {trap}The Makkan leaders, with no such knowledge, refused out of pride.{/trap}",
+    "now": "A new colleague with real experience says the plan is sound. You, with less experience, keep fighting it because it was not your idea. {trap}Pride makes you argue past the expert.{/trap} {idea}Notice who recognizes the truth, and why.{/idea}",
+    "old": "If I did not think of it first, I do not have to accept it.",
+    "new": "When people who know the subject recognize the truth, my pride should not be the one deciding.",
+    "try": "Ask one person who knows more than you for their view on something, and just listen.",
+    "related": ["28:53", "17:107"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:11", "surah": 46, "ayah": 11, "place": "makkah",
+    "title": "If it were good, the poor would not have got there first.",
+    "subtitle": "Judging truth by who follows it",
+    "picture": {"kind": "boxes", "label": "Who believed first", "row": [
+      {"box": "people", "title": "Bilal, Ammar, Suhayb, Khabbab", "sub": ["the weak and the poor"]},
+      {"conn": "were ahead of"},
+      {"box": "people", "title": "the elite", "sub": ["\"it cannot be good\""]}]},
+    "key": {"label": "How they judged", "row": [
+      {"box": "trap", "title": "status proves truth", "sub": ["we would know first"], "strike": true},
+      {"box": "idea", "title": "truth proves itself", "sub": ["whoever reaches it"]}]},
+    "then": "The leaders of Makkah said {trap}if this were any good, those people would not have beaten us to it.{/trap} They meant Bilal, Ammar, Suhayb, Khabbab, and servants. Ibn Kathir says they thought their status made them special to Allah. When they did not take guidance, they called it an ancient lie.",
+    "now": "You hear about a good idea, then see who is sharing it: the quiet kid, the cleaner, the new person. Something in you dismisses it. {trap}That is judging the message by the messenger's rank.{/trap} {idea}Good is good, whoever got there first.{/idea}",
+    "old": "If people of no status are into it, it is probably not worth much.",
+    "new": "Truth is not ranked by the status of the people who accept it.",
+    "try": "Listen fully today to someone you usually overlook, and thank them.",
+    "related": ["6:53"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "46:12", "surah": 46, "ayah": 12, "place": "makkah",
+    "title": "Not an old lie, but the same light that came to Musa.",
+    "subtitle": "The Quran confirms what came before it",
+    "picture": {"kind": "boxes", "label": "A line of guidance", "row": [
+      {"box": "idea", "title": "Book of Musa", "sub": ["a guide and a mercy"]},
+      {"conn": "confirmed by"},
+      {"box": "idea", "title": "this Book", "sub": ["in clear Arabic"]}]},
+    "key": {"label": "What it carries", "row": [
+      {"box": "trap", "title": "a warning", "sub": ["for those who do wrong"]},
+      {"box": "reward", "title": "good news", "sub": ["for those who do good"]}]},
+    "then": "They had called the Quran {trap}an ancient falsehood.{/trap} The verse answers: before it came the Book of Musa, a guide and a mercy, and this Book confirms it in clear Arabic. Ibn Kathir says it carries {trap}a warning to wrongdoers{/trap} and {reward}glad tidings to the believers.{/reward}",
+    "now": "Your grandmother's advice sounds old until your own child is born and you hear yourself repeating it. {idea}Old does not mean false. Sometimes old means proven.{/idea} The same guidance kept coming because people kept needing it.",
+    "old": "It is old, so it does not speak to my life now.",
+    "new": "The same guidance has come again and again because people have always needed it.",
+    "try": "Ask an older relative for one piece of advice that has never let them down.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

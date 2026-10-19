@@ -1,0 +1,493 @@
+[
+  {
+    "id": "95:1",
+    "surah": 95,
+    "ayah": 1,
+    "place": "makkah",
+    "title": "By the fig and the olive, and the land they mark.",
+    "subtitle": "Fruit that may point to a blessed place",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two readings",
+      "row": [
+        {
+          "box": "people",
+          "title": "the fruits",
+          "sub": [
+            "the fig and olive you eat"
+          ]
+        },
+        {
+          "box": "people",
+          "title": "the land",
+          "sub": [
+            "Jerusalem, where Isa was sent"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Why swear by them",
+      "row": [
+        {
+          "box": "plain",
+          "title": "just food",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "a land of prophets",
+          "sub": [
+            "the first of three places"
+          ]
+        }
+      ]
+    },
+    "then": "Mujahid said it is {idea}this fig and olive that you have{/idea}. Others said the olive points to the Masjid of Jerusalem. Some imams said the fig and olive mark {idea}the land where Isa was sent{/idea}. The Prophet ﷺ recited this surah while travelling.",
+    "now": "You drizzle olive oil on bread or split a fig at breakfast. Simple, ancient food. {idea}The same fruits grow on hills where prophets walked.{/idea} Even your breakfast can carry you back to them.",
+    "old": "A fig is just a fig.",
+    "new": "These fruits are sworn by, and they point to a land of prophets.",
+    "try": "Next time you eat an olive or a fig, say bismillah and remember the prophets of that land.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:2",
+    "surah": 95,
+    "ayah": 2,
+    "place": "makkah",
+    "title": "By Mount Sinai, where Allah spoke to Musa.",
+    "subtitle": "The second place of great revelation",
+    "picture": {
+      "kind": "boxes",
+      "label": "The second place",
+      "row": [
+        {
+          "box": "people",
+          "title": "Mount Sinai",
+          "sub": []
+        },
+        {
+          "conn": "where"
+        },
+        {
+          "box": "idea",
+          "title": "Allah spoke",
+          "sub": [
+            "to Musa bin Imran"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "The order of oaths",
+      "row": [
+        {
+          "box": "plain",
+          "title": "noble",
+          "sub": []
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "nobler",
+          "sub": []
+        },
+        {
+          "conn": "then"
+        },
+        {
+          "box": "reward",
+          "title": "noblest",
+          "sub": []
+        }
+      ]
+    },
+    "then": "Ka'b Al-Ahbar and others said it is {idea}the mountain on which Allah spoke to Musa{/idea}. Ibn Kathir says Allah swore by a noble place, {reward}then a nobler, then the noblest of all{/reward}.",
+    "now": "There are places in your life where something changed: the mosque where you first prayed properly, the hospital where a child was born. {idea}Places hold memories of meeting Allah's mercy.{/idea}",
+    "old": "Places are just geography.",
+    "new": "Some places are honoured because Allah spoke or acted there.",
+    "try": "Think of one place where you felt close to Allah, and make a short dua for it.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:3",
+    "surah": 95,
+    "ayah": 3,
+    "place": "makkah",
+    "title": "And by this secure city, Makkah.",
+    "subtitle": "The noblest of the three places",
+    "picture": {
+      "kind": "boxes",
+      "label": "Three places, three messengers",
+      "row": [
+        {
+          "box": "people",
+          "title": "Jerusalem",
+          "sub": [
+            "Isa"
+          ]
+        },
+        {
+          "box": "people",
+          "title": "Sinai",
+          "sub": [
+            "Musa"
+          ]
+        },
+        {
+          "box": "reward",
+          "title": "Makkah",
+          "sub": [
+            "Muhammad ﷺ"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What makes it secure",
+      "row": [
+        {
+          "box": "idea",
+          "title": "whoever enters",
+          "sub": [
+            "is safe"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Abbas, Mujahid and others agreed: {idea}this city of security is Makkah{/idea}. There is no difference of opinion about it. It is where whoever enters is safe, and {reward}where Muhammad ﷺ was sent{/reward}.",
+    "now": "You watch the live stream of the Kaaba on your phone at midnight, people circling in every hour. {reward}A city made safe by Allah.{/reward} You can carry a little of that safety by being a safe person for others.",
+    "old": "Safety depends on locks and walls.",
+    "new": "Allah can make a place safe, and asks me to be safe for others.",
+    "try": "Make sure one person around you today feels completely safe with you.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:4",
+    "surah": 95,
+    "ayah": 4,
+    "place": "makkah",
+    "title": "You were made in the best form.",
+    "subtitle": "What the three oaths were about",
+    "picture": {
+      "kind": "boxes",
+      "label": "The oath's answer",
+      "row": [
+        {
+          "box": "idea",
+          "title": "Allah",
+          "sub": []
+        },
+        {
+          "conn": "created"
+        },
+        {
+          "box": "reward",
+          "title": "man",
+          "sub": [
+            "upright, beautified"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "How you were made",
+      "row": [
+        {
+          "box": "trap",
+          "title": "an accident",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "the best mould",
+          "sub": [
+            "capable of the highest"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir: {reward}Allah created man in the best image and form, standing upright with straight limbs that He beautified{/reward}. The introduction notes the oath is by places of prophets, because {idea}human nature can reach as high as prophethood{/idea}.",
+    "now": "You catch yourself in the bathroom mirror and pick at everything: the nose, the skin, the weight. {reward}Allah describes your making as the best form.{/reward} The criticism in your head is not His view.",
+    "old": "There is so much wrong with how I look and who I am.",
+    "new": "I was made in the best form, with room to rise very high.",
+    "try": "Look in the mirror today and say alhamdulillah once, without adding a complaint.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:5",
+    "surah": 95,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "Then the same person can fall to the lowest.",
+    "subtitle": "From the best form to the lowest of the low",
+    "picture": {
+      "kind": "boxes",
+      "label": "Two ends of one life",
+      "row": [
+        {
+          "box": "reward",
+          "title": "best form",
+          "sub": [
+            "verse 4"
+          ]
+        },
+        {
+          "conn": "if he disobeys"
+        },
+        {
+          "box": "trap",
+          "title": "lowest of the low",
+          "sub": []
+        }
+      ]
+    },
+    "key": {
+      "label": "What decides the fall",
+      "row": [
+        {
+          "box": "people",
+          "title": "how I was made",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "what I do with it",
+          "sub": []
+        }
+      ]
+    },
+    "then": "Mujahid, Al-Hasan and others said this refers to the Fire, {trap}if they disobey Allah and deny the messengers{/trap}. Ibn Abbas also said it can mean frail old age, but Ibn Kathir prefers the first view, like {idea}man is in loss, except those who believe{/idea}.",
+    "now": "Someone with every gift, the looks, the brains, the family, can still end up cruel and empty. {trap}A good start does not guarantee a good end.{/trap} {idea}The verse puts the turning point in your choices.{/idea}",
+    "old": "I was born with good qualities, so I will be fine.",
+    "new": "A beautiful start can still fall; what I do with it decides.",
+    "try": "Ask yourself today: what is one gift Allah gave me that I am wasting?",
+    "related": [
+      "103:1",
+      "103:2",
+      "103:3"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:6",
+    "surah": 95,
+    "ayah": 6,
+    "place": "makkah",
+    "title": "Except those who believe and do good: an endless reward.",
+    "subtitle": "The way out of the fall",
+    "picture": {
+      "kind": "boxes",
+      "label": "The exception",
+      "row": [
+        {
+          "box": "idea",
+          "title": "believe",
+          "sub": []
+        },
+        {
+          "conn": "and"
+        },
+        {
+          "box": "idea",
+          "title": "do good",
+          "sub": []
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "reward",
+          "title": "a reward",
+          "sub": [
+            "that never ends"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Two things together",
+      "row": [
+        {
+          "box": "people",
+          "title": "belief alone",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "belief plus deeds",
+          "sub": [
+            "the exception"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir says the reward here is {reward}one that will not end{/reward}. Those who believe and do righteous deeds are taken out of the fall. {idea}Faith and action, side by side.{/idea}",
+    "now": "Your salary stops when you leave the job. Your phone dies when you forget to charge it. {reward}This reward is described as never cut off.{/reward} It starts with something as small as a kind word today.",
+    "old": "Good things in life always run out.",
+    "new": "Belief and good deeds earn a reward that never runs out.",
+    "try": "Do one good deed today and pair it with a quiet act of faith, like a dhikr.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:7",
+    "surah": 95,
+    "ayah": 7,
+    "place": "makkah",
+    "title": "After all this, what makes you deny the Judgment?",
+    "subtitle": "A question put straight to the reader",
+    "picture": {
+      "kind": "boxes",
+      "label": "The argument",
+      "row": [
+        {
+          "box": "people",
+          "title": "He made you",
+          "sub": [
+            "you know the beginning"
+          ]
+        },
+        {
+          "conn": "so"
+        },
+        {
+          "box": "idea",
+          "title": "He can repeat it",
+          "sub": [
+            "which is easier"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "The question",
+      "row": [
+        {
+          "box": "trap",
+          "title": "it cannot happen",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "what stops you believing?",
+          "sub": []
+        }
+      ]
+    },
+    "then": "Ibn Kathir says this addresses every {idea}son of Adam{/idea}. You know the beginning, and {idea}He who began creation can repeat it, which is easier{/idea}. So what makes you deny the final return?",
+    "now": "You plan your career for years ahead and never plan for the one appointment that is certain. {idea}The verse turns to you directly and asks why.{/idea} Not to shame you. To wake you.",
+    "old": "The Day of Judgment feels too far off to think about.",
+    "new": "The One who made me once can easily bring me back, so the Day is real.",
+    "try": "Spend two minutes today thinking about meeting Allah, then do one thing to prepare.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "95:8",
+    "surah": 95,
+    "ayah": 8,
+    "place": "makkah",
+    "title": "Is Allah not the most just of judges?",
+    "subtitle": "Why a Judgment Day must come",
+    "picture": {
+      "kind": "boxes",
+      "label": "His justice",
+      "row": [
+        {
+          "box": "people",
+          "title": "the wronged",
+          "sub": [
+            "in this life"
+          ]
+        },
+        {
+          "conn": "will get justice from"
+        },
+        {
+          "box": "idea",
+          "title": "the best Judge",
+          "sub": [
+            "who wrongs no one"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "Unfinished cases",
+      "row": [
+        {
+          "box": "trap",
+          "title": "wrongs go unanswered",
+          "sub": [],
+          "strike": true
+        },
+        {
+          "box": "reward",
+          "title": "every case settled",
+          "sub": [
+            "on the Day"
+          ]
+        }
+      ]
+    },
+    "then": "Ibn Kathir: {idea}is He not the best of judges, who does not oppress anyone?{/idea} From His justice, he says, is that {reward}He will give retribution to the one who was wronged against whoever wronged him{/reward}.",
+    "now": "Someone cheated you out of money, or spread a lie, and nothing happened to them. It eats at you. {reward}The case is not closed.{/reward} {idea}Allah is the Judge, and He also sees what you did to others.{/idea}",
+    "old": "Some wrongs will never be made right.",
+    "new": "The most just Judge will settle every wrong, including mine.",
+    "try": "Think of anyone you may have wronged, and make it right or ask their forgiveness this week.",
+    "related": [],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  }
+]

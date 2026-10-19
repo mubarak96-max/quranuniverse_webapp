@@ -1,0 +1,207 @@
+[
+  {
+    "id": "2:188", "surah": 2, "ayah": 188, "place": "madinah",
+    "title": "Winning the case does not make the money yours.",
+    "subtitle": "A ruling in your favor cannot change the truth",
+    "picture": {"kind": "boxes", "label": "The trick", "row": [
+      {"box": "people", "title": "a debt", "sub": ["no written proof"]},
+      {"conn": "denied before"},
+      {"box": "people", "title": "the judge", "sub": ["rules on what he hears"]},
+      {"conn": "you take"},
+      {"box": "trap", "title": "a piece of fire", "sub": ["and you knew"]}]},
+    "key": {"label": "What the ruling changes", "row": [
+      {"box": "trap", "title": "the verdict", "sub": ["makes it mine"], "strike": true},
+      {"box": "idea", "title": "the truth", "sub": ["stays the same before Allah"]}]},
+    "then": "Ibn 'Abbas said this is about someone who borrowed without proof, then {trap}denies the loan before the authorities{/trap} while knowing it is not his. The Prophet ﷺ said he was only human and might rule for the more persuasive party, but {trap}whoever takes another's right that way takes a piece of fire.{/trap}",
+    "now": "The deposit your landlord cannot prove you owe back. The client who never put the agreement in writing. A clever argument might win. {idea}Allah already knows whose money it is.{/idea} Qatadah said the dispute will meet you again on the Day.",
+    "old": "If no one can prove it, it is fair game.",
+    "new": "A verdict can go my way and still leave me holding what is not mine.",
+    "try": "Return or settle one thing you owe, even if the other person forgot.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:189", "surah": 2, "ayah": 189, "place": "madinah",
+    "title": "Righteousness is not the back door. It is taqwa.",
+    "subtitle": "New moons, old customs, and the real thing",
+    "picture": {"kind": "boxes", "label": "Two answers in one", "row": [
+      {"box": "people", "title": "they ask", "sub": ["about the new moons"]},
+      {"conn": "answer"},
+      {"box": "idea", "title": "markers of time", "sub": ["for people and Hajj"]},
+      {"box": "trap", "title": "the back-door custom", "sub": ["seen as piety"], "strike": true}]},
+    "key": {"label": "Where piety lies", "row": [
+      {"box": "trap", "title": "strange outward rituals", "sub": ["climbing over walls"], "strike": true},
+      {"box": "idea", "title": "taqwa", "sub": ["enter by the door"]}]},
+    "then": "People asked the Prophet ﷺ about the crescent moons, and the answer was practical: {idea}they mark time for people{/idea}, for worship and for Hajj. Al-Bara' said that before Islam people {trap}entered houses from the back{/trap} after assuming ihram, thinking it was piety. The verse says righteousness is taqwa.",
+    "now": "A cousin swears you must do a special ritual nobody can trace. A post says one odd habit guarantees blessing. {trap}It looks devout.{/trap} {idea}The verse asks a simpler question: are you mindful of Allah? Then use the front door.{/idea}",
+    "old": "The harder or stranger a practice looks, the more pious it is.",
+    "new": "Real righteousness is taqwa, not invented outward rituals.",
+    "try": "Look at the next new moon and use it to plan one act of worship for the month.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:190", "surah": 2, "ayah": 190, "place": "madinah",
+    "title": "Even in conflict: do not transgress.",
+    "subtitle": "Limits that hold when tempers do not",
+    "picture": {"kind": "boxes", "label": "The boundary", "row": [
+      {"box": "people", "title": "those who attack", "sub": ["the only ones faced"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "transgression", "sub": ["harming those not involved"]},
+      {"box": "idea", "title": "Allah dislikes it", "sub": ["the line holds"]}]},
+    "key": {"label": "In the heat of it", "row": [
+      {"box": "trap", "title": "anything goes", "sub": ["they started it"], "strike": true},
+      {"box": "idea", "title": "limits remain", "sub": ["no excess"]}]},
+    "then": "Abu Al-'Aliyah said this was the first verse about fighting revealed in Madinah, and the Prophet ﷺ {idea}fought only those who fought him.{/idea} Al-Hasan Al-Basri said transgression includes {trap}harming women, children, the elderly, worshippers in their houses of worship, and needlessly burning trees or killing animals.{/trap}",
+    "now": "A fight with a sibling, an ex, a coworker. In the heat, you want to use everything: their secrets, their family, their past. {idea}The verse draws a line even in real conflict.{/idea} Do not drag in people who were never part of it, and do not go past what is fair.",
+    "old": "Once someone wrongs me, I can hit back however I like.",
+    "new": "Even when I am wronged, Allah's limits still bind me.",
+    "try": "In your next argument, name one line you will not cross, and keep it.",
+    "related": ["9:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:191", "surah": 2, "ayah": 191, "place": "madinah",
+    "title": "Turning people from Allah is worse than killing.",
+    "subtitle": "Measuring harm honestly, and respecting the sanctuary",
+    "picture": {"kind": "boxes", "label": "What the verse weighs", "row": [
+      {"box": "trap", "title": "killing", "sub": ["a great harm"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "fitnah", "sub": ["shirk, blocking His path"]},
+      {"conn": "is worse"},
+      {"box": "idea", "title": "the sanctuary", "sub": ["not to be violated first"]}]},
+    "key": {"label": "Who started it", "row": [
+      {"box": "trap", "title": "the believers are aggressors", "sub": ["for defending"], "strike": true},
+      {"box": "idea", "title": "the greater wrong", "sub": ["was expelling and persecuting"]}]},
+    "then": "The early Muslims had been driven from their homes in Makkah. Ibn Kathir explains that those fighting them were {trap}associating partners with Allah and blocking His path{/trap}, which the scholars called worse than killing. Yet even then, {idea}no fighting at Al-Masjid Al-Haram unless attacked there first.{/idea}",
+    "now": "Think about the harms you do not count. Mocking someone's prayer until they stop. Making a younger relative ashamed of their faith. {trap}It leaves no bruise.{/trap} {idea}The verse says turning someone away from Allah is among the heaviest harms there is.{/idea}",
+    "old": "Only physical harm is real harm.",
+    "new": "Pushing someone away from Allah is a deep harm, even if no one sees it.",
+    "try": "Encourage, instead of mocking, someone trying to come closer to Allah.",
+    "related": ["48:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:192", "surah": 2, "ayah": 192, "place": "madinah",
+    "title": "If they stop, Allah is Forgiving, Merciful.",
+    "subtitle": "The door that stays open even to enemies",
+    "picture": {"kind": "boxes", "label": "The turning point", "row": [
+      {"box": "trap", "title": "hostility", "sub": ["ongoing"]},
+      {"conn": "if they cease"},
+      {"box": "reward", "title": "Forgiving", "sub": ["the past let go"]},
+      {"box": "reward", "title": "Merciful", "sub": ["the door open"]}]},
+    "key": {"label": "When the other side stops", "row": [
+      {"box": "trap", "title": "keep punishing", "sub": ["they deserve it"], "strike": true},
+      {"box": "reward", "title": "let it end", "sub": ["Allah forgives"]}]},
+    "then": "Right after the hardest verses about fighting comes one short line: {reward}if they cease, Allah is Forgiving and Merciful.{/reward} Ibn Kathir notes how at Hudaybiyyah, when news came that 'Uthman had not been killed, {idea}the Prophet ﷺ abandoned the fight and returned to peace.{/idea}",
+    "now": "Your brother finally stops the silent treatment and sends a message. Part of you wants to make him pay a bit longer. {reward}The verse ends conflict with mercy, not with one more blow.{/reward} When someone stops, let it stop.",
+    "old": "Once someone has hurt me, I should keep them at a distance forever.",
+    "new": "When the other side stops, I make room for Allah's forgiveness and mercy.",
+    "try": "Reply warmly to one person who has tried to end a quarrel with you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:193", "surah": 2, "ayah": 193, "place": "madinah",
+    "title": "No aggression except against the wrongdoers.",
+    "subtitle": "The aim is an end to oppression, not endless war",
+    "picture": {"kind": "boxes", "label": "The aim", "row": [
+      {"box": "trap", "title": "fitnah", "sub": ["persecution, shirk"]},
+      {"conn": "until"},
+      {"box": "idea", "title": "worship is for Allah", "sub": ["free to be given"]},
+      {"conn": "if they cease"},
+      {"box": "reward", "title": "no hostility", "sub": ["except against oppressors"]}]},
+    "key": {"label": "Where it stops", "row": [
+      {"box": "trap", "title": "keep going", "sub": ["against everyone"], "strike": true},
+      {"box": "idea", "title": "stop when they stop", "sub": ["only wrongdoing is opposed"]}]},
+    "then": "The verse sets a purpose and an endpoint: until {trap}fitnah{/trap} is gone and worship is for Allah. {idea}If they cease, there is no aggression except against wrongdoers.{/idea} Abu Al-'Aliyah said the Prophet ﷺ fought only those who fought him and avoided non-combatants.",
+    "now": "A dispute in the family has a clear wrong at its center. Once it is fixed, the anger often keeps spreading: to the in-laws, the kids, anyone on \"their side.\" {idea}The verse narrows it: oppose the wrong, not everyone near it.{/idea}",
+    "old": "Everyone connected to the person who wronged me is part of the problem.",
+    "new": "Only wrongdoing is to be opposed, and when it stops, so do I.",
+    "try": "Be kind today to someone you have treated coldly only because of who they are connected to.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:194", "surah": 2, "ayah": 194, "place": "madinah",
+    "title": "Respond only with the like, and fear Allah.",
+    "subtitle": "Justice measured, not anger unleashed",
+    "picture": {"kind": "boxes", "label": "The measure", "row": [
+      {"box": "trap", "title": "what was done", "sub": ["the wrong suffered"]},
+      {"conn": "no more than"},
+      {"box": "idea", "title": "the like of it", "sub": ["equal, not excess"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Allah is with", "sub": ["those who fear Him"]}]},
+    "key": {"label": "How much is fair", "row": [
+      {"box": "trap", "title": "double it", "sub": ["teach them a lesson"], "strike": true},
+      {"box": "idea", "title": "the like, at most", "sub": ["then taqwa"]}]},
+    "then": "Ibn Kathir says the verse relates to the Prophet ﷺ being turned away from 'Umrah in a sacred month, then entering the next year. Jabir said he {idea}would not fight in the sacred months unless first attacked.{/idea} Ibn Kathir says the verse {idea}ordains justice even with the polytheists{/idea}, and then: {reward}Allah is with those who fear Him.{/reward}",
+    "now": "Your colleague embarrassed you in a meeting. You plan to embarrass them twice as badly at the next one. {trap}Revenge always wants interest.{/trap} {idea}The verse caps it at the like, then turns your eyes to Allah.{/idea}",
+    "old": "If someone hurts me, they should get back more than they gave.",
+    "new": "Justice never goes beyond the wrong, and taqwa often asks for less.",
+    "try": "Next time you want to get even, do less than the like, or nothing, for Allah.",
+    "related": ["16:126"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:195", "surah": 2, "ayah": 195, "place": "madinah",
+    "title": "Holding back your money can be your ruin.",
+    "subtitle": "Spend, do not destroy yourself, and do good",
+    "picture": {"kind": "boxes", "label": "The command", "row": [
+      {"box": "reward", "title": "spend", "sub": ["in Allah's way"]},
+      {"box": "trap", "title": "destruction", "sub": ["by your own hands"]},
+      {"box": "reward", "title": "ihsan", "sub": ["Allah loves the doers of good"]}]},
+    "key": {"label": "What destruction meant", "row": [
+      {"box": "trap", "title": "a brave risk", "sub": ["the obvious guess"], "strike": true},
+      {"box": "trap", "title": "holding back", "sub": ["settling into comfort"]}]},
+    "then": "When people said a fighter was throwing himself to destruction, Abu Ayyub Al-Ansari corrected them: the verse came about the Ansar, who said {trap}let us go back to our estates and attend to them{/trap} once Islam was strong. Ibn 'Abbas said it is about {trap}refraining from spending for Allah.{/trap}",
+    "now": "Your salary went up. The savings app shows a nice number. The charity request sits unread. {trap}The danger the verse names is not reckless giving; it is comfortable holding.{/trap} {reward}Allah loves those who do good beautifully.{/reward}",
+    "old": "Keeping my money safe is the careful, responsible thing.",
+    "new": "Holding back from good can be the real ruin. Giving is safety.",
+    "try": "Set up one small regular donation today, even a tiny amount.",
+    "related": ["4:84"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:196", "surah": 2, "ayah": 196, "place": "madinah",
+    "title": "Complete it for Allah, even when the road is blocked.",
+    "subtitle": "Hajj and 'Umrah, and the day they were stopped",
+    "picture": {"kind": "boxes", "label": "Hudaybiyyah", "row": [
+      {"box": "people", "title": "1400 Companions", "sub": ["set out for the House"]},
+      {"conn": "were"},
+      {"box": "trap", "title": "prevented", "sub": ["the road closed"]},
+      {"conn": "yet"},
+      {"box": "reward", "title": "a way to complete", "sub": ["for Allah"]}]},
+    "key": {"label": "When plans break", "row": [
+      {"box": "trap", "title": "it all counts for nothing", "sub": ["we did not arrive"], "strike": true},
+      {"box": "idea", "title": "for Allah", "sub": ["He gave a way to finish"]}]},
+    "then": "Ibn Kathir says part of this verse came in the year of Hudaybiyyah, when {trap}the Prophet ﷺ and 1400 Companions were stopped from reaching the House.{/trap} They hesitated when told to end their ihram, until they saw him ﷺ shave his head, then followed. {idea}Complete it for Allah{/idea}, even when the plan changes. The details are for scholars.",
+    "now": "You saved for years to go, and the visa was refused. Or you set out to finish the Quran this year and illness stopped you. {idea}The verse is about intention held for Allah and finished in the way He allows.{/idea} When you hesitate, watch how the Prophet ﷺ acted.",
+    "old": "If I cannot do it the way I planned, the effort was wasted.",
+    "new": "What I begin for Allah, I finish for Allah, in the way He makes possible.",
+    "try": "Pick one good thing you started and left unfinished. Do one step toward it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:197", "surah": 2, "ayah": 197, "place": "madinah",
+    "title": "Pack provisions, but the best provision is taqwa.",
+    "subtitle": "No foul talk, no sin, no quarrelling on the way",
+    "picture": {"kind": "boxes", "label": "On the journey", "row": [
+      {"box": "trap", "title": "no foul talk", "sub": ["rafath"], "strike": true},
+      {"box": "trap", "title": "no sin", "sub": ["fusuq"], "strike": true},
+      {"box": "trap", "title": "no quarrel", "sub": ["jidal"], "strike": true},
+      {"box": "reward", "title": "best provision", "sub": ["taqwa"]}]},
+    "key": {"label": "What you pack", "row": [
+      {"box": "people", "title": "food and money", "sub": ["needed, yes"]},
+      {"conn": "but best"},
+      {"box": "idea", "title": "taqwa", "sub": ["carried in the heart"]}]},
+    "then": "The verse sets the months of Hajj and what to leave behind once you enter it: {trap}intimacy, sin, and disputing.{/trap} Ibn Kathir notes some scholars explained fusuq through the hadith that {trap}cursing a Muslim is fusuq.{/trap} Then: {reward}whatever good you do, Allah knows it{/reward}, and the best provision is taqwa.",
+    "now": "Long queues, heat, crowds, a delayed bus. Hajj or a family road trip, this is where tempers flare. {idea}You packed snacks and chargers. Did you pack patience?{/idea} The verse says the best thing you carry is mindfulness of Allah.",
+    "old": "As long as I prepared well, the trip will go fine.",
+    "new": "The most important thing I carry on any journey is taqwa.",
+    "try": "On your next trip, decide beforehand that you will not argue, and keep it.",
+    "related": ["9:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

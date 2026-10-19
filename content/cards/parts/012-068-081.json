@@ -1,0 +1,284 @@
+[
+  {
+    "id": "12:68", "surah": 12, "ayah": 68, "place": "makkah",
+    "title": "The gates did not change Allah's decree, but eased a father's heart.",
+    "subtitle": "What a precaution really does",
+    "picture": {"kind": "boxes", "label": "The different gates", "row": [
+      {"box": "people", "title": "they obeyed", "sub": ["entered as told"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "no shield", "sub": ["against Allah's will"]},
+      {"conn": "only"},
+      {"box": "reward", "title": "a need fulfilled", "sub": ["in Ya'qub's heart"]}]},
+    "key": {"label": "Ya'qub's knowledge", "row": [
+      {"box": "trap", "title": "precaution controls fate", "sub": ["if I do this, all is safe"], "strike": true},
+      {"box": "idea", "title": "precaution is a duty", "sub": ["the outcome is Allah's"]}]},
+    "then": "The sons entered Egypt by different gates as their father said. Allah says it {trap}did not help them at all against His will{/trap}. It was {reward}a need in Ya'qub's heart{/reward} that he fulfilled. Qatadah said he had knowledge and acted on it, but most people do not know.",
+    "now": "You pack the first-aid kit, read the reviews, text when you arrive. Some of it is really for your own peace of mind. {idea}That is fine. Just do not mistake it for control.{/idea}",
+    "old": "If something bad happens, my precautions failed.",
+    "new": "Precautions settle my heart and do my part, the outcome was always Allah's.",
+    "try": "Notice one worry-habit today and say: I have done my part, the rest is with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:69", "surah": 12, "ayah": 69, "place": "makkah",
+    "title": "I am your brother, do not grieve over what they did.",
+    "subtitle": "Yusuf reveals himself to Binyamin in private",
+    "picture": {"kind": "boxes", "label": "In private", "row": [
+      {"box": "people", "title": "Yusuf", "sub": ["the 'Aziz"]},
+      {"conn": "draws close"},
+      {"box": "people", "title": "Binyamin", "sub": ["his full brother"]},
+      {"conn": "tells him"},
+      {"box": "reward", "title": "I am your brother", "sub": ["do not grieve"]}]},
+    "key": {"label": "What he chose to share", "row": [
+      {"box": "trap", "title": "the full grievance", "sub": ["look what they did"], "strike": true},
+      {"box": "idea", "title": "comfort", "sub": ["do not be sad"]}]},
+    "then": "Yusuf honored all the brothers as guests, then {idea}met Binyamin alone{/idea} and told him his story. Ibn Kathir says he told him: {reward}grieve not for what they did to me.{/reward} He asked Binyamin to keep it secret, and planned to keep him in Egypt with honor.",
+    "now": "Your younger sibling is going through what you went through with the family years ago. You could tell them every bitter detail. {idea}Or you could sit them down and say: I am here, do not be sad.{/idea}",
+    "old": "When I finally speak, I will tell them how badly I was treated.",
+    "new": "My first words to someone hurting can be comfort, not my old grievance.",
+    "try": "Message a sibling or close friend today just to say: I am here for you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:70", "surah": 12, "ayah": 70, "place": "makkah",
+    "title": "The king's bowl hidden in Binyamin's bag.",
+    "subtitle": "A plan to keep his brother with him",
+    "picture": {"kind": "boxes", "label": "The plan", "row": [
+      {"box": "people", "title": "the bowl", "sub": ["the king's measure"]},
+      {"conn": "placed in"},
+      {"box": "people", "title": "Binyamin's bag", "sub": ["he knew the plan"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the cry", "sub": ["you are thieves"]}]},
+    "key": {"label": "What it looked like", "row": [
+      {"box": "trap", "title": "a theft", "sub": ["to the brothers"]},
+      {"conn": "really"},
+      {"box": "idea", "title": "a reunion", "sub": ["brother kept with brother"]}]},
+    "then": "After supplying them, Yusuf had {idea}the king's bowl placed in Binyamin's bag{/idea}. Ibn Kathir notes it was used for drinking and, in the drought, for measuring grain. Then a crier called out: {trap}O caravan, you are thieves!{/trap}",
+    "now": "Sometimes a scene looks like a disaster from where you stand: a sudden transfer at work, a delayed flight, an awkward misunderstanding. {idea}You do not see the plan behind it.{/idea} It may be bringing someone together.",
+    "old": "If it looks like a disaster, it must be one.",
+    "new": "What looks like trouble from outside can be part of a plan for good.",
+    "try": "Think of one recent setback and ask: what good might be hidden inside this?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:71", "surah": 12, "ayah": 71, "place": "makkah",
+    "title": "What have you lost? they asked, turning back.",
+    "subtitle": "The brothers face the accusation",
+    "picture": {"kind": "boxes", "label": "The caravan stops", "row": [
+      {"box": "people", "title": "the crier", "sub": ["you are thieves"]},
+      {"conn": "and they turn"},
+      {"box": "people", "title": "the brothers", "sub": ["what is missing?"]}]},
+    "key": {"label": "Their first response", "row": [
+      {"box": "trap", "title": "panic or anger", "sub": ["how dare you"], "strike": true},
+      {"box": "idea", "title": "a question", "sub": ["what have you lost?"]}]},
+    "then": "Hearing the cry, the brothers turned toward the men. Ibn Kathir says they looked at the one calling out and simply asked: {idea}what is it that you have lost?{/idea} {trap}The men who once lied about Yusuf were now the ones accused.{/trap}",
+    "now": "Security stops you at the shop exit. A colleague says something has gone missing from the office. Your heart races. {idea}Asking a calm question first often helps more than defending yourself loudly.{/idea}",
+    "old": "When accused, I need to fight back immediately.",
+    "new": "A calm question can be the strongest first answer to an accusation.",
+    "try": "The next time someone challenges you, ask one calm question before you defend yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:72", "surah": 12, "ayah": 72, "place": "makkah",
+    "title": "The king's measure is missing, and a reward is offered.",
+    "subtitle": "A camel-load for whoever brings it",
+    "picture": {"kind": "boxes", "label": "The announcement", "row": [
+      {"box": "trap", "title": "missing", "sub": ["the king's measure"]},
+      {"conn": "reward"},
+      {"box": "reward", "title": "a camel-load", "sub": ["for whoever finds it"]},
+      {"box": "people", "title": "I guarantee it", "sub": ["the herald's word"]}]},
+    "key": {"label": "How it was handled", "row": [
+      {"box": "trap", "title": "search them all roughly", "sub": ["force"], "strike": true},
+      {"box": "idea", "title": "a clear offer", "sub": ["with a guarantee"]}]},
+    "then": "The men said: {trap}we are missing the king's measuring bowl.{/trap} Whoever brings it gets {reward}a camel-load{/reward} as reward, and the herald added: I guarantee it. Ibn Kathir says this was an assurance that the reward would be delivered.",
+    "now": "You lose your wallet and offer a reward online. A boss loses a file and offers credit to whoever finds it. {idea}Clear terms and a promise you will honor make people trust you.{/idea}",
+    "old": "When something is lost, suspicion is the fastest route.",
+    "new": "A clear offer, backed by a real guarantee, brings things to light more fairly.",
+    "try": "If you promise someone something today, state it clearly and then keep it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:73", "surah": 12, "ayah": 73, "place": "makkah",
+    "title": "By Allah, you know we are not thieves.",
+    "subtitle": "The brothers point to their own conduct",
+    "picture": {"kind": "boxes", "label": "Their defense", "row": [
+      {"box": "people", "title": "By Allah", "sub": ["a strong oath"]},
+      {"box": "idea", "title": "our conduct", "sub": ["you have seen it"]},
+      {"box": "people", "title": "not corruptors", "sub": ["not thieves"]}]},
+    "key": {"label": "What they relied on", "row": [
+      {"box": "people", "title": "loud denial", "sub": ["just words"], "strike": true},
+      {"box": "idea", "title": "track record", "sub": ["you know us"]}]},
+    "then": "Accused, the brothers swore: {idea}by Allah, you know we did not come to cause corruption, and we are not thieves.{/idea} Ibn Kathir says they meant: since you met us, our good conduct has shown that {reward}theft is not in our character.{/reward}",
+    "now": "Your manager questions your expenses. You do not need to shout. You can say: you have seen how I work for three years. {idea}A good record speaks before you do.{/idea} So build it on the ordinary days.",
+    "old": "When accused, only my words can defend me.",
+    "new": "The way I behave every day becomes my defense on the hard day.",
+    "try": "Do one ordinary task today so honestly that it would stand up if anyone checked.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:74", "surah": 12, "ayah": 74, "place": "makkah",
+    "title": "And if you are lying, what is the penalty?",
+    "subtitle": "The brothers are asked to set their own terms",
+    "picture": {"kind": "boxes", "label": "The question", "row": [
+      {"box": "people", "title": "Yusuf's men", "sub": ["if you are liars"]},
+      {"conn": "ask"},
+      {"box": "people", "title": "the brothers", "sub": ["name the penalty"]}]},
+    "key": {"label": "Who decides", "row": [
+      {"box": "people", "title": "the accuser", "sub": ["sets the punishment"], "strike": true},
+      {"box": "idea", "title": "the accused", "sub": ["names their own law"]}]},
+    "then": "Yusuf's men did not impose a punishment. They asked the brothers: {idea}what should the thief's penalty be, if you turn out to be liars?{/idea} Ibn Kathir says they asked what the punishment would be if the thief was {trap}one of them{/trap}.",
+    "now": "Your child broke the rule. You ask: what do you think is fair? You are surprised how strict they are with themselves. {idea}The rules we name for others are the rules we will be held to.{/idea}",
+    "old": "The penalty is for other people, so I can make it harsh.",
+    "new": "The standard I set for others may be the one I am judged by.",
+    "try": "Before you judge someone today, ask if you would accept the same verdict yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:75", "surah": 12, "ayah": 75, "place": "makkah",
+    "title": "Whoever has it in his bag, he himself is the price.",
+    "subtitle": "The brothers pronounce their own law",
+    "picture": {"kind": "boxes", "label": "Their verdict", "row": [
+      {"box": "people", "title": "the bag", "sub": ["where it is found"]},
+      {"conn": "its owner"},
+      {"box": "trap", "title": "is held", "sub": ["as the penalty"]},
+      {"box": "people", "title": "our law", "sub": ["from Ibrahim"]}]},
+    "key": {"label": "What they did not see", "row": [
+      {"box": "people", "title": "safe, it is not us", "sub": ["we did nothing"], "strike": true},
+      {"box": "idea", "title": "their own law", "sub": ["opens Yusuf's plan"]}]},
+    "then": "The brothers said: {trap}he in whose bag it is found will himself be the penalty.{/trap} Ibn Kathir says this was {idea}the law of Ibrahim{/idea}, that the thief is given to the one he stole from. This is exactly what Yusuf wanted.",
+    "now": "You confidently say: anyone who misses the deadline loses the bonus. Then your own task is the one that is late. {idea}Speak your rules carefully. They have a way of coming back.{/idea}",
+    "old": "My strict rules are only for people who break them.",
+    "new": "The law I announce with confidence can be the one that finds me.",
+    "try": "Rephrase one strict rule you hold for others so you would be fine living by it too.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:76", "surah": 12, "ayah": 76, "place": "makkah",
+    "title": "Above every knower is One who knows more.",
+    "subtitle": "Allah's plan for Yusuf, and the limit of all knowledge",
+    "picture": {"kind": "boxes", "label": "The search", "row": [
+      {"box": "people", "title": "their bags", "sub": ["searched first"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "Binyamin's bag", "sub": ["the bowl"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "brother kept", "sub": ["by their own law"]}]},
+    "key": {"label": "Ladder of knowledge", "row": [
+      {"box": "people", "title": "I know enough", "sub": ["top of the class"], "strike": true},
+      {"box": "idea", "title": "always someone above", "sub": ["ending with Allah"]}]},
+    "then": "Yusuf searched their bags {idea}before his brother's{/idea} to complete the plan. Allah says: thus did We plan for Yusuf. By the king's law he could not take his brother, but {reward}by their own law he could.{/reward} Qatadah said: over every person of knowledge is someone more knowing, until all knowledge ends with Allah.",
+    "now": "You are the expert in the room, the one everyone asks. Then a new hire explains something you never understood. {idea}There is always someone who knows more, and above everyone, Allah.{/idea}",
+    "old": "I am the one in this room who knows best.",
+    "new": "Every bit of knowledge I have sits under someone else's, and all of it under Allah's.",
+    "try": "Ask someone today to teach you one thing you do not know.",
+    "related": ["58:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:77", "surah": 12, "ayah": 77, "place": "makkah",
+    "title": "He heard the old lie about him and kept silent.",
+    "subtitle": "Yusuf holds back his reply",
+    "picture": {"kind": "boxes", "label": "What was said", "row": [
+      {"box": "trap", "title": "his brother stole too", "sub": ["blaming the absent Yusuf"]},
+      {"conn": "Yusuf"},
+      {"box": "idea", "title": "keeps it inside", "sub": ["does not reveal himself"]},
+      {"box": "people", "title": "Allah knows best", "sub": ["what you describe"]}]},
+    "key": {"label": "His response", "row": [
+      {"box": "trap", "title": "expose them now", "sub": ["it was me you sold"], "strike": true},
+      {"box": "idea", "title": "hold it in", "sub": ["leave it to Allah"]}]},
+    "then": "When the bowl was found, the brothers said: {trap}if he stole, a brother of his stole before{/trap}, meaning Yusuf, to distance themselves. Ibn Kathir says Yusuf {idea}kept his reply to himself{/idea} and did not say it aloud: you are in a worse position, and Allah knows best what you describe.",
+    "now": "In the family group, someone brings up an old, false story about you. You know the truth. You could send the long, angry reply. {idea}Sometimes the strongest answer is the one you keep inside and leave with Allah.{/idea}",
+    "old": "If someone lies about me, I must correct it immediately.",
+    "new": "Not every unfair remark needs my answer; Allah knows the truth of it.",
+    "try": "Next time someone says something unfair, wait before replying, and say inside: Allah knows best.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:78", "surah": 12, "ayah": 78, "place": "makkah",
+    "title": "His father is old, take one of us instead.",
+    "subtitle": "The brothers now plead for their father's heart",
+    "picture": {"kind": "boxes", "label": "Their plea", "row": [
+      {"box": "people", "title": "an old father", "sub": ["comforted by this son"]},
+      {"conn": "so"},
+      {"box": "people", "title": "take one of us", "sub": ["in his place"]},
+      {"box": "idea", "title": "you do good", "sub": ["so be merciful"]}]},
+    "key": {"label": "How they had changed", "row": [
+      {"box": "trap", "title": "years ago", "sub": ["got rid of the favored son"]},
+      {"conn": "now"},
+      {"box": "idea", "title": "today", "sub": ["offer themselves for him"]}]},
+    "then": "Once Binyamin was to be held, the brothers begged for mercy. Ibn Kathir says they told the 'Aziz: {idea}he has an old father who loves him{/idea}, comforted by him for the son he lost. {reward}Take one of us in his place.{/reward} We see you are a doer of good.",
+    "now": "The sibling who used to be jealous of you is now the one at the hospital bed, covering your shifts. {idea}People can change.{/idea} The ones who once hurt someone can grow into the ones who protect.",
+    "old": "People who did wrong once will always be like that.",
+    "new": "The same people who once caused harm can grow into protectors.",
+    "try": "Notice one way someone who hurt you in the past has grown, and tell them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:79", "surah": 12, "ayah": 79, "place": "makkah",
+    "title": "Taking the innocent for the guilty would be injustice.",
+    "subtitle": "Yusuf refuses a swap",
+    "picture": {"kind": "boxes", "label": "His answer", "row": [
+      {"box": "people", "title": "their offer", "sub": ["take one of us"]},
+      {"conn": "refused"},
+      {"box": "idea", "title": "only the one", "sub": ["with whom we found it"]},
+      {"box": "trap", "title": "otherwise", "sub": ["we would be unjust"]}]},
+    "key": {"label": "What justice means", "row": [
+      {"box": "people", "title": "someone pays", "sub": ["it does not matter who"], "strike": true},
+      {"box": "idea", "title": "the right one", "sub": ["never the innocent"]}]},
+    "then": "Yusuf answered: {idea}Allah forbid that we take anyone except the one with whom we found our property.{/idea} Ibn Kathir explains, according to the judgement they gave, {trap}taking an innocent man instead would be wrongdoing.{/trap}",
+    "now": "The whole class gets detention for one pupil. The team loses its bonus for one person's mistake. Someone has to pay, so anyone will do. {idea}Justice cares who.{/idea}",
+    "old": "As long as someone takes the blame, the matter is settled.",
+    "new": "Blaming the wrong person is its own injustice, even when it is convenient.",
+    "try": "If you are tempted to punish a group for one person's fault, address only that person.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:80", "surah": 12, "ayah": 80, "place": "makkah",
+    "title": "I will not leave until my father permits me.",
+    "subtitle": "The eldest brother remembers two broken promises",
+    "picture": {"kind": "boxes", "label": "The private talk", "row": [
+      {"box": "trap", "title": "Yusuf", "sub": ["lost before"]},
+      {"box": "trap", "title": "Binyamin", "sub": ["lost now"]},
+      {"conn": "so the eldest"},
+      {"box": "idea", "title": "stays", "sub": ["until father or Allah decides"]}]},
+    "key": {"label": "What he faced", "row": [
+      {"box": "people", "title": "go home, explain", "sub": ["move on"], "strike": true},
+      {"box": "idea", "title": "own the promise", "sub": ["Allah is the best judge"]}]},
+    "then": "In despair, the brothers {idea}consulted in private{/idea}. Ibn Kathir says the eldest, the one who had suggested the well over killing Yusuf, reminded them of {trap}their oath to their father{/trap} and their earlier failure with Yusuf. He said: I will not leave Egypt until my father permits me or Allah decides for me.",
+    "now": "You promised your parents to look after your younger brother at university, and he has dropped out. You could just go home and shrug. {idea}Or you stay with the problem and take responsibility.{/idea}",
+    "old": "If it went wrong, I can explain it away and move on.",
+    "new": "A broken promise calls for owning it, not leaving it behind.",
+    "try": "Think of one promise you let slip. Take one step this week to make it right.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "12:81", "surah": 12, "ayah": 81, "place": "makkah",
+    "title": "We testify only to what we know.",
+    "subtitle": "The honest report to their father",
+    "picture": {"kind": "boxes", "label": "The message home", "row": [
+      {"box": "people", "title": "your son stole", "sub": ["as far as we saw"]},
+      {"box": "idea", "title": "what we know", "sub": ["only that"]},
+      {"box": "people", "title": "the unseen", "sub": ["we could not guard"]}]},
+    "key": {"label": "How to report", "row": [
+      {"box": "trap", "title": "the full story", "sub": ["guesses included"], "strike": true},
+      {"box": "idea", "title": "only what I saw", "sub": ["and admit the rest"]}]},
+    "then": "The eldest told the others to go back and say: {trap}your son has stolen{/trap}, and we testify only to what we know. Qatadah and 'Ikrimah said they meant: {idea}we did not know he would steal{/idea}. We only stated the thief's punishment.",
+    "now": "Your friend asks what happened between two people at work. You saw part of it. {idea}It is tempting to fill the gaps.{/idea} Saying this is what I saw, and I do not know the rest, is a kind of honesty.",
+    "old": "When I tell a story, I should give the full picture.",
+    "new": "I only speak to what I know, and I admit what I cannot see.",
+    "try": "When you pass on news today, add: this is only what I saw.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

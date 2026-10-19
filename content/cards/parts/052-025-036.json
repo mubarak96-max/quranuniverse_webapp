@@ -1,0 +1,234 @@
+[
+  {
+    "id": "52:25", "surah": 52, "ayah": 25, "place": "makkah",
+    "title": "In Paradise, friends turn to each other and talk.",
+    "subtitle": "Remembering the road together",
+    "picture": {"kind": "boxes", "label": "The conversation", "row": [
+      {"box": "people", "title": "the believers", "sub": ["drawing near"]},
+      {"conn": "ask each other"},
+      {"box": "idea", "title": "how was it for you?", "sub": ["their life before"]}]},
+    "key": {"label": "What they talk about", "row": [
+      {"box": "plain", "title": "the pleasures only", "sub": [], "strike": true},
+      {"box": "idea", "title": "the journey that got them there", "sub": ["deeds and struggles"]}]},
+    "then": "The tafsir says {reward}the believers will draw near to each other talking{/reward} and {idea}remembering their actions and conditions in this life{/idea}, the way friends talk over a meal.",
+    "now": "Picture yourself one day with the friend who prayed beside you in a cold masjid, laughing about how hard it was. {reward}The people you strive with now are your future conversation.{/reward}",
+    "old": "My struggles now are just something to get through.",
+    "new": "The struggles I share with good friends become stories we tell in Paradise.",
+    "try": "Send a message to a friend who helps you in your faith and tell them you are grateful for them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:26", "surah": 52, "ayah": 26, "place": "makkah",
+    "title": "We were careful with Allah, even at home.",
+    "subtitle": "Fear in the middle of family life",
+    "picture": {"kind": "boxes", "label": "What they remember", "row": [
+      {"box": "people", "title": "among our families", "sub": ["in ordinary life"]},
+      {"conn": "we were"},
+      {"box": "idea", "title": "fearful of our Lord", "sub": ["mindful of His punishment"]}]},
+    "key": {"label": "Where mindfulness lived", "row": [
+      {"box": "plain", "title": "only in the masjid", "sub": [], "strike": true},
+      {"box": "idea", "title": "at home too", "sub": ["with family"]}]},
+    "then": "Their first memory: {idea}in the midst of our families{/idea}, the tafsir says, {idea}we were afraid of our Lord and fearful of His torment.{/idea} Their awareness of Allah was not saved for special places. It lived at home.",
+    "now": "Home is where you relax. It is also where you snap at your spouse, ignore your mother's call, scroll past Isha. {idea}Mindfulness at the dinner table counts.{/idea}",
+    "old": "Home is where I can be careless.",
+    "new": "The way I live with my family is part of my walk with Allah.",
+    "try": "At home today, catch one harsh word before it comes out and say something kind instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:27", "surah": 52, "ayah": 27, "place": "makkah",
+    "title": "Allah was gracious and saved us from what we feared.",
+    "subtitle": "Fear that ended in safety",
+    "picture": {"kind": "boxes", "label": "Their story", "row": [
+      {"box": "people", "title": "we feared", "sub": ["verse 26"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "Allah's favor", "sub": ["saved us from the Fire"]}]},
+    "key": {"label": "Why they were saved", "row": [
+      {"box": "plain", "title": "we earned it ourselves", "sub": [], "strike": true},
+      {"box": "reward", "title": "Allah was gracious", "sub": ["a favor from Him"]}]},
+    "then": "They say: {reward}Allah has been gracious to us{/reward}, and {reward}saved us from the torment of the Fire.{/reward} The tafsir says, {idea}He granted us a favor and saved us from what we feared.{/idea} They do not credit themselves.",
+    "now": "You sat by the hospital bed fearing the worst, and it passed. You panicked about the bills, and somehow they were paid. {reward}Remember who saved you.{/reward} Fear placed with Allah ends in safety.",
+    "old": "I got through hard times because of my own strength.",
+    "new": "When I am saved from what I feared, it is Allah's favor.",
+    "try": "Recall one fear that did not come true. Thank Allah for it out loud.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:28", "surah": 52, "ayah": 28, "place": "makkah",
+    "title": "We used to call on Him, and He is Kind and Merciful.",
+    "subtitle": "The dua that was answered",
+    "picture": {"kind": "boxes", "label": "What they did before", "row": [
+      {"box": "people", "title": "we called on Him", "sub": ["with humility"]},
+      {"conn": "He is"},
+      {"box": "reward", "title": "Al-Barr", "sub": ["the Kind, the Subtle"]},
+      {"box": "reward", "title": "Ar-Rahim", "sub": ["the Merciful"]}]},
+    "key": {"label": "What made the difference", "row": [
+      {"box": "plain", "title": "never asking", "sub": ["I will manage alone"], "strike": true},
+      {"box": "idea", "title": "always asking", "sub": ["and He answered"]}]},
+    "then": "Their last words in this scene: {idea}we used to invoke Him before.{/idea} The tafsir says they called on Him {idea}with submission and humility{/idea}, and {reward}He accepted and gave them what they wished.{/reward}",
+    "now": "The dua you whisper in the car before the job interview. The one you make in sujood when no one knows what you are carrying. {reward}Those duas are not lost.{/reward} One day you may say: I used to call on Him.",
+    "old": "My duas feel small and maybe unheard.",
+    "new": "The duas I make now are part of how I reach Paradise.",
+    "try": "Make one dua today in your own words, in sujood, for something you truly want.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:29", "surah": 52, "ayah": 29, "place": "makkah",
+    "title": "Keep reminding. You are no fortune-teller and no madman.",
+    "subtitle": "Allah defends His Prophet ﷺ",
+    "picture": {"kind": "boxes", "label": "The labels", "row": [
+      {"box": "trap", "title": "soothsayer", "sub": ["what Quraysh claimed"], "strike": true},
+      {"box": "trap", "title": "madman", "sub": ["what Quraysh claimed"], "strike": true},
+      {"conn": "instead"},
+      {"box": "idea", "title": "remind", "sub": ["by your Lord's grace"]}]},
+    "key": {"label": "What to do with false labels", "row": [
+      {"box": "plain", "title": "stop and defend yourself", "sub": [], "strike": true},
+      {"box": "idea", "title": "keep doing the work", "sub": ["Allah answers for you"]}]},
+    "then": "The surah turns to the Quraysh chiefs. Allah tells the Prophet ﷺ to {idea}keep conveying the message{/idea}, and answers their claims: {reward}by the grace of Allah, you are neither a soothsayer nor a madman.{/reward}",
+    "now": "Someone spreads a story about you at work or in the family. You want to spend a week correcting it. {idea}Keep doing the good you were doing.{/idea} Let Allah handle your name.",
+    "old": "I have to clear my name before I can carry on.",
+    "new": "When I am lied about, I keep doing right and trust Allah to defend me.",
+    "try": "If someone has misjudged you, do one good thing today without explaining yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:30", "surah": 52, "ayah": 30, "place": "makkah",
+    "title": "They called him a poet and waited for him to die.",
+    "subtitle": "Waiting for a messenger to disappear",
+    "picture": {"kind": "boxes", "label": "Their plan", "row": [
+      {"box": "trap", "title": "a poet", "sub": ["just like Zuhayr"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "wait for calamity", "sub": ["time will remove him"]}]},
+    "key": {"label": "What they expected", "row": [
+      {"box": "trap", "title": "he will fade", "sub": ["like poets before him"]},
+      {"box": "idea", "title": "the message stays", "sub": ["it is not poetry"]}]},
+    "then": "Ibn Abbas reported that the Quraysh met in Dar An-Nadwah, and one said: {trap}jail him in chains, then wait{/trap}; he will die like the poets before him. They hoped time would {trap}rid them of his message.{/trap}",
+    "now": "You have a reminder you are waiting out: a nagging conscience, a friend's advice, a verse that bothers you. {idea}You hope it will fade if you ignore it long enough.{/idea} Truth does not expire.",
+    "old": "If I ignore an uncomfortable truth long enough, it will go away.",
+    "new": "Truth does not fade with time. Waiting it out only delays my answer.",
+    "try": "Bring one ignored piece of good advice back to mind today and act on part of it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:31", "surah": 52, "ayah": 31, "place": "makkah",
+    "title": "Then wait. I am waiting with you.",
+    "subtitle": "A calm answer to people waiting for your fall",
+    "picture": {"kind": "boxes", "label": "Two who wait", "row": [
+      {"box": "people", "title": "they wait", "sub": ["for his ruin"]},
+      {"box": "people", "title": "he waits", "sub": ["for Allah's decision"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "you will know", "sub": ["whose end is good"]}]},
+    "key": {"label": "How to answer", "row": [
+      {"box": "trap", "title": "panic or rage", "sub": [], "strike": true},
+      {"box": "idea", "title": "calm trust", "sub": ["let time show"]}]},
+    "then": "Allah gives the Prophet ﷺ a short, calm reply: {idea}wait, and I too will wait with you.{/idea} The tafsir adds, {reward}you will come to know to whom the good end and triumph shall be granted{/reward}, in this life and the next.",
+    "now": "A rival at work is waiting for you to fail. A relative says your new path will not last. {idea}You do not need to argue.{/idea} Keep going and let time tell.",
+    "old": "I have to prove them wrong right now.",
+    "new": "I can calmly wait, trusting Allah to show whose path ends well.",
+    "try": "When someone doubts you this week, smile, say we will see, and keep going.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:32", "surah": 52, "ayah": 32, "place": "makkah",
+    "title": "Does your mind really tell you this, or is it pride?",
+    "subtitle": "Reason or rebellion",
+    "picture": {"kind": "boxes", "label": "Where the claims came from", "row": [
+      {"box": "plain", "title": "their minds?", "sub": ["they knew it was false"], "strike": true},
+      {"conn": "or"},
+      {"box": "trap", "title": "transgression", "sub": ["stubborn and unjust"]}]},
+    "key": {"label": "What drives my no", "row": [
+      {"box": "plain", "title": "I thought it through", "sub": [], "strike": true},
+      {"box": "trap", "title": "I did not want it", "sub": ["so I found reasons"]}]},
+    "then": "The Quraysh prided themselves on being sensible. Allah asks: {idea}do their minds command them to say this{/idea}, though the tafsir says {trap}they know in their hearts it is untrue?{/trap} Or are they simply {trap}a people who transgress all bounds?{/trap}",
+    "now": "You give a long logical reason for skipping something you know is right. But underneath, you just do not want to. {idea}Be honest about which one is speaking: your reason, or your resistance.{/idea}",
+    "old": "My objections are purely logical.",
+    "new": "Sometimes my reasons are really my resistance, dressed as logic.",
+    "try": "Take one excuse you use often. Ask yourself honestly: is this reason, or reluctance?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:33", "surah": 52, "ayah": 33, "place": "makkah",
+    "title": "They said he made it up. Really, they refused to believe.",
+    "subtitle": "The accusation and its root",
+    "picture": {"kind": "boxes", "label": "Claim and cause", "row": [
+      {"box": "trap", "title": "he forged it", "sub": ["the claim"]},
+      {"conn": "comes from"},
+      {"box": "trap", "title": "they believe not", "sub": ["the cause"]}]},
+    "key": {"label": "What came first", "row": [
+      {"box": "plain", "title": "evidence, then doubt", "sub": [], "strike": true},
+      {"box": "idea", "title": "refusal, then excuses", "sub": ["disbelief drives the words"]}]},
+    "then": "They said the Prophet ﷺ {trap}forged this Quran and brought it from his own.{/trap} Allah answers with one line: {idea}rather, they do not believe.{/idea} The tafsir says {trap}their disbelief drives them to utter these statements.{/trap}",
+    "now": "When you have decided you do not like someone, every rumor about them sounds believable. {idea}The verdict came first, the reasons second.{/idea} Watch for that in yourself.",
+    "old": "I doubt things because the evidence is weak.",
+    "new": "Sometimes I decide first and gather reasons after.",
+    "try": "Think of one person you are quick to suspect. Give them one fair benefit of the doubt today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:34", "surah": 52, "ayah": 34, "place": "makkah",
+    "title": "If it was made up, bring something like it.",
+    "subtitle": "The challenge of the Quran",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "trap", "title": "he forged it", "sub": ["their claim"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "produce one like it", "sub": ["if you are truthful"]}]},
+    "key": {"label": "What happened", "row": [
+      {"box": "plain", "title": "they could do it", "sub": ["the best poets of Arabia"], "strike": true},
+      {"box": "reward", "title": "no one ever has", "sub": ["not even one surah"]}]},
+    "then": "If he wrote it himself, Allah says, {idea}let them produce a recitation like it.{/idea} The tafsir says that even if they joined with all jinn and mankind, {reward}they would never produce something like the Quran, or ten surahs, or even one.{/reward}",
+    "now": "You have read thousands of posts, articles, and books this year. How many of them changed how you pray, forgive, or sleep at night? {reward}This book has been doing that for fourteen centuries.{/reward}",
+    "old": "The Quran is one great book among many.",
+    "new": "The Quran stands alone, and no one has matched it.",
+    "try": "Read a short surah today, slowly, and notice one line that speaks to you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:35", "surah": 52, "ayah": 35, "place": "makkah",
+    "title": "Did you come from nothing, or did you make yourself?",
+    "subtitle": "The question that opened a heart",
+    "picture": {"kind": "boxes", "label": "Three options", "row": [
+      {"box": "plain", "title": "from nothing", "sub": ["no maker"], "strike": true},
+      {"box": "plain", "title": "self-made", "sub": ["their own creators"], "strike": true},
+      {"box": "idea", "title": "created by Allah", "sub": ["the only answer left"]}]},
+    "key": {"label": "What it did to Jubayr", "row": [
+      {"box": "people", "title": "an idolator", "sub": ["came to ransom captives"]},
+      {"conn": "heard this"},
+      {"box": "reward", "title": "my heart would fly", "sub": ["later became Muslim"]}]},
+    "then": "Jubayr bin Mut'im came to the Prophet ﷺ after Badr, still an idolator. He heard him recite these verses in Maghrib and said, {reward}I felt my heart would fly away.{/reward} The tafsir says this was {idea}one of the reasons he later embraced Islam.{/idea}",
+    "now": "You call yourself self-made: your degree, your business, your body at the gym. But you did not make your heart beat this morning. {idea}Ask the question honestly, once.{/idea}",
+    "old": "I am who I am because of my own effort.",
+    "new": "I did not create myself. Someone made me, and that changes everything.",
+    "try": "Put your hand on your chest, feel your heartbeat for thirty seconds, and ask who keeps it going.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "52:36", "surah": 52, "ayah": 36, "place": "makkah",
+    "title": "They did not make the sky. They just lack certainty.",
+    "subtitle": "Knowing, but not being sure",
+    "picture": {"kind": "boxes", "label": "Their problem", "row": [
+      {"box": "plain", "title": "created the heavens?", "sub": ["no"], "strike": true},
+      {"conn": "but"},
+      {"box": "trap", "title": "no firm belief", "sub": ["knowing, not certain"]}]},
+    "key": {"label": "Knowing versus certainty", "row": [
+      {"box": "people", "title": "they knew Allah created", "sub": ["admitted it"]},
+      {"box": "trap", "title": "still worshipped idols", "sub": ["belief never settled"]}]},
+    "then": "The tafsir says {idea}they knew that Allah alone is the Creator{/idea}. Yet they fell into idolatry because {trap}they had no firm belief.{/trap} Knowledge without certainty did not change how they lived.",
+    "now": "You know Allah provides, but you still lose sleep over money. You know He hears, but you still do not ask. {idea}The gap between knowing and being certain is where most of us live.{/idea}",
+    "old": "Knowing something about Allah is the same as being sure of it.",
+    "new": "Certainty is knowledge that has reached the heart and shows in my life.",
+    "try": "Pick one thing you know about Allah, and act today as if you are fully certain of it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "id": "20:125", "surah": 20, "ayah": 125, "place": "makkah",
+    "title": "Why raise me blind, when I could see before?",
+    "subtitle": "Sight that was never used",
+    "picture": {"kind": "boxes", "label": "His complaint", "row": [
+      {"box": "people", "title": "in the world", "sub": ["\"I had sight\""]},
+      {"conn": "now"},
+      {"box": "trap", "title": "on the Day", "sub": ["raised blind"]}]},
+    "key": {"label": "What sight is for", "row": [
+      {"box": "people", "title": "eyes that work", "sub": ["seeing things"], "strike": true},
+      {"box": "idea", "title": "a heart that sees", "sub": ["seeing the signs"]}]},
+    "then": "The one who turned from Allah's reminder will ask {trap}why have You raised me blind, when I had sight?{/trap} Ibn Kathir explains he means sight in the life of this world. Mujahid said being blind means {trap}having no proof{/trap} to offer.",
+    "now": "You see everything on your phone: news, sports, every friend's holiday. Hours of looking each day. {idea}Seeing a lot is not the same as seeing what matters.{/idea} Use your eyes today for one sign of Allah.",
+    "old": "I see plenty. I know what is going on in the world.",
+    "new": "Real sight is noticing Allah's signs. Without that, I am looking but blind.",
+    "try": "Spend five minutes today looking at something in nature and naming it as His sign.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:126", "surah": 20, "ayah": 126, "place": "makkah",
+    "title": "You forgot Our signs, so today you are forgotten.",
+    "subtitle": "The reply matches the deed",
+    "picture": {"kind": "boxes", "label": "The mirror", "row": [
+      {"box": "reward", "title": "signs came", "sub": ["clearly conveyed"]},
+      {"conn": "you"},
+      {"box": "trap", "title": "neglected them", "sub": ["heedless"]},
+      {"box": "trap", "title": "neglected", "sub": ["on this Day"]}]},
+    "key": {"label": "What kind of forgetting", "row": [
+      {"box": "people", "title": "weak memory", "sub": ["forgot some words"], "strike": true},
+      {"box": "trap", "title": "turning away", "sub": ["ignored their meaning"]}]},
+    "then": "Ibn Kathir explains: the signs came and {trap}you dealt with them like one who does not remember them{/trap}, neglecting and ignoring them. So today you are treated like one forgotten. He notes this threat is {idea}not about forgetting memorised words while still acting on the Quran{/idea}.",
+    "now": "You are trying to memorise a surah and keep losing the middle verses. That is not what this verse is about. {idea}It is about living as if the message never arrived.{/idea} Keeping its meaning alive in your day is the remedy.",
+    "old": "If I forget the words I learned, I am in this verse.",
+    "new": "The warning is for turning away from the signs. Living by them keeps me remembered.",
+    "try": "Pick one verse you know and act on its meaning once today.",
+    "related": ["7:51"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:127", "surah": 20, "ayah": 127, "place": "makkah",
+    "title": "The Hereafter's loss is heavier and lasts longer.",
+    "subtitle": "Weighing now against later",
+    "picture": {"kind": "boxes", "label": "Two scales", "row": [
+      {"box": "trap", "title": "this world", "sub": ["hardship ends"]},
+      {"conn": "lighter than"},
+      {"box": "trap", "title": "the Hereafter", "sub": ["more severe, more lasting"]}]},
+    "key": {"label": "Which to fear more", "row": [
+      {"box": "people", "title": "losing here", "sub": ["face, money, comfort"], "strike": true},
+      {"box": "idea", "title": "losing there", "sub": ["that is what lasts"]}]},
+    "then": "Allah says this is how He repays {trap}the one who transgresses and does not believe in His signs{/trap}. Ibn Kathir cites the Prophet ﷺ: {idea}the punishment of this world is lighter than the punishment of the Hereafter{/idea}. The warning is meant to steer choices now.",
+    "now": "You hide a mistake at work to avoid embarrassment, knowing it hurts someone. Owning up costs you a bad afternoon. {idea}A hard moment here is lighter than carrying it there.{/idea}",
+    "old": "Avoiding embarrassment now is worth almost anything.",
+    "new": "A loss in this world is small next to what lasts. I can choose the lighter cost.",
+    "try": "Own up today to one small thing you have been hiding to save face.",
+    "related": ["13:34"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:128", "surah": 20, "ayah": 128, "place": "makkah",
+    "title": "You walk through the homes of nations now gone.",
+    "subtitle": "Empty houses that teach",
+    "picture": {"kind": "boxes", "label": "What remains", "row": [
+      {"box": "trap", "title": "past nations", "sub": ["denied their messengers"]},
+      {"conn": "left"},
+      {"box": "people", "title": "empty homes", "sub": ["others now walk in them"]}]},
+    "key": {"label": "Who sees it", "row": [
+      {"box": "people", "title": "the eyes", "sub": ["just old ruins"], "strike": true},
+      {"box": "idea", "title": "the heart", "sub": ["a sign for the thoughtful"]}]},
+    "then": "Ibn Kathir explains the people of Makkah {trap}walked among the empty homes{/trap} of nations who denied their messengers. In that are signs {idea}for those with sound intellect{/idea}. He cites: it is not the eyes that grow blind, but the hearts.",
+    "now": "You stroll through an old castle on holiday, take a selfie in a ruined palace. Someone once thought it would last forever. {idea}The ruins are a message, not just a backdrop.{/idea}",
+    "old": "Old ruins are interesting history, nothing more.",
+    "new": "Every empty palace says: what I build without Allah will not last.",
+    "try": "Next time you pass an old or abandoned building, think about who once lived there.",
+    "related": ["22:46", "32:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:129", "surah": 20, "ayah": 129, "place": "makkah",
+    "title": "Only His word and a set time hold it back.",
+    "subtitle": "The delay is mercy, not absence",
+    "picture": {"kind": "boxes", "label": "Why not yet", "row": [
+      {"box": "reward", "title": "a prior word", "sub": ["proof first, then judgement"]},
+      {"box": "reward", "title": "a set term", "sub": ["already decided"]},
+      {"conn": "otherwise"},
+      {"box": "trap", "title": "immediate", "sub": ["punishment would seize them"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "trap", "title": "no consequence", "sub": ["I got away with it"], "strike": true},
+      {"box": "idea", "title": "time to return", "sub": ["a mercy with a deadline"]}]},
+    "then": "Ibn Kathir explains Allah had already given His word that {reward}He would not punish anyone until the proof was established{/reward}, and at a time He set. Otherwise, {trap}the punishment would seize them immediately{/trap}.",
+    "now": "You did something wrong last month and nothing happened. Life went on. It is tempting to think it did not matter. {idea}The quiet is a window to come back{/idea}, not proof that it is fine.",
+    "old": "If nothing bad happened, I got away with it.",
+    "new": "Allah's delay is time given to me to turn back, not a sign it does not count.",
+    "try": "Use today's quiet to fix one wrong that no one has called you out on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:130", "surah": 20, "ayah": 130, "place": "makkah",
+    "title": "Be patient with their words, and praise through the day.",
+    "subtitle": "Prayer as the answer to mockery",
+    "picture": {"kind": "boxes", "label": "Times of praise", "row": [
+      {"box": "idea", "title": "before sunrise", "sub": ["Fajr"]},
+      {"box": "idea", "title": "before sunset", "sub": ["Asr"]},
+      {"box": "idea", "title": "in the night", "sub": ["night prayer"]},
+      {"box": "idea", "title": "ends of the day", "sub": []},
+      {"conn": "so that"},
+      {"box": "reward", "title": "you are pleased", "sub": ["with His reward"]}]},
+    "key": {"label": "What to do with insults", "row": [
+      {"box": "trap", "title": "answer back", "sub": ["argue all day"], "strike": true},
+      {"box": "idea", "title": "turn to prayer", "sub": ["patience and praise"]}]},
+    "then": "Allah comforted the Prophet ﷺ: {idea}be patient with what they say{/idea}. Ibn Kathir says before sunrise refers to Fajr and before sunset to Asr. The Prophet ﷺ, looking at a full moon, said {reward}you will see your Lord as you see this moon{/reward}, so do not miss those two prayers.",
+    "now": "Someone mocks your faith in the comments, or at the family dinner. You want to fire back. {idea}Patience, then prayer{/idea}, is the answer the Prophet ﷺ was given. It ends with being pleased.",
+    "old": "When people mock me, I have to win the argument.",
+    "new": "I can be patient, turn to prayer, and let Allah please me with what He gives.",
+    "try": "Guard Fajr and Asr today especially, and notice how they frame your day.",
+    "related": ["93:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:131", "surah": 20, "ayah": 131, "place": "makkah",
+    "title": "Do not stare longingly at what others enjoy.",
+    "subtitle": "Their splendor is a test",
+    "picture": {"kind": "boxes", "label": "What they have", "row": [
+      {"box": "trap", "title": "splendor", "sub": ["short-lived adornment"]},
+      {"conn": "is"},
+      {"box": "trap", "title": "a test", "sub": ["for them"]},
+      {"box": "reward", "title": "your Lord's", "sub": ["better and more lasting"]}]},
+    "key": {"label": "Who has more", "row": [
+      {"box": "trap", "title": "kings", "sub": ["Kisra and Caesar"], "strike": true},
+      {"box": "reward", "title": "the Prophet ﷺ", "sub": ["a bare room, the Hereafter"]}]},
+    "then": "Umar once entered on the Prophet ﷺ in a small room with almost nothing in it, and {trap}wept, thinking of Kisra and Caesar in luxury{/trap}. The Prophet ﷺ said: {idea}those people have had their good hastened for them in this world{/idea}. Mujahid said the groups meant here are the wealthy.",
+    "now": "Scrolling past a friend's new kitchen, someone's luxury holiday, the influencer's car. Your own flat suddenly feels small. {reward}What your Lord gives is better and lasts longer.{/reward} Their shine is a test for them, and staring is a test for you.",
+    "old": "If they have more than me, they are better off.",
+    "new": "Their splendor is short and a test. My Lord's provision is better and lasting.",
+    "try": "Mute or unfollow one account today that mostly makes you envious.",
+    "related": ["15:87", "93:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:132", "surah": 20, "ayah": 132, "place": "makkah",
+    "title": "Call your family to prayer, and keep at it yourself.",
+    "subtitle": "We provide for you, not you for Us",
+    "picture": {"kind": "boxes", "label": "The instruction", "row": [
+      {"box": "people", "title": "your family", "sub": ["call them to prayer"]},
+      {"box": "people", "title": "yourself", "sub": ["be patient in it"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "We provide", "sub": ["for you"]}]},
+    "key": {"label": "What prayer costs", "row": [
+      {"box": "trap", "title": "my earning time", "sub": ["less work, less money"], "strike": true},
+      {"box": "reward", "title": "nothing", "sub": ["Allah provides"]}]},
+    "then": "Ibn Kathir notes Umar would {idea}wake his family for night prayer{/idea}, reciting this verse. Allah says He does not ask provision from you, {reward}We provide for you{/reward}. The Prophet ﷺ reported Allah saying: devote yourself to My worship and {reward}I will fill your chest with richness{/reward}.",
+    "now": "You skip Dhuhr because the shift is busy and you need the hours. You do not wake the kids for Fajr because they are tired. {idea}Prayer is not what makes you poor.{/idea} The One you pray to is the Provider.",
+    "old": "Taking time to pray, and getting my family to pray, costs me.",
+    "new": "Allah does not need my provision; He gives it. Prayer opens the door.",
+    "try": "Gently invite one family member to pray one prayer with you today.",
+    "related": ["66:6", "65:2", "51:56"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:133", "surah": 20, "ayah": 133, "place": "makkah",
+    "title": "Why no sign? The Quran itself is the sign.",
+    "subtitle": "Demanding proof while holding it",
+    "picture": {"kind": "boxes", "label": "What they demanded", "row": [
+      {"box": "trap", "title": "a sign", "sub": ["\"show us proof\""]},
+      {"conn": "while holding"},
+      {"box": "reward", "title": "the Quran", "sub": ["from an unlettered man"]}]},
+    "key": {"label": "What counts as proof", "row": [
+      {"box": "people", "title": "a spectacle", "sub": ["something dramatic"], "strike": true},
+      {"box": "idea", "title": "the revelation", "sub": ["the greatest sign"]}]},
+    "then": "They asked why Muhammad ﷺ did not bring a sign. Ibn Kathir says the Quran is that proof: revealed to {idea}an unlettered man who did not study with the People of the Book{/idea}, yet it tells the past and agrees with earlier scriptures. The Prophet ﷺ said {reward}what I was given is revelation{/reward}.",
+    "now": "You keep waiting for a sign before you take faith seriously: a dream, a miracle, a clear answer. {idea}The sign is already on your phone, on the shelf, in the app you opened today.{/idea}",
+    "old": "I need a dramatic sign before I take this seriously.",
+    "new": "The greatest sign is already in my hands. I just need to read it.",
+    "try": "Read the last verses of this surah again slowly, as if they were the sign you asked for.",
+    "related": ["29:50", "29:51"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:134", "surah": 20, "ayah": 134, "place": "makkah",
+    "title": "No one can say: if only someone had told us.",
+    "subtitle": "The messenger removes every excuse",
+    "picture": {"kind": "boxes", "label": "The excuse they would make", "row": [
+      {"box": "trap", "title": "no messenger", "sub": ["\"we did not know\""]},
+      {"conn": "but"},
+      {"box": "reward", "title": "a messenger came", "sub": ["with a mighty Book"]}]},
+    "key": {"label": "Where I stand", "row": [
+      {"box": "trap", "title": "I was never told", "sub": ["no one explained"], "strike": true},
+      {"box": "idea", "title": "it has reached me", "sub": ["now I choose"]}]},
+    "then": "Ibn Kathir explains: had Allah destroyed them before sending the Prophet ﷺ, {trap}they would have said: if only You had sent us a messenger, we would have followed{/trap}. So the Messenger and the Book came, and {idea}the excuse was removed{/idea}.",
+    "now": "You tell yourself, \"Nobody ever taught me properly, my parents were not religious.\" Maybe true. But you are reading this now. {idea}It has reached you.{/idea} What you do next is yours.",
+    "old": "I was never taught, so I cannot be expected to know.",
+    "new": "The message has reached me now. From here, the choice is mine.",
+    "try": "Learn one new thing about your faith today from a trustworthy source.",
+    "related": ["6:155", "35:42", "10:97"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:135", "surah": 20, "ayah": 135, "place": "makkah",
+    "title": "Everyone is waiting; you will see who walked straight.",
+    "subtitle": "The surah ends with a calm challenge",
+    "picture": {"kind": "boxes", "label": "Both sides", "row": [
+      {"box": "people", "title": "we wait", "sub": []},
+      {"box": "people", "title": "you wait", "sub": []},
+      {"conn": "then"},
+      {"box": "idea", "title": "it becomes clear", "sub": ["who was on the straight path"]}]},
+    "key": {"label": "How to end an argument", "row": [
+      {"box": "trap", "title": "force a win", "sub": ["prove it right now"], "strike": true},
+      {"box": "idea", "title": "wait and see", "sub": ["the truth will show"]}]},
+    "then": "Allah told the Prophet ﷺ to say to those who denied him: {idea}each of us is waiting, so wait{/idea}. You will come to know who is on {reward}the straight road{/reward} and who is guided. With this, the surah that began \"not to distress you\" ends without rush or anger.",
+    "now": "Your relatives roll their eyes at your new habits. Your friends think you will drop them by next month. {idea}You do not have to win today.{/idea} Keep walking straight and let time show.",
+    "old": "I have to prove I am right to everyone, now.",
+    "new": "I can calmly keep to the straight path and let the truth reveal itself.",
+    "try": "Leave one argument unfinished today, and just keep doing what is right.",
+    "related": ["25:42", "54:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

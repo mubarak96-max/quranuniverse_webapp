@@ -1,0 +1,267 @@
+[
+  {
+    "id": "79:1", "surah": 79, "ayah": 1, "place": "makkah",
+    "title": "Sworn by the angels who pull souls out hard.",
+    "subtitle": "The first oath: a difficult death",
+    "picture": {"kind": "boxes", "label": "Who is sworn by", "row": [
+      {"box": "people", "title": "the angels", "sub": ["who take souls"]},
+      {"conn": "pull out"},
+      {"box": "trap", "title": "some souls", "sub": ["with difficulty, like drowning"]}]},
+    "key": {"label": "Why swear by them", "row": [
+      {"box": "plain", "title": "death is the end", "sub": [], "strike": true},
+      {"box": "idea", "title": "death is a handover", "sub": ["by those who can also return it"]}]},
+    "then": "Ibn Masud, Ibn Abbas and others said these are {idea}the angels who remove the souls of the children of Adam.{/idea} Ibn Kathir says some souls are taken with difficulty, as if drowning. The surah introduction notes: the angels who take the soul today can restore it tomorrow.",
+    "now": "A hospital corridor at night. A family waiting outside a room. Death feels like a door slamming shut. {idea}The surah opens by reminding you that someone is sent to open that door{/idea}, and how they open it depends on the life behind it.",
+    "old": "Death just happens to the body, and that is all.",
+    "new": "Death is carried out by angels on command, and how it goes is tied to how I lived.",
+    "try": "Make a short dua today for an easy death and a good ending.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:2", "surah": 79, "ayah": 2, "place": "makkah",
+    "title": "And by those who draw souls out gently.",
+    "subtitle": "The second oath: an easy death",
+    "picture": {"kind": "boxes", "label": "Two kinds of taking", "row": [
+      {"box": "trap", "title": "pulled out hard", "sub": ["verse 1"]},
+      {"box": "reward", "title": "drawn out with ease", "sub": ["verse 2"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "plain", "title": "chance", "sub": ["the illness, the accident"], "strike": true},
+      {"box": "idea", "title": "the soul itself", "sub": ["how it lived"]}]},
+    "then": "Ibn Kathir explains, from Ibn Abbas, that some souls {reward}the angels remove with ease, as if untying them,{/reward} because of their briskness. The two oaths together show two very different departures.",
+    "now": "You have heard people say of a relative, \"She passed so peacefully.\" You have heard the opposite too. {idea}The verse places that difference in the soul,{/idea} not only in the medical chart.",
+    "old": "How someone dies is just a matter of their illness.",
+    "new": "There is a gentle taking and a hard one, and I can live toward the gentle one.",
+    "try": "Do one thing today you would be glad to have done if it were your last day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:3", "surah": 79, "ayah": 3, "place": "makkah",
+    "title": "By those who glide, swimming through the sky.",
+    "subtitle": "The third oath: angels in motion",
+    "picture": {"kind": "boxes", "label": "Who is sworn by", "row": [
+      {"box": "people", "title": "the angels", "sub": ["Ibn Masud and others"]},
+      {"conn": "glide like"},
+      {"box": "idea", "title": "swimmers", "sub": ["moving freely on command"]}]},
+    "key": {"label": "What it shows", "row": [
+      {"box": "plain", "title": "the unseen is still", "sub": ["nothing is happening"], "strike": true},
+      {"box": "idea", "title": "constant movement", "sub": ["angels busy with His orders"]}]},
+    "then": "Ibn Masud said the swimmers {idea}are the angels{/idea}, and similar was reported from Ali, Mujahid, Said bin Jubayr, and Abu Salih. The surah keeps swearing by angels at work to affirm that the Resurrection is coming.",
+    "now": "You see a quiet sky and think nothing is going on. Meanwhile your own body runs a thousand processes you never notice. {idea}The unseen world is not empty.{/idea} It is full of servants carrying out His commands.",
+    "old": "If I cannot see it, nothing is going on there.",
+    "new": "Around me, unseen, angels are moving at His command.",
+    "try": "Say Subhanallah once today while looking at an empty sky.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:4", "surah": 79, "ayah": 4, "place": "makkah",
+    "title": "By those who race ahead to obey.",
+    "subtitle": "The fourth oath: eagerness",
+    "picture": {"kind": "boxes", "label": "Who is sworn by", "row": [
+      {"box": "people", "title": "the angels", "sub": ["racers"]},
+      {"conn": "race to"},
+      {"box": "idea", "title": "His command", "sub": ["no delay"]}]},
+    "key": {"label": "How to respond to Allah", "row": [
+      {"box": "trap", "title": "later, slowly", "sub": ["when it suits me"], "strike": true},
+      {"box": "idea", "title": "racing", "sub": ["like the angels"]}]},
+    "then": "Ali, Masruq, Mujahid, Abu Salih, and Al-Hasan Al-Basri said the racers {idea}are the angels.{/idea} The introduction describes them as those who hasten to carry out Allah's commands. Swearing by them is a pledge that what He commands will happen.",
+    "now": "The adhan goes off on your phone. You think, \"Five more minutes,\" and finish the episode. {idea}The angels sworn by here race to obey.{/idea} You can move one step closer to that speed.",
+    "old": "I will get to my prayers once I finish this.",
+    "new": "The best response to Allah's call is to race toward it.",
+    "try": "At the next adhan, stand up within one minute.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:5", "surah": 79, "ayah": 5, "place": "makkah",
+    "title": "By those who arrange affairs by His command.",
+    "subtitle": "The fifth oath: the managers",
+    "picture": {"kind": "boxes", "label": "How things run", "row": [
+      {"box": "idea", "title": "Allah's command", "sub": []},
+      {"conn": "carried by"},
+      {"box": "people", "title": "the angels", "sub": ["from heaven to earth"]}]},
+    "key": {"label": "Who runs the world", "row": [
+      {"box": "plain", "title": "it runs itself", "sub": ["just systems"], "strike": true},
+      {"box": "idea", "title": "it is managed", "sub": ["and can be ended and remade"]}]},
+    "then": "Ali, Mujahid, Ata and others said these {idea}are the angels.{/idea} Al-Hasan added that they control affairs from heaven to earth by their Lord's command. The introduction explains: those who run the universe today can, by the same order, end it and bring a new one.",
+    "now": "Your rent, the bus timetable, the weather forecast, a stranger's kindness at the right moment. It all feels like systems. {idea}Behind the systems is a command.{/idea} Nothing in your life is unmanaged.",
+    "old": "The world is just running on its own machinery.",
+    "new": "Every affair is arranged by His command, so the order can change when He wills.",
+    "try": "Hand one worry to Allah in dua tonight, trusting He arranges it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:6", "surah": 79, "ayah": 6, "place": "makkah",
+    "title": "The first blast shakes everything.",
+    "subtitle": "What the oaths were sworn for",
+    "picture": {"kind": "boxes", "label": "The Day", "row": [
+      {"box": "trap", "title": "the first blast", "sub": ["of the Horn"]},
+      {"conn": "shakes"},
+      {"box": "people", "title": "earth and mountains", "sub": ["all of creation"]}]},
+    "key": {"label": "How hard is it", "row": [
+      {"box": "plain", "title": "a long process", "sub": ["impossible"], "strike": true},
+      {"box": "idea", "title": "one jolt", "sub": ["the whole system falls"]}]},
+    "then": "Ibn Abbas said this is {trap}the first of the two blasts of the Horn.{/trap} Mujahid linked it to the Day the earth and mountains shake. The introduction says one jolt is enough to upset the whole system of the world.",
+    "now": "You have felt a small earthquake, or a building shake as a truck passed. Your heart jumped and everyone stopped talking. {idea}One blast will do that to everything at once.{/idea}",
+    "old": "The world is too big and stable to end suddenly.",
+    "new": "It takes only one blast, and everything shakes.",
+    "try": "Next time something jolts you, a bump or a loud noise, remember this verse.",
+    "related": ["73:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:7", "surah": 79, "ayah": 7, "place": "makkah",
+    "title": "And the second blast follows it.",
+    "subtitle": "The one that brings everyone back",
+    "picture": {"kind": "boxes", "label": "Two blasts", "row": [
+      {"box": "trap", "title": "first", "sub": ["everything shakes"]},
+      {"conn": "followed by"},
+      {"box": "idea", "title": "second", "sub": ["the rising"]}]},
+    "key": {"label": "What follows the end", "row": [
+      {"box": "plain", "title": "nothing", "sub": ["the end is final"], "strike": true},
+      {"box": "idea", "title": "a second blast", "sub": ["everyone appears alive"]}]},
+    "then": "Ibn Abbas, Mujahid, Al-Hasan and Qatadah explained these as {idea}the first and the second blast.{/idea} Mujahid linked the second to the earth and mountains crushed with one crushing. The introduction says a second jolt brings people out living into a new world.",
+    "now": "A power cut, the house goes dark, and then a click and everything comes back on. You do not doubt it can happen. {idea}The One who ends it all can switch it all back on.{/idea}",
+    "old": "When it ends, it ends.",
+    "new": "The end is followed at once by a beginning.",
+    "try": "When you wake tomorrow, say the morning dua thanking Allah for bringing you back.",
+    "related": ["69:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:8", "surah": 79, "ayah": 8, "place": "makkah",
+    "title": "Hearts that Day will be pounding.",
+    "subtitle": "Fear inside",
+    "picture": {"kind": "boxes", "label": "Inside them", "row": [
+      {"box": "people", "title": "hearts", "sub": ["of the deniers"]},
+      {"conn": "are"},
+      {"box": "trap", "title": "trembling", "sub": ["afraid"]}]},
+    "key": {"label": "The reversal", "row": [
+      {"box": "people", "title": "mocking", "sub": ["in this life"]},
+      {"box": "trap", "title": "trembling", "sub": ["on that Day"]}]},
+    "then": "Ibn Abbas said the hearts will be {trap}afraid{/trap}, and Mujahid and Qatadah said the same. The introduction notes these are the same people who used to deny the Day, now seeing what they thought impossible.",
+    "now": "Remember the night before a big exam you had not prepared for. The thumping chest, the dry mouth. {idea}A small version of that is a gift{/idea}: it can push you to prepare while you still can.",
+    "old": "I do not need to fear something that may never happen.",
+    "new": "A little fear now is far better than a pounding heart then.",
+    "try": "Pick one thing that would make you calmer on that Day and start it this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:9", "surah": 79, "ayah": 9, "place": "makkah",
+    "title": "Their eyes lowered in humiliation.",
+    "subtitle": "Fear outside",
+    "picture": {"kind": "boxes", "label": "On their faces", "row": [
+      {"box": "people", "title": "their eyes", "sub": []},
+      {"conn": "are"},
+      {"box": "trap", "title": "humbled", "sub": ["by the terrors they see"]}]},
+    "key": {"label": "Two ways to lower the gaze", "row": [
+      {"box": "trap", "title": "forced, that Day", "sub": ["from shame"]},
+      {"box": "reward", "title": "chosen, today", "sub": ["from humility"]}]},
+    "then": "Ibn Kathir says the eyes of the people will be {trap}lowly and disgraced from what they witness of terrors.{/trap} Those who looked at the signs with contempt now cannot raise their eyes.",
+    "now": "You have seen someone caught in a lie, staring at the floor. Or felt it yourself. {idea}Lowering your eyes in humility before Allah now{/idea} is the way to raise them without shame later.",
+    "old": "Being humble makes me look weak.",
+    "new": "Humility chosen now spares me humiliation then.",
+    "try": "In your next prayer, keep your eyes on the place of sujud the whole time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:10", "surah": 79, "ayah": 10, "place": "makkah",
+    "title": "They ask: will we really be brought back?",
+    "subtitle": "The deniers' question, quoted",
+    "picture": {"kind": "boxes", "label": "What they said", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["of Quraysh"]},
+      {"conn": "mock"},
+      {"box": "trap", "title": "return from the grave?", "sub": ["far-fetched, they said"]}]},
+    "key": {"label": "The doubt", "row": [
+      {"box": "trap", "title": "impossible", "sub": ["once buried, gone"], "strike": true},
+      {"box": "idea", "title": "already done once", "sub": ["He made you the first time"]}]},
+    "then": "Ibn Kathir says this is {trap}the idolators of Quraysh and whoever rejects the Hereafter like them.{/trap} Mujahid said the word refers to the graves. They saw coming back after burial as far-fetched.",
+    "now": "Standing at a graveside, watching the earth go back in, the thought comes uninvited: is that really it? {idea}The verse names the doubt honestly{/idea} and then the surah answers it.",
+    "old": "Once someone is buried, it is hard to believe they will rise.",
+    "new": "The doubt is old. The answer is the One who made me from nothing.",
+    "try": "Next time you pass a graveyard, say the greeting for its people and remember you will rise.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:11", "surah": 79, "ayah": 11, "place": "makkah",
+    "title": "Even after we are hollow, crumbling bones?",
+    "subtitle": "The doubt gets more specific",
+    "picture": {"kind": "boxes", "label": "Their objection", "row": [
+      {"box": "people", "title": "bodies", "sub": ["destroyed"]},
+      {"conn": "become"},
+      {"box": "trap", "title": "decayed bones", "sub": ["air blowing through them"]}]},
+    "key": {"label": "What is hard for whom", "row": [
+      {"box": "trap", "title": "too far gone", "sub": ["for anyone to restore"], "strike": true},
+      {"box": "idea", "title": "nothing is far", "sub": ["for the One who made it"]}]},
+    "then": "Ibn Abbas, Mujahid and Qatadah said the word means {trap}decayed.{/trap} Ibn Abbas described it as a bone so rotten that air enters it. To them, a body that far gone could never come back.",
+    "now": "You have thrown away a phone so broken that no shop could fix it. That is how we picture old bones. {idea}You are thinking of a repair shop.{/idea} The verse is speaking of the Creator.",
+    "old": "Some things are broken beyond repair.",
+    "new": "Nothing is too decayed for the One who created it in the first place.",
+    "try": "Bring one situation you think is beyond repair to Allah in dua today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:12", "surah": 79, "ayah": 12, "place": "makkah",
+    "title": "Then that would be a losing return, they joke.",
+    "subtitle": "A sarcastic line that came true",
+    "picture": {"kind": "boxes", "label": "What they said", "row": [
+      {"box": "people", "title": "Quraysh", "sub": ["half joking"]},
+      {"conn": "say"},
+      {"box": "trap", "title": "we would be losers", "sub": ["if we come back"]}]},
+    "key": {"label": "The irony", "row": [
+      {"box": "plain", "title": "just a joke", "sub": [], "strike": true},
+      {"box": "trap", "title": "an honest admission", "sub": ["they knew how they lived"]}]},
+    "then": "Muhammad bin Kab said the Quraysh said: {trap}if Allah brings us back after we die, we will surely be losers.{/trap} It was said as mockery. Yet it shows they knew what such a return would mean for them.",
+    "now": "Someone jokes, \"If there is a Judgement Day, I am finished,\" and everyone laughs. {idea}Sometimes our jokes say what our hearts already know.{/idea} The better response is to change the ending.",
+    "old": "It is just a joke. It does not mean anything.",
+    "new": "When I joke that I would lose, it is a sign to start living so I would not.",
+    "try": "Notice one thing you joke about to avoid taking it seriously. Take it seriously once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:13", "surah": 79, "ayah": 13, "place": "makkah",
+    "title": "It will take only a single shout.",
+    "subtitle": "The answer to all their doubts",
+    "picture": {"kind": "boxes", "label": "How much effort", "row": [
+      {"box": "trap", "title": "decayed bones", "sub": ["their objection"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "1", "sub": ["single shout"], "num": true}]},
+    "key": {"label": "What they imagined", "row": [
+      {"box": "plain", "title": "a huge task", "sub": ["needing long preparation"], "strike": true},
+      {"box": "idea", "title": "one command", "sub": ["like the blink of an eye"]}]},
+    "then": "Ibn Kathir says this is a matter from Allah that {idea}will not occur twice.{/idea} Israfil will blow the Horn and the first and last people will stand before their Lord. He links it to verses saying Allah's command is like the twinkling of an eye.",
+    "now": "Think of a teacher calling one name across a noisy playground and every child turning around. {idea}Everything they argued about, the graves, the bones, the time, is answered by one call.{/idea}",
+    "old": "Bringing everyone back would be an impossible project.",
+    "new": "For Allah it is a single shout, faster than a blink.",
+    "try": "Next time you blink, remember the Hour is described as faster than that.",
+    "related": ["17:52", "54:50", "16:77"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "79:14", "surah": 79, "ayah": 14, "place": "makkah",
+    "title": "And suddenly, everyone is awake on open ground.",
+    "subtitle": "Standing on a new earth",
+    "picture": {"kind": "boxes", "label": "Where they find themselves", "row": [
+      {"box": "people", "title": "everyone", "sub": ["first and last"]},
+      {"conn": "standing on"},
+      {"box": "idea", "title": "the open earth", "sub": ["a level place"]}]},
+    "key": {"label": "Where you will stand", "row": [
+      {"box": "plain", "title": "this earth, as it is", "sub": [], "strike": true},
+      {"box": "idea", "title": "a changed earth", "sub": ["no sin done on it"]}]},
+    "then": "Ibn Abbas said the word means {idea}the entire earth{/idea}. Others said its face, or a level place. Ar-Rabi bin Anas pointed to the Day the earth is changed to another earth, one {idea}on which no sin has been done and no blood shed.{/idea}",
+    "now": "You wake up in a strange hotel room and for a second do not know where you are. Now imagine waking on open ground with all of humanity. {idea}No shelter, no hiding, everyone looking.{/idea}",
+    "old": "I will have time to get my bearings.",
+    "new": "One moment in the grave, the next standing wide awake before Allah.",
+    "try": "Spend one quiet minute today picturing yourself standing there, and what you would want to bring.",
+    "related": ["14:48", "20:105", "18:47"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "23:42", "surah": 23, "ayah": 42, "place": "makkah",
+    "title": "Then more generations came, one after another.",
+    "subtitle": "History as a long line of peoples",
+    "picture": {"kind": "boxes", "label": "The line of history", "row": [
+      {"box": "people", "title": "Nuh's people", "sub": []},
+      {"box": "people", "title": "the next nation", "sub": []},
+      {"conn": "then"},
+      {"box": "people", "title": "other generations", "sub": ["nations and peoples"]}]},
+    "key": {"label": "Your place in it", "row": [
+      {"box": "trap", "title": "the center of history", "sub": ["it all leads to me"], "strike": true},
+      {"box": "idea", "title": "one link in a chain", "sub": ["with my own test"]}]},
+    "then": "After two detailed stories, the surah speeds up. Ibn Kathir says these are {idea}nations and peoples{/idea}, created one after another, {idea}successors after predecessors{/idea}.",
+    "now": "Your phone shows a photo from ten years ago, and half the people in it have moved on, some have passed away. {idea}Generations turn faster than they seem to.{/idea}",
+    "old": "My generation is the main event.",
+    "new": "I am one generation in a long line, each given its turn.",
+    "try": "Make a dua today for the generation before you and the one after you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:43", "surah": 23, "ayah": 43, "place": "makkah",
+    "title": "No nation can rush its end or delay it.",
+    "subtitle": "Every term is written",
+    "picture": {"kind": "boxes", "label": "The term", "row": [
+      {"box": "people", "title": "a nation", "sub": []},
+      {"conn": "has"},
+      {"box": "idea", "title": "a set time", "sub": ["written before it existed"]},
+      {"conn": "not"},
+      {"box": "trap", "title": "earlier or later", "sub": []}]},
+    "key": {"label": "Who controls the clock", "row": [
+      {"box": "trap", "title": "we decide how long", "sub": [], "strike": true},
+      {"box": "idea", "title": "it is decreed", "sub": ["in His Book"]}]},
+    "then": "Ibn Kathir says they are taken {idea}at the time decreed by Allah in His Book, before they were created{/idea}, nation after nation, century after century. No one can push the date forward or back.",
+    "now": "You plan the five-year career, the mortgage term, the retirement age. {idea}Your own term is written too, and you cannot see the date.{/idea} Plans are fine. Assuming time is not.",
+    "old": "I can count on having the time I have planned for.",
+    "new": "My time is set by Allah, so I use what I have well.",
+    "try": "Do one thing today that you have been saving for when you have more time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:44", "surah": 23, "ayah": 44, "place": "makkah",
+    "title": "Messenger after messenger, and nations became stories.",
+    "subtitle": "What is left of those who denied",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "idea", "title": "messenger comes", "sub": ["one after another"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "they deny", "sub": ["most of them"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "they become tales", "sub": ["lessons for others"]}]},
+    "key": {"label": "What you leave behind", "row": [
+      {"box": "trap", "title": "a cautionary tale", "sub": []},
+      {"box": "idea", "title": "a good example", "sub": ["someone follows"]}]},
+    "then": "Ibn Abbas said the messengers came {idea}following one another in succession{/idea}. Each time, most of the people denied. Allah destroyed them and {trap}made them stories and lessons for mankind{/trap}.",
+    "now": "Someday you will be a story told at a dinner table: what grandpa was like, how she treated people. {idea}Every life ends up as a story. You are writing yours now.{/idea}",
+    "old": "What people say about me after I am gone does not matter.",
+    "new": "My life will become a story, and I choose today what kind.",
+    "try": "Write one sentence you would want your family to say about you. Do one thing toward it.",
+    "related": ["16:36", "36:30", "34:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:45", "surah": 23, "ayah": 45, "place": "makkah",
+    "title": "Musa and Harun came with signs and clear proof.",
+    "subtitle": "Two brothers sent with authority",
+    "picture": {"kind": "boxes", "label": "The mission", "row": [
+      {"box": "people", "title": "Musa", "sub": []},
+      {"box": "people", "title": "Harun", "sub": ["his brother"]},
+      {"conn": "carrying"},
+      {"box": "idea", "title": "signs", "sub": ["decisive evidence"]},
+      {"box": "idea", "title": "clear authority", "sub": ["definitive proof"]}]},
+    "key": {"label": "Was it unclear?", "row": [
+      {"box": "trap", "title": "not enough proof", "sub": [], "strike": true},
+      {"box": "idea", "title": "manifest proof", "sub": ["the issue was pride"]}]},
+    "then": "Allah sent Musa and Harun {idea}with decisive evidence and definitive proof{/idea}. Ibn Kathir notes that the problem was never a lack of signs. Musa was not sent alone: {reward}his brother stood with him.{/reward}",
+    "now": "You keep saying you will change when you are sure, when you have more evidence. {idea}Sometimes the evidence is already enough, and what is missing is the willingness.{/idea}",
+    "old": "I just need more proof before I commit.",
+    "new": "The proof is often clear; the real question is my heart.",
+    "try": "Name one good step you already know is right. Stop waiting for more proof and take it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:46", "surah": 23, "ayah": 46, "place": "makkah",
+    "title": "Pharaoh's court was too proud to listen.",
+    "subtitle": "Arrogance as the real barrier",
+    "picture": {"kind": "boxes", "label": "The response", "row": [
+      {"box": "people", "title": "Pharaoh and chiefs", "sub": []},
+      {"conn": "were"},
+      {"box": "trap", "title": "arrogant", "sub": []},
+      {"box": "trap", "title": "haughty", "sub": ["self-exalting"]}]},
+    "key": {"label": "What blocked them", "row": [
+      {"box": "people", "title": "confusion", "sub": [], "strike": true},
+      {"box": "trap", "title": "pride", "sub": ["too great to follow"]}]},
+    "then": "Ibn Kathir says {trap}Pharaoh and his people were too arrogant to follow them and obey their commands{/trap}, because Musa and Harun were human beings, {idea}just as previous nations had denied{/idea}. Same mentality, different century.",
+    "now": "Your teenager corrects your grammar. A junior colleague has a better idea in the meeting. {trap}Something in you bristles before you even think.{/trap} {idea}That bristle is where pride lives.{/idea}",
+    "old": "I am not arrogant; I just know better.",
+    "new": "Pride can hide inside the feeling that I am above being told.",
+    "try": "Accept one correction today without defending yourself. Just say thank you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:47", "surah": 23, "ayah": 47, "place": "makkah",
+    "title": "Their people serve us, so why follow them?",
+    "subtitle": "Looking down on the messenger's people",
+    "picture": {"kind": "boxes", "label": "Their logic", "row": [
+      {"box": "people", "title": "two men like us", "sub": []},
+      {"conn": "and"},
+      {"box": "people", "title": "their people", "sub": ["our servants"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "beneath us", "sub": []}]},
+    "key": {"label": "Judging by rank", "row": [
+      {"box": "trap", "title": "who is lower", "sub": ["social status"], "strike": true},
+      {"box": "idea", "title": "who is right", "sub": ["the only measure"]}]},
+    "then": "Pharaoh's chiefs said: {trap}should we believe two men like ourselves, while their people serve us in humility?{/trap} The Children of Israel were their laborers. To accept Musa would mean taking guidance from the class they ruled.",
+    "now": "The cleaner who prays on time. The delivery driver who says bismillah. The refugee neighbor who is more generous than you. {idea}Guidance does not care about the org chart.{/idea}",
+    "old": "I learn from people above me, not below.",
+    "new": "Truth can come from anyone, especially those I overlook.",
+    "try": "Learn one thing today from someone you would normally consider beneath your notice.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:48", "surah": 23, "ayah": 48, "place": "makkah",
+    "title": "They denied both brothers and joined the destroyed.",
+    "subtitle": "The end of Pharaoh's court",
+    "picture": {"kind": "boxes", "label": "The end", "row": [
+      {"box": "trap", "title": "denied", "sub": ["Musa and Harun"]},
+      {"conn": "became"},
+      {"box": "trap", "title": "destroyed", "sub": ["drowned in one day"]}]},
+    "key": {"label": "Power", "row": [
+      {"box": "trap", "title": "the mightiest kingdom", "sub": ["seemed untouchable"], "strike": true},
+      {"box": "idea", "title": "gone in one day", "sub": ["Allah is All-Capable"]}]},
+    "then": "Ibn Kathir says {trap}Allah destroyed Pharaoh and his chiefs, drowning them all in one day{/trap}. The greatest power of its age joined the list of those who were destroyed, {idea}seized by the All-Mighty, All-Capable{/idea}.",
+    "now": "Some things in your life feel too big to ever fall: a habit, a fear, a grip someone has on you. {idea}Allah ended an empire in one day.{/idea} He can loosen what holds you.",
+    "old": "Some powers are just too strong to be changed.",
+    "new": "No power is permanent before Allah, not even the grip of my own habits.",
+    "try": "Name one habit you think is too strong to break. Ask Allah for help with it tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:49", "surah": 23, "ayah": 49, "place": "makkah",
+    "title": "After the rescue came the Book, so they might be guided.",
+    "subtitle": "Freedom, then guidance",
+    "picture": {"kind": "boxes", "label": "What came next", "row": [
+      {"box": "reward", "title": "freed", "sub": ["from Pharaoh"]},
+      {"conn": "then given"},
+      {"box": "idea", "title": "the Torah", "sub": ["rulings, commands"]},
+      {"conn": "so that"},
+      {"box": "reward", "title": "guidance", "sub": []}]},
+    "key": {"label": "After being saved", "row": [
+      {"box": "trap", "title": "free to do anything", "sub": [], "strike": true},
+      {"box": "idea", "title": "free to be guided", "sub": ["a Book to live by"]}]},
+    "then": "Ibn Kathir says after destroying Pharaoh, Allah gave Musa {idea}the Torah, with rulings, commands and prohibitions{/idea}. He cites another verse: an {reward}enlightenment, guidance and mercy, that they might remember{/reward}.",
+    "now": "You got through the hard year: the illness, the job loss, the breakup. Now there is space. {idea}What you fill that space with is the next chapter.{/idea}",
+    "old": "Once the trouble ends, I can relax and drift.",
+    "new": "After Allah rescues me, it is time to be guided, not to drift.",
+    "try": "After your next relief, set a small new habit with the Quran, even one verse a day.",
+    "related": ["28:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:50", "surah": 23, "ayah": 50, "place": "makkah",
+    "title": "Maryam and her son became a sign, and Allah sheltered them.",
+    "subtitle": "A miracle and a safe high ground",
+    "picture": {"kind": "boxes", "label": "Ways Allah creates", "row": [
+      {"box": "plain", "title": "Adam", "sub": ["no father, no mother"]},
+      {"box": "plain", "title": "Hawwa", "sub": ["from a male only"]},
+      {"box": "idea", "title": "Isa", "sub": ["from a mother only"]},
+      {"box": "people", "title": "everyone else", "sub": ["from both"]}]},
+    "key": {"label": "After the sign", "row": [
+      {"box": "trap", "title": "left alone in hardship", "sub": [], "strike": true},
+      {"box": "reward", "title": "given refuge", "sub": ["rest, water, high ground"]}]},
+    "then": "Ibn Kathir says Isa and Maryam were made {idea}a proof of Allah's ability to do what He wills{/idea}. Then {reward}Allah gave them refuge on high ground with rest and flowing water{/reward}. He says the most apparent meaning is Jerusalem, linking it to the stream under Maryam.",
+    "now": "A single mother carrying gossip and stares. A family that had to leave home and start again. {idea}The verse names both the trial and the shelter.{/idea} Allah does not raise someone as a sign and then abandon them.",
+    "old": "If people talk about me, Allah must be against me.",
+    "new": "Allah can make me a sign and still shelter me through it.",
+    "try": "Check in today on someone who is carrying people's judgment. Offer them a kind word.",
+    "related": ["19:24"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:51", "surah": 23, "ayah": 51, "place": "makkah",
+    "title": "Eat what is good, then do good.",
+    "subtitle": "Lawful food feeds righteous deeds",
+    "picture": {"kind": "boxes", "label": "The command to all Messengers", "row": [
+      {"box": "reward", "title": "eat the good", "sub": ["lawful, pure"]},
+      {"conn": "fuels"},
+      {"box": "idea", "title": "righteous work", "sub": []},
+      {"conn": "seen by"},
+      {"box": "idea", "title": "the All-Knowing", "sub": []}]},
+    "key": {"label": "Why food matters", "row": [
+      {"box": "trap", "title": "food is unrelated to faith", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah accepts only the good", "sub": ["dua tied to earnings"]}]},
+    "then": "Ibn Kathir says eating lawful food {idea}helps one do righteous deeds{/idea}. The Prophet ﷺ said Allah is good and only accepts what is good, then described a traveller raising his hands, {trap}but his food, drink and clothing are unlawful, so how can he be answered?{/trap} Every Prophet worked; Dawud ate from his own hands.",
+    "now": "The shortcut at work that bends the truth on an invoice. The extra hour claimed but not worked. {trap}The money buys groceries, and the groceries feed the hands you raise in dua.{/trap}",
+    "old": "How I earn and how I pray are separate things.",
+    "new": "What I earn feeds my body, and my body is what I pray with.",
+    "try": "Look at one source of your income and make sure it is fully honest this week.",
+    "related": ["2:172"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:52", "surah": 23, "ayah": 52, "place": "makkah",
+    "title": "All the Prophets share one religion and one Lord.",
+    "subtitle": "One community, one call",
+    "picture": {"kind": "boxes", "label": "One line", "row": [
+      {"box": "people", "title": "Nuh", "sub": []},
+      {"box": "people", "title": "Musa", "sub": []},
+      {"box": "people", "title": "Isa", "sub": []},
+      {"box": "people", "title": "Muhammad ﷺ", "sub": []},
+      {"conn": "one"},
+      {"box": "idea", "title": "religion", "sub": ["worship Allah alone"]}]},
+    "key": {"label": "What unites", "row": [
+      {"box": "trap", "title": "separate faiths", "sub": ["each Prophet his own"], "strike": true},
+      {"box": "idea", "title": "one call", "sub": ["Allah alone, so fear Him"]}]},
+    "then": "Ibn Kathir explains: {idea}your religion, O Prophets, is one religion and one group: the call to worship Allah alone with no partner.{/idea} Then: {reward}I am your Lord, so be mindful of Me.{/reward}",
+    "now": "The family debate about whose masjid is better. The online argument about which teacher is right. {idea}Step back far enough and every Prophet is standing in the same row.{/idea}",
+    "old": "My little group is the whole of the truth.",
+    "new": "I belong to one long community of Prophets and believers.",
+    "try": "Say something kind today about a Muslim who practices a little differently from you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:53", "surah": 23, "ayah": 53, "place": "makkah",
+    "title": "They split into factions, each happy with its own.",
+    "subtitle": "Division and self-satisfaction",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "idea", "title": "one religion", "sub": []},
+      {"conn": "broken into"},
+      {"box": "trap", "title": "factions", "sub": []},
+      {"conn": "each"},
+      {"box": "trap", "title": "rejoicing", "sub": ["sure it is right"]}]},
+    "key": {"label": "The danger", "row": [
+      {"box": "trap", "title": "my group is fine", "sub": ["no need to check"], "strike": true},
+      {"box": "idea", "title": "check myself", "sub": ["am I truly guided?"]}]},
+    "then": "Ibn Kathir says the nations to whom Prophets were sent {trap}broke their religion into sects{/trap}, and {trap}each rejoiced in its misguidance because it thought it was rightly guided{/trap}. The comfort itself was the problem.",
+    "now": "You share a clip that mocks people who think differently, and feel good about it. {trap}That warm feeling of being on the right team{/trap} is exactly what the verse warns about. {idea}The question points at your own heart.{/idea}",
+    "old": "Feeling sure of my side means I am right.",
+    "new": "Rejoicing in my side is not proof; sincere checking is.",
+    "try": "Before sharing anything that mocks another group, pause and ask what it does to your own heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:54", "surah": 23, "ayah": 54, "place": "makkah",
+    "title": "Leave them in their confusion for a while.",
+    "subtitle": "A respite that is not approval",
+    "picture": {"kind": "boxes", "label": "The respite", "row": [
+      {"box": "trap", "title": "their confusion", "sub": ["misguidance"]},
+      {"conn": "left"},
+      {"box": "plain", "title": "for a time", "sub": ["until the appointed hour"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "trap", "title": "nothing happens, so it is fine", "sub": [], "strike": true},
+      {"box": "idea", "title": "time is being given", "sub": ["the hour is set"]}]},
+    "then": "Allah tells the Prophet ﷺ to leave them in their error {trap}until the appointed time{/trap}. Ibn Kathir links it to: {idea}let them eat and enjoy and be distracted by hope; they will come to know.{/idea}",
+    "now": "You know something in your life is off, but nothing bad has happened yet, so you leave it. {idea}Quiet is not the same as approval.{/idea} The respite is a gift to use, not a sign to keep going.",
+    "old": "If nothing bad has happened, I must be fine.",
+    "new": "Time without consequence is a chance to turn back, not a green light.",
+    "try": "Name one thing you keep doing only because nothing has gone wrong yet. Start changing it today.",
+    "related": ["86:17", "15:3"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:55", "surah": 23, "ayah": 55, "place": "makkah",
+    "title": "Do they think wealth and children prove Allah loves them?",
+    "subtitle": "Mistaking gifts for approval",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "wealth", "sub": ["extended to them"]},
+      {"box": "reward", "title": "children", "sub": []},
+      {"conn": "they assumed"},
+      {"box": "trap", "title": "we are honored", "sub": ["we will not be punished"]}]},
+    "key": {"label": "What brings you near", "row": [
+      {"box": "trap", "title": "wealth and children", "sub": [], "strike": true},
+      {"box": "idea", "title": "faith and good deeds", "sub": ["only these bring near"]}]},
+    "then": "Ibn Kathir asks: {trap}do these deceived people think what We give them is because they are honored in Our sight?{/trap} He cites: it is not your wealth nor your children that bring you near to Us, {idea}but only whoever believes and does righteous deeds.{/idea}",
+    "now": "The pay rise, the new baby, the house with a garden. A voice inside says: Allah must be pleased with me. {idea}Maybe. But the gift is not the proof. What you do with it is.{/idea}",
+    "old": "Blessings in my life mean Allah is pleased with me.",
+    "new": "Blessings are a test; faith and deeds are what bring me near.",
+    "try": "Take one blessing you have and use it for someone else's good today.",
+    "related": ["34:35", "34:37", "9:55"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "23:56", "surah": 23, "ayah": 56, "place": "makkah",
+    "title": "We hasten good things for them? No, they do not perceive.",
+    "subtitle": "The world is given to all; faith only to the loved",
+    "picture": {"kind": "boxes", "label": "Two kinds of gift", "row": [
+      {"box": "reward", "title": "the world", "sub": ["given to loved and unloved"]},
+      {"box": "idea", "title": "the deen", "sub": ["given only to the loved"]}]},
+    "key": {"label": "What they missed", "row": [
+      {"box": "trap", "title": "more stuff, more favor", "sub": [], "strike": true},
+      {"box": "idea", "title": "faith is the real favor", "sub": ["they do not perceive"]}]},
+    "then": "The Prophet ﷺ said: {reward}Allah gives the world to those He loves and those He does not, but gives religion only to those He loves.{/reward} So the verse says: {trap}they do not perceive{/trap} what their wealth really means.",
+    "now": "You scroll past someone's holiday, car, wedding, and feel left behind. {idea}If you have faith in your heart, you were given the gift Allah gives only to those He loves.{/idea}",
+    "old": "Others are more blessed because they have more.",
+    "new": "If I have faith, I already hold the gift that counts most.",
+    "try": "When you next feel envious online, close the app and thank Allah for your faith by name.",
+    "related": ["3:178", "68:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

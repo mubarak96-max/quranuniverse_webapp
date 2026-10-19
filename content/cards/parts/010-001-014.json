@@ -1,0 +1,286 @@
+[
+  {
+    "id": "10:1", "surah": 10, "ayah": 1, "place": "makkah",
+    "title": "Three letters, then a Book full of wisdom.",
+    "subtitle": "Pausing before a wise Book speaks",
+    "picture": {"kind": "boxes", "label": "How the surah opens", "row": [
+      {"box": "plain", "title": "Alif Lam Ra", "sub": ["meaning known to Allah"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the wise Book", "sub": ["its judgment is clear"]}]},
+    "key": {"label": "How to come to it", "row": [
+      {"box": "people", "title": "skim it like news", "sub": ["one more text to scroll"], "strike": true},
+      {"box": "idea", "title": "stop and listen", "sub": ["wisdom is about to speak"]}]},
+    "then": "Late in the Makkan years, opposition to the Prophet ﷺ was at its harshest. The surah opens with three letters whose meaning is known to Allah, and then names what follows: {idea}verses of a Book whose wisdom is clear.{/idea}",
+    "now": "You open the Quran app between two notifications. Your thumb is ready to scroll. Three letters sit there that you cannot explain. {idea}Let them slow you down.{/idea} Something wise is about to be said to you.",
+    "old": "I read the Quran the way I read everything else, fast.",
+    "new": "The opening letters are a pause button before wisdom speaks.",
+    "try": "Before your next reading, put the phone face down for ten seconds, then begin.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:2", "surah": 10, "ayah": 2, "place": "makkah",
+    "title": "Why would a messenger be one of us?",
+    "subtitle": "The surprise that a man brought revelation",
+    "picture": {"kind": "boxes", "label": "What they found strange", "row": [
+      {"box": "people", "title": "a man among them", "sub": ["known, local, human"]},
+      {"conn": "receives"},
+      {"box": "idea", "title": "revelation", "sub": ["warn people", "give good news"]},
+      {"conn": "they called it"},
+      {"box": "trap", "title": "magic", "sub": ["an easy dismissal"]}]},
+    "key": {"label": "What the believers get", "row": [
+      {"box": "trap", "title": "too ordinary to be true", "sub": ["he is just like us"], "strike": true},
+      {"box": "reward", "title": "a firm footing", "sub": ["honor with their Lord"]}]},
+    "then": "Many Arabs said Allah is too great to send a human messenger. Ibn Abbas said this verse came as the reply. {trap}When the message could not be answered, they called the Prophet ﷺ a sorcerer.{/trap} Yet he was one of their own, sent to warn and to give {reward}good news.{/reward}",
+    "now": "Advice from a stranger with a big title feels serious. The same advice from your cousin, your coworker, your mother, gets a shrug. {trap}Familiar means easy to ignore.{/trap} Sometimes the truth arrives wearing a face you already know.",
+    "old": "If the message came through someone ordinary, it cannot be that important.",
+    "new": "Allah chose a human so the message could be lived, not just admired.",
+    "try": "Think of good advice you brushed off because of who said it. Take it seriously today.",
+    "related": ["64:6", "7:63", "38:5"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:3", "surah": 10, "ayah": 3, "place": "makkah",
+    "title": "The One who runs everything deserves your worship.",
+    "subtitle": "Creator, ruler, and the only one to worship",
+    "picture": {"kind": "boxes", "label": "Who is in charge", "row": [
+      {"box": "idea", "title": "created it all", "sub": ["heavens and earth", "six days"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "arranges every affair", "sub": ["big and small alike"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "worship Him", "sub": ["alone"]}]},
+    "key": {"label": "Who can speak for you", "row": [
+      {"box": "trap", "title": "my go-between", "sub": ["someone to pull strings"], "strike": true},
+      {"box": "idea", "title": "only by His leave", "sub": ["no one speaks without permission"]}]},
+    "then": "The people of Makkah admitted Allah created the heavens and the earth. Yet they worshipped other gods hoping those would plead for them. Ibn Kathir notes {idea}no request of His creatures troubles Him, and He governs small things as He governs big ones.{/idea} So the verse asks: {trap}will you not remember?{/trap}",
+    "now": "Your rent, your test result, your visa, your child's fever. You may be lining up people to pull strings for you. {idea}The One who arranges every affair is not too busy for yours.{/idea} Ask Him first.",
+    "old": "My problem is too small for Allah, so I chase people who can fix it.",
+    "new": "He governs every detail, so I can bring Him the small things too.",
+    "try": "Pick one small worry you have not prayed about. Ask Allah about it, plainly, today.",
+    "related": ["34:3", "11:6", "2:255"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:4", "surah": 10, "ayah": 4, "place": "makkah",
+    "title": "Everyone goes back to Him, and justice is waiting.",
+    "subtitle": "The return of all creation and its fair outcome",
+    "picture": {"kind": "boxes", "label": "The full cycle", "row": [
+      {"box": "idea", "title": "He begins creation", "sub": ["first time"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "repeats it", "sub": ["no one left out"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "reward with justice", "sub": ["faith and good deeds"]}]},
+    "key": {"label": "Where it ends", "row": [
+      {"box": "people", "title": "it all just stops", "sub": ["death is the end"], "strike": true},
+      {"box": "idea", "title": "a true promise", "sub": ["all of us return"]}]},
+    "then": "Quraysh doubted that the dead would rise. The verse answers: the One who began creation will repeat it. Ibn Kathir explains that {idea}no one will be left out{/idea}, and the reward for faith and good deeds will be {reward}full and just.{/reward} Those who rejected face {trap}a painful outcome.{/trap}",
+    "now": "You did the right thing at work and nobody noticed. Someone cut a corner and got promoted. It feels like nothing adds up. {idea}The account is not closed yet.{/idea} Every deed returns with you.",
+    "old": "If nobody saw it, it did not count.",
+    "new": "Everything returns to Allah, and He rewards with full justice.",
+    "try": "Do one good thing today that no one will ever know about.",
+    "related": ["30:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:5", "surah": 10, "ayah": 5, "place": "makkah",
+    "title": "The sun and moon are a calendar with a purpose.",
+    "subtitle": "Light, phases, and counting time",
+    "picture": {"kind": "boxes", "label": "Two kinds of light", "row": [
+      {"box": "idea", "title": "the sun", "sub": ["shining light", "marks the days"]},
+      {"box": "idea", "title": "the moon", "sub": ["reflected light", "phases mark months"]},
+      {"conn": "so you can"},
+      {"box": "reward", "title": "count your years", "sub": ["and keep track"]}]},
+    "key": {"label": "Why it exists", "row": [
+      {"box": "trap", "title": "just scenery", "sub": ["it happens by itself"], "strike": true},
+      {"box": "idea", "title": "created in truth", "sub": ["with wisdom, not for play"]}]},
+    "then": "The listeners lived by the moon. Ibn Kathir describes it starting thin, growing full, then shrinking back each month. {idea}The days come from the sun, the months and years from the moon.{/idea} None of it was made {trap}for amusement.{/trap}",
+    "now": "You check your calendar app, your payday countdown, the date of Ramadan. Every one of those numbers rests on a sun and a moon that never miss. {idea}Time itself was given to you on purpose.{/idea}",
+    "old": "The sky is just there, and time just passes.",
+    "new": "The sun and moon were set up so I can count my days, and my days are counted.",
+    "try": "Look at the moon tonight and guess its phase. Then thank Allah for one day you had this month.",
+    "related": ["36:39", "38:27", "23:115"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:6", "surah": 10, "ayah": 6, "place": "makkah",
+    "title": "Night and day keep swapping, and that is a sign.",
+    "subtitle": "Signs that only the mindful notice",
+    "picture": {"kind": "boxes", "label": "What keeps happening", "row": [
+      {"box": "idea", "title": "night", "sub": ["comes on time"]},
+      {"conn": "gives way to"},
+      {"box": "idea", "title": "day", "sub": ["never late"]},
+      {"conn": "plus"},
+      {"box": "idea", "title": "all creation", "sub": ["heavens and earth"]}]},
+    "key": {"label": "Who sees the sign", "row": [
+      {"box": "people", "title": "anyone looking", "sub": ["it is obvious"], "strike": true},
+      {"box": "reward", "title": "the mindful", "sub": ["those who fear Allah"]}]},
+    "then": "Ibn Kathir describes night and day following each other {idea}with no errors{/idea}, one arriving as the other leaves. The signs are everywhere, but the verse says they speak to {reward}people who are mindful of Allah.{/reward}",
+    "now": "Your alarm goes off in the dark and you are home before sunset in winter. The switch happens every single day and you have never once looked up for it. {idea}The sign was there. Attention was missing.{/idea}",
+    "old": "Sunrise and sunset are just background.",
+    "new": "The steady swap of night and day speaks to anyone who is paying attention to Allah.",
+    "try": "Watch one sunset or sunrise today, start to finish, without your phone.",
+    "related": ["36:40", "3:190", "10:101"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:7", "surah": 10, "ayah": 7, "place": "makkah",
+    "title": "Content with this world, and not expecting to meet Him.",
+    "subtitle": "The quiet comfort that makes a person heedless",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "no hope of meeting", "sub": ["the Day is not real to them"]},
+      {"box": "trap", "title": "settled in this life", "sub": ["pleased and at rest"]},
+      {"box": "trap", "title": "heedless of signs", "sub": ["never stopped to look"]}]},
+    "key": {"label": "The danger", "row": [
+      {"box": "people", "title": "being comfortable", "sub": ["life is good"], "strike": true},
+      {"box": "trap", "title": "being at rest in it", "sub": ["as if this is all"]}]},
+    "then": "Al-Hasan said they {trap}decorated this world and praised it until they were satisfied with it.{/trap} They did not reflect on the signs around them, and did not follow Allah's laws. The meeting with Allah was simply not on their mind.",
+    "now": "The new car, the renovated kitchen, the holiday booked for next summer. None of it is wrong. {trap}The danger is feeling fully settled{/trap}, as if this place is home and there is no one to meet after it.",
+    "old": "If my life is comfortable, I must be doing fine.",
+    "new": "Comfort is a blessing, but feeling settled in it can make me forget the meeting.",
+    "try": "Today, when you enjoy something nice, say quietly: this is not my final home.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:8", "surah": 10, "ayah": 8, "place": "makkah",
+    "title": "Where you end up is what you earned.",
+    "subtitle": "The outcome follows the life that was lived",
+    "picture": {"kind": "boxes", "label": "Cause and result", "row": [
+      {"box": "trap", "title": "what they earned", "sub": ["a life of heedlessness"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the Fire", "sub": ["their final abode"]}]},
+    "key": {"label": "Who decides the ending", "row": [
+      {"box": "people", "title": "bad luck", "sub": ["it just happened to them"], "strike": true},
+      {"box": "idea", "title": "what they earned", "sub": ["choices add up"]}]},
+    "then": "This continues the previous verse. Ibn Kathir says their abode is {trap}a recompense for the sins they earned in their worldly life{/trap}, on top of rejecting Allah, His Messenger ﷺ, and the Last Day. {idea}The ending matches the path.{/idea}",
+    "now": "Small habits compound. Five minutes of scrolling becomes three hours. A skipped prayer becomes a skipped week. {idea}Today is still the earning season.{/idea} You can change what you are collecting.",
+    "old": "One small habit does not decide anything.",
+    "new": "My ending is built from what I earn, day by day.",
+    "try": "Name one habit that is earning you something bad. Cut it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:9", "surah": 10, "ayah": 9, "place": "makkah",
+    "title": "Your faith becomes the light that guides you home.",
+    "subtitle": "Belief and good deeds as a path to the Gardens",
+    "picture": {"kind": "boxes", "label": "The path", "row": [
+      {"box": "people", "title": "believe", "sub": ["and do good"]},
+      {"conn": "guided by"},
+      {"box": "idea", "title": "their faith", "sub": ["a light to walk in"]},
+      {"conn": "into"},
+      {"box": "reward", "title": "Gardens of Delight", "sub": ["rivers flowing beneath"]}]},
+    "key": {"label": "What faith does", "row": [
+      {"box": "people", "title": "a private feeling", "sub": ["stays inside"], "strike": true},
+      {"box": "reward", "title": "a light", "sub": ["it leads you somewhere"]}]},
+    "then": "After the heedless, the verse turns to those who believed and did good. Mujahid said {reward}their faith will be a light in which they will walk.{/reward} Ibn Kathir adds it may mean Allah {idea}guides them to the straight path because of their faith.{/idea}",
+    "now": "A dark parking lot, your phone torch lighting one step at a time. You do not see the car yet, only the next metre. {reward}Faith with action works like that.{/reward} It lights the next step, and the next.",
+    "old": "Faith is a feeling I keep to myself.",
+    "new": "Faith joined with good deeds becomes the light that walks me home.",
+    "try": "Do one good deed today that your faith asks of you, however small.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:10", "surah": 10, "ayah": 10, "place": "makkah",
+    "title": "In Paradise, praise comes as easily as breathing.",
+    "subtitle": "The words the people of Paradise say",
+    "picture": {"kind": "boxes", "label": "Their words", "row": [
+      {"box": "idea", "title": "Glory to You", "sub": ["their call"]},
+      {"box": "reward", "title": "Peace", "sub": ["their greeting"]},
+      {"box": "idea", "title": "Praise to Allah", "sub": ["their last word"]}]},
+    "key": {"label": "What praise is", "row": [
+      {"box": "people", "title": "a duty", "sub": ["words I have to say"], "strike": true},
+      {"box": "reward", "title": "natural as breath", "sub": ["it flows from blessing"]}]},
+    "then": "Ibn Kathir cites a hadith in Muslim: {reward}the people of Paradise will be inspired to glorify and praise Allah as they breathe.{/reward} Their greeting is peace. And their last words are {idea}praise to Allah, Lord of the worlds.{/idea}",
+    "now": "You hit send on a family group chat and it turns into an argument. Imagine a place where every greeting is {reward}peace{/reward} and every conversation ends with thanks. {idea}You can practise those words here.{/idea}",
+    "old": "Praising Allah is something I remember to do sometimes.",
+    "new": "Praise is the language of Paradise, and I can start speaking it now.",
+    "try": "End today's last conversation, or your last thought before sleep, with alhamdulillah.",
+    "related": ["33:44", "56:25", "13:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:11", "surah": 10, "ayah": 11, "place": "makkah",
+    "title": "Thank Allah He does not answer your angry prayers.",
+    "subtitle": "His patience with words said in anger",
+    "picture": {"kind": "boxes", "label": "Two kinds of prayer", "row": [
+      {"box": "reward", "title": "prayer for good", "sub": ["He answers it"]},
+      {"box": "trap", "title": "curse in anger", "sub": ["on self, child, money"]},
+      {"conn": "He holds back"},
+      {"box": "idea", "title": "mercy", "sub": ["or they would be ruined"]}]},
+    "key": {"label": "What anger asks for", "row": [
+      {"box": "trap", "title": "I meant it", "sub": ["words in the heat"], "strike": true},
+      {"box": "idea", "title": "He knows you did not", "sub": ["so He waits"]}]},
+    "then": "Mujahid said this is a man who, angry, says of his son or his money: {trap}O Allah, do not bless him, curse him.{/trap} Ibn Kathir explains {idea}Allah does not answer such prayers out of mercy{/idea}, since they do not truly want harm. The Prophet ﷺ warned not to pray against yourselves, your children, or your wealth.",
+    "now": "The kid breaks the phone screen. You snap, and words come out you would never want answered. {idea}Allah's patience caught them.{/idea} Next time, catch them yourself.",
+    "old": "Words said in anger do not really matter.",
+    "new": "Allah shields me from my own angry words, and I should guard them too.",
+    "try": "When you feel anger rise today, swap the harsh sentence for a short dua for good.",
+    "related": ["17:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:12", "surah": 10, "ayah": 12, "place": "makkah",
+    "title": "We call Him in pain, then walk off when it passes.",
+    "subtitle": "Remembering Allah only in hard times",
+    "picture": {"kind": "boxes", "label": "The pattern", "row": [
+      {"box": "trap", "title": "harm hits", "sub": ["worried, anxious"]},
+      {"conn": "calls"},
+      {"box": "people", "title": "lying, sitting, standing", "sub": ["praying in every position"]},
+      {"conn": "relief comes"},
+      {"box": "trap", "title": "walks away", "sub": ["as if he never asked"]}]},
+    "key": {"label": "The believer's way", "row": [
+      {"box": "trap", "title": "pray only in crisis", "sub": ["forget once it ends"], "strike": true},
+      {"box": "reward", "title": "patient, then grateful", "sub": ["good in both states"]}]},
+    "then": "Ibn Kathir describes a person who, in distress, {trap}prays long, in every position{/trap}, then turns away once relief comes. He cites the hadith: {reward}how wonderful is the believer, patient in hardship and grateful in ease, and good comes to him in both.{/reward}",
+    "now": "The hospital corridor at 2 a.m. You prayed harder than you have in years. The scan came back clear. {trap}A month later, the prayer mat is folded away again.{/trap} The relief deserved a thank you too.",
+    "old": "I pray hardest when I need something.",
+    "new": "The One who answered me in pain deserves my thanks when the pain is gone.",
+    "try": "Recall one hard time Allah got you through. Pray two units of thanks for it today.",
+    "related": ["41:51", "11:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:13", "surah": 10, "ayah": 13, "place": "makkah",
+    "title": "Earlier generations had clear proofs and still refused.",
+    "subtitle": "What happened to past nations who did wrong",
+    "picture": {"kind": "boxes", "label": "Past generations", "row": [
+      {"box": "people", "title": "messengers came", "sub": ["with clear proofs"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "wrongdoing", "sub": ["they would not believe"]},
+      {"conn": "ended in"},
+      {"box": "trap", "title": "destruction", "sub": ["the due of criminals"]}]},
+    "key": {"label": "What was missing", "row": [
+      {"box": "people", "title": "not enough proof", "sub": ["if only they had seen more"], "strike": true},
+      {"box": "trap", "title": "not willing", "sub": ["the proofs were clear"]}]},
+    "then": "The Makkans were reminded of nations before them. Ibn Kathir says they {trap}belied the Messengers and the clear signs{/trap} brought to them. {idea}The proof was never the problem.{/idea} They were not willing to believe.",
+    "now": "You already know the sleep schedule that would help, the call you should make, the apology you owe. {trap}You keep waiting for one more sign.{/trap} Maybe you have enough already.",
+    "old": "I would change if I had more proof.",
+    "new": "Usually the proof is clear. What is missing is my willingness.",
+    "try": "Pick one thing you already know is right but keep delaying. Take the first step today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:14", "surah": 10, "ayah": 14, "place": "makkah",
+    "title": "Now it is your turn, and He is watching how.",
+    "subtitle": "Being made successors on the earth",
+    "picture": {"kind": "boxes", "label": "The handover", "row": [
+      {"box": "people", "title": "those before", "sub": ["their time ended"]},
+      {"conn": "passed to"},
+      {"box": "people", "title": "you", "sub": ["successors in the land"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "He sees", "sub": ["how you will act"]}]},
+    "key": {"label": "What your turn is", "row": [
+      {"box": "people", "title": "just my life", "sub": ["no one is checking"], "strike": true},
+      {"box": "idea", "title": "a test", "sub": ["how will you act?"]}]},
+    "then": "Ibn Kathir cites the hadith: {idea}the world is sweet and green, and Allah places you in it to see how you act.{/idea} When Umar became caliph, he recalled this verse and told himself: {trap}you have been appointed, so look at what you will do.{/trap}",
+    "now": "The new job title. The first apartment in your name. The day you became a parent. {idea}Each one is a handover.{/idea} Someone held it before you. The question now is what you do with your turn.",
+    "old": "This position is mine to enjoy.",
+    "new": "Whatever I have been handed is a turn, and Allah is watching how I use it.",
+    "try": "Look at one role you hold today and ask: how would I want this turn to look when it ends?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

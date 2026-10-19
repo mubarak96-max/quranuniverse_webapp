@@ -1,0 +1,234 @@
+[
+  {
+    "id": "69:13", "surah": 69, "ayah": 13, "place": "makkah",
+    "title": "One blast of the Horn, and it begins.",
+    "subtitle": "Allah's command needs no second time",
+    "picture": {"kind": "boxes", "label": "The blowings", "row": [
+      {"box": "trap", "title": "fright", "sub": []},
+      {"box": "trap", "title": "destruction", "sub": []},
+      {"box": "idea", "title": "standing", "sub": ["resurrection and gathering"]}]},
+    "key": {"label": "Why one blast", "row": [
+      {"box": "people", "title": "it may need repeating", "sub": [], "strike": true},
+      {"box": "idea", "title": "His command is not resisted", "sub": ["once is enough"]}]},
+    "then": "Ibn Kathir describes the blowings of the Horn: of fright, of destruction, then {idea}of standing before the Lord of all that exists.{/idea} It is called one blowing because {idea}the command of Allah cannot be opposed{/idea} and does not need repeating.",
+    "now": "Your alarm rings and you hit snooze three times. Your mother calls you for dinner five times. {trap}We are used to second chances to get up.{/trap} {idea}On that Day, one call is enough for everyone.{/idea}",
+    "old": "I will respond when the call gets serious.",
+    "new": "When Allah calls, there is no snooze. Better to answer His calls now.",
+    "try": "Get up for the next adhan on the first call, without waiting.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:14", "surah": 69, "ayah": 14, "place": "makkah",
+    "title": "Earth and mountains lifted and leveled in one blow.",
+    "subtitle": "The firmest things are not permanent",
+    "picture": {"kind": "boxes", "label": "What changes", "row": [
+      {"box": "people", "title": "the earth", "sub": []},
+      {"box": "people", "title": "the mountains", "sub": []},
+      {"conn": "one crushing"},
+      {"box": "trap", "title": "stretched flat", "sub": ["changed into another earth"]}]},
+    "key": {"label": "What is solid", "row": [
+      {"box": "people", "title": "the ground under me", "sub": [], "strike": true},
+      {"box": "idea", "title": "only Allah", "sub": []}]},
+    "then": "Ibn Kathir says the earth and mountains {trap}will be stretched out to the extent of the surface{/trap}, and {idea}the earth will change into something other than the earth.{/idea} All of it in a single crushing.",
+    "now": "You say solid as a rock. You buy land because land lasts. Your house sits on ground you never think about. {trap}Even mountains are temporary.{/trap} {idea}Build on what does not end.{/idea}",
+    "old": "Some things in this world are permanent.",
+    "new": "Even mountains will be leveled. Only Allah and what is for Him remains.",
+    "try": "Next time you see a hill or a tall building today, remember it is temporary and say subhanAllah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:15", "surah": 69, "ayah": 15, "place": "makkah",
+    "title": "On that Day, the Event will have happened.",
+    "subtitle": "The waiting is over",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "the warnings", "sub": ["for centuries"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the Event occurs", "sub": ["the Day of Judgment"]}]},
+    "key": {"label": "Its timing", "row": [
+      {"box": "people", "title": "it will happen someday", "sub": [], "strike": true},
+      {"box": "idea", "title": "it will have happened", "sub": ["spoken as already done"]}]},
+    "then": "After the Horn and the leveling, the verse says the Event {idea}will occur{/idea}, and Ibn Kathir explains it means {idea}the Day of Judgment.{/idea} The deniers of Makkah who said it would never come would see it.",
+    "now": "You keep saying I will start next month. Next Ramadan. When things calm down. {trap}There will be a day when there is no next.{/trap} {idea}That Day is called the Event.{/idea}",
+    "old": "There is always more time to get ready.",
+    "new": "The Event will come as surely as if it already happened.",
+    "try": "Take one good thing you keep postponing and start a small piece of it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:16", "surah": 69, "ayah": 16, "place": "makkah",
+    "title": "The sky will split, weak and torn that Day.",
+    "subtitle": "The roof over the world gives way",
+    "picture": {"kind": "boxes", "label": "The sky", "row": [
+      {"box": "people", "title": "today", "sub": ["firm and whole"]},
+      {"conn": "that Day"},
+      {"box": "trap", "title": "split open", "sub": ["frail and torn"]}]},
+    "key": {"label": "What I take for granted", "row": [
+      {"box": "people", "title": "the sky will always hold", "sub": [], "strike": true},
+      {"box": "idea", "title": "it holds by His command", "sub": []}]},
+    "then": "Ibn Jurayj linked this to another verse: {idea}the heaven shall be opened, it will become as gates.{/idea} Ibn Abbas said {trap}the sky will be torn apart{/trap}, and the Throne will be near it.",
+    "now": "You look up from the bus stop and the sky is just there, blue or grey, always. {idea}It holds because Allah holds it.{/idea} One day He will let it open.",
+    "old": "The sky is just the background of my life.",
+    "new": "The sky stays whole by Allah's command, and one day it will open.",
+    "try": "Look up at the sky once today for ten seconds and remember Who holds it.",
+    "related": ["78:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:17", "surah": 69, "ayah": 17, "place": "makkah",
+    "title": "Angels at the edges, and eight bear the Throne.",
+    "subtitle": "The scene of the Lord's court",
+    "picture": {"kind": "boxes", "label": "The scene", "row": [
+      {"box": "people", "title": "the angels", "sub": ["on the sides of the sky"]},
+      {"box": "idea", "title": "the Throne", "sub": ["of your Lord"]},
+      {"box": "people", "title": "8", "sub": ["angels bearing it"], "num": true}]},
+    "key": {"label": "Their size", "row": [
+      {"box": "people", "title": "like us", "sub": [], "strike": true},
+      {"box": "idea", "title": "beyond measure", "sub": ["ear to shoulder: 700 years"]}]},
+    "then": "Ar-Rabi' said the angels will stand {idea}on the sides of the heavens, looking at the people of the earth.{/idea} Eight angels will carry the Throne. The Prophet ﷺ said of one of them: {idea}between his earlobe and shoulder is seven hundred years of travel.{/idea}",
+    "now": "You have stood in a big airport, a stadium, a grand hall, and felt small. {idea}That Day's scene makes all of it nothing.{/idea} You will be standing in it too.",
+    "old": "I am the center of my own world.",
+    "new": "Before the Throne and its angels, I am small, and that is the right size.",
+    "try": "In your next sujood, remember the greatness of the One you bow to.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:18", "surah": 69, "ayah": 18, "place": "makkah",
+    "title": "Presented before Allah, with nothing hidden.",
+    "subtitle": "No secret stays secret that Day",
+    "picture": {"kind": "boxes", "label": "Three presentations", "row": [
+      {"box": "people", "title": "1 and 2", "sub": ["arguing and excuses"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "3", "sub": ["records fly into hands"]}]},
+    "key": {"label": "What can be hidden", "row": [
+      {"box": "people", "title": "my private life", "sub": [], "strike": true},
+      {"box": "idea", "title": "nothing", "sub": ["He knows all things hidden"]}]},
+    "then": "Ibn Kathir says you will be presented to {idea}the Knower of secrets and private counsels{/idea}, from Whom none of your affairs are hidden. The Prophet ﷺ said people will be shown three times: {trap}twice with arguing and excuses{/trap}, then the records fly into their hands.",
+    "now": "Your search history. The deleted messages. The thought you never said out loud. {trap}You might have an excuse ready for each.{/trap} {idea}That Day, excuses run out and only the record speaks.{/idea}",
+    "old": "I can always explain myself later.",
+    "new": "Nothing is hidden from Allah, so I live now as if my record is open.",
+    "try": "Delete or stop one thing in your private life you would not want shown that Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:19", "surah": 69, "ayah": 19, "place": "makkah",
+    "title": "Here, read my record! The joy of the right hand.",
+    "subtitle": "So happy you want everyone to see",
+    "picture": {"kind": "boxes", "label": "The right hand", "row": [
+      {"box": "reward", "title": "record in right hand", "sub": []},
+      {"conn": "says to all"},
+      {"box": "reward", "title": "here, read it!", "sub": ["out of pure joy"]}]},
+    "key": {"label": "Why so happy", "row": [
+      {"box": "people", "title": "he was perfect", "sub": [], "strike": true},
+      {"box": "reward", "title": "Allah covered and forgave", "sub": ["I concealed them for you"]}]},
+    "then": "Ibn Kathir says, out of {reward}extreme pleasure{/reward}, he says to everyone: take my book and read it. The Prophet ﷺ said Allah will bring a servant close, make him admit his sins, then say: {reward}I concealed these for you in the world, and I forgive you today.{/reward}",
+    "now": "Remember getting a great report card and showing everyone at home. Now imagine that, but forever. {reward}And not because you never failed.{/reward} {idea}Because Allah covered and forgave.{/idea}",
+    "old": "Only people with spotless records will be happy that Day.",
+    "new": "Joy that Day can come from Allah's covering and forgiveness of my faults.",
+    "try": "Ask Allah tonight: cover my faults in this world and forgive them on that Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:20", "surah": 69, "ayah": 20, "place": "makkah",
+    "title": "I was certain I would meet my account.",
+    "subtitle": "The belief that shaped a whole life",
+    "picture": {"kind": "boxes", "label": "His secret", "row": [
+      {"box": "idea", "title": "certainty", "sub": ["this Day will come"]},
+      {"conn": "led to"},
+      {"box": "reward", "title": "the right hand", "sub": []}]},
+    "key": {"label": "What made the difference", "row": [
+      {"box": "people", "title": "lucky", "sub": [], "strike": true},
+      {"box": "idea", "title": "lived expecting the account", "sub": []}]},
+    "then": "Ibn Kathir explains he means: {idea}I used to be certain in the worldly life that this Day would definitely come.{/idea} He links it to the verse about those {idea}certain that they will meet their Lord.{/idea}",
+    "now": "You keep receipts because you know tax season comes. You study because the exam is on the calendar. {idea}The person who expects the account lives differently.{/idea} {reward}That certainty is what he is thankful for.{/reward}",
+    "old": "I believe in the Day of Judgment, but it does not change my week.",
+    "new": "Real certainty about meeting my account changes how I live today.",
+    "try": "Before one decision today, ask: how will this look when I meet my account?",
+    "related": ["2:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:21", "surah": 69, "ayah": 21, "place": "makkah",
+    "title": "So he lives a life he is fully pleased with.",
+    "subtitle": "Satisfaction that never wears off",
+    "picture": {"kind": "boxes", "label": "His life now", "row": [
+      {"box": "reward", "title": "a pleasing life", "sub": ["pleasant, satisfying"]},
+      {"conn": "for"},
+      {"box": "people", "title": "the one who expected the account", "sub": []}]},
+    "key": {"label": "Contentment", "row": [
+      {"box": "trap", "title": "always wanting more", "sub": ["the world's way"], "strike": true},
+      {"box": "reward", "title": "fully pleased", "sub": ["Paradise's way"]}]},
+    "then": "Ibn Kathir says this life is {reward}pleasant.{/reward} After a life of being certain he would meet his account, the one with the right hand {reward}is now in a life he is fully pleased with.{/reward}",
+    "now": "The new phone feels great for a week. The promotion for a month. {trap}Then the satisfaction fades and you want the next thing.{/trap} {reward}This verse describes a contentment that does not fade.{/reward}",
+    "old": "If I get the next thing, I will finally be satisfied.",
+    "new": "Lasting satisfaction is what Allah promises, not what the next purchase brings.",
+    "try": "Notice one want today. Instead of buying, say: Allah, give me the life that truly pleases.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:22", "surah": 69, "ayah": 22, "place": "makkah",
+    "title": "In a garden raised high.",
+    "subtitle": "Paradise has levels far above each other",
+    "picture": {"kind": "boxes", "label": "The garden", "row": [
+      {"box": "reward", "title": "lofty", "sub": ["elevated dwellings, eternal joy"]},
+      {"box": "reward", "title": "100", "sub": ["levels"], "num": true},
+      {"conn": "each apart like"},
+      {"box": "plain", "title": "earth and sky", "sub": []}]},
+    "key": {"label": "How high", "row": [
+      {"box": "people", "title": "one equal level", "sub": [], "strike": true},
+      {"box": "reward", "title": "a hundred levels", "sub": ["each a world apart"]}]},
+    "then": "Ibn Kathir describes it as {reward}elevated, with pleasant stations and eternal joy.{/reward} The Prophet ﷺ said {reward}Paradise has one hundred levels{/reward}, and between each two is like the distance between earth and sky.",
+    "now": "People aim for the top floor apartment, the corner office, the penthouse view. {idea}This garden is higher than any of it.{/idea} {reward}And there are levels above levels.{/reward}",
+    "old": "Just getting in is enough. Why aim higher?",
+    "new": "Paradise is lofty and has many levels, so it is worth striving to rise.",
+    "try": "Add one extra good deed today, aiming a little higher than yesterday.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:23", "surah": 69, "ayah": 23, "place": "makkah",
+    "title": "Its fruit hangs low, within easy reach.",
+    "subtitle": "Nothing out of reach anymore",
+    "picture": {"kind": "boxes", "label": "The fruit", "row": [
+      {"box": "reward", "title": "bunches near", "sub": ["low, at hand"]},
+      {"conn": "reached"},
+      {"box": "people", "title": "even lying down", "sub": ["Al-Bara'"]}]},
+    "key": {"label": "Effort", "row": [
+      {"box": "people", "title": "the world", "sub": ["work, stretch, struggle"]},
+      {"box": "reward", "title": "the garden", "sub": ["it comes to you"]}]},
+    "then": "Al-Bara' bin 'Azib said the fruit will be {reward}close enough to reach while lying on one's bed.{/reward} More than one early scholar said the same. {idea}Nothing will need straining for.{/idea}",
+    "now": "You work two jobs for things that always seem one paycheck away. You stretch for promotions that keep moving. {trap}Here, everything is just out of reach.{/trap} {reward}There, it is close.{/reward}",
+    "old": "Life is always reaching for things I cannot quite get.",
+    "new": "The struggle of reaching ends in a garden where everything is near.",
+    "try": "When something feels out of reach today, say: Allah, make Paradise's fruit near for me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "69:24", "surah": 69, "ayah": 24, "place": "makkah",
+    "title": "Eat and drink in peace for what you sent ahead.",
+    "subtitle": "The days you lived are now the meal",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "people", "title": "days past", "sub": ["what you sent ahead"]},
+      {"conn": "now"},
+      {"box": "reward", "title": "eat and drink", "sub": ["with ease"]},
+      {"conn": "by"},
+      {"box": "idea", "title": "Allah's mercy", "sub": []}]},
+    "key": {"label": "What gets you in", "row": [
+      {"box": "people", "title": "my deeds alone", "sub": [], "strike": true},
+      {"box": "reward", "title": "deeds and His mercy", "sub": ["not even the Prophet ﷺ without it"]}]},
+    "then": "Ibn Kathir calls this {reward}an invitation of blessing, favor and goodness.{/reward} The Prophet ﷺ said: work and strive, and know that {idea}none of you enters Paradise by his deeds alone{/idea}, not even me, {reward}unless Allah covers me with His mercy.{/reward}",
+    "now": "The fast in summer, the night you visited the sick, the money you gave quietly. {idea}They feel like they vanish.{/idea} {reward}They are being sent ahead.{/reward} And Allah's mercy is what makes the meal.",
+    "old": "My good deeds disappear into nothing.",
+    "new": "What I do now is sent ahead, and Allah's mercy turns it into a feast.",
+    "try": "Do one good deed today and think of it as sending a meal ahead for yourself.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

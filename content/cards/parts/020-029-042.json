@@ -1,0 +1,279 @@
+[
+  {
+    "id": "20:29", "surah": 20, "ayah": 29, "place": "makkah",
+    "title": "Give me a helper from my own family.",
+    "subtitle": "Asking for support, not going alone",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "people", "title": "Musa", "sub": ["a heavy mission"]},
+      {"conn": "asks for"},
+      {"box": "reward", "title": "a helper", "sub": ["from his family"]}]},
+    "key": {"label": "What strength looks like", "row": [
+      {"box": "people", "title": "do it alone", "sub": ["needing help is weakness"], "strike": true},
+      {"box": "idea", "title": "ask for a partner", "sub": ["a prophet asked too"]}]},
+    "then": "After asking for an open chest and an untied tongue, Musa asked for {reward}a helper from his family{/reward}. Ibn Kathir notes this request was {idea}about someone other than himself{/idea}: his brother. Even a messenger of Allah did not want to face Pharaoh alone.",
+    "now": "You are caring for a sick parent, juggling work and kids, and you have not told your siblings how tired you are. {idea}Asking for help is not failing.{/idea} Musa asked, and Allah answered.",
+    "old": "If I really were strong, I would not need anyone.",
+    "new": "Asking Allah for the right helper is part of taking the task seriously.",
+    "try": "Message one family member today and ask for one specific bit of help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:30", "surah": 20, "ayah": 30, "place": "makkah",
+    "title": "Harun, my brother.",
+    "subtitle": "The most beneficial brother there ever was",
+    "picture": {"kind": "boxes", "label": "What he asked for", "row": [
+      {"box": "people", "title": "Musa", "sub": ["made a prophet"]},
+      {"conn": "asks for"},
+      {"box": "reward", "title": "Harun", "sub": ["made a prophet too"]}]},
+    "key": {"label": "A bedouin's question", "row": [
+      {"box": "people", "title": "who helped most", "sub": ["which brother, ever"]},
+      {"box": "idea", "title": "Musa", "sub": ["asked prophethood for his brother"]}]},
+    "then": "Ibn Abbas said {reward}Harun was made a Prophet at the same moment as Musa{/reward}. Aishah once heard a bedouin ask which brother was most beneficial to his brother. He answered: Musa, when he asked prophethood for his brother. {idea}Aishah said he had spoken truthfully.{/idea}",
+    "now": "Your brother is applying for the same kind of job you got. You could stay quiet, or you could pass on his CV and put in a word. {idea}The best brother wants good for the other{/idea}, even the good he has himself.",
+    "old": "What I am given is mine. My siblings can find their own.",
+    "new": "The best thing I can ask for my family is a share of the good I was given.",
+    "try": "Make dua by name for one sibling or cousin today, asking for them what you want for yourself.",
+    "related": ["33:69"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:31", "surah": 20, "ayah": 31, "place": "makkah",
+    "title": "Strengthen my back through him.",
+    "subtitle": "The person who makes you stand firmer",
+    "picture": {"kind": "boxes", "label": "What a helper does", "row": [
+      {"box": "people", "title": "Harun", "sub": ["at his side"]},
+      {"conn": "strengthens"},
+      {"box": "idea", "title": "Musa's back", "sub": ["so he can stand"]}]},
+    "key": {"label": "Where strength comes from", "row": [
+      {"box": "people", "title": "only from me", "sub": ["my own grit"], "strike": true},
+      {"box": "reward", "title": "through others", "sub": ["Allah gives it through people"]}]},
+    "then": "Mujahid said this means {idea}make my back strong{/idea}. Musa knew he was walking toward the most powerful king of his age. He asked Allah to {reward}give him strength through his brother{/reward}, a person who would stand behind him.",
+    "now": "The friend who sits with you in the hospital corridor. The coworker who backs you up in the meeting. The wife who says \"you can do this\" before the interview. {reward}Allah sends strength through people.{/reward}",
+    "old": "Other people are a distraction from my own effort.",
+    "new": "Allah can strengthen my back through the right person beside me.",
+    "try": "Thank one person today who makes you stand stronger, and tell them how.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:32", "surah": 20, "ayah": 32, "place": "makkah",
+    "title": "Let him share my task with me.",
+    "subtitle": "A partner to consult, not just a helper",
+    "picture": {"kind": "boxes", "label": "Sharing the load", "row": [
+      {"box": "people", "title": "Musa", "sub": []},
+      {"conn": "shares with"},
+      {"box": "people", "title": "Harun", "sub": ["his consultant"]},
+      {"box": "idea", "title": "one task", "sub": ["carried together"]}]},
+    "key": {"label": "Kind of partner", "row": [
+      {"box": "people", "title": "an assistant", "sub": ["does what he is told"], "strike": true},
+      {"box": "idea", "title": "a consultant", "sub": ["shares the thinking"]}]},
+    "then": "Ibn Kathir explains \"share my task\" as {idea}make him my consultant in this matter{/idea}. Musa did not just want someone to carry bags. He wanted {reward}a partner in the decisions{/reward} of a heavy mission.",
+    "now": "At home, one parent makes every decision and the other only follows orders. At work, the team lead never asks anyone's view. {idea}Sharing a task means sharing the thinking{/idea}, not just handing out chores.",
+    "old": "Delegating means telling others what to do.",
+    "new": "A real partner shares the decisions, not only the work.",
+    "try": "Ask someone you share a task with: what do you think we should do? Then really listen.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:33", "surah": 20, "ayah": 33, "place": "makkah",
+    "title": "So that together we glorify You much.",
+    "subtitle": "The point of all the help",
+    "picture": {"kind": "boxes", "label": "Why he wanted help", "row": [
+      {"box": "people", "title": "two brothers", "sub": ["one mission"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "glorify You", "sub": ["much"]}]},
+    "key": {"label": "What the help is for", "row": [
+      {"box": "trap", "title": "an easier life", "sub": ["less work for me"], "strike": true},
+      {"box": "idea", "title": "more worship", "sub": ["praise Allah together"]}]},
+    "then": "Musa gave the reason for every request so far: {idea}that we may glorify You much{/idea}. His chest, his tongue, his brother were all asked for one purpose. The help was {reward}for more praise of Allah{/reward}, not for comfort.",
+    "now": "You pray for a better job, a bigger flat, a good spouse. Ask yourself what you want them for. {idea}Musa tied every request to glorifying Allah.{/idea} Your dua can carry that same reason.",
+    "old": "I ask Allah for things so my life gets easier.",
+    "new": "I can ask for good things so I can praise Him more with them.",
+    "try": "Add \"so I can worship You better\" to one dua you make today, and mean it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:34", "surah": 20, "ayah": 34, "place": "makkah",
+    "title": "And remember You much.",
+    "subtitle": "What counts as much remembrance",
+    "picture": {"kind": "boxes", "label": "Remembering much", "row": [
+      {"box": "people", "title": "standing", "sub": []},
+      {"box": "people", "title": "sitting", "sub": []},
+      {"box": "people", "title": "lying down", "sub": []},
+      {"conn": "all"},
+      {"box": "idea", "title": "remembering Allah", "sub": ["Mujahid's measure"]}]},
+    "key": {"label": "Where remembrance lives", "row": [
+      {"box": "people", "title": "only on the mat", "sub": ["five slots a day"], "strike": true},
+      {"box": "idea", "title": "in every posture", "sub": ["through the whole day"]}]},
+    "then": "Mujahid said a servant is not counted among those who remember Allah much {idea}until he remembers Allah while standing, sitting and lying down{/idea}. Musa wanted his brother with him so that remembrance would {reward}fill their days{/reward}.",
+    "now": "Standing in the queue at the pharmacy. Sitting in traffic. Lying in bed before sleep, scrolling. {idea}Each of those is a place to remember Him{/idea}, without anyone noticing.",
+    "old": "Remembering Allah is something I do at set times.",
+    "new": "Remembering Him much means bringing Him into every posture of my day.",
+    "try": "Say subhanAllah once while standing, once while sitting, and once while lying down today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:35", "surah": 20, "ayah": 35, "place": "makkah",
+    "title": "You have always been watching over us.",
+    "subtitle": "Ending the dua with trust",
+    "picture": {"kind": "boxes", "label": "What He saw", "row": [
+      {"box": "idea", "title": "You see us", "sub": ["always"]},
+      {"conn": "in"},
+      {"box": "reward", "title": "choosing us", "sub": ["sending us out"]}]},
+    "key": {"label": "How the dua ends", "row": [
+      {"box": "trap", "title": "please notice me", "sub": ["as if He might not"], "strike": true},
+      {"box": "idea", "title": "You already see", "sub": ["all praise to You"]}]},
+    "then": "Musa closed his dua with {idea}You are ever seeing us{/idea}. Ibn Kathir explains: You saw us in choosing us, giving us prophethood and sending us to Your enemy. {reward}So all praise is Yours.{/reward}",
+    "now": "You finish a long dua and the room is quiet. Nothing happens. You wonder if anyone heard. {idea}He was watching before you started{/idea}, and He saw every step that led you here.",
+    "old": "I have to convince Allah to pay attention to me.",
+    "new": "He has been watching me all along. My dua starts from His care.",
+    "try": "End your next dua with \"You see me, O Allah\" and sit for a few seconds in that thought.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:36", "surah": 20, "ayah": 36, "place": "makkah",
+    "title": "Musa, you have been given what you asked.",
+    "subtitle": "A full answer to a long dua",
+    "picture": {"kind": "boxes", "label": "What he asked", "row": [
+      {"box": "people", "title": "open chest", "sub": []},
+      {"box": "people", "title": "easy task", "sub": []},
+      {"box": "people", "title": "untied tongue", "sub": []},
+      {"box": "people", "title": "Harun", "sub": []},
+      {"conn": "answer"},
+      {"box": "reward", "title": "granted", "sub": ["all of it"]}]},
+    "key": {"label": "How it was answered", "row": [
+      {"box": "people", "title": "maybe one", "sub": ["the rest can wait"], "strike": true},
+      {"box": "reward", "title": "every request", "sub": ["and a reminder of more"]}]},
+    "then": "Ibn Kathir calls this {reward}Allah's response to what Musa requested{/reward}. Then comes {idea}a reminder of earlier favors{/idea}: Allah had been caring for Musa long before he ever asked.",
+    "now": "You made a long list in your dua: health, a job, help with your family. You almost feel greedy. {reward}Allah answered every line of Musa's list.{/reward} Asking a lot from the Generous is not rude.",
+    "old": "I should keep my duas small so I do not ask too much.",
+    "new": "Musa asked for many things and was given all of them. I can ask Him fully.",
+    "try": "Write a list of five things you need and ask Allah for each one tonight.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:37", "surah": 20, "ayah": 37, "place": "makkah",
+    "title": "We were kind to you once before.",
+    "subtitle": "Remembering past care before new trials",
+    "picture": {"kind": "boxes", "label": "Two favors", "row": [
+      {"box": "reward", "title": "now", "sub": ["dua answered"]},
+      {"conn": "and before"},
+      {"box": "reward", "title": "as a baby", "sub": ["saved from Pharaoh"]}]},
+    "key": {"label": "When care began", "row": [
+      {"box": "people", "title": "when I asked", "sub": ["Allah reacts to my dua"], "strike": true},
+      {"box": "idea", "title": "before I knew", "sub": ["care from the start"]}]},
+    "then": "Before sending Musa into danger, Allah reminded him that He had {reward}conferred a favor on him another time{/reward}. Ibn Kathir says the verses now recall {idea}Allah's previous favors{/idea}, starting from when Musa was a nursing baby.",
+    "now": "Before a scary surgery, your mother tells you about the time you were born early and nearly did not make it. {idea}Remembering past rescue{/idea} gives you courage for this one.",
+    "old": "Allah's help starts when I finally remember to ask.",
+    "new": "He was caring for me before I could speak. That past care is a promise for now.",
+    "try": "Ask an older relative about a hard moment from your childhood that you came through.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:38", "surah": 20, "ayah": 38, "place": "makkah",
+    "title": "We put the plan into his mother's heart.",
+    "subtitle": "A frightened mother, guided",
+    "picture": {"kind": "boxes", "label": "That year", "row": [
+      {"box": "trap", "title": "boys killed", "sub": ["Pharaoh's order"]},
+      {"box": "people", "title": "his mother", "sub": ["nursing, afraid"]},
+      {"conn": "inspired"},
+      {"box": "idea", "title": "a plan", "sub": ["from Allah"]}]},
+    "key": {"label": "Who was guiding", "row": [
+      {"box": "people", "title": "just instinct", "sub": ["a desperate guess"], "strike": true},
+      {"box": "idea", "title": "inspiration", "sub": ["Allah's direction"]}]},
+    "then": "Musa was born in a year when {trap}Pharaoh's people were killing every male child{/trap}. His mother was nursing him and terrified. Allah {idea}inspired her with what to do{/idea}. A frightened woman alone was being quietly guided.",
+    "now": "A new mother in a cramped flat, rent overdue, baby crying at 3am, no idea what to do next. {idea}Allah can place the next step in your heart{/idea}, even when you feel completely alone.",
+    "old": "When I am terrified, I am on my own.",
+    "new": "Allah guided a terrified mother. He can put the next step into my heart too.",
+    "try": "In your next moment of panic, pause and ask: O Allah, show me the next step.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:39", "surah": 20, "ayah": 39, "place": "makkah",
+    "title": "Raised in the enemy's house, under Allah's eye.",
+    "subtitle": "Love placed on him from Allah",
+    "picture": {"kind": "boxes", "label": "The river's route", "row": [
+      {"box": "people", "title": "baby in a chest", "sub": ["cast in the river"]},
+      {"conn": "carried to"},
+      {"box": "trap", "title": "Pharaoh's house", "sub": ["the enemy"]},
+      {"box": "reward", "title": "loved there", "sub": ["love from Allah"]}]},
+    "key": {"label": "Where safety was", "row": [
+      {"box": "trap", "title": "far from danger", "sub": ["away from the enemy"], "strike": true},
+      {"box": "idea", "title": "under My Eye", "sub": ["even in his house"]}]},
+    "then": "Pharaoh killed baby boys {trap}fearing Musa's arrival{/trap}. Ibn Kathir says Allah decreed Musa would be raised on Pharaoh's own bed, fed by his food, loved by him and his wife. Allah said {reward}I endued you with love from Me{/reward}: He made his enemy love him.",
+    "now": "You start a job where the manager seems set against you. Or you move to a school where nobody knows you. {idea}Allah can place love for you in hearts you thought were closed{/idea}. You are raised under His eye wherever you land.",
+    "old": "I am only safe when I am far from people who could harm me.",
+    "new": "Allah can keep me safe even in the house of the one I fear.",
+    "try": "Make dua for Allah to put love for you in the heart of one person who seems against you.",
+    "related": ["28:10", "28:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:40", "surah": 20, "ayah": 40, "place": "makkah",
+    "title": "Every detour led you here at the set time.",
+    "subtitle": "Rescue, trial, exile, then the appointment",
+    "picture": {"kind": "boxes", "label": "His road", "row": [
+      {"box": "reward", "title": "back to mother", "sub": ["her eyes cooled"]},
+      {"box": "trap", "title": "killed a man", "sub": ["saved from distress"]},
+      {"box": "people", "title": "years in Madyan", "sub": ["a shepherd"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "the set time", "sub": ["decreed by Allah"]}]},
+    "key": {"label": "What the detours were", "row": [
+      {"box": "trap", "title": "wasted years", "sub": ["exile, mistakes, sheep"], "strike": true},
+      {"box": "idea", "title": "on schedule", "sub": ["arriving at His decree"]}]},
+    "then": "His sister found a way back to his mother, who nursed him {reward}so she would not grieve{/reward}. Later Musa killed a man and fled to Madyan. He herded sheep for years. Then {idea}he came at the time Allah had ordained{/idea}, without any appointment of his own.",
+    "now": "The degree you dropped. The years in a job you never wanted. The move abroad that did not work out. {idea}It can all look like a wrong turn{/idea}. Musa's sheep years were part of the road to the valley.",
+    "old": "Those years of my life were wasted.",
+    "new": "Allah can bring me through every detour and still arrive me on time.",
+    "try": "Name one season you call wasted and write one thing it taught you.",
+    "related": ["28:12", "28:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:41", "surah": 20, "ayah": 41, "place": "makkah",
+    "title": "I have chosen you for Myself.",
+    "subtitle": "Selected by Allah, for Allah",
+    "picture": {"kind": "boxes", "label": "Who he belongs to", "row": [
+      {"box": "people", "title": "Musa", "sub": ["shepherd, exile"]},
+      {"conn": "chosen"},
+      {"box": "idea", "title": "for Allah", "sub": ["a Messenger for Himself"]}]},
+    "key": {"label": "Why chosen", "row": [
+      {"box": "people", "title": "he earned it", "sub": ["by his record"], "strike": true},
+      {"box": "idea", "title": "Allah's will", "sub": ["as He wished"]}]},
+    "then": "Ibn Kathir explains: {idea}I have chosen you and selected you to be a Messenger for Myself{/idea}, as I wish. He cites the hadith where Adam reminded Musa that {reward}Allah selected him for Himself{/reward} and revealed the Tawrah to him.",
+    "now": "You keep a list in your head of your failures. Musa had one too: a man killed, years in exile. {idea}Allah still chose him.{/idea} Being picked by Allah is about His will, not your perfect record.",
+    "old": "My past rules me out from doing anything good for Allah.",
+    "new": "Allah chooses as He wills. My past does not close the door He opens.",
+    "try": "Do one act of service today and tell yourself: Allah let me do this.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "20:42", "surah": 20, "ayah": 42, "place": "makkah",
+    "title": "Go with My signs, and never slacken in remembering Me.",
+    "subtitle": "Remembrance as the strength for the meeting",
+    "picture": {"kind": "boxes", "label": "What they carry", "row": [
+      {"box": "people", "title": "Musa and Harun", "sub": ["sent together"]},
+      {"conn": "with"},
+      {"box": "reward", "title": "My signs", "sub": ["proofs, miracles"]},
+      {"box": "idea", "title": "remembrance", "sub": ["their real power"]}]},
+    "key": {"label": "Their strength", "row": [
+      {"box": "people", "title": "the miracles", "sub": ["enough on their own"], "strike": true},
+      {"box": "idea", "title": "remembering Allah", "sub": ["even facing Pharaoh"]}]},
+    "then": "Ibn Abbas said \"do not slacken\" means {idea}do not be slow, do not be weak{/idea}. Ibn Kathir explains they should remember Allah even during their meeting with Pharaoh, so that remembrance would be {reward}their strength and their power{/reward} against him.",
+    "now": "You walk into the disciplinary meeting, the court date, the tense family dinner. Your mind races. {idea}Keep a word of dhikr moving on your tongue.{/idea} It is what holds you steady when the pressure is on.",
+    "old": "In hard moments I need my wits, not dhikr.",
+    "new": "Remembering Allah in the hard moment is where my strength comes from.",
+    "try": "Before your next stressful meeting, repeat \"hasbunAllah\" quietly as you walk in.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

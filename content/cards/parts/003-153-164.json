@@ -1,0 +1,248 @@
+[
+  {
+    "id": "3:153", "surah": 3, "ayah": 153, "place": "madinah",
+    "title": "Running uphill while he ﷺ called you back.",
+    "subtitle": "Grief upon grief, so the next grief weighs less",
+    "picture": {"kind": "boxes", "label": "The retreat at Uhud", "row": [
+      {"box": "people", "title": "the believers", "sub": ["fleeing up the slope"]},
+      {"box": "trap", "title": "not looking back", "sub": ["at anyone"]},
+      {"box": "idea", "title": "the Messenger ﷺ", "sub": ["calling from behind"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "distress on distress", "sub": ["one sorrow after another"]}]},
+    "key": {"label": "What the sorrow taught", "row": [
+      {"box": "trap", "title": "grieve the lost", "sub": ["the win, the spoils"], "strike": true},
+      {"box": "idea", "title": "loosen the grip", "sub": ["what passed, what struck"]}]},
+    "then": "When the battle turned, many believers ran up the hillside without looking at anyone, {trap}while the Messenger ﷺ was calling them from behind.{/trap} Allah repaid them with sorrow upon sorrow. The verse gives the reason: {idea}so they would not grieve over what escaped them or what hit them.{/idea}",
+    "now": "Panic makes you run. You stop answering your mother's calls, stop showing up at the masjid, stop reading. Someone keeps calling you back and you do not turn. {idea}Sometimes the heavier sorrow is what teaches you to stop clutching the smaller one.{/idea}",
+    "old": "When everything collapses, I just need to get away.",
+    "new": "In the panic, I listen for the voice calling me back, and I let go of what already passed.",
+    "try": "Reply to one message you have been avoiding since a hard moment.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:154", "surah": 3, "ayah": 154, "place": "madinah",
+    "title": "Some fell asleep in peace; others lay awake doubting Allah.",
+    "subtitle": "Two groups on the same battlefield",
+    "picture": {"kind": "boxes", "label": "After the distress", "row": [
+      {"box": "reward", "title": "drowsiness", "sub": ["security sent down"]},
+      {"box": "people", "title": "Abu Talhah", "sub": ["sword kept slipping from his hand"]},
+      {"box": "trap", "title": "the anxious group", "sub": ["thinking only of themselves"]},
+      {"conn": "said"},
+      {"box": "trap", "title": "if only", "sub": ["we would not have died here"]}]},
+    "key": {"label": "Whose is the matter", "row": [
+      {"box": "trap", "title": "if we had control", "sub": ["this would not happen"], "strike": true},
+      {"box": "idea", "title": "all of it is Allah's", "sub": ["the decree reaches anyway"]}]},
+    "then": "After the defeat, Allah sent a calm drowsiness on the believers. Abu Talhah said his sword kept falling from his hand. {trap}Another group could not sleep for worry, thinking wrongly of Allah{/trap} and whispering: if we had any say, none of us would be killed here. {idea}The reply: the whole matter belongs to Allah.{/idea}",
+    "now": "The hospital corridor at 3am. One person in the family sits quietly making dua. Another replays every choice: if we had gone to a different doctor, if we had come earlier. {idea}The decree was Allah's. The test is what it shows in your heart.{/idea}",
+    "old": "If I had controlled every detail, this would not have happened.",
+    "new": "I do my part, then rest the outcome with Allah, who owns the whole matter.",
+    "try": "Catch one if-only thought today and replace it with: the matter is Allah's.",
+    "related": ["8:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:155", "surah": 3, "ayah": 155, "place": "madinah",
+    "title": "One slip led to another, and Allah still forgave.",
+    "subtitle": "How a fall is set up earlier",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "trap", "title": "earlier errors", "sub": ["some of what they earned"]},
+      {"conn": "let"},
+      {"box": "trap", "title": "Shaytan", "sub": ["make them slip"]},
+      {"conn": "into"},
+      {"box": "trap", "title": "turning back", "sub": ["on the day of Uhud"]},
+      {"box": "reward", "title": "forgiven", "sub": ["Forgiving, Forbearing"]}]},
+    "key": {"label": "How deeds travel", "row": [
+      {"box": "idea", "title": "good leads to good", "sub": ["the next deed is easier"]},
+      {"box": "trap", "title": "sin leads to sin", "sub": ["the next slip is easier"]}]},
+    "then": "Some believers turned back at Uhud. The verse says Shaytan made them slip {trap}because of some of what they had earned before.{/trap} A saying of the early Muslims: one reward of a good deed is another good deed after it. {reward}Yet Allah had already forgiven them,{/reward} and 'Uthman later refused to be blamed for what Allah forgave.",
+    "now": "The big failure rarely comes from nowhere. It is the skipped prayers, the small lies, the late nights scrolling. Then one day you fold under pressure. {idea}Small choices set up big moments.{/idea} {reward}And forgiveness is still there after.{/reward}",
+    "old": "My big failures come out of nowhere.",
+    "new": "My big moments are shaped by small earlier choices, and Allah forgives the one who turns back.",
+    "try": "Pick one small good deed and do it today, to make the next one easier.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:156", "surah": 3, "ayah": 156, "place": "madinah",
+    "title": "If they had stayed home, they would still be alive?",
+    "subtitle": "The thought that only grows the grief",
+    "picture": {"kind": "boxes", "label": "What the others said", "row": [
+      {"box": "people", "title": "their brothers", "sub": ["travelled or went to fight"]},
+      {"conn": "died, so"},
+      {"box": "trap", "title": "if they stayed with us", "sub": ["they would not have died"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "regret", "sub": ["deeper in the heart"]}]},
+    "key": {"label": "Who gives life", "row": [
+      {"box": "trap", "title": "the trip killed them", "sub": ["a different choice saves"], "strike": true},
+      {"box": "idea", "title": "Allah gives and takes", "sub": ["no day added or cut"]}]},
+    "then": "Some said about those who died travelling for trade or in battle: {trap}had they stayed with us, they would not have died.{/trap} Ibn Kathir says Allah lets that thought sit in their hearts so their grief grows. {idea}It is Allah who gives life and causes death.{/idea}",
+    "now": "A friend dies in a car crash on a trip. At the funeral someone says: why did he go, he should have stayed. The family hears it for years. {trap}That sentence only adds pain.{/trap} {idea}His term was written, wherever he was.{/idea}",
+    "old": "If they had made a different choice, they would still be here.",
+    "new": "Their time was set by Allah; blaming the trip only deepens the wound.",
+    "try": "If you comfort someone grieving this week, avoid if-only words. Say a dua for the one who died.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:157", "surah": 3, "ayah": 157, "place": "madinah",
+    "title": "Mercy is worth more than everything they pile up.",
+    "subtitle": "Dying on the right path is not a loss",
+    "picture": {"kind": "boxes", "label": "Weighing it", "row": [
+      {"box": "people", "title": "what they amass", "sub": ["wealth, years, comfort"]},
+      {"conn": "less than"},
+      {"box": "reward", "title": "forgiveness", "sub": ["from Allah"]},
+      {"box": "reward", "title": "mercy", "sub": ["from Allah"]}]},
+    "key": {"label": "What counts as losing", "row": [
+      {"box": "trap", "title": "dying early", "sub": ["missing out on life"], "strike": true},
+      {"box": "idea", "title": "dying forgiven", "sub": ["better than all they collect"]}]},
+    "then": "The believers were hearing the hypocrites mourn their dead as people who lost out. {idea}Death or martyrdom in Allah's way brings His forgiveness and mercy.{/idea} Ibn Kathir says this is {reward}better than staying in this life with its short delights.{/reward}",
+    "now": "You see people your age with the house, the car, the trips abroad. You wonder if your quieter, careful life is losing the race. {reward}Forgiveness and mercy from Allah outweigh every pile.{/reward}",
+    "old": "The one who collects the most has won.",
+    "new": "The one who leaves forgiven has won more than any collector.",
+    "try": "Ask Allah for forgiveness and mercy once today, by name, as the thing you want most.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:158", "surah": 3, "ayah": 158, "place": "madinah",
+    "title": "However you go, you go to Him.",
+    "subtitle": "Every death ends at the same gathering",
+    "picture": {"kind": "boxes", "label": "Two roads, one end", "row": [
+      {"box": "people", "title": "you die", "sub": ["in your bed"]},
+      {"box": "people", "title": "or are killed", "sub": ["out in the world"]},
+      {"conn": "both lead"},
+      {"box": "idea", "title": "to Allah", "sub": ["you will be gathered"]}]},
+    "key": {"label": "The real question", "row": [
+      {"box": "trap", "title": "how will I die", "sub": ["where, when"], "strike": true},
+      {"box": "idea", "title": "how will I arrive", "sub": ["with what deeds"]}]},
+    "then": "This closes the reply to those who said staying home would have saved their brothers. {idea}Whether you die or are killed, you will be gathered to Allah.{/idea} Ibn Kathir adds that He will reward good deeds and hold people to account for evil ones.",
+    "now": "You worry about how it will happen. The flight, the illness, the night drive home. {idea}The way out matters less than where every way leads.{/idea} What you bring with you is the part you can work on today.",
+    "old": "I mostly worry about how and when I will die.",
+    "new": "I care more about what I bring when I am gathered to Allah.",
+    "try": "Do one deed today you would be glad to arrive with.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:159", "surah": 3, "ayah": 159, "place": "madinah",
+    "title": "Gentleness is why they stayed around him ﷺ.",
+    "subtitle": "Pardon, consult, decide, then trust",
+    "picture": {"kind": "boxes", "label": "After people fail you", "row": [
+      {"box": "idea", "title": "pardon them", "sub": ["for the mistake"]},
+      {"box": "idea", "title": "pray for them", "sub": ["ask forgiveness for them"]},
+      {"box": "idea", "title": "consult them", "sub": ["still include them"]},
+      {"box": "reward", "title": "decide and trust", "sub": ["rely on Allah"]}]},
+    "key": {"label": "What holds people together", "row": [
+      {"box": "trap", "title": "harsh words", "sub": ["hard heart, people scatter"], "strike": true},
+      {"box": "idea", "title": "mercy from Allah", "sub": ["a soft heart gathers"]}]},
+    "then": "This came after Uhud, where some had disobeyed and fled. Allah tells the Prophet ﷺ that {idea}by His mercy he was gentle with them{/idea}, and {trap}had he been harsh, they would have scattered.{/trap} He ﷺ often consulted his Companions, as he did before Badr and Uhud.",
+    "now": "Your teenager crashed the car. Your colleague missed the deadline that cost the team. You want to shout and shut them out. {idea}Pardon, ask Allah to forgive them, and still ask for their opinion next time.{/idea} Then make the call and trust Allah.",
+    "old": "When people let me down, being harsh keeps them in line.",
+    "new": "Mercy keeps people close; I pardon, still involve them, decide, and trust Allah.",
+    "try": "Ask the opinion of someone who recently let you down, on one small decision.",
+    "related": ["9:128"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:160", "surah": 3, "ayah": 160, "place": "madinah",
+    "title": "If Allah helps you, no one can beat you.",
+    "subtitle": "And if He does not, who else could",
+    "picture": {"kind": "boxes", "label": "Only one source", "row": [
+      {"box": "reward", "title": "Allah helps", "sub": ["no one can overcome you"]},
+      {"box": "trap", "title": "Allah withdraws", "sub": ["who is left to help"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "rely on Him", "sub": ["the believers' choice"]}]},
+    "key": {"label": "Where help comes from", "row": [
+      {"box": "people", "title": "numbers and supplies", "sub": ["we have enough"], "strike": true},
+      {"box": "idea", "title": "from Allah alone", "sub": ["the Mighty, the Wise"]}]},
+    "then": "Right after telling the Prophet ﷺ to trust Allah once he decides, the verse widens it to all believers. Ibn Kathir links it to an earlier line: {idea}there is no victory except from Allah.{/idea} {trap}If He leaves you, no one after Him can help.{/trap}",
+    "now": "You have the right degree, the right referral, the right savings. You still feel fragile. Or you have none of it and feel hopeless. {idea}Neither list decides the outcome.{/idea} Do your part and lean on the One who does.",
+    "old": "My success depends on having enough resources and contacts.",
+    "new": "Resources are tools; the help itself comes from Allah.",
+    "try": "Before your next important task, say: I rely on Allah. Then begin.",
+    "related": ["3:126"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:161", "surah": 3, "ayah": 161, "place": "madinah",
+    "title": "Whatever you secretly take, you carry on that Day.",
+    "subtitle": "A prophet does not betray a trust",
+    "picture": {"kind": "boxes", "label": "The missing robe", "row": [
+      {"box": "people", "title": "a red robe", "sub": ["missing from Badr's spoils"]},
+      {"conn": "led to"},
+      {"box": "trap", "title": "a rumor", "sub": ["maybe the Prophet ﷺ took it"]},
+      {"conn": "answered"},
+      {"box": "idea", "title": "no prophet betrays", "sub": ["the one who does carries it"]}]},
+    "key": {"label": "What hidden taking becomes", "row": [
+      {"box": "trap", "title": "no one will know", "sub": ["it is small"], "strike": true},
+      {"box": "trap", "title": "you bring it", "sub": ["on the Day of Resurrection"]}]},
+    "then": "Ibn 'Abbas said this was revealed about a red robe missing from the spoils of Badr, when {trap}some said the Prophet ﷺ might have taken it.{/trap} The verse clears him: {idea}it is not for a prophet to betray a trust.{/idea} Whoever does will bring what he took on the Day.",
+    "now": "The office supplies that go home. The extra hours on the timesheet. The shared family money no one is tracking. {trap}It feels too small to count.{/trap} {idea}Every hidden taking is something you will carry.{/idea}",
+    "old": "Small things no one notices do not really count.",
+    "new": "What I take in secret I will carry in the open.",
+    "try": "Return or pay back one small thing that is not fully yours.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:162", "surah": 3, "ayah": 162, "place": "madinah",
+    "title": "Chasing His pleasure is not the same as earning His anger.",
+    "subtitle": "Two directions that never meet",
+    "picture": {"kind": "boxes", "label": "Two people", "row": [
+      {"box": "reward", "title": "follows His pleasure", "sub": ["keeps the trust"]},
+      {"conn": "is not like"},
+      {"box": "trap", "title": "draws His anger", "sub": ["and a wretched end"]}]},
+    "key": {"label": "The question", "row": [
+      {"box": "people", "title": "everyone ends the same", "sub": ["so why bother"], "strike": true},
+      {"box": "idea", "title": "not equal", "sub": ["the paths split for good"]}]},
+    "then": "This follows the verse about betraying a trust. {idea}Is the one who follows Allah's pleasure like the one who brings His anger on himself?{/idea} The question answers itself. {trap}One path ends in a wretched place.{/trap}",
+    "now": "You watch someone cut corners and still get the promotion. You start to wonder if honesty is just slower. {idea}The verse says the two are not the same, even if today's scoreboard looks equal.{/idea}",
+    "old": "If cheaters get ahead too, being honest makes no difference.",
+    "new": "The one seeking Allah's pleasure and the one earning His anger are never equal.",
+    "try": "Choose the honest option in one small choice today, even if it costs a little.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:163", "surah": 3, "ayah": 163, "place": "madinah",
+    "title": "People stand at different levels with Allah.",
+    "subtitle": "He sees exactly what each one does",
+    "picture": {"kind": "boxes", "label": "Levels", "row": [
+      {"box": "people", "title": "everyone", "sub": ["many kinds of effort"]},
+      {"conn": "placed in"},
+      {"box": "idea", "title": "degrees", "sub": ["with Allah"]},
+      {"conn": "by"},
+      {"box": "idea", "title": "the All-Seeing", "sub": ["sees what they do"]}]},
+    "key": {"label": "Who is ranking", "row": [
+      {"box": "trap", "title": "people's opinion", "sub": ["likes, titles, praise"], "strike": true},
+      {"box": "idea", "title": "Allah's sight", "sub": ["sees every deed"]}]},
+    "then": "After contrasting those who seek Allah's pleasure with those who earn His anger, the verse adds: {idea}they are in degrees with Allah{/idea}, and He sees what they do. {reward}No effort is missed.{/reward}",
+    "now": "Nobody saw you stay late to help the new hire, or sit with your father at the clinic all morning. Your post got no likes. {idea}Allah saw it, and He ranks by what He sees.{/idea}",
+    "old": "If no one notices my effort, it does not count.",
+    "new": "Allah sees every effort and places each person where they truly stand.",
+    "try": "Do one good thing today that no one will see.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "3:164", "surah": 3, "ayah": 164, "place": "madinah",
+    "title": "A Messenger from among them was the great gift.",
+    "subtitle": "Four things he ﷺ brought",
+    "picture": {"kind": "boxes", "label": "What he ﷺ did", "row": [
+      {"box": "idea", "title": "recites", "sub": ["Allah's verses"]},
+      {"box": "idea", "title": "purifies", "sub": ["their hearts and lives"]},
+      {"box": "idea", "title": "teaches the Book", "sub": ["the Quran"]},
+      {"box": "idea", "title": "teaches wisdom", "sub": ["how to live it"]}]},
+    "key": {"label": "Before and after", "row": [
+      {"box": "trap", "title": "clear error", "sub": ["before he came"]},
+      {"box": "reward", "title": "a great favor", "sub": ["guided, taught, cleaned"]}]},
+    "then": "Even after the pain of Uhud, Allah reminds the believers of {reward}the great favor He gave them{/reward}: a Messenger ﷺ from their own people. He recited the verses, purified them, and taught the Book and wisdom, {trap}though before that they were in clear error.{/trap}",
+    "now": "After a hard week you list everything that went wrong. The bills, the argument, the bad news. {reward}The list rarely includes that you have the Quran in your pocket and a Prophet's ﷺ example to follow.{/reward}",
+    "old": "When life is hard, I mostly count what is missing.",
+    "new": "Even on hard days, guidance itself is the biggest gift I hold.",
+    "try": "Read one hadith or one verse today and thank Allah for it by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

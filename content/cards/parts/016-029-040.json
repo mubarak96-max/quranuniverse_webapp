@@ -1,0 +1,241 @@
+[
+  {
+    "id": "16:29", "surah": 16, "ayah": 29, "place": "makkah",
+    "title": "Pride that would not bow ends in a wretched home.",
+    "subtitle": "Where arrogance toward the signs leads",
+    "picture": {"kind": "boxes", "label": "The path described", "row": [
+      {"box": "trap", "title": "arrogance", "sub": ["ignored the signs"]},
+      {"conn": "refused"},
+      {"box": "people", "title": "the Messengers", "sub": ["their warning"]},
+      {"conn": "ends at"},
+      {"box": "trap", "title": "an evil abode", "sub": ["for the arrogant"]}]},
+    "key": {"label": "What decides the end", "row": [
+      {"box": "trap", "title": "my excuse at death", "sub": ["\"we did no evil\""], "strike": true},
+      {"box": "idea", "title": "pride or humility", "sub": ["shown during life"]}]},
+    "then": "This continues the scene at death from the previous verse. Ibn Kathir explains it as {trap}a miserable place for those who were too arrogant to pay attention to the signs of Allah and follow His Messengers.{/trap} The verse names the arrogant directly.",
+    "now": "Pride is quiet at first. You skip the prayer because you are busy, wave off the reminder, decide you know better. {idea}The verse shows where that habit points{/idea}, and {reward}every day you can still turn it the other way.{/reward}",
+    "old": "A bit of pride is harmless; it is just confidence.",
+    "new": "Pride that refuses Allah's signs is the thing that ruins a person's end.",
+    "try": "Do one small act of worship today you have been putting off out of laziness or pride.",
+    "related": ["35:36", "40:46"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:30", "surah": 16, "ayah": 30, "place": "makkah",
+    "title": "Asked what was revealed, the mindful said: something good.",
+    "subtitle": "The same question, the opposite answer",
+    "picture": {"kind": "boxes", "label": "One question, two answers", "row": [
+      {"box": "trap", "title": "tales of old", "sub": ["the deniers, v. 24"], "strike": true},
+      {"box": "people", "title": "What did He reveal?", "sub": ["asked of both"]},
+      {"box": "reward", "title": "good", "sub": ["the mindful"]}]},
+    "key": {"label": "What doing good brings", "row": [
+      {"box": "reward", "title": "good here", "sub": ["in this world"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "better there", "sub": ["the home of the Hereafter"]}]},
+    "then": "Earlier the deniers called the revelation old fables. Now the same question goes to those who fear Allah. Ibn Kathir says they answer that {reward}He revealed something good: mercy and blessing for those who follow it.{/reward} The verse promises good in this world and better in the next.",
+    "now": "Someone at work asks what Islam actually tells you to do. You could shrug, or you could say: it tells me to be honest, to look after my parents, to pray. {idea}How you describe what you received shows how you see it.{/idea}",
+    "old": "Religion is a list of rules I have to put up with.",
+    "new": "What Allah sent down is good, and doing good brings good here and better later.",
+    "try": "Tell one person today one thing in the Quran you find genuinely good.",
+    "related": ["16:97", "28:80", "93:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:31", "surah": 16, "ayah": 31, "place": "makkah",
+    "title": "Gardens that last, rivers below, and whatever they wish.",
+    "subtitle": "The home promised to the mindful",
+    "picture": {"kind": "boxes", "label": "The home of the righteous", "row": [
+      {"box": "reward", "title": "Gardens of Eternity", "sub": ["they dwell forever"]},
+      {"box": "reward", "title": "rivers flow", "sub": ["between trees and palaces"]},
+      {"box": "reward", "title": "all they wish", "sub": ["nothing held back"]}]},
+    "key": {"label": "Who it is for", "row": [
+      {"box": "people", "title": "the lucky few", "sub": ["chosen at random"], "strike": true},
+      {"box": "idea", "title": "the mindful", "sub": ["believe, fear Him, do good"]}]},
+    "then": "This describes the home called excellent in the verse before. Ibn Kathir says these are Gardens of Eternity where they live forever, {reward}rivers flowing between their trees and palaces{/reward}, with all that souls desire. He adds that this is how Allah rewards everyone who believes, fears Him, and does good.",
+    "now": "Your flat is small, the rent is late, the commute is long. You scroll through pictures of homes you will never afford. {reward}There is a home with no rent, no lease ending, no moving out.{/reward} The way in is how you live now.",
+    "old": "My best home is the one I can buy in this life.",
+    "new": "The home worth working toward is the one that never ends.",
+    "try": "Next time you feel envy over someone's house, ask Allah for a home in Paradise instead.",
+    "related": ["43:71"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:32", "surah": 16, "ayah": 32, "place": "makkah",
+    "title": "Taken in a good state, they hear: peace be on you.",
+    "subtitle": "How the angels greet the righteous at death",
+    "picture": {"kind": "boxes", "label": "A good death", "row": [
+      {"box": "people", "title": "the believer", "sub": ["pure, free of shirk"]},
+      {"conn": "angels arrive"},
+      {"box": "reward", "title": "Salamun alaikum", "sub": ["peace be on you"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "Enter Paradise", "sub": ["for what you did"]}]},
+    "key": {"label": "Two deaths side by side", "row": [
+      {"box": "trap", "title": "false submission", "sub": ["v. 28, excuses"]},
+      {"box": "reward", "title": "greeted with peace", "sub": ["v. 32, good news"]}]},
+    "then": "This mirrors verse 28, where wrongdoers made excuses at death. Ibn Kathir says when death comes to believers {idea}free from shirk, impurity and evil{/idea}, the angels greet them and {reward}give them the good news of Paradise.{/reward} He links it to the angels who say: fear not, nor grieve.",
+    "now": "You sit in a hospital corridor waiting for news about your grandmother. You think about how she prayed every day for sixty years. {reward}Death can arrive as a greeting of peace.{/reward} What you do today decides which welcome you get.",
+    "old": "Death is only something to fear.",
+    "new": "For the one who lived well, death opens with a greeting of peace.",
+    "try": "Make a short dua today asking Allah for a good ending.",
+    "related": ["41:30", "14:27"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:33", "surah": 16, "ayah": 33, "place": "makkah",
+    "title": "What are they waiting for, the angels at death?",
+    "subtitle": "Delaying faith until it is too late",
+    "picture": {"kind": "boxes", "label": "What they are waiting for", "row": [
+      {"box": "people", "title": "the deniers", "sub": ["holding off"]},
+      {"conn": "until"},
+      {"box": "trap", "title": "angels at death", "sub": ["or the Day comes"]}]},
+    "key": {"label": "Who did the wrong", "row": [
+      {"box": "trap", "title": "Allah was unfair", "sub": ["they were not warned"], "strike": true},
+      {"box": "idea", "title": "they wronged themselves", "sub": ["Messengers and Books came"]}]},
+    "then": "The verse asks the idolators of Makkah what they are waiting for. Ibn Kathir says {trap}only the angels coming to take their souls, or the Day of Resurrection.{/trap} Allah did not wrong them, because {idea}He sent Messengers and Books and made His proofs clear.{/idea}",
+    "now": "You tell yourself you will start praying properly after the exams, after the wedding, after this busy season at work. {trap}The waiting has no end date you control.{/trap} The warning has already come.",
+    "old": "I will get serious about faith later, when life calms down.",
+    "new": "Waiting for later is a choice, and the warning has already reached me.",
+    "try": "Pick one thing you keep postponing for later and do the first small step today.",
+    "related": ["52:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:34", "surah": 16, "ayah": 34, "place": "makkah",
+    "title": "What they mocked is what surrounded them in the end.",
+    "subtitle": "Deeds return to the one who did them",
+    "picture": {"kind": "boxes", "label": "How it came back", "row": [
+      {"box": "people", "title": "the mockers", "sub": ["laughed at the warning"]},
+      {"conn": "were met by"},
+      {"box": "trap", "title": "their own deeds", "sub": ["the evil they did"]},
+      {"box": "trap", "title": "what they mocked", "sub": ["now all around them"]}]},
+    "key": {"label": "What mockery does", "row": [
+      {"box": "trap", "title": "laughing makes it false", "sub": ["it is just a joke"], "strike": true},
+      {"box": "idea", "title": "the warning stays true", "sub": ["mocking only blinds"]}]},
+    "then": "Ibn Kathir says these people {trap}used to make fun of the Messengers when they warned them{/trap} of Allah's punishment. In the end they were overwhelmed by the very thing they laughed at. It is the result of their own deeds, not an injustice.",
+    "now": "Someone jokes about a warning sign: the health check, the debt, the ignored prayer. The group laughs and moves on. {trap}A joke does not change what is coming.{/trap} {idea}Taking it seriously early is mercy for yourself.{/idea}",
+    "old": "If I can laugh about it, it can't be that serious.",
+    "new": "Laughing at a warning does not make it untrue.",
+    "try": "Stop yourself once today before joking about something sacred or serious.",
+    "related": ["52:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:35", "surah": 16, "ayah": 35, "place": "makkah",
+    "title": "If Allah wanted, we would not have done it, they said.",
+    "subtitle": "Blaming fate for your own choices",
+    "picture": {"kind": "boxes", "label": "The excuse", "row": [
+      {"box": "people", "title": "the idolators", "sub": ["and their fathers"]},
+      {"conn": "say"},
+      {"box": "trap", "title": "Allah allowed it", "sub": ["so He must approve"]}]},
+    "key": {"label": "The answer", "row": [
+      {"box": "trap", "title": "He never objected", "sub": ["silence means yes"], "strike": true},
+      {"box": "idea", "title": "Messengers forbade it", "sub": ["clear notification came"]}]},
+    "then": "The idolators of Makkah had made-up customs about certain animals with no revealed authority. Ibn Kathir says their argument was: {trap}if Allah hated what we did, He would have stopped us.{/trap} The reply: {idea}the Messengers clearly conveyed that it was forbidden.{/idea} Being allowed to do something is not approval.",
+    "now": "You keep doing something you know is wrong and tell yourself: if Allah did not want this, He would not let it happen. The late nights on that app, the shortcut at work. {trap}Being able to do it is not permission.{/trap}",
+    "old": "If it was really wrong, Allah would have stopped me.",
+    "new": "Allah lets me choose, and His Messengers already told me what He wants.",
+    "try": "Notice one time today you use fate as an excuse, and own the choice instead.",
+    "related": ["21:25", "43:45"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:36", "surah": 16, "ayah": 36, "place": "makkah",
+    "title": "Every nation got a Messenger with one message.",
+    "subtitle": "Worship Allah, avoid false gods, then see the results",
+    "picture": {"kind": "boxes", "label": "The same call everywhere", "row": [
+      {"box": "people", "title": "every nation", "sub": ["every generation"]},
+      {"conn": "received"},
+      {"box": "idea", "title": "Worship Allah", "sub": ["shun the Taghut"]},
+      {"conn": "then"},
+      {"box": "people", "title": "two groups", "sub": ["guided, or strayed"]}]},
+    "key": {"label": "The evidence", "row": [
+      {"box": "trap", "title": "never been warned", "sub": ["nobody told us"], "strike": true},
+      {"box": "idea", "title": "travel and look", "sub": ["at the end of deniers"]}]},
+    "then": "Ibn Kathir says from Nuh, the first Messenger, until Muhammad ﷺ, {idea}all the Messengers brought the same message{/idea}: worship Allah alone and avoid false gods. Some were guided, some strayed. The verse tells listeners to {trap}travel and see what became of those who denied.{/trap}",
+    "now": "You visit ruins on holiday: a fallen palace, an empty city that was once powerful. You take a photo and move on. {idea}The verse asks you to stop and think about why they fell.{/idea}",
+    "old": "Old ruins are just history, nothing to do with me.",
+    "new": "Every ruin is a reminder that the message reached them too.",
+    "try": "Next time you see something old and fallen, pause and ask what lesson it holds for you.",
+    "related": ["21:25", "47:10", "67:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:37", "surah": 16, "ayah": 37, "place": "makkah",
+    "title": "Even your deepest wish cannot guide someone; Allah guides.",
+    "subtitle": "Comfort for the Prophet ﷺ who longed for them",
+    "picture": {"kind": "boxes", "label": "The eager caller", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["desires their guidance"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "guidance is Allah's", "sub": ["no one else gives it"]}]},
+    "key": {"label": "Where your job ends", "row": [
+      {"box": "trap", "title": "I must change them", "sub": ["it is on me"], "strike": true},
+      {"box": "idea", "title": "convey, then trust", "sub": ["the result is His"]}]},
+    "then": "Ibn Kathir says Allah told His Messenger ﷺ that {idea}his eagerness to guide them would not benefit them{/idea} if Allah willed otherwise. He cites Nuh telling his people that his advice would not profit them. It eases the weight on the one calling.",
+    "now": "You worry about a sibling who has drifted away. You send articles, you argue, you lose sleep. {idea}Your care matters and your duas matter{/idea}, {reward}but the heart is in Allah's hand, not yours.{/reward}",
+    "old": "If someone I love is not guided, I have failed.",
+    "new": "I can call with love, but only Allah guides hearts.",
+    "try": "Make a dua today for one person you have been trying to change, then let it rest with Allah.",
+    "related": ["5:41", "11:34", "7:186"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:38", "surah": 16, "ayah": 38, "place": "makkah",
+    "title": "They swore hard that the dead stay dead. Yes, they rise.",
+    "subtitle": "A strong oath against a true promise",
+    "picture": {"kind": "boxes", "label": "Oath against promise", "row": [
+      {"box": "trap", "title": "strongest oaths", "sub": ["no one will be raised"]},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "Yes", "sub": ["a promise binding on Him"]}]},
+    "key": {"label": "What makes it true", "row": [
+      {"box": "trap", "title": "how sure I feel", "sub": ["my strongest oath"], "strike": true},
+      {"box": "idea", "title": "His promise", "sub": ["most people do not know"]}]},
+    "then": "Ibn Kathir says the idolators {trap}swore fervently that Allah would not resurrect the dead{/trap}, thinking it impossible, and did not believe the Messengers. Allah's answer is one word, yes, and {idea}a promise He has bound Himself to.{/idea}",
+    "now": "Your friend says, totally sure, that when you die that's it, lights out. They say it loudly, with confidence. {idea}Certainty in a voice is not proof.{/idea} The promise does not depend on who sounds surest.",
+    "old": "If someone says it with total confidence, they probably know.",
+    "new": "Loud certainty does not change Allah's promise that we will rise.",
+    "try": "Spend two quiet minutes today thinking about standing before Allah one day.",
+    "related": ["53:31"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:39", "surah": 16, "ayah": 39, "place": "makkah",
+    "title": "The Day will settle every argument people had.",
+    "subtitle": "Why the resurrection must happen",
+    "picture": {"kind": "boxes", "label": "What the Day does", "row": [
+      {"box": "people", "title": "every dispute", "sub": ["unresolved in life"]},
+      {"conn": "made clear"},
+      {"box": "idea", "title": "the truth shown", "sub": ["no more doubt"]},
+      {"box": "trap", "title": "deniers see", "sub": ["their oaths were lies"]}]},
+    "key": {"label": "Why it must come", "row": [
+      {"box": "trap", "title": "life just ends", "sub": ["nothing is settled"], "strike": true},
+      {"box": "idea", "title": "everything is settled", "sub": ["every argument answered"]}]},
+    "then": "Ibn Kathir explains the wisdom of the resurrection: {idea}to make clear every dispute{/idea}, to reward those who did good and requite those who did evil, and so that {trap}those who swore it would never happen know they were lying.{/trap}",
+    "now": "There is an argument in your family no one will ever win. The inheritance, who was right. You carry it for years. {reward}One Day all of it is made clear{/reward}, and you can stop needing to win it now.",
+    "old": "If I don't prove I'm right now, the truth is lost forever.",
+    "new": "Allah will make clear every argument; I don't have to win them all here.",
+    "try": "Let go of one argument today you have been trying to win for too long.",
+    "related": ["53:31", "52:14"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "16:40", "surah": 16, "ayah": 40, "place": "makkah",
+    "title": "He says Be, and it is. Raising the dead is easy.",
+    "subtitle": "One word, no effort, no delay",
+    "picture": {"kind": "boxes", "label": "How Allah makes a thing", "row": [
+      {"box": "idea", "title": "He intends", "sub": ["a thing"]},
+      {"conn": "says"},
+      {"box": "idea", "title": "Be", "sub": ["once"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "it is", "sub": ["nothing can stop it"]}]},
+    "key": {"label": "The size of the task", "row": [
+      {"box": "trap", "title": "too hard to raise us", "sub": ["bones, dust, time"], "strike": true},
+      {"box": "idea", "title": "one command", "sub": ["like a blink of the eye"]}]},
+    "then": "This answers the oath that the dead will not rise. Ibn Kathir says {idea}when Allah wants a thing, He only says Be, and it is.{/idea} He does not need to repeat or confirm it. He links it to the verse: Our command is but one, like the twinkling of an eye.",
+    "now": "You feel your problem is too big for anyone to fix: the illness, the debt, the broken relationship. {reward}For the One who says Be, nothing is heavy.{/reward} That is a reason to ask Him with real hope.",
+    "old": "Some things are too big even to pray about.",
+    "new": "Nothing is hard for Allah; He only says Be, and it is.",
+    "try": "Ask Allah today for the one thing you feel is too big to ask for.",
+    "related": ["54:50", "31:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

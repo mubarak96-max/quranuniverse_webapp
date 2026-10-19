@@ -1,0 +1,310 @@
+[
+  {
+    "id": "89:15", "surah": 89, "ayah": 15, "place": "makkah",
+    "title": "When given plenty, he says: my Lord honored me.",
+    "subtitle": "Mistaking a test of wealth for a sign of favor",
+    "picture": {"kind": "boxes", "label": "What he concludes", "row": [
+      {"box": "reward", "title": "honor and bounty", "sub": ["given by his Lord"]},
+      {"conn": "he says"},
+      {"box": "trap", "title": "my Lord honored me", "sub": ["I must be special"]}]},
+    "key": {"label": "What wealth is", "row": [
+      {"box": "trap", "title": "proof Allah loves me", "sub": [], "strike": true},
+      {"box": "idea", "title": "a test", "sub": ["will I be grateful?"]}]},
+    "then": "Ibn Kathir: Allah refutes the belief that {trap}abundant provision means He honors you.{/trap} {idea}It is a trial and a test.{/idea} He gives wealth to those He loves and those He does not. The surah now turns from past nations to everyday human nature.",
+    "now": "The promotion comes through. The house sale goes well. You post #blessed. {idea}It may be a blessing, and it is certainly a test:{/idea} will you thank Allah and use it well, or just feel better than others?",
+    "old": "When life is going well, it means Allah is pleased with me.",
+    "new": "Good times are a test of gratitude, not a certificate of favor.",
+    "try": "Thank Allah for one good thing this week, then give a small part of it away.",
+    "related": ["23:55", "23:56"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:16", "surah": 89, "ayah": 16, "place": "makkah",
+    "title": "When money is tight, he says: my Lord humiliated me.",
+    "subtitle": "Mistaking a test of hardship for rejection",
+    "picture": {"kind": "boxes", "label": "What he concludes", "row": [
+      {"box": "trap", "title": "provision restricted", "sub": ["less than before"]},
+      {"conn": "he says"},
+      {"box": "trap", "title": "my Lord humiliated me", "sub": ["He has dropped me"]}]},
+    "key": {"label": "Both are tests", "row": [
+      {"box": "reward", "title": "wealth", "sub": ["answer: gratitude"]},
+      {"box": "reward", "title": "hardship", "sub": ["answer: patience"]}]},
+    "then": "Ibn Kathir: if Allah tests a person by limiting his sustenance, {trap}he believes Allah is humiliating him.{/trap} Allah withholds from those He loves and those He does not. {idea}The point is to obey Him in either case:{/idea} thank Him when rich, be patient when poor.",
+    "now": "Payday comes and the bills eat it all. Friends go on holiday and you check prices you cannot afford. {trap}You start to feel forgotten by Allah.{/trap} {idea}Tight months are also a test, not a verdict.{/idea}",
+    "old": "When money is short, Allah must have turned away from me.",
+    "new": "Hardship is a test of patience. It does not mean He rejected me.",
+    "try": "In a tight moment today, say Alhamdulillah for one thing you still have.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:17", "surah": 89, "ayah": 17, "place": "makkah",
+    "title": "No. The real problem: you do not honor the orphan.",
+    "subtitle": "The test was never about how much you had",
+    "picture": {"kind": "boxes", "label": "What they missed", "row": [
+      {"box": "trap", "title": "worried about status", "sub": ["honored or humiliated?"], "strike": true},
+      {"box": "people", "title": "the orphan", "sub": ["left without honor"]}]},
+    "key": {"label": "The reward on offer", "row": [
+      {"box": "people", "title": "care for an orphan", "sub": []},
+      {"conn": "leads to"},
+      {"box": "reward", "title": "near the Prophet ﷺ", "sub": ["like two fingers in Paradise"]}]},
+    "then": "Allah says {idea}No!{/idea} to both claims, then names the real failure: {trap}you do not honor the orphan.{/trap} Ibn Kathir notes it contains the command to honor him, and the Prophet ﷺ said the orphan's guardian {reward}and I will be like these two in Paradise{/reward}, holding two fingers together.",
+    "now": "You spend hours thinking about whether your life is going well. Meanwhile there is a child in your extended family whose father died, and you have not called in a year. {idea}The test was what you did for them.{/idea}",
+    "old": "My test is whether I am rich or poor.",
+    "new": "My test is what I do for the vulnerable with what I have.",
+    "try": "Contact or support one orphan, or a charity that cares for orphans, this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:18", "surah": 89, "ayah": 18, "place": "makkah",
+    "title": "And you do not push each other to feed the poor.",
+    "subtitle": "A community that never encourages giving",
+    "picture": {"kind": "boxes", "label": "What is missing", "row": [
+      {"box": "people", "title": "you", "sub": ["and your circle"]},
+      {"conn": "do not urge"},
+      {"box": "people", "title": "feeding the poor", "sub": ["the needy left out"]}]},
+    "key": {"label": "Your part", "row": [
+      {"box": "trap", "title": "I feed whoever I see", "sub": ["private only"]},
+      {"box": "idea", "title": "I also urge others", "sub": ["make giving normal"]}]},
+    "then": "Ibn Kathir: {trap}they do not command that the poor and needy be treated with kindness, nor encourage each other to do so.{/trap} The verse does not only blame not giving. It blames {idea}a whole circle that never talks about it.{/idea}",
+    "now": "Your friends' group chat talks about restaurants, phones, holidays. When did it last share a food bank appeal? {idea}One message from you can change what your circle sees as normal.{/idea}",
+    "old": "Feeding the poor is a private matter between me and Allah.",
+    "new": "I can also be the one who reminds others to feed the poor.",
+    "try": "Share one way to feed someone in need with a friend or family group today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:19", "surah": 89, "ayah": 19, "place": "makkah",
+    "title": "You swallow inheritance whole, by any means.",
+    "subtitle": "Greed with no care for lawful or unlawful",
+    "picture": {"kind": "boxes", "label": "How they took it", "row": [
+      {"box": "people", "title": "inheritance", "sub": ["the family's wealth"]},
+      {"conn": "devoured"},
+      {"box": "trap", "title": "with greed", "sub": ["lawful or forbidden"]}]},
+    "key": {"label": "The question you ask", "row": [
+      {"box": "trap", "title": "how much can I get?", "sub": [], "strike": true},
+      {"box": "idea", "title": "is this mine by right?", "sub": ["halal first"]}]},
+    "then": "Ibn Kathir: the turath is {idea}the inheritance{/idea}, and they devour it {trap}however they can get it, whether lawful or forbidden.{/trap} Right after neglecting orphans, the verse names how their shares were often eaten.",
+    "now": "A parent dies and the family group chat goes quiet, then tense. Who gets the house? Who took the gold? {trap}Grief turns into grabbing.{/trap} {idea}The verse asks you to slow down and take only what is truly yours.{/idea}",
+    "old": "If I can get more of the family money, why not?",
+    "new": "Only what is rightfully mine is worth taking. The rest is a burden.",
+    "try": "If there is a family money matter in your life, make dua to be fair in it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:20", "surah": 89, "ayah": 20, "place": "makkah",
+    "title": "And you love money with an endless love.",
+    "subtitle": "The root under all four failures",
+    "picture": {"kind": "boxes", "label": "The chain", "row": [
+      {"box": "trap", "title": "love of wealth", "sub": ["in abundance"]},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "orphan neglected", "sub": []},
+      {"box": "trap", "title": "poor unfed", "sub": []},
+      {"box": "trap", "title": "inheritance grabbed", "sub": []}]},
+    "key": {"label": "Where money sits", "row": [
+      {"box": "trap", "title": "in the heart", "sub": ["loved without limit"], "strike": true},
+      {"box": "idea", "title": "in the hand", "sub": ["used, given, shared"]}]},
+    "then": "Ibn Kathir: they love wealth {trap}in abundance, and this increases some of them in their wickedness.{/trap} This verse names the root under the neglect of the orphan, the poor, and the greed over inheritance.",
+    "now": "Checking your bank app ten times a day. Feeling a pinch every time you give. Lying awake planning the next purchase. {idea}Money is not the problem. Loving it without limit is.{/idea}",
+    "old": "Wanting more money is just being responsible.",
+    "new": "When money lives in my heart, it pushes out mercy for others.",
+    "try": "Give away a small amount today that you will slightly feel, and notice the heart loosen.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:21", "surah": 89, "ayah": 21, "place": "makkah",
+    "title": "No. When the earth is pounded flat, again and again.",
+    "subtitle": "Everything you built on is leveled",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "plain", "title": "earth and mountains", "sub": ["everything solid"]},
+      {"conn": "pounded"},
+      {"box": "plain", "title": "flat and even", "sub": ["creatures rise from graves"]}]},
+    "key": {"label": "What stays", "row": [
+      {"box": "trap", "title": "the wealth from verse 20", "sub": ["leveled with the earth"], "strike": true},
+      {"box": "idea", "title": "your deeds", "sub": ["rise with you"]}]},
+    "then": "The No here answers the love of wealth before it. Ibn Kathir: {trap}the earth and the mountains will be flattened, leveled and made even{/trap}, and {idea}the creatures will rise from their graves for their Lord.{/idea}",
+    "now": "The property you saved for. The land your family fought over. The office tower you work in. {trap}All of it, flat.{/trap} {idea}The only things that stand up on that Day are you and what you did.{/idea}",
+    "old": "What I own is solid and will always be there.",
+    "new": "The earth itself will be leveled. My deeds are what remain.",
+    "try": "Look at one thing you own that you value most and ask: what deed can I do with it?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:22", "surah": 89, "ayah": 22, "place": "makkah",
+    "title": "Your Lord comes, and the angels, row upon row.",
+    "subtitle": "The session of Judgement begins",
+    "picture": {"kind": "boxes", "label": "The scene", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["intercedes first"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "your Lord comes", "sub": ["as He wills, to judge"]},
+      {"box": "people", "title": "the angels", "sub": ["rank upon rank"]}]},
+    "key": {"label": "Who stands for you", "row": [
+      {"box": "trap", "title": "I will talk my way out", "sub": [], "strike": true},
+      {"box": "reward", "title": "the Prophet ﷺ asks", "sub": ["the praised station"]}]},
+    "then": "Ibn Kathir: people will ask messenger after messenger to intercede, and each will say he cannot, until they reach Muhammad ﷺ, who says: {reward}I will do it.{/reward} Then {idea}Allah comes for the Judgement as He wills{/idea}, and the angels line up, row on row.",
+    "now": "You have stood in a courtroom, a job interview, or outside an exam hall, and felt your legs go weak. {idea}That Day is bigger than all of them.{/idea} {reward}Sending salawat on the Prophet ﷺ is preparing for it.{/reward}",
+    "old": "I will manage on my own when the time comes.",
+    "new": "That Day, even the greatest messengers wait. I prepare now and send salawat.",
+    "try": "Send salawat on the Prophet ﷺ ten times today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:23", "surah": 89, "ayah": 23, "place": "makkah",
+    "title": "That Day man remembers, but it is too late to help.",
+    "subtitle": "Remembering after the chance has gone",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "trap", "title": "Hell brought near", "sub": []},
+      {"conn": "then"},
+      {"box": "people", "title": "man remembers", "sub": ["all his deeds"]},
+      {"box": "trap", "title": "how will it help?", "sub": ["too late"]}]},
+    "key": {"label": "When remembering works", "row": [
+      {"box": "trap", "title": "remembering then", "sub": ["no use"]},
+      {"box": "reward", "title": "remembering now", "sub": ["can still change things"]}]},
+    "then": "Hell is brought near, and Ibn Kathir: man will remember {idea}his deeds, what he did in his past and recent times.{/idea} {trap}How can remembrance then benefit him?{/trap}",
+    "now": "You keep saying you will sort your prayers out when life calms down. You remember, nod, and forget. {idea}Today the remembering still works.{/idea} One day it will only be regret.",
+    "old": "I know I should change. I will get around to it.",
+    "new": "Remembering only helps while I can still act on it. That is now.",
+    "try": "Act on one thing you remembered today that you have been meaning to do for Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:24", "surah": 89, "ayah": 24, "place": "makkah",
+    "title": "If only I had sent something ahead for my life.",
+    "subtitle": "The real life was the one coming next",
+    "picture": {"kind": "boxes", "label": "His regret", "row": [
+      {"box": "people", "title": "this life", "sub": ["what I spent it on"]},
+      {"conn": "should have sent"},
+      {"box": "reward", "title": "my life", "sub": ["the one that lasts"]}]},
+    "key": {"label": "Everyone wishes for more", "row": [
+      {"box": "trap", "title": "the disobedient", "sub": ["sorry for his sins"]},
+      {"box": "reward", "title": "the obedient", "sub": ["wishes he did more good"]}]},
+    "then": "Ibn Kathir: the disobedient will regret his sins, and {reward}the obedient will wish he had done more.{/reward} A Companion said that even someone who prostrated from birth to old age would think it little on that Day, and wish to come back to earn more.",
+    "now": "You send money ahead to a new flat before you move. You pack a bag ahead of a trip. {idea}The verse calls the next life my life.{/idea} What have you sent ahead for it this week?",
+    "old": "This life is my real life. The next one is an extra.",
+    "new": "The next life is my life. I send things ahead for it now.",
+    "try": "Send one deed ahead today: a charity, a prayer, a kindness, with that intention.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:25", "surah": 89, "ayah": 25, "place": "makkah",
+    "title": "That Day no one punishes as He punishes.",
+    "subtitle": "The seriousness of disobeying Allah",
+    "picture": {"kind": "boxes", "label": "The comparison", "row": [
+      {"box": "plain", "title": "any human punishment", "sub": ["limited, ends"]},
+      {"box": "trap", "title": "His punishment", "sub": ["none like it"]}]},
+    "key": {"label": "What to fear more", "row": [
+      {"box": "trap", "title": "people's anger", "sub": ["the boss, the crowd"], "strike": true},
+      {"box": "idea", "title": "disobeying Allah", "sub": ["that is what is serious"]}]},
+    "then": "Ibn Kathir: {trap}there is no one more severely punished than those whom Allah punishes for disobeying Him.{/trap} Coming after the regret of verse 24, the verse is short and sober.",
+    "now": "You fear your manager's email, your parents' disappointment, what people will say. You work hard to avoid those. {idea}The verse asks you to fear disobeying Allah more than any of them{/idea}, and to run to His mercy now.",
+    "old": "What people think of me is what I mostly fear.",
+    "new": "Disobeying Allah is the thing to fear, and His mercy is open now.",
+    "try": "Ask Allah's forgiveness today for one specific thing, and then do one good deed after it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:26", "surah": 89, "ayah": 26, "place": "makkah",
+    "title": "And no one binds as He binds.",
+    "subtitle": "Those who were free to do wrong are held fast",
+    "picture": {"kind": "boxes", "label": "The reversal", "row": [
+      {"box": "trap", "title": "free to transgress", "sub": ["in this life"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "bound", "sub": ["for the criminals"]}]},
+    "key": {"label": "What freedom is", "row": [
+      {"box": "trap", "title": "doing whatever I want", "sub": [], "strike": true},
+      {"box": "idea", "title": "choosing what frees me there", "sub": ["obeying now"]}]},
+    "then": "Ibn Kathir: {trap}none is more severely bound{/trap} than those the keepers of Hell bind, and this is {trap}for the criminals and wrongdoers.{/trap} Pharaoh and the others of verses 6-12 moved freely through the land. That freedom ends.",
+    "now": "You tell yourself you are free: no one tells you what to do. But the habit at night, the anger, the spending, already have you tied up. {idea}Real freedom is choosing obedience while you still can.{/idea}",
+    "old": "Freedom means no limits on what I do.",
+    "new": "Obeying Allah now is what keeps me free on that Day.",
+    "try": "Break one small habit that controls you, just for today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:27", "surah": 89, "ayah": 27, "place": "makkah",
+    "title": "O soul at peace.",
+    "subtitle": "The voice that speaks to the tranquil soul",
+    "picture": {"kind": "boxes", "label": "Who is called", "row": [
+      {"box": "people", "title": "the soul", "sub": ["you"]},
+      {"conn": "that is"},
+      {"box": "reward", "title": "tranquil", "sub": ["at rest with the truth"]}]},
+    "key": {"label": "Two kinds of people", "row": [
+      {"box": "trap", "title": "anxious over wealth", "sub": ["honored? humiliated?"]},
+      {"box": "reward", "title": "at peace with Allah", "sub": ["in plenty or hardship"]}]},
+    "then": "After the harshness, a gentle call. Ibn Kathir: this is {reward}the pure and tranquil soul, always at rest and abiding by the truth.{/reward} It contrasts with the person of verses 15-16 whose mood rose and fell with his money.",
+    "now": "Your mood depends on your bank balance, your likes, your boss's tone. {reward}A soul at peace is not shaken by those.{/reward} {idea}It is built slowly, prayer by prayer, remembrance by remembrance.{/idea}",
+    "old": "Peace will come when my circumstances settle.",
+    "new": "Peace is a state of soul built with Allah, whatever my circumstances.",
+    "try": "Sit for two minutes after your next prayer and just repeat Allah's name quietly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:28", "surah": 89, "ayah": 28, "place": "makkah",
+    "title": "Come back to your Lord, pleased and pleasing to Him.",
+    "subtitle": "A return where both sides are content",
+    "picture": {"kind": "boxes", "label": "The return", "row": [
+      {"box": "people", "title": "the tranquil soul", "sub": []},
+      {"conn": "returns to"},
+      {"box": "idea", "title": "your Lord", "sub": ["His company, His reward"]}]},
+    "key": {"label": "Pleased both ways", "row": [
+      {"box": "reward", "title": "well-pleased", "sub": ["content within itself"]},
+      {"box": "reward", "title": "well-pleasing", "sub": ["Allah pleased with it"]}]},
+    "then": "Ibn Kathir: return {reward}to His company, His reward and what He has prepared.{/reward} Well-pleased within itself, pleased with Allah, and He pleased with it. Ibn Abbas reported Abu Bakr said: {reward}there is nothing better than this!{/reward} The Prophet ﷺ replied: it will be said to you.",
+    "now": "Coming home after a long trip and the door opens, and someone is glad to see you. {reward}Now imagine Allah pleased to see you{/reward}, and you pleased with everything He gave. That is the welcome this verse describes.",
+    "old": "Going back to Allah is something to dread.",
+    "new": "Going back to Allah can be a homecoming, with both sides pleased.",
+    "try": "Ask Allah today: make me pleased with You and You pleased with me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:29", "surah": 89, "ayah": 29, "place": "makkah",
+    "title": "Enter among My servants.",
+    "subtitle": "Belonging to the company of Allah's servants",
+    "picture": {"kind": "boxes", "label": "Where you go", "row": [
+      {"box": "people", "title": "the tranquil soul", "sub": []},
+      {"conn": "enters among"},
+      {"box": "reward", "title": "My servants", "sub": ["in their ranks"]}]},
+    "key": {"label": "What honor is", "row": [
+      {"box": "trap", "title": "being above others", "sub": ["verse 15's honor"], "strike": true},
+      {"box": "reward", "title": "being His servant", "sub": ["among the others"]}]},
+    "then": "Ibn Kathir: {reward}among their ranks.{/reward} Earlier the surah told of nations who wanted to be above everyone. It ends with a soul honored by being {idea}one of Allah's servants{/idea}, standing among them.",
+    "now": "You want the VIP list, the corner office, the blue tick. {idea}The highest list there is: My servants.{/idea} You join it by serving Him here, in the rows of the masjid, shoulder to shoulder.",
+    "old": "Honor means standing above the crowd.",
+    "new": "The best honor is being counted among Allah's servants.",
+    "try": "Pray one prayer in congregation this week, standing shoulder to shoulder.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "89:30", "surah": 89, "ayah": 30, "place": "makkah",
+    "title": "And enter My Paradise.",
+    "subtitle": "The final word to the soul at peace",
+    "picture": {"kind": "boxes", "label": "The welcome", "row": [
+      {"box": "reward", "title": "said at death", "sub": ["glad tidings"]},
+      {"box": "reward", "title": "said on the Day", "sub": ["when rising"]},
+      {"conn": "enter"},
+      {"box": "reward", "title": "My Paradise", "sub": ["His own garden"]}]},
+    "key": {"label": "Whose Paradise", "row": [
+      {"box": "trap", "title": "a place I earned alone", "sub": [], "strike": true},
+      {"box": "reward", "title": "My Paradise", "sub": ["His, given to me"]}]},
+    "then": "Ibn Kathir: {reward}this will be said at the time of death and on the Day of Judgement{/reward}, like the angels giving glad tidings to the believer. The surah that began with dawn ends with {reward}My Paradise{/reward}, a garden Allah calls His own.",
+    "now": "The surah walked you through ruined nations, the pull of money, and the Day itself. It ends with an invitation, not a threat. {reward}Enter My Paradise.{/reward} {idea}Every prayer, every fed orphan, is walking toward that door.{/idea}",
+    "old": "Paradise feels too far for someone like me.",
+    "new": "Allah invites the soul at peace into His own Paradise. I can walk toward it.",
+    "try": "Ask Allah tonight for Paradise by name, in your own words, three times.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

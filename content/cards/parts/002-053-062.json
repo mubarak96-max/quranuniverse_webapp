@@ -1,0 +1,210 @@
+[
+  {
+    "id": "2:53", "surah": 2, "ayah": 53, "place": "madinah",
+    "title": "A Book and a criterion to tell right from wrong.",
+    "subtitle": "What Musa was given after the sea",
+    "picture": {"kind": "boxes", "label": "The gift", "row": [
+      {"box": "people", "title": "Musa", "sub": ["after the crossing"]},
+      {"conn": "given"},
+      {"box": "idea", "title": "the Scripture", "sub": ["the Tawrah"]},
+      {"box": "idea", "title": "the criterion", "sub": ["truth from falsehood"]}]},
+    "key": {"label": "How to decide", "row": [
+      {"box": "people", "title": "whatever feels right", "sub": ["my mood decides"], "strike": true},
+      {"box": "idea", "title": "a criterion from Allah", "sub": ["a clear line"]}]},
+    "then": "After the sea, Musa was given the Tawrah and the furqan. Ibn Kathir says the furqan is {idea}that which separates truth from falsehood, guidance from deviation.{/idea} It was given so that they might be guided.",
+    "now": "A deal that looks fine but feels off. A friend's request that is half right. {trap}Your feelings change by the hour.{/trap} {idea}Revelation gives you a fixed line to measure against when your own sense is foggy.{/idea}",
+    "old": "I will know what is right by how it feels.",
+    "new": "Allah gave a criterion so I do not have to guess what is right.",
+    "try": "Facing a choice today, look up what the Quran or Sunnah says before deciding.",
+    "related": ["28:43"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:54", "surah": 2, "ayah": 54, "place": "madinah",
+    "title": "Return to the One who made you, and He accepts.",
+    "subtitle": "A grave sin and a grave repentance",
+    "picture": {"kind": "boxes", "label": "What Musa told them", "row": [
+      {"box": "trap", "title": "you wronged yourselves", "sub": ["by taking the calf"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "repent to your Creator", "sub": ["the One who made you"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "He accepted", "sub": ["the Merciful"]}]},
+    "key": {"label": "Why name Him Creator", "row": [
+      {"box": "people", "title": "a small slip", "sub": ["easy to brush off"], "strike": true},
+      {"box": "idea", "title": "turning from your Maker", "sub": ["so serious repentance"]}]},
+    "then": "Musa told his people they had wronged themselves by the calf. Ibn Kathir says naming Allah as Bari', the Creator, {trap}alerts them to the enormity of their error{/trap}: turning to others after He made them. The repentance asked was severe. {reward}Then He accepted it.{/reward}",
+    "now": "Some sins you laugh off. Others you know, deep down, were a turning away from the One who made you. {idea}Those deserve a real repentance, not a quick sorry.{/idea} {reward}And the verse ends on the same note: He accepts, He is Merciful.{/reward}",
+    "old": "A quick astaghfirullah covers anything I do.",
+    "new": "Serious wrongs call for serious repentance, and Allah truly accepts it.",
+    "try": "Think of one serious wrong you have only half repented from. Sit with it tonight and repent fully.",
+    "related": ["7:149"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:55", "surah": 2, "ayah": 55, "place": "madinah",
+    "title": "We will not believe until we see Allah ourselves.",
+    "subtitle": "Demanding proof on your own terms",
+    "picture": {"kind": "boxes", "label": "The demand", "row": [
+      {"box": "people", "title": "the seventy", "sub": ["chosen men"]},
+      {"conn": "demand"},
+      {"box": "trap", "title": "see Allah openly", "sub": ["or we will not believe"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the thunderbolt", "sub": ["as they looked on"]}]},
+    "key": {"label": "Whose terms", "row": [
+      {"box": "people", "title": "prove it my way", "sub": ["then I will trust"], "strike": true},
+      {"box": "idea", "title": "trust what He showed", "sub": ["some things no one can bear"]}]},
+    "then": "Ibn Jurayj said they asked to see Allah directly, {trap}which neither they nor anyone else can bear.{/trap} As-Suddi said they were seized and died, and Musa stood crying and praying for them. This came after the sea, the clouds and the Book.",
+    "now": "You have seen your prayers answered, a child born healthy, a door open at the last moment. {trap}Yet part of you says: I will fully trust when I get one more sign.{/trap} {idea}The signs are already there. Asking for more on your terms is the problem.{/idea}",
+    "old": "If Allah showed me one clear sign, I would never doubt again.",
+    "new": "I have been shown enough; demanding proof on my terms is not faith.",
+    "try": "List three signs of Allah's care you have already seen. Read the list when doubt comes.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:56", "surah": 2, "ayah": 56, "place": "madinah",
+    "title": "Brought back to life to try again, with gratitude.",
+    "subtitle": "A second chance after death",
+    "picture": {"kind": "boxes", "label": "After the thunderbolt", "row": [
+      {"box": "trap", "title": "death", "sub": ["for their demand"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "raised again", "sub": ["one by one"]},
+      {"conn": "so that"},
+      {"box": "idea", "title": "you may be grateful", "sub": []}]},
+    "key": {"label": "What extra time is for", "row": [
+      {"box": "people", "title": "back to business", "sub": ["as if nothing happened"], "strike": true},
+      {"box": "idea", "title": "finish life grateful", "sub": ["use the time"]}]},
+    "then": "As-Suddi said Allah brought them back to life one man at a time while the rest watched. Ar-Rabi' bin Anas said {reward}they were raised so they could finish out their lives.{/reward} {idea}The verse names the purpose: gratitude.{/idea}",
+    "now": "The car crash you walked away from. The surgery that could have gone the other way. The night you were sure was your last. {reward}You got more time.{/reward} {idea}This verse asks what the extra days are for.{/idea}",
+    "old": "I survived that, so life just goes on as before.",
+    "new": "Every second chance is extra time to live gratefully.",
+    "try": "Recall a time you nearly lost your life or health. Spend ten minutes today thanking Allah for it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:57", "surah": 2, "ayah": 57, "place": "madinah",
+    "title": "Shade, food from the sky, and still they wronged themselves.",
+    "subtitle": "Daily provision in the wilderness",
+    "picture": {"kind": "boxes", "label": "In the desert", "row": [
+      {"box": "reward", "title": "clouds for shade", "sub": ["cooler than ours"]},
+      {"box": "reward", "title": "manna", "sub": ["sweeter than honey"]},
+      {"box": "reward", "title": "quails", "sub": ["food without effort"]},
+      {"conn": "yet"},
+      {"box": "trap", "title": "they wronged themselves", "sub": ["not Allah"]}]},
+    "key": {"label": "Who is harmed by ingratitude", "row": [
+      {"box": "people", "title": "Allah loses something", "sub": ["if I do not thank"], "strike": true},
+      {"box": "trap", "title": "only I lose", "sub": ["they wronged themselves"]}]},
+    "then": "During the years of wandering, white clouds shaded them from the sun. Qatadah said {reward}the manna fell like snow, whiter than milk and sweeter than honey{/reward}, and each took enough for the day. {trap}Still, they did not wrong Allah; they wronged themselves.{/trap}",
+    "now": "Your food arrives every day: from a shop, a salary, a parent. You rarely think about how. {reward}It is provision, as real as manna.{/reward} {trap}Forgetting to be grateful does not hurt Allah. It just makes you poorer inside.{/trap}",
+    "old": "My daily needs are just met; there is nothing special about it.",
+    "new": "My daily food is provision from Allah, and ingratitude only harms me.",
+    "try": "Before your next meal, name where it came from and say alhamdulillah with meaning.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:58", "surah": 2, "ayah": 58, "place": "madinah",
+    "title": "Walk into success bowing, and ask for forgiveness.",
+    "subtitle": "How to enter a victory",
+    "picture": {"kind": "boxes", "label": "The instruction", "row": [
+      {"box": "people", "title": "enter the city", "sub": ["eat freely"]},
+      {"box": "idea", "title": "through the gate bowing", "sub": ["humble"]},
+      {"box": "idea", "title": "say: relieve us", "sub": ["seek forgiveness"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "forgiven, increased", "sub": ["for the good-doers"]}]},
+    "key": {"label": "How to receive success", "row": [
+      {"box": "people", "title": "head high, I earned it", "sub": ["my achievement"], "strike": true},
+      {"box": "idea", "title": "head low, grateful", "sub": ["and asking forgiveness"]}]},
+    "then": "After forty years of wandering, they were given the holy land. Ibn Kathir says they were told to enter {idea}bowing in gratitude for victory, admitting their sins and asking forgiveness.{/idea} He links it to Surah An-Nasr: at victory, glorify and seek forgiveness.",
+    "now": "You get the promotion, the degree, the keys to the house. {trap}The natural move is to post it and feel proud.{/trap} {idea}This verse teaches another way to walk through that door: humble, thankful, asking Allah to forgive what you got wrong on the way.{/idea}",
+    "old": "When I succeed, I have earned the right to celebrate myself.",
+    "new": "Success is a moment to bow, thank Allah, and ask forgiveness.",
+    "try": "For your next win, however small, pray two rak'ahs of thanks and say astaghfirullah.",
+    "related": ["5:21"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:59", "surah": 2, "ayah": 59, "place": "madinah",
+    "title": "They changed one word and mocked the whole command.",
+    "subtitle": "Twisting an instruction into a joke",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "idea", "title": "told: say hittah", "sub": ["forgive us"]},
+      {"conn": "they said"},
+      {"box": "trap", "title": "habbah", "sub": ["a seed in a hair"]},
+      {"box": "trap", "title": "entered heads raised", "sub": ["not bowing"]}]},
+    "key": {"label": "Small change, big meaning", "row": [
+      {"box": "people", "title": "just a joke", "sub": ["one word"], "strike": true},
+      {"box": "trap", "title": "defiance", "sub": ["in tongue and deed"]}]},
+    "then": "The Prophet ﷺ said they were told to enter bowing and say hittah, {trap}but they entered dragging themselves on their behinds and changed the word to habbah, a seed in a hair.{/trap} Ibn Kathir says they twisted the command in tongue and deed.",
+    "now": "You turn a verse into a meme. You repeat a dua in a mocking voice. You do the prayer, but in a way that makes clear you think it is silly. {trap}It looks small.{/trap} {idea}Treat what Allah commands with respect, even in jokes.{/idea}",
+    "old": "A little humor about religious instructions is harmless.",
+    "new": "Twisting Allah's words into a joke is a form of defiance.",
+    "try": "If you see a joke today that mocks a verse or dua, do not share it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:60", "surah": 2, "ayah": 60, "place": "madinah",
+    "title": "Twelve springs from one stone, and a warning not to spoil it.",
+    "subtitle": "An answered prayer for water",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "people", "title": "Musa prays", "sub": ["for water"]},
+      {"conn": "strike"},
+      {"box": "plain", "title": "the stone", "sub": []},
+      {"conn": "out flow"},
+      {"box": "reward", "title": "12", "sub": ["springs, one for each"], "num": true}]},
+    "key": {"label": "How favors disappear", "row": [
+      {"box": "people", "title": "blessings just stay", "sub": ["they are mine now"], "strike": true},
+      {"box": "trap", "title": "sin makes them vanish", "sub": ["do not spread corruption"]}]},
+    "then": "Allah answered Musa's prayer for water: {reward}twelve springs gushed from a stone, one for each tribe{/reward}, with food and drink without effort. Ibn Kathir explains the warning: {trap}do not return the favor with disobedience that makes favors disappear.{/trap}",
+    "now": "Your health, your marriage, the job you prayed for. {reward}Each was an answered prayer once.{/reward} {trap}Then the late nights, the neglect, the small sins start draining them.{/trap} The verse says: enjoy it, and do not spoil it.",
+    "old": "Once Allah gives me something, it is mine to keep however I live.",
+    "new": "Blessings stay through gratitude and can drain away through sin.",
+    "try": "Name one answered prayer in your life. Do one thing today to protect it.",
+    "related": ["7:160"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:61", "surah": 2, "ayah": 61, "place": "madinah",
+    "title": "Bored of the better, they asked for the lesser.",
+    "subtitle": "Trading the best for the ordinary",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "reward", "title": "manna and quails", "sub": ["pure, easy, from Allah"]},
+      {"conn": "swapped for"},
+      {"box": "plain", "title": "onions, lentils, garlic", "sub": ["the old life"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "humiliation", "sub": ["through repeated defiance"]}]},
+    "key": {"label": "What boredom does", "row": [
+      {"box": "people", "title": "I just want variety", "sub": ["harmless"], "strike": true},
+      {"box": "trap", "title": "the better for the lower", "sub": ["ingratitude grows"]}]},
+    "then": "Al-Hasan Al-Basri said {trap}they were bored with their food and remembered their old diet of lentils, onions and garlic.{/trap} Musa asked: {idea}would you exchange the better for the lower?{/idea} The verse traces how repeated disobedience led to humiliation and anger.",
+    "now": "You have a kind spouse, a quiet home, a steady faith. {trap}It starts to feel dull, and you miss the old nights out, the old crowd.{/trap} {idea}Boredom with a blessing is often the first step to trading it away.{/idea}",
+    "old": "I am just bored; wanting something different is natural.",
+    "new": "Boredom with what Allah gave me can lead me to trade the better for the lower.",
+    "try": "Pick one blessing that has started to feel boring. Find one new thing to appreciate in it today.",
+    "related": ["5:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "2:62", "surah": 2, "ayah": 62, "place": "madinah",
+    "title": "Faith in Allah, the Last Day, and good deeds: the constant.",
+    "subtitle": "What saved the righteous in every era",
+    "picture": {"kind": "boxes", "label": "In every age", "row": [
+      {"box": "idea", "title": "believe in Allah", "sub": []},
+      {"box": "idea", "title": "and the Last Day", "sub": []},
+      {"box": "idea", "title": "and do good", "sub": []},
+      {"conn": "then"},
+      {"box": "reward", "title": "no fear, no grief", "sub": ["reward with their Lord"]}]},
+    "key": {"label": "What counts", "row": [
+      {"box": "people", "title": "the label I carry", "sub": ["my group's name"], "strike": true},
+      {"box": "idea", "title": "faith and righteous deeds", "sub": ["following the guidance sent"]}]},
+    "then": "After describing those who defied, the verse turns to the righteous of earlier nations. Ibn Kathir explains that {idea}before the Prophet ﷺ was sent, whoever followed the guidance of his own prophet was on the right path{/idea}, and after him, salvation is in following him ﷺ.",
+    "now": "You carry the name Muslim on your passport and in your family. {trap}The name alone does not do the work.{/trap} {idea}This verse names what has always mattered: real faith in Allah and the Last Day, shown in good deeds.{/idea}",
+    "old": "Belonging to the right group is what saves me.",
+    "new": "What Allah rewards is true faith and righteous deeds, not a label.",
+    "try": "Do one good deed today purely because you believe in the Last Day.",
+    "related": ["10:62", "41:30", "3:85"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

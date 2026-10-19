@@ -1,0 +1,280 @@
+[
+  {
+    "id": "34:1", "surah": 34, "ayah": 1, "place": "makkah",
+    "title": "All praise is His, here and in the Hereafter.",
+    "subtitle": "The Owner of everything is the One to thank",
+    "picture": {"kind": "boxes", "label": "Whose is everything", "row": [
+      {"box": "plain", "title": "the heavens", "sub": ["all His"]},
+      {"box": "plain", "title": "the earth", "sub": ["all His"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "all praise", "sub": ["now and forever"]}]},
+    "key": {"label": "Who gets the credit", "row": [
+      {"box": "people", "title": "me, my effort, luck", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah, the Giver", "sub": ["Wise, All-Aware"]}]},
+    "then": "Saba opens in Makkah, at a time when the Prophet's message ﷺ was met with mockery and taunts. It begins with praise. Ibn Kathir explains that {idea}all praise is His because He is the Giver{/idea} to the people of this world and the next, and He will be praised for eternity.",
+    "now": "You get the promotion, pass the exam, close the deal. The first words out of your mouth are about how hard you worked. {idea}All of it, the effort included, was His gift.{/idea} Alhamdulillah is the true first word.",
+    "old": "When something good happens, it is mainly because of what I did.",
+    "new": "Everything belongs to Allah, so the praise for every good thing is His.",
+    "try": "The next time something goes well today, say Alhamdulillah before you say anything else.",
+    "related": ["28:70", "92:13"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:2", "surah": 34, "ayah": 2, "place": "makkah",
+    "title": "He knows every raindrop that sinks and every deed that rises.",
+    "subtitle": "Nothing moves unseen by Him",
+    "picture": {"kind": "boxes", "label": "Four movements He knows", "row": [
+      {"box": "plain", "title": "into the earth", "sub": ["rain, seeds"]},
+      {"box": "plain", "title": "out of the earth", "sub": ["what grows"]},
+      {"box": "plain", "title": "down from the sky", "sub": ["rain, provision"]},
+      {"box": "reward", "title": "up to the sky", "sub": ["good deeds"]}]},
+    "key": {"label": "My small deeds", "row": [
+      {"box": "people", "title": "too small to notice", "sub": [], "strike": true},
+      {"box": "idea", "title": "known as they rise", "sub": ["by the Merciful"]}]},
+    "then": "Ibn Kathir explains that Allah knows {idea}the number of raindrops that sink into the earth and the seeds that are sown{/idea}, and what comes down from the sky and what rises to it, including {reward}righteous deeds{/reward}. He is Merciful and does not rush to punish, and forgives those who repent.",
+    "now": "You helped someone carry groceries. You said a quiet dua for a stranger in the hospital waiting room. Nobody saw. {reward}Every one of those rose to Him{/reward}, known as surely as each drop of rain.",
+    "old": "My small, unseen good deeds probably do not count for much.",
+    "new": "Allah knows every deed that rises to Him, however small or hidden.",
+    "try": "Do one small good deed today that no one will ever know about.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:3", "surah": 34, "ayah": 3, "place": "makkah",
+    "title": "Yes, by my Lord, it will come. Not an atom escapes Him.",
+    "subtitle": "One of three verses with this oath",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "trap", "title": "the Hour will not come", "sub": ["the deniers"]},
+      {"conn": "answered"},
+      {"box": "idea", "title": "yes, by my Lord", "sub": ["it will come"]},
+      {"box": "idea", "title": "a clear record", "sub": ["even an atom's weight"]}]},
+    "key": {"label": "What is recorded", "row": [
+      {"box": "people", "title": "only the big things", "sub": [], "strike": true},
+      {"box": "idea", "title": "an atom's weight", "sub": ["smaller, larger, all of it"]}]},
+    "then": "Ibn Kathir says this is one of only three verses where the Prophet ﷺ is told to {idea}swear by his Lord that the Hour will come{/idea}, against stubborn denial. Even when bones scatter and decay, {idea}Allah knows where every piece has gone{/idea} and will bring them back.",
+    "now": "You think about how big the world is and how small you are. Billions of people, endless data. Surely your little choices get lost. {idea}Not an atom's weight escapes Him.{/idea} Nothing you do is lost in the crowd.",
+    "old": "In a world this big, my choices disappear in the noise.",
+    "new": "Not even an atom's weight escapes Allah. Every choice of mine is recorded.",
+    "try": "Notice one tiny choice today, like a word or a glance, and make it a good one on purpose.",
+    "related": ["10:53", "64:7"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:4", "surah": 34, "ayah": 4, "place": "makkah",
+    "title": "The Hour comes so good deeds are finally rewarded.",
+    "subtitle": "Why there must be a Day",
+    "picture": {"kind": "boxes", "label": "The purpose of the Hour", "row": [
+      {"box": "people", "title": "believe", "sub": []},
+      {"box": "people", "title": "do good", "sub": []},
+      {"conn": "receive"},
+      {"box": "reward", "title": "forgiveness", "sub": []},
+      {"box": "reward", "title": "noble provision", "sub": []}]},
+    "key": {"label": "Is good wasted", "row": [
+      {"box": "trap", "title": "good goes unrewarded", "sub": [], "strike": true},
+      {"box": "reward", "title": "a Day to repay it", "sub": ["fully"]}]},
+    "then": "After swearing that the Hour will come, Allah gives the reason: {reward}to reward those who believe and do good with forgiveness and noble provision{/reward}. Ibn Kathir links it to the verse saying the people of the Fire and of Paradise are not equal.",
+    "now": "You played fair at work and someone who cheated got the bonus. You stayed honest on your taxes and a friend laughed at you. It feels like good goes nowhere. {reward}The Hour exists so that nothing good is wasted.{/reward}",
+    "old": "Doing good often seems to get me nothing in return.",
+    "new": "The Day is coming so every good deed is repaid with forgiveness and provision.",
+    "try": "Do one honest thing today that costs you a little, and leave the reward to Allah.",
+    "related": ["59:20", "38:28"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:5", "surah": 34, "ayah": 5, "place": "makkah",
+    "title": "Working to defeat Allah's signs is a race you cannot win.",
+    "subtitle": "Those who try to block the message",
+    "picture": {"kind": "boxes", "label": "Their effort", "row": [
+      {"box": "trap", "title": "strive against verses", "sub": ["turn others away"]},
+      {"conn": "hoping to"},
+      {"box": "trap", "title": "frustrate them", "sub": ["make them fail"]},
+      {"conn": "end in"},
+      {"box": "trap", "title": "painful punishment", "sub": []}]},
+    "key": {"label": "Who loses", "row": [
+      {"box": "people", "title": "the message", "sub": [], "strike": true},
+      {"box": "trap", "title": "the one who fights it", "sub": []}]},
+    "then": "Ibn Kathir explains these are {trap}those who try to turn others away from the path of Allah{/trap} and reject His Messengers. They hoped to make His signs fail. The verse is a sober warning: the effort turns against the one making it.",
+    "now": "Sometimes the one fighting a reminder is you. You argue against a verse because following it would cost you. You look for reasons it does not apply. {idea}Fighting the signs never defeats them.{/idea} It only wears you out.",
+    "old": "If I find enough arguments, I do not have to follow this verse.",
+    "new": "Struggling against Allah's signs only harms me. Surrender is lighter.",
+    "try": "Pick one verse you have been arguing with inside. Read it slowly today without arguing back.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:6", "surah": 34, "ayah": 6, "place": "makkah",
+    "title": "Those with knowledge see it is the truth.",
+    "subtitle": "Knowledge that leads to recognition",
+    "picture": {"kind": "boxes", "label": "What knowledge sees", "row": [
+      {"box": "people", "title": "given knowledge", "sub": []},
+      {"conn": "see"},
+      {"box": "idea", "title": "the revelation", "sub": ["is the truth"]},
+      {"conn": "guiding to"},
+      {"box": "reward", "title": "the Mighty, Praised", "sub": ["His path"]}]},
+    "key": {"label": "Real knowledge", "row": [
+      {"box": "people", "title": "knowing a lot of facts", "sub": [], "strike": true},
+      {"box": "idea", "title": "recognizing the truth", "sub": ["and walking toward it"]}]},
+    "then": "Ibn Kathir says when believers see the Hour arrive and the reward unfold as their Books described, they will say {idea}the Messengers of our Lord came with the truth{/idea}. Knowledge here is not trivia. It is {reward}recognizing the path to the Mighty and Praiseworthy{/reward}.",
+    "now": "You can know dozens of facts about the Quran from videos and podcasts and still not feel it guide your day. {idea}Real knowledge is when you see the truth and it changes your direction.{/idea}",
+    "old": "The more facts I collect, the more knowledge I have.",
+    "new": "Knowledge is seeing the truth clearly and letting it guide where I go.",
+    "try": "Take one fact you already know about Islam and act on it today.",
+    "related": ["7:43", "36:52", "30:56"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:7", "surah": 34, "ayah": 7, "place": "makkah",
+    "title": "Shall we show you the man who says dust lives again?",
+    "subtitle": "Mocking what you cannot imagine",
+    "picture": {"kind": "boxes", "label": "The mockery", "row": [
+      {"box": "people", "title": "the mockers", "sub": ["want to meet him?"]},
+      {"conn": "laugh at"},
+      {"box": "idea", "title": "new creation", "sub": ["after full scattering"]}]},
+    "key": {"label": "Hard to imagine", "row": [
+      {"box": "trap", "title": "so it cannot be true", "sub": [], "strike": true},
+      {"box": "idea", "title": "easy for the Creator", "sub": ["who made it first"]}]},
+    "then": "The disbelievers of Makkah {trap}mocked the Prophet ﷺ for speaking of the Hour{/trap}, pointing to him as the man who claims bodies scattered into dust will be made new. Ibn Kathir says they thought he was either lying or deluded.",
+    "now": "You hear someone laugh at belief in life after death as old-fashioned. You feel a little embarrassed for believing it. {idea}Mockery is not an argument.{/idea} The One who made you from nothing can make you again.",
+    "old": "If something sounds strange to modern ears, maybe it is not true.",
+    "new": "Mockery proves nothing. The Creator who began it can bring it back.",
+    "try": "Next time you feel shy about a belief, quietly remind yourself why you hold it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:8", "surah": 34, "ayah": 8, "place": "makkah",
+    "title": "Liar or mad? Neither. The far error is theirs.",
+    "subtitle": "The labels turned back on those who used them",
+    "picture": {"kind": "boxes", "label": "Their two labels", "row": [
+      {"box": "trap", "title": "a liar", "sub": ["inventing about Allah"], "strike": true},
+      {"box": "trap", "title": "a madman", "sub": ["deluded"], "strike": true},
+      {"conn": "the truth"},
+      {"box": "idea", "title": "truthful and wise", "sub": ["they are in far error"]}]},
+    "key": {"label": "Who is lost", "row": [
+      {"box": "people", "title": "the one who warns", "sub": [], "strike": true},
+      {"box": "trap", "title": "the ones who deny", "sub": ["far from the truth"]}]},
+    "then": "They said the Prophet ﷺ was either {trap}inventing a lie against Allah or mad{/trap}. Allah answered: those who disbelieve in the Hereafter are the ones in torment and far error. Ibn Kathir says {idea}Muhammad ﷺ is the one telling the truth, righteous and wise{/idea}.",
+    "now": "You hear a hard truth from a friend, and your first move is to label them: judgmental, extreme, crazy. {trap}Labeling the messenger is easier than hearing the message.{/trap} {idea}Ask whether the words are true.{/idea}",
+    "old": "If the person telling me a hard truth seems odd, I can ignore it.",
+    "new": "Labeling the one who warns me does not change whether the warning is true.",
+    "try": "Think of advice you dismissed because of who said it. Weigh the words alone today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:9", "surah": 34, "ayah": 9, "place": "makkah",
+    "title": "Sky above, earth below: a sign for whoever turns back.",
+    "subtitle": "Sky above, earth below, wherever you go",
+    "picture": {"kind": "boxes", "label": "Everywhere you stand", "row": [
+      {"box": "plain", "title": "sky above", "sub": ["vast, built"]},
+      {"box": "plain", "title": "earth below", "sub": ["spread out"]},
+      {"conn": "a sign for"},
+      {"box": "reward", "title": "the one who turns back", "sub": ["the munib"]}]},
+    "key": {"label": "Why the delay", "row": [
+      {"box": "people", "title": "He cannot", "sub": [], "strike": true},
+      {"box": "idea", "title": "He is patient", "sub": ["and forgiving"]}]},
+    "then": "Ibn Kathir explains: wherever they go, the sky is above and the earth beneath. If Allah wished, He could act against them, {idea}but He delays because He is Patient and Forgiving{/idea}. The One who built the heavens can raise bodies again, {reward}a sign for every servant who turns to Him{/reward}.",
+    "now": "You walk out of the office at dusk and the sky is huge and orange. For a second the deadlines shrink. {idea}That second is a sign meant for you{/idea}, for the person who is ready to turn back.",
+    "old": "The sky and the earth are just the background of my life.",
+    "new": "The sky above and earth below are signs pointing me back to Allah.",
+    "try": "Step outside today and look up for one full minute. Think of the One who built it.",
+    "related": ["51:47", "51:48", "36:81"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:10", "surah": 34, "ayah": 10, "place": "makkah",
+    "title": "Mountains and birds praised with Dawud, and iron softened.",
+    "subtitle": "Gifts given to a grateful prophet",
+    "picture": {"kind": "boxes", "label": "Allah's gifts to Dawud", "row": [
+      {"box": "reward", "title": "a mighty voice", "sub": ["mountains echo his praise"]},
+      {"box": "reward", "title": "the birds", "sub": ["stopped to join him"]},
+      {"box": "reward", "title": "soft iron", "sub": ["twisted like thread"]}]},
+    "key": {"label": "What power is for", "row": [
+      {"box": "trap", "title": "pride", "sub": [], "strike": true},
+      {"box": "idea", "title": "praise", "sub": ["everything joined him"]}]},
+    "then": "Saba's introduction contrasts Dawud and Sulayman, who stayed grateful despite great power, with the people of Saba, who grew proud. Dawud had {reward}a voice so beautiful the mountains and birds repeated Allah's praise with him{/reward}. The Prophet ﷺ once heard Abu Musa reciting and said he had been given one of the melodies of Dawud's family.",
+    "now": "You have a talent: a good voice, quick hands, a way with words. The world tells you to monetize it, show it off. {idea}Dawud's gift was used to praise Allah, and creation joined in.{/idea}",
+    "old": "My talents are mine to use for my own name.",
+    "new": "My gifts are from Allah, and they shine brightest when used to praise Him.",
+    "try": "Use one skill you have today for Allah's sake, even something small like reciting beautifully.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:11", "surah": 34, "ayah": 11, "place": "makkah",
+    "title": "Make it well, measure it right, and do good.",
+    "subtitle": "Craft done carefully, under Allah's sight",
+    "picture": {"kind": "boxes", "label": "The instruction to Dawud", "row": [
+      {"box": "idea", "title": "full coats of mail", "sub": ["do the job fully"]},
+      {"box": "idea", "title": "measure the links", "sub": ["not too loose, not too tight"]},
+      {"box": "idea", "title": "do righteousness", "sub": ["He sees it all"]}]},
+    "key": {"label": "Ordinary work", "row": [
+      {"box": "people", "title": "just a job", "sub": [], "strike": true},
+      {"box": "idea", "title": "done under His sight", "sub": ["so done well"]}]},
+    "then": "Qatadah said Dawud was the first to make chain mail. Mujahid explained the instruction: {idea}do not make the rings too loose so they rattle, or too tight so they cannot move, but just right{/idea}. Then: work righteousness, for {reward}Allah sees all you do{/reward}.",
+    "now": "You are fixing a bug, plastering a wall, writing a report. Nobody will check the details. {idea}Allah taught a prophet to get the size of each ring right.{/idea} Careful, balanced work is part of doing good.",
+    "old": "As long as the job gets done, the details do not matter much.",
+    "new": "Doing my work carefully and in balance is a kind of righteousness.",
+    "try": "Pick one task today and do the part nobody will check just as well as the rest.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:12", "surah": 34, "ayah": 12, "place": "makkah",
+    "title": "The wind, the copper, and the jinn worked by Allah's permission.",
+    "subtitle": "Power given to Sulayman, and its limits",
+    "picture": {"kind": "boxes", "label": "What served Sulayman", "row": [
+      {"box": "reward", "title": "the wind", "sub": ["a month's journey each way"]},
+      {"box": "reward", "title": "spring of copper", "sub": ["flowing for him"]},
+      {"box": "people", "title": "the jinn", "sub": ["by his Lord's permission"]}]},
+    "key": {"label": "Where power comes from", "row": [
+      {"box": "people", "title": "Sulayman's own might", "sub": [], "strike": true},
+      {"box": "idea", "title": "by his Lord's leave", "sub": ["every bit of it"]}]},
+    "then": "After Dawud, Allah mentions his son Sulayman. The wind carried him a month's journey in a morning and another by evening, and {reward}a spring of copper flowed for him{/reward}. The jinn worked for him, but Ibn Kathir stresses it was {idea}by Allah's decree and permission{/idea}.",
+    "now": "You run a team, manage a budget, have influence in your circle. People do what you ask. {idea}All of it works by Allah's permission.{/idea} The moment you forget that, the power starts to own you.",
+    "old": "The influence I have is something I built myself.",
+    "new": "Every power I hold works only by Allah's permission.",
+    "try": "Before you give an instruction to anyone today, remind yourself it is by Allah's leave.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:13", "surah": 34, "ayah": 13, "place": "makkah",
+    "title": "Work in gratitude, family of Dawud. Few are grateful.",
+    "subtitle": "Thanks shown in deeds, not only words",
+    "picture": {"kind": "boxes", "label": "What gratitude looks like", "row": [
+      {"box": "idea", "title": "prayer", "sub": ["is thanks"]},
+      {"box": "idea", "title": "fasting", "sub": ["is thanks"]},
+      {"box": "idea", "title": "every good deed", "sub": ["is thanks"]}]},
+    "key": {"label": "How to say thank you", "row": [
+      {"box": "people", "title": "just words", "sub": [], "strike": true},
+      {"box": "idea", "title": "work with thanks", "sub": ["deeds as gratitude"]}]},
+    "then": "The jinn built palaces, basins like reservoirs, and fixed cauldrons. Then the command: {idea}work, family of Dawud, in gratitude{/idea}. Al-Hubuli said prayer, fasting, and every good deed are thanks. Dawud asked how he could thank Allah when thanks itself is a gift, and was told: {reward}now you have truly thanked Me{/reward}.",
+    "now": "You are blessed with a home, health, a phone in your hand. You say thank God now and then. {idea}This verse asks for thanks you can see: in how you pray, give, and treat people.{/idea} Few do it. You can be among the few.",
+    "old": "Saying thank you to Allah with my tongue is enough.",
+    "new": "Gratitude is work. Every good deed I do is a way of saying thanks.",
+    "try": "Turn one blessing you have into a deed today, like giving from your food or time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "34:14", "surah": 34, "ayah": 14, "place": "makkah",
+    "title": "A tiny worm revealed what the jinn never knew.",
+    "subtitle": "The death of Sulayman and the limits of the unseen",
+    "picture": {"kind": "boxes", "label": "How his death came out", "row": [
+      {"box": "people", "title": "Sulayman", "sub": ["leaning on his staff"]},
+      {"box": "plain", "title": "a small creature", "sub": ["eating the staff"]},
+      {"conn": "he fell, and"},
+      {"box": "trap", "title": "the jinn exposed", "sub": ["they did not know"]}]},
+    "key": {"label": "Who knows the unseen", "row": [
+      {"box": "trap", "title": "the jinn, fortune tellers", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": []}]},
+    "then": "Sulayman died leaning on his staff, and stayed that way a long time while the jinn kept working. Only when {idea}a small creature of the earth ate through the staff{/idea} and he fell did they realize. Ibn Kathir says it became clear {trap}the jinn do not know the unseen, as they had led people to believe{/trap}.",
+    "now": "Horoscope apps, palm readers, someone who claims to see your future. It is tempting when you are anxious about money or marriage. {idea}The jinn could not even tell that a king had died in front of them.{/idea} The unseen is Allah's alone.",
+    "old": "Someone with special insight might be able to tell me what is coming.",
+    "new": "Only Allah knows the unseen. I bring my worries about the future to Him.",
+    "try": "When you feel anxious about the future today, make a short dua instead of searching for answers.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

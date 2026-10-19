@@ -1,0 +1,264 @@
+[
+  {
+    "id": "11:15", "surah": 11, "ayah": 15, "place": "makkah",
+    "title": "Want only this world, and you get paid only here.",
+    "subtitle": "Deeds done for worldly gain are paid in worldly coin",
+    "picture": {"kind": "boxes", "label": "The deal they chose", "row": [
+      {"box": "people", "title": "the aim", "sub": ["this life and its shine"]},
+      {"conn": "gets"},
+      {"box": "reward", "title": "full payment here", "sub": ["not a speck less"]},
+      {"conn": "and then"},
+      {"box": "trap", "title": "nothing left", "sub": ["for the next life"]}]},
+    "key": {"label": "Who you did it for", "row": [
+      {"box": "trap", "title": "to be seen", "sub": ["paid in likes and praise"], "strike": true},
+      {"box": "idea", "title": "for Allah", "sub": ["paid here and there"]}]},
+    "then": "Ibn Abbas said those who show off are {trap}given their reward in this life{/trap}, so no one is wronged even a speck. Mujahid said it is about people who do deeds to be seen. Qatadah said the believer is {reward}rewarded in this life and the next{/reward}.",
+    "now": "You post the photo of the charity box, or pray a little longer when the in-laws are watching. The praise comes, and it feels good. {trap}That may be the whole payment.{/trap} The same deed done quietly for Allah gets paid twice.",
+    "old": "As long as I do good, it does not matter who sees it.",
+    "new": "The reason I do a good deed decides where it gets paid.",
+    "try": "Do one good thing today that nobody will ever know about.",
+    "related": ["17:18", "42:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:16", "surah": 11, "ayah": 16, "place": "makkah",
+    "title": "Deeds that looked impressive, but weighed nothing.",
+    "subtitle": "What is left of work done only for the world",
+    "picture": {"kind": "boxes", "label": "At the end", "row": [
+      {"box": "people", "title": "a life of deeds", "sub": ["all aimed at this world"]},
+      {"conn": "becomes"},
+      {"box": "trap", "title": "lost", "sub": ["what they made"]},
+      {"box": "trap", "title": "worthless", "sub": ["what they used to do"]}]},
+    "key": {"label": "What carries over", "row": [
+      {"box": "trap", "title": "it was a good deed", "sub": ["so it must count"], "strike": true},
+      {"box": "idea", "title": "the intention", "sub": ["decides if it crosses"]}]},
+    "then": "This verse finishes the thought of the previous one. Ibn Abbas said that a person who prays or fasts only for worldly benefit {trap}has his deed wasted{/trap}, since he only sought this world. Ibn Kathir adds that whoever strives for the Hereafter as a believer {reward}has his striving appreciated{/reward}.",
+    "now": "You spend years building a reputation as the generous one at work. Every gift is noted, every favor remembered. {idea}Ask who it is really for.{/idea} The same hours can be turned toward Allah with one honest change of heart.",
+    "old": "I have done so much good that I must be fine.",
+    "new": "Good deeds only last if they were for Allah, so I keep checking why I do them.",
+    "try": "Before one task today, pause and say quietly: this is for You, O Allah.",
+    "related": ["17:18"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:17", "surah": 11, "ayah": 17, "place": "makkah",
+    "title": "Your inner nature already recognizes the truth.",
+    "subtitle": "Clear proof inside, a witness from outside",
+    "picture": {"kind": "boxes", "label": "Two witnesses agree", "row": [
+      {"box": "idea", "title": "the fitrah", "sub": ["born knowing one God"]},
+      {"conn": "confirmed by"},
+      {"box": "idea", "title": "the Quran", "sub": ["the witness that follows"]},
+      {"conn": "and before it"},
+      {"box": "reward", "title": "the Book of Musa", "sub": ["a guide and a mercy"]}]},
+    "key": {"label": "Where proof starts", "row": [
+      {"box": "people", "title": "I need outside proof first", "sub": [], "strike": true},
+      {"box": "idea", "title": "the heart already knows", "sub": ["revelation confirms it"]}]},
+    "then": "Ibn Kathir says the believer stands on {idea}the fitrah, the natural faith Allah placed in people{/idea}. Every child is born on it. The Quran then comes as a witness that matches it, and the Book of Musa came before as a guide. {trap}So be in no doubt about it.{/trap}",
+    "now": "You look at a newborn in the hospital nursery and feel that something greater made this. No lecture told you that. {idea}That feeling is the first witness.{/idea} The Quran does not argue with it; it agrees with it.",
+    "old": "Faith is something I have to be talked into.",
+    "new": "My own nature already leans toward Allah, and the Quran confirms what it knows.",
+    "try": "Spend two minutes today looking at something in nature and let your heart say who made it.",
+    "related": ["30:30", "32:1", "12:103"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:18", "surah": 11, "ayah": 18, "place": "makkah",
+    "title": "The worst wrong is lying about Allah.",
+    "subtitle": "Two ways people stand before Him",
+    "picture": {"kind": "boxes", "label": "On that Day", "row": [
+      {"box": "people", "title": "the believer", "sub": ["sins shown in private"]},
+      {"conn": "hears"},
+      {"box": "reward", "title": "I covered them", "sub": ["and forgive them today"]},
+      {"box": "trap", "title": "the liar about Allah", "sub": ["named before witnesses"]}]},
+    "key": {"label": "What hides you then", "row": [
+      {"box": "trap", "title": "my image", "sub": ["what people thought of me"], "strike": true},
+      {"box": "reward", "title": "His covering", "sub": ["for those who turned to Him"]}]},
+    "then": "Ibn Umar reported that Allah will draw the believer near, {reward}cover him from the people{/reward}, and remind him of his sins one by one. When he thinks he is ruined, Allah says: I hid these for you in the world and I forgive them today. {trap}The ones who lied about their Lord are named openly.{/trap}",
+    "now": "You have messed up in ways nobody knows. Allah kept it hidden, day after day. {reward}That covering is a mercy you can lean into.{/reward} Never put words in Allah's name that He did not say, and keep asking Him to keep covering you.",
+    "old": "My hidden sins mean I am already lost.",
+    "new": "The One who has hidden my sins all this time can forgive them too, if I turn to Him.",
+    "try": "Make a short dua today: O Allah, cover me in this world and the next.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:19", "surah": 11, "ayah": 19, "place": "makkah",
+    "title": "Blocking the path, then calling it crooked.",
+    "subtitle": "Turning others away from Allah's way",
+    "picture": {"kind": "boxes", "label": "What they did", "row": [
+      {"box": "trap", "title": "turned people away", "sub": ["from the path to Him"]},
+      {"box": "trap", "title": "made it look crooked", "sub": ["twisted and uneven"]},
+      {"conn": "because"},
+      {"box": "trap", "title": "no belief in the Hereafter", "sub": []}]},
+    "key": {"label": "My part", "row": [
+      {"box": "people", "title": "I only harm myself", "sub": [], "strike": true},
+      {"box": "idea", "title": "I can block others too", "sub": ["or make the way easy"]}]},
+    "then": "Ibn Kathir explains that these people {trap}kept others from the truth and the path of guidance{/trap}, and so kept them from Paradise. They wanted the path to look crooked. At the root, they did not believe in the Hereafter at all.",
+    "now": "Your younger cousin starts praying and you joke that she has gone extreme. Or you make religion sound harsh when someone asks you a question. {idea}You can be the person who makes the path look easy.{/idea}",
+    "old": "What I say about religion only affects me.",
+    "new": "My words and jokes can push someone toward Allah or away, so I choose them with care.",
+    "try": "Encourage one person today in a good thing they are trying to do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:20", "surah": 11, "ayah": 20, "place": "makkah",
+    "title": "Ears and eyes given, but never used for truth.",
+    "subtitle": "No escape and no protector besides Allah",
+    "picture": {"kind": "boxes", "label": "What they had", "row": [
+      {"box": "reward", "title": "hearing", "sub": ["a gift"]},
+      {"box": "reward", "title": "sight", "sub": ["a gift"]},
+      {"box": "reward", "title": "hearts", "sub": ["a gift"]},
+      {"conn": "but"},
+      {"box": "trap", "title": "not used", "sub": ["deaf and blind to truth"]}]},
+    "key": {"label": "The delay", "row": [
+      {"box": "trap", "title": "I got away with it", "sub": [], "strike": true},
+      {"box": "idea", "title": "respite, not escape", "sub": ["He gives time, then seizes"]}]},
+    "then": "Ibn Kathir says they {trap}could not escape on earth{/trap}, and had no protector besides Allah. The Prophet ﷺ said Allah gives the oppressor respite until He seizes him. Their punishment is doubled because they were given {reward}hearing, sight and hearts{/reward} and used none of them for the truth.",
+    "now": "You have ears for a podcast every commute, eyes for hours of screens a day. {idea}The same tools can turn toward what helps you.{/idea} Hearing is a gift, and so is noticing what you keep tuning out.",
+    "old": "I am too busy to listen to reminders right now.",
+    "new": "My hearing and sight are gifts I will be asked about, so I give some of them to the truth.",
+    "try": "Swap one song or clip today for five minutes of Quran recitation.",
+    "related": ["14:42", "67:10", "16:88"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:21", "surah": 11, "ayah": 21, "place": "makkah",
+    "title": "They lost themselves, and their idols left them.",
+    "subtitle": "What people invent besides Allah walks away",
+    "picture": {"kind": "boxes", "label": "What they relied on", "row": [
+      {"box": "trap", "title": "rivals to Allah", "sub": ["idols they made up"]},
+      {"conn": "on that Day"},
+      {"box": "trap", "title": "gone", "sub": ["they abandon them"]},
+      {"conn": "leaving"},
+      {"box": "people", "title": "a lost self", "sub": ["nothing to hold"]}]},
+    "key": {"label": "What I lean on", "row": [
+      {"box": "trap", "title": "it will always be there", "sub": [], "strike": true},
+      {"box": "idea", "title": "only Allah stays", "sub": ["everything else leaves"]}]},
+    "then": "Ibn Kathir says what they invented, {trap}the rivals and idols besides Allah{/trap}, left them and did not help them at all. In fact those things harmed them. Those who were followed will disown those who followed them.",
+    "now": "The influencer you quoted for years, the strategy you trusted, the status you chased. When the real test comes, {trap}none of it shows up for you.{/trap} {idea}Ask what you are leaning on that cannot hold you.{/idea}",
+    "old": "The things I count on will always be there for me.",
+    "new": "Anything I put in Allah's place will walk away from me when I need it most.",
+    "try": "Name one thing you lean on more than Allah. Ask Him today to be your first support.",
+    "related": ["46:6", "2:166"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:22", "surah": 11, "ayah": 22, "place": "makkah",
+    "title": "The worst trade anyone can make.",
+    "subtitle": "The greatest losers, in the long run",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "reward", "title": "nearness to Allah", "sub": ["the highest gardens"]},
+      {"conn": "traded for"},
+      {"box": "trap", "title": "His anger", "sub": ["the lowest place"]}]},
+    "key": {"label": "How loss is measured", "row": [
+      {"box": "trap", "title": "my bank balance", "sub": [], "strike": true},
+      {"box": "idea", "title": "the final account", "sub": ["what I end up with"]}]},
+    "then": "Ibn Kathir calls this a {trap}transaction for the abode of the Hereafter{/trap}. They swapped the highest levels for the lowest, and {reward}nearness to Allah{/reward} for His anger. So it is no injustice that they are the greatest losers.",
+    "now": "You would never trade a house for a phone case. Yet a long day can go by trading prayer time for scrolling, honesty for a small sale. {idea}Look at your trades the way a merchant does.{/idea}",
+    "old": "Small choices today do not change the big picture.",
+    "new": "My daily trades add up to the final account, so I want to stop trading the lasting for the cheap.",
+    "try": "Notice one small trade today where you swap the better thing for the easier one, and switch it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:23", "surah": 11, "ayah": 23, "place": "makkah",
+    "title": "Believe, do good, and bow your heart to your Lord.",
+    "subtitle": "The people of Paradise, forever",
+    "picture": {"kind": "boxes", "label": "Three marks", "row": [
+      {"box": "idea", "title": "believe", "sub": ["the heart says yes"]},
+      {"box": "idea", "title": "do good", "sub": ["the limbs follow"]},
+      {"box": "idea", "title": "humble before Him", "sub": ["a soft, low heart"]},
+      {"conn": "lead to"},
+      {"box": "reward", "title": "Paradise", "sub": ["forever"]}]},
+    "key": {"label": "What completes it", "row": [
+      {"box": "trap", "title": "good deeds, proud heart", "sub": [], "strike": true},
+      {"box": "idea", "title": "good deeds, humble heart", "sub": ["turned toward Him"]}]},
+    "then": "After describing the losers, the verse praises the believers. Ibn Kathir says {idea}their hearts believed and their limbs did good{/idea}, in words and actions. They will live in Paradise forever, {reward}and will see the Creator of the heavens and the earth{/reward}.",
+    "now": "You finish your prayer and rush straight to the next notification. Or you give charity and quietly feel better than others. {idea}The verse adds a third thing: humility.{/idea} The deed lands better when the heart bows with it.",
+    "old": "As long as I do the right things, my attitude does not matter.",
+    "new": "Faith and good deeds are completed by a heart that humbles itself before Allah.",
+    "try": "After your next prayer, stay seated one more minute and just thank Him, quietly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:24", "surah": 11, "ayah": 24, "place": "makkah",
+    "title": "Can the blind and the seeing ever be equal?",
+    "subtitle": "The parable of the two groups",
+    "picture": {"kind": "boxes", "label": "Two kinds of people", "row": [
+      {"box": "trap", "title": "blind and deaf", "sub": ["to the truth"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "seeing and hearing", "sub": ["tells truth from falsehood"]}]},
+    "key": {"label": "What sight means here", "row": [
+      {"box": "people", "title": "eyes that work", "sub": [], "strike": true},
+      {"box": "idea", "title": "a heart that sees", "sub": ["and follows the good"]}]},
+    "then": "Ibn Kathir explains the parable. The one who rejects is {trap}blind to the truth and deaf to the proofs{/trap}. The believer {idea}sees the truth, tells it apart from falsehood, and follows the good{/idea}. Then the verse asks: will you not take heed?",
+    "now": "Two coworkers hear the same rumor. One checks before sharing; the other forwards it to ten people. {idea}Same ears, different hearing.{/idea} Seeing clearly is a choice you make many times a day.",
+    "old": "I see things the way they are.",
+    "new": "Real sight is noticing the truth and following it, and I can ask Allah for more of it.",
+    "try": "Before you share or react to anything today, stop and ask if it is true.",
+    "related": ["8:23", "59:20", "35:19"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:25", "surah": 11, "ayah": 25, "place": "makkah",
+    "title": "Nuh begins with the same clear warning.",
+    "subtitle": "The first messenger to idol worshippers",
+    "picture": {"kind": "boxes", "label": "The first messenger", "row": [
+      {"box": "people", "title": "Nuh", "sub": ["sent to his people"]},
+      {"conn": "says"},
+      {"box": "idea", "title": "a clear warner", "sub": ["open, not hidden"]}]},
+    "key": {"label": "Same message", "row": [
+      {"box": "people", "title": "a new idea", "sub": ["invented by one man"], "strike": true},
+      {"box": "idea", "title": "the oldest message", "sub": ["from Nuh to Muhammad ﷺ"]}]},
+    "then": "The surah introduction says Allah teaches through the stories of past prophets. Ibn Kathir says Nuh was {idea}the first messenger sent to people of the earth{/idea} who worshipped idols. He warned them {trap}openly{/trap} against Allah's punishment if they kept worshipping others.",
+    "now": "You hear the same advice from your grandmother, your teacher and a stranger at the mosque. It feels repetitive. {idea}Some messages repeat because they are true.{/idea} Nuh said what Hud and every prophet would say after him.",
+    "old": "I have heard this reminder too many times already.",
+    "new": "The message repeats across every prophet because it is the oldest truth there is.",
+    "try": "Listen to one familiar reminder today as if you were hearing it for the first time.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:26", "surah": 11, "ayah": 26, "place": "makkah",
+    "title": "Worship Allah alone, because I fear for you.",
+    "subtitle": "A warning spoken out of care",
+    "picture": {"kind": "boxes", "label": "Nuh's message", "row": [
+      {"box": "idea", "title": "worship only Allah", "sub": ["the whole call"]},
+      {"conn": "because"},
+      {"box": "people", "title": "I fear for you", "sub": ["concern, not threat"]},
+      {"conn": "of"},
+      {"box": "trap", "title": "a painful Day", "sub": []}]},
+    "key": {"label": "The tone", "row": [
+      {"box": "trap", "title": "angry preaching", "sub": [], "strike": true},
+      {"box": "reward", "title": "worried love", "sub": ["I fear for you"]}]},
+    "then": "Nuh's call was the same as the opening of this surah: {idea}worship none but Allah{/idea}. Ibn Kathir explains his words as: if you keep doing this, Allah will punish you severely in the Hereafter. Nuh says {reward}I fear for you{/reward}, the voice of someone who cares.",
+    "now": "You see your brother slipping into a habit that is hurting him. You can lecture him, or you can say: I am worried about you. {reward}Fear for someone is a form of love.{/reward}",
+    "old": "Warning someone means judging them.",
+    "new": "A real warning comes from fear for the person, the way Nuh spoke to his people.",
+    "try": "Tell one person you care about that you worry for them, gently and without blame.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "11:27", "surah": 11, "ayah": 27, "place": "makkah",
+    "title": "They judged the message by who followed it.",
+    "subtitle": "The chiefs looked down on the poor believers",
+    "picture": {"kind": "boxes", "label": "The chiefs' objections", "row": [
+      {"box": "trap", "title": "just a man like us", "sub": []},
+      {"box": "trap", "title": "only the lowly follow", "sub": ["without thinking"]},
+      {"box": "trap", "title": "you are liars", "sub": ["no merit over us"]}]},
+    "key": {"label": "Where truth comes from", "row": [
+      {"box": "trap", "title": "who follows it", "sub": ["status, wealth, rank"], "strike": true},
+      {"box": "idea", "title": "truth stands alone", "sub": ["its followers are the noble"]}]},
+    "then": "The chiefs said Nuh was only human and {trap}only the lowest of us follow you{/trap}. Ibn Kathir says truth is not rejected because of the low status of its followers. Heraclius asked Abu Sufyan if the Prophet's ﷺ followers were noble or weak, then said {idea}the weak are the followers of the messengers{/idea}.",
+    "now": "You dismiss an idea at work because the intern suggested it, then praise it when the manager repeats it. {idea}The truth does not change with the person saying it.{/idea} Check yourself before you check their rank.",
+    "old": "If important people do not believe it, it is probably not true.",
+    "new": "Truth is true whoever holds it, and the humble who follow it are the honored ones.",
+    "try": "Listen fully today to someone you usually overlook, and take their point seriously.",
+    "related": ["43:23"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

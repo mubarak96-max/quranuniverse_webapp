@@ -1,0 +1,514 @@
+[
+  {
+    "id": "94:5",
+    "surah": 94,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "Ease is not after hardship. It is inside it.",
+    "subtitle": "Where relief actually lives",
+    "picture": {
+      "kind": "svg",
+      "src": "<svg viewBox=\"0 0 320 190\" role=\"img\" aria-label=\"One hardship box containing two ease boxes\"> <rect x=\"20\" y=\"30\" width=\"280\" height=\"130\" rx=\"12\" fill=\"none\" stroke=\"{{trap}}\" stroke-width=\"2.5\" stroke-dasharray=\"7 5\"/> <text x=\"36\" y=\"22\" font-size=\"12\" font-weight=\"700\" fill=\"{{trap}}\" letter-spacing=\"1.5\">THE HARDSHIP</text> <rect x=\"48\" y=\"70\" width=\"100\" height=\"56\" rx=\"9\" fill=\"{{good}}\"/> <text x=\"98\" y=\"104\" font-size=\"17\" font-weight=\"700\" fill=\"#fff\" text-anchor=\"middle\">ease</text> <rect x=\"172\" y=\"70\" width=\"100\" height=\"56\" rx=\"9\" fill=\"{{good}}\"/> <text x=\"222\" y=\"104\" font-size=\"17\" font-weight=\"700\" fill=\"#fff\" text-anchor=\"middle\">ease</text> <text x=\"160\" y=\"150\" font-size=\"12\" fill=\"{{muted}}\" text-anchor=\"middle\" font-style=\"italic\">\"with\", not \"after\"</text> <text x=\"160\" y=\"182\" font-size=\"12\" fill=\"{{idea}}\" text-anchor=\"middle\" font-weight=\"600\">one hardship, two eases</text> </svg>"
+    },
+    "key": {
+      "label": "The one word that changes it",
+      "row": [
+        {
+          "box": "people",
+          "title": "after",
+          "sub": [
+            "hardship, then one day, ease"
+          ],
+          "strike": true
+        },
+        {
+          "conn": "the verse says"
+        },
+        {
+          "box": "idea",
+          "title": "with",
+          "sub": [
+            "ma'a: one hardship, two eases, same season"
+          ]
+        }
+      ]
+    },
+    "then": "Makkah. Rejection, mockery, few followers. Allah did not say \"it will end.\" He said: {idea}look inside it, ease is already there, and it is there twice.{/idea}",
+    "now": "Months of job hunting. A sick parent. You keep saying {trap}\"when this is over.\"{/trap} The verse says: do not wait for over. {idea}Find the ease that is here already.{/idea}",
+    "old": "Hardship, then relief. Two seasons.",
+    "new": "One season, both at once. Find the second one.",
+    "try": "Name one ease you have right now, inside your current difficulty. Write it down.",
+    "related": [
+      "94:6",
+      "2:286",
+      "65:7"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "12:25",
+    "surah": 12,
+    "ayah": 25,
+    "place": "makkah",
+    "title": "He ran. She grabbed. She spoke first.",
+    "subtitle": "Doing right leaves evidence, even while the lie is being told",
+    "picture": {
+      "kind": "svg",
+      "src": "<svg viewBox=\"0 0 320 190\" role=\"img\" aria-label=\"Path from the room to the door, shirt torn from behind, husband waiting\"> <defs><marker id=\"a\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"{{idea}}\"/></marker> <marker id=\"w\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"{{trap}}\"/></marker></defs> <rect x=\"14\" y=\"56\" width=\"76\" height=\"40\" rx=\"8\" fill=\"none\" stroke=\"{{line}}\" stroke-width=\"1.5\"/> <text x=\"52\" y=\"80\" font-size=\"12\" fill=\"{{muted}}\" text-anchor=\"middle\">locked room</text> <line x1=\"94\" y1=\"76\" x2=\"196\" y2=\"76\" stroke=\"{{idea}}\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/> <text x=\"145\" y=\"66\" font-size=\"12\" fill=\"{{idea}}\" text-anchor=\"middle\" font-weight=\"600\">Yusuf runs</text> <path d=\"M100 100 C130 118, 160 118, 190 100\" fill=\"none\" stroke=\"{{trap}}\" stroke-width=\"2\" stroke-dasharray=\"5 4\" marker-end=\"url(#w)\"/> <text x=\"145\" y=\"128\" font-size=\"12\" fill=\"{{trap}}\" text-anchor=\"middle\">she chases, shirt torn from the back</text> <rect x=\"204\" y=\"44\" width=\"56\" height=\"64\" rx=\"6\" fill=\"{{idea}}\"/> <text x=\"232\" y=\"81\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\" text-anchor=\"middle\">DOOR</text> <circle cx=\"292\" cy=\"62\" r=\"11\" fill=\"{{people}}\"/> <rect x=\"282\" y=\"76\" width=\"20\" height=\"26\" rx=\"5\" fill=\"{{people}}\"/> <text x=\"292\" y=\"118\" font-size=\"11\" fill=\"{{muted}}\" text-anchor=\"middle\">husband</text> <rect x=\"20\" y=\"146\" width=\"280\" height=\"34\" rx=\"8\" fill=\"{{rewardSoft}}\" stroke=\"{{reward}}\" stroke-width=\"1.5\"/> <text x=\"160\" y=\"167\" font-size=\"12\" fill=\"{{fg}}\" text-anchor=\"middle\">torn from the back = he was leaving, not coming</text> </svg>"
+    },
+    "key": {
+      "label": "Two versions, one shirt",
+      "row": [
+        {
+          "box": "trap",
+          "title": "her story",
+          "sub": [
+            "\"he wanted evil with your wife\"",
+            "spoken first"
+          ]
+        },
+        {
+          "box": "reward",
+          "title": "torn from the back",
+          "sub": [
+            "= he was leaving, not coming",
+            "the evidence"
+          ]
+        }
+      ]
+    },
+    "then": "A slave in a minister's house in Egypt. Doors locked, the wife pressing him. He chose the door and got caught at it anyway. {trap}She spoke first, as the victim.{/trap}",
+    "now": "You did the right thing and it still blew up. The person who pushed you now tells the manager, the family, the group chat, that {trap}you were the problem.{/trap} {idea}Truth was on him while the lie was being told.{/idea}",
+    "old": "Doing right protects me from being accused.",
+    "new": "Doing right leaves evidence. The shirt was torn from the back.",
+    "try": "Caught in a false version of events? State what happened once, plainly. Then let the torn shirt speak.",
+    "related": [
+      "12:26",
+      "12:28"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "2:261",
+    "surah": 2,
+    "ayah": 261,
+    "place": "madinah",
+    "title": "You give one. Allah grows it to seven hundred.",
+    "subtitle": "How spending for Allah is counted",
+    "picture": {
+      "kind": "svg",
+      "src": "<svg viewBox=\"0 0 320 190\" role=\"img\" aria-label=\"One seed growing into seven ears of a hundred grains each\"> <circle cx=\"160\" cy=\"170\" r=\"7\" fill=\"{{idea}}\"/> <text x=\"160\" y=\"186\" font-size=\"11\" fill=\"{{idea}}\" text-anchor=\"middle\" font-weight=\"600\">1 seed</text> <g stroke=\"{{good}}\" stroke-width=\"2\" fill=\"none\"> <path d=\"M160 163 C160 120, 40 120, 40 70\"/><path d=\"M160 163 C160 120, 80 120, 80 60\"/><path d=\"M160 163 C160 120, 120 115, 120 52\"/> <path d=\"M160 163 L160 48\"/> <path d=\"M160 163 C160 120, 200 115, 200 52\"/><path d=\"M160 163 C160 120, 240 120, 240 60\"/><path d=\"M160 163 C160 120, 280 120, 280 70\"/> </g> <g fill=\"{{reward}}\"> <ellipse cx=\"40\" cy=\"58\" rx=\"12\" ry=\"18\"/><ellipse cx=\"80\" cy=\"48\" rx=\"12\" ry=\"18\"/><ellipse cx=\"120\" cy=\"40\" rx=\"12\" ry=\"18\"/><ellipse cx=\"160\" cy=\"36\" rx=\"12\" ry=\"18\"/> <ellipse cx=\"200\" cy=\"40\" rx=\"12\" ry=\"18\"/><ellipse cx=\"240\" cy=\"48\" rx=\"12\" ry=\"18\"/><ellipse cx=\"280\" cy=\"58\" rx=\"12\" ry=\"18\"/> </g> <g font-size=\"10\" font-weight=\"700\" fill=\"#2a1f05\" text-anchor=\"middle\"> <text x=\"40\" y=\"62\">100</text><text x=\"80\" y=\"52\">100</text><text x=\"120\" y=\"44\">100</text><text x=\"160\" y=\"40\">100</text><text x=\"200\" y=\"44\">100</text><text x=\"240\" y=\"52\">100</text><text x=\"280\" y=\"62\">100</text> </g> <text x=\"160\" y=\"14\" font-size=\"13\" font-weight=\"700\" fill=\"{{reward}}\" text-anchor=\"middle\">7 × 100 = 700, \"and more for whom He wills\"</text> <text x=\"302\" y=\"118\" font-size=\"11\" fill=\"{{muted}}\" font-style=\"italic\" text-anchor=\"end\">planted, not spent</text> </svg>"
+    },
+    "key": {
+      "label": "Two ways to count it",
+      "row": [
+        {
+          "box": "trap",
+          "title": "minus 50",
+          "sub": [
+            "subtraction from my account"
+          ]
+        },
+        {
+          "conn": "the verse says"
+        },
+        {
+          "box": "reward",
+          "title": "times 700",
+          "sub": [
+            "planted, not spent, and more for whom He wills"
+          ]
+        }
+      ]
+    },
+    "then": "New community in Madinah, poor, building a mosque, feeding migrants. Giving felt like losing. {idea}Allah showed them farming instead of subtracting.{/idea}",
+    "now": "Salary just hit. Rent, bills, a bit left. The donation link is open. Your brain says {trap}\"minus 50.\"{/trap} The verse says {reward}\"times 700.\"{/reward}",
+    "old": "Giving is subtraction from my account.",
+    "new": "Giving is planting. The seed leaves my hand so it can grow.",
+    "try": "Give one small amount today. Picture seven ears.",
+    "related": [
+      "2:262",
+      "2:265",
+      "6:160"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "111:1",
+    "surah": 111,
+    "ayah": 1,
+    "place": "makkah",
+    "title": "His uncle cursed him. Allah returned the curse, forever.",
+    "subtitle": "The only enemy named in the Quran, and what he said",
+    "picture": {
+      "kind": "boxes",
+      "label": "What he said, on the hill",
+      "row": [
+        {
+          "box": "people",
+          "title": "Abu Lahab",
+          "sub": [
+            "his own uncle"
+          ]
+        },
+        {
+          "conn": "stands up, says"
+        },
+        {
+          "box": "trap",
+          "title": "\"may you perish\"",
+          "sub": [
+            "dusting off his hands"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What Allah said back",
+      "row": [
+        {
+          "box": "reward",
+          "title": "\"perish his hands, and perish he\"",
+          "sub": [
+            "the same word, returned"
+          ]
+        },
+        {
+          "conn": "recited"
+        },
+        {
+          "box": "idea",
+          "title": "forever",
+          "sub": [
+            "in every mushaf, every prayer"
+          ]
+        }
+      ]
+    },
+    "then": "The Prophet ﷺ climbed a hill, called all of Makkah, and warned them. His own uncle stood up, dusted off his hands: {trap}\"Is this why you gathered us? May you perish.\"{/trap} The one man whose job was to protect him.",
+    "now": "The relative who mocks your choices at every gathering. The one who should have your back and {trap}laughs the loudest instead.{/trap} You keep hoping blood will fix it. {idea}Allah defended His Prophet when his uncle would not.{/idea}",
+    "old": "Family will come around if I keep proving myself.",
+    "new": "Some will not. Your worth does not wait on their approval.",
+    "try": "Stop rehearsing the argument with that relative. Do your work. Let the record be written elsewhere.",
+    "related": [
+      "111:2",
+      "26:214"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "111:2",
+    "surah": 111,
+    "ayah": 2,
+    "place": "makkah",
+    "title": "Money and sons bought him nothing.",
+    "subtitle": "What he planned to pay with on the Day",
+    "picture": {
+      "kind": "boxes",
+      "label": "His plan",
+      "row": [
+        {
+          "box": "reward",
+          "title": "wealth",
+          "sub": [
+            "\"I will pay\""
+          ]
+        },
+        {
+          "box": "reward",
+          "title": "sons",
+          "sub": [
+            "\"they will ransom me\""
+          ]
+        },
+        {
+          "conn": "offered at"
+        },
+        {
+          "box": "idea",
+          "title": "the Day",
+          "sub": [
+            "the gate"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What it bought",
+      "row": [
+        {
+          "box": "trap",
+          "title": "0",
+          "sub": [
+            "nothing he owned crosses"
+          ],
+          "num": true
+        },
+        {
+          "box": "idea",
+          "title": "what he did",
+          "sub": [
+            "the only thing that crosses"
+          ]
+        }
+      ]
+    },
+    "then": "Abu Lahab was rich, connected, with grown sons. Warned about the Day, he said: {trap}if it is true, I will ransom myself with my wealth and my children.{/trap} This verse is the reply.",
+    "now": "The savings account. The pension. The kids who will \"take care of me.\" The network. Everything you quietly count on when the thought of death passes through. {idea}Blessings for here, not currency for there.{/idea}",
+    "old": "What I own and who I raised are my safety net.",
+    "new": "Nothing I own crosses with me except what I did with it.",
+    "try": "Name one thing you are secretly relying on instead of Allah. Say it out loud.",
+    "related": [
+      "111:3",
+      "26:88",
+      "3:10"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "111:3",
+    "surah": 111,
+    "ayah": 3,
+    "place": "makkah",
+    "title": "Father of Flame. Allah told him where the flame ends.",
+    "subtitle": "A proud nickname, turned over",
+    "picture": {
+      "kind": "boxes",
+      "label": "One word, two places",
+      "row": [
+        {
+          "box": "reward",
+          "title": "Abu Lahab",
+          "sub": [
+            "\"father of flame\"",
+            "a glowing face, a proud name"
+          ]
+        },
+        {
+          "conn": "same word"
+        },
+        {
+          "box": "trap",
+          "title": "a fire of lahab",
+          "sub": [
+            "where the flame ends"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What a name is made of",
+      "row": [
+        {
+          "box": "people",
+          "title": "what people call me",
+          "sub": [
+            "lighting"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "what my deeds are called",
+          "sub": [
+            "on that Day"
+          ]
+        }
+      ]
+    },
+    "then": "His real name was Abdul-Uzza. People called him Abu Lahab because his face shone, and {reward}he loved the name.{/reward} The verse turns it over: {trap}the flame will not be on his face. He will be inside it.{/trap}",
+    "now": "The reputation you polish. The title, the nickname, the way people describe you at parties. Built on what? {trap}If it is built on someone else's back, it has an ending.{/trap}",
+    "old": "A good name is what people call me.",
+    "new": "A good name is what my deeds will be called on that Day. The rest is lighting.",
+    "try": "Ask what one person you have wronged would call you. Fix that before polishing anything else.",
+    "related": [
+      "111:4",
+      "49:11"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "111:4",
+    "surah": 111,
+    "ayah": 4,
+    "place": "makkah",
+    "title": "She carried the wood that fed his fire.",
+    "subtitle": "Feeding a fire is its own deed",
+    "picture": {
+      "kind": "boxes",
+      "label": "Who kept it burning",
+      "row": [
+        {
+          "box": "people",
+          "title": "Umm Jamil",
+          "sub": [
+            "sister of Abu Sufyan",
+            "a leading woman of Quraysh"
+          ]
+        },
+        {
+          "conn": "carries"
+        },
+        {
+          "box": "trap",
+          "title": "the wood",
+          "sub": [
+            "thorns on his path, stories, fuel"
+          ]
+        },
+        {
+          "conn": "into"
+        },
+        {
+          "box": "trap",
+          "title": "his fire",
+          "sub": [
+            "her husband's hate"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What counts as a deed",
+      "row": [
+        {
+          "box": "people",
+          "title": "\"I only reacted\"",
+          "sub": [
+            "he started it"
+          ],
+          "strike": true
+        },
+        {
+          "box": "trap",
+          "title": "carrying the wood",
+          "sub": [
+            "counts the same as lighting it"
+          ]
+        }
+      ]
+    },
+    "then": "Umm Jamil, sister of Abu Sufyan, one of the leading women of Quraysh. She scattered thorns on the path the Prophet ﷺ walked at night. {trap}She was not dragged into her husband's hatred. She fed it.{/trap}",
+    "now": "The friend who, every time you are angry, adds a story. The spouse who never says \"let it go.\" The group chat that keeps a grudge alive for years. {idea}Wood carriers.{/idea}",
+    "old": "I am only reacting to what others started.",
+    "new": "Feeding a fire is its own deed. Carrying the wood counts the same as lighting it.",
+    "try": "Think of one grudge you keep warm for someone else. Put the wood down.",
+    "related": [
+      "111:5",
+      "49:12",
+      "104:1"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  },
+  {
+    "id": "111:5",
+    "surah": 111,
+    "ayah": 5,
+    "place": "makkah",
+    "title": "The rope she carried harm with, now on her neck.",
+    "subtitle": "What you carry for others, you wear",
+    "picture": {
+      "kind": "boxes",
+      "label": "One rope",
+      "row": [
+        {
+          "box": "people",
+          "title": "a carrying rope",
+          "sub": [
+            "palm fiber, a worker's tool"
+          ]
+        },
+        {
+          "conn": "used to carry"
+        },
+        {
+          "box": "trap",
+          "title": "the thorns",
+          "sub": [
+            "harm for his path"
+          ]
+        },
+        {
+          "conn": "becomes"
+        },
+        {
+          "box": "trap",
+          "title": "a collar",
+          "sub": [
+            "twisted, on her neck"
+          ]
+        }
+      ]
+    },
+    "key": {
+      "label": "What I carry",
+      "row": [
+        {
+          "box": "people",
+          "title": "my weapons are separate from me",
+          "sub": [
+            "pick up, put down"
+          ],
+          "strike": true
+        },
+        {
+          "box": "idea",
+          "title": "what I carry for others, I wear",
+          "sub": [
+            "the rope goes both ways"
+          ]
+        }
+      ]
+    },
+    "then": "A rope of palm fiber was a worker's tool: bind the bundle, carry it on your back. She used hers to carry harm. The surah ends with {trap}the same rope, twisted, on her neck.{/trap} The tool became the sentence.",
+    "now": "The sharp tongue that wins every argument. The talent for finding people's weak spots. The screenshot folder. {idea}Whatever you use to hurt, you are also tying to yourself.{/idea}",
+    "old": "My weapons are separate from me. I pick them up, I put them down.",
+    "new": "What I carry for others, I wear.",
+    "try": "Delete one thing you kept as a weapon.",
+    "related": [
+      "111:4",
+      "17:13"
+    ],
+    "meta": {
+      "version": 1,
+      "status": "draft",
+      "reviewer": null,
+      "updated": "2026-10-19"
+    }
+  }
+]

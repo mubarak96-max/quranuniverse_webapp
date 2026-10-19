@@ -1,0 +1,238 @@
+[
+  {
+    "id": "43:66", "surah": 43, "ayah": 66, "place": "makkah",
+    "title": "The Hour comes suddenly, while people are not looking.",
+    "subtitle": "Unprepared for what is certain",
+    "picture": {"kind": "boxes", "label": "How it arrives", "row": [
+      {"box": "people", "title": "busy, unaware", "sub": ["negligent people"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "the Hour", "sub": ["suddenly"]},
+      {"box": "trap", "title": "regret", "sub": ["too late to help"]}]},
+    "key": {"label": "Getting ready", "row": [
+      {"box": "people", "title": "I will see it coming", "sub": ["time to prepare later"], "strike": true},
+      {"box": "idea", "title": "it comes suddenly", "sub": ["prepare now"]}]},
+    "then": "Ibn Kathir says the Hour {idea}is real and will inevitably come{/idea}, and negligent people are unprepared. When it comes it catches them unaware, and {trap}regret will not benefit them in the slightest{/trap}.",
+    "now": "The phone call at 2am. The accident on the way to work. Nobody gets a calendar invite for the end. {idea}Sudden is the only way it comes.{/idea}",
+    "old": "I will get some warning before my time is up.",
+    "new": "The end comes suddenly, so being ready is something I do today.",
+    "try": "Do one thing today you would want done if this were your last day: an apology, a call, a prayer.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:67", "surah": 43, "ayah": 67, "place": "makkah",
+    "title": "Best friends become enemies, except friends in taqwa.",
+    "subtitle": "Which friendships survive the Day",
+    "picture": {"kind": "boxes", "label": "Friendships on that Day", "row": [
+      {"box": "people", "title": "close friends", "sub": ["in this life"]},
+      {"conn": "become"},
+      {"box": "trap", "title": "enemies", "sub": ["blaming each other"]},
+      {"box": "reward", "title": "except the mindful", "sub": ["friends for Allah"]}]},
+    "key": {"label": "What a friendship is built on", "row": [
+      {"box": "people", "title": "fun and convenience", "sub": ["what we share now"], "strike": true},
+      {"box": "reward", "title": "for the sake of Allah", "sub": ["lasts forever"]}]},
+    "then": "Ibn Kathir says {trap}every friendship that exists for a purpose other than Allah{/trap} will turn to enmity on the Day of Resurrection, {reward}except that which is for the sake of Allah, which will last forever{/reward}.",
+    "now": "Your oldest friend group: decades of jokes, holidays, late nights. Ask honestly if any of you has ever pushed the others toward Allah. {reward}That is the friendship that will still stand on the Day.{/reward}",
+    "old": "Close friends will always be close.",
+    "new": "Only friendships built on Allah will survive the Day of Judgment.",
+    "try": "Invite one close friend to do something good with you this week: a prayer, a class, a charity.",
+    "related": ["29:25"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:68", "surah": 43, "ayah": 68, "place": "makkah",
+    "title": "My servants, no fear on you today, no grief.",
+    "subtitle": "The call that everyone hopes is for them",
+    "picture": {"kind": "boxes", "label": "The call", "row": [
+      {"box": "people", "title": "all people", "sub": ["filled with terror"]},
+      {"conn": "hear"},
+      {"box": "reward", "title": "no fear, no grief", "sub": ["O My servants"]}]},
+    "key": {"label": "Who is called", "row": [
+      {"box": "people", "title": "everyone", "sub": ["all of mankind"], "strike": true},
+      {"box": "reward", "title": "His servants", "sub": ["described next"]}]},
+    "then": "Al-Mutamir bin Sulayman narrated from his father: when people are resurrected, everyone will be terrified. {reward}Then a caller cries out: O My servants, no fear on you this Day, nor shall you grieve.{/reward} All people will be filled with hope.",
+    "now": "You sit in the waiting room for exam results, heart pounding. Then the nurse calls your name with a smile. {reward}Imagine that relief, multiplied forever, in one sentence from Allah.{/reward}",
+    "old": "The Day of Judgment is only something to fear.",
+    "new": "It also holds the most comforting words anyone will ever hear.",
+    "try": "Make a dua tonight to be among those Allah calls \"My servants\" on that Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:69", "surah": 43, "ayah": 69, "place": "makkah",
+    "title": "Who believed in Our signs and submitted.",
+    "subtitle": "The description that decides who the call is for",
+    "picture": {"kind": "boxes", "label": "Who they are", "row": [
+      {"box": "idea", "title": "believed", "sub": ["in Our verses"]},
+      {"box": "idea", "title": "submitted", "sub": ["inwardly and outwardly"]},
+      {"conn": "are"},
+      {"box": "reward", "title": "My servants", "sub": ["no fear for them"]}]},
+    "key": {"label": "Belief and practice", "row": [
+      {"box": "people", "title": "belief in the heart only", "sub": ["actions do not matter"], "strike": true},
+      {"box": "idea", "title": "heart and body", "sub": ["believed and submitted"]}]},
+    "then": "In the same narration, everyone hoped at the first call. Then came the words: {idea}you who believed in Our verses and were Muslims{/idea}, and all despaired except the believers. Ibn Kathir explains: {idea}their hearts believed and they submitted inwardly and outwardly{/idea}.",
+    "now": "\"I am a good person at heart\" is something you say when you skip prayers for weeks. {idea}The verse puts both together: belief in the heart and submission in action.{/idea}",
+    "old": "What matters is what is in my heart.",
+    "new": "True belief shows up in the heart and in what I actually do.",
+    "try": "Pick one belief you hold and match it with one action today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:70", "surah": 43, "ayah": 70, "place": "makkah",
+    "title": "Enter Paradise, you and your spouses, full of joy.",
+    "subtitle": "Entering together, in delight",
+    "picture": {"kind": "boxes", "label": "The welcome", "row": [
+      {"box": "people", "title": "you", "sub": ["the believers"]},
+      {"box": "people", "title": "your spouses", "sub": ["your counterparts"]},
+      {"conn": "enter"},
+      {"box": "reward", "title": "Paradise", "sub": ["in delight and joy"]}]},
+    "key": {"label": "Marriage and the Hereafter", "row": [
+      {"box": "people", "title": "only for this life", "sub": ["till death do us part"], "strike": true},
+      {"box": "reward", "title": "a door to enter together", "sub": ["if both are believers"]}]},
+    "then": "Ibn Kathir explains they will be told to enter Paradise, {reward}you and your counterparts{/reward}, and the word for their state means {reward}delight and joy{/reward}.",
+    "now": "Another evening of small arguments over dishes and bills. It is easy to forget what this marriage could be heading toward. {reward}The verse pictures you walking in together, delighted.{/reward}",
+    "old": "Marriage is only a part of this life.",
+    "new": "A marriage built on faith can be a journey toward Paradise together.",
+    "try": "Do one kind thing for your spouse or a family member today and make dua for both of you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:71", "surah": 43, "ayah": 71, "place": "makkah",
+    "title": "Whatever the soul wants and the eyes delight in.",
+    "subtitle": "Gold vessels and lasting delight",
+    "picture": {"kind": "boxes", "label": "In Paradise", "row": [
+      {"box": "reward", "title": "trays of gold", "sub": ["food and drink"]},
+      {"box": "reward", "title": "what souls desire", "sub": ["all of it"]},
+      {"box": "reward", "title": "what eyes enjoy", "sub": ["beautiful scenes"]},
+      {"box": "reward", "title": "forever", "sub": ["never wanting to leave"]}]},
+    "key": {"label": "Gold here and there", "row": [
+      {"box": "trap", "title": "gold here", "sub": ["the brief enjoyment"], "strike": true},
+      {"box": "reward", "title": "gold there", "sub": ["and it lasts forever"]}]},
+    "then": "Earlier the surah called worldly gold brief. Here Ibn Kathir describes {reward}fine vessels of gold with food and drink{/reward}, delightful fragrances and beautiful scenes. They {reward}will never leave it or want to exchange it{/reward}.",
+    "now": "You saved for months for a holiday, and on the last day you already feel sad it is ending. Every good thing here has that edge. {reward}This verse describes delight with no last day.{/reward}",
+    "old": "The best things in life always end too soon.",
+    "new": "What I truly desire is waiting, and it never ends.",
+    "try": "The next time a good moment ends, say \"O Allah, I ask You for the joy that does not end.\"",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:72", "surah": 43, "ayah": 72, "place": "makkah",
+    "title": "You inherit it for what you used to do.",
+    "subtitle": "Mercy opens the door, deeds set the rank",
+    "picture": {"kind": "boxes", "label": "How Paradise is reached", "row": [
+      {"box": "idea", "title": "Allah's mercy", "sub": ["opens the door"]},
+      {"box": "people", "title": "your deeds", "sub": ["set your rank"]},
+      {"conn": "so you"},
+      {"box": "reward", "title": "inherit it", "sub": ["the Garden"]}]},
+    "key": {"label": "Earned or given", "row": [
+      {"box": "people", "title": "I earn it alone", "sub": ["my deeds pay for it"], "strike": true},
+      {"box": "idea", "title": "mercy, then deeds", "sub": ["both matter"]}]},
+    "then": "Ibn Kathir explains the deeds were {idea}the cause of being included in the mercy of Allah{/idea}. No one enters Paradise by deeds alone, {reward}but by the mercy and grace of Allah{/reward}, while the ranks within it follow one's righteous deeds.",
+    "now": "You keep a mental scoreboard of your good deeds, or you feel your sins are too many and give up. {idea}Both miss the point.{/idea} Mercy carries you in. Your deeds still matter.",
+    "old": "Either I earn Paradise myself, or it does not matter what I do.",
+    "new": "I enter by His mercy, and my deeds shape where I stand.",
+    "try": "Do one good deed today without counting it, and ask Allah for His mercy after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:73", "surah": 43, "ayah": 73, "place": "makkah",
+    "title": "Fruit in plenty, to eat as you wish.",
+    "subtitle": "The finishing touch of blessing",
+    "picture": {"kind": "boxes", "label": "The table complete", "row": [
+      {"box": "reward", "title": "food and drink", "sub": ["already given"]},
+      {"conn": "plus"},
+      {"box": "reward", "title": "much fruit", "sub": ["of all kinds"]},
+      {"box": "people", "title": "you choose", "sub": ["whatever you desire"]}]},
+    "key": {"label": "How much is there", "row": [
+      {"box": "people", "title": "just enough", "sub": ["ration it"], "strike": true},
+      {"box": "reward", "title": "plenty", "sub": ["eat as you wish"]}]},
+    "then": "Ibn Kathir notes fruit is {reward}of all kinds, whatever you choose and desire{/reward}. When food and drink are mentioned, fruit is added {reward}to complete the picture of blessing and joy{/reward}.",
+    "now": "A bowl of fruit on the table after a long day. Someone peeled an orange for you. A small, generous thing. {reward}Allah ends this picture of Paradise with exactly that: plenty, and yours to choose.{/reward}",
+    "old": "Small pleasures do not matter in the big picture.",
+    "new": "Allah describes Paradise down to the fruit, a sign of how complete His generosity is.",
+    "try": "Share a plate of fruit with someone today and remember this verse as you do.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:74", "surah": 43, "ayah": 74, "place": "makkah",
+    "title": "The other side of the picture: lasting punishment.",
+    "subtitle": "The criminals' abode, set against the Garden",
+    "picture": {"kind": "boxes", "label": "Two outcomes", "row": [
+      {"box": "reward", "title": "the Garden", "sub": ["just described"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "the criminals", "sub": ["in Hell, abiding"]}]},
+    "key": {"label": "Why both are shown", "row": [
+      {"box": "people", "title": "only hope matters", "sub": ["skip the warning"], "strike": true},
+      {"box": "idea", "title": "hope and fear together", "sub": ["to steer my choices"]}]},
+    "then": "Ibn Kathir notes that {idea}the description of the blessed is followed by a description of the doomed{/idea}. The two scenes sit side by side so the listener sees both roads clearly.",
+    "now": "A pilot checks the safe landing path and the warning lights too. You need both. {idea}This verse is the warning light, placed right after the Garden, so you steer well.{/idea}",
+    "old": "Thinking about punishment just makes me anxious.",
+    "new": "Seeing both outcomes helps me choose the road I want.",
+    "try": "Ask Allah tonight for His Garden and His protection from the Fire, in your own words.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:75", "surah": 43, "ayah": 75, "place": "makkah",
+    "title": "No break from it, and no hope left there.",
+    "subtitle": "Despair is what awaits rejection",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "trap", "title": "not lightened", "sub": ["not for a moment"]},
+      {"box": "trap", "title": "in despair", "sub": ["of any good"]}]},
+    "key": {"label": "When hope exists", "row": [
+      {"box": "trap", "title": "hope is always there", "sub": ["even later"], "strike": true},
+      {"box": "idea", "title": "hope is for now", "sub": ["use it while it is open"]}]},
+    "then": "Ibn Kathir explains the punishment is {trap}not lightened, not even for one moment{/trap}, and they {trap}despair of any goodness{/trap}. That despair stands in contrast to the hope still open in this life.",
+    "now": "Here, you can always turn back. A late-night tawbah, a fresh start on Monday, a new page at any age. {idea}This verse shows a place where that is gone, so you treasure the hope you have today.{/idea}",
+    "old": "There will always be time to turn back.",
+    "new": "Hope is a gift of this life. I use it while it is open.",
+    "try": "Make sincere tawbah for one thing tonight, and believe Allah accepts it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:76", "surah": 43, "ayah": 76, "place": "makkah",
+    "title": "We did not wrong them. They wronged themselves.",
+    "subtitle": "Allah is never unjust",
+    "picture": {"kind": "boxes", "label": "Who did the wrong", "row": [
+      {"box": "idea", "title": "messengers sent", "sub": ["proof established"]},
+      {"conn": "yet they"},
+      {"box": "trap", "title": "rejected, rebelled", "sub": ["by their choice"]},
+      {"box": "idea", "title": "not wronged", "sub": ["they wronged themselves"]}]},
+    "key": {"label": "Blame", "row": [
+      {"box": "people", "title": "it is unfair", "sub": ["I never had a chance"], "strike": true},
+      {"box": "idea", "title": "the proof was given", "sub": ["the choice was mine"]}]},
+    "then": "Ibn Kathir explains they were punished {trap}for wrong actions after proof had been established against them{/trap} and messengers had been sent. {idea}Your Lord is not at all unjust to His servants.{/idea}",
+    "now": "When things go wrong, your first move is to blame: the parents, the system, the boss. Sometimes rightly. {idea}But this verse asks you to check where your own choices fit in.{/idea}",
+    "old": "What happens to me is mostly someone else's fault.",
+    "new": "Allah never wrongs anyone. I own the part that is mine.",
+    "try": "Think of one recent problem. Write down the part of it that was your own choice.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "43:77", "surah": 43, "ayah": 77, "place": "makkah",
+    "title": "They ask for an end, and are told: you will remain.",
+    "subtitle": "No way out once it is too late",
+    "picture": {"kind": "boxes", "label": "The plea", "row": [
+      {"box": "people", "title": "the doomed", "sub": ["call to Malik"]},
+      {"conn": "ask"},
+      {"box": "trap", "title": "an end", "sub": ["let us be finished"]},
+      {"box": "trap", "title": "you will remain", "sub": ["the answer"]}]},
+    "key": {"label": "When escape is possible", "row": [
+      {"box": "people", "title": "there is always a way out", "sub": ["later"], "strike": true},
+      {"box": "idea", "title": "the way out is now", "sub": ["in this life"]}]},
+    "then": "Al-Bukhari reports the Prophet ﷺ recited this verse on the minbar. Malik is {trap}the keeper of Hell{/trap}. Ibn Kathir says when they ask to die, the answer is that {trap}they will have no way out and no refuge{/trap}.",
+    "now": "Today you can still close the app, leave the room, end the habit, make the call. Every exit is still open. {idea}This verse is a reminder that exits do not stay open forever.{/idea}",
+    "old": "I can always escape the consequences later.",
+    "new": "The door out is open now, in this life, and I should walk through it.",
+    "try": "Walk away from one harmful habit today, even for a single day.",
+    "related": ["35:36", "87:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

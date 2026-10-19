@@ -1,0 +1,228 @@
+[
+  {
+    "id": "5:71", "surah": 5, "ayah": 71, "place": "madinah",
+    "title": "They assumed nothing would follow, so they stopped seeing.",
+    "subtitle": "How feeling safe from consequences dulls the heart",
+    "picture": {"kind": "boxes", "label": "The cycle", "row": [
+      {"box": "trap", "title": "no consequence", "sub": ["nothing will happen"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "blind and deaf", "sub": ["to the truth"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "Allah forgave", "sub": ["a fresh start"]},
+      {"box": "trap", "title": "blind again", "sub": ["many fell back"]}]},
+    "key": {"label": "What fed it", "row": [
+      {"box": "people", "title": "I got away with it", "sub": ["so it was fine"], "strike": true},
+      {"box": "idea", "title": "Allah sees what they do", "sub": ["the delay is not approval"]}]},
+    "then": "Ibn Kathir explains that they {trap}thought there would be no trial or repercussion{/trap} for the wrongs they did, so they became blind and deaf to the truth. Then {reward}Allah turned to them in forgiveness{/reward}, and many of them went back to the same blindness. The verse ends: Allah sees what they do.",
+    "now": "The first time you skipped a prayer, it felt heavy. Nothing happened. The second time, lighter. A year later you do not notice anymore. That quiet slide is {trap}the eyes closing slowly{/trap}. And the mercy is that the door reopens, again and again. {idea}Walk through it and keep your eyes open this time.{/idea}",
+    "old": "Nothing bad happened, so it must not matter much.",
+    "new": "Getting away with something can be the very thing that blinds me.",
+    "try": "Name one wrong you have stopped feeling bad about. Ask Allah to make you feel it again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:72", "surah": 5, "ayah": 72, "place": "madinah",
+    "title": "The Messiah himself said: worship Allah, my Lord and yours.",
+    "subtitle": "A messenger pointing away from himself",
+    "picture": {"kind": "boxes", "label": "What the Messiah said", "row": [
+      {"box": "people", "title": "the Messiah", "sub": ["son of Mary"]},
+      {"conn": "said"},
+      {"box": "idea", "title": "worship Allah", "sub": ["my Lord and your Lord"]}]},
+    "key": {"label": "Where worship goes", "row": [
+      {"box": "trap", "title": "to the messenger", "sub": ["raising him to God"], "strike": true},
+      {"box": "idea", "title": "to the One he served", "sub": ["Allah alone"]}]},
+    "then": "Ibn Kathir notes that the first words of 'Isa, even as a baby in the cradle, were {idea}I am a servant of Allah.{/idea} As a grown prophet he told the Children of Israel: {idea}worship Allah, my Lord and your Lord.{/idea} The verse then states soberly that {trap}setting up partners with Allah closes Paradise{/trap}, and the wrongdoers have no helpers.",
+    "now": "A good teacher, a beloved sheikh, a parent you admire. Real love can slide into something else: you check what they would say before you check what Allah said. The best of them would say what the Messiah said: {idea}worship Allah, my Lord and your Lord.{/idea} Honour them by following where they point.",
+    "old": "The closer I feel to a righteous person, the closer I am to Allah.",
+    "new": "The righteous point away from themselves, toward Allah alone.",
+    "try": "Think of someone whose words you treat as final. Today, look up what Allah says on one thing they taught.",
+    "related": ["19:30", "4:48"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:73", "surah": 5, "ayah": 73, "place": "madinah",
+    "title": "There is no god except One God.",
+    "subtitle": "The line the whole surah keeps returning to",
+    "picture": {"kind": "boxes", "label": "The claim and the answer", "row": [
+      {"box": "trap", "title": "third of three", "sub": ["Allah shared with others"], "strike": true},
+      {"conn": "answered by"},
+      {"box": "idea", "title": "One God", "sub": ["no partner, no share"]}]},
+    "key": {"label": "What is asked", "row": [
+      {"box": "trap", "title": "keep saying it", "sub": ["a painful outcome"]},
+      {"conn": "or"},
+      {"box": "idea", "title": "stop", "sub": ["the door is still there"]}]},
+    "then": "The verse answers a belief that made Allah one of three. As-Suddi linked it to {trap}taking 'Isa and his mother as gods beside Allah{/trap}, as the end of this surah also describes. The reply is short: {idea}there is no god but One God.{/idea} The warning is tied to a condition: if they do not stop.",
+    "now": "Your heart can split its trust three ways without saying a word: Allah, your salary, and your own cleverness. When the job wobbles, everything wobbles. {idea}One God{/idea} means one place your heart finally rests. Everything else is a gift from Him, {trap}not a second pillar beside Him.{/trap}",
+    "old": "I trust Allah, plus my income, plus my plans, equally.",
+    "new": "Only One is God. My plans and income are tools He gave me.",
+    "try": "Before checking your bank app today, say: my provision is from Allah alone.",
+    "related": ["5:116"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:74", "surah": 5, "ayah": 74, "place": "madinah",
+    "title": "Even then: will they not turn back to Him?",
+    "subtitle": "An invitation after the gravest claim",
+    "picture": {"kind": "boxes", "label": "After a grave wrong", "row": [
+      {"box": "trap", "title": "the gravest claim", "sub": ["about Allah Himself"]},
+      {"conn": "still met with"},
+      {"box": "idea", "title": "an invitation", "sub": ["repent, ask forgiveness"]},
+      {"conn": "because"},
+      {"box": "reward", "title": "Forgiving, Merciful", "sub": ["who He is"]}]},
+    "key": {"label": "Who is too far", "row": [
+      {"box": "people", "title": "some are beyond reach", "sub": ["too far to return"], "strike": true},
+      {"box": "reward", "title": "the call reaches all", "sub": ["who sincerely turn"]}]},
+    "then": "Right after the heaviest warning, the very next verse asks a gentle question: {idea}will they not repent and seek His forgiveness?{/idea} Ibn Kathir calls this a sign of {reward}Allah's generosity, kindness and mercy{/reward}: even after so grave a claim, He calls them to return so He can forgive.",
+    "now": "You have written someone off. A relative who did something unforgivable, a friend who wandered far. Or you have written yourself off. The Quran, straight after its sternest words, {reward}asks the door-question{/reward}. If Allah keeps the invitation open, {idea}you can stop closing it in your head.{/idea}",
+    "old": "Some people, maybe me, are simply too far gone.",
+    "new": "Allah calls even the gravest wrongdoers back. No one is outside the invitation.",
+    "try": "Make one dua today for a person you had quietly given up on.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:75", "surah": 5, "ayah": 75, "place": "madinah",
+    "title": "They both ate food.",
+    "subtitle": "Honoured servants, not gods",
+    "picture": {"kind": "boxes", "label": "Who they were", "row": [
+      {"box": "people", "title": "the Messiah", "sub": ["a messenger, like those before"]},
+      {"box": "people", "title": "his mother", "sub": ["truthful, full of trust"]},
+      {"conn": "both"},
+      {"box": "plain", "title": "ate food", "sub": ["needed what all humans need"]}]},
+    "key": {"label": "Two kinds of honour", "row": [
+      {"box": "trap", "title": "above human", "sub": ["beyond all need"], "strike": true},
+      {"box": "idea", "title": "the best of humans", "sub": ["servants honoured by Allah"]}]},
+    "then": "The verse gives a calm, simple proof. 'Isa was {idea}a messenger like many before him{/idea}. His mother was a siddiqah, a woman of complete truthful faith. Ibn Kathir explains the point of {idea}they both used to eat food{/idea}: they needed nourishment like every servant of Allah, so they were servants, not gods.",
+    "now": "Hunger at 4pm in Ramadan. You feel how much you need: water, food, sleep, air. That need is not a weakness to hide. {idea}It is the plain mark of being created.{/idea} The greatest people who ever lived carried that same mark, and it made them honoured servants, {trap}not less.{/trap}",
+    "old": "Truly great people must be somehow beyond ordinary needs.",
+    "new": "Even the greatest of people needed food. Needing is what servants do, and only Allah needs nothing.",
+    "try": "At your next meal, pause before the first bite and thank Allah for meeting a need you cannot meet alone.",
+    "related": ["43:59"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:76", "surah": 5, "ayah": 76, "place": "madinah",
+    "title": "Why turn to what cannot help or harm you?",
+    "subtitle": "The One who hears and knows",
+    "picture": {"kind": "boxes", "label": "Two places to turn", "row": [
+      {"box": "trap", "title": "besides Allah", "sub": ["no harm, no benefit"]},
+      {"conn": "versus"},
+      {"box": "idea", "title": "Allah", "sub": ["All-Hearing, All-Knowing"]}]},
+    "key": {"label": "What it can do", "row": [
+      {"box": "trap", "title": "0", "sub": ["cannot even protect itself"], "num": true},
+      {"box": "reward", "title": "hears every word", "sub": ["knows every need"]}]},
+    "then": "The Prophet ﷺ is told to ask a direct question. Ibn Kathir explains it: how can anyone worship things that {trap}cannot prevent harm or bring benefit{/trap}, that do not hear, see or know, {idea}instead of Allah, who hears what His servants say and knows all things?{/idea}",
+    "now": "The lucky charm in the car. The horoscope app you open \"just for fun\" before an interview. The person whose approval you check like a weather report. None of them {trap}heard you this morning{/trap}. {idea}Allah heard every word, even the ones you did not say.{/idea}",
+    "old": "A little extra luck or reassurance on the side cannot hurt.",
+    "new": "Only Allah hears me and can help me. Everything else hears nothing.",
+    "try": "Remove one thing you keep for luck or reassurance, and ask Allah directly instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:77", "surah": 5, "ayah": 77, "place": "madinah",
+    "title": "Do not go past the truth in your religion.",
+    "subtitle": "Exaggeration, even in love, leads astray",
+    "picture": {"kind": "boxes", "label": "How it drifted", "row": [
+      {"box": "people", "title": "a prophet", "sub": ["to be honoured"]},
+      {"conn": "praised beyond"},
+      {"box": "trap", "title": "the limit", "sub": ["raised to a god"]},
+      {"conn": "by following"},
+      {"box": "trap", "title": "earlier teachers", "sub": ["astray, and misled many"]}]},
+    "key": {"label": "The right size", "row": [
+      {"box": "trap", "title": "more is more pious", "sub": ["extra praise, extra rules"], "strike": true},
+      {"box": "idea", "title": "exactly the truth", "sub": ["no more, no less"]}]},
+    "then": "Ibn Kathir explains the warning as: {trap}do not exaggerate in praising the one you were told to honour.{/trap} They raised a prophet to the rank of a god, because they followed teachers before them who {trap}went astray and misled many{/trap}. The fix is to stay {idea}within the truth{/idea}.",
+    "now": "The online preacher you follow, whose every clip you share without checking. The relative who makes the religion so strict that the young people in the family quietly leave. Both {trap}add to the truth out of zeal{/trap}. {idea}Love for the deen means keeping it the size Allah made it.{/idea}",
+    "old": "Going further than required can only be a good thing.",
+    "new": "Going past the truth, even out of love, is still leaving the truth.",
+    "try": "Before you share a religious clip today, check what the source is and whether it adds to what is known.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:78", "surah": 5, "ayah": 78, "place": "madinah",
+    "title": "Their own prophets named the problem: constant disobedience.",
+    "subtitle": "Why a curse came through Dawud and 'Isa",
+    "picture": {"kind": "boxes", "label": "Spoken by", "row": [
+      {"box": "people", "title": "Dawud", "sub": ["a prophet of theirs"]},
+      {"box": "people", "title": "'Isa", "sub": ["son of Mary"]},
+      {"conn": "because of"},
+      {"box": "trap", "title": "disobedience", "sub": ["against Allah"]},
+      {"box": "trap", "title": "transgression", "sub": ["against His creatures"]}]},
+    "key": {"label": "What brought it", "row": [
+      {"box": "people", "title": "who they were", "sub": ["their family line"], "strike": true},
+      {"box": "trap", "title": "what they kept doing", "sub": ["habitual disobedience"]}]},
+    "then": "Allah says that those who disbelieved among the Children of Israel were cursed {idea}on the tongue of their own prophets, Dawud and 'Isa{/idea}. The verse states the reason clearly: {trap}they disobeyed and kept transgressing.{/trap} Ibn Kathir explains: disobeying Allah and wronging His creatures.",
+    "now": "You hear a warning and think of other people. But the reason given is a behaviour, and behaviours travel. {trap}The small disobedience you repeat every day{/trap} is the same seed. The verse is a mirror: {idea}what you keep doing is what defines you.{/idea}",
+    "old": "Warnings like this are about other people, not me.",
+    "new": "The reason was a habit of disobedience, and that can grow in anyone, including me.",
+    "try": "Pick one small sin you repeat daily. Skip it just for today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:79", "surah": 5, "ayah": 79, "place": "madinah",
+    "title": "No one told anyone to stop.",
+    "subtitle": "A community where wrong goes unchallenged",
+    "picture": {"kind": "boxes", "label": "The habit", "row": [
+      {"box": "people", "title": "wrong done", "sub": ["in the open"]},
+      {"conn": "met by"},
+      {"box": "trap", "title": "silence", "sub": ["no one forbade anyone"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "it spread", "sub": ["wretched was what they did"]}]},
+    "key": {"label": "Three levels", "row": [
+      {"box": "idea", "title": "hand", "sub": ["change it if you can"]},
+      {"box": "idea", "title": "tongue", "sub": ["or speak up"]},
+      {"box": "idea", "title": "heart", "sub": ["at least hate it"]}]},
+    "then": "Their habit was that {trap}they did not forbid one another from the wrong they did.{/trap} Ibn Kathir quotes the Prophet ﷺ: whoever sees a wrong should {idea}change it with his hand, then his tongue, then at least his heart{/idea}. He also quotes: fear of people should not stop you saying the truth you know, and that no one is asked to take on trials beyond what they can bear.",
+    "now": "Your office jokes about a colleague who is not in the room. Everyone laughs a little. You can change the subject, say \"not cool\", or at least not laugh. {idea}Each of those counts.{/idea} The only option that does not is {trap}joining in because everyone else is.{/trap}",
+    "old": "Speaking up is someone else's job, I would only make it awkward.",
+    "new": "There is always some level I can act at, even if it is only in my heart.",
+    "try": "Next time a cruel joke starts, change the subject or simply do not laugh.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:80", "surah": 5, "ayah": 80, "place": "madinah",
+    "title": "What you send ahead by the side you take.",
+    "subtitle": "Loyalty given to those who oppose the truth",
+    "picture": {"kind": "boxes", "label": "What they sent ahead", "row": [
+      {"box": "people", "title": "many of them", "sub": ["hypocrites, says Mujahid"]},
+      {"conn": "allied with"},
+      {"box": "trap", "title": "opponents of faith", "sub": ["in secret"]},
+      {"conn": "sent ahead"},
+      {"box": "trap", "title": "Allah's anger", "sub": ["a lasting outcome"]}]},
+    "key": {"label": "What loyalty is", "row": [
+      {"box": "people", "title": "just networking", "sub": ["it means nothing"], "strike": true},
+      {"box": "trap", "title": "something sent ahead", "sub": ["it becomes your deed"]}]},
+    "then": "Mujahid said this verse refers to the hypocrites. Ibn Kathir explains that by {trap}giving their loyalty to those who rejected faith instead of the believers{/trap}, they sent ahead an evil deed for themselves. It planted hypocrisy in their hearts and {trap}brought Allah's anger.{/trap}",
+    "now": "At work there is a crowd that mocks anything to do with faith. To fit in, you laugh along, hide your prayer, roll your eyes when they do. Then you start {trap}defending them against the people who care about you{/trap}. Whose side you take is {idea}something you are sending ahead of yourself.{/idea}",
+    "old": "Who I side with socially is just a matter of convenience.",
+    "new": "The side I take is a deed I send ahead, and it shapes my heart.",
+    "try": "Do one small thing today that shows openly which values you stand with, kindly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "5:81", "surah": 5, "ayah": 81, "place": "madinah",
+    "title": "Real faith would have chosen different friends.",
+    "subtitle": "Belief shows in whom you lean on",
+    "picture": {"kind": "boxes", "label": "If they had believed", "row": [
+      {"box": "idea", "title": "in Allah", "sub": ["sincerely"]},
+      {"box": "idea", "title": "the Prophet ﷺ", "sub": ["and what came to him"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "not those allies", "sub": ["faith would choose for them"]}]},
+    "key": {"label": "Where faith shows", "row": [
+      {"box": "people", "title": "in my words", "sub": ["what I claim"], "strike": true},
+      {"box": "idea", "title": "in my circle", "sub": ["whom I lean on"]}]},
+    "then": "The verse explains the root. Ibn Kathir: {idea}had they sincerely believed in Allah, His Messenger and the Quran{/idea}, they would not have secretly supported those against the believers. But {trap}many of them were defiant{/trap}. Their friendships exposed what their words hid.",
+    "now": "Scroll through the five people you message most. The ones whose opinions you repeat. The ones you go to when things fall apart. {idea}That list says something about your faith{/idea} that a status update cannot. It is never too late to {reward}add someone good to it.{/reward}",
+    "old": "My faith is between me and Allah, my friends are a separate matter.",
+    "new": "The people I lean on reveal what I truly believe.",
+    "try": "Message one person who helps you be better and arrange to see them this week.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

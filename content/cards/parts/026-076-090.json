@@ -1,0 +1,290 @@
+[
+  {
+    "id": "26:76", "surah": 26, "ayah": 76, "place": "makkah",
+    "title": "You, and your fathers from long ago.",
+    "subtitle": "Old does not mean true",
+    "picture": {"kind": "boxes", "label": "Who worshipped them", "row": [
+      {"box": "people", "title": "you", "sub": ["today"]},
+      {"box": "people", "title": "your ancient fathers", "sub": ["generations back"]},
+      {"conn": "all worshipping"},
+      {"box": "trap", "title": "the same idols", "sub": ["that never heard them"]}]},
+    "key": {"label": "What age adds", "row": [
+      {"box": "people", "title": "authority", "sub": ["it is ancient"], "strike": true},
+      {"box": "trap", "title": "nothing", "sub": ["an old mistake is still a mistake"]}]},
+    "then": "Ibrahim widens the question: {idea}you and your ancient fathers.{/idea} They had said we found our fathers doing this. He answers that the age of the practice does not change what the idols are. {trap}A thing that never heard anyone did not start hearing because many people prayed to it.{/trap}",
+    "now": "The family feud that started three generations ago. The way the men in your family talk to their wives because their fathers did. {trap}Something being old does not make it right.{/trap} You can be the one who stops it.",
+    "old": "Something done for generations must have a good reason behind it.",
+    "new": "An old mistake repeated for generations is still a mistake.",
+    "try": "Name one pattern from your family you do not want to pass on. Do one thing differently today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:77", "surah": 26, "ayah": 77, "place": "makkah",
+    "title": "They are enemies to me, except the Lord of the worlds.",
+    "subtitle": "Ibrahim's open, fearless break with idols",
+    "picture": {"kind": "boxes", "label": "Ibrahim's stand", "row": [
+      {"box": "trap", "title": "the idols", "sub": ["enemies to me"]},
+      {"conn": "except"},
+      {"box": "idea", "title": "Lord of the worlds", "sub": ["the only exception"]}]},
+    "key": {"label": "What he feared", "row": [
+      {"box": "trap", "title": "the idols' anger", "sub": ["they might harm me"], "strike": true},
+      {"box": "idea", "title": "nothing from them", "sub": ["let them try"]}]},
+    "then": "Ibn Kathir explains Ibrahim's words: {trap}if these idols have any influence, let them do me harm{/trap}, for I am their enemy and do not care about them. He compares it to Nuh and Hud saying {idea}plot against me, all of you{/idea}, and to Ibrahim asking how he could fear what they associate with Allah.",
+    "now": "You are afraid that if you stop the lucky charm, skip the horoscope, or say no to the habit, something bad will happen. {idea}They have no power to harm you.{/idea} Only Allah does, and you are with Him.",
+    "old": "If I cut off this thing I depend on, something bad might happen to me.",
+    "new": "Nothing besides Allah can harm me, so I can let go without fear.",
+    "try": "Let go of one superstition or false comfort today, and say: I rely on Allah.",
+    "related": ["10:71", "11:54", "6:81"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:78", "surah": 26, "ayah": 78, "place": "makkah",
+    "title": "He made me, and He shows me the way.",
+    "subtitle": "The first reason Ibrahim worships Allah",
+    "picture": {"kind": "boxes", "label": "Who Allah is to Ibrahim", "row": [
+      {"box": "idea", "title": "Creator", "sub": ["He made me"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "Guide", "sub": ["He shows me the way"]}]},
+    "key": {"label": "Who knows the way", "row": [
+      {"box": "people", "title": "I will figure it out", "sub": ["alone"], "strike": true},
+      {"box": "idea", "title": "the One who made me", "sub": ["knows my path"]}]},
+    "then": "Ibrahim says he will worship only the One who does these things. First: {idea}who created me, and it is He who guides me.{/idea} Ibn Kathir says He is the Creator who has decreed things and {reward}guides His creation{/reward} to them.",
+    "now": "You are lost about the career, the move, who to marry. You read every article and ask every friend. {idea}The One who made you knows how you work.{/idea} Ask Him for guidance before you ask the internet.",
+    "old": "Finding my path is entirely up to me.",
+    "new": "The One who made me is the One who guides me.",
+    "try": "Before your next decision, pray two units and ask Allah to guide you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:79", "surah": 26, "ayah": 79, "place": "makkah",
+    "title": "He is the one who feeds me and gives me water.",
+    "subtitle": "Every meal traced back to its source",
+    "picture": {"kind": "boxes", "label": "Where the meal comes from", "row": [
+      {"box": "idea", "title": "Allah", "sub": ["drives the clouds"]},
+      {"conn": "sends"},
+      {"box": "plain", "title": "rain", "sub": ["fresh and sweet"]},
+      {"conn": "becomes"},
+      {"box": "reward", "title": "food and drink", "sub": ["on my table"]}]},
+    "key": {"label": "Who provides", "row": [
+      {"box": "people", "title": "my salary", "sub": ["I pay for my food"], "strike": true},
+      {"box": "idea", "title": "Allah", "sub": ["the salary is a means"]}]},
+    "then": "Second reason: {reward}He feeds me and gives me drink.{/reward} Ibn Kathir describes how Allah {idea}drives the clouds and sends down water{/idea}, reviving the earth and bringing out fruits, and sends water fresh and sweet for people and animals to drink.",
+    "now": "You grab a sandwich between meetings and drink from a plastic bottle without looking at it. You think your paycheck bought it. {idea}Your paycheck is just the last step of a long chain that starts with rain.{/idea}",
+    "old": "I feed myself with the money I earn.",
+    "new": "Allah feeds me. My job is one of the ways He sends it.",
+    "try": "Before your next meal, say Bismillah slowly and think of the rain that made it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:80", "surah": 26, "ayah": 80, "place": "makkah",
+    "title": "When I fall sick, He is the one who heals me.",
+    "subtitle": "Ibrahim's careful words about illness",
+    "picture": {"kind": "boxes", "label": "Ibrahim's wording", "row": [
+      {"box": "people", "title": "when I am ill", "sub": ["he says of himself"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "He cures me", "sub": ["healing is His"]}]},
+    "key": {"label": "Who heals", "row": [
+      {"box": "people", "title": "the medicine", "sub": ["the doctor alone"], "strike": true},
+      {"box": "idea", "title": "Allah through means", "sub": ["the doctor is the means"]}]},
+    "then": "Ibrahim says {idea}when I am ill{/idea}, not when He makes me ill. Ibn Kathir says he attributed sickness to himself {idea}out of respect towards Allah{/idea}, and that no one can heal except Him, {reward}who heals with the means that lead to recovery.{/reward}",
+    "now": "You are in the clinic waiting room with the prescription in your hand. Take the medicine, follow the doctor. {reward}And know who is actually doing the healing.{/reward} The pills are the means. The cure is from Him.",
+    "old": "If I recover, it is because of the medicine.",
+    "new": "I use the medicine, and I know it is Allah who heals through it.",
+    "try": "The next time you take medicine, say: O Allah, You are the Healer.",
+    "related": ["1:6", "72:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:81", "surah": 26, "ayah": 81, "place": "makkah",
+    "title": "He will cause me to die, then bring me back.",
+    "subtitle": "Life and death in the same hands",
+    "picture": {"kind": "boxes", "label": "Ibrahim's whole life", "row": [
+      {"box": "people", "title": "life", "sub": ["now"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "death", "sub": ["by His decree"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "life again", "sub": ["He brings me back"]}]},
+    "key": {"label": "What death is", "row": [
+      {"box": "trap", "title": "the end", "sub": ["nothing after"], "strike": true},
+      {"box": "idea", "title": "a passage", "sub": ["He originates and repeats"]}]},
+    "then": "Ibrahim says: {idea}who will cause me to die, and then bring me to life.{/idea} Ibn Kathir explains He alone gives life and causes death, {reward}for He is the One who originates and repeats.{/reward} No idol could do either.",
+    "now": "You get the call about a friend your age. Suddenly the deadline at work does not matter. {idea}Death is in His hands, and so is what comes after.{/idea} That thought can be heavy. It can also be the calmest thing you know.",
+    "old": "Death is something to avoid thinking about.",
+    "new": "The same Lord who gives me life will bring me back after death.",
+    "try": "Spend one minute today thinking about death calmly, then do one good deed.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:82", "surah": 26, "ayah": 82, "place": "makkah",
+    "title": "Even Ibrahim said: I hope He forgives me.",
+    "subtitle": "Hope, not certainty, from the Friend of Allah",
+    "picture": {"kind": "boxes", "label": "Ibrahim's hope", "row": [
+      {"box": "people", "title": "my faults", "sub": ["even mine"]},
+      {"conn": "I hope"},
+      {"box": "reward", "title": "forgiven", "sub": ["on the Day of Recompense"]}]},
+    "key": {"label": "Who forgives", "row": [
+      {"box": "people", "title": "my good deeds", "sub": ["will cancel it out"], "strike": true},
+      {"box": "idea", "title": "only Allah", "sub": ["who else can forgive?"]}]},
+    "then": "After listing what Allah does for him, Ibrahim says {reward}who I hope will forgive me my faults{/reward} on the Day of Recompense. Ibn Kathir says {idea}no one can forgive sins in this world or the next except Him.{/idea} The Close Friend of Allah still speaks with hope, not certainty.",
+    "now": "You compare yourself to others: at least I pray, at least I do not do what they do. {idea}Ibrahim, the leader of the believers, said I hope.{/idea} Humility and hope belong together.",
+    "old": "I am doing better than most people, so I am fine.",
+    "new": "Even the best of people hoped for forgiveness. I should hope humbly too.",
+    "try": "Tonight ask Allah's forgiveness for something you think is small.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:83", "surah": 26, "ayah": 83, "place": "makkah",
+    "title": "Give me wisdom, and put me with good people.",
+    "subtitle": "Ibrahim's first request for himself",
+    "picture": {"kind": "boxes", "label": "Ibrahim asks for", "row": [
+      {"box": "reward", "title": "wisdom", "sub": ["knowledge, said Ibn Abbas"]},
+      {"box": "reward", "title": "the righteous", "sub": ["to be joined with them"]}]},
+    "key": {"label": "What he asked for", "row": [
+      {"box": "people", "title": "wealth and status", "sub": ["what we usually ask"], "strike": true},
+      {"box": "idea", "title": "knowledge and company", "sub": ["what he asked"]}]},
+    "then": "Having described Allah, Ibrahim begins to ask. First, {reward}Hukm{/reward}, which Ibn Abbas said means knowledge. Then {reward}join me with the righteous{/reward} in this world and the next. Ibn Kathir links it to the Prophet ﷺ saying, as he was dying, O Allah, with the Exalted Companion.",
+    "now": "Look at your list of duas. A bigger house, a better job, a spouse. Fine. {idea}Ibrahim's first request was knowledge and good company.{/idea} The people you sit with shape who you become.",
+    "old": "My duas should mostly be about getting what I need in life.",
+    "new": "Knowledge and good companions are among the best things to ask for.",
+    "try": "Add one line to your dua today: O Allah, put me with the righteous.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:84", "surah": 26, "ayah": 84, "place": "makkah",
+    "title": "Let me be remembered well by those who come after.",
+    "subtitle": "Asking for a good legacy",
+    "picture": {"kind": "boxes", "label": "What he asked", "row": [
+      {"box": "people", "title": "after I am gone", "sub": ["later generations"]},
+      {"conn": "remember me with"},
+      {"box": "reward", "title": "an honest good name", "sub": ["a good example"]}]},
+    "key": {"label": "What kind of fame", "row": [
+      {"box": "trap", "title": "to be famous", "sub": ["for my own glory"], "strike": true},
+      {"box": "reward", "title": "to be a good example", "sub": ["for others to follow"]}]},
+    "then": "Ibrahim asks for {reward}an honorable mention in later generations.{/reward} Ibn Kathir explains: cause me to be remembered well after my death, so {reward}I will be taken as a good example.{/reward} Allah granted it: peace be upon Ibrahim is said to this day.",
+    "now": "What will your kids say about you when you are gone? Your coworkers, your neighbors? {idea}Not a viral post. The way you treated people.{/idea} That is the legacy that lasts.",
+    "old": "Caring about how I am remembered is vanity.",
+    "new": "Asking to be remembered as a good example is a prayer Ibrahim made.",
+    "try": "Do one thing today you would want your children to remember you for.",
+    "related": ["37:108"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:85", "surah": 26, "ayah": 85, "place": "makkah",
+    "title": "Make me one who inherits the Garden of Delight.",
+    "subtitle": "The aim beyond the good name",
+    "picture": {"kind": "boxes", "label": "Two hopes", "row": [
+      {"box": "reward", "title": "a good name", "sub": ["in this world"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "the Garden", "sub": ["in the Hereafter"]}]},
+    "key": {"label": "What he aims for", "row": [
+      {"box": "people", "title": "only this world", "sub": ["a good name is enough"], "strike": true},
+      {"box": "idea", "title": "both", "sub": ["the Garden is the goal"]}]},
+    "then": "Ibrahim asks to be {reward}one of the inheritors of the Paradise of Delight.{/reward} Ibn Kathir explains the pairing: {idea}bless me in this world with a good name after I am gone{/idea}, and in the Hereafter with the Garden.",
+    "now": "You plan the pension, the savings, the five-year career goals. Good. {idea}Do you have a plan for the Garden too?{/idea} Ibrahim asked for it by name. You can too.",
+    "old": "Paradise is something that will work itself out somehow.",
+    "new": "Paradise is worth asking for directly and planning for.",
+    "try": "Ask Allah today, by name, for Jannat al-Firdaws.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:86", "surah": 26, "ayah": 86, "place": "makkah",
+    "title": "And forgive my father. He has gone astray.",
+    "subtitle": "A son's love for a father who opposed him",
+    "picture": {"kind": "boxes", "label": "Ibrahim's dua", "row": [
+      {"box": "people", "title": "his father", "sub": ["who worshipped idols"]},
+      {"conn": "still he asks"},
+      {"box": "reward", "title": "forgive him", "sub": ["a son's love"]}]},
+    "key": {"label": "What disagreement does", "row": [
+      {"box": "trap", "title": "ends the love", "sub": ["write him off"], "strike": true},
+      {"box": "idea", "title": "love stays", "sub": ["a promise kept in dua"]}]},
+    "then": "Ibrahim prays: {reward}forgive my father, he is of the erring.{/reward} Ibn Kathir notes it was because of {idea}a promise he had made to him{/idea}, citing the verse in At-Tawbah, and that Ibrahim later stopped this when it became clear. That verse calls Ibrahim tender-hearted and forbearing.",
+    "now": "Your father does not share your faith, or mocks the way you live. Some days you are angry. {idea}You can disagree deeply and still care, still hope, still be kind.{/idea} Ibrahim's love for his father did not disappear.",
+    "old": "If my parent opposes my faith, I should cut off my care for them.",
+    "new": "I can stand firm in my faith and still be a tender-hearted child.",
+    "try": "Do one kind thing for a parent today, whatever your differences.",
+    "related": ["71:28", "9:114", "60:4"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:87", "surah": 26, "ayah": 87, "place": "makkah",
+    "title": "Do not shame me on the Day everyone is raised.",
+    "subtitle": "Asking to be spared disgrace before all creation",
+    "picture": {"kind": "boxes", "label": "The Day", "row": [
+      {"box": "people", "title": "all creatures", "sub": ["the first and the last"]},
+      {"conn": "raised together"},
+      {"box": "reward", "title": "protect me", "sub": ["from shame"]}]},
+    "key": {"label": "Which shame matters", "row": [
+      {"box": "people", "title": "embarrassment here", "sub": ["what people see now"], "strike": true},
+      {"box": "idea", "title": "disgrace there", "sub": ["before all creation"]}]},
+    "then": "Ibrahim asks: {idea}disgrace me not on the Day they are resurrected.{/idea} Ibn Kathir explains: {reward}protect me from shame{/reward} on the Day when all creatures, the first and the last, will be raised. He also reports from Al-Bukhari that Ibrahim will meet his father on that Day.",
+    "now": "You would do anything to avoid embarrassment at work or in front of in-laws. You rehearse what to say, delete old posts. {idea}There is a Day when everyone will be there at once.{/idea} That is the shame worth preparing against.",
+    "old": "What matters most is what people think of me now.",
+    "new": "The shame I most need protection from is on the Day all are raised.",
+    "try": "Quietly fix one hidden thing today you would not want seen on that Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:88", "surah": 26, "ayah": 88, "place": "makkah",
+    "title": "The Day money and children cannot help.",
+    "subtitle": "Everything people lean on, set down",
+    "picture": {"kind": "boxes", "label": "What will not help", "row": [
+      {"box": "reward", "title": "wealth", "sub": ["even an earthful of gold"], "strike": true},
+      {"box": "reward", "title": "sons", "sub": ["even all people as ransom"], "strike": true}]},
+    "key": {"label": "What will help", "row": [
+      {"box": "trap", "title": "what I own", "sub": ["stays behind"], "strike": true},
+      {"box": "idea", "title": "faith and sincerity", "sub": ["the only thing of use"]}]},
+    "then": "Ibn Kathir explains that a man's wealth {trap}will not protect him{/trap}, even if he paid a ransom of an earthful of gold, nor his sons, even if he offered all people on earth. {idea}Only faith in Allah and sincere devotion to Him{/idea} will be of use that Day.",
+    "now": "You work overtime to give your kids everything, and you tell yourself it is all for them. Good. {idea}But on that Day, they cannot carry you, and your account balance cannot either.{/idea} Invest in the one thing that crosses.",
+    "old": "Providing for my family is enough to make me safe.",
+    "new": "My family and money are blessings, not my ticket on that Day.",
+    "try": "Give a small amount in charity today with the intention it is for that Day.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:89", "surah": 26, "ayah": 89, "place": "makkah",
+    "title": "Only a sound heart gets through.",
+    "subtitle": "The one thing worth bringing to Allah",
+    "picture": {"kind": "boxes", "label": "What is brought", "row": [
+      {"box": "people", "title": "the person", "sub": ["coming to Allah"]},
+      {"conn": "brings"},
+      {"box": "reward", "title": "a sound heart", "sub": ["free of shirk"]}]},
+    "key": {"label": "What sound means", "row": [
+      {"box": "trap", "title": "a sick heart", "sub": ["doubt, hypocrisy"], "strike": true},
+      {"box": "idea", "title": "a clean heart", "sub": ["sure Allah is true"]}]},
+    "then": "Except {reward}one who comes to Allah with a sound heart{/reward}. Ibn Kathir says this means free from impurity and shirk. Ibn Sirin said the clean heart {idea}knows Allah is true and the Hour will come.{/idea} Sa'id bin Al-Musayyib said it is the healthy heart, the opposite of a diseased one.",
+    "now": "You track your steps, your sleep, your cholesterol. You know your heart rate. {idea}When did you last check the health of your inner heart?{/idea} The grudges, the envy, the quiet doubts. That is the heart you take with you.",
+    "old": "As long as my actions look good, my heart does not matter much.",
+    "new": "What I bring to Allah in the end is my heart. Its health is everything.",
+    "try": "Let go of one grudge today. Clean one corner of your heart.",
+    "related": ["2:10"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "26:90", "surah": 26, "ayah": 90, "place": "makkah",
+    "title": "Paradise is brought close to those who were mindful.",
+    "subtitle": "The Garden comes to meet its people",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "people", "title": "the mindful", "sub": ["who preferred it"]},
+      {"conn": "meet"},
+      {"box": "reward", "title": "Paradise", "sub": ["brought near, adorned"]}]},
+    "key": {"label": "Who it comes to", "row": [
+      {"box": "people", "title": "those who had it easy", "sub": ["the lucky"], "strike": true},
+      {"box": "idea", "title": "those who strove", "sub": ["and chose it over this world"]}]},
+    "then": "Ibn Kathir says Paradise {reward}will be brought close to its people, adorned and decorated{/reward} for them to see. Its people are {idea}the pious who preferred it to whatever was in this world{/idea} and worked for it here.",
+    "now": "You chose the dawn prayer over sleep, honesty over the easy lie, patience over the angry message. Nobody noticed. {reward}On that Day, the Garden comes to meet the one who made those choices.{/reward}",
+    "old": "My small sacrifices go unnoticed and do not count for much.",
+    "new": "Every time I choose Allah over this world, I am walking toward a Garden coming to meet me.",
+    "try": "Make one small choice today for the next life over this one, and tell no one.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "68:40", "surah": 68, "ayah": 40, "place": "makkah",
+    "title": "Ask them who will guarantee that claim.",
+    "subtitle": "A bold claim needs someone to stand behind it",
+    "picture": {"kind": "boxes", "label": "The claim", "row": [
+      {"box": "trap", "title": "we get what we want", "sub": ["in the Hereafter"]},
+      {"conn": "ask"},
+      {"box": "people", "title": "who is the guarantor?", "sub": ["Ibn Abbas"]}]},
+    "key": {"label": "Who can stand behind it", "row": [
+      {"box": "people", "title": "one of them", "sub": [], "strike": true},
+      {"box": "idea", "title": "no one", "sub": ["the claim has no sponsor"]}]},
+    "then": "The Prophet ﷺ is told to ask them directly. Ibn Kathir explains: {idea}who is the sponsor who guarantees this?{/idea} Ibn Abbas said it means {idea}which of them will be guarantor for that?{/idea} {trap}None of them could be.{/trap}",
+    "now": "Someone tells you not to worry about prayer, nobody will ask about it. Ask them: will you answer for me on that Day? {trap}Easy advice costs the giver nothing.{/trap} {idea}You are the one who carries it.{/idea}",
+    "old": "If enough people say it is fine, it must be fine.",
+    "new": "No one who reassures me can stand in my place before Allah.",
+    "try": "When someone tells you a wrong is fine, ask yourself quietly: will they answer for me?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:41", "surah": 68, "ayah": 41, "place": "makkah",
+    "title": "Their partners? Let them bring them, if truthful.",
+    "subtitle": "Testing what you rely on besides Allah",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "trap", "title": "their partners", "sub": ["idols and rivals"]},
+      {"conn": "bring them"},
+      {"box": "idea", "title": "if truthful", "sub": ["can they help at all?"]}]},
+    "key": {"label": "What can save", "row": [
+      {"box": "trap", "title": "the partners", "sub": ["what they relied on"], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": []}]},
+    "then": "Ibn Kathir explains the question: {trap}do they have idols and rival gods besides Allah?{/trap} If so, {idea}let them bring them, if they are truthful.{/idea} The idols of Makkah could not answer the call.",
+    "now": "Your savings, your boss's favor, your follower count, the doctor you trust. {trap}Things we lean on as if they could save us.{/trap} {idea}Ask each one: can you help me on the Day?{/idea}",
+    "old": "I have people and things that will back me up.",
+    "new": "Nothing I rely on besides Allah can stand for me when it matters most.",
+    "try": "Name one thing you lean on too heavily. Thank Allah for it, and remind yourself who provides it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:42", "surah": 68, "ayah": 42, "place": "makkah",
+    "title": "On that Day, some will try to bow and cannot.",
+    "subtitle": "The call to prostrate on the Day of Judgment",
+    "picture": {"kind": "boxes", "label": "That Day", "row": [
+      {"box": "idea", "title": "the call", "sub": ["to prostrate"]},
+      {"box": "reward", "title": "the believers", "sub": ["fall in prostration"]},
+      {"box": "trap", "title": "the show-offs and deniers", "sub": ["cannot bend"]}]},
+    "key": {"label": "What decides it", "row": [
+      {"box": "people", "title": "what I do then", "sub": [], "strike": true},
+      {"box": "idea", "title": "how I prostrated here", "sub": ["sincerely, or for show"]}]},
+    "then": "Ibn Kathir says this is the Day of Judgment, with its great terrors. The Prophet ﷺ said {reward}every believing man and woman will prostrate to Allah{/reward}, and those who {trap}prostrated in this life only to be seen{/trap} will try and be unable.",
+    "now": "You pray quickly at the office so no one notices, or slowly at the masjid so someone does. {trap}Who is the prostration for?{/trap} {idea}The sujood you make sincerely now is the one you will be able to make then.{/idea}",
+    "old": "As long as I pray, why I pray does not matter much.",
+    "new": "Sincere prostration now is what I carry into that Day.",
+    "try": "In one prayer today, make your sujood a little longer, for Allah alone.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:43", "surah": 68, "ayah": 43, "place": "makkah",
+    "title": "They were called to bow while they were healthy.",
+    "subtitle": "The chance that was there all along",
+    "picture": {"kind": "boxes", "label": "Then and now", "row": [
+      {"box": "people", "title": "in this life", "sub": ["healthy and safe", "called to prostrate"]},
+      {"conn": "refused"},
+      {"box": "trap", "title": "on that Day", "sub": ["eyes down, unable"]}]},
+    "key": {"label": "When it is easy", "row": [
+      {"box": "trap", "title": "later, when I am ready", "sub": [], "strike": true},
+      {"box": "idea", "title": "now, while I am sound", "sub": []}]},
+    "then": "Ibn Kathir says {trap}when they were called to prostrate in this life, they refused{/trap}, even though {reward}they were healthy and secure.{/reward} So they were met with the opposite of what they did.",
+    "now": "Your knees work. Your back bends. The adhan plays on your phone and you swipe it away. {reward}Right now prostration is easy.{/reward} {idea}Being sound is an invitation, not a given.{/idea}",
+    "old": "I will get serious about prayer when I am older.",
+    "new": "My health right now is the window to bow while it is easy.",
+    "try": "Pray the next prayer on time, and thank Allah for the body that lets you do it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:44", "surah": 68, "ayah": 44, "place": "makkah",
+    "title": "Leave them to Me. I lead them on step by step.",
+    "subtitle": "When ease is not always a blessing",
+    "picture": {"kind": "boxes", "label": "What they thought", "row": [
+      {"box": "reward", "title": "more wealth", "sub": ["a noble blessing"]},
+      {"conn": "but really"},
+      {"box": "trap", "title": "gradual drawing in", "sub": ["from where they do not know"]}]},
+    "key": {"label": "What ease means", "row": [
+      {"box": "people", "title": "Allah is pleased with me", "sub": ["it is going so well"], "strike": true},
+      {"box": "idea", "title": "it may be a test", "sub": ["check what you do with it"]}]},
+    "then": "Allah tells the Prophet ﷺ to leave the deniers to Him. Ibn Kathir explains that they {trap}believe it is a noble blessing from Allah{/trap}, but it is drawing them on gradually. Elsewhere: {idea}do they think the wealth and children We give them is Us hastening good?{/idea}",
+    "now": "Everything is going right. The promotion, the house, the health. And your prayer is getting thinner, your reminders fewer. {trap}Comfort can quietly lull you.{/trap} {idea}Ease is a time to check yourself, not relax.{/idea}",
+    "old": "If life is easy, Allah must be pleased with me.",
+    "new": "Ease can be a test. What I do with it shows the truth.",
+    "try": "In a good week, add one extra act of worship as thanks, not wait for a hard week.",
+    "related": ["23:55", "6:44"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:45", "surah": 68, "ayah": 45, "place": "makkah",
+    "title": "I give them time, and My plan is firm.",
+    "subtitle": "Delay is not the same as escape",
+    "picture": {"kind": "boxes", "label": "How it works", "row": [
+      {"box": "people", "title": "respite", "sub": ["time is extended"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "My plan is firm", "sub": ["no escape"]}]},
+    "key": {"label": "What delay means", "row": [
+      {"box": "trap", "title": "I got away with it", "sub": [], "strike": true},
+      {"box": "idea", "title": "I was given time", "sub": ["to come back"]}]},
+    "then": "Ibn Kathir says Allah delays them and extends their time. The Prophet ﷺ said {idea}Allah gives respite to the wrongdoer until He seizes him{/idea}, and then {trap}he will not escape.{/trap} He then recited the verse about Allah seizing towns.",
+    "now": "Nothing bad happened after you lied. The harsh words to your parents went unanswered. {trap}It is easy to think it did not count.{/trap} {idea}The time you have now is a gift to turn back.{/idea}",
+    "old": "Nothing happened, so it must not have mattered.",
+    "new": "If Allah has given me time, it is time to repent, not proof I escaped.",
+    "try": "Think of one wrong that has gone unpunished. Use today to make it right.",
+    "related": ["11:102"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:46", "surah": 68, "ayah": 46, "place": "makkah",
+    "title": "Did he ever ask them for payment?",
+    "subtitle": "A message given freely, still refused",
+    "picture": {"kind": "boxes", "label": "What he asked", "row": [
+      {"box": "people", "title": "the Prophet ﷺ", "sub": ["calls them to Allah"]},
+      {"conn": "for"},
+      {"box": "reward", "title": "no wage", "sub": ["hopes for reward from Allah"]}]},
+    "key": {"label": "Why they refused", "row": [
+      {"box": "people", "title": "it cost too much", "sub": ["a debt to pay"], "strike": true},
+      {"box": "trap", "title": "stubbornness", "sub": ["ignorance and obstinacy"]}]},
+    "then": "Ibn Kathir explains: {reward}you, O Muhammad ﷺ, call them to Allah without taking any wages{/reward}, hoping for reward from Allah. {trap}Yet they reject what you brought out of ignorance, disbelief and obstinacy.{/trap}",
+    "now": "Your grandmother asks you to pray. A friend sends a free lecture link. Nobody is selling you anything. {trap}And still it is easy to push it away.{/trap} {idea}Advice given for free often has the purest intention.{/idea}",
+    "old": "People who preach must want something from me.",
+    "new": "Sincere advice that asks nothing in return deserves a real hearing.",
+    "try": "Thank one person who gave you sincere advice for free, and act on a piece of it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:47", "surah": 68, "ayah": 47, "place": "makkah",
+    "title": "Do they hold the unseen and write it down?",
+    "subtitle": "Claiming to know what only Allah knows",
+    "picture": {"kind": "boxes", "label": "Their certainty", "row": [
+      {"box": "trap", "title": "we know how it ends", "sub": ["we will be fine"]},
+      {"conn": "as if"},
+      {"box": "people", "title": "the unseen", "sub": ["were in their hands"]}]},
+    "key": {"label": "Who knows the unseen", "row": [
+      {"box": "people", "title": "they do", "sub": [], "strike": true},
+      {"box": "idea", "title": "Allah alone", "sub": []}]},
+    "then": "Ibn Kathir notes this verse was explained in Surat At-Tur. The deniers spoke as if {trap}the unseen was in their hands to write down.{/trap} The Prophet ﷺ asked nothing of them, and still {trap}they rejected out of obstinacy.{/trap}",
+    "now": "I know I have time. I know it will work out. I know they will never change. {trap}We talk about the future like we have read it.{/trap} {idea}Only Allah has.{/idea}",
+    "old": "I know how my life will turn out.",
+    "new": "The unseen belongs to Allah. I act today and leave tomorrow to Him.",
+    "try": "Notice one I know for sure about the future today. Change it to Allah knows.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:48", "surah": 68, "ayah": 48, "place": "makkah",
+    "title": "Be patient, and do not leave in anger like Yunus.",
+    "subtitle": "Waiting for Allah's decision without walking away",
+    "picture": {"kind": "boxes", "label": "Two paths under pressure", "row": [
+      {"box": "idea", "title": "be patient", "sub": ["with their harm and rejection"]},
+      {"box": "people", "title": "the man of the fish", "sub": ["left his people angry"]},
+      {"conn": "cried out"},
+      {"box": "reward", "title": "from the darkness", "sub": ["none worthy but You"]}]},
+    "key": {"label": "When it is hard", "row": [
+      {"box": "trap", "title": "walk away angry", "sub": [], "strike": true},
+      {"box": "idea", "title": "stay and be patient", "sub": ["Allah decides the outcome"]}]},
+    "then": "Ibn Kathir says the Prophet ﷺ was told to {idea}persevere against the harm and rejection of his people.{/idea} Yunus had {trap}gone off angry with his people{/trap}, was swallowed by the fish, and called from the darkness: {reward}none has the right to be worshipped but You.{/reward}",
+    "now": "The family that never listens. The job where nothing changes. The urge to slam the door and leave. {trap}Anger makes leaving feel like the answer.{/trap} {idea}Patience waits for Allah's decision.{/idea}",
+    "old": "When people do not listen, I am done with them.",
+    "new": "Patience waits for Allah's decision instead of storming off.",
+    "try": "The next time you want to walk out angry, say la ilaha illa Anta, subhanaka, and wait.",
+    "related": ["21:87", "21:88", "37:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:49", "surah": 68, "ayah": 49, "place": "makkah",
+    "title": "Only his Lord's favor reached him in time.",
+    "subtitle": "Grace that catches you after a mistake",
+    "picture": {"kind": "boxes", "label": "What saved him", "row": [
+      {"box": "people", "title": "Yunus", "sub": ["in the darkness"]},
+      {"conn": "reached by"},
+      {"box": "reward", "title": "favor from his Lord", "sub": []},
+      {"conn": "otherwise"},
+      {"box": "trap", "title": "the bare shore", "sub": ["and blamed"]}]},
+    "key": {"label": "What saved him", "row": [
+      {"box": "people", "title": "his own effort", "sub": [], "strike": true},
+      {"box": "reward", "title": "Allah's grace", "sub": ["answering his call"]}]},
+    "then": "Ibn Kathir quotes another surah: {reward}We answered his call and delivered him from the distress, and thus We deliver the believers.{/reward} Had he not been one who glorified Allah, {trap}he would have stayed in the belly of the fish.{/trap}",
+    "now": "You made the bad call. You said the thing you cannot unsay. You feel like you are in the dark. {reward}Allah's favor can still reach you there.{/reward} {idea}The way out begins with turning to Him.{/idea}",
+    "old": "My mistake was too big for me to be saved from it.",
+    "new": "Allah's favor reaches the one who turns to Him, even from the darkest place.",
+    "try": "In a moment of stress today, say the du'a of Yunus once, slowly.",
+    "related": ["21:88", "37:143"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:50", "surah": 68, "ayah": 50, "place": "makkah",
+    "title": "Then his Lord chose him and made him righteous.",
+    "subtitle": "A slip is not the end of the story",
+    "picture": {"kind": "boxes", "label": "His story", "row": [
+      {"box": "trap", "title": "left in anger", "sub": []},
+      {"conn": "then"},
+      {"box": "people", "title": "turned back", "sub": ["called to Allah"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "chosen", "sub": ["among the righteous"]}]},
+    "key": {"label": "How to see him", "row": [
+      {"box": "people", "title": "the one who failed", "sub": [], "strike": true},
+      {"box": "reward", "title": "the one Allah chose", "sub": ["none better than Yunus"]}]},
+    "then": "After the fish, {reward}his Lord chose him and made him of the righteous.{/reward} The Prophet ﷺ said {idea}it is not befitting for anyone to say I am better than Yunus bin Matta.{/idea}",
+    "now": "Someone at the masjid knows your past. Your family remembers the old you. {trap}People keep you in your worst chapter.{/trap} {idea}Allah lifts the one who turns back.{/idea}",
+    "old": "Once I have failed, that is who I am.",
+    "new": "When I turn back to Allah, He can raise me higher than before.",
+    "try": "Stop retelling one old failure of someone else's today. Let them be who they are now.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:51", "surah": 68, "ayah": 51, "place": "makkah",
+    "title": "Their glares were full of hate, but Allah protected him.",
+    "subtitle": "Jealous eyes and the insult of madness",
+    "picture": {"kind": "boxes", "label": "When they heard the Quran", "row": [
+      {"box": "trap", "title": "hateful looks", "sub": ["almost making him slip"]},
+      {"box": "trap", "title": "he is mad", "sub": ["the same old label"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah's protection", "sub": []}]},
+    "key": {"label": "When you admire something", "row": [
+      {"box": "trap", "title": "envy", "sub": ["the eye that harms"]},
+      {"box": "reward", "title": "pray for blessing", "sub": ["what the Prophet ﷺ taught"]}]},
+    "then": "Ibn Kathir says their glares came from {trap}jealousy and hatred{/trap}, and only {idea}Allah's protection{/idea} kept him from harm. When a man admired another and harm followed, the Prophet ﷺ said: {reward}if you see something you like in your brother, pray for blessing for him.{/reward}",
+    "now": "Your friend posts the new house, the engagement, the promotion. Something tight rises in your chest. {trap}Envy looks before it speaks.{/trap} {idea}Turn it into a du'a for them instead.{/idea}",
+    "old": "Feeling a little jealous of others is harmless.",
+    "new": "When I admire what someone has, I can turn it into a prayer for their blessing.",
+    "try": "Next time you see someone's good news, say barakallahu lak, out loud or in your heart.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "68:52", "surah": 68, "ayah": 52, "place": "makkah",
+    "title": "It is nothing but a reminder for all the worlds.",
+    "subtitle": "The surah ends where it began: the truth of the message",
+    "picture": {"kind": "boxes", "label": "Two views of the Quran", "row": [
+      {"box": "trap", "title": "words of a madman", "sub": ["what they said"], "strike": true},
+      {"box": "idea", "title": "a reminder", "sub": ["to all the worlds"]}]},
+    "key": {"label": "Who it is for", "row": [
+      {"box": "people", "title": "only Makkah", "sub": [], "strike": true},
+      {"box": "reward", "title": "everyone, everywhere", "sub": ["including me"]}]},
+    "then": "The surah opened with the charge of madness and ends with the answer. The surah introduction says the Book he brought was itself {idea}enough to refute their accusations.{/idea} It is not madness. {reward}It is a reminder to all the worlds.{/reward}",
+    "now": "The Quran app on your phone. The verse a friend sent this morning. The recitation in the car. {reward}A reminder meant for you, today, in your city.{/reward} {idea}Not just for people long ago.{/idea}",
+    "old": "The Quran was mainly a message for people back then.",
+    "new": "The Quran is a reminder for every world, and that includes my life now.",
+    "try": "Read one short passage of the Quran today and ask: what is this reminding me of?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

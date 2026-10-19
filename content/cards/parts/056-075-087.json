@@ -1,0 +1,250 @@
+[
+  {
+    "id": "56:75", "surah": 56, "ayah": 75, "place": "makkah",
+    "title": "No! I swear by the places where the stars set.",
+    "subtitle": "An oath before a claim about the Quran",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "plain", "title": "the stars", "sub": ["where they rise and set"]},
+      {"conn": "sworn by, for"},
+      {"box": "idea", "title": "the Quran", "sub": ["not magic, not sorcery"]}]},
+    "key": {"label": "The No", "row": [
+      {"box": "trap", "title": "it is magic", "sub": ["what they claimed"], "strike": true},
+      {"box": "idea", "title": "it is a noble Quran", "sub": ["what the oath affirms"]}]},
+    "then": "Ibn Kathir says the No that opens the oath rejects their claim: {trap}the matter is not as you say, that the Quran is magic or sorcery{/trap}. Mujahid said the stars' Mawaqi are their positions of rising and setting. The oath is made by something vast and orderly.",
+    "now": "On a clear night away from the city lights, you look up and the stars move in perfect order. {idea}Allah swears by that order{/idea} before telling you what His Book is.",
+    "old": "The Quran is one more book among many.",
+    "new": "The One who orders the stars stands behind this Book.",
+    "try": "Look at the night sky tonight for one minute, then read a few verses of the Quran.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:76", "surah": 56, "ayah": 76, "place": "makkah",
+    "title": "It is a mighty oath, if only you knew.",
+    "subtitle": "The size of the oath shows the size of the truth",
+    "picture": {"kind": "boxes", "label": "The oath", "row": [
+      {"box": "idea", "title": "a great oath"},
+      {"conn": "points to"},
+      {"box": "idea", "title": "a great subject", "sub": ["the Quran"]}]},
+    "key": {"label": "How to hear it", "row": [
+      {"box": "plain", "title": "a nice phrase", "sub": ["poetic language"], "strike": true},
+      {"box": "idea", "title": "a great oath", "sub": ["if you knew its weight"]}]},
+    "then": "Ibn Kathir explains: {idea}if you knew the greatness of this oath, you would know the greatness of what it is sworn about{/idea}. It is Allah who is making the oath, and the oath tells you how much is at stake.",
+    "now": "When someone says I swear on my mother's life, you know how serious they are. {idea}Allah swears by the positions of the stars.{/idea} Think how serious the next sentence must be.",
+    "old": "Oaths in the Quran are just a style of speaking.",
+    "new": "The bigger the oath, the more closely I should listen.",
+    "try": "Read the next verses of this surah slowly today, as if hearing them under oath.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:77", "surah": 56, "ayah": 77, "place": "makkah",
+    "title": "Truly, this is a noble Quran.",
+    "subtitle": "What the great oath was sworn for",
+    "picture": {"kind": "boxes", "label": "What is sworn", "row": [
+      {"box": "idea", "title": "the stars"},
+      {"conn": "for"},
+      {"box": "reward", "title": "a noble Quran", "sub": ["revealed to Muhammad ﷺ"]}]},
+    "key": {"label": "What it is", "row": [
+      {"box": "trap", "title": "magic, poetry", "sub": ["their claims"], "strike": true},
+      {"box": "reward", "title": "a noble recitation", "sub": ["a glorious Book"]}]},
+    "then": "The oath lands: {reward}this is indeed an honorable recitation{/reward}. Ibn Kathir says this Quran, revealed to Muhammad ﷺ, is a glorious Book. It answers the Makkan suspicion that it was magic or sorcery.",
+    "now": "The Quran app on your phone sits between a chat app and a game. {idea}It is easy to give it the same weight as everything else on the screen.{/idea} This verse calls it noble.",
+    "old": "Reading Quran is one more task on my list.",
+    "new": "Reading Quran is time spent with something noble.",
+    "try": "Open the Quran today before you open any other app.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:78", "surah": 56, "ayah": 78, "place": "makkah",
+    "title": "Kept in a well-guarded Book.",
+    "subtitle": "Protected before it ever reached us",
+    "picture": {"kind": "boxes", "label": "Where it is", "row": [
+      {"box": "reward", "title": "the Quran"},
+      {"conn": "in"},
+      {"box": "idea", "title": "a guarded Book", "sub": ["revered, protected"]}]},
+    "key": {"label": "Its origin", "row": [
+      {"box": "trap", "title": "made up", "sub": ["by people"], "strike": true},
+      {"box": "idea", "title": "guarded by Allah", "sub": ["kept at its source"]}]},
+    "then": "The Quran is {idea}in a Book Maknun{/idea}, which Ibn Kathir explains as glorious, well guarded and revered. Ibn Abbas said it is the Book that is in heaven. Its source is protected.",
+    "now": "Your important files live in the cloud with backups and a password, and you trust they are safe. {idea}The Quran's source is guarded far beyond that.{/idea}",
+    "old": "Who knows how this text really came to be?",
+    "new": "This Book was guarded at its source by Allah.",
+    "try": "Hold a printed mushaf today, or open one, and remember where it comes from.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:79", "surah": 56, "ayah": 79, "place": "makkah",
+    "title": "None touch it but the purified.",
+    "subtitle": "The pure angels carry it, not devils",
+    "picture": {"kind": "boxes", "label": "Who touches it", "row": [
+      {"box": "reward", "title": "the pure ones", "sub": ["the angels"]},
+      {"conn": "not"},
+      {"box": "trap", "title": "devils", "sub": ["what Quraysh claimed"]}]},
+    "key": {"label": "Its carriers", "row": [
+      {"box": "trap", "title": "brought by devils", "sub": ["the Quraysh claim"], "strike": true},
+      {"box": "reward", "title": "touched by angels", "sub": ["only the pure"]}]},
+    "then": "Ibn Abbas and many others said {reward}the pure ones are the angels{/reward}. Ibn Zayd said the Quraysh claimed devils brought the Quran down, and Allah answered that only the pure touch it. The surah introduction tells how Umar's sister quoted this verse when he asked to read the pages.",
+    "now": "Before opening the Quran, you wash your hands, maybe make wudu, and find somewhere quiet. {idea}Your small preparation echoes the purity of those who carry it.{/idea}",
+    "old": "It doesn't matter how I come to the Quran.",
+    "new": "The Quran is carried by the pure, so I come to it with care.",
+    "try": "Make wudu before you read Quran today, and notice how it changes your focus.",
+    "related": ["26:210"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:80", "surah": 56, "ayah": 80, "place": "makkah",
+    "title": "Sent down from the Lord of all the worlds.",
+    "subtitle": "Not magic, not poetry, but revelation",
+    "picture": {"kind": "boxes", "label": "Its source", "row": [
+      {"box": "idea", "title": "the Lord of the worlds"},
+      {"conn": "sent down"},
+      {"box": "reward", "title": "the Quran"}]},
+    "key": {"label": "What it is", "row": [
+      {"box": "trap", "title": "magic, poetry", "sub": ["what they said"], "strike": true},
+      {"box": "idea", "title": "revelation", "sub": ["the truth, no doubt in it"]}]},
+    "then": "Ibn Kathir says {idea}this Quran is a revelation from the Lord of all that exists{/idea}, not magic, sorcery or poetry as they said. It is the truth, with no doubt in it.",
+    "now": "You read advice threads, self-help books, a podcast host's opinions. Helpful, mixed, human. {idea}This one is from the Lord of the worlds.{/idea}",
+    "old": "The Quran is good advice, like other good books.",
+    "new": "The Quran is revelation from the One who made everything.",
+    "try": "Read one verse today and ask: what is my Lord telling me here?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:81", "surah": 56, "ayah": 81, "place": "makkah",
+    "title": "Is this the message you treat so lightly?",
+    "subtitle": "Brushing it off is a response too",
+    "picture": {"kind": "boxes", "label": "Their response", "row": [
+      {"box": "reward", "title": "this message", "sub": ["noble, from the Lord"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "indifference", "sub": ["no belief, quiet denial"]}]},
+    "key": {"label": "Indifference", "row": [
+      {"box": "plain", "title": "neutral", "sub": ["I'm just not into it"], "strike": true},
+      {"box": "trap", "title": "a choice", "sub": ["brushing off the truth"]}]},
+    "then": "Allah asks: {trap}is it such a talk that you are Mudhinun?{/trap} Ibn Abbas said it means you do not believe in it and you deny it. Mujahid said it means relying on something other than it. Either way, a noble message is met with a shrug.",
+    "now": "A reminder comes up on your feed: a verse, a short talk. {trap}You scroll past, not against it, just not interested.{/trap} {idea}Indifference is still a response.{/idea}",
+    "old": "I'm not rejecting the Quran, I'm just busy.",
+    "new": "Treating it lightly is a response too, and I can choose better.",
+    "try": "The next time a verse or reminder appears in front of you today, stop and read it fully.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:82", "surah": 56, "ayah": 82, "place": "makkah",
+    "title": "Is your thanks for provision to deny the Provider?",
+    "subtitle": "Rain comes, and the credit goes to a star",
+    "picture": {"kind": "boxes", "label": "Provision", "row": [
+      {"box": "reward", "title": "rain", "sub": ["provision from Allah"]},
+      {"conn": "credited to"},
+      {"box": "trap", "title": "a star", "sub": ["not the Provider"]}]},
+    "key": {"label": "After the rain", "row": [
+      {"box": "trap", "title": "a star sent it", "sub": ["credit misplaced"], "strike": true},
+      {"box": "reward", "title": "Allah's mercy", "sub": ["thanks to the Provider"]}]},
+    "then": "Ibn Abbas read it as {trap}you make your thanks that you deny{/trap}, saying that whenever it rained, some would credit a star. After a rainy night at Al-Hudaybiyah, the Prophet ﷺ said that whoever says {reward}we were given rain by Allah's blessing and mercy{/reward} believes in Him.",
+    "now": "Your salary arrives and you credit your boss, the economy, your hustle. {trap}Everything gets the credit except Allah.{/trap} The verse asks where your thanks actually goes.",
+    "old": "Good things come from the right conditions and my smart choices.",
+    "new": "The conditions are tools. The provision is from Allah.",
+    "try": "When your next payment or piece of good news arrives, say first: this is by the blessing of Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:83", "surah": 56, "ayah": 83, "place": "makkah",
+    "title": "Then why, when the soul reaches the throat...",
+    "subtitle": "The moment no one can argue with",
+    "picture": {"kind": "boxes", "label": "At death", "row": [
+      {"box": "people", "title": "the dying person"},
+      {"conn": "soul reaches"},
+      {"box": "trap", "title": "the throat", "sub": ["the last moment"]}]},
+    "key": {"label": "Control", "row": [
+      {"box": "trap", "title": "we are in control", "sub": ["the claim in life"], "strike": true},
+      {"box": "idea", "title": "no one can stop it", "sub": ["the final proof"]}]},
+    "then": "Ibn Kathir explains Al-Hulqum as {trap}the throat, at the time of death{/trap}. He links it to another verse where the soul reaches the collarbone and people ask who can cure him. The surah now places the reader beside a deathbed.",
+    "now": "The hospital corridor, the machines beeping, family speaking in whispers. Everyone wants to do something and no one can. {idea}That helplessness is the argument.{/idea}",
+    "old": "With enough medicine and money, death can usually be held off.",
+    "new": "When the time comes, no one can hold the soul back.",
+    "try": "Visit or call someone who is sick today.",
+    "related": ["75:26"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:84", "surah": 56, "ayah": 84, "place": "makkah",
+    "title": "And you are looking on, helpless.",
+    "subtitle": "Watching, but powerless",
+    "picture": {"kind": "boxes", "label": "At the bedside", "row": [
+      {"box": "people", "title": "family", "sub": ["watching"]},
+      {"conn": "see"},
+      {"box": "people", "title": "the dying one", "sub": ["in the stupor of death"]}]},
+    "key": {"label": "What you can do", "row": [
+      {"box": "plain", "title": "fix it", "sub": ["we always find a way"], "strike": true},
+      {"box": "idea", "title": "only watch and pray", "sub": ["the limit of our power"]}]},
+    "then": "Ibn Kathir says {idea}you are looking at the dying person, witnessing the stupor of death{/idea}. The verse reminds the listeners of what many of them had already seen with their own eyes.",
+    "now": "You hold your grandmother's hand in a ward at 3 a.m. The nurse is kind and the doctors have tried. {idea}You are looking on.{/idea} All that is left is to pray.",
+    "old": "I'll handle death when it comes to my family.",
+    "new": "At death I can only watch, so I prepare my heart now.",
+    "try": "Make dua today, by name, for someone you love who is ill or elderly.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:85", "surah": 56, "ayah": 85, "place": "makkah",
+    "title": "We are nearer to him than you, but you do not see.",
+    "subtitle": "The angels are already in the room",
+    "picture": {"kind": "boxes", "label": "In the room", "row": [
+      {"box": "people", "title": "family", "sub": ["near, but helpless"]},
+      {"box": "idea", "title": "the angels", "sub": ["nearer still, unseen"]}]},
+    "key": {"label": "Who is nearest", "row": [
+      {"box": "people", "title": "we are closest", "sub": ["holding his hand"], "strike": true},
+      {"box": "idea", "title": "Allah's angels are nearer", "sub": ["but you do not see"]}]},
+    "then": "Allah says {idea}We are nearer to him than you{/idea}. Ibn Kathir explains: with Our angels, whom you cannot see. He links it to the verse about the messengers who take the soul and never neglect their duty.",
+    "now": "The room feels full: family, nurses, the hum of the monitor. {idea}It is fuller than you know.{/idea} At that moment, the unseen is the closest thing in the room.",
+    "old": "What I can see is all that's happening.",
+    "new": "At the most important moments, the unseen is nearest.",
+    "try": "Sit quietly for one minute today and remember that Allah's knowledge is nearer to you than anyone.",
+    "related": ["6:61"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:86", "surah": 56, "ayah": 86, "place": "makkah",
+    "title": "If you will never be judged, then why not...",
+    "subtitle": "A challenge to those who deny the reckoning",
+    "picture": {"kind": "boxes", "label": "The challenge", "row": [
+      {"box": "trap", "title": "no reckoning", "sub": ["their claim"]},
+      {"conn": "then prove it"},
+      {"box": "idea", "title": "stop the death", "sub": ["the next verse"]}]},
+    "key": {"label": "The claim", "row": [
+      {"box": "trap", "title": "we answer to no one", "sub": ["free of reckoning"], "strike": true},
+      {"box": "idea", "title": "we are owned", "sub": ["we cannot even keep our souls"]}]},
+    "then": "Sa'id bin Jubayr and Al-Hasan explained: {trap}if you do not believe you will be reckoned and recompensed{/trap}, then why do you not return this soul to its body? Mujahid said it means: if you are not certain.",
+    "now": "You act as if your choices are yours alone, nobody's business. {trap}Answerable to no one.{/trap} But you did not choose to be born, and you cannot choose the day you leave. {idea}You are owned.{/idea}",
+    "old": "My life is mine; I answer to no one.",
+    "new": "If I can't keep my soul in my body, I don't fully own my life.",
+    "try": "Make one decision today by first asking: how would I answer for this?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:87", "surah": 56, "ayah": 87, "place": "makkah",
+    "title": "Bring the soul back, if you are telling the truth.",
+    "subtitle": "The challenge no one has ever met",
+    "picture": {"kind": "boxes", "label": "The test", "row": [
+      {"box": "trap", "title": "the deniers"},
+      {"conn": "asked to"},
+      {"box": "idea", "title": "return the soul", "sub": ["to its body"]},
+      {"conn": "result"},
+      {"box": "plain", "title": "no one can"}]},
+    "key": {"label": "Proof", "row": [
+      {"box": "trap", "title": "we are independent", "sub": ["the claim"], "strike": true},
+      {"box": "idea", "title": "no soul returned", "sub": ["so the reckoning is real"]}]},
+    "then": "Ibn Kathir explains: {idea}will you not return this soul to its body as it used to be{/idea}, if you are free from reckoning? No one can, and his heading calls this proof that the reckoning will happen.",
+    "now": "Every hospital in the world, every billionaire, every scientist: {trap}none has brought back a single soul.{/trap} {idea}That limit is a message about who is in charge.{/idea}",
+    "old": "Humans will figure out how to beat death eventually.",
+    "new": "No one has returned a soul, which tells me who will judge.",
+    "try": "Pray one prayer today calmly, with the gentle thought that it could be your last.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

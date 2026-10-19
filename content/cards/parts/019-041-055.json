@@ -1,0 +1,302 @@
+[
+  {
+    "id": "19:41", "surah": 19, "ayah": 41, "place": "makkah",
+    "title": "Ibrahim, a man of truth and a Prophet.",
+    "subtitle": "The ancestor Quraysh claimed, retold to them",
+    "picture": {"kind": "boxes", "label": "Who is being mentioned", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["Friend of the Most Merciful"]},
+      {"box": "reward", "title": "man of truth", "sub": ["truthful through and through"]},
+      {"box": "idea", "title": "a Prophet", "sub": ["sent by Allah"]}]},
+    "key": {"label": "Claiming him vs following him", "row": [
+      {"box": "trap", "title": "we are his children", "sub": ["so we are fine"], "strike": true},
+      {"box": "idea", "title": "do what he did", "sub": ["truth over custom"]}]},
+    "then": "Allah tells Muhammad ﷺ to recite this to his idol-worshipping people. Ibn Kathir notes {trap}they were Ibrahim's descendants and claimed to follow his religion{/trap}. So remind them: {idea}he was a truthful Prophet{/idea}, and listen to what he told his own father.",
+    "now": "You come from a religious family. Your grandfather prayed every prayer in the mosque. {trap}It is easy to feel that some of that counts for you.{/trap} The verse asks: are you living what your ancestors are praised for?",
+    "old": "My family's faith covers me.",
+    "new": "Being linked to good people means nothing unless I follow what they did.",
+    "try": "Name one habit of a righteous elder in your family and practice it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:42", "surah": 19, "ayah": 42, "place": "makkah",
+    "title": "O my father, why worship what cannot hear or see?",
+    "subtitle": "A son's gentle first question",
+    "picture": {"kind": "boxes", "label": "What the idols could do", "row": [
+      {"box": "trap", "title": "hear", "sub": ["no"], "strike": true},
+      {"box": "trap", "title": "see", "sub": ["no"], "strike": true},
+      {"box": "trap", "title": "help you", "sub": ["not at all"], "strike": true}]},
+    "key": {"label": "How he started", "row": [
+      {"box": "trap", "title": "attack and mock", "sub": ["you are a fool"], "strike": true},
+      {"box": "idea", "title": "O my father", "sub": ["a loving question"]}]},
+    "then": "Ibrahim spoke to his own father about the idols. He opened with {idea}O my father{/idea} and a question: why worship things that hear nothing, see nothing, and {trap}cannot benefit or protect you{/trap}?",
+    "now": "Your dad trusts something that is hurting him: a scheme, a habit, a belief. You want to shout. {idea}Ibrahim began with a tender title and an honest question.{/idea}",
+    "old": "When someone I love is wrong, I need to hit hard so they get it.",
+    "new": "The truth lands better when it starts with love and a real question.",
+    "try": "In one hard talk with family this week, open with a kind word before your point.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:43", "surah": 19, "ayah": 43, "place": "makkah",
+    "title": "I have knowledge you do not; follow me to a straight path.",
+    "subtitle": "A son offering to guide his father",
+    "picture": {"kind": "boxes", "label": "Roles reversed", "row": [
+      {"box": "people", "title": "the father", "sub": ["older, sees son as lesser"]},
+      {"box": "people", "title": "the son", "sub": ["received knowledge"]},
+      {"conn": "offers"},
+      {"box": "reward", "title": "an even path", "sub": ["to safety"]}]},
+    "key": {"label": "Who can guide whom", "row": [
+      {"box": "trap", "title": "only elders know", "sub": ["age decides"], "strike": true},
+      {"box": "idea", "title": "knowledge decides", "sub": ["from Allah"]}]},
+    "then": "Ibn Kathir explains Ibrahim's words: even though I am your son and {trap}you see me as lesser{/trap}, I have received knowledge from Allah that has not reached you. {reward}Follow me and I will guide you to a straight path{/reward} that saves you.",
+    "now": "Your teenager shows you something true from a class or a lecture, and your first instinct is: what do you know? {idea}Truth can come through someone younger than you.{/idea}",
+    "old": "I am older, so I do not need to learn from them.",
+    "new": "Allah can send guidance to me through anyone, even my own child.",
+    "try": "Ask someone younger than you to teach you one thing today, and listen fully.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:44", "surah": 19, "ayah": 44, "place": "makkah",
+    "title": "Do not worship Shaytan, the rebel against the Most Merciful.",
+    "subtitle": "Behind the idols stands an obedience to Shaytan",
+    "picture": {"kind": "boxes", "label": "What is really happening", "row": [
+      {"box": "people", "title": "bowing to idols", "sub": ["what it looks like"]},
+      {"conn": "really is"},
+      {"box": "trap", "title": "obeying Shaytan", "sub": ["he invites to it"]}]},
+    "key": {"label": "Who you end up like", "row": [
+      {"box": "trap", "title": "Shaytan", "sub": ["too arrogant to obey"]},
+      {"conn": "follow him and"},
+      {"box": "trap", "title": "you become like him", "sub": ["an outcast"]}]},
+    "then": "Ibn Kathir explains: do not obey Shaytan by worshipping idols, since {trap}he invites to it and is pleased with it{/trap}. Shaytan was obstinate and {trap}too arrogant to obey his Lord{/trap}, so Allah expelled him. Follow him and you become like him.",
+    "now": "Nobody thinks they serve Shaytan. You just keep doing the thing you promised to stop, at midnight, on your phone. {idea}Whose voice are you really obeying?{/idea}",
+    "old": "I do not worship anything except Allah, so this does not apply to me.",
+    "new": "Whatever voice I keep obeying against Allah is the one I am serving.",
+    "try": "Notice one moment today when you are pulled to something wrong, and say a'udhu billah.",
+    "related": ["36:60", "4:117"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:45", "surah": 19, "ayah": 45, "place": "makkah",
+    "title": "I fear for you, my father.",
+    "subtitle": "A warning spoken out of love",
+    "picture": {"kind": "boxes", "label": "Ibrahim's fear", "row": [
+      {"box": "people", "title": "my father", "sub": ["whom I love"]},
+      {"conn": "may meet"},
+      {"box": "trap", "title": "a punishment", "sub": ["from the Most Merciful"]},
+      {"conn": "with only"},
+      {"box": "trap", "title": "Shaytan as friend", "sub": ["who has no power"]}]},
+    "key": {"label": "Why he warned", "row": [
+      {"box": "trap", "title": "to win the argument", "sub": ["be proven right"], "strike": true},
+      {"box": "idea", "title": "because he feared for him", "sub": ["love"]}]},
+    "then": "Ibrahim said he feared a punishment would reach his father. Ibn Kathir explains that then {trap}no one would help him except Shaytan, who has no power over the outcome{/trap}. Even here he names Allah as {idea}the Most Merciful{/idea}.",
+    "now": "You worry about a parent who has drifted far from prayer. You can lecture, or you can say, gently: I am scared for you, because I love you. {idea}Ibrahim's warning sounds like the second one.{/idea}",
+    "old": "Warning someone means being harsh with them.",
+    "new": "A real warning comes from fear for the person, said with love.",
+    "try": "Make sincere dua today for one family member you worry about.",
+    "related": ["16:63"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:46", "surah": 19, "ayah": 46, "place": "makkah",
+    "title": "His father threatened to stone him and drove him away.",
+    "subtitle": "Gentle words answered with threats",
+    "picture": {"kind": "boxes", "label": "The father's reply", "row": [
+      {"box": "people", "title": "Ibrahim", "sub": ["O my father..."]},
+      {"conn": "answered with"},
+      {"box": "trap", "title": "I will stone you", "sub": ["curse and punish"]},
+      {"box": "trap", "title": "get away", "sub": ["for a long time"]}]},
+    "key": {"label": "What gentleness guarantees", "row": [
+      {"box": "people", "title": "they will agree", "sub": ["if I am kind enough"], "strike": true},
+      {"box": "idea", "title": "I did my part", "sub": ["the result is Allah's"]}]},
+    "then": "Ibrahim's father replied: do you turn away from my gods? Ibn Kathir says he meant {trap}stop speaking against them or I will punish and curse you{/trap}. He told his son to leave, some said forever, others said to go safely before harm came to him.",
+    "now": "You chose your words with care, and the reply in the group chat was cruel. {trap}Being gentle did not make them listen.{/trap} Ibrahim did everything right, and still heard this from his own father.",
+    "old": "If they reject me, I must have said it wrong.",
+    "new": "I can say it well and still be rejected; that is not my failure.",
+    "try": "Forgive yourself for one conversation that went badly even though you meant well.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:47", "surah": 19, "ayah": 47, "place": "makkah",
+    "title": "Peace be on you: I will ask my Lord to forgive you.",
+    "subtitle": "Ibrahim answers a threat with peace",
+    "picture": {"kind": "boxes", "label": "Threat and reply", "row": [
+      {"box": "trap", "title": "I will stone you", "sub": ["the father"]},
+      {"conn": "answered with"},
+      {"box": "reward", "title": "peace on you", "sub": ["no harm from me"]},
+      {"box": "idea", "title": "I will ask forgiveness", "sub": ["for you"]}]},
+    "key": {"label": "How to answer harshness", "row": [
+      {"box": "trap", "title": "insult back", "sub": ["match his anger"], "strike": true},
+      {"box": "reward", "title": "peace", "sub": ["honor his fatherhood"]}]},
+    "then": "Ibrahim said peace be on you. Ibn Kathir explains: {reward}you will receive no insult or harm from me{/reward}, out of respect for fatherhood. It matches how the believers answer the foolish with peace. He said his Lord had always been {idea}kind to him{/idea}.",
+    "now": "Your father says something deeply hurtful at the dinner table. Every part of you wants to fire back. {reward}Ibrahim's reply was: peace on you, I will pray for you.{/reward}",
+    "old": "If someone attacks me, I have the right to hit back just as hard.",
+    "new": "I can answer harshness with peace and a prayer, and keep my dignity.",
+    "try": "The next time someone is harsh with you today, reply with one calm, peaceful sentence.",
+    "related": ["25:63", "28:55", "14:41"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:48", "surah": 19, "ayah": 48, "place": "makkah",
+    "title": "I will leave you and call on my Lord alone.",
+    "subtitle": "Walking away without losing hope",
+    "picture": {"kind": "boxes", "label": "His decision", "row": [
+      {"box": "people", "title": "leave them", "sub": ["and their idols"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "call my Lord", "sub": ["Him alone"]},
+      {"box": "reward", "title": "not unblessed", "sub": ["sure of an answer"]}]},
+    "key": {"label": "What walking away means", "row": [
+      {"box": "trap", "title": "giving up on hope", "sub": ["it is over"], "strike": true},
+      {"box": "idea", "title": "turning to Allah", "sub": ["hope intact"]}]},
+    "then": "Ibrahim said he would separate from them and worship his Lord alone. He hoped he would not be unblessed in calling on Him. Ibn Kathir says this hope means something {reward}certain to happen{/reward}, not a wish for the impossible.",
+    "now": "You have to leave a place that keeps pulling you away from Allah: a friendship circle, a workplace, a house. {idea}Leaving is not the end of your story.{/idea} Ibrahim walked out still talking to his Lord, sure of being heard.",
+    "old": "If I walk away from people, I am left with nothing.",
+    "new": "When I leave for Allah's sake, I am walking toward Him, not into emptiness.",
+    "try": "If something keeps pulling you from Allah, take one small step back from it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:49", "surah": 19, "ayah": 49, "place": "makkah",
+    "title": "He left them for Allah, and Allah gave him Ishaq and Ya'qub.",
+    "subtitle": "What he lost was replaced with something better",
+    "picture": {"kind": "boxes", "label": "The exchange", "row": [
+      {"box": "people", "title": "left behind", "sub": ["father, people, idols"]},
+      {"conn": "Allah gave"},
+      {"box": "reward", "title": "Ishaq", "sub": ["a son, a Prophet"]},
+      {"box": "reward", "title": "Ya'qub", "sub": ["a grandson, a Prophet"]}]},
+    "key": {"label": "What leaving for Allah costs", "row": [
+      {"box": "trap", "title": "pure loss", "sub": ["nothing comes back"], "strike": true},
+      {"box": "reward", "title": "better in return", "sub": ["family of Prophets"]}]},
+    "then": "Ibn Kathir says when Ibrahim withdrew from his father and people for Allah's sake, {reward}Allah gave him in exchange people better than them{/reward}: his son Ishaq and grandson Ya'qub, each a Prophet, to give him joy in his life.",
+    "now": "You stepped away from the old friends, the old crowd. The weekends are quieter and you wonder if you just lost everything. {reward}Allah does not leave a gap where someone left for Him.{/reward}",
+    "old": "What I give up for Allah is simply gone.",
+    "new": "Allah replaces what I leave for Him with something better.",
+    "try": "Thank Allah today for one good person who came into your life after a hard goodbye.",
+    "related": ["21:72", "11:71", "2:133"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:50", "surah": 19, "ayah": 50, "place": "makkah",
+    "title": "Mercy, and a name honored on every tongue.",
+    "subtitle": "A lasting good reputation as a gift",
+    "picture": {"kind": "boxes", "label": "What they were given", "row": [
+      {"box": "reward", "title": "Our mercy", "sub": ["from Allah"]},
+      {"box": "reward", "title": "high honor", "sub": ["good praise on tongues"]},
+      {"conn": "for"},
+      {"box": "people", "title": "Ibrahim's family", "sub": ["Ishaq, Ya'qub"]}]},
+    "key": {"label": "Where lasting honor came from", "row": [
+      {"box": "people", "title": "his own people", "sub": ["who drove him out"], "strike": true},
+      {"box": "reward", "title": "Allah", "sub": ["praised across faiths"]}]},
+    "then": "Ibn Abbas said this means {reward}good praise{/reward}. Ibn Jarir explained it is called lofty because all religions mention them with praise. The man his father drove away became honored by people for ages.",
+    "now": "You did the right thing at work and your name got dragged in the office for it. {reward}The reputation that lasts is the one Allah gives.{/reward} The office will forget; Allah does not.",
+    "old": "My reputation depends on what people around me say now.",
+    "new": "The honor that lasts is the one Allah puts on people's tongues.",
+    "try": "Do one good thing today that no one will credit you for.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:51", "surah": 19, "ayah": 51, "place": "makkah",
+    "title": "Musa: chosen, sincere, a Messenger and a Prophet.",
+    "subtitle": "Sincerity means not wanting people's praise",
+    "picture": {"kind": "boxes", "label": "Musa's qualities", "row": [
+      {"box": "idea", "title": "sincere", "sub": ["deeds for Allah alone"]},
+      {"box": "reward", "title": "chosen", "sub": ["selected above men"]},
+      {"box": "people", "title": "Messenger and Prophet", "sub": ["of strong will"]}]},
+    "key": {"label": "What sincerity looks like", "row": [
+      {"box": "trap", "title": "good, and seen", "sub": ["wants praise"], "strike": true},
+      {"box": "idea", "title": "good, for Allah", "sub": ["praise not wanted"]}]},
+    "then": "The disciples asked Isa who is sincere to Allah. He said: {idea}one who does a deed solely for Allah and does not like people to praise him{/idea}. Musa was one of the five Messengers of strong will: Nuh, Ibrahim, Musa, Isa and Muhammad ﷺ.",
+    "now": "You helped someone and then checked whether anyone noticed. You posted the charity receipt. {idea}Sincerity is doing the good thing and not needing the likes.{/idea}",
+    "old": "A good deed counts more if people see it.",
+    "new": "A deed is purest when I do it for Allah and do not want the praise.",
+    "try": "Do one good deed today and tell no one about it.",
+    "related": ["7:144"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:52", "surah": 19, "ayah": 52, "place": "makkah",
+    "title": "Called from the mountain and drawn near to talk.",
+    "subtitle": "Musa went looking for fire and found his Lord",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "people", "title": "Musa", "sub": ["looking for a firebrand"]},
+      {"conn": "walks to"},
+      {"box": "people", "title": "the glow", "sub": ["right side of Tur"]},
+      {"conn": "and is"},
+      {"box": "reward", "title": "called near", "sub": ["Allah speaks to him"]}]},
+    "key": {"label": "What he went for vs found", "row": [
+      {"box": "people", "title": "a burning stick", "sub": ["warmth for the family"]},
+      {"box": "reward", "title": "his Lord's call", "sub": ["the turning point of his life"]}]},
+    "then": "Musa saw a glow in the distance and went to get some burning wood. He found it on the right side of the mountain. {reward}There Allah called him, drew him near, and spoke with him.{/reward}",
+    "now": "You went to the mosque for the free dinner, or opened the app just to check a word. {reward}Ordinary errands can turn into the moment Allah calls you closer.{/reward}",
+    "old": "Only big spiritual journeys bring me close to Allah.",
+    "new": "Allah can call me near in the middle of an ordinary errand.",
+    "try": "Treat one ordinary trip today as a chance to remember Allah on the way.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:53", "surah": 19, "ayah": 53, "place": "makkah",
+    "title": "Out of mercy, Allah gave Musa his brother as a Prophet.",
+    "subtitle": "The answered plea for a brother",
+    "picture": {"kind": "boxes", "label": "Musa's request", "row": [
+      {"box": "people", "title": "Musa", "sub": ["afraid, needs help"]},
+      {"conn": "pleads for"},
+      {"box": "people", "title": "Harun", "sub": ["more eloquent"]},
+      {"conn": "granted"},
+      {"box": "reward", "title": "Harun a Prophet", "sub": ["out of mercy"]}]},
+    "key": {"label": "What Musa asked for", "row": [
+      {"box": "people", "title": "only for himself", "sub": ["my needs"], "strike": true},
+      {"box": "reward", "title": "for his brother", "sub": ["the greatest plea"]}]},
+    "then": "Allah answered Musa's plea for his brother and made Harun a Prophet. Musa had said Harun was more eloquent and could help confirm him. {reward}Some of the early scholars said no one ever pleaded for another more than Musa did for his brother.{/reward}",
+    "now": "Your sibling is struggling: a job, a marriage, faith. You usually pray for yourself first and fastest. {reward}Musa used one of his biggest requests for his brother.{/reward}",
+    "old": "My duas are mostly for my own needs.",
+    "new": "Asking Allah for good for my sibling is one of the best duas I can make.",
+    "try": "Make one sincere dua for a brother or sister by name today, and tell them you did.",
+    "related": ["28:34", "20:36"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:54", "surah": 19, "ayah": 54, "place": "makkah",
+    "title": "Isma'il kept his promises.",
+    "subtitle": "True to his word, a Messenger and a Prophet",
+    "picture": {"kind": "boxes", "label": "What made him stand out", "row": [
+      {"box": "people", "title": "Isma'il", "sub": ["son of Ibrahim"]},
+      {"box": "reward", "title": "true to his promise", "sub": ["to Allah and to people"]},
+      {"box": "idea", "title": "Messenger and Prophet", "sub": ["chosen"]}]},
+    "key": {"label": "What a promise means", "row": [
+      {"box": "trap", "title": "words, nothing more", "sub": ["a sign of hypocrisy"], "strike": true},
+      {"box": "reward", "title": "a duty fulfilled", "sub": ["a sign of faith"]}]},
+    "then": "Ibn Jurayj said Isma'il {reward}never made a promise to his Lord without fulfilling it{/reward}. Some link it to his words to his father: you will find me patient. The Prophet ﷺ said {trap}breaking a promise is a sign of the hypocrite{/trap}, and he himself kept every promise.",
+    "now": "I will call you back. I will pay you Friday. I will come to your event. {trap}Small promises slip easily.{/trap} {reward}Isma'il is praised by Allah for simply keeping his word.{/reward}",
+    "old": "Small promises do not really matter.",
+    "new": "Keeping my word, even in small things, is something Allah praises.",
+    "try": "Keep one small promise today that you have been putting off.",
+    "related": ["37:102", "61:2"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "19:55", "surah": 19, "ayah": 55, "place": "makkah",
+    "title": "He reminded his family to pray and give, and Allah was pleased.",
+    "subtitle": "Faith carried into the home",
+    "picture": {"kind": "boxes", "label": "His home", "row": [
+      {"box": "people", "title": "Isma'il", "sub": ["steady in obedience"]},
+      {"conn": "urges"},
+      {"box": "people", "title": "his family", "sub": ["prayer and zakah"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "his Lord pleased", "sub": ["with him"]}]},
+    "key": {"label": "Whose faith is my concern", "row": [
+      {"box": "people", "title": "only mine", "sub": ["they will figure it out"], "strike": true},
+      {"box": "idea", "title": "mine and my family's", "sub": ["gently, patiently"]}]},
+    "then": "Ibn Kathir calls this a beautiful praise: Isma'il {idea}persisted in obeying his Lord and urged his family to do the same{/idea}. The Prophet ﷺ prayed for mercy on a spouse who rises at night to pray and wakes the other. {reward}His Lord was pleased with him.{/reward}",
+    "now": "Fajr alarm. You get up, and the rest of the house sleeps on. {idea}A soft knock on a door, a glass of water, a gentle reminder.{/idea} Faith in a home grows when someone keeps inviting, patiently.",
+    "old": "Everyone in my family is responsible for their own prayers; it is not my business.",
+    "new": "Gently helping my family toward prayer is part of my own faith.",
+    "try": "Invite one family member to pray one prayer together today.",
+    "related": ["20:132", "66:6"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

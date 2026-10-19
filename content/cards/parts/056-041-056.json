@@ -1,0 +1,313 @@
+[
+  {
+    "id": "56:41", "surah": 56, "ayah": 41, "place": "makkah",
+    "title": "And the people of the left: how wretched they are!",
+    "subtitle": "The third group, described plainly",
+    "picture": {"kind": "boxes", "label": "Third group", "row": [
+      {"box": "people", "title": "the left"},
+      {"conn": "asked about"},
+      {"box": "trap", "title": "their condition", "sub": ["described next"]}]},
+    "key": {"label": "Why it is told", "row": [
+      {"box": "plain", "title": "only to scare", "sub": ["just a threat"], "strike": true},
+      {"box": "idea", "title": "to warn in time", "sub": ["while change is still possible"]}]},
+    "then": "After the right, the surah turns to {trap}those on the left{/trap}, with the same form of question. Ibn Kathir says it means: what is their condition? The answer follows over the next verses.",
+    "now": "A doctor shows you a scan and says: this is where your habits lead if nothing changes. It is hard to hear. {idea}The warning comes before, not after.{/idea}",
+    "old": "Hearing about the left side just makes me anxious.",
+    "new": "The warning is a mercy that comes while I can still turn.",
+    "try": "Say astaghfirullah ten times today, slowly, thinking of one thing you know you need to change.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:42", "surah": 56, "ayah": 42, "place": "makkah",
+    "title": "A scorching wind and boiling water.",
+    "subtitle": "The reverse of shade and flowing water",
+    "picture": {"kind": "boxes", "label": "Mirror image", "row": [
+      {"box": "reward", "title": "the right", "sub": ["shade, flowing water"]},
+      {"conn": "versus"},
+      {"box": "trap", "title": "the left", "sub": ["hot wind, boiling water"]}]},
+    "key": {"label": "Same things, reversed", "row": [
+      {"box": "reward", "title": "shade and water", "sub": ["comfort"]},
+      {"box": "trap", "title": "Samum and Hamim", "sub": ["torment"]}]},
+    "then": "Ibn Kathir explains Samum as {trap}a fierce hot wind{/trap} and Hamim as boiling water. Those on the right were given extended shade and flowing water. The left is given the reverse of both.",
+    "now": "On a summer day you know the difference between a cool breeze and the blast from a car exhaust. {idea}The verse uses what you already feel{/idea} to make the warning real, so you choose the shade.",
+    "old": "Comfort and discomfort just happen to me.",
+    "new": "The ease I hope for on that Day is built from choices I make here.",
+    "try": "When you feel the heat today, ask Allah to protect you from the heat of the Fire.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:43", "surah": 56, "ayah": 43, "place": "makkah",
+    "title": "Their only shade is black smoke.",
+    "subtitle": "Shade that gives no relief",
+    "picture": {"kind": "boxes", "label": "Their shade", "row": [
+      {"box": "trap", "title": "a shadow"},
+      {"conn": "made of"},
+      {"box": "trap", "title": "black smoke"}]},
+    "key": {"label": "Shade", "row": [
+      {"box": "reward", "title": "real shade", "sub": ["cools and protects"]},
+      {"box": "trap", "title": "smoke shade", "sub": ["looks like shade, isn't"]}]},
+    "then": "Ibn Abbas and others said Yahmum is {trap}the shadow of black smoke{/trap}. Ibn Kathir links it to another verse about a shadow in three columns that gives no shade and is of no use against the flame.",
+    "now": "Some things look like relief: the scroll at 1 a.m., the drink to forget, the revenge text. {trap}Shade made of smoke.{/trap} It looks like rest and leaves you worse.",
+    "old": "Anything that takes my mind off things is relief.",
+    "new": "Some relief is smoke: it looks like shade and gives none.",
+    "try": "Name one false comfort you reach for when stressed, and swap it once today for wudu, a walk, or a call.",
+    "related": ["77:29"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:44", "surah": 56, "ayah": 44, "place": "makkah",
+    "title": "Neither cool nor kind.",
+    "subtitle": "No breeze, no beauty, no benefit",
+    "picture": {"kind": "boxes", "label": "That shade", "row": [
+      {"box": "trap", "title": "not cool", "sub": ["no soft breeze"]},
+      {"box": "trap", "title": "not kind", "sub": ["unpleasant to see"]}]},
+    "key": {"label": "What it promised", "row": [
+      {"box": "plain", "title": "shade should cool", "sub": ["what anyone expects"]},
+      {"box": "trap", "title": "it does not", "sub": ["only the shape of shade"]}]},
+    "then": "The smoke shade is {trap}neither cool nor Karim{/trap}. Ibn Kathir says it brings no soft breeze, and Al-Hasan and Qatadah said its sight is not pleasant. It has the shape of shade with none of the gift.",
+    "now": "The job you took for the money that gives you nothing else. The friendship that only drains you. {idea}Something can have the shape of good and be empty inside.{/idea}",
+    "old": "If it looks like what I wanted, it must be good for me.",
+    "new": "I should test what I chase by whether it actually cools and benefits.",
+    "try": "Look at one thing you rely on and ask honestly: does this actually do me good?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:45", "surah": 56, "ayah": 45, "place": "makkah",
+    "title": "Before that, they were lost in luxury.",
+    "subtitle": "Comfort that made them deaf",
+    "picture": {"kind": "boxes", "label": "What came before", "row": [
+      {"box": "people", "title": "the left"},
+      {"conn": "lived in"},
+      {"box": "trap", "title": "luxury", "sub": ["pleasures, desires fed"]},
+      {"conn": "while"},
+      {"box": "trap", "title": "ignoring", "sub": ["what the Messengers brought"]}]},
+    "key": {"label": "The real problem", "row": [
+      {"box": "plain", "title": "comfort itself", "sub": ["having nice things"], "strike": true},
+      {"box": "trap", "title": "comfort that deafens", "sub": ["ignoring the message"]}]},
+    "then": "Allah gives the reason: {trap}before that, they indulged in luxury{/trap}. Ibn Kathir says they enjoyed life's pleasures and satisfied their desires, all while ignoring what the Messengers brought them.",
+    "now": "Payday, a new phone, a weekend away, another parcel at the door. Nothing wrong with any of it, until {trap}you are too busy enjoying to listen{/trap}. The danger is comfort that makes you deaf.",
+    "old": "As long as I'm enjoying life, I'm doing fine.",
+    "new": "Comfort is a test of whether I still listen to Allah.",
+    "try": "Before your next purchase or treat, say bismillah, and alhamdulillah after.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:46", "surah": 56, "ayah": 46, "place": "makkah",
+    "title": "They kept at the great sin and never turned back.",
+    "subtitle": "Persisting, not slipping, was the problem",
+    "picture": {"kind": "boxes", "label": "Their pattern", "row": [
+      {"box": "trap", "title": "the great sin", "sub": ["rivals set up with Allah"]},
+      {"conn": "plus"},
+      {"box": "trap", "title": "persisting", "sub": ["no intention to repent"]}]},
+    "key": {"label": "What made it fatal", "row": [
+      {"box": "plain", "title": "a slip", "sub": ["everyone falls"]},
+      {"conn": "versus"},
+      {"box": "trap", "title": "persisting", "sub": ["never meaning to turn back"]}]},
+    "then": "Ibn Kathir says they {trap}persisted and did not intend to repent{/trap}. Ibn Abbas and others said the great sin is idolatry, claiming rivals as gods besides Allah. The weight of the verse falls on persisting.",
+    "now": "You slip, you feel bad, you come back. That is human. {trap}The danger is deciding you won't even try anymore.{/trap} {idea}The door of turning back stays open while you breathe.{/idea}",
+    "old": "I've done this so many times; it's too late to stop.",
+    "new": "What ruins a person is refusing to turn back, not falling.",
+    "try": "Pick one sin you keep repeating. Today, sincerely intend to leave it and ask Allah for help.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:47", "surah": 56, "ayah": 47, "place": "makkah",
+    "title": "They mocked: once we are dust and bones, back again?",
+    "subtitle": "Their denial, in their own words",
+    "picture": {"kind": "boxes", "label": "Their words", "row": [
+      {"box": "people", "title": "the deniers"},
+      {"conn": "said"},
+      {"box": "trap", "title": "dust and bones", "sub": ["raised again? impossible"]}]},
+    "key": {"label": "The doubt", "row": [
+      {"box": "trap", "title": "too far gone", "sub": ["dust can't come back"], "strike": true},
+      {"box": "idea", "title": "He made you first", "sub": ["the surah answers soon"]}]},
+    "then": "Those on the left {trap}used to say: when we die and become dust and bones, shall we be raised?{/trap} Ibn Kathir says they said it denying and rejecting the resurrection. The surah introduction names this as the core doubt in Makkah.",
+    "now": "You stand at a graveside and a thought creeps in: this is it, then nothing. {trap}It sounds like realism.{/trap} {idea}The surah answers with how you were made the first time.{/idea}",
+    "old": "Once someone is buried and gone, it really is over.",
+    "new": "The One who made me from nothing can make me again.",
+    "try": "Visit or remember a grave today and say: to Allah we belong and to Him we return.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:48", "surah": 56, "ayah": 48, "place": "makkah",
+    "title": "Even our forefathers, long gone?",
+    "subtitle": "Mocking the return of old generations",
+    "picture": {"kind": "boxes", "label": "Their follow-up", "row": [
+      {"box": "people", "title": "forefathers"},
+      {"conn": "dead for"},
+      {"box": "plain", "title": "generations", "sub": ["no trace left"]},
+      {"conn": "so"},
+      {"box": "trap", "title": "impossible", "sub": ["their verdict"]}]},
+    "key": {"label": "Time", "row": [
+      {"box": "trap", "title": "too long ago", "sub": ["time makes it impossible"], "strike": true},
+      {"box": "idea", "title": "time is nothing to Allah", "sub": ["first and last gathered"]}]},
+    "then": "They added: {trap}and our forefathers too?{/trap} Ancestors dead for generations seemed even further from coming back. Ibn Kathir says they said it in denial and rejection.",
+    "now": "You look at a faded photo of your great-grandparents, names half-forgotten. It is hard to picture them standing again. {idea}For Allah, the time in between is nothing.{/idea}",
+    "old": "People gone that long are just history.",
+    "new": "Every generation, mine and theirs, is waiting for the same Day.",
+    "try": "Make dua for your forefathers by name, as far back as you know them.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:49", "surah": 56, "ayah": 49, "place": "makkah",
+    "title": "Tell them: the first and the last, all of them.",
+    "subtitle": "The Prophet ﷺ is told how to answer",
+    "picture": {"kind": "boxes", "label": "The answer", "row": [
+      {"box": "people", "title": "first generations"},
+      {"conn": "and"},
+      {"box": "people", "title": "last generations"},
+      {"conn": "all"},
+      {"box": "idea", "title": "gathered", "sub": ["none left out"]}]},
+    "key": {"label": "Who is included", "row": [
+      {"box": "plain", "title": "some slip by", "sub": ["lost in time"], "strike": true},
+      {"box": "idea", "title": "every one", "sub": ["none left out"]}]},
+    "then": "Allah tells the Prophet ﷺ: {idea}say, the earlier and the later generations{/idea}. Ibn Kathir says all the Children of Adam will be gathered for the Day and none of them will be left out. The answer to and our forefathers? is yes, and you.",
+    "now": "In a crowd at the airport or a stadium, you feel invisible, one of thousands. {idea}On the Day, no one is lost in the crowd.{/idea} Each person is called.",
+    "old": "Among billions of people, my life is too small to matter.",
+    "new": "Not one person is skipped, so my life fully counts.",
+    "try": "Today, do one deed as if it will be shown to you personally, because it will.",
+    "related": ["11:103"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:50", "surah": 56, "ayah": 50, "place": "makkah",
+    "title": "Gathered for a Day already fixed.",
+    "subtitle": "Not early, not late, not a minute off",
+    "picture": {"kind": "boxes", "label": "The appointment", "row": [
+      {"box": "people", "title": "everyone"},
+      {"conn": "gathered to"},
+      {"box": "idea", "title": "a known Day", "sub": ["its time set by Allah"]}]},
+    "key": {"label": "The date", "row": [
+      {"box": "plain", "title": "might be canceled", "sub": ["maybe it won't come"], "strike": true},
+      {"box": "idea", "title": "known and fixed", "sub": ["never late, never early"]}]},
+    "then": "All will be gathered {idea}for the appointment of a known Day{/idea}. Ibn Kathir says that time is precisely set. It will not come late or early, nor increase or decrease.",
+    "now": "Your flight has a departure time printed on the ticket. You plan your whole day around it. {idea}This appointment is fixed too{/idea}, though you never see the ticket.",
+    "old": "Since I don't know the date, I don't need to plan for it.",
+    "new": "Not knowing the date is a reason to be ready every day.",
+    "try": "Settle one thing today you would want settled before that appointment: a debt, an apology.",
+    "related": ["11:103"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:51", "surah": 56, "ayah": 51, "place": "makkah",
+    "title": "Then you who strayed and denied...",
+    "subtitle": "The warning turns direct",
+    "picture": {"kind": "boxes", "label": "Addressed", "row": [
+      {"box": "trap", "title": "astray", "sub": ["lost the way"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "denying", "sub": ["rejected the truth"]}]},
+    "key": {"label": "Two steps", "row": [
+      {"box": "trap", "title": "straying", "sub": ["drifting off"]},
+      {"conn": "hardens into"},
+      {"box": "trap", "title": "denying", "sub": ["refusing to come back"]}]},
+    "then": "The verse now speaks to them directly: {trap}then indeed you, the erring ones, the deniers{/trap}. It names two qualities together. They strayed from the way, and they denied the truth when it came.",
+    "now": "Drifting starts small: one missed prayer, then a week of them. Then one day you hear a reminder and roll your eyes. {trap}Straying has turned into denying.{/trap} {idea}Catch the drift early.{/idea}",
+    "old": "Drifting a bit from faith is harmless; I'll come back.",
+    "new": "Straying left alone can harden into denial, so I return early.",
+    "try": "If you have drifted from one practice, do it once today, however small.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:52", "surah": 56, "ayah": 52, "place": "makkah",
+    "title": "Their food will be from the tree of Zaqqum.",
+    "subtitle": "A meal no one would choose",
+    "picture": {"kind": "boxes", "label": "Two tables", "row": [
+      {"box": "reward", "title": "the right", "sub": ["fruit they choose"]},
+      {"conn": "versus"},
+      {"box": "trap", "title": "the left", "sub": ["the tree of Zaqqum"]}]},
+    "key": {"label": "The meal", "row": [
+      {"box": "reward", "title": "chosen food", "sub": ["what one desires"]},
+      {"box": "trap", "title": "forced food", "sub": ["made to eat"]}]},
+    "then": "Ibn Kathir says they {trap}will be seized and made to eat from the Zaqqum tree{/trap}. The contrast with the right is sharp: there, fruit they choose and meat they desire. Here, food no one would pick.",
+    "now": "You eat what is in front of you without thinking about how you paid for it or whom you stepped over to get it. {idea}What you take in here is part of what you will answer for there.{/idea}",
+    "old": "What I consume is my private business.",
+    "new": "Everything I take in, I will one day account for.",
+    "try": "Before eating today, think for a moment about whether the way you earned it pleases Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:53", "surah": 56, "ayah": 53, "place": "makkah",
+    "title": "And they fill their bellies with it.",
+    "subtitle": "Full, and still no relief",
+    "picture": {"kind": "boxes", "label": "Their meal", "row": [
+      {"box": "trap", "title": "Zaqqum"},
+      {"conn": "fills"},
+      {"box": "trap", "title": "their bellies", "sub": ["full, yet no comfort"]}]},
+    "key": {"label": "Fullness", "row": [
+      {"box": "plain", "title": "full means satisfied", "sub": ["usually, here"], "strike": true},
+      {"box": "trap", "title": "full, not satisfied", "sub": ["filling without benefit"]}]},
+    "then": "They will eat {trap}until their stomachs become full{/trap}, Ibn Kathir says. Being full is usually a comfort. Here it is only more of what harms.",
+    "now": "You eat until you are stuffed and still feel empty. You buy more and still want. {trap}Full is not the same as satisfied.{/trap} {idea}Only what Allah gives truly satisfies.{/idea}",
+    "old": "If I get enough, I'll finally feel satisfied.",
+    "new": "More of the wrong thing never satisfies.",
+    "try": "Stop eating one meal today a little before you are full, and say alhamdulillah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:54", "surah": 56, "ayah": 54, "place": "makkah",
+    "title": "Then boiling water on top of it.",
+    "subtitle": "No drink to bring relief",
+    "picture": {"kind": "boxes", "label": "After eating", "row": [
+      {"box": "trap", "title": "Zaqqum"},
+      {"conn": "then"},
+      {"box": "trap", "title": "boiling water", "sub": ["Hamim"]}]},
+    "key": {"label": "Relief", "row": [
+      {"box": "plain", "title": "a drink to help", "sub": ["what anyone hopes for"], "strike": true},
+      {"box": "trap", "title": "more harm", "sub": ["no relief in it"]}]},
+    "then": "After the Zaqqum comes {trap}Hamim, boiling water{/trap}. Where a person expects a drink to bring relief, there is none. The people of the right drank from a flowing spring.",
+    "now": "You grab an energy drink to fix the tiredness from a late night, and the late night repeats. {trap}The fix becomes part of the problem.{/trap} {idea}Break the loop while you can.{/idea}",
+    "old": "I can fix one harm by adding another.",
+    "new": "Relief from the wrong source only adds harm.",
+    "try": "Notice one fix you use that feeds the problem. Swap it once today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:55", "surah": 56, "ayah": 55, "place": "makkah",
+    "title": "Drinking like camels with a thirst that never ends.",
+    "subtitle": "Thirst that is never quenched",
+    "picture": {"kind": "boxes", "label": "Their thirst", "row": [
+      {"box": "trap", "title": "drinking"},
+      {"conn": "like"},
+      {"box": "trap", "title": "thirsty camels", "sub": ["a thirst that never ends"]}]},
+    "key": {"label": "Thirst", "row": [
+      {"box": "plain", "title": "drink, then quenched", "sub": ["the normal way"]},
+      {"box": "trap", "title": "drink, never quenched", "sub": ["never satisfied"]}]},
+    "then": "Ibn Abbas and others said Al-Him are thirsty camels. As-Suddi said it is {trap}a disease that makes camels drink and never be satisfied{/trap}. The people of Hell will never quench their thirst.",
+    "now": "Some cravings work like that: the more likes, the more you need; the more you buy, the more you want. {trap}A thirst that drinking only deepens.{/trap} {idea}Ask Allah for a content heart.{/idea}",
+    "old": "If I just get more, the craving will stop.",
+    "new": "Some thirsts grow by being fed, so I should stop feeding them.",
+    "try": "Say this dua today: O Allah, make me content with what You have given me.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:56", "surah": 56, "ayah": 56, "place": "makkah",
+    "title": "That is the welcome they get on the Day of Recompense.",
+    "subtitle": "A guest's welcome, reversed",
+    "picture": {"kind": "boxes", "label": "The welcome", "row": [
+      {"box": "reward", "title": "believers", "sub": ["Gardens of Firdaws"]},
+      {"conn": "versus"},
+      {"box": "trap", "title": "deniers", "sub": ["what was just described"]}]},
+    "key": {"label": "Nuzul, a guest's welcome", "row": [
+      {"box": "reward", "title": "honor and hospitality", "sub": ["for those who believed"]},
+      {"box": "trap", "title": "this", "sub": ["for those who denied"]}]},
+    "then": "The word is nuzul, the hospitality offered to a guest. Ibn Kathir says {trap}this is their entertainment with their Lord on the Day of Reckoning{/trap}, and contrasts it with the believers, for whom the Gardens of Firdaws are a welcome of honor.",
+    "now": "You arrive at a relative's house after a long trip. The way they receive you says what they think of you. {idea}Everyone arrives as a guest that Day.{/idea} What welcome are you preparing for?",
+    "old": "I'll worry about how I'm received when I get there.",
+    "new": "The welcome I get then is what I prepare now.",
+    "try": "Host someone kindly today, even with just tea, and ask Allah for the welcome of the believers.",
+    "related": ["18:107"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

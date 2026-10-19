@@ -1,0 +1,287 @@
+[
+  {
+    "id": "10:15", "surah": 10, "ayah": 15, "place": "makkah",
+    "title": "Bring us a different Quran, or change this one.",
+    "subtitle": "Asking the message to fit our taste",
+    "picture": {"kind": "boxes", "label": "The request", "row": [
+      {"box": "idea", "title": "clear verses recited", "sub": ["the message as it is"]},
+      {"conn": "they reply"},
+      {"box": "trap", "title": "change it", "sub": ["a different style", "a different book"]}]},
+    "key": {"label": "Who owns the message", "row": [
+      {"box": "trap", "title": "the messenger edits", "sub": ["make it easier for us"], "strike": true},
+      {"box": "idea", "title": "he only follows", "sub": ["a servant who conveys"]}]},
+    "then": "Ibn Kathir describes the chiefs of Quraysh asking the Prophet ﷺ to {trap}take back this Book and bring another, or change it to a different form.{/trap} He was told to answer: {idea}I am a servant who receives commands. I only follow what is revealed to me.{/idea}",
+    "now": "You love most of Islam, but one verse is inconvenient. You scroll until you find an opinion that softens it. {trap}Bring me a version that fits.{/trap} The verse asks you to adjust yourself instead of the message.",
+    "old": "I will take the parts that suit me and wait for the rest to change.",
+    "new": "The message is not mine to edit. I am the one who should move.",
+    "try": "Find one teaching you quietly resist. Read about it today with an open heart, not to argue.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:16", "surah": 10, "ayah": 16, "place": "makkah",
+    "title": "You knew me for a lifetime. Did I ever lie?",
+    "subtitle": "His forty honest years as evidence",
+    "picture": {"kind": "boxes", "label": "The evidence", "row": [
+      {"box": "people", "title": "a lifetime among them", "sub": ["forty years"]},
+      {"box": "reward", "title": "never caught lying", "sub": ["even enemies admitted it"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "this is from Allah", "sub": ["not his invention"]}]},
+    "key": {"label": "The reasoning", "row": [
+      {"box": "trap", "title": "he made it up", "sub": ["a sudden fabrication"], "strike": true},
+      {"box": "idea", "title": "honest for decades", "sub": ["will you not reason?"]}]},
+    "then": "Ibn Kathir notes the Prophet ﷺ grew up among them and was never accused of lying. Asked by Heraclius, Abu Sufyan, then his enemy, {reward}admitted he had never lied.{/reward} Heraclius said: {idea}how could a man who does not lie about people lie about Allah?{/idea}",
+    "now": "Your reputation at work, in the family chat, with your neighbours is being built right now. {reward}Years of small honesty{/reward} become the reason people believe you when it matters most.",
+    "old": "A small white lie here and there does not affect anything.",
+    "new": "A lifetime of honesty is itself a kind of proof.",
+    "try": "Catch one small exaggeration you would normally say today, and say the plain truth instead.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:17", "surah": 10, "ayah": 17, "place": "makkah",
+    "title": "Nothing is worse than lying in Allah's name.",
+    "subtitle": "Inventing lies about Allah, or denying His signs",
+    "picture": {"kind": "boxes", "label": "The worst wrongs", "row": [
+      {"box": "trap", "title": "lying about Allah", "sub": ["claiming false revelation"]},
+      {"box": "trap", "title": "denying His signs", "sub": ["rejecting clear proof"]},
+      {"conn": "end in"},
+      {"box": "trap", "title": "no success", "sub": ["for the criminals"]}]},
+    "key": {"label": "How truth shows", "row": [
+      {"box": "people", "title": "hard to tell apart", "sub": ["liars look like prophets"], "strike": true},
+      {"box": "idea", "title": "clear as day and night", "sub": ["signs expose each one"]}]},
+    "then": "Ibn Kathir says the difference between the Prophet ﷺ and Musaylamah the liar was {idea}clearer than forenoon and midnight.{/idea} When Musaylamah recited his imitation, Amr bin Al-As, not yet Muslim, told him: {trap}you know that I know you are a liar.{/trap}",
+    "now": "A post goes viral: a quote attributed to the Prophet ﷺ, no source, perfect for your argument. {trap}Sharing it is easy.{/trap} Putting words in Allah's mouth, or His Messenger's, is the heaviest kind of lie.",
+    "old": "If a religious quote sounds good, it is fine to share it.",
+    "new": "Speaking for Allah without knowledge is the gravest lie, so I check before I share.",
+    "try": "Before forwarding any religious quote today, find its source. If you cannot, do not send it.",
+    "related": ["103:1", "6:93"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:18", "surah": 10, "ayah": 18, "place": "makkah",
+    "title": "They worship what can neither help nor harm them.",
+    "subtitle": "Trusting intercessors that have no power",
+    "picture": {"kind": "boxes", "label": "What they relied on", "row": [
+      {"box": "trap", "title": "other gods", "sub": ["no harm, no benefit"]},
+      {"conn": "called"},
+      {"box": "trap", "title": "our intercessors", "sub": ["with Allah"]},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah knows all", "sub": ["no hidden helper exists"]}]},
+    "key": {"label": "The real question", "row": [
+      {"box": "trap", "title": "they will speak for me", "sub": ["a backstage pass"], "strike": true},
+      {"box": "idea", "title": "do you tell Allah news?", "sub": ["He knows what exists"]}]},
+    "then": "The idolators of Makkah worshipped idols, hoping those gods would plead for them before Allah. Ibn Kathir says {trap}these gods own nothing and have no authority over anything.{/trap} The verse asks: {idea}are you informing Allah of something in the heavens or earth He does not know?{/idea}",
+    "now": "The lucky bracelet before the exam. The ritual before the interview. The person you think knows the right people. {trap}Little helpers you count on more than Allah.{/trap} None of them can move anything without Him.",
+    "old": "I need something extra between me and Allah to get things done.",
+    "new": "Nothing I lean on besides Allah can help or harm me on its own.",
+    "try": "Notice one object or ritual you rely on for luck. Replace it with a short dua today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:19", "surah": 10, "ayah": 19, "place": "makkah",
+    "title": "Humanity started as one, then split apart.",
+    "subtitle": "Shirk came later, and judgment is delayed",
+    "picture": {"kind": "boxes", "label": "The history", "row": [
+      {"box": "reward", "title": "one community", "sub": ["all on Islam"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "they differed", "sub": ["idols and rivals"]},
+      {"conn": "yet"},
+      {"box": "idea", "title": "a prior Word", "sub": ["respite until a term"]}]},
+    "key": {"label": "Why no instant verdict", "row": [
+      {"box": "people", "title": "Allah does not judge", "sub": ["nothing happens"], "strike": true},
+      {"box": "idea", "title": "He set a time", "sub": ["proof first, then judgment"]}]},
+    "then": "Ibn Abbas said there were {reward}ten centuries between Adam and Nuh, all on Islam.{/reward} Then people differed and worshipped idols. Ibn Kathir explains the Word that preceded: {idea}Allah would not punish until proof was established, and gave a respite until a set term.{/idea}",
+    "now": "Your family once prayed together. Now the cousins barely speak and everyone has their own version. {idea}Division is not the original state.{/idea} The time before judgment is a chance to return, not a sign that nothing matters.",
+    "old": "If Allah does not settle a dispute now, maybe it does not matter.",
+    "new": "The delay is mercy and time to return, not indifference.",
+    "try": "Message one relative you have drifted from. Just a simple greeting.",
+    "related": ["8:42"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:20", "surah": 10, "ayah": 20, "place": "makkah",
+    "title": "Show us a miracle, they said. Wait, he answered.",
+    "subtitle": "Demanding signs when the heart is closed",
+    "picture": {"kind": "boxes", "label": "Their demand", "row": [
+      {"box": "trap", "title": "a sign on demand", "sub": ["Safa into gold", "gardens in Makkah"]},
+      {"conn": "answered with"},
+      {"box": "idea", "title": "the unseen is Allah's", "sub": ["so wait"]},
+      {"box": "people", "title": "I wait with you", "sub": ["the Prophet ﷺ"]}]},
+    "key": {"label": "What blocked them", "row": [
+      {"box": "people", "title": "not enough signs", "sub": ["one more and we believe"], "strike": true},
+      {"box": "trap", "title": "obstinacy", "sub": ["no sign would be enough"]}]},
+    "then": "Quraysh asked for Mount Safa to turn to gold, or for gardens and rivers in Makkah. Ibn Kathir says the Prophet ﷺ was given the choice and {reward}chose that their request not be answered{/reward}, since a refused miracle brings swift punishment. {trap}Their asking came from stubbornness, not search.{/trap}",
+    "now": "\"If Allah gets me this job, I will start praying.\" You set the test, you set the deadline. {trap}It sounds like seeking. Often it is bargaining.{/trap} The signs you already have are usually enough.",
+    "old": "I will commit once Allah shows me a clear sign.",
+    "new": "Demanding a sign on my terms can be a way to avoid the signs I already have.",
+    "try": "Write down three signs of Allah's care you have already seen this year.",
+    "related": ["25:10", "17:59", "6:111"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:21", "surah": 10, "ayah": 21, "place": "makkah",
+    "title": "Mercy arrives after hardship, and they start scheming.",
+    "subtitle": "How relief can turn into ingratitude",
+    "picture": {"kind": "boxes", "label": "The turn", "row": [
+      {"box": "trap", "title": "adversity", "sub": ["drought, distress"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "a taste of mercy", "sub": ["rain after drought"]},
+      {"conn": "met with"},
+      {"box": "trap", "title": "plotting", "sub": ["against His signs"]}]},
+    "key": {"label": "Who gets the credit", "row": [
+      {"box": "trap", "title": "the stars did it", "sub": ["luck, timing, me"], "strike": true},
+      {"box": "reward", "title": "Allah's mercy", "sub": ["the rain was His grace"]}]},
+    "then": "After a night of rain, the Prophet ﷺ told his companions that Allah said: {reward}whoever says we had rain by Allah's grace believes in Me{/reward}, and {trap}whoever credits a star believes in the star.{/trap} The verse adds that the angels record every scheme.",
+    "now": "The bonus came through. The test result was fine. Within an hour you are telling everyone how well you negotiated, how lucky the timing was. {trap}Allah slips out of the story.{/trap}",
+    "old": "Good things come from my effort and good timing.",
+    "new": "When relief comes, the first credit belongs to Allah's mercy.",
+    "try": "The next good news you share today, start with alhamdulillah before any detail.",
+    "related": ["10:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:22", "surah": 10, "ayah": 22, "place": "makkah",
+    "title": "In the storm, every other god disappears.",
+    "subtitle": "Sincere prayer when the waves close in",
+    "picture": {"kind": "boxes", "label": "At sea", "row": [
+      {"box": "reward", "title": "a good wind", "sub": ["smooth, happy sailing"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "a storm", "sub": ["waves from every side"]},
+      {"conn": "they call"},
+      {"box": "idea", "title": "Allah alone", "sub": ["save us, we will be grateful"]}]},
+    "key": {"label": "Who you call in danger", "row": [
+      {"box": "trap", "title": "my backups", "sub": ["idols, luck, people"], "strike": true},
+      {"box": "idea", "title": "only Him", "sub": ["faith made pure"]}]},
+    "then": "Ibn Kathir says when sailors felt surrounded and about to drown, {idea}they would not call an idol or statue, only Allah.{/idea} They promised: if You save us, we will worship You alone. {trap}The storm stripped away every false hope.{/trap}",
+    "now": "Turbulence. The seatbelt sign. The plane drops and the cabin goes quiet. In that moment you are not thinking about your stocks or your followers. {idea}You are talking to Allah, and you mean it.{/idea}",
+    "old": "I rely on many things, and Allah is one of them.",
+    "new": "When everything else fails, I find out it was only ever Him.",
+    "try": "Make one dua today with the same sincerity you would have in a storm.",
+    "related": ["17:67"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:23", "surah": 10, "ayah": 23, "place": "makkah",
+    "title": "Safe on land, they break the promise they made.",
+    "subtitle": "Your wrongdoing only falls back on you",
+    "picture": {"kind": "boxes", "label": "After the rescue", "row": [
+      {"box": "reward", "title": "saved", "sub": ["back on land"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "injustice", "sub": ["as if nothing happened"]},
+      {"conn": "lands on"},
+      {"box": "people", "title": "themselves", "sub": ["brief enjoyment, then return"]}]},
+    "key": {"label": "Who pays", "row": [
+      {"box": "people", "title": "the people I wrong", "sub": ["they get hurt"], "strike": true},
+      {"box": "trap", "title": "I do", "sub": ["it returns to me"]}]},
+    "then": "Ibn Kathir says once rescued, they {trap}returned as if they had never faced danger or promised anything.{/trap} The verse warns: your injustice is only against yourselves. He cites the hadith that {trap}oppression and cutting family ties{/trap} are among the sins most likely punished in this world too.",
+    "now": "You swore in the hospital waiting room you would call your mother every week. She recovered. It has been two months. {idea}The promise did not expire.{/idea} And neglect hurts you most of all.",
+    "old": "Once the danger passed, the promise was no longer urgent.",
+    "new": "The promise I made in fear is still owed in safety, and breaking it harms me first.",
+    "try": "Remember one promise you made to Allah in a hard moment. Keep one part of it today.",
+    "related": ["10:12"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:24", "surah": 10, "ayah": 24, "place": "makkah",
+    "title": "This life blooms like a field, then is gone overnight.",
+    "subtitle": "The parable of the green field",
+    "picture": {"kind": "boxes", "label": "The field", "row": [
+      {"box": "idea", "title": "rain", "sub": ["from the sky"]},
+      {"conn": "grows"},
+      {"box": "reward", "title": "full bloom", "sub": ["owners feel in control"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "mown flat", "sub": ["as if never there"]}]},
+    "key": {"label": "Who is in control", "row": [
+      {"box": "people", "title": "I have it handled", "sub": ["my plans, my harvest"], "strike": true},
+      {"box": "idea", "title": "His command decides", "sub": ["by night or by day"]}]},
+    "then": "Ibn Kathir describes farmers looking at their blooming hills, {trap}sure they had full power over the harvest.{/trap} Then a frost or storm dried every leaf. Qatadah said: {idea}as if it had never flourished.{/idea} This world runs from those who chase it.",
+    "now": "The business finally takes off. The portfolio is up. The house is just how you wanted it. One phone call can flatten it overnight. {idea}Enjoy the field, but do not think you own the weather.{/idea}",
+    "old": "Once I build it well enough, it is secure.",
+    "new": "Everything in this life can be gone overnight, so I hold it lightly.",
+    "try": "Look at the thing you are proudest of building. Say: this is from Allah, and it is His to take.",
+    "related": ["18:45", "39:21", "57:20"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:25", "surah": 10, "ayah": 25, "place": "makkah",
+    "title": "Allah is inviting you to the Home of Peace.",
+    "subtitle": "The invitation after the fading field",
+    "picture": {"kind": "boxes", "label": "The invitation", "row": [
+      {"box": "idea", "title": "Allah calls", "sub": ["to everyone"]},
+      {"conn": "to"},
+      {"box": "reward", "title": "Home of Peace", "sub": ["free of defects and misery"]},
+      {"box": "idea", "title": "a straight path", "sub": ["for whom He wills"]}]},
+    "key": {"label": "The better offer", "row": [
+      {"box": "trap", "title": "the fading field", "sub": ["gone by morning"], "strike": true},
+      {"box": "reward", "title": "a home that stays", "sub": ["peace without end"]}]},
+    "then": "Right after the field that vanishes, Allah {reward}invites people to Paradise, the Abode of Peace{/reward}. The Prophet ﷺ described a dream: a king builds a house, lays a feast, and sends a messenger to invite people. {idea}Some accepted, some did not.{/idea}",
+    "now": "Your inbox is full of invitations: sales, events, offers ending tonight. Most vanish by next week. {reward}One invitation has been open your whole life{/reward}, to a home that does not fade.",
+    "old": "Paradise feels far away and abstract.",
+    "new": "It is a personal invitation, already sent, waiting for my reply.",
+    "try": "Make one choice today that you would count as saying yes to that invitation.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:26", "surah": 10, "ayah": 26, "place": "makkah",
+    "title": "For those who do good, the best and even more.",
+    "subtitle": "The reward beyond reward",
+    "picture": {"kind": "boxes", "label": "What they receive", "row": [
+      {"box": "reward", "title": "the best", "sub": ["good for good"]},
+      {"box": "reward", "title": "and more", "sub": ["seeing His Face"]},
+      {"box": "idea", "title": "bright faces", "sub": ["no darkness, no shame"]}]},
+    "key": {"label": "Why it is given", "row": [
+      {"box": "people", "title": "I earned it", "sub": ["deeds pay exactly"], "strike": true},
+      {"box": "reward", "title": "by His grace", "sub": ["more than deserved"]}]},
+    "then": "Many early scholars explained the extra as {reward}looking at Allah's Noble Face.{/reward} The Prophet ﷺ said that when the people of Paradise enter, the veil will be lifted, and {reward}nothing will be dearer to them than looking at Him.{/reward} Ibn Kathir notes this comes by grace, not by deeds alone.",
+    "now": "You help a colleague and expect a thank you at most. You care for an ageing parent and nobody claps. {reward}Allah's answer to good is not just equal. It is more.{/reward}",
+    "old": "Good deeds are a fair trade, one for one.",
+    "new": "Allah repays good with the best, and then gives more than I could ask.",
+    "try": "Do one good deed today hoping only for the extra that Allah adds.",
+    "related": ["55:60", "76:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:27", "surah": 10, "ayah": 27, "place": "makkah",
+    "title": "Evil is repaid only with its like, never more.",
+    "subtitle": "Justice for those who earned bad deeds",
+    "picture": {"kind": "boxes", "label": "The two scales", "row": [
+      {"box": "reward", "title": "good", "sub": ["the best and more"]},
+      {"box": "trap", "title": "evil", "sub": ["only its equal"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "no defender", "sub": ["no one to shield them"]}]},
+    "key": {"label": "How Allah weighs", "row": [
+      {"box": "people", "title": "harsh and unfair", "sub": ["punishment piles up"], "strike": true},
+      {"box": "idea", "title": "exact justice", "sub": ["no increase on evil"]}]},
+    "then": "After the generous reward, Ibn Kathir notes {idea}Allah's justice with the wrongdoers: evil repaid with its like, without any increase.{/idea} Yet with no protector, {trap}their faces will be dark and covered with disgrace.{/trap}",
+    "now": "One harsh word in a meeting. You replay it for weeks and decide you are a terrible person. {idea}Allah weighs evil exactly, and good with extra.{/idea} The scale leans toward hope, if you keep adding good.",
+    "old": "My mistakes outweigh everything good I do.",
+    "new": "Evil counts as one, good counts as more, so I keep adding good.",
+    "try": "After your next mistake today, follow it straight away with one good deed.",
+    "related": ["42:45", "3:106", "80:38"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "10:28", "surah": 10, "ayah": 28, "place": "makkah",
+    "title": "On that Day, the idols will deny their worshippers.",
+    "subtitle": "When false partners walk away",
+    "picture": {"kind": "boxes", "label": "The gathering", "row": [
+      {"box": "people", "title": "all gathered", "sub": ["no one left behind"]},
+      {"conn": "told"},
+      {"box": "trap", "title": "stay in your place", "sub": ["you and your partners"]},
+      {"conn": "then"},
+      {"box": "trap", "title": "partners deny", "sub": ["you never worshipped us"]}]},
+    "key": {"label": "What you leaned on", "row": [
+      {"box": "people", "title": "they will stand by me", "sub": ["my supporters"], "strike": true},
+      {"box": "trap", "title": "they disown you", "sub": ["we knew nothing"]}]},
+    "then": "Ibn Kathir describes all creation gathered, then {trap}the idolators separated from the believers{/trap} and told to stay in place with what they worshipped. Those false partners {trap}deny any part in it{/trap}, as in other verses where the followed disown their followers.",
+    "now": "The boss you bent your values for. The crowd whose approval you chased. The brand you built your identity on. {trap}Ask them to stand with you on the Day.{/trap} Only what you did for Allah stays loyal.",
+    "old": "The people and things I please will have my back.",
+    "new": "Anything I put in Allah's place will walk away from me when I need it.",
+    "try": "Name one approval you chase more than Allah's. Do one thing today for His pleasure alone.",
+    "related": ["18:47", "19:82", "2:166"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

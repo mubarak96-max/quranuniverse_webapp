@@ -1,0 +1,210 @@
+[
+  {
+    "id": "24:11", "surah": 24, "ayah": 11, "place": "madinah",
+    "title": "The worst month of her life was written as good.",
+    "subtitle": "The slander against Aishah, and the hidden good in it",
+    "picture": {"kind": "boxes", "label": "How the lie spread", "row": [
+      {"box": "people", "title": "a lost necklace", "sub": ["Aishah left behind"]},
+      {"box": "people", "title": "Safwan", "sub": ["brings her back openly"]},
+      {"conn": "twisted by"},
+      {"box": "trap", "title": "Ibn Ubayy", "sub": ["greater share of the lie"]},
+      {"conn": "whispered"},
+      {"box": "trap", "title": "a group", "sub": ["almost a month of talk"]}]},
+    "key": {"label": "How to read the pain", "row": [
+      {"box": "trap", "title": "pure harm", "sub": ["nothing good can come"], "strike": true},
+      {"box": "reward", "title": "good for you", "sub": ["Allah declared her innocent"]}]},
+    "then": "Aishah went looking for a lost necklace and the army left without her. Safwan bin Al-Mu'attal found her and led his camel back to the army. {trap}Abdullah bin Ubayy, the leader of the hypocrites, made up a lie{/trap} and whispered it until others repeated it. For almost a month she wept, until Allah {reward}revealed her innocence.{/reward}",
+    "now": "Someone spread a story about you at work or in the family. You lie awake replaying it. People you trusted look at you differently. This verse speaks to that night: {reward}it is not only bad for you.{/reward} Allah sees it, and every person who spread it {trap}carries their own share.{/trap}",
+    "old": "Being lied about can only ruin me.",
+    "new": "Allah can turn even a lie told about me into good, and each liar carries their own load.",
+    "try": "If you are carrying a hurt from gossip about you, tell Allah plainly tonight and leave the accounting to Him.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:12", "surah": 24, "ayah": 12, "place": "madinah",
+    "title": "Why did you not think good of your own?",
+    "subtitle": "The first reaction a believer owes a rumor",
+    "picture": {"kind": "boxes", "label": "What Abu Ayyub did", "row": [
+      {"box": "people", "title": "Umm Ayyub", "sub": ["did you hear?"]},
+      {"box": "people", "title": "Abu Ayyub", "sub": ["it is all lies"]},
+      {"conn": "asks"},
+      {"box": "idea", "title": "would you do it?", "sub": ["no, by Allah"]},
+      {"box": "reward", "title": "then neither would she", "sub": ["she is better than you"]}]},
+    "key": {"label": "The first move", "row": [
+      {"box": "trap", "title": "maybe it is true", "sub": ["let us talk about it"], "strike": true},
+      {"box": "idea", "title": "think good, say it", "sub": ["this is an obvious lie"]}]},
+    "then": "Ibn Kathir reports that Umm Ayyub asked her husband about the talk. Abu Ayyub said it was lies, and asked if she would ever do such a thing. She said no. {idea}He said Aishah was better than her.{/idea} The verse also notes she arrived {reward}openly at midday with the whole army watching.{/reward}",
+    "now": "A message lands in the family group: \"Did you hear about her?\" Your thumb hovers. Before replying, do what Abu Ayyub did. {idea}Would I do that? Then why assume they did?{/idea} Thinking good happens in the heart. Saying \"this is a lie\" happens on your phone.",
+    "old": "I am not judging, I am just asking if it is true.",
+    "new": "A believer's first move is to think good of their own and say so.",
+    "try": "Next time you hear something bad about someone, say one good thing you know about them instead.",
+    "related": ["24:11"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:13", "surah": 24, "ayah": 13, "place": "madinah",
+    "title": "No proof means the liar is the one speaking.",
+    "subtitle": "How Allah names an unproven claim",
+    "picture": {"kind": "boxes", "label": "What the verse asks", "row": [
+      {"box": "trap", "title": "the slanderers", "sub": ["loud, confident"]},
+      {"conn": "asked for"},
+      {"box": "plain", "title": "4", "sub": ["witnesses"], "num": true},
+      {"conn": "brought"},
+      {"box": "plain", "title": "0", "sub": ["none"], "num": true}]},
+    "key": {"label": "What Allah calls them", "row": [
+      {"box": "people", "title": "concerned citizens", "sub": ["just raising questions"], "strike": true},
+      {"box": "trap", "title": "the liars", "sub": ["in the sight of Allah"]}]},
+    "then": "The people of the slander spoke with confidence, but brought no proof. Ibn Kathir explains that Allah asked why they did not bring witnesses to prove what they said, and since they did not, {trap}with Allah they are the liars.{/trap}",
+    "now": "Online, a post accuses someone. Thousands share it. No one checked. It feels true because so many people are saying it. This verse measures it a different way: {idea}no proof, no right to say it.{/idea} The crowd does not turn a rumor into a fact.",
+    "old": "If enough people are saying it, there must be something to it.",
+    "new": "Without proof, the claim condemns the one making it, not the one it is about.",
+    "try": "Before you share or forward a claim about anyone today, ask what proof you actually have.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:14", "surah": 24, "ayah": 14, "place": "madinah",
+    "title": "Mercy is the only reason they were not ruined.",
+    "subtitle": "Grace held back what their words had earned",
+    "picture": {"kind": "boxes", "label": "What stood between", "row": [
+      {"box": "people", "title": "those who talked", "sub": ["believers who joined in"]},
+      {"conn": "would have met"},
+      {"box": "trap", "title": "a great punishment", "sub": ["for what they spread"]},
+      {"conn": "but"},
+      {"box": "reward", "title": "grace and mercy", "sub": ["here and in the Hereafter"]}]},
+    "key": {"label": "Why they were spared", "row": [
+      {"box": "people", "title": "it was not that bad", "sub": ["just talk"], "strike": true},
+      {"box": "reward", "title": "Allah's grace", "sub": ["accepted their repentance"]}]},
+    "then": "Ibn Kathir explains this is addressed to believers who had joined the talk, like Mistah, Hassan and Hamnah bint Jahsh. Allah {reward}accepted their repentance{/reward} and forgave them because of their faith. He notes the hypocrites behind the lie are {trap}not the ones meant here.{/trap}",
+    "now": "You were part of a conversation once that tore someone down. You laughed, or added a line. Nothing happened to you. This verse says why: {reward}not because it was fine, but because Allah was merciful.{/reward} That mercy is an invitation to turn back, not a pass.",
+    "old": "Nothing bad came of it, so it must not have been that serious.",
+    "new": "If I was spared, it was Allah's mercy, and mercy calls me to repent.",
+    "try": "Think of one time you joined in mocking or gossip. Ask Allah's forgiveness for it by name.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:15", "surah": 24, "ayah": 15, "place": "madinah",
+    "title": "You thought it was small. With Allah it was huge.",
+    "subtitle": "How a rumor moves from tongue to tongue",
+    "picture": {"kind": "boxes", "label": "The path of a rumor", "row": [
+      {"box": "people", "title": "heard from so-and-so", "sub": ["received by the tongue"]},
+      {"conn": "passed on"},
+      {"box": "trap", "title": "said with mouths", "sub": ["no knowledge behind it"]},
+      {"conn": "felt like"},
+      {"box": "trap", "title": "a little thing", "sub": ["harmless chat"]}]},
+    "key": {"label": "Two scales", "row": [
+      {"box": "people", "title": "trivial", "sub": ["how it felt to them"], "strike": true},
+      {"box": "trap", "title": "tremendous", "sub": ["how Allah weighed it"]}]},
+    "then": "Mujahid and Sa'id bin Jubayr described it: {trap}I heard this from so-and-so, and so-and-so said such and such.{/trap} People passed it along without knowing anything. Ibn Kathir cites the hadith that a person may say a word that angers Allah {trap}without paying any attention to it.{/trap}",
+    "now": "Voice notes. Screenshots. \"Don't tell anyone, but...\" You pass it on in ten seconds while waiting for the kettle. It feels like nothing. This verse sets two scales side by side: {idea}what feels small on your tongue can be huge with Allah.{/idea}",
+    "old": "It was just a few words in passing.",
+    "new": "A few words about someone's honor can weigh more with Allah than I imagine.",
+    "try": "Today, notice the moment you are about to repeat something you heard. Pause and let it go.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:16", "surah": 24, "ayah": 16, "place": "madinah",
+    "title": "It is not for us to speak of this.",
+    "subtitle": "The sentence a believer keeps ready",
+    "picture": {"kind": "boxes", "label": "What they should have said", "row": [
+      {"box": "people", "title": "you hear it", "sub": ["the rumor arrives"]},
+      {"conn": "reply"},
+      {"box": "idea", "title": "not for us", "sub": ["to speak of this"]},
+      {"box": "idea", "title": "Subhanak", "sub": ["Glory be to You"]},
+      {"box": "trap", "title": "a great slander", "sub": ["name it plainly"]}]},
+    "key": {"label": "Thoughts versus words", "row": [
+      {"box": "people", "title": "a bad thought came", "sub": ["excused if not spoken"]},
+      {"box": "idea", "title": "keep it unspoken", "sub": ["do not let it out"]}]},
+    "then": "Ibn Kathir calls this a further lesson after thinking well of people. If a bad thought about good people is put into the mind by Shaytan, {idea}do not speak about it.{/idea} He cites the hadith that Allah excuses what crosses the mind {reward}as long as it is not spoken or acted on.{/reward}",
+    "now": "Your cousin starts: \"I'm not saying it's true, but...\" Everyone leans in. You do not need a speech. Just one line: {idea}\"This is not ours to talk about.\"{/idea} The thought that crossed your mind is not held against you. Saying it would be.",
+    "old": "If the thought came to me, I might as well say it.",
+    "new": "A passing thought is excused; letting it out is where I become responsible.",
+    "try": "Memorize one short line to stop gossip, like this is not ours to talk about, and use it once.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:17", "surah": 24, "ayah": 17, "place": "madinah",
+    "title": "Never again, if you truly believe.",
+    "subtitle": "A warning given like a parent's counsel",
+    "picture": {"kind": "boxes", "label": "What Allah does here", "row": [
+      {"box": "idea", "title": "warns", "sub": ["counsels you"]},
+      {"conn": "against"},
+      {"box": "trap", "title": "the like of it", "sub": ["any slander like this"]},
+      {"box": "idea", "title": "ever", "sub": ["for all time"]}]},
+    "key": {"label": "What is tied to it", "row": [
+      {"box": "people", "title": "a one-off lesson", "sub": ["for that day only"], "strike": true},
+      {"box": "idea", "title": "a mark of faith", "sub": ["if you are believers"]}]},
+    "then": "Ibn Kathir explains that Allah is {idea}forbidding and warning them against anything like this again{/idea} in the future. The words if you are believers tie it to faith in Allah, His laws, and {reward}respect for His Messenger ﷺ.{/reward}",
+    "now": "You promised yourself after the last family fight that you would never bring up her past again. Then the next argument comes, and it is right there. This verse is Allah saying: {idea}never again, ever.{/idea} Not as a threat. As a promise worth keeping because you believe.",
+    "old": "I slipped once; it will probably happen again.",
+    "new": "Allah warns me lovingly so I can make never again part of my faith.",
+    "try": "Pick one hurtful thing you tend to repeat about someone. Decide today you will not say it again.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:18", "surah": 24, "ayah": 18, "place": "madinah",
+    "title": "He spells it out because He knows us.",
+    "subtitle": "Clear verses from the Knowing, the Wise",
+    "picture": {"kind": "boxes", "label": "What Allah gives after the trial", "row": [
+      {"box": "idea", "title": "clear verses", "sub": ["rulings and decrees"]},
+      {"conn": "from"},
+      {"box": "reward", "title": "All-Knowing", "sub": ["what is right for us"]},
+      {"box": "reward", "title": "All-Wise", "sub": ["in what He sets"]}]},
+    "key": {"label": "Why the details", "row": [
+      {"box": "people", "title": "too many rules", "sub": ["just let us figure it out"], "strike": true},
+      {"box": "reward", "title": "clarity as care", "sub": ["He knows what helps us"]}]},
+    "then": "After a month of confusion and pain, Allah made matters plain. Ibn Kathir explains {idea}He makes clear His rulings and decrees,{/idea} and He knows {reward}what is right for His servants{/reward} and is Wise in what He lays down.",
+    "now": "When a family crisis hits, everyone has an opinion. Your aunt says one thing, a video says another, your own heart says a third. In the middle of that noise, {idea}clear guidance is a gift.{/idea} It comes from the One who actually knows you.",
+    "old": "Clear rules feel like they limit me.",
+    "new": "Clarity from the All-Knowing is care for me, not a cage.",
+    "try": "When you face a confusing choice this week, look for what Allah has made clear about it first.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:19", "surah": 24, "ayah": 19, "place": "madinah",
+    "title": "Even enjoying the spread of indecency is a sin.",
+    "subtitle": "The heart that likes to see others exposed",
+    "picture": {"kind": "boxes", "label": "What the verse looks inside for", "row": [
+      {"box": "trap", "title": "liking it", "sub": ["wanting the talk to spread"]},
+      {"conn": "among"},
+      {"box": "people", "title": "the believers", "sub": ["their names, their faults"]},
+      {"conn": "while"},
+      {"box": "idea", "title": "Allah knows", "sub": ["and you do not"]}]},
+    "key": {"label": "Where the sin starts", "row": [
+      {"box": "people", "title": "only if I say it", "sub": ["feelings do not count"], "strike": true},
+      {"box": "trap", "title": "even loving to hear it", "sub": ["the heart is part of it"]}]},
+    "then": "Ibn Kathir calls this a third lesson for those who hear evil talk, half believe it, and start to spread it. He cites the hadith: {trap}do not seek out people's hidden faults,{/trap} for whoever does so, {trap}Allah will expose his faults{/trap} even inside his own house.",
+    "now": "Someone you dislike gets caught in a scandal. You refresh the thread again and again. A small part of you is glad. This verse names that feeling. {idea}Allah knows what you do not,{/idea} including the full story you are enjoying half of.",
+    "old": "I am not spreading it, I am just following along.",
+    "new": "Even enjoying someone's exposure is something Allah sees and weighs.",
+    "try": "Close one thread, page or chat today that feeds you other people's scandals.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "24:20", "surah": 24, "ayah": 20, "place": "madinah",
+    "title": "Grace again, because Allah is Kind.",
+    "subtitle": "The third reminder of mercy in this story",
+    "picture": {"kind": "boxes", "label": "What held everything together", "row": [
+      {"box": "reward", "title": "grace", "sub": ["favor of Allah"]},
+      {"box": "reward", "title": "mercy", "sub": ["on you"]},
+      {"box": "reward", "title": "Kind", "sub": ["Ra'uf"]},
+      {"box": "reward", "title": "Merciful", "sub": ["Rahim"]}]},
+    "key": {"label": "What would have happened", "row": [
+      {"box": "trap", "title": "another matter entirely", "sub": ["without His mercy"]},
+      {"box": "reward", "title": "a door to repent", "sub": ["kept open"]}]},
+    "then": "Once again in this passage Allah says: had it not been for His grace and mercy. Ibn Kathir explains that otherwise {trap}it would have been another matter altogether.{/trap} But He is full of kindness and {reward}accepts the repentance of those who turn to Him.{/reward}",
+    "now": "You have read through the whole slander story and recognized yourself in parts of it. The forwarded message. The half-belief. The thrill of the gossip. This verse lands right there: {reward}Allah is Kind.{/reward} The point was never to crush you. It was to bring you back.",
+    "old": "After what I have said about people, I am past mercy.",
+    "new": "Allah keeps reminding me of His kindness so I will turn back, not give up.",
+    "try": "Say Ya Ra'uf, Ya Rahim three times today and ask for help with your tongue.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

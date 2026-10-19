@@ -1,0 +1,173 @@
+[
+  {
+    "id": "56:88", "surah": 56, "ayah": 88, "place": "makkah",
+    "title": "If the dying person was one of those brought near...",
+    "subtitle": "The three groups return, at the moment of death",
+    "picture": {"kind": "boxes", "label": "At death", "row": [
+      {"box": "reward", "title": "brought near"},
+      {"box": "people", "title": "the right"},
+      {"box": "trap", "title": "the deniers"}]},
+    "key": {"label": "When the sorting shows", "row": [
+      {"box": "plain", "title": "only on the Day", "sub": ["far away"], "strike": true},
+      {"box": "idea", "title": "at death too", "sub": ["the first sign of it"]}]},
+    "then": "Ibn Kathir says these are {idea}the three conditions people face upon their death{/idea}, the same three groups from the surah's opening. Those brought near fulfilled the obligations and the recommended acts, and avoided even some allowed things.",
+    "now": "The surah began with the end of the world. It ends with the end of one person: someone you know, maybe you. {idea}The same three groups, now in a single bedroom.{/idea}",
+    "old": "The Day is far away; death is just an ending.",
+    "new": "Death is the first moment I learn which group I'm in.",
+    "try": "Do one good act today that is not required: two extra rakat, a charity, a few minutes of dhikr.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:89", "surah": 56, "ayah": 89, "place": "makkah",
+    "title": "For them: rest, provision, and a Garden of Delight.",
+    "subtitle": "The good news given at death",
+    "picture": {"kind": "boxes", "label": "Their welcome", "row": [
+      {"box": "reward", "title": "Rawh", "sub": ["rest, mercy"]},
+      {"box": "reward", "title": "Rayhan", "sub": ["provision, delight"]},
+      {"box": "reward", "title": "a Garden of Delight"}]},
+    "key": {"label": "Death", "row": [
+      {"box": "trap", "title": "only something to fear", "sub": ["all of us hate death"], "strike": true},
+      {"box": "reward", "title": "glad tidings", "sub": ["for the near, a welcome"]}]},
+    "then": "Ibn Abbas said Rawh means rest and Rayhan a place of rest; others said mercy, joy and provision. The angels bring {reward}this good news at death{/reward}. The Prophet ﷺ said whoever loves to meet Allah, Allah loves to meet him, and explained that this news is what makes the believer love it.",
+    "now": "You tense up at funerals and steer away from the topic. {trap}Death feels like only loss.{/trap} {reward}For the believer, it opens with rest and a welcome.{/reward}",
+    "old": "Death is just loss and darkness.",
+    "new": "For those near to Allah, death opens with rest and good news.",
+    "try": "Ask Allah today: make the best of my days the day I meet You.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:90", "surah": 56, "ayah": 90, "place": "makkah",
+    "title": "And if the dying one was among the people of the right...",
+    "subtitle": "The ordinary believer's moment",
+    "picture": {"kind": "boxes", "label": "At death", "row": [
+      {"box": "people", "title": "the right"},
+      {"conn": "hear"},
+      {"box": "reward", "title": "good news", "sub": ["brought by the angels"]}]},
+    "key": {"label": "Who is welcomed", "row": [
+      {"box": "plain", "title": "only the nearest", "sub": ["saints only"], "strike": true},
+      {"box": "reward", "title": "the right too", "sub": ["their own greeting"]}]},
+    "then": "Ibn Kathir describes this as the dying person who is {reward}among those on the right{/reward}, the believers just below the nearest in rank. The surah gives them their own moment, separate from the foremost.",
+    "now": "You are probably not the most devoted person in your mosque. You try, you fall short, you come back. {reward}The verse sets a moment aside for people like you.{/reward}",
+    "old": "The beautiful deathbed scenes are for very pious people.",
+    "new": "Ordinary believers on the right have their own welcome.",
+    "try": "Keep up one small good habit today that you would love to die upon.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:91", "surah": 56, "ayah": 91, "place": "makkah",
+    "title": "Peace to you, you are of the people of the right.",
+    "subtitle": "The angels' greeting at the last moment",
+    "picture": {"kind": "boxes", "label": "The greeting", "row": [
+      {"box": "idea", "title": "the angels"},
+      {"conn": "say"},
+      {"box": "reward", "title": "Salam to you", "sub": ["be calm, you are safe"]}]},
+    "key": {"label": "The last fear", "row": [
+      {"box": "trap", "title": "where am I going?", "sub": ["the final worry"], "strike": true},
+      {"box": "reward", "title": "you are of the right", "sub": ["the answer given"]}]},
+    "then": "Ikrimah said {reward}the angels will greet him with salam{/reward} and tell him he is among those on the right. Ibn Kathir calls this a good explanation and links it to the verse where angels descend saying: fear not, and do not grieve.",
+    "now": "You wait outside an exam hall, nervous, and a friend comes out smiling: you passed. The relief is everything. {reward}This salam is that, at the end of a whole life.{/reward}",
+    "old": "My last moments will be full of fear.",
+    "new": "For the people of the right, the last words heard are peace.",
+    "try": "Give salam to three people today, fully and warmly.",
+    "related": ["41:30"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:92", "surah": 56, "ayah": 92, "place": "makkah",
+    "title": "But if he was among the deniers who went astray...",
+    "subtitle": "The third group, at death",
+    "picture": {"kind": "boxes", "label": "At death", "row": [
+      {"box": "trap", "title": "denied the truth"},
+      {"conn": "and"},
+      {"box": "trap", "title": "went astray", "sub": ["from guidance"]}]},
+    "key": {"label": "While alive", "row": [
+      {"box": "trap", "title": "it's too late", "sub": ["the trap of despair"], "strike": true},
+      {"box": "idea", "title": "it can be reversed", "sub": ["while the soul is in the body"]}]},
+    "then": "Ibn Kathir describes them as {trap}those who denied the truth, were led astray from guidance{/trap}, and did not know Allah. The same two words, deniers and astray, were used for the people of the left earlier in the surah.",
+    "now": "It begins with small choices: ignoring a reminder, mocking someone who prays, telling yourself it is all made up. {idea}While you are alive, every one of those can be reversed.{/idea}",
+    "old": "Denial is just a personal opinion with no consequences.",
+    "new": "Denial has an end point, and I can turn back before it.",
+    "try": "If you have mocked or brushed off faith recently, ask Allah's forgiveness for it today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:93", "surah": 56, "ayah": 93, "place": "makkah",
+    "title": "Their welcome is boiling water.",
+    "subtitle": "A guest's welcome, turned to punishment",
+    "picture": {"kind": "boxes", "label": "The welcome", "row": [
+      {"box": "trap", "title": "the denier"},
+      {"conn": "received with"},
+      {"box": "trap", "title": "boiling water"}]},
+    "key": {"label": "Two welcomes", "row": [
+      {"box": "reward", "title": "the near", "sub": ["rest and provision"]},
+      {"box": "trap", "title": "the deniers", "sub": ["boiling water"]}]},
+    "then": "The word nuzul, a guest's welcome, appears again. Ibn Kathir says he is received {trap}as a guest, with Hamim{/trap}, boiling water. The near are welcomed with rest. The deniers' welcome is the reverse.",
+    "now": "You know how it feels to arrive somewhere you are not wanted. {idea}The verse is a warning to make sure you arrive as a welcome guest{/idea}, and there is still time to prepare.",
+    "old": "I'll worry about the next life later.",
+    "new": "My welcome there depends on how I live here.",
+    "try": "Make one sincere tawbah today for something specific.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:94", "surah": 56, "ayah": 94, "place": "makkah",
+    "title": "And entry into the blazing Fire.",
+    "subtitle": "The final end of denial",
+    "picture": {"kind": "boxes", "label": "Destination", "row": [
+      {"box": "trap", "title": "denial"},
+      {"conn": "leads to"},
+      {"box": "trap", "title": "the Fire"}]},
+    "key": {"label": "The door", "row": [
+      {"box": "trap", "title": "it's sealed", "sub": ["too late for me"], "strike": true},
+      {"box": "idea", "title": "repentance is open", "sub": ["while I still breathe"]}]},
+    "then": "Ibn Kathir says {trap}he will reside in Hellfire{/trap}. The verse is short and sober. It completes the three endings: rest for the near, peace for the right, and this for those who denied.",
+    "now": "You might feel this verse land on you as you think of things you have done. {idea}That feeling is a mercy, not a sentence.{/idea} {reward}While you breathe, the door of repentance is open.{/reward}",
+    "old": "I've done too much wrong; this verse is about me.",
+    "new": "This verse warns me while I can still turn, and that is mercy.",
+    "try": "Say astaghfirullah wa atubu ilayh sincerely three times today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:95", "surah": 56, "ayah": 95, "place": "makkah",
+    "title": "This is the certain truth.",
+    "subtitle": "No doubt, no escape, no exception",
+    "picture": {"kind": "boxes", "label": "All of this", "row": [
+      {"box": "idea", "title": "three groups, three endings"},
+      {"conn": "is"},
+      {"box": "idea", "title": "certain truth", "sub": ["no doubt in it"]}]},
+    "key": {"label": "How sure", "row": [
+      {"box": "trap", "title": "maybe", "sub": ["a theory"], "strike": true},
+      {"box": "idea", "title": "certain", "sub": ["no escape for anyone"]}]},
+    "then": "Ibn Kathir says {idea}this news is the truth; there is no doubt about it, nor escape from it for anyone{/idea}. The surah opened by saying no one would deny the Event when it comes. It closes by calling all of it certain.",
+    "now": "You hold many things as certain: the sunrise, the date your rent is due, that you will get older. {idea}This verse adds one more to that list.{/idea}",
+    "old": "The afterlife is something I hope is true.",
+    "new": "The afterlife is as certain as anything I know.",
+    "try": "Write one sentence about the Day as a certainty and keep it where you will see it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "56:96", "surah": 56, "ayah": 96, "place": "makkah",
+    "title": "End with praise: glorify your Lord, the Most Great.",
+    "subtitle": "The surah closes the way the signs closed",
+    "picture": {"kind": "boxes", "label": "The last word", "row": [
+      {"box": "idea", "title": "the certain truth"},
+      {"conn": "so"},
+      {"box": "reward", "title": "glorify Him", "sub": ["the Most Great"]}]},
+    "key": {"label": "Two light phrases", "row": [
+      {"box": "reward", "title": "subhanAllahi wa bihamdihi"},
+      {"box": "reward", "title": "subhanAllahil Azim", "sub": ["heavy on the Balance"]}]},
+    "then": "After the certain truth comes the command: {reward}glorify the name of your Lord, the Most Great{/reward}. The Prophet ﷺ said two phrases are light on the tongue, heavy on the Balance, and loved by the Most Merciful: glory be to Allah and with His praise, glory be to Allah the Magnificent.",
+    "now": "At a red light, in the lift, waiting for the kettle. Ten seconds you usually give to your phone. {reward}Two light phrases fit there.{/reward}",
+    "old": "Remembering Allah needs a special time and place.",
+    "new": "Two short phrases, said anywhere, are heavy on the Balance.",
+    "try": "Say subhanAllahi wa bihamdihi, subhanAllahil Azim at one red light or queue today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

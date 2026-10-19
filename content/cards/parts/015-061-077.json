@@ -1,0 +1,330 @@
+[
+  {
+    "id": "15:61", "surah": 15, "ayah": 61, "place": "makkah",
+    "title": "The messengers arrived at Lut's door.",
+    "subtitle": "The same angels, now in a different town",
+    "picture": {"kind": "boxes", "label": "The arrival", "row": [
+      {"box": "people", "title": "the messengers", "sub": ["angels, as young men"]},
+      {"conn": "come to"},
+      {"box": "people", "title": "Lut's family", "sub": ["one house in a guilty town"]}]},
+    "key": {"label": "What looked ordinary", "row": [
+      {"box": "plain", "title": "just visitors", "sub": ["young men at the door"], "strike": true},
+      {"box": "idea", "title": "a decree arriving", "sub": ["rescue and reckoning"]}]},
+    "then": "The scene moves from Ibrahim's house to Lut's. Ibn Kathir says {idea}the angels came to Lut in the form of young men with handsome faces{/idea}. Nobody in town knew who had just walked in.",
+    "now": "Some days look like every other day: a knock on the door, a call, a stranger at the bus stop. {idea}You rarely know which ordinary moment is carrying something big.{/idea} That is a reason to treat each one well.",
+    "old": "Nothing important happens on a normal day.",
+    "new": "Allah's decree often arrives looking ordinary, through a door like any other.",
+    "try": "Treat the next person who knocks, calls or asks for help today as if the moment matters.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:62", "surah": 15, "ayah": 62, "place": "makkah",
+    "title": "Lut did not recognize who they were.",
+    "subtitle": "You are people unknown to me",
+    "picture": {"kind": "boxes", "label": "The unease", "row": [
+      {"box": "people", "title": "Lut", "sub": ["knows his town"]},
+      {"conn": "meets"},
+      {"box": "people", "title": "strangers", "sub": ["unknown to him"]}]},
+    "key": {"label": "Not knowing yet", "row": [
+      {"box": "trap", "title": "I should understand", "sub": ["everything right away"], "strike": true},
+      {"box": "idea", "title": "it is unfolding", "sub": ["the answer comes next"]}]},
+    "then": "When the guests entered, Lut said {idea}you are people unknown to me{/idea}. He knew how dangerous his town was for strangers. He did not yet know they were angels, or what they carried.",
+    "now": "Something new walks into your life: a diagnosis, a move, a person. You feel uneasy because you cannot place it. {idea}Lut did not understand either, at first.{/idea} The meaning came a moment later.",
+    "old": "If I cannot make sense of this right now, something is wrong.",
+    "new": "Even a prophet did not see the meaning at first; understanding can come a step later.",
+    "try": "When something unclear happens today, say: O Allah, show me the good in this, and wait.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:63", "surah": 15, "ayah": 63, "place": "makkah",
+    "title": "What they doubted for years was at the door.",
+    "subtitle": "The thing they kept disputing",
+    "picture": {"kind": "boxes", "label": "The news", "row": [
+      {"box": "people", "title": "the angels", "sub": ["to Lut"]},
+      {"conn": "brought"},
+      {"box": "trap", "title": "what they doubted", "sub": ["the punishment warned of"]}]},
+    "key": {"label": "What doubt changes", "row": [
+      {"box": "trap", "title": "if I doubt it", "sub": ["it will not come"], "strike": true},
+      {"box": "idea", "title": "it comes anyway", "sub": ["doubt changes nothing"]}]},
+    "then": "The angels said {trap}we have come to you with that which they were doubting{/trap}. Ibn Kathir explains they were bringing the punishment the people doubted they would ever suffer. Makkah too had been mocking the warning for years.",
+    "now": "You keep putting off the check-up, the debt plan, the talk with your son, telling yourself it is not that serious. {trap}Doubting a consequence does not delay it.{/trap} {idea}Better to act while it is still a warning.{/idea}",
+    "old": "If I do not think about it, it will not come.",
+    "new": "What I doubt or ignore still arrives; my doubt changes only how ready I am.",
+    "try": "Take one step today on something you have been avoiding because it feels scary.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:64", "surah": 15, "ayah": 64, "place": "makkah",
+    "title": "Truth came, and the messengers said it plainly.",
+    "subtitle": "We have brought the truth, and we are truthful",
+    "picture": {"kind": "boxes", "label": "Their assurance", "row": [
+      {"box": "idea", "title": "the truth", "sub": ["the decree from Allah"]},
+      {"box": "reward", "title": "for Lut", "sub": ["he will be saved"]},
+      {"box": "trap", "title": "for his people", "sub": ["they will be destroyed"]}]},
+    "key": {"label": "Angels come with", "row": [
+      {"box": "trap", "title": "on request", "sub": ["when people demand them"], "strike": true},
+      {"box": "idea", "title": "with the truth", "sub": ["when Allah decrees"]}]},
+    "then": "Ibn Kathir links this to 15:8: {idea}We do not send the angels down except with the truth{/idea}. Earlier in this surah, Makkah had demanded angels as proof. Here is what angels look like when they come: {trap}a decree, not a show{/trap}.",
+    "now": "You keep asking for a sign before you change: a dream, a miracle, a perfect moment. {idea}When the real sign comes, it comes with consequences already attached.{/idea} It is kinder to act on the message you already have.",
+    "old": "If Allah wanted me to change, He would send me a clear sign.",
+    "new": "The signs I already have are mercy; a final sign arrives carrying the outcome.",
+    "try": "Act today on one piece of guidance you already know, without waiting for a sign.",
+    "related": ["15:8"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:65", "surah": 15, "ayah": 65, "place": "makkah",
+    "title": "Walk behind your family, and do not look back.",
+    "subtitle": "Leaving at night, with eyes forward",
+    "picture": {"kind": "boxes", "label": "The instructions", "row": [
+      {"box": "people", "title": "the family", "sub": ["walks in front"]},
+      {"box": "people", "title": "Lut", "sub": ["in the rear, protecting"]},
+      {"conn": "and"},
+      {"box": "trap", "title": "looking back", "sub": ["do not turn around"], "strike": true}]},
+    "key": {"label": "Where the leader walks", "row": [
+      {"box": "trap", "title": "in front", "sub": ["first to safety"], "strike": true},
+      {"box": "idea", "title": "at the back", "sub": ["guarding the weak"]}]},
+    "then": "The angels told Lut to leave in part of the night and walk behind his family to protect them. Ibn Kathir says {idea}the Messenger of Allah ﷺ would walk in the rear of the army to help the weak{/idea}. And {trap}no one was to turn back{/trap} toward the town.",
+    "now": "The family is moving cities, or leaving a bad situation. You are the one who makes sure the youngest is not left behind, and you stop scrolling the old life's photos. {idea}Protect the people with you. Keep walking.{/idea}",
+    "old": "A leader goes first and gets out first.",
+    "new": "The one in charge walks at the back, guarding the weak, and keeps eyes forward.",
+    "try": "Today, be the last one to leave a gathering, making sure everyone is home or helped.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:66", "surah": 15, "ayah": 66, "place": "makkah",
+    "title": "He was told the hour before the town knew.",
+    "subtitle": "The end would come by early morning",
+    "picture": {"kind": "boxes", "label": "The decree", "row": [
+      {"box": "idea", "title": "made known to Lut", "sub": ["ahead of time"]},
+      {"conn": "that"},
+      {"box": "trap", "title": "the sinners", "sub": ["rooted out"]},
+      {"conn": "by"},
+      {"box": "plain", "title": "early morning", "sub": ["is it not near?"]}]},
+    "key": {"label": "How far away it is", "row": [
+      {"box": "trap", "title": "someday, far off", "sub": ["plenty of time"], "strike": true},
+      {"box": "idea", "title": "by morning", "sub": ["closer than it seems"]}]},
+    "then": "Allah {idea}made this decree known to him{/idea}: they would be rooted out in the early morning. Ibn Kathir quotes 11:81, {trap}morning is their appointed time; is not the morning near?{/trap}",
+    "now": "You plan to fix things with Allah later: after the exams, after the wedding, after retirement. {trap}Morning is always nearer than it feels at night.{/trap} {idea}Today is a good time.{/idea}",
+    "old": "I have plenty of time before any of this matters.",
+    "new": "The appointed time is closer than it feels; morning is always near.",
+    "try": "Do tonight the one good thing you keep saying you will do someday.",
+    "related": ["11:81"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:67", "surah": 15, "ayah": 67, "place": "makkah",
+    "title": "They came rejoicing at the chance to do wrong.",
+    "subtitle": "The people of the city hear about the guests",
+    "picture": {"kind": "boxes", "label": "The crowd", "row": [
+      {"box": "trap", "title": "the city", "sub": ["heard about the guests"]},
+      {"conn": "came"},
+      {"box": "trap", "title": "rejoicing", "sub": ["glad at the chance"]}]},
+    "key": {"label": "When sin feels like good news", "row": [
+      {"box": "trap", "title": "an opportunity", "sub": ["what they felt"]},
+      {"box": "idea", "title": "a warning sign", "sub": ["what that feeling is"]}]},
+    "then": "Ibn Kathir says the people {trap}came to Lut when they found out about his guests, happily rejoicing{/trap}. They meant harm, and were glad about it. They had no idea the morning would bring their end.",
+    "now": "You hear a juicy rumor about a colleague and feel a little thrill. The chance to cut a corner unseen feels like luck. {trap}When wrongdoing starts to feel like good news, something inside has shifted.{/trap}",
+    "old": "Feeling excited about something means it is good for me.",
+    "new": "Being happy at a chance to do wrong is a sign to stop, not a green light.",
+    "try": "Notice one moment today where a wrong choice feels exciting, and walk away from it.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:68", "surah": 15, "ayah": 68, "place": "makkah",
+    "title": "These are my guests; do not shame me.",
+    "subtitle": "Lut stands between the crowd and his guests",
+    "picture": {"kind": "boxes", "label": "His stand", "row": [
+      {"box": "trap", "title": "the crowd", "sub": ["at the door"]},
+      {"box": "people", "title": "Lut", "sub": ["standing in between"]},
+      {"box": "people", "title": "his guests", "sub": ["under his protection"]}]},
+    "key": {"label": "What a host owes", "row": [
+      {"box": "plain", "title": "not my problem", "sub": ["step aside"], "strike": true},
+      {"box": "idea", "title": "my responsibility", "sub": ["their honor is mine"]}]},
+    "then": "Lut said, {idea}these are my guests, so do not shame me{/idea}. Ibn Kathir says he said this before he knew they were angels. He thought they were ordinary young men, and still {idea}he stood up for them{/idea}.",
+    "now": "Your guest at the family gathering is being mocked by a cousin. A new hire is being picked on in the group chat. {idea}You are the host here.{/idea} Their dignity is tied to yours.",
+    "old": "It is not my place to defend someone else.",
+    "new": "When someone is under my roof or my care, protecting their dignity is my duty.",
+    "try": "Stand up, gently, for one person today who is being talked down to near you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:69", "surah": 15, "ayah": 69, "place": "makkah",
+    "title": "He reminded a mob to fear Allah.",
+    "subtitle": "Appealing to conscience in the worst moment",
+    "picture": {"kind": "boxes", "label": "His appeal", "row": [
+      {"box": "people", "title": "Lut", "sub": ["outnumbered"]},
+      {"conn": "says"},
+      {"box": "idea", "title": "fear Allah", "sub": ["have taqwa"]},
+      {"box": "idea", "title": "do not disgrace me", "sub": ["a plea, not a threat"]}]},
+    "key": {"label": "What to say when outnumbered", "row": [
+      {"box": "trap", "title": "nothing", "sub": ["they will not listen"], "strike": true},
+      {"box": "idea", "title": "remind them of Allah", "sub": ["it may reach one heart"]}]},
+    "then": "Facing the crowd alone, Lut said {idea}have taqwa of Allah, and do not disgrace me{/idea}. He did not have power, so he spoke to their conscience. Ibn Kathir notes this was before he knew his guests were angels.",
+    "now": "Your friends are about to do something cruel to someone online. You are one voice. {idea}Saying come on, fear Allah, this is not right{/idea} might feel useless. It is still the right thing to say.",
+    "old": "If I cannot stop it, there is no point saying anything.",
+    "new": "Even when outnumbered, reminding people of Allah is a real act, whether or not they listen.",
+    "try": "If you see wrong today, say one calm sentence against it, even if it changes nothing.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:70", "surah": 15, "ayah": 70, "place": "makkah",
+    "title": "They had already banned him from protecting anyone.",
+    "subtitle": "A town that punished kindness",
+    "picture": {"kind": "boxes", "label": "Their rule", "row": [
+      {"box": "trap", "title": "the town", "sub": ["had warned him"]},
+      {"conn": "forbade"},
+      {"box": "people", "title": "Lut", "sub": ["from hosting anyone"]}]},
+    "key": {"label": "What was forbidden", "row": [
+      {"box": "trap", "title": "the wrong", "sub": ["what should be banned"], "strike": true},
+      {"box": "idea", "title": "the kindness", "sub": ["what they banned instead"]}]},
+    "then": "They answered him: {trap}did we not forbid you from protecting people?{/trap} Ibn Kathir explains they meant, did we not tell you not to have anyone as a guest? The town had turned hospitality itself into an offense.",
+    "now": "At work, the one who reports the problem gets sidelined. At school, the kid who defends the bullied one gets bullied too. {trap}When doing good gets you in trouble, the place is upside down.{/trap} {idea}Keep doing it anyway.{/idea}",
+    "old": "If people tell me to stop helping, maybe I should.",
+    "new": "When kindness itself is punished, the problem is the place, not the kindness.",
+    "try": "Do one quiet kindness today for someone others avoid.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:71", "surah": 15, "ayah": 71, "place": "makkah",
+    "title": "He pointed them to what Allah had made lawful.",
+    "subtitle": "Lut's last appeal: these are my daughters",
+    "picture": {"kind": "boxes", "label": "His appeal", "row": [
+      {"box": "trap", "title": "what they wanted", "sub": ["unlawful and harmful"]},
+      {"conn": "instead"},
+      {"box": "idea", "title": "lawful marriage", "sub": ["with the women of their people"]}]},
+    "key": {"label": "The way back", "row": [
+      {"box": "trap", "title": "no other way", "sub": ["desire must go here"], "strike": true},
+      {"box": "idea", "title": "the lawful path", "sub": ["Allah already provided"]}]},
+    "then": "Lut said, {idea}these are my daughters, if you would be doers{/idea}. Ibn Kathir explains he reminded them about their womenfolk and {idea}what their Lord had created for them in lawful relationships{/idea}. All this while they did not know the morning would bring their end.",
+    "now": "A desire pulls you somewhere you know is wrong, and it feels like the only option. {idea}Allah almost always leaves a lawful door open beside the forbidden one.{/idea} Look for it before you give in.",
+    "old": "There is no way to meet this need without crossing a line.",
+    "new": "Allah has already provided a lawful path; the forbidden one is never the only door.",
+    "try": "Name one temptation you struggle with and identify its lawful alternative today.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:72", "surah": 15, "ayah": 72, "place": "makkah",
+    "title": "Drunk on their wrong, they wandered blind.",
+    "subtitle": "An oath by the Prophet's life",
+    "picture": {"kind": "boxes", "label": "Their state", "row": [
+      {"box": "idea", "title": "by your life", "sub": ["Allah swears, O Muhammad ﷺ"]},
+      {"conn": "they were"},
+      {"box": "trap", "title": "intoxicated", "sub": ["in their misguidance"]},
+      {"box": "trap", "title": "wandering blindly", "sub": ["confused, playing"]}]},
+    "key": {"label": "What they could see", "row": [
+      {"box": "trap", "title": "they knew what they did", "sub": ["fully aware"], "strike": true},
+      {"box": "trap", "title": "blinded by it", "sub": ["could not see the morning"]}]},
+    "then": "Allah {idea}swore by the life of His Prophet ﷺ{/idea}. Ibn Abbas said he never heard that Allah swore by the life of anyone else. Qatadah said intoxication here means {trap}their misguided state, and they were playing{/trap}, blind to what was coming.",
+    "now": "You are deep in something: a feud, a binge, a scheme, a screen at two in the morning. Everyone else can see where it is going. {trap}You cannot.{/trap} {idea}Sin works like that. It blurs the road ahead.{/idea}",
+    "old": "I know exactly what I am doing.",
+    "new": "Wrongdoing can make a person blind to where they are heading, like being drunk.",
+    "try": "Ask one trusted person today: is there anything in my life you think I am blind to?",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:73", "surah": 15, "ayah": 73, "place": "makkah",
+    "title": "At sunrise, the shout came.",
+    "subtitle": "The morning they never expected",
+    "picture": {"kind": "boxes", "label": "The morning", "row": [
+      {"box": "trap", "title": "the night", "sub": ["rejoicing, blind"]},
+      {"conn": "then at sunrise"},
+      {"box": "trap", "title": "the Sayhah", "sub": ["a piercing blast"]}]},
+    "key": {"label": "How it came", "row": [
+      {"box": "plain", "title": "slowly, with warning", "sub": ["time to prepare"], "strike": true},
+      {"box": "trap", "title": "all at once", "sub": ["at the appointed hour"]}]},
+    "then": "Ibn Kathir describes the Sayhah as {trap}the piercing sound that came to them when the sun rose{/trap}. It was the morning Lut had been told about. The night before, they were still celebrating.",
+    "now": "People say I will change when I see it coming. Endings rarely announce themselves. The call from the hospital, the layoff email, the last conversation. {idea}Live tonight as if the morning matters.{/idea}",
+    "old": "I will get a clear warning before anything serious happens.",
+    "new": "The decisive moment can arrive suddenly, on an ordinary morning.",
+    "try": "Before you sleep tonight, forgive someone and make your peace with Allah.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:74", "surah": 15, "ayah": 74, "place": "makkah",
+    "title": "The top of their town became the bottom.",
+    "subtitle": "A city turned upside down",
+    "picture": {"kind": "boxes", "label": "What happened", "row": [
+      {"box": "trap", "title": "highest part", "sub": ["made the lowest"]},
+      {"box": "trap", "title": "stones of clay", "sub": ["rained upon them"]}]},
+    "key": {"label": "What they had turned", "row": [
+      {"box": "trap", "title": "right made wrong", "sub": ["kindness forbidden"]},
+      {"box": "trap", "title": "city turned over", "sub": ["the outcome matched"]}]},
+    "then": "Ibn Kathir says the sound came with {trap}the city being flipped upside down, and stones of baked clay raining down{/trap}. He calls Sodom a city {idea}physically and spiritually turned upside down{/idea}. They had already inverted right and wrong.",
+    "now": "Look at the small places where you call wrong right: the white lie that is just being polite, the gossip that is just venting. {idea}Turning values upside down starts small.{/idea} You can turn yours the right way up today.",
+    "old": "Bending right and wrong a little is harmless.",
+    "new": "When people flip right and wrong, the result can turn their whole world over.",
+    "try": "Pick one wrong you have been calling by a softer name, and call it what it is.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:75", "surah": 15, "ayah": 75, "place": "makkah",
+    "title": "Signs for those who look closely.",
+    "subtitle": "The ones with insight",
+    "picture": {"kind": "boxes", "label": "Who benefits", "row": [
+      {"box": "trap", "title": "the ruins", "sub": ["still visible"]},
+      {"conn": "are signs for"},
+      {"box": "people", "title": "those who discern", "sub": ["eyes and heart open"]}]},
+    "key": {"label": "Two ways to see ruins", "row": [
+      {"box": "plain", "title": "old stones", "sub": ["a tourist stop"], "strike": true},
+      {"box": "idea", "title": "a lesson", "sub": ["read with insight"]}]},
+    "then": "Ibn Kathir says the traces are visible to anyone who ponders, {idea}with physical eyesight or mental and spiritual insight{/idea}. Mujahid said those who discern means {idea}those who have insight and discernment{/idea}; Qatadah said those who learn lessons.",
+    "now": "You watch a documentary about a collapsed empire, or drive past a closed factory that once employed your whole town. {idea}Most people see buildings. A discerning person sees a lesson.{/idea}",
+    "old": "History is just what happened to other people.",
+    "new": "The traces of past peoples are signs for whoever looks with insight.",
+    "try": "Next time you pass a ruin or an abandoned place, pause and ask what it teaches you.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:76", "surah": 15, "ayah": 76, "place": "makkah",
+    "title": "The ruins sit on a road people still travel.",
+    "subtitle": "The lesson was never hidden",
+    "picture": {"kind": "boxes", "label": "Where it is", "row": [
+      {"box": "trap", "title": "the ruined cities", "sub": ["Sodom"]},
+      {"conn": "on"},
+      {"box": "plain", "title": "an established road", "sub": ["travelled to this day"]}]},
+    "key": {"label": "How hidden is the lesson", "row": [
+      {"box": "trap", "title": "far away", "sub": ["hard to find"], "strike": true},
+      {"box": "idea", "title": "on the highway", "sub": ["passed every day"]}]},
+    "then": "Ibn Kathir says Sodom {idea}is on a route that is easily accessible until the present day{/idea}. The trade caravans of Makkah passed it. He cites 37:137-138: {idea}you pass by them morning and night; will you not reflect?{/idea}",
+    "now": "The same road you drive to work passes a cemetery. The same feed you scroll shows stories of people ruined by the same habits you have. {idea}The lessons are on your daily route.{/idea}",
+    "old": "If there were a lesson for me, I would have noticed it.",
+    "new": "Lessons are placed on the roads I already travel; noticing them is up to me.",
+    "try": "On your commute today, look for one sign along the way and reflect on it for a minute.",
+    "related": ["37:137"],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  },
+  {
+    "id": "15:77", "surah": 15, "ayah": 77, "place": "makkah",
+    "title": "Rescue and ruin, both a sign for believers.",
+    "subtitle": "The whole story of Lut as one lesson",
+    "picture": {"kind": "boxes", "label": "The whole story", "row": [
+      {"box": "reward", "title": "Lut saved", "sub": ["with his family"]},
+      {"box": "trap", "title": "the town destroyed", "sub": ["for its deeds"]},
+      {"conn": "a sign for"},
+      {"box": "people", "title": "the believers", "sub": ["who trust Allah"]}]},
+    "key": {"label": "What the believer takes away", "row": [
+      {"box": "trap", "title": "only fear", "sub": ["a scary story"], "strike": true},
+      {"box": "idea", "title": "fear and hope", "sub": ["Allah saves the upright"]}]},
+    "then": "Ibn Kathir sums it up: {idea}all We did to the people of Lut, from the destruction, to how We saved Lut and his family{/idea}, are clear signs to those who believe. For the Prophet ﷺ in Makkah, it meant {reward}the faithful are not forgotten{/reward}.",
+    "now": "You feel like the only one trying to do right at work or at home. This story ends with {reward}one small family walked out to safety{/reward}. {idea}Allah sees the few who stay upright.{/idea}",
+    "old": "Stories of punishment are just meant to scare me.",
+    "new": "The story shows both justice and rescue; the believer takes hope as well as warning.",
+    "try": "Make dua tonight: O Allah, make me and my family among those You save.",
+    "related": [],
+    "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-19"}
+  }
+]

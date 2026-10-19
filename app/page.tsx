@@ -1,3 +1,4 @@
+import { HomeGuide } from "@/components/HomeGuide";
 import { SurahIndex } from "@/components/SurahIndex";
 import { getSurahs, surahHref } from "@/lib/data";
 
@@ -42,6 +43,7 @@ export default function Home() {
           href: surahHref(s.id),
         }))}
       />
+      <HomeGuide />
     </div>
   );
 }

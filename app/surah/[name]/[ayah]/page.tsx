@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
 import { VerseCard } from "@/components/VerseCard";
@@ -19,11 +20,24 @@ export function generateStaticParams() {
   return [];
 }
 
-export async function generateMetadata({ params }: { params: Params }) {
+export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
   const { name, ayah } = await params;
-  const id = getSurahBySlug(name)?.id;
-  const card = id ? getCard(id, Number(ayah)) : undefined;
-  return { title: card ? `${card.title} · ${id}:${ayah}` : `${id}:${ayah} · Quran Universe` };
+  const surah = getSurahBySlug(name);
+  if (!surah) return {};
+  const key = `${surah.id}:${ayah}`;
+  const card = getCard(surah.id, Number(ayah));
+  const text = getTranslation(key);
+  const quote = text.length > 130 ? `${text.slice(0, 127).replace(/\s+\S*$/, "")}…` : text;
+  const title = `Surah ${surah.transliteration} ${key}${card ? `: ${card.title}` : ""}`;
+  const description = `"${quote}" Quran ${key} with Arabic, transliteration, word-by-word meaning and Tafsir Ibn Kathir.`;
+  const url = surahHref(surah.id, Number(ayah));
+  return {
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: { type: "article", title, description, url },
+    twitter: { card: "summary", title, description },
+  };
 }
 
 export default async function VersePage({ params }: { params: Params }) {

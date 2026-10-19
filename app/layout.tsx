@@ -1,10 +1,13 @@
 import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { Geist, Newsreader, Scheherazade_New } from "next/font/google";
+import { JsonLd } from "@/components/JsonLd";
 import { ThemeToggle, themeScript } from "@/components/ThemeToggle";
 import { getTheme } from "@/lib/data";
+import { SITE, organization } from "@/lib/site";
 import "./globals.css";
 import "./card.css";
+import "./content.css";
 
 const geist = Geist({ variable: "--font-ui", subsets: ["latin"] });
 const newsreader = Newsreader({
@@ -16,8 +19,28 @@ const newsreader = Newsreader({
 const arabic = Scheherazade_New({ variable: "--font-arabic", subsets: ["arabic"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
-  title: "Quran Universe",
-  description: "Every verse of the Quran with a card that gives context, perspective and one thing to try.",
+  metadataBase: new URL(SITE.url),
+  title: {
+    default: "Quran Universe · Read and Understand the Quran in English",
+    template: "%s | Quran Universe",
+  },
+  description: SITE.description,
+  applicationName: SITE.name,
+  keywords: [
+    "quran",
+    "quran online",
+    "quran in english",
+    "quran translation",
+    "quran with tafsir",
+    "tafsir ibn kathir",
+    "understand the quran",
+    "surah",
+    "islam for beginners",
+  ],
+  alternates: { canonical: "/" },
+  openGraph: { type: "website", siteName: SITE.name, locale: "en_US", url: "/" },
+  twitter: { card: "summary" },
+  robots: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
   verification: { google: "DPfuvFbxN91o3jOkC7wh6PhPL0upqnkspZ9lCPe0kns" },
 };
 
@@ -67,6 +90,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             </Link>
             <nav className="nav">
               <Link href="/">Surahs</Link>
+              <Link href="/learn">Learn</Link>
               <ThemeToggle />
             </nav>
           </div>
@@ -75,11 +99,35 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           {children}
         </main>
         <footer className="site-footer">
+          <nav className="footer-nav" aria-label="Footer">
+            <Link href="/learn">Learn</Link>
+            <Link href="/about">About</Link>
+            <Link href="/contact">Contact</Link>
+            <Link href="/privacy">Privacy</Link>
+            <Link href="/terms">Terms</Link>
+            <Link href="/disclaimer">Disclaimer</Link>
+          </nav>
           <p>
             Cards are simplified reflections. For scholarship, read the tafsir of Ibn Kathir included on every verse.
           </p>
           <p className="fine">Quran Universe · English translation: Sahih International</p>
         </footer>
+        <JsonLd
+          data={{
+            "@graph": [
+              organization,
+              {
+                "@type": "WebSite",
+                "@id": `${SITE.url}/#website`,
+                name: SITE.name,
+                url: SITE.url,
+                description: SITE.description,
+                inLanguage: "en",
+                publisher: { "@id": organization["@id"] },
+              },
+            ],
+          }}
+        />
       </body>
     </html>
   );

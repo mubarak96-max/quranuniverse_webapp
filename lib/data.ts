@@ -1,8 +1,8 @@
-// Reads the Quran data and generated cards straight from the project root, one level above web/.
+// Reads the Quran data and generated cards straight from the project root.
 import fs from "node:fs";
 import path from "node:path";
 
-const ROOT = path.join(process.cwd(), "..");
+const ROOT = process.cwd();
 
 export type BoxStyle = "idea" | "trap" | "reward" | "people" | "plain";
 export type Box = { box: BoxStyle; title: string; sub?: string[]; strike?: boolean; num?: boolean };
@@ -53,6 +53,18 @@ export const getSurahs = () => readJson<Surah[]>("quran.json");
 
 export function getSurah(id: number): Surah | undefined {
   return getSurahs()[id - 1];
+}
+
+export const surahSlug = (s: Surah) =>
+  s.transliteration.toLowerCase().replace(/'/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+
+export function getSurahBySlug(slug: string): Surah | undefined {
+  return getSurahs().find((s) => surahSlug(s) === slug);
+}
+
+export function surahHref(id: number, ayah?: number): string {
+  const base = `/surah/${surahSlug(getSurah(id)!)}`;
+  return ayah === undefined ? base : `${base}/${ayah}`;
 }
 
 export function getCards(surah: number): Card[] {

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getSurahs } from "@/lib/data";
+import { getSurahs, surahHref } from "@/lib/data";
 
 export default function Home() {
   const surahs = getSurahs();
@@ -15,7 +15,7 @@ export default function Home() {
       <ol className="surah-grid">
         {surahs.map((s) => (
           <li key={s.id}>
-            <Link href={`/surah/${s.id}`} className="surah-tile">
+            <Link href={surahHref(s.id)} className="surah-tile">
               <span className="num">{s.id}</span>
               <span className="names">
                 <b>{s.transliteration}</b>

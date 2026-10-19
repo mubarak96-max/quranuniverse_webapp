@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { Inter, Newsreader, Scheherazade_New } from "next/font/google";
 import { PalettePicker } from "@/components/PalettePicker";
@@ -10,7 +11,7 @@ const newsreader = Newsreader({ variable: "--font-display", subsets: ["latin"], 
 const arabic = Scheherazade_New({ variable: "--font-arabic", subsets: ["arabic"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
-  title: "Quran Cards",
+  title: "Quran Universe",
   description: "Every verse of the Quran with a card that gives context, perspective and one thing to try.",
 };
 
@@ -38,7 +39,10 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body className={`${inter.variable} ${newsreader.variable} ${arabic.variable}`}>
         <header className="site-header">
           <Link href="/" className="brand">
-            Quran Cards
+            <Image src="/brand/logo-mark.svg" alt="" width={30} height={30} priority unoptimized />
+            <span>
+              Quran <em>Universe</em>
+            </span>
           </Link>
           <PalettePicker names={Object.keys(theme.palettes)} fallback={theme.default} />
         </header>

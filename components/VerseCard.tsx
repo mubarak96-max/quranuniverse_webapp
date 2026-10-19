@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { Card } from "@/lib/data";
+import { surahHref, type Card } from "@/lib/data";
 import { BoxRow } from "./BoxRow";
 import { Rich } from "./Rich";
 
@@ -57,7 +57,7 @@ export function VerseCard({ card, surahName }: { card: Card; surahName: string }
           {card.related.map((r) => {
             const [s, a] = r.split(":");
             return (
-              <Link key={r} href={`/surah/${s}/${a}`}>
+              <Link key={r} href={surahHref(Number(s), Number(a))}>
                 {r}
               </Link>
             );

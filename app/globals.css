@@ -1,9 +1,13 @@
 /* Colors come from content/theme.json, injected in layout.tsx. Light theme only by design. */
 :root {
+  color-scheme: light;
+}
+
+/* next/font puts its variables on <body>, so the aliases must be defined there too. */
+body {
   --ui: var(--font-ui), "Segoe UI", system-ui, sans-serif;
   --display: var(--font-display), Georgia, serif;
   --arabic: var(--font-arabic), "Amiri", "Noto Naskh Arabic", serif;
-  color-scheme: light;
 }
 
 * {
@@ -43,9 +47,17 @@ a {
 }
 
 .brand {
-  font-family: var(--display);
-  font-weight: 600;
-  font-size: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+}
+
+.brand em {
+  font-style: normal;
   color: var(--idea);
 }
 

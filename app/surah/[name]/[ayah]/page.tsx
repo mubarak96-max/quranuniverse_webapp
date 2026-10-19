@@ -1,9 +1,18 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { VerseCard } from "@/components/VerseCard";
-import { getCard, getSurah, getTafsir, getTranslation, getTransliteration, getWords } from "@/lib/data";
+import {
+  getCard,
+  getSurah,
+  getSurahBySlug,
+  getTafsir,
+  getTranslation,
+  getTransliteration,
+  getWords,
+  surahHref,
+} from "@/lib/data";
 
-type Params = Promise<{ id: string; ayah: string }>;
+type Params = Promise<{ name: string; ayah: string }>;
 
 // Verse pages render on first request and are then cached, so the build does not generate all 6,236.
 export function generateStaticParams() {
@@ -11,33 +20,35 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Params }) {
-  const { id, ayah } = await params;
-  const card = getCard(Number(id), Number(ayah));
-  return { title: card ? `${card.title} · ${id}:${ayah}` : `${id}:${ayah} · Quran Cards` };
+  const { name, ayah } = await params;
+  const id = getSurahBySlug(name)?.id;
+  const card = id ? getCard(id, Number(ayah)) : undefined;
+  return { title: card ? `${card.title} · ${id}:${ayah}` : `${id}:${ayah} · Quran Universe` };
 }
 
 export default async function VersePage({ params }: { params: Params }) {
-  const { id: sid, ayah: aid } = await params;
-  const id = Number(sid);
+  const { name, ayah: aid } = await params;
   const ayah = Number(aid);
-  const surah = getSurah(id);
+  const surah = getSurahBySlug(name);
+  if (!surah && /^\d+$/.test(name) && getSurah(Number(name))) permanentRedirect(surahHref(Number(name), ayah));
   const verse = surah?.verses.find((v) => v.id === ayah);
   if (!surah || !verse) notFound();
 
+  const id = surah.id;
   const key = `${id}:${ayah}`;
   const card = getCard(id, ayah);
   const tafsir = getTafsir(key);
   const arabicWords = verse.text.split(" ");
   const glosses = getWords(key);
-  const prev = ayah > 1 ? `/surah/${id}/${ayah - 1}` : id > 1 ? `/surah/${id - 1}/${getSurah(id - 1)!.total_verses}` : null;
-  const next = ayah < surah.total_verses ? `/surah/${id}/${ayah + 1}` : id < 114 ? `/surah/${id + 1}/1` : null;
+  const prev = ayah > 1 ? surahHref(id, ayah - 1) : id > 1 ? surahHref(id - 1, getSurah(id - 1)!.total_verses) : null;
+  const next = ayah < surah.total_verses ? surahHref(id, ayah + 1) : id < 114 ? surahHref(id + 1, 1) : null;
 
   return (
     <div className="verse-page">
       <nav className="crumbs">
         <Link href="/">Surahs</Link>
         <span>/</span>
-        <Link href={`/surah/${id}`}>{surah.transliteration}</Link>
+        <Link href={surahHref(id)}>{surah.transliteration}</Link>
         <span>/</span>
         <span>{key}</span>
       </nav>

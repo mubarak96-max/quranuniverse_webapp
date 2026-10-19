@@ -1,20 +1,27 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
-import { getCards, getSurah, getSurahInfo, getSurahs, getTranslation } from "@/lib/data";
+import { notFound, permanentRedirect } from "next/navigation";
+import { getCards, getSurah, getSurahBySlug, getSurahInfo, getSurahs, getTranslation, surahHref, surahSlug } from "@/lib/data";
+
+type Params = Promise<{ name: string }>;
 
 export function generateStaticParams() {
-  return getSurahs().map((s) => ({ id: String(s.id) }));
+  return getSurahs().map((s) => ({ name: surahSlug(s) }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
-  const surah = getSurah(Number((await params).id));
-  return { title: surah ? `${surah.transliteration} · Quran Cards` : "Quran Cards" };
+export async function generateMetadata({ params }: { params: Params }) {
+  const surah = getSurahBySlug((await params).name);
+  return { title: surah ? `${surah.transliteration} · Quran Universe` : "Quran Universe" };
 }
 
-export default async function SurahPage({ params }: { params: Promise<{ id: string }> }) {
-  const id = Number((await params).id);
-  const surah = getSurah(id);
-  if (!surah) notFound();
+export default async function SurahPage({ params }: { params: Params }) {
+  const { name } = await params;
+  const surah = getSurahBySlug(name);
+  if (!surah) {
+    // Old numeric links (/surah/3) keep working.
+    if (/^\d+$/.test(name) && getSurah(Number(name))) permanentRedirect(surahHref(Number(name)));
+    notFound();
+  }
+  const id = surah.id;
   const cards = new Map(getCards(id).map((c) => [c.ayah, c]));
 
   return (
@@ -39,7 +46,7 @@ export default async function SurahPage({ params }: { params: Promise<{ id: stri
           const key = `${id}:${v.id}`;
           return (
             <li key={v.id}>
-              <Link href={`/surah/${id}/${v.id}`} className="verse-row">
+              <Link href={surahHref(id, v.id)} className="verse-row">
                 <span className="vnum">{v.id}</span>
                 <span className="vbody">
                   <span className="ar verse-ar" lang="ar" dir="rtl">

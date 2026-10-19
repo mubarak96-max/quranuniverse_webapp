@@ -1,6 +1,6 @@
 ---
 title: What Does the Quran Say About Christians and Jews? A Clear Guide
-description: What does the Quran say about Christians and Jews? Learn who the People of the Book are, the verses of praise and critique, and how the Quran asks Muslims to treat them.
+description: What does the Quran say about Christians and Jews? Learn who the People of the Book are, the verses of praise and critique, and how Muslims should treat them.
 keywords: what does the quran say about christians, what does the quran say about jews, what does the quran say about christians and jews, what does the quran say about other religions, people of the book, what does the quran say about respecting other religions, quran 2:62, quran 3:64, quran 29:46, quran 2:256, quran 60:8, quran 5:48
 category: Exploring Islam
 published: 2026-10-20
@@ -8,23 +8,19 @@ published: 2026-10-20
 
 The Quran calls Christians and Jews the "People of the Book" (Ahl al-Kitab), because they received earlier scriptures, and it honors their prophets, including Moses and Jesus. It praises the sincere and righteous among them, disagrees with some of their beliefs, and asks Muslims to deal with them justly, kindly and in "a way that is best."
 
-That balance of respect and honest disagreement runs through the whole Quran. This guide sets out the main verses in their context, for Muslims who want to understand them and for Christians, Jews and others curious about what Islam's scripture actually says.
+This guide sets out the main verses in context, for Muslims and for Christians, Jews and others curious about what Islam's scripture actually says.
 
 ## Key takeaways
 
 - The Quran uses the title "People of the Scripture" or "People of the Book" for Jews and Christians, recognizing the Torah and the Gospel as revelations from God.
-- Muslims are required to believe in all of God's prophets, including Abraham, Moses and Jesus, without making distinctions between them (Quran 2:136).
-- The Quran praises many Jews and Christians for faith, prayer and good deeds, saying "they are not [all] the same" (Quran 3:113).
+- Muslims must believe in all of God's prophets, including Abraham, Moses and Jesus (Quran 2:136).
+- The Quran praises many Jews and Christians for faith, prayer and good deeds, saying "They are not [all] the same" (Quran 3:113).
 - It disagrees with certain beliefs, especially the Trinity and the idea that God has a son, and invites dialogue on the shared belief in one God (Quran 3:64).
 - Muslims are told there is "no compulsion" in religion (2:256) and are encouraged to be righteous and just toward peaceful people of every faith (60:8).
 
 ## Who are the People of the Book?
 
-In Arabic, *Ahl al-Kitab* means "people of the scripture." The Quran mainly uses this phrase for Jews and Christians, who received the Torah and the Gospel before the Quran was revealed. It describes both books in warm terms.
-
-> Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted [to Allah] judged by it for the Jews, as did the rabbis and scholars by that with which they were entrusted of the Scripture of Allah, and they were witnesses thereto. So do not fear the people but fear Me, and do not exchange My verses for a small price. And whoever does not judge by what Allah has revealed - then it is those who are the disbelievers.
->
-> — [Quran 5:44](/surah/al-maidah/44)
+In Arabic, *Ahl al-Kitab* means "people of the scripture." The Quran mainly uses this phrase for Jews and Christians, who received the Torah and the Gospel before the Quran was revealed. It describes both books in warm terms, saying of the Torah, "We sent down the Torah, in which was guidance and light" ([Quran 5:44](/surah/al-maidah/44)), and of the Gospel:
 
 > And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous.
 >
@@ -58,13 +54,13 @@ The Quran also states its disagreements clearly but without insult. Its main con
 >
 > — [Quran 4:171](/surah/an-nisa/171)
 
-Even here, Jesus is honored as God's messenger and "His word." The disagreement is about who Jesus is, not about whether he deserves respect. Our [Quran vs Bible](/learn/quran-vs-bible) guide compares the two accounts in more detail.
+Even here, Jesus is honored as God's messenger and "His word." The disagreement is about who he is, not his worth. Our [Quran vs Bible](/learn/quran-vs-bible) guide compares the two accounts in more detail.
 
 ## What does the Quran say about Jews?
 
 The Quran speaks about the Children of Israel at great length, more than about almost any other community. It recalls that God chose them, sent them many prophets and gave them the Torah. Moses' story alone appears across dozens of chapters.
 
-It also records moments when some of them broke their covenant, as it records failings among Muslims and other peoples. These passages are meant as lessons for every reader, including Muslims, about the danger of taking a gift from God for granted. The Quran is careful to say that such criticism does not apply to everyone.
+It also records moments when some of them broke their covenant, as it records failings among Muslims and other peoples. These passages are meant as lessons for every reader, including Muslims, about the danger of taking a gift from God for granted. The Quran is careful not to generalize.
 
 > They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allah during periods of the night and prostrating [in prayer].
 >
@@ -134,7 +130,7 @@ Yes. Quran 5:82 describes Christians as "the nearest of them in affection to the
 
 ### What does the Quran say about respecting other religions?
 
-The Quran teaches that "there shall be no compulsion" in religion (2:256) and that God loves those who are righteous and just toward peaceful people of other faiths (60:8). It also tells Muslims to discuss faith with Jews and Christians only "in a way that is best" (29:46).
+The Quran says, "There shall be no compulsion in [acceptance of] the religion" (2:256). It teaches that God loves those who are righteous and just toward peaceful people of other faiths (60:8), and it tells Muslims to discuss faith with Jews and Christians only "in a way that is best" (29:46).
 
 ### Where does the Quran disagree with Christianity?
 

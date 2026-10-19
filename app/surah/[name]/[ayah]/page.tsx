@@ -6,18 +6,20 @@ import {
   getCard,
   getSurah,
   getSurahBySlug,
+  getSurahs,
   getTafsir,
   getTranslation,
   getTransliteration,
   getWords,
   surahHref,
+  surahSlug,
 } from "@/lib/data";
 
 type Params = Promise<{ name: string; ayah: string }>;
 
-// Verse pages render on first request and are then cached, so the build does not generate all 6,236.
+// Static export has no server to render on request, so every verse page is generated at build.
 export function generateStaticParams() {
-  return [];
+  return getSurahs().flatMap((s) => s.verses.map((v) => ({ name: surahSlug(s), ayah: String(v.id) })));
 }
 
 export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {

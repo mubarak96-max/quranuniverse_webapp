@@ -6,7 +6,7 @@ category: Exploring Islam
 published: 2026-10-20
 ---
 
-The Quran says that women and men are created from a single soul, are equal in worth before God, and receive the same reward for faith and good deeds. It also gives women specific rights in marriage, property and inheritance, and asks both men and women to dress and behave modestly. Some verses about family roles are read in different ways, and scholars have explained them in detail for centuries.
+The Quran says that women and men are created from a single soul, are equal in worth before God, and receive the same reward for faith and good deeds. It also gives women specific rights in marriage, property and inheritance, and asks both men and women to dress and behave modestly. Scholars have explained its verses on family roles in detail for centuries.
 
 This guide quotes the verses directly, for Muslims who want to understand them better and for anyone curious about how Islam's holy book speaks about women.
 
@@ -16,7 +16,7 @@ This guide quotes the verses directly, for Muslims who want to understand them b
 - Quran 33:35 lists ten qualities of faith and names women and men side by side for every one of them, promising both the same forgiveness and reward.
 - The Quran gives women the right to own property, keep their own earnings, receive a marriage gift (mahr) and inherit from relatives.
 - Modesty is asked of men first (24:30) and then of women (24:31 and 33:59), which is the main Quranic basis for the hijab.
-- Verses on family roles, such as 2:228 and 4:34, are explained at length in classical and modern scholarship, and readers are encouraged to study them with that context.
+- Verses on family roles, such as 2:228 and 4:34, are explained at length in classical and modern scholarship.
 
 ## Are men and women equal in the Quran?
 
@@ -52,7 +52,7 @@ Notice that 16:97 promises a "good life" in this world too. The Quran also calls
 
 In seventh-century Arabia, women often had little legal standing. Against that background, the Quran set out clear rights.
 
-- **The right to life.** The Quran condemns the pre-Islamic practice of burying infant girls alive, describing the girl being asked on Judgment Day "for what sin she was killed" ([Quran 81:8–9](/surah/at-takwir/8)).
+- **The right to life.** The Quran condemns the pre-Islamic practice of burying infant girls alive, describing the girl being asked on Judgment Day, "For what sin she was killed" ([Quran 81:8–9](/surah/at-takwir/8)).
 - **The right to earn and own.** "For men is a share of what they have earned, and for women is a share of what they have earned" ([Quran 4:32](/surah/an-nisa/32)).
 - **The right to inherit.** Women receive "an obligatory share" of what parents and relatives leave ([Quran 4:7](/surah/an-nisa/7)).
 - **The right to a marriage gift.** The husband gives the wife a mahr, which belongs to her alone ([Quran 4:4](/surah/an-nisa/4)).
@@ -96,7 +96,7 @@ Based on these verses and the Prophet's teaching, the four main Sunni schools of
 
 ## Which verses about women do scholars discuss most?
 
-Some verses are often raised in conversations about women in Islam. They are best read with the scholarly explanation that has always accompanied them, and our guide to [Christians and Jews in the Quran](/learn/christians-and-jews-in-the-quran) shows the same principle at work with other sensitive passages.
+Some verses are often raised in conversations about women in Islam. They are best read with the scholarly explanation that has always accompanied them, as our guide to [Christians and Jews in the Quran](/learn/christians-and-jews-in-the-quran) also shows.
 
 ### Quran 2:228 and the "degree"
 
@@ -126,11 +126,11 @@ The Quran says women and men come from one soul, are equal in spiritual worth, a
 
 ### Does the Quran say women are equal to men?
 
-Yes, in worth and in their relationship with God. Verses such as 33:35, 4:124 and 16:97 promise identical reward to men and women. The Quran also assigns some different roles and responsibilities within the family, which scholars explain in detail.
+Yes, in worth and in their relationship with God. Verses such as 33:35, 4:124 and 16:97 promise identical reward to both, while the Quran assigns some different family responsibilities.
 
 ### Is hijab mentioned in the Quran?
 
-The Quran does not use the word "hijab" for a headscarf, but it tells believing women to draw their *khimar* (head covering) over their chests in 24:31 and to wear an outer garment in 33:59. Mainstream Sunni scholars understand these verses as the basis for women covering their hair, while views differ on covering the face.
+The Quran does not use the word "hijab" for a headscarf, but it tells believing women to draw their *khimar* (head covering) over their chests (24:31) and to wear an outer garment (33:59). Mainstream Sunni scholars see these verses as the basis for covering the hair.
 
 ### What rights does the Quran give women in marriage?
 
@@ -138,4 +138,4 @@ A wife has the right to a marriage gift (mahr) that is hers alone, to financial 
 
 ### Which woman is named in the Quran?
 
-Mary (Maryam), the mother of Jesus, is the only woman mentioned by name in the Quran. Surah 19 is named after her, and the Quran says she was "chosen above the women of the worlds."
+Mary (Maryam), the mother of Jesus, is the only woman mentioned by name in the Quran. Surah 19 is named after her, and the angels tell her that God has "chosen you above the women of the worlds."

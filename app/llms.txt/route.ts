@@ -1,7 +1,7 @@
 import { getArticles } from "@/lib/articles";
 import { getSurahs, surahHref } from "@/lib/data";
 import { SITE, absUrl } from "@/lib/site";
-import { surahMeaning } from "@/lib/surah-meta";
+import { surahTitle } from "@/lib/surah-meta";
 
 export const dynamic = "force-static";
 
@@ -27,7 +27,7 @@ export function GET() {
     "",
     ...surahs.map(
       (s) =>
-        `- [${s.id}. Surah ${s.transliteration} (${surahMeaning(s.id)})](${absUrl(surahHref(s.id))}): ` +
+        `- [${s.id}. ${surahTitle(s.id, s.transliteration)}](${absUrl(surahHref(s.id))}): ` +
         `${s.type === "meccan" ? "Makkan" : "Madinan"}, ${s.total_verses} verses`,
     ),
     "",

@@ -40,7 +40,7 @@ After the earth shakes and the mountains crumble to dust, the surah says that pe
 
 "Allah" is the Arabic word for God, used by Arab Christians as well as Muslims. The three groups are:
 
-1. **The forerunners (as-sabiqun).** Those who raced ahead in faith and good deeds. They are "brought near" to God and receive the highest rank. The surah describes them as "a [large] company of the former peoples" and "a few of the later peoples" ([Quran 56:13–14](/surah/al-waqiah/13)).
+1. **The forerunners (as-sabiqun).** Those who raced ahead in faith and good deeds. They are "brought near" to God and receive the highest rank. The surah describes them as "A [large] company of the former peoples And a few of the later peoples" ([Quran 56:13–14](/surah/al-waqiah/13)).
 2. **The companions of the right (ashab al-yamin).** The righteous believers, who receive their record of deeds in their right hand. They enjoy shade, water, fruit and peace ([Quran 56:27–40](/surah/al-waqiah/27)).
 3. **The companions of the left (ashab ash-shimal).** Those who rejected the truth, described as having lived "indulging in affluence" and denying the resurrection ([Quran 56:41–47](/surah/al-waqiah/41)).
 

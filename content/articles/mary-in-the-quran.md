@@ -1,12 +1,12 @@
 ---
 title: Mary in the Quran and Maryam in Islam, Her Story Explained
-description: Mary in the Quran is honored above the women of the worlds. Read the story of Maryam in Islam, the virgin birth of Jesus, and why Surah Maryam is named after her.
+description: Mary in the Quran is honored above the women of the worlds. Read the story of Maryam in Islam, the virgin birth of Jesus, and why a surah is named after her.
 keywords: mary in the quran, maryam in islam, surah maryam, maryam surah, surah e maryam, virgin mary in islam, story of maryam in quran, why is a surah named after mary, quran 3:42, quran 19:16, quran 66:12, mother of jesus in islam
 category: Exploring Islam
 published: 2026-10-20
 ---
 
-Mary in the Quran, known in Arabic as Maryam, is the mother of Jesus and the most honored woman in Islam. She is the only woman mentioned by name in the Quran, the angels tell her she has been "chosen above the women of the worlds," and an entire chapter, Surah Maryam, carries her name.
+Mary in the Quran, known in Arabic as Maryam, is the mother of Jesus and the most honored woman in Islam. She is the only woman mentioned by name in the Quran, the angels tell her that God has "chosen you above the women of the worlds," and an entire chapter, Surah Maryam, carries her name.
 
 For Muslims, Maryam is a model of devotion, patience and trust in God. For Christian readers, it often comes as a surprise how much the Quran says about her, including her own birth, her years of worship, and the miraculous birth of Jesus. This guide tells her story verse by verse.
 

@@ -81,3 +81,11 @@ const ALIASES: Record<number, string[]> = {
 
 export const surahMeaning = (id: number) => SURAH_MEANINGS[id - 1];
 export const surahAliases = (id: number) => ALIASES[id] ?? [];
+
+const fold = (s: string) => s.toLowerCase().replace(/[^a-z]/g, "");
+
+// "Surah Al-Mulk (The Sovereignty)", but plain "Surah Ya-Sin" where the meaning is just the name again.
+export function surahTitle(id: number, transliteration: string) {
+  const meaning = surahMeaning(id);
+  return fold(meaning) === fold(transliteration) ? `Surah ${transliteration}` : `Surah ${transliteration} (${meaning})`;
+}

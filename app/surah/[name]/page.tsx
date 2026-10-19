@@ -14,7 +14,7 @@ import {
   type Surah,
 } from "@/lib/data";
 import { SITE, absUrl, breadcrumbs, organization } from "@/lib/site";
-import { surahAliases, surahMeaning } from "@/lib/surah-meta";
+import { surahAliases, surahMeaning, surahTitle } from "@/lib/surah-meta";
 
 type Params = Promise<{ name: string }>;
 
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   const surah = getSurahBySlug((await params).name);
   if (!surah) return {};
   const t = surah.transliteration;
-  const title = `Surah ${t} (${surahMeaning(surah.id)}): English Translation & Tafsir`;
+  const title = `${surahTitle(surah.id, t)}: English Translation & Tafsir`;
   const description = describe(surah);
   const url = surahHref(surah.id);
   return {
@@ -88,7 +88,7 @@ function surahJsonLd(s: Surah) {
         "@type": "WebPage",
         "@id": url,
         url,
-        name: `${name} (${surahMeaning(s.id)}): English Translation & Tafsir`,
+        name: `${surahTitle(s.id, s.transliteration)}: English Translation & Tafsir`,
         description: describe(s),
         inLanguage: "en",
         isPartOf: { "@id": `${SITE.url}/#website` },

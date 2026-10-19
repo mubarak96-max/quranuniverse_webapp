@@ -13,6 +13,7 @@ const arabic = Scheherazade_New({ variable: "--font-arabic", subsets: ["arabic"]
 export const metadata: Metadata = {
   title: "Quran Universe",
   description: "Every verse of the Quran with a card that gives context, perspective and one thing to try.",
+  verification: { google: "DPfuvFbxN91o3jOkC7wh6PhPL0upqnkspZ9lCPe0kns" },
 };
 
 // Palettes live in content/theme.json so the web and mobile apps share one source of colors.

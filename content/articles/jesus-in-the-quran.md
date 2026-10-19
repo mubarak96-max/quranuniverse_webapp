@@ -8,7 +8,7 @@ published: 2026-10-20
 
 Yes, Jesus is in the Quran. He is called Isa, son of Mary, and the Quran honours him as one of the greatest prophets, the Messiah, born miraculously to the virgin Mary and given the power to perform miracles by God's permission. At the same time, the Quran teaches that Jesus was a human messenger rather than God or the son of God, and that he was not crucified but raised up to God.
 
-Many people are surprised to learn how much the Quran says about Jesus. This guide walks through the main verses about Jesus in the Quran, notes clearly where Islamic and Christian beliefs agree and where they differ, and aims to be useful to Christians, Muslims and anyone in between.
+This guide walks through the main verses about Jesus in the Quran and notes clearly where Islamic and Christian beliefs agree and differ.
 
 ## Key takeaways
 
@@ -22,7 +22,7 @@ Many people are surprised to learn how much the Quran says about Jesus. This gui
 
 In Islam, Jesus is known as *Isa ibn Maryam*, Jesus son of Mary. The Quran consistently links him to his mother, and Mary is the only woman named in the Quran, with a whole chapter, [Surah Maryam](/surah/maryam), named after her. You can read more about her in our article on [Mary in the Quran](/learn/mary-in-the-quran).
 
-The Quran gives Jesus several honoured titles. He is the Messiah, a messenger, a prophet, a "word" from God and a spirit from Him. Muslims love Jesus, and believing in him as a prophet is a required part of Islamic faith. Many Muslims add "peace be upon him" after his name, as they do for all prophets.
+The Quran calls Jesus the Messiah, a messenger, a prophet, a "word" from God and a spirit from Him. Believing in him as a prophet is a required part of Islamic faith, and Muslims add "peace be upon him" after his name.
 
 > [And mention] when the angels said, "O Mary, indeed Allah gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allah].
 >
@@ -60,7 +60,7 @@ Other miracles are listed in his own words in Surah Ali Imran:
 >
 > — [Quran 3:49](/surah/ali-imran/49)
 
-The same miracles are repeated in [Quran 5:110](/surah/al-maidah/110), which also mentions that God "supported you with the Pure Spirit," understood by most scholars to be the angel Jibril. In [Quran 5:112–115](/surah/al-maidah/112), the disciples ask Jesus to pray for a table spread with food to come down from heaven, and God grants it. This is why the fifth chapter is named al-Maidah, "The Table Spread."
+The same miracles are repeated in [Quran 5:110](/surah/al-maidah/110), which adds that God "supported you with the Pure Spirit," understood by most scholars to be Jibril. In [Quran 5:112–115](/surah/al-maidah/112), the disciples ask for a table spread with food to come down from heaven, which gives the fifth chapter its name, al-Maidah.
 
 The repeated phrase "by permission of Allah" is important. In the Islamic view, the miracles show God's power working through Jesus, not that Jesus is divine himself.
 
@@ -74,11 +74,11 @@ This is the clearest point of difference between Islam and Christianity. The Qur
 
 The mainstream Muslim understanding, explained by Ibn Kathir and most classical scholars, is that Jesus was not crucified at all. Someone else was made to look like him, and God raised Jesus bodily and alive to heaven. Scholars have discussed who that person was, and a small number of interpreters have offered other readings, but the denial of the crucifixion itself is the shared Muslim position.
 
-For Christians, the crucifixion and resurrection of Jesus are at the centre of faith. Muslims and Christians therefore disagree on this point, and both can acknowledge that difference honestly and respectfully.
+For Christians, the crucifixion and resurrection are at the centre of faith, so this is a difference both sides can acknowledge honestly and respectfully.
 
 ## Is Jesus God in the Quran?
 
-The Quran teaches that Jesus was a human being and a servant of God, not God or the son of God. It addresses this directly, describing a conversation on the Day of Judgement in which Jesus himself denies ever asking to be worshipped:
+The Quran teaches that Jesus was a human servant of God, not God or the son of God. It describes a conversation on the Day of Judgement in which Jesus denies ever asking to be worshipped:
 
 > And [beware the Day] when Allah will say, "O Jesus, Son of Mary, did you say to the people, 'Take me and my mother as deities besides Allah?'" He will say, "Exalted are You! It was not for me to say that to which I have no right. If I had said it, You would have known it. You know what is within myself, and I do not know what is within Yourself. Indeed, it is You who is Knower of the unseen. I said not to them except what You commanded me - to worship Allah, my Lord and your Lord. And I was a witness over them as long as I was among them; but when You took me up, You were the Observer over them, and You are, over all things, Witness.
 >
@@ -100,7 +100,7 @@ Muslims believe that Jesus, having been raised alive, will return to earth befor
 
 ## The message of Jesus: the Gospel
 
-The Quran says God gave Jesus a scripture called the *Injil*, usually translated as the Gospel, "in which was guidance and light" ([Quran 5:46](/surah/al-maidah/46)). Muslims understand the Injil as the revelation given to Jesus, which is not exactly the same as the four Gospels of the New Testament. The Quran also says Jesus foretold a messenger to come after him named Ahmad, a name of Muhammad ([Quran 61:6](/surah/as-saf/6)). For a broader comparison of the two scriptures, see [Quran vs Bible](/learn/quran-vs-bible).
+The Quran says God gave Jesus a scripture called the *Injil*, the Gospel, "in which was guidance and light" ([Quran 5:46](/surah/al-maidah/46)). Muslims understand it as the revelation given to Jesus, not exactly the four New Testament Gospels. The Quran also says Jesus foretold a messenger to come after him named Ahmad, a name of Muhammad ([Quran 61:6](/surah/as-saf/6)). For a broader comparison of the two scriptures, see [Quran vs Bible](/learn/quran-vs-bible).
 
 ## Read the story of Jesus on Quran Universe
 
@@ -114,7 +114,7 @@ Yes. Jesus, called Isa in Arabic, is named around 25 times in the Quran and is h
 
 ### What does the Quran say about Jesus?
 
-The Quran says Jesus is the Messiah, the son of the virgin Mary, a prophet and messenger of God who performed miracles by God's permission. It also teaches that he was a human servant of God, not God himself, and that he was not crucified but raised to God (4:157–158). Muslims believe he will return before the end of time.
+The Quran says Jesus is the Messiah, son of the virgin Mary, and a prophet who performed miracles by God's permission. It teaches that he was a human servant of God, not God himself, and that he was not crucified but raised to God (4:157–158).
 
 ### Does the Quran say Jesus was crucified?
 

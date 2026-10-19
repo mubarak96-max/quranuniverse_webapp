@@ -3,6 +3,8 @@ import { getArticles } from "@/lib/articles";
 import { getSurahs, surahHref } from "@/lib/data";
 import { SITE, absUrl } from "@/lib/site";
 
+export const dynamic = "force-static";
+
 const PAGES = ["about", "contact", "privacy", "terms", "disclaimer"];
 
 export default function sitemap(): MetadataRoute.Sitemap {

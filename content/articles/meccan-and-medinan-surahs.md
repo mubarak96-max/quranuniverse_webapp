@@ -20,7 +20,7 @@ On Quran Universe, every surah page shows a label reading Makkah or Madinah. Thi
 
 ## What does Makkah or Madinah on a surah mean?
 
-The label tells you which period of the Prophet's mission a surah belongs to. Makkah is the city where the Prophet Muhammad (peace be upon him) was born and first received revelation. Madinah is the city about 450 kilometers to the north where he and his followers migrated in 622 CE, an event called the Hijrah, which also marks the start of the Islamic calendar.
+The label tells you which period of the Prophet's mission a surah belongs to. Makkah is the city where the Prophet Muhammad (peace be upon him) was born and first received revelation. Madinah is the city several hundred kilometers to the north where he and his followers migrated in 622 CE, an event called the Hijrah, which also marks the start of the Islamic calendar.
 
 The most common definition among scholars is based on time, not strict location. A verse revealed after the Hijrah counts as Medinan even if it came down in Makkah. A well-known example is the verse "This day I have perfected for you your religion," which, according to Sahih al-Bukhari and Sahih Muslim, was revealed at Arafah near Makkah during the Prophet's Farewell Pilgrimage, yet it is part of a Medinan surah, [al-Ma'idah](/surah/al-maidah/3).
 
@@ -80,7 +80,7 @@ All the other 86 surahs are Meccan. These include [al-Fatihah](/surah/al-fatihah
 
 ### Why do some lists differ?
 
-Scholars agree on the great majority of surahs, but a few are disputed because the historical reports point in different directions. Surahs such as ar-Ra'd, ar-Rahman, al-Insan and az-Zalzalah are labeled Medinan in the list above, while many other scholars and printed copies classify them as Meccan. You may also see slightly different totals, such as 85 or 87 Meccan surahs, for the same reason.
+Scholars agree on the great majority of surahs, but a few are disputed because the historical reports point in different directions. Surahs such as ar-Ra'd, ar-Rahman, al-Insan and az-Zalzalah are labeled Medinan in the list above, while many other scholars and printed copies classify them as Meccan. This is why you may see slightly different totals in other books and websites.
 
 ## What is the revelation order of the Quran?
 
@@ -126,7 +126,7 @@ The first verses revealed were the first five verses of Surah al-Alaq, chapter 9
 
 ### Is the Quran arranged in the order of revelation?
 
-No. The Quran is arranged with al-Fatihah first and then, broadly, from the longest surahs to the shortest. Muslims believe this arrangement was taught by the Prophet himself. The revelation order is known from historical reports, and scholars treat its exact sequence as approximate.
+No. The Quran is arranged with al-Fatihah first and then, broadly, from the longest surahs to the shortest. Most scholars hold that this arrangement was taught by the Prophet himself. The revelation order is known from historical reports, and scholars treat its exact sequence as approximate.
 
 ### Why does Quran Universe label surahs Makkah or Madinah?
 

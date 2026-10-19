@@ -1,7 +1,7 @@
 ---
 title: Prophets in the Quran - List of All 25 Named Prophets
 description: How many prophets are in the Quran? See the full list of all 25 prophets named in the Quran, their Bible names, key verses, their stories and their duas.
-keywords: prophets in the quran, list of prophets in the quran, how many prophets in the quran, 25 prophets in the quran, prophets in the quran and bible, stories of the prophets in the quran, dua of the prophets in the quran
+keywords: prophets in the quran, list of prophets in the quran, how many prophets in the quran, 25 prophets in the quran, prophets in the quran and bible, stories of the prophets in the quran, dua of the prophets in the quran, names of prophets in the quran, prophets in islam
 category: Exploring Islam
 published: 2026-10-20
 ---
@@ -43,7 +43,7 @@ Here is the list of the 25 prophets in the Quran in their traditional order, wit
 3. **Nuh** (Noah) – warned his people for centuries before the flood. [Quran 71:1](/surah/nuh/1)
 4. **Hud** (no clear biblical equivalent) – sent to the people of 'Aad. [Quran 11:50](/surah/hud/50)
 5. **Salih** (no biblical equivalent) – sent to the people of Thamud. [Quran 11:61](/surah/hud/61)
-6. **Ibrahim** (Abraham) – the "intimate friend" of God and father of prophets. [Quran 2:124](/surah/al-baqarah/124)
+6. **Ibrahim** (Abraham) – made "a leader for the people" and father of prophets. [Quran 2:124](/surah/al-baqarah/124)
 7. **Lut** (Lot) – Abraham's nephew, sent to the people of Sodom. [Quran 11:77](/surah/hud/77)
 8. **Ismail** (Ishmael) – Abraham's elder son, "true to his promise." [Quran 19:54](/surah/maryam/54)
 9. **Ishaq** (Isaac) – Abraham's younger son. [Quran 37:112](/surah/as-saffat/112)

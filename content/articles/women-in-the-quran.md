@@ -1,6 +1,6 @@
 ---
 title: What Does the Quran Say About Women? Rights, Roles and Dignity
-description: What does the Quran say about women? A clear guide to spiritual equality, women's rights, marriage, hijab and the verses scholars discuss most, with exact quotes.
+description: What does the Quran say about women? A clear guide to spiritual equality, women's rights, marriage, hijab and the verses scholars discuss most, with quotes.
 keywords: what does the quran say about women, what does the quran say about women rights, women in islam, women in the quran, what does the quran say about hijab, what does the quran say about marriage, spiritual equality in islam, quran 33:35, quran 4:1, quran 24:31, women's rights in the quran
 category: Exploring Islam
 published: 2026-10-20
@@ -8,7 +8,7 @@ published: 2026-10-20
 
 The Quran says that women and men are created from a single soul, are equal in worth before God, and receive the same reward for faith and good deeds. It also gives women specific rights in marriage, property and inheritance, and asks both men and women to dress and behave modestly. Some verses about family roles are read in different ways, and scholars have explained them in detail for centuries.
 
-This guide walks through what the Quran actually says about women, quoting the verses directly. It is written for Muslims who want to understand these passages better and for anyone curious about how Islam's holy book speaks about women.
+This guide quotes the verses directly, for Muslims who want to understand them better and for anyone curious about how Islam's holy book speaks about women.
 
 ## Key takeaways
 
@@ -26,19 +26,17 @@ The Quran's starting point is shared origin. In the opening verse of [Surah an-N
 >
 > — [Quran 4:1](/surah/an-nisa/1)
 
-"Allah" is simply the Arabic word for God, and Arabic-speaking Christians use it too. The verse ends by asking people to honor "the wombs," meaning family ties, which places motherhood and kinship at the heart of moral life.
-
-The Quran also says plainly that nobody's good deeds are wasted because of their gender. In [Quran 3:195](/surah/ali-imran/195), God answers the prayers of believers with the words "Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another."
+"Allah" is simply the Arabic word for God, and Arabic-speaking Christians use it too. In [Quran 3:195](/surah/ali-imran/195), God adds that no one's work is lost, "whether male or female; you are of one another."
 
 ## What does Quran 33:35 say about spiritual equality?
 
-One of the most striking verses on this topic is [Quran 33:35](/surah/al-ahzab/35). Classical commentators, including Ibn Kathir, mention reports that it was revealed after women asked why the Quran seemed to address men more often. The answer was a verse that names women and men side by side, quality by quality.
+Classical commentators, including Ibn Kathir, mention reports that [Quran 33:35](/surah/al-ahzab/35) was revealed after women asked why the Quran seemed to address men more often. The answer named women and men side by side, quality by quality.
 
 > Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allah often and the women who do so - for them Allah has prepared forgiveness and a great reward.
 >
 > — [Quran 33:35](/surah/al-ahzab/35)
 
-The same message appears in other verses that promise reward "whether male or female." These verses make clear that the path to God is open equally to everyone.
+Other verses repeat the promise "whether male or female."
 
 > And whoever does righteous deeds, whether male or female, while being a believer - those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.
 >
@@ -48,11 +46,11 @@ The same message appears in other verses that promise reward "whether male or fe
 >
 > — [Quran 16:97](/surah/an-nahl/97)
 
-Notice that 16:97 promises a "good life" in this world too, not only reward after death. The Quran also describes believing men and women as "allies of one another" who together encourage good and pray ([Quran 9:71](/surah/at-tawbah/71)).
+Notice that 16:97 promises a "good life" in this world too. The Quran also calls believing men and women "allies of one another" ([Quran 9:71](/surah/at-tawbah/71)).
 
 ## What does the Quran say about women's rights?
 
-The Quran was revealed in seventh-century Arabia, where women often had little legal standing. Against that background, it set out several clear rights.
+In seventh-century Arabia, women often had little legal standing. Against that background, the Quran set out clear rights.
 
 - **The right to life.** The Quran condemns the pre-Islamic practice of burying infant girls alive, describing the girl being asked on Judgment Day "for what sin she was killed" ([Quran 81:8–9](/surah/at-takwir/8)).
 - **The right to earn and own.** "For men is a share of what they have earned, and for women is a share of what they have earned" ([Quran 4:32](/surah/an-nisa/32)).
@@ -64,7 +62,7 @@ The Quran was revealed in seventh-century Arabia, where women often had little l
 >
 > — [Quran 4:19](/surah/an-nisa/19)
 
-The Quran also tells the story of a woman who brought a complaint about her husband directly to the Prophet Muhammad (peace be upon him). The chapter that follows opens with the words "Certainly has Allah heard the speech of the one who argues with you" ([Quran 58:1](/surah/al-mujadila/1)), and its name, al-Mujadila, is often translated as "She Who Disputes."
+One chapter, al-Mujadila ("She Who Disputes"), opens by honoring a woman who brought a complaint about her husband to the Prophet Muhammad (peace be upon him): "Certainly has Allah heard the speech of the one who argues with you" ([Quran 58:1](/surah/al-mujadila/1)).
 
 ## What does the Quran say about marriage?
 
@@ -74,11 +72,11 @@ The Quran describes marriage as a source of calm, love and mercy, and calls it o
 >
 > — [Quran 30:21](/surah/ar-rum/21)
 
-In another verse, spouses are called "clothing" for each other ([Quran 2:187](/surah/al-baqarah/187)). Commentators explain the image as closeness, comfort and protecting each other's dignity.
+In another verse, spouses are called "clothing" for each other ([Quran 2:187](/surah/al-baqarah/187)). The image suggests closeness, comfort and protection.
 
 Consent is central. In a hadith recorded in both Sahih al-Bukhari and Sahih Muslim, the Prophet said that a woman should not be married without her consent being sought. He is also reported in Jami at-Tirmidhi to have said, "The best of you are those who are best to their families, and I am the best of you to my family."
 
-The Quran permits a man to marry up to four wives, but only on the condition of justice, and it adds "if you fear that you will not be just, then [marry only] one" ([Quran 4:3](/surah/an-nisa/3)). It also allows divorce while urging that it be handled "in an acceptable manner" and "with good treatment" ([Quran 2:229](/surah/al-baqarah/229)). The detailed rules for marriage and divorce are explained by scholars of Islamic law.
+The Quran permits up to four wives only on the condition of justice, adding "if you fear that you will not be just, then [marry only] one" ([Quran 4:3](/surah/an-nisa/3)). It allows divorce "with good treatment" ([Quran 2:229](/surah/al-baqarah/229)), and scholars of Islamic law explain the detailed rules.
 
 ## What does the Quran say about hijab?
 
@@ -98,7 +96,7 @@ Based on these verses and the Prophet's teaching, the four main Sunni schools of
 
 ## Which verses about women do scholars discuss most?
 
-Some verses are frequently raised in conversations about women in Islam. They are best read with the scholarly explanation that has always accompanied them.
+Some verses are often raised in conversations about women in Islam. They are best read with the scholarly explanation that has always accompanied them, and our guide to [Christians and Jews in the Quran](/learn/christians-and-jews-in-the-quran) shows the same principle at work with other sensitive passages.
 
 ### Quran 2:228 and the "degree"
 
@@ -106,7 +104,7 @@ Some verses are frequently raised in conversations about women in Islam. They ar
 
 ### Quran 4:34 and family leadership
 
-[Quran 4:34](/surah/an-nisa/34) describes men as responsible for women and for financial support, and it outlines steps for serious marital conflict. It is one of the most discussed verses in the Quran. Classical scholars placed strict limits on its final step and treated it as a last resort to avoid divorce, never as a license for harm. They also pointed to the Prophet's own example: his wife Aisha said, in a report in Sahih Muslim, that he never struck a woman or a servant. Modern scholars continue to discuss its meaning, so this is a verse worth studying with a trusted teacher and a full tafsir.
+[Quran 4:34](/surah/an-nisa/34) describes men as responsible for women and for financial support, and it outlines steps for serious marital conflict. It is one of the most discussed verses in the Quran. Classical scholars placed strict limits on its final step and treated it as a last resort to avoid divorce, never as a license for harm. They also pointed to the Prophet's own example: his wife Aisha said, in a report in Sahih Muslim, that he never struck a woman or a servant. It is worth studying with a trusted teacher and a full tafsir.
 
 ### Inheritance and witness
 
@@ -114,13 +112,11 @@ Some verses are frequently raised in conversations about women in Islam. They ar
 
 ## Women honored in the Quran
 
-The Quran tells the stories of several remarkable women. Mary, the mother of Jesus, is the only woman named in the Quran, and a whole chapter carries her name. You can read more in our guide to [Mary in the Quran](/learn/mary-in-the-quran).
-
-Others are honored without being named. These include the mother of Moses, who trusted God and placed her baby in the river ([Quran 28:7](/surah/al-qasas/7)), and the wife of Pharaoh, held up as an example for all believers ([Quran 66:11](/surah/at-tahrim/11)). The Queen of Sheba is described as a wise ruler who chose to submit to God ([Quran 27:44](/surah/an-naml/44)).
+Mary, the mother of Jesus, is the only woman named in the Quran, and a whole chapter carries her name (see [Mary in the Quran](/learn/mary-in-the-quran)). Others are honored without being named, including the mother of Moses, who trusted God and placed her baby in the river ([Quran 28:7](/surah/al-qasas/7)), and the wife of Pharaoh, held up as an example for all believers ([Quran 66:11](/surah/at-tahrim/11)). The Queen of Sheba is described as a wise ruler who chose to submit to God ([Quran 27:44](/surah/an-naml/44)).
 
 ## Read these verses with context on Quran Universe
 
-Every verse quoted here can be read on Quran Universe in Arabic with the Sahih International translation, word-by-word meanings, a short verse card explaining its context, and the full Tafsir Ibn Kathir. Starting with [Surah an-Nisa](/surah/an-nisa) and [Surah an-Nur](/surah/an-nur) gives a strong foundation. If tafsir is new to you, our guide on [what tafsir is](/learn/what-is-tafsir) explains how scholars read these passages.
+Every verse quoted here can be read on Quran Universe in Arabic with the Sahih International translation, word-by-word meanings, a short verse card explaining its context, and the full Tafsir Ibn Kathir. [Surah an-Nisa](/surah/an-nisa) and [Surah an-Nur](/surah/an-nur) are good places to start, and our guide on [what tafsir is](/learn/what-is-tafsir) explains how scholars read them.
 
 ## Frequently asked questions
 

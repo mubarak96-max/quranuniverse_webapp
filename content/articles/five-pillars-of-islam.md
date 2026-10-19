@@ -36,7 +36,7 @@ Here are the five pillars of Islam in their traditional order, with their meanin
 4. **Sawm (fasting)** – fasting from dawn to sunset throughout the month of Ramadan.
 5. **Hajj (pilgrimage)** – travelling to Makkah to perform the pilgrimage once in a lifetime, if physically and financially able.
 
-## 1. Shahada, the declaration of faith
+### 1. Shahada, the declaration of faith
 
 The shahada is the statement "There is no god but Allah, and Muhammad is the Messenger of Allah." Saying it sincerely, with understanding, is how a person enters Islam, and Muslims repeat it many times a day in prayer. It has two parts: the oneness of God and the prophethood of Muhammad.
 
@@ -48,7 +48,7 @@ Both halves come straight from the Quran:
 
 The second half, "Muhammad is the Messenger of Allah," is the opening phrase of [Quran 48:29](/surah/al-fath/29). Every other pillar builds on this one, because worship only has meaning when it is directed to the one God.
 
-## 2. Salah, the five daily prayers
+### 2. Salah, the five daily prayers
 
 Salah is the ritual prayer Muslims perform five times a day: Fajr (dawn), Dhuhr (midday), Asr (afternoon), Maghrib (sunset) and Isha (night). Each prayer includes standing, recitation of the Quran, bowing and prostration, and is done facing the Kaaba in Makkah.
 
@@ -60,7 +60,7 @@ The Quran commands prayer dozens of times and ties it to fixed times:
 
 Verses such as [Quran 17:78](/surah/al-isra/78) and [Quran 11:114](/surah/hud/114) point to the prayer times. The exact number of five daily prayers and how to perform them come from the Prophet's teaching and practice, which scholars have explained in detail. The Quran also describes the purpose of prayer: "Indeed, prayer prohibits immorality and wrongdoing" ([Quran 29:45](/surah/al-ankabut/45)).
 
-## 3. Zakat, the obligatory charity
+### 3. Zakat, the obligatory charity
 
 Zakat means "purification" and "growth." It is a yearly payment, commonly calculated as 2.5 percent of savings held for a full lunar year above a minimum threshold called the *nisab*. It is not a voluntary donation but a duty, and voluntary giving (*sadaqah*) is encouraged on top of it.
 
@@ -72,7 +72,7 @@ The Quran pairs zakat with prayer again and again, as in "And establish prayer a
 
 The detailed rules on which wealth is counted and how much is due are explained by scholars from the Prophet's teaching.
 
-## 4. Sawm, fasting in Ramadan
+### 4. Sawm, fasting in Ramadan
 
 During Ramadan, the ninth month of the Islamic lunar calendar, adult Muslims who are able go without food, drink and marital relations from dawn until sunset. The fast is also meant to train patience, self-control and gratitude, and many Muslims read the whole Quran during the month.
 
@@ -88,7 +88,7 @@ The Quran explains why Ramadan was chosen and builds in ease for the sick and tr
 
 The holiest night of the month is the Night of Decree; read more in our guide to [Laylatul Qadr](/learn/laylatul-qadr).
 
-## 5. Hajj, the pilgrimage to Makkah
+### 5. Hajj, the pilgrimage to Makkah
 
 Hajj is the pilgrimage to the Kaaba in Makkah, performed during the month of Dhul Hijjah. It is required once in a lifetime for every adult Muslim who is physically and financially able. Pilgrims wear simple white garments, which removes signs of wealth and status, and follow rites that trace the footsteps of Abraham, his wife Hagar and their son Ishmael.
 

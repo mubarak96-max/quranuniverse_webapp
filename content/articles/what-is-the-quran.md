@@ -61,9 +61,6 @@ The Quran describes its own purpose as guidance. It opens its second surah with 
 > This is the Book about which there is no doubt, a guidance for those conscious of Allah -
 >
 > — [Quran 2:2](/surah/al-baqarah/2)
-
-If you want to see how the stories of earlier messengers appear in the text, our guide to [prophets in the Quran](/learn/prophets-in-the-quran) is a good next step.
-
 ## What is the Quran written in?
 
 The Quran was revealed and written in Arabic, specifically the classical Arabic of 7th-century Arabia. The Quran itself highlights its Arabic language several times.

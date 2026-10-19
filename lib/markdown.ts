@@ -22,7 +22,12 @@ export type Heading = { level: 2 | 3; text: string; id: string };
 export function renderMarkdown(md: string): { html: string; headings: Heading[] } {
   const out: string[] = [];
   const headings: Heading[] = [];
-  const blocks = md.replace(/\r\n/g, "\n").trim().split(/\n\s*\n/);
+  // Headings always stand alone, even when an author forgot the blank lines around them.
+  const blocks = md
+    .replace(/\r\n/g, "\n")
+    .replace(/^(#{2,3}\s.*)$/gm, "\n$1\n")
+    .trim()
+    .split(/\n\s*\n/);
 
   for (const block of blocks) {
     const lines = block.split("\n");

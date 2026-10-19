@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "quranuniverse",
+  "compatibility_date": "2026-10-19",
+  // Static export from `next build` (output: "export"); no Worker code runs.
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

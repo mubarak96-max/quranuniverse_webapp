@@ -8,6 +8,7 @@ import { SITE, organization } from "@/lib/site";
 import "./globals.css";
 import "./card.css";
 import "./content.css";
+import "./home.css";
 
 const geist = Geist({ variable: "--font-ui", subsets: ["latin"] });
 const newsreader = Newsreader({

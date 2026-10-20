@@ -1,0 +1,155 @@
+/* Home hero: copy and CTA on the left, a 3x3 grid of popular surahs on the right. */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(32px, 5vw, 72px);
+  padding: clamp(20px, 5vw, 56px) 0 clamp(40px, 7vw, 72px);
+}
+
+.hero-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+  padding: 8px 16px 8px 12px;
+  border: 1px solid color-mix(in srgb, var(--idea) 22%, var(--line));
+  border-radius: 999px;
+  background: var(--ideaBg);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.hero-pill::before {
+  content: "";
+  flex: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--idea);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--idea) 18%, transparent);
+}
+
+.hero h1 {
+  font-family: var(--display);
+  font-size: clamp(40px, 5.2vw, 68px);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  margin: 24px 0 20px;
+  text-wrap: balance;
+}
+
+.hero h1 em {
+  display: block;
+  font-style: italic;
+  color: var(--idea);
+}
+
+.hero .lede {
+  margin: 0;
+  max-width: 46ch;
+}
+
+.hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  height: 52px;
+  margin-top: 32px;
+  padding: 0 28px;
+  border-radius: 14px;
+  background: var(--idea);
+  color: var(--page);
+  font-size: 16px;
+  font-weight: 600;
+  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
+}
+
+.hero-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px -10px color-mix(in srgb, var(--idea) 60%, transparent);
+}
+
+.hero-tiles {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(10px, 1.6vw, 18px);
+}
+
+.hero-tiles a {
+  position: relative;
+  height: 100%;
+  min-height: 164px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 34px 10px 16px;
+  text-align: center;
+  background: var(--page);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s var(--ease), border-color 0.2s;
+}
+
+.hero-tiles a:hover {
+  transform: translateY(-3px);
+  border-color: color-mix(in srgb, var(--idea) 45%, var(--line));
+}
+
+.hero-tiles .ar {
+  font-size: clamp(24px, 2.6vw, 32px);
+  line-height: 1.5;
+  color: var(--idea);
+}
+
+.hero-tiles b {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.hero-tiles small {
+  font-size: 12.5px;
+  color: var(--muted);
+}
+
+.hero-tag {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  padding: 3px 6px;
+  border-radius: 6px;
+  background: var(--reward);
+  color: var(--page);
+  font-size: 11.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 520px) {
+  .hero-tiles a {
+    min-height: 132px;
+    padding: 30px 6px 12px;
+  }
+  .hero-tiles b {
+    font-size: 13.5px;
+  }
+  .hero-tiles small {
+    display: none;
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "beginning",
+  "title": "The beginning",
+  "span": "Adam to Nuh · dates unknown",
+  "blurb": "The Quran gives the order of these events, not their dates. The sequence is fixed; the years are unknown.",
+  "camera": { "lat": 30, "lng": 42, "zoom": 1.4 },
+  "zoom": 3,
+  "events": [
+    {
+      "id": "adam",
+      "title": "Adam, the first human",
+      "year": { "ce": -100000, "precision": "unknown" },
+      "place": { "name": "Earth" },
+      "who": ["Adam", "Hawwa"],
+      "what": "Allah creates Adam, teaches him the names of all things, and makes him the first prophet.",
+      "verses": ["2:30-33", "38:71-72"],
+      "quote": "2:31",
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "journey": "adam",
+      "kind": "prophet"
+    },
+    {
+      "id": "iblis",
+      "title": "Iblis refuses to bow",
+      "year": { "ce": -99950, "precision": "unknown" },
+      "place": { "name": "The heavens" },
+      "who": ["Iblis", "Adam"],
+      "what": "The angels bow to Adam. Iblis refuses out of pride and vows to mislead Adam's children.",
+      "verses": ["2:34", "7:11-18"],
+      "source": "Quran",
+      "journey": "adam",
+      "kind": "prophet"
+    },
+    {
+      "id": "descent",
+      "title": "Sent down to earth",
+      "year": { "ce": -99900, "precision": "unknown" },
+      "place": { "name": "Earth" },
+      "who": ["Adam", "Hawwa"],
+      "what": "Adam and Hawwa eat from the forbidden tree, repent, and are sent down to earth. Allah accepts their repentance.",
+      "verses": ["2:35-38", "20:120-123"],
+      "quote": "2:37",
+      "source": "Quran",
+      "journey": "adam",
+      "kind": "prophet"
+    },
+    {
+      "id": "first-murder",
+      "title": "Habil and Qabil",
+      "year": { "ce": -99000, "precision": "unknown" },
+      "place": { "name": "Earth" },
+      "who": ["Qabil", "Habil"],
+      "what": "One son of Adam kills the other. The Quran uses it to teach that killing one person is like killing all people.",
+      "verses": ["5:27-32"],
+      "quote": "5:32",
+      "source": "Quran",
+      "journey": "adam",
+      "kind": "prophet"
+    },
+    {
+      "id": "idris",
+      "title": "Prophet Idris",
+      "year": { "ce": -98000, "precision": "unknown" },
+      "place": { "name": "Unknown" },
+      "who": ["Idris"],
+      "what": "Prophet Idris, praised as truthful and raised to a high station. Tradition credits him with the first writing and sewing.",
+      "verses": ["19:56-57", "21:85"],
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "nuh",
+      "title": "Nuh builds the ark",
+      "year": { "ce": -97000, "precision": "unknown" },
+      "place": { "name": "Mesopotamia" },
+      "who": ["Nuh"],
+      "what": "Nuh preaches for 950 years. His people reject him, so he builds the ark on Allah's command.",
+      "verses": ["29:14", "71:1-28", "11:36-39"],
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "flood",
+      "title": "The Flood",
+      "year": { "ce": -96000, "precision": "unknown" },
+      "place": { "name": "Mount Judi", "lat": 37.37, "lng": 42.35 },
+      "who": ["Nuh"],
+      "what": "The flood drowns the deniers, including Nuh's own son. The ark comes to rest on Mount Judi.",
+      "verses": ["11:40-48", "54:9-15"],
+      "quote": "11:42",
+      "source": "Quran",
+      "kind": "prophet"
+    }
+  ]
+}

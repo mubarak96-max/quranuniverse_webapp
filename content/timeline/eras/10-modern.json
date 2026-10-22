@@ -1,0 +1,227 @@
+{
+  "id": "modern",
+  "title": "Colonial age to today",
+  "span": "1804 CE to now",
+  "blurb": "European empires take most Muslim lands, the caliphate ends, and fifty new states emerge. Today one in four people is Muslim.",
+  "camera": { "lat": 25, "lng": 40, "zoom": 1 },
+  "zoom": 3,
+  "events": [
+    {
+      "id": "sokoto",
+      "title": "The Sokoto Caliphate",
+      "year": { "ce": 1804, "ah": 1219, "precision": "exact" },
+      "place": { "name": "Sokoto, Nigeria", "lat": 13.06, "lng": 5.24 },
+      "who": ["Usman dan Fodio"],
+      "what": "Usman dan Fodio founds the Sokoto Caliphate, the largest state in Africa at the time.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "muhammad-ali",
+      "title": "Muhammad Ali's Egypt",
+      "year": { "ce": 1805, "ah": 1220, "precision": "exact" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
+      "who": ["Muhammad Ali"],
+      "what": "Muhammad Ali takes power in Egypt and builds a modern army, schools and factories, nearly independent of the Ottomans.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "algeria-1830",
+      "title": "France invades Algeria",
+      "year": { "ce": 1830, "ah": 1246, "precision": "exact" },
+      "place": { "name": "Algiers, Algeria", "lat": 36.75, "lng": 3.06 },
+      "what": "France invades Algeria. Over the next century Britain, France, Russia and the Netherlands rule most Muslims on earth.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "last-mughal",
+      "title": "The last Mughal",
+      "year": { "ce": 1857, "ah": 1274, "precision": "exact" },
+      "place": { "name": "Delhi, India", "lat": 28.6, "lng": 77.2 },
+      "who": ["Bahadur Shah Zafar"],
+      "what": "The Indian uprising fails. Britain exiles the last Mughal emperor to Burma and rules India directly.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "suez",
+      "title": "The Suez Canal",
+      "year": { "ce": 1869, "ah": 1286, "precision": "exact" },
+      "place": { "name": "Suez, Egypt", "lat": 30.6, "lng": 32.3 },
+      "what": "The Suez Canal opens. Egypt's debts hand it to Britain, which occupies the country in 1882.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "hejaz-railway",
+      "title": "The Hejaz Railway",
+      "year": { "ce": 1908, "ah": 1326, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Abdul Hamid II"],
+      "what": "The Hejaz Railway links Damascus to Madinah, paid for by Muslims worldwide. The Hajj journey drops from forty days to four.",
+      "routes": [
+        {
+          "points": [
+            [33.51, 36.29, "Damascus"],
+            [31.95, 35.93, "Amman"],
+            [30.2, 35.73, "Ma'an"],
+            [28.38, 36.57, "Tabuk"],
+            [26.6, 37.9, "al-Ula"],
+            [24.47, 39.61, "Madinah"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "ww1",
+      "title": "The First World War",
+      "year": { "ce": 1914, "ah": 1333, "precision": "exact" },
+      "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
+      "what": "The Ottomans join the First World War on Germany's side. Britain backs an Arab revolt in 1916 and promises Palestine to Zionists in 1917.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "caliphate-ends",
+      "title": "The caliphate is abolished",
+      "year": { "ce": 1924, "ah": 1342, "precision": "exact" },
+      "place": { "name": "Ankara, Turkey", "lat": 39.93, "lng": 32.85 },
+      "who": ["Mustafa Kemal"],
+      "what": "The new Turkish republic abolishes the caliphate. For the first time since 632 there is no caliph.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "saudi-arabia",
+      "title": "Saudi Arabia",
+      "year": { "ce": 1932, "ah": 1351, "precision": "exact" },
+      "place": { "name": "Riyadh, Saudi Arabia", "lat": 24.71, "lng": 46.68 },
+      "who": ["Abdulaziz ibn Saud"],
+      "what": "The Kingdom of Saudi Arabia is proclaimed. Oil is found six years later.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "oil",
+      "title": "Oil in Arabia",
+      "year": { "ce": 1938, "ah": 1357, "precision": "exact" },
+      "place": { "name": "Dammam, Saudi Arabia", "lat": 26.43, "lng": 50.1 },
+      "what": "Oil is struck at Dammam Well No. 7. Arabia's economy, and the world's, changes for good.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "pakistan",
+      "title": "Partition and Pakistan",
+      "year": { "ce": 1947, "ah": 1366, "precision": "exact" },
+      "place": { "name": "Karachi, Pakistan", "lat": 24.86, "lng": 67 },
+      "who": ["Muhammad Ali Jinnah"],
+      "what": "British India is partitioned. Pakistan is born as a homeland for Muslims; a million die in the migrations.",
+      "routes": [
+        {
+          "points": [[28.6, 77.2, "Delhi"], [31.55, 74.34, "Lahore"]]
+        }
+      ],
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "nakba",
+      "title": "The Nakba",
+      "year": { "ce": 1948, "ah": 1367, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "what": "Israel is declared. Over 700,000 Palestinians are expelled or flee. Palestinians call it the Nakba, the catastrophe.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "independence",
+      "title": "The year of independence",
+      "year": { "ce": 1960, "ah": 1380, "precision": "exact" },
+      "place": { "name": "Dakar, Senegal", "lat": 14.72, "lng": -17.47 },
+      "what": "Seventeen African states gain independence in one year. Algeria follows in 1962 after an eight-year war.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "1967",
+      "title": "The Six-Day War",
+      "year": { "ce": 1967, "ah": 1387, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "what": "In six days Israel takes East Jerusalem, the West Bank, Gaza, Sinai and the Golan. Al-Aqsa comes under occupation.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "oic",
+      "title": "The OIC",
+      "year": { "ce": 1969, "ah": 1389, "precision": "exact" },
+      "place": { "name": "Rabat, Morocco", "lat": 34.02, "lng": -6.84 },
+      "what": "After an arson attack on al-Aqsa, Muslim states found the Organisation of Islamic Cooperation. Today it has 57 members.",
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "iran-1979",
+      "title": "The Iranian revolution",
+      "year": { "ce": 1979, "ah": 1399, "precision": "exact" },
+      "place": { "name": "Tehran, Iran", "lat": 35.69, "lng": 51.39 },
+      "who": ["Khomeini"],
+      "what": "Revolution topples the Shah and makes Iran an Islamic republic. The same year the Soviets invade Afghanistan.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "quran-complex",
+      "title": "Printing the Quran",
+      "year": { "ce": 1984, "precision": "approx" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "what": "The King Fahd Complex in Madinah starts printing the Quran. It now prints millions of copies a year in dozens of languages.",
+      "source": "History",
+      "kind": "revelation"
+    },
+    {
+      "id": "central-asia",
+      "title": "Central Asia independent",
+      "year": { "ce": 1991, "ah": 1412, "precision": "exact" },
+      "place": { "name": "Tashkent, Uzbekistan", "lat": 41.3, "lng": 69.24 },
+      "what": "The Soviet Union collapses. Six Muslim-majority republics from Azerbaijan to Kyrgyzstan become independent states.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "2001",
+      "title": "9/11 and the wars",
+      "year": { "ce": 2001, "ah": 1422, "precision": "exact" },
+      "place": { "name": "Kabul, Afghanistan", "lat": 34.53, "lng": 69.17 },
+      "what": "The 9/11 attacks. The United States invades Afghanistan, then Iraq in 2003. Two decades of war follow.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "arab-spring",
+      "title": "The Arab Spring",
+      "year": { "ce": 2011, "ah": 1432, "precision": "exact" },
+      "place": { "name": "Tunis, Tunisia", "lat": 36.8, "lng": 10.18 },
+      "what": "A street vendor's protest in Tunisia sparks uprisings across the Arab world. Four rulers fall; Syria descends into war.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "today",
+      "title": "Two billion Muslims",
+      "year": { "ce": 2026, "ah": 1448, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "what": "Around two billion Muslims, one in four people on earth. Every year millions stand at Arafat where the farewell sermon was given.",
+      "verses": ["3:96-97"],
+      "camera": { "zoom": 3 },
+      "article": "what-is-islam",
+      "source": "History",
+      "kind": "event"
+    }
+  ]
+}

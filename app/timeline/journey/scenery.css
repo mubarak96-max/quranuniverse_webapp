@@ -1,0 +1,566 @@
+/* Journey scenery: the light, landscape and set pieces behind each scene. Nothing here depicts a person. */
+
+.jr-piece {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  animation: jr-fade 1.8s var(--ease) both;
+}
+
+@keyframes jr-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+.jr-piece > * {
+  position: absolute;
+}
+
+.pc-orb > i,
+.pc-mound > i,
+.pc-core > i,
+.pc-ember > i {
+  left: 50%;
+  top: 42%;
+  width: 70vmin;
+  height: 70vmin;
+  margin: -35vmin 0 0 -35vmin;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 233, 184, 0.55) 0%, rgba(246, 214, 143, 0.16) 35%, transparent 68%);
+  animation: jr-breathe-soft 7s ease-in-out infinite;
+}
+
+.pc-orb[data-set="dawn"] > i {
+  top: 0;
+  width: 140vmin;
+  height: 90vmin;
+  margin: -45vmin 0 0 -70vmin;
+  background: radial-gradient(ellipse, rgba(255, 233, 184, 0.35), transparent 65%);
+}
+
+.pc-mound > i {
+  width: 34vmin;
+  height: 34vmin;
+  margin: -17vmin 0 0 -17vmin;
+  background: radial-gradient(circle, rgba(196, 146, 79, 0.6), rgba(138, 90, 60, 0.2) 45%, transparent 70%);
+}
+
+.pc-core > i {
+  width: 30vmin;
+  height: 30vmin;
+  margin: -15vmin 0 0 -15vmin;
+  background: radial-gradient(circle, rgba(255, 246, 220, 0.7), rgba(246, 214, 143, 0.2) 40%, transparent 70%);
+}
+
+.pc-ember > i {
+  top: auto;
+  bottom: -30vmin;
+  width: 110vmin;
+  height: 60vmin;
+  margin: 0 0 0 -55vmin;
+  background: radial-gradient(ellipse at 50% 100%, rgba(255, 138, 61, 0.55), rgba(226, 72, 43, 0.2) 40%, transparent 70%);
+  animation: jr-flicker 3s ease-in-out infinite;
+}
+
+@keyframes jr-breathe-soft {
+  50% {
+    transform: scale(1.08);
+    opacity: 0.8;
+  }
+}
+
+@keyframes jr-flicker {
+  30% {
+    opacity: 0.75;
+  }
+  60% {
+    opacity: 1;
+    transform: scaleY(1.08);
+  }
+}
+
+.pc-vessel .pc-ring {
+  left: 50%;
+  top: 40%;
+  width: 26vmin;
+  height: 40vmin;
+  margin: -20vmin 0 0 -13vmin;
+  border-radius: 50%;
+  border: 1px solid rgba(226, 196, 156, 0.4);
+  box-shadow: inset 0 0 40px rgba(226, 196, 156, 0.12), 0 0 40px rgba(226, 196, 156, 0.08);
+}
+
+.pc-vessel .pc-orbit {
+  left: 50%;
+  top: 40%;
+  width: 0;
+  height: 0;
+  animation: jr-spin 9s linear infinite;
+}
+
+.pc-vessel .pc-orbit b {
+  position: absolute;
+  left: 27vmin;
+  top: -4px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #ff8a3d;
+  box-shadow: 0 0 16px 4px rgba(255, 138, 61, 0.6);
+}
+
+@keyframes jr-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.pc-assembly,
+.pc-bow {
+  display: grid;
+  align-content: start;
+  justify-content: center;
+  padding-top: 14vh;
+}
+
+.pc-assembly {
+  grid-template-columns: repeat(11, 6vmin);
+  row-gap: 5vmin;
+}
+
+.pc-assembly > i,
+.pc-bow > i {
+  position: relative;
+  justify-self: center;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #fff3d6;
+  box-shadow: 0 0 14px 4px rgba(246, 214, 143, 0.45);
+  animation: jr-breathe 3s ease-in-out infinite;
+  animation-delay: calc(var(--i) * -0.37s);
+}
+
+.pc-bow {
+  grid-template-columns: repeat(13, 6.5vmin);
+  padding-top: 16vh;
+}
+
+/* All but one light sink low, one after another; the one that refuses stays and burns. */
+.pc-bow > i {
+  animation: jr-sink 1.6s var(--ease) both;
+  animation-delay: calc(1.2s + var(--i) * 0.07s);
+}
+
+.pc-bow > i.pc-refuse {
+  animation: jr-refuse 2s var(--ease) 2s both;
+}
+
+@keyframes jr-sink {
+  to {
+    transform: translateY(var(--sink, 10vh)) scale(0.8);
+    opacity: 0.55;
+  }
+}
+
+@keyframes jr-refuse {
+  to {
+    background: #ff8a3d;
+    box-shadow: 0 0 20px 6px rgba(226, 72, 43, 0.7);
+    transform: scale(1.5);
+  }
+}
+
+.pc-tree-art {
+  right: 50%;
+  bottom: 36%;
+  width: min(72vmin, 460px);
+  transform: translateX(50%);
+  transition: opacity 1.4s, filter 1.4s;
+}
+
+.pc-trunk {
+  fill: #0a1610;
+  stroke: #0a1610;
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+
+.pc-canopy ellipse {
+  fill: #12301f;
+  transition: fill 1.6s, opacity 1.6s;
+}
+
+.pc-fruit circle {
+  fill: #ffd98a;
+  filter: drop-shadow(0 0 6px #ffd98a);
+  transition: opacity 1.4s;
+}
+
+[data-set="garden"] .pc-canopy ellipse {
+  fill: #2c6e48;
+  opacity: 0.85;
+}
+
+[data-set="garden"] .pc-tree-art {
+  filter: drop-shadow(0 0 40px rgba(207, 227, 160, 0.35));
+}
+
+[data-set="whisper"] .pc-canopy ellipse {
+  fill: #121a15;
+}
+
+[data-set="whisper"] .pc-fruit circle {
+  fill: #c8a45a;
+  opacity: 0.6;
+}
+
+[data-set="fallen"] .pc-canopy ellipse {
+  fill: #2a2414;
+  opacity: 0.45;
+}
+
+[data-set="fallen"] .pc-fruit circle {
+  opacity: 0;
+}
+
+.pc-whispers {
+  inset: 0;
+}
+
+.pc-whispers span {
+  position: absolute;
+  left: calc(6% + var(--i) * 6%);
+  top: calc(9% + var(--i) * 6%);
+  font: italic 400 clamp(14px, 1.2vw + 10px, 22px) / 1 var(--display);
+  white-space: nowrap;
+  color: rgba(200, 210, 200, 0.5);
+  filter: blur(0.6px);
+  animation: jr-whisper 9s ease-in-out infinite;
+  animation-delay: calc(var(--i) * 1.6s);
+}
+
+@keyframes jr-whisper {
+  0%,
+  100% {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+  40%,
+  60% {
+    opacity: 1;
+    transform: translateX(10px);
+  }
+}
+
+.pc-clouds > i {
+  left: calc(var(--i) * 22% - 10%);
+  bottom: -30%;
+  width: 60vmin;
+  height: 22vmin;
+  border-radius: 50%;
+  background: rgba(232, 238, 248, 0.14);
+  filter: blur(28px);
+  animation: jr-cloud 6s linear infinite;
+  animation-delay: calc(var(--i) * -1.3s);
+}
+
+@keyframes jr-cloud {
+  to {
+    transform: translateY(-160vh);
+  }
+}
+
+.pc-sun {
+  left: 50%;
+  top: 30%;
+  width: 22vmin;
+  height: 22vmin;
+  margin-left: -11vmin;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 214, 150, 0.9), rgba(255, 170, 90, 0.35) 45%, transparent 70%);
+  transition: top 2s var(--ease), opacity 2s;
+}
+
+[data-set="dusk"] .pc-sun {
+  top: 36%;
+  opacity: 0.7;
+}
+
+[data-set="burial"] .pc-sun {
+  top: 46%;
+  opacity: 0;
+}
+
+[data-set="family"] .pc-sun {
+  top: 24%;
+}
+
+/* The land runs to the bottom edge; its horizon sits a quarter of the way down the drawing. */
+.pc-land {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80%;
+}
+
+.pc-land path {
+  fill: rgba(20, 12, 6, 0.75);
+  transition: fill 2s;
+}
+
+.pc-land .pc-near {
+  fill: rgba(8, 5, 3, 0.9);
+}
+
+[data-set="burial"] .pc-land path {
+  fill: rgba(4, 5, 8, 0.9);
+}
+
+.pc-seeker {
+  top: 46%;
+  width: 10px;
+  height: 10px;
+  margin: -5px;
+  border-radius: 50%;
+  background: #fff3d6;
+  box-shadow: 0 0 18px 6px rgba(246, 214, 143, 0.55);
+  animation: 6s var(--ease) 0.6s both;
+}
+
+.pc-l {
+  left: 6%;
+  animation-name: jr-meet-l;
+}
+
+.pc-r {
+  left: 94%;
+  animation-name: jr-meet-r;
+}
+
+@keyframes jr-meet-l {
+  to {
+    left: calc(50% - 9px);
+    top: var(--meet, 42%);
+  }
+}
+
+@keyframes jr-meet-r {
+  to {
+    left: calc(50% + 9px);
+    top: var(--meet, 42%);
+  }
+}
+
+.pc-altars {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 24vmin;
+  padding-bottom: 40vh;
+}
+
+.pc-altar {
+  position: relative;
+  width: 12vmin;
+  height: 6vmin;
+  border-radius: 4px 4px 2px 2px;
+  background: linear-gradient(#3a2e26, #1c1612);
+}
+
+.pc-smoke {
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  width: 6vmin;
+  height: 30vmin;
+  margin-left: -3vmin;
+  border-radius: 50%;
+  background: linear-gradient(to top, rgba(180, 175, 168, 0.35), transparent);
+  filter: blur(10px);
+  animation: jr-smoke 4s ease-in-out infinite;
+}
+
+@keyframes jr-smoke {
+  50% {
+    transform: translateX(8px) scaleY(1.1);
+  }
+}
+
+.pc-fire {
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  width: 3vmin;
+  height: 120vh;
+  margin-left: -1.5vmin;
+  background: linear-gradient(to top, rgba(255, 233, 184, 0.95), rgba(255, 138, 61, 0.4) 30%, transparent);
+  filter: blur(4px);
+  transform-origin: bottom;
+  animation: jr-strike 1.6s var(--ease) 3.6s both;
+}
+
+@keyframes jr-strike {
+  from {
+    opacity: 0;
+    transform: scaleY(0) translateY(-100%);
+  }
+  40% {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.85;
+  }
+}
+
+.pc-taken .pc-smoke {
+  animation: jr-smoke 4s ease-in-out infinite, jr-gone 1s ease 4.4s forwards;
+}
+
+@keyframes jr-gone {
+  to {
+    opacity: 0;
+  }
+}
+
+.pc-ground {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 42%;
+  background: linear-gradient(to bottom, #2a2018, #0d0a07);
+}
+
+.pc-dust {
+  left: calc(50% - 4px);
+  bottom: 42%;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(150, 120, 90, 0.7);
+  animation: jr-scratch 1.8s ease-out infinite;
+  animation-delay: calc(var(--i) * 0.3s);
+}
+
+@keyframes jr-scratch {
+  from {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+  to {
+    transform: translate(calc((var(--i) - 2.5) * 22px), -60px);
+    opacity: 0;
+  }
+}
+
+.pc-split .pc-left,
+.pc-split .pc-right {
+  top: 0;
+  bottom: 0;
+  width: 50%;
+}
+
+.pc-left {
+  left: 0;
+  background: radial-gradient(ellipse at 20% 40%, rgba(226, 72, 43, 0.28), transparent 70%);
+}
+
+.pc-right {
+  right: 0;
+  background: radial-gradient(ellipse at 80% 40%, rgba(246, 214, 143, 0.28), transparent 70%);
+}
+
+.pc-lamp > i {
+  left: 50%;
+  bottom: 30%;
+  width: 14px;
+  height: 14px;
+  margin-left: -7px;
+  border-radius: 50%;
+  background: #fff6dc;
+  box-shadow: 0 0 30px 12px rgba(246, 214, 143, 0.55), 0 0 120px 40px rgba(246, 214, 143, 0.18);
+  animation: jr-ascend 9s var(--ease) both;
+}
+
+@keyframes jr-ascend {
+  from {
+    transform: translateY(20vh);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(-30vh);
+  }
+}
+
+@media (min-width: 900px) {
+  .pc-tree-art {
+    right: 10%;
+    bottom: 12%;
+    transform: none;
+  }
+
+  .pc-orb > i,
+  .pc-mound > i,
+  .pc-core > i,
+  .pc-vessel .pc-ring,
+  .pc-vessel .pc-orbit,
+  .pc-lamp > i {
+    left: 70%;
+  }
+
+  .pc-orb > i,
+  .pc-mound > i,
+  .pc-core > i,
+  .pc-vessel .pc-ring,
+  .pc-vessel .pc-orbit {
+    top: 50%;
+  }
+
+  .pc-assembly,
+  .pc-bow,
+  .pc-altars {
+    padding-left: 44vw;
+  }
+
+  .pc-sun {
+    left: 70%;
+    top: 46%;
+  }
+
+  [data-set="dusk"] .pc-sun {
+    top: 54%;
+  }
+
+  [data-set="burial"] .pc-sun {
+    top: 64%;
+  }
+
+  [data-set="family"] .pc-sun {
+    top: 40%;
+  }
+
+  .pc-land {
+    height: 55%;
+  }
+
+  .pc-dust {
+    left: calc(70% - 4px);
+  }
+
+  .pc-seeker {
+    top: 62%;
+    --meet: 58%;
+  }
+
+  .pc-bow {
+    padding-top: 26vh;
+    --sink: 16vh;
+  }
+
+  .pc-whispers span {
+    left: calc(48% + var(--i) * 8%);
+    top: calc(12% + var(--i) * 9%);
+  }
+}

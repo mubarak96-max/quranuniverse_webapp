@@ -1,0 +1,216 @@
+/* Scenery for the downfall journeys: palaces, the sea, the chasm, the birds, the minaret and the gate. No one is drawn. */
+
+.pc-pillars > i {
+  left: calc(14% + var(--i) * 12%);
+  bottom: 0;
+  width: 3.6vmin;
+  height: 52vh;
+  border-radius: 2px 2px 0 0;
+  background: linear-gradient(to top, rgba(40, 26, 14, 0.95), rgba(122, 90, 58, 0.55) 70%, rgba(246, 214, 143, 0.25));
+  transform-origin: bottom;
+  animation: jr-raise 1.6s var(--ease) calc(var(--i) * 0.12s) both;
+}
+
+@keyframes jr-raise {
+  from {
+    transform: scaleY(0);
+  }
+}
+
+.pc-river-art {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 42%;
+}
+
+.pc-river-art path {
+  fill: rgba(14, 54, 64, 0.7);
+}
+
+.pc-river-art .pc-flow {
+  fill: none;
+  stroke: rgba(201, 164, 106, 0.45);
+  stroke-width: 2;
+  stroke-dasharray: 14 22;
+  vector-effect: non-scaling-stroke;
+  animation: jr-flow 6s linear infinite;
+}
+
+@keyframes jr-flow {
+  to {
+    stroke-dashoffset: -360;
+  }
+}
+
+/* The sea stands in two walls; in the flood set the walls rush back together. */
+.pc-wall {
+  bottom: 0;
+  width: 40%;
+  height: 86%;
+  background: linear-gradient(to top, rgba(4, 24, 44, 0.96), rgba(28, 92, 128, 0.6) 70%, rgba(185, 216, 230, 0.2));
+}
+
+.pc-wl {
+  left: 0;
+  border-top-right-radius: 40% 12%;
+  animation: jr-part-l 2.4s var(--ease) both;
+}
+
+.pc-wr {
+  right: 0;
+  border-top-left-radius: 40% 12%;
+  animation: jr-part-r 2.4s var(--ease) both;
+}
+
+[data-set="flood"] .pc-wl {
+  animation: jr-close-l 1.8s cubic-bezier(0.6, 0, 0.9, 0.4) 0.6s both;
+}
+
+[data-set="flood"] .pc-wr {
+  animation: jr-close-r 1.8s cubic-bezier(0.6, 0, 0.9, 0.4) 0.6s both;
+}
+
+@keyframes jr-part-l {
+  from {
+    transform: translateX(26%);
+  }
+}
+
+@keyframes jr-part-r {
+  from {
+    transform: translateX(-26%);
+  }
+}
+
+@keyframes jr-close-l {
+  to {
+    transform: translateX(26%);
+  }
+}
+
+@keyframes jr-close-r {
+  to {
+    transform: translateX(-26%);
+  }
+}
+
+.pc-earth {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 30%;
+  background: linear-gradient(to bottom, rgba(58, 36, 20, 0.95), rgba(14, 9, 5, 1));
+}
+
+.pc-crack {
+  left: 50%;
+  bottom: 24%;
+  width: 46vmin;
+  height: 9vh;
+  margin-left: -23vmin;
+  border-radius: 50%;
+  background: radial-gradient(ellipse, #000 45%, rgba(0, 0, 0, 0.6) 65%, transparent 72%);
+  animation: jr-open 1.6s var(--ease) 0.5s both;
+}
+
+@keyframes jr-open {
+  from {
+    transform: scaleX(0);
+  }
+}
+
+.pc-sink {
+  left: calc(42% + var(--i) * 3.6%);
+  bottom: 29%;
+  width: 1.8vmin;
+  height: 1.8vmin;
+  border-radius: 2px;
+  background: #e7b866;
+  box-shadow: 0 0 10px rgba(246, 214, 143, 0.6);
+  animation: jr-sink-in 2.2s cubic-bezier(0.5, 0, 0.9, 0.5) calc(1.4s + var(--i) * 0.15s) both;
+}
+
+@keyframes jr-sink-in {
+  to {
+    transform: translateY(10vh) scale(0.4);
+    opacity: 0;
+  }
+}
+
+.pc-bird {
+  left: 105%;
+  top: calc(6% + var(--i) * 2.2%);
+  width: calc(3vmin + var(--i) * 0.1vmin);
+  animation: jr-fly 9s linear calc(var(--i) * -0.57s) infinite;
+}
+
+.pc-bird path {
+  fill: none;
+  stroke: rgba(30, 20, 12, 0.85);
+  stroke-width: 1.8;
+  stroke-linecap: round;
+}
+
+@keyframes jr-fly {
+  to {
+    transform: translateX(-125vw);
+  }
+}
+
+.pc-tower {
+  left: 50%;
+  bottom: 18%;
+  height: 46vh;
+  transform: translateX(-50%);
+  filter: drop-shadow(0 0 18px rgba(255, 255, 255, 0.45));
+  animation: jr-fade 2.4s var(--ease) both;
+}
+
+.pc-tower path {
+  fill: rgba(244, 241, 234, 0.92);
+}
+
+.pc-arch {
+  left: 50%;
+  bottom: 0;
+  width: 46vmin;
+  margin-left: -23vmin;
+}
+
+.pc-arch path {
+  fill: rgba(12, 9, 16, 0.94);
+}
+
+.pc-gate .pc-light {
+  left: 50%;
+  bottom: 0;
+  width: 30vmin;
+  height: 40vmin;
+  margin-left: -15vmin;
+  border-radius: 50% 50% 0 0;
+  background: radial-gradient(ellipse at 50% 70%, rgba(255, 233, 184, 0.8), rgba(246, 214, 143, 0.25) 50%, transparent 75%);
+  animation: jr-breathe-soft 6s ease-in-out infinite;
+}
+
+@media (min-width: 900px) {
+  .pc-pillars > i {
+    left: calc(44% + var(--i) * 7.5%);
+  }
+
+  .pc-tower {
+    left: 70%;
+    bottom: 12%;
+  }
+
+  .pc-crack,
+  .pc-arch,
+  .pc-gate .pc-light {
+    left: 70%;
+  }
+
+  .pc-sink {
+    left: calc(62% + var(--i) * 3.6%);
+  }
+}

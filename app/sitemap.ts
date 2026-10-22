@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next";
 import { getArticles } from "@/lib/articles";
 import { getSurahs, surahHref } from "@/lib/data";
+import { getJourneyIds } from "@/lib/journey";
+import { getTimeline } from "@/lib/timeline";
 import { SITE, absUrl } from "@/lib/site";
 
 export const dynamic = "force-static";
@@ -13,6 +15,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     at("/", 1),
     at("/learn", 0.9),
+    at("/timeline", 0.9),
+    ...getTimeline().stops.map((s) => at(`/timeline/${s.id}`, s.type === "chapter" ? 0.7 : 0.6)),
+    ...getJourneyIds().map((id) => at(`/timeline/journey/${id}`, 0.8)),
+    at("/timeline/villains", 0.8),
+    ...getTimeline().villains.map((v) => at(`/timeline/villains/${v.id}`, 0.7)),
     ...getArticles().map((a) => at(`/learn/${a.slug}`, 0.8, a.updated)),
     ...surahs.map((s) => at(surahHref(s.id), 0.9)),
     ...surahs.flatMap((s) => s.verses.map((v) => at(surahHref(s.id, v.id), 0.6))),

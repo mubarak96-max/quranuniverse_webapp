@@ -1,0 +1,387 @@
+{
+  "id": "empires",
+  "title": "Ottomans, Safavids and Mughals",
+  "span": "1260 to 1798 CE",
+  "blurb": "Three great empires rule from the Balkans to Bengal. Europe discovers the oceans and slowly overtakes them.",
+  "camera": { "lat": 32, "lng": 45, "zoom": 1 },
+  "zoom": 3,
+  "events": [
+    {
+      "id": "ain-jalut",
+      "title": "Ain Jalut",
+      "year": { "ce": 1260, "ah": 658, "precision": "exact" },
+      "place": { "name": "Ain Jalut, Palestine", "lat": 32.55, "lng": 35.37 },
+      "who": ["Baybars", "Qutuz"],
+      "what": "The Mamluks of Egypt stop the Mongols at Ain Jalut, their first real defeat. The Mongol tide turns.",
+      "routes": [
+        {
+          "points": [[30.05, 31.26, "Cairo"], [31, 33.8], [32.55, 35.37, "Ain Jalut"]]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "rumi",
+      "title": "Rumi",
+      "year": { "ce": 1273, "ah": 672, "precision": "exact" },
+      "place": { "name": "Konya, Turkey", "lat": 37.87, "lng": 32.49 },
+      "who": ["Rumi"],
+      "what": "Rumi dies in Konya. His Masnavi is still the most read poem in the Muslim world.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "pasai",
+      "title": "Islam in Sumatra",
+      "year": { "ce": 1297, "ah": 696, "precision": "exact" },
+      "place": { "name": "Samudra Pasai, Sumatra", "lat": 5.18, "lng": 97.15 },
+      "who": ["Malik al-Salih"],
+      "what": "Sultan Malik al-Salih of Pasai is buried under an Arabic gravestone, the first Muslim king known in Southeast Asia.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "ottomans-begin",
+      "title": "Osman's state",
+      "year": { "ce": 1299, "ah": 699, "precision": "approx" },
+      "place": { "name": "Sogut, Turkey", "lat": 40.02, "lng": 30.18 },
+      "who": ["Osman I"],
+      "what": "Osman founds a small frontier state in Anatolia. It will become the Ottoman empire and last 623 years.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "mansa-musa",
+      "title": "Mansa Musa's Hajj",
+      "year": { "ce": 1324, "ah": 724, "precision": "exact" },
+      "place": { "name": "Timbuktu, Mali", "lat": 16.77, "lng": -3 },
+      "who": ["Mansa Musa"],
+      "what": "Mansa Musa of Mali goes on Hajj with so much gold that prices in Cairo crash. Timbuktu becomes a city of scholars.",
+      "routes": [
+        {
+          "points": [
+            [11.4, -8.4, "Niani"],
+            [17.3, -7, "Walata"],
+            [27, 0],
+            [29.2, 25.5],
+            [30.05, 31.26, "Cairo"],
+            [21.42, 39.83, "Makkah"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "ibn-battuta",
+      "title": "Ibn Battuta sets out",
+      "year": { "ce": 1325, "ah": 725, "precision": "exact" },
+      "place": { "name": "Tangier, Morocco", "lat": 35.77, "lng": -5.8 },
+      "who": ["Ibn Battuta"],
+      "what": "Ibn Battuta leaves Tangier for Hajj and keeps going for 29 years, from Mali to China. The Muslim world is one connected space.",
+      "routes": [
+        {
+          "points": [
+            [35.77, -5.8, "Tangier"],
+            [36.8, 10.18, "Tunis"],
+            [31.2, 29.92, "Alexandria"],
+            [30.05, 31.26, "Cairo"],
+            [33.51, 36.29, "Damascus"],
+            [21.42, 39.83, "Makkah"],
+            [33.34, 44.4, "Baghdad"],
+            [35.7, 51.4],
+            [39.77, 64.42, "Bukhara"],
+            [28.6, 77.2, "Delhi"],
+            [11.25, 75.78, "Calicut"],
+            [4.17, 73.5, "Maldives"],
+            [7, 80],
+            [3, 98.6],
+            [24.9, 118.6, "Quanzhou"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "black-death",
+      "title": "The Black Death",
+      "year": { "ce": 1347, "ah": 748, "precision": "exact" },
+      "place": { "name": "Caffa, Crimea", "lat": 45.03, "lng": 35.38 },
+      "what": "The Black Death crosses from the Black Sea into Egypt, Syria and Europe. A third of the population dies.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "ibn-khaldun",
+      "title": "Ibn Khaldun",
+      "year": { "ce": 1377, "ah": 779, "precision": "exact" },
+      "place": { "name": "Tiaret, Algeria", "lat": 35.37, "lng": 1.32 },
+      "who": ["Ibn Khaldun"],
+      "what": "Ibn Khaldun writes the Muqaddimah, the first study of how states rise and fall. Sociology and economics begin here.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "ankara",
+      "title": "Timur",
+      "year": { "ce": 1402, "ah": 804, "precision": "exact" },
+      "place": { "name": "Ankara, Turkey", "lat": 39.93, "lng": 32.85 },
+      "who": ["Timur", "Bayezid I"],
+      "what": "Timur crushes the Ottomans at Ankara and captures the sultan. The Ottomans recover; Timur's empire does not outlive him.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "zheng-he",
+      "title": "Zheng He's fleets",
+      "year": { "ce": 1405, "ah": 807, "precision": "exact" },
+      "place": { "name": "Nanjing, China", "lat": 32.06, "lng": 118.8 },
+      "who": ["Zheng He"],
+      "what": "Zheng He, a Chinese Muslim admiral, sails giant fleets to India, Arabia and East Africa.",
+      "routes": [
+        {
+          "points": [
+            [32.06, 118.8, "Nanjing"],
+            [22.5, 114.5],
+            [10, 109],
+            [2.2, 102.25, "Malacca"],
+            [6.9, 79.85],
+            [11.25, 75.78, "Calicut"],
+            [27.1, 56.45, "Hormuz"]
+          ]
+        },
+        {
+          "points": [[11.25, 75.78, "Calicut"], [8, 60], [2.05, 45.32, "Mogadishu"]]
+        }
+      ],
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "constantinople",
+      "title": "Constantinople falls",
+      "year": { "ce": 1453, "ah": 857, "precision": "exact" },
+      "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
+      "who": ["Mehmed II"],
+      "what": "Mehmed II, aged 21, takes Constantinople. The Byzantine empire ends after 1,100 years. Hagia Sophia becomes a mosque.",
+      "routes": [
+        {
+          "points": [[41.68, 26.56, "Edirne"], [41.01, 28.98, "Constantinople"]]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "granada",
+      "title": "Granada surrenders",
+      "year": { "ce": 1492, "ah": 897, "precision": "exact" },
+      "place": { "name": "Granada, Spain", "lat": 37.18, "lng": -3.6 },
+      "who": ["Boabdil", "Ferdinand and Isabella"],
+      "what": "Granada surrenders. Muslim Spain ends. Months later Columbus sails west from the same kingdom.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "vasco-da-gama",
+      "title": "Europe reaches India",
+      "year": { "ce": 1498, "ah": 903, "precision": "exact" },
+      "place": { "name": "Calicut, India", "lat": 11.25, "lng": 75.78 },
+      "who": ["Vasco da Gama"],
+      "what": "Portugal reaches India around Africa. European fleets begin to take the Indian Ocean trade from Muslim merchants.",
+      "routes": [
+        {
+          "points": [
+            [38.7, -9.14, "Lisbon"],
+            [14.9, -23.5],
+            [-5, -15],
+            [-34.4, 18.5, "Cape of Good Hope"],
+            [-25.9, 33],
+            [-15, 40.7],
+            [-3.2, 40.1, "Malindi"],
+            [11.25, 75.78, "Calicut"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "safavids",
+      "title": "The Safavids",
+      "year": { "ce": 1501, "ah": 907, "precision": "exact" },
+      "place": { "name": "Tabriz, Iran", "lat": 38.08, "lng": 46.29 },
+      "who": ["Shah Ismail"],
+      "what": "Shah Ismail founds the Safavid state and makes Shia Islam the religion of Persia.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "malacca",
+      "title": "Portugal takes Malacca",
+      "year": { "ce": 1511, "ah": 917, "precision": "exact" },
+      "place": { "name": "Malacca, Malaysia", "lat": 2.2, "lng": 102.25 },
+      "what": "Portugal seizes Malacca, the Muslim port that controlled the sea trade between India and China.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "reformation",
+      "title": "The Reformation",
+      "year": { "ce": 1517, "precision": "exact" },
+      "place": { "name": "Wittenberg, Germany", "lat": 51.87, "lng": 12.65 },
+      "who": ["Martin Luther"],
+      "what": "Luther's theses split western Christianity. Printing presses spread the argument; Muslim lands adopt print much later.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "ottoman-egypt",
+      "title": "Ottomans take Egypt and the Hijaz",
+      "year": { "ce": 1517, "ah": 923, "precision": "exact" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
+      "who": ["Selim I"],
+      "what": "Selim I takes Syria, Egypt and the Hijaz. The Ottoman sultan becomes guardian of Makkah and Madinah.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "mughals",
+      "title": "The Mughal Empire",
+      "year": { "ce": 1526, "ah": 932, "precision": "exact" },
+      "place": { "name": "Panipat, India", "lat": 29.39, "lng": 76.97 },
+      "who": ["Babur"],
+      "what": "Babur wins at Panipat and founds the Mughal empire. Under Akbar it holds a quarter of the world's people.",
+      "routes": [
+        {
+          "points": [[34.53, 69.17, "Kabul"], [33.6, 73], [29.39, 76.97, "Panipat"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "vienna-1529",
+      "title": "Suleiman at Vienna",
+      "year": { "ce": 1529, "ah": 935, "precision": "exact" },
+      "place": { "name": "Vienna, Austria", "lat": 48.21, "lng": 16.37 },
+      "who": ["Suleiman"],
+      "what": "Suleiman the Magnificent besieges Vienna. The Ottomans now rule Hungary and the Balkans, and the Mediterranean is theirs.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "akbar",
+      "title": "Akbar",
+      "year": { "ce": 1556, "ah": 963, "precision": "exact" },
+      "place": { "name": "Agra, India", "lat": 27.17, "lng": 78.04 },
+      "who": ["Akbar"],
+      "what": "Akbar becomes Mughal emperor at thirteen. He rules for half a century and doubles the empire.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "sinan",
+      "title": "Sinan's Suleymaniye",
+      "year": { "ce": 1557, "ah": 964, "precision": "exact" },
+      "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
+      "who": ["Mimar Sinan", "Suleiman"],
+      "what": "The architect Sinan completes the Suleymaniye mosque. He designs over 300 buildings across the empire.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "lepanto",
+      "title": "Lepanto",
+      "year": { "ce": 1571, "ah": 979, "precision": "exact" },
+      "place": { "name": "Lepanto, Greece", "lat": 38.4, "lng": 21.3 },
+      "what": "A Christian fleet destroys the Ottoman navy at Lepanto. The Ottomans rebuild within a year but the sea is now contested.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "songhai",
+      "title": "The fall of Songhai",
+      "year": { "ce": 1591, "ah": 999, "precision": "exact" },
+      "place": { "name": "Tondibi, Mali", "lat": 16.6, "lng": -0.2 },
+      "what": "A Moroccan army with firearms destroys the Songhai empire at Tondibi. The great age of West African empires ends.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "isfahan",
+      "title": "Isfahan, half the world",
+      "year": { "ce": 1598, "ah": 1006, "precision": "exact" },
+      "place": { "name": "Isfahan, Iran", "lat": 32.65, "lng": 51.68 },
+      "who": ["Shah Abbas"],
+      "what": "Shah Abbas makes Isfahan his capital and fills it with mosques and squares. Persians call it half the world.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "taj-mahal",
+      "title": "The Taj Mahal",
+      "year": { "ce": 1653, "ah": 1063, "precision": "exact" },
+      "place": { "name": "Agra, India", "lat": 27.17, "lng": 78.04 },
+      "who": ["Shah Jahan"],
+      "what": "The Taj Mahal is completed in Agra as a tomb for Mumtaz Mahal. Mughal wealth at its peak.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "vienna-1683",
+      "title": "The second siege of Vienna",
+      "year": { "ce": 1683, "ah": 1094, "precision": "exact" },
+      "place": { "name": "Vienna, Austria", "lat": 48.21, "lng": 16.37 },
+      "what": "The second siege of Vienna fails. The Ottomans begin a slow retreat from Europe that lasts 230 years.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "diriyah",
+      "title": "The first Saudi state",
+      "year": { "ce": 1744, "ah": 1157, "precision": "exact" },
+      "place": { "name": "Diriyah, Saudi Arabia", "lat": 24.73, "lng": 46.57 },
+      "who": ["Muhammad ibn Saud", "Muhammad ibn Abd al-Wahhab"],
+      "what": "A pact between a ruler and a reformer in Diriyah founds the first Saudi state.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "plassey",
+      "title": "Plassey",
+      "year": { "ce": 1757, "ah": 1170, "precision": "exact" },
+      "place": { "name": "Plassey, India", "lat": 23.8, "lng": 88.3 },
+      "who": ["Robert Clive"],
+      "what": "The British East India Company defeats the Nawab of Bengal at Plassey. The richest Muslim province falls to a trading company.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "french-revolution",
+      "title": "The French Revolution",
+      "year": { "ce": 1789, "precision": "exact" },
+      "place": { "name": "Paris, France", "lat": 48.86, "lng": 2.35 },
+      "what": "The French Revolution. Nationalism and the modern state are born, ideas that will reshape Muslim lands too.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "napoleon-egypt",
+      "title": "Napoleon in Egypt",
+      "year": { "ce": 1798, "ah": 1213, "precision": "exact" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
+      "who": ["Napoleon"],
+      "what": "Napoleon invades Egypt with an army and a team of scholars. The shock of European power starts the modern Muslim reform debate.",
+      "routes": [
+        {
+          "points": [[43.12, 5.93, "Toulon"], [35.9, 14.5, "Malta"], [31.2, 29.92, "Alexandria"], [30.05, 31.26, "Cairo"]]
+        }
+      ],
+      "source": "History",
+      "kind": "world"
+    }
+  ]
+}

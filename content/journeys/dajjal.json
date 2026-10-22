@@ -1,0 +1,135 @@
+{
+  "id": "dajjal",
+  "name": "The Dajjal",
+  "arabic": "المسيح الدجال",
+  "villain": true,
+  "tagline": "Every prophet warned of him. He will bring rain, riches and a false paradise. One blow will end him.",
+  "description": "Watch the trial of the Dajjal, the false messiah, scene by scene, as the Prophet ﷺ described it: the warning of every prophet, the forty days, the false rain and the false fire, the two protected cities, the shield of Surah al-Kahf, and Isa ibn Maryam at the gate of Ludd. Told through Sahih al-Bukhari and Sahih Muslim.",
+  "outro": "Seek refuge with Allah from the trial of the false messiah.",
+  "stop": "isa-raised",
+  "acts": [
+    {
+      "title": "The warning",
+      "scenes": [
+        { "id": "cover", "set": "fog", "mood": "stillness", "cover": true, "lines": [] },
+        {
+          "id": "every-prophet",
+          "set": "night",
+          "mood": "caution",
+          "lens": "A warning for all",
+          "lines": ["Every prophet warned his people of one trial above the rest.", "The last Prophet ﷺ described it most clearly of all."],
+          "hadith": {
+            "text": "There was no prophet but that he warned his nation of the one-eyed liar. He is one-eyed, and your Lord is not one-eyed. Between his eyes is written: kafir.",
+            "cite": "Sahih al-Bukhari 7131"
+          }
+        },
+        {
+          "id": "signs",
+          "set": "fog",
+          "mood": "gravity",
+          "lens": "Before the Hour",
+          "lines": ["He is one of the great signs.", "When they come, faith that was put off will be too late."],
+          "ayah": { "ref": "6:158", "from": "The Day that some", "to": "some good." }
+        }
+      ]
+    },
+    {
+      "title": "The trial",
+      "scenes": [
+        {
+          "id": "appears",
+          "set": "fog",
+          "mood": "dread",
+          "lens": "The trial begins",
+          "lines": ["He will appear on the road between Syria and Iraq,", "spreading ruin left and right.", "\"O servants of Allah, hold firm.\""],
+          "hadith": { "cite": "Sahih Muslim 2937a, from al-Nawwas ibn Sam'an" }
+        },
+        {
+          "id": "forty",
+          "set": "fog",
+          "mood": "unease",
+          "lens": "The forty days",
+          "lines": [
+            "He will stay forty days.",
+            "One day like a year, one like a month, one like a week, the rest like your days.",
+            "The Companions asked about prayer on the day like a year. The answer: measure out its times."
+          ],
+          "hadith": { "cite": "Sahih Muslim 2937a" }
+        },
+        {
+          "id": "rain",
+          "set": "mirage",
+          "mood": "temptation",
+          "lens": "The test",
+          "lines": [
+            "He will order the sky, and it will rain. He will order the earth, and it will grow.",
+            "Those who accept him will grow rich.",
+            "Those who reject him will wake with nothing in their hands."
+          ],
+          "hadith": { "cite": "Sahih Muslim 2937a" }
+        },
+        {
+          "id": "fire-water",
+          "set": "contrast",
+          "mood": "clarity",
+          "lens": "Things are not what they seem",
+          "lines": ["He will bring what looks like water and what looks like fire.", "His water is fire. His fire is cool, sweet water."],
+          "hadith": { "cite": "Sahih al-Bukhari and Sahih Muslim, from Hudhayfah" }
+        },
+        {
+          "id": "two-cities",
+          "set": "lamp",
+          "mood": "hope",
+          "lens": "Allah's protection",
+          "lines": ["He will tread every land except Makkah and Madinah.", "Angels will stand in rows at every pass, guarding them."],
+          "hadith": {
+            "text": "There is no land that the Dajjal will not tread except Makkah and Madinah. There is no pass leading to them but angels stand in rows guarding it.",
+            "cite": "Sahih al-Bukhari 1881"
+          }
+        },
+        {
+          "id": "kahf",
+          "set": "lamp",
+          "mood": "hope",
+          "lens": "The shield",
+          "lines": ["\"Whoever of you meets him,", "let him recite over him the opening verses of Surah al-Kahf.\"", "Verses of young people who fled a tyrant, holding to their faith."],
+          "hadith": { "cite": "Sahih Muslim 2937a" },
+          "ayah": "18:10"
+        }
+      ]
+    },
+    {
+      "title": "The end",
+      "scenes": [
+        {
+          "id": "minaret",
+          "set": "minaret",
+          "mood": "awe",
+          "lens": "Allah's promise",
+          "lines": ["Then Isa son of Maryam will descend", "by the white minaret east of Damascus,", "his hands on the wings of two angels."],
+          "hadith": { "cite": "Sahih Muslim 2937a" }
+        },
+        {
+          "id": "ludd",
+          "set": "ludd",
+          "mood": "witness",
+          "lens": "The end",
+          "lines": ["Isa will search for him,", "and find him at the gate of Ludd,", "and kill him."],
+          "hadith": { "cite": "Sahih Muslim 2937a" }
+        },
+        {
+          "id": "lesson",
+          "set": "end",
+          "mood": "peace",
+          "lens": "Relied on, undone by",
+          "lines": ["He will rely on wonders, and on hungry people's need.", "He will be undone by one man Allah sends back: Isa son of Maryam.", "Until then, the Prophet ﷺ taught us what to do."],
+          "hadith": {
+            "text": "When one of you finishes the last tashahhud, let him seek refuge with Allah from four things: the punishment of Hell, the punishment of the grave, the trials of life and death, and the evil of the false messiah.",
+            "cite": "Sahih Muslim, from Abu Hurayrah"
+          }
+        },
+        { "id": "end", "set": "end", "mood": "peace", "end": true, "lines": [] }
+      ]
+    }
+  ]
+}

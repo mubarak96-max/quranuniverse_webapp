@@ -1,0 +1,985 @@
+/* Timeline shell, map, and story panel. Explore, prophets, intro and the index live in panels.css. */
+
+.site-main:has(.tl-app) {
+  max-width: none;
+  padding: 0 0 72px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.tl-app {
+  /* Dynasty palette, built from theme tokens so it follows light and dark mode. */
+  --c0: var(--idea);
+  --c1: color-mix(in oklab, var(--good) 70%, #0f9f6e);
+  --c2: var(--reward);
+  --c3: var(--new);
+  --c4: var(--old);
+  --c5: color-mix(in oklab, #2f9e44 75%, var(--good));
+  --ocean: color-mix(in srgb, var(--good) 7%, var(--bg));
+  --panel-w: 420px;
+  --gap: 16px;
+  /* The camera centres on the part of the map that panels do not cover. */
+  --inset-l: 0px;
+  --inset-t: 64px;
+  --inset-r: calc(var(--panel-w) + var(--gap) * 2);
+  --inset-b: 64px;
+
+  position: relative;
+  height: calc(100svh - 64px);
+  min-height: 600px;
+  overflow: hidden;
+  background: var(--ocean);
+  isolation: isolate;
+}
+
+.tl-stage {
+  position: absolute;
+  inset: 0;
+}
+
+/* ---------- map ---------- */
+.atlas {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  cursor: grab;
+}
+
+.atlas:active {
+  cursor: grabbing;
+}
+
+.atlas.is-hidden {
+  visibility: hidden;
+}
+
+.atlas:not(.ready) .at-world,
+.atlas:not(.ready) .at-pins,
+.atlas:not(.ready) .at-labels {
+  opacity: 0;
+}
+
+.at-probe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.at-probe-lt {
+  width: var(--inset-l);
+  height: var(--inset-t);
+}
+
+.at-probe-rb {
+  width: var(--inset-r);
+  height: var(--inset-b);
+}
+
+.at-svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.at-land {
+  fill: var(--page);
+  stroke: color-mix(in srgb, var(--fg) 16%, transparent);
+  stroke-width: calc(0.8 / var(--s, 1));
+}
+
+/* Stroke widths are divided by the zoom (--s, px per map unit) so lines keep their on-screen width. */
+.at-borders path {
+  stroke-width: calc(0.6 / var(--s, 1));
+  stroke-linejoin: round;
+  transition: fill 0.3s;
+}
+
+/* Only a snapshot replacing another fades in; the first one appears at once. */
+.at-borders.entering {
+  animation: at-fade 0.45s var(--ease);
+}
+
+@keyframes at-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+.at-o {
+  fill: color-mix(in srgb, var(--fg) 3%, transparent);
+  stroke: color-mix(in srgb, var(--fg) 14%, transparent);
+}
+
+.at-k {
+  fill: color-mix(in srgb, var(--fg) 8%, transparent);
+  stroke: color-mix(in srgb, var(--fg) 26%, transparent);
+}
+
+.at-m {
+  stroke-width: calc(1 / var(--s, 1)) !important;
+}
+
+.at-c0 {
+  fill: color-mix(in srgb, var(--c0) 30%, transparent);
+  stroke: var(--c0);
+}
+.at-c1 {
+  fill: color-mix(in srgb, var(--c1) 30%, transparent);
+  stroke: var(--c1);
+}
+.at-c2 {
+  fill: color-mix(in srgb, var(--c2) 32%, transparent);
+  stroke: var(--c2);
+}
+.at-c3 {
+  fill: color-mix(in srgb, var(--c3) 26%, transparent);
+  stroke: var(--c3);
+}
+.at-c4 {
+  fill: color-mix(in srgb, var(--c4) 32%, transparent);
+  stroke: var(--c4);
+}
+.at-c5 {
+  fill: color-mix(in srgb, var(--c5) 30%, transparent);
+  stroke: var(--c5);
+}
+
+.at-overlay {
+  stroke-width: calc(1.2 / var(--s, 1));
+  stroke-dasharray: calc(4 / var(--s, 1)) calc(3 / var(--s, 1));
+  animation: at-fade 0.6s var(--ease);
+}
+
+.at-rivers {
+  fill: none;
+  stroke: color-mix(in srgb, var(--good) 45%, var(--ocean));
+  stroke-width: calc(1.1 / var(--s, 1));
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+
+/* Journeys draw themselves. Width is divided by the zoom so the line stays 3px on screen at any scale. */
+.at-route {
+  fill: none;
+  stroke: var(--trap);
+  stroke-width: calc(3 / var(--s, 1));
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: at-draw 2.2s 0.9s cubic-bezier(0.45, 0, 0.25, 1) forwards;
+  pointer-events: none;
+}
+
+@keyframes at-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Pins and labels are HTML so they stay crisp; they follow the camera through --tx, --ty and --s. */
+.at-pins,
+.at-labels {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.at-pin,
+.at-label {
+  position: absolute;
+  left: calc(var(--tx, 0) * 1px + var(--x) * var(--s, 1) * 1px);
+  top: calc(var(--ty, 0) * 1px + var(--y) * var(--s, 1) * 1px);
+}
+
+.at-label {
+  transform: translate(-50%, -50%);
+  font-size: clamp(9px, calc(var(--r) * var(--s, 1) * 0.06px), 13px);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: color-mix(in srgb, var(--fg) 60%, transparent);
+  /* Unruled peoples and minor states only get a name once they are large on screen. */
+  opacity: clamp(0, calc((var(--r) * var(--s, 1) - 260) / 80), 0.45);
+  text-shadow:
+    0 0 3px var(--page),
+    0 0 6px var(--page);
+}
+
+.at-label.major {
+  color: var(--fg);
+  opacity: clamp(0, calc((var(--r) * var(--s, 1) - 45) / 40), 0.85);
+}
+
+.at-pin {
+  width: 0;
+  height: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: inherit;
+  pointer-events: none;
+}
+
+button.at-pin {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.at-pin i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 8px;
+  height: 8px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: var(--fg);
+  box-shadow: 0 0 0 2px var(--page);
+}
+
+.at-pin span {
+  position: absolute;
+  left: 10px;
+  top: 0;
+  transform: translateY(-50%);
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--fg);
+  text-shadow:
+    0 0 3px var(--page),
+    0 0 6px var(--page),
+    0 0 9px var(--page);
+}
+
+.at-capital i {
+  width: 7px;
+  height: 7px;
+  background: var(--page);
+  box-shadow:
+    0 0 0 2px var(--idea),
+    0 0 0 3.5px var(--page);
+}
+
+.at-capital span {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--muted);
+  opacity: clamp(0, calc((var(--s, 1) - 5) / 3), 1);
+}
+
+.at-way i {
+  width: 7px;
+  height: 7px;
+  background: var(--trap);
+}
+
+.at-way span {
+  font-size: 11.5px;
+  opacity: 0;
+  animation: at-show 0.4s 1.4s forwards;
+}
+
+@keyframes at-show {
+  to {
+    opacity: 1;
+  }
+}
+
+.at-prophet i {
+  width: 11px;
+  height: 11px;
+  background: var(--reward);
+}
+
+.at-near i {
+  width: 10px;
+  height: 10px;
+  background: color-mix(in srgb, var(--fg) 70%, transparent);
+  transition: transform 0.2s var(--ease);
+}
+
+.at-near span {
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.at-near:hover i,
+.at-near:focus-visible i {
+  transform: translate(-50%, -50%) scale(1.35);
+}
+
+.at-near:hover span,
+.at-near:focus-visible span {
+  opacity: 1;
+}
+
+.at-event i {
+  width: 14px;
+  height: 14px;
+  background: var(--trap);
+  box-shadow: 0 0 0 3px var(--page);
+}
+
+.at-event i::after {
+  content: "";
+  position: absolute;
+  inset: -9px;
+  border-radius: 50%;
+  border: 2px solid var(--trap);
+  animation: at-pulse 2s var(--ease) infinite;
+}
+
+.at-event span {
+  left: 14px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: var(--page);
+  box-shadow: var(--shadow);
+  text-shadow: none;
+  font-size: 13px;
+}
+
+@keyframes at-pulse {
+  0% {
+    transform: scale(0.4);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+.at-controls {
+  position: absolute;
+  top: var(--gap);
+  right: var(--inset-r);
+  display: grid;
+  gap: 6px;
+  z-index: 2;
+}
+
+.at-controls button {
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--page) 88%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: var(--fg);
+  font: 500 18px/1 var(--ui);
+  cursor: pointer;
+  box-shadow: 0 1px 2px color-mix(in srgb, var(--fg) 6%, transparent);
+}
+
+.at-controls button:hover {
+  border-color: color-mix(in srgb, var(--idea) 50%, var(--line));
+}
+
+.at-note {
+  position: absolute;
+  right: var(--inset-r);
+  bottom: 22px;
+  margin: 0;
+  font-size: 11px;
+  color: var(--muted);
+  pointer-events: none;
+}
+
+.view-story .at-note {
+  bottom: 54px;
+}
+
+/* ---------- top tabs and chapter progress ---------- */
+.tl-tabs {
+  position: absolute;
+  top: var(--gap);
+  left: var(--gap);
+  z-index: 3;
+  display: flex;
+  gap: 2px;
+  padding: 4px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--page) 88%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 1px 2px color-mix(in srgb, var(--fg) 6%, transparent);
+}
+
+.tl-tabs button {
+  height: 34px;
+  min-width: 34px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 10px;
+  background: none;
+  color: var(--muted);
+  font: 600 13.5px/1 var(--ui);
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.tl-tabs button:first-child {
+  padding: 0 10px;
+  font-size: 15px;
+}
+
+.tl-tabs button:hover {
+  color: var(--fg);
+}
+
+.tl-tabs button.on {
+  background: var(--fg);
+  color: var(--page);
+}
+
+.tl-progress {
+  position: absolute;
+  left: var(--gap);
+  right: var(--inset-r);
+  bottom: 22px;
+  z-index: 2;
+}
+
+.pg {
+  display: flex;
+  gap: 4px;
+}
+
+.pg-seg {
+  position: relative;
+  height: 6px;
+  flex-basis: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--fg) 14%, transparent);
+  overflow: hidden;
+  cursor: pointer;
+  transition: height 0.2s var(--ease);
+}
+
+.pg-seg::before {
+  content: "";
+  position: absolute;
+  inset: -10px 0;
+}
+
+.pg-seg:hover,
+.pg-seg.on {
+  height: 8px;
+}
+
+.pg-seg i {
+  position: absolute;
+  inset: 0;
+  background: var(--fg);
+  transform-origin: left;
+  transition: transform 0.5s var(--ease);
+}
+
+.pg-seg.on i {
+  background: var(--trap);
+}
+
+/* ---------- side panel ---------- */
+.tl-side {
+  position: absolute;
+  top: var(--gap);
+  right: var(--gap);
+  bottom: var(--gap);
+  width: var(--panel-w);
+  display: flex;
+  z-index: 4;
+}
+
+.panel {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  background: color-mix(in srgb, var(--page) 94%, transparent);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  box-shadow:
+    0 1px 2px color-mix(in srgb, var(--fg) 5%, transparent),
+    0 24px 48px -24px color-mix(in srgb, var(--fg) 30%, transparent);
+  overflow: hidden;
+}
+
+.sp-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 22px;
+  border-bottom: 1px solid var(--line);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+.sp-head > span:first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sp-count {
+  flex: none;
+  font-variant-numeric: tabular-nums;
+}
+
+.sp-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 22px 24px 26px;
+  animation: sp-in 0.45s var(--ease);
+}
+
+@keyframes sp-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sp-body,
+  .at-borders.entering,
+  .at-overlay {
+    animation: none;
+  }
+  .at-route {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+  .at-way span {
+    animation: none;
+    opacity: 1;
+  }
+  .at-event i::after {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+.sp-when {
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.sp-when time {
+  font-family: var(--display);
+  font-size: clamp(34px, 4vw, 44px);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.sp-when span {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.sp-meta {
+  margin: 10px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.sp-meta b {
+  font-weight: 700;
+  color: var(--k, var(--fg));
+}
+
+.k-prophet {
+  --k: var(--idea);
+}
+.k-revelation {
+  --k: var(--reward);
+}
+.k-battle {
+  --k: var(--trap);
+}
+.k-empire {
+  --k: var(--old);
+}
+.k-knowledge {
+  --k: var(--good);
+}
+.k-event {
+  --k: var(--fg);
+}
+.k-world {
+  --k: var(--people);
+}
+
+.sp-title {
+  margin: 14px 0 10px;
+  font-family: var(--display);
+  font-size: clamp(24px, 2.6vw, 30px);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+.sp-what {
+  margin: 0;
+  font-size: 16.5px;
+  line-height: 1.6;
+  text-wrap: pretty;
+}
+
+.sp-who {
+  margin: 10px 0 0;
+  font-size: 13.5px;
+  color: var(--muted);
+}
+
+.sp-quote {
+  margin: 20px 0 0;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: var(--rewardBg);
+  border-left: 3px solid var(--reward);
+}
+
+.sp-quote p {
+  margin: 0 0 6px;
+  font-family: var(--display);
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+.sp-quote cite {
+  font-style: normal;
+  font-size: 12.5px;
+  font-weight: 600;
+}
+
+.sp-quote cite a {
+  color: var(--reward);
+}
+
+.sp-links {
+  margin: 12px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.sp-links a {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--idea);
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.sp-links a:hover {
+  border-color: var(--idea);
+  background: var(--ideaBg);
+}
+
+.sp-links .sp-guide {
+  border-color: transparent;
+}
+
+.sp-context {
+  margin: 20px 0 0;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 14px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+.sp-context dt {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.sp-context dd {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+}
+
+.dot {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.dot::before {
+  content: "";
+  width: 9px;
+  height: 9px;
+  border-radius: 3px;
+  background: var(--dot);
+}
+
+.dot.c0 {
+  --dot: var(--c0);
+}
+.dot.c1 {
+  --dot: var(--c1);
+}
+.dot.c2 {
+  --dot: var(--c2);
+}
+.dot.c3 {
+  --dot: var(--c3);
+}
+.dot.c4 {
+  --dot: var(--c4);
+}
+.dot.c5 {
+  --dot: var(--c5);
+}
+
+.sp-source {
+  margin: 18px 0 0;
+  font-size: 12.5px;
+  color: var(--muted);
+}
+
+.linkish {
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: var(--idea);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.linkish:hover {
+  text-decoration: underline;
+}
+
+.sp-dim {
+  color: var(--muted);
+  font-size: 13.5px;
+}
+
+/* Chapter title cards. */
+.sp-chapter {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 0;
+}
+
+.sp-chapnum {
+  margin: 0;
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--trap);
+}
+
+.sp-chapter h2 {
+  margin: 12px 0 8px;
+  font-family: var(--display);
+  font-size: clamp(34px, 4vw, 46px);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+  text-wrap: balance;
+}
+
+.sp-span {
+  margin: 0 0 18px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.sp-chapter .sp-what {
+  font-family: var(--display);
+  font-size: 19px;
+  line-height: 1.55;
+}
+
+.sp-chapter .sp-dim {
+  margin: 18px 0 0;
+}
+
+/* Footer navigation: big thumb-sized targets. */
+.sp-nav {
+  display: flex;
+  gap: 8px;
+  padding: 12px 14px;
+  border-top: 1px solid var(--line);
+}
+
+.nav-btn,
+.nav-next {
+  height: 48px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--page);
+  color: var(--fg);
+  font: 600 15px/1 var(--ui);
+  cursor: pointer;
+  transition: border-color 0.2s, background-color 0.2s, transform 0.15s var(--ease);
+}
+
+.nav-btn {
+  width: 52px;
+  flex: none;
+}
+
+.nav-btn.play {
+  font-size: 13px;
+}
+
+.nav-btn.play.on {
+  background: var(--soft);
+}
+
+.nav-next {
+  position: relative;
+  flex: 1;
+  overflow: hidden;
+  border-color: var(--fg);
+  background: var(--fg);
+  color: var(--page);
+}
+
+.nav-next span {
+  position: relative;
+}
+
+.nav-btn:hover:not(:disabled) {
+  border-color: color-mix(in srgb, var(--fg) 40%, var(--line));
+}
+
+.nav-btn:active:not(:disabled),
+.nav-next:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.nav-btn:disabled,
+.nav-next:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+/* Autoplay countdown fills the Next button. */
+.nav-timer {
+  position: absolute;
+  inset: 0;
+  background: color-mix(in srgb, var(--page) 22%, transparent);
+  transform-origin: left;
+  animation: nav-fill linear forwards;
+}
+
+@keyframes nav-fill {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.chip {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--fg);
+  font: 600 12.5px/1.3 var(--ui);
+  cursor: pointer;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.chip:hover {
+  border-color: var(--idea);
+  background: var(--ideaBg);
+}
+
+.chip.prophet {
+  border-color: color-mix(in srgb, var(--reward) 45%, var(--line));
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0 20px;
+  border-radius: 14px;
+  border: 1px solid var(--fg);
+  background: var(--fg);
+  color: var(--page);
+  font: 600 15px/1.2 var(--ui);
+  cursor: pointer;
+  transition: transform 0.15s var(--ease), opacity 0.2s;
+}
+
+.cta:hover {
+  opacity: 0.9;
+}
+
+.cta:active {
+  transform: scale(0.98);
+}
+
+.cta.ghost {
+  background: transparent;
+  color: var(--fg);
+  border-color: var(--line);
+}
+
+.pp .cta {
+  margin-top: 20px;
+  width: 100%;
+}

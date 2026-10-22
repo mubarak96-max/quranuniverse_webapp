@@ -1,0 +1,101 @@
+{
+  "id": "early-nations",
+  "title": "Early nations",
+  "span": "c. 3500 to 1600 BCE",
+  "blurb": "Writing, cities and pyramids appear. In Arabia, the nations of Ad and Thamud rise and are destroyed.",
+  "camera": { "lat": 30, "lng": 62, "zoom": 1.1 },
+  "zoom": 3.2,
+  "events": [
+    {
+      "id": "sumer",
+      "title": "Writing begins",
+      "year": { "ce": -3200, "precision": "approx" },
+      "place": { "name": "Uruk, Iraq", "lat": 31.32, "lng": 45.64 },
+      "what": "Sumerians in Uruk invent writing. Cities, kings and temples follow across Mesopotamia.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "egypt-unified",
+      "title": "Egypt becomes one kingdom",
+      "year": { "ce": -3100, "precision": "approx" },
+      "place": { "name": "Memphis, Egypt", "lat": 29.85, "lng": 31.25 },
+      "what": "Egypt is united under one king. Its rulers are later called Pharaohs, the title the Quran uses in Musa's story.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "pyramids",
+      "title": "The Great Pyramid",
+      "year": { "ce": -2560, "precision": "approx" },
+      "place": { "name": "Giza, Egypt", "lat": 29.98, "lng": 31.13 },
+      "what": "The Great Pyramid is built. It stays the tallest structure on earth for nearly 4,000 years.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "indus",
+      "title": "Cities of the Indus",
+      "year": { "ce": -2500, "precision": "approx" },
+      "place": { "name": "Mohenjo-daro, Pakistan", "lat": 27.33, "lng": 68.14 },
+      "what": "The Indus Valley civilisation builds planned cities with drains and standard bricks.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "akkad",
+      "title": "The first empire",
+      "year": { "ce": -2300, "precision": "approx" },
+      "place": { "name": "Akkad, Iraq", "lat": 33.1, "lng": 44.1 },
+      "who": ["Sargon"],
+      "what": "Sargon of Akkad unites Mesopotamia into the first known empire.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "hud",
+      "title": "Hud and the people of Ad",
+      "year": { "ce": -2200, "precision": "unknown" },
+      "place": { "name": "Al-Ahqaf, southern Arabia", "lat": 16, "lng": 49 },
+      "who": ["Hud"],
+      "what": "Prophet Hud warns the mighty people of Ad in their city of pillars, Iram. They refuse. A screaming wind destroys them.",
+      "verses": ["46:21-26", "89:6-8", "69:6-8"],
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "salih",
+      "title": "Salih and the she-camel",
+      "year": { "ce": -2100, "precision": "unknown" },
+      "place": { "name": "Al-Hijr, Saudi Arabia", "lat": 26.79, "lng": 37.95 },
+      "who": ["Salih"],
+      "what": "Thamud carve homes into the rock at al-Hijr. They kill the she-camel sent as a sign and are destroyed by a blast.",
+      "verses": ["7:73-79", "15:80-84", "91:11-15"],
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "babylon",
+      "title": "Hammurabi's law",
+      "year": { "ce": -1750, "precision": "approx" },
+      "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
+      "who": ["Hammurabi"],
+      "what": "Hammurabi rules Babylon and carves one of the oldest written law codes.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "shang",
+      "title": "Shang China",
+      "year": { "ce": -1600, "precision": "approx" },
+      "place": { "name": "Anyang, China", "lat": 36.1, "lng": 114.35 },
+      "what": "The Shang dynasty rules northern China. Oracle bones carry the earliest Chinese writing.",
+      "source": "History",
+      "kind": "world"
+    }
+  ]
+}

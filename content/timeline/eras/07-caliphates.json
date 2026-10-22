@@ -1,0 +1,273 @@
+{
+  "id": "caliphates",
+  "title": "The first caliphates",
+  "span": "632 to 750 CE",
+  "blurb": "Within a century, Muslim rule stretches from Spain to the Indus. Persia falls, Byzantium shrinks, the Quran is standardised.",
+  "camera": { "lat": 30, "lng": 32, "zoom": 1.3 },
+  "zoom": 3.5,
+  "events": [
+    {
+      "id": "abu-bakr",
+      "title": "Abu Bakr, first caliph",
+      "year": { "ce": 632, "ah": 11, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Abu Bakr"],
+      "what": "Abu Bakr is chosen as the first caliph. Tribes that renounce Islam or refuse zakat are brought back in the Ridda wars.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "quran-collected",
+      "title": "The Quran is collected",
+      "year": { "ce": 633, "ah": 12, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Abu Bakr", "Umar", "Zayd ibn Thabit"],
+      "what": "Many memorisers die at Yamamah. Umar urges Abu Bakr to gather the Quran into one written copy. Zayd leads the work.",
+      "camera": { "zoom": 7 },
+      "article": "who-wrote-the-quran",
+      "source": "Bukhari",
+      "kind": "revelation"
+    },
+    {
+      "id": "umar",
+      "title": "Umar ibn al-Khattab",
+      "year": { "ce": 634, "ah": 13, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Umar ibn al-Khattab"],
+      "what": "Umar becomes caliph. He sets up the Hijri calendar, a treasury, stipends and courts across the new lands.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "yarmuk",
+      "title": "The Battle of Yarmuk",
+      "year": { "ce": 636, "ah": 15, "precision": "exact" },
+      "place": { "name": "Yarmuk, Jordan", "lat": 32.8, "lng": 35.9 },
+      "who": ["Khalid ibn al-Walid", "Heraclius"],
+      "what": "Khalid routs a far larger Byzantine army at the Yarmuk river. Syria is lost to Byzantium for good.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "qadisiyyah",
+      "title": "The Battle of Qadisiyyah",
+      "year": { "ce": 636, "ah": 15, "precision": "exact" },
+      "place": { "name": "Qadisiyyah, Iraq", "lat": 31.6, "lng": 44.3 },
+      "who": ["Sad ibn Abi Waqqas"],
+      "what": "Sad defeats the Persian army at Qadisiyyah. The Sasanian capital Ctesiphon falls the next year.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "jerusalem-umar",
+      "title": "Umar enters Jerusalem",
+      "year": { "ce": 637, "ah": 16, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Umar ibn al-Khattab", "Sophronius"],
+      "what": "Jerusalem surrenders to Umar in person. Churches are protected by a written pact. He prays outside the church to keep it Christian.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "egypt-conquered",
+      "title": "Egypt and Fustat",
+      "year": { "ce": 641, "ah": 20, "precision": "exact" },
+      "place": { "name": "Fustat, Egypt", "lat": 30, "lng": 31.23 },
+      "who": ["Amr ibn al-As"],
+      "what": "Amr takes Egypt from Byzantium and founds Fustat, the seed of Cairo, with the first mosque in Africa.",
+      "routes": [
+        {
+          "points": [[31.5, 34.45, "Gaza"], [31.04, 32.55, "Pelusium"], [30, 31.23, "Fustat"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "nahavand",
+      "title": "The end of Sasanian Persia",
+      "year": { "ce": 642, "ah": 21, "precision": "exact" },
+      "place": { "name": "Nahavand, Iran", "lat": 34.2, "lng": 48.4 },
+      "what": "The last Persian army falls at Nahavand. The Sasanian empire, four centuries old, is finished.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "uthman-mushaf",
+      "title": "Uthman's Quran",
+      "year": { "ce": 650, "ah": 30, "precision": "approx" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Uthman ibn Affan", "Zayd ibn Thabit"],
+      "what": "Caliph Uthman has master copies of the Quran made and sent to each province. Every Quran today follows this text.",
+      "article": "who-wrote-the-quran",
+      "source": "Bukhari",
+      "kind": "revelation"
+    },
+    {
+      "id": "ali-caliph",
+      "title": "Ali and the civil war",
+      "year": { "ce": 656, "ah": 35, "precision": "exact" },
+      "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
+      "who": ["Ali ibn Abi Talib", "Muawiyah"],
+      "what": "Uthman is killed by rebels. Ali becomes caliph and moves to Kufa. Civil war with Muawiyah follows at Siffin.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "umayyads",
+      "title": "The Umayyads",
+      "year": { "ce": 661, "ah": 41, "precision": "exact" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "who": ["Muawiyah"],
+      "what": "Ali is assassinated. Muawiyah founds the Umayyad dynasty and rules from Damascus. The caliphate becomes hereditary.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "aam-al-jamaah",
+      "title": "The Year of Unity",
+      "year": { "ce": 661, "ah": 41, "precision": "exact" },
+      "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
+      "who": ["Hasan ibn Ali", "Muawiyah"],
+      "what": "Hasan, Ali's son, gives up his claim to end the bloodshed. Muslims call it the Year of Unity.",
+      "source": "History, Bukhari",
+      "kind": "empire"
+    },
+    {
+      "id": "kairouan",
+      "title": "Kairouan and the Atlantic",
+      "year": { "ce": 670, "ah": 50, "precision": "exact" },
+      "place": { "name": "Kairouan, Tunisia", "lat": 35.68, "lng": 10.1 },
+      "who": ["Uqba ibn Nafi"],
+      "what": "Uqba founds Kairouan, the base for Islam in North Africa. He later rides to the Atlantic.",
+      "routes": [
+        {
+          "points": [[35.68, 10.1, "Kairouan"], [34.9, -1.3, "Tlemcen"], [30.4, -9.6, "Atlantic"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "constantinople-674",
+      "title": "First siege of Constantinople",
+      "year": { "ce": 674, "ah": 54, "precision": "exact" },
+      "place": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
+      "who": ["Abu Ayyub al-Ansari"],
+      "what": "The first Muslim siege of Constantinople fails. Abu Ayyub, the Prophet's host in Madinah, is buried at its walls.",
+      "routes": [
+        {
+          "points": [[33.51, 36.29, "Damascus"], [36.8, 34.6], [40.38, 27.9, "Cyzicus"], [41.01, 28.98, "Constantinople"]]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "karbala",
+      "title": "Karbala",
+      "year": { "ce": 680, "ah": 61, "precision": "exact" },
+      "place": { "name": "Karbala, Iraq", "lat": 32.6, "lng": 44 },
+      "who": ["Husayn ibn Ali", "Yazid"],
+      "what": "Husayn, the Prophet's grandson, is killed with his family at Karbala by Yazid's army. Remembered every Ashura.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "dome-of-rock",
+      "title": "The Dome of the Rock",
+      "year": { "ce": 691, "ah": 72, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Abd al-Malik"],
+      "what": "Abd al-Malik builds the Dome of the Rock, the oldest surviving Islamic monument. Arabic becomes the language of state.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "andalus",
+      "title": "Tariq crosses to Spain",
+      "year": { "ce": 711, "ah": 92, "precision": "exact" },
+      "place": { "name": "Gibraltar, Spain", "lat": 36.14, "lng": -5.35 },
+      "who": ["Tariq ibn Ziyad"],
+      "what": "Tariq crosses the strait that still bears his name and defeats the Visigoths. Muslim rule in Spain lasts 781 years.",
+      "routes": [
+        {
+          "points": [[35.77, -5.8, "Tangier"], [36.14, -5.35, "Gibraltar"], [37.88, -4.78, "Cordoba"], [39.86, -4.02, "Toledo"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "sindh",
+      "title": "Islam reaches the Indus",
+      "year": { "ce": 711, "ah": 92, "precision": "exact" },
+      "place": { "name": "Debal, Pakistan", "lat": 24.8, "lng": 67 },
+      "who": ["Muhammad ibn al-Qasim"],
+      "what": "A seventeen-year-old general takes Sindh. Islam reaches the Indus.",
+      "routes": [
+        {
+          "points": [[29.6, 52.5, "Shiraz"], [25.5, 60.6], [24.8, 67, "Debal"], [30.2, 71.47, "Multan"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "qutayba",
+      "title": "Bukhara and Samarkand",
+      "year": { "ce": 712, "ah": 93, "precision": "exact" },
+      "place": { "name": "Samarkand, Uzbekistan", "lat": 39.65, "lng": 66.96 },
+      "who": ["Qutayba ibn Muslim"],
+      "what": "Qutayba takes Bukhara and Samarkand. Central Asia, later home to al-Bukhari and Ibn Sina, joins the Muslim world.",
+      "routes": [
+        {
+          "points": [[37.6, 61.8, "Merv"], [39.77, 64.42, "Bukhara"], [39.65, 66.96, "Samarkand"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "umar-ii",
+      "title": "Umar ibn Abd al-Aziz",
+      "year": { "ce": 717, "ah": 99, "precision": "exact" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "who": ["Umar ibn Abd al-Aziz"],
+      "what": "Umar II rules for two years, returns wrongly taken wealth and ends abuses. Often called the fifth rightly guided caliph.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "tours",
+      "title": "The Battle of Tours",
+      "year": { "ce": 732, "ah": 114, "precision": "exact" },
+      "place": { "name": "Tours, France", "lat": 47.39, "lng": 0.69 },
+      "who": ["Charles Martel"],
+      "what": "A Muslim raid from Spain is stopped near Tours by the Franks. The Pyrenees become the frontier.",
+      "routes": [
+        {
+          "points": [[37.88, -4.78, "Cordoba"], [42.8, -1.6, "Pamplona"], [44.84, -0.58, "Bordeaux"], [47.39, 0.69, "Tours"]]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "abbasids",
+      "title": "The Abbasid revolution",
+      "year": { "ce": 750, "ah": 132, "precision": "exact" },
+      "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
+      "who": ["Abu al-Abbas"],
+      "what": "The Abbasids, descendants of the Prophet's uncle, overthrow the Umayyads. One prince escapes to Spain.",
+      "routes": [
+        {
+          "points": [[37.6, 61.8, "Merv"], [36.3, 59.6], [34.8, 48.5], [32.03, 44.4, "Kufa"]]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    }
+  ]
+}

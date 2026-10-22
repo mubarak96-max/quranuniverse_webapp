@@ -1,0 +1,280 @@
+{
+  "id": "isa",
+  "title": "Empires and Isa",
+  "span": "539 BCE to 600 CE",
+  "blurb": "Persia, Greece and Rome rise. Maryam gives birth to Isa in Palestine. Christianity spreads and Rome becomes Byzantium.",
+  "camera": { "lat": 34, "lng": 32, "zoom": 1.3 },
+  "zoom": 4,
+  "events": [
+    {
+      "id": "cyrus",
+      "title": "Cyrus frees the captives",
+      "year": { "ce": -539, "precision": "exact" },
+      "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
+      "who": ["Cyrus"],
+      "what": "Cyrus of Persia takes Babylon and lets Bani Israil return to Jerusalem. His empire reaches from India to Egypt.",
+      "routes": [
+        {
+          "points": [[32.54, 44.42, "Babylon"], [34.4, 41], [35.5, 38.5], [33.51, 36.29, "Damascus"], [31.78, 35.23, "Jerusalem"]]
+        }
+      ],
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "dhul-qarnayn",
+      "title": "Dhul-Qarnayn's wall",
+      "year": { "ce": -530, "precision": "unknown" },
+      "place": { "name": "Unknown" },
+      "who": ["Dhul-Qarnayn"],
+      "what": "A just king travels west and east, then builds an iron wall against Yajuj and Majuj. Scholars differ on who he was; some say Cyrus.",
+      "verses": ["18:83-98"],
+      "quote": "18:98",
+      "article": "surah-al-kahf-benefits",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "buddha-confucius",
+      "title": "Buddha and Confucius",
+      "year": { "ce": -500, "precision": "approx" },
+      "place": { "name": "Bodh Gaya, India", "lat": 24.7, "lng": 84.99 },
+      "who": ["Buddha", "Confucius"],
+      "what": "Buddha teaches in India and Confucius in China. Their ideas shape Asia for the next 2,500 years.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "alexander",
+      "title": "Alexander conquers Persia",
+      "year": { "ce": -331, "precision": "exact" },
+      "place": { "name": "Gaugamela, Iraq", "lat": 36.56, "lng": 43.44 },
+      "who": ["Alexander"],
+      "what": "Alexander of Macedon defeats Persia and conquers Egypt and the east. Greek becomes the language of learning.",
+      "routes": [
+        {
+          "points": [
+            [40.76, 22.52, "Pella"],
+            [40.15, 26.4],
+            [36.85, 36.2, "Issus"],
+            [31.2, 29.92, "Alexandria"],
+            [36.56, 43.44, "Gaugamela"],
+            [29.93, 52.89, "Persepolis"],
+            [32, 72, "Indus"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "rome-empire",
+      "title": "Rome becomes an empire",
+      "year": { "ce": -27, "precision": "exact" },
+      "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.5 },
+      "who": ["Augustus"],
+      "what": "Augustus becomes the first Roman emperor. Rome rules the whole Mediterranean, including Palestine and Egypt.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "maryam",
+      "title": "Maryam in the temple",
+      "year": { "ce": -20, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Maryam", "Zakariya"],
+      "what": "Maryam is dedicated to the temple before birth. Zakariya cares for her and finds her given fruit out of season.",
+      "verses": ["3:35-37"],
+      "quote": "3:37",
+      "camera": { "zoom": 7 },
+      "article": "mary-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "yahya",
+      "title": "Yahya is born",
+      "year": { "ce": -6, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Zakariya", "Yahya"],
+      "what": "Old and childless, Zakariya is given Yahya, a prophet from childhood, gentle and pure.",
+      "verses": ["19:2-15", "3:38-41"],
+      "quote": "19:12",
+      "camera": { "zoom": 7 },
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "isa-born",
+      "title": "The birth of Isa",
+      "year": { "ce": -4, "precision": "approx" },
+      "place": { "name": "Bethlehem, Palestine", "lat": 31.7, "lng": 35.2 },
+      "who": ["Isa", "Maryam"],
+      "what": "Isa is born to Maryam without a father. He speaks in the cradle to defend his mother.",
+      "verses": ["19:16-33", "3:45-47"],
+      "quote": "19:30",
+      "camera": { "zoom": 7 },
+      "article": "jesus-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "isa-mission",
+      "title": "The miracles of Isa",
+      "year": { "ce": 30, "precision": "approx" },
+      "place": { "name": "Galilee, Palestine", "lat": 32.8, "lng": 35.5 },
+      "who": ["Isa"],
+      "what": "Isa receives the Injil, heals the blind and the leper, raises the dead by Allah's leave, and gathers his disciples.",
+      "verses": ["3:49-53", "5:110-115", "61:6"],
+      "camera": { "zoom": 7 },
+      "article": "jesus-in-the-quran",
+      "source": "Quran",
+      "kind": "revelation"
+    },
+    {
+      "id": "isa-table",
+      "title": "The table from heaven",
+      "year": { "ce": 32, "precision": "approx" },
+      "place": { "name": "Galilee, Palestine", "lat": 32.8, "lng": 35.5 },
+      "who": ["Isa"],
+      "what": "The disciples ask for a table of food from heaven. Isa prays and it is sent down as a sign.",
+      "verses": ["5:112-115"],
+      "camera": { "zoom": 7 },
+      "article": "jesus-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "isa-raised",
+      "title": "Isa raised up",
+      "year": { "ce": 33, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Isa"],
+      "what": "A plot to crucify Isa fails. He is not killed; Allah raises him to Himself.",
+      "verses": ["4:157-158", "3:55"],
+      "camera": { "zoom": 7 },
+      "article": "jesus-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "temple-destroyed",
+      "title": "The temple destroyed",
+      "year": { "ce": 70, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Titus"],
+      "what": "Rome crushes a Jewish revolt and destroys the second temple. Bani Israil are scattered.",
+      "verses": ["17:7"],
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "sasanian",
+      "title": "Sasanian Persia",
+      "year": { "ce": 224, "precision": "exact" },
+      "place": { "name": "Ctesiphon, Iraq", "lat": 33.09, "lng": 44.58 },
+      "what": "The Sasanian dynasty takes Persia. For four centuries Persia and Rome fight over Iraq and Syria.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "sleepers",
+      "title": "The People of the Cave",
+      "year": { "ce": 250, "precision": "approx" },
+      "place": { "name": "Ephesus, Turkey", "lat": 37.95, "lng": 27.37 },
+      "what": "Young believers flee a pagan king and sleep in a cave for 309 years. Where exactly is debated; Ephesus is the oldest claim.",
+      "verses": ["18:9-26"],
+      "quote": "18:10",
+      "article": "surah-al-kahf-benefits",
+      "source": "Quran, Ibn Kathir",
+      "kind": "revelation"
+    },
+    {
+      "id": "constantine",
+      "title": "Constantinople",
+      "year": { "ce": 330, "precision": "exact" },
+      "place": { "name": "Constantinople, Turkey", "lat": 41.01, "lng": 28.98 },
+      "who": ["Constantine"],
+      "what": "Constantine founds a new capital and makes Christianity the faith of the empire. Rome becomes Byzantium.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "aksum",
+      "title": "Christian Abyssinia",
+      "year": { "ce": 340, "precision": "approx" },
+      "place": { "name": "Aksum, Ethiopia", "lat": 14.12, "lng": 38.72 },
+      "what": "The kingdom of Aksum in Abyssinia adopts Christianity. Its later king, the Najashi, shelters the first Muslim refugees.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "rome-falls",
+      "title": "Western Rome falls",
+      "year": { "ce": 476, "precision": "exact" },
+      "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.5 },
+      "what": "The last western Roman emperor is deposed. Europe enters its early medieval age.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "ukhdud",
+      "title": "The People of the Ditch",
+      "year": { "ce": 523, "precision": "approx" },
+      "place": { "name": "Najran, Arabia", "lat": 17.49, "lng": 44.13 },
+      "who": ["Dhu Nuwas"],
+      "what": "A king in Yemen burns the believers of Najran in a fiery trench. Surah al-Buruj recalls the People of the Ditch.",
+      "verses": ["85:4-8"],
+      "quote": "85:8",
+      "source": "Quran, Ibn Kathir",
+      "kind": "event"
+    },
+    {
+      "id": "hagia-sophia",
+      "title": "Hagia Sophia",
+      "year": { "ce": 537, "precision": "exact" },
+      "place": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
+      "who": ["Justinian"],
+      "what": "Justinian finishes the Hagia Sophia, the largest church in the world for nearly a thousand years.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "marib-dam",
+      "title": "The dam of Saba breaks",
+      "year": { "ce": 570, "precision": "approx" },
+      "place": { "name": "Marib, Yemen", "lat": 15.42, "lng": 45.33 },
+      "what": "The great dam of Saba breaks for the last time. Gardens turn to scrub and the tribes of Yemen scatter across Arabia.",
+      "verses": ["34:15-17"],
+      "routes": [
+        {
+          "points": [[15.42, 45.33, "Marib"], [20, 41.8], [24.47, 39.61, "Madinah"]]
+        },
+        {
+          "points": [[15.42, 45.33], [22, 41.5], [29, 37.5], [32.5, 36.3, "Ghassan"]]
+        },
+        {
+          "points": [[15.42, 45.33], [20, 46], [27, 45], [31.98, 44.34, "Hira"]]
+        }
+      ],
+      "source": "Quran, History",
+      "kind": "world"
+    },
+    {
+      "id": "elephant",
+      "title": "The Year of the Elephant",
+      "year": { "ce": 570, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Abraha"],
+      "what": "Abraha marches from Yemen with an elephant to destroy the Kaaba. Birds pelt his army with stones. The Year of the Elephant.",
+      "verses": ["105:1-5"],
+      "routes": [
+        {
+          "points": [[15.37, 44.19, "Sana'a"], [17.5, 43.5], [19.5, 41.8], [21.42, 39.83, "Makkah"]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "event"
+    }
+  ]
+}

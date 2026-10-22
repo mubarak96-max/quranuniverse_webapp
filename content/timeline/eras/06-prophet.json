@@ -1,0 +1,435 @@
+{
+  "id": "prophet",
+  "title": "The Prophet Muhammad ﷺ",
+  "span": "570 to 632 CE",
+  "blurb": "Sixty-three years in Makkah and Madinah. The Quran is revealed, a community is built, and Arabia is united.",
+  "camera": { "lat": 23.5, "lng": 39.8, "zoom": 4.5 },
+  "zoom": 6,
+  "events": [
+    {
+      "id": "birth",
+      "title": "Birth of the Prophet ﷺ",
+      "year": { "ce": 570, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Aminah"],
+      "what": "Muhammad ﷺ is born in Makkah to Aminah, his father Abdullah having died before his birth.",
+      "verses": ["93:6-8"],
+      "camera": { "zoom": 7 },
+      "source": "Seerah",
+      "kind": "prophet"
+    },
+    {
+      "id": "khadijah",
+      "title": "Marriage to Khadijah",
+      "year": { "ce": 595, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Khadijah"],
+      "what": "Known in Makkah as al-Amin, the trustworthy, he marries the merchant Khadijah. She is 40, he is 25.",
+      "camera": { "zoom": 8 },
+      "source": "Seerah",
+      "kind": "prophet"
+    },
+    {
+      "id": "black-stone",
+      "title": "The Black Stone",
+      "year": { "ce": 605, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ"],
+      "what": "Quraysh rebuild the Kaaba and quarrel over who sets the Black Stone. He places it on a cloth so every clan can lift it.",
+      "camera": { "zoom": 9 },
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "hira",
+      "title": "The first revelation",
+      "year": { "ce": 610, "precision": "exact" },
+      "place": { "name": "Cave of Hira, Makkah", "lat": 21.46, "lng": 39.86 },
+      "who": ["Muhammad ﷺ", "Jibril"],
+      "what": "In the cave of Hira, Jibril brings the first words of the Quran: Read. Revelation begins on Laylat al-Qadr.",
+      "verses": ["96:1-5", "97:1-5"],
+      "camera": { "zoom": 8 },
+      "article": "laylatul-qadr",
+      "source": "Quran, Bukhari",
+      "kind": "revelation"
+    },
+    {
+      "id": "public-dawah",
+      "title": "The call from Safa",
+      "year": { "ce": 613, "precision": "exact" },
+      "place": { "name": "Mount Safa, Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Abu Lahab"],
+      "what": "After three years of quiet preaching, he calls Quraysh openly from Mount Safa. Abu Lahab curses him. Persecution begins.",
+      "verses": ["26:214", "111:1-5", "15:94"],
+      "camera": { "zoom": 9 },
+      "source": "Quran, Seerah",
+      "kind": "revelation"
+    },
+    {
+      "id": "persia-takes-jerusalem",
+      "title": "Rome is defeated",
+      "year": { "ce": 614, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Khosrow II", "Heraclius"],
+      "what": "Persia takes Jerusalem from Byzantium. The Quran predicts Rome will win again within a few years.",
+      "verses": ["30:2-5"],
+      "source": "Quran, History",
+      "kind": "world"
+    },
+    {
+      "id": "abyssinia",
+      "title": "Refuge in Abyssinia",
+      "year": { "ce": 615, "precision": "exact" },
+      "place": { "name": "Aksum, Ethiopia", "lat": 14.12, "lng": 38.72 },
+      "who": ["Jafar ibn Abi Talib", "Najashi"],
+      "what": "Persecuted Muslims flee to Christian Abyssinia. The Najashi hears Surah Maryam recited and refuses to hand them over.",
+      "verses": ["19:16-34"],
+      "routes": [
+        {
+          "points": [[21.42, 39.83, "Makkah"], [20.85, 39.4, "Shuaybah"], [15.6, 39.45, "Massawa"], [14.12, 38.72, "Aksum"]]
+        }
+      ],
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "umar-hamzah",
+      "title": "Hamzah and Umar",
+      "year": { "ce": 616, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Hamzah", "Umar ibn al-Khattab"],
+      "what": "Hamzah, the Prophet's uncle, and then Umar, once a fierce enemy, accept Islam. Muslims pray openly at the Kaaba.",
+      "verses": ["20:1-8"],
+      "quote": "20:2",
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "boycott",
+      "title": "The boycott",
+      "year": { "ce": 617, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Banu Hashim"],
+      "what": "Quraysh boycott his clan for three years. No trade, no marriage. Children cry from hunger in the valley.",
+      "camera": { "zoom": 9 },
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "tang",
+      "title": "The Tang dynasty",
+      "year": { "ce": 618, "precision": "exact" },
+      "place": { "name": "Chang'an, China", "lat": 34.27, "lng": 108.9 },
+      "what": "The Tang dynasty begins in China. Its capital Chang'an is the largest city on earth. Muslim traders arrive by sea and land.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "year-of-sorrow",
+      "title": "The Year of Sorrow",
+      "year": { "ce": 619, "precision": "exact" },
+      "place": { "name": "Taif, Saudi Arabia", "lat": 21.27, "lng": 40.42 },
+      "who": ["Muhammad ﷺ", "Khadijah", "Abu Talib"],
+      "what": "Khadijah and Abu Talib die. He goes to Taif for help and is stoned out of the city. The Year of Sorrow.",
+      "routes": [
+        {
+          "points": [[21.42, 39.83, "Makkah"], [21.27, 40.42, "Taif"]]
+        }
+      ],
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "isra-miraj",
+      "title": "The Night Journey",
+      "year": { "ce": 621, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Muhammad ﷺ", "Jibril"],
+      "what": "The night journey from Makkah to Jerusalem, then up through the heavens. The five daily prayers are given.",
+      "verses": ["17:1", "53:1-18"],
+      "routes": [
+        {
+          "points": [[21.42, 39.83, "Makkah"], [26, 37.5], [31.78, 35.23, "Jerusalem"]]
+        }
+      ],
+      "source": "Quran, Bukhari",
+      "kind": "revelation"
+    },
+    {
+      "id": "aqabah",
+      "title": "The pledges of Aqabah",
+      "year": { "ce": 621, "precision": "exact" },
+      "place": { "name": "Aqabah, Mina", "lat": 21.42, "lng": 39.89 },
+      "who": ["Ansar"],
+      "what": "Men from Yathrib pledge loyalty at Aqabah. A second, larger pledge follows in 622. Madinah opens its doors.",
+      "camera": { "zoom": 9 },
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "hijrah",
+      "title": "The Hijrah",
+      "year": { "ce": 622, "ah": 1, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Abu Bakr"],
+      "what": "Quraysh plot to kill him. He and Abu Bakr hide in the cave of Thawr, then reach Madinah. The Islamic calendar starts here.",
+      "verses": ["9:40", "8:30"],
+      "routes": [
+        {
+          "points": [
+            [21.42, 39.83, "Makkah"],
+            [21.38, 39.85, "Cave of Thawr"],
+            [22.3, 39.1],
+            [23.4, 38.85],
+            [24.44, 39.62, "Quba"],
+            [24.47, 39.61, "Madinah"]
+          ]
+        }
+      ],
+      "article": "meccan-and-medinan-surahs",
+      "source": "Quran, Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "madinah-community",
+      "title": "A new community",
+      "year": { "ce": 622, "ah": 1, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhajirun", "Ansar"],
+      "what": "The Prophet's mosque is built. Each migrant is paired with a local brother, and a written charter binds Madinah's tribes.",
+      "verses": ["59:9", "8:72"],
+      "camera": { "zoom": 8 },
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "qiblah",
+      "title": "The qiblah changes",
+      "year": { "ce": 624, "ah": 2, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ"],
+      "what": "The direction of prayer changes from Jerusalem to the Kaaba. Fasting in Ramadan is made obligatory the same year.",
+      "verses": ["2:144", "2:183-185"],
+      "camera": { "zoom": 8 },
+      "source": "Quran",
+      "kind": "revelation"
+    },
+    {
+      "id": "badr",
+      "title": "The Battle of Badr",
+      "year": { "ce": 624, "ah": 2, "precision": "exact" },
+      "place": { "name": "Badr, Saudi Arabia", "lat": 23.78, "lng": 38.79 },
+      "who": ["Muhammad ﷺ", "Abu Jahl"],
+      "what": "313 Muslims face 1,000 Quraysh at Badr. Angels fight with them. Abu Jahl is killed. The Quran calls it the Day of Criterion.",
+      "verses": ["3:123-126", "8:9-12", "8:41"],
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [24.2, 39.3], [23.78, 38.79, "Badr"]]
+        },
+        {
+          "points": [[21.42, 39.83, "Makkah"], [22.6, 39.2], [23.78, 38.79]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "uhud",
+      "title": "The Battle of Uhud",
+      "year": { "ce": 625, "ah": 3, "precision": "exact" },
+      "place": { "name": "Uhud, Madinah", "lat": 24.5, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Hamzah"],
+      "what": "Archers leave their post and Quraysh strike back. Hamzah is killed, the Prophet ﷺ wounded. A lesson in obedience.",
+      "verses": ["3:121-122", "3:152-155", "3:169"],
+      "quote": "3:139",
+      "camera": { "zoom": 9 },
+      "source": "Quran, Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "khandaq",
+      "title": "The Trench",
+      "year": { "ce": 627, "ah": 5, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Salman al-Farisi"],
+      "what": "Ten thousand allied tribes besiege Madinah. On Salman's advice the Muslims dig a trench. A wind breaks the siege.",
+      "verses": ["33:9-27"],
+      "routes": [
+        {
+          "points": [[21.42, 39.83, "Makkah"], [22.6, 39.2], [23.8, 39.3], [24.47, 39.61, "Madinah"]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "hudaybiyyah",
+      "title": "Treaty of Hudaybiyyah",
+      "year": { "ce": 628, "ah": 6, "precision": "exact" },
+      "place": { "name": "Hudaybiyyah, Makkah", "lat": 21.44, "lng": 39.7 },
+      "who": ["Muhammad ﷺ", "Quraysh"],
+      "what": "A ten-year truce with Quraysh that looks like a loss. The Quran calls it a clear victory. Islam spreads fast in the peace.",
+      "verses": ["48:1-3", "48:18", "48:27"],
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [23, 39.2], [21.44, 39.62, "Hudaybiyyah"]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "letters-to-kings",
+      "title": "Letters to the kings",
+      "year": { "ce": 628, "ah": 7, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Heraclius", "Khosrow II"],
+      "what": "He sends letters inviting Heraclius of Byzantium, Khosrow of Persia, the Najashi and the ruler of Egypt to Islam.",
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [32.5, 36.3, "Busra"]]
+        },
+        {
+          "points": [[24.47, 39.61, "Madinah"], [29, 41.5], [33.09, 44.58, "Ctesiphon"]]
+        },
+        {
+          "points": [[24.47, 39.61, "Madinah"], [20, 39.5], [14.12, 38.72, "Aksum"]]
+        },
+        {
+          "points": [[24.47, 39.61, "Madinah"], [28, 35], [31.2, 29.92, "Alexandria"]]
+        }
+      ],
+      "source": "Seerah, Bukhari",
+      "kind": "event"
+    },
+    {
+      "id": "khaybar",
+      "title": "Khaybar",
+      "year": { "ce": 628, "ah": 7, "precision": "exact" },
+      "place": { "name": "Khaybar, Saudi Arabia", "lat": 25.7, "lng": 39.29 },
+      "who": ["Ali ibn Abi Talib"],
+      "what": "The fortified Jewish oasis of Khaybar, which backed the siege of Madinah, surrenders after Ali takes its strongest fort.",
+      "verses": ["48:18-21"],
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [25.7, 39.29, "Khaybar"]]
+        }
+      ],
+      "source": "Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "heraclius-wins",
+      "title": "Rome wins again",
+      "year": { "ce": 628, "ah": 7, "precision": "exact" },
+      "place": { "name": "Nineveh, Iraq", "lat": 36.36, "lng": 43.15 },
+      "who": ["Heraclius", "Khosrow II"],
+      "what": "Heraclius crushes Persia at Nineveh. Surah ar-Rum's prediction comes true within the stated few years.",
+      "verses": ["30:2-5"],
+      "quote": "30:3",
+      "source": "Quran, History",
+      "kind": "world"
+    },
+    {
+      "id": "mutah",
+      "title": "The Battle of Mu'tah",
+      "year": { "ce": 629, "ah": 8, "precision": "exact" },
+      "place": { "name": "Mu'tah, Jordan", "lat": 31.08, "lng": 35.7 },
+      "who": ["Zayd ibn Harithah", "Jafar ibn Abi Talib", "Khalid ibn al-Walid"],
+      "what": "3,000 Muslims meet a far larger Byzantine army. Three commanders fall in turn. Khalid brings the army home.",
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [26.6, 37.9], [29, 36.4], [31.08, 35.7, "Mu'tah"]]
+        }
+      ],
+      "source": "Seerah, Bukhari",
+      "kind": "battle"
+    },
+    {
+      "id": "fath-makkah",
+      "title": "The return to Makkah",
+      "year": { "ce": 630, "ah": 8, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ"],
+      "what": "Quraysh break the truce. Ten thousand Muslims enter Makkah without a battle. The idols are cleared from the Kaaba. All are pardoned.",
+      "verses": ["110:1-3", "17:81", "48:27"],
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [23, 39.25], [21.42, 39.83, "Makkah"]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "hunayn",
+      "title": "The Battle of Hunayn",
+      "year": { "ce": 630, "ah": 8, "precision": "exact" },
+      "place": { "name": "Hunayn, Saudi Arabia", "lat": 21.6, "lng": 40.2 },
+      "who": ["Muhammad ﷺ"],
+      "what": "The tribes of Hawazin ambush the army in a valley. Early panic, then victory. The Quran warns against pride in numbers.",
+      "verses": ["9:25-26"],
+      "source": "Quran, Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "tabuk",
+      "title": "The march to Tabuk",
+      "year": { "ce": 630, "ah": 9, "precision": "exact" },
+      "place": { "name": "Tabuk, Saudi Arabia", "lat": 28.38, "lng": 36.57 },
+      "who": ["Muhammad ﷺ"],
+      "what": "A long march north to meet a rumoured Byzantine army. No battle, but the hypocrites who stayed home are exposed.",
+      "verses": ["9:38-52", "9:117-118"],
+      "quote": "9:41",
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [26.6, 37.9, "al-Ula"], [28.38, 36.57, "Tabuk"]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "delegations",
+      "title": "The Year of Delegations",
+      "year": { "ce": 631, "ah": 9, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Arab tribes"],
+      "what": "Tribes from across Arabia send delegations to accept Islam. The Year of Delegations.",
+      "verses": ["110:2"],
+      "camera": { "zoom": 6 },
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "farewell-hajj",
+      "title": "The Farewell Hajj",
+      "year": { "ce": 632, "ah": 10, "precision": "exact" },
+      "place": { "name": "Arafat, Makkah", "lat": 21.35, "lng": 39.98 },
+      "who": ["Muhammad ﷺ"],
+      "what": "He leads the Hajj with over 100,000 pilgrims and gives his farewell sermon. The verse completing the religion is revealed.",
+      "verses": ["5:3"],
+      "quote": { "ref": "5:3", "from": "This day I have perfected", "to": "Islam as religion." },
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [23, 39.25], [21.42, 39.83, "Makkah"], [21.35, 39.98, "Arafat"]]
+        }
+      ],
+      "article": "five-pillars-of-islam",
+      "source": "Quran, Seerah",
+      "kind": "revelation"
+    },
+    {
+      "id": "prophet-dies",
+      "title": "The Prophet ﷺ passes away",
+      "year": { "ce": 632, "ah": 11, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Abu Bakr"],
+      "what": "He dies in Aisha's room in Madinah. Abu Bakr steadies the shocked community: Muhammad has died, but Allah lives.",
+      "verses": ["3:144", "39:30"],
+      "camera": { "zoom": 8 },
+      "source": "Quran, Bukhari",
+      "kind": "prophet"
+    }
+  ]
+}

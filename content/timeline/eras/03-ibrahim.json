@@ -1,0 +1,208 @@
+{
+  "id": "ibrahim",
+  "title": "Ibrahim and his family",
+  "span": "c. 2000 to 1700 BCE",
+  "blurb": "One family: Ibrahim, Lut, Ismail, Ishaq, Yaqub and Yusuf. From Iraq to Palestine, Makkah and Egypt.",
+  "camera": { "lat": 27, "lng": 40, "zoom": 2.4 },
+  "zoom": 4.5,
+  "events": [
+    {
+      "id": "ibrahim-stars",
+      "title": "The star, the moon, the sun",
+      "year": { "ce": -2010, "precision": "approx" },
+      "place": { "name": "Ur, Iraq", "lat": 30.96, "lng": 46.1 },
+      "who": ["Ibrahim"],
+      "what": "Ibrahim watches a star, the moon, then the sun. Each one sets. He turns to the One who made them.",
+      "verses": ["6:75-79"],
+      "quote": "6:79",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ibrahim-ur",
+      "title": "Ibrahim breaks the idols",
+      "year": { "ce": -2000, "precision": "approx" },
+      "place": { "name": "Ur, Iraq", "lat": 30.96, "lng": 46.1 },
+      "who": ["Ibrahim"],
+      "what": "Ibrahim rejects the idols of his people and his father Azar. He breaks the idols and is thrown into a fire that does not burn him.",
+      "verses": ["21:51-70", "6:74-83"],
+      "quote": "21:69",
+      "article": "prophets-in-the-quran",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "ibrahim-nimrod",
+      "title": "Ibrahim faces the king",
+      "year": { "ce": -1990, "precision": "approx" },
+      "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
+      "who": ["Ibrahim", "Nimrod"],
+      "what": "Ibrahim debates the king who claims to give life and death. The king is silenced when told to bring the sun from the west.",
+      "verses": ["2:258"],
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "ibrahim-sham",
+      "title": "Ibrahim migrates",
+      "year": { "ce": -1980, "precision": "approx" },
+      "place": { "name": "Hebron, Palestine", "lat": 31.53, "lng": 35.1 },
+      "who": ["Ibrahim", "Lut"],
+      "what": "Ibrahim and Lut migrate to the land of Sham. Ibrahim settles near Hebron, where he is later buried.",
+      "verses": ["21:71", "29:26"],
+      "routes": [
+        {
+          "points": [[30.96, 46.1, "Ur"], [36.87, 39.03, "Harran"], [34.7, 36.7], [31.53, 35.1, "Hebron"]]
+        }
+      ],
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "guests",
+      "title": "The angel guests",
+      "year": { "ce": -1955, "precision": "approx" },
+      "place": { "name": "Hebron, Palestine", "lat": 31.53, "lng": 35.1 },
+      "who": ["Ibrahim", "Sarah"],
+      "what": "Angels visit Ibrahim as guests. He serves them a roasted calf. They bring news of a son, Ishaq, and of Lut's town.",
+      "verses": ["11:69-73", "51:24-30"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "lut",
+      "title": "The towns of Lut",
+      "year": { "ce": -1950, "precision": "approx" },
+      "place": { "name": "Sodom, Dead Sea", "lat": 31.5, "lng": 35.5 },
+      "who": ["Lut"],
+      "what": "Lut's people reject him. Angels visit, the town is turned upside down and stones rain on it.",
+      "verses": ["11:77-83", "15:61-77"],
+      "quote": "11:82",
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ismail-makkah",
+      "title": "Hajar, Ismail and Zamzam",
+      "year": { "ce": -1940, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Ibrahim", "Hajar", "Ismail"],
+      "what": "Ibrahim leaves Hajar and the infant Ismail in the empty valley of Makkah. Zamzam springs from the ground.",
+      "verses": ["14:37"],
+      "routes": [
+        {
+          "points": [[31.53, 35.1, "Hebron"], [29.6, 35], [26.6, 37.9], [23.9, 38.6], [21.42, 39.83, "Makkah"]]
+        }
+      ],
+      "camera": { "zoom": 4 },
+      "source": "Quran, Bukhari",
+      "kind": "prophet"
+    },
+    {
+      "id": "jurhum",
+      "title": "Makkah's first people",
+      "year": { "ce": -1935, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Ismail", "Jurhum"],
+      "what": "The Arab tribe of Jurhum settles by Zamzam. Ismail grows up among them, learns their Arabic and marries into them.",
+      "camera": { "zoom": 8 },
+      "source": "Bukhari",
+      "kind": "event"
+    },
+    {
+      "id": "sacrifice",
+      "title": "The sacrifice",
+      "year": { "ce": -1925, "precision": "approx" },
+      "place": { "name": "Mina, Makkah", "lat": 21.41, "lng": 39.89 },
+      "who": ["Ibrahim", "Ismail"],
+      "what": "Ibrahim is told in a dream to sacrifice his son. Both submit. A ram is sent instead. Eid al-Adha remembers this.",
+      "verses": ["37:100-111"],
+      "quote": "37:102",
+      "camera": { "zoom": 8 },
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "kaaba",
+      "title": "Raising the Kaaba",
+      "year": { "ce": -1920, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Ibrahim", "Ismail"],
+      "what": "Ibrahim and Ismail raise the walls of the Kaaba and call people to Hajj.",
+      "verses": ["2:125-129", "22:26-27"],
+      "quote": "2:127",
+      "camera": { "zoom": 8 },
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ishaq-yaqub",
+      "title": "Ishaq and Yaqub",
+      "year": { "ce": -1900, "precision": "approx" },
+      "place": { "name": "Canaan, Palestine", "lat": 32.2, "lng": 35.25 },
+      "who": ["Ishaq", "Yaqub"],
+      "what": "Ishaq is born to Sarah in old age. His son Yaqub, also called Israil, fathers the twelve tribes.",
+      "verses": ["11:71", "2:132-133"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "yusuf",
+      "title": "Yusuf in the well",
+      "year": { "ce": -1800, "precision": "approx" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Yusuf", "Yaqub"],
+      "what": "His brothers throw Yusuf into a well. Travellers find him and sell him in Egypt for a few coins.",
+      "verses": ["12:8-20"],
+      "quote": "12:15",
+      "routes": [
+        {
+          "points": [[32.2, 35.25, "Canaan"], [31.4, 34.3], [30.9, 32.6], [29.85, 31.25, "Egypt"]]
+        }
+      ],
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "yusuf-dreams",
+      "title": "The king's dream",
+      "year": { "ce": -1790, "precision": "approx" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Yusuf"],
+      "what": "Jailed on a false charge, Yusuf reads the king's dream: seven fat years, seven lean. He is put in charge of Egypt's stores.",
+      "verses": ["12:43-55"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "yusuf-reunion",
+      "title": "The family reunited",
+      "year": { "ce": -1780, "precision": "approx" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Yusuf", "Yaqub"],
+      "what": "Famine drives his brothers to Egypt. Yusuf forgives them. Yaqub's sight returns and the family settles in Egypt.",
+      "verses": ["12:88-100"],
+      "quote": "12:92",
+      "routes": [
+        {
+          "points": [[32.2, 35.25, "Canaan"], [31.4, 34.3], [30.9, 32.6], [29.85, 31.25, "Egypt"]]
+        }
+      ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ayyub",
+      "title": "The patience of Ayyub",
+      "year": { "ce": -1700, "precision": "unknown" },
+      "place": { "name": "Hawran, Syria", "lat": 32.7, "lng": 36.5 },
+      "who": ["Ayyub"],
+      "what": "Ayyub loses health, wealth and children, stays patient, and is restored.",
+      "verses": ["21:83-84", "38:41-44"],
+      "source": "Quran",
+      "kind": "prophet"
+    }
+  ]
+}

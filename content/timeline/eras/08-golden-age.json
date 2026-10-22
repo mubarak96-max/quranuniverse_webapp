@@ -1,0 +1,338 @@
+{
+  "id": "golden-age",
+  "title": "Baghdad and the golden age",
+  "span": "751 to 1258 CE",
+  "blurb": "Baghdad, Cordoba and Cairo lead the world in science, medicine and law. Crusaders and Mongols arrive. Baghdad burns.",
+  "camera": { "lat": 32, "lng": 35, "zoom": 1.1 },
+  "zoom": 3.5,
+  "events": [
+    {
+      "id": "talas",
+      "title": "Paper from China",
+      "year": { "ce": 751, "ah": 133, "precision": "exact" },
+      "place": { "name": "Talas, Kyrgyzstan", "lat": 42.5, "lng": 72.2 },
+      "what": "Abbasid and Tang armies meet at Talas. Chinese prisoners bring paper-making to the Muslim world.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "cordoba-emirate",
+      "title": "Cordoba",
+      "year": { "ce": 756, "ah": 138, "precision": "exact" },
+      "place": { "name": "Cordoba, Spain", "lat": 37.88, "lng": -4.78 },
+      "who": ["Abd al-Rahman I"],
+      "what": "The Umayyad prince who escaped the Abbasids founds an independent state in Cordoba. Its great mosque rises in 785.",
+      "routes": [
+        {
+          "points": [
+            [33.51, 36.29, "Damascus"],
+            [31.2, 29.9],
+            [32.5, 20],
+            [35.68, 10.1, "Kairouan"],
+            [35.9, -5.3, "Ceuta"],
+            [37.88, -4.78, "Cordoba"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "baghdad",
+      "title": "Baghdad is founded",
+      "year": { "ce": 762, "ah": 145, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Al-Mansur"],
+      "what": "Caliph al-Mansur founds Baghdad as a round city on the Tigris. Within fifty years it is the largest city on earth.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "abu-hanifa-malik",
+      "title": "The four imams",
+      "year": { "ce": 767, "ah": 150, "precision": "exact" },
+      "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
+      "who": ["Abu Hanifa", "Malik", "Al-Shafii", "Ahmad ibn Hanbal"],
+      "what": "Abu Hanifa dies in Baghdad. Malik, al-Shafii and Ahmad follow over the next century. The four schools of law take shape.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "harun",
+      "title": "Harun al-Rashid",
+      "year": { "ce": 786, "ah": 170, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Harun al-Rashid"],
+      "what": "Harun al-Rashid becomes caliph. The Baghdad of the Thousand and One Nights is at its peak.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "charlemagne",
+      "title": "Charlemagne and Harun",
+      "year": { "ce": 800, "precision": "exact" },
+      "place": { "name": "Aachen, Germany", "lat": 50.78, "lng": 6.08 },
+      "who": ["Charlemagne", "Harun al-Rashid"],
+      "what": "Charlemagne is crowned emperor in the west. He exchanges gifts with Harun al-Rashid, including an elephant.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "darb-zubaydah",
+      "title": "The road of Zubaydah",
+      "year": { "ce": 800, "precision": "approx" },
+      "place": { "name": "Darb Zubaydah, Arabia", "lat": 27.12, "lng": 42.5 },
+      "who": ["Zubaydah"],
+      "what": "Harun's wife Zubaydah builds wells and rest stops along the 1,400 km pilgrim road from Kufa to Makkah.",
+      "routes": [
+        {
+          "points": [[32.03, 44.4, "Kufa"], [29.3, 43.4, "Zubala"], [27.12, 42.5, "Fayd"], [23.9, 41.6], [21.42, 39.83, "Makkah"]]
+        }
+      ],
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "house-of-wisdom",
+      "title": "The House of Wisdom",
+      "year": { "ce": 830, "ah": 215, "precision": "approx" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Al-Mamun", "Al-Khwarizmi"],
+      "what": "Al-Mamun's House of Wisdom translates Greek, Persian and Indian science. Al-Khwarizmi writes the book that names algebra.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "bukhari",
+      "title": "Sahih al-Bukhari",
+      "year": { "ce": 846, "ah": 232, "precision": "approx" },
+      "place": { "name": "Bukhara, Uzbekistan", "lat": 39.77, "lng": 64.42 },
+      "who": ["Al-Bukhari", "Muslim"],
+      "what": "Al-Bukhari completes his Sahih after sixteen years sifting 600,000 reports. Muslim ibn al-Hajjaj follows with his own.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "fatimids",
+      "title": "The Fatimids",
+      "year": { "ce": 909, "ah": 297, "precision": "exact" },
+      "place": { "name": "Mahdia, Tunisia", "lat": 35.5, "lng": 11.06 },
+      "what": "The Shia Fatimids declare a rival caliphate in North Africa. In 969 they take Egypt and found Cairo.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "tabari",
+      "title": "Al-Tabari",
+      "year": { "ce": 923, "ah": 310, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Al-Tabari"],
+      "what": "Al-Tabari dies, leaving the great early tafsir and a history of the world from creation to his own day.",
+      "article": "what-is-tafsir",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "cordoba-caliphate",
+      "title": "The Caliphate of Cordoba",
+      "year": { "ce": 929, "ah": 316, "precision": "exact" },
+      "place": { "name": "Cordoba, Spain", "lat": 37.88, "lng": -4.78 },
+      "who": ["Abd al-Rahman III"],
+      "what": "Abd al-Rahman III declares himself caliph. Cordoba has paved streets, street lights and a library of 400,000 books.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "al-azhar",
+      "title": "Al-Azhar",
+      "year": { "ce": 972, "ah": 361, "precision": "exact" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
+      "what": "Al-Azhar mosque opens in the new city of Cairo. It becomes one of the oldest universities still teaching.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "ghazna",
+      "title": "Mahmud of Ghazna",
+      "year": { "ce": 1001, "ah": 391, "precision": "exact" },
+      "place": { "name": "Ghazni, Afghanistan", "lat": 33.55, "lng": 68.42 },
+      "who": ["Mahmud of Ghazna"],
+      "what": "Mahmud of Ghazna begins his campaigns into northern India. Lahore becomes a Muslim city.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "ibn-sina",
+      "title": "Ibn Sina and Ibn al-Haytham",
+      "year": { "ce": 1025, "ah": 416, "precision": "approx" },
+      "place": { "name": "Hamadan, Iran", "lat": 34.8, "lng": 48.52 },
+      "who": ["Ibn Sina", "Ibn al-Haytham"],
+      "what": "Ibn Sina finishes the Canon of Medicine, Europe's textbook for 600 years. In Cairo, Ibn al-Haytham founds optics by experiment.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "seljuks",
+      "title": "The Seljuk Turks",
+      "year": { "ce": 1055, "ah": 447, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Tughril Beg"],
+      "what": "The Seljuk Turks enter Baghdad as protectors of the caliph. Turkish dynasties will dominate the Muslim world for 900 years.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "nizamiyya",
+      "title": "The Nizamiyya colleges",
+      "year": { "ce": 1067, "ah": 459, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Nizam al-Mulk"],
+      "what": "The Seljuk vizier Nizam al-Mulk opens the Nizamiyya colleges. Al-Ghazali later teaches here.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "manzikert",
+      "title": "Manzikert",
+      "year": { "ce": 1071, "ah": 463, "precision": "exact" },
+      "place": { "name": "Manzikert, Turkey", "lat": 39.15, "lng": 42.54 },
+      "who": ["Alp Arslan"],
+      "what": "Alp Arslan captures the Byzantine emperor at Manzikert. Anatolia opens to the Turks and becomes Turkey.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "crusaders-jerusalem",
+      "title": "The Crusaders take Jerusalem",
+      "year": { "ce": 1099, "ah": 492, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "what": "The First Crusade takes Jerusalem and massacres its Muslim and Jewish inhabitants. Crusader states last two centuries.",
+      "routes": [
+        {
+          "points": [
+            [41.01, 28.98, "Constantinople"],
+            [40.43, 29.72, "Nicaea"],
+            [36.2, 36.16, "Antioch"],
+            [31.78, 35.23, "Jerusalem"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "swahili",
+      "title": "The Swahili coast",
+      "year": { "ce": 1100, "precision": "approx" },
+      "place": { "name": "Kilwa, Tanzania", "lat": -8.96, "lng": 39.51 },
+      "what": "Muslim towns of stone line the East African coast from Mogadishu to Kilwa, trading gold and ivory across the ocean.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "ghazali",
+      "title": "Al-Ghazali",
+      "year": { "ce": 1111, "ah": 505, "precision": "exact" },
+      "place": { "name": "Tus, Iran", "lat": 36.5, "lng": 59.5 },
+      "who": ["Al-Ghazali"],
+      "what": "Al-Ghazali dies. His Revival of the Religious Sciences joins law, theology and the inner life into one path.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "idrisi",
+      "title": "Al-Idrisi's map",
+      "year": { "ce": 1154, "ah": 549, "precision": "exact" },
+      "place": { "name": "Palermo, Sicily", "lat": 38.12, "lng": 13.36 },
+      "who": ["Al-Idrisi", "Roger II"],
+      "what": "Al-Idrisi completes a map of the known world for the Norman king of Sicily. Europe copies it for three centuries.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "hattin",
+      "title": "Salah al-Din at Hattin",
+      "year": { "ce": 1187, "ah": 583, "precision": "exact" },
+      "place": { "name": "Hattin, Palestine", "lat": 32.8, "lng": 35.45 },
+      "who": ["Salah al-Din"],
+      "what": "Salah al-Din destroys the Crusader army at Hattin and retakes Jerusalem without a massacre.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "ibn-rushd",
+      "title": "Ibn Rushd",
+      "year": { "ce": 1198, "ah": 595, "precision": "exact" },
+      "place": { "name": "Cordoba, Spain", "lat": 37.88, "lng": -4.78 },
+      "who": ["Ibn Rushd"],
+      "what": "Ibn Rushd dies. His commentaries on Aristotle shape European universities for centuries.",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "genghis",
+      "title": "Genghis Khan",
+      "year": { "ce": 1206, "precision": "exact" },
+      "place": { "name": "Mongolia", "lat": 47.9, "lng": 106.9 },
+      "who": ["Genghis Khan"],
+      "what": "Genghis Khan unites the Mongols. Within twenty years his armies destroy the cities of Central Asia and Persia.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "delhi-sultanate",
+      "title": "The Delhi Sultanate",
+      "year": { "ce": 1206, "ah": 602, "precision": "exact" },
+      "place": { "name": "Delhi, India", "lat": 28.6, "lng": 77.2 },
+      "who": ["Qutb al-Din Aibak"],
+      "what": "The Delhi Sultanate begins. Muslim rule in northern India continues for six centuries.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "las-navas",
+      "title": "Al-Andalus starts to fall",
+      "year": { "ce": 1212, "ah": 609, "precision": "exact" },
+      "place": { "name": "Las Navas de Tolosa, Spain", "lat": 38.28, "lng": -3.58 },
+      "what": "Christian kings break the Almohad army. Cordoba falls in 1236 and Seville in 1248. Only Granada remains Muslim.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "khwarazm-falls",
+      "title": "The Mongols reach Islam",
+      "year": { "ce": 1220, "ah": 617, "precision": "exact" },
+      "place": { "name": "Bukhara, Uzbekistan", "lat": 39.77, "lng": 64.42 },
+      "who": ["Genghis Khan"],
+      "what": "The Mongols sack Bukhara, Samarkand and Merv. Whole cities are emptied.",
+      "routes": [
+        {
+          "points": [
+            [47.9, 106.9, "Mongolia"],
+            [43.8, 87.6],
+            [42.85, 68.3, "Otrar"],
+            [39.77, 64.42, "Bukhara"],
+            [39.65, 66.96, "Samarkand"]
+          ]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "baghdad-falls",
+      "title": "Baghdad falls",
+      "year": { "ce": 1258, "ah": 656, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Hulagu"],
+      "what": "The Mongols sack Baghdad, kill the caliph and throw the libraries into the Tigris. Five centuries of Abbasid rule end.",
+      "routes": [
+        {
+          "points": [[39.65, 66.96, "Samarkand"], [36.3, 59.6], [34.8, 48.5, "Hamadan"], [33.34, 44.4, "Baghdad"]]
+        }
+      ],
+      "source": "History",
+      "kind": "battle"
+    }
+  ]
+}

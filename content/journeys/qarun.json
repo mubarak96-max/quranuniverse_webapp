@@ -1,0 +1,93 @@
+{
+  "id": "qarun",
+  "name": "Qarun",
+  "arabic": "قارون",
+  "villain": true,
+  "tagline": "His keys alone could tire strong men. He said: I earned it myself. The earth took him and his house.",
+  "description": "Watch the fall of Qarun, scene by scene: the richest man among Musa's people, the advice he rejected, the procession that made others envious, the earth that swallowed him, and what those who envied him said the next morning. Told through the Quran.",
+  "outro": "The home of the Hereafter is for those who seek no greatness on earth.",
+  "stop": "qarun",
+  "acts": [
+    {
+      "title": "The treasure",
+      "scenes": [
+        { "id": "cover", "set": "treasure", "mood": "stillness", "cover": true, "lines": [] },
+        {
+          "id": "keys",
+          "set": "treasure",
+          "mood": "pride",
+          "lens": "What he trusted",
+          "lines": ["Qarun was one of Musa's own people.", "Allah gave him so much treasure", "that its keys alone were a burden for a band of strong men."],
+          "ayah": { "ref": "28:76", "from": "Indeed, Qarun", "to": "strong men;" }
+        },
+        {
+          "id": "advice",
+          "set": "treasure",
+          "mood": "caution",
+          "lens": "A warning",
+          "lines": ["His people warned him: do not exult.", "Use what you were given for the next life,", "and do not forget your share of this one."],
+          "ayah": "28:77"
+        },
+        {
+          "id": "my-knowledge",
+          "set": "ember",
+          "mood": "defiance",
+          "lens": "Arrogance",
+          "lines": ["He gave a short answer.", "Not Allah's gift. His own skill."],
+          "ayah": { "ref": "28:78", "from": "He said,", "to": "knowledge I have.\"" }
+        }
+      ]
+    },
+    {
+      "title": "The procession",
+      "scenes": [
+        {
+          "id": "adornment",
+          "set": "procession",
+          "mood": "envy",
+          "lens": "The test",
+          "lines": ["One day he rode out before his people in all his finery.", "Some watched and wished."],
+          "ayah": "28:79"
+        },
+        {
+          "id": "knowers",
+          "set": "dusk",
+          "mood": "clarity",
+          "lens": "True wealth",
+          "lines": ["Others, who had been given knowledge, saw it differently."],
+          "ayah": "28:80"
+        }
+      ]
+    },
+    {
+      "title": "The swallowing",
+      "scenes": [
+        {
+          "id": "swallowed",
+          "set": "chasm",
+          "mood": "horror",
+          "lens": "The end",
+          "lines": ["Then the ground opened.", "It took him, and it took his house.", "No treasure, no servant, no friend could hold him up."],
+          "ayah": "28:81"
+        },
+        {
+          "id": "next-morning",
+          "set": "earth",
+          "mood": "humility",
+          "lens": "The lesson learned",
+          "lines": ["The next morning, the same people who had wished to be him", "thanked Allah they were not."],
+          "ayah": "28:82"
+        },
+        {
+          "id": "lesson",
+          "set": "end",
+          "mood": "clarity",
+          "lens": "Relied on, undone by",
+          "lines": ["He trusted his wealth to hold him up.", "The earth beneath it gave way.", "Wealth is a test, not proof of worth."],
+          "ayah": "28:83"
+        },
+        { "id": "end", "set": "end", "mood": "clarity", "end": true, "lines": [] }
+      ]
+    }
+  ]
+}

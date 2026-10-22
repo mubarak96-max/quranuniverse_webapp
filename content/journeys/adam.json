@@ -1,0 +1,528 @@
+{
+  "id": "adam",
+  "name": "Adam",
+  "arabic": "آدم",
+  "tagline": "The first human. The first prophet. The first to turn back to Allah.",
+  "description": "Live the story of Adam, peace be upon him, scene by scene: his creation from clay, the names, the angels' prostration, the Garden, the whisper, his repentance, the descent to earth, his two sons, and his death. Told through the Quran, authentic hadith and the classical scholars.",
+  "stop": "adam",
+  "next": { "stop": "idris", "title": "Idris" },
+  "acts": [
+    {
+      "title": "Before",
+      "scenes": [
+        {
+          "id": "cover",
+          "set": "void",
+          "mood": "stillness",
+          "cover": true,
+          "lines": []
+        },
+        {
+          "id": "before",
+          "set": "void",
+          "mood": "stillness",
+          "lens": "Allah's creation",
+          "lines": ["Before any human walked the earth,", "there were the angels, made of light,", "and the jinn, made of fire."],
+          "hadith": {
+            "text": "The angels were created from light, the jinn were created from smokeless fire, and Adam was created from what has been described to you.",
+            "cite": "Sahih Muslim 2996"
+          },
+          "refs": ["15:27"]
+        },
+        {
+          "id": "announcement",
+          "set": "dawn",
+          "mood": "awe",
+          "lens": "Allah's plan",
+          "lines": ["Then Allah told the angels of something new."],
+          "ayah": { "ref": "2:30", "from": "\"Indeed, I will make", "to": "authority.\"", "words": [4, 9] }
+        },
+        {
+          "id": "question",
+          "set": "dawn",
+          "mood": "wonder",
+          "lens": "Allah's knowledge",
+          "lines": ["The angels asked: would it be one who spreads corruption and sheds blood,", "while they glorified Him without end?"],
+          "ayah": { "ref": "2:30", "from": "Allah said", "words": [22, 28] }
+        }
+      ]
+    },
+    {
+      "title": "Clay",
+      "scenes": [
+        {
+          "id": "handful",
+          "set": "clay",
+          "mood": "wonder",
+          "lens": "Allah's power",
+          "lines": ["A handful was taken from all of the earth.", "Every colour of soil. Every kind of ground.", "His children would come the same way."],
+          "hadith": {
+            "text": "Allah created Adam from a handful He took from the whole earth, so the children of Adam came according to the earth: some red, some white, some black and in between; some gentle, some harsh, some bad and some good.",
+            "cite": "Abu Dawud 4693 · Tirmidhi 2955"
+          }
+        },
+        {
+          "id": "clay",
+          "set": "clay",
+          "mood": "wonder",
+          "lens": "Allah's power",
+          "lines": ["Water was added, and the earth became clay,", "then dark, altered mud,", "then a form that dried until it rang like pottery."],
+          "ayah": "15:28",
+          "refs": ["55:14", "23:12"]
+        },
+        {
+          "id": "hollow",
+          "set": "vessel",
+          "mood": "unease",
+          "lens": "The test begins",
+          "lines": ["The form lay still for as long as Allah willed.", "Iblis circled it, studying it.", "He saw that it was hollow, and took that for a weakness."],
+          "hadith": {
+            "text": "When Allah shaped Adam in Paradise, He left him as long as He willed. Iblis began to circle around him, looking at what he was. When he saw that he was hollow, he knew he had been created a creature that would not have full control over itself.",
+            "cite": "Sahih Muslim 2611"
+          }
+        },
+        {
+          "id": "breath",
+          "set": "breath",
+          "mood": "life",
+          "lens": "Allah's honour",
+          "lines": ["Then Allah breathed into him of the soul He created.", "Clay became a living man."],
+          "ayah": "15:29",
+          "refs": ["32:9"]
+        },
+        {
+          "id": "praise",
+          "set": "breath",
+          "mood": "gratitude",
+          "lens": "Allah's mercy",
+          "lines": ["Adam sneezed.", "His first words were praise: Alhamdulillah.", "The first words he heard were mercy."],
+          "hadith": {
+            "text": "When Allah created Adam and breathed the soul into him, he sneezed and said, \"Alhamdulillah,\" praising Allah by His permission. His Lord said to him, \"May Allah have mercy on you, O Adam.\"",
+            "cite": "Tirmidhi 3368"
+          }
+        },
+        {
+          "id": "salam",
+          "set": "court",
+          "mood": "belonging",
+          "lens": "Allah's honour",
+          "lines": [
+            "He stood sixty cubits tall.",
+            "He was told to greet a gathering of angels and listen to their reply.",
+            "As-salamu alaykum, he said. As-salamu alayka wa rahmatullah, they answered.",
+            "Every salam since began with his."
+          ],
+          "hadith": {
+            "text": "Go and greet that group of angels sitting there, and listen to how they greet you, for that will be your greeting and the greeting of your descendants.",
+            "cite": "Sahih al-Bukhari 3326 · Muslim 2841"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The names",
+      "scenes": [
+        {
+          "id": "names",
+          "set": "names",
+          "mood": "wonder",
+          "lens": "Allah's knowledge",
+          "lines": ["Allah taught Adam the names, all of them.", "Even the bowl and the little cup, said Ibn Abbas."],
+          "ayah": "2:31",
+          "scholars": "Ibn Kathir, from Ibn Abbas",
+          "interact": {
+            "type": "names",
+            "hint": "Touch the lights",
+            "items": [
+              { "en": "Water", "ar": "ماء" },
+              { "en": "Mountain", "ar": "جبل" },
+              { "en": "Star", "ar": "نجم" },
+              { "en": "Wind", "ar": "ريح" },
+              { "en": "Fire", "ar": "نار" },
+              { "en": "River", "ar": "نهر" },
+              { "en": "Tree", "ar": "شجرة" },
+              { "en": "Stone", "ar": "حجر" },
+              { "en": "Seed", "ar": "بذرة" },
+              { "en": "Bowl", "ar": "قصعة" },
+              { "en": "Light", "ar": "نور" },
+              { "en": "Sky", "ar": "سماء" }
+            ]
+          }
+        },
+        {
+          "id": "angels-names",
+          "set": "names",
+          "mood": "humility",
+          "lens": "Allah's knowledge",
+          "lines": ["The things were shown to the angels: \"Tell Me their names.\"", "They could not, and they did not pretend to."],
+          "ayah": "2:32"
+        },
+        {
+          "id": "adam-names",
+          "set": "names",
+          "mood": "honour",
+          "lens": "Allah's knowledge",
+          "lines": ["Then Adam named them, one by one.", "Knowledge was the first honour given to mankind."],
+          "ayah": { "ref": "2:33", "from": "He said, \"O Adam", "to": "names.\"", "words": [0, 4] }
+        }
+      ]
+    },
+    {
+      "title": "The prostration",
+      "scenes": [
+        {
+          "id": "bow",
+          "set": "bow",
+          "mood": "awe",
+          "lens": "Obedience",
+          "lines": ["The command came.", "Every angel fell down in prostration at once.", "Except one."],
+          "ayah": "2:34"
+        },
+        {
+          "id": "pride",
+          "set": "ember",
+          "mood": "pride",
+          "lens": "Arrogance",
+          "lines": ["Iblis was not an angel. He was of the jinn.", "He weighed fire against clay, and chose pride over his Lord's command."],
+          "ayah": "7:12",
+          "refs": ["18:50", "38:76"]
+        },
+        {
+          "id": "vow",
+          "set": "ember",
+          "mood": "defiance",
+          "lens": "Allah's respite",
+          "lines": [
+            "He was cast out, disgraced.",
+            "He asked for time until the Day of Resurrection, and it was given.",
+            "Then he blamed his Lord, and swore to come at Adam's children from every side."
+          ],
+          "ayah": "7:16",
+          "refs": ["7:13", "7:14", "7:17"]
+        }
+      ]
+    },
+    {
+      "title": "The Garden",
+      "scenes": [
+        {
+          "id": "garden",
+          "set": "garden",
+          "mood": "peace",
+          "lens": "Allah's generosity",
+          "lines": ["Adam was given the Garden to live in."],
+          "ayah": { "ref": "2:35", "from": "O Adam, dwell", "to": "wherever you will", "words": [0, 11] }
+        },
+        {
+          "id": "hawwa",
+          "set": "garden",
+          "mood": "love",
+          "lens": "Allah's mercy",
+          "lines": [
+            "He was alone there, the scholars report, with no one like himself.",
+            "He slept, and woke to find Hawwa beside him,",
+            "created from him, so that he could find rest with her."
+          ],
+          "ayah": { "ref": "7:189", "from": "It is He", "to": "security with her.", "words": [0, 11] },
+          "scholars": "Ibn Kathir, from Ibn Abbas and Ibn Mas'ud"
+        },
+        {
+          "id": "tree",
+          "set": "tree",
+          "mood": "caution",
+          "lens": "Allah's command",
+          "lines": ["Everything was theirs, except one tree.", "And a warning came with it: Iblis is your enemy. Do not let him drive you out."],
+          "ayah": { "ref": "2:35", "from": "But do not", "to": "wrongdoers", "words": [11, 18] },
+          "refs": ["20:117", "20:118"]
+        }
+      ]
+    },
+    {
+      "title": "The whisper",
+      "scenes": [
+        {
+          "id": "whisper",
+          "set": "whisper",
+          "mood": "temptation",
+          "lens": "The test",
+          "lines": ["He did not come with a threat. He came with a whisper.", "He never called it the forbidden tree.", "He called it the tree of eternity."],
+          "ayah": "20:120"
+        },
+        {
+          "id": "oath",
+          "set": "whisper",
+          "mood": "temptation",
+          "lens": "The test",
+          "lines": [
+            "He told them it was forbidden only so they would not become angels, or live forever.",
+            "Then he swore by Allah that he was their sincere adviser.",
+            "A believer, said Qatadah, can be deceived by one who swears by Allah."
+          ],
+          "ayah": "7:21",
+          "refs": ["7:20"],
+          "scholars": "Ibn Kathir, from Qatadah"
+        },
+        {
+          "id": "tasted",
+          "set": "fallen",
+          "mood": "shame",
+          "lens": "Consequence",
+          "lines": ["They ate.", "At once they saw themselves uncovered,", "and reached for the leaves of the Garden."],
+          "ayah": { "ref": "7:22", "from": "So he made", "to": "leaves of Paradise.", "words": [0, 14] },
+          "refs": ["20:121"]
+        },
+        {
+          "id": "call",
+          "set": "fallen",
+          "mood": "shame",
+          "lens": "Allah's call",
+          "lines": ["Then their Lord called to them."],
+          "ayah": { "ref": "7:22", "from": "And their Lord called", "words": [14, 28] }
+        }
+      ]
+    },
+    {
+      "title": "The return",
+      "scenes": [
+        {
+          "id": "words",
+          "set": "night",
+          "mood": "remorse",
+          "lens": "Allah's forgiveness",
+          "lines": ["Adam did not argue, and he did not blame.", "Allah Himself taught him the words to come back with."],
+          "ayah": "2:37"
+        },
+        {
+          "id": "dua",
+          "set": "lamp",
+          "mood": "hope",
+          "lens": "Allah's forgiveness",
+          "lines": ["These were the words, say many of the early scholars:"],
+          "ayah": "7:23",
+          "scholars": "Ibn Kathir, from Mujahid, Sa'id ibn Jubayr and al-Hasan al-Basri"
+        },
+        {
+          "id": "two-answers",
+          "set": "contrast",
+          "mood": "clarity",
+          "lens": "Two paths",
+          "lines": ["Two mistakes. Two answers.", "Iblis blamed his Lord. Adam blamed himself."],
+          "interact": {
+            "type": "contrast",
+            "items": [
+              { "who": "Iblis", "text": "Because You have put me in error…", "ref": "7:16" },
+              { "who": "Adam and Hawwa", "text": "Our Lord, we have wronged ourselves…", "ref": "7:23" }
+            ]
+          },
+          "ayah": "20:122"
+        }
+      ]
+    },
+    {
+      "title": "Down to earth",
+      "scenes": [
+        {
+          "id": "descent",
+          "set": "descent",
+          "mood": "grief",
+          "lens": "Allah's promise",
+          "lines": ["Forgiven, yet still sent down.", "The earth had been the plan from the first announcement.", "They went with a promise."],
+          "ayah": "2:38",
+          "refs": ["2:30"]
+        },
+        {
+          "id": "friday",
+          "set": "earth",
+          "mood": "longing",
+          "lens": "Allah's decree",
+          "lines": [
+            "It was a Friday.",
+            "The historians report that Adam came down in India, and Hawwa far away, near Jeddah.",
+            "Allah knows best."
+          ],
+          "hadith": {
+            "text": "The best day on which the sun has risen is Friday. On it Adam was created, on it he was sent down, on it his repentance was accepted, and on it he died.",
+            "cite": "Abu Dawud 1046"
+          },
+          "scholars": "al-Tabari, Ibn Kathir"
+        },
+        {
+          "id": "arafat",
+          "set": "arafat",
+          "mood": "reunion",
+          "lens": "Allah's mercy",
+          "lines": [
+            "They searched for each other across the land.",
+            "They met again on a plain near Makkah.",
+            "Some say that is why it is called Arafat: where they came to know each other again."
+          ],
+          "scholars": "al-Tabari, Ibn Kathir · Allah knows best"
+        },
+        {
+          "id": "toil",
+          "set": "earth",
+          "mood": "toil",
+          "lens": "Allah's provision",
+          "lines": ["Now there was hunger, thirst and the heat of the sun,", "everything the Garden had kept away.", "Adam was made from this earth. Now he worked it."],
+          "ayah": "7:25",
+          "refs": ["20:118", "20:119"]
+        }
+      ]
+    },
+    {
+      "title": "Two sons",
+      "scenes": [
+        {
+          "id": "children",
+          "set": "family",
+          "mood": "joy",
+          "lens": "Allah's blessing",
+          "lines": ["Children were born, a son and a daughter at each birth, the scholars report.", "The human family began."],
+          "ayah": { "ref": "4:1", "from": "dispersed", "to": "women.", "words": [12, 17] },
+          "scholars": "Ibn Kathir, from as-Suddi"
+        },
+        {
+          "id": "offerings",
+          "set": "altars",
+          "mood": "envy",
+          "lens": "Sincerity",
+          "lines": [
+            "Two brothers each brought an offering.",
+            "Habil, a shepherd, brought the best of his flock.",
+            "Qabil, a farmer, brought the worst of his crop.",
+            "Fire came down and took Habil's."
+          ],
+          "ayah": { "ref": "5:27", "from": "when they both", "to": "from the other.", "words": [6, 16] },
+          "scholars": "Ibn Kathir, from Ibn Abbas"
+        },
+        {
+          "id": "threat",
+          "set": "altars",
+          "mood": "dread",
+          "lens": "Fear of Allah",
+          "lines": ["Qabil said: I will kill you.", "Habil said: Allah accepts only from those who fear Him."],
+          "ayah": "5:28"
+        },
+        {
+          "id": "killing",
+          "set": "blood",
+          "mood": "horror",
+          "lens": "Allah's justice",
+          "lines": ["The first human blood was spilled by a brother."],
+          "ayah": "5:30",
+          "hadith": {
+            "text": "No soul is killed unjustly except that the first son of Adam bears a share of its blood, because he was the first to make killing a practice.",
+            "cite": "Sahih al-Bukhari 3335 · Muslim 1677"
+          }
+        },
+        {
+          "id": "crow",
+          "set": "crow",
+          "mood": "regret",
+          "lens": "Allah's guidance",
+          "lines": ["He stood over his brother, not knowing what to do.", "Then Allah sent a crow, scratching at the ground."],
+          "ayah": "5:31"
+        },
+        {
+          "id": "weight",
+          "set": "weight",
+          "mood": "gravity",
+          "lens": "The sanctity of life",
+          "lines": ["Because of that day:"],
+          "ayah": { "ref": "5:32", "from": "whoever kills a soul", "to": "saved mankind entirely.", "words": [8, 27] }
+        }
+      ]
+    },
+    {
+      "title": "All of us",
+      "scenes": [
+        {
+          "id": "descendants",
+          "set": "souls",
+          "mood": "wonder",
+          "lens": "Allah's decree",
+          "lines": [
+            "Allah brought out from Adam every soul that would ever be born, until the Last Day.",
+            "Between the eyes of each was a gleam of light.",
+            "One shone so brightly that Adam asked who he was."
+          ],
+          "interact": {
+            "type": "reveal",
+            "hint": "Touch the brightest light",
+            "items": [
+              { "text": "\"A man from the last of the nations among your children. His name is Dawud.\"" },
+              { "text": "\"My Lord, how long is his life?\" \"Sixty years.\"" },
+              { "text": "\"My Lord, give him forty years of mine.\"" }
+            ]
+          },
+          "hadith": { "cite": "Tirmidhi 3076" }
+        },
+        {
+          "id": "covenant",
+          "set": "covenant",
+          "mood": "witness",
+          "lens": "Allah, our Lord",
+          "lines": ["Every soul was asked one question.", "Every human who would ever live was there."],
+          "interact": {
+            "type": "answer",
+            "items": [{ "text": "Am I not your Lord?" }, { "text": "بلى", "en": "Yes" }]
+          },
+          "ayah": { "ref": "7:172", "from": "\"Am I not", "to": "testified.\"", "words": [12, 17] },
+          "hadith": { "cite": "Musnad Ahmad, from Ibn Abbas: at Na'man, near Arafah" }
+        }
+      ]
+    },
+    {
+      "title": "The end",
+      "scenes": [
+        {
+          "id": "forty",
+          "set": "dusk",
+          "mood": "surprise",
+          "lens": "Allah's decree",
+          "lines": [
+            "Adam's long life came to its end.",
+            "When the angel of death came, Adam said: Are there not forty years left of my life?",
+            "Did you not give them to your son Dawud?"
+          ],
+          "hadith": {
+            "text": "Adam denied, so his children deny. Adam forgot, so his children forget. Adam erred, so his children err.",
+            "cite": "Tirmidhi 3076"
+          }
+        },
+        {
+          "id": "farewell",
+          "set": "burial",
+          "mood": "peace",
+          "lens": "The return to Allah",
+          "lines": [
+            "He died on a Friday.",
+            "The angels washed him, shrouded him, prayed over him and buried him.",
+            "Then they told his children: this is your way, from now on."
+          ],
+          "hadith": { "cite": "Musnad Ahmad, from Ubayy ibn Ka'b · Abu Dawud 1046" }
+        },
+        {
+          "id": "legacy",
+          "set": "end",
+          "mood": "continuity",
+          "lens": "Guidance continues",
+          "lines": [
+            "Before he died, the historians say, he entrusted his children to his son Shith.",
+            "The guidance that began with Adam would pass from prophet to prophet,",
+            "to the last of them, Muhammad ﷺ."
+          ],
+          "scholars": "al-Tabari, Ibn Kathir",
+          "refs": ["33:40"]
+        },
+        {
+          "id": "end",
+          "set": "end",
+          "mood": "continuity",
+          "end": true,
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

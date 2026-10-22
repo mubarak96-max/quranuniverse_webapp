@@ -1,0 +1,280 @@
+{
+  "id": "musa",
+  "title": "Musa and the Children of Israel",
+  "span": "c. 1350 to 540 BCE",
+  "blurb": "Egypt, Sinai and Jerusalem. The age of Musa, Dawud, Sulayman and Yunus, ending with exile in Babylon.",
+  "camera": { "lat": 30, "lng": 36, "zoom": 3 },
+  "zoom": 5,
+  "events": [
+    {
+      "id": "shuayb",
+      "title": "Shuayb and the traders",
+      "year": { "ce": -1350, "precision": "unknown" },
+      "place": { "name": "Madyan, Saudi Arabia", "lat": 28.4, "lng": 35 },
+      "who": ["Shuayb"],
+      "what": "Shuayb tells the traders of Madyan to give full measure. They refuse and are destroyed by an earthquake.",
+      "verses": ["7:85-93", "11:84-95"],
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "musa-born",
+      "title": "Musa in the river",
+      "year": { "ce": -1300, "precision": "approx" },
+      "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
+      "who": ["Musa", "Pharaoh", "Asiya"],
+      "what": "Pharaoh kills newborn boys of Bani Israil. Musa's mother sets him in the river. Pharaoh's wife raises him in the palace.",
+      "verses": ["28:4-13", "20:37-40"],
+      "quote": "28:7",
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "musa-madyan",
+      "title": "Musa flees to Madyan",
+      "year": { "ce": -1275, "precision": "approx" },
+      "place": { "name": "Madyan, Saudi Arabia", "lat": 28.4, "lng": 35 },
+      "who": ["Musa"],
+      "what": "Musa flees Egypt after an accidental killing, marries in Madyan and works there for ten years.",
+      "verses": ["28:15-28"],
+      "quote": "28:24",
+      "routes": [
+        {
+          "points": [[30.8, 31.8, "Egypt"], [30, 32.6], [29.6, 34.3], [28.4, 35, "Madyan"]]
+        }
+      ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "burning-bush",
+      "title": "The fire at Tuwa",
+      "year": { "ce": -1265, "precision": "approx" },
+      "place": { "name": "Mount Sinai, Egypt", "lat": 28.54, "lng": 33.98 },
+      "who": ["Musa", "Harun"],
+      "what": "In the valley of Tuwa, Allah speaks to Musa, gives him the staff and the shining hand, and sends him with Harun to Pharaoh.",
+      "verses": ["20:9-48", "28:29-35"],
+      "quote": "20:12",
+      "routes": [
+        {
+          "points": [[28.4, 35, "Madyan"], [29, 34.6], [28.54, 33.98, "Sinai"]]
+        }
+      ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "musa-pharaoh",
+      "title": "Musa before Pharaoh",
+      "year": { "ce": -1260, "precision": "approx" },
+      "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
+      "who": ["Musa", "Harun", "Pharaoh"],
+      "what": "Musa's staff swallows the magicians' tricks. The magicians believe. Plagues follow: locusts, lice, frogs, blood.",
+      "verses": ["7:103-136", "20:56-76"],
+      "quote": "7:117",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "exodus",
+      "title": "The sea parts",
+      "year": { "ce": -1250, "precision": "approx" },
+      "place": { "name": "Red Sea, Egypt", "lat": 29.5, "lng": 32.6 },
+      "who": ["Musa", "Pharaoh"],
+      "what": "The sea splits for Bani Israil and closes on Pharaoh. His body is preserved as a sign.",
+      "verses": ["26:60-67", "10:90-92"],
+      "quote": "26:63",
+      "routes": [
+        {
+          "points": [[30.8, 31.8, "Egypt"], [30.2, 32.3], [29.7, 32.55], [29.4, 33], [28.54, 33.98, "Sinai"]]
+        }
+      ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "torah",
+      "title": "The Tawrat and the calf",
+      "year": { "ce": -1249, "precision": "approx" },
+      "place": { "name": "Mount Sinai, Egypt", "lat": 28.54, "lng": 33.98 },
+      "who": ["Musa", "Harun"],
+      "what": "Musa spends forty nights on the mountain and receives the Tawrat. His people worship a golden calf while he is away.",
+      "verses": ["7:142-154", "2:51-54"],
+      "quote": "7:145",
+      "source": "Quran",
+      "kind": "revelation"
+    },
+    {
+      "id": "cow",
+      "title": "The cow",
+      "year": { "ce": -1246, "precision": "approx" },
+      "place": { "name": "Sinai desert", "lat": 29.5, "lng": 34 },
+      "who": ["Musa"],
+      "what": "Told to slaughter a cow, Bani Israil stall with question after question. A slain man is revived to name his killer.",
+      "verses": ["2:67-73"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "qarun",
+      "title": "Qarun",
+      "year": { "ce": -1245, "precision": "approx" },
+      "place": { "name": "Among Bani Israil" },
+      "who": ["Qarun", "Musa"],
+      "what": "Qarun, rich beyond counting, boasts that he earned it all himself. The earth swallows him and his house.",
+      "verses": ["28:76-82"],
+      "quote": "28:81",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "khidr",
+      "title": "Musa and al-Khidr",
+      "year": { "ce": -1242, "precision": "approx" },
+      "place": { "name": "Where the two seas meet" },
+      "who": ["Musa", "al-Khidr"],
+      "what": "Musa travels to learn from al-Khidr. A boat holed, a boy killed, a wall rebuilt: each makes sense only at the end.",
+      "verses": ["18:60-82"],
+      "quote": "18:65",
+      "article": "surah-al-kahf-benefits",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "wandering",
+      "title": "Forty years in the desert",
+      "year": { "ce": -1240, "precision": "approx" },
+      "place": { "name": "Sinai desert, Egypt", "lat": 29.5, "lng": 34 },
+      "who": ["Musa", "Harun"],
+      "what": "Bani Israil refuse to enter the holy land. They wander forty years, fed with manna and quail.",
+      "verses": ["5:20-26", "2:57"],
+      "quote": "5:26",
+      "routes": [
+        {
+          "points": [[28.54, 33.98, "Sinai"], [29.9, 34.6], [30.6, 35.3], [31.86, 35.44, "Jericho"]]
+        }
+      ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "talut-jalut",
+      "title": "Dawud and Jalut",
+      "year": { "ce": -1010, "precision": "approx" },
+      "place": { "name": "Valley of Elah, Palestine", "lat": 31.69, "lng": 34.96 },
+      "who": ["Talut", "Dawud", "Jalut"],
+      "what": "Talut is made king. His small army is tested at a river. The young Dawud kills the giant Jalut.",
+      "verses": ["2:246-251"],
+      "quote": "2:251",
+      "source": "Quran",
+      "kind": "battle"
+    },
+    {
+      "id": "dawud",
+      "title": "King Dawud",
+      "year": { "ce": -1000, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Dawud"],
+      "what": "Dawud becomes king and prophet. He receives the Zabur, softens iron, and the mountains praise Allah with him.",
+      "verses": ["21:79-80", "38:17-26", "4:163"],
+      "quote": "34:10",
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "sulayman",
+      "title": "Sulayman's kingdom",
+      "year": { "ce": -960, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Sulayman"],
+      "what": "Sulayman rules jinn, wind and birds. He builds the temple at Bayt al-Maqdis, the first qiblah.",
+      "verses": ["27:15-19", "34:12-14", "38:30-40"],
+      "quote": "27:16",
+      "article": "prophets-in-the-quran",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "bilqis",
+      "title": "The Queen of Sheba",
+      "year": { "ce": -950, "precision": "approx" },
+      "place": { "name": "Marib, Yemen", "lat": 15.42, "lng": 45.33 },
+      "who": ["Sulayman", "Bilqis"],
+      "what": "The hoopoe reports a queen who worships the sun. Her throne is brought in a blink. The Queen of Sheba submits.",
+      "verses": ["27:20-44"],
+      "quote": "27:44",
+      "routes": [
+        {
+          "points": [[15.42, 45.33, "Marib"], [20, 41.5], [26, 37.5], [31.78, 35.23, "Jerusalem"]]
+        }
+      ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ilyas",
+      "title": "Ilyas against Baal",
+      "year": { "ce": -870, "precision": "approx" },
+      "place": { "name": "Baalbek, Lebanon", "lat": 34, "lng": 36.2 },
+      "who": ["Ilyas", "Al-Yasa"],
+      "what": "Ilyas calls his people away from the idol Baal. Al-Yasa continues his work.",
+      "verses": ["37:123-132", "6:86"],
+      "quote": "37:125",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    },
+    {
+      "id": "yunus",
+      "title": "Yunus and the whale",
+      "year": { "ce": -780, "precision": "approx" },
+      "place": { "name": "Nineveh, Iraq", "lat": 36.36, "lng": 43.15 },
+      "who": ["Yunus"],
+      "what": "Yunus leaves Nineveh in anger and is swallowed by the whale. He repents. His city of 100,000 believes and is spared.",
+      "verses": ["37:139-148", "10:98", "21:87-88"],
+      "quote": "21:87",
+      "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "nineveh-falls",
+      "title": "Nineveh falls",
+      "year": { "ce": -612, "precision": "exact" },
+      "place": { "name": "Nineveh, Iraq", "lat": 36.36, "lng": 43.15 },
+      "what": "Babylon and the Medes destroy Nineveh. The Assyrian empire ends.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "babylon-exile",
+      "title": "Exile to Babylon",
+      "year": { "ce": -586, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Nebuchadnezzar"],
+      "what": "Babylon burns the temple and takes Bani Israil into exile. Many scholars read this as the first punishment in Surah al-Isra.",
+      "verses": ["17:4-5"],
+      "routes": [
+        {
+          "points": [[31.78, 35.23, "Jerusalem"], [33.51, 36.29, "Damascus"], [35.5, 38.5], [34.4, 41], [32.54, 44.42, "Babylon"]]
+        }
+      ],
+      "article": "christians-and-jews-in-the-quran",
+      "source": "History, Ibn Kathir",
+      "kind": "world"
+    },
+    {
+      "id": "uzayr",
+      "title": "A hundred years asleep",
+      "year": { "ce": -540, "precision": "unknown" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Uzayr"],
+      "what": "A man passes the ruined city and asks how it can live again. Allah makes him die a hundred years, then revives him. Many say he was Uzayr.",
+      "verses": ["2:259", "9:30"],
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet"
+    }
+  ]
+}

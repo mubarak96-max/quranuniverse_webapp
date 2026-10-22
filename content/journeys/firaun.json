@@ -1,0 +1,161 @@
+{
+  "id": "firaun",
+  "name": "Firaun",
+  "arabic": "فرعون",
+  "villain": true,
+  "tagline": "He called himself the highest lord. He trusted his army and his rivers. The water took him.",
+  "description": "Watch the fall of Pharaoh, scene by scene: the god-king of Egypt, the enslaved Children of Israil, Musa's gentle word, the magicians who believed, the plagues, the sea that parted and closed, a faith declared too late, and the body kept as a sign. Told through the Quran.",
+  "outro": "Travel through the land, then see how was the end of the deniers.",
+  "stop": "musa-pharaoh",
+  "acts": [
+    {
+      "title": "The god-king",
+      "scenes": [
+        { "id": "cover", "set": "palace", "mood": "stillness", "cover": true, "lines": [] },
+        {
+          "id": "lord",
+          "set": "palace",
+          "mood": "pride",
+          "lens": "Arrogance",
+          "lines": ["Egypt was the greatest kingdom on earth.", "Its king gathered his people and made a claim no man can make."],
+          "ayah": "79:24",
+          "refs": ["28:38"]
+        },
+        {
+          "id": "factions",
+          "set": "palace",
+          "mood": "dread",
+          "lens": "Tyranny",
+          "lines": ["He split his people into classes.", "One of them, the Children of Israil, he crushed:", "their newborn sons killed, their daughters spared."],
+          "ayah": "28:4"
+        },
+        {
+          "id": "rivers",
+          "set": "nile",
+          "mood": "pride",
+          "lens": "What he trusted",
+          "lines": ["He pointed to the Nile and its channels.", "Remember these rivers, flowing beneath him."],
+          "ayah": "43:51"
+        }
+      ]
+    },
+    {
+      "title": "The warning",
+      "scenes": [
+        {
+          "id": "gentle",
+          "set": "palace",
+          "mood": "caution",
+          "lens": "Allah's mercy",
+          "lines": ["Allah sent Musa and his brother Harun to him.", "Even to this tyrant, the command was to speak gently."],
+          "ayah": "20:44",
+          "refs": ["20:43"]
+        },
+        {
+          "id": "magicians",
+          "set": "ember",
+          "mood": "awe",
+          "lens": "The truth wins",
+          "lines": ["He gathered his best magicians against Musa.", "The staff swallowed their tricks.", "And the magicians, his own men, fell down in prostration."],
+          "ayah": "20:70"
+        },
+        {
+          "id": "threat",
+          "set": "ember",
+          "mood": "defiance",
+          "lens": "Two powers",
+          "lines": ["He swore to cut off their hands and feet and crucify them on palm trunks.", "They answered him without fear."],
+          "interact": {
+            "type": "contrast",
+            "items": [
+              { "who": "Pharaoh", "text": "You believed him before I gave you permission…", "ref": "20:71" },
+              { "who": "The magicians", "text": "So decree whatever you are to decree…", "ref": "20:72" }
+            ]
+          },
+          "ayah": { "ref": "20:72", "from": "So decree", "to": "worldly life." }
+        },
+        {
+          "id": "plagues",
+          "set": "plagues",
+          "mood": "unease",
+          "lens": "Signs ignored",
+          "lines": ["Then sign after sign fell on Egypt.", "Each time he begged Musa to pray for relief.", "Each time it lifted, he broke his word."],
+          "ayah": "7:133",
+          "refs": ["7:134", "7:135"]
+        }
+      ]
+    },
+    {
+      "title": "The sea",
+      "scenes": [
+        {
+          "id": "pursuit",
+          "set": "night",
+          "mood": "dread",
+          "lens": "The chase",
+          "lines": ["Musa led his people out by night.", "At sunrise Pharaoh came after them with his army.", "The sea ahead. The army behind."],
+          "ayah": "26:61",
+          "refs": ["26:60"]
+        },
+        {
+          "id": "with-me",
+          "set": "night",
+          "mood": "hope",
+          "lens": "Trust",
+          "lines": ["His people said: we are caught.", "Musa did not look at the sea or the army."],
+          "ayah": "26:62"
+        },
+        {
+          "id": "parted",
+          "set": "sea",
+          "mood": "awe",
+          "lens": "Allah's power",
+          "lines": ["Strike the sea with your staff.", "It split, and each side stood like a mountain.", "They crossed on dry ground."],
+          "ayah": "26:63",
+          "refs": ["20:77"]
+        },
+        {
+          "id": "closed",
+          "set": "flood",
+          "mood": "horror",
+          "lens": "The end",
+          "lines": ["Pharaoh drove his army into the same path.", "Then the water came back."],
+          "ayah": "20:78",
+          "refs": ["26:66"]
+        },
+        {
+          "id": "too-late",
+          "set": "flood",
+          "mood": "regret",
+          "lens": "Too late",
+          "lines": ["As the water closed over him, he said: I believe.", "The answer came:"],
+          "ayah": "10:91",
+          "refs": ["10:90"]
+        }
+      ]
+    },
+    {
+      "title": "The sign",
+      "scenes": [
+        {
+          "id": "body",
+          "set": "shore",
+          "mood": "gravity",
+          "lens": "A lesson kept",
+          "lines": ["The man who called himself a god", "was brought out of the sea as a body,", "for everyone after him to see."],
+          "ayah": "10:92"
+        },
+        {
+          "id": "lesson",
+          "set": "end",
+          "mood": "clarity",
+          "lens": "Relied on, undone by",
+          "lines": ["He boasted of rivers flowing beneath him.", "In the end the water was above him.", "What he trusted was what Allah used to end him."],
+          "ayah": "79:26",
+          "refs": ["79:25", "43:51"]
+        },
+        { "id": "end", "set": "end", "mood": "clarity", "end": true, "lines": [] }
+      ]
+    }
+  ]
+}

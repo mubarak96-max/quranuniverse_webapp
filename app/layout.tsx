@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import Link from "next/link";
+import Script from "next/script";
 import { Geist, Newsreader, Scheherazade_New } from "next/font/google";
 import { JsonLd } from "@/components/JsonLd";
 import { ThemeToggle, themeScript } from "@/components/ThemeToggle";
@@ -92,6 +93,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <nav className="nav">
               <Link href="/">Surahs</Link>
               <Link href="/learn">Learn</Link>
+              <Link href="/timeline">Timeline</Link>
               <ThemeToggle />
             </nav>
           </div>
@@ -102,6 +104,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <footer className="site-footer">
           <nav className="footer-nav" aria-label="Footer">
             <Link href="/learn">Learn</Link>
+            <Link href="/timeline">Timeline</Link>
             <Link href="/about">About</Link>
             <Link href="/contact">Contact</Link>
             <Link href="/privacy">Privacy</Link>
@@ -129,6 +132,13 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             ],
           }}
         />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-H760ZN0QXF" strategy="afterInteractive" />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-H760ZN0QXF');`}
+        </Script>
       </body>
     </html>
   );

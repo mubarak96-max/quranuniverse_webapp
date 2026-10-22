@@ -1,0 +1,121 @@
+{
+  "id": "abraha",
+  "name": "Abraha",
+  "arabic": "أبرهة",
+  "villain": true,
+  "tagline": "He marched on the Kaaba with elephants. Allah sent small birds.",
+  "description": "Watch the fall of Abraha, scene by scene: the cathedral in Sana'a, the march on Makkah with elephants, Abd al-Muttalib's camels, the elephant that would not move, the birds in flocks, and the year the Prophet ﷺ was born. Told through Surah al-Fil and the Sirah of Ibn Ishaq.",
+  "outro": "Let them worship the Lord of this House.",
+  "stop": "elephant",
+  "acts": [
+    {
+      "title": "The march",
+      "scenes": [
+        { "id": "cover", "set": "army", "mood": "stillness", "cover": true, "lines": [] },
+        {
+          "id": "cathedral",
+          "set": "palace",
+          "mood": "pride",
+          "lens": "Arrogance",
+          "lines": ["Abraha ruled Yemen for the king of Abyssinia.", "In Sana'a he built a great cathedral,", "and wanted the Arabs to make their pilgrimage there instead of the Kaaba."],
+          "scholars": "Ibn Ishaq, al-Sirah · Ibn Kathir"
+        },
+        {
+          "id": "march",
+          "set": "army",
+          "mood": "dread",
+          "lens": "What he trusted",
+          "lines": ["When the Arabs refused, he marched on Makkah to tear the Kaaba down.", "A great army, with a war elephant at its head.", "The tribes who stood in his way were scattered."],
+          "scholars": "Ibn Ishaq, al-Sirah"
+        }
+      ]
+    },
+    {
+      "title": "The House has a Lord",
+      "scenes": [
+        {
+          "id": "camels",
+          "set": "dusk",
+          "mood": "surprise",
+          "lens": "Trust",
+          "lines": [
+            "His men seized the camels of Makkah, two hundred of them Abd al-Muttalib's.",
+            "Abd al-Muttalib came to Abraha and asked only for his camels.",
+            "Abraha was surprised: not a word for the House of your fathers?"
+          ],
+          "scholars": "Ibn Ishaq, al-Sirah"
+        },
+        {
+          "id": "lord-of-the-house",
+          "set": "dusk",
+          "mood": "clarity",
+          "lens": "Trust",
+          "lines": ["\"I am the lord of the camels,\" he said.", "\"The House has a Lord who will protect it.\"", "Then the people of Makkah left for the hills, and waited."],
+          "scholars": "Ibn Ishaq, al-Sirah"
+        },
+        {
+          "id": "kneels",
+          "set": "army",
+          "mood": "surprise",
+          "lens": "Allah's power",
+          "lines": ["At dawn the elephant was turned toward Makkah.", "It knelt, and would not rise.", "Turned toward Yemen, it got up and ran."],
+          "hadith": {
+            "text": "When the Prophet's camel knelt near Makkah at al-Hudaybiyyah, he said: \"She was held back by the One who held back the elephant.\"",
+            "cite": "Sahih al-Bukhari, the story of al-Hudaybiyyah"
+          },
+          "scholars": "Ibn Ishaq, al-Sirah"
+        }
+      ]
+    },
+    {
+      "title": "The birds",
+      "scenes": [
+        {
+          "id": "flocks",
+          "set": "birds",
+          "mood": "awe",
+          "lens": "Allah's army",
+          "lines": ["Then birds came in from the sea, flock after flock."],
+          "ayah": "105:3",
+          "refs": ["105:1", "105:2"]
+        },
+        {
+          "id": "stones",
+          "set": "birds",
+          "mood": "horror",
+          "lens": "The end",
+          "lines": ["Each carried three small stones: one in its beak, two in its claws.", "No bigger than a lentil.", "Whoever they struck did not survive."],
+          "ayah": "105:4",
+          "scholars": "Ibn Ishaq, al-Sirah"
+        },
+        {
+          "id": "straw",
+          "set": "straw",
+          "mood": "regret",
+          "lens": "The end",
+          "lines": ["The army broke and fled down the road it came by.", "Abraha was struck too. He died soon after reaching Sana'a."],
+          "ayah": "105:5",
+          "scholars": "Ibn Ishaq, al-Sirah"
+        },
+        {
+          "id": "year",
+          "set": "dawn",
+          "mood": "hope",
+          "lens": "What came next",
+          "lines": ["The Arabs named it the Year of the Elephant.", "That same year in Makkah, a child was born:", "Muhammad ﷺ."],
+          "ayah": "106:3",
+          "scholars": "Ibn Ishaq, al-Sirah"
+        },
+        {
+          "id": "lesson",
+          "set": "end",
+          "mood": "clarity",
+          "lens": "Relied on, undone by",
+          "lines": ["He trusted the biggest animal on earth.", "Allah answered with some of the smallest.", "The House he came to destroy still stands."],
+          "ayah": "105:1"
+        },
+        { "id": "end", "set": "end", "mood": "clarity", "end": true, "lines": [] }
+      ]
+    }
+  ]
+}

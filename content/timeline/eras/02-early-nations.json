@@ -12,6 +12,7 @@
       "year": { "ce": -3200, "precision": "approx" },
       "place": { "name": "Uruk, Iraq", "lat": 31.32, "lng": 45.64 },
       "what": "Sumerians in Uruk invent writing. Cities, kings and temples follow across Mesopotamia.",
+      "tie": "The Quran swears by the pen and what people write (68:1), honouring the gift of writing that began in cities like these.",
       "source": "History",
       "kind": "world"
     },
@@ -21,9 +22,21 @@
       "year": { "ce": -3100, "precision": "approx" },
       "place": { "name": "Memphis, Egypt", "lat": 29.85, "lng": 31.25 },
       "what": "Egypt is united under one king. Its rulers are later called Pharaohs, the title the Quran uses in Musa's story.",
+      "tie": "Musa's story with Firaun is retold more often than any other in the Quran, which calls Egypt's king only by his title.",
       "camera": { "zoom": 5 },
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "caral",
+      "title": "Caral, oldest city of the Americas",
+      "year": { "ce": -2600, "precision": "approx" },
+      "place": { "name": "Caral, Peru", "lat": -10.89, "lng": -77.52 },
+      "what": "In Peru's Supe valley, people build pyramids and sunken plazas at Caral, the oldest known city in the Americas.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran often points to vanished nations 'greater in strength and in their marks on the land' (40:82)."
     },
     {
       "id": "pyramids",
@@ -31,6 +44,7 @@
       "year": { "ce": -2560, "precision": "approx" },
       "place": { "name": "Giza, Egypt", "lat": 29.98, "lng": 31.13 },
       "what": "The Great Pyramid is built. It stays the tallest structure on earth for nearly 4,000 years.",
+      "tie": "The Quran calls Firaun 'owner of the stakes' (89:10), a power built on monuments like these.",
       "camera": { "zoom": 6 },
       "source": "History",
       "kind": "world"
@@ -41,8 +55,21 @@
       "year": { "ce": -2500, "precision": "approx" },
       "place": { "name": "Mohenjo-daro, Pakistan", "lat": 27.33, "lng": 68.14 },
       "what": "The Indus Valley civilisation builds planned cities with drains and standard bricks.",
+      "tie": "The Quran tells people to travel the land and see how earlier peoples ended (30:42); these cities lay forgotten for nearly four thousand years.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "stonehenge",
+      "title": "Stonehenge",
+      "year": { "ce": -2500, "precision": "approx" },
+      "place": { "name": "Stonehenge, England", "lat": 51.18, "lng": -1.83 },
+      "what": "Farmers in Britain raise giant stones in a circle lined up with the midsummer sunrise and the midwinter sunset.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says Allah set the sun and moon in measured phases 'that you may know the number of years' (10:5).",
+      "wiki": "Stonehenge"
     },
     {
       "id": "akkad",
@@ -51,8 +78,21 @@
       "place": { "name": "Akkad, Iraq", "lat": 33.1, "lng": 44.1 },
       "who": ["Sargon"],
       "what": "Sargon of Akkad unites Mesopotamia into the first known empire.",
+      "tie": "The Quran tells of a Mesopotamian king who argued with Ibrahim 'because Allah had given him kingship' (2:258); tradition names him Namrud.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "ad-monuments",
+      "title": "A monument on every height",
+      "year": { "ce": -2210, "precision": "unknown" },
+      "place": { "name": "Al-Ahqaf, southern Arabia", "lat": 16, "lng": 49 },
+      "who": ["Hud"],
+      "what": "The people of Ad build landmarks on every hill and strong fortresses, as if they will live forever. Hud asks them to fear Allah instead.",
+      "verses": ["26:123-135"],
+      "quote": "26:129",
+      "source": "Quran",
+      "kind": "prophet"
     },
     {
       "id": "hud",
@@ -63,6 +103,67 @@
       "what": "Prophet Hud warns the mighty people of Ad in their city of pillars, Iram. They refuse. A screaming wind destroys them.",
       "verses": ["46:21-26", "89:6-8", "69:6-8"],
       "article": "prophets-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "great-drought",
+      "title": "Empires fall in a great drought",
+      "year": { "ce": -2200, "precision": "approx" },
+      "place": { "name": "Tell Leilan, Syria", "lat": 36.96, "lng": 41.52 },
+      "what": "A long drought strikes from Egypt to Iraq. The Akkadian empire falls and Egypt's Old Kingdom breaks apart.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran speaks of nations 'greater in power' who 'built up the earth', and still fell (30:9).",
+      "links": { "polities": ["egypt-old"] }
+    },
+    {
+      "id": "horse-tamed",
+      "title": "The horse is tamed",
+      "year": { "ce": -2200, "precision": "approx" },
+      "place": { "name": "Volga-Don steppe, Russia", "lat": 48.5, "lng": 44.5 },
+      "what": "On the grasslands north of the Black Sea, people tame the horse that all riding horses descend from. Chariots soon spread across Asia and Europe.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran names horses, mules and donkeys as gifts 'for you to ride, and as adornment' (16:8).",
+      "note": "Earlier taming at Botai in Kazakhstan, about 3500 BCE, was of a different line of horses."
+    },
+    {
+      "id": "hud-saved",
+      "title": "Hud and the believers saved",
+      "year": { "ce": -2195, "precision": "unknown" },
+      "place": { "name": "Hadramawt, Yemen", "lat": 16.05, "lng": 49 },
+      "who": ["Hud"],
+      "what": "Allah saves Hud and those who believed with him by His mercy. Tradition says Hud spent his last days in Hadramawt, where a shrine bears his name.",
+      "verses": ["11:58", "7:72"],
+      "quote": "11:58",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet",
+      "note": "Some place his grave in Hadramawt, others in Makkah. Neither is certain."
+    },
+    {
+      "id": "ur-nammu",
+      "title": "The ziggurat of Ur",
+      "year": { "ce": -2112, "precision": "approx" },
+      "place": { "name": "Ur, Iraq", "lat": 30.96, "lng": 46.1 },
+      "who": ["Ur-Nammu"],
+      "what": "King Ur-Nammu builds a great stepped temple to the moon god Nanna and issues one of the oldest law codes.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world",
+      "tie": "Tradition links Ur with Ibrahim, who would reject the worship of the setting moon (6:77).",
+      "links": { "polities": ["sumer"] }
+    },
+    {
+      "id": "salih-plotters",
+      "title": "The nine plotters",
+      "year": { "ce": -2105, "precision": "unknown" },
+      "place": { "name": "Al-Hijr, Saudi Arabia", "lat": 26.79, "lng": 37.95 },
+      "who": ["Salih"],
+      "what": "Nine men of mischief swear to kill Salih and his family by night. They plan, but Allah plans too, and their homes are left in ruins.",
+      "verses": ["27:45-53"],
+      "quote": "27:50",
       "source": "Quran",
       "kind": "prophet"
     },
@@ -79,12 +180,48 @@
       "kind": "prophet"
     },
     {
+      "id": "gilgamesh-epic",
+      "title": "The Epic of Gilgamesh",
+      "year": { "ce": -2100, "precision": "approx" },
+      "place": { "name": "Uruk, Iraq", "lat": 31.32, "lng": 45.64 },
+      "who": ["Gilgamesh"],
+      "what": "Poems about Gilgamesh, king of Uruk, are written down. In later versions a man named Utnapishtim survives a great flood in a boat.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran's story of Nuh (11:25-48) is about one God, warning and repentance, where the epic tells of quarrelling gods.",
+      "wiki": "Epic of Gilgamesh"
+    },
+    {
+      "id": "xia-dynasty",
+      "title": "Yu the Great and the Xia",
+      "year": { "ce": -2070, "precision": "traditional" },
+      "place": { "name": "Erlitou, China", "lat": 34.7, "lng": 112.7 },
+      "who": ["Yu the Great"],
+      "what": "Chinese tradition says Yu the Great tamed the floods and founded the Xia, China's first dynasty. Archaeologists debate whether Erlitou was its capital.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says every nation was sent a messenger (16:36), though it names only some of them."
+    },
+    {
+      "id": "rass-destroyed",
+      "title": "The Companions of al-Rass",
+      "year": { "ce": -2050, "precision": "unknown" },
+      "place": { "name": "Unknown" },
+      "what": "The Quran names the Companions of al-Rass, 'the well', among nations destroyed for denying their messenger, beside Ad and Thamud.",
+      "verses": ["25:38", "50:12"],
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "Who they were is unknown. Commentators suggest a well in Najd, a town in Yamamah or a people by the Aras river; none is certain."
+    },
+    {
       "id": "babylon",
       "title": "Hammurabi's law",
       "year": { "ce": -1750, "precision": "approx" },
       "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
       "who": ["Hammurabi"],
       "what": "Hammurabi rules Babylon and carves one of the oldest written law codes.",
+      "tie": "Hammurabi's laws were carved in stone; the Quran says: 'Indeed, Allah orders justice and good conduct' (16:90).",
       "source": "History",
       "kind": "world"
     },
@@ -94,6 +231,7 @@
       "year": { "ce": -1600, "precision": "approx" },
       "place": { "name": "Anyang, China", "lat": 36.1, "lng": 114.35 },
       "what": "The Shang dynasty rules northern China. Oracle bones carry the earliest Chinese writing.",
+      "tie": "Islam later reached China by sea and land, and millions of Chinese Muslims, like the Hui, still write in the script born on these bones.",
       "source": "History",
       "kind": "world"
     }

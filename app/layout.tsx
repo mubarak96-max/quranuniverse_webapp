@@ -92,7 +92,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             </Link>
             <nav className="nav">
               <Link href="/">Surahs</Link>
-              <Link href="/learn">Learn</Link>
               <Link href="/timeline">Timeline</Link>
               <ThemeToggle />
             </nav>

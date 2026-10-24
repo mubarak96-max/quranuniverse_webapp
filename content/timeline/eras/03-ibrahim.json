@@ -19,6 +19,30 @@
       "kind": "prophet"
     },
     {
+      "id": "ibrahim-azar",
+      "title": "Ibrahim pleads with his father",
+      "year": { "ce": -2006, "precision": "traditional" },
+      "place": { "name": "Ur, Iraq", "lat": 30.96, "lng": 46.1 },
+      "who": ["Ibrahim", "Azar"],
+      "what": "Ibrahim gently asks his father why he worships what cannot hear or see. Threatened with stoning, he answers 'Peace be upon you' and promises to pray for him.",
+      "verses": ["19:41-48"],
+      "quote": "19:47",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ur-falls",
+      "title": "Ur falls",
+      "year": { "ce": -2004, "precision": "approx" },
+      "place": { "name": "Ur, Iraq", "lat": 30.96, "lng": 46.1 },
+      "what": "Elamite armies sack Ur and end the last great Sumerian dynasty. Poets mourn the city in the Lament for Ur.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran recalls cities that did wrong, now 'fallen into ruin', with their abandoned wells and lofty palaces (22:45).",
+      "note": "Dates this early can shift by decades. Ur's link to Ibrahim comes from the Bible and some commentators.",
+      "links": { "polities": ["sumer"] }
+    },
+    {
       "id": "ibrahim-ur",
       "title": "Ibrahim breaks the idols",
       "year": { "ce": -2000, "precision": "approx" },
@@ -36,11 +60,23 @@
       "title": "Ibrahim faces the king",
       "year": { "ce": -1990, "precision": "approx" },
       "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
-      "who": ["Ibrahim", "Nimrod"],
+      "who": ["Ibrahim", "Namrud"],
       "what": "Ibrahim debates the king who claims to give life and death. The king is silenced when told to bring the sun from the west.",
       "verses": ["2:258"],
       "source": "Quran, Ibn Kathir",
       "kind": "prophet"
+    },
+    {
+      "id": "harran",
+      "title": "Harran, city of the moon",
+      "year": { "ce": -1985, "precision": "approx" },
+      "place": { "name": "Harran, Turkey", "lat": 36.87, "lng": 39.03 },
+      "what": "Harran in northern Mesopotamia is a centre of moon worship on the trade road west. Tradition says Ibrahim stopped here on his way to Sham.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world",
+      "tie": "Ibrahim's lesson of the setting star and moon (6:76-77) answers exactly this kind of worship.",
+      "note": "His stay in Harran comes from the Bible and early historians, not the Quran."
     },
     {
       "id": "ibrahim-sham",
@@ -59,6 +95,28 @@
       "kind": "prophet"
     },
     {
+      "id": "ibrahim-egypt",
+      "title": "Ibrahim and Sarah in Egypt",
+      "year": { "ce": -1975, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Ibrahim", "Sarah", "Hajar"],
+      "what": "A tyrant king seizes Sarah, but each time he reaches for her his hand is gripped. He lets her go and gives her Hajar as a servant.",
+      "source": "Bukhari",
+      "kind": "prophet",
+      "hadith": [{ "label": "Sahih al-Bukhari 3358", "url": "https://sunnah.com/bukhari:3358" }]
+    },
+    {
+      "id": "four-birds",
+      "title": "The four birds",
+      "year": { "ce": -1970, "precision": "traditional" },
+      "place": { "name": "Unknown" },
+      "who": ["Ibrahim"],
+      "what": "Ibrahim asks to see how the dead are brought to life, so his heart may be at rest. He places parts of four birds on the hills and calls them. They come flying back.",
+      "verses": ["2:260"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
       "id": "guests",
       "title": "The angel guests",
       "year": { "ce": -1955, "precision": "approx" },
@@ -66,6 +124,17 @@
       "who": ["Ibrahim", "Sarah"],
       "what": "Angels visit Ibrahim as guests. He serves them a roasted calf. They bring news of a son, Ishaq, and of Lut's town.",
       "verses": ["11:69-73", "51:24-30"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "lut-night",
+      "title": "Lut leaves by night",
+      "year": { "ce": -1951, "precision": "traditional" },
+      "place": { "name": "Sodom, Dead Sea", "lat": 31.5, "lng": 35.5 },
+      "who": ["Lut"],
+      "what": "The angels tell Lut to leave with his family in the last part of the night and not look back. His wife stays behind and is lost with the town.",
+      "verses": ["11:81", "15:65-66", "66:10"],
       "source": "Quran",
       "kind": "prophet"
     },
@@ -100,6 +169,19 @@
       "kind": "prophet"
     },
     {
+      "id": "safa-marwa",
+      "title": "Seven runs between Safa and Marwa",
+      "year": { "ce": -1940, "precision": "traditional" },
+      "place": { "name": "Safa and Marwa, Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Hajar", "Ismail"],
+      "what": "When the water runs out, Hajar runs seven times between the hills of Safa and Marwa looking for help, until Zamzam bursts out. Pilgrims still walk her steps.",
+      "verses": ["2:158"],
+      "camera": { "zoom": 8 },
+      "source": "Quran, Bukhari",
+      "kind": "prophet",
+      "hadith": [{ "label": "Sahih al-Bukhari 3364", "url": "https://sunnah.com/bukhari:3364" }]
+    },
+    {
       "id": "jurhum",
       "title": "Makkah's first people",
       "year": { "ce": -1935, "precision": "approx" },
@@ -109,6 +191,18 @@
       "camera": { "zoom": 8 },
       "source": "Bukhari",
       "kind": "event"
+    },
+    {
+      "id": "ismail-threshold",
+      "title": "Change your threshold",
+      "year": { "ce": -1930, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Ibrahim", "Ismail"],
+      "what": "Ibrahim visits while Ismail is out. One wife complains of hardship, a later one gives thanks. He advises Ismail to part with the first and keep the grateful one.",
+      "camera": { "zoom": 8 },
+      "source": "Bukhari",
+      "kind": "prophet",
+      "hadith": [{ "label": "Sahih al-Bukhari 3364", "url": "https://sunnah.com/bukhari:3364" }]
     },
     {
       "id": "sacrifice",
@@ -148,6 +242,64 @@
       "kind": "prophet"
     },
     {
+      "id": "minoan-crete",
+      "title": "Palaces of Crete",
+      "year": { "ce": -1900, "precision": "approx" },
+      "place": { "name": "Knossos, Crete", "lat": 35.3, "lng": 25.16 },
+      "what": "On Crete, the Minoans build the palace of Knossos and trade by ship across the eastern Mediterranean.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran counts 'ships in the sea, like mountains' among Allah's signs (42:32)."
+    },
+    {
+      "id": "indus-decline",
+      "title": "The Indus cities empty",
+      "year": { "ce": -1900, "precision": "approx" },
+      "place": { "name": "Harappa, Pakistan", "lat": 30.63, "lng": 72.86 },
+      "what": "As rivers shift and rains fail, the great Indus cities slowly empty. Their writing has still not been read.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran invites people to travel and reflect on the ruins of those before them (30:42).",
+      "links": { "polities": ["indus"] }
+    },
+    {
+      "id": "ibrahim-makkah-prayer",
+      "title": "Ibrahim's prayer for Makkah",
+      "year": { "ce": -1890, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Ibrahim"],
+      "what": "In old age Ibrahim prays that Makkah be safe, that his children be kept from idols, and that people's hearts incline towards them. He thanks Allah for Ismail and Ishaq.",
+      "verses": ["14:35-41"],
+      "quote": "14:35",
+      "camera": { "zoom": 8 },
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "ibrahim-buried",
+      "title": "Ibrahim is buried at Hebron",
+      "year": { "ce": -1830, "precision": "traditional" },
+      "place": { "name": "Hebron, Palestine", "lat": 31.53, "lng": 35.1 },
+      "who": ["Ibrahim", "Sarah"],
+      "what": "Ibrahim dies and is buried in a cave at Hebron beside Sarah. The shrine above it, al-Haram al-Ibrahimi, is honoured by Jews, Christians and Muslims.",
+      "camera": { "zoom": 7 },
+      "source": "History, Ibn Kathir",
+      "kind": "prophet",
+      "note": "The burial place comes from the Bible and early Muslim historians. The Quran does not name it."
+    },
+    {
+      "id": "yusuf-boyhood-dream",
+      "title": "Eleven stars, the sun and the moon",
+      "year": { "ce": -1810, "precision": "traditional" },
+      "place": { "name": "Canaan, Palestine", "lat": 32.2, "lng": 35.25 },
+      "who": ["Yusuf", "Yaqub"],
+      "what": "Young Yusuf dreams that eleven stars, the sun and the moon bow to him. Yaqub tells him to keep it from his brothers.",
+      "verses": ["12:4-6"],
+      "quote": "12:4",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
       "id": "yusuf",
       "title": "Yusuf in the well",
       "year": { "ce": -1800, "precision": "approx" },
@@ -166,6 +318,31 @@
       "kind": "prophet"
     },
     {
+      "id": "yusuf-aziz-wife",
+      "title": "Yusuf chooses prison",
+      "year": { "ce": -1795, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Yusuf"],
+      "what": "Raised in the house of an Egyptian official, Yusuf refuses his master's wife and seeks refuge in Allah. Though innocent, he prefers prison to sin.",
+      "verses": ["12:21-35"],
+      "quote": "12:33",
+      "source": "Quran",
+      "kind": "prophet",
+      "note": "Commentators call her Zulaykha. The Quran does not name her."
+    },
+    {
+      "id": "yusuf-prison",
+      "title": "Yusuf in prison",
+      "year": { "ce": -1793, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Yusuf"],
+      "what": "Two young prisoners ask Yusuf about their dreams. First he teaches them: are many lords better, or Allah, the One?",
+      "verses": ["12:36-42"],
+      "quote": "12:39",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
       "id": "yusuf-dreams",
       "title": "The king's dream",
       "year": { "ce": -1790, "precision": "approx" },
@@ -175,6 +352,19 @@
       "verses": ["12:43-55"],
       "source": "Quran",
       "kind": "prophet"
+    },
+    {
+      "id": "binyamin-cup",
+      "title": "The king's cup",
+      "year": { "ce": -1782, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 29.85, "lng": 31.25 },
+      "who": ["Yusuf", "Binyamin", "Yaqub"],
+      "what": "Yusuf keeps his brother Binyamin by hiding the king's cup in his bag. Yaqub, losing a second son, says: 'I only complain of my suffering and my grief to Allah.'",
+      "verses": ["12:58-87"],
+      "quote": "12:86",
+      "source": "Quran",
+      "kind": "prophet",
+      "note": "The name Binyamin comes from the commentators. The Quran says 'his brother'."
     },
     {
       "id": "yusuf-reunion",
@@ -192,6 +382,19 @@
       ],
       "source": "Quran",
       "kind": "prophet"
+    },
+    {
+      "id": "avaris",
+      "title": "Canaanites in the Nile Delta",
+      "year": { "ce": -1780, "precision": "approx" },
+      "place": { "name": "Avaris, Egypt", "lat": 30.79, "lng": 31.82 },
+      "what": "Settlers from Canaan and Syria build a thriving town at Avaris in the Nile Delta. Their descendants, the Hyksos, later rule northern Egypt.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "world",
+      "tie": "In Yusuf's story the Quran calls Egypt's ruler 'the king' (12:50), never Pharaoh; some historians place Yusuf in this age.",
+      "note": "When Yusuf lived is debated. Neither the Bible nor archaeology gives an agreed date.",
+      "links": { "polities": ["egypt-old"] }
     },
     {
       "id": "ayyub",

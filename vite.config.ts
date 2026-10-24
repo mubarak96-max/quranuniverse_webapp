@@ -8,7 +8,8 @@ export default defineConfig({
   plugins: [
     vinext({
       cache: { data: kvDataAdapter(), cdn: workersCacheCdnAdapter() },
-      prerender: { routes: "*" },
+      // Each moment and year renders a share image, and image rendering is memory-hungry; more workers ran out of memory.
+      prerender: { routes: "*", concurrency: 3 },
     }),
     cloudflare({
       viteEnvironment: {

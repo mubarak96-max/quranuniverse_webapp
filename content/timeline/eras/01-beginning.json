@@ -7,6 +7,17 @@
   "zoom": 3,
   "events": [
     {
+      "id": "angels-khalifah",
+      "title": "A khalifah on earth",
+      "year": { "ce": -100100, "precision": "unknown" },
+      "place": { "name": "The heavens" },
+      "who": ["Adam"],
+      "what": "Allah tells the angels He will place a successor on earth. They ask why, fearing bloodshed. He answers that He knows what they do not.",
+      "verses": ["2:30"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
       "id": "adam",
       "title": "Adam, the first human",
       "year": { "ce": -100000, "precision": "unknown" },
@@ -21,6 +32,17 @@
       "kind": "prophet"
     },
     {
+      "id": "first-salam",
+      "title": "The first salam",
+      "year": { "ce": -99990, "precision": "unknown" },
+      "place": { "name": "The heavens" },
+      "who": ["Adam"],
+      "what": "Adam is told to greet a group of angels. He says 'As-salamu alaykum' and they reply with more. It becomes the greeting of his children.",
+      "source": "Bukhari",
+      "kind": "prophet",
+      "hadith": [{ "label": "Sahih al-Bukhari 3326", "url": "https://sunnah.com/bukhari:3326" }]
+    },
+    {
       "id": "iblis",
       "title": "Iblis refuses to bow",
       "year": { "ce": -99950, "precision": "unknown" },
@@ -31,6 +53,18 @@
       "source": "Quran",
       "journey": "adam",
       "kind": "prophet"
+    },
+    {
+      "id": "hawwa-created",
+      "title": "Hawwa, from one soul",
+      "year": { "ce": -99940, "precision": "unknown" },
+      "place": { "name": "Paradise" },
+      "who": ["Adam", "Hawwa"],
+      "what": "From Adam, Allah creates his wife so that he may find rest with her. Every person on earth descends from these two.",
+      "verses": ["4:1", "7:189", "39:6"],
+      "source": "Quran",
+      "kind": "prophet",
+      "note": "The Quran says only 'its mate'. The name Hawwa comes from hadith."
     },
     {
       "id": "descent",
@@ -46,6 +80,19 @@
       "kind": "prophet"
     },
     {
+      "id": "alast",
+      "title": "Am I not your Lord?",
+      "year": { "ce": -99890, "precision": "unknown" },
+      "place": { "name": "Near Arafah", "lat": 21.35, "lng": 39.98 },
+      "what": "Allah draws all of Adam's descendants from his loins and asks, 'Am I not your Lord?' They all answer, 'Yes, we testify.'",
+      "verses": ["7:172-173"],
+      "quote": "7:172",
+      "camera": { "zoom": 6 },
+      "source": "Quran, Ibn Kathir",
+      "kind": "revelation",
+      "note": "A narration from Ibn Abbas, reported by Ahmad, places this at Na'man near Arafah. Scholars differ on how to read the scene."
+    },
+    {
       "id": "first-murder",
       "title": "Habil and Qabil",
       "year": { "ce": -99000, "precision": "unknown" },
@@ -59,6 +106,28 @@
       "kind": "prophet"
     },
     {
+      "id": "shith-heir",
+      "title": "Shith, the heir of Adam",
+      "year": { "ce": -98950, "precision": "unknown" },
+      "place": { "name": "Earth" },
+      "who": ["Shith", "Adam"],
+      "what": "Tradition says Adam's son Shith carries on his father's guidance. Many family lines, including Nuh's, are traced through him.",
+      "source": "Ibn Kathir",
+      "kind": "event",
+      "note": "Shith is not named in the Quran. His story comes from early historians, partly from Jewish sources."
+    },
+    {
+      "id": "adam-dies",
+      "title": "Adam's death",
+      "year": { "ce": -98900, "precision": "unknown" },
+      "place": { "name": "Earth" },
+      "who": ["Adam"],
+      "what": "Adam dies after a long life, surrounded by his descendants. A hadith says he once gave years of his life to Dawud, then forgot when death came: so his children forget too.",
+      "source": "Tirmidhi",
+      "kind": "prophet",
+      "note": "Reported by al-Tirmidhi, who graded it hasan sahih. Versions differ on the number of years."
+    },
+    {
       "id": "idris",
       "title": "Prophet Idris",
       "year": { "ce": -98000, "precision": "unknown" },
@@ -68,6 +137,18 @@
       "verses": ["19:56-57", "21:85"],
       "source": "Quran, Ibn Kathir",
       "kind": "prophet"
+    },
+    {
+      "id": "first-idols",
+      "title": "The first idols",
+      "year": { "ce": -97500, "precision": "unknown" },
+      "place": { "name": "Mesopotamia" },
+      "who": ["Nuh"],
+      "what": "Righteous men named Wadd, Suwa, Yaghuth, Ya'uq and Nasr die. Their people make statues to remember them. Later generations worship the statues.",
+      "verses": ["71:23"],
+      "source": "Quran, Bukhari",
+      "kind": "event",
+      "hadith": [{ "label": "Sahih al-Bukhari 4920", "url": "https://sunnah.com/bukhari:4920" }]
     },
     {
       "id": "nuh",
@@ -82,6 +163,17 @@
       "kind": "prophet"
     },
     {
+      "id": "nuh-wife",
+      "title": "Two wives who betrayed",
+      "year": { "ce": -96500, "precision": "unknown" },
+      "place": { "name": "Mesopotamia" },
+      "who": ["Nuh"],
+      "what": "Nuh's own wife rejects his message. The Quran pairs her with Lut's wife: being married to a prophet saves no one who will not believe.",
+      "verses": ["66:10"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
       "id": "flood",
       "title": "The Flood",
       "year": { "ce": -96000, "precision": "unknown" },
@@ -92,6 +184,139 @@
       "quote": "11:42",
       "source": "Quran",
       "kind": "prophet"
+    },
+    {
+      "id": "nuh-son",
+      "title": "He is not of your family",
+      "year": { "ce": -95990, "precision": "unknown" },
+      "place": { "name": "Mount Judi", "lat": 37.37, "lng": 42.35 },
+      "who": ["Nuh"],
+      "what": "Nuh pleads for his drowned son. Allah tells him the boy was not of his family, for his deeds were not righteous. Nuh asks forgiveness.",
+      "verses": ["11:45-47"],
+      "quote": "11:46",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "after-flood",
+      "title": "A new beginning",
+      "year": { "ce": -95900, "precision": "unknown" },
+      "place": { "name": "Mount Judi", "lat": 37.37, "lng": 42.35 },
+      "who": ["Nuh"],
+      "what": "Nuh and the believers leave the ark in peace and blessing. Allah makes his descendants the ones who remain on earth.",
+      "verses": ["37:75-82", "11:48"],
+      "quote": "37:77",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet",
+      "note": "Tradition names his sons Sam, Ham and Yafith as ancestors of the nations. The names come from the commentators and the Bible, not the Quran."
+    },
+    {
+      "id": "australia-settled",
+      "title": "People reach Australia",
+      "year": { "ce": -50000, "precision": "approx" },
+      "place": { "name": "Arnhem Land, Australia", "lat": -12.5, "lng": 132.89 },
+      "what": "People cross the sea from Asia to Australia. Their descendants keep one of the oldest living cultures on earth.",
+      "camera": { "zoom": 3 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says all people spread from one soul and its mate (4:1), across every land and sea.",
+      "note": "Dates are debated, from about 65,000 to 50,000 years ago. The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
+    },
+    {
+      "id": "painted-caves",
+      "title": "Painted caves",
+      "year": { "ce": -34000, "precision": "approx" },
+      "place": { "name": "Chauvet Cave, France", "lat": 44.39, "lng": 4.42 },
+      "what": "In caves from Indonesia to France, people paint animals and leave their hand prints. Some paintings are over 40,000 years old.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran tells people to travel the earth and see how creation began (29:20).",
+      "note": "The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
+    },
+    {
+      "id": "americas-settled",
+      "title": "People reach the Americas",
+      "year": { "ce": -14000, "precision": "approx" },
+      "place": { "name": "Monte Verde, Chile", "lat": -41.5, "lng": -73.2 },
+      "what": "Hunters cross from Asia into the Americas as the Ice Age ends. By 14,500 years ago they live as far south as Chile.",
+      "camera": { "zoom": 3 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says Allah made people into nations and tribes so they would know one another (49:13).",
+      "note": "Some sites suggest people arrived thousands of years earlier. The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
+    },
+    {
+      "id": "gobekli-tepe",
+      "title": "Göbekli Tepe",
+      "year": { "ce": -9500, "precision": "approx" },
+      "place": { "name": "Göbekli Tepe, Turkey", "lat": 37.22, "lng": 38.92 },
+      "what": "On a hill near Urfa, people raise rings of huge carved stone pillars. It is one of the oldest known places of worship, older than farming.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world",
+      "tie": "People gathered to worship before they farmed or wrote; the Quran says humans were created to worship (51:56).",
+      "note": "What was worshipped there is unknown. The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived.",
+      "wiki": "Göbekli Tepe"
+    },
+    {
+      "id": "farming-begins",
+      "title": "Farming begins",
+      "year": { "ce": -9000, "precision": "approx" },
+      "place": { "name": "Jericho, Palestine", "lat": 31.87, "lng": 35.44 },
+      "what": "In the Fertile Crescent people sow wheat and barley and tame sheep and goats. Villages like Jericho grow into the first towns.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran asks people to look at their food: rain poured down, the earth split open, grain made to grow (80:24-27).",
+      "note": "The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
+    },
+    {
+      "id": "green-arabia",
+      "title": "When Arabia was green",
+      "year": { "ce": -8000, "precision": "approx" },
+      "place": { "name": "An-Nafud, Saudi Arabia", "lat": 28.3, "lng": 41.5 },
+      "what": "Heavier rains turn Arabia into grassland with lakes and herds. Rock art at Jubbah shows the cattle. Then, slowly, the land dries again.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Prophet ﷺ said the Hour will not come until the land of the Arabs returns to meadows and rivers.",
+      "note": "The hadith is reported by Muslim. Arabia had several green phases; this one ended by about 4000 BCE."
+    },
+    {
+      "id": "maize",
+      "title": "Maize in Mexico",
+      "year": { "ce": -7000, "precision": "approx" },
+      "place": { "name": "Balsas valley, Mexico", "lat": 18.3, "lng": -99.6 },
+      "what": "Farmers in southern Mexico breed a wild grass into maize. It will feed the Olmec, the Maya and the Aztecs.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran describes rain bringing out green shoots and 'grains arranged in layers' (6:99).",
+      "note": "The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
+    },
+    {
+      "id": "rice-china",
+      "title": "Rice and millet in China",
+      "year": { "ce": -7000, "precision": "approx" },
+      "place": { "name": "Jiahu, China", "lat": 33.6, "lng": 113.67 },
+      "what": "Villages along the Yellow and Yangtze rivers grow millet and rice. At Jiahu people also carve the oldest playable flutes.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran counts 'crops of different kinds of food' among Allah's gifts (6:141).",
+      "note": "The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
+    },
+    {
+      "id": "eridu",
+      "title": "Eridu, the first city",
+      "year": { "ce": -5400, "precision": "approx" },
+      "place": { "name": "Eridu, Iraq", "lat": 30.82, "lng": 45.99 },
+      "what": "A town grows around a temple at Eridu in southern Iraq. Sumerians later remember it as the first city, where kingship began before a great flood.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "world",
+      "tie": "Flood memories survive in Mesopotamia and far beyond; the Quran tells Nuh's flood as 'a sign for the worlds' (29:15).",
+      "note": "The Quran gives no date for Adam or Nuh; this order follows scientific dating and is not a claim about when they lived."
     }
   ]
 }

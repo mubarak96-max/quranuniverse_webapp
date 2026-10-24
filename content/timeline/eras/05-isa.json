@@ -13,6 +13,7 @@
       "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
       "who": ["Cyrus"],
       "what": "Cyrus of Persia takes Babylon and lets Bani Israil return to Jerusalem. His empire reaches from India to Egypt.",
+      "tie": "Some modern scholars, like Abul Kalam Azad, identified Cyrus with Dhul-Qarnayn, the just king of Surah al-Kahf (18:83); the question remains open.",
       "routes": [
         {
           "points": [[32.54, 44.42, "Babylon"], [34.4, 41], [35.5, 38.5], [33.51, 36.29, "Damascus"], [31.78, 35.23, "Jerusalem"]]
@@ -35,14 +36,53 @@
       "kind": "prophet"
     },
     {
+      "id": "persepolis",
+      "title": "Darius builds Persepolis",
+      "year": { "ce": -518, "precision": "approx" },
+      "place": { "name": "Persepolis, Iran", "lat": 29.93, "lng": 52.89 },
+      "who": ["Darius"],
+      "what": "Darius I rules the largest empire yet, from the Indus to Egypt, joined by royal roads. He begins the palace city of Persepolis.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "A thousand years later Persia's heartland became Muslim, giving Islam Salman al-Farisi, Sibawayh and many of its great scholars.",
+      "links": { "polities": ["persia"] }
+    },
+    {
+      "id": "second-temple",
+      "title": "The temple rebuilt",
+      "year": { "ce": -516, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "what": "Exiles back from Babylon finish rebuilding the temple in Jerusalem under Persian rule.",
+      "camera": { "zoom": 7 },
+      "source": "History, Ibn Kathir",
+      "kind": "world",
+      "tie": "Some commentators read 'Then We gave back to you a return victory' (17:6) as this restoration.",
+      "note": "Others link 17:6 to the days of Talut and Dawud."
+    },
+    {
       "id": "buddha-confucius",
       "title": "Buddha and Confucius",
       "year": { "ce": -500, "precision": "approx" },
       "place": { "name": "Bodh Gaya, India", "lat": 24.7, "lng": 84.99 },
       "who": ["Buddha", "Confucius"],
       "what": "Buddha teaches in India and Confucius in China. Their ideas shape Asia for the next 2,500 years.",
+      "tie": "The Quran names no teacher of India or China, but speaks of messengers whose stories it has not told (4:164), and scholars avoid guessing who they were.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "greek-philosophers",
+      "title": "Socrates, Plato, Aristotle",
+      "year": { "ce": -399, "to": -322, "precision": "approx" },
+      "place": { "name": "Athens, Greece", "lat": 37.98, "lng": 23.73 },
+      "who": ["Socrates", "Plato", "Aristotle"],
+      "what": "In Athens, Socrates questions everything, Plato founds his Academy, and Aristotle writes on logic, nature and ethics.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "knowledge",
+      "tie": "Translated into Arabic in Abbasid Baghdad, their books shaped Muslim philosophy and the debates of al-Farabi, Ibn Sina and al-Ghazali.",
+      "links": { "polities": ["greece"] }
     },
     {
       "id": "alexander",
@@ -51,6 +91,7 @@
       "place": { "name": "Gaugamela, Iraq", "lat": 36.56, "lng": 43.44 },
       "who": ["Alexander"],
       "what": "Alexander of Macedon defeats Persia and conquers Egypt and the east. Greek becomes the language of learning.",
+      "tie": "Some early writers named him Dhul-Qarnayn, but scholars like Ibn Kathir rejected this, since Alexander and his teacher Aristotle worshipped idols.",
       "routes": [
         {
           "points": [
@@ -68,12 +109,111 @@
       "kind": "world"
     },
     {
+      "id": "petra",
+      "title": "Petra and the Nabataeans",
+      "year": { "ce": -312, "precision": "approx" },
+      "place": { "name": "Petra, Jordan", "lat": 30.33, "lng": 35.44 },
+      "what": "Nabataean Arabs grow rich on the incense road and carve their capital, Petra, into rose-red rock.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "Their tombs at Hegra stand in al-Hijr, the land of Thamud, and their script grew into the Arabic letters of the Quran.",
+      "note": "The Hegra tombs are Nabataean, carved many centuries after Thamud.",
+      "links": { "polities": ["nabataea"] }
+    },
+    {
+      "id": "ashoka-edicts",
+      "title": "Ashoka's edicts",
+      "year": { "ce": -260, "precision": "approx" },
+      "place": { "name": "Pataliputra, India", "lat": 25.6, "lng": 85.14 },
+      "who": ["Ashoka"],
+      "what": "After the bloody war of Kalinga, the Maurya emperor Ashoka turns to Buddhism and carves edicts urging mercy across India.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "Islam reached Sindh in 711, and India later became home to one of the largest Muslim populations on earth.",
+      "links": { "polities": ["maurya"] }
+    },
+    {
+      "id": "septuagint",
+      "title": "The Tawrat in Greek",
+      "year": { "ce": -250, "precision": "approx" },
+      "place": { "name": "Alexandria, Egypt", "lat": 31.2, "lng": 29.92 },
+      "what": "Jewish scholars in Alexandria translate their scriptures into Greek. The Septuagint becomes the Bible of the early Christians.",
+      "source": "History",
+      "kind": "knowledge",
+      "tie": "The Quran says Allah sent down the Tawrat 'in which was guidance and light' (5:44)."
+    },
+    {
+      "id": "qin-unifies",
+      "title": "Qin unifies China",
+      "year": { "ce": -221, "precision": "exact" },
+      "place": { "name": "Xianyang, China", "lat": 34.33, "lng": 108.71 },
+      "who": ["Qin Shi Huang"],
+      "what": "The king of Qin conquers his rivals and becomes China's first emperor, unifying its writing, weights and roads.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "Muslims often quote 'Seek knowledge even in China', but scholars grade that saying weak.",
+      "note": "Reported by al-Bayhaqi and others; graded weak, and by some fabricated."
+    },
+    {
+      "id": "great-wall",
+      "title": "The Great Wall",
+      "year": { "ce": -214, "precision": "approx" },
+      "place": { "name": "Northern China", "lat": 40.4, "lng": 111.7 },
+      "who": ["Qin Shi Huang"],
+      "what": "Qin Shi Huang links older walls into one long barrier against the steppe nomads. Later dynasties rebuild it many times.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "Some ask if it is Dhul-Qarnayn's barrier against Yajuj and Majuj, but that was iron and copper between two mountains (18:94-97).",
+      "note": "Most scholars reject the link. The wall standing today is mostly Ming, from the 1500s."
+    },
+    {
+      "id": "maccabees",
+      "title": "The Maccabees",
+      "year": { "ce": -167, "to": -160, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "what": "A Greek king bans Jewish worship and defiles the temple. The Maccabee family revolts and rededicates it, as Hanukkah remembers.",
+      "camera": { "zoom": 7 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says that if Allah did not check some people by others, synagogues, churches and mosques would be pulled down (22:40)."
+    },
+    {
+      "id": "silk-road",
+      "title": "The Silk Road opens",
+      "year": { "ce": -130, "precision": "approx" },
+      "place": { "name": "Dunhuang, China", "lat": 40.14, "lng": 94.66 },
+      "who": ["Zhang Qian"],
+      "what": "The Han envoy Zhang Qian reaches Central Asia. Soon caravans link China with Persia and Rome.",
+      "camera": { "zoom": 3 },
+      "source": "History",
+      "kind": "world",
+      "tie": "Muslim merchants later carried Islam along these roads to Bukhara, Samarkand and China.",
+      "links": { "polities": ["han"] }
+    },
+    {
+      "id": "caesar-calendar",
+      "title": "Caesar's calendar",
+      "year": { "ce": -45, "precision": "exact" },
+      "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.5 },
+      "who": ["Julius Caesar"],
+      "what": "Julius Caesar sets a solar calendar of 365 days with a leap year. A year later he is murdered in the Senate.",
+      "source": "History",
+      "kind": "world",
+      "tie": "Islam kept the moon's twelve months (9:36), so Ramadan moves through every season.",
+      "links": { "polities": ["rome"] }
+    },
+    {
       "id": "rome-empire",
       "title": "Rome becomes an empire",
       "year": { "ce": -27, "precision": "exact" },
       "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.5 },
       "who": ["Augustus"],
       "what": "Augustus becomes the first Roman emperor. Rome rules the whole Mediterranean, including Palestine and Egypt.",
+      "tie": "Isa was born in Roman-ruled Palestine in the reign of Augustus; the Quran tells of his birth to Maryam beneath a palm tree (19:23-25).",
       "source": "History",
       "kind": "world"
     },
@@ -92,6 +232,18 @@
       "kind": "prophet"
     },
     {
+      "id": "herod-temple",
+      "title": "Herod's temple",
+      "year": { "ce": -19, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Herod"],
+      "what": "King Herod rebuilds the temple on a vast stone platform. This is the temple of Zakariya, Maryam and Yahya's time.",
+      "camera": { "zoom": 7 },
+      "source": "History",
+      "kind": "world",
+      "tie": "Its platform holds today's al-Aqsa sanctuary, goal of the Prophet's ﷺ night journey (17:1)."
+    },
+    {
       "id": "yahya",
       "title": "Yahya is born",
       "year": { "ce": -6, "precision": "approx" },
@@ -101,6 +253,20 @@
       "verses": ["19:2-15", "3:38-41"],
       "quote": "19:12",
       "camera": { "zoom": 7 },
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "maryam-chosen",
+      "title": "The angels speak to Maryam",
+      "year": { "ce": -5, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Maryam"],
+      "what": "The angels tell Maryam that Allah has chosen her above the women of the worlds. Then Jibril comes to her in the form of a man, with news of a son.",
+      "verses": ["3:42-44", "19:16-21"],
+      "quote": "3:42",
+      "camera": { "zoom": 7 },
+      "article": "mary-in-the-quran",
       "source": "Quran",
       "kind": "prophet"
     },
@@ -119,6 +285,19 @@
       "kind": "prophet"
     },
     {
+      "id": "yahya-killed",
+      "title": "The killing of Yahya",
+      "year": { "ce": 29, "precision": "approx" },
+      "place": { "name": "Machaerus, Jordan", "lat": 31.56, "lng": 35.63 },
+      "who": ["Yahya", "Herod Antipas"],
+      "what": "Yahya condemns a ruler's unlawful marriage and is killed on the orders of Herod Antipas. Tradition keeps his head in a shrine in the Umayyad Mosque of Damascus.",
+      "verses": ["19:15"],
+      "camera": { "zoom": 7 },
+      "source": "History, Ibn Kathir",
+      "kind": "prophet",
+      "note": "His killing is told by historians and the Gospels, not the Quran, which blesses 'the day he dies' (19:15)."
+    },
+    {
       "id": "isa-mission",
       "title": "The miracles of Isa",
       "year": { "ce": 30, "precision": "approx" },
@@ -130,6 +309,20 @@
       "article": "jesus-in-the-quran",
       "source": "Quran",
       "kind": "revelation"
+    },
+    {
+      "id": "disciples-answer",
+      "title": "The disciples answer",
+      "year": { "ce": 31, "precision": "approx" },
+      "place": { "name": "Galilee, Palestine", "lat": 32.8, "lng": 35.5 },
+      "who": ["Isa"],
+      "what": "Isa asks, 'Who are my supporters for Allah?' The disciples answer that they are Allah's supporters, and ask him to bear witness that they are Muslims.",
+      "verses": ["3:52-53", "61:14"],
+      "quote": "61:14",
+      "camera": { "zoom": 7 },
+      "article": "jesus-in-the-quran",
+      "source": "Quran",
+      "kind": "prophet"
     },
     {
       "id": "isa-table",
@@ -158,15 +351,63 @@
       "kind": "prophet"
     },
     {
+      "id": "yasin-town",
+      "title": "The man who came running",
+      "year": { "ce": 40, "precision": "traditional" },
+      "place": { "name": "Antioch, Turkey", "lat": 36.2, "lng": 36.16 },
+      "who": ["Habib al-Najjar"],
+      "what": "Two messengers, then a third, come to a town and are rejected. A man runs from the far end of the city to defend them and is killed. He is told: 'Enter Paradise.'",
+      "verses": ["36:13-29"],
+      "quote": "36:20",
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "Many commentators name the town Antioch and the man Habib the carpenter. Ibn Kathir doubted this; the Quran names neither."
+    },
+    {
       "id": "temple-destroyed",
       "title": "The temple destroyed",
       "year": { "ce": 70, "precision": "exact" },
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "who": ["Titus"],
       "what": "Rome crushes a Jewish revolt and destroys the second temple. Bani Israil are scattered.",
+      "tie": "Many commentators read the second punishment in Surah al-Isra, when enemies would 'enter the temple' (17:7), as this Roman destruction.",
       "verses": ["17:7"],
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "gospels-written",
+      "title": "The Gospels are written",
+      "year": { "ce": 70, "to": 100, "precision": "approx" },
+      "place": { "name": "Roman Syria and Asia Minor" },
+      "what": "Followers of Isa write the four Gospels in Greek, decades after him. Other gospels are written too, and later set aside by the church.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says Allah gave Isa the Injil itself (5:46); Muslims see the Gospels as later human accounts about him."
+    },
+    {
+      "id": "jews-yathrib",
+      "title": "Jewish tribes in Yathrib",
+      "year": { "ce": 135, "precision": "traditional" },
+      "place": { "name": "Yathrib (Madinah)", "lat": 24.47, "lng": 39.61 },
+      "what": "As Rome crushes Jewish revolts, Arab historians say Jewish clans settle in the oasis of Yathrib, awaiting a prophet they expect there.",
+      "camera": { "zoom": 6 },
+      "source": "History, Seerah",
+      "kind": "world",
+      "tie": "Their descendants, Qaynuqa, Nadir and Qurayzah, would be the Prophet's ﷺ neighbours in Madinah.",
+      "note": "When they came is uncertain. Reports range from the time of Musa to after 70 CE."
+    },
+    {
+      "id": "garden-owners",
+      "title": "The owners of the garden",
+      "year": { "ce": 200, "precision": "unknown" },
+      "place": { "name": "Near Sana'a, Yemen", "lat": 15.37, "lng": 44.19 },
+      "what": "Brothers swear to harvest their garden at dawn so no poor person gets a share. Overnight it is burnt black, and they turn to Allah in regret.",
+      "verses": ["68:17-33"],
+      "quote": "68:29",
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "Some early commentators place it at Darawan near Sana'a, after the time of Isa. Others treat it as a parable."
     },
     {
       "id": "sasanian",
@@ -174,6 +415,7 @@
       "year": { "ce": 224, "precision": "exact" },
       "place": { "name": "Ctesiphon, Iraq", "lat": 33.09, "lng": 44.58 },
       "what": "The Sasanian dynasty takes Persia. For four centuries Persia and Rome fight over Iraq and Syria.",
+      "tie": "The Prophet ﷺ was born in the reign of the Sasanian king Khosrau I, and his letter inviting Khosrau II to Islam was torn up.",
       "source": "History",
       "kind": "world"
     },
@@ -190,12 +432,88 @@
       "kind": "revelation"
     },
     {
+      "id": "maya-classic",
+      "title": "The Classic Maya",
+      "year": { "ce": 250, "to": 900, "precision": "approx" },
+      "place": { "name": "Tikal, Guatemala", "lat": 17.22, "lng": -89.62 },
+      "what": "Maya city-states like Tikal raise pyramids, write in glyphs and track the sun, moon and Venus with great precision.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "The Quran says: 'The sun and the moon move by precise calculation' (55:5).",
+      "links": { "polities": ["maya"] }
+    },
+    {
+      "id": "idols-in-makkah",
+      "title": "Idols come to Makkah",
+      "year": { "ce": 250, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Amr ibn Luhay"],
+      "what": "Amr ibn Luhayy, chief of Makkah, brings idols from Syria and sets them around the Kaaba. The faith of Ibrahim is buried under idol worship.",
+      "camera": { "zoom": 8 },
+      "source": "Bukhari, Seerah",
+      "kind": "event",
+      "note": "The Prophet ﷺ said he saw him in the Fire; he was the first to set camels loose for the idols. His date is uncertain.",
+      "hadith": [{ "label": "Sahih al-Bukhari 4623", "url": "https://sunnah.com/bukhari:4623" }]
+    },
+    {
+      "id": "valerian-captured",
+      "title": "An emperor captured",
+      "year": { "ce": 260, "precision": "exact" },
+      "place": { "name": "Edessa, Turkey", "lat": 37.16, "lng": 38.79 },
+      "who": ["Shapur I", "Valerian"],
+      "what": "The Persian king Shapur I defeats and captures the Roman emperor Valerian near Edessa. Rome and Persia stay at war for centuries.",
+      "source": "History",
+      "kind": "battle",
+      "tie": "Surah al-Rum (30:2-4) would later foretell a turn in this same long war.",
+      "links": { "polities": ["sasanian", "rome"] }
+    },
+    {
+      "id": "ghana-empire",
+      "title": "The Ghana empire",
+      "year": { "ce": 300, "precision": "approx" },
+      "place": { "name": "Koumbi Saleh, Mauritania", "lat": 15.77, "lng": -7.97 },
+      "what": "In West Africa, the Soninke build the empire of Ghana on gold from the south and salt from the Sahara.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "Muslim traders later crossed the Sahara to its capital, and the geographer al-Bakri described it in 1068.",
+      "note": "Its beginnings are uncertain; some date them centuries later.",
+      "links": { "polities": ["ghana"] }
+    },
+    {
+      "id": "nicaea",
+      "title": "The Council of Nicaea",
+      "year": { "ce": 325, "precision": "exact" },
+      "place": { "name": "Nicaea (Iznik), Turkey", "lat": 40.43, "lng": 29.72 },
+      "who": ["Constantine"],
+      "what": "Constantine gathers bishops at Nicaea. They declare Isa 'of one substance' with God and condemn Arius, who taught that he was created.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran answers that Isa was a messenger of Allah and His word to Maryam: 'do not say three' (4:171).",
+      "links": { "polities": ["rome"] }
+    },
+    {
+      "id": "namara",
+      "title": "The Namara inscription",
+      "year": { "ce": 328, "precision": "exact" },
+      "place": { "name": "An-Namara, Syria", "lat": 32.9, "lng": 37.2 },
+      "who": ["Imru' al-Qays ibn Amr"],
+      "what": "On a tomb in the Syrian desert, an epitaph for Imru' al-Qays, 'king of all the Arabs', is carved in Arabic words with Nabataean letters.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "knowledge",
+      "tie": "It is one of the oldest Arabic texts, three centuries before the Quran made Arabic a world language.",
+      "links": { "polities": ["lakhmid"] }
+    },
+    {
       "id": "constantine",
       "title": "Constantinople",
       "year": { "ce": 330, "precision": "exact" },
       "place": { "name": "Constantinople, Turkey", "lat": 41.01, "lng": 28.98 },
       "who": ["Constantine"],
       "what": "Constantine founds a new capital and makes Christianity the faith of the empire. Rome becomes Byzantium.",
+      "tie": "Constantine's Council of Nicaea set the creed that Isa was divine; the Quran has Isa say he taught only 'worship Allah, my Lord and your Lord' (5:117).",
       "source": "History",
       "kind": "world"
     },
@@ -205,8 +523,45 @@
       "year": { "ce": 340, "precision": "approx" },
       "place": { "name": "Aksum, Ethiopia", "lat": 14.12, "lng": 38.72 },
       "what": "The kingdom of Aksum in Abyssinia adopts Christianity. Its later king, the Najashi, shelters the first Muslim refugees.",
+      "tie": "When the first Muslims fled there in 615, the Najashi wept at Surah Maryam and refused to hand them back to Quraysh.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "theodosius-edict",
+      "title": "One lawful faith",
+      "year": { "ce": 380, "precision": "exact" },
+      "place": { "name": "Thessalonica, Greece", "lat": 40.64, "lng": 22.94 },
+      "who": ["Theodosius"],
+      "what": "Emperor Theodosius makes Nicene Christianity the religion of the empire. Within twelve years pagan worship is banned.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says: 'There shall be no compulsion in religion' (2:256).",
+      "links": { "polities": ["rome"] }
+    },
+    {
+      "id": "tubba-kaaba",
+      "title": "Tubba of Himyar",
+      "year": { "ce": 400, "precision": "traditional" },
+      "place": { "name": "Zafar, Yemen", "lat": 14.21, "lng": 44.4 },
+      "who": ["Tubba"],
+      "what": "A Himyarite king remembered as Tubba marches north, spares Yathrib and is said to be the first to clothe the Kaaba. The Quran names his people among nations destroyed.",
+      "verses": ["44:37", "50:14"],
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "Most identify him with As'ad Abu Karib, about 400 CE. A narration in Ahmad says 'Do not curse Tubba, for he became Muslim'; its strength is debated.",
+      "links": { "polities": ["himyar"] }
+    },
+    {
+      "id": "quraysh-gathered",
+      "title": "Qusayy gathers Quraysh",
+      "year": { "ce": 450, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Qusayy"],
+      "what": "Qusayy ibn Kilab gathers the scattered clans of Quraysh in Makkah, takes the keys of the Kaaba and builds Dar al-Nadwah, the house of council.",
+      "camera": { "zoom": 8 },
+      "source": "Seerah",
+      "kind": "event"
     },
     {
       "id": "rome-falls",
@@ -214,8 +569,42 @@
       "year": { "ce": 476, "precision": "exact" },
       "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.5 },
       "what": "The last western Roman emperor is deposed. Europe enters its early medieval age.",
+      "tie": "Rome lived on in the east as Byzantium, the Rum of Surah ar-Rum (30:2), which the Muslims would later meet at Yarmuk.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "indian-numerals",
+      "title": "Indian numerals",
+      "year": { "ce": 499, "precision": "exact" },
+      "place": { "name": "Pataliputra, India", "lat": 25.6, "lng": 85.14 },
+      "who": ["Aryabhata"],
+      "what": "In Gupta India, Aryabhata writes his astronomy with place-value numbers. Indian mathematicians soon treat zero as a number.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "knowledge",
+      "tie": "Al-Khwarizmi spread these numerals in Arabic, and Europe learned them as 'Arabic numerals'.",
+      "links": { "polities": ["gupta"] }
+    },
+    {
+      "id": "hashim-caravans",
+      "title": "Winter and summer caravans",
+      "year": { "ce": 500, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Hashim"],
+      "what": "Hashim, great-grandfather of the Prophet ﷺ, makes pacts so Quraysh caravans travel safely to Yemen in winter and Syria in summer.",
+      "verses": ["106:1-4"],
+      "quote": "106:2",
+      "routes": [
+        {
+          "points": [[21.42, 39.83, "Makkah"], [17.5, 43.5], [15.37, 44.19, "Yemen"]]
+        },
+        {
+          "points": [[21.42, 39.83], [24.47, 39.61], [28.5, 37], [32.6, 36.1, "Syria"]]
+        }
+      ],
+      "source": "Quran, Seerah",
+      "kind": "event"
     },
     {
       "id": "ukhdud",
@@ -236,8 +625,34 @@
       "place": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
       "who": ["Justinian"],
       "what": "Justinian finishes the Hagia Sophia, the largest church in the world for nearly a thousand years.",
+      "tie": "Sultan Mehmed II made it a mosque in 1453; later sultans added minarets and great roundels bearing the names of Allah, the Prophet ﷺ and his companions.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "zamzam-rediscovered",
+      "title": "Zamzam found again",
+      "year": { "ce": 540, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Abd al-Muttalib"],
+      "what": "Zamzam had been buried and lost for centuries. Told in a dream where to dig, Abd al-Muttalib uncovers the well and gives its water to the pilgrims.",
+      "camera": { "zoom": 8 },
+      "source": "Seerah",
+      "kind": "event",
+      "note": "From Ibn Ishaq's biography of the Prophet ﷺ."
+    },
+    {
+      "id": "justinian-plague",
+      "title": "The plague of Justinian",
+      "year": { "ce": 541, "to": 549, "precision": "approx" },
+      "place": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
+      "who": ["Justinian"],
+      "what": "Bubonic plague sweeps the Mediterranean and kills a huge share of Constantinople. It returns again and again for two centuries.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Prophet ﷺ taught: if plague is in a land, do not enter it, and if you are in it, do not flee.",
+      "hadith": [{ "label": "Sahih al-Bukhari 5728", "url": "https://sunnah.com/bukhari:5728" }],
+      "links": { "polities": ["byzantium"] }
     },
     {
       "id": "marib-dam",
@@ -245,6 +660,7 @@
       "year": { "ce": 570, "precision": "approx" },
       "place": { "name": "Marib, Yemen", "lat": 15.42, "lng": 45.33 },
       "what": "The great dam of Saba breaks for the last time. Gardens turn to scrub and the tribes of Yemen scatter across Arabia.",
+      "tie": "Tradition says tribes from Yemen, among them the Aws and Khazraj of Madinah, migrated north after the dam failed; they became the Ansar.",
       "verses": ["34:15-17"],
       "routes": [
         {

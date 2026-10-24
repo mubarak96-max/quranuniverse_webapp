@@ -2,7 +2,10 @@
 
 import Link from "next/link";
 import { useRef } from "react";
-import { KIND_LABEL, yearsAgo, type Chapter, type State, type Stop, type Villain } from "@/lib/timeline-types";
+import { CERTAINTY, KIND_LABEL, refHref, yearsAgo, type Chapter, type Named, type Ref, type State, type Stop, type Villain } from "@/lib/timeline-types";
+import type { Meanwhile } from "@/lib/timeline-world";
+import { MeanwhileCards } from "./MeanwhileCards";
+import { Share } from "./Share";
 
 type Props = {
   stop: Stop;
@@ -10,7 +13,7 @@ type Props = {
   chapters: number;
   position: number;
   rule: State[];
-  meanwhile: State[];
+  world: Meanwhile[];
   now: number;
   playing: boolean;
   readMs: number;
@@ -22,7 +25,26 @@ type Props = {
   onExplore: () => void;
   villains: Villain[];
   onVillain: (id: string) => void;
+  linked: Named[];
+  onOpen: (ref: Ref) => void;
 };
+
+function RefChip({ n, onOpen, tone = "person" }: { n: Named; onOpen: (ref: Ref) => void; tone?: string }) {
+  if (!n.ref) return <span className="chip plain">{n.name}</span>;
+  const ref = n.ref;
+  return (
+    <a
+      href={refHref(ref)}
+      className={`chip ${ref.t === "person" ? tone : ref.t}`}
+      onClick={(e) => {
+        e.preventDefault();
+        onOpen(ref);
+      }}
+    >
+      {n.name}
+    </a>
+  );
+}
 
 const SWIPE_PX = 50;
 
@@ -78,12 +100,38 @@ export function StoryPanel(p: Props) {
             </p>
             <p className="sp-meta">
               {stop.kind && <b className={`k-${stop.kind}`}>{KIND_LABEL[stop.kind]}</b>}
-              {stop.place && <span>{stop.place.name}</span>}
+              {stop.place &&
+                (stop.place.site ? (
+                  <a
+                    href={refHref({ t: "place", id: stop.place.site })}
+                    className="sp-place"
+                    onClick={(e) => {
+                      e.preventDefault();
+                      p.onOpen({ t: "place", id: stop.place!.site! });
+                    }}
+                  >
+                    {stop.place.name}
+                  </a>
+                ) : (
+                  <span>{stop.place.name}</span>
+                ))}
               {stop.year !== undefined && stop.precision !== "unknown" && <span>{yearsAgo(stop.year, p.now, stop.precision)}</span>}
             </p>
+            {stop.precision !== "exact" && <p className={`ep-cert c-${stop.precision}`}>{CERTAINTY[stop.precision]}</p>}
             <h2 className="sp-title">{stop.title}</h2>
             <p className="sp-what">{stop.what}</p>
-            {stop.who && <p className="sp-who">{stop.who.join(" · ")}</p>}
+            {stop.tie && (
+              <p className="sp-tie">
+                <b>How it touches Islam</b> {stop.tie}
+              </p>
+            )}
+            {stop.who && stop.who.length > 0 && (
+              <p className="sp-who">
+                {stop.who.map((w) => (
+                  <RefChip key={w.name} n={w} onOpen={p.onOpen} />
+                ))}
+              </p>
+            )}
             {stop.journey && (
               <Link href={`/timeline/journey/${stop.journey}`} className="sp-journey">
                 <b>Step into this story</b>
@@ -112,7 +160,7 @@ export function StoryPanel(p: Props) {
                 )}
               </p>
             )}
-            {(p.rule.length > 0 || p.meanwhile.length > 0 || p.villains.length > 0) && (
+            {(p.rule.length > 0 || p.villains.length > 0 || p.linked.length > 0) && (
               <dl className="sp-context">
                 {p.villains.length > 0 && (
                   <>
@@ -122,6 +170,16 @@ export function StoryPanel(p: Props) {
                         <button key={v.id} type="button" className="chip villain" onClick={() => p.onVillain(v.id)}>
                           {v.name}
                         </button>
+                      ))}
+                    </dd>
+                  </>
+                )}
+                {p.linked.length > 0 && (
+                  <>
+                    <dt>Linked</dt>
+                    <dd>
+                      {p.linked.map((n) => (
+                        <RefChip key={`${n.ref?.t}:${n.ref?.id}`} n={n} onOpen={p.onOpen} />
                       ))}
                     </dd>
                   </>
@@ -138,13 +196,22 @@ export function StoryPanel(p: Props) {
                     </dd>
                   </>
                 )}
-                {p.meanwhile.length > 0 && (
-                  <>
-                    <dt>Meanwhile</dt>
-                    <dd>{p.meanwhile.map((s) => s.name).join(" · ")}</dd>
-                  </>
-                )}
               </dl>
+            )}
+            <MeanwhileCards items={p.world} onOpen={p.onOpen} />
+            {stop.hadith && stop.hadith.length > 0 && (
+              <p className="sp-links sp-hadith">
+                {stop.hadith.map((h) => (
+                  <a key={h.url} href={h.url} target="_blank" rel="noreferrer">
+                    {h.label}
+                  </a>
+                ))}
+              </p>
+            )}
+            {stop.note && (
+              <aside className="ep-note">
+                <b>On the sources</b> {stop.note}
+              </aside>
             )}
             <p className="sp-source">
               Source: {stop.source}
@@ -157,6 +224,7 @@ export function StoryPanel(p: Props) {
                 </>
               )}
             </p>
+            <Share title={`${stop.title}, ${stop.label.split(" · ")[0]}`} text={`${stop.title}: ${stop.what}`} path={`/timeline/${stop.id}`} label="Share this moment" />
           </article>
         )}
       </div>

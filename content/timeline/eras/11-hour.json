@@ -1,0 +1,329 @@
+{
+  "id": "hour",
+  "title": "Signs of the Hour",
+  "span": "Still to come",
+  "blurb": "The Prophet ﷺ described signs that come before the Last Day. Some have already been seen; the greatest are still to come, and only Allah knows when.",
+  "camera": { "lat": 28, "lng": 40, "zoom": 1.5 },
+  "zoom": 4,
+  "events": [
+    {
+      "id": "hour-question",
+      "title": "When is the Hour?",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The Prophet's Mosque, Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Jibril"],
+      "what": "A stranger in white asks the Prophet ﷺ when the Hour will come. 'The one asked knows no more than the one asking,' he replies, and gives its signs instead. The stranger was Jibril.",
+      "verses": ["33:63", "31:34", "7:187"],
+      "quote": "33:63",
+      "note": "Only Allah knows when the Hour comes. Scholars divide its signs into minor ones, many already seen, and major ones that come close to the end.",
+      "hadith": [
+        { "label": "Sahih Muslim 8a", "url": "https://sunnah.com/muslim:8a" },
+        { "label": "Sahih al-Bukhari 50", "url": "https://sunnah.com/bukhari:50" }
+      ],
+      "links": {
+        "prophets": ["muhammad"]
+      },
+      "wiki": "Hadith of Gabriel",
+      "source": "Quran, Hadith",
+      "kind": "revelation"
+    },
+    {
+      "id": "shepherds-towers",
+      "title": "Barefoot shepherds build towers",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Arabia", "lat": 24, "lng": 45 },
+      "what": "In the same answer: a slave woman gives birth to her mistress, and barefoot, destitute shepherds compete in building tall buildings. Many see this in the towers that rose across Arabia after oil.",
+      "note": "A minor sign. The hadith names no place or time; applying it to today's towers is the view of many modern scholars, not part of the text.",
+      "hadith": [
+        { "label": "Sahih Muslim 8a", "url": "https://sunnah.com/muslim:8a" },
+        { "label": "Sahih al-Bukhari 50", "url": "https://sunnah.com/bukhari:50" }
+      ],
+      "links": {
+        "events": ["oil"]
+      },
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "fire-of-hijaz",
+      "title": "The fire in the Hijaz",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Harrat Rahat, near Madinah", "lat": 24.3, "lng": 39.78 },
+      "what": "The Prophet ﷺ said the Hour will not come until a fire comes out of the Hijaz that lights up the necks of camels in Busra. In 654 AH (1256 CE) a volcano erupted beside Madinah and its lava flowed for weeks.",
+      "note": "A minor sign, and the only one with a firm date. Al-Nawawi, who lived through it, and later Ibn Kathir saw the 1256 eruption as this fire. Busra is in southern Syria.",
+      "hadith": [{ "label": "Sahih al-Bukhari 7118", "url": "https://sunnah.com/bukhari:7118" }],
+      "source": "Hadith, History",
+      "kind": "event"
+    },
+    {
+      "id": "knowledge-lifted",
+      "title": "Knowledge lifted, killing spreads",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The whole world" },
+      "what": "Religious knowledge will be taken away and ignorance will spread. Earthquakes increase, time seems to pass quickly, and killing becomes common, as do drinking and zina.",
+      "note": "Minor signs. Knowledge leaves through the death of the scholars, as another hadith explains (Bukhari 100).",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 7121", "url": "https://sunnah.com/bukhari:7121" },
+        { "label": "Sahih al-Bukhari 80", "url": "https://sunnah.com/bukhari:80" },
+        { "label": "Sahih al-Bukhari 100", "url": "https://sunnah.com/bukhari:100" }
+      ],
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "thirty-liars",
+      "title": "Liars claiming prophethood",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Yamamah, Arabia", "lat": 24.14, "lng": 47.31 },
+      "what": "About thirty liars will appear, each claiming to be a messenger of Allah. The first of them, Musaylimah and al-Aswad, rose while the Prophet ﷺ was still alive.",
+      "verses": ["33:40"],
+      "quote": "33:40",
+      "note": "A minor sign, already seen many times. The Quran calls Muhammad ﷺ the last of the prophets.",
+      "hadith": [{ "label": "Sahih al-Bukhari 7121", "url": "https://sunnah.com/bukhari:7121" }],
+      "links": {
+        "villains": ["musaylimah", "aswad"]
+      },
+      "source": "Quran, Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "euphrates-gold",
+      "title": "A mountain of gold in the Euphrates",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The Euphrates, Iraq", "lat": 33.42, "lng": 43.3 },
+      "what": "The Euphrates will uncover a mountain of gold. People will fight over it and most will die, and the Prophet ﷺ said whoever is there should take nothing from it.",
+      "note": "A minor sign still to come.",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 7119", "url": "https://sunnah.com/bukhari:7119" },
+        { "label": "Sahih Muslim 2894a", "url": "https://sunnah.com/muslim:2894a" }
+      ],
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "the-mahdi",
+      "title": "The Mahdi",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["The Mahdi"],
+      "what": "A man from the Prophet's family, whose name and father's name match his, will rule and fill the earth with justice as it had been filled with oppression. Isa descends in his time.",
+      "note": "The Mahdi is not named in Bukhari or Muslim. The hadith about him in Abu Dawud and al-Tirmidhi are accepted by most scholars taken together, though many single reports are weak. Muslim 156 says the Muslims' leader will invite Isa to lead the prayer. Many men have falsely claimed to be him.",
+      "hadith": [
+        { "label": "Sunan Abi Dawud 4282", "url": "https://sunnah.com/abudawud:4282" },
+        { "label": "Jami at-Tirmidhi 2230", "url": "https://sunnah.com/tirmidhi:2230" },
+        { "label": "Sahih Muslim 156", "url": "https://sunnah.com/muslim:156" }
+      ],
+      "links": {
+        "events": ["mahdist-sudan"]
+      },
+      "wiki": "Mahdi",
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "dajjal-emerges",
+      "title": "The Dajjal",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Between Syria and Iraq", "lat": 34.4, "lng": 40.9 },
+      "who": ["The Dajjal"],
+      "what": "A one-eyed man with 'kafir' written between his eyes claims to be lord. He brings false wonders and a paradise that is really fire, and stays forty days, the first like a year. He enters every land but Makkah and Madinah.",
+      "note": "The first of the great signs in the order most scholars give. Every prophet warned of him. The Prophet ﷺ taught Muslims to recite the opening verses of Surat al-Kahf against him (Muslim 809).",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" },
+        { "label": "Sahih al-Bukhari 7131", "url": "https://sunnah.com/bukhari:7131" },
+        { "label": "Sahih al-Bukhari 1881", "url": "https://sunnah.com/bukhari:1881" }
+      ],
+      "links": {
+        "villains": ["dajjal"]
+      },
+      "wiki": "Al-Masih ad-Dajjal",
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "isa-descends",
+      "title": "Isa descends in Damascus",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The white minaret, east of Damascus", "lat": 33.51, "lng": 36.31 },
+      "who": ["Isa"],
+      "what": "Isa son of Maryam descends at the white minaret east of Damascus, his hands on the wings of two angels. He breaks the cross, ends the jizya, and wealth flows until no one will accept it.",
+      "verses": ["43:61", "4:159"],
+      "quote": "43:61",
+      "note": "The minaret on the east side of Damascus's Umayyad Mosque is called the Minaret of Isa, but the hadith says only 'the white minaret east of Damascus'. Many commentators read 43:61 as his return being a sign of the Hour.",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" },
+        { "label": "Sahih al-Bukhari 3448", "url": "https://sunnah.com/bukhari:3448" }
+      ],
+      "links": {
+        "prophets": ["isa"],
+        "villains": ["dajjal"]
+      },
+      "source": "Quran, Hadith",
+      "kind": "prophet"
+    },
+    {
+      "id": "gate-of-ludd",
+      "title": "The Dajjal falls at Ludd",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Lod (Ludd), Palestine", "lat": 31.95, "lng": 34.89 },
+      "who": ["Isa", "The Dajjal"],
+      "what": "Isa pursues the Dajjal and kills him at the gate of Ludd. At the sight of Isa, the false messiah begins to melt like salt in water.",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" },
+        { "label": "Sahih Muslim 2897", "url": "https://sunnah.com/muslim:2897" }
+      ],
+      "routes": [
+        {
+          "points": [[33.51, 36.31, "Damascus"], [32.5, 35.4], [31.95, 34.89, "Ludd"]]
+        }
+      ],
+      "links": {
+        "prophets": ["isa"],
+        "villains": ["dajjal"]
+      },
+      "source": "Hadith",
+      "kind": "battle"
+    },
+    {
+      "id": "yajuj-majuj-released",
+      "title": "Yajuj and Majuj",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Sea of Galilee", "lat": 32.82, "lng": 35.59 },
+      "who": ["Isa", "Yajuj and Majuj"],
+      "what": "Yajuj and Majuj are let loose, pouring down from every height. The first of them drink the Sea of Galilee dry. Isa shelters the believers on the mountain and prays, and they all die at once.",
+      "verses": ["21:96-97", "18:94-99"],
+      "quote": "21:96",
+      "note": "Isa and the believers take refuge on Mount Tur. In Bukhari 3346 the Prophet ﷺ says a small hole has already opened in their wall.",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" },
+        { "label": "Sahih al-Bukhari 3346", "url": "https://sunnah.com/bukhari:3346" }
+      ],
+      "links": {
+        "prophets": ["isa"],
+        "villains": ["yajuj"]
+      },
+      "wiki": "Gog and Magog",
+      "source": "Quran, Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "years-of-isa",
+      "title": "The years of Isa",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The whole earth" },
+      "who": ["Isa"],
+      "what": "Peace and plenty follow. The earth gives up its blessing, so that one pomegranate feeds a whole group. Isa lives on for years, then dies, and the Muslims pray over him.",
+      "note": "Abu Dawud 4324 gives forty years and is graded sound by many scholars; Muslim 2940 speaks of seven years of peace. Scholars have tried to reconcile the two.",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" },
+        { "label": "Sunan Abi Dawud 4324", "url": "https://sunnah.com/abudawud:4324" }
+      ],
+      "links": {
+        "prophets": ["isa"]
+      },
+      "source": "Hadith",
+      "kind": "prophet"
+    },
+    {
+      "id": "three-landslides",
+      "title": "Three landslides",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The east, the west and Arabia" },
+      "what": "Three great collapses of the earth: one in the east, one in the west, and one in the Arabian Peninsula.",
+      "note": "Named among the ten great signs in Sahih Muslim. The hadith does not say where exactly, or in what order they come.",
+      "hadith": [{ "label": "Sahih Muslim 2901a", "url": "https://sunnah.com/muslim:2901a" }],
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "the-smoke",
+      "title": "The smoke",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The whole earth" },
+      "what": "A smoke covers the people. The Quran says: watch for the Day when the sky brings a smoke plain to see, covering the people.",
+      "verses": ["44:10-11"],
+      "quote": "44:10",
+      "note": "Ibn Mas'ud held that these verses described a famine in Makkah, when hungry men saw the sky as smoke (reported by al-Bukhari). Others, citing Muslim 2901, see a smoke still to come. Many scholars accept both.",
+      "hadith": [{ "label": "Sahih Muslim 2901a", "url": "https://sunnah.com/muslim:2901a" }],
+      "source": "Quran, Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "sun-from-west",
+      "title": "The sun rises in the west",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The western sky" },
+      "what": "One morning the sun rises from the west. When people see it, everyone believes, but faith no longer benefits anyone who did not believe before.",
+      "verses": ["6:158"],
+      "quote": { "ref": "6:158", "from": "The Day that some", "to": "believed before" },
+      "note": "The door of repentance closes with it. Muslim 2941 says it and the Beast are the first of the final signs; whichever comes first, the other follows close behind.",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 4635", "url": "https://sunnah.com/bukhari:4635" },
+        { "label": "Sahih Muslim 2941", "url": "https://sunnah.com/muslim:2941" }
+      ],
+      "source": "Quran, Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "the-beast",
+      "title": "The Beast of the earth",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The earth" },
+      "what": "Allah brings out a creature from the earth that speaks to people, because they did not believe with certainty in His signs. It appears in the forenoon, close to the sun rising in the west.",
+      "verses": ["27:82"],
+      "quote": "27:82",
+      "note": "Reports describing its shape, where it comes out, and that it marks the faces of believers and disbelievers are weaker or of debated strength.",
+      "hadith": [
+        { "label": "Sahih Muslim 2941", "url": "https://sunnah.com/muslim:2941" },
+        { "label": "Sahih Muslim 2901a", "url": "https://sunnah.com/muslim:2901a" }
+      ],
+      "wiki": "Dabbat al-Ard",
+      "source": "Quran, Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "fire-from-yemen",
+      "title": "The fire from Yemen",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "Aden, Yemen", "lat": 12.79, "lng": 45.03 },
+      "what": "The last of the ten great signs: a fire from Yemen, from the depths of Aden, drives people to the place where they will be gathered.",
+      "note": "Other reports, in Ahmad and al-Tirmidhi, place the gathering in al-Sham. Muslim 2901 lists the ten signs without fixing their order; the order here is one common among scholars.",
+      "hadith": [{ "label": "Sahih Muslim 2901a", "url": "https://sunnah.com/muslim:2901a" }],
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "last-of-people",
+      "title": "The last of the believers",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The Kaaba, Makkah", "lat": 21.42, "lng": 39.83 },
+      "what": "A gentle wind takes the soul of every believer. Only the worst people remain, and no one on earth says 'Allah, Allah'. A man from Abyssinia pulls down the Kaaba stone by stone.",
+      "verses": ["55:26-27"],
+      "quote": "55:26",
+      "note": "Many scholars, among them Ibn Hajar, place the tearing down of the Kaaba after the time of Isa. No text fixes the order of these final events.",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" },
+        { "label": "Sahih Muslim 148a", "url": "https://sunnah.com/muslim:148a" },
+        { "label": "Sahih al-Bukhari 1591", "url": "https://sunnah.com/bukhari:1591" }
+      ],
+      "links": {
+        "villains": ["dhul-suwayqatayn"]
+      },
+      "source": "Hadith",
+      "kind": "event"
+    },
+    {
+      "id": "the-trumpet",
+      "title": "The trumpet",
+      "year": { "ce": 9999, "precision": "unknown" },
+      "place": { "name": "The heavens and the earth" },
+      "what": "The trumpet is blown, and everyone in the heavens and the earth falls dead, except whom Allah wills. It is blown again, and at once they stand, looking on.",
+      "verses": ["39:68", "36:51", "69:13-15"],
+      "quote": "39:68",
+      "note": "The Prophet ﷺ said forty lie between the two blasts, and Abu Hurayrah would not say forty of what (Bukhari 4814). That the angel of the trumpet is Israfil is the common view of scholars; the Quran does not name him.",
+      "hadith": [{ "label": "Sahih al-Bukhari 4814", "url": "https://sunnah.com/bukhari:4814" }],
+      "source": "Quran, Hadith",
+      "kind": "event"
+    }
+  ]
+}

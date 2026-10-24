@@ -1,0 +1,768 @@
+/* The timeline's look: a warm parchment atlas. Tokens are scoped to the app, so every timeline panel picks them up
+   while the rest of the site keeps its own palette. Also the map chrome, year mark, time bar and playback captions;
+   the intro, drawer and card pieces are in cards.css. */
+
+.tl-app {
+  --bg: #ece2cc;
+  --page: #f8f1e0;
+  --fg: #2b2117;
+  --muted: #76664f;
+  --line: #d9c8a6;
+  --soft: #e9dcc0;
+  --idea: #34458a;
+  --trap: #a5352a;
+  --reward: #a26f17;
+  --good: #2c6f87;
+  --people: #6b6152;
+  --old: #7a4f32;
+  --new: #7c2f88;
+  --ideaBg: #e3dfe6;
+  --trapBg: #f1dccf;
+  --rewardBg: #f2e2bb;
+  --peopleBg: #e8dec9;
+  --rewardSoft: #e2c991;
+  --gold: #a87a26;
+  --ink-soft: color-mix(in srgb, var(--fg) 72%, transparent);
+  --paper: radial-gradient(120% 90% at 30% 0%, color-mix(in srgb, #fff 35%, transparent) 0, transparent 60%), var(--page);
+  color: var(--fg);
+  background: var(--bg);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .tl-app {
+    --bg: #17120b;
+    --page: #211a10;
+    --fg: #eee2c8;
+    --muted: #a8977a;
+    --line: #3b2f1e;
+    --soft: #2c2316;
+    --idea: #a9b2e6;
+    --trap: #e58a6f;
+    --reward: #e0b25a;
+    --good: #75b7cc;
+    --people: #a39885;
+    --old: #c49a7a;
+    --new: #d58ae0;
+    --ideaBg: #232338;
+    --trapBg: #35201a;
+    --rewardBg: #33270f;
+    --peopleBg: #282118;
+    --rewardSoft: #5a4519;
+    --gold: #d9a94b;
+    --paper: radial-gradient(120% 90% at 30% 0%, color-mix(in srgb, var(--gold) 7%, transparent) 0, transparent 60%), var(--page);
+  }
+}
+
+:root[data-theme="dark"] .tl-app {
+  --bg: #17120b;
+  --page: #211a10;
+  --fg: #eee2c8;
+  --muted: #a8977a;
+  --line: #3b2f1e;
+  --soft: #2c2316;
+  --idea: #a9b2e6;
+  --trap: #e58a6f;
+  --reward: #e0b25a;
+  --good: #75b7cc;
+  --people: #a39885;
+  --old: #c49a7a;
+  --new: #d58ae0;
+  --ideaBg: #232338;
+  --trapBg: #35201a;
+  --rewardBg: #33270f;
+  --peopleBg: #282118;
+  --rewardSoft: #5a4519;
+  --gold: #d9a94b;
+  --paper: radial-gradient(120% 90% at 30% 0%, color-mix(in srgb, var(--gold) 7%, transparent) 0, transparent 60%), var(--page);
+}
+
+.view-story,
+.view-explore,
+.view-entity {
+  --inset-t: 150px;
+  --inset-b: 104px;
+}
+
+/* An antique globe on a desk: the sphere sits on paper with a soft vignette. */
+.atlas {
+  background:
+    radial-gradient(60% 70% at 55% 48%, color-mix(in srgb, var(--page) 80%, transparent) 0, transparent 70%),
+    radial-gradient(140% 120% at 50% 50%, transparent 55%, color-mix(in srgb, var(--fg) 14%, transparent) 100%),
+    var(--bg);
+}
+
+.panel {
+  background: var(--paper);
+  border-color: var(--line);
+  box-shadow:
+    inset 0 0 0 4px var(--page),
+    inset 0 0 0 5px color-mix(in srgb, var(--gold) 28%, transparent),
+    0 24px 48px -28px color-mix(in srgb, #3a2610 45%, transparent);
+}
+
+.sp-when time {
+  font-size: clamp(26px, 2.8vw, 32px);
+}
+
+.sp-title,
+.sp-chapter h2,
+.xp-h {
+  font-family: var(--display);
+}
+
+/* ---------- map type, controls and pins in the atlas style ---------- */
+.at-label {
+  font-family: var(--display);
+  font-size: 12px;
+  font-weight: 500;
+  font-style: italic;
+  letter-spacing: 0.06em;
+  text-transform: none;
+  font-variant: small-caps;
+  color: var(--ink-soft);
+  text-shadow:
+    0 0 2px var(--page),
+    0 0 6px var(--page),
+    0 0 10px var(--page);
+}
+
+.at-label.major {
+  font-size: 14.5px;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  color: var(--fg);
+}
+
+.at-controls button,
+.at-mode,
+.tl-top button {
+  border-color: var(--line);
+  background: color-mix(in srgb, var(--page) 90%, transparent);
+}
+
+.at-controls {
+  top: auto;
+  right: max(var(--gap), var(--inset-r));
+  bottom: calc(var(--inset-b) + 36px);
+}
+
+.at-note {
+  right: max(var(--gap), var(--inset-r));
+  bottom: 6px;
+  font-size: 10.5px;
+}
+
+.view-story .at-note,
+.view-explore .at-note,
+.view-entity .at-note {
+  bottom: 6px;
+}
+
+.at-mode {
+  top: auto;
+  left: auto;
+  right: calc(max(var(--gap), var(--inset-r)) + 48px);
+  bottom: calc(var(--inset-b) + 36px);
+}
+
+.at-legend {
+  top: auto;
+  left: auto;
+  right: calc(max(var(--gap), var(--inset-r)) + 48px);
+  bottom: calc(var(--inset-b) + 80px);
+}
+
+.at-tip {
+  background: var(--fg);
+  color: var(--page);
+  font-family: var(--ui);
+}
+
+.at-medal i {
+  width: auto;
+  height: auto;
+  padding: 3px 9px 4px;
+  border-radius: 999px;
+  background: var(--page);
+  box-shadow:
+    0 0 0 1.5px var(--gold),
+    0 0 0 3.5px var(--page),
+    0 0 0 4.5px color-mix(in srgb, var(--gold) 45%, transparent),
+    0 6px 14px -6px color-mix(in srgb, #3a2610 60%, transparent);
+}
+
+.at-medal i b {
+  display: block;
+  font: 700 15px/1.2 var(--arabic);
+  color: var(--gold);
+  white-space: nowrap;
+}
+
+.at-medal span {
+  top: 20px;
+  left: 0;
+  transform: translateX(-50%);
+  font-size: 11.5px;
+}
+
+.at-capital i {
+  box-shadow:
+    0 0 0 2px var(--fg),
+    0 0 0 3.5px var(--page);
+}
+
+/* ---------- top-left chrome ---------- */
+.tl-top {
+  position: absolute;
+  top: var(--gap);
+  left: var(--gap);
+  z-index: 5;
+  display: flex;
+  gap: 8px;
+}
+
+.tl-top button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 38px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: var(--fg);
+  font: 600 13.5px/1 var(--ui);
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.tl-top button:hover {
+  border-color: var(--gold);
+}
+
+.tl-top svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ---------- the year mark ---------- */
+.ym {
+  position: absolute;
+  top: calc(var(--gap) + 48px);
+  left: calc(var(--gap) + 4px);
+  z-index: 2;
+  pointer-events: none;
+  color: var(--fg);
+  text-shadow:
+    0 0 12px var(--bg),
+    0 0 24px var(--bg);
+}
+
+.ym p {
+  margin: 0;
+}
+
+.ym-year {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-family: var(--display);
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 0.95;
+}
+
+.ym-digits {
+  display: inline-flex;
+  font-size: clamp(64px, 8.4vw, 124px);
+  font-feature-settings: "tnum", "lnum";
+}
+
+.ym-d {
+  display: inline-block;
+  height: 1em;
+  overflow: hidden;
+}
+
+.ym-d > span {
+  display: block;
+  transition: transform 0.5s var(--ease);
+}
+
+.ym-d i {
+  display: block;
+  height: 1em;
+  font-style: normal;
+  line-height: 1;
+}
+
+.ym-era,
+.ym-c {
+  font: 500 clamp(16px, 1.6vw, 22px) / 1 var(--display);
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.ym-sub {
+  display: flex;
+  gap: 12px;
+  margin-top: 6px !important;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.ym-sub b {
+  font: 600 16px/1.2 var(--display);
+  color: var(--gold);
+}
+
+.is-playing .ym-d > span {
+  transition-duration: 0.2s;
+}
+
+/* ---------- time bar ---------- */
+.tl-bar {
+  position: absolute;
+  left: var(--gap);
+  right: max(var(--gap), calc(var(--inset-r) - var(--gap)));
+  bottom: 22px;
+  z-index: 3;
+  transition: right 0.5s var(--ease);
+}
+
+.tb {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 18px 10px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--page) 92%, transparent);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow:
+    inset 0 0 0 3px color-mix(in srgb, var(--page) 92%, transparent),
+    inset 0 0 0 4px color-mix(in srgb, var(--gold) 22%, transparent),
+    0 18px 40px -26px color-mix(in srgb, #3a2610 55%, transparent);
+}
+
+.tb-quiet {
+  padding-left: 18px;
+}
+
+.tb-play {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 0;
+  background: var(--fg);
+  color: var(--page);
+  cursor: pointer;
+  box-shadow: 0 0 0 3px var(--page), 0 0 0 4px var(--gold);
+  transition: transform 0.15s var(--ease), background-color 0.2s;
+}
+
+.tb-play svg {
+  width: 17px;
+  height: 17px;
+  fill: currentColor;
+}
+
+.tb-play:not(.on) svg {
+  margin-left: 3px;
+}
+
+.tb-play:active {
+  transform: scale(0.94);
+}
+
+.tb-play.on {
+  background: var(--gold);
+}
+
+.tb-track {
+  position: relative;
+  flex: 1;
+  height: 52px;
+  cursor: ew-resize;
+  touch-action: none;
+  outline: none;
+  border-radius: 8px;
+}
+
+.tb-track:focus-visible {
+  box-shadow: 0 0 0 2px var(--gold);
+}
+
+.tb-epics {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 12px;
+}
+
+.tb-epics i {
+  position: absolute;
+  height: 3px;
+  border-radius: 2px;
+  opacity: 0.4;
+  transition: opacity 0.2s;
+}
+
+.tb-epics i.on {
+  opacity: 1;
+}
+
+.tb-epics .c0 {
+  background: var(--idea);
+}
+.tb-epics .c1 {
+  background: color-mix(in oklab, var(--good) 70%, #0f9f6e);
+}
+.tb-epics .c2 {
+  background: var(--reward);
+}
+.tb-epics .c3 {
+  background: var(--new);
+}
+.tb-epics .c4 {
+  background: var(--old);
+}
+.tb-epics .c5 {
+  background: color-mix(in oklab, #2f9e44 75%, var(--good));
+}
+
+/* Every moment as a dot, coloured by kind. Dots behind the playhead are lit. */
+.tb-dots {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 15px;
+  height: 10px;
+}
+
+.tb-dots i {
+  position: absolute;
+  top: 2px;
+  width: 6px;
+  height: 6px;
+  margin-left: -3px;
+  border-radius: 50%;
+  background: var(--k, var(--fg));
+  opacity: 0.22;
+  transition: opacity 0.3s;
+}
+
+.tb-dots.lit i {
+  opacity: 0.8;
+}
+
+.tb-dots i.k-world {
+  --k: var(--muted);
+}
+
+.tb-dots i.on {
+  top: -1px;
+  width: 12px;
+  height: 12px;
+  margin-left: -6px;
+  opacity: 1;
+  box-shadow: 0 0 0 2px var(--page), 0 0 0 3.5px var(--k, var(--fg));
+}
+
+.tb-chapters {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 29px;
+  height: 4px;
+  border-radius: 2px;
+  background: color-mix(in srgb, var(--fg) 10%, transparent);
+}
+
+.tb-chapters i {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border-radius: 2px;
+  background: color-mix(in srgb, var(--fg) 22%, transparent);
+  box-shadow: 1px 0 0 var(--page);
+}
+
+.tb-chapters i.on {
+  background: var(--gold);
+}
+
+.tb-ticks {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 38px;
+  font: 600 10.5px/1 var(--ui);
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  pointer-events: none;
+}
+
+.tb-ticks span {
+  position: absolute;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.tb-ticks span:first-child {
+  transform: none;
+}
+
+.tb-ticks span:last-child {
+  transform: translateX(-100%);
+}
+
+.tb-head {
+  position: absolute;
+  top: -6px;
+  bottom: 14px;
+  width: 0;
+  pointer-events: none;
+}
+
+.tb-head::before {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--trap);
+}
+
+.tb-head i {
+  position: absolute;
+  left: -8px;
+  top: 25px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--page);
+  box-shadow:
+    0 0 0 3px var(--trap),
+    0 4px 10px color-mix(in srgb, #3a2610 35%, transparent);
+}
+
+.tb-chapter {
+  position: absolute;
+  right: 18px;
+  top: -30px;
+  margin: 0;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--page) 92%, transparent);
+  border: 1px solid var(--line);
+  font: italic 500 14px/1.2 var(--display);
+  color: var(--fg);
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+/* ---------- captions while history plays ---------- */
+.tk {
+  position: absolute;
+  left: 50%;
+  bottom: calc(var(--inset-b) + 16px);
+  z-index: 3;
+  width: min(440px, calc(100% - 2 * var(--gap)));
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  pointer-events: none;
+}
+
+.tk li {
+  animation: tk-in 0.5s var(--ease);
+  pointer-events: auto;
+}
+
+.tk button {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  max-width: 100%;
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--page) 94%, transparent);
+  box-shadow: 0 10px 24px -14px color-mix(in srgb, #3a2610 60%, transparent);
+  color: var(--fg);
+  font: 500 15px/1.3 var(--display);
+  cursor: pointer;
+  text-align: left;
+}
+
+.tk time {
+  flex: none;
+  font: 700 12px/1 var(--ui);
+  letter-spacing: 0.04em;
+  color: var(--k, var(--gold));
+}
+
+.tk span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tk .rise button {
+  border-color: var(--gold);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ym-d > span,
+  .tk li,
+  .tl-side,
+  .tl-bar {
+    transition: none;
+    animation: none;
+  }
+}
+
+@keyframes tk-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.97);
+  }
+}
+
+/* While history plays the panel steps aside and the globe takes the whole stage. */
+.tl-side {
+  transition:
+    transform 0.5s var(--ease),
+    opacity 0.4s;
+}
+
+.is-playing {
+  --inset-r: 0px;
+}
+
+.is-playing .tl-side {
+  transform: translateX(calc(100% + 2 * var(--gap)));
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ---------- phones ---------- */
+@media (max-width: 880px) {
+  .view-story,
+  .view-explore,
+  .view-entity {
+    --inset-t: 96px;
+    --inset-b: 84px;
+  }
+
+  .view-story .tl-stage,
+  .view-explore .tl-stage,
+  .view-entity .tl-stage {
+    flex-basis: 56%;
+  }
+
+  .is-playing .tl-stage {
+    flex-basis: 100%;
+  }
+
+  .is-playing .tl-side {
+    display: none;
+  }
+
+  .ym {
+    top: calc(var(--gap) + 44px);
+  }
+
+  .ym-digits {
+    font-size: 46px;
+  }
+
+  .ym-sub {
+    margin-top: 2px !important;
+    font-size: 12px;
+  }
+
+  .ym-sub b {
+    font-size: 13.5px;
+  }
+
+  .tl-bar {
+    left: 8px;
+    right: 8px;
+    bottom: 22px;
+  }
+
+  .tb {
+    gap: 10px;
+    padding: 8px 12px 6px 8px;
+    border-radius: 16px;
+  }
+
+  .tb-play {
+    width: 40px;
+    height: 40px;
+  }
+
+  .tb-track {
+    height: 46px;
+  }
+
+  .tb-ticks .minor,
+  .tb-chapter {
+    display: none;
+  }
+
+  .tk {
+    bottom: calc(var(--inset-b) + 10px);
+  }
+
+  .tk button {
+    font-size: 14px;
+    padding: 7px 14px;
+  }
+
+  /* Pinch zooms on phones, so the zoom buttons go and the colour toggle takes the top-right corner. */
+  .at-controls button:nth-child(-n + 2) {
+    display: none;
+  }
+
+  .at-mode {
+    top: var(--gap);
+    right: var(--gap);
+    bottom: auto;
+  }
+
+  .at-controls {
+    top: calc(var(--gap) + 44px);
+    bottom: auto;
+  }
+
+  .at-legend {
+    top: calc(var(--gap) + 44px);
+    bottom: auto;
+    right: 56px;
+  }
+
+  /* The story card below already shows the year. */
+  .view-story .ym {
+    display: none;
+  }
+
+  .tl-back span {
+    display: none;
+  }
+}

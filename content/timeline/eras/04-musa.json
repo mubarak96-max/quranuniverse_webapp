@@ -19,17 +19,45 @@
       "kind": "prophet"
     },
     {
+      "id": "akhenaten-aten",
+      "title": "Akhenaten's sun-disc",
+      "year": { "ce": -1350, "precision": "approx" },
+      "place": { "name": "Amarna, Egypt", "lat": 27.65, "lng": 30.9 },
+      "who": ["Akhenaten"],
+      "what": "Pharaoh Akhenaten closes the old temples and orders worship of the Aten, the sun-disc, alone. After his death Egypt returns to its many gods.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The believer of Pharaoh's family reminds Egypt that Yusuf had come to them before with clear proofs (40:34).",
+      "note": "Sun worship is not tawhid. Whether older belief in one God shaped him is debated.",
+      "links": { "polities": ["egypt-old"] }
+    },
+    {
       "id": "musa-born",
       "title": "Musa in the river",
       "year": { "ce": -1300, "precision": "approx" },
       "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
-      "who": ["Musa", "Pharaoh", "Asiya"],
+      "who": ["Musa", "Firaun", "Asiya"],
       "what": "Pharaoh kills newborn boys of Bani Israil. Musa's mother sets him in the river. Pharaoh's wife raises him in the palace.",
       "verses": ["28:4-13", "20:37-40"],
       "quote": "28:7",
       "article": "prophets-in-the-quran",
       "source": "Quran",
       "kind": "prophet"
+    },
+    {
+      "id": "ramesses-reign",
+      "title": "Ramesses II",
+      "year": { "ce": -1279, "to": -1213, "precision": "approx" },
+      "place": { "name": "Pi-Ramesses, Egypt", "lat": 30.8, "lng": 31.83 },
+      "who": ["Ramesses II"],
+      "what": "Ramesses II rules Egypt for 66 years, raising giant temples and a new capital in the Nile Delta.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "Many name him as the Pharaoh of Musa, but the Quran never names Pharaoh and scholars disagree.",
+      "note": "Others propose his son Merneptah, or kings centuries earlier.",
+      "links": { "polities": ["egypt-old"] }
     },
     {
       "id": "musa-madyan",
@@ -70,7 +98,7 @@
       "title": "Musa before Pharaoh",
       "year": { "ce": -1260, "precision": "approx" },
       "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
-      "who": ["Musa", "Harun", "Pharaoh"],
+      "who": ["Musa", "Harun", "Firaun"],
       "what": "Musa's staff swallows the magicians' tricks. The magicians believe. Plagues follow: locusts, lice, frogs, blood.",
       "verses": ["7:103-136", "20:56-76"],
       "quote": "7:117",
@@ -78,11 +106,59 @@
       "kind": "prophet"
     },
     {
+      "id": "believer-speaks",
+      "title": "The believer of Pharaoh's family",
+      "year": { "ce": -1259, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
+      "who": ["Musa", "Firaun"],
+      "what": "A man of Pharaoh's own family, hiding his faith, speaks up: 'Do you kill a man because he says, My Lord is Allah?' He warns them of the nations before.",
+      "verses": ["40:28-45"],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "peace-treaty",
+      "title": "The first peace treaty",
+      "year": { "ce": -1259, "precision": "approx" },
+      "place": { "name": "Hattusa, Turkey", "lat": 40.02, "lng": 34.62 },
+      "who": ["Ramesses II", "Hattusili III"],
+      "what": "Fifteen years after the battle of Kadesh, Egypt and the Hittites sign the oldest surviving peace treaty. A copy hangs at the United Nations.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says: 'If they incline to peace, then incline to it also' (8:61)."
+    },
+    {
+      "id": "haman-tower",
+      "title": "Haman's tower",
+      "year": { "ce": -1258, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
+      "who": ["Firaun", "Haman"],
+      "what": "Mocking Musa, Pharaoh tells Haman to fire bricks of clay and build a tower, so he can climb up and look at the God of Musa.",
+      "verses": ["28:38", "40:36-37"],
+      "quote": "40:36",
+      "source": "Quran",
+      "kind": "prophet",
+      "note": "The Quran names Haman as Pharaoh's minister. Historians have not identified him."
+    },
+    {
+      "id": "asiya-prayer",
+      "title": "Asiya's prayer",
+      "year": { "ce": -1257, "precision": "traditional" },
+      "place": { "name": "Egypt", "lat": 30.8, "lng": 31.8 },
+      "who": ["Asiya", "Firaun"],
+      "what": "Pharaoh's wife believes in the Lord of Musa. Tormented for it, she prays for a house near Allah in Paradise. The Prophet ﷺ named her among the most perfect of women.",
+      "verses": ["66:11"],
+      "source": "Quran, Bukhari",
+      "kind": "prophet",
+      "note": "Her torment is described by the commentators. The Quran calls her 'the wife of Pharaoh'.",
+      "hadith": [{ "label": "Sahih al-Bukhari 3411", "url": "https://sunnah.com/bukhari:3411" }]
+    },
+    {
       "id": "exodus",
       "title": "The sea parts",
       "year": { "ce": -1250, "precision": "approx" },
       "place": { "name": "Red Sea, Egypt", "lat": 29.5, "lng": 32.6 },
-      "who": ["Musa", "Pharaoh"],
+      "who": ["Musa", "Firaun"],
       "what": "The sea splits for Bani Israil and closes on Pharaoh. His body is preserved as a sign.",
       "verses": ["26:60-67", "10:90-92"],
       "quote": "26:63",
@@ -105,6 +181,29 @@
       "quote": "7:145",
       "source": "Quran",
       "kind": "revelation"
+    },
+    {
+      "id": "samiri-calf",
+      "title": "The Samiri's calf",
+      "year": { "ce": -1248, "precision": "approx" },
+      "place": { "name": "Sinai desert", "lat": 29.5, "lng": 34 },
+      "who": ["The Samiri", "Harun", "Musa"],
+      "what": "While Musa is away, the Samiri shapes the people's gold into a lowing calf. Harun warns them. Musa returns, burns the calf and scatters it in the sea.",
+      "verses": ["20:85-97"],
+      "quote": "20:88",
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "twelve-springs",
+      "title": "Twelve springs",
+      "year": { "ce": -1247, "precision": "approx" },
+      "place": { "name": "Sinai desert", "lat": 29.5, "lng": 34 },
+      "who": ["Musa"],
+      "what": "When his people thirst, Musa strikes a rock with his staff. Twelve springs gush out, one for each tribe, and clouds shade them.",
+      "verses": ["2:60", "7:160"],
+      "source": "Quran",
+      "kind": "prophet"
     },
     {
       "id": "cow",
@@ -160,6 +259,122 @@
       "kind": "prophet"
     },
     {
+      "id": "musa-death",
+      "title": "The death of Musa",
+      "year": { "ce": -1210, "precision": "traditional" },
+      "place": { "name": "Near Jericho", "lat": 31.78, "lng": 35.43 },
+      "who": ["Musa", "Harun"],
+      "what": "Harun dies in the wilderness, then Musa. Musa asks to be brought a stone's throw from the holy land, and is buried by a red sandhill.",
+      "camera": { "zoom": 7 },
+      "source": "Bukhari",
+      "kind": "prophet",
+      "note": "Reported by al-Bukhari and Muslim. The shrine of Nabi Musa near Jericho is a later tradition."
+    },
+    {
+      "id": "merneptah-stele",
+      "title": "'Israel' in stone",
+      "year": { "ce": -1208, "precision": "approx" },
+      "place": { "name": "Thebes, Egypt", "lat": 25.72, "lng": 32.61 },
+      "who": ["Merneptah"],
+      "what": "Pharaoh Merneptah's victory stone names a people called Israel in Canaan. It is the oldest mention of Israel outside scripture.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran speaks of Bani Israil, the Children of Israil, dozens of times."
+    },
+    {
+      "id": "yusha-holy-land",
+      "title": "Into the holy land",
+      "year": { "ce": -1200, "precision": "traditional" },
+      "place": { "name": "Jericho, Palestine", "lat": 31.87, "lng": 35.44 },
+      "who": ["Yusha"],
+      "what": "After Musa, Yusha' leads a new generation into the holy land. Told to enter the gate humbly saying 'hittah', forgive us, some mock and change the word.",
+      "verses": ["2:58-59", "7:161-162"],
+      "camera": { "zoom": 6 },
+      "source": "Quran, Bukhari",
+      "kind": "prophet",
+      "note": "A hadith in al-Bukhari and Muslim says the sun was held back for a prophet until a city fell; Ahmad's version names him as Yusha'."
+    },
+    {
+      "id": "olmec-heads",
+      "title": "The Olmec",
+      "year": { "ce": -1200, "precision": "approx" },
+      "place": { "name": "San Lorenzo, Mexico", "lat": 17.75, "lng": -94.76 },
+      "what": "In the forests of southern Mexico, the Olmec carve colossal stone heads and build the first great towns of Mesoamerica.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says Allah made people into nations and tribes so they would know one another (49:13)."
+    },
+    {
+      "id": "vedas",
+      "title": "The Vedas",
+      "year": { "ce": -1200, "precision": "approx" },
+      "place": { "name": "Punjab", "lat": 31, "lng": 74 },
+      "what": "Hymns of the Rigveda, the oldest Hindu scripture, are composed in Sanskrit and passed down by memory for centuries.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran says there was no nation but that a warner had passed among them (35:24).",
+      "note": "Dates for the Rigveda range from about 1500 to 1000 BCE."
+    },
+    {
+      "id": "bronze-age-collapse",
+      "title": "The Bronze Age collapse",
+      "year": { "ce": -1177, "precision": "approx" },
+      "place": { "name": "Ugarit, Syria", "lat": 35.6, "lng": 35.78 },
+      "what": "In a few decades the Hittite empire, Ugarit and Mycenaean Greece fall to drought, earthquakes and raiding Sea Peoples. Iron soon replaces bronze.",
+      "source": "History",
+      "kind": "world",
+      "tie": "'These days We alternate among the people' (3:140): and iron, which the Quran says was sent down with great might (57:25), takes bronze's place."
+    },
+    {
+      "id": "camel-tamed",
+      "title": "The camel carries Arabia",
+      "year": { "ce": -1100, "precision": "approx" },
+      "place": { "name": "Southern Arabia", "lat": 18, "lng": 48 },
+      "what": "In southern Arabia the camel is tamed for riding and carrying loads. Caravans can now cross deserts that were closed before.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran asks: 'Do they not look at the camels, how they are created?' (88:17)",
+      "note": "Some date camel taming earlier; its use in long caravans spread around 1000 BCE."
+    },
+    {
+      "id": "phoenician-alphabet",
+      "title": "The alphabet",
+      "year": { "ce": -1050, "precision": "approx" },
+      "place": { "name": "Byblos, Lebanon", "lat": 34.12, "lng": 35.65 },
+      "what": "Phoenician traders at Byblos and Tyre spread a short alphabet of 22 letters. Greek, Latin, Hebrew and Arabic letters all descend from it.",
+      "source": "History",
+      "kind": "knowledge",
+      "tie": "The first revelation praises Allah 'who taught by the pen' (96:4); the Quran's own letters grew from this family."
+    },
+    {
+      "id": "zhou-mandate",
+      "title": "The Mandate of Heaven",
+      "year": { "ce": -1046, "precision": "approx" },
+      "place": { "name": "Haojing, China", "lat": 34.23, "lng": 108.77 },
+      "what": "The Zhou overthrow the Shang and teach that Heaven gives rule to the just and takes it from the corrupt.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "The Quran says: 'You give sovereignty to whom You will and take it from whom You will' (3:26).",
+      "links": { "polities": ["shang-zhou"] }
+    },
+    {
+      "id": "ark-returns",
+      "title": "The Ark comes back",
+      "year": { "ce": -1012, "precision": "approx" },
+      "place": { "name": "Palestine", "lat": 31.9, "lng": 35.2 },
+      "who": ["Talut"],
+      "what": "As a sign of Talut's kingship, the Ark of the Covenant returns, carried by angels. In it is reassurance from Allah and relics of the families of Musa and Harun.",
+      "verses": ["2:247-248"],
+      "quote": "2:248",
+      "source": "Quran, Ibn Kathir",
+      "kind": "prophet",
+      "note": "Commentators say the relics included Musa's staff and pieces of the tablets."
+    },
+    {
       "id": "talut-jalut",
       "title": "Dawud and Jalut",
       "year": { "ce": -1010, "precision": "approx" },
@@ -172,6 +387,19 @@
       "kind": "battle"
     },
     {
+      "id": "sabbath-town",
+      "title": "The Sabbath-breakers",
+      "year": { "ce": -1005, "precision": "traditional" },
+      "place": { "name": "Aylah, Gulf of Aqaba", "lat": 29.53, "lng": 35 },
+      "what": "In a town by the sea, fish swarm on the Sabbath, when fishing is forbidden. Some trick the law; others warn them. Only the warners are saved.",
+      "verses": ["7:163-166", "2:65-66"],
+      "quote": "7:163",
+      "camera": { "zoom": 6 },
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "Many commentators say the town was Aylah, today's Aqaba, in the time of Dawud. The Quran does not name it."
+    },
+    {
       "id": "dawud",
       "title": "King Dawud",
       "year": { "ce": -1000, "precision": "approx" },
@@ -182,6 +410,44 @@
       "quote": "34:10",
       "article": "prophets-in-the-quran",
       "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "zoroaster-preaches",
+      "title": "Zoroaster",
+      "year": { "ce": -1000, "precision": "unknown" },
+      "place": { "name": "Balkh, Afghanistan", "lat": 36.76, "lng": 66.9 },
+      "who": ["Zoroaster"],
+      "what": "Zoroaster preaches a supreme Wise Lord against the forces of the lie. His faith becomes the religion of Persia's empires.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran names the Majus, the Zoroastrians, among the faiths Allah will judge between (22:17).",
+      "note": "His dates range from about 1500 to 600 BCE, and his homeland is uncertain. Balkh is one tradition."
+    },
+    {
+      "id": "luqman-advice",
+      "title": "Luqman's advice to his son",
+      "year": { "ce": -990, "precision": "traditional" },
+      "place": { "name": "Nubia", "lat": 19.6, "lng": 33 },
+      "who": ["Luqman"],
+      "what": "Luqman the wise teaches his son: never associate anything with Allah, honour your parents, pray, be patient, and walk the earth humbly.",
+      "verses": ["31:12-19"],
+      "quote": "31:13",
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "The Quran gives no time or place. Many commentators say he was a Nubian or Abyssinian sage of Dawud's time, not a prophet."
+    },
+    {
+      "id": "field-and-sheep",
+      "title": "The field and the sheep",
+      "year": { "ce": -975, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Dawud", "Sulayman"],
+      "what": "Sheep stray into a man's field at night and eat the crop. Dawud judges, young Sulayman finds a better ruling, and Allah praises both.",
+      "verses": ["21:78-79"],
+      "quote": "21:79",
+      "source": "Quran, Ibn Kathir",
       "kind": "prophet"
     },
     {
@@ -198,6 +464,32 @@
       "kind": "prophet"
     },
     {
+      "id": "valley-of-ants",
+      "title": "The valley of the ants",
+      "year": { "ce": -958, "precision": "traditional" },
+      "place": { "name": "The valley of the ants" },
+      "who": ["Sulayman"],
+      "what": "Marching with his army, Sulayman hears an ant tell the others to hide. He smiles and prays to be grateful for Allah's favours.",
+      "verses": ["27:17-19"],
+      "quote": "27:19",
+      "source": "Quran",
+      "kind": "prophet",
+      "note": "Commentators place the valley in Sham or near Ta'if. No one knows."
+    },
+    {
+      "id": "babylon-magic",
+      "title": "Harut and Marut in Babylon",
+      "year": { "ce": -955, "precision": "unknown" },
+      "place": { "name": "Babylon, Iraq", "lat": 32.54, "lng": 44.42 },
+      "who": ["Harut and Marut"],
+      "what": "Devils spread magic and blame Sulayman. In Babylon, Harut and Marut teach it only as a test, first warning: 'We are a trial, so do not disbelieve.'",
+      "verses": ["2:102"],
+      "quote": { "ref": "2:102", "from": "It was not Solomon who disbelieved", "to": "so do not disbelieve [by practicing magic]." },
+      "source": "Quran, Ibn Kathir",
+      "kind": "event",
+      "note": "Most scholars read them as angels sent as a test; some read them as men. Stories of their fall come from Isra'iliyyat and are weak."
+    },
+    {
       "id": "bilqis",
       "title": "The Queen of Sheba",
       "year": { "ce": -950, "precision": "approx" },
@@ -211,6 +503,17 @@
           "points": [[15.42, 45.33, "Marib"], [20, 41.5], [26, 37.5], [31.78, 35.23, "Jerusalem"]]
         }
       ],
+      "source": "Quran",
+      "kind": "prophet"
+    },
+    {
+      "id": "sulayman-staff",
+      "title": "The staff and the termite",
+      "year": { "ce": -931, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Sulayman"],
+      "what": "Sulayman dies leaning on his staff, and the jinn keep working. Only when a creature gnaws the staff and he falls do they see they never knew the unseen.",
+      "verses": ["34:14"],
       "source": "Quran",
       "kind": "prophet"
     },
@@ -240,13 +543,86 @@
       "kind": "prophet"
     },
     {
+      "id": "rome-founded",
+      "title": "Rome is founded",
+      "year": { "ce": -753, "precision": "traditional" },
+      "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.5 },
+      "who": ["Romulus"],
+      "what": "By legend, Romulus founds Rome on the Tiber. The small town will one day rule Palestine and Egypt.",
+      "source": "History",
+      "kind": "world",
+      "tie": "Surah al-Rum (30:2-4) later foretells Rome's comeback against Persia.",
+      "links": { "polities": ["rome"] }
+    },
+    {
+      "id": "marib-dam-built",
+      "title": "The dam of Saba",
+      "year": { "ce": -750, "precision": "approx" },
+      "place": { "name": "Marib, Yemen", "lat": 15.42, "lng": 45.33 },
+      "what": "The Sabaeans build a great dam at Marib to water two vast gardens. Saba grows rich on frankincense carried north by caravan.",
+      "camera": { "zoom": 5 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "The Quran calls Saba's two gardens a sign, before the flood of the dam (34:15-16).",
+      "note": "Older works stood here; the great dam was raised and repaired over a thousand years.",
+      "links": { "polities": ["saba"] }
+    },
+    {
+      "id": "homer-epics",
+      "title": "Homer",
+      "year": { "ce": -750, "precision": "approx" },
+      "place": { "name": "Smyrna, Turkey", "lat": 38.42, "lng": 27.14 },
+      "who": ["Homer"],
+      "what": "The Iliad and the Odyssey, long poems credited to Homer, are sung across the Greek world.",
+      "source": "History",
+      "kind": "knowledge",
+      "tie": "Arabs too prized poetry above every art, which is why the Quran's challenge to make one surah like it (2:23) struck so hard.",
+      "links": { "polities": ["greece"] }
+    },
+    {
+      "id": "kush-pharaohs",
+      "title": "The Black Pharaohs",
+      "year": { "ce": -728, "precision": "approx" },
+      "place": { "name": "Napata, Sudan", "lat": 18.53, "lng": 31.85 },
+      "who": ["Piye"],
+      "what": "Kings of Kush, from Nubia in today's Sudan, conquer Egypt and rule it as pharaohs for nearly a century.",
+      "camera": { "zoom": 4 },
+      "source": "History",
+      "kind": "empire",
+      "tie": "The Quran counts 'the diversity of your languages and your colours' among Allah's signs (30:22)."
+    },
+    {
+      "id": "samaria-falls",
+      "title": "Assyria exiles Israel",
+      "year": { "ce": -722, "precision": "exact" },
+      "place": { "name": "Samaria, Palestine", "lat": 32.28, "lng": 35.19 },
+      "who": ["Sargon II"],
+      "what": "Assyria takes Samaria and deports the ten northern tribes of Israel across its empire. They vanish from history as tribes.",
+      "camera": { "zoom": 6 },
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran reminds Bani Israil that Allah's help was tied to keeping His covenant (5:12-13).",
+      "links": { "polities": ["assyria", "israel-kingdom"] }
+    },
+    {
       "id": "nineveh-falls",
       "title": "Nineveh falls",
       "year": { "ce": -612, "precision": "exact" },
       "place": { "name": "Nineveh, Iraq", "lat": 36.36, "lng": 43.15 },
       "what": "Babylon and the Medes destroy Nineveh. The Assyrian empire ends.",
+      "tie": "Tradition makes Nineveh the city of Yunus, whose people believed and were spared punishment (10:98), long before Babylon brought it down.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "first-coins",
+      "title": "The first coins",
+      "year": { "ce": -600, "precision": "approx" },
+      "place": { "name": "Sardis, Turkey", "lat": 38.49, "lng": 28.04 },
+      "what": "Lydia, in western Anatolia, strikes the first coins. Money spreads through the Greek and Persian worlds.",
+      "source": "History",
+      "kind": "world",
+      "tie": "The Quran mentions dirhams in Yusuf's story (12:20) and warns those who give short measure (83:1-3)."
     },
     {
       "id": "babylon-exile",
@@ -255,6 +631,7 @@
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "who": ["Nebuchadnezzar"],
       "what": "Babylon burns the temple and takes Bani Israil into exile. Many scholars read this as the first punishment in Surah al-Isra.",
+      "tie": "The Quran says that for the first of two corruptions Allah sent 'servants of Ours - those of great military might' into their homes (17:5).",
       "verses": ["17:4-5"],
       "routes": [
         {

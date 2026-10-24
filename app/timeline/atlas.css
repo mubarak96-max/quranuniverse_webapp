@@ -1,0 +1,425 @@
+/* The timeline atlas: a MapLibre globe, its DOM pins and labels, controls, and the faith legend. */
+
+.atlas {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  /* Space around the globe; Atlas sets --space from the theme once the map loads. */
+  background: radial-gradient(circle at 50% 45%, color-mix(in srgb, var(--good) 10%, var(--bg)) 0, var(--space, var(--bg)) 70%);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.atlas.is-hidden {
+  visibility: hidden;
+}
+
+.at-canvas {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.6s var(--ease);
+}
+
+.atlas.ready .at-canvas {
+  opacity: 1;
+}
+
+.at-canvas .maplibregl-canvas {
+  outline: none;
+}
+
+.at-probe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.at-probe-lt {
+  width: var(--inset-l);
+  height: var(--inset-t);
+}
+
+.at-probe-rb {
+  width: var(--inset-r);
+  height: var(--inset-b);
+}
+
+/* ---------- polity labels ---------- */
+.at-label {
+  pointer-events: none;
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: color-mix(in srgb, var(--fg) 55%, transparent);
+  text-shadow:
+    0 0 3px var(--page),
+    0 0 6px var(--page);
+  animation: at-show 0.4s var(--ease);
+}
+
+.at-label.major {
+  font-size: 12px;
+  color: var(--fg);
+}
+
+/* ---------- pins ---------- */
+.at-pin {
+  width: 0;
+  height: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: inherit;
+  pointer-events: none;
+}
+
+button.at-pin {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.at-pin i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 8px;
+  height: 8px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: var(--fg);
+  box-shadow: 0 0 0 2px var(--page);
+}
+
+/* Taps land on a 32px target around the dot. */
+button.at-pin::before {
+  content: "";
+  position: absolute;
+  left: -16px;
+  top: -16px;
+  width: 32px;
+  height: 32px;
+}
+
+.at-pin span {
+  position: absolute;
+  left: 10px;
+  top: 0;
+  transform: translateY(-50%);
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--fg);
+  text-shadow:
+    0 0 3px var(--page),
+    0 0 6px var(--page),
+    0 0 9px var(--page);
+}
+
+.at-capital i {
+  width: 7px;
+  height: 7px;
+  background: var(--page);
+  box-shadow:
+    0 0 0 2px var(--idea),
+    0 0 0 3.5px var(--page);
+}
+
+.at-capital span {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.at-way i {
+  width: 7px;
+  height: 7px;
+  background: var(--trap);
+}
+
+.at-way span {
+  font-size: 11.5px;
+  opacity: 0;
+  animation: at-show 0.4s 1.4s forwards;
+}
+
+@keyframes at-show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.at-prophet i {
+  width: 11px;
+  height: 11px;
+  background: var(--reward);
+}
+
+.at-villain i {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background: var(--trap);
+}
+
+.at-near i,
+.at-person i {
+  width: 10px;
+  height: 10px;
+  background: color-mix(in srgb, var(--fg) 70%, transparent);
+  transition: transform 0.2s var(--ease);
+}
+
+.at-near span,
+.at-person span {
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.at-near:hover i,
+.at-near:focus-visible i {
+  transform: translate(-50%, -50%) scale(1.35);
+}
+
+.at-near:hover span,
+.at-near:focus-visible span {
+  opacity: 1;
+}
+
+.at-place i {
+  width: 12px;
+  height: 12px;
+  background: transparent;
+  box-shadow:
+    0 0 0 2px var(--fg),
+    0 0 0 4px var(--page);
+}
+
+.at-event i {
+  width: 14px;
+  height: 14px;
+  background: var(--trap);
+  box-shadow: 0 0 0 3px var(--page);
+}
+
+.at-event i::after {
+  content: "";
+  position: absolute;
+  inset: -9px;
+  border-radius: 50%;
+  border: 2px solid var(--trap);
+  animation: at-pulse 2s var(--ease) infinite;
+}
+
+.at-event span {
+  left: 14px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: var(--page);
+  box-shadow: var(--shadow);
+  text-shadow: none;
+  font-size: 13px;
+}
+
+@keyframes at-pulse {
+  0% {
+    transform: scale(0.4);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .at-event i::after {
+    animation: none;
+  }
+}
+
+/* ---------- hover tip ---------- */
+.at-tip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 3;
+  max-width: 260px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background: var(--fg);
+  color: var(--page);
+  font: 600 12px/1.35 var(--ui);
+  pointer-events: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.at-tip[hidden] {
+  display: none;
+}
+
+/* ---------- controls ---------- */
+.at-controls {
+  position: absolute;
+  top: var(--gap);
+  right: var(--inset-r);
+  display: grid;
+  gap: 6px;
+  z-index: 2;
+}
+
+.at-controls button,
+.at-mode {
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--page) 88%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 2px color-mix(in srgb, var(--fg) 6%, transparent);
+}
+
+.at-controls button {
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  color: var(--fg);
+  font: 500 18px/1 var(--ui);
+  cursor: pointer;
+}
+
+.at-controls button:hover {
+  border-color: color-mix(in srgb, var(--idea) 50%, var(--line));
+}
+
+.at-mode {
+  position: absolute;
+  left: var(--gap);
+  top: calc(var(--gap) + 54px);
+  z-index: 2;
+  display: flex;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 12px;
+}
+
+.at-mode button {
+  height: 28px;
+  padding: 0 11px;
+  border: 0;
+  border-radius: 9px;
+  background: none;
+  color: var(--muted);
+  font: 600 12px/1 var(--ui);
+  cursor: pointer;
+}
+
+.at-mode button.on {
+  background: var(--soft);
+  color: var(--fg);
+}
+
+.at-legend {
+  position: absolute;
+  left: var(--gap);
+  top: calc(var(--gap) + 96px);
+  z-index: 2;
+  margin: 0;
+  padding: 8px 12px;
+  list-style: none;
+  display: grid;
+  gap: 4px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--page) 90%, transparent);
+  font-size: 11.5px;
+  font-weight: 600;
+}
+
+.at-legend li {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.at-legend i {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+
+.at-note {
+  position: absolute;
+  right: var(--inset-r);
+  bottom: 22px;
+  margin: 0;
+  font-size: 11px;
+  color: var(--muted);
+  z-index: 2;
+}
+
+.at-note a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.view-story .at-note {
+  bottom: 54px;
+}
+
+.view-explore .at-note,
+.view-entity .at-note {
+  bottom: calc(var(--inset-b) + 6px);
+}
+
+@media (max-width: 880px) {
+  .at-controls {
+    right: var(--gap);
+    top: var(--gap);
+  }
+
+  .at-controls button {
+    width: 34px;
+    height: 34px;
+  }
+
+  .at-mode {
+    top: auto;
+    bottom: 34px;
+  }
+
+  /* The river fills the bottom of the map in these views, so the toggle moves under the tabs. */
+  .view-explore .at-mode,
+  .view-entity .at-mode {
+    top: calc(var(--gap) + 46px);
+    bottom: auto;
+  }
+
+  .at-legend {
+    top: var(--gap);
+    left: auto;
+    right: 56px;
+    padding: 6px 10px;
+  }
+
+  .at-note {
+    right: var(--gap);
+    bottom: 26px;
+  }
+
+  .view-story .at-note,
+  .view-explore .at-note,
+  .view-entity .at-note {
+    display: none;
+  }
+}

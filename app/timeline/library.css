@@ -1,0 +1,777 @@
+/* Library, Empires lanes, entity cards, the quiz, and the linked chips shared by every panel. */
+
+/* ---------- linked chips ---------- */
+a.chip {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.chip.person {
+  border-color: color-mix(in srgb, var(--idea) 35%, var(--line));
+}
+
+.chip.polity,
+.chip.world {
+  border-color: color-mix(in srgb, var(--good) 40%, var(--line));
+}
+
+.chip.place {
+  border-style: dashed;
+}
+
+.chip.nation {
+  border-color: color-mix(in srgb, var(--old) 45%, var(--line));
+}
+
+.chip.moment,
+.chip.event {
+  border-color: color-mix(in srgb, var(--fg) 25%, var(--line));
+}
+
+.chip.plain {
+  cursor: default;
+  border-color: transparent;
+  background: none;
+  color: var(--muted);
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.chip.plain:hover {
+  background: none;
+}
+
+.sp-who {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.sp-place {
+  color: inherit;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
+
+.sp-place:hover {
+  color: var(--idea);
+}
+
+.sp-tie {
+  margin: 14px 0 0;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: var(--ideaBg);
+  font-size: 14.5px;
+  line-height: 1.55;
+}
+
+.sp-tie b {
+  display: block;
+  margin-bottom: 2px;
+  font-size: 11.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--idea);
+}
+
+.sp-elsewhere {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* How sure the date is. */
+.ep-cert {
+  display: inline-block;
+  margin: 0 0 6px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  background: var(--soft);
+  color: var(--muted);
+}
+
+.ep-cert.c-traditional {
+  background: var(--rewardBg);
+  color: var(--reward);
+}
+
+.ep-cert.c-unknown {
+  background: var(--ideaBg);
+  color: var(--idea);
+}
+
+.ep-note {
+  margin: 18px 0 0;
+  padding: 12px 14px;
+  border-left: 3px solid var(--reward);
+  border-radius: 0 12px 12px 0;
+  background: var(--rewardBg);
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
+.ep-note b {
+  margin-right: 4px;
+}
+
+/* ---------- entity card ---------- */
+.ep-head {
+  align-items: center;
+}
+
+.ep-trail {
+  display: flex;
+  gap: 4px;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.ep-trail button {
+  flex: none;
+  max-width: 150px;
+  padding: 3px 9px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--muted);
+  font: 600 11.5px/1.3 var(--ui);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.ep-trail button + button::before {
+  content: "› ";
+}
+
+.ep-trail button[aria-current] {
+  background: var(--fg);
+  border-color: var(--fg);
+  color: var(--page);
+}
+
+.ep-close {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  border: 0;
+  border-radius: 50%;
+  background: var(--soft);
+  color: var(--fg);
+  font: 500 18px/1 var(--ui);
+  cursor: pointer;
+}
+
+.ep-body {
+  overflow-y: auto;
+}
+
+.ep-kind {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  margin: 0 0 6px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.ep-kind b {
+  color: var(--idea);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 11.5px;
+}
+
+.ep-name {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 4px 14px;
+}
+
+.ep-ar {
+  font-family: var(--arabic);
+  font-size: 0.95em;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.ep-when {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+  margin: 6px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.ep-when time {
+  font-weight: 600;
+  color: var(--fg);
+}
+
+.ep-when .ep-cert {
+  margin: 0;
+}
+
+.ep-line {
+  margin: 14px 0 0;
+  font-family: var(--display);
+  font-size: 19px;
+  line-height: 1.45;
+}
+
+.ep-map {
+  margin-top: 14px;
+  min-height: 40px;
+  font-size: 14px;
+}
+
+.ep-q {
+  margin-top: 22px;
+}
+
+.ep-q h3 {
+  margin: 0 0 8px;
+  font: 600 12px/1.3 var(--ui);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.ep-q p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.ep-tie p,
+.ep-lesson p {
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: var(--ideaBg);
+}
+
+.ep-lesson p {
+  background: var(--soft);
+  font-family: var(--display);
+  font-size: 16.5px;
+}
+
+.ep-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+}
+
+.ep-moments {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 2px;
+}
+
+.ep-moments a {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 10px;
+  padding: 7px 8px;
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.ep-moments a:hover {
+  background: var(--soft);
+}
+
+.ep-moments time {
+  color: var(--muted);
+  font-size: 12.5px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- library (stage) ---------- */
+.lib,
+.ln {
+  position: absolute;
+  inset: 0;
+  right: calc(var(--inset-r) - var(--gap));
+  padding: 72px var(--gap) var(--gap);
+  overflow: auto;
+  background: var(--bg);
+  animation: sp-in 0.4s var(--ease);
+}
+
+.lib-top {
+  display: grid;
+  gap: 12px;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.lib-search input {
+  width: 100%;
+  height: 48px;
+  padding: 0 18px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--page);
+  color: var(--fg);
+  font: 500 16px/1 var(--ui);
+}
+
+.lib-search input:focus {
+  outline: none;
+  border-color: var(--idea);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--idea) 14%, transparent);
+}
+
+.lib-shelves {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-bottom: 2px;
+}
+
+.lib-shelves button {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 34px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--page);
+  color: var(--fg);
+  font: 600 13px/1 var(--ui);
+  cursor: pointer;
+}
+
+.lib-shelves button small {
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.lib-shelves button.on {
+  background: var(--fg);
+  border-color: var(--fg);
+  color: var(--page);
+}
+
+.lib-shelves button.on small {
+  color: color-mix(in srgb, var(--page) 70%, transparent);
+}
+
+.lib-blurb {
+  max-width: 980px;
+  margin: 16px auto 12px;
+  font-family: var(--display);
+  font-size: 17px;
+  color: var(--muted);
+}
+
+.lib-grid {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 10px;
+}
+
+.lib-card {
+  display: grid;
+  gap: 4px;
+  height: 100%;
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: var(--page);
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.2s, transform 0.15s var(--ease), box-shadow 0.2s;
+}
+
+.lib-card:hover {
+  border-color: color-mix(in srgb, var(--idea) 45%, var(--line));
+  box-shadow: var(--shadow);
+}
+
+.lib-card:active {
+  transform: scale(0.98);
+}
+
+.lib-card.on {
+  border-color: var(--fg);
+  box-shadow: 0 0 0 1px var(--fg);
+}
+
+.lib-card b {
+  font: 600 15.5px/1.3 var(--ui);
+}
+
+.lib-card span {
+  font-size: 12.5px;
+  line-height: 1.4;
+  color: var(--muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.lh-title {
+  font-size: 30px;
+}
+
+/* ---------- empires lanes (stage) ---------- */
+.ln-eras {
+  max-width: none;
+}
+
+.ln-scroll {
+  margin-top: 16px;
+  overflow-x: auto;
+}
+
+.ln-body {
+  position: relative;
+  min-width: 760px;
+  padding: 26px 0 8px;
+}
+
+.ln-body.is-all {
+  min-width: 1100px;
+}
+
+.ln-ticks {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 100%;
+  pointer-events: none;
+}
+
+.ln-ticks span {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding-left: 4px;
+  border-left: 1px dashed color-mix(in srgb, var(--fg) 12%, transparent);
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.ln-lane {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.ln-lane h3 {
+  position: sticky;
+  left: 0;
+  display: inline-block;
+  margin: 0 0 4px;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: var(--bg);
+  font: 600 11px/1.3 var(--ui);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.ln-row {
+  position: relative;
+  height: 24px;
+  margin-bottom: 3px;
+}
+
+.ln-bar {
+  position: absolute;
+  top: 0;
+  height: 22px;
+  min-width: 8px;
+  padding: 0 6px;
+  border: 0;
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--fg) 14%, var(--page));
+  color: var(--fg);
+  font: 600 11.5px/22px var(--ui);
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  transition: filter 0.15s, box-shadow 0.15s;
+}
+
+.ln-bar:hover {
+  filter: brightness(0.94);
+  z-index: 2;
+  overflow: visible;
+}
+
+.ln-bar.on {
+  box-shadow: 0 0 0 2px var(--fg);
+  z-index: 2;
+}
+
+.ln-bar span {
+  pointer-events: none;
+}
+
+/* Single dates (prophets without a span, villains) are dots with a label to the right. */
+.ln-bar.dot {
+  width: auto;
+  padding: 0 6px 0 16px;
+  background: none;
+  overflow: visible;
+  transform: translateX(-6px);
+}
+
+.ln-bar.dot::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--fg);
+}
+
+.ln-bar.t-prophet {
+  background: color-mix(in srgb, var(--reward) 28%, var(--page));
+}
+.ln-bar.t-prophet.dot::before {
+  background: var(--reward);
+}
+.ln-bar.t-villain.dot::before {
+  border-radius: 3px;
+  background: var(--trap);
+}
+.ln-bar.t-c0 {
+  background: color-mix(in srgb, var(--c0) 30%, var(--page));
+}
+.ln-bar.t-c1 {
+  background: color-mix(in srgb, var(--c1) 30%, var(--page));
+}
+.ln-bar.t-c2 {
+  background: color-mix(in srgb, var(--c2) 32%, var(--page));
+}
+.ln-bar.t-c3 {
+  background: color-mix(in srgb, var(--c3) 26%, var(--page));
+}
+.ln-bar.t-c4 {
+  background: color-mix(in srgb, var(--c4) 32%, var(--page));
+}
+.ln-bar.t-c5 {
+  background: color-mix(in srgb, var(--c5) 30%, var(--page));
+}
+.ln-bar.t-world {
+  background: color-mix(in srgb, var(--good) 16%, var(--page));
+}
+.ln-bar.t-ruler {
+  background: color-mix(in srgb, var(--idea) 16%, var(--page));
+}
+.ln-bar.t-scholar {
+  background: color-mix(in srgb, var(--new) 16%, var(--page));
+}
+.ln-bar.t-person {
+  background: color-mix(in srgb, var(--old) 18%, var(--page));
+}
+
+.ln-cursor {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  border-left: 1px solid var(--trap);
+  pointer-events: none;
+  z-index: 3;
+}
+
+.ln-cursor span {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  padding: 1px 6px;
+  border-radius: 6px;
+  background: var(--trap);
+  color: #fff;
+  font: 600 10.5px/1.5 var(--ui);
+  white-space: nowrap;
+}
+
+/* ---------- quiz ---------- */
+.qz-body {
+  overflow-y: auto;
+}
+
+.qz-ask {
+  margin: 0 0 14px;
+  font-family: var(--display);
+  font-size: 20px;
+}
+
+.qz-pair {
+  display: grid;
+  gap: 10px;
+}
+
+.qz-opt {
+  display: grid;
+  gap: 4px;
+  padding: 16px 18px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: var(--page);
+  color: var(--fg);
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  transition: border-color 0.2s, background-color 0.2s, transform 0.15s var(--ease);
+}
+
+.qz-opt:active {
+  transform: scale(0.98);
+}
+
+.qz-opt b {
+  font: 600 16px/1.3 var(--ui);
+}
+
+.qz-opt span {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.qz-opt time {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.qz-opt.right {
+  border-color: #1f9d55;
+  background: color-mix(in srgb, #1f9d55 10%, var(--page));
+}
+
+.qz-opt.wrong {
+  border-color: var(--trap);
+  background: var(--trapBg);
+}
+
+.qz-opt:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.qz-after {
+  margin-top: 16px;
+  display: grid;
+  gap: 12px;
+}
+
+.qz-after p {
+  margin: 0;
+  font-size: 15px;
+}
+
+.qz-end {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.qz-score {
+  margin: 0;
+  font: 500 64px/1 var(--display);
+}
+
+.qz-score small {
+  font-size: 24px;
+  color: var(--muted);
+}
+
+/* ---------- explore: tapped land ---------- */
+.xp-here {
+  margin: 18px 0 0;
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: var(--soft);
+}
+
+.xp-here header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+.xp-here .xp-h {
+  margin: 0;
+}
+
+.xp-here p {
+  margin: 8px 0 0;
+}
+
+.xp-here h4 {
+  margin: 14px 0 6px;
+  font: 600 11.5px/1.3 var(--ui);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.xp-lines dd {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+@media (max-width: 880px) {
+  .view-library .tl-stage,
+  .view-empires .tl-stage {
+    flex-basis: 56%;
+  }
+
+  .view-explore .tl-stage,
+  .view-entity .tl-stage {
+    flex-basis: 52%;
+  }
+
+  .lib,
+  .ln {
+    right: 0;
+    padding: 60px var(--gap) 28px;
+  }
+
+  .lib-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 8px;
+  }
+
+  .lib-card {
+    padding: 12px 13px;
+  }
+
+  .ep-moments a {
+    grid-template-columns: 80px 1fr;
+  }
+}

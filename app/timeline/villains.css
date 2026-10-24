@@ -96,6 +96,14 @@
   --sky: linear-gradient(120deg, #141214, #3a2c2a 60%, #7a4a3a);
 }
 
+.age-israil h3 {
+  --sky: linear-gradient(120deg, #10140f, #2f3d2a 60%, #9a8a5a);
+}
+
+.age-crusades h3 {
+  --sky: linear-gradient(120deg, #150a0a, #4a1e1a 60%, #a4553a);
+}
+
 .age-end h3 {
   --sky: radial-gradient(1px 1px at 20% 30%, #fff, transparent), radial-gradient(1px 1px at 60% 20%, #dfe6ff, transparent),
     radial-gradient(1px 1px at 80% 60%, #fff3d6, transparent), radial-gradient(1px 1px at 40% 70%, #fff, transparent),

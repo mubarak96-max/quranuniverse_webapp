@@ -7,10 +7,11 @@ export function TimelineIndex({ data, current }: { data: TimelineData; current?:
     <section className="tl-index" aria-labelledby="tl-index-h">
       <h2 id="tl-index-h">Every moment in the timeline</h2>
       <p className="tl-index-note">
-        Borders come from the open historical-basemaps project (GPL-3.0) and are approximate. Dates before 1000 BCE are
-        estimates, and for the earliest prophets the Quran gives the order of events but not their years. Sources: the Quran,
-        Sahih al-Bukhari, the Seerah of Ibn Ishaq, Ibn Kathir&apos;s al-Bidaya wan-Nihaya, and standard histories. See also the{" "}
-        <Link href="/timeline/villains">villains of Islamic history</Link>, from Iblis to the Dajjal.
+        Borders come from Cliopatria, the open map of the Seshat Global History Databank (CC BY 4.0), and are approximate. Dates
+        before 1000 BCE are estimates, and for the earliest prophets the Quran gives the order of events but not their years.
+        Sources: the Quran, Sahih al-Bukhari and Muslim, the Seerah of Ibn Ishaq, Ibn Kathir&apos;s al-Bidaya wan-Nihaya, and
+        standard histories. See also the <Link href="/timeline/villains">villains of Islamic history</Link>, from Iblis to the
+        Dajjal, and the <Link href="/timeline/library">library</Link> of people, nations, empires and places.
       </p>
       <div className="tl-index-cols">
         {data.chapters.map((c) => (

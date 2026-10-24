@@ -16,12 +16,26 @@
       "kind": "battle"
     },
     {
+      "id": "abbasid-rule",
+      "title": "Al-Mansur secures the Abbasids",
+      "year": { "ce": 754, "to": 775, "ah": 136, "precision": "exact" },
+      "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
+      "who": ["Al-Mansur", "Abu Muslim"],
+      "what": "Al-Mansur succeeds his brother al-Saffah, puts down rivals and has the powerful general Abu Muslim killed. The centre of the caliphate moves from Syria to Iraq.",
+      "tie": "Ruling from Iraq, the Abbasids drew Persian learning and Persian converts into the heart of the Muslim world.",
+      "note": "In 750 most of the Umayyad family were massacred at Abu Futrus; Abd al-Rahman escaped to Spain.",
+      "links": { "polities": ["abbasid"], "events": ["abbasids", "cordoba-emirate", "baghdad"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "cordoba-emirate",
       "title": "Cordoba",
       "year": { "ce": 756, "ah": 138, "precision": "exact" },
       "place": { "name": "Cordoba, Spain", "lat": 37.88, "lng": -4.78 },
       "who": ["Abd al-Rahman I"],
       "what": "The Umayyad prince who escaped the Abbasids founds an independent state in Cordoba. Its great mosque rises in 785.",
+      "tie": "From Cordoba, Islam was taught and prayed in Spain for over seven centuries, and its Great Mosque became a school of Maliki law.",
       "routes": [
         {
           "points": [
@@ -44,6 +58,7 @@
       "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
       "who": ["Al-Mansur"],
       "what": "Caliph al-Mansur founds Baghdad as a round city on the Tigris. Within fifty years it is the largest city on earth.",
+      "tie": "Baghdad became a home of hadith, law and science; Imam Abu Hanifa is buried there and Imam Ahmad ibn Hanbal taught there.",
       "source": "History",
       "kind": "empire"
     },
@@ -64,8 +79,22 @@
       "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
       "who": ["Harun al-Rashid"],
       "what": "Harun al-Rashid becomes caliph. The Baghdad of the Thousand and One Nights is at its peak.",
+      "tie": "In Harun's Baghdad, Abu Yusuf, the student of Abu Hanifa, served as chief judge and wrote his book on taxation for the caliph.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "paper-mill",
+      "title": "Baghdad's paper mill",
+      "year": { "ce": 794, "ah": 178, "precision": "approx" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Harun al-Rashid"],
+      "what": "Baghdad's first paper mill opens under Harun al-Rashid. Cheap paper replaces papyrus and parchment, and bookshops fill a whole street.",
+      "tie": "Copies of the Quran, once costly treasures written on skin, became affordable for ordinary families.",
+      "note": "Paper-making came from China by way of Samarkand.",
+      "links": { "polities": ["abbasid"], "events": ["talas"] },
+      "source": "History",
+      "kind": "knowledge"
     },
     {
       "id": "charlemagne",
@@ -74,6 +103,7 @@
       "place": { "name": "Aachen, Germany", "lat": 50.78, "lng": 6.08 },
       "who": ["Charlemagne", "Harun al-Rashid"],
       "what": "Charlemagne is crowned emperor in the west. He exchanges gifts with Harun al-Rashid, including an elephant.",
+      "tie": "Harun's envoys brought an elephant named Abul-Abbas and later a water clock, showing Europe the wealth and learning of the Muslim world.",
       "source": "History",
       "kind": "world"
     },
@@ -93,6 +123,38 @@
       "kind": "event"
     },
     {
+      "id": "algebra",
+      "title": "The book of al-jabr",
+      "year": { "ce": 820, "ah": 205, "precision": "approx" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Al-Khwarizmi", "Al-Mamun"],
+      "what": "Al-Khwarizmi writes his book on al-jabr, 'completion and balancing', which gives algebra its name. Much of it works out the inheritance shares set by the Quran.",
+      "verses": ["4:11-12"],
+      "note": "His own name, Latinised, gave Europe the word 'algorithm'.",
+      "links": { "events": ["house-of-wisdom"] },
+      "wiki": "The Compendious Book on Calculation by Completion and Balancing",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "sicily-827",
+      "title": "Muslims land in Sicily",
+      "year": { "ce": 827, "ah": 212, "precision": "exact" },
+      "place": { "name": "Mazara, Sicily", "lat": 37.65, "lng": 12.59 },
+      "who": ["Asad ibn al-Furat"],
+      "what": "The Aghlabids of Kairouan land in Sicily under the judge and scholar Asad ibn al-Furat. Palermo falls in 831 and is a Muslim city for two centuries.",
+      "routes": [
+        {
+          "points": [[35.68, 10.1, "Kairouan"], [35.83, 10.64, "Sousse"], [37.65, 12.59, "Mazara"], [38.12, 13.36, "Palermo"]]
+        }
+      ],
+      "tie": "Asad had studied with Imam Malik in Madinah, so the law of Madinah crossed with him into Europe.",
+      "note": "Asad died in 828 during the siege of Syracuse.",
+      "links": { "polities": ["aghlabid"], "events": ["kairouan"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "house-of-wisdom",
       "title": "The House of Wisdom",
       "year": { "ce": 830, "ah": 215, "precision": "approx" },
@@ -101,6 +163,32 @@
       "what": "Al-Mamun's House of Wisdom translates Greek, Persian and Indian science. Al-Khwarizmi writes the book that names algebra.",
       "source": "History",
       "kind": "knowledge"
+    },
+    {
+      "id": "mihna",
+      "title": "The Mihna",
+      "year": { "ce": 833, "to": 848, "ah": 218, "precision": "approx" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "who": ["Al-Mamun", "Ahmad ibn Hanbal"],
+      "what": "Al-Mamun orders judges and scholars to declare the Quran created. Ahmad ibn Hanbal refuses, is chained, jailed and flogged, and becomes a hero of the people.",
+      "note": "The test went on under al-Mutasim and al-Wathiq and was ended by al-Mutawakkil around 848 to 851.",
+      "links": { "polities": ["abbasid"] },
+      "wiki": "Mihna",
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "samarra",
+      "title": "Samarra",
+      "year": { "ce": 836, "ah": 221, "precision": "exact" },
+      "place": { "name": "Samarra, Iraq", "lat": 34.2, "lng": 43.87 },
+      "who": ["Al-Mutasim", "Al-Mutawakkil"],
+      "what": "Caliph al-Mutasim builds a new capital at Samarra for his Turkish slave guard. Al-Mutawakkil later raises its Great Mosque with a spiral minaret.",
+      "tie": "Caliphs came to depend on slave soldiers, the road that later led to the Mamluks who stopped the Mongols.",
+      "links": { "polities": ["abbasid", "mamluk"], "events": ["ain-jalut"] },
+      "wiki": "Samarra",
+      "source": "History",
+      "kind": "empire"
     },
     {
       "id": "bukhari",
@@ -113,11 +201,50 @@
       "kind": "knowledge"
     },
     {
+      "id": "qarawiyyin",
+      "title": "Fatima al-Fihri's mosque",
+      "year": { "ce": 859, "ah": 245, "precision": "exact" },
+      "place": { "name": "Fez, Morocco", "lat": 34.06, "lng": -4.97 },
+      "who": ["Fatima al-Fihri"],
+      "what": "Fatima al-Fihri, a merchant's daughter from Kairouan, spends her inheritance on a mosque in Fez. Al-Qarawiyyin grows into a university that still teaches.",
+      "note": "Her story is told by later chroniclers such as Ibn Abi Zar, and some details are debated.",
+      "links": { "polities": ["idrisid"] },
+      "wiki": "University of al-Qarawiyyin",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "zanj",
+      "title": "The Zanj revolt",
+      "year": { "ce": 869, "to": 883, "ah": 255, "precision": "exact" },
+      "place": { "name": "Basra, Iraq", "lat": 30.5, "lng": 47.81 },
+      "what": "Enslaved East Africans forced to scrape the salt marshes of southern Iraq rise up. For fourteen years they hold the marshes, and they sack Basra.",
+      "note": "Their leader, Ali ibn Muhammad, claimed descent from Ali; historians doubt it.",
+      "links": { "polities": ["abbasid"] },
+      "wiki": "Zanj Rebellion",
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "ibn-tulun-mosque",
+      "title": "The Mosque of Ibn Tulun",
+      "year": { "ce": 876, "to": 879, "ah": 263, "precision": "exact" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.03, "lng": 31.25 },
+      "who": ["Ahmad ibn Tulun"],
+      "what": "Ahmad ibn Tulun, Egypt's governor, builds a vast mosque with a spiral minaret like Samarra's. It is the oldest mosque in Cairo still in its first form.",
+      "tie": "Egypt now ran its own affairs while praying for the caliph, the first of many such dynasties along the Nile.",
+      "links": { "polities": ["abbasid"], "events": ["samarra"] },
+      "wiki": "Mosque of Ibn Tulun",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "fatimids",
       "title": "The Fatimids",
       "year": { "ce": 909, "ah": 297, "precision": "exact" },
       "place": { "name": "Mahdia, Tunisia", "lat": 35.5, "lng": 11.06 },
       "what": "The Shia Fatimids declare a rival caliphate in North Africa. In 969 they take Egypt and found Cairo.",
+      "tie": "The Fatimids built al-Azhar in Cairo; after Salah al-Din restored Abbasid allegiance in 1171, it grew into the Muslim world's most famous university.",
       "source": "History",
       "kind": "empire"
     },
@@ -139,8 +266,46 @@
       "place": { "name": "Cordoba, Spain", "lat": 37.88, "lng": -4.78 },
       "who": ["Abd al-Rahman III"],
       "what": "Abd al-Rahman III declares himself caliph. Cordoba has paved streets, street lights and a library of 400,000 books.",
+      "tie": "The Quran's first command was 'Recite' (96:1), and under the caliphs Cordoba's libraries made it one of the great book cities of Islam.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "qarmatians-black-stone",
+      "title": "The Black Stone is stolen",
+      "year": { "ce": 930, "ah": 317, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Abu Tahir al-Jannabi"],
+      "what": "The Qarmatians storm Makkah during Hajj, kill pilgrims, throw bodies into Zamzam and carry the Black Stone off to eastern Arabia. It is returned in 951.",
+      "camera": { "zoom": 7 },
+      "note": "The stone came back after some 22 years (339 AH).",
+      "links": { "villains": ["abu-tahir"], "events": ["black-stone"] },
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "buyids",
+      "title": "The Buyids take Baghdad",
+      "year": { "ce": 945, "ah": 334, "precision": "exact" },
+      "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
+      "what": "The Buyids, soldiers from the hills south of the Caspian, take Baghdad. The Abbasid caliph keeps his title but loses his power.",
+      "tie": "For a century the caliph's name was still said in the Friday sermon while other men ruled.",
+      "links": { "polities": ["buyid", "abbasid"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "song-dynasty",
+      "title": "Song China",
+      "year": { "ce": 960, "to": 1279, "precision": "exact" },
+      "place": { "name": "Kaifeng, China", "lat": 34.8, "lng": 114.3 },
+      "what": "The Song dynasty reunites China. Its ports fill with Arab and Persian merchants, who live in their own quarters with mosques and judges.",
+      "tie": "Quanzhou's Qingjing Mosque, by its Arabic inscription founded in 1009, still stands from this trade.",
+      "note": "Some historians date the Qingjing building later than its inscription.",
+      "links": { "polities": ["song"] },
+      "wiki": "Song dynasty",
+      "source": "History",
+      "kind": "world"
     },
     {
       "id": "al-azhar",
@@ -158,8 +323,22 @@
       "place": { "name": "Ghazni, Afghanistan", "lat": 33.55, "lng": 68.42 },
       "who": ["Mahmud of Ghazna"],
       "what": "Mahmud of Ghazna begins his campaigns into northern India. Lahore becomes a Muslim city.",
+      "tie": "Under Ghaznavid rule the scholar al-Hujwiri, remembered as Data Ganj Bakhsh, settled in Lahore, and Islam spread through Punjab.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "ibn-al-haytham-optics",
+      "title": "The Book of Optics",
+      "year": { "ce": 1015, "ah": 405, "precision": "approx" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
+      "who": ["Ibn al-Haytham"],
+      "what": "Kept under house arrest in Cairo, Ibn al-Haytham writes the Book of Optics. He shows that light enters the eye and tests every claim by experiment.",
+      "note": "The story that he feigned madness to escape a task set by Caliph al-Hakim comes from later biographers. The book was written over roughly 1011 to 1021.",
+      "links": { "polities": ["fatimid"], "events": ["ibn-sina"] },
+      "wiki": "Book of Optics",
+      "source": "History",
+      "kind": "knowledge"
     },
     {
       "id": "ibn-sina",
@@ -172,12 +351,51 @@
       "kind": "knowledge"
     },
     {
+      "id": "biruni-india",
+      "title": "Al-Biruni's India",
+      "year": { "ce": 1030, "ah": 421, "precision": "approx" },
+      "place": { "name": "Ghazni, Afghanistan", "lat": 33.55, "lng": 68.42 },
+      "who": ["Al-Biruni", "Mahmud of Ghazna"],
+      "what": "Al-Biruni, who travelled with Mahmud's armies, learns Sanskrit and writes a careful, fair study of India's religion, science and customs.",
+      "verses": ["49:13"],
+      "tie": "It is one of the first works of comparative religion, in the spirit of 49:13: peoples made to know one another.",
+      "links": { "polities": ["ghaznavid"], "events": ["ghazna"] },
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "great-schism",
+      "title": "The Great Schism",
+      "year": { "ce": 1054, "precision": "exact" },
+      "place": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
+      "what": "The churches of Rome and Constantinople excommunicate each other. Christianity splits into a Catholic West and an Orthodox East.",
+      "verses": ["3:105"],
+      "tie": "The Quran warns against splitting after clear proofs (3:105); the divided Christian world met the Seljuks seventeen years later at Manzikert.",
+      "links": { "polities": ["byzantium"], "events": ["manzikert"] },
+      "wiki": "East–West Schism",
+      "source": "History",
+      "kind": "world"
+    },
+    {
       "id": "seljuks",
       "title": "The Seljuk Turks",
       "year": { "ce": 1055, "ah": 447, "precision": "exact" },
       "place": { "name": "Baghdad, Iraq", "lat": 33.34, "lng": 44.4 },
       "who": ["Tughril Beg"],
       "what": "The Seljuk Turks enter Baghdad as protectors of the caliph. Turkish dynasties will dominate the Muslim world for 900 years.",
+      "tie": "The Seljuks built Nizamiyya madrasas across Iraq and Persia, where scholars like Imam al-Ghazali taught Sunni law and theology.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "normans-sicily",
+      "title": "The Normans take Sicily",
+      "year": { "ce": 1061, "to": 1091, "ah": 453, "precision": "exact" },
+      "place": { "name": "Palermo, Sicily", "lat": 38.12, "lng": 13.36 },
+      "who": ["Roger I"],
+      "what": "Norman knights under Roger I conquer Muslim Sicily, taking Palermo in 1072. Arab scholars, poets and craftsmen stay on at the Norman court.",
+      "tie": "Through Sicily and Spain, Arabic science and books poured into Christian Europe.",
+      "links": { "events": ["sicily-827", "idrisi"] },
       "source": "History",
       "kind": "empire"
     },
@@ -198,6 +416,62 @@
       "place": { "name": "Manzikert, Turkey", "lat": 39.15, "lng": 42.54 },
       "who": ["Alp Arslan"],
       "what": "Alp Arslan captures the Byzantine emperor at Manzikert. Anatolia opens to the Turks and becomes Turkey.",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "ghana-almoravids",
+      "title": "Ghana and the Almoravids",
+      "year": { "ce": 1076, "ah": 469, "precision": "traditional" },
+      "place": { "name": "Koumbi Saleh, Mauritania", "lat": 15.67, "lng": -7.99 },
+      "what": "The Almoravids are said to take Koumbi Saleh, capital of Ghana. In 1068 al-Bakri had already described its Muslim town with twelve mosques.",
+      "tie": "Gold caravans carried Islam across the Sahara, preparing the way for Mali.",
+      "note": "Arab sources speak of a conquest; many historians now think Islam spread in Ghana mostly through trade and alliance.",
+      "links": { "polities": ["ghana", "almoravid-almohad"], "events": ["sundiata"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "toledo-1085",
+      "title": "Toledo falls",
+      "year": { "ce": 1085, "ah": 478, "precision": "exact" },
+      "place": { "name": "Toledo, Spain", "lat": 39.86, "lng": -4.02 },
+      "who": ["Alfonso VI"],
+      "what": "Alfonso VI of Castile takes Toledo from its quarrelling Muslim king. Its libraries make it Europe's centre for turning Arabic books into Latin.",
+      "verses": ["8:46"],
+      "tie": "The feuding taifa kings lost Toledo, as the Quran warns: do not dispute, or you will lose courage and your strength will depart (8:46).",
+      "links": { "polities": ["spain"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "kanem",
+      "title": "Kanem accepts Islam",
+      "year": { "ce": 1085, "precision": "approx" },
+      "place": { "name": "Kanem, near Lake Chad", "lat": 14.12, "lng": 15.31 },
+      "who": ["Hummay"],
+      "what": "Hummay, king of Kanem near Lake Chad, accepts Islam. Kanem, and later Bornu, remains a Muslim kingdom for some eight centuries.",
+      "tie": "Islam reached Lake Chad by caravan and scholar, not by conquest.",
+      "note": "The date comes from the royal chronicle (the Girgam). Some sources say an earlier king was Muslim.",
+      "links": { "polities": ["kanem-bornu"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "sagrajas",
+      "title": "Sagrajas",
+      "year": { "ce": 1086, "ah": 479, "precision": "exact" },
+      "place": { "name": "Sagrajas, near Badajoz, Spain", "lat": 38.89, "lng": -6.92 },
+      "who": ["Yusuf ibn Tashfin", "Alfonso VI"],
+      "what": "Called in by the taifa kings, Yusuf ibn Tashfin crosses from Morocco and crushes Alfonso VI at Sagrajas, al-Zallaqa. Al-Andalus is saved for four more centuries.",
+      "routes": [
+        {
+          "points": [[31.63, -8.0, "Marrakesh"], [35.9, -5.3, "Ceuta"], [36.13, -5.45, "Algeciras"], [37.39, -5.98, "Seville"], [38.89, -6.92, "Sagrajas"]]
+        }
+      ],
+      "note": "Al-Mutamid of Seville is reported to have said he would rather herd camels in Africa than pigs in Castile.",
+      "links": { "polities": ["almoravid-almohad", "spain"], "events": ["toledo-1085"] },
+      "wiki": "Battle of Sagrajas",
       "source": "History",
       "kind": "battle"
     },
@@ -226,6 +500,7 @@
       "year": { "ce": 1100, "precision": "approx" },
       "place": { "name": "Kilwa, Tanzania", "lat": -8.96, "lng": 39.51 },
       "what": "Muslim towns of stone line the East African coast from Mogadishu to Kilwa, trading gold and ivory across the ocean.",
+      "tie": "Islam came to East Africa by sea with merchants, and Kiswahili is full of Arabic words, like 'kitabu' for book.",
       "source": "History",
       "kind": "world"
     },
@@ -238,6 +513,32 @@
       "what": "Al-Ghazali dies. His Revival of the Religious Sciences joins law, theology and the inner life into one path.",
       "source": "History",
       "kind": "knowledge"
+    },
+    {
+      "id": "angkor-wat",
+      "title": "Angkor Wat",
+      "year": { "ce": 1113, "to": 1150, "precision": "approx" },
+      "place": { "name": "Angkor, Cambodia", "lat": 13.41, "lng": 103.87 },
+      "what": "King Suryavarman II builds Angkor Wat, the largest religious monument on earth, as a temple-mountain for the Hindu god Vishnu.",
+      "tie": "The neighbouring Cham people later embraced Islam, and their descendants are Cambodia's Muslims today.",
+      "links": { "polities": ["khmer"] },
+      "wiki": "Angkor Wat",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "nur-al-din",
+      "title": "Nur al-Din",
+      "year": { "ce": 1146, "to": 1174, "ah": 541, "precision": "exact" },
+      "place": { "name": "Aleppo, Syria", "lat": 36.2, "lng": 37.16 },
+      "who": ["Nur al-Din"],
+      "what": "Nur al-Din unites Muslim Syria against the Crusaders, builds schools and hospitals, and orders a carved minbar for al-Aqsa that he will never see in place.",
+      "tie": "His minbar stood in al-Aqsa for 782 years, until an arsonist burned it in 1969.",
+      "note": "His father Zengi took Edessa in 1144, the first Crusader state to fall.",
+      "links": { "polities": ["zengid", "crusader-states"], "events": ["jerusalem-1187"] },
+      "wiki": "Nur ad-Din (died 1174)",
+      "source": "History",
+      "kind": "empire"
     },
     {
       "id": "idrisi",
@@ -260,6 +561,32 @@
       "kind": "battle"
     },
     {
+      "id": "jerusalem-1187",
+      "title": "Jerusalem is Muslim again",
+      "year": { "ce": 1187, "ah": 583, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Salah al-Din"],
+      "what": "Salah al-Din enters Jerusalem on 27 Rajab, the night Muslims remember the Isra. Christians may leave by ransom, many poor are freed without it, and there is no massacre.",
+      "verses": ["17:1"],
+      "tie": "Al-Aqsa, the end of the Night Journey (17:1), was in Muslim hands again after 88 years, and Nur al-Din's minbar was set inside it.",
+      "links": { "polities": ["ayyubid", "crusader-states"], "events": ["hattin", "crusaders-jerusalem", "isra-miraj"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "third-crusade",
+      "title": "Salah al-Din and Richard",
+      "year": { "ce": 1191, "to": 1192, "ah": 587, "precision": "exact" },
+      "place": { "name": "Acre, Palestine", "lat": 32.93, "lng": 35.08 },
+      "who": ["Salah al-Din", "Richard I"],
+      "what": "Richard the Lionheart takes Acre but never reaches Jerusalem. The Treaty of Jaffa leaves the city Muslim and open to Christian pilgrims.",
+      "note": "Chroniclers say Salah al-Din sent fruit and snow to Richard when he fell ill.",
+      "links": { "polities": ["ayyubid", "crusader-states"], "events": ["jerusalem-1187"] },
+      "wiki": "Third Crusade",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
       "id": "ibn-rushd",
       "title": "Ibn Rushd",
       "year": { "ce": 1198, "ah": 595, "precision": "exact" },
@@ -276,6 +603,7 @@
       "place": { "name": "Mongolia", "lat": 47.9, "lng": 106.9 },
       "who": ["Genghis Khan"],
       "what": "Genghis Khan unites the Mongols. Within twenty years his armies destroy the cities of Central Asia and Persia.",
+      "tie": "His grandson Hulagu sacked Baghdad in 1258, yet within decades many Mongol rulers had themselves become Muslims.",
       "source": "History",
       "kind": "world"
     },
@@ -286,6 +614,7 @@
       "place": { "name": "Delhi, India", "lat": 28.6, "lng": 77.2 },
       "who": ["Qutb al-Din Aibak"],
       "what": "The Delhi Sultanate begins. Muslim rule in northern India continues for six centuries.",
+      "tie": "Under the sultans, scholars and Sufi masters like Nizamuddin Auliya taught in Delhi, and Islam took root among millions in South Asia.",
       "source": "History",
       "kind": "empire"
     },
@@ -297,6 +626,30 @@
       "what": "Christian kings break the Almohad army. Cordoba falls in 1236 and Seville in 1248. Only Granada remains Muslim.",
       "source": "History",
       "kind": "battle"
+    },
+    {
+      "id": "magna-carta",
+      "title": "Magna Carta",
+      "year": { "ce": 1215, "precision": "exact" },
+      "place": { "name": "Runnymede, England", "lat": 51.44, "lng": -0.56 },
+      "what": "English barons force King John to seal Magna Carta, a charter that limits the king's power by law.",
+      "verses": ["4:58"],
+      "tie": "Muslim jurists had long taught that rulers stand under the Sharia like anyone else, commanded to judge with justice (4:58).",
+      "links": { "polities": ["britain"] },
+      "wiki": "Magna Carta",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "otrar",
+      "title": "The massacre at Otrar",
+      "year": { "ce": 1218, "ah": 615, "precision": "exact" },
+      "place": { "name": "Otrar, Kazakhstan", "lat": 42.85, "lng": 68.3 },
+      "who": ["Genghis Khan"],
+      "what": "The Khwarazm governor of Otrar kills a caravan of merchants sent by Genghis Khan, and the Shah has an envoy put to death. The Mongol storm follows.",
+      "links": { "polities": ["khwarazm", "mongols"], "events": ["khwarazm-falls"] },
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "khwarazm-falls",
@@ -316,6 +669,32 @@
           ]
         }
       ],
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "sundiata",
+      "title": "Sundiata founds Mali",
+      "year": { "ce": 1235, "precision": "approx" },
+      "place": { "name": "Niani, Guinea", "lat": 11.38, "lng": -8.38 },
+      "who": ["Sundiata Keita"],
+      "what": "Sundiata Keita defeats the Sosso king Sumanguru at Kirina and founds the empire of Mali on the upper Niger.",
+      "tie": "His heirs made Mali a Muslim empire, and Mansa Musa's Hajj in 1324 astonished Cairo.",
+      "note": "Sundiata's story comes from the oral epic of the griots. Whether he himself was Muslim is debated.",
+      "links": { "polities": ["mali"], "events": ["mansa-musa"] },
+      "wiki": "Sundiata Keita",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "mansurah-1250",
+      "title": "Mansurah and the Mamluks",
+      "year": { "ce": 1250, "ah": 648, "precision": "exact" },
+      "place": { "name": "Mansurah, Egypt", "lat": 31.04, "lng": 31.38 },
+      "who": ["Shajar al-Durr", "Louis IX", "Baybars"],
+      "what": "The crusade of Louis IX is crushed at Mansurah and the French king is captured. Shajar al-Durr steers Egypt through the crisis, and the Mamluk sultanate is born.",
+      "note": "Shajar al-Durr ruled briefly as sultan in her own name, one of very few women to do so in Islamic history.",
+      "links": { "polities": ["ayyubid", "mamluk"], "events": ["ain-jalut"] },
       "source": "History",
       "kind": "battle"
     },

@@ -22,6 +22,22 @@
       "kind": "battle"
     },
     {
+      "id": "cairo-caliphs",
+      "title": "A caliph in Cairo",
+      "year": { "ce": 1261, "ah": 659, "precision": "exact" },
+      "place": { "name": "The Citadel, Cairo", "lat": 30.03, "lng": 31.26 },
+      "who": ["Baybars"],
+      "what": "Three years after Baghdad falls, Baybars seats a surviving Abbasid prince as caliph in Cairo. The Mamluks hold the power; the caliphs give it their blessing.",
+      "tie": "The Cairo caliphs lasted until 1517, when the Ottomans took the last of them to Istanbul.",
+      "links": {
+        "polities": ["mamluk", "abbasid"],
+        "events": ["ain-jalut", "ottoman-egypt"]
+      },
+      "wiki": "Baybars",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "rumi",
       "title": "Rumi",
       "year": { "ce": 1273, "ah": 672, "precision": "exact" },
@@ -32,12 +48,47 @@
       "kind": "knowledge"
     },
     {
+      "id": "osman-dream",
+      "title": "Osman's dream",
+      "year": { "ce": 1290, "precision": "traditional" },
+      "place": { "name": "Bilecik, Turkey", "lat": 40.15, "lng": 29.98 },
+      "who": ["Osman I", "Sheikh Edebali"],
+      "what": "Staying with the scholar Edebali, Osman dreams that a tree grows from him until its shade covers the world. Edebali reads it as an empire and gives him his daughter in marriage.",
+      "tie": "Ottoman histories tied the dynasty's rise to the blessing of a scholar, not only to the sword.",
+      "note": "The story is told by Ottoman chroniclers more than a century later. It is a founding legend, and its date is unknown.",
+      "links": {
+        "polities": ["ottoman"],
+        "events": ["ottomans-begin"]
+      },
+      "wiki": "Osman's Dream",
+      "source": "Tradition",
+      "kind": "empire"
+    },
+    {
+      "id": "ghazan-converts",
+      "title": "A Mongol khan becomes Muslim",
+      "year": { "ce": 1295, "ah": 694, "precision": "exact" },
+      "place": { "name": "Tabriz, Iran", "lat": 38.08, "lng": 46.29 },
+      "who": ["Ghazan", "Rashid al-Din"],
+      "what": "Ghazan, Mongol ruler of Persia, accepts Islam with thousands of his soldiers. Thirty-seven years after Hulagu burned Baghdad, his great-grandson prays toward Makkah.",
+      "verses": ["110:2"],
+      "tie": "The conquerors were won over by the faith of the conquered: within a few decades most Mongol khans in the west were Muslim.",
+      "links": {
+        "polities": ["ilkhanate", "mongols"],
+        "villains": ["hulagu"]
+      },
+      "wiki": "Ghazan",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "pasai",
       "title": "Islam in Sumatra",
       "year": { "ce": 1297, "ah": 696, "precision": "exact" },
       "place": { "name": "Samudra Pasai, Sumatra", "lat": 5.18, "lng": 97.15 },
       "who": ["Malik al-Salih"],
       "what": "Sultan Malik al-Salih of Pasai is buried under an Arabic gravestone, the first Muslim king known in Southeast Asia.",
+      "tie": "Islam reached Southeast Asia through traders and teachers, not armies; today Indonesia is home to more Muslims than any other country.",
       "source": "History",
       "kind": "empire"
     },
@@ -48,6 +99,22 @@
       "place": { "name": "Sogut, Turkey", "lat": 40.02, "lng": 30.18 },
       "who": ["Osman I"],
       "what": "Osman founds a small frontier state in Anatolia. It will become the Ottoman empire and last 623 years.",
+      "tie": "In 1453 the Ottomans took Constantinople, a city whose conquest by Muslims the Prophet ﷺ is reported in a hadith to have foretold.",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "golden-horde-islam",
+      "title": "Islam on the Volga",
+      "year": { "ce": 1313, "ah": 712, "precision": "exact" },
+      "place": { "name": "Sarai, on the Volga", "lat": 47.17, "lng": 47.32 },
+      "who": ["Uzbeg Khan"],
+      "what": "Uzbeg Khan makes Islam the faith of the Golden Horde, the Mongol state of the Russian steppe. Its Tatar heirs are the Muslims of Kazan and Crimea today.",
+      "tie": "Russia's Tatar Muslims trace their faith to these khans and to the Volga Bulghars, who accepted Islam four centuries earlier.",
+      "links": {
+        "polities": ["golden-horde", "mongols"]
+      },
+      "wiki": "Öz Beg Khan",
       "source": "History",
       "kind": "empire"
     },
@@ -58,6 +125,7 @@
       "place": { "name": "Timbuktu, Mali", "lat": 16.77, "lng": -3 },
       "who": ["Mansa Musa"],
       "what": "Mansa Musa of Mali goes on Hajj with so much gold that prices in Cairo crash. Timbuktu becomes a city of scholars.",
+      "tie": "Hajj is owed to Allah by all who are able (3:97); Mansa Musa's journey made Mali famous and brought scholars and books to Timbuktu.",
       "routes": [
         {
           "points": [
@@ -105,13 +173,78 @@
       "kind": "knowledge"
     },
     {
+      "id": "bursa-capital",
+      "title": "Bursa, the first capital",
+      "year": { "ce": 1326, "ah": 726, "precision": "exact" },
+      "place": { "name": "Bursa, Turkey", "lat": 40.19, "lng": 29.06 },
+      "who": ["Orhan"],
+      "what": "Osman's son Orhan takes Bursa from Byzantium after a long siege and makes it his capital. Osman is buried there. The frontier band now has a city.",
+      "tie": "Bursa's mosques, markets and tombs set the pattern for every Ottoman city to come.",
+      "links": {
+        "polities": ["ottoman", "byzantium"],
+        "events": ["ottomans-begin"]
+      },
+      "wiki": "Bursa",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "kilwa-swahili",
+      "title": "Kilwa and the Swahili coast",
+      "year": { "ce": 1331, "precision": "approx" },
+      "place": { "name": "Kilwa Kisiwani, Tanzania", "lat": -8.96, "lng": 39.51 },
+      "who": ["Ibn Battuta"],
+      "what": "Ibn Battuta calls Kilwa one of the most beautiful cities in the world. Its Muslim sultans grow rich shipping gold from Zimbabwe across the Indian Ocean.",
+      "tie": "Swahili, the language of the coast, is full of Arabic words carried by Muslim traders and sailors.",
+      "links": {
+        "polities": ["zimbabwe"],
+        "events": ["ibn-battuta"]
+      },
+      "wiki": "Kilwa Kisiwani",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "black-death",
       "title": "The Black Death",
       "year": { "ce": 1347, "ah": 748, "precision": "exact" },
       "place": { "name": "Caffa, Crimea", "lat": 45.03, "lng": 35.38 },
       "what": "The Black Death crosses from the Black Sea into Egypt, Syria and Europe. A third of the population dies.",
+      "tie": "The Prophet ﷺ taught that if plague strikes a land you are in, do not leave it, and if it is elsewhere, do not enter it.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "sultan-hasan-mosque",
+      "title": "Mamluk Cairo",
+      "year": { "ce": 1356, "to": 1363, "precision": "exact" },
+      "place": { "name": "Sultan Hasan Mosque, Cairo", "lat": 30.03, "lng": 31.26 },
+      "who": ["Sultan Hasan"],
+      "what": "Only years after the Black Death, Sultan Hasan begins a vast mosque and college below the Cairo citadel. Mamluk Cairo is the greatest city of the Muslim world.",
+      "tie": "Al-Azhar and Cairo's colleges drew students from Mali to Java, and scholars such as Ibn Hajar taught here.",
+      "links": {
+        "polities": ["mamluk"],
+        "events": ["black-death"]
+      },
+      "wiki": "Mosque-Madrasa of Sultan Hassan",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "timur-samarkand",
+      "title": "Timur's Samarkand",
+      "year": { "ce": 1370, "ah": 771, "to": 1405, "precision": "exact" },
+      "place": { "name": "Samarkand, Uzbekistan", "lat": 39.65, "lng": 66.96 },
+      "who": ["Timur"],
+      "what": "Timur seizes power in Central Asia and makes Samarkand his capital. He fills it with blue domes raised by craftsmen taken from the cities he sacked.",
+      "tie": "Timur claimed to fight for Islam, yet he sacked Delhi, Baghdad and Damascus; most of the people he killed were Muslims.",
+      "links": {
+        "polities": ["timurid"],
+        "events": ["ankara"]
+      },
+      "wiki": "Timur",
+      "source": "History",
+      "kind": "empire"
     },
     {
       "id": "ibn-khaldun",
@@ -140,6 +273,7 @@
       "place": { "name": "Nanjing, China", "lat": 32.06, "lng": 118.8 },
       "who": ["Zheng He"],
       "what": "Zheng He, a Chinese Muslim admiral, sails giant fleets to India, Arabia and East Africa.",
+      "tie": "Zheng He's father had made the Hajj, and Muslims in Indonesia still remember the admiral in mosques named after him.",
       "routes": [
         {
           "points": [
@@ -160,6 +294,24 @@
       "kind": "world"
     },
     {
+      "id": "ulugh-beg-observatory",
+      "title": "Ulugh Beg's observatory",
+      "year": { "ce": 1424, "precision": "approx" },
+      "place": { "name": "Ulugh Beg Observatory, Samarkand", "lat": 39.67, "lng": 66.98 },
+      "who": ["Ulugh Beg"],
+      "what": "Timur's grandson Ulugh Beg builds a giant observatory in Samarkand. His tables chart over a thousand stars and measure the year to within a minute.",
+      "verses": ["10:5"],
+      "tie": "The Quran points to the sun and moon as a way to count the years; Muslim astronomers made that counting a science.",
+      "note": "Ulugh Beg was killed in 1449 on his own son's orders and the observatory was later destroyed. Its great arc was dug up again in 1908.",
+      "links": {
+        "polities": ["timurid"],
+        "events": ["timur-samarkand"]
+      },
+      "wiki": "Ulugh Beg Observatory",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
       "id": "constantinople",
       "title": "Constantinople falls",
       "year": { "ce": 1453, "ah": 857, "precision": "exact" },
@@ -175,14 +327,69 @@
       "kind": "battle"
     },
     {
+      "id": "gutenberg-press",
+      "title": "The printing press",
+      "year": { "ce": 1455, "precision": "approx" },
+      "place": { "name": "Mainz, Germany", "lat": 50, "lng": 8.27 },
+      "who": ["Johannes Gutenberg"],
+      "what": "Gutenberg prints the Bible with movable type in Mainz. Within fifty years Europe has millions of printed books.",
+      "verses": ["96:4"],
+      "tie": "The first Arabic Quran ever printed came from Venice around 1537, full of errors; Muslims went on copying it by hand for nearly three more centuries.",
+      "links": {
+        "events": ["reformation", "muteferrika-press"]
+      },
+      "wiki": "Johannes Gutenberg",
+      "source": "History",
+      "kind": "world"
+    },
+    {
       "id": "granada",
       "title": "Granada surrenders",
       "year": { "ce": 1492, "ah": 897, "precision": "exact" },
       "place": { "name": "Granada, Spain", "lat": 37.18, "lng": -3.6 },
       "who": ["Boabdil", "Ferdinand and Isabella"],
       "what": "Granada surrenders. Muslim Spain ends. Months later Columbus sails west from the same kingdom.",
+      "tie": "The Alhambra still bears the words 'there is no victor but Allah'; Spain's Muslims soon faced forced conversion and, a century later, expulsion.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "alhambra-decree",
+      "title": "The Jews expelled from Spain",
+      "year": { "ce": 1492, "ah": 897, "precision": "exact" },
+      "place": { "name": "Alhambra, Granada", "lat": 37.18, "lng": -3.59 },
+      "who": ["Ferdinand and Isabella", "Bayezid II"],
+      "what": "From the Alhambra, Ferdinand and Isabella order every Jew in Spain to convert or leave. Tens of thousands go, and many find refuge in the Ottoman empire.",
+      "tie": "Sultan Bayezid II welcomed them; Thessaloniki and Istanbul became great Jewish cities under Muslim rule.",
+      "note": "The famous line in which Bayezid mocks Ferdinand for making his own land poorer is a later story of uncertain origin.",
+      "links": {
+        "polities": ["spain", "ottoman"],
+        "events": ["granada"]
+      },
+      "wiki": "Alhambra Decree",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "columbus-1492",
+      "title": "Columbus reaches the Americas",
+      "year": { "ce": 1492, "ah": 897, "precision": "exact" },
+      "place": { "name": "Guanahani, Bahamas", "lat": 24.05, "lng": -74.48 },
+      "who": ["Christopher Columbus", "Ferdinand and Isabella"],
+      "what": "Columbus, sailing for Spain, lands in the Bahamas. Within a century Spain and Portugal rule from Mexico to Brazil.",
+      "routes": [
+        {
+          "points": [[37.23, -6.89, "Palos"], [28.09, -17.11, "La Gomera"], [26, -45], [24.05, -74.48, "Guanahani"]]
+        }
+      ],
+      "tie": "Columbus wrote that he had watched the royal banners raised over the Alhambra that January, the month Muslim Spain ended.",
+      "links": {
+        "polities": ["spain"],
+        "events": ["granada"]
+      },
+      "wiki": "Voyages of Christopher Columbus",
+      "source": "History",
+      "kind": "world"
     },
     {
       "id": "vasco-da-gama",
@@ -191,6 +398,7 @@
       "place": { "name": "Calicut, India", "lat": 11.25, "lng": 75.78 },
       "who": ["Vasco da Gama"],
       "what": "Portugal reaches India around Africa. European fleets begin to take the Indian Ocean trade from Muslim merchants.",
+      "tie": "Muslim merchants had carried Islam along these sea routes to India, East Africa and Indonesia; now they began losing the trade to European fleets.",
       "routes": [
         {
           "points": [
@@ -215,6 +423,7 @@
       "place": { "name": "Tabriz, Iran", "lat": 38.08, "lng": 46.29 },
       "who": ["Shah Ismail"],
       "what": "Shah Ismail founds the Safavid state and makes Shia Islam the religion of Persia.",
+      "tie": "Before the Safavids most Persians were Sunni, and Persia had produced scholars like Imam Muslim of Nishapur; after them Iran became mostly Shia.",
       "source": "History",
       "kind": "empire"
     },
@@ -224,8 +433,43 @@
       "year": { "ce": 1511, "ah": 917, "precision": "exact" },
       "place": { "name": "Malacca, Malaysia", "lat": 2.2, "lng": 102.25 },
       "what": "Portugal seizes Malacca, the Muslim port that controlled the sea trade between India and China.",
+      "tie": "Malacca's sultans had spread Islam across the Malay world; after its fall, Muslim traders moved to ports like Aceh and carried the faith further.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "piri-reis-map",
+      "title": "The Piri Reis map",
+      "year": { "ce": 1513, "ah": 919, "precision": "exact" },
+      "place": { "name": "Gallipoli, Turkey", "lat": 40.41, "lng": 26.67 },
+      "who": ["Piri Reis"],
+      "what": "The Ottoman admiral Piri Reis draws a world map showing the coasts of Africa and the new Americas. Among his sources was a map by Columbus.",
+      "verses": ["55:24"],
+      "tie": "Found in Topkapi Palace in 1929, it is one of the oldest surviving maps to show the Americas.",
+      "links": {
+        "polities": ["ottoman"],
+        "events": ["columbus-1492"]
+      },
+      "wiki": "Piri Reis map",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "chaldiran",
+      "title": "Chaldiran",
+      "year": { "ce": 1514, "ah": 920, "precision": "exact" },
+      "place": { "name": "Chaldiran, Iran", "lat": 39.06, "lng": 44.38 },
+      "who": ["Selim I", "Shah Ismail"],
+      "what": "Selim I's guns defeat Shah Ismail at Chaldiran. The Sunni Ottomans and the Shia Safavids fight on and off for more than a century.",
+      "verses": ["49:9"],
+      "tie": "The border they finally fixed at Zuhab in 1639 still roughly divides Turkey and Iraq from Iran.",
+      "links": {
+        "polities": ["ottoman", "safavid"],
+        "events": ["safavids"]
+      },
+      "wiki": "Battle of Chaldiran",
+      "source": "History",
+      "kind": "battle"
     },
     {
       "id": "reformation",
@@ -234,6 +478,7 @@
       "place": { "name": "Wittenberg, Germany", "lat": 51.87, "lng": 12.65 },
       "who": ["Martin Luther"],
       "what": "Luther's theses split western Christianity. Printing presses spread the argument; Muslim lands adopt print much later.",
+      "tie": "Muslim lands long preferred hand-copied books, above all the Quran; the first Ottoman press in Arabic script opened in Istanbul only in 1727.",
       "source": "History",
       "kind": "world"
     },
@@ -244,8 +489,41 @@
       "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
       "who": ["Selim I"],
       "what": "Selim I takes Syria, Egypt and the Hijaz. The Ottoman sultan becomes guardian of Makkah and Madinah.",
+      "tie": "The sultans took the title Servant of the Two Holy Sanctuaries and for four centuries sent and guarded the Hajj caravans from Damascus and Cairo.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "suleiman-accession",
+      "title": "Suleiman the Lawgiver",
+      "year": { "ce": 1520, "ah": 926, "to": 1566, "precision": "exact" },
+      "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
+      "who": ["Suleiman"],
+      "what": "Suleiman becomes sultan and reigns for 46 years. Europe calls him the Magnificent; his own people call him Kanuni, the Lawgiver.",
+      "verses": ["4:58"],
+      "tie": "His chief mufti Ebussuud worked to bring the sultan's laws into line with the sharia.",
+      "links": {
+        "polities": ["ottoman"],
+        "events": ["vienna-1529", "sinan"]
+      },
+      "wiki": "Suleiman the Magnificent",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "aztec-fall",
+      "title": "The fall of Tenochtitlan",
+      "year": { "ce": 1521, "ah": 927, "precision": "exact" },
+      "place": { "name": "Tenochtitlan, Mexico", "lat": 19.43, "lng": -99.13 },
+      "who": ["Hernan Cortes"],
+      "what": "Cortes and his native allies take the Aztec capital after a long siege, helped by smallpox. One of the world's great cities becomes Mexico City.",
+      "tie": "The conquerors came from a Spain fresh from its war on Granada; in their letters they even called the Aztec temples 'mosques'.",
+      "links": {
+        "polities": ["aztec", "spain"]
+      },
+      "wiki": "Fall of Tenochtitlan",
+      "source": "History",
+      "kind": "world"
     },
     {
       "id": "mughals",
@@ -254,6 +532,7 @@
       "place": { "name": "Panipat, India", "lat": 29.39, "lng": 76.97 },
       "who": ["Babur"],
       "what": "Babur wins at Panipat and founds the Mughal empire. Under Akbar it holds a quarter of the world's people.",
+      "tie": "The Mughals made India a great centre of Muslim civilisation, from the mosques of Delhi and Lahore to the Hanafi law collection al-Fatawa al-Alamgiriyya.",
       "routes": [
         {
           "points": [[34.53, 69.17, "Kabul"], [33.6, 73], [29.39, 76.97, "Panipat"]]
@@ -273,12 +552,60 @@
       "kind": "battle"
     },
     {
+      "id": "inca-fall",
+      "title": "The Inca empire falls",
+      "year": { "ce": 1532, "ah": 939, "precision": "exact" },
+      "place": { "name": "Cajamarca, Peru", "lat": -7.16, "lng": -78.51 },
+      "who": ["Francisco Pizarro", "Atahualpa"],
+      "what": "Pizarro captures the Inca emperor Atahualpa at Cajamarca, takes a room full of gold as ransom, then kills him. The Andes fall to Spain.",
+      "tie": "American silver soon flooded the world; historians link it to the inflation that shook Ottoman money in the late 1500s.",
+      "note": "How much American silver caused Ottoman inflation is debated by historians.",
+      "links": {
+        "polities": ["inca", "spain"]
+      },
+      "wiki": "Battle of Cajamarca",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "kazan-1552",
+      "title": "Kazan falls to Russia",
+      "year": { "ce": 1552, "ah": 959, "precision": "exact" },
+      "place": { "name": "Kazan, Russia", "lat": 55.79, "lng": 49.12 },
+      "who": ["Ivan IV", "Qol Sharif"],
+      "what": "Ivan the Terrible storms Kazan, capital of a Muslim Tatar khanate. Its imam Qol Sharif dies defending the city with his students, and the mosques are pulled down.",
+      "tie": "It was the first Muslim land Russia conquered; a new Qol Sharif mosque opened inside the Kazan kremlin in 2005.",
+      "links": {
+        "polities": ["russia", "golden-horde"],
+        "events": ["golden-horde-islam"]
+      },
+      "wiki": "Siege of Kazan",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "coffee-houses",
+      "title": "The first coffee houses",
+      "year": { "ce": 1554, "precision": "approx" },
+      "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
+      "what": "Two Syrians open Istanbul's first coffee house. Coffee, first drunk by Sufis in Yemen to stay awake for night prayer, spreads to Europe through Ottoman lands.",
+      "tie": "The word coffee comes from the Arabic qahwa, by way of the Turkish kahve.",
+      "note": "Scholars argued for decades over whether coffee was lawful; it was briefly banned in Makkah in 1511 before being accepted.",
+      "links": {
+        "polities": ["ottoman"]
+      },
+      "wiki": "History of coffee",
+      "source": "History",
+      "kind": "world"
+    },
+    {
       "id": "akbar",
       "title": "Akbar",
       "year": { "ce": 1556, "ah": 963, "precision": "exact" },
       "place": { "name": "Agra, India", "lat": 27.17, "lng": 78.04 },
       "who": ["Akbar"],
       "what": "Akbar becomes Mughal emperor at thirteen. He rules for half a century and doubles the empire.",
+      "tie": "Akbar's mixing of faiths drew criticism from Sunni scholars like Shaykh Ahmad Sirhindi, whose revival shaped Indian Islam for centuries.",
       "source": "History",
       "kind": "empire"
     },
@@ -317,8 +644,56 @@
       "place": { "name": "Isfahan, Iran", "lat": 32.65, "lng": 51.68 },
       "who": ["Shah Abbas"],
       "what": "Shah Abbas makes Isfahan his capital and fills it with mosques and squares. Persians call it half the world.",
+      "tie": "Its Shah Mosque and Shaykh Lutfallah Mosque, covered in blue tile and Quranic calligraphy, are among the masterpieces of Islamic architecture.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "aceh-iskandar-muda",
+      "title": "Aceh, the Porch of Makkah",
+      "year": { "ce": 1607, "to": 1636, "precision": "exact" },
+      "place": { "name": "Banda Aceh, Indonesia", "lat": 5.55, "lng": 95.32 },
+      "who": ["Iskandar Muda"],
+      "what": "Iskandar Muda becomes sultan of Aceh and makes it the strongest power on the Malacca Strait. Pilgrims from across Southeast Asia sail from here to Makkah.",
+      "tie": "Aceh asked the Ottomans for help against Portugal and received guns and gunners in the 1560s; it is still called the Porch of Makkah.",
+      "links": {
+        "polities": ["aceh", "ottoman"],
+        "events": ["malacca", "pasai"]
+      },
+      "wiki": "Iskandar Muda",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "moriscos-expelled",
+      "title": "The Moriscos expelled",
+      "year": { "ce": 1609, "ah": 1018, "to": 1614, "precision": "exact" },
+      "place": { "name": "Valencia, Spain", "lat": 39.47, "lng": -0.38 },
+      "who": ["Philip III"],
+      "what": "Spain orders out the Moriscos, descendants of Muslims forced to become Christian. About 300,000 are shipped to North Africa, and nine centuries of Islam in Spain end.",
+      "tie": "Many Moriscos had kept Islam in secret for a century, writing Spanish in Arabic letters, a script called aljamiado.",
+      "links": {
+        "polities": ["spain"],
+        "events": ["granada"]
+      },
+      "wiki": "Expulsion of the Moriscos",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "qing-china",
+      "title": "The Qing take China",
+      "year": { "ce": 1644, "ah": 1054, "precision": "exact" },
+      "place": { "name": "Beijing, China", "lat": 39.9, "lng": 116.4 },
+      "what": "Manchu armies take Beijing and found the Qing dynasty, which will rule China until 1912.",
+      "tie": "Under the Qing, Chinese Muslim scholars such as Liu Zhi explained Islam in classical Chinese, joining it to Chinese learning.",
+      "links": {
+        "polities": ["ming-qing"],
+        "events": ["zheng-he"]
+      },
+      "wiki": "Qing dynasty",
+      "source": "History",
+      "kind": "world"
     },
     {
       "id": "taj-mahal",
@@ -327,8 +702,56 @@
       "place": { "name": "Agra, India", "lat": 27.17, "lng": 78.04 },
       "who": ["Shah Jahan"],
       "what": "The Taj Mahal is completed in Agra as a tomb for Mumtaz Mahal. Mughal wealth at its peak.",
+      "tie": "Its great gate carries the Quran's call to the soul at peace: 'Enter among My servants, and enter My Paradise' (89:27-30).",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "aurangzeb-reign",
+      "title": "Aurangzeb",
+      "year": { "ce": 1658, "ah": 1068, "to": 1707, "precision": "exact" },
+      "place": { "name": "Delhi, India", "lat": 28.6, "lng": 77.2 },
+      "who": ["Aurangzeb"],
+      "what": "Aurangzeb takes the Mughal throne and rules for half a century, and the empire reaches its largest size. After his death in 1707 it breaks apart.",
+      "tie": "He sponsored the Fatawa-e-Alamgiri, a great book of Hanafi law compiled by hundreds of scholars.",
+      "note": "Many Muslims remember him for his piety and simple life; others remember his wars and harshness. Historians still debate his rule.",
+      "links": {
+        "polities": ["mughal"],
+        "events": ["mughals", "taj-mahal"]
+      },
+      "wiki": "Aurangzeb",
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "evliya-hajj",
+      "title": "The Hajj caravan",
+      "year": { "ce": 1671, "precision": "exact" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "who": ["Evliya Celebi"],
+      "what": "The traveller Evliya Celebi joins the great caravan that leaves Damascus every year for Makkah. Tens of thousands march for over a month, guarded by the sultan's soldiers.",
+      "verses": ["2:197"],
+      "routes": [
+        {
+          "points": [
+            [33.51, 36.29, "Damascus"],
+            [32.71, 35.98, "Muzayrib"],
+            [30.2, 35.73, "Ma'an"],
+            [28.38, 36.57, "Tabuk"],
+            [26.6, 37.9, "al-Ula"],
+            [24.47, 39.61, "Madinah"],
+            [21.42, 39.83, "Makkah"]
+          ]
+        }
+      ],
+      "tie": "With every caravan the sultans sent the surre, gifts and money for the people of the Two Holy Cities.",
+      "links": {
+        "polities": ["ottoman"],
+        "events": ["hejaz-railway"]
+      },
+      "wiki": "Evliya Çelebi",
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "vienna-1683",
@@ -340,6 +763,57 @@
       "kind": "battle"
     },
     {
+      "id": "muteferrika-press",
+      "title": "The first Ottoman press",
+      "year": { "ce": 1729, "ah": 1141, "precision": "exact" },
+      "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
+      "who": ["Ibrahim Muteferrika"],
+      "what": "Ibrahim Muteferrika prints the first book in Ottoman Turkish, a dictionary. His press prints maps, histories and science, but not the Quran.",
+      "tie": "Printing the Quran was long resisted, out of reverence for the hand-written word and the scribes who wrote it.",
+      "note": "Historians still debate why Muslim lands took up printing so late.",
+      "links": {
+        "polities": ["ottoman"],
+        "events": ["gutenberg-press"]
+      },
+      "wiki": "İbrahim Müteferrika",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "muslims-enslaved",
+      "title": "Muslims in chains",
+      "year": { "ce": 1731, "precision": "exact" },
+      "place": { "name": "Gambia River", "lat": 13.32, "lng": -16.36 },
+      "who": ["Ayuba Suleiman Diallo"],
+      "what": "Ayuba Suleiman Diallo, son of an imam in Senegal, is seized and sold to Maryland. A letter he writes in Arabic wins his freedom; in London he writes out the Quran from memory.",
+      "verses": ["90:12-13"],
+      "tie": "Many Africans carried across the Atlantic were Muslims; some, like him, wrote Arabic and kept their prayers in slavery.",
+      "note": "Historians' estimates of how many enslaved Africans were Muslim vary widely.",
+      "links": {
+        "events": ["omar-said-memoir"]
+      },
+      "wiki": "Ayuba Suleiman Diallo",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "persian-quran-delhi",
+      "title": "The Quran in Persian for India",
+      "year": { "ce": 1738, "precision": "approx" },
+      "place": { "name": "Delhi, India", "lat": 28.6, "lng": 77.2 },
+      "who": ["Shah Waliullah"],
+      "what": "In Delhi, Shah Waliullah translates the Quran into Persian, the language of educated Indians, so people can understand it and not only recite it. His sons later put it into Urdu.",
+      "verses": ["14:4"],
+      "tie": "Deoband and many other South Asian schools trace their teachers back to him.",
+      "links": {
+        "polities": ["mughal"],
+        "events": ["deoband-1866"]
+      },
+      "wiki": "Shah Waliullah Dehlawi",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
       "id": "diriyah",
       "title": "The first Saudi state",
       "year": { "ce": 1744, "ah": 1157, "precision": "exact" },
@@ -347,7 +821,11 @@
       "who": ["Muhammad ibn Saud", "Muhammad ibn Abd al-Wahhab"],
       "what": "A pact between a ruler and a reformer in Diriyah founds the first Saudi state.",
       "source": "History",
-      "kind": "empire"
+      "kind": "empire",
+      "tie": "Ibn Abd al-Wahhab called for a return to pure tawhid; Muslims have argued over his movement and its legacy ever since.",
+      "links": {
+        "polities": ["saudi"]
+      }
     },
     {
       "id": "plassey",
@@ -356,6 +834,7 @@
       "place": { "name": "Plassey, India", "lat": 23.8, "lng": 88.3 },
       "who": ["Robert Clive"],
       "what": "The British East India Company defeats the Nawab of Bengal at Plassey. The richest Muslim province falls to a trading company.",
+      "tie": "Bengal was home to tens of millions of Muslims; Company rule there began British rule over India's Muslims that lasted almost two centuries.",
       "source": "History",
       "kind": "world"
     },
@@ -365,6 +844,7 @@
       "year": { "ce": 1789, "precision": "exact" },
       "place": { "name": "Paris, France", "lat": 48.86, "lng": 2.35 },
       "what": "The French Revolution. Nationalism and the modern state are born, ideas that will reshape Muslim lands too.",
+      "tie": "Ideas of the nation and the secular state spread from France into Muslim lands, later shaping the end of the Ottoman caliphate and new borders.",
       "source": "History",
       "kind": "world"
     },
@@ -375,6 +855,7 @@
       "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
       "who": ["Napoleon"],
       "what": "Napoleon invades Egypt with an army and a team of scholars. The shock of European power starts the modern Muslim reform debate.",
+      "tie": "Al-Azhar's scholars led Cairo's revolt against the French, and the historian al-Jabarti recorded the occupation day by day.",
       "routes": [
         {
           "points": [[43.12, 5.93, "Toulon"], [35.9, 14.5, "Malta"], [31.2, 29.92, "Alexandria"], [30.05, 31.26, "Cairo"]]

@@ -13,6 +13,7 @@
       "place": { "name": "Sokoto, Nigeria", "lat": 13.06, "lng": 5.24 },
       "who": ["Usman dan Fodio"],
       "what": "Usman dan Fodio founds the Sokoto Caliphate, the largest state in Africa at the time.",
+      "tie": "Usman dan Fodio was a Maliki scholar and preacher who called for learning and justice, and his daughter Nana Asma'u taught women across the region.",
       "source": "History",
       "kind": "empire"
     },
@@ -23,8 +24,23 @@
       "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
       "who": ["Muhammad Ali"],
       "what": "Muhammad Ali takes power in Egypt and builds a modern army, schools and factories, nearly independent of the Ottomans.",
+      "tie": "He sent students to Paris with the al-Azhar scholar Rifa'a al-Tahtawi as their imam, opening a long Muslim debate on faith and modern learning.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "greek-independence",
+      "title": "Greek independence",
+      "year": { "ce": 1821, "ah": 1236, "to": 1830, "precision": "exact" },
+      "place": { "name": "Peloponnese, Greece", "lat": 37.51, "lng": 22.37 },
+      "what": "Greeks rise against Ottoman rule, with massacres on both sides. With help from Britain, France and Russia, Greece becomes independent in 1830.",
+      "tie": "It was the first nation to break away from the Ottomans; nationalism would later split the Muslim lands themselves.",
+      "links": {
+        "polities": ["ottoman"]
+      },
+      "wiki": "Greek War of Independence",
+      "source": "History",
+      "kind": "world"
     },
     {
       "id": "algeria-1830",
@@ -32,8 +48,72 @@
       "year": { "ce": 1830, "ah": 1246, "precision": "exact" },
       "place": { "name": "Algiers, Algeria", "lat": 36.75, "lng": 3.06 },
       "what": "France invades Algeria. Over the next century Britain, France, Russia and the Netherlands rule most Muslims on earth.",
+      "tie": "The scholar Emir Abd al-Qadir led Algeria's resistance for fifteen years and was later honoured for protecting Christians in Damascus in 1860.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "omar-said-memoir",
+      "title": "Omar ibn Said writes his life",
+      "year": { "ce": 1831, "precision": "exact" },
+      "place": { "name": "Fayetteville, North Carolina", "lat": 35.05, "lng": -78.88 },
+      "who": ["Omar ibn Said"],
+      "what": "Omar ibn Said, a scholar from Senegal enslaved in North Carolina, writes his life story in Arabic. He begins it with Surat al-Mulk, written from memory.",
+      "verses": ["67:1"],
+      "tie": "It is the only known autobiography in Arabic by a man enslaved in the United States.",
+      "links": {
+        "events": ["muslims-enslaved"]
+      },
+      "wiki": "Omar ibn Said",
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "algeria-resistance",
+      "title": "Emir Abd al-Qadir",
+      "year": { "ce": 1832, "ah": 1248, "to": 1847, "precision": "exact" },
+      "place": { "name": "Mascara, Algeria", "lat": 35.4, "lng": 0.14 },
+      "who": ["Abd al-Qadir"],
+      "what": "Abd al-Qadir, a young scholar and Sufi, is chosen emir and fights the French for fifteen years. Exiled to Damascus, he shelters thousands of Christians during the riots of 1860.",
+      "verses": ["5:8"],
+      "tie": "Friends and enemies alike praised him as a model of Islamic honour in war.",
+      "links": {
+        "polities": ["europe-colonial"],
+        "events": ["algeria-1830"]
+      },
+      "wiki": "Emir Abdelkader",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "caucasus-resistance",
+      "title": "Imam Shamil",
+      "year": { "ce": 1834, "to": 1859, "precision": "exact" },
+      "place": { "name": "Gunib, Dagestan", "lat": 42.39, "lng": 46.96 },
+      "who": ["Imam Shamil"],
+      "what": "Imam Shamil leads the Muslims of Dagestan and Chechnya against Russia for 25 years. He finally surrenders at Gunib in 1859.",
+      "tie": "Allowed at last to make Hajj, he died in Madinah and is buried in al-Baqi, near the Companions.",
+      "links": {
+        "polities": ["russia"]
+      },
+      "wiki": "Imam Shamil",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "tanzimat",
+      "title": "The Tanzimat",
+      "year": { "ce": 1839, "ah": 1255, "precision": "exact" },
+      "place": { "name": "Gulhane, Istanbul", "lat": 41.01, "lng": 28.98 },
+      "who": ["Abdulmejid I"],
+      "what": "The Ottoman government proclaims the Tanzimat, the reordering: one law for Muslims and non-Muslims, with new courts, schools and a new army.",
+      "tie": "It opened a debate among Muslim scholars and statesmen, still alive today, on how to modernise without losing the sharia.",
+      "links": {
+        "polities": ["ottoman"]
+      },
+      "wiki": "Tanzimat",
+      "source": "History",
+      "kind": "empire"
     },
     {
       "id": "last-mughal",
@@ -42,6 +122,37 @@
       "place": { "name": "Delhi, India", "lat": 28.6, "lng": 77.2 },
       "who": ["Bahadur Shah Zafar"],
       "what": "The Indian uprising fails. Britain exiles the last Mughal emperor to Burma and rules India directly.",
+      "tie": "After 1857 Indian Muslims founded the Deoband seminary (1866) and the Aligarh college (1875) to keep faith and learning alive under British rule.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "deoband-1866",
+      "title": "Deoband",
+      "year": { "ce": 1866, "ah": 1283, "precision": "exact" },
+      "place": { "name": "Deoband, India", "lat": 29.69, "lng": 77.68 },
+      "who": ["Muhammad Qasim Nanautawi"],
+      "what": "After the failed uprising of 1857, scholars found a madrasa in the small town of Deoband to keep Islamic learning alive under British rule. Thousands of schools now follow its model.",
+      "verses": ["9:122"],
+      "tie": "With the Mughals gone, scholars rather than kings became the keepers of Islam in India.",
+      "links": {
+        "events": ["last-mughal", "persian-quran-delhi"]
+      },
+      "wiki": "Darul Uloom Deoband",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "central-asia-russia",
+      "title": "Russia takes Central Asia",
+      "year": { "ce": 1868, "ah": 1285, "precision": "exact" },
+      "place": { "name": "Samarkand, Uzbekistan", "lat": 39.65, "lng": 66.96 },
+      "what": "Russian armies take Samarkand, and the emir of Bukhara becomes the tsar's vassal. The old cities of Central Asia's scholars come under Russian rule.",
+      "tie": "The homeland of al-Bukhari and al-Tirmidhi stayed under Russian and then Soviet rule until 1991.",
+      "links": {
+        "polities": ["russia"],
+        "events": ["central-asia", "timur-samarkand"]
+      },
       "source": "History",
       "kind": "world"
     },
@@ -51,8 +162,71 @@
       "year": { "ce": 1869, "ah": 1286, "precision": "exact" },
       "place": { "name": "Suez, Egypt", "lat": 30.6, "lng": 32.3 },
       "what": "The Suez Canal opens. Egypt's debts hand it to Britain, which occupies the country in 1882.",
+      "tie": "Pilgrims to Makkah now came by steamship through the canal, and the Hajj grew larger than ever before.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "aceh-war",
+      "title": "The Aceh War",
+      "year": { "ce": 1873, "ah": 1290, "to": 1904, "precision": "exact" },
+      "place": { "name": "Banda Aceh, Indonesia", "lat": 5.55, "lng": 95.32 },
+      "what": "The Netherlands invades Aceh. The Acehnese fight back for over thirty years, one of the longest colonial wars in history.",
+      "tie": "Scholars led much of the resistance and preached it as a jihad to defend the land.",
+      "links": {
+        "polities": ["aceh", "europe-colonial"],
+        "events": ["aceh-iskandar-muda"]
+      },
+      "wiki": "Aceh War",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "aligarh-1875",
+      "title": "Aligarh",
+      "year": { "ce": 1875, "ah": 1292, "precision": "exact" },
+      "place": { "name": "Aligarh, India", "lat": 27.88, "lng": 78.08 },
+      "who": ["Sayyid Ahmad Khan"],
+      "what": "Sayyid Ahmad Khan opens a college in Aligarh to teach Muslims modern science and English alongside their faith. It grows into Aligarh Muslim University.",
+      "verses": ["39:9"],
+      "tie": "Deoband and Aligarh, founded nine years apart, were two answers to one question: how should Muslims live under foreign rule?",
+      "links": {
+        "events": ["deoband-1866"]
+      },
+      "wiki": "Aligarh Muslim University",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "urwa-wuthqa",
+      "title": "The Firmest Handhold",
+      "year": { "ce": 1884, "ah": 1301, "precision": "exact" },
+      "place": { "name": "Paris, France", "lat": 48.86, "lng": 2.35 },
+      "who": ["Jamal al-Din al-Afghani", "Muhammad Abduh"],
+      "what": "In Paris, al-Afghani and his student Muhammad Abduh publish al-Urwa al-Wuthqa, a journal calling Muslims to unite and reform against European rule.",
+      "verses": ["2:256"],
+      "quote": { "ref": "2:256", "from": "So whoever disbelieves", "to": "no break in it" },
+      "tie": "Its name, 'the firmest handhold', is taken from the Quran.",
+      "note": "It ran for only eighteen issues but was read from Morocco to India.",
+      "wiki": "Jamal al-Din al-Afghani",
+      "source": "History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "mahdist-sudan",
+      "title": "The Mahdi of Sudan",
+      "year": { "ce": 1885, "ah": 1302, "to": 1898, "precision": "exact" },
+      "place": { "name": "Khartoum, Sudan", "lat": 15.6, "lng": 32.53 },
+      "who": ["Muhammad Ahmad"],
+      "what": "Muhammad Ahmad, who declared himself the Mahdi in 1881, takes Khartoum from the British-backed Egyptians. His state lasts until British guns destroy it at Omdurman in 1898.",
+      "tie": "Most scholars rejected his claim: the hadith describe the true Mahdi by signs he did not fulfil.",
+      "links": {
+        "polities": ["britain"],
+        "events": ["the-mahdi"]
+      },
+      "wiki": "Mahdist State",
+      "source": "History",
+      "kind": "empire"
     },
     {
       "id": "hejaz-railway",
@@ -61,6 +235,7 @@
       "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
       "who": ["Abdul Hamid II"],
       "what": "The Hejaz Railway links Damascus to Madinah, paid for by Muslims worldwide. The Hajj journey drops from forty days to four.",
+      "tie": "The line was built for pilgrims; raids in the First World War cut it, and its station in Madinah still stands as a museum.",
       "routes": [
         {
           "points": [
@@ -82,6 +257,38 @@
       "year": { "ce": 1914, "ah": 1333, "precision": "exact" },
       "place": { "name": "Istanbul, Turkey", "lat": 41.01, "lng": 28.98 },
       "what": "The Ottomans join the First World War on Germany's side. Britain backs an Arab revolt in 1916 and promises Palestine to Zionists in 1917.",
+      "tie": "The war ended Ottoman rule over Makkah, Madinah and Jerusalem, and its treaties drew the borders of most of today's Arab states.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "sykes-picot",
+      "title": "Sykes-Picot",
+      "year": { "ce": 1916, "ah": 1334, "precision": "exact" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "what": "Britain and France secretly agree to divide the Arab lands of the Ottoman empire between them, while Britain promises the Arabs independence.",
+      "tie": "The borders of Syria, Iraq, Lebanon and Jordan grew out of this deal.",
+      "links": {
+        "polities": ["ottoman", "britain", "europe-colonial"],
+        "events": ["ww1"]
+      },
+      "wiki": "Sykes–Picot Agreement",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "balfour-1917",
+      "title": "Balfour and Jerusalem",
+      "year": { "ce": 1917, "ah": 1336, "precision": "exact" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "what": "Britain's Balfour Declaration promises a Jewish national home in Palestine. Five weeks later British troops enter Jerusalem.",
+      "verses": ["17:1"],
+      "tie": "Jerusalem, the first qibla and the city of the Night Journey, left Muslim rule after four centuries of Ottoman government.",
+      "links": {
+        "polities": ["britain", "ottoman"],
+        "events": ["ww1", "nakba"]
+      },
+      "wiki": "Balfour Declaration",
       "source": "History",
       "kind": "world"
     },
@@ -92,8 +299,34 @@
       "place": { "name": "Ankara, Turkey", "lat": 39.93, "lng": 32.85 },
       "who": ["Mustafa Kemal"],
       "what": "The new Turkish republic abolishes the caliphate. For the first time since 632 there is no caliph.",
+      "tie": "Muslims from India to Egypt had campaigned to keep the caliphate, through India's Khilafat Movement, and held conferences on reviving it afterwards.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "paris-mosque",
+      "title": "The Grand Mosque of Paris",
+      "year": { "ce": 1926, "ah": 1345, "precision": "exact" },
+      "place": { "name": "Grand Mosque of Paris", "lat": 48.84, "lng": 2.36 },
+      "who": ["Si Kaddour Benghabrit"],
+      "what": "The Grand Mosque of Paris opens, built to honour the Muslim soldiers from France's colonies who died for France in the First World War.",
+      "tie": "Muslims are now the largest religious minority in France and much of Western Europe.",
+      "note": "Stories that the mosque hid Jews during the Second World War are widely told; how many it saved is debated.",
+      "wiki": "Grand Mosque of Paris",
+      "source": "History",
+      "kind": "event"
+    },
+    {
+      "id": "muslim-brotherhood",
+      "title": "The Muslim Brotherhood",
+      "year": { "ce": 1928, "ah": 1346, "precision": "exact" },
+      "place": { "name": "Ismailia, Egypt", "lat": 30.6, "lng": 32.27 },
+      "who": ["Hasan al-Banna"],
+      "what": "A young schoolteacher, Hasan al-Banna, founds the Muslim Brotherhood in Ismailia. It becomes one of the most influential Islamic movements of the century.",
+      "tie": "It spread through schools, charity and preaching; governments have by turns tolerated it, banned it and fought it.",
+      "wiki": "Muslim Brotherhood",
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "saudi-arabia",
@@ -102,6 +335,7 @@
       "place": { "name": "Riyadh, Saudi Arabia", "lat": 24.71, "lng": 46.68 },
       "who": ["Abdulaziz ibn Saud"],
       "what": "The Kingdom of Saudi Arabia is proclaimed. Oil is found six years later.",
+      "tie": "The new kingdom took charge of Makkah, Madinah and the Hajj, which has grown from tens of thousands of pilgrims to millions.",
       "source": "History",
       "kind": "empire"
     },
@@ -111,6 +345,23 @@
       "year": { "ce": 1938, "ah": 1357, "precision": "exact" },
       "place": { "name": "Dammam, Saudi Arabia", "lat": 26.43, "lng": 50.1 },
       "what": "Oil is struck at Dammam Well No. 7. Arabia's economy, and the world's, changes for good.",
+      "tie": "Oil wealth paid for roads, airports and the vast expansions of the Grand Mosque in Makkah and the Prophet's Mosque in Madinah.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "indonesia-independence",
+      "title": "Indonesia",
+      "year": { "ce": 1945, "ah": 1364, "precision": "exact" },
+      "place": { "name": "Jakarta, Indonesia", "lat": -6.2, "lng": 106.85 },
+      "who": ["Sukarno"],
+      "what": "Sukarno proclaims Indonesia's independence from the Dutch. After four years of war it is free. Today it has more Muslims than any other country.",
+      "tie": "Islam came to these islands mostly through traders and teachers, not conquest.",
+      "links": {
+        "polities": ["nations", "europe-colonial"],
+        "events": ["pasai"]
+      },
+      "wiki": "Proclamation of Indonesian Independence",
       "source": "History",
       "kind": "world"
     },
@@ -121,6 +372,7 @@
       "place": { "name": "Karachi, Pakistan", "lat": 24.86, "lng": 67 },
       "who": ["Muhammad Ali Jinnah"],
       "what": "British India is partitioned. Pakistan is born as a homeland for Muslims; a million die in the migrations.",
+      "tie": "Founded as a homeland for India's Muslims, Pakistan became one of the largest Muslim nations, while millions of Muslims also stayed in India.",
       "routes": [
         {
           "points": [[28.6, 77.2, "Delhi"], [31.55, 74.34, "Lahore"]]
@@ -135,8 +387,24 @@
       "year": { "ce": 1948, "ah": 1367, "precision": "exact" },
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "what": "Israel is declared. Over 700,000 Palestinians are expelled or flee. Palestinians call it the Nakba, the catastrophe.",
+      "tie": "Palestine holds al-Aqsa, where the Prophet ﷺ was taken on the Night Journey (17:1), so the events of 1948 touched Muslims everywhere.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "haram-expansion",
+      "title": "Widening the Haram",
+      "year": { "ce": 1955, "to": 1973, "precision": "approx" },
+      "place": { "name": "Masjid al-Haram, Makkah", "lat": 21.42, "lng": 39.83 },
+      "what": "Saudi Arabia begins the first great modern expansion of the Masjid al-Haram. Later rebuilding lets millions pray around the Kaaba at once.",
+      "verses": ["2:125"],
+      "tie": "Almost every age has widened the Mosque, from the caliph Umar's time to the Ottomans.",
+      "links": {
+        "polities": ["saudi"],
+        "events": ["saudi-arabia"]
+      },
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "independence",
@@ -144,8 +412,54 @@
       "year": { "ce": 1960, "ah": 1380, "precision": "exact" },
       "place": { "name": "Dakar, Senegal", "lat": 14.72, "lng": -17.47 },
       "what": "Seventeen African states gain independence in one year. Algeria follows in 1962 after an eight-year war.",
+      "tie": "Many of the new states, like Senegal, Mali, Niger, Somalia and Mauritania, were Muslim-majority, and Islam shaped their national life.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "recorded-quran",
+      "title": "The recorded Quran",
+      "year": { "ce": 1961, "precision": "approx" },
+      "place": { "name": "Cairo, Egypt", "lat": 30.05, "lng": 31.26 },
+      "who": ["Mahmoud Khalil al-Husary"],
+      "what": "Mahmoud Khalil al-Husary records the whole Quran in slow, careful recitation. Records, tapes and radio carry it into homes around the world.",
+      "verses": ["73:4"],
+      "tie": "For the first time, anyone anywhere could learn recitation from a master reciter's voice.",
+      "note": "It is widely described as the first complete recorded murattal recitation.",
+      "source": "History",
+      "kind": "revelation"
+    },
+    {
+      "id": "algeria-independence",
+      "title": "Algeria free",
+      "year": { "ce": 1962, "ah": 1382, "precision": "exact" },
+      "place": { "name": "Algiers, Algeria", "lat": 36.75, "lng": 3.06 },
+      "what": "After a war of almost eight years in which hundreds of thousands die, Algeria wins independence, 132 years after the French invasion.",
+      "tie": "Islam was the banner of the resistance; Algerians call their country the land of a million and a half martyrs.",
+      "links": {
+        "polities": ["europe-colonial", "nations"],
+        "events": ["algeria-1830", "algeria-resistance"]
+      },
+      "wiki": "Algerian War",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "malcolm-x-hajj",
+      "title": "Malcolm X at Hajj",
+      "year": { "ce": 1964, "ah": 1383, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Malcolm X"],
+      "what": "Malcolm X makes Hajj and writes home that he has seen pilgrims of every colour living as brothers. He returns as El-Hajj Malik El-Shabazz.",
+      "verses": ["49:13"],
+      "quote": "49:13",
+      "tie": "Hajj puts every race and nation in the same two white cloths, as the Farewell Sermon taught.",
+      "links": {
+        "events": ["today"]
+      },
+      "wiki": "Malcolm X",
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "1967",
@@ -153,6 +467,7 @@
       "year": { "ce": 1967, "ah": 1387, "precision": "exact" },
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "what": "In six days Israel takes East Jerusalem, the West Bank, Gaza, Sinai and the Golan. Al-Aqsa comes under occupation.",
+      "tie": "Al-Aqsa, the first qibla of Muslims, came under Israeli control, while its daily running stayed with an Islamic trust, the Waqf.",
       "source": "History",
       "kind": "world"
     },
@@ -172,8 +487,24 @@
       "place": { "name": "Tehran, Iran", "lat": 35.69, "lng": 51.39 },
       "who": ["Khomeini"],
       "what": "Revolution topples the Shah and makes Iran an Islamic republic. The same year the Soviets invade Afghanistan.",
+      "tie": "It was the first modern revolution made in the name of Islam, and it renewed debates among Muslims everywhere about religion and the state.",
       "source": "History",
       "kind": "world"
+    },
+    {
+      "id": "hajj-terminal",
+      "title": "Hajj by air",
+      "year": { "ce": 1981, "precision": "exact" },
+      "place": { "name": "Hajj Terminal, Jeddah", "lat": 21.68, "lng": 39.16 },
+      "what": "Jeddah's Hajj Terminal opens, a field of tent-shaped roofs built for pilgrims arriving by air. Journeys that once took months now take hours.",
+      "verses": ["22:27"],
+      "tie": "In the 1950s about 100,000 pilgrims a year came from abroad; by 2019 nearly two and a half million performed Hajj.",
+      "note": "Pilgrim numbers follow Saudi official figures and are approximate.",
+      "links": {
+        "events": ["hejaz-railway", "evliya-hajj", "today"]
+      },
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "quran-complex",
@@ -190,6 +521,22 @@
       "year": { "ce": 1991, "ah": 1412, "precision": "exact" },
       "place": { "name": "Tashkent, Uzbekistan", "lat": 41.3, "lng": 69.24 },
       "what": "The Soviet Union collapses. Six Muslim-majority republics from Azerbaijan to Kyrgyzstan become independent states.",
+      "tie": "In the lands of Imam al-Bukhari and al-Tirmidhi, mosques reopened and Muslims could study and practise Islam openly after seventy years of Soviet restriction.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "srebrenica",
+      "title": "Srebrenica",
+      "year": { "ce": 1995, "ah": 1416, "precision": "exact" },
+      "place": { "name": "Srebrenica, Bosnia", "lat": 44.1, "lng": 19.3 },
+      "what": "Bosnian Serb forces overrun the UN 'safe area' of Srebrenica and kill more than 8,000 Bosniak Muslim men and boys. International courts rule it genocide.",
+      "verses": ["5:32"],
+      "tie": "The worst mass killing in Europe since the Second World War, against Muslims whose ancestors accepted Islam under the Ottomans.",
+      "links": {
+        "polities": ["nations"]
+      },
+      "wiki": "Srebrenica massacre",
       "source": "History",
       "kind": "world"
     },
@@ -199,6 +546,7 @@
       "year": { "ce": 2001, "ah": 1422, "precision": "exact" },
       "place": { "name": "Kabul, Afghanistan", "lat": 34.53, "lng": 69.17 },
       "what": "The 9/11 attacks. The United States invades Afghanistan, then Iraq in 2003. Two decades of war follow.",
+      "tie": "Muslim scholars worldwide condemned the attacks, recalling the Quran's teaching that killing one innocent soul is like killing all humanity (5:32).",
       "source": "History",
       "kind": "world"
     },
@@ -208,6 +556,21 @@
       "year": { "ce": 2011, "ah": 1432, "precision": "exact" },
       "place": { "name": "Tunis, Tunisia", "lat": 36.8, "lng": 10.18 },
       "what": "A street vendor's protest in Tunisia sparks uprisings across the Arab world. Four rulers fall; Syria descends into war.",
+      "tie": "Millions took to the streets across the Arab world, and its wars, above all in Syria, drove one of the largest refugee movements of modern times.",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "rohingya",
+      "title": "The Rohingya",
+      "year": { "ce": 2017, "ah": 1438, "precision": "exact" },
+      "place": { "name": "Cox's Bazar, Bangladesh", "lat": 21.21, "lng": 92.16 },
+      "what": "A military crackdown in Myanmar drives more than 700,000 Rohingya Muslims into Bangladesh. The camps at Cox's Bazar become among the largest on earth.",
+      "tie": "Muslims have lived in Arakan, on the Bay of Bengal, for centuries.",
+      "links": {
+        "polities": ["nations"]
+      },
+      "wiki": "Rohingya genocide",
       "source": "History",
       "kind": "world"
     },

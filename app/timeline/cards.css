@@ -1,0 +1,583 @@
+/* Parchment-atlas pieces outside the map: the intro, the "More" drawer, meanwhile cards, name medallions, sharing and
+   the year card. Tokens come from stage.css. */
+
+/* ---------- intro: the hero sits on the paper to the left of the globe ---------- */
+.view-intro {
+  --hero-w: min(500px, 42vw);
+  --inset-l: calc(var(--hero-w) + var(--gap) * 2);
+  --inset-r: 0px;
+  --inset-t: 0px;
+  --inset-b: 0px;
+}
+
+.view-intro .tl-side {
+  left: calc(var(--gap) + 12px);
+  right: auto;
+  width: var(--hero-w);
+  top: 64px;
+}
+
+.view-intro .at-mode,
+.view-intro .at-legend,
+.view-quiz .at-mode,
+.view-quiz .at-legend {
+  display: none;
+}
+
+.ip {
+  background: none;
+  border: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.ip-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 8px 4px 24px;
+}
+
+.ip-title {
+  margin: 10px 0 14px;
+  font: 500 clamp(38px, 4.4vw, 60px) / 1.02 var(--display);
+  letter-spacing: -0.03em;
+  text-wrap: balance;
+}
+
+.ip-lede {
+  margin: 0 0 26px;
+  max-width: 34em;
+  font: 400 18px/1.55 var(--display);
+  color: var(--ink-soft);
+}
+
+.ip-watch {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  padding: 14px 22px 14px 14px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--fg);
+  color: var(--page);
+  text-align: left;
+  cursor: pointer;
+  box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--gold), 0 20px 40px -20px color-mix(in srgb, #3a2610 70%, transparent);
+  transition: transform 0.2s var(--ease);
+}
+
+.ip-watch:hover {
+  transform: translateY(-1px);
+}
+
+.ip-watch:active {
+  transform: scale(0.98);
+}
+
+.ip-watch-icon {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--gold);
+  color: var(--fg);
+}
+
+.ip-watch-icon svg {
+  width: 18px;
+  height: 18px;
+  margin-left: 3px;
+  fill: currentColor;
+}
+
+.ip-watch b {
+  display: block;
+  font: 600 21px/1.2 var(--display);
+}
+
+.ip-watch small {
+  font: 500 13.5px/1.4 var(--ui);
+  opacity: 0.75;
+}
+
+.ip-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.ip-actions .cta {
+  flex: 1;
+  min-height: 44px;
+  font-size: 14px;
+  border-color: var(--line);
+  background: color-mix(in srgb, var(--page) 70%, transparent);
+}
+
+.ip-actions .cta:hover {
+  border-color: var(--gold);
+  opacity: 1;
+}
+
+.ip-birth {
+  margin-top: 26px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.ip-birth label {
+  display: block;
+  margin-bottom: 8px;
+  font: 600 12px/1.3 var(--ui);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.ip-birth div {
+  display: flex;
+  gap: 8px;
+}
+
+.ip-birth input {
+  width: 9.5ch;
+  height: 46px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--page);
+  color: var(--fg);
+  font: 500 20px/1 var(--display);
+  font-variant-numeric: tabular-nums;
+}
+
+.ip-birth input:focus {
+  outline: none;
+  border-color: var(--gold);
+}
+
+.ip-birth button {
+  flex: 1;
+  height: 46px;
+  border: 1px solid var(--fg);
+  border-radius: 12px;
+  background: transparent;
+  color: var(--fg);
+  font: 600 14.5px/1 var(--ui);
+  cursor: pointer;
+}
+
+.ip-birth button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.ip-fact {
+  display: block;
+  margin-top: 22px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--gold);
+  border-radius: 4px 14px 14px 4px;
+  background: color-mix(in srgb, var(--page) 70%, transparent);
+  color: var(--ink-soft);
+  font: 400 15px/1.5 var(--display);
+  text-align: left;
+  cursor: pointer;
+  animation: sp-in 0.6s var(--ease);
+}
+
+.ip-fact small {
+  display: block;
+  margin-bottom: 4px;
+  font: 700 11px/1 var(--ui);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.ip-fact b {
+  color: var(--fg);
+  font-weight: 600;
+}
+
+/* ---------- the "More" drawer ---------- */
+.md {
+  width: min(440px, 100vw);
+  max-width: none;
+  height: 100dvh;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-right: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--fg);
+}
+
+.md[open] {
+  animation: md-in 0.4s var(--ease);
+}
+
+.md::backdrop {
+  background: color-mix(in srgb, #1d140a 38%, transparent);
+  backdrop-filter: blur(2px);
+}
+
+@keyframes md-in {
+  from {
+    transform: translateX(-40px);
+    opacity: 0;
+  }
+}
+
+.md-body {
+  padding: 20px 22px 40px;
+}
+
+.md-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.md-head .eyebrow {
+  margin: 0;
+  color: var(--gold);
+}
+
+.md-watch {
+  display: grid;
+  gap: 2px;
+  width: 100%;
+  margin: 16px 0 14px;
+  padding: 16px 18px;
+  border: 0;
+  border-radius: 16px;
+  background: var(--fg);
+  color: var(--page);
+  text-align: left;
+  cursor: pointer;
+}
+
+.md-watch b {
+  font: 600 20px/1.2 var(--display);
+}
+
+.md-watch span {
+  font-size: 13px;
+  opacity: 0.75;
+}
+
+.md-ways,
+.md-chapters {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.md-ways button,
+.md-chapters button {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  width: 100%;
+  padding: 12px 4px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  background: none;
+  color: var(--fg);
+  text-align: left;
+  cursor: pointer;
+}
+
+.md-ways button {
+  display: grid;
+  gap: 2px;
+}
+
+.md-ways b,
+.md-chapters b {
+  display: block;
+  font: 600 17px/1.25 var(--display);
+}
+
+.md-ways span,
+.md-chapters small {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.md-ways button:hover b,
+.md-chapters button:hover b {
+  color: var(--gold);
+}
+
+.md-h {
+  margin: 28px 0 6px;
+  font: 700 11.5px/1 var(--ui);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.md-n {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid var(--gold);
+  font: 600 15px/1 var(--display);
+  color: var(--gold);
+}
+
+/* ---------- meanwhile cards ---------- */
+.mw {
+  margin-top: 20px;
+}
+
+.mw-h,
+.xp-h {
+  margin: 22px 0 10px;
+  font: 700 11.5px/1 var(--ui);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.mw ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 8px;
+}
+
+.mw a {
+  display: grid;
+  gap: 3px;
+  height: 100%;
+  padding: 11px 13px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--page) 60%, var(--bg));
+  color: var(--fg);
+  transition: border-color 0.2s, transform 0.2s var(--ease);
+}
+
+.mw a:hover {
+  border-color: var(--gold);
+  transform: translateY(-1px);
+}
+
+.mw small {
+  font: 600 11px/1.2 var(--ui);
+  color: var(--muted);
+}
+
+.mw b {
+  font: 600 15.5px/1.25 var(--display);
+}
+
+.mw span {
+  font-size: 12px;
+  color: var(--gold);
+  font-weight: 600;
+}
+
+/* ---------- name medallions: calligraphy instead of faces ---------- */
+.meds {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(78px, 1fr));
+  gap: 12px 6px;
+}
+
+.med {
+  display: grid;
+  justify-items: center;
+  gap: 6px;
+  color: var(--fg);
+  text-align: center;
+}
+
+.med i {
+  display: grid;
+  place-items: center;
+  width: 58px;
+  height: 58px;
+  padding: 6px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, var(--page), color-mix(in srgb, var(--gold) 14%, var(--page)));
+  box-shadow:
+    0 0 0 1.5px var(--gold),
+    0 0 0 4px var(--page),
+    0 0 0 5px color-mix(in srgb, var(--gold) 40%, transparent);
+  font: 700 14px/1.1 var(--arabic);
+  font-style: normal;
+  color: var(--gold);
+  overflow: hidden;
+  transition: transform 0.2s var(--ease);
+}
+
+.med i:not([lang]) {
+  font: 500 24px/1 var(--display);
+}
+
+.med-prophet i {
+  background: radial-gradient(circle at 35% 30%, color-mix(in srgb, var(--gold) 20%, var(--page)), color-mix(in srgb, var(--gold) 38%, var(--page)));
+  color: var(--fg);
+}
+
+.med span {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.med:hover i {
+  transform: scale(1.06);
+}
+
+/* ---------- share ---------- */
+.share {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--fg);
+  font: 600 12.5px/1 var(--ui);
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.share:hover,
+.share.done {
+  border-color: var(--gold);
+}
+
+.share svg {
+  width: 14px;
+  height: 14px;
+}
+
+.sp-body > article > .share {
+  margin-top: 12px;
+}
+
+.sp-head .share {
+  height: 26px;
+  flex: none;
+}
+
+/* ---------- year card ---------- */
+.xp-birth {
+  margin-bottom: 16px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: var(--rewardBg);
+  border: 1px solid color-mix(in srgb, var(--gold) 40%, transparent);
+  font: 400 16px/1.5 var(--display);
+}
+
+.xp-birth p {
+  margin: 0;
+}
+
+.xp-birth .eyebrow {
+  margin-bottom: 4px;
+  color: var(--gold);
+}
+
+.xp-find {
+  margin-top: 22px;
+}
+
+.xp-find summary {
+  cursor: pointer;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.xp-find .xp-search {
+  margin-top: 10px;
+}
+
+.xp-lines a.dot {
+  color: var(--fg);
+}
+
+.xp-lines a.dot:hover {
+  text-decoration: underline;
+}
+
+/* ---------- phones ---------- */
+@media (max-width: 880px) {
+  .view-intro {
+    --inset-l: 0px;
+  }
+
+  .view-intro .tl-stage {
+    flex-basis: 40%;
+  }
+
+  .view-intro .tl-side {
+    left: auto;
+    width: auto;
+    top: auto;
+  }
+
+  .ip {
+    background: var(--bg);
+  }
+
+  .ip-body {
+    justify-content: flex-start;
+    padding: 18px 18px 28px;
+  }
+
+  .ip-title {
+    font-size: 34px;
+  }
+
+  .ip-lede {
+    font-size: 16px;
+    margin-bottom: 18px;
+  }
+
+  .md {
+    width: 100vw;
+  }
+}
+
+.qz-share {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.qz-share .share {
+  height: 48px;
+  padding: 0 18px;
+  font-size: 14px;
+}

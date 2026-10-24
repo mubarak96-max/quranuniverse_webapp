@@ -19,6 +19,86 @@
       "kind": "prophet"
     },
     {
+      "id": "opening-of-chest",
+      "title": "Halimah and the opening of the chest",
+      "year": { "ce": 574, "precision": "traditional" },
+      "place": { "name": "Lands of Banu Sa'd, near Taif", "lat": 21.1, "lng": 40.3 },
+      "who": ["Muhammad ﷺ", "Halimah", "Jibril"],
+      "what": "Raised in the desert by his nurse Halimah, the young boy is visited by Jibril, who opens his chest and washes his heart.",
+      "verses": ["94:1"],
+      "note": "Reported by Muslim from Anas. Some link 94:1 to this event; most commentators read it as the opening of his heart to guidance.",
+      "links": { "prophets": ["muhammad"] },
+      "source": "Seerah, Muslim",
+      "kind": "prophet"
+    },
+    {
+      "id": "aminah-dies",
+      "title": "An orphan at six",
+      "year": { "ce": 576, "precision": "approx" },
+      "place": { "name": "al-Abwa, between Makkah and Madinah", "lat": 23.08, "lng": 39.08 },
+      "who": ["Muhammad ﷺ", "Aminah", "Abd al-Muttalib", "Abu Talib"],
+      "what": "Returning from Madinah, his mother Aminah dies at al-Abwa. His grandfather Abd al-Muttalib takes him in, and two years later his uncle Abu Talib.",
+      "verses": ["93:6"],
+      "quote": "93:6",
+      "links": { "prophets": ["muhammad"] },
+      "source": "Seerah",
+      "kind": "prophet"
+    },
+    {
+      "id": "bahira",
+      "title": "The monk Bahira",
+      "year": { "ce": 582, "precision": "traditional" },
+      "place": { "name": "Busra, Syria", "lat": 32.52, "lng": 36.48 },
+      "who": ["Muhammad ﷺ", "Abu Talib", "Bahira"],
+      "what": "On a trading trip to Syria with Abu Talib, the boy is noticed by the monk Bahira, who sees in him the signs of a prophet and warns his uncle to guard him.",
+      "routes": [
+        {
+          "points": [[21.42, 39.83, "Makkah"], [24.47, 39.61, "Yathrib"], [28.38, 36.57, "Tabuk"], [32.52, 36.48, "Busra"]]
+        }
+      ],
+      "note": "Reported by al-Tirmidhi and in the seerah. Scholars accept the core of the story but question some details of the report.",
+      "links": { "prophets": ["muhammad"], "polities": ["byzantium"] },
+      "source": "Seerah, Tirmidhi",
+      "kind": "prophet"
+    },
+    {
+      "id": "fijar",
+      "title": "The Sacrilegious War",
+      "year": { "ce": 589, "precision": "traditional" },
+      "place": { "name": "Ukaz, near Taif", "lat": 21.6, "lng": 40.6 },
+      "who": ["Muhammad ﷺ", "Quraysh"],
+      "what": "Quraysh and Hawazin fight the Fijar war, breaking the truce of the sacred months. The young Muhammad ﷺ gathers arrows for his uncles.",
+      "note": "Ibn Ishaq gives his age as fourteen or twenty; the dates of the war vary.",
+      "source": "Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "gregory-great",
+      "title": "Gregory the Great",
+      "year": { "ce": 590, "to": 604, "precision": "exact" },
+      "place": { "name": "Rome, Italy", "lat": 41.9, "lng": 12.45 },
+      "who": ["Pope Gregory I"],
+      "what": "Gregory the Great becomes Pope in Rome and sends monks to convert the English. The Western church gathers around the papacy.",
+      "verses": ["3:64"],
+      "tie": "Within a generation the Quran would address these churches as People of the Book, calling them to a common word (3:64).",
+      "links": { "polities": ["rome"] },
+      "wiki": "Pope Gregory I",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "hilf-al-fudul",
+      "title": "The Pact of the Virtuous",
+      "year": { "ce": 590, "precision": "traditional" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Quraysh"],
+      "what": "After a visiting merchant is cheated, clans of Makkah swear in the house of Abdullah ibn Jud'an to stand with anyone wronged. He takes part and never forgets it.",
+      "camera": { "zoom": 9 },
+      "note": "His later words, that he would answer such a call even in Islam, are reported by Ibn Ishaq and al-Bayhaqi.",
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
       "id": "khadijah",
       "title": "Marriage to Khadijah",
       "year": { "ce": 595, "precision": "approx" },
@@ -28,6 +108,20 @@
       "camera": { "zoom": 8 },
       "source": "Seerah",
       "kind": "prophet"
+    },
+    {
+      "id": "persia-rome-war",
+      "title": "The last war of the old empires",
+      "year": { "ce": 602, "to": 628, "precision": "exact" },
+      "place": { "name": "Dara, Mesopotamia", "lat": 37.18, "lng": 40.94 },
+      "who": ["Khosrow II", "Heraclius"],
+      "what": "The emperor Maurice is murdered and Khosrow II of Persia invades Byzantium. A war of 26 years drains both empires of men and money.",
+      "verses": ["30:2-4"],
+      "tie": "Surah ar-Rum was revealed in the middle of this war, and both worn-out empires lost their eastern lands to the Muslims soon after it.",
+      "links": { "polities": ["sasanian", "byzantium"], "events": ["persia-takes-jerusalem", "heraclius-wins"] },
+      "wiki": "Byzantine–Sasanian War of 602–628",
+      "source": "Quran, History",
+      "kind": "world"
     },
     {
       "id": "black-stone",
@@ -41,6 +135,20 @@
       "kind": "event"
     },
     {
+      "id": "harsha",
+      "title": "Harsha's India",
+      "year": { "ce": 606, "to": 647, "precision": "exact" },
+      "place": { "name": "Kannauj, India", "lat": 27.05, "lng": 79.92 },
+      "who": ["Harsha"],
+      "what": "King Harsha rules northern India from Kannauj. The Chinese monk Xuanzang studies at his court and at the great Buddhist university of Nalanda.",
+      "tie": "Arab merchants already sailed to India's coasts, and Islam reached Sindh by land and sea within a century (711).",
+      "note": "A mosque at Kodungallur in Kerala is traditionally dated to the Prophet's lifetime, but there is no firm evidence for the date.",
+      "links": { "events": ["sindh"] },
+      "wiki": "Harsha",
+      "source": "History",
+      "kind": "world"
+    },
+    {
       "id": "hira",
       "title": "The first revelation",
       "year": { "ce": 610, "precision": "exact" },
@@ -50,6 +158,38 @@
       "verses": ["96:1-5", "97:1-5"],
       "camera": { "zoom": 8 },
       "article": "laylatul-qadr",
+      "source": "Quran, Bukhari",
+      "kind": "revelation"
+    },
+    {
+      "id": "waraqa-namus",
+      "title": "Waraqa's word",
+      "year": { "ce": 610, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Khadijah", "Waraqa ibn Nawfal"],
+      "what": "Shaking, he comes home from Hira. Khadijah comforts him and takes him to her cousin Waraqa, an old Christian scholar, who says this is the angel that came to Musa.",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 3", "url": "https://sunnah.com/bukhari:3" }
+      ],
+      "camera": { "zoom": 9 },
+      "links": { "prophets": ["muhammad", "musa"], "events": ["hira"] },
+      "source": "Bukhari",
+      "kind": "revelation"
+    },
+    {
+      "id": "arise-and-warn",
+      "title": "Arise and warn",
+      "year": { "ce": 610, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Jibril"],
+      "what": "After a pause in revelation, he sees Jibril again between sky and earth. Surah al-Muddaththir comes down: Arise and warn. The mission begins.",
+      "verses": ["74:1-7"],
+      "quote": "74:2",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 4", "url": "https://sunnah.com/bukhari:4" }
+      ],
+      "note": "Reports differ on how long the pause in revelation lasted.",
+      "links": { "prophets": ["muhammad"] },
       "source": "Quran, Bukhari",
       "kind": "revelation"
     },
@@ -72,9 +212,23 @@
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "who": ["Khosrow II", "Heraclius"],
       "what": "Persia takes Jerusalem from Byzantium. The Quran predicts Rome will win again within a few years.",
+      "tie": "Makkah's idol-worshippers cheered Persia's win while the Muslims sided with Christian Rome; Surah ar-Rum answered that Rome would win again within a few years (30:2-4).",
       "verses": ["30:2-5"],
       "source": "Quran, History",
       "kind": "world"
+    },
+    {
+      "id": "bilal-ahad",
+      "title": "Bilal: One, One",
+      "year": { "ce": 614, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Bilal ibn Rabah", "Umayyah ibn Khalaf", "Abu Bakr"],
+      "what": "His master Umayyah lays a rock on Bilal's chest in the desert sun. Bilal answers only: One, One. Abu Bakr buys him and sets him free.",
+      "verses": ["92:17-21"],
+      "note": "Many commentators say 92:17-21 speak of Abu Bakr, who spent his wealth freeing tortured slaves.",
+      "links": { "villains": ["umayyah"] },
+      "source": "Seerah, Tafsir",
+      "kind": "event"
     },
     {
       "id": "abyssinia",
@@ -91,6 +245,33 @@
       ],
       "source": "Seerah",
       "kind": "event"
+    },
+    {
+      "id": "sumayyah",
+      "title": "Sumayyah, the first martyr",
+      "year": { "ce": 615, "precision": "approx" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Sumayyah bint Khayyat", "Ammar ibn Yasir", "Abu Jahl"],
+      "what": "Sumayyah, a woman with no tribe to protect her, refuses to give up Islam and is killed by Abu Jahl. She is the first martyr of Islam.",
+      "verses": ["16:106"],
+      "note": "Commentators say 16:106 was revealed about her son Ammar, forced under torture to say words of disbelief. 'Patience, family of Yasir, your promised place is Paradise' is reported by al-Hakim and al-Tabarani.",
+      "links": { "villains": ["abu-jahl"] },
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "pakal",
+      "title": "Pakal of Palenque",
+      "year": { "ce": 615, "to": 683, "precision": "exact" },
+      "place": { "name": "Palenque, Mexico", "lat": 17.48, "lng": -92.05 },
+      "who": ["Pakal"],
+      "what": "Pakal the Great rules the Maya city of Palenque for 68 years and is buried in a carved tomb, while to the north great Teotihuacan lies in ruins.",
+      "verses": ["35:24", "40:78"],
+      "tie": "The Quran says no nation was left without a warner (35:24), even peoples whose stories it does not tell (40:78).",
+      "links": { "polities": ["maya"] },
+      "wiki": "Palenque",
+      "source": "History",
+      "kind": "world"
     },
     {
       "id": "umar-hamzah",
@@ -121,6 +302,7 @@
       "year": { "ce": 618, "precision": "exact" },
       "place": { "name": "Chang'an, China", "lat": 34.27, "lng": 108.9 },
       "what": "The Tang dynasty begins in China. Its capital Chang'an is the largest city on earth. Muslim traders arrive by sea and land.",
+      "tie": "In 651 envoys of the caliph Uthman reached the Tang court, the first official contact between China and the Muslims, recorded in Chinese annals.",
       "source": "History",
       "kind": "world"
     },
@@ -138,6 +320,35 @@
       ],
       "source": "Seerah",
       "kind": "event"
+    },
+    {
+      "id": "taif",
+      "title": "The day at Taif",
+      "year": { "ce": 619, "precision": "exact" },
+      "place": { "name": "Taif, Saudi Arabia", "lat": 21.27, "lng": 40.42 },
+      "who": ["Muhammad ﷺ", "Zayd ibn Harithah"],
+      "what": "Taif's leaders set boys to stone him out of town. The angel of the mountains offers to crush those who rejected him. He refuses, hoping their children will worship Allah.",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 3231", "url": "https://sunnah.com/bukhari:3231" }
+      ],
+      "note": "Ibn Ishaq adds that Addas, a Christian servant from Nineveh, brought him grapes and believed when he spoke of Yunus as his brother prophet.",
+      "links": { "prophets": ["muhammad", "yunus"], "events": ["year-of-sorrow"] },
+      "source": "Bukhari, Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "jinn-nakhlah",
+      "title": "The jinn listen",
+      "year": { "ce": 619, "precision": "approx" },
+      "place": { "name": "Wadi Nakhlah, near Makkah", "lat": 21.55, "lng": 40.1 },
+      "who": ["Muhammad ﷺ"],
+      "what": "At Nakhlah, as he recites the Quran in prayer, a band of jinn stop to listen. They believe and go back to their people as warners.",
+      "verses": ["46:29-32", "72:1-2"],
+      "quote": "72:1",
+      "note": "Ibn Ishaq places this on the way back from Taif. A report from Ibn Abbas in al-Bukhari and Muslim places a listening at Nakhlah during the dawn prayer. Scholars say the jinn came more than once.",
+      "links": { "prophets": ["muhammad"] },
+      "source": "Quran, Bukhari",
+      "kind": "revelation"
     },
     {
       "id": "isra-miraj",
@@ -203,6 +414,20 @@
       "kind": "event"
     },
     {
+      "id": "madinah-charter",
+      "title": "The Charter of Madinah",
+      "year": { "ce": 622, "ah": 1, "precision": "approx" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Muhajirun", "Ansar"],
+      "what": "A written charter makes the Muslims, the Jewish clans and the Arab tribes of Madinah one community for defence. Disputes go to Allah and His Messenger.",
+      "camera": { "zoom": 8 },
+      "note": "The text survives through Ibn Ishaq and Abu Ubayd. Historians debate whether it was one document or several agreements made over time.",
+      "links": { "polities": ["madinah"], "events": ["madinah-community"] },
+      "wiki": "Constitution of Medina",
+      "source": "Seerah",
+      "kind": "event"
+    },
+    {
       "id": "qiblah",
       "title": "The qiblah changes",
       "year": { "ce": 624, "ah": 2, "precision": "exact" },
@@ -234,6 +459,20 @@
       "kind": "battle"
     },
     {
+      "id": "qaynuqa",
+      "title": "Banu Qaynuqa",
+      "year": { "ce": 624, "ah": 2, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Abdullah ibn Ubayy"],
+      "what": "Weeks after Badr, a quarrel in the market of the Banu Qaynuqa turns deadly and the tribe breaks its pact. After a siege they leave Madinah for Syria.",
+      "verses": ["3:12-13"],
+      "camera": { "zoom": 8 },
+      "note": "Ibn Ishaq reports that 3:12-13 were said to them in their market after Badr. Abdullah ibn Ubayy pleaded for them.",
+      "links": { "villains": ["ibn-ubayy"] },
+      "source": "Seerah, Tafsir",
+      "kind": "event"
+    },
+    {
       "id": "uhud",
       "title": "The Battle of Uhud",
       "year": { "ce": 625, "ah": 3, "precision": "exact" },
@@ -244,6 +483,48 @@
       "quote": "3:139",
       "camera": { "zoom": 9 },
       "source": "Quran, Seerah",
+      "kind": "battle"
+    },
+    {
+      "id": "bir-maunah",
+      "title": "The well of Ma'unah",
+      "year": { "ce": 625, "ah": 4, "precision": "exact" },
+      "place": { "name": "Bi'r Ma'unah, Najd", "lat": 24.3, "lng": 41.3 },
+      "who": ["Muhammad ﷺ"],
+      "what": "Seventy reciters of the Quran, sent to teach in Najd, are ambushed and killed at the well of Ma'unah. For a month he prays against the killers.",
+      "note": "Reported by al-Bukhari from Anas. The same season another small group of teachers was betrayed at al-Raji'. The well's exact site is uncertain.",
+      "source": "Bukhari, Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "banu-nadir",
+      "title": "The Banu Nadir",
+      "year": { "ce": 625, "ah": 4, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ"],
+      "what": "The Banu Nadir plot to drop a stone on him from a roof. Besieged in their forts, they leave for Khaybar, pulling down their own houses. Surah al-Hashr tells it.",
+      "verses": ["59:2-4"],
+      "quote": { "ref": "59:2", "from": "they thought that their fortresses", "to": "protect them from Allah" },
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [25.7, 39.29, "Khaybar"]]
+        }
+      ],
+      "note": "Ibn Abbas called al-Hashr 'the surah of Banu Nadir' (reported by al-Bukhari).",
+      "links": { "events": ["khaybar"] },
+      "source": "Quran, Seerah",
+      "kind": "event"
+    },
+    {
+      "id": "dhat-al-riqa",
+      "title": "Dhat al-Riqa'",
+      "year": { "ce": 625, "ah": 4, "precision": "traditional" },
+      "place": { "name": "Nakhl, Najd", "lat": 24.9, "lng": 40.6 },
+      "who": ["Muhammad ﷺ"],
+      "what": "On a hard march into Najd, the men wrap their torn feet in rags. Facing an enemy, they pray the prayer of fear in turns, weapons in hand.",
+      "verses": ["4:102"],
+      "note": "Ibn Ishaq dates it to 4 AH; al-Bukhari places it after Khaybar (7 AH) because Abu Musa, who explains the name 'the one with the rags', took part.",
+      "source": "Quran, Bukhari",
       "kind": "battle"
     },
     {
@@ -261,6 +542,39 @@
       ],
       "source": "Quran, Seerah",
       "kind": "battle"
+    },
+    {
+      "id": "banu-mustaliq",
+      "title": "Banu al-Mustaliq",
+      "year": { "ce": 627, "ah": 5, "precision": "traditional" },
+      "place": { "name": "al-Muraysi', near the Red Sea", "lat": 22.5, "lng": 39.2 },
+      "who": ["Muhammad ﷺ", "Abdullah ibn Ubayy", "Juwayriyah", "Zayd ibn Arqam"],
+      "what": "On campaign, Abdullah ibn Ubayy says the honoured will drive the humble out of Madinah. Young Zayd ibn Arqam reports it, and Surah al-Munafiqun confirms him.",
+      "verses": ["63:7-8"],
+      "quote": "63:8",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 4900", "url": "https://sunnah.com/bukhari:4900" }
+      ],
+      "note": "Dated to 5 AH by Musa ibn Uqbah and Ibn Sa'd, to 6 AH by Ibn Ishaq. His marriage to Juwayriyah, the chief's daughter, led the Companions to free her captive people.",
+      "links": { "villains": ["ibn-ubayy"] },
+      "source": "Quran, Bukhari",
+      "kind": "battle"
+    },
+    {
+      "id": "ifk",
+      "title": "The slander against Aisha",
+      "year": { "ce": 627, "ah": 5, "precision": "traditional" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Aisha", "Muhammad ﷺ", "Abdullah ibn Ubayy"],
+      "what": "Left behind on the march home, Aisha is brought back by a Companion, and hypocrites spread a lie. After a month of pain, verses of Surah an-Nur declare her innocent.",
+      "verses": ["24:11-20"],
+      "quote": "24:12",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 4750", "url": "https://sunnah.com/bukhari:4750" }
+      ],
+      "links": { "villains": ["ibn-ubayy"], "events": ["banu-mustaliq"] },
+      "source": "Quran, Bukhari",
+      "kind": "revelation"
     },
     {
       "id": "hudaybiyyah",
@@ -325,10 +639,26 @@
       "place": { "name": "Nineveh, Iraq", "lat": 36.36, "lng": 43.15 },
       "who": ["Heraclius", "Khosrow II"],
       "what": "Heraclius crushes Persia at Nineveh. Surah ar-Rum's prediction comes true within the stated few years.",
+      "tie": "Abu Bakr had wagered with Quraysh, before betting was forbidden, that Rome would win; the Quran had said 'that day the believers will rejoice' (30:4).",
       "verses": ["30:2-5"],
       "quote": "30:3",
       "source": "Quran, History",
       "kind": "world"
+    },
+    {
+      "id": "ridwan",
+      "title": "The pledge under the tree",
+      "year": { "ce": 628, "ah": 6, "precision": "exact" },
+      "place": { "name": "Hudaybiyyah, Makkah", "lat": 21.44, "lng": 39.7 },
+      "who": ["Muhammad ﷺ", "Uthman ibn Affan"],
+      "what": "A rumour says Uthman, sent as envoy to Makkah, has been killed. Under a tree some 1,400 Companions pledge to stand firm. Allah says He is pleased with them.",
+      "verses": ["48:10", "48:18"],
+      "quote": { "ref": "48:18", "from": "Certainly was Allah pleased", "to": "under the tree" },
+      "camera": { "zoom": 9 },
+      "note": "The number is given as 1,400 or 1,500 in al-Bukhari and Muslim.",
+      "links": { "events": ["hudaybiyyah"] },
+      "source": "Quran, Bukhari",
+      "kind": "event"
     },
     {
       "id": "mutah",
@@ -344,6 +674,40 @@
       ],
       "source": "Seerah, Bukhari",
       "kind": "battle"
+    },
+    {
+      "id": "heraclius-abu-sufyan",
+      "title": "Heraclius questions Abu Sufyan",
+      "year": { "ce": 629, "precision": "approx" },
+      "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
+      "who": ["Heraclius", "Abu Sufyan"],
+      "what": "Heraclius, in Jerusalem after his victory, questions Abu Sufyan about the Prophet ﷺ. Each answer convinces him, but his court rages and he keeps his throne.",
+      "verses": ["3:64"],
+      "hadith": [
+        { "label": "Sahih al-Bukhari 7", "url": "https://sunnah.com/bukhari:7" }
+      ],
+      "tie": "Abu Sufyan, still an enemy, could not lie before his own men, so a Roman emperor heard the truth about Islam from its opponent.",
+      "links": { "polities": ["byzantium"], "events": ["letters-to-kings", "heraclius-wins"] },
+      "source": "Bukhari",
+      "kind": "world"
+    },
+    {
+      "id": "umrat-al-qada",
+      "title": "The fulfilled umrah",
+      "year": { "ce": 629, "ah": 7, "precision": "exact" },
+      "place": { "name": "Makkah", "lat": 21.42, "lng": 39.83 },
+      "who": ["Muhammad ﷺ", "Maymunah"],
+      "what": "As agreed at Hudaybiyyah, the Muslims return for three days of umrah while Quraysh watch from the hills. The vision of 48:27 comes true.",
+      "verses": ["48:27"],
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [23, 39.25], [21.42, 39.83, "Makkah"]]
+        }
+      ],
+      "note": "The Companions jogged the first rounds to show Quraysh their strength (al-Bukhari, from Ibn Abbas). On this visit he married Maymunah.",
+      "links": { "events": ["hudaybiyyah"] },
+      "source": "Quran, Seerah",
+      "kind": "event"
     },
     {
       "id": "fath-makkah",
@@ -390,6 +754,18 @@
       "kind": "battle"
     },
     {
+      "id": "najashi-prayer",
+      "title": "Prayer for the Najashi",
+      "year": { "ce": 630, "ah": 9, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Najashi"],
+      "what": "The Najashi of Abyssinia, who sheltered the first Muslim refugees, dies. The Prophet ﷺ tells the people the same day and leads his funeral prayer in Madinah.",
+      "note": "Reported by al-Bukhari and Muslim. Scholars hold the Najashi had accepted Islam.",
+      "links": { "polities": ["aksum"], "events": ["abyssinia"] },
+      "source": "Bukhari",
+      "kind": "event"
+    },
+    {
       "id": "delegations",
       "title": "The Year of Delegations",
       "year": { "ce": 631, "ah": 9, "precision": "exact" },
@@ -400,6 +776,20 @@
       "camera": { "zoom": 6 },
       "source": "Seerah",
       "kind": "event"
+    },
+    {
+      "id": "hajj-obligatory",
+      "title": "The Hajj of Abu Bakr",
+      "year": { "ce": 631, "ah": 9, "precision": "exact" },
+      "place": { "name": "Mina, Makkah", "lat": 21.41, "lng": 39.89 },
+      "who": ["Abu Bakr", "Ali ibn Abi Talib"],
+      "what": "Abu Bakr leads the Hajj. Ali reads the opening of Surah at-Tawbah: after this year no idolater may make Hajj, and none may circle the Kaaba naked.",
+      "verses": ["3:97", "9:1-3", "9:28"],
+      "quote": { "ref": "3:97", "from": "And [due] to Allah from the people is a pilgrimage", "to": "find thereto a way." },
+      "note": "Scholars differ on when Hajj became obligatory: 6, 9 or 10 AH. The proclamation is reported by al-Bukhari from Abu Hurayrah.",
+      "links": { "people": ["ali"], "events": ["farewell-hajj"] },
+      "source": "Quran, Bukhari",
+      "kind": "revelation"
     },
     {
       "id": "farewell-hajj",
@@ -430,6 +820,37 @@
       "camera": { "zoom": 8 },
       "source": "Quran, Bukhari",
       "kind": "prophet"
+    },
+    {
+      "id": "ibrahim-eclipse",
+      "title": "Ibrahim and the eclipse",
+      "year": { "ce": 632, "ah": 10, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ", "Ibrahim ibn Muhammad"],
+      "what": "His baby son Ibrahim dies and the sun goes dark. People say it is for Ibrahim. He tells them the sun and moon do not eclipse for anyone's death.",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 1043", "url": "https://sunnah.com/bukhari:1043" },
+        { "label": "Sahih al-Bukhari 1303", "url": "https://sunnah.com/bukhari:1303" }
+      ],
+      "camera": { "zoom": 8 },
+      "note": "An annular eclipse crossed Arabia on 27 January 632, matching the reports. Weeping, he said: the eye sheds tears and the heart grieves, but we say only what pleases our Lord.",
+      "links": { "prophets": ["muhammad"] },
+      "source": "Bukhari",
+      "kind": "prophet"
+    },
+    {
+      "id": "last-verse",
+      "title": "The last verses",
+      "year": { "ce": 632, "ah": 11, "precision": "approx" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Muhammad ﷺ"],
+      "what": "Shortly before his death the final verses come down. Many scholars say the very last was: And fear a Day when you will be returned to Allah.",
+      "verses": ["2:281", "2:278", "4:176"],
+      "quote": "2:281",
+      "note": "5:3, revealed at Arafat, completes the religion but is not the last verse by most accounts. Ibn Abbas named 2:281 (al-Nasa'i) and the verses on usury (al-Bukhari); al-Bara named 4:176 (al-Bukhari).",
+      "links": { "events": ["farewell-hajj"] },
+      "source": "Quran, Tafsir",
+      "kind": "revelation"
     }
   ]
 }

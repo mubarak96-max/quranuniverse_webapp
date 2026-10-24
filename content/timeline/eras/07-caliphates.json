@@ -13,9 +13,45 @@
       "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
       "who": ["Abu Bakr"],
       "what": "Abu Bakr is chosen as the first caliph. Tribes that renounce Islam or refuse zakat are brought back in the Ridda wars.",
+      "tie": "Abu Bakr also had the Quran gathered into one written collection, after many of those who knew it by heart were killed at Yamama.",
       "camera": { "zoom": 6 },
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "ridda",
+      "title": "The Ridda wars",
+      "year": { "ce": 632, "to": 633, "ah": 11, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Abu Bakr", "Khalid ibn al-Walid"],
+      "what": "Tribes across Arabia refuse zakat or follow false prophets. Abu Bakr will not bargain: prayer and zakat stand together. Within a year Arabia is united again.",
+      "verses": ["5:54"],
+      "routes": [
+        {
+          "points": [[24.47, 39.61, "Madinah"], [25.2, 43.5], [24.9, 46.45, "Yamamah"], [25.38, 49.59, "Bahrain"]]
+        },
+        {
+          "points": [[24.47, 39.61, "Madinah"], [21.42, 39.83], [17.5, 43.6], [15.35, 44.2, "Sana'a"]]
+        }
+      ],
+      "note": "His words 'By Allah, I will fight whoever separates prayer from zakat' are reported by al-Bukhari and Muslim. Some early commentators read 5:54 as pointing to Abu Bakr and those who fought the apostates.",
+      "links": { "villains": ["musaylimah", "aswad"], "polities": ["rashidun"], "events": ["abu-bakr"] },
+      "wiki": "Ridda Wars",
+      "source": "History, Bukhari",
+      "kind": "battle"
+    },
+    {
+      "id": "yamamah",
+      "title": "Musaylimah at Yamamah",
+      "year": { "ce": 632, "ah": 11, "precision": "approx" },
+      "place": { "name": "Aqraba, Yamamah", "lat": 24.9, "lng": 46.45 },
+      "who": ["Khalid ibn al-Walid", "Musaylimah", "Wahshi"],
+      "what": "Khalid defeats the false prophet Musaylimah in a walled orchard later called the Garden of Death. Hundreds of Muslims fall, many of them memorisers of the Quran.",
+      "note": "Usually dated to late 11 AH (December 632). Wahshi, who had killed Hamzah at Uhud, is among those credited with killing Musaylimah.",
+      "links": { "villains": ["musaylimah"], "events": ["quran-collected"] },
+      "wiki": "Battle of Yamama",
+      "source": "History",
+      "kind": "battle"
     },
     {
       "id": "quran-collected",
@@ -30,14 +66,43 @@
       "kind": "revelation"
     },
     {
+      "id": "khalid-iraq",
+      "title": "Khalid in Iraq",
+      "year": { "ce": 633, "to": 634, "ah": 12, "precision": "exact" },
+      "place": { "name": "al-Hira, Iraq", "lat": 31.98, "lng": 44.4 },
+      "who": ["Khalid ibn al-Walid"],
+      "what": "Khalid wins battle after battle against Persia in southern Iraq and al-Hira surrenders. Then he crosses the waterless Syrian desert to join the armies in Syria.",
+      "routes": [
+        {
+          "points": [[24.9, 46.45, "Yamamah"], [29.4, 47.7, "Kazima"], [30.9, 46.2], [31.98, 44.4, "al-Hira"], [32.57, 43.49, "Ayn al-Tamr"], [34.55, 38.27, "Palmyra"], [33.51, 36.29, "Damascus"]]
+        }
+      ],
+      "links": { "polities": ["sasanian", "rashidun"] },
+      "source": "History",
+      "kind": "battle"
+    },
+    {
       "id": "umar",
       "title": "Umar ibn al-Khattab",
       "year": { "ce": 634, "ah": 13, "precision": "exact" },
       "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
       "who": ["Umar ibn al-Khattab"],
       "what": "Umar becomes caliph. He sets up the Hijri calendar, a treasury, stipends and courts across the new lands.",
+      "tie": "Umar dated the calendar from the Hijra, so every Islamic date, including the AH years in this timeline, counts from the Prophet's ﷺ migration.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "damascus-634",
+      "title": "Damascus opens its gates",
+      "year": { "ce": 634, "ah": 13, "precision": "approx" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "who": ["Khalid ibn al-Walid", "Abu Ubaydah ibn al-Jarrah"],
+      "what": "As news comes that Abu Bakr has died and Umar leads, the Muslims take Damascus. It surrenders on terms that protect its churches and people.",
+      "note": "Some chroniclers date the surrender to 635 (14 AH). The city was briefly given up before Yarmuk and taken for good after it.",
+      "links": { "polities": ["byzantium", "rashidun"], "events": ["yarmuk"] },
+      "source": "History",
+      "kind": "battle"
     },
     {
       "id": "yarmuk",
@@ -60,14 +125,39 @@
       "kind": "battle"
     },
     {
+      "id": "garrison-cities",
+      "title": "Basra and Kufa",
+      "year": { "ce": 636, "to": 638, "ah": 14, "precision": "approx" },
+      "place": { "name": "Basra, Iraq", "lat": 30.5, "lng": 47.81 },
+      "who": ["Umar ibn al-Khattab", "Sad ibn Abi Waqqas"],
+      "what": "Basra and Kufa are founded as camp towns for the armies in Iraq. Within a century they are great cities of Quran reading, grammar and law.",
+      "tie": "Most Muslims today recite the Quran in the reading of Asim of Kufa as passed on by Hafs, and Arabic grammar was first written down in Basra.",
+      "note": "The founding dates vary in the sources between 635 and 638.",
+      "links": { "polities": ["rashidun"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
       "id": "jerusalem-umar",
       "title": "Umar enters Jerusalem",
       "year": { "ce": 637, "ah": 16, "precision": "exact" },
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "who": ["Umar ibn al-Khattab", "Sophronius"],
       "what": "Jerusalem surrenders to Umar in person. Churches are protected by a written pact. He prays outside the church to keep it Christian.",
+      "tie": "Al-Aqsa, the first qibla and the end of the Night Journey (17:1), came under Muslim rule, and Umar cleared its ground for prayer.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "amwas",
+      "title": "The plague of Amwas",
+      "year": { "ce": 639, "ah": 18, "precision": "exact" },
+      "place": { "name": "Amwas, Palestine", "lat": 31.84, "lng": 34.99 },
+      "who": ["Umar ibn al-Khattab", "Abu Ubaydah ibn al-Jarrah", "Muadh ibn Jabal"],
+      "what": "Plague sweeps the army in Syria. Abu Ubaydah and Muadh ibn Jabal die with thousands. Umar, on his way north, turns back as the Prophet ﷺ taught.",
+      "note": "The hadith 'If you hear of plague in a land, do not go there; if it breaks out where you are, do not flee' is reported by al-Bukhari and Muslim.",
+      "source": "History, Bukhari",
+      "kind": "event"
     },
     {
       "id": "egypt-conquered",
@@ -76,6 +166,7 @@
       "place": { "name": "Fustat, Egypt", "lat": 30, "lng": 31.23 },
       "who": ["Amr ibn al-As"],
       "what": "Amr takes Egypt from Byzantium and founds Fustat, the seed of Cairo, with the first mosque in Africa.",
+      "tie": "The Prophet ﷺ told his companions to treat Egypt's people well, for they have protection and kinship, which scholars explain through Hajar and Mariya.",
       "routes": [
         {
           "points": [[31.5, 34.45, "Gaza"], [31.04, 32.55, "Pelusium"], [30, 31.23, "Fustat"]]
@@ -94,6 +185,59 @@
       "kind": "battle"
     },
     {
+      "id": "alexandria-642",
+      "title": "Amr in Alexandria",
+      "year": { "ce": 642, "ah": 21, "precision": "exact" },
+      "place": { "name": "Alexandria, Egypt", "lat": 31.2, "lng": 29.92 },
+      "who": ["Amr ibn al-As"],
+      "what": "Alexandria, Egypt's Greek capital, surrenders to Amr by treaty and the Byzantine garrison sails away. A Byzantine fleet retakes it in 645; Amr wins it back.",
+      "tie": "Egypt, the land of Musa and Firaun in the Quran, becomes Muslim land and in time the home of al-Azhar.",
+      "note": "The story that Amr burned the Library of Alexandria appears only centuries later. Most historians reject it.",
+      "links": { "prophets": ["musa"], "polities": ["byzantium", "rashidun"], "events": ["egypt-conquered", "al-azhar"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "umar-martyred",
+      "title": "Umar is martyred",
+      "year": { "ce": 644, "ah": 23, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Umar ibn al-Khattab", "Uthman ibn Affan"],
+      "what": "Umar is stabbed while leading the dawn prayer. Dying, he names six Companions to choose the next caliph from among themselves. They choose Uthman.",
+      "camera": { "zoom": 7 },
+      "note": "His killer was Abu Lu'lu'ah, a Persian slave. Umar was buried beside the Prophet ﷺ and Abu Bakr.",
+      "links": { "polities": ["rashidun"], "events": ["umar"] },
+      "source": "History, Bukhari",
+      "kind": "event"
+    },
+    {
+      "id": "taika",
+      "title": "Japan's Taika reform",
+      "year": { "ce": 645, "precision": "exact" },
+      "place": { "name": "Asuka, Japan", "lat": 34.47, "lng": 135.82 },
+      "what": "Japan's Taika reforms remake the islands into a Chinese-style state, with an emperor at the centre, written laws and land registers.",
+      "tie": "In the same years Umar's diwan registered soldiers and stipends for the young Muslim state; Islam itself reached Japan only in modern times.",
+      "links": { "polities": ["japan"] },
+      "wiki": "Taika Reform",
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "cyprus-649",
+      "title": "Umm Haram at sea",
+      "year": { "ce": 649, "ah": 28, "precision": "approx" },
+      "place": { "name": "Larnaca, Cyprus", "lat": 34.89, "lng": 33.61 },
+      "who": ["Muawiyah", "Umm Haram bint Milhan", "Ubadah ibn al-Samit"],
+      "what": "Muawiyah's first fleet sails to Cyprus. Umm Haram, whom the Prophet ﷺ foretold would sail with the first sea army, falls from her mount and dies there.",
+      "hadith": [
+        { "label": "Sahih al-Bukhari 2788", "url": "https://sunnah.com/bukhari:2788" }
+      ],
+      "note": "Her tomb, Hala Sultan Tekke near Larnaca, is still visited. Some date the expedition to 648.",
+      "links": { "polities": ["byzantium"] },
+      "source": "Bukhari, History",
+      "kind": "battle"
+    },
+    {
       "id": "uthman-mushaf",
       "title": "Uthman's Quran",
       "year": { "ce": 650, "ah": 30, "precision": "approx" },
@@ -105,14 +249,94 @@
       "kind": "revelation"
     },
     {
+      "id": "china-envoys",
+      "title": "An embassy to China",
+      "year": { "ce": 651, "precision": "exact" },
+      "place": { "name": "Chang'an, China", "lat": 34.27, "lng": 108.9 },
+      "what": "Envoys from the caliph reach the Tang emperor at Chang'an, the first Arab embassy in Chinese records. Muslim traders settle in Guangzhou and Quanzhou.",
+      "tie": "China's oldest mosques, like Huaisheng in Guangzhou, grew from these trading communities.",
+      "note": "Chinese Muslim tradition says Sa'd ibn Abi Waqqas brought Islam to China; historians find no evidence that he went.",
+      "links": { "polities": ["tang"], "events": ["tang"] },
+      "source": "History",
+      "kind": "world"
+    },
+    {
+      "id": "masts",
+      "title": "The Battle of the Masts",
+      "year": { "ce": 654, "ah": 34, "precision": "approx" },
+      "place": { "name": "Off Phoenix, Lycia, Turkey", "lat": 36.25, "lng": 30.15 },
+      "who": ["Abdullah ibn Sad ibn Abi Sarh"],
+      "what": "The young Muslim navy, its ships lashed together, defeats the Byzantine fleet of Emperor Constans II. Byzantium no longer rules the eastern sea alone.",
+      "note": "Dated to 654 or 655 (34 or 35 AH).",
+      "links": { "polities": ["byzantium", "rashidun"] },
+      "wiki": "Battle of the Masts",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
       "id": "ali-caliph",
       "title": "Ali and the civil war",
       "year": { "ce": 656, "ah": 35, "precision": "exact" },
       "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
       "who": ["Ali ibn Abi Talib", "Muawiyah"],
       "what": "Uthman is killed by rebels. Ali becomes caliph and moves to Kufa. Civil war with Muawiyah follows at Siffin.",
+      "tie": "Sunni Muslims honour Uthman and Ali alike as rightly guided caliphs, and count Ali, the Prophet's ﷺ cousin and son-in-law, as the fourth.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "uthman-martyred",
+      "title": "Uthman is martyred",
+      "year": { "ce": 656, "ah": 35, "precision": "exact" },
+      "place": { "name": "Madinah", "lat": 24.47, "lng": 39.61 },
+      "who": ["Uthman ibn Affan"],
+      "what": "Rebels from the provinces besiege Uthman in his house. He forbids the Companions to shed blood for him and is killed while reading the Quran.",
+      "camera": { "zoom": 7 },
+      "note": "The Prophet ﷺ gave Uthman glad tidings of Paradise along with a trial that would strike him (reported by al-Bukhari). Later reports say his blood fell on 2:137.",
+      "links": { "polities": ["rashidun"], "events": ["ali-caliph"] },
+      "source": "History, Bukhari",
+      "kind": "event"
+    },
+    {
+      "id": "jamal",
+      "title": "The Battle of the Camel",
+      "year": { "ce": 656, "ah": 36, "precision": "exact" },
+      "place": { "name": "Basra, Iraq", "lat": 30.5, "lng": 47.81 },
+      "who": ["Aisha", "Talhah ibn Ubaydullah", "al-Zubayr ibn al-Awwam", "Ali ibn Abi Talib"],
+      "what": "Aisha, Talhah and al-Zubayr come to Basra seeking justice for Uthman. Fighting breaks out with Ali's army. Afterwards Ali honours Aisha and sends her home.",
+      "verses": ["49:9-10"],
+      "note": "Sunni scholars hold that both sides sought what they believed right and that the fighting began against the leaders' wishes. Scholars cite 49:9-10 on fighting between believers.",
+      "links": { "people": ["ali"], "polities": ["rashidun"] },
+      "wiki": "Battle of the Camel",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "siffin",
+      "title": "Siffin",
+      "year": { "ce": 657, "ah": 37, "precision": "exact" },
+      "place": { "name": "Siffin, on the Euphrates", "lat": 35.95, "lng": 38.9 },
+      "who": ["Ali ibn Abi Talib", "Muawiyah", "Ammar ibn Yasir"],
+      "what": "Ali and Muawiyah's armies meet on the Euphrates. After weeks of fighting, copies of the Quran are raised on spears and both sides agree to arbitration.",
+      "verses": ["49:9"],
+      "note": "Ammar ibn Yasir, son of Sumayyah, the first martyr, was killed here in his nineties.",
+      "links": { "people": ["ali"], "polities": ["rashidun"], "events": ["ali-caliph"] },
+      "wiki": "Battle of Siffin",
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "nahrawan",
+      "title": "The Khawarij at Nahrawan",
+      "year": { "ce": 658, "ah": 38, "precision": "exact" },
+      "place": { "name": "Nahrawan, Iraq", "lat": 33.3, "lng": 44.7 },
+      "who": ["Ali ibn Abi Talib"],
+      "what": "Some of Ali's men reject the arbitration, crying that judgment belongs to Allah alone. They declare Muslims unbelievers and kill them. Ali defeats these Khawarij at Nahrawan.",
+      "note": "The Prophet ﷺ spoke of people who recite the Quran but it does not pass their throats (al-Bukhari and Muslim). Scholars applied it to the Khawarij.",
+      "links": { "people": ["ali"], "villains": ["ibn-muljam"] },
+      "wiki": "Battle of Nahrawan",
+      "source": "History, Bukhari",
+      "kind": "battle"
     },
     {
       "id": "umayyads",
@@ -121,6 +345,7 @@
       "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
       "who": ["Muawiyah"],
       "what": "Ali is assassinated. Muawiyah founds the Umayyad dynasty and rules from Damascus. The caliphate becomes hereditary.",
+      "tie": "The Prophet ﷺ said the caliphate would last thirty years and then kingship would come; many scholars saw this fulfilled as the rightly guided era closed.",
       "source": "History",
       "kind": "empire"
     },
@@ -131,8 +356,22 @@
       "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
       "who": ["Hasan ibn Ali", "Muawiyah"],
       "what": "Hasan, Ali's son, gives up his claim to end the bloodshed. Muslims call it the Year of Unity.",
+      "tie": "The Prophet ﷺ had said of Hasan: 'This son of mine is a sayyid, and perhaps Allah will make peace through him between two great groups of Muslims.'",
       "source": "History, Bukhari",
       "kind": "empire"
+    },
+    {
+      "id": "ali-martyred",
+      "title": "Ali is martyred",
+      "year": { "ce": 661, "ah": 40, "precision": "exact" },
+      "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
+      "who": ["Ali ibn Abi Talib", "Ibn Muljam"],
+      "what": "Ibn Muljam, a Kharijite, strikes Ali with a poisoned sword at dawn prayer in Kufa. Ali dies two days later, the last of the four rightly guided caliphs.",
+      "camera": { "zoom": 7 },
+      "note": "Ali told his family to kill only his attacker, and only if he died.",
+      "links": { "people": ["ali"], "villains": ["ibn-muljam"], "events": ["umayyads"] },
+      "source": "History",
+      "kind": "event"
     },
     {
       "id": "kairouan",
@@ -141,6 +380,7 @@
       "place": { "name": "Kairouan, Tunisia", "lat": 35.68, "lng": 10.1 },
       "who": ["Uqba ibn Nafi"],
       "what": "Uqba founds Kairouan, the base for Islam in North Africa. He later rides to the Atlantic.",
+      "tie": "Kairouan's Great Mosque became a centre of Maliki law, where Sahnun taught the Mudawwana that spread across North Africa.",
       "routes": [
         {
           "points": [[35.68, 10.1, "Kairouan"], [34.9, -1.3, "Tlemcen"], [30.4, -9.6, "Atlantic"]]
@@ -175,13 +415,59 @@
       "kind": "battle"
     },
     {
+      "id": "srivijaya",
+      "title": "Srivijaya rules the straits",
+      "year": { "ce": 682, "precision": "exact" },
+      "place": { "name": "Palembang, Sumatra", "lat": -2.99, "lng": 104.76 },
+      "what": "A stone inscription at Palembang records the rise of Srivijaya, a Buddhist sea power that controls the straits between India and China.",
+      "tie": "These same sea lanes later carried Muslim traders, and Sumatra became home to Southeast Asia's first Muslim kingdom at Pasai.",
+      "note": "The Kedukan Bukit inscription is dated 682.",
+      "links": { "events": ["pasai", "malacca"] },
+      "wiki": "Srivijaya",
+      "source": "History",
+      "kind": "world"
+    },
+    {
       "id": "dome-of-rock",
       "title": "The Dome of the Rock",
       "year": { "ce": 691, "ah": 72, "precision": "exact" },
       "place": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 },
       "who": ["Abd al-Malik"],
       "what": "Abd al-Malik builds the Dome of the Rock, the oldest surviving Islamic monument. Arabic becomes the language of state.",
+      "tie": "It stands over the rock linked with the Prophet's ﷺ ascension, and its inscriptions quote the Quran on Isa as a messenger of Allah (4:171).",
       "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "arabic-coins",
+      "title": "Coins of the Quran",
+      "year": { "ce": 696, "ah": 77, "precision": "exact" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "who": ["Abd al-Malik"],
+      "what": "Abd al-Malik strikes gold coins with no pictures, only words: Say, He is Allah, One. Arabic replaces Greek and Persian in the government offices.",
+      "verses": ["112:1-4", "9:33"],
+      "quote": "112:1",
+      "tie": "For the first time, verses of the Quran passed through every market and every hand in the empire.",
+      "note": "The first all-Arabic dinar is dated 77 AH. The offices of Iraq and Syria switched to Arabic around 78 to 81 AH.",
+      "links": { "polities": ["umayyad"], "events": ["dome-of-rock"] },
+      "source": "History",
+      "kind": "empire"
+    },
+    {
+      "id": "umayyad-mosque",
+      "title": "The Umayyad Mosque",
+      "year": { "ce": 705, "to": 715, "ah": 86, "precision": "exact" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.31 },
+      "who": ["Al-Walid I"],
+      "what": "Al-Walid I builds the Great Mosque of Damascus where a church once stood. Inside is a shrine said to hold the head of Yahya. One minaret bears the name of Isa.",
+      "hadith": [
+        { "label": "Sahih Muslim 2937a", "url": "https://sunnah.com/muslim:2937a" }
+      ],
+      "tie": "The Prophet ﷺ said Isa will descend by the white minaret east of Damascus; many link this to the mosque's eastern minaret.",
+      "note": "The hadith does not name this mosque. The shrine of Yahya's head is a local tradition, not from the Quran or hadith.",
+      "links": { "prophets": ["yahya", "isa"], "polities": ["umayyad"] },
+      "wiki": "Umayyad Mosque",
+      "source": "History, Muslim",
       "kind": "empire"
     },
     {
@@ -191,6 +477,7 @@
       "place": { "name": "Gibraltar, Spain", "lat": 36.14, "lng": -5.35 },
       "who": ["Tariq ibn Ziyad"],
       "what": "Tariq crosses the strait that still bears his name and defeats the Visigoths. Muslim rule in Spain lasts 781 years.",
+      "tie": "Al-Andalus gave Islam scholars like Ibn Hazm, Ibn Rushd and al-Qurtubi, whose tafsir is still read across the Muslim world.",
       "routes": [
         {
           "points": [[35.77, -5.8, "Tangier"], [36.14, -5.35, "Gibraltar"], [37.88, -4.78, "Cordoba"], [39.86, -4.02, "Toledo"]]
@@ -206,6 +493,7 @@
       "place": { "name": "Debal, Pakistan", "lat": 24.8, "lng": 67 },
       "who": ["Muhammad ibn al-Qasim"],
       "what": "A seventeen-year-old general takes Sindh. Islam reaches the Indus.",
+      "tie": "Muhammad ibn Qasim gave Sindh's Hindus and Buddhists protected status like the People of the Book, and Islam began its long story in South Asia.",
       "routes": [
         {
           "points": [[29.6, 52.5, "Shiraz"], [25.5, 60.6], [24.8, 67, "Debal"], [30.2, 71.47, "Multan"]]
@@ -221,6 +509,7 @@
       "place": { "name": "Samarkand, Uzbekistan", "lat": 39.65, "lng": 66.96 },
       "who": ["Qutayba ibn Muslim"],
       "what": "Qutayba takes Bukhara and Samarkand. Central Asia, later home to al-Bukhari and Ibn Sina, joins the Muslim world.",
+      "tie": "Samarkand later produced scholars like Abu Mansur al-Maturidi, whose theology most Hanafi Sunnis still follow.",
       "routes": [
         {
           "points": [[37.6, 61.8, "Merv"], [39.77, 64.42, "Bukhara"], [39.65, 66.96, "Samarkand"]]
@@ -236,8 +525,52 @@
       "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
       "who": ["Umar ibn Abd al-Aziz"],
       "what": "Umar II rules for two years, returns wrongly taken wealth and ends abuses. Often called the fifth rightly guided caliph.",
+      "tie": "He ordered the first official collection of hadith, writing to scholars like Ibn Shihab al-Zuhri to record the Prophet's ﷺ sunnah before it was lost.",
       "source": "History",
       "kind": "empire"
+    },
+    {
+      "id": "constantinople-717",
+      "title": "The great siege of Constantinople",
+      "year": { "ce": 717, "to": 718, "ah": 98, "precision": "exact" },
+      "place": { "name": "Constantinople", "lat": 41.01, "lng": 28.98 },
+      "who": ["Maslamah ibn Abd al-Malik", "Umar ibn Abd al-Aziz"],
+      "what": "Maslamah leads a vast army and fleet against Constantinople. Greek fire, a bitter winter and the Bulgars break the siege, and Umar II calls the army home.",
+      "routes": [
+        {
+          "points": [[33.51, 36.29, "Damascus"], [37, 35.3], [39.8, 30.5], [40.15, 26.4, "Abydos"], [41.01, 28.98, "Constantinople"]]
+        }
+      ],
+      "note": "A hadith praising the army that conquers Constantinople is reported by Ahmad; some scholars grade it weak. The city fell to the Ottomans in 1453.",
+      "links": { "polities": ["byzantium", "umayyad"], "events": ["constantinople-674", "constantinople", "umar-ii"] },
+      "source": "History",
+      "kind": "battle"
+    },
+    {
+      "id": "hadith-written",
+      "title": "Write down the hadith",
+      "year": { "ce": 719, "ah": 100, "precision": "approx" },
+      "place": { "name": "Damascus, Syria", "lat": 33.51, "lng": 36.29 },
+      "who": ["Umar ibn Abd al-Aziz", "Ibn Shihab al-Zuhri"],
+      "what": "Fearing knowledge will die with the scholars, Umar ibn Abd al-Aziz orders the hadith written down. Ibn Shihab al-Zuhri leads the first official collection.",
+      "note": "His letter to Abu Bakr ibn Hazm is cited by al-Bukhari in the Book of Knowledge.",
+      "links": { "events": ["umar-ii", "bukhari"] },
+      "source": "Bukhari, History",
+      "kind": "knowledge"
+    },
+    {
+      "id": "covadonga",
+      "title": "Covadonga",
+      "year": { "ce": 722, "ah": 104, "precision": "traditional" },
+      "place": { "name": "Covadonga, Spain", "lat": 43.31, "lng": -5.06 },
+      "who": ["Pelayo"],
+      "what": "In the mountains of Asturias, the Visigoth noble Pelayo beats back a small Muslim force. A tiny Christian kingdom survives in the far north.",
+      "tie": "Spanish tradition counts the long Reconquista from here; it ended with the fall of Granada in 1492.",
+      "note": "Muslim chroniclers barely mention it, and the date may be 718 or 722.",
+      "links": { "polities": ["spain", "umayyad"], "events": ["andalus", "granada"] },
+      "wiki": "Battle of Covadonga",
+      "source": "History",
+      "kind": "battle"
     },
     {
       "id": "tours",
@@ -261,6 +594,7 @@
       "place": { "name": "Kufa, Iraq", "lat": 32.03, "lng": 44.4 },
       "who": ["Abu al-Abbas"],
       "what": "The Abbasids, descendants of the Prophet's uncle, overthrow the Umayyads. One prince escapes to Spain.",
+      "tie": "Descended from al-Abbas, the Prophet's ﷺ uncle, the Abbasids ruled in the name of his family, and their caliphate lasted, at least in name, until 1517.",
       "routes": [
         {
           "points": [[37.6, 61.8, "Merv"], [36.3, 59.6], [34.8, 48.5], [32.03, 44.4, "Kufa"]]

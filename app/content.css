@@ -362,6 +362,31 @@
   font-size: 14px;
 }
 
+.article-body .table-wrap {
+  margin: 24px 0;
+  overflow-x: auto;
+}
+
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.article-body th,
+.article-body td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-body th {
+  font-weight: 650;
+  border-bottom-width: 2px;
+}
+
 .article-cta {
   margin: 48px 0 0;
   padding: 24px;

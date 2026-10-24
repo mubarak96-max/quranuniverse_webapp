@@ -1,5 +1,5 @@
 // Renders the small markdown subset used by content/articles and content/pages:
-// ## / ### headings, paragraphs, - and 1. lists, > blockquotes, **bold**, *italic*, [links](url).
+// ## / ### headings, paragraphs, - and 1. lists, > blockquotes, | tables |, **bold**, *italic*, [links](url).
 // Kept in-house so articles need no markdown dependency; anything outside the subset renders as text.
 
 const escape = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -43,6 +43,11 @@ export function renderMarkdown(md: string): { html: string; headings: Heading[] 
       out.push(`<ul>${lines.map((l) => `<li>${inline(l.replace(/^\s*[-*]\s+/, ""))}</li>`).join("")}</ul>`);
     } else if (lines.every((l) => /^\s*\d+\.\s+/.test(l))) {
       out.push(`<ol>${lines.map((l) => `<li>${inline(l.replace(/^\s*\d+\.\s+/, ""))}</li>`).join("")}</ol>`);
+    } else if (lines.length > 2 && lines.every((l) => l.trim().startsWith("|")) && /^[\s|:-]+$/.test(lines[1])) {
+      const cells = (l: string) => l.trim().replace(/^\||\|$/g, "").split("|").map((c) => inline(c.trim()));
+      const head = cells(first).map((c) => `<th>${c}</th>`).join("");
+      const rows = lines.slice(2).map((l) => `<tr>${cells(l).map((c) => `<td>${c}</td>`).join("")}</tr>`).join("");
+      out.push(`<div class="table-wrap"><table><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`);
     } else if (lines.every((l) => l.startsWith(">"))) {
       const paras = lines
         .map((l) => l.replace(/^>\s?/, ""))

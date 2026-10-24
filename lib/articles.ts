@@ -7,7 +7,18 @@ const ROOT = process.cwd();
 const ARTICLES = path.join(ROOT, "content", "articles");
 const PAGES = path.join(ROOT, "content", "pages");
 
-export const CATEGORIES = ["Understanding the Quran", "Exploring Islam", "Surahs & Verses"] as const;
+export const CATEGORIES = [
+  "Understanding the Quran",
+  "Exploring Islam",
+  "Surahs & Verses",
+  "Names of Allah",
+  "Practice",
+  "Dua",
+  "Faith & Wellbeing",
+  "Big Questions",
+  "Islam & Misconceptions",
+  "Islamic History",
+] as const;
 
 export type Article = {
   slug: string;

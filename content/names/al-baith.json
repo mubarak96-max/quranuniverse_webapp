@@ -1,0 +1,63 @@
+{
+  "slug": "al-baith",
+  "title": "Every morning you wake up is a small resurrection",
+  "subtitle": "Al-Ba'ith: the One who raises the dead and sends forth what He wills",
+  "intro": "Al-Ba'ith (الْبَاعِثُ) means The Resurrector: the One who will raise everyone from their graves for the Day of Judgment, who wakes us from sleep each morning, and who sends messengers and stirs hearts to action. Life does not end in a grave. Knowing this name gives every choice you make weight, and every injustice you suffer an answer.",
+  "root": {
+    "letters": "ب ع ث",
+    "sense": "Ba'th means to stir up, rouse and send forth: waking a sleeper, sending a messenger, raising the dead. The picture is of something lying still being made to rise and move. Al-Ba'ith is the One who rouses the dead, the sleeper and the heart."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Ba'ith raises",
+    "row": [
+      {"box": "idea", "title": "The sleeper", "sub": ["shut down every night", "woken every morning"]},
+      {"box": "people", "title": "The messengers", "sub": ["sent to every nation", "to wake people up"]},
+      {"box": "reward", "title": "The dead", "sub": ["raised from the graves", "for a Day of justice"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "No one will ever know", "sub": ["the wrong done to me", "the good I did unseen"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "All will be raised", "sub": ["and every deed brought out", "before a just Lord"]}
+    ]
+  },
+  "knowing": [
+    "A laptop can freeze and refuse to shut down, however many times you press the button. Yet every night Allah shuts you down without asking, and every morning He switches you back on. It is He who takes your souls by night, and knows what you did by day, then raises you in it so that a set term may be completed (6:60). {idea}Waking up is His ba'th on a small scale{/idea}; the resurrection is the same act on the largest one.",
+    "Al-Ba'ith is often explained with Al-Mu'id, but they are not the same. Al-Mu'id speaks of re-creating what perished; {idea}Al-Ba'ith speaks of rousing and raising it to stand{/idea}: the Hour is coming, without doubt, and Allah will raise those in the graves (22:7).",
+    "The root also means to send. He sent among an unlettered people a messenger from among them (62:2), and sent a messenger to every nation (16:36). The same Lord who will raise the dead first sent guidance to raise the living out of heedlessness."
+  ],
+  "seeing": [
+    "The Quran describes the moment of waking on the Day: they will say, woe to us, who has raised us from our sleeping place? This is what the Most Merciful promised, and the messengers told the truth (36:52). Death will have felt like a short sleep.",
+    "The young men of the cave slept for many years, and Allah raised them (18:12, 18:19). They woke thinking a day or part of a day had passed. And the man who passed the ruined town died for a hundred years and was raised to see his donkey's bones brought back together (2:259). {reward}Each story is a preview of the morning that is coming{/reward}."
+  ],
+  "trusting": [
+    "When you are wronged and the person walks away untouched, it can feel as though justice has died. {trap}The thought that no one will ever answer for it can turn into bitterness{/trap}. Al-Ba'ith answers that. Every oppressor and every oppressed will be raised, and nothing will be forgotten. You can leave the account with Him and get on with your life.",
+    "The same truth comforts you about the good you do unseen: the night prayers no one knew about, the kindness no one thanked you for. Nothing is lost. And when your own resolve is dead, the root of this name also means to stir up. Ask Al-Ba'ith to rouse your heart, the way He rouses you each morning."
+  ],
+  "loving": [
+    "There is tenderness in being woken. A parent who gently wakes a child each morning loves that child. {reward}Every morning Al-Ba'ith gives you back your life and your chance{/reward}, and on the last morning He will wake His friends to the meeting they waited for."
+  ],
+  "now": "Your alarm goes off at 6:40 and the first thing you reach for is your phone. Before you unlock it, pause. You were switched off for seven hours and did not choose to come back. Say the Prophet's ﷺ words: praise be to Allah who gave us life after causing us to die, and to Him is the rising.",
+  "old": "I treat waking up as automatic, and the grave as the end of the story.",
+  "new": "Al-Ba'ith raises me every morning, and He will raise everyone on the Day that is coming.",
+  "try": "Memorise the waking dua from Sahih al-Bukhari, alhamdulillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur, and say it tomorrow before touching your phone.",
+  "dua": {
+    "text": "Ya Ba'ith, You raise me every morning and You will raise me on the Last Day. Rouse my heart to obey You now, and raise me among those You love.",
+    "note": "Call on Him by this name on waking, and whenever you feel that an injustice will never be answered."
+  },
+  "pairs": [
+    {"slug": "al-muid", "why": "Al-Mu'id re-creates what perished; Al-Ba'ith raises it to stand for judgment."},
+    {"slug": "al-jami", "why": "Those Al-Ba'ith raises, Al-Jami' gathers together on one plain for the Day of no doubt."},
+    {"slug": "al-mumit", "why": "He causes death and then raises the dead, so death is a sleep before the rising."}
+  ],
+  "faq": [
+    {"q": "What does Al-Ba'ith mean?", "a": "Al-Ba'ith means The Resurrector, the One who raises the dead from their graves for the Day of Judgment. The root means to rouse and send forth, so it also covers waking sleepers, sending messengers and stirring hearts to action."},
+    {"q": "Is Al-Ba'ith mentioned in the Quran?", "a": "The name is taken from verses describing Allah's action, such as 22:7, which says Allah will raise those in the graves. It is in the well-known list of names narrated by at-Tirmidhi."},
+    {"q": "What is the difference between Al-Ba'ith and Al-Mu'id?", "a": "Both relate to the resurrection. Al-Mu'id is the One who brings creation back after it perished, re-creating it as He first made it. Al-Ba'ith is the One who rouses and raises the dead from their graves to stand before Him."}
+  ],
+  "lessons": [9, 27],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "ar-raqib",
+  "title": "Not a speed camera waiting for your mistake",
+  "subtitle": "Ar-Raqib: the Watchful One, who keeps constant watch over you to guard and keep you",
+  "intro": "Ar-Raqib (الرَّقِيبُ) means the Watchful: the One who watches over every soul at every moment, never looking away, never distracted, keeping account of every deed and guarding His creation. It means you always have Someone who has your back, and that how you live in private matters as much as in public.",
+  "root": {
+    "letters": "ر ق ب",
+    "sense": "Raqabah is the neck. The root pictures someone lifting their neck to keep watch, like a guard on a marqab, a lookout tower. A raqib is a watcher who keeps his eyes on what is in his care, steadily and without break, to protect it and keep track of it."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Two kinds of watching",
+    "row": [
+      {"box": "trap", "title": "A speed camera", "sub": ["waits for your mistake"], "strike": true},
+      {"conn": "not like"},
+      {"box": "idea", "title": "A guard on the tower", "sub": ["watches to protect", "never takes a break"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "Safe and mindful", "sub": ["guarded in public", "upright in private"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "I am alone in this", "sub": ["no one is watching out for me"], "strike": true},
+      {"conn": "Ar-Raqib corrects"},
+      {"box": "idea", "title": "He never takes His eyes off me", "sub": ["He has my back"]}
+    ]
+  },
+  "knowing": [
+    "Ar-Raqib watches over everything continuously. Allah sees all things, and as Ar-Raqib He keeps that watch over each soul, its movements and its stillness, without a moment of distraction. {idea}His watch does not lapse, does not sleep and does not miss a detail.{/idea}",
+    "How is this different from near names? Al-Basir is His sight: nothing escapes it. Ash-Shahid is His presence and testimony: He is there at every event and will bear witness to it. Ar-Raqib adds the sense of guarding: an attentive, unbroken watch over what is in His care, the way a guardian keeps an eye on a child or an invigilator watches an exam hall.",
+    "Some watchers look for faults. A speed camera is not waiting for the safest driver; it exists to catch the one who slips. Ar-Raqib is not like that. {idea}His watching is protective care{/idea}, keeping account with perfect justice, but also looking out for you. Allah has appointed angels who record every word (50:18), yet He Himself is the watcher above every watcher."
+  ],
+  "seeing": [
+    "The Quran opens Surah an-Nisa, a surah full of rights between spouses, orphans, relatives and the weak, by telling people to be mindful of Allah and of the ties of the womb, for Allah is ever Watchful over you (4:1). The name is placed exactly where people are most tempted to wrong each other quietly, in families and private dealings.",
+    "On the Day of Judgement, Isa will say of his followers that he was a witness over them while he lived among them, but when Allah took him, Allah was the Watcher over them (5:117). Even a prophet's watch has limits. His does not.",
+    "When the Prophet ﷺ was outnumbered, with few followers and many enemies, Allah comforted him again and again with the reminder that He was watching over him. That was the strength of the believers: they were never unwatched, so they were never unguarded."
+  ],
+  "trusting": [
+    "When you feel exposed, outnumbered or overlooked, Ar-Raqib is already watching your situation. {reward}You do not have to monitor everything yourself.{/reward} You cannot control the economy, other people's choices or what is said about you, but you can sleep knowing the One who watches never sleeps.",
+    "This name also heals the gap between public and private. Most of us behave one way when people are around and another way alone. {trap}Checking whether anyone saw, and feeling relief that no one did{/trap}, is a sign the heart has forgotten Ar-Raqib. The cure is not paranoia but haya, a healthy shyness before Him. The early Muslims called this muraqabah: living with an awareness that He is watching over you.",
+    "And when you have slipped, remember that the One who watched you fall is also the One who watches you turn back. He sees the first step of repentance too."
+  ],
+  "loving": [
+    "There is a particular kind of love we feel for the person who always looks out for us, who notices when we are struggling before we say anything. {idea}Ar-Raqib is that, perfectly and always.{/idea}",
+    "Over time, living under His watch stops feeling like being observed and starts feeling like being accompanied. You walk differently when you know you are walking with Him."
+  ],
+  "now": "You are alone in the office after everyone has left, and there is a small shortcut: a figure nudged, a receipt rounded up. No camera, no colleague, no trace. {idea}Ar-Raqib is right there, not to trap you but to keep you whole.{/idea} Close the file honestly and walk out with a clean heart.",
+  "old": "If nobody is watching, the choice is just between me and myself.",
+  "new": "Ar-Raqib is always watching over me, guarding me and keeping account, so I am never truly alone.",
+  "try": "Once today, before you do something in private, pause and say quietly: Allah is watching over me. Then choose.",
+  "dua": {
+    "text": "Ya Raqib, watch over me where I cannot watch over myself. Guard my family, guard my heart, and make me shy of You in private as I am before people.",
+    "note": "Call on Him by this name when you feel unprotected or when you are tempted alone, remembering that Allah is ever Watchful over you (4:1)."
+  },
+  "pairs": [
+    {"slug": "ash-shahid", "why": "Ar-Raqib watches over every moment; Ash-Shahid is present to it and will testify to it. Isa named both in one breath (5:117)."},
+    {"slug": "al-hafiz", "why": "Ar-Raqib keeps His eye on you; Al-Hafiz keeps you safe and preserves your deeds. Watching and guarding go together."},
+    {"slug": "al-alim", "why": "His watch rests on knowledge that misses nothing, so it is never mistaken and never unfair."}
+  ],
+  "faq": [
+    {"q": "What does Ar-Raqib mean?", "a": "Ar-Raqib means the Watchful, the Ever-Observing. Allah watches over every soul and every deed continuously, without lapse, guarding His creation and keeping a perfect account. It appears in the Quran in verses such as 4:1, 5:117 and 33:52."},
+    {"q": "What is the difference between Ar-Raqib and Ash-Shahid?", "a": "Ar-Raqib stresses continuous, protective watching over something in one's care. Ash-Shahid stresses presence and testimony: Allah is present to every event and is the true witness to it. In 5:117 Isa says Allah was the Watcher over his people and Witness over all things, using both names."},
+    {"q": "What is muraqabah?", "a": "Muraqabah comes from the same root as Ar-Raqib. It means living with the constant awareness that Allah is watching over you, so that you guard your heart, words and deeds in private as well as in public. It is closely linked to ihsan and to haya, a healthy shyness before Allah."}
+  ],
+  "lessons": [8],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

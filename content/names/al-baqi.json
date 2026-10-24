@@ -1,0 +1,65 @@
+{
+  "slug": "al-baqi",
+  "title": "Everything you hold has an expiry date, except Him",
+  "subtitle": "The Everlasting, who endures while all else fades, and the good that lasts with Him",
+  "intro": "Al-Baqi (اَلْبَاقِي) means the Everlasting: Allah endures forever, untouched by decay, change or ending, while everything else fades and perishes. It matters to you because it shows you where to invest your heart: in Him, and in the deeds that last with Him.",
+  "root": {
+    "letters": "ب ق ي",
+    "sense": "The root means to remain, to stay, to be left over after other things are gone. Baqa is continuance; al-baqiyat are the things that endure. Said of Allah, it means a permanence that is His by nature, not a long life that might one day end."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What fades and what remains",
+    "row": [
+      {"box": "plain", "title": "What you have", "sub": ["runs out", "16:96"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "What is with Allah", "sub": ["lasts forever"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "Lasting good deeds", "sub": ["stored with Al-Baqi"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "Build something permanent here", "sub": ["the house, the name, the legacy"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Only He is permanent", "sub": ["send ahead what lasts with Him"]}
+    ]
+  },
+  "knowing": [
+    "The name comes from the verse: everyone upon the earth will perish, and there will remain the Face of your Lord, Owner of majesty and honour (55:26-27). The word for remain is yabqa. {idea}Al-Baqi is the One whose existence never wears out{/idea}. He does not age, change, decline or end. Everything else, from galaxies to grains of sand, is perishing even now.",
+    "His permanence is not like a very old tree or a very long reign. Created things last only as long as He keeps them. His lasting is His own, part of His perfection, without beginning and without end. Everything will be destroyed except His Face (28:88).",
+    "Near names look at the end from different sides. Al-Akhir is about order: He is last, after everything, and the goal of everything. Al-Warith is about ownership: what people held returns to Him. Al-Baqi is about permanence itself: amid a universe of decay, He endures, and so does whatever is done for Him."
+  ],
+  "seeing": [
+    "The Quran sets two lists side by side. Whatever you have will run out, but what is with Allah lasts (16:96). Wealth and children are the adornment of worldly life, but the lasting good deeds, al-baqiyat as-salihat, are better with your Lord (18:46). The magicians of Pharaoh, threatened with crucifixion, saw it in a moment: Allah is better and more lasting (20:73).",
+    "Look at what humans have tried in the search for permanence: monuments, dynasties, now freezing bodies and spending fortunes on delaying death. Old palaces stand empty and the names on them are forgotten. Every attempt confirms the same truth: only One is everlasting."
+  ],
+  "trusting": [
+    "Loss hurts most when we thought something would last. {trap}We pour our whole heart into things that were always going to fade: youth, health, a career, a home, even people{/trap}, and when they go, it feels like the ground has gone with them. Al-Baqi is ground that never moves. Attach the heart to Him first, and other losses, though painful, cannot destroy you.",
+    "It also turns your work into an investment. A kind word, a prayer in the night, a child raised well, charity no one saw: {reward}what is done for Al-Baqi is kept with Al-Baqi, and does not run out{/reward}. Your effort in a fading world is not wasted when it is sent ahead to the One who lasts."
+  ],
+  "loving": [
+    "We are made to long for forever. Lovers promise it, songs ask for it, and no human being can deliver it. {idea}That longing is a pointer to Al-Baqi{/idea}, the only One who can be loved without the fear of losing Him to time. Every passing beauty is a small reminder of the One who never passes."
+  ],
+  "now": "Your phone warns that storage is full. Scrolling through years of photos, you see faces of people who have died, places that no longer exist, a version of yourself that is gone. Everything on that screen is temporary. Al-Baqi is not, and the good deeds behind those memories are kept with Him.",
+  "old": "I want to hold on to things and people forever, and losing them breaks me.",
+  "new": "Only Al-Baqi is forever; I love what I have gently and send ahead what lasts with Him.",
+  "try": "Do one deed today purely as an investment with Him: a hidden charity, a call to a lonely relative, or two units of prayer at night.",
+  "dua": {
+    "text": "Ya Baqi, everything I love is passing and You remain. Attach my heart to You, accept my deeds as lasting good with You, and let me meet You with what endures.",
+    "note": "Call on Him by this name when grieving a loss or when the world feels too precious to let go."
+  },
+  "pairs": [
+    {"slug": "al-hayy", "why": "Al-Hayy has perfect, unending life; Al-Baqi is that life enduring while all else perishes."},
+    {"slug": "al-warith", "why": "Al-Baqi remains when all perish; Al-Warith receives back everything they left behind."},
+    {"slug": "al-akhir", "why": "Al-Akhir is last in order and the final goal; Al-Baqi stresses that He endures without change or end."}
+  ],
+  "faq": [
+    {"q": "What does Al-Baqi mean?", "a": "Al-Baqi means the Everlasting: Allah endures forever without decay, change or end, while everything else perishes. It is drawn from 55:27, where the Face of your Lord remains after everyone on earth perishes."},
+    {"q": "Is Al-Baqi mentioned in the Quran?", "a": "The exact form al-Baqi is not used as a name in the Quran, but its meaning is stated directly: there will remain (yabqa) the Face of your Lord (55:27), and what is with Allah lasts (16:96). It is included in the well-known lists of the 99 names."},
+    {"q": "What are al-baqiyat as-salihat?", "a": "Al-baqiyat as-salihat means the lasting good deeds, mentioned in 18:46 as better with your Lord than wealth and children. They are the deeds done for Allah that endure with Him, while worldly adornments fade."}
+  ],
+  "lessons": [30, 17],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

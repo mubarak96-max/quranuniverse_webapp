@@ -1,0 +1,62 @@
+{
+  "slug": "al-muakhkhir",
+  "title": "His delay is not His denial",
+  "subtitle": "Al-Mu'akhkhir: the One who delays and defers, by wisdom and by mercy",
+  "intro": "Al-Mu'akhkhir (المؤخر) means the Delayer: the One who puts things back and defers them, holding off punishment to give time for repentance and holding back what is not yet good for you, each by wisdom. It matters because a delayed answer is not a rejected one, and the time you have been given is itself His mercy.",
+  "root": {
+    "letters": "أ خ ر",
+    "sense": "Akhkhara is to put something behind or later. From the same root come akhir, the last, and akhirah, the life that comes after this one. Al-Mu'akhkhir is the One who places things further back in time or order, for reasons He sees in full and we see only in part."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What He delays, and why",
+    "row": [
+      {"box": "idea", "title": "Punishment", "sub": ["so there is time to repent"]},
+      {"box": "idea", "title": "Answers", "sub": ["until they are good for you"]},
+      {"box": "idea", "title": "Lifespans", "sub": ["each to its appointed hour"]}
+    ]
+  },
+  "key": {
+    "label": "Still waiting",
+    "row": [
+      {"box": "trap", "title": "He has said no to me", "sub": ["years of the same dua"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "He has said not yet", "sub": ["a delay held in His hand"]}
+    ]
+  },
+  "knowing": [
+    "Al-Mu'akhkhir is the One who holds things back. The Prophet ﷺ called on Him by this name together with Al-Muqaddim at the end of a well-known prayer: You are the One who brings forward and the One who delays; there is no god but You (Sahih al-Bukhari, Sahih Muslim). What He sends back is never misplaced; it is put where it will do the most good.",
+    "His most merciful delay is the delay of punishment. If Allah took people to task straight away for their wrongdoing, He would not leave a single creature on the earth, but He defers them to an appointed term (16:61). He gives time to notice, to regret, to repent and to make amends. {idea}Every morning you wake up after a sin is the delay of Al-Mu'akhkhir working in your favour.{/idea}",
+    "He also delays the oppressor, and that delay is not neglect. Never think that Allah is unaware of what the wrongdoers do; He only delays them for a Day when eyes will stare in horror (14:42). And there is a limit: when the term He has set arrives, it is not delayed at all (71:4)."
+  ],
+  "seeing": [
+    "The prophets knew long waits. Nuh called his people for close to a thousand years (29:14). Zakariyya asked for a child into old age. Ya'qub waited decades to see Yusuf again. Ayyub was ill for years. In every case the answer came, at the hour Allah chose, and it was better than anything they could have arranged.",
+    "The Quran shows the opposite scene too: a person at the moment of death begging, My Lord, if only You would delay me a little so I could give charity and be among the righteous (63:10). That little delay they long for is exactly what you have right now. And in nature, a seed lies under the snow for months, not forgotten, only waiting for its season."
+  ],
+  "trusting": [
+    "When a dua seems unanswered, hold on to this: {reward}His delay does not mean His denial.{/reward} The Prophet ﷺ said that a person's supplication is answered as long as they are not hasty, saying I prayed and was not answered (Sahih al-Bukhari, Sahih Muslim). He hears; He is choosing the hour.",
+    "When oppressors seem to get away with it, they are deferred, not dismissed. And when you notice His patience with your own sins, let it soften you, not make you careless. {trap}Treating His delay as permission to keep sinning{/trap} forgets that the term arrives without warning."
+  ],
+  "loving": [
+    "Think of a teacher who gives a struggling student one more chance, then another, quietly hoping they will turn it around. Allah's patience with us is far beyond that. {idea}When you realise how often He has held back what you deserved, love for Him rises without being forced.{/idea}"
+  ],
+  "now": "It is 2am and you are typing the same dua into your notes app that you have typed for three years: for the baby, the job, the healing. Al-Mu'akhkhir has heard every word, and He is holding the answer for the hour that is best, not losing it. Put the phone face down and pray two rak'ahs while the house is quiet.",
+  "old": "If my dua is not answered soon, I start to believe Allah has refused me.",
+  "new": "Allah delays with wisdom and mercy; not yet is not no, and the waiting itself is held by Him.",
+  "try": "Turn one delay today, a queue, a late train, a slow screen, into a short moment of asking forgiveness instead of a sigh.",
+  "dua": {
+    "text": "O Allah, You are Al-Muqaddim and Al-Mu'akhkhir. Delay from me whatever would harm me, but do not let me delay my repentance. Give me patience in what You defer and certainty that You have not forgotten me.",
+    "note": "Call on Him by this name together with Al-Muqaddim, as the Prophet ﷺ did (Sahih al-Bukhari, Sahih Muslim), especially during long waits for an answer."
+  },
+  "pairs": [
+    {"slug": "al-muqaddim", "why": "He holds back and He brings forward: one wise ordering, so the two names are always said together."},
+    {"slug": "al-halim", "why": "Al-Halim does not rush to punish; Al-Mu'akhkhir defers it. Together they give you time to come back."}
+  ],
+  "faq": [
+    {"q": "What does Al-Mu'akhkhir mean?", "a": "Al-Mu'akhkhir means the Delayer, the One who puts things back. Allah defers punishment to give time for repentance, holds back what is not yet good for His servants, and sets each life to its appointed term. The name is always mentioned with Al-Muqaddim, the One who brings forward."},
+    {"q": "Why does Allah delay answering duas?", "a": "A delay is not a refusal. Allah answers in the way and at the time that is best, and the waiting can itself bring reward and closeness to Him. The Prophet ﷺ said a supplication is answered as long as the person does not become hasty and give up (Sahih al-Bukhari, Sahih Muslim)."},
+    {"q": "Why does Allah delay punishing oppressors?", "a": "The Quran says Allah is not unaware of what wrongdoers do; He only delays them to a Day when eyes will stare in horror (14:42). The delay is a final chance to repent and a test for everyone, and when their appointed term arrives it is not postponed."}
+  ],
+  "lessons": [20, 21, 28],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

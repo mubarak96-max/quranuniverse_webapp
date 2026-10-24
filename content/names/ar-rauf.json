@@ -1,0 +1,65 @@
+{
+  "slug": "ar-rauf",
+  "title": "The tenderness that lifts the weight before it crushes you",
+  "subtitle": "His most tender compassion, which shields you from what would harm you",
+  "intro": "Ar-Ra'uf (الرَّؤُوفُ) means the Most Kind and Tender, the One whose compassion is so gentle that He lightens burdens, removes harm and spares His servants hardship they could not bear. It tells you that your Lord notices how heavy things are for you.",
+  "root": {
+    "letters": "ر أ ف",
+    "sense": "Ra'fa is the most delicate and intense form of mercy, a softness of heart for someone in difficulty. Scholars note that while rahma includes bringing good, ra'fa leans towards removing pain and preventing harm. It is the tenderness of someone who cannot bear to see you struggle."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Ar-Ra'uf shows about Him",
+    "row": [
+      {"box": "idea", "title": "Tenderness at its height", "sub": ["The finest strand of mercy"]},
+      {"conn": "that"},
+      {"box": "reward", "title": "Lifts the load", "sub": ["Lightens burdens", "Spares what you cannot bear"]},
+      {"conn": "and even"},
+      {"box": "plain", "title": "Warns you out of care", "sub": ["Kind to His servants", "3:30"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "No one sees how heavy this is", "sub": ["I carry it alone"], "strike": true},
+      {"conn": "Ar-Ra'uf answers"},
+      {"box": "idea", "title": "He feels for your burden", "sub": ["And shapes your path to ease it"]}
+    ]
+  },
+  "knowing": [
+    "Ar-Ra'uf belongs to the family of mercy, but it is its most tender strand. {idea}If rahma is warmth, ra'fa is the gentle hand that lifts a weight off your shoulders.{/idea} Many scholars say ra'fa is mercy at its most intense, especially in removing hardship and keeping harm away from His servants.",
+    "In the Quran this name nearly always stands beside Ar-Raheem: Ra'uf Raheem. Together they say He keeps harm away and brings good near. And He is unlike any tender human. A loving parent can feel for a child and still be unable to help. {idea}His tenderness is joined to complete power, so what He feels for you He is able to act on.{/idea}",
+    "His ra'fa even appears in His warnings. After describing a Day when every soul faces what it has done, the Quran says that Allah warns you of Himself, and that Allah is Ra'uf to His servants (3:30). A warning given in time is a kindness; He tells you now so that you are spared later."
+  ],
+  "seeing": [
+    "When the qibla was changed from Jerusalem to the Kaaba, some believers worried about the prayers of those who had died facing the old direction. The answer came that Allah would never let their faith go to waste, for He is Ra'uf and Raheem to people (2:143). {reward}Not one sincere act was lost.{/reward}",
+    "He shows ra'fa in creation itself. Animals carry your loads to lands you could only reach with great difficulty, and the verse closes by naming Him Ra'uf Raheem (16:7). After the exhausting expedition to Tabuk, when some hearts almost wavered, He turned to the Prophet ﷺ and his companions, for He was to them Ra'uf Raheem (9:117).",
+    "He sends down clear signs to bring you out of darkness into light, because He is Ra'uf and Raheem to you (57:9). And He describes the Prophet ﷺ with a human share of the same quality: troubled by what burdens his people, eager for their good, and kind and merciful to the believers (9:128)."
+  ],
+  "trusting": [
+    "Hand Him the burdens you think are invisible: the caregiving no one thanks you for, the anxiety you hide at work, the grief that has gone quiet but not away. {idea}Ar-Ra'uf sees the weight, not just the task.{/idea} Ask Him directly to lighten it, as believers ask at the end of Al-Baqarah: do not burden us with what we cannot bear (2:286).",
+    "Trust that when He closes a road, it may be His tenderness sparing you a load you could not see. {trap}Assuming every hardship is harshness from Him misreads a Lord who has named Himself Ra'uf.{/trap} The hardship you have may be the lighter one He chose in place of something heavier."
+  ],
+  "loving": [
+    "We are drawn to those who notice when we are struggling before we say a word. {reward}Ar-Ra'uf noticed first, and His gentleness has been easing your path in a thousand ways you never had to ask for.{/reward}"
+  ],
+  "now": "You are in a hospital corridor at midnight, coffee gone cold, waiting for news about your mother, and you feel like the whole thing rests on you. {idea}It does not{/idea}. Ar-Ra'uf sees every hour you have sat there, and He is more tender towards both of you than you can imagine. Tell Him it is heavy, and let Him carry it.",
+  "old": "I have to carry my burdens quietly because no one really sees how hard this is.",
+  "new": "Ar-Ra'uf sees exactly how heavy it is and is tender towards me in it; I can ask Him to lighten it.",
+  "try": "Notice one person around you carrying something heavy today and quietly take one small task off their plate.",
+  "dua": {
+    "text": "Ya Ra'uf, You see the weight I carry. Lighten what is heavy for me, spare me what I cannot bear, and keep me gentle with those who are struggling.",
+    "note": "Call on Him as Ar-Ra'uf when you feel worn down; believers end their prayer for one another in 59:10 with the words, You are Ra'uf Raheem."
+  },
+  "pairs": [
+    {"slug": "ar-raheem", "why": "Ra'uf Raheem: tenderness that removes harm, together with mercy that brings good."},
+    {"slug": "al-latif", "why": "Al-Latif reaches your needs in subtle hidden ways; Ar-Ra'uf is the tenderness behind that reaching."}
+  ],
+  "faq": [
+    {"q": "What does Ar-Ra'uf mean?", "a": "Ar-Ra'uf means the Most Kind and Tender. Ra'fa is the most delicate and intense form of mercy, especially in removing hardship and preventing harm. Allah is Ra'uf in lightening burdens, sparing His servants difficulty and protecting their efforts from going to waste."},
+    {"q": "What is the difference between Ar-Ra'uf and Ar-Raheem?", "a": "Both describe His mercy. Scholars explain that ra'fa is the finest and most intense degree of mercy and leans towards repelling harm, while rahma is broader and includes bringing good. In the Quran the two names often appear together as Ra'uf Raheem."},
+    {"q": "Is the Prophet described as ra'uf in the Quran?", "a": "Yes. The Quran describes the Prophet ﷺ as kind and merciful, ra'uf and rahim, to the believers (9:128). A human can have a share of this quality, but Allah's tenderness is perfect and joined to complete power."}
+  ],
+  "lessons": [],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

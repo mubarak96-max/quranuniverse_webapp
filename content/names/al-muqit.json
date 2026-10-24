@@ -1,0 +1,65 @@
+{
+  "slug": "al-muqit",
+  "title": "Today's portion, measured out and on its way",
+  "subtitle": "Al-Muqit: the One who measures out every creature's sustenance and watches over all",
+  "intro": "Al-Muqit (المُقيِت) means the Sustainer and Keeper: the One who creates each creature's daily sustenance, measures it out, and delivers it at its time, while watching over everything with full power. Food for the body, knowledge and faith for the heart, all come in portions He has weighed. For you it means today's share is already counted and guarded.",
+  "root": {
+    "letters": "ق و ت",
+    "sense": "Qut is the staple food that keeps a person alive, the daily portion that is just enough to stand on. From it comes muqit: the one who supplies that portion. The Arabs also used muqit for one who has power over something and keeps watch over it, guarding it and giving it its due."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Muqit does",
+    "row": [
+      {"box": "idea", "title": "Measures", "sub": ["each creature's share", "set in the earth beforehand"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "Delivers", "sub": ["food to the body", "faith and knowledge to the heart"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Keeps watch", "sub": ["with power over all", "nothing slips past Him"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "I need to secure everything now", "sub": ["the whole year, the whole future", "or I will be left with nothing"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Today is portioned", "sub": ["by the One who measured it", "and tomorrow's is with Him too"]}
+    ]
+  },
+  "knowing": [
+    "The name appears once in the Quran: Allah has power and watch over all things (4:85). The verse is about intercession: whoever speaks up for good gets a share of its reward, and whoever speaks up for evil gets a share of its burden. {idea}Al-Muqit sees every share and gives each its exact due{/idea}. Classical commentators explained the word in that verse as Watcher, Witness and the One able to do all things, and others as the One who supplies sustenance. Scholars such as al-Ghazali joined the meanings: He creates each creature's sustenance, delivers it, and holds power over it.",
+    "This sets Al-Muqit apart from Ar-Razzaq. Ar-Razzaq speaks of provision in its vastness, all the good things He pours out. {idea}Al-Muqit speaks of the measured daily portion that keeps each creature standing{/idea}, delivered at its time and guarded by His power. One is the river; the other is the cup handed to you today.",
+    "And the sustenance is not only for bodies. Al-Ghazali notes that hearts also have their food: knowledge, remembrance and faith. Al-Muqit gives the heart its portion too."
+  ],
+  "seeing": [
+    "Before you were born, your food was already measured into the ground. Allah placed mountains on the earth, blessed it, and determined its sustenance in four days (41:10). The word used there, aqwat, is the plural of qut. There is not a thing but its stores are with Him, and He sends it down only in a known measure (15:21).",
+    "Watch the timing. A baby is born, and milk is ready for it, not a week later. Pure milk comes from between what is digested and blood, pleasant to drink (16:66). Migrating birds find food along routes they have never flown. {reward}Each creature's portion arrives when it is needed, from the One who measured it{/reward}."
+  ],
+  "trusting": [
+    "Anxiety about money often comes from trying to secure every future need at once. {trap}You feel safe only when the whole year is guaranteed, and you are never safe{/trap}. Al-Muqit gives in portions. Your job is to work for today's share honestly and to trust that tomorrow's is weighed out and guarded, just as today's was.",
+    "The same applies to spiritual dryness. Sometimes the heart's portion feels small: you cannot concentrate, you understand little. Al-Muqit knows the measure you can carry now. Keep showing up to receive it, a verse, a lesson, a moment of dhikr, and do not despise the small portion. It is what keeps you standing."
+  ],
+  "loving": [
+    "There is a particular tenderness in being given exactly enough at exactly the right time. {reward}Al-Muqit's care is personal: your portion, your timing, your heart's food{/reward}. The heart grows calm, and then grateful, and then loving, when it sees that nothing it needed today was forgotten."
+  ],
+  "now": "It is the 26th of the month, payday is five days away, and the account shows £14. You open the fridge and do the maths. There is food for today. Al-Muqit measured today's portion before you were born; eat it with gratitude, and trust that the next five days are counted too.",
+  "old": "I feel I must secure every future need now, or I will be left with nothing.",
+  "new": "Al-Muqit measures and delivers my portion day by day, and He is watching over all of it.",
+  "try": "Before each meal today, pause and say Bismillah slowly, remembering that this exact portion was measured out for you by Al-Muqit.",
+  "dua": {
+    "text": "Ya Muqit, You measure out my portion and watch over all things. Give my body its lawful sustenance and my heart its food of faith, and let me be content with what You send.",
+    "note": "Call on Him by this name when you are anxious about the coming days, asking for today's portion with contentment rather than demanding the whole future."
+  },
+  "pairs": [
+    {"slug": "ar-razzaq", "why": "Ar-Razzaq gives provision in all its vastness; Al-Muqit measures and delivers the daily portion that keeps each creature alive."},
+    {"slug": "al-hafiz", "why": "Al-Muqit's watch over all things meets Al-Hafiz, who preserves and guards what He has given."},
+    {"slug": "al-hasib", "why": "Both weigh things precisely: Al-Muqit portions sustenance, Al-Hasib keeps account and suffices."}
+  ],
+  "faq": [
+    {"q": "What does Al-Muqit mean?", "a": "Al-Muqit means the One who creates and delivers sustenance in measured portions, and who keeps watch over all things with power. The root qut refers to the staple food that keeps a person alive."},
+    {"q": "Where is Al-Muqit mentioned in the Quran?", "a": "Once, in 4:85, at the end of a verse about intercession: Allah is Muqit over all things. Commentators explained it there as Watcher, Witness and the One able to do all things, and also as the Giver of sustenance."},
+    {"q": "What is the difference between Ar-Razzaq and Al-Muqit?", "a": "Ar-Razzaq stresses the vastness and constancy of His provision of every kind. Al-Muqit stresses the measured portion of sustenance each creature needs to stay alive, delivered at its time and guarded by His power."}
+  ],
+  "lessons": [],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

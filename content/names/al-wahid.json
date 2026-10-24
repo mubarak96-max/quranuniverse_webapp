@@ -1,0 +1,64 @@
+{
+  "slug": "al-wahid",
+  "title": "One Master to please, not a crowd of bosses to juggle",
+  "subtitle": "Allah has no partner, no rival and no second, and that sets you free",
+  "intro": "Al-Wahid (الْواحِدُ) means the One, the only God, who has no partner, no second and no rival in His lordship, His worship, His names or His actions. It matters to you because a heart that serves one Master is calmer than a heart pulled apart by many.",
+  "root": {
+    "letters": "و ح د",
+    "sense": "The root means to be one, single, alone. Wahid is the ordinary Arabic word for the number one, the start of counting. Tawhid, declaring Him one, comes from the same root. Said of Allah, it negates any second: no partner beside Him, no co-ruler, no share in His right to be worshipped."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Wahid denies, and what it gives",
+    "row": [
+      {"box": "plain", "title": "No partner", "sub": ["in creating or ruling"]},
+      {"conn": "and"},
+      {"box": "plain", "title": "No rival god", "sub": ["none shares His worship"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "One direction", "sub": ["one Master to please", "one door to knock on"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "Many masters to keep happy", "sub": ["boss, public, family, my ego"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "One Master, Al-Wahid", "sub": ["please Him, the rest finds its place"]}
+    ]
+  },
+  "knowing": [
+    "Al-Wahid is the One who is alone in His divinity. He created alone, He rules alone, and He alone deserves worship. {idea}There is no second god, no assistant, no partner holding a share of His kingdom{/idea}. The Quran gives the reason in plain logic: had there been other gods in the heavens and earth, both would have fallen into ruin (21:22), each god taking what it made and rising over the others (23:91). The order you see in the universe is the signature of one will.",
+    "This name stresses oneness against number and partnership. Its close neighbour, Al-Ahad, stresses something deeper: that He is unique and incomparable, with nothing like Him in any way. Al-Wahid answers the question how many; Al-Ahad answers the question is anything like Him.",
+    "In the Quran Al-Wahid very often comes joined to Al-Qahhar, the Prevailing (12:39, 13:16, 38:65, 39:4, 40:16). The One has no rival because He overpowers everything; whatever people set up beside Him is subdued under His authority."
+  ],
+  "seeing": [
+    "In a prison cell in Egypt, Yusuf asked his two fellow prisoners a simple question: are many separate lords better, or Allah, the One, the Prevailing (12:39)? He offered them freedom while all three were in chains.",
+    "The Quran also draws a picture (39:29): a slave owned by several quarrelling partners, each pulling him a different way, and a slave who belongs to one man alone. Are they equal? The first is exhausted and never pleases anyone. The second knows exactly whom he serves. And on the Last Day, when the call goes out, To whom belongs the kingdom today, the answer is: To Allah, the One, the Prevailing (40:16)."
+  ],
+  "trusting": [
+    "Most of us live like the slave with many owners. {trap}We try to satisfy the boss, the in-laws, the followers, the neighbours and our own cravings, and every one of them wants something different{/trap}. That is a quiet kind of shirk, and it is tiring. Al-Wahid offers a simpler life: make pleasing Him the one aim, and let everything else be arranged around it.",
+    "It also changes where you take your needs. If He alone creates, provides and controls, then no other door holds the key. People can be means, but they are not sources. {reward}When you ask the One directly, you stop grovelling before the many{/reward}, and you stop being crushed when one of them says no."
+  ],
+  "loving": [
+    "Love divided among competing gods is never whole. {idea}Al-Wahid lets the heart be undivided{/idea}: one Lord to love, to thank, to obey and to return to. There is a deep relief in that, like finally coming home after living in too many places. The heart was made for one centre, and He is it."
+  ],
+  "now": "Your manager wants the report tonight, your mother wants you at dinner, your group chat expects a reply, and you are trying to keep them all happy at once. Stop for a minute and ask: what would please Al-Wahid here? Do that, and let the rest fall into its place.",
+  "old": "I have to keep everyone happy or my life will fall apart.",
+  "new": "I serve one Master; when I please Al-Wahid, I can deal with everyone else with calm and fairness.",
+  "try": "Before one decision today, pause and ask only one question: which choice would please Allah? Then act on it.",
+  "dua": {
+    "text": "O Allah, You are Al-Wahid, with no partner and no rival. Free my heart from serving many masters, and make my aim, my love and my fear for You alone.",
+    "note": "Call on Him by this name when you feel pulled in many directions, as Yusuf reminded his companions of the One, the Prevailing (12:39)."
+  },
+  "pairs": [
+    {"slug": "al-qahhar", "why": "The two names come together in several verses: He is One because He prevails over everything, and nothing can stand as His rival."},
+    {"slug": "al-ahad", "why": "Al-Wahid denies any partner or second; Al-Ahad denies any likeness. One is about number, the other about uniqueness."}
+  ],
+  "faq": [
+    {"q": "What does Al-Wahid mean?", "a": "Al-Wahid means the One: Allah has no partner, no second and no rival in creating, ruling or being worshipped. It is the root of tawhid, the declaration of His oneness, and appears in many verses, often paired with Al-Qahhar, the Prevailing."},
+    {"q": "What is the difference between Al-Wahid and Al-Ahad?", "a": "Both affirm Allah's oneness. Scholars explain that Al-Wahid negates number and partnership: there is no second god beside Him. Al-Ahad negates likeness and division: He is unique, indivisible, with nothing comparable to Him. Al-Ahad is used for Allah alone in an absolute sense."},
+    {"q": "Why does Al-Wahid often come with Al-Qahhar?", "a": "In verses such as 12:39, 13:16, 38:65, 39:4 and 40:16, Allah is called the One, the Prevailing. His oneness is tied to His total dominance: nothing set up beside Him has any real power, because He subdues all things."}
+  ],
+  "lessons": [30],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

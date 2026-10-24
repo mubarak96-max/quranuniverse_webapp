@@ -1,0 +1,64 @@
+{
+  "slug": "al-muqsit",
+  "title": "Every right that was ever taken will be given back",
+  "subtitle": "Al-Muqsit: the Equitable, who removes injustice and restores the rights of the wronged",
+  "intro": "Al-Muqsit (المقسط) means the Equitable: the One who acts with perfect fairness, takes back the rights of the wronged from those who wronged them, and gives every share its exact measure. It matters because the injustice you could never fix is not forgotten; He will set it right.",
+  "root": {
+    "letters": "ق س ط",
+    "sense": "Qist is a fair share, a just portion. The root has two faces: qasata means to swerve and do wrong, while aqsata, the form behind Muqsit, means to remove that wrong and set things straight. Al-Muqsit is the One who undoes injustice and hands each person their exact share."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "How His equity works",
+    "row": [
+      {"box": "trap", "title": "A wrong is done", "sub": ["a right is taken"]},
+      {"conn": "He"},
+      {"box": "idea", "title": "Removes the wrong", "sub": ["no injustice left standing"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Restores the right", "sub": ["each gets their full share"]}
+    ]
+  },
+  "key": {
+    "label": "An old injustice",
+    "row": [
+      {"box": "trap", "title": "Too late to put it right", "sub": ["they got away with it"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "Al-Muqsit will settle it", "sub": ["if not here, then there"]}
+    ]
+  },
+  "knowing": [
+    "Al-Muqsit is the Equitable. The name is in the well-known list in Jami' al-Tirmidhi. Allah testifies that there is no god but Him, maintaining all of creation in justice, bil-qist (3:18). And He loves those who act equitably, the muqsitin (49:9, 60:8).",
+    "How does this differ from Al-Adl? 'Adl is justice as a quality, the balance itself. Iqsat is the act of making things right after someone has made them wrong. {idea}Al-Muqsit is the One who lifts the oppressor's hand off the oppressed and returns what was taken.{/idea} Where people bent the scale, He straightens it.",
+    "Human attempts at equity fall short. Courts lack evidence, compensation never fully repairs, and many wrongs are never reported at all. Al-Muqsit knows every hidden theft, every unpaid wage, every word that destroyed a reputation, and He has the power to return each right in full."
+  ],
+  "seeing": [
+    "The Quran calls the scales of the Day of Resurrection the scales of qist, set up so that no soul is wronged at all (21:47). The Prophet ﷺ said that rights will be paid back to their owners on that Day, even the hornless sheep will be given its due from the horned sheep that butted it (Sahih Muslim). If even an animal's wrong is settled, nothing done to you will be overlooked.",
+    "Meanwhile the oppressor has an expiry date he cannot see. Allah is not unaware of what the wrongdoers do; He only gives them time (14:42). And He honours people who live by this name: the Prophet ﷺ said that the equitable will be with Allah on pulpits of light, those who are fair in their judgments, with their families and in whatever they are put in charge of (Sahih Muslim)."
+  ],
+  "trusting": [
+    "Perhaps you were cheated in business, slandered at work, or hurt as a child by someone who never answered for it. It cannot be undone now. Al-Muqsit still holds the file. {reward}You can let go of revenge without letting go of justice.{/reward}",
+    "Perhaps you fear you wronged someone who has since died or disappeared. Return what you can to their family, give charity on their behalf, pray for them, and ask Allah's forgiveness. And when you are wronged, do not answer with a new injustice. {trap}Taking justice into your own hands through more wrong{/trap} only adds a second case to the file. Allah tells believers to be just even with people they hate (5:8)."
+  ],
+  "loving": [
+    "There is a deep peace in knowing someone will make it right. {idea}The heart that trusts Al-Muqsit can forgive without feeling foolish, because nothing is truly lost.{/idea} And it loves Him for promising that every quiet sufferer, every person no one believed, will one day see their right placed back in their hands."
+  ],
+  "now": "Years later, you still flinch when a certain name comes up: the business partner who walked away with your share and never answered for it. You have tried to forget, and it keeps coming back. Al-Muqsit has not forgotten either, and He will return every right to its owner. Tonight, hand Him the case in your dua, and sleep.",
+  "old": "Old wrongs done to me that were never put right feel like debts that will never be paid.",
+  "new": "Al-Muqsit returns every right to the one it was taken from, so no injustice is too old for Him to settle.",
+  "try": "Be fair in one place where it is hard: speak well of someone you dislike where it is true, or treat your children exactly equally today.",
+  "dua": {
+    "text": "Ya Muqsit, return to me the rights I could not reclaim, help me return the rights I owe to others, and make me among those who are fair in their homes, their words and their work.",
+    "note": "Call on Him by this name when you carry an old injustice, remembering the Prophet's ﷺ promise of pulpits of light for those who are fair (Sahih Muslim)."
+  },
+  "pairs": [
+    {"slug": "al-adl", "why": "Al-Adl is justice as His perfect quality; Al-Muqsit is that justice at work, setting wrongs right."},
+    {"slug": "al-hakam", "why": "Al-Hakam gives the final verdict; Al-Muqsit carries it out, returning each right to its owner."}
+  ],
+  "faq": [
+    {"q": "What does Al-Muqsit mean?", "a": "Al-Muqsit means the Equitable. Allah acts with perfect fairness, removes injustice, and restores the rights of the wronged from those who wronged them, giving everyone their exact share. The name is in the well-known list of names in Jami' al-Tirmidhi."},
+    {"q": "What is the difference between Al-Adl and Al-Muqsit?", "a": "Al-Adl describes Allah's justice as a quality: He never wrongs anyone. Al-Muqsit describes the action of putting things right: after people have committed injustice, He removes it and restores each right to its owner, in this life or on the Day of Resurrection."},
+    {"q": "Is the word Muqsit used in the Quran?", "a": "The Quran describes Allah as maintaining creation in justice, using the word qist (3:18), and says several times that Allah loves the muqsitin, those who act equitably (49:9, 60:8). The name Al-Muqsit itself comes in the well-known list narrated in Jami' al-Tirmidhi."}
+  ],
+  "lessons": [28],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

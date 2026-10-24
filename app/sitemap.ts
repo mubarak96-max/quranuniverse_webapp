@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getArticles } from "@/lib/articles";
 import { getSurahs, surahHref } from "@/lib/data";
 import { getJourneyIds } from "@/lib/journey";
+import { getNames, nameHref } from "@/lib/names";
 import { getLibraryRefs, getTimeline } from "@/lib/timeline";
 import { refHref } from "@/lib/timeline-types";
 import { SITE, absUrl } from "@/lib/site";
@@ -23,6 +24,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...getTimeline().villains.map((v) => at(`/timeline/villains/${v.id}`, 0.7)),
     at("/timeline/library", 0.8),
     ...getLibraryRefs().map((r) => at(refHref(r), 0.6)),
+    at("/names", 0.9),
+    ...getNames().map((n) => at(nameHref(n), 0.7)),
     ...getArticles().map((a) => at(`/learn/${a.slug}`, 0.8, a.updated)),
     ...surahs.map((s) => at(surahHref(s.id), 0.9)),
     ...surahs.flatMap((s) => s.verses.map((v) => at(surahHref(s.id, v.id), 0.6))),

@@ -1,0 +1,65 @@
+{
+  "slug": "al-muid",
+  "title": "Nothing you lose is lost to the One who restores",
+  "subtitle": "Al-Mu'id: the Restorer who brings creation back after it has gone",
+  "intro": "Al-Mu'id (الْمُعِيدُ) means The Restorer: the One who brings creation back after it has perished, returning people to life for the Day of Judgment, and who returns things to their former state by His power. Repeating creation is even easier than beginning it. For you, it means no one and nothing you have lost is beyond His reach.",
+  "root": {
+    "letters": "ع و د",
+    "sense": "The root means to return or come back. I'adah is bringing something back as it was, and 'id, the festival, is a day that keeps returning. Al-Mu'id is the One who brings back what has gone: life after death, creation after its end."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "How Al-Mu'id restores",
+    "row": [
+      {"box": "plain", "title": "Dust and bones", "sub": ["scattered, decayed", "who could restore this?"]},
+      {"conn": "He who began"},
+      {"box": "idea", "title": "Brings it back", "sub": ["as He began it", "and easier still"]},
+      {"conn": "for"},
+      {"box": "reward", "title": "Justice and reunion", "sub": ["every deed repaid", "every lost one returned"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "Gone means gone", "sub": ["death ends the story", "what is lost is lost"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "He returns what He began", "sub": ["the dead, the lost", "nothing slips from Him"]}
+    ]
+  },
+  "knowing": [
+    "Milk that has gone off cannot be made fresh again. A shattered glass does not reassemble. From things like these, some people concluded that a body turned to dust can never come back, and asked: when we are dust, will we really be created anew (13:5)? {idea}Al-Mu'id is the answer: the One who brings back what has gone{/idea}.",
+    "The Quran's argument is disarmingly simple. Ask yourself who made you the first time. He will give life to the bones who produced them the first time (36:78-79). It is He who begins creation and then repeats it, and that is even easier for Him (30:27). Not that anything is hard for Allah; the verse speaks in terms we understand: if you accept the first, the second is less to ask.",
+    "His restoring is not random. He repeats creation so that He may reward with justice those who believed and did good (10:4). {reward}The return is where every hidden kindness is finally seen and every wrong finally answered{/reward}."
+  ],
+  "seeing": [
+    "Look at the trees outside your window across a year. In autumn the leaves turn and fall; in winter the branches look dead. Then spring comes and the same tree is green again. The Quran draws the line itself: as He began the first creation, He will repeat it, and that is a promise binding on Him (21:104). Every spring is a small rehearsal of the return.",
+    "He also returns things within this life. Musa's mother was told to put her baby in the river, with a promise: We will return him to you (28:7). Then We restored him to his mother, so that she would be comforted and not grieve, and know that Allah's promise is true (28:13). {reward}What she let go of for His sake came back to her{/reward}."
+  ],
+  "trusting": [
+    "Grief often carries a hidden fear: that the person is simply gone, erased. Knowing Al-Mu'id does not remove the pain of missing them, but it removes that fear. {idea}Nothing He began is lost to Him{/idea}, not one cell of the person you buried. He will bring them back, and for the believers, reunite them.",
+    "The same applies to other losses: health, a relationship, a sense of faith that has gone cold, a chance that seemed to pass. Some He returns here, sometimes better than before. What He does not return in this life He can repay in the next. Either way, you are dealing with the One who restores, not with a world that only takes."
+  ],
+  "loving": [
+    "We cling to people because we fear the last goodbye. Al-Mu'id turns every goodbye between believers into see you later. {reward}The heart loves the One who promises that love is not wasted and that the story continues{/reward}."
+  ],
+  "now": "You are clearing out your late mother's wardrobe, holding a cardigan that still smells like her, and it feels as though she has disappeared from the world. She has not disappeared from Allah. Al-Mu'id knows every part of her, and He brings back what He began.",
+  "old": "When something or someone is gone, I treat it as gone for good.",
+  "new": "Al-Mu'id brings back what He began, so loss is never the last word.",
+  "try": "Make a sincere dua today for someone you have lost, by name, and ask Al-Mu'id to reunite you with them in Paradise.",
+  "dua": {
+    "text": "Ya Mu'id, You will bring us back as You began us. Reunite me with those I love in Your mercy, and make my return to You a happy one.",
+    "note": "Call on Him by this name in grief, at a graveside, or whenever you fear that something precious is gone for good."
+  },
+  "pairs": [
+    {"slug": "al-mubdi", "why": "He begins and He repeats; His first creation is the proof that He can restore."},
+    {"slug": "al-baith", "why": "Al-Mu'id restores the created form; Al-Ba'ith raises the restored from their graves."},
+    {"slug": "al-jami", "why": "Those He restores, He then gathers together on the Day of no doubt."}
+  ],
+  "faq": [
+    {"q": "What does Al-Mu'id mean?", "a": "Al-Mu'id means The Restorer: the One who brings creation back after it has perished, especially at the resurrection, and returns things to their former state. It comes from a root meaning to return."},
+    {"q": "Why is Al-Mubdi' always paired with Al-Mu'id?", "a": "Because the Quran uses the first creation as evidence for the second. Verses like 10:4, 29:19, 30:27 and 85:13 say that Allah begins creation and then repeats it, so whoever accepts that He began us should not doubt that He can bring us back."},
+    {"q": "Is resurrection hard for Allah?", "a": "No. The Quran says repeating creation is even easier for Him than beginning it (30:27), speaking in a way people understand. Nothing is difficult for Allah; He only says Be, and it is."}
+  ],
+  "lessons": [27, 9],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "as-samad",
+  "title": "Every road of need ends at His door",
+  "subtitle": "The Master whom all creation turns to, while He needs nothing",
+  "intro": "As-Samad (الصَّمَدُ) means the Eternal Refuge: the perfect Master to whom all creation turns for every need, who is complete in Himself and needs nothing from anyone. It matters to you because every need you have is a reason to go to Him, and He is never too far up the hill to reach.",
+  "root": {
+    "letters": "ص م د",
+    "sense": "The verb samada means to aim for, to head deliberately toward someone. Arabs called a chief samad because people went to him with their problems. The word was also used for high, solid ground and for something solid with no hollow in it. The picture: the summit everyone climbs toward, complete and firm."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What As-Samad means",
+    "row": [
+      {"box": "people", "title": "All creation", "sub": ["every need, every moment"]},
+      {"conn": "turns to"},
+      {"box": "idea", "title": "As-Samad", "sub": ["perfect Master, solid, complete"]},
+      {"conn": "who needs"},
+      {"box": "plain", "title": "Nothing from anyone", "sub": ["no food, no child, no helper"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "Asking is embarrassing", "sub": ["I should manage alone"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Asking Him is the point", "sub": ["He is the One to aim for"]}
+    ]
+  },
+  "knowing": [
+    "As-Samad comes once in the Quran, in Surah al-Ikhlas, right after Ahad (112:2). The early scholars gave it several meanings that fit together: {idea}the Master perfect in His authority, to whom all creatures go with their needs{/idea}; the One who does not eat or drink; the One who is solid and complete, with no emptiness in Him. The verses that follow make it concrete: He does not beget and was not begotten. He needs no child to continue Him and no parent to originate Him.",
+    "Think of a hill in rainy country. The rain gathers on the high ground and then runs down to everything below. Whoever wants water has to head up to the source. As-Samad is that summit: everyone climbs toward Him, and He depends on no one beneath.",
+    "Al-Ghaniyy, the Free of need, is close in meaning, but the emphasis differs. Al-Ghaniyy describes Him as needing nothing. As-Samad adds the movement of creation toward Him: He is the One everyone aims for, the address of every request."
+  ],
+  "seeing": [
+    "Watch creation for a day and you see As-Samad everywhere. The baby cries for milk, the plant turns toward light, the bird leaves its nest hungry at dawn. Every creature is reaching for something, and every reach ends with Him. The Quran says everyone in the heavens and the earth asks Him (55:29).",
+    "Even those who forget Him in good times turn to Him in danger. The Quran describes people on a ship in a storm calling on Allah alone with total sincerity, then going back to their old ways once safely ashore. In the storm, the heart remembers who As-Samad is."
+  ],
+  "trusting": [
+    "We are taught to be self-sufficient, and in front of people that is good: the Prophet ﷺ encouraged his companions not to ask people for things. But {trap}carrying that pride into your relationship with Allah is a disaster{/trap}. You end up stressing alone, too embarrassed to ask Him, or asking only when things collapse.",
+    "As-Samad turns this around. Your need is not a failure; it is your nature, and it is the very thing that connects you to Him. {reward}Small needs and big ones alike are invitations to go to Him{/reward}: the job, the exam, the diagnosis, the lost keys. A child keeps asking his father because he knows he cannot drive himself. Ask As-Samad the same way, constantly, and without shame."
+  ],
+  "loving": [
+    "There is a particular love for the person you can always go to: the one who never sighs when you call, never says not now. {idea}As-Samad is that, without limit{/idea}. All of creation is heading to His door at once, and none of it diminishes Him. The more you go to Him, the more you discover He is glad that you came."
+  ],
+  "now": "You have been refreshing the job portal for an hour, cover letter rewritten four times, too proud to tell anyone how worried you are. Close the laptop and say, out loud if you can: Ya Samad, I need this. You are allowed to ask. He is the One everyone is meant to come to.",
+  "old": "I should be able to handle this myself; asking makes me weak.",
+  "new": "My need is the road to As-Samad, and going to Him is exactly what I was made for.",
+  "try": "Pick one small need today you would normally not bother mentioning, and ask Allah for it specifically.",
+  "dua": {
+    "text": "Ya Samad, every creature turns to You and I turn to You now. You need nothing and I need everything. Do not leave me to myself; meet my needs from Your fullness.",
+    "note": "Call on Him by this name whenever you feel a need, large or small; reciting al-Ikhlas, where it appears, is a fitting way to begin."
+  },
+  "pairs": [
+    {"slug": "al-ahad", "why": "Side by side in al-Ikhlas: the One and Only, and the One to whom all turn. His uniqueness is why only He can be the refuge."},
+    {"slug": "al-ghaniyy", "why": "Al-Ghaniyy needs nothing; As-Samad is the One everyone needs. One describes His fullness, the other creation's movement toward it."}
+  ],
+  "faq": [
+    {"q": "What does As-Samad mean?", "a": "As-Samad means the Eternal Refuge or Self-Sufficient Master: the One to whom all creation turns for every need, who is perfect in His authority and needs nothing. Early scholars also explained it as the One who does not eat or drink, and the One complete with no hollowness."},
+    {"q": "Where does As-Samad appear in the Quran?", "a": "As-Samad appears only once in the Quran, in the second verse of Surah al-Ikhlas: Allah, the Eternal Refuge (112:2). It follows the name Al-Ahad and is explained by the next verses: He neither begets nor is born, and nothing is equal to Him."},
+    {"q": "What is the difference between As-Samad and Al-Ghaniyy?", "a": "Al-Ghaniyy emphasizes that Allah is free of all need. As-Samad includes that, and adds that He is the One every creature aims for and depends on, the Master to whom all needs are brought. One stresses His self-sufficiency, the other creation's turning to Him."}
+  ],
+  "lessons": [3, 12],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

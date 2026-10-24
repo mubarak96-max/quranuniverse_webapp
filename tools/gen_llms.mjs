@@ -10,6 +10,7 @@ import { surahTitle } from "../lib/surah-meta.ts";
 const root = path.join(import.meta.dirname, "..");
 const slug = (t) => t.toLowerCase().replace(/'/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const surahs = JSON.parse(fs.readFileSync(path.join(root, "quran.json"), "utf8"));
+const names = JSON.parse(fs.readFileSync(path.join(root, "content", "names.json"), "utf8"));
 const dir = path.join(root, "content", "articles");
 const articles = fs
   .readdirSync(dir)
@@ -39,6 +40,11 @@ const lines = [
       `- [${s.id}. ${surahTitle(s.id, s.transliteration)}](${absUrl(`/surah/${slug(s.transliteration)}`)}): ` +
       `${s.type === "meccan" ? "Makkan" : "Madinan"}, ${s.total_verses} verses`,
   ),
+  "",
+  "## The 99 Names of Allah",
+  "",
+  `- [All 99 names](${absUrl("/names")})`,
+  ...names.map((n) => `- [${n.number}. ${n.transliteration} (${n.arabic})](${absUrl(`/names/${n.slug}`)}): ${n.meaning}`),
   "",
   "## About",
   "",

@@ -1,0 +1,64 @@
+{
+  "slug": "al-qayyum",
+  "title": "Not one heartbeat holds itself up without Him",
+  "subtitle": "The Sustainer who stands by Himself and keeps everything standing",
+  "intro": "Al-Qayyum (الْقَيُّومُ) means the Self-Sustaining Sustainer: Allah exists by Himself, needs nothing, and holds up, maintains and manages everything else at every moment without tiring. It matters to you because the things you fear losing are already being held, and not by you.",
+  "root": {
+    "letters": "ق و م",
+    "sense": "Qama means to stand. A guard who stands and walks around is more alert than one sitting down; a creditor who keeps standing over you is pressing for his due. Qawwam is one who constantly maintains and looks after. Qayyum is a rarer, stronger form: standing over everything without one moment of slack."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Al-Qayyum at work",
+    "row": [
+      {"box": "idea", "title": "Stands by Himself", "sub": ["needs no support"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Holds everything up", "sub": ["sky, earth, your heartbeat"]},
+      {"conn": "without"},
+      {"box": "plain", "title": "Drowsiness or sleep", "sub": ["not one blink of neglect"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "It all rests on me", "sub": ["my effort keeps it standing"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "It all rests on Him", "sub": ["I work; He holds it up"]}
+    ]
+  },
+  "knowing": [
+    "Al-Qayyum has two sides. He is self-subsisting: He exists by Himself and depends on nothing. And He sustains everything else: {idea}the heavens, the earth and every soul stand only because He holds them up{/idea}. If He let go for an instant, there would be nothing. Allah holds the heavens and the earth lest they cease, and if they ceased, no one could hold them after Him (35:41).",
+    "Right after naming Himself Al-Hayy al-Qayyum, Ayat al-Kursi adds: neither drowsiness nor sleep overtakes Him (2:255). The word sinah is that heavy-eyed moment on a motorway at midnight when your eyes close for a second; nawm is deep sleep. Every human caretaker has those moments: the night guard asleep at his desk, the exhausted mother, the tired father. Al-Qayyum never has even the first one.",
+    "Al-Hayy describes His perfect life. Al-Qayyum describes what that life does: it carries the weight of all existence. He is the One standing over every soul, aware of what it earns (13:33)."
+  ],
+  "seeing": [
+    "You notice Al-Qayyum most when a small part of the system fails. Break your little finger and suddenly you realise how much you needed it to write, grip and cook. Fall ill and you discover the blessing of the health you never thought about. Gravity has not paused once since you were born. None of this runs itself; He maintains it.",
+    "The Quran says there is no creature on earth whose provision is not upon Allah, and He knows where it rests and where it is kept (11:6). The Prophet ﷺ said, as reported in Jami' at-Tirmidhi, that if you relied on Allah as He deserves, He would provide for you as He provides for the birds, which leave hungry in the morning and return full in the evening."
+  ],
+  "trusting": [
+    "Here is a freeing way to see your life: {idea}nothing you have is owned, it is on lease{/idea}. Your health, your house, your income, even your children are held up by Al-Qayyum and can be recalled by Him at any time. That sounds frightening until you see the other side: {reward}you do not have to hold it all up yourself{/reward}.",
+    "Many people lie awake running numbers: rent, rising prices, a business month that may not cover costs. {trap}Some even prefer conspiracy theories, because at least then someone is in control{/trap}. The truth is better: Someone is, and He never sleeps. Do the work, take the means, then leave the outcome with Al-Qayyum. Working hard is your job; holding up the world is His."
+  ],
+  "loving": [
+    "We feel tender toward whoever carried us when we could not stand: the parent who held us as babies, the friend who got us through a breakdown. {idea}Al-Qayyum has carried you every second of your life{/idea}, through every heartbeat you never thought about, without once growing tired of you. When you see that, love comes easily, and so does shame at how rarely you have thanked Him."
+  ],
+  "now": "It is the last week of the month, the business account is thin, and you are lying awake rehearsing worst cases. You have done what you can today. Say the morning and evening dua: Ya Hayyu ya Qayyum, set right all my affairs and do not leave me to myself even for the blink of an eye. Then sleep. He is not sleeping.",
+  "old": "If I stop worrying for a moment, everything I have built will fall apart.",
+  "new": "Al-Qayyum holds up everything I have; I do my part and rest, because He never does.",
+  "try": "Memorise the dua Ya Hayyu ya Qayyum, bi rahmatika astaghith, aslih li sha'ni kullahu, wa la takilni ila nafsi tarfata 'ayn, and say it this evening.",
+  "dua": {
+    "text": "Ya Hayyu ya Qayyum, by Your mercy I seek help. Set right all my affairs, and do not leave me to myself even for the blink of an eye.",
+    "note": "The Prophet ﷺ taught this to Fatimah to say morning and evening; it is reported by an-Nasa'i and al-Hakim."
+  },
+  "pairs": [
+    {"slug": "al-hayy", "why": "Al-Hayy is His perfect life; Al-Qayyum is that life sustaining everything. They always come together in the Quran."},
+    {"slug": "al-hafiz", "why": "Al-Qayyum holds all things in existence; Al-Hafiz guards and preserves them from harm."}
+  ],
+  "faq": [
+    {"q": "What does Al-Qayyum mean?", "a": "Al-Qayyum means the Self-Sustaining Sustainer: Allah exists by Himself, needing nothing, and maintains and manages everything else at every moment. It appears three times in the Quran, always with Al-Hayy: in 2:255, 3:2 and 20:111."},
+    {"q": "What is the difference between Al-Hayy and Al-Qayyum?", "a": "Al-Hayy describes Allah's perfect, unending life. Al-Qayyum describes His standing by Himself and holding up all of creation. The first is about His own perfection; the second is about how all existence depends on Him every moment, without drowsiness or sleep."},
+    {"q": "What is the Ya Hayyu Ya Qayyum dua?", "a": "Ya Hayyu ya Qayyum, bi rahmatika astaghith, aslih li sha'ni kullahu, wa la takilni ila nafsi tarfata 'ayn. It means: O Ever-Living, O Sustainer, by Your mercy I seek help; set right all my affairs and do not leave me to myself for the blink of an eye. It is reported by an-Nasa'i and al-Hakim."}
+  ],
+  "lessons": [3],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

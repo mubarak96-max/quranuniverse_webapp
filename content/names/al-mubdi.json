@@ -1,0 +1,65 @@
+{
+  "slug": "al-mubdi",
+  "title": "Every first breath, first dawn and first step began with Him",
+  "subtitle": "Al-Mubdi': the One who begins creation and starts every beginning",
+  "intro": "Al-Mubdi' (الْمُبْدِئُ) means The Originator, the One who begins: He brought creation into being the first time, when there was nothing, and He is the source of every beginning since. Your life had a first moment, and it was His. That means a new start is always in His hands, however many times you have failed before.",
+  "root": {
+    "letters": "ب د أ",
+    "sense": "Bad' means to begin, to start a thing for the first time, and mabda' is a starting point or origin. Al-Mubdi' is the One with whom every first time starts: the first creation, the first human, the first day of every life."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "The beginnings that are His",
+    "row": [
+      {"box": "plain", "title": "Nothing", "sub": ["you were not even mentioned", "no trace, no name"]},
+      {"conn": "He began"},
+      {"box": "idea", "title": "The first creation", "sub": ["heavens, earth, the first human", "every species, every soul"]},
+      {"conn": "and still begins"},
+      {"box": "reward", "title": "Every new start", "sub": ["each child, each dawn", "each turning back to Him"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "My story is already written off", "sub": ["too late to start again", "I have used up my chances"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "He is the One who begins", "sub": ["starting from nothing is His way", "today can be a first"]}
+    ]
+  },
+  "knowing": [
+    "There was a time when you were not a thing worth mentioning (76:1). No body, no name, no memory. {idea}Al-Mubdi' is the One who took that nothing and made it a beginning{/idea}. He did the same for the heavens and the earth, the first human, and every kind of creature, with no help and no prior material.",
+    "Human beings start things too, but always in the middle of a story that was already running: with tools already made, in a world already there, with a body already given. Only Allah begins in the true sense. Every other beginning is a continuation of His.",
+    "The Quran almost always mentions this name with its partner: it is He who begins creation and then repeats it (85:13, 10:4). His beginning is the proof of His power to return what He began. But beginning is a mercy on its own: {reward}nothing good in your life started without Him starting it{/reward}."
+  ],
+  "seeing": [
+    "Travel through the land and look at how He began creation (29:20). The Quran sends you out to look at beginnings: a seed splitting, a chick breaking its shell, the first light on the horizon. Scientists still argue about how life first began. The believer knows Who began it, and keeps looking with wonder.",
+    "When the angel told Zakariyya he would have a son in his old age, Allah answered his astonishment by pointing to his own first beginning: it is easy for Me, for I created you before, when you were nothing (19:9). {reward}The One who began you can begin anything for you{/reward}."
+  ],
+  "trusting": [
+    "Failure often feels final. A marriage ends, a business folds, a habit you swore off comes back again. {trap}You start to believe your story has no new chapters left{/trap}. Knowing Al-Mubdi' breaks that belief. He began you from less than this. He can begin a new chapter for you from where you are now, however little is left.",
+    "So begin small, and begin today: one prayer on time, one honest conversation, one step back toward Him. You do not have to fix the past first. The first revelation itself began with a command to read in the name of your Lord who created (96:1). Starting in His name is how every good beginning works."
+  ],
+  "loving": [
+    "Everyone remembers who gave them their start: the teacher who believed in them, the boss who took a chance. Al-Mubdi' gave you your very first start, existence itself, before you could ask or earn it. {reward}Love for Him begins when you realize He chose to begin you{/reward}."
+  ],
+  "now": "It is the first of January, or the first day after the rehab clinic, or the first morning in a new city where you know no one. Everything feels fragile and unfamiliar. Say Bismillah over this new day: the One who began the heavens and the earth is the One who began this morning for you.",
+  "old": "I think a fresh start is only for people who have not failed as much as I have.",
+  "new": "Al-Mubdi' begins from nothing, so He can begin something new with me today.",
+  "try": "Choose one small good habit you have abandoned and begin it again today, saying Bismillah as you start it.",
+  "dua": {
+    "text": "Ya Mubdi', You began me when I was nothing. Begin for me today a new chapter of obedience, and do not let my past failures close the door You have opened.",
+    "note": "Call on Him by this name at any beginning: a new day, a new job, a new attempt at repentance."
+  },
+  "pairs": [
+    {"slug": "al-muid", "why": "He begins creation and He repeats it; the first creation is the proof of the second."},
+    {"slug": "al-badi", "why": "Al-Mubdi' is the One who begins; Al-Badi' stresses that the beginning copied no model."},
+    {"slug": "al-khaliq", "why": "Al-Khaliq measures and brings into being at every moment; Al-Mubdi' is about the very first time."}
+  ],
+  "faq": [
+    {"q": "What does Al-Mubdi' mean?", "a": "Al-Mubdi' means the One who begins or originates: He brought creation into being the first time, from nothing. Every beginning in the universe, including your own life, started with Him."},
+    {"q": "Is Al-Mubdi' mentioned in the Quran?", "a": "The name is taken from verses describing Allah's action, such as 85:13, which says it is He who begins and repeats, and 10:4, 29:19 and 30:27, which say He begins creation and then repeats it. It is in the well-known list of names narrated by at-Tirmidhi."},
+    {"q": "What is the difference between Al-Mubdi' and Al-Mu'id?", "a": "Al-Mubdi' begins creation the first time; Al-Mu'id brings it back again, after death, for the resurrection. The Quran pairs them so that the first creation becomes evidence for the second."}
+  ],
+  "lessons": [11],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "al-muqaddim",
+  "title": "He sends things forward at exactly the right moment",
+  "subtitle": "Al-Muqaddim: the One who brings forward and gives precedence, by His wisdom",
+  "intro": "Al-Muqaddim (المقدم) means the Expediter, the One who brings forward: He advances whatever and whoever He wills in time, rank and nearness to Him, putting each thing in its proper order by wisdom. It matters because what came early in your life, and who went ahead of you, was placed there on purpose.",
+  "root": {
+    "letters": "ق د م",
+    "sense": "Qadam is the foot, and the root pictures stepping forward. Taqdim is to put something in front: to send it ahead, to give it precedence, to present it first. Al-Muqaddim is the One who sets things in front, in time, in order and in honour."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What He brings forward",
+    "row": [
+      {"box": "idea", "title": "In time", "sub": ["a blessing that arrives early"]},
+      {"box": "idea", "title": "In rank", "sub": ["some given precedence over others"]},
+      {"box": "idea", "title": "In nearness", "sub": ["the forerunners to good"]}
+    ]
+  },
+  "key": {
+    "label": "Someone got there first",
+    "row": [
+      {"box": "trap", "title": "They went ahead, so I lost", "sub": ["life as a race"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "He sets each one's order", "sub": ["no one takes your place"]}
+    ]
+  },
+  "knowing": [
+    "Al-Muqaddim is the One who brings forward. The Prophet ﷺ called Allah by this name in his own prayer: after asking forgiveness for what he had sent ahead and what he had left behind, he said, You are Al-Muqaddim and You are Al-Mu'akhkhir; there is no god but You (Sahih al-Bukhari, Sahih Muslim). The two names are said together, because bringing forward and holding back are one wise ordering.",
+    "He brings forward by wisdom in every sense. He gave some messengers precedence over others and raised some of them in degree (2:253). He brings some people to guidance early in life and others later. He sends some blessings ahead of when you expected them. {idea}Nothing comes early by accident; He sent it forward.{/idea}",
+    "Among people, being put first is often favouritism, luck or pushing. With Allah it is knowledge. Even the end of each life is set by Him: when a people's term comes, they cannot delay it by an hour or bring it forward (16:61). He alone moves things up the line."
+  ],
+  "seeing": [
+    "When Allah made Talut king over the Children of Israel, they objected that he had no wealth and that they deserved it more. Their prophet answered that Allah had chosen him and increased him in knowledge and strength (2:247). The people used money to rank each other; Al-Muqaddim used His own measure and put Talut in front.",
+    "You see the same in the first believers. Khadijah and Abu Bakr were brought forward to faith on the first days, before almost anyone else, and that early step became their honour forever. The Quran praises the forerunners, the ones who raced ahead to good, as those brought near (56:10-11). And in creation, dawn comes before the day and spring before the harvest: an order set by Him, never shuffled."
+  ],
+  "trusting": [
+    "When someone younger marries first, gets the job first, has children first, it can feel like being left in the queue. {reward}Your turn is set by the same wise hand, and their early is not your loss.{/reward} He did not run out of good when He gave it to them.",
+    "When a loved one dies young, they were not cut short; they were brought forward at the moment their term was due. And there is one place where you are invited to push to the front: good deeds. {trap}Leaving repentance and kindness for later{/trap} assumes you have a later. Ask Al-Muqaddim to bring you forward to what He loves."
+  ],
+  "loving": [
+    "There is a relief in no longer racing everyone around you. {idea}Knowing that Allah sets the order of your life lets you celebrate other people's good news with a full heart.{/idea} And it is moving that He invites you to come forward to Him: the one who takes a step towards Him finds Him nearer than they thought."
+  ],
+  "now": "Your younger sister announces her engagement over Sunday lunch, and everyone turns, kindly, to look at you. You smile, and your chest tightens. Al-Muqaddim set her moment and has set yours, and neither takes from the other. Hug her properly, and later, alone, ask Him to bring forward whatever is good for you.",
+  "old": "When others get good things before me, I feel left behind or overlooked.",
+  "new": "Allah brings forward whatever He wills at the right time, and the order of my life is set with wisdom, not lost in a race.",
+  "try": "Be early to one good thing today: pray as soon as the adhan goes, or send that apology now instead of later.",
+  "dua": {
+    "text": "O Allah, You are Al-Muqaddim and Al-Mu'akhkhir. Bring forward for me what is good, keep back from me what is harmful, and forgive me what I have sent ahead and what I have left behind.",
+    "note": "The Prophet ﷺ called Allah Al-Muqaddim and Al-Mu'akhkhir in his prayer (Sahih al-Bukhari, Sahih Muslim); say both together when you worry about timing."
+  },
+  "pairs": [
+    {"slug": "al-muakhkhir", "why": "He brings forward and He holds back: one wise ordering, so the two names are always said together."},
+    {"slug": "al-hakim", "why": "Every bringing forward is placed by His wisdom, at exactly the right time and in the right order."}
+  ],
+  "faq": [
+    {"q": "What does Al-Muqaddim mean?", "a": "Al-Muqaddim means the Expediter or the One who brings forward. Allah advances whatever and whoever He wills in time, rank and nearness to Him, by His knowledge and wisdom. The name is always mentioned together with Al-Mu'akhkhir, the One who delays."},
+    {"q": "Where does the name Al-Muqaddim come from?", "a": "The Prophet ﷺ used it in a supplication recorded in Sahih al-Bukhari and Sahih Muslim, ending with: You are Al-Muqaddim and You are Al-Mu'akhkhir, there is no god but You. It also appears in the well-known list of names narrated in Jami' al-Tirmidhi."},
+    {"q": "Why are Al-Muqaddim and Al-Mu'akhkhir mentioned together?", "a": "Bringing forward and holding back are two parts of one perfect ordering. Mentioning one alone could give an incomplete picture. Together they show that Allah alone decides the timing and rank of everything, and that both the early and the late are placed by His wisdom."}
+  ],
+  "lessons": [22],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

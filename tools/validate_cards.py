@@ -111,17 +111,19 @@ def check_file(path):
     return errs
 
 
-files = []
-for a in sys.argv[1:]:
-    p = Path(a)
-    files += sorted(p.glob('*.json')) if p.is_dir() else [p]
-bad = 0
-for f in files:
-    e = check_file(f)
-    if e:
-        bad += 1
-        print(f'FAIL {f.name}')
-        for x in e[:25]: print('  ' + x)
-    else:
-        print(f'ok   {f.name}')
-sys.exit(1 if bad else 0)
+
+if __name__ == '__main__':
+    files = []
+    for a in sys.argv[1:]:
+        p = Path(a)
+        files += sorted(p.glob('*.json')) if p.is_dir() else [p]
+    bad = 0
+    for f in files:
+        e = check_file(f)
+        if e:
+            bad += 1
+            print(f'FAIL {f.name}')
+            for x in e[:25]: print('  ' + x)
+        else:
+            print(f'ok   {f.name}')
+    sys.exit(1 if bad else 0)

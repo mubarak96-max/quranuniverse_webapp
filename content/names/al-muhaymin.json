@@ -1,0 +1,64 @@
+{
+  "slug": "al-muhaymin",
+  "title": "Every corner of your life is watched over, none left unguarded",
+  "subtitle": "The Guardian who witnesses, encloses and takes charge of all things",
+  "intro": "Al-Muhaymin (الْمُهَيْمِنُ) means the Guardian and Overseer, the One who watches over all things, witnesses every deed and takes charge of the affairs of His creation with knowledge and power. It matters to you because nothing in your life slips through a gap He forgot to cover.",
+  "root": {
+    "letters": "ه ي م ن",
+    "sense": "Linguists differed on its origin. Some linked it to amn, safety; others to a word for watching over, safeguarding and surrounding something from every side so that nothing reaches it. The picture is of a guard around a palace who leaves no door and no corner unattended."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Muhaymin does",
+    "row": [
+      {"box": "idea", "title": "Witnesses", "sub": ["sees every deed and secret"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Surrounds", "sub": ["no corner left unguarded"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Takes charge", "sub": ["provision, lifespans, outcomes"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "Some things slip past", "sub": ["no one saw the wrong done to me"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Nothing escapes Al-Muhaymin", "sub": ["seen, recorded, in His charge"]}
+    ]
+  },
+  "knowing": [
+    "Al-Muhaymin is the One who oversees everything. He is a witness over every deed, a watcher over every soul, and the One in charge of every creature's provision, actions and lifespan. {idea}His oversight is complete: knowledge that misses nothing joined to power that controls everything{/idea}.",
+    "Human guardians can only cover so much. A security team surrounds a building, yet a camera fails, a guard looks away, a shift ends. Al-Muhaymin has no blind spot and no shift change. His watchfulness reaches what is hidden in hearts as well as what happens in the street.",
+    "It follows Al-Mu'min in 59:23. Al-Mu'min gives safety; Al-Muhaymin watches over and encloses what He has made safe. Safety without oversight could fail; oversight without care could feel cold. Together they describe a Lord who protects and never stops watching."
+  ],
+  "seeing": [
+    "The Quran uses the same word for itself. It calls the Quran muhaymin over the scriptures before it (5:48): a guardian and witness over them, confirming what is true in them and correcting what was changed. The final revelation stands over all that came before, just as its Speaker stands over all things.",
+    "You see His oversight in every system that keeps running without your attention: your heart beating through the night, the seasons keeping their order, provision reaching creatures you will never see. Nothing in creation is self-managing. Every part of it is under the care of Al-Muhaymin."
+  ],
+  "trusting": [
+    "When you are wronged and no one seems to notice, it is easy to think it simply disappeared. {trap}That thought breeds bitterness, or the urge to take justice into your own hands{/trap}. Al-Muhaymin saw it. It is recorded, and it is in His charge. You can pursue your right through fair means and then let your heart rest.",
+    "The same name comforts the worried parent and the anxious worker. Your child far away at university, your project you cannot control, your health you cannot see inside: {reward}all of it is already enclosed by His watchfulness{/reward}. You do your part, and you leave the overseeing to the Overseer.",
+    "It also shapes how you act in private. If He witnesses every deed, the closed door and the empty office are not empty. That is not meant to frighten you, but to make you sincere: the good you do unseen is seen by the only One whose sight matters."
+  ],
+  "loving": [
+    "There is a quiet love that comes from being watched over by someone who cares. A child sleeps deeply because a parent is awake in the next room. {idea}Al-Muhaymin never sleeps and never looks away{/idea}. He sees the effort no one thanks you for and the tears no one notices. To know He is watching with care is to feel held."
+  ],
+  "now": "It is 1am and your teenager is still not home. You have called twice and the phone keeps going to voicemail. Before you call a third time, remember that Al-Muhaymin is already where your child is, watching over every street you cannot see. Make dua, then call again.",
+  "old": "If I cannot see it or control it, it feels unguarded and unsafe.",
+  "new": "Al-Muhaymin watches over everything I cannot see, so nothing I love is truly unattended.",
+  "try": "Do one good deed today that no one will ever know about, just for the One who sees it.",
+  "dua": {
+    "text": "Ya Muhaymin, You see what I cannot see. Watch over those I love when they are far from me, guard what I cannot guard, and make me sincere in what only You witness.",
+    "note": "Call on Him by this name when someone you love is out of your sight or a matter is out of your hands."
+  },
+  "pairs": [
+    {"slug": "al-mumin", "why": "Al-Mu'min grants safety; Al-Muhaymin watches over and encloses it so nothing breaks through."},
+    {"slug": "ar-raqib", "why": "Ar-Raqib stresses close watchfulness; Al-Muhaymin adds full charge and control over what He watches."}
+  ],
+  "faq": [
+    {"q": "What does Al-Muhaymin mean?", "a": "Al-Muhaymin means the Guardian and Overseer: the One who watches over all things, witnesses every deed and takes charge of His creation's affairs, provision and lifespans with complete knowledge and power. It appears as a name of Allah in 59:23."},
+    {"q": "Why is the Quran also called muhaymin?", "a": "In 5:48 the Quran is described as muhaymin over earlier scriptures, meaning a guardian and witness over them that confirms what remains true in them and judges what was changed. The word describes oversight and authority, which for Allah is complete and absolute."}
+  ],
+  "lessons": [29],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

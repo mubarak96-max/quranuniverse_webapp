@@ -1,0 +1,68 @@
+{
+  "slug": "al-hamid",
+  "title": "He needs no thanks, and deserves all of it",
+  "subtitle": "Al-Hamid: the Praiseworthy, praised for who He is and all He gives, in ease and hardship",
+  "intro": "Al-Hamid (الْحَمِيدُ) means the Praiseworthy: the One who deserves all praise for the perfection of His names and the goodness of His actions, whether people praise Him or not, and who in turn appreciates and praises the good His servants do. It means every blessing points back to Him, and even your smallest sincere effort is valued.",
+  "root": {
+    "letters": "ح م د",
+    "sense": "Hamd is praise that comes with love and reverence. It is more than shukr, thanks for a favour, because it is given for who someone is as well as what they give. It is more than madh, flattery, because it is sincere. Al-Hamid is the One to whom such praise truly belongs."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Why all praise is His",
+    "row": [
+      {"box": "idea", "title": "Who He is", "sub": ["perfect in every name"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "What He gives", "sub": ["every blessing, every rescue"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "What He decrees", "sub": ["wise even in hardship"]},
+      {"box": "reward", "title": "Alhamdulillah", "sub": ["in every state"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "I earned all this myself", "sub": ["my skill, my hard work"], "strike": true},
+      {"conn": "Al-Hamid corrects"},
+      {"box": "idea", "title": "The credit goes to Him", "sub": ["even my effort was His gift"]}
+    ]
+  },
+  "knowing": [
+    "Al-Hamid is praised in Himself. Every name of His is perfect and every action wise, so He is worthy of praise even if no one praised Him. If you and everyone on earth disbelieved, Allah is Free of need, Praiseworthy (14:8). {idea}Our praise does not add to Him; it simply recognises what is true.{/idea} Everything in the heavens and earth already glorifies Him with His praise (17:44).",
+    "The Quran most often pairs Al-Hamid with Al-Ghaniyy, the Free of need (31:12, 35:15). Many rich people are tight-fisted, and we admire the rare rich person who is generous. Allah is perfectly rich and perfectly generous. {idea}He does not need our praise, and yet He deserves all of it.{/idea}",
+    "Scholars also note that Al-Hamid includes the sense of the One who praises. He appreciates the good His servants do and praises it. A coin given with deep sincerity may outweigh a pile of careless deeds. The Prophet ﷺ said Allah is pleased with a servant who eats a meal and praises Him for it, or drinks and praises Him for it (Sahih Muslim). So small an act, so great a pleasure."
+  ],
+  "seeing": [
+    "Dawud and Sulayman were given knowledge and kingdom, and they said: praise be to Allah, who favoured us (27:15). When Sulayman heard an ant speak, he smiled and asked Allah to help him be grateful for His favour (27:19). Qarun, by contrast, looked at his treasure and said he was given it only because of his own knowledge (28:78). One gave the credit away and was raised; the other kept it and was swallowed by the earth.",
+    "When angels brought Ibrahim's household the news of a son in old age, they said: the mercy of Allah and His blessings be upon you, He is Praiseworthy and Glorious (11:73). When rain falls after despair, He is the Protecting Friend, the Praiseworthy (42:28). And in Surah al-Buruj, the believers who were burned for their faith were hated only because they believed in Allah, the Mighty, the Praiseworthy (85:8). Even there, at the worst of moments, He is praised."
+  ],
+  "trusting": [
+    "When things go well, Al-Hamid protects you from arrogance. Your talent, your job, your recitation, your health: all of it is borrowed, like wearing a suit lent by friends. {trap}Taking the credit for what He gave{/trap} is how blessings turn into a test you fail. When someone praises you, pass it on: alhamdulillah, it is from Him.",
+    "When things go badly, Al-Hamid teaches you that He is still praiseworthy, because His decree is never empty of wisdom and mercy. The believer says alhamdulillah in every state. That is not denial of pain; it is trust that the One you praise is good.",
+    "And when you feel your efforts are too small, remember that Al-Hamid appreciates. {reward}A little given sincerely is never small in His sight.{/reward} Give your best, not your leftovers, and leave its value to Him."
+  ],
+  "loving": [
+    "We naturally love what is beautiful and good. Al-Hamid is the source of every beauty and goodness we have ever seen. {idea}Praising Him is simply love finding words.{/idea}",
+    "And there is tenderness in a Lord who, needing nothing, still notices and praises the little good we do. That makes the heart want to give Him more."
+  ],
+  "now": "Your manager reads out your name in the team meeting and thanks you for landing the big client. Everyone claps, and you feel the glow rising. {idea}Quietly, inside, say alhamdulillah: the idea, the energy and the opening were all from Al-Hamid.{/idea} Thank your team, and give the real credit where it belongs.",
+  "old": "What I have achieved is the result of my own skill and hard work.",
+  "new": "Al-Hamid gave me the skill, the strength and the chance, so the praise is His.",
+  "try": "Say alhamdulillah, consciously and by name, after every meal and drink today, as the Prophet ﷺ described.",
+  "dua": {
+    "text": "Ya Hamid, all praise is Yours for who You are and for all You have given me. Make me grateful in ease, content in hardship, and never let me claim Your gifts as my own.",
+    "note": "Call on Him by this name in moments of success and after blessings, as Sulayman asked to be enabled to be grateful for Allah's favour (27:19)."
+  },
+  "pairs": [
+    {"slug": "al-ghaniyy", "why": "Al-Ghaniyy needs nothing, Al-Hamid deserves all praise: He does not need our thanks, yet He is worthy of it (31:12, 35:15)."},
+    {"slug": "al-waliyy", "why": "Al-Waliyy Al-Hamid (42:28): He rescues His friends, sending rain after despair, and is praised for every rescue."},
+    {"slug": "al-majeed", "why": "Hamidun Majid (11:73): praised for His goodness and glorious in His greatness and generosity."}
+  ],
+  "faq": [
+    {"q": "What does Al-Hamid mean?", "a": "Al-Hamid means the Praiseworthy. Allah deserves all praise for the perfection of His names and attributes and the goodness and wisdom of His actions, whether anyone praises Him or not. Scholars also explain it as the One who appreciates and praises the good deeds of His servants."},
+    {"q": "Why is Al-Hamid paired with Al-Ghaniyy in the Quran?", "a": "Al-Ghaniyy means He is free of all need, and Al-Hamid means He is worthy of all praise. Together they teach that Allah does not need our worship or thanks, yet He deserves it, because He is perfect and endlessly generous. The pair appears in verses such as 14:8, 31:12, 31:26 and 35:15."},
+    {"q": "What is the difference between hamd and shukr?", "a": "Shukr is thanks for a favour received. Hamd is praise with love and reverence, given both for favours and for the perfection of the one praised. Every shukr toward Allah is part of hamd, but hamd is wider. That is why the Quran opens with alhamdulillah."}
+  ],
+  "lessons": [12, 25],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

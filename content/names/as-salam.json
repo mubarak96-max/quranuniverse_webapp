@@ -1,0 +1,64 @@
+{
+  "slug": "as-salam",
+  "title": "Peace is not a place you fly to, it is Someone",
+  "subtitle": "The One who is whole, and from whom every real peace comes",
+  "intro": "As-Salam (السَّلاَمُ) means the One who is whole and free of every defect, whose actions are free of evil, and who is the source of all peace and safety for His creation in this life and the next. It matters to you because the calm you keep chasing has an address, and it is Him.",
+  "root": {
+    "letters": "س ل م",
+    "sense": "The root means to be sound, safe and unharmed. A body that is salim is healthy with nothing wrong in it. From the same root come salam (peace), salama (safety) and islam (surrender). The picture is of something whole and unbroken, and of the safety one feels in its shelter."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What As-Salam says about Him",
+    "row": [
+      {"box": "idea", "title": "Whole in Himself", "sub": ["no defect in His essence", "no lack in His attributes"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Free of harm in His acts", "sub": ["He wrongs no one"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "The source of peace", "sub": ["calm here", "the Home of Peace hereafter"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "Peace is a destination", "sub": ["a beach, a raise, a quieter life"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Peace is a connection", "sub": ["it comes from As-Salam", "wherever you are"]}
+    ]
+  },
+  "knowing": [
+    "As-Salam is the One who is sound and whole in every way. His essence has no defect, His attributes have no shortfall, and His actions contain no injustice or pointless harm. What looks like hardship from Him carries wisdom and mercy inside it. {idea}Nothing that comes from Him is broken{/idea}.",
+    "Because He is whole, He gives wholeness. He is the source of the safety, calm and peace that any creature ever tastes. A peaceful night, a quiet heart after prayer, a family that feels safe: all of it flows from As-Salam. People can give you a holiday or a comfortable house, but they cannot place tranquillity inside your chest. Only He can.",
+    "It stands beside Al-Quddus in 59:23. Al-Quddus tells you He is far above every flaw; As-Salam tells you that His perfection reaches out to you as safety. He does not keep His peace to Himself."
+  ],
+  "seeing": [
+    "Every time you finish a prayer you are taught to say, as reported in Sahih Muslim, Allahumma antas-salam wa minkas-salam: O Allah, You are Peace and from You comes peace. The Prophet ﷺ would say it as soon as he turned from the prayer. You have just spoken to As-Salam, and you leave by naming Him.",
+    "The Quran calls Paradise Dar as-Salam, the Home of Peace (10:25, 6:127), and the roads that lead there the paths of peace. Its people are greeted with a word from their Merciful Lord: Salam (36:58). Even the greeting Muslims give one another, as-salamu alaykum, carries His name; some scholars explained it as wishing that As-Salam Himself be with you."
+  ],
+  "trusting": [
+    "We are sold peace constantly. Two weeks on an island, a new car, a bigger house. {trap}You arrive and the stress follows you: the email, the bill, the family argument{/trap}. The calm you bought does not last, because it was never really for sale. The Quran tells you where it is: hearts find rest in the remembrance of Allah (13:28).",
+    "So when anxiety rises, you do not have to fix your whole life first. You can turn to As-Salam right where you are. {reward}A believer walking through a noisy, frightening world while remembering Him can be the most peaceful person in it{/reward}, not because life is perfect but because he is connected to the Source. And because peace comes from Him, you can spread it: greet people, calm a quarrel, make others feel safe around you."
+  ],
+  "loving": [
+    "Think of the person whose presence makes you breathe easier. You love them for the safety you feel near them. As-Salam is the origin of every such feeling you have ever had. He wrongs no one, He is gentle in His wisdom, and He invites you home to a place whose very name is peace. {idea}Loving Him is loving the One who makes you safe{/idea}."
+  ],
+  "now": "You finally reach the hotel room you saved all year for, and within an hour your phone is full of work messages and bad news from home. The view is perfect and your chest is tight. Put the phone face down, pray two units, and say Allahumma antas-salam. Peace was never in the view.",
+  "old": "I will feel at peace once things settle down and I get away from it all.",
+  "new": "Peace comes from As-Salam, so I can have it in the middle of the noise, through remembering Him.",
+  "try": "After each prayer today, say Allahumma antas-salam wa minkas-salam slowly, and greet three people with salam as if you mean it.",
+  "dua": {
+    "text": "O Allah, You are As-Salam and from You comes peace. Calm my heart, make me safe from what I fear, and bring me home to Your Home of Peace.",
+    "note": "The Prophet ﷺ said Allahumma antas-salam right after every prayer, as reported in Sahih Muslim, so the moment after salah is its natural place."
+  },
+  "pairs": [
+    {"slug": "al-quddus", "why": "Al-Quddus is above every flaw; As-Salam turns that perfection into safety and peace for His creation."},
+    {"slug": "al-mumin", "why": "As-Salam is the source of peace; Al-Mu'min actively grants security and removes fear."}
+  ],
+  "faq": [
+    {"q": "What does As-Salam mean?", "a": "As-Salam means the One who is whole and free of every defect in His essence, attributes and actions, and who is the source of peace and safety for His creation. It appears in 59:23 among the names at the end of Surah al-Hashr."},
+    {"q": "Is As-Salam in as-salamu alaykum a name of Allah?", "a": "As-Salam is one of Allah's names, and some scholars explained the greeting as-salamu alaykum as meaning that As-Salam, Allah, be with you, as well as wishing you peace and safety. Either way, the greeting is a prayer for the other person's wellbeing."},
+    {"q": "What is the dua with As-Salam after prayer?", "a": "After each obligatory prayer the Prophet ﷺ would say: Allahumma antas-salam wa minkas-salam, tabarakta ya dhal-jalali wal-ikram. It means: O Allah, You are Peace and from You is peace; blessed are You, Owner of majesty and honour. It is reported in Sahih Muslim."}
+  ],
+  "lessons": [23],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

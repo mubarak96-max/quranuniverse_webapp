@@ -1,0 +1,65 @@
+{
+  "slug": "al-mani",
+  "title": "Sometimes the door He keeps shut is the one that saves you",
+  "subtitle": "Al-Mani': the One who withholds, prevents harm and protects, by wisdom",
+  "intro": "Al-Mani' (المانع) means the Preventer, the One who withholds: He holds back harm from His servants, protects them from what they cannot see, and keeps back some gifts for a wisdom of His own. No one can give what He withholds, and no one can withhold what He gives.",
+  "root": {
+    "letters": "م ن ع",
+    "sense": "Man' is to prevent, block or hold back. A place that is mani' or a man'ah is a fortress no attacker can breach, and a mani' is a defender who stands between someone and harm. The root holds both withholding and protecting, because very often they are the same act."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Two faces of His preventing",
+    "row": [
+      {"box": "idea", "title": "Protection", "sub": ["harm blocked before it reaches you"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Withholding", "sub": ["a gift kept back for now"]},
+      {"conn": "both"},
+      {"box": "reward", "title": "By wisdom", "sub": ["for your good and your test"]}
+    ]
+  },
+  "key": {
+    "label": "A prayer not granted",
+    "row": [
+      {"box": "trap", "title": "He refused me", "sub": ["I asked and got nothing"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "He protected me", "sub": ["from what I could not see"]}
+    ]
+  },
+  "knowing": [
+    "Al-Mani' is the One who prevents. The name is in the well-known list in Jami' al-Tirmidhi. After every prayer the Prophet ﷺ would say: O Allah, none can withhold what You give, and none can give what You withhold (Sahih al-Bukhari, Sahih Muslim). The Quran says the same: whatever mercy Allah opens to people, no one can hold it back, and whatever He holds back, no one can release after Him (35:2).",
+    "The name has two faces. He prevents harm from reaching His servants, standing like a fortress around them in ways they never notice. And He withholds some things they ask for. {idea}Very often His withholding is His protecting, seen from the other side.{/idea} Scholars mention this name alongside His giving, because the One who holds back is the same One who gives without measure.",
+    "When people withhold, it is often from stinginess, fear of loss or spite. Allah is the Most Generous, and giving does not decrease what He has. So when He keeps something from you, it is never because He could not afford it or did not care. It is because the not-giving is wiser."
+  ],
+  "seeing": [
+    "In Surat al-Kahf, Khidr made a hole in a boat that belonged to poor workers. It looked like pure harm. Then he explained that a king was seizing every sound ship by force (18:79). The damage was a prevention; it saved the boat for its owners. You may be sitting in a boat with a hole in it right now, and the hole may be your protection.",
+    "The Quran says that you may hate a thing while it is good for you, and love a thing while it is bad for you; Allah knows and you do not (2:216). Your own body shows the same pattern: eyelids that close before dust hits, an immune system blocking thousands of threats you will never hear about. When Allah takes something away or keeps it from you, it is not harshness; often it is mercy that you understand only later."
+  ],
+  "trusting": [
+    "The house sale that fell through, the proposal that was declined, the visa that never came: {reward}you may be standing inside the fortress, not locked out of the palace.{/reward} Make your effort, ask again if it is good, and then trust the One who closed the door.",
+    "When a gift is held back for a long time, He has not run out and He has not forgotten. He tells us not to despair over what has escaped us, nor gloat over what He gives (57:23). And stop pleading with people as if they hold the keys. {trap}Treating people as the ones who give and withhold{/trap} sets you up for heartbreak, because they are only means. What He has written for you, no one can block."
+  ],
+  "loving": [
+    "We usually love the one who gives. It takes a deeper love to trust the one who says no. A child cannot see why the parent pulls their hand from the stove; years later they understand and are grateful. {idea}As you begin to see how much He has quietly kept away from you, gratitude turns into love.{/idea}"
+  ],
+  "now": "The flat you were sure was yours goes to another buyer the day before signing. You had already chosen the curtains. Al-Mani' may have kept shut a door you would have regretted walking through, and nothing He means for you can be blocked by anyone. Delete the saved listing, say alhamdulillah, and keep looking.",
+  "old": "When something I wanted is blocked, I feel shut out and unlucky.",
+  "new": "Allah withholds by wisdom, often to protect me, and no one can block what He has written for me.",
+  "try": "After each prayer today, say: O Allah, none can withhold what You give, and none can give what You withhold.",
+  "dua": {
+    "text": "Ya Mani', hold back from me every harm I cannot see, protect me and my family, and make me as content with what You keep from me as with what You give me.",
+    "note": "The Prophet ﷺ affirmed this meaning after every prayer (Sahih al-Bukhari, Sahih Muslim); call on Him by this name when something you longed for is kept from you."
+  },
+  "pairs": [
+    {"slug": "an-nafi", "why": "He blocks what would harm you and sends what will benefit you: protection and provision from one hand."},
+    {"slug": "ad-darr", "why": "He alone allows harm to reach and He alone prevents it, so you fear no one besides Him."},
+    {"slug": "al-hafiz", "why": "Al-Hafiz guards and preserves; Al-Mani' blocks the harm before it arrives."}
+  ],
+  "faq": [
+    {"q": "What does Al-Mani' mean?", "a": "Al-Mani' means the Preventer or the Withholder. Allah prevents harm from reaching His servants and withholds some things by His wisdom. No one can give what He withholds and no one can withhold what He gives. The name is in the well-known list in Jami' al-Tirmidhi."},
+    {"q": "Is Al-Mani' one of the names of Allah?", "a": "Al-Mani' appears in the well-known list of the ninety-nine names narrated in Jami' al-Tirmidhi. Its meaning is confirmed in the dhikr the Prophet ﷺ said after every prayer: none can withhold what You give, and none can give what You withhold (Sahih al-Bukhari, Sahih Muslim)."},
+    {"q": "Why does Allah withhold things we pray for?", "a": "Sometimes what we ask for would harm us in ways we cannot see, and withholding it is protection (2:216). Sometimes He is saving something better, or keeping the reward of patience for us. His withholding is never stinginess, because His treasures never decrease."}
+  ],
+  "lessons": [2, 4],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

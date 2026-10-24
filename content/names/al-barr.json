@@ -1,0 +1,65 @@
+{
+  "slug": "al-barr",
+  "title": "Goodness as wide as open land, and faithful to the end",
+  "subtitle": "The Source of all goodness, kind to His servants and true to His word",
+  "intro": "Al-Barr (الْبَرُّ) means the Source of All Goodness, the One whose kindness to His servants is abundant, gentle and faithful, who keeps His promises and gives more than is asked. In Paradise, the believers will look back on their lives and praise Him by this name.",
+  "root": {
+    "letters": "ب ر ر",
+    "sense": "Birr is wide, generous goodness: kindness that is gentle, dutiful and faithful. The same letters give barr, open land, a picture of expanse. Birr is also the word for devoted kindness to parents. Al-Barr is goodness that is vast, warm and keeps its word."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Barr shows about Him",
+    "row": [
+      {"box": "idea", "title": "Goodness without edges", "sub": ["Wide as open land"]},
+      {"conn": "shown as"},
+      {"box": "people", "title": "Gentle care", "sub": ["Kindness to the weak", "More than was asked"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "Faithfulness", "sub": ["He keeps every promise"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "Good things are luck", "sub": ["Kindness happens by chance"], "strike": true},
+      {"conn": "Al-Barr shows"},
+      {"box": "idea", "title": "Every good has a Source", "sub": ["His goodness reached you on purpose"]}
+    ]
+  },
+  "knowing": [
+    "Al-Barr is the One from whom all goodness flows. {idea}Birr is not a single gift but a whole manner of dealing: gentle, generous, and faithful over time.{/idea} Every good that has ever reached you, whether through your parents, a stranger, or a turn of events, began with Him.",
+    "The word has a family warmth to it. The Quran uses barr for Yahya, dutiful to his parents (19:14), and for Isa, dutiful to his mother (19:32). So the name carries the tenderness of a devoted child and the generosity of a host combined. Scholars also explain that Al-Barr is true to His promise: what He has pledged to His servants, He fulfils in full.",
+    "His birr is unlike ours. Human kindness is limited by resources and mood, and it often keeps a tally. {idea}His goodness is as wide as open land and never runs short{/idea}, and He gives it to those who forget Him as well as to those who remember."
+  ],
+  "seeing": [
+    "The name appears in the Quran in a scene from Paradise. The believers turn to one another and remember: we used to be fearful among our families, then Allah was gracious to us and protected us from the scorching fire; we used to call on Him before; He is Al-Barr Ar-Raheem (52:25-28). {reward}At the end of everything, the word they choose for Him is goodness.{/reward}",
+    "Notice what they remember: their worry, their prayers, and His answer. Al-Barr kept His promise to them. The duas they made in fear and the good they did quietly in their homes were not lost; His faithful goodness was carrying them all along.",
+    "You can see Al-Barr in the ordinary: the mother who fed you before you could thank her, the stranger who helped when you were stranded, the rain arriving after a dry season. {idea}Each of these is His birr wearing an earthly face.{/idea}"
+  ],
+  "trusting": [
+    "If you are waiting for something He has promised, such as relief after hardship or reward for patience, trust that Al-Barr does not break His word. {trap}Thinking your good deeds or prayers are being ignored is to doubt the faithfulness of the One who named Himself Al-Barr.{/trap}",
+    "Trust Him with the people you worry about too. You cannot be everywhere for your children or your ageing parents. {reward}Al-Barr's goodness reaches places your care cannot.{/reward} Make dua for them as the believers in Paradise said they did, and leave the rest to Him."
+  ],
+  "loving": [
+    "We love people who are good to us without being asked and who never let us down. {reward}Al-Barr has been both from your first breath, and on the last day His servants will name Him by that goodness with full hearts.{/reward}"
+  ],
+  "now": "You drive past your old school and remember a teacher who stayed late to help you when you were falling behind. You never thanked her. {idea}That kindness was Al-Barr reaching you through her{/idea}. Send her a message if you can, and thank Him for every person He has used to be good to you.",
+  "old": "The good things in my life happened by chance or because of my own effort.",
+  "new": "Every good thing that reached me came from Al-Barr, whose goodness is wide and faithful.",
+  "try": "Do one act of birr for a parent or elder today: call them, serve them a meal, or ask how they really are.",
+  "dua": {
+    "text": "Ya Barr, every good I have came from You. Keep Your goodness with me and my family, fulfil Your promise to us, and make me dutiful and kind as You are kind to me.",
+    "note": "Call on Him as Al-Barr when you are waiting on His promise; the people of Paradise will recall that they called on Him before, and found Him Al-Barr (52:28)."
+  },
+  "pairs": [
+    {"slug": "ar-raheem", "why": "Al-Barr Ar-Raheem: wide, faithful goodness joined to constant mercy (52:28)."},
+    {"slug": "al-karim", "why": "Al-Karim gives nobly and without expecting return; Al-Barr gives with gentle, faithful kindness that keeps its word."}
+  ],
+  "faq": [
+    {"q": "What does Al-Barr mean?", "a": "Al-Barr means the Source of All Goodness, the Most Kind. Birr is abundant, gentle and faithful goodness. Scholars explain that Allah is Al-Barr in His wide kindness to His servants and in fulfilling His promises to them."},
+    {"q": "Where is Al-Barr mentioned in the Quran?", "a": "As a name of Allah, Al-Barr appears in 52:28, where the people of Paradise say that they used to call on Him before, and that He is Al-Barr Ar-Raheem, the Source of Goodness, the Merciful."},
+    {"q": "Is birr the same word used for kindness to parents?", "a": "Yes. Birr al-walidayn, dutiful kindness to parents, comes from the same root. The Quran describes Yahya and Isa as barr to their parents (19:14, 19:32). Allah's birr is perfect and limitless; ours is a small reflection of it."}
+  ],
+  "lessons": [],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

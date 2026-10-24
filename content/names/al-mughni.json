@@ -1,0 +1,65 @@
+{
+  "slug": "al-mughni",
+  "title": "He found you in need and made you enough",
+  "subtitle": "Al-Mughni: the Enricher who frees His servants from need, in hand and in heart",
+  "intro": "Al-Mughni (الْمُغْنِي) means The Enricher: the One who moves His servants from need to sufficiency, enriching their hands with lawful wealth and their hearts with contentment, so that they need no one but Him. He found the Prophet ﷺ poor and enriched him. For you, it means real richness is a gift He gives, and it can begin today.",
+  "root": {
+    "letters": "غ ن ي",
+    "sense": "Ghina is being free of need, having enough so that you do not have to ask anyone. Al-Ghani is the One who is free of need in Himself; Al-Mughni, from the same root, is the One who makes others free of need. Ghina in Arabic covers both wealth and the sufficiency of a heart that is content."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "How Al-Mughni enriches",
+    "row": [
+      {"box": "plain", "title": "In need", "sub": ["of money, of people", "of being enough"]},
+      {"conn": "He enriches"},
+      {"box": "idea", "title": "The hand", "sub": ["lawful wealth from His bounty", "through marriage, work, change"]},
+      {"conn": "and"},
+      {"box": "reward", "title": "The heart", "sub": ["contentment", "needing no one but Him"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "I will feel rich when I have more", "sub": ["one more raise", "one more purchase"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Richness is His gift to the heart", "sub": ["He gives sufficiency", "and the hand follows"]}
+    ]
+  },
+  "knowing": [
+    "Al-Ghani is rich in Himself and needs nothing. {idea}Al-Mughni shares that richness: He frees His servants from need{/idea}. You are the ones in need of Allah, while Allah is the Free of need, the Praiseworthy (35:15). Every bit of sufficiency you have ever felt was poured into you by Him.",
+    "The Quran puts it plainly: it is He who enriches and suffices (53:48). And to the Prophet ﷺ: He found you poor and made you self-sufficient (93:8). {reward}Need is where you start; sufficiency is what He gives{/reward}.",
+    "His enriching is not only about money. The Prophet ﷺ said that richness is not having many possessions; true richness is richness of the soul, as recorded in Sahih al-Bukhari and Muslim. Some people own a great deal and live in constant hunger for more. Others have little and feel they lack nothing. That second state is the deeper gift of Al-Mughni."
+  ],
+  "seeing": [
+    "Imagine borrowing a suit for a wedding: a jacket from one friend, trousers from another, a shirt and belt from others. When someone compliments you, you cannot take the credit; none of it is yours. {idea}Everything that makes you look rich was lent to you by Al-Mughni{/idea}. This is why the credit for every blessing goes to Him.",
+    "The Quran uses this name at moments of financial fear. When the believers worried that trade would dry up, Allah said: if you fear poverty, Allah will enrich you from His bounty if He wills (9:28). To those who hesitate to marry because they are poor: if they are poor, Allah will enrich them from His bounty (24:32). Even when a marriage ends, Allah will enrich each of them from His abundance (4:130)."
+  ],
+  "trusting": [
+    "Many people put off good decisions out of fear of being poor: marrying, leaving haram income, giving charity, changing careers to something more honest. {trap}The fear of poverty can keep you stuck in something that is harming you{/trap}. The verses above speak to exactly those moments. Work hard and plan sensibly, but do not let fear of need make the decision. Al-Mughni has promised to enrich from His bounty.",
+    "It also frees you from people. Needing others' approval, gifts or favours makes you anxious and small. Asking Al-Mughni to make you need no one but Him is a kind of freedom: you can still help and be helped, but your heart is no longer for sale."
+  ],
+  "loving": [
+    "The One who enriches does not do it reluctantly. He found you empty-handed and filled you, again and again, often before you asked. {reward}When you see that every sufficiency came from Him, your heart turns from the gifts to the Giver{/reward}."
+  ],
+  "now": "You are scrolling through other people's holidays and new cars, and your own life starts to look small and poor. Close the app and count what you actually have: a roof, a meal, people who love you, faith. Ask Al-Mughni for the richness that does not depend on anyone's feed.",
+  "old": "I think I will feel rich once I have a bit more than I have now.",
+  "new": "Al-Mughni gives real richness to the heart, and I can ask Him for it today.",
+  "try": "Write down five things you already have that you would never sell, and thank Al-Mughni for each one by name.",
+  "dua": {
+    "text": "Ya Mughni, enrich me with what is lawful so I need nothing unlawful, enrich my heart with contentment, and make me need no one but You.",
+    "note": "Call on Him by this name when fear of poverty is pushing you toward a wrong decision, or when comparison is making you feel poor."
+  },
+  "pairs": [
+    {"slug": "al-ghaniyy", "why": "Al-Ghani is free of all need in Himself; Al-Mughni frees His servants from need."},
+    {"slug": "ar-razzaq", "why": "Ar-Razzaq gives provision; Al-Mughni gives sufficiency, the state of having enough in hand and heart."},
+    {"slug": "al-wasi", "why": "The verses on being enriched from His bounty often end with Al-Wasi', the All-Encompassing."}
+  ],
+  "faq": [
+    {"q": "What does Al-Mughni mean?", "a": "Al-Mughni means The Enricher, the One who frees His servants from need. He enriches people with lawful wealth and, more deeply, with contentment of the heart so that they depend on no one but Him."},
+    {"q": "What is the difference between Al-Ghani and Al-Mughni?", "a": "Al-Ghani describes Allah as free of all need in Himself; He needs nothing from anyone. Al-Mughni describes His action toward creation: He makes others rich and self-sufficient. They are often mentioned together."},
+    {"q": "Where is Al-Mughni found in the Quran?", "a": "The name is taken from verses describing Allah's enriching, such as 9:28, 24:32, 53:48 and 93:8. It is in the well-known list of names narrated by at-Tirmidhi, right after Al-Ghani."}
+  ],
+  "lessons": [12, 22],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

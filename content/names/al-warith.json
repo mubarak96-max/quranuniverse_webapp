@@ -1,0 +1,63 @@
+{
+  "slug": "al-warith",
+  "title": "You are holding it on loan, and the Owner will collect",
+  "subtitle": "The Inheritor, to whom everything returns when every owner is gone",
+  "intro": "Al-Warith (الْوَارِثُ) means the Inheritor: Allah remains after all creation passes, and everything people owned and ruled returns to Him alone. It matters to you because it changes how you hold your money, your home and even your loved ones: as trusts lent to you by their real Owner.",
+  "root": {
+    "letters": "و ر ث",
+    "sense": "The root means to inherit: what passes to someone after its holder is gone. Mirath is inheritance, warith the heir. For people, inheriting means receiving what they did not own before. For Allah, nothing is new to Him: it means that when every holder departs, what they held stays with its true Owner."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Where everything ends up",
+    "row": [
+      {"box": "people", "title": "People hold things", "sub": ["houses, titles, wealth"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "Every holder departs", "sub": ["and leaves it all behind"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Al-Warith inherits", "sub": ["the earth and all on it"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "This is mine", "sub": ["I earned it, I keep it"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "This is lent to me", "sub": ["He gave it, He inherits it"]}
+    ]
+  },
+  "knowing": [
+    "Allah says: it is We who give life and cause death, and We are the Inheritor (15:23). And: it is We who will inherit the earth and whoever is on it, and to Us they will be returned (19:40). {idea}Al-Warith is the One who remains when every owner is gone, and to whom all ownership returns{/idea}.",
+    "Human ownership is always temporary and borrowed. You hold your house, your car, your savings, even your body for a while, and then you leave them. Heirs receive them for a while, and they leave them too. In truth, nothing ever passed out of His ownership; inheritance only shows who the Owner was all along. On the Last Day the question is asked: to whom belongs the kingdom today? And the answer: to Allah, the One, the Prevailing (40:16).",
+    "Al-Baqi tells you He endures while all else perishes. Al-Akhir tells you He is last and the final goal. Al-Warith looks at your possessions: every one of them is heading back to Him."
+  ],
+  "seeing": [
+    "Zakariyya, old and childless, called out: my Lord, do not leave me alone, and You are the best of inheritors (21:89). He wanted an heir, yet he called on the One who inherits all, and Allah gave him Yahya. And to the oppressed of Bani Isra'il, Allah promised to make them leaders and inheritors (28:5): Al-Warith can pass the earth to whomever He wills.",
+    "When the Prophet's ﷺ grandchild was dying, he sent word to his daughter, as reported in Sahih al-Bukhari and Sahih Muslim: to Allah belongs what He takes and what He gives, everything with Him has an appointed term, so be patient and seek reward. Even a child is a trust from the Owner."
+  ],
+  "trusting": [
+    "Think of everything you have as being on lease: the clothes you wear, the electricity in your home, your health, your family. {trap}When we believe we own them outright, we either clutch them in fear or grieve their loss as theft{/trap}. When you know they belong to Al-Warith, you look after them well, as a good tenant does, and when He takes something back, you can say: it was His, and to Him we return.",
+    "It also loosens a tight fist. Surah al-Hadid asks: why do you not spend in the cause of Allah, when to Allah belongs the inheritance of the heavens and the earth (57:10)? {reward}You will leave all of it anyway; what you give for Him now is the only part you truly keep{/reward}. The miser's wealth goes to his heirs; the giver's goes ahead of him."
+  ],
+  "loving": [
+    "There is something tender in Zakariyya calling Allah the best of inheritors. {idea}The One who receives everything in the end is not a cold collector but the Most Generous{/idea}, who gave every good thing in the first place and promises to return it many times over to those who spent it for Him. Loving Him is trusting the One into whose hands everything finally falls."
+  ],
+  "now": "You are sitting in a solicitor's office as your late father's will is read out: the house, the car, a savings account, a watch. A lifetime of work fits on two pages, and none of it went with him. Before you start dividing, remember Al-Warith. Ask what you can give in your father's name that will reach him now.",
+  "old": "What I have worked for is mine to keep and protect at all costs.",
+  "new": "Everything I hold belongs to Al-Warith; I care for it as a trust and give from it while I can.",
+  "try": "Give away one thing you value today for Allah's sake, reminding yourself it was always His.",
+  "dua": {
+    "text": "Ya Warith, everything I have is Yours and returns to You. Make me a faithful keeper of Your trusts, generous while I hold them, and do not leave me alone, for You are the best of inheritors.",
+    "note": "Zakariyya called Allah the best of inheritors when asking for a child (21:89); call on Him this way when you fear loss or long for what you do not have."
+  },
+  "pairs": [
+    {"slug": "al-baqi", "why": "Al-Baqi remains when everything perishes; Al-Warith receives back all that the perished left behind."},
+    {"slug": "malik-ul-mulk", "why": "Malik-ul-Mulk owns all dominion now; Al-Warith shows it plainly when every human claim to ownership ends."}
+  ],
+  "faq": [
+    {"q": "What does Al-Warith mean?", "a": "Al-Warith means the Inheritor: Allah remains after all creation passes, and everything people owned returns to Him. It does not mean He gains something new, since everything was always His; it means every temporary human claim ends and His ownership alone is left. See 15:23 and 19:40."},
+    {"q": "Where is Al-Warith mentioned in the Quran?", "a": "Allah says We are the Inheritor in 15:23, and that He will inherit the earth and whoever is on it in 19:40. Zakariyya calls Him the best of inheritors in 21:89, and 57:10 and 3:180 state that to Allah belongs the inheritance of the heavens and the earth."}
+  ],
+  "lessons": [3, 17],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

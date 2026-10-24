@@ -1,0 +1,63 @@
+{
+  "slug": "al-akhir",
+  "title": "When the credits roll on everything, one Name is left",
+  "subtitle": "The Last, after whom there is nothing, and the goal every life returns to",
+  "intro": "Al-Akhir (الآخِرُ) means the Last: Allah remains after all things end, with no end of His own, and there is nothing after Him. Every life and every pursuit finishes with Him. It matters to you because it tells you what your days are for: if He is the end of the story, He is the point of the middle.",
+  "root": {
+    "letters": "أ خ ر",
+    "sense": "The root means to come after, to be at the end or behind. Akhir is the last; al-akhira, the Hereafter, is the life that comes last and decides everything. Said of Allah, it means after every ending, with no ending of His own, and the final destination to whom all things return."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Why the end explains the middle",
+    "row": [
+      {"box": "idea", "title": "In the beginning: Allah", "sub": ["nothing before Him"]},
+      {"conn": "then"},
+      {"box": "plain", "title": "The middle: your life", "sub": ["work, family, plans"]},
+      {"conn": "then"},
+      {"box": "idea", "title": "In the end: Allah", "sub": ["nothing after Him"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "This is the main event", "sub": ["promotion, house, followers"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "He is the final goal", "sub": ["everything else is the road"]}
+    ]
+  },
+  "knowing": [
+    "In the supplication reported in Sahih Muslim the Prophet ﷺ said: You are the Last, and there is nothing after You. Al-Akhir is the second of the four names in 57:3. Where Al-Awwal looks back before everything, {idea}Al-Akhir looks forward past every ending{/idea}: past your death, past the end of this world, past the end of time as we know it.",
+    "The scholars gave it a second meaning as well: He is the final goal, the One to whom everything returns. To your Lord is the final end (53:42). Every road a human walks, whether he knows it or not, ends in front of Him.",
+    "Near names describe related truths from other angles. Al-Baqi stresses that He endures and does not perish. Al-Warith stresses that what people owned returns to Him. Al-Akhir stresses the order of things: He is the last word, the final destination, and so the true purpose of everything before it."
+  ],
+  "seeing": [
+    "Surah al-Hadid, where this name appears, was revealed to believers being asked for the hardest things: their wealth and their lives in His cause. Before asking anything, it reminds them who He is: the First and the Last. Everything you are clinging to was not there in the beginning and will not be there at the end. Only He was, and only He will be.",
+    "The same surah describes worldly life as play, amusement, adornment and competing in wealth and children, like rain that brings up plants which then dry, yellow and crumble (57:20). In the beginning there was only Allah, and in the end there will be only Allah. The surah draws the conclusion: so give your life to Him in the middle."
+  ],
+  "trusting": [
+    "A lot of our anxiety comes from treating the middle as if it were the end. {trap}The promotion, the house and the approval of others become the final goal, so every setback feels like the end of the world{/trap}. Al-Akhir puts them back in their place. They are scenes in a film whose last frame is a meeting with Him.",
+    "That changes how you carry loss and failure. The business that closed, the marriage that ended, the plan that never happened: none of these is the last word. {reward}The last word belongs to Al-Akhir, and He is merciful{/reward}. And it changes your motives: do the work for the One who will still be there at the end, not for an audience that will leave before the credits."
+  ],
+  "loving": [
+    "People who are with us at the end are the ones we remember with the deepest love: the friend who sat by the hospital bed, the one who stayed when everyone left. {idea}Al-Akhir is the One who will be there when everyone else has gone{/idea}. Your grave will hold only you and Him. Loving Him now is preparing to meet, at the end, the One you already know."
+  ],
+  "now": "You are at your leaving party after twenty years in the company. Speeches, a card, a cake. By next month someone else will have your desk and your login. It is fine. Al-Akhir saw every honest hour you gave and every prayer you protected in that job, and He will still be there long after the farewell email is forgotten.",
+  "old": "If this goal fails, it feels like the end of everything.",
+  "new": "Al-Akhir is the real end; every goal before Him is only part of the road.",
+  "try": "Write down your three biggest goals and add one line to each: how could this bring me closer to Him at the end?",
+  "dua": {
+    "text": "O Allah, You are the Last and there is nothing after You. Make my end good, make You the goal of all my efforts, and let the last thing I hold on to be You.",
+    "note": "The Prophet ﷺ named Him the Last in his bedtime supplication in Sahih Muslim; it suits the moment of lying down, a small rehearsal for the final return."
+  },
+  "pairs": [
+    {"slug": "al-awwal", "why": "Al-Awwal is before everything, Al-Akhir after everything; together they frame all of time and give the middle its meaning."},
+    {"slug": "al-baqi", "why": "Al-Akhir is the final end and goal; Al-Baqi is the One who endures, never perishing while all else does."}
+  ],
+  "faq": [
+    {"q": "What does Al-Akhir mean?", "a": "Al-Akhir means the Last: Allah remains after everything has ended, with no end of His own, and there is nothing after Him. Scholars add that He is the final goal to whom all things return. It appears in 57:3 alongside Al-Awwal, Az-Zahir and Al-Batin."},
+    {"q": "What is the difference between Al-Akhir, Al-Baqi and Al-Warith?", "a": "All three relate to Allah after creation ends. Al-Akhir stresses that He is last in order and the final destination of all things. Al-Baqi stresses His enduring permanence while everything perishes. Al-Warith stresses that all ownership returns to Him as everything people held is left behind."}
+  ],
+  "lessons": [30],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

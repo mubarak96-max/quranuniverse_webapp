@@ -57,6 +57,29 @@ export default function Home() {
           })}
         </ul>
       </section>
+      <nav className="modules" aria-label="Explore">
+        <Link href="#index-title" className="module">
+          <span className="ar" lang="ar" dir="rtl">
+            القرآن
+          </span>
+          <b>The Quran</b>
+          <small>Every surah and verse with a card and Tafsir Ibn Kathir</small>
+        </Link>
+        <Link href="/timeline" className="module">
+          <span className="ar" lang="ar" dir="rtl">
+            التاريخ
+          </span>
+          <b>Timeline</b>
+          <small>The prophets, nations and empires, from Adam to today</small>
+        </Link>
+        <Link href="/names" className="module">
+          <span className="ar" lang="ar" dir="rtl">
+            الأسماء الحسنى
+          </span>
+          <b>Names of Allah</b>
+          <small>The 99 Beautiful Names, their meanings and verses</small>
+        </Link>
+      </nav>
       <SurahIndex
         surahs={surahs.map((s) => ({
           id: s.id,

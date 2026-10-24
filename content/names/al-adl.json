@@ -1,0 +1,62 @@
+{
+  "slug": "al-adl",
+  "title": "Not one atom of injustice, ever, from Him",
+  "subtitle": "Al-Adl: the Just, who wrongs no one and gives every soul its full due",
+  "intro": "Al-Adl (العدل) means the Just: Allah is free of every kind of injustice in His decree, His law and His judgment, and He gives every soul exactly what it is due, then adds from His generosity. It matters because nothing you suffer, give or endure patiently is ever lost or miscounted with Him.",
+  "root": {
+    "letters": "ع د ل",
+    "sense": "'Adl is balance: making two sides level, like the two loads on a camel's flanks that must weigh the same or the animal stumbles. It means straightness, fairness and giving each thing its right weight. Allah is called by the noun itself, Justice, not only by the adjective just."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "His justice in three places",
+    "row": [
+      {"box": "idea", "title": "In what He decrees", "sub": ["no one is wronged by fate"]},
+      {"box": "idea", "title": "In what He commands", "sub": ["a law built on balance"]},
+      {"box": "idea", "title": "In how He judges", "sub": ["even an atom's weight counted"]}
+    ]
+  },
+  "key": {
+    "label": "When life feels unfair",
+    "row": [
+      {"box": "trap", "title": "Allah is being unfair to me", "sub": ["why me, why them"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "He wrongs no one at all", "sub": ["and the account is not closed yet"]}
+    ]
+  },
+  "knowing": [
+    "Al-Adl is the Just. The name is in the well-known list in Jami' al-Tirmidhi, and it is a noun, as if to say He is justice itself. The Quran says Allah does not do injustice even as much as an atom's weight, and if there is a good deed He multiplies it (4:40). In a hadith qudsi He says: O My servants, I have forbidden injustice for Myself and made it forbidden among you, so do not wrong one another (Sahih Muslim).",
+    "{idea}His justice is not the cold justice of a machine.{/idea} He deals with sin by justice and with good by grace. A bad deed is written as one; a good deed is multiplied many times. No one carries another's burden, and no one is asked for more than they can bear. Justice is the floor of how He treats you; everything above it is generosity.",
+    "Human justice is limited by missing facts, bias and fear. His justice rests on complete knowledge. And everything belongs to Him, so when He gives or takes back, He is never acting in someone else's property. A human king may abuse his power; Allah is never oppressive to His servants."
+  ],
+  "seeing": [
+    "You see Al-Adl in the balance of creation: the heaven He raised and the balance He set (55:7), orbits held in measure, the air mixed in exact proportions that keep you alive with every breath. A world built by an unjust or careless hand would fall apart.",
+    "You see Him in His law. Allah commands justice and good conduct and forbids oppression (16:90). His law protects life, faith, mind, family and wealth, and it forbids you from wronging even someone you hate. And you will see Him most clearly on the Day of Resurrection, when the scales of justice are set up and no soul is wronged at all, and even a mustard seed's weight of deed is brought forward (21:47)."
+  ],
+  "trusting": [
+    "When life seems unfair, when the illness comes to you and not to them, or the less honest colleague is promoted, remember that this life is not the whole ledger. The Prophet ﷺ taught that no hardship, worry or even a thorn's prick touches a believer except that Allah removes some of their sins by it (Sahih al-Bukhari, Sahih Muslim). {reward}Nothing you endure patiently is lost; all of it is weighed.{/reward}",
+    "When you fear for your own record, His justice is good news too: you will not carry anyone else's sins, and your good is multiplied. {trap}Saying Allah is unfair borrows the logic of a short life{/trap} and forgets the rest of the story. Allah does not wrong people at all; it is people who wrong themselves (10:44)."
+  ],
+  "loving": [
+    "Children love a parent who is fair between them. They feel safe, they stop competing, they rest. {idea}Knowing your Lord will never wrong you by an atom lets the heart rest in Him completely.{/idea} And knowing He has forbidden injustice for Himself makes you want to be fair to others, because you want to be like what He loves."
+  ],
+  "now": "The test results come back, and you sit in the hospital car park asking why you, when you did everything right. It feels unfair, and that feeling is real. Al-Adl has not wronged you by an atom, and every hour of this is being counted for you. Let yourself cry, then talk to Him honestly about it.",
+  "old": "When things go badly for me and well for others, I quietly feel that life, and even Allah, is unfair.",
+  "new": "Allah wrongs no one even an atom's weight, so nothing I suffer or give is ever lost or miscounted.",
+  "try": "Be exactly fair in one small thing today: split a bill honestly, pay someone their full due promptly, or hear both sides before judging.",
+  "dua": {
+    "text": "O Allah, You are Al-Adl and You wrong no one. Deal with me by Your grace and not only by Your justice, and make me fair in my words, my home and my work.",
+    "note": "Call on Him by this name when life feels unfair, and when you are tempted to treat others unjustly, remembering that He has forbidden injustice for Himself."
+  },
+  "pairs": [
+    {"slug": "al-muqsit", "why": "Al-Adl is His justice itself; Al-Muqsit is that justice put into action, giving the wronged their due."},
+    {"slug": "al-hakam", "why": "Al-Hakam gives the verdict; Al-Adl guarantees the verdict is perfectly fair."}
+  ],
+  "faq": [
+    {"q": "What does Al-Adl mean?", "a": "Al-Adl means the Just. Allah is free of every form of injustice in His decree, His law and His judgment. He gives every soul exactly what it deserves and multiplies good deeds from His generosity. He does not wrong anyone even an atom's weight (4:40)."},
+    {"q": "What is the difference between Al-Adl and Al-Muqsit?", "a": "Al-Adl describes justice as Allah's quality: perfect balance, with no wrong at all in anything He does. Al-Muqsit describes justice in action: removing injustice and restoring rights to those who were wronged, giving each person their fair share."},
+    {"q": "If Allah is just, why do innocent people suffer?", "a": "This life is a test, not the final account. Hardship can wipe away sins, raise a person's rank and bring them closer to Allah, and every wrong done by people will be settled completely on the Day of Resurrection. Allah wrongs no one; nothing endured patiently is lost (10:44, 21:47)."}
+  ],
+  "lessons": [6],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

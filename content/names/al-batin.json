@@ -1,0 +1,63 @@
+{
+  "slug": "al-batin",
+  "title": "Unseen by every eye, closer to you than your own breath",
+  "subtitle": "The Inward and Nearest, who knows what is hidden in every heart",
+  "intro": "Al-Batin (الْبَاطِنُ) means the Inward and Hidden: Allah is beyond the reach of sight and imagination, yet nothing is beneath or beyond Him; He is nearer than anything and knows every hidden thing. It matters to you because the pain you hide from everyone is not hidden from Him.",
+  "root": {
+    "letters": "ب ط ن",
+    "sense": "The root means the inside, the belly, the hidden interior of a thing, as opposed to its outer back. Batin is what lies within and is not seen from outside. Said of Allah, it means hidden from perception, and so close and so aware that the innermost things of creation are open to Him."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Batin means for you",
+    "row": [
+      {"box": "idea", "title": "Hidden from sight", "sub": ["no eye perceives Him"]},
+      {"conn": "yet"},
+      {"box": "idea", "title": "Nearer than anything", "sub": ["nothing beneath or beyond Him"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "Your inner world is known", "sub": ["every hidden ache and intention"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "No one knows what I carry", "sub": ["I smile and hide it"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Al-Batin knows it all", "sub": ["I am never unseen inside"]}
+    ]
+  },
+  "knowing": [
+    "Al-Batin is the last of the four names in 57:3. The Prophet ﷺ defined it in the supplication in Sahih Muslim: You are the Inward, and there is nothing beneath You. Where Az-Zahir is His being above all, {idea}Al-Batin is that nothing is beyond Him on the inside{/idea}: nothing below, behind or within creation escapes His knowledge and reach. The verse closes: and He knows all things.",
+    "He is also hidden from perception. Vision does not grasp Him, while He grasps all vision (6:103). The mind cannot picture Him, and whatever the imagination produces, He is other than it. Yet the One no eye can see is closer to you than your jugular vein by His knowledge (50:16), and with you wherever you are (57:4).",
+    "So Al-Batin is not distance. It is closeness without being seen, awareness that reaches the innermost places: the half-formed thought, the motive you have not admitted, the tear you wiped before anyone noticed."
+  ],
+  "seeing": [
+    "In Surah al-Hadid, where this name is revealed, the believers are being asked to spend and to strive. Al-Batin carries a quiet warning: He knows why you do what you do. Charity given for applause, bravery shown for reputation, prayers performed for the people watching: from the outside they look identical to the real thing. From the inside, Al-Batin sees the difference.",
+    "He also sees the good that never shows. When My servants ask about Me, I am near; I answer the call of the caller when he calls Me (2:186). The whispered dua in a hospital chapel, the regret no one hears, the effort to be patient that no one notices: all of it reaches the Inward, who missed none of it."
+  ],
+  "trusting": [
+    "Many people go through the day with a smile and an inner world nobody sees: anxiety, grief, a struggle with a sin, a marriage quietly falling apart. {trap}Feeling unseen can be more painful than the problem itself{/trap}. Al-Batin means you are never unseen. You do not need to find the words or explain. He already knows what you are carrying, and He is near.",
+    "It works on your sins too. You may hide them from people, but not from Him, and that is not only a warning. {reward}Because He knows your heart, He also sees the regret no one else would believe{/reward}, and the sincere wish to do better beneath your repeated failures. Bring your inner world to Him honestly; with Al-Batin, there is no point pretending, and no need to."
+  ],
+  "loving": [
+    "We love most deeply the person who truly knows us, who sees past the act and still stays. {idea}Al-Batin knows you more fully than anyone ever could{/idea}, every corner of your heart, and He still invites you, still answers, still forgives. To be completely known and still welcomed is what every heart is looking for."
+  ],
+  "now": "You are in a meeting, nodding and smiling, while your mind keeps returning to the test results you got this morning that you have told no one about. No one in the room can see it. Under your breath, say: You know, Ya Allah. Al-Batin is already with you in it. You are not alone at that table.",
+  "old": "No one really knows what I am going through inside.",
+  "new": "Al-Batin knows my inner world completely and is nearer to me than anyone.",
+  "try": "Tell Allah, in your own words, one feeling you have never told anyone, and check the intention behind one good deed you do today.",
+  "dua": {
+    "text": "O Allah, You are Al-Batin and nothing is hidden from You. You know what I cannot say; heal what is broken inside me, purify my intentions, and stay near to my heart.",
+    "note": "The Prophet ﷺ named Him Al-Batin in his bedtime supplication in Sahih Muslim; call on Him this way for hidden griefs and to purify intentions."
+  },
+  "pairs": [
+    {"slug": "az-zahir", "why": "Az-Zahir is above all with nothing over Him; Al-Batin is within reach of all with nothing beneath Him. Together nothing escapes Him."},
+    {"slug": "al-khabir", "why": "Al-Batin reaches what is hidden; Al-Khabir is fully acquainted with its inner reality and details."}
+  ],
+  "faq": [
+    {"q": "What does Al-Batin mean?", "a": "Al-Batin means the Inward or Hidden: Allah is beyond the perception of eyes and imagination, yet nothing is beneath or beyond Him, and He knows every hidden thing. The Prophet ﷺ explained it: You are the Inward, nothing is beneath You (Sahih Muslim)."},
+    {"q": "Does Al-Batin mean Allah is far away?", "a": "No. Al-Batin means Allah is hidden from our senses, not distant. The Quran says He is nearer to a person than the jugular vein (50:16) and near to those who call on Him (2:186). His hiddenness is joined with complete closeness through His knowledge."}
+  ],
+  "lessons": [30],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

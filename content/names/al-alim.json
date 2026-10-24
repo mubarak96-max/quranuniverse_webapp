@@ -1,0 +1,69 @@
+{
+  "slug": "al-alim",
+  "title": "He knows the real you, and He still knows what is best",
+  "subtitle": "Al-Alim: the One whose knowledge holds every secret, every outcome and every need",
+  "intro": "Al-Alim (اَلْعَلِيْمُ) means the All-Knowing: the One who knows everything that was, is and will be, and even what would have happened had things gone differently. Nothing about you is hidden from Him, so you never have to perform for Him, and nothing that happens to you happens without His knowledge.",
+  "root": {
+    "letters": "ع ل م",
+    "sense": "The root gives 'ilm, knowledge, and 'alam, a sign or flag that marks the way. To know is to perceive a thing as clearly as a landmark on a hill. Al-Alim is the intensive form: His knowledge is not partial, gained or forgotten, but complete and always present."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What His knowledge reaches",
+    "row": [
+      {"box": "idea", "title": "The open", "sub": ["what you say aloud", "what everyone sees"]},
+      {"conn": "and deeper"},
+      {"box": "idea", "title": "The secret", "sub": ["what you hide from others"]},
+      {"conn": "and deeper"},
+      {"box": "idea", "title": "More hidden still", "sub": ["motives you never admitted", "thoughts you did not notice"]},
+      {"box": "reward", "title": "Known, and cared for", "sub": ["no mask needed", "no good deed lost"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "No one really knows me", "sub": ["so no one can help", "so it does not count"], "strike": true},
+      {"conn": "Al-Alim corrects"},
+      {"box": "idea", "title": "He knows me completely", "sub": ["and knows what I need", "better than I do"]}
+    ]
+  },
+  "knowing": [
+    "Al-Alim knows everything at once, without learning it, without effort and without ever forgetting. Scholars describe His knowledge in four layers: He knows what has happened, what is happening, what will happen, and what never happens, and if it did happen, how it would turn out. {idea}Your past, your present and every road you did not take are equally clear to Him.{/idea} No leaf falls without His knowledge, and no seed lies in the dark earth unknown to Him (6:59).",
+    "His knowledge reaches inward as well as outward. Allah says He knows the secret and what is more hidden (20:7). A secret is something you keep from others. What is more hidden than a secret? The thoughts you keep even from yourself, the real motive under the motive you tell people. He knows what your soul whispers to you, and He is closer than your jugular vein (50:16).",
+    "Several names circle this one. As-Sami hears every voice, Al-Basir sees every movement, Al-Khabir knows the inner reality and hidden news of things. Al-Alim is the widest of them: it holds all of that and more. Human knowledge is borrowed, partial and late. A professor knows a field. Allah knows every field, every person and every consequence, and {idea}His knowledge is never separated from wisdom{/idea}. That is why the Quran so often joins Al-Alim with Al-Hakim, the All-Wise. Knowing everything is one thing; knowing exactly what to do with it, and when, is another."
+  ],
+  "seeing": [
+    "Luqman, teaching his son, starts with the oneness of Allah and then moves straight to His knowledge: even a deed the weight of a mustard seed, inside a rock, in the heavens or deep in the earth, Allah will bring it out (31:16). The first lesson of faith is that He is One. The second is that nothing is hidden from Him.",
+    "Look at the family of Yaqub. When his sons came back without a second beloved child, Yaqub held on with patience and said that Allah is the Knowing, the Wise (12:83). Years later, Yusuf, standing at last with his parents after the well, the slave market and the prison, closed his story with the same two names (12:100). One knowledge that sees everything, one wisdom that places everything: that was enough to carry a family through decades of separation.",
+    "The Quran also ends many of its laws, on loans, marriage, divorce and inheritance, with His knowledge. The sun runs its course by the decree of the Mighty, the Knowing (36:38), and the One who set the sun on its path gave us our guidance too. When a ruling feels strange, it helps to ask the question Allah asks: does He who created not know (67:14)?"
+  ],
+  "trusting": [
+    "Much of our anxiety comes from feeling unseen: no one knows what I carry, no one knows what I gave, no one knows what they did to me. Al-Alim answers all three. {reward}The kindness nobody thanked you for is already known and recorded.{/reward} The insult you swallowed for the sake of peace is known. The injustice done to you behind closed doors is known, and it will not be lost.",
+    "It also changes how you read your hardships. The One who placed you in this situation knows you inside out. He knows which test will break you and which will build you, and He knows the right time for each door to open. {trap}Assuming that what you cannot see does not exist{/trap} is what turns hardship into despair. You see one frame; He sees the whole film. So you can do your part, then rest your full weight on the One who knows what you do not.",
+    "And when you fall, His knowledge is not a threat but an invitation. He already knows the worst of you, so there is nothing to hide when you turn back. Speak to Him plainly. Like Yaqub, you can say you complain of your grief only to Allah (12:86)."
+  ],
+  "loving": [
+    "People love us for the version of us they see. Al-Alim knows every version: the tired one, the petty one, the one who tried and failed, and still He keeps giving, guiding and inviting. {idea}To be completely known and not abandoned is something only He can offer.{/idea}",
+    "There is a deep relief in loving the One who understands you without explanation. You do not have to find the right words, prove your sincerity or defend your intentions. He knows what you meant, even when it came out wrong."
+  ],
+  "now": "It is late, and you are scrolling past other people's highlight reels, feeling like your quiet effort counts for nothing. Nobody saw you hold your tongue today, care for your mother, or pray when you did not feel like it. {reward}Al-Alim saw every bit of it, and with Him nothing is too small to count.{/reward} Put the phone down and tell Him what no one else knows.",
+  "old": "If no one notices what I do or what I go through, it does not really matter.",
+  "new": "Al-Alim knows every hidden effort and every hidden pain, so nothing I carry is wasted or unseen.",
+  "try": "Do one good deed today that no one will ever find out about, and leave it with Al-Alim alone.",
+  "dua": {
+    "text": "Ya Alim, You know what I hide and what I show. You know what I need better than I do. Choose for me with Your knowledge, and make me content with what You choose.",
+    "note": "Call on Him by this name when you face a decision or feel misunderstood; Ibrahim and Ismail ended their prayer at the Kaaba with You are the Hearing, the Knowing (2:127)."
+  },
+  "pairs": [
+    {"slug": "al-hakim", "why": "Al-Alim knows everything; Al-Hakim puts everything in its right place and time. Knowledge without wisdom could not comfort, together they carry you."},
+    {"slug": "as-sami", "why": "As-Sami hears your call, Al-Alim knows your situation; the Quran pairs them when people turn to Him in prayer."},
+    {"slug": "al-khabir", "why": "Al-Alim is His all-embracing knowledge; Al-Khabir stresses His knowledge of the hidden inner reality of things."}
+  ],
+  "faq": [
+    {"q": "What does Al-Alim mean?", "a": "Al-Alim means the All-Knowing. Allah knows everything past, present and future, what is open and what is hidden, including thoughts and intentions. His knowledge is not acquired, never preceded by ignorance and never followed by forgetting."},
+    {"q": "What is the difference between Al-Alim and Al-Khabir?", "a": "Al-Alim is His complete knowledge of all things. Al-Khabir highlights a particular side of that knowledge: awareness of inner realities, hidden details and secret news that no outward look can uncover. Every Khabir quality is part of His knowledge, but the name Al-Khabir draws attention to the hidden."},
+    {"q": "Why is Al-Alim often paired with Al-Hakim in the Quran?", "a": "Because knowledge and wisdom together explain how Allah runs the world. He knows every detail, and He acts on that knowledge with perfect wisdom, choosing the right thing at the right time. Yaqub and Yusuf both used this pair in Surah Yusuf (12:83, 12:100) at the hardest and happiest moments of their story."}
+  ],
+  "lessons": [7, 8],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

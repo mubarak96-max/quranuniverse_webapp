@@ -1,0 +1,65 @@
+{
+  "slug": "al-wali",
+  "title": "Every affair in the universe is on His desk, including yours",
+  "subtitle": "Al-Wali: the Governor who manages and runs all things",
+  "intro": "Al-Wali (الْوَالِي) means The Governor: the One who alone manages, directs and runs the affairs of all creation, from the orbits of planets to the details of your day, with wisdom and without help. No affair is unattended. Knowing this name lets you stop trying to run the universe and start handing your affairs to the One who already does.",
+  "root": {
+    "letters": "و ل ي",
+    "sense": "Waliya first means to be right next to something, as a saddle sits against a horse's back. From closeness came responsibility: the wali of a child is the guardian who handles his affairs; the wali of a province is its governor. Al-Wali is the One so close to every affair and so in charge of it that He governs all things."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What the Governor manages",
+    "row": [
+      {"box": "idea", "title": "The cosmos", "sub": ["sun, moon, each on its course"]},
+      {"box": "idea", "title": "Every creature", "sub": ["sustenance, life, death"]},
+      {"box": "idea", "title": "Your affairs", "sub": ["the visible and the hidden"]},
+      {"conn": "with"},
+      {"box": "reward", "title": "No other governor", "sub": ["no deputy, no gaps", "no file left unread"]}
+    ]
+  },
+  "key": {
+    "label": "Who is running your life",
+    "row": [
+      {"box": "trap", "title": "I have to manage everything", "sub": ["or it all falls apart"], "strike": true},
+      {"conn": "Al-Wali shows"},
+      {"box": "idea", "title": "He already governs it all", "sub": ["I do my part, He runs the rest"]}
+    ]
+  },
+  "knowing": [
+    "Al-Wali is the One who takes charge of all affairs and runs them. {idea}He directs the matter from the heaven to the earth (32:5); He set the sun and moon running each to its term, and He arranges every affair (13:2){/idea}. Nothing in creation governs itself, and nothing is governed by anyone except by His leave.",
+    "It is important to distinguish this name from Al-Waliyy, which shares its root. Al-Waliyy is the Protecting Friend, the close ally who loves, supports and defends those who believe. Al-Wali is the Governor, whose management covers all creation, believer and unbeliever, stars and atoms alike. One name speaks of His friendship; this one speaks of His administration of everything.",
+    "A human governor is appointed, limited to a region, answerable to a higher authority, and dependent on staff who make mistakes. Al-Wali appointed Himself over nothing, for everything is His; He answers to no one, needs no ministers, and never loses track of a single file. The Quran says plainly: they have no governor besides Him (13:11)."
+  ],
+  "seeing": [
+    "Think of what must happen for you to drink a glass of water: sunlight lifting vapor from the ocean, winds carrying clouds, rain falling in measure, rivers and aquifers storing it, your body recognizing thirst. No committee coordinates this. Al-Wali does, at every moment, for billions of creatures at once.",
+    "The same verse that names Him a people's only Governor also says Allah does not change the condition of a people until they change what is in themselves (13:11). {idea}His governance is not chaos and not tyranny; it follows wise and just patterns, and our choices are part of how He runs the world.{/idea} He also sends guardian angels before and behind each person, protecting them by His command, in that same verse."
+  ],
+  "trusting": [
+    "Much of our stress comes from trying to govern what we cannot: other people's decisions, the economy, the future, our children's hearts. {trap}We exhaust ourselves acting as governors of a universe that already has one.{/trap} Al-Wali asks you to manage your part well, your effort, your choices, your character, and leave the rest to Him.",
+    "The Prophet ﷺ taught a supplication for distress, reported by Abu Dawud: O Allah, it is Your mercy that I hope for, so do not leave me to myself even for the blink of an eye, and set right all my affairs; there is no god but You. {reward}That is handing your file to the Governor: not giving up, but placing your affairs under a management that never fails.{/reward}"
+  ],
+  "loving": [
+    "It is a relief to work for a leader who knows what he is doing and cares about every person under him. Al-Wali is infinitely more: {reward}He governs everything perfectly, and not one of your affairs is beneath His attention.{/reward} The heart that sees this stops bracing for chaos and starts resting in His care."
+  ],
+  "now": "It is Sunday night and your mind is running through the week: the deadline, the school run, the bill, the parent who is unwell, all spinning at once. {idea}You are not the governor of all of this; Al-Wali is.{/idea} Write down what is genuinely yours to do tomorrow, then hand the rest to Him in dua and go to sleep.",
+  "old": "If I do not keep every part of my life under control, everything will fall apart.",
+  "new": "Al-Wali governs all affairs perfectly; I do my part and trust His management with the rest.",
+  "try": "Write a list of what is worrying you, circle only what is actually in your control, act on one circled item, and say over the rest: Ya Wali, set right all my affairs.",
+  "dua": {
+    "text": "Ya Wali, You govern every affair in the heavens and the earth. Take charge of my affairs, set all of them right, and do not leave me to myself even for the blink of an eye.",
+    "note": "These words echo the Prophet's supplication for distress reported by Abu Dawud; call on Al-Wali when life feels unmanageable."
+  },
+  "pairs": [
+    {"slug": "al-waliyy", "why": "Same root, different light: Al-Wali governs all creation, Al-Waliyy is the loving protector and ally of the believers."},
+    {"slug": "al-hakim", "why": "Al-Wali runs every affair; Al-Hakim ensures every decision in that governance is wise and placed rightly."},
+    {"slug": "al-qayyum", "why": "Al-Qayyum sustains and upholds all existence; Al-Wali directs and manages its affairs."}
+  ],
+  "faq": [
+    {"q": "What does Al-Wali mean?", "a": "Al-Wali means The Governor. It describes Allah as the One who alone manages, directs and runs the affairs of all creation, with perfect wisdom and without any helper. Nothing in existence governs itself; everything is administered by Him."},
+    {"q": "What is the difference between Al-Wali and Al-Waliyy?", "a": "Both come from the root of closeness and responsibility. Al-Wali, the Governor, refers to Allah managing the affairs of all creation. Al-Waliyy, the Protecting Friend, refers to His special closeness, love and support for those who believe in Him."},
+    {"q": "Is Al-Wali mentioned in the Quran?", "a": "The word appears in 13:11, which says people have no governor or patron besides Him (min wal). The Quran also describes His governance repeatedly, saying He arranges every affair (10:3, 13:2) and directs the matter from the heaven to the earth (32:5)."}
+  ],
+  "lessons": [10],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

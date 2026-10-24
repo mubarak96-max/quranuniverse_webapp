@@ -1,0 +1,64 @@
+{
+  "slug": "al-haqq",
+  "title": "The real thing in a world of counterfeits",
+  "subtitle": "The Truth whose love, promise and word never disappoint",
+  "intro": "Al-Haqq (الْحَقُّ) means the Truth, the Real: Allah truly exists without change, His word is true, His promise is certain, and everything He does is right and in its place. It matters to you because everything else in life eventually disappoints in some way, and He never does.",
+  "root": {
+    "letters": "ح ق ق",
+    "sense": "The root means to be firm, established, and to correspond to reality. Haqq has three senses: truth as opposed to falsehood; a right or due, something that must be given; and doing a thing properly, in the right way and the right time. Its opposite, batil, is what is false, empty and passing."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Al-Haqq in three senses",
+    "row": [
+      {"box": "idea", "title": "Truly real", "sub": ["exists without change"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "True in word", "sub": ["His promise always comes"]},
+      {"conn": "and"},
+      {"box": "idea", "title": "Right in action", "sub": ["gives everything its due"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "This will finally fulfil me", "sub": ["the car, the holiday, the person"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "Only Al-Haqq never disappoints", "sub": ["everything else has some fake in it"]}
+    ]
+  },
+  "knowing": [
+    "Al-Haqq is the One whose existence is real in the fullest sense: not borrowed, not temporary, not dependent. Everything else exists because He brought it into being and holds it there. {idea}He is the reality behind all realities{/idea}. That is Allah, your Lord, the Truth; and what is there after truth except error (10:32)?",
+    "The name carries the other senses of haqq too. His words are true, His promises come to pass, and His actions put everything in its rightful place. He gives every creature its due. On the Day of Judgment people will know that Allah is the clear Truth (24:25), paying everyone in full what they deserve.",
+    "It overlaps with Al-Adl, the Just, and Al-Hakim, the Wise, but its centre is reality itself: He is real, and anything set up beside Him is empty."
+  ],
+  "seeing": [
+    "Surah al-Hajj opens and closes with this name like a frame. Near its start: that is because Allah is the Truth, and He gives life to the dead (22:6). Near its end: that is because Allah is the Truth, and what they call on besides Him is falsehood (22:62). In between it speaks of the Day of Judgment, the day when everything fake is stripped away and only what was real remains.",
+    "The Quran describes the deeds of those who rejected Him as a mirage in a desert: the thirsty man runs toward it, and when he arrives he finds nothing, but finds Allah there (24:39). And it records the call of the people of Paradise: we have found what our Lord promised us to be true (7:44)."
+  ],
+  "trusting": [
+    "Think of the fake designer shoes bought cheaply in a market. They look right for two months, then fall apart. {trap}So much of life is like that: the car that was sold as happiness, the holiday that was sold as peace, the relationship expected to be paradise on earth{/trap}. Expectations run ahead and reality falls short. Every created thing has some counterfeit in it, because it is not Al-Haqq.",
+    "He is the real thing. His love keeps your heart beating even while you ignore Him. His promise does not fail. {reward}When you stop demanding from people what only Al-Haqq can give, you stop being crushed by them{/reward}, and you can love them for what they are. And when trials shake you, you hold on as the believers did when surrounded by armies: this is what Allah promised, and His promise is true."
+  ],
+  "loving": [
+    "After enough disappointments, the heart grows wary of loving anything fully. {idea}Al-Haqq is the one place where that wariness can finally rest{/idea}. His mercy is genuine, His love has no hidden conditions, and He has never broken a promise. To love the Real after a lifetime of imitations is to come home."
+  ],
+  "now": "Two weeks after unboxing the phone you saved months for, it is just a phone. The excitement has gone, and you are already looking at the next model. Notice the pattern. Every new thing promises more than it gives. Put it down and spend ten minutes with the Quran, the word of the One who never oversells.",
+  "old": "The next thing I get, the next person I meet, will finally make me happy.",
+  "new": "Only Al-Haqq is wholly real and never disappoints; everything else I can enjoy without expecting it to be Him.",
+  "try": "Learn the opening of the Prophet's night prayer supplication: Antal-haqq, wa wa'dukal-haqq: You are the Truth, and Your promise is true.",
+  "dua": {
+    "text": "O Allah, You are Al-Haqq, Your promise is true, meeting You is true, Paradise is true and the Fire is true. Show me truth as truth and help me follow it, and free me from chasing illusions.",
+    "note": "This echoes the supplication the Prophet ﷺ said when rising for the night prayer, reported in Sahih al-Bukhari and Sahih Muslim."
+  },
+  "pairs": [
+    {"slug": "al-hakim", "why": "Al-Haqq does everything rightly and gives it its due; Al-Hakim does it with wisdom, putting each thing in its place."},
+    {"slug": "al-adl", "why": "Al-Haqq gives everything its due; Al-Adl ensures no one is wronged in the giving."}
+  ],
+  "faq": [
+    {"q": "What does Al-Haqq mean?", "a": "Al-Haqq means the Truth or the Real: Allah truly exists without change or dependence, His word and promise are true, and His actions give everything its rightful due. Anything worshipped besides Him is falsehood, as stated in 22:62."},
+    {"q": "Where is Al-Haqq mentioned in the Quran?", "a": "Allah is called Al-Haqq in several verses, including 6:62, 10:32, 18:44, 20:114, 22:6, 22:62, 23:116 and 24:25. Surah al-Hajj opens and nearly closes with the phrase that is because Allah is the Truth."},
+    {"q": "What is the night prayer dua with Antal-Haqq?", "a": "When the Prophet ﷺ rose for the night prayer he praised Allah, saying among other words: You are the Truth, Your promise is true, meeting You is true, Paradise is true, the Fire is true, the prophets are true and Muhammad is true. It is reported in Sahih al-Bukhari and Sahih Muslim."}
+  ],
+  "lessons": [17],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "al-musawwir",
+  "title": "No face like yours has ever existed",
+  "subtitle": "Al-Musawwir: the Fashioner who gives every creature its own form and beauty",
+  "intro": "Al-Musawwir (الْمُصَوِّرُ) means The Fashioner: the One who gives every creature its particular shape, features and appearance, inside and out, fitted to its purpose. He shaped you in the womb as He willed. The face in your mirror is a deliberate work, not an accident, and He calls it the best of forms.",
+  "root": {
+    "letters": "ص و ر",
+    "sense": "Surah is form, image or picture, and taswir is giving something its form. The classical sense is close to sculpting, and in modern Arabic the word is used for a designer. Al-Musawwir is the One who designs the look of each thing so precisely that no two are the same."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "The work of Al-Musawwir",
+    "row": [
+      {"box": "idea", "title": "In the womb", "sub": ["shaped as He wills", "in darkness, unseen"]},
+      {"conn": "gives"},
+      {"box": "idea", "title": "A unique form", "sub": ["every face and fingerprint", "different from all others"]},
+      {"conn": "and calls it"},
+      {"box": "reward", "title": "The best of forms", "sub": ["fitted to your purpose", "beautiful in its own way"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "I was shaped wrong", "sub": ["my nose, my height, my skin", "I need to be someone else"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "I was shaped on purpose", "sub": ["by Al-Musawwir", "in the form He chose"]}
+    ]
+  },
+  "knowing": [
+    "Al-Musawwir is the third of the three creation names in 59:24. After Al-Khaliq plans and brings into being, and Al-Bari' brings out each creature sound and distinct, {idea}Al-Musawwir gives each one its own particular form{/idea}: the curve of a shell, the stripes of a zebra, the shape of your hands.",
+    "The scale of it is hard to take in. Billions of people have lived, and no two have shared a fingerprint. Twins born minutes apart can look nothing alike. A factory has to make every car identical; He makes every face different, and never runs out of new ones. He also shapes the inside: organs, temperament and gifts, each fitted to what that creature is for.",
+    "His fashioning is not decoration added afterwards. Form and function are one design. The eye is placed where it can see, the hand is built to hold, and the human being is set upright in the best stature (95:4)."
+  ],
+  "seeing": [
+    "The Quran points to the womb more than anywhere else when it speaks of this name. It is He who forms you in the wombs however He wills (3:6). He formed you and perfected your forms (64:3, 40:64). In Surah al-Infitar He asks what has deceived you about your generous Lord, who created you, proportioned you, balanced you, and put you together in whatever form He willed (82:6-8).",
+    "The Prophet ﷺ, in prostration during the night prayer, would say that his face bowed to the One who created it, gave it its form, and opened its hearing and sight, as recorded in Sahih Muslim. {reward}The most honoured part of you, placed on the ground before the One who designed it{/reward}."
+  ],
+  "trusting": [
+    "We live surrounded by filters and edited bodies, and it is easy to hate the form you were given. {trap}That constant comparison quietly accuses the Fashioner of getting you wrong{/trap}. Knowing Al-Musawwir lets you put that burden down. Take care of your body and look your best, but stop treating your features as a mistake to be fixed.",
+    "It also helps when you worry about a child's face, a scar, an illness that changes how you look. The One who shaped you in darkness, without your help, has not lost interest in you now. Your worth in His sight was never in your shape, but He chose that shape with care."
+  ],
+  "loving": [
+    "An artist puts something of his attention into every line. Al-Musawwir is beyond any comparison, yet the care is visible: in a child's laugh, the colours of a bird, your own face. {reward}When you see the care in the design, you start to love the Designer{/reward}, and to look at other people more gently, because He shaped them too."
+  ],
+  "now": "You are in front of the bathroom mirror, finding fault with your face again after an hour of other people's perfect photos. Stop and look properly. No one in all of history has had this exact face; Al-Musawwir made it for you in the dark, and called the human form the best of forms.",
+  "old": "I see my looks as a set of flaws I have to hide or fix.",
+  "new": "I see my form as a deliberate design by Al-Musawwir, given to me with care.",
+  "try": "Look in the mirror today and, instead of criticising, thank Allah for three specific parts of your body by name.",
+  "dua": {
+    "text": "Ya Musawwir, You shaped me in the womb as You willed and made my form good. Make my character as beautiful as You made my form, and let me never despise what You designed.",
+    "note": "Call on Him by this name in sujud, echoing the Prophet's ﷺ words about the One who gave his face its form."
+  },
+  "pairs": [
+    {"slug": "al-khaliq", "why": "Al-Khaliq plans and brings into being; Al-Musawwir gives what is created its final shape."},
+    {"slug": "al-bari", "why": "Al-Bari' brings each creature out sound and distinct; Al-Musawwir gives it its particular face and form."},
+    {"slug": "al-badi", "why": "Al-Badi' originates without any model, and Al-Musawwir's endless variety of forms shows it."}
+  ],
+  "faq": [
+    {"q": "What does Al-Musawwir mean?", "a": "Al-Musawwir means The Fashioner or The Shaper of forms. It is the One who gives every creature its particular shape and appearance, inside and out. The root is the same as surah, meaning form or image."},
+    {"q": "How many times does Al-Musawwir appear in the Quran?", "a": "As a name, Al-Musawwir appears once, in 59:24, alongside Al-Khaliq and Al-Bari'. The act it describes is mentioned often, for example in 3:6, 40:64, 64:3 and 82:8, which speak of Allah forming people in the womb."},
+    {"q": "What is the difference between Al-Musawwir and Al-Badi'?", "a": "Al-Musawwir is about giving each creature its particular form and appearance. Al-Badi' is about originating creation with no earlier model to copy. One describes the shaping of each thing, the other the utter newness of the whole."}
+  ],
+  "lessons": [11, 9],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

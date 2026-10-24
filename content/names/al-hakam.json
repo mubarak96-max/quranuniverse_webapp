@@ -1,0 +1,62 @@
+{
+  "slug": "al-hakam",
+  "title": "The final word belongs to the One who never misjudges",
+  "subtitle": "Al-Hakam: Allah as the Judge whose ruling is final, fair and full of wisdom",
+  "intro": "Al-Hakam (الحكم) means the Judge: the One whose ruling decides every matter, who judges between His creation in this life and on the Day of Resurrection, and whose verdict is never mistaken and never overturned. It matters because every unresolved argument and hidden wrong will one day be settled by Him.",
+  "root": {
+    "letters": "ح ك م",
+    "sense": "Hukm is to judge and decide. Its oldest picture is the hakamah, the bridle around a horse's mouth that holds it back from bolting and steers it for its own good. A judge holds back wrong; a ruling holds things in their place. The same root gives hikmah, wisdom."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Where His judgment reaches",
+    "row": [
+      {"box": "idea", "title": "In creation", "sub": ["what happens, by His decree"]},
+      {"box": "idea", "title": "In revelation", "sub": ["what is right and wrong"]},
+      {"box": "idea", "title": "On the Day", "sub": ["between every two who disputed"]}
+    ]
+  },
+  "key": {
+    "label": "An unresolved wrong",
+    "row": [
+      {"box": "trap", "title": "Nobody will ever know the truth", "sub": ["the case is closed"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "Al-Hakam will judge it", "sub": ["nothing is left unsettled"]}
+    ]
+  },
+  "knowing": [
+    "Al-Hakam is the Judge. A man came to the Prophet ﷺ whose people called him Abu al-Hakam because he settled their disputes. The Prophet ﷺ told him that Allah is Al-Hakam and judgment belongs to Him, praised his fairness, and called him instead by his son's name, Abu Shurayh (Sunan Abi Dawud, Sunan al-Nasa'i). The title of ultimate Judge was too great to give to anyone else.",
+    "His judging reaches three places. He decrees what happens in the universe. He lays down what is right and wrong in His revelation. And He judges between His servants and repays them. {idea}In all three, His ruling is final and nothing reverses it.{/idea} Is it other than Allah I should seek as judge, when He has sent down the Book explained in detail (6:114)? Is not Allah the most just of judges (95:8)?",
+    "Human judges work with missing evidence, tired minds and hidden biases, and their verdicts are appealed and overturned. Al-Hakam knows the hidden motive and the unspoken word. No bribe reaches Him and no clever lawyer misleads Him. Al-Hakam is close to Al-Hakim, the Wise: Al-Hakim stresses the wisdom in everything He does, while Al-Hakam stresses the deciding, the verdict that settles a matter."
+  ],
+  "seeing": [
+    "The bridle is the picture of His law. It restrains the horse, turns it left and right, and does it for the horse's benefit. A road with no traffic lights is not freedom; it is wreckage. When you buy a machine you read the maker's manual before you use it. Allah made us, knows what helps and harms us, and gave us His rulings as a manual, not as a cage.",
+    "On the Day of Resurrection every dispute will come before Him. Allah will judge between you on the Day concerning what you used to differ over (22:69). The family feud that never healed, the court case that went the wrong way, the slander nobody corrected: each will be heard by the One who was present for all of it."
+  ],
+  "trusting": [
+    "When you have been wronged and cannot prove it, the case is still open, and the Judge has already seen every detail. {reward}You can stop replaying the argument at night, because the verdict is in safe hands.{/reward}",
+    "When one of His rulings feels hard, remember the bridle. {trap}Judging His commands only by what feels free in the moment{/trap} misses that the One who rules knows both the rider and the road. And when you are the one who did wrong, settle it now with the people involved, while settling is still easy."
+  ],
+  "loving": [
+    "Something deep in every person longs for fairness: for the truth to come out, for the wronged to be cleared, for the cheat to be stopped. {idea}Al-Hakam is the answer to that longing, so the heart rests in Him and loves Him for it.{/idea} You can live gently, forgive generously and still know that justice has not been cancelled."
+  ],
+  "now": "The family argument over the inheritance has gone quiet but not cold, and you replay it every time their name lights up your phone. You were treated unfairly and cannot make anyone see it. Al-Hakam sees every detail and will judge with perfect fairness. Do what is right on your side, make dua for them, and put the case down.",
+  "old": "If I cannot prove that I was wronged, the injustice will simply stand forever.",
+  "new": "Allah is the Judge, and every hidden wrong will be decided by Him with complete knowledge and fairness.",
+  "try": "Settle one small matter today: repay something you owe, or apologise for a wrong before the Day it is judged.",
+  "dua": {
+    "text": "Ya Hakam, judge between me and those I have differed with by the truth, forgive me for the wrongs I have done to others, and make me content with Your rulings in my life and in Your law.",
+    "note": "Call on Him by this name when you have been wronged and cannot get justice, or when His command feels hard and you need to trust His judgment."
+  },
+  "pairs": [
+    {"slug": "al-adl", "why": "Al-Hakam decides every matter; Al-Adl guarantees that every decision He makes is perfectly just."},
+    {"slug": "al-hakim", "why": "His verdict is final and also wise: He judges, and He places everything exactly where it belongs."}
+  ],
+  "faq": [
+    {"q": "What does Al-Hakam mean?", "a": "Al-Hakam means the Judge. Allah's ruling decides every matter in creation, in His law and on the Day of Resurrection. His judgment is based on complete knowledge, is perfectly fair, and cannot be overturned. He will judge between people concerning everything they differed over (22:69)."},
+    {"q": "What is the difference between Al-Hakam and Al-Hakim?", "a": "Both come from the same root. Al-Hakam emphasises Allah as the Judge whose verdict settles a matter. Al-Hakim emphasises His wisdom: He puts everything in its right place and does nothing without purpose. His judgments are wise, and His wisdom is expressed in His judgments."},
+    {"q": "Is Al-Hakam mentioned in the hadith?", "a": "Yes. When a man known as Abu al-Hakam came to the Prophet ﷺ, he said that Allah is Al-Hakam and to Him belongs judgment, and renamed him Abu Shurayh after his eldest son. The hadith is recorded in Sunan Abi Dawud and Sunan al-Nasa'i."}
+  ],
+  "lessons": [13],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

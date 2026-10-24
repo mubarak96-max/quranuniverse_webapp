@@ -1,0 +1,65 @@
+{
+  "slug": "an-nafi",
+  "title": "Every good that ever helped you came from one hand",
+  "subtitle": "An-Nafi': the One from whom every benefit, cure and kindness truly comes",
+  "intro": "An-Nafi' (النافع) means the Bestower of Benefit: every good that reaches any creature, from food and healing to guidance and kindness, comes from Him, and no one can block a benefit He has written for you. It matters because it frees you from depending on people and turns every blessing into a reason to love Him.",
+  "root": {
+    "letters": "ن ف ع",
+    "sense": "Naf' is benefit and usefulness: what actually does you good, not what only looks helpful. A medicine that is nafi' really heals; knowledge that is nafi' really changes you. An-Nafi' is the One from whom all real benefit flows, through means or without them."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Benefit and its means",
+    "row": [
+      {"box": "people", "title": "Doctor, employer, friend", "sub": ["the means He uses"]},
+      {"conn": "carry"},
+      {"box": "idea", "title": "His benefit", "sub": ["from An-Nafi' alone"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "Thank Him first", "sub": ["and thank the means too"]}
+    ]
+  },
+  "key": {
+    "label": "Who really helped me?",
+    "row": [
+      {"box": "trap", "title": "That person saved me", "sub": ["so I depend on them"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "Allah benefited me through them", "sub": ["so I depend on Him"]}
+    ]
+  },
+  "knowing": [
+    "An-Nafi' is the One who benefits. The name is in the well-known list in Jami' al-Tirmidhi, said together with Ad-Darr as Ad-Darr An-Nafi'. The Quran says that if Allah intends good for you, no one can repel His bounty (10:107), and asks: who could do anything for you against Allah if He intended harm or benefit for you (48:11)?",
+    "Means are real, but they are not independent. Medicine heals by His permission; food nourishes because He put nourishment in it; a teacher teaches what He opened to them. {idea}The means are the pipes; An-Nafi' is the spring.{/idea} Our mistake is to treat the doctor, the boss or the pharmacist as the source, and then to be crushed when they let us down.",
+    "When people help you, they give from what they were given, and they often need something back. Allah benefits with no need of anything from you. The greatest benefit He gives is not money but guidance and knowledge that changes the heart. The Prophet ﷺ even sought refuge with Allah from knowledge that does not benefit (Sahih Muslim)."
+  ],
+  "seeing": [
+    "Look at rain reviving dead earth, bees turning flowers into a healing drink, sleep repairing a tired body overnight. Every one of these benefits has a means, and behind every means is An-Nafi'.",
+    "Ibrahim described his Lord as the One who feeds him and gives him drink, and who cures him when he is ill (26:79-80). He saw the bread and the water and the cure, and looked straight through them to the Giver. In contrast the Quran asks: do you worship besides Allah what has no power to harm or benefit you (5:76)? Idols then and idols now, whether status, a person or a bank balance, cannot benefit you on their own."
+  ],
+  "trusting": [
+    "The Prophet ﷺ told Ibn Abbas that if the whole nation gathered to benefit him with something, they could not benefit him except with what Allah had already written for him (Jami' al-Tirmidhi). {reward}You can stop flattering people for favours.{/reward} Be polite, work hard, ask properly, and know that the outcome is His.",
+    "{trap}Feeling devastated when a helper lets you down{/trap} comes from forgetting that they were never the source. When a friend disappoints you, An-Nafi' has not changed. Turn to Him first for the job, the cure, the answer, and then use every good means He puts in front of you."
+  ],
+  "loving": [
+    "Count the good things that reached you this week: a meal, a kind message, a working body, a moment of peace. {idea}Each one was sent by Him, and when you trace them back to their source, gratitude turns into love.{/idea} And He invites you to share in this name by being of benefit to others."
+  ],
+  "now": "Payday arrives, and the notification lights up your screen. The relief is real: rent is covered. An-Nafi' sent this through your employer, your skills and your health, all of which He gave you. Before you spend anything, say alhamdulillah and send a small share to someone who needs it.",
+  "old": "I feel indebted to the people who help me, as if my good depended on them.",
+  "new": "Every benefit reaches me from Allah through whoever He chooses, so I thank them and depend only on Him.",
+  "try": "Thank one person today who helped you, and in your heart thank Allah who sent them.",
+  "dua": {
+    "text": "Ya Nafi', benefit me with what You have taught me, teach me what will benefit me, bless me through the people around me, and make me of benefit to others.",
+    "note": "Call on Him by this name together with Ad-Darr before any appointment, treatment or decision, asking Him first for the benefit you hope people will bring."
+  },
+  "pairs": [
+    {"slug": "ad-darr", "why": "He alone brings benefit and He alone allows harm; the two names are always said together."},
+    {"slug": "al-mani", "why": "He sends what helps and blocks what hurts: benefit and protection from one hand."},
+    {"slug": "ar-razzaq", "why": "Ar-Razzaq provides; An-Nafi' makes what He provides actually do you good."}
+  ],
+  "faq": [
+    {"q": "What does An-Nafi' mean?", "a": "An-Nafi' means the Bestower of Benefit. Every good that reaches any creature comes from Allah, and no one can block a benefit He has decreed. The name is in the well-known list in Jami' al-Tirmidhi and is always mentioned together with Ad-Darr."},
+    {"q": "If only Allah is An-Nafi', can people benefit us?", "a": "Yes, people and things are real means: doctors heal, teachers teach, food nourishes. But they benefit only by Allah's permission and only with what He has written. So a Muslim uses the means, thanks the people involved, and relies on Allah alone."},
+    {"q": "Why is An-Nafi' paired with Ad-Darr?", "a": "Together the names declare that Allah alone controls benefit and harm, so hope and fear belong to Him. The Prophet ﷺ taught Ibn Abbas that the whole nation could not benefit or harm him except with what Allah had written (Jami' al-Tirmidhi)."}
+  ],
+  "lessons": [2],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

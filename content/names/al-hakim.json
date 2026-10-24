@@ -1,0 +1,64 @@
+{
+  "slug": "al-hakim",
+  "title": "Nothing in your story is random, not even the waiting",
+  "subtitle": "Al-Hakim: the All-Wise who puts everything in its right place and time",
+  "intro": "Al-Hakim (الحكيم) means the All-Wise: the One who puts everything in its right place and time, whose every command, decree and creation is precise and purposeful, with nothing random in it. It matters because the parts of your life that make no sense yet are held by the One who never acts without wisdom.",
+  "root": {
+    "letters": "ح ك م",
+    "sense": "Hikmah, wisdom, shares its root with the hakamah, the bridle that steers a horse for its good, and with ihkam, firm and precise workmanship. Wisdom is the right thing, in the right place, at the right time, done with mastery. Al-Hakim joins judgment, wisdom and perfection in one name."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Three meanings in one name",
+    "row": [
+      {"box": "idea", "title": "The Wise", "sub": ["right thing, right place, right time"]},
+      {"box": "idea", "title": "The Ruler", "sub": ["His commands guide and restrain"]},
+      {"box": "idea", "title": "The Precise", "sub": ["nothing random, nothing flawed"]}
+    ]
+  },
+  "key": {
+    "label": "A painful chapter",
+    "row": [
+      {"box": "trap", "title": "This makes no sense", "sub": ["so it must be pointless"], "strike": true},
+      {"conn": "but"},
+      {"box": "idea", "title": "I was placed here for a reason", "sub": ["by Al-Hakim, not by chance"]}
+    ]
+  },
+  "knowing": [
+    "Al-Hakim is one of the names that most often closes a verse of the Quran, usually beside Al-Aziz, the Mighty, or Al-Alim, the Knowing. It carries three meanings together. He is the Wise, who puts every thing in its right place: firm when firmness is right, gentle when gentleness is right, giving and holding back at the right moment. He is the Ruler, whose commands are right. And He is the Precise, whose work is flawless. {idea}Nothing He does is random or chaotic; everything is exact.{/idea}",
+    "Why is it so often paired with Al-Aziz? Because power without wisdom becomes tyranny. History is full of rulers who had might and no wisdom, and they crushed people with it. Allah has all power and always knows where and how to use it. Paired with Al-Alim, it shows that knowledge alone is not enough; wisdom is knowing how and when to act on what you know.",
+    "Human wisdom is learned slowly through mistakes and is always partial. His wisdom is perfect and complete. He sees the end of every story from its beginning, and He never needs to correct course."
+  ],
+  "seeing": [
+    "Look at the family of Ya'qub. When his sons came back without Binyamin, years after losing Yusuf, Ya'qub chose patience and said that Allah is the Knowing, the Wise (12:83). Decades later, when the family was reunited, Yusuf looked back at the well, the slavery and the prison and said that his Lord is subtle in what He wills, the Knowing, the Wise (12:100). Every painful step had been placed.",
+    "When Musa saw the fire on his way back to Egypt, Allah introduced Himself as the Mighty, the Wise. Musa had lived through a river, a palace, an exile; all of it had prepared him for exactly this moment. And the words of Isa at the end of Surat al-Ma'idah close with these same two names: if You forgive them, You are the Mighty, the Wise (5:118). The Prophet ﷺ once stood a whole night repeating that verse (Sunan al-Nasa'i).",
+    "You see His wisdom in His law too. A road without traffic lights is chaos, and a machine run without its manual is ruined. Allah made us and gave us rules that fit how we are made."
+  ],
+  "trusting": [
+    "The redundancy, the marriage that has not come, the move you never wanted: these are not loose pieces. {reward}You do not need to understand the reason in order to trust that there is one.{/reward} Like Ya'qub, you can say: He is the Knowing, the Wise, and wait with patience.",
+    "When one of His commands feels heavy, remember who gave it. {trap}Judging His law only by what feels free right now{/trap} is like throwing away the manual because it says do not open the door mid-cycle. And wisdom asks something of you too: to act carefully, speak at the right time and put your own affairs in order."
+  ],
+  "loving": [
+    "The more you notice His wisdom, in the shape of a leaf, in a delay that saved you, in a door that closed before you walked into harm, the more trust grows into love. {idea}A heart that sees the Wise behind its story stops fighting its own life and starts thanking Him for it.{/idea}"
+  ],
+  "now": "You are carrying a cardboard box out of the office after the redundancy meeting, with a lanyard you no longer need on top. Nothing about today feels planned. Al-Hakim placed you in that job for exactly as long as it was good for you, and He is placing you now. Put the box in the car and say: my Lord is the Knowing, the Wise.",
+  "old": "When something painful happens that I cannot explain, I assume it is just pointless bad luck.",
+  "new": "Allah does nothing without wisdom, so every chapter, even the painful one, is placed exactly where it should be.",
+  "try": "Write down one past hardship that later turned out to be good for you, and thank Allah for the wisdom you can now see.",
+  "dua": {
+    "text": "Ya Hakim, You put everything in its right place. Place me where You are pleased with me, make me content with what You decree, and give me wisdom in what I say and do.",
+    "note": "Call on Him by this name when your life makes no sense, as Yusuf did when he looked back on his story and named his Lord the Knowing, the Wise (12:100)."
+  },
+  "pairs": [
+    {"slug": "al-aziz", "why": "Might joined to wisdom: He has all power and always knows where and how to use it."},
+    {"slug": "al-alim", "why": "He knows every detail and acts on it perfectly: complete knowledge joined to perfect wisdom."},
+    {"slug": "al-hakam", "why": "From the same root: Al-Hakim stresses His wisdom, Al-Hakam His final verdict between creation."}
+  ],
+  "faq": [
+    {"q": "What does Al-Hakim mean?", "a": "Al-Hakim means the All-Wise. Allah places everything in its right place and time, His commands are right and beneficial, and His creation is precise and free of flaws. Nothing He decrees is random. It is one of the names that most often closes a verse of the Quran."},
+    {"q": "Why do Al-Aziz and Al-Hakim come together so often?", "a": "Al-Aziz means Allah is Mighty and can never be overcome. Al-Hakim means He uses that might with perfect wisdom. Power without wisdom becomes tyranny, so the pairing shows that His strength is always guided by wisdom, and His wisdom is always backed by strength."},
+    {"q": "What is the difference between Al-Hakim and Al-Hakam?", "a": "Both come from the root ha-kaf-mim. Al-Hakam focuses on Allah as the Judge whose verdict settles every matter. Al-Hakim focuses on His wisdom and precision, putting everything where it belongs. His judgments are wise, and His wisdom shows in how He judges."}
+  ],
+  "lessons": [7, 13],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

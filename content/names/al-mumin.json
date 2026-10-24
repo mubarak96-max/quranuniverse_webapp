@@ -1,0 +1,64 @@
+{
+  "slug": "al-mumin",
+  "title": "The only insurance policy that never refuses a claim",
+  "subtitle": "How Allah gives safety from fear, and keeps every promise He makes",
+  "intro": "Al-Mu'min (الْمُؤْمِنُ) means the Giver of Safety, the One who grants security from fear and confirms His word by fulfilling His promises. It matters to you because so much of life is driven by fear, and this name tells you who actually keeps you safe.",
+  "root": {
+    "letters": "أ م ن",
+    "sense": "The root means safety and the calm that comes when fear leaves. Amn is security; amana is a trust kept safe; iman is faith, a heart that finds security in what it believes. So Al-Mu'min is the One who makes safe, and also the One who confirms the truth of His word."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "Three layers of safety from Al-Mu'min",
+    "row": [
+      {"box": "idea", "title": "His law", "sub": ["guards mind, life, family, wealth"]},
+      {"conn": "then"},
+      {"box": "people", "title": "His community", "sub": ["believers carry one another"]},
+      {"conn": "then"},
+      {"box": "reward", "title": "His protection hereafter", "sub": ["no fear, no grief"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "My safety is my backup plan", "sub": ["policies, savings, cutting corners"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "My safety is from Al-Mu'min", "sub": ["I take the means", "He gives the security"]}
+    ]
+  },
+  "knowing": [
+    "The name shares its letters with iman, which is why people ask how a word used for believers can be a name of Allah. Imam at-Tabari gave two meanings. First, {idea}He is the One who gives safety{/idea}: He secures His creation from injustice on His part, and His servants from fear. Second, He is the One who confirms: He proves His messengers true with signs, and when He promises, it happens. Most scholars put the first meaning forward.",
+    "Human beings are moved by two forces: hope of reward and fear of harm. Fear is the heavier of the two. Al-Mu'min speaks straight to it. Whatever you dread, there is One who can make you safe from it, and no one can make you safe from Him except Him.",
+    "His safety is not like ours. People offer protection with conditions, limits and fine print. Al-Mu'min protects what no guard can reach: your heart in the night, your faith at the moment of death, your soul on the Day when everyone is afraid."
+  ],
+  "seeing": [
+    "When Ibrahim left his family in a barren valley, one of his first prayers was: My Lord, make this a secure land (2:126). He had no backup plan, only Al-Mu'min. And the Quran reminds Quraysh that it was Allah who fed them against hunger and made them safe from fear (106:4).",
+    "When his people threatened Ibrahim with their idols, he asked them which side truly deserved to feel safe (6:81). The answer came: those who believe and do not mix their faith with wrongdoing, they are the ones who have security (6:82). The same was true of the believers who were told an army had gathered against them; it only increased their faith, and they said Hasbunallah (3:173)."
+  ],
+  "trusting": [
+    "Look at how much of modern life is built on fear of what might happen: insurance for the car, the house, the phone, the body. Taking such means is not wrong. But {trap}when the policy becomes your real source of safety, you never feel safe enough{/trap}, and some people even cut corners, lie or cheat to feel secure. Ibrahim, with nothing in his hands, was the safest man on earth.",
+    "Al-Mu'min gives safety in layers. His law protects your mind, life, family and wealth from harm, even from yourself. His community is a second shelter: when someone loses a job, believers are meant to find him work, a CV, a loan. And His final protection is from the Fire. {reward}Hand Him your fear and work with the means He allowed{/reward}; tie your camel, and then sleep.",
+    "One balance matters. Feel safe in your worldly affairs because He is your protector, but never feel smug about your faith. The believers do good and still fear it may not be accepted. Real safety is to keep running to Him, not to assume you have arrived."
+  ],
+  "loving": [
+    "A small child running from a frightening dog does not think; he runs to the arms that make him safe, and loves them for it. {idea}Al-Mu'min is the One you run to{/idea}. He made the world's first sanctuary, He guards you while you sleep, and He promises a Home where fear never enters. Love grows easily for the One who makes you feel safe."
+  ],
+  "now": "The redundancy letter is on the kitchen table and your mind is already running through rent, the car payment and the school fees. Before you open the spreadsheet, say Hasbunallahu wa ni'mal-wakil. Al-Mu'min is still guarding your family tonight. Then make the calls.",
+  "old": "I only feel safe when every possible risk is covered.",
+  "new": "My real safety comes from Al-Mu'min; my plans are means, not my protector.",
+  "try": "Check on one person in your community who is going through a hard time and offer something concrete: a lift, a meal, a contact.",
+  "dua": {
+    "text": "Ya Mu'min, Giver of safety, cover my fears, keep my family safe, guard my faith until my last breath, and make me secure on the Day when hearts tremble.",
+    "note": "Call on Him by this name when fear grips you, as Ibrahim did when he asked Allah to make his family's land secure (2:126)."
+  },
+  "pairs": [
+    {"slug": "al-muhaymin", "why": "Al-Mu'min grants safety; Al-Muhaymin watches over and surrounds what He protects. They came side by side in 59:23."},
+    {"slug": "as-salam", "why": "As-Salam is the source of peace; Al-Mu'min turns it into active security against what you fear."}
+  ],
+  "faq": [
+    {"q": "What does Al-Mu'min mean as a name of Allah?", "a": "Al-Mu'min means the Giver of Safety, the One who grants security and removes fear. Scholars also mention a second meaning: the One who confirms, proving His messengers true and fulfilling His promises. It appears in the Quran once, in 59:23."},
+    {"q": "Why is Allah called Al-Mu'min if believers are also called mu'min?", "a": "The word comes from the root of safety and trust. When said of a person, it means one who believes and trusts. When said of Allah, it means the One who gives safety and confirms His word. The same root carries different meanings depending on who it describes."}
+  ],
+  "lessons": [29],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

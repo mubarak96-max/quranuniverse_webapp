@@ -1,0 +1,63 @@
+{
+  "slug": "al-jami",
+  "title": "What has been scattered, He knows how to bring together",
+  "subtitle": "Al-Jami': the Gatherer of all people, of all things, and of broken hearts",
+  "intro": "Al-Jami' (الْجَامِعُ) means The Gatherer: the One who will gather all of humanity on a Day about which there is no doubt, who holds together the countless things of creation, and who brings together hearts and people after they have been scattered. For you it means that no separation, no scattered life and no unanswered wrong is beyond Him.",
+  "root": {
+    "letters": "ج م ع",
+    "sense": "Jam' means to bring separate things together into one place or one whole. A jami' is a mosque where people gather for Friday prayer, and jama'ah is a gathered group. Al-Jami' is the One who brings together what is spread out, near or far, seen or unseen."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What Al-Jami' brings together",
+    "row": [
+      {"box": "people", "title": "All humanity", "sub": ["first and last, on one plain", "not one left behind"]},
+      {"box": "idea", "title": "All of creation", "sub": ["opposites held in balance", "every scattered atom known"]},
+      {"box": "reward", "title": "Hearts and families", "sub": ["the estranged reconciled", "the separated reunited"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "Too far apart now", "sub": ["the family is broken", "we will never be together"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "He gathers the scattered", "sub": ["here, or on the Day", "nothing is too far for Him"]}
+    ]
+  },
+  "knowing": [
+    "The believers who are firm in knowledge pray: our Lord, You will surely gather the people for a Day about which there is no doubt; Allah does not break His promise (3:9). {idea}Al-Jami' will bring every human being, from the first to the last, to one place{/idea}, with no one missing and no one forgotten (18:47, 56:49-50). The Quran calls it the Day of Gathering (64:9).",
+    "Scholars also explain the name more widely. He gathers opposites in creation and holds them in balance: heat and cold, water and fire, life and death, all working together without destroying the world. He gathers every quality of perfection in Himself. And He gathers what is scattered: dust that was once a body, people who were driven apart, and the details of every deed.",
+    "Only He can gather hearts. If you had spent all that is on earth, you could not have united their hearts, but Allah united them (8:63). {reward}Money, effort and clever words cannot make two hearts one; Al-Jami' can{/reward}."
+  ],
+  "seeing": [
+    "Ya'qub lost Yusuf, and years later lost his second son too. His other sons thought he was finished. Instead he said: patience is most fitting; perhaps Allah will bring them all back to me together (12:83). He knew from Allah what they did not know (12:86). And Allah did. The final scene shows the whole family gathered, the parents raised on the throne, and Yusuf saying that Allah brought them together after Shaytan had come between him and his brothers (12:100).",
+    "Our Lord will bring us together, then judge between us in truth (34:26). {reward}The gathering on the Day is not only a reckoning but the place where every dispute is finally settled with justice{/reward}."
+  ],
+  "trusting": [
+    "Families split over inheritance, harsh words, distance, years of silence. Friends drift. Some people you love are now on the other side of the world, or the other side of the grave. {trap}It is easy to decide that what is scattered will stay scattered{/trap}. Ya'qub decided otherwise because he knew Al-Jami'. Make the dua, take the small step, and leave the gathering to Him.",
+    "It also helps with a scattered life. When your thoughts, duties and worries are pulled in every direction, ask Al-Jami' to gather your heart on what matters. And when someone has wronged you and disappeared, remember that you will both be gathered before Him, and nothing will be lost."
+  ],
+  "loving": [
+    "We love whoever brings us back to the people we love. Al-Jami' promises the believers that those who were parted for His sake, and families who walked His path, will be gathered again where there are no more partings. {reward}Hope in that reunion is one of the sweetest fruits of knowing Him{/reward}."
+  ],
+  "now": "It is Eid morning and there is an empty chair at the table again: a brother who has not spoken to the family in four years. You look at his name in your phone, thumb hovering. Send the message and make the dua. Al-Jami' brought Ya'qub's family back together after many years.",
+  "old": "When people I love are scattered or estranged, I assume that is how it will stay.",
+  "new": "Al-Jami' gathers what is scattered, in this life or on the Day, so I keep hoping and keep praying.",
+  "try": "Send one kind message today to a relative you have drifted from, and make dua for your family to be gathered together in Paradise.",
+  "dua": {
+    "text": "Ya Jami', gather my scattered heart upon You, bring together my family upon goodness, and gather us all in Your Paradise.",
+    "note": "The dua of the firmly grounded in 3:9 calls on Allah as the One who will gather the people for a Day of no doubt."
+  },
+  "pairs": [
+    {"slug": "al-baith", "why": "Al-Ba'ith raises the dead from their graves; Al-Jami' gathers them together on one plain."},
+    {"slug": "al-hakam", "why": "He gathers people and then judges between them in truth, as 34:26 says."},
+    {"slug": "al-muqsit", "why": "In the well-known list, Al-Muqsit comes just before Al-Jami': He gathers everyone and gives each their due."}
+  ],
+  "faq": [
+    {"q": "What does Al-Jami' mean?", "a": "Al-Jami' means The Gatherer. Allah will gather all people on the Day of Judgment, He holds together the many and opposite things of creation, and He brings together hearts and people after they have been separated."},
+    {"q": "Where does Al-Jami' come from in the Quran?", "a": "It is taken from verses like 3:9, where believers say: our Lord, You will gather the people for a Day about which there is no doubt. The Quran also calls the Day of Judgment the Day of Gathering (64:9). The name is in the well-known list narrated by at-Tirmidhi."},
+    {"q": "What dua can I make with Al-Jami' for a broken family?", "a": "You can call on Allah by this name, asking Him to unite your family's hearts and gather you together in goodness and in Paradise. The Quran reminds us that only Allah can unite hearts (8:63), and Ya'qub's hope in 12:83 shows how to keep asking."}
+  ],
+  "lessons": [31],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "ar-rashid",
+  "title": "Every decision He makes is the right one",
+  "subtitle": "Ar-Rashid: the One whose every act is sound, who steers all things to their right end",
+  "intro": "Ar-Rashid (الرَّشِيدُ) means the Rightly Directing: the One whose every decree and act is sound and wise, who steers all affairs to their right end without needing anyone's advice, and who guides His servants to right judgement. When you cannot tell which choice is right, you are turning to the One who never makes a wrong one.",
+  "root": {
+    "letters": "ر ش د",
+    "sense": "Rushd is being on the right course: sound judgement, maturity, choosing what truly leads to good. It is the opposite of ghayy, drifting into error. The Quran uses it for an orphan mature enough to manage his wealth. Ar-Rashid is the One whose direction of all things is perfectly sound."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "How Ar-Rashid directs",
+    "row": [
+      {"box": "idea", "title": "Sound in Himself", "sub": ["no error in His decree", "no need for advice"]},
+      {"conn": "steers"},
+      {"box": "idea", "title": "Every affair", "sub": ["toward its right end", "by a wise plan"]},
+      {"conn": "and grants"},
+      {"box": "reward", "title": "Rushd to His servants", "sub": ["right judgement", "in their own choices"]}
+    ]
+  },
+  "key": {
+    "label": "What this name corrects",
+    "row": [
+      {"box": "trap", "title": "This turn of events is a mistake", "sub": ["it should not have happened", "my plans were better"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "His direction is sound", "sub": ["even when I cannot see why", "the end will show it"]}
+    ]
+  },
+  "knowing": [
+    "Al-Hadi shows the way and moves the heart to take it. {idea}Ar-Rashid speaks of the soundness of His own direction{/idea}: every decree He makes, every turn He gives to events, is right, and leads to its proper end. He does not plan by trial and error, does not consult, and never has to correct Himself.",
+    "From that soundness He gives rushd to His servants: the ability to judge well and choose rightly. The right course has become clear from error (2:256). Allah gave Ibrahim his rushd early (21:51). Musa, a great prophet, still asked a servant of Allah to teach him some of the rushd he had been taught (18:66). {reward}Right judgement is a gift you can ask for{/reward}.",
+    "The name Ar-Rashid is not found in this exact form in the Quran; it is in the well-known list narrated by at-Tirmidhi, and its meaning runs through the Quran's language of rushd."
+  ],
+  "seeing": [
+    "Surah al-Kahf is full of this word. The young men fleeing to the cave prayed: our Lord, grant us mercy from Yourself and prepare for us right guidance in our affair (18:10). Whoever Allah guides is truly guided, and whoever He leaves astray will find no guardian to direct him rightly (18:17). The Prophet ﷺ was taught to say: perhaps my Lord will guide me to what is nearer than this to right conduct (18:24).",
+    "Then Musa travels with the servant of Allah. A boat is damaged, a boy is killed, a wall is rebuilt for free, and each act looks wrong. At the end the reasons appear: a tyrant seizing good boats, parents protected, two orphans' treasure kept safe until they came of age (18:79-82). {reward}What looked like disorder was the right course all along{/reward}."
+  ],
+  "trusting": [
+    "Big decisions can paralyse you: which job, which person to marry, whether to move. {trap}You fear one wrong choice will ruin everything, as if the whole outcome rests on your judgement{/trap}. The Prophet ﷺ taught the istikharah prayer, recorded in Sahih al-Bukhari, in which you ask Allah by His knowledge and power to decree what is good for your religion, your life and your end, and to turn you away from what is not. You do your research, pray, decide, and leave the steering to Ar-Rashid.",
+    "It also helps when events go against your plans. Perhaps you hate a thing and it is good for you, and perhaps you love a thing and it is bad for you; Allah knows and you do not (2:216). You may not see the reason this year, or ever in this life. But the One who steers it never steers wrong."
+  ],
+  "loving": [
+    "We grow to love people whose judgement we can always trust. Ar-Rashid has never once made a wrong decision about you. {reward}When you look back and see how He steered you past things you begged for and toward things you feared, love and trust grow together{/reward}."
+  ],
+  "now": "Two job offers sit in your inbox, and you have made a spreadsheet, asked five friends, and still cannot sleep. Tonight, pray two rak'ahs of istikharah, ask Ar-Rashid to choose what is right for your faith and your future, then make your decision and rest. He is steering.",
+  "old": "I feel that everything depends on me making exactly the right decision.",
+  "new": "I decide as wisely as I can, and Ar-Rashid steers the outcome to its right end.",
+  "try": "Learn the istikharah dua from Sahih al-Bukhari and use it for one decision you are facing this week, however small.",
+  "dua": {
+    "text": "Ya Rashid, grant me mercy from You and prepare for me right guidance in my affair. Choose for me, and make me pleased with what You choose.",
+    "note": "This echoes the dua of the young men of the cave in 18:10; call on Him by this name before any decision and alongside istikharah."
+  },
+  "pairs": [
+    {"slug": "al-hadi", "why": "Al-Hadi shows the path and opens the heart to it; Ar-Rashid steers every affair to its right end."},
+    {"slug": "al-hakim", "why": "His direction is always sound because it comes from perfect wisdom."},
+    {"slug": "al-alim", "why": "Istikharah asks Ar-Rashid to choose by His knowledge, because He knows and we do not."}
+  ],
+  "faq": [
+    {"q": "What does Ar-Rashid mean?", "a": "Ar-Rashid means the Rightly Directing, the One whose every act and decree is sound and who steers all affairs to their right end with wisdom. He also guides His servants to rushd, right judgement and the correct course."},
+    {"q": "Is Ar-Rashid mentioned in the Quran?", "a": "Not in this exact form as a name of Allah. It appears in the well-known list of names narrated by at-Tirmidhi, and its meaning is drawn from the Quran's frequent use of rushd, for example in 18:10, 18:17 and 72:10."},
+    {"q": "What is the difference between Al-Hadi and Ar-Rashid?", "a": "Al-Hadi is the Guide who shows the way and places guidance in the heart. Ar-Rashid highlights the soundness of His own direction: everything He decrees and does is right and leads to its proper end, and He grants right judgement to His servants."}
+  ],
+  "lessons": [],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

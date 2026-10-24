@@ -1,0 +1,64 @@
+{
+  "slug": "al-hayy",
+  "title": "He is never offline, even at 2am",
+  "subtitle": "The Ever-Living whose life is perfect, active and without end",
+  "intro": "Al-Hayy (الْحَيُّ) means the Ever-Living: Allah has perfect life with no beginning and no end, untouched by death, sleep, weakness or decline, and from that life flow His hearing, seeing, knowing and acting. It matters to you because everyone you lean on will one day be gone, and He will not.",
+  "root": {
+    "letters": "ح ي ي",
+    "sense": "The root means to be alive, and hayat is life. Doctors check for a pulse; people once laid a hand on the chest. Life shows itself in movement and action, death in stillness. Said of Allah, al-Hayy means life in its fullest form: always active, never fading, never ceasing."
+  },
+  "picture": {
+    "kind": "boxes",
+    "label": "What His life means",
+    "row": [
+      {"box": "idea", "title": "No beginning, no end", "sub": ["He never dies"]},
+      {"conn": "so"},
+      {"box": "idea", "title": "Always active", "sub": ["hearing, seeing, acting now"]},
+      {"conn": "so"},
+      {"box": "reward", "title": "Always there for you", "sub": ["no queue, no closing time"]}
+    ]
+  },
+  "key": {
+    "label": "The turning point",
+    "row": [
+      {"box": "trap", "title": "God made the world and stepped back", "sub": ["a sleeping partner"], "strike": true},
+      {"conn": "becomes"},
+      {"box": "idea", "title": "The Living is active every moment", "sub": ["every day He is about a matter"]}
+    ]
+  },
+  "knowing": [
+    "Al-Hayy has life unlike any created life. Ours is borrowed, has a start, depends on food, sleep and breath, and ends. {idea}His life is His own, perfect, without beginning, without end, and without any weakness{/idea}. The Quran pairs it with a reminder: the Living who does not die (25:58).",
+    "Scholars noted that this name is the root of many others. Only a living being can hear, see, know, will and act. Because His life is perfect, His hearing, seeing, knowledge and power are perfect too. That is one reason some scholars, among them Ibn al-Qayyim, held that Al-Hayy al-Qayyum, which open the greatest verse of the Quran (2:255), may be His greatest name.",
+    "Al-Hayy and Al-Qayyum usually come together. Al-Hayy is about who He is: perfectly alive. Al-Qayyum is about what that life does for everything else: it holds all things in existence and keeps them running."
+  ],
+  "seeing": [
+    "A few centuries ago many people began to describe God as a watchmaker who built the world and walked away, like a phone manufacturer who never thinks about your phone again. From there it was a short step to ignoring Him altogether. The Quran describes the opposite: everyone in the heavens and the earth asks Him, and every day He is about a matter (55:29). Every snowflake and fingerprint is new. Nothing is mass-produced and forgotten.",
+    "On the day the Prophet ﷺ died, many companions could not accept it. Abu Bakr stood and said, as reported in Sahih al-Bukhari: whoever worshipped Muhammad, Muhammad has died; and whoever worships Allah, Allah is Ever-Living and does not die. The most beloved of people had gone, and the Living was still there."
+  ],
+  "trusting": [
+    "People are unreliable not because they are bad but because they are alive in a limited way. They sleep, get sick, get busy, move away and die. So {trap}you hold back from calling anyone at 2am when your car breaks down on the motorway, not wanting to bother them{/trap}. Al-Hayy has no hours. He is not tired, asleep, in a queue or away. That is why the Quran says: rely on the Living who does not die (25:58).",
+    "It also cures a quiet illusion. We see a bell ring and food arrive, a boss sign and the salary appear, and we think one causes the other. {reward}Behind every cause is the Living, acting in every moment{/reward}. When you know that, you thank the people who helped you and you thank Him more, and when a cause fails you, you know the real Provider has not."
+  ],
+  "loving": [
+    "Every human love carries the ache of an ending. Parents age, friends drift, and one day we bury the people we cannot imagine living without. {idea}Al-Hayy is the one love that can never be taken from you by death{/idea}. Loving Him is the only attachment that does not end in a funeral, and it gives you strength to love everyone else without being destroyed when they go."
+  ],
+  "now": "It is 2am, the house is silent, and the worry you could not mention to anyone in the day has come back. Everyone you might call is asleep. He is not. Sit up, turn to Him and say Ya Hayyu ya Qayyum. You are not disturbing anyone; you are speaking to the One who never sleeps.",
+  "old": "I do not want to bother anyone with this; everyone is busy or asleep.",
+  "new": "Al-Hayy is never asleep and never too busy, so I can turn to Him at any hour.",
+  "try": "Tonight, before sleeping, tell Allah one thing you have been keeping to yourself because you did not want to burden anyone.",
+  "dua": {
+    "text": "Ya Hayyu ya Qayyum, by Your mercy I seek help. You are the Living who never dies; let my heart lean on You and not on anything that will pass away.",
+    "note": "Jami' at-Tirmidhi reports that when something distressed the Prophet ﷺ he would say: Ya Hayyu ya Qayyum, bi rahmatika astaghith."
+  },
+  "pairs": [
+    {"slug": "al-qayyum", "why": "Al-Hayy is His perfect life; Al-Qayyum is that life holding everything else in existence. They open 2:255 and 3:2 together."},
+    {"slug": "al-baqi", "why": "Al-Hayy has perfect, unending life; Al-Baqi remains when everything else has perished."}
+  ],
+  "faq": [
+    {"q": "What does Al-Hayy mean?", "a": "Al-Hayy means the Ever-Living: Allah has perfect life with no beginning or end, free of death, sleep and weakness. His hearing, seeing, knowledge and power all stem from that perfect life. It opens Ayat al-Kursi (2:255) together with Al-Qayyum."},
+    {"q": "Is Al-Hayy al-Qayyum the greatest name of Allah?", "a": "The Prophet ﷺ spoke of a greatest name of Allah without fixing it with certainty, and scholars held several views. One well-known view, held by Ibn al-Qayyim among others, is that it is Al-Hayy al-Qayyum, which appears in 2:255, 3:2 and 20:111."},
+    {"q": "How is Allah's life different from ours?", "a": "Human life is given, depends on food, breath and sleep, has a beginning and ends in death. Allah's life is His own, without beginning or end, needing nothing and never weakening. We affirm it as befits His majesty, without likening it to the life of creation."}
+  ],
+  "lessons": [3],
+  "meta": {"version": 1, "status": "draft", "reviewer": null, "updated": "2026-10-24"}
+}

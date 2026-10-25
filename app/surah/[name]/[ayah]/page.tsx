@@ -60,7 +60,7 @@ export default async function VersePage({ params }: { params: Params }) {
   const nextAt = ayah < surah.total_verses ? [id, ayah + 1] : id < 114 ? [id + 1, 1] : null;
 
   return (
-    <div className="verse-page">
+    <div className="verse-page quran-verse-page">
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href="/">Surahs</Link>
         <span aria-hidden="true">/</span>
@@ -68,6 +68,12 @@ export default async function VersePage({ params }: { params: Params }) {
         <span aria-hidden="true">/</span>
         <span>Verse {ayah}</span>
       </nav>
+
+      <header className="verse-heading">
+        <span className="ornament" aria-hidden="true" />
+        <h1>Surah {surah.transliteration}</h1>
+        <p>{key}</p>
+      </header>
 
       <section className="verse-block">
         <span className="vkey">{key}</span>

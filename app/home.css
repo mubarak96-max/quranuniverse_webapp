@@ -1,74 +1,119 @@
-/* Home hero: copy and CTA on the left, a 3x3 grid of popular surahs on the right. */
+body:has(.home) {
+  --home-teal: color-mix(in srgb, var(--idea) 18%, var(--bg));
+  --home-sage: color-mix(in srgb, var(--new) 11%, var(--bg));
+  --home-gold: color-mix(in srgb, var(--rewardSoft) 60%, var(--bg));
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(ellipse 55% 430px at 52% 60px, var(--home-teal), transparent 80%),
+    radial-gradient(ellipse 55% 540px at 0% 720px, var(--home-teal), transparent 80%),
+    radial-gradient(ellipse 50% 460px at 86% 540px, var(--home-gold), transparent 85%),
+    radial-gradient(ellipse 65% 480px at 95% 1350px, var(--home-teal), transparent 85%),
+    radial-gradient(ellipse 60% 500px at 10% 1580px, var(--home-gold), transparent 85%),
+    radial-gradient(ellipse 70% 850px at 90% 48%, var(--home-sage), transparent 85%),
+    radial-gradient(ellipse 70% 900px at 0% 72%, var(--home-teal), transparent 85%),
+    radial-gradient(ellipse 75% 650px at 70% 100%, var(--home-gold), transparent 85%);
+}
+
+body:has(.home) .site-header {
+  background: color-mix(in srgb, var(--bg) 72%, transparent);
+  border-bottom-color: color-mix(in srgb, var(--ornament) 16%, transparent);
+}
+
+body:has(.home) .site-footer {
+  background: transparent;
+  border-top-color: color-mix(in srgb, var(--ornament) 40%, transparent);
+}
+
+.home {
+  --muted: color-mix(in srgb, #62716b 82%, var(--fg));
+  --line: color-mix(in srgb, var(--ornament) 27%, var(--page));
+}
+
+:root[data-theme="dark"] .home {
+  --muted: #b1bdb3;
+}
+
+.home .home-icon {
+  width: 28px;
+  height: 28px;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   align-items: center;
   gap: clamp(32px, 5vw, 72px);
-  padding: clamp(20px, 5vw, 56px) 0 clamp(40px, 7vw, 72px);
+  padding: clamp(20px, 5vw, 56px) 0 clamp(40px, 6vw, 64px);
 }
 
-.hero-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
+.hero-eyebrow,
+.reflection-source {
   margin: 0;
-  padding: 8px 16px 8px 12px;
-  border: 1px solid color-mix(in srgb, var(--idea) 22%, var(--line));
-  border-radius: 999px;
-  background: var(--ideaBg);
-  font-size: 14px;
-  font-weight: 500;
-}
-
-.hero-pill::before {
-  content: "";
-  flex: none;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--idea);
-  box-shadow: 0 0 0 4px color-mix(in srgb, var(--idea) 18%, transparent);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--reward);
 }
 
 .hero h1 {
   font-family: var(--display);
-  font-size: clamp(40px, 5.2vw, 68px);
+  font-size: clamp(40px, 4.6vw, 62px);
   font-weight: 500;
-  letter-spacing: -0.03em;
-  line-height: 1.05;
+  letter-spacing: -0.04em;
+  line-height: 1.08;
   margin: 24px 0 20px;
   text-wrap: balance;
 }
 
 .hero h1 em {
-  display: block;
-  font-style: italic;
-  color: var(--idea);
+  font-style: normal;
 }
 
 .hero .lede {
   margin: 0;
   max-width: 46ch;
+  font-family: var(--display);
+  font-size: clamp(19px, 2vw, 23px);
+  line-height: 1.5;
 }
 
 .hero-cta {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
   height: 52px;
   margin-top: 32px;
   padding: 0 28px;
-  border-radius: 14px;
-  background: var(--idea);
+  border-radius: 999px;
+  background: linear-gradient(115deg, color-mix(in srgb, var(--idea) 88%, var(--fg)), var(--idea));
   color: var(--page);
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 500;
   transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
 }
 
 .hero-cta:hover {
   transform: translateY(-2px);
-  box-shadow: 0 12px 28px -10px color-mix(in srgb, var(--idea) 60%, transparent);
+  box-shadow: 0 8px 22px -12px color-mix(in srgb, var(--idea) 55%, transparent);
+}
+
+.hero-cta:active {
+  transform: translateY(0);
+}
+
+.hero-meta {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+  margin: 20px 0 0;
 }
 
 .hero-tiles {
@@ -77,23 +122,23 @@
   padding: 0;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: clamp(10px, 1.6vw, 18px);
+  gap: 12px;
 }
 
 .hero-tiles a {
   position: relative;
   height: 100%;
-  min-height: 164px;
+  min-height: 160px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 4px;
-  padding: 34px 10px 16px;
+  gap: 2px;
+  padding: 14px 8px 26px;
   text-align: center;
   background: var(--page);
   border: 1px solid var(--line);
-  border-radius: 16px;
+  border-radius: 12px;
   box-shadow: var(--shadow);
   transition: transform 0.3s var(--ease), border-color 0.2s;
 }
@@ -105,31 +150,40 @@
 
 .hero-tiles .ar {
   font-size: clamp(24px, 2.6vw, 32px);
-  line-height: 1.5;
-  color: var(--idea);
+  line-height: 1.35;
+  color: var(--fg);
+}
+
+.hero-tiles .num {
+  width: 32px;
+  height: 32px;
+  margin-bottom: 4px;
+  font-size: 10px;
+  color: var(--ornament);
+}
+
+.hero-tiles .num > span {
+  color: var(--fg);
 }
 
 .hero-tiles b {
-  font-size: 15px;
-  font-weight: 600;
+  font-family: var(--display);
+  font-size: 17px;
+  font-weight: 500;
 }
 
 .hero-tiles small {
-  font-size: 12.5px;
+  font-size: 11px;
+  line-height: 1.4;
   color: var(--muted);
 }
 
 .hero-tag {
   position: absolute;
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  padding: 3px 6px;
-  border-radius: 6px;
-  background: var(--reward);
-  color: var(--page);
-  font-size: 11.5px;
-  font-weight: 600;
+  bottom: 8px;
+  color: var(--reward);
+  font-size: 10px;
+  font-weight: 500;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -142,12 +196,15 @@
 }
 
 @media (max-width: 520px) {
+  .hero-tiles {
+    gap: 8px;
+  }
   .hero-tiles a {
-    min-height: 132px;
-    padding: 30px 6px 12px;
+    min-height: 142px;
+    padding: 12px 4px 24px;
   }
   .hero-tiles b {
-    font-size: 13.5px;
+    font-size: 15px;
   }
   .hero-tiles small {
     display: none;
@@ -163,42 +220,244 @@
 }
 
 .module {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  padding: 20px 22px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 54px minmax(0, 1fr);
+  align-content: start;
+  column-gap: 16px;
+  row-gap: 6px;
+  padding: 24px 22px 48px;
   background: var(--page);
   border: 1px solid var(--line);
-  border-radius: 18px;
+  border-radius: 16px;
   transition: transform 0.3s var(--ease), border-color 0.2s, box-shadow 0.3s var(--ease);
 }
 
+.module::after {
+  content: "→";
+  position: absolute;
+  right: 24px;
+  bottom: 14px;
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--rewardBg);
+  color: var(--reward);
+}
+
 .module:hover {
-  transform: translateY(-3px);
   border-color: color-mix(in srgb, var(--idea) 45%, var(--line));
   box-shadow: var(--shadow);
 }
 
-.module .ar {
-  font-size: 26px;
-  line-height: 1.5;
+.home .module-icon {
+  grid-row: span 2;
+  display: grid;
+  place-items: center;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background: var(--rewardBg);
   color: var(--reward);
 }
 
 .module b {
   font-family: var(--display);
-  font-size: 22px;
+  font-size: 23px;
   font-weight: 500;
+  align-self: end;
 }
 
 .module small {
-  font-size: 14px;
+  grid-column: 2;
+  max-width: 31ch;
+  font-size: 13px;
   color: var(--muted);
+  line-height: 1.6;
+}
+
+.home-reflection {
+  margin-bottom: clamp(40px, 6vw, 64px);
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 22px;
+}
+
+.section-heading h2 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(30px, 3.5vw, 40px);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+
+.section-rule {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  gap: 12px;
+}
+
+.section-rule::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--line);
+}
+
+.section-rule .ornament {
+  width: 26px;
+  height: 26px;
+  color: var(--ornament);
+}
+
+.reflection-panel {
+  background: var(--page);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: clamp(22px, 3vw, 36px);
+  box-shadow: var(--shadow);
+}
+
+.reflection-source {
+  display: inline-block;
+  padding: 8px 0;
+}
+
+.reflection-source:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.reflection-panel blockquote {
+  margin: 24px auto 32px;
+  max-width: 58ch;
+  text-align: center;
+  font-family: var(--display);
+  font-size: clamp(24px, 2.7vw, 32px);
   line-height: 1.45;
+  text-wrap: balance;
+}
+
+.reflection-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid var(--line);
+  padding-top: 24px;
+  gap: 24px;
+}
+
+.reflection-steps a {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.reflection-steps a + a {
+  border-left: 1px solid var(--line);
+  padding-left: 24px;
+}
+
+.home .reflection-steps .home-icon {
+  color: var(--reward);
+}
+
+.home .surah-tile {
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+}
+
+.home .surah-tile::after {
+  content: "→";
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--rewardBg);
+  color: var(--reward);
+}
+
+.home .surah-tile .names b {
+  font-family: var(--display);
+  font-size: 19px;
+  font-weight: 500;
+}
+
+@media (min-width: 721px) and (max-width: 1000px) {
+  .home .module {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .home .module-icon {
+    grid-row: auto;
+    margin-bottom: 8px;
+  }
+
+  .home .module small {
+    grid-column: 1;
+  }
+}
+
+.reflection-steps b,
+.reflection-steps small {
+  display: block;
+}
+
+.reflection-steps b {
+  font-family: var(--display);
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.reflection-steps small {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.reflection-arrow {
+  color: var(--idea);
+  margin-left: auto;
+}
+
+.reflection-steps a:hover b {
+  color: var(--idea);
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
 
 @media (max-width: 720px) {
-  .modules {
+  .modules,
+  .reflection-steps,
+  .home .surah-grid {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  .reflection-steps a + a {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: 20px 0 0;
+  }
+
+  .section-heading {
+    gap: 12px;
+  }
+
+  .section-rule::after {
+    display: none;
+  }
+}
+
+@media (max-width: 520px) {
+  .home .surah-tile::after {
+    display: none;
   }
 }

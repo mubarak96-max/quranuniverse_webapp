@@ -17,8 +17,8 @@
   content: "";
   position: absolute;
   inset: 0 0 auto;
-  height: 3px;
-  background: linear-gradient(90deg, var(--idea), var(--reward) 70%, transparent);
+  height: 2px;
+  background: color-mix(in srgb, var(--ornament) 55%, var(--line));
 }
 
 .card-top {

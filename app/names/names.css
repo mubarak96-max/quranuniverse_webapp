@@ -1,14 +1,53 @@
 /* ---------- names index ---------- */
+body:has(.names-page) {
+  background-image: radial-gradient(ellipse 580px 280px at 50% 180px,
+    color-mix(in srgb, var(--idea) 12%, var(--bg)), transparent);
+  background-repeat: no-repeat;
+}
+
+.names-page {
+  position: relative;
+  isolation: isolate;
+  --line: color-mix(in srgb, var(--ornament) 35%, var(--page));
+}
+
+.names-page::before,
+.names-page::after {
+  content: "";
+  position: absolute;
+  top: -48px;
+  width: clamp(72px, 16vw, 190px);
+  height: 240px;
+  z-index: -1;
+  pointer-events: none;
+  background: var(--ornament);
+  opacity: 0.32;
+  mask: url("/brand/geometry.svg") 0 0 / 72px 72px repeat;
+}
+
+.names-page::before {
+  left: 0;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+.names-page::after {
+  right: 0;
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+
 .names-head {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: clamp(16px, 4vw, 36px) 0 clamp(28px, 5vw, 48px);
+  padding: clamp(24px, 4vw, 48px) 16px clamp(40px, 6vw, 64px);
 }
 
 .names-head .title-ar {
-  color: var(--reward);
+  font-family: var(--arabic);
+  font-size: clamp(44px, 7vw, 80px);
+  line-height: 1.7;
+  color: var(--idea);
 }
 
 .names-head h1 {
@@ -27,7 +66,7 @@
 .names-head blockquote p {
   margin: 0 0 6px;
   font-family: var(--display);
-  font-style: italic;
+  font-style: normal;
   font-size: clamp(17px, 2.4vw, 20px);
   color: var(--muted);
 }
@@ -43,8 +82,8 @@
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr));
-  gap: 12px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
 }
 
 .name-tile {
@@ -53,12 +92,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2px;
-  padding: 30px 14px 18px;
+  gap: 4px;
+  padding: 24px 16px 28px;
   text-align: center;
   background: var(--page);
   border: 1px solid var(--line);
-  border-radius: 16px;
+  border-radius: 12px;
   transition: border-color 0.25s, box-shadow 0.3s var(--ease), transform 0.3s var(--ease);
 }
 
@@ -69,35 +108,57 @@
 }
 
 .name-num {
-  position: absolute;
-  top: 10px;
-  left: 12px;
+  width: 38px;
+  height: 38px;
+  margin-bottom: 12px;
   font-size: 12px;
   font-weight: 600;
-  color: var(--muted);
+  color: var(--ornament);
   font-variant-numeric: tabular-nums;
 }
 
+.name-num > span {
+  color: var(--fg);
+}
+
 .name-tile .ar {
-  font-size: 30px;
-  line-height: 1.6;
+  font-size: clamp(34px, 4.5vw, 50px);
+  line-height: 1.8;
   color: var(--idea);
 }
 
 .name-tile b {
-  font-size: 15px;
-  font-weight: 600;
+  font-family: var(--display);
+  font-size: 23px;
+  font-weight: 500;
 }
 
 .name-tile small {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--muted);
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 /* ---------- single name ---------- */
+.name-page .name-hero {
+  position: relative;
+  border-color: color-mix(in srgb, var(--ornament) 70%, var(--page));
+  background: radial-gradient(ellipse at 50% 14%, var(--rewardBg), transparent 65%), var(--page);
+  padding: clamp(30px, 5vw, 52px) clamp(22px, 5vw, 44px);
+  gap: 18px;
+}
+
+.name-hero::before {
+  content: "";
+  position: absolute;
+  inset: 7px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  pointer-events: none;
+}
+
 .name-ar {
-  font-size: clamp(48px, 11vw, 76px);
+  font-size: clamp(58px, 10vw, 92px);
   line-height: 1.6;
   text-align: center;
   margin: 0;
@@ -105,11 +166,16 @@
 }
 
 .name-translit {
-  font-size: clamp(18px, 3vw, 22px);
+  font-family: var(--display);
+  font-size: clamp(30px, 4.5vw, 44px);
+  font-style: normal;
   font-weight: 500;
+  line-height: 1.3;
+  color: var(--fg);
 }
 
 .name-translit span {
+  font-size: clamp(20px, 3vw, 26px);
   font-weight: 400;
 }
 
@@ -126,14 +192,15 @@
 .name-meta {
   display: flex;
   flex-wrap: wrap;
-  align-items: stretch;
+  align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 16px;
+  margin-top: 8px;
 }
 
 .name-root {
-  flex: 1 1 280px;
-  max-width: 460px;
+  flex: 1 1 100%;
+  min-width: 0;
   margin: 0;
   display: grid;
   grid-template-columns: auto auto 1fr;
@@ -141,9 +208,9 @@
   gap: 4px 10px;
   padding: 12px 16px;
   border: 1px solid var(--line);
-  border-radius: 14px;
+  border-radius: 8px;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.7;
   color: var(--muted);
 }
 
@@ -160,9 +227,9 @@
   gap: 2px;
   padding: 12px 20px;
   border: 0;
-  border-radius: 14px;
-  background: var(--ideaBg);
-  color: var(--idea);
+  border-radius: 8px;
+  background: var(--idea);
+  color: var(--page);
   font: inherit;
   text-align: left;
   cursor: pointer;
@@ -228,8 +295,8 @@
 }
 
 .nv-close {
-  width: 30px;
-  height: 30px;
+  width: 44px;
+  height: 44px;
   border: 0;
   border-radius: 50%;
   background: var(--soft);
@@ -284,6 +351,36 @@
   margin: 0 0 14px;
 }
 
+.name-card > .card-title,
+.name-card > .card-sub {
+  text-align: center;
+}
+
+.name-card .name-part {
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.name-card .name-part h2 {
+  position: relative;
+  padding-left: 30px;
+}
+
+.name-card .name-part h2::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 7px;
+  width: 12px;
+  height: 12px;
+  border: 1px solid var(--ornament);
+  transform: rotate(45deg);
+}
+
+.name-card .name-part .text {
+  padding-left: 30px;
+}
+
 .name-part > p {
   margin: 0;
   font-size: 17px;
@@ -293,11 +390,11 @@
 .name-dua {
   border: 1px solid var(--rewardSoft);
   background: var(--rewardBg);
-  border-radius: 18px;
-  padding: 20px 22px;
+  border-radius: 10px;
+  padding: 24px;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 12px;
 }
 
 .name-dua .lab {
@@ -308,7 +405,7 @@
   margin: 0;
   font-family: var(--display);
   font-size: clamp(19px, 3vw, 22px);
-  line-height: 1.45;
+  line-height: 1.65;
   text-wrap: pretty;
 }
 
@@ -334,7 +431,8 @@
   gap: 2px;
   padding: 14px 16px;
   border: 1px solid var(--line);
-  border-radius: 14px;
+  border-radius: 8px;
+  background: var(--page);
   transition: border-color 0.25s, transform 0.3s var(--ease);
 }
 
@@ -382,11 +480,45 @@
   line-height: 2;
 }
 
+@media (max-width: 800px) {
+  .name-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: 520px) {
+  .name-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .name-tile {
+    padding: 20px 16px 24px;
+  }
+
+  .names-page::before,
+  .names-page::after {
+    height: 140px;
+    opacity: 0.2;
+  }
+
   .name-root {
     grid-template-columns: auto 1fr;
   }
   .name-root > span:last-child {
     grid-column: 1 / -1;
+  }
+
+  .name-card .name-part .text {
+    padding-left: 0;
+  }
+
+  .name-dua {
+    padding: 18px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nv[open] {
+    animation: none;
   }
 }

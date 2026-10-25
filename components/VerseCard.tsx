@@ -33,13 +33,17 @@ export function VerseCard({ card, surahName }: { card: Card; surahName: string }
         <BoxRow row={card.key.row} />
       </div>
 
-      <div className="text">
-        <p className="story">
-          <Rich text={card.then} />
-        </p>
-        <p className="story">
-          <Rich text={card.now} />
-        </p>
+      <div className="text verse-context">
+        <section>
+          <p className="story">
+            <Rich text={card.then} />
+          </p>
+        </section>
+        <section>
+          <p className="story">
+            <Rich text={card.now} />
+          </p>
+        </section>
         <div className="shift">
           <p className="old">{card.old}</p>
           <p className="new">{card.new}</p>

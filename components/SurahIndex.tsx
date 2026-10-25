@@ -18,7 +18,7 @@ export function SurahIndex({ surahs }: { surahs: SurahEntry[] }) {
   return (
     <section className="index" aria-labelledby="index-title">
       <div className="index-head">
-        <h2 id="index-title">Surahs</h2>
+        <h2 id="index-title">Explore the surahs</h2>
         <label className="search">
           <svg viewBox="0 0 24 24" aria-hidden="true">
             <circle cx="11" cy="11" r="6.5" />

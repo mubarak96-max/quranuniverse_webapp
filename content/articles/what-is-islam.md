@@ -6,13 +6,13 @@ category: Exploring Islam
 published: 2026-10-20
 ---
 
-Islam is a monotheistic religion centred on belief in one God, called Allah in Arabic, and on living in willing submission to His guidance as revealed in the Quran and taught by the Prophet Muhammad. The word *Islam* itself means "submission" or "surrender" to God, and a person who follows Islam is called a Muslim. Today nearly two billion people, roughly a quarter of humanity, practise Islam.
+Islam is a monotheistic religion centred on belief in one God, called Allah in Arabic, and on living in willing submission to His guidance as revealed in the Quran and taught by the Prophet Muhammad. The word _Islam_ itself means "submission" or "surrender" to God, and a person who follows Islam is called a Muslim. Today nearly two billion people, roughly a quarter of humanity, practise Islam.
 
 Whether you are curious about your Muslim neighbours or you are a Muslim wanting to explain your faith more clearly, this guide covers what Islam means, what Muslims believe and how those beliefs shape daily life.
 
 ## Key takeaways
 
-- Islam means "submission to God," and a Muslim is "one who submits"; both words come from the Arabic root s-l-m, which is also linked to *salam*, meaning peace.
+- Islam means "submission to God," and a Muslim is "one who submits"; both words come from the Arabic root s-l-m, which is also linked to _salam_, meaning peace.
 - Muslims believe in one God (Allah), who has no partners, no children and no equal, and who alone deserves worship.
 - The basic beliefs of Islam are the six articles of faith: God, His angels, His revealed books, His messengers, the Last Day and divine decree.
 - The main practices are the five pillars: the declaration of faith, prayer, charity, fasting in Ramadan and the pilgrimage to Makkah.
@@ -20,7 +20,7 @@ Whether you are curious about your Muslim neighbours or you are a Muslim wanting
 
 ## What does the word Islam mean?
 
-In Arabic, *Islam* comes from a three-letter root, s-l-m, which carries ideas of surrender, safety and peace. The word *Islam* describes the act of submitting oneself to God, and *Muslim* is the person who does so. In this sense, Muslims understand Islam as a way of life rather than only a set of rituals.
+In Arabic, _Islam_ comes from a three-letter root, s-l-m, which carries ideas of surrender, safety and peace. The word _Islam_ describes the act of submitting oneself to God, and _Muslim_ is the person who does so. In this sense, Muslims understand Islam as a way of life rather than only a set of rituals.
 
 "Allah" is simply the Arabic word for God. It is not the name of a separate deity, and Arabic-speaking Christians and Jews also use it when they pray. The Quran describes this way of submission as the religion God accepts:
 
@@ -38,7 +38,7 @@ In simple words, Islam is about knowing God, worshipping Him alone and treating 
 >
 > — [Quran 51:56](/surah/adh-dhariyat/56)
 
-The heart of the religion is *tawhid*, the oneness of God. A short chapter of the Quran, Surah al-Ikhlas, sums it up in four lines. Muslims recite it often, and the Prophet Muhammad (peace be upon him) said it is equal to a third of the Quran (Sahih al-Bukhari).
+The heart of the religion is _tawhid_, the oneness of God. A short chapter of the Quran, Surah al-Ikhlas, sums it up in four lines. Muslims recite it often, and the Prophet Muhammad (peace be upon him) said it is equal to a third of the Quran (Sahih al-Bukhari).
 
 > Say, "He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent."
 >
@@ -48,14 +48,14 @@ Islam also teaches that faith and good deeds belong together. Belief is meant to
 
 ## What are the basic beliefs of Islam? The six articles of faith
 
-The main beliefs of Islam are known as the six articles of faith (*arkan al-iman*). They are listed in a famous hadith in Sahih Muslim, narrated by Umar ibn al-Khattab, in which the angel Jibril (Gabriel) came in human form and asked the Prophet about Islam, faith and excellence. When asked about faith, the Prophet said it is to believe in:
+The main beliefs of Islam are known as the six articles of faith (_arkan al-iman_). They are listed in a famous hadith in Sahih Muslim, narrated by Umar ibn al-Khattab, in which the angel Jibril (Gabriel) came in human form and asked the Prophet about Islam, faith and excellence. When asked about faith, the Prophet said it is to believe in:
 
 1. **Allah** – the one God, Creator of everything, who has no partner, child or equal.
 2. **His angels** – beings created from light who carry out God's commands, including Jibril, who brought revelation to the prophets.
 3. **His books** – the scriptures God revealed, including the Torah to Moses, the Psalms to David, the Gospel to Jesus and the Quran to Muhammad.
 4. **His messengers** – the prophets sent to every nation, from Adam to Noah, Abraham, Moses, Jesus and finally Muhammad.
 5. **The Last Day** – the Day of Judgement, when every person will be raised and held accountable, followed by eternal life.
-6. **Divine decree (*qadar*)** – the belief that nothing happens outside God's knowledge and will, both the good and what seems bad.
+6. **Divine decree (_qadar_)** – the belief that nothing happens outside God's knowledge and will, both the good and what seems bad.
 
 The Quran mentions most of these together in several places. One example:
 
@@ -85,7 +85,7 @@ The Quran also stresses that real righteousness joins belief with action. This v
 
 ## Where did Islam come from?
 
-Muslims believe Islam did not begin with Muhammad but is the original message of every prophet: worship one God and live righteously. In the Muslim view, Muhammad (peace be upon him) was the final prophet in a long line that includes Adam, Noah, Abraham, Moses and Jesus.
+Islam did not begin with Muhammad but is the original message of every prophet: worship one God and live righteously. Muhammad (peace be upon him) was the final prophet in a long line that includes Adam who was the first human being,followed by other prophets like Noah, Abraham, Moses, Solomon, and Jesus.
 
 Historically, the Quran began to be revealed to Muhammad in 610 CE, when the angel Jibril came to him in the Cave of Hira near Makkah with the first words of Surah al-Alaq. Revelation continued for about 23 years until his death in 632 CE. The Quran calls him "the Messenger of Allah and last of the prophets" ([Quran 33:40](/surah/al-ahzab/40)).
 
@@ -107,7 +107,7 @@ The Quran also says human diversity is intentional, so that people "may know one
 
 ## Read the Quran on Quran Universe
 
-The best way to understand what Islam is about is to read the Quran itself. On Quran Universe every verse quoted here has the Arabic text, the Sahih International translation, word-by-word meanings, a simple verse card with context and a practical takeaway, and the classical Tafsir Ibn Kathir. A good place to start is [Surah al-Fatihah](/surah/al-fatihah), the opening chapter Muslims recite in every prayer.
+Information and the truth about Islam has been suppressed in the last 200 years while spreading misinformation but the best way to understand what Islam is about is to read the Quran itself for the start. Be curious,talk to Muslims and ask them what they believe and . On Quran Universe, we try to make the Quran easy to understand. A good place to start is [Surah al-Fatihah](/surah/al-fatihah), the opening chapter Muslims recite in every prayer.
 
 ## Frequently asked questions
 
@@ -121,7 +121,7 @@ The basic beliefs of Islam are the six articles of faith. Muslims believe in All
 
 ### What does the word Islam mean?
 
-The word Islam means "submission" or "surrender" to God. It comes from the Arabic root s-l-m, which is also linked to the word *salam*, meaning peace. A Muslim is a person who submits to God.
+The word Islam means "submission" or "surrender" to God. It comes from the Arabic root s-l-m, which is also linked to the word _salam_, meaning peace. A Muslim is a person who submits to God.
 
 ### Do Muslims worship a different God from Christians and Jews?
 

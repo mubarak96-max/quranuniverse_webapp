@@ -1,81 +1,11 @@
-/* The timeline's look: a warm parchment atlas. Tokens are scoped to the app, so every timeline panel picks them up
-   while the rest of the site keeps its own palette. Also the map chrome, year mark, time bar and playback captions;
-   the intro, drawer and card pieces are in cards.css. */
-
+/* Inherit the reading palette so the atlas and its panels match the rest of the app. */
 .tl-app {
-  --bg: #ece2cc;
-  --page: #f8f1e0;
-  --fg: #2b2117;
-  --muted: #76664f;
-  --line: #d9c8a6;
-  --soft: #e9dcc0;
-  --idea: #34458a;
-  --trap: #a5352a;
-  --reward: #a26f17;
-  --good: #2c6f87;
-  --people: #6b6152;
-  --old: #7a4f32;
-  --new: #7c2f88;
-  --ideaBg: #e3dfe6;
-  --trapBg: #f1dccf;
-  --rewardBg: #f2e2bb;
-  --peopleBg: #e8dec9;
-  --rewardSoft: #e2c991;
-  --gold: #a87a26;
+  --gold: var(--ornament);
   --ink-soft: color-mix(in srgb, var(--fg) 72%, transparent);
-  --paper: radial-gradient(120% 90% at 30% 0%, color-mix(in srgb, #fff 35%, transparent) 0, transparent 60%), var(--page);
+  --paper: var(--page);
   color: var(--fg);
   background: var(--bg);
 }
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .tl-app {
-    --bg: #17120b;
-    --page: #211a10;
-    --fg: #eee2c8;
-    --muted: #a8977a;
-    --line: #3b2f1e;
-    --soft: #2c2316;
-    --idea: #a9b2e6;
-    --trap: #e58a6f;
-    --reward: #e0b25a;
-    --good: #75b7cc;
-    --people: #a39885;
-    --old: #c49a7a;
-    --new: #d58ae0;
-    --ideaBg: #232338;
-    --trapBg: #35201a;
-    --rewardBg: #33270f;
-    --peopleBg: #282118;
-    --rewardSoft: #5a4519;
-    --gold: #d9a94b;
-    --paper: radial-gradient(120% 90% at 30% 0%, color-mix(in srgb, var(--gold) 7%, transparent) 0, transparent 60%), var(--page);
-  }
-}
-
-:root[data-theme="dark"] .tl-app {
-  --bg: #17120b;
-  --page: #211a10;
-  --fg: #eee2c8;
-  --muted: #a8977a;
-  --line: #3b2f1e;
-  --soft: #2c2316;
-  --idea: #a9b2e6;
-  --trap: #e58a6f;
-  --reward: #e0b25a;
-  --good: #75b7cc;
-  --people: #a39885;
-  --old: #c49a7a;
-  --new: #d58ae0;
-  --ideaBg: #232338;
-  --trapBg: #35201a;
-  --rewardBg: #33270f;
-  --peopleBg: #282118;
-  --rewardSoft: #5a4519;
-  --gold: #d9a94b;
-  --paper: radial-gradient(120% 90% at 30% 0%, color-mix(in srgb, var(--gold) 7%, transparent) 0, transparent 60%), var(--page);
-}
-
 .view-story,
 .view-explore,
 .view-entity {

@@ -8,6 +8,7 @@ import { getTheme } from "@/lib/data";
 import { SITE, organization } from "@/lib/site";
 import "./globals.css";
 import "./card.css";
+import "./reading.css";
 import "./content.css";
 import "./home.css";
 
@@ -47,14 +48,11 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: getTheme().palettes.light.bg },
-    { media: "(prefers-color-scheme: dark)", color: getTheme().palettes.dark.bg },
-  ],
+  themeColor: getTheme().palettes.light.bg,
 };
 
 // Palettes live in content/theme.json so the web and mobile apps share one source of colors.
-// The media query is the no-JS fallback; themeScript sets data-theme before paint otherwise.
+// The light palette is also the no-JS fallback.
 function themeCss() {
   const { light, dark } = getTheme().palettes;
   const vars = (p: Record<string, string>) =>
@@ -63,7 +61,6 @@ function themeCss() {
       .join(";");
   return [
     `:root{${vars(light)};color-scheme:light}`,
-    `@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){${vars(dark)};color-scheme:dark}}`,
     `:root[data-theme="dark"]{${vars(dark)};color-scheme:dark}`,
   ].join("\n");
 }

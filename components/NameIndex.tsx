@@ -43,7 +43,7 @@ export function NameIndex({ names }: { names: NameEntry[] }) {
           {shown.map((n) => (
             <li key={n.number}>
               <Link href={n.href} className="name-tile">
-                <span className="name-num">{n.number}</span>
+                <span className="name-num num"><span>{n.number}</span></span>
                 <span className="ar" lang="ar" dir="rtl">
                   {n.arabic}
                 </span>

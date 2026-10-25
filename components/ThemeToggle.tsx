@@ -1,28 +1,11 @@
 "use client";
 
-import { useEffect } from "react";
-
 const KEY = "theme";
 
-// Runs in <head> before paint so the saved or system theme applies without a flash.
-export const themeScript = `(function(){try{var t=localStorage.getItem("${KEY}");if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t}catch(e){}})()`;
+// Runs before paint; ivory is the default unless the reader has chosen otherwise.
+export const themeScript = `(function(){var t="light";try{var saved=localStorage.getItem("${KEY}");if(saved==="light"||saved==="dark")t=saved}catch(e){}document.documentElement.dataset.theme=t})()`;
 
 export function ThemeToggle() {
-  // Until the reader picks a theme, keep following the system setting.
-  useEffect(() => {
-    const media = matchMedia("(prefers-color-scheme: dark)");
-    const follow = () => {
-      try {
-        if (localStorage.getItem(KEY)) return;
-      } catch {
-        // storage blocked: system setting is all we have
-      }
-      document.documentElement.dataset.theme = media.matches ? "dark" : "light";
-    };
-    media.addEventListener("change", follow);
-    return () => media.removeEventListener("change", follow);
-  }, []);
-
   function toggle() {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;

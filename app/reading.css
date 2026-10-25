@@ -1,0 +1,221 @@
+body:has(.quran-verse-page) {
+  background-image: url("/textures/reading-paper.svg");
+}
+
+.verse-page {
+  --line: color-mix(in srgb, var(--ornament) 32%, var(--page));
+  max-width: 900px;
+  gap: 24px;
+}
+
+.verse-page > * {
+  min-width: 0;
+}
+
+.verse-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  padding: 0 0 10px;
+}
+
+.verse-heading .ornament {
+  width: 30px;
+  height: 30px;
+  color: var(--ornament);
+}
+
+.verse-heading h1 {
+  margin: 0;
+  font: 500 clamp(30px, 4vw, 42px) / 1.2 var(--display);
+  letter-spacing: -0.03em;
+}
+
+.verse-heading p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.verse-page .verse-block,
+.verse-page .card {
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
+.verse-page .card::before {
+  display: none;
+}
+
+.verse-page .vkey {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  letter-spacing: 0.15em;
+}
+
+.verse-page .vkey::before,
+.verse-page .vkey::after {
+  content: "";
+  width: clamp(24px, 6vw, 64px);
+  border-top: 1px solid var(--line);
+}
+
+.quran-verse-page .verse-block {
+  gap: 24px;
+}
+
+.quran-verse-page .verse-ar.big {
+  font-size: clamp(34px, 5.5vw, 54px);
+  line-height: 1.95;
+  color: var(--idea);
+  overflow-wrap: anywhere;
+}
+
+.quran-verse-page .verse-en.big {
+  font-size: clamp(21px, 3vw, 27px);
+  line-height: 1.6;
+}
+
+.quran-verse-page .translit {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.quran-verse-page .verse-block > .drawer {
+  background: var(--page);
+  margin-top: 12px;
+}
+
+.verse-page .drawer {
+  border-radius: 10px;
+}
+
+.verse-page .drawer summary {
+  min-height: 56px;
+  padding: 16px 20px;
+  font-size: 15px;
+}
+
+.verse-page .card-title {
+  font-size: clamp(30px, 4vw, 42px);
+  line-height: 1.18;
+}
+
+.verse-page .card-sub {
+  line-height: 1.65;
+}
+
+.verse-page .card hr {
+  margin: 0 0 4px;
+}
+
+.verse-page .box {
+  flex-basis: 130px;
+  padding: 18px 14px;
+  border-radius: 8px;
+}
+
+.verse-page .box b,
+.verse-page .box span {
+  overflow-wrap: anywhere;
+}
+
+.verse-page .text {
+  border-left: 0;
+  padding: 0;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.verse-page .text p.story::first-letter {
+  float: none;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+}
+
+.verse-page .verse-context {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+}
+
+.verse-context section + section {
+  border-left: 1px solid var(--line);
+  padding-left: 28px;
+}
+
+.verse-context .shift {
+  grid-column: 1 / -1;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.verse-page .try {
+  border: 1px solid color-mix(in srgb, var(--idea) 25%, var(--page));
+  border-radius: 10px;
+  gap: 12px;
+  padding: 24px;
+}
+
+.verse-page .try p {
+  font-size: clamp(20px, 2.5vw, 23px);
+  font-style: normal;
+  line-height: 1.6;
+}
+
+.verse-page .card-foot {
+  flex-wrap: wrap;
+  line-height: 1.7;
+}
+
+.verse-page .pager a {
+  border-radius: 8px;
+  padding: 14px 20px;
+  width: fit-content;
+  max-width: 100%;
+}
+
+.verse-page .pager .next {
+  justify-self: end;
+  background: var(--idea);
+  border-color: var(--idea);
+}
+
+.verse-page .pager .next small,
+.verse-page .pager .next b {
+  color: var(--page);
+}
+
+@media (max-width: 720px) {
+  .verse-page .verse-context {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .verse-context section + section {
+    border-left: 0;
+    padding-left: 0;
+    border-top: 1px solid var(--line);
+    padding-top: 24px;
+  }
+
+  .verse-page .try,
+  .verse-context .shift {
+    padding: 18px;
+  }
+
+  .verse-page .drawer summary {
+    flex-wrap: wrap;
+  }
+
+  .verse-page .drawer summary small {
+    flex-basis: 100%;
+  }
+}

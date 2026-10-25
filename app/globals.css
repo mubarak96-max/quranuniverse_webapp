@@ -6,8 +6,8 @@ body {
   --display: var(--font-display), Georgia, serif;
   --arabic: var(--font-arabic), "Amiri", "Noto Naskh Arabic", serif;
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
-  --shadow: 0 1px 2px color-mix(in srgb, var(--fg) 4%, transparent),
-    0 12px 32px -12px color-mix(in srgb, var(--idea) 18%, transparent);
+  --shadow: 0 2px 4px color-mix(in srgb, var(--fg) 2%, transparent),
+    0 12px 28px -16px color-mix(in srgb, var(--fg) 16%, transparent);
   --reading: 760px;
 }
 
@@ -70,9 +70,9 @@ a {
   position: sticky;
   top: 0;
   z-index: 20;
-  background: color-mix(in srgb, var(--bg) 78%, transparent);
-  backdrop-filter: saturate(1.4) blur(14px);
-  -webkit-backdrop-filter: saturate(1.4) blur(14px);
+  background: color-mix(in srgb, var(--bg) 94%, transparent);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
 }
 
@@ -98,9 +98,9 @@ a {
 }
 
 .brand em {
-  font-style: italic;
-  font-weight: 500;
-  color: var(--idea);
+  font-style: normal;
+  font-weight: 600;
+  color: var(--fg);
 }
 
 .logo-dark {
@@ -198,6 +198,7 @@ a {
   color: var(--muted);
   font-size: 14px;
   line-height: 1.6;
+  background: var(--page);
 }
 
 .site-footer p {
@@ -286,7 +287,7 @@ a {
 
 .index-head h2 {
   font-family: var(--display);
-  font-size: 30px;
+  font-size: clamp(30px, 3.5vw, 40px);
   font-weight: 500;
   letter-spacing: -0.02em;
   margin: 0;
@@ -317,7 +318,7 @@ a {
   height: 46px;
   padding: 0 14px 0 42px;
   border: 1px solid var(--line);
-  border-radius: 14px;
+  border-radius: 999px;
   background: var(--page);
   color: var(--fg);
   font: 15px var(--ui);
@@ -339,7 +340,7 @@ a {
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
 }
 
@@ -350,7 +351,7 @@ a {
   padding: 16px 18px;
   background: var(--page);
   border: 1px solid var(--line);
-  border-radius: 16px;
+  border-radius: 12px;
   transition: border-color 0.25s, box-shadow 0.3s var(--ease), transform 0.3s var(--ease);
 }
 
@@ -368,8 +369,12 @@ a {
   width: 46px;
   height: 46px;
   font-size: 13px;
-  color: var(--muted);
+  color: var(--ornament);
   transition: color 0.25s;
+}
+
+.surah-tile .num > span {
+  color: var(--fg);
 }
 
 .surah-tile:hover .num {
@@ -845,6 +850,9 @@ summary:focus-visible {
 }
 
 @media (max-width: 520px) {
+  .surah-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
   .surah-tile {
     padding: 14px;
   }

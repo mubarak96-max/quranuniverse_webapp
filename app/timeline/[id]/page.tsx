@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
-import { TimelineIndex } from "@/components/timeline/TimelineIndex";
+import { TimelineArticle } from "@/components/timeline/TimelineArticle";
+import { timelineEntry } from "@/lib/timeline-entry";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
-import { getSeed, getStop, getTimeline } from "@/lib/timeline";
+import { getStop, getTimeline } from "@/lib/timeline";
 
 type Params = Promise<{ id: string }>;
 
@@ -40,6 +40,8 @@ export default async function TimelineStopPage({ params }: { params: Params }) {
   const s = getStop(id);
   if (!s) notFound();
   const data = getTimeline();
+  const card = timelineEntry(data, { t: "event", id })!;
+  const index = data.stops.findIndex((stop) => stop.id === id);
   return (
     <>
       <JsonLd
@@ -57,10 +59,7 @@ export default async function TimelineStopPage({ params }: { params: Params }) {
           ]),
         }}
       />
-      <h1 className="sr-only">{titleOf(id)}</h1>
-      {/* Keyed so a link from the index below starts the app fresh at that moment. */}
-      <TimelineApp key={id} seed={getSeed(id)} initialView="story" initialStop={id} />
-      <TimelineIndex data={data} current={id} />
+      <TimelineArticle card={card} stop={s} previous={data.stops[index - 1]} next={data.stops[index + 1]} />
     </>
   );
 }

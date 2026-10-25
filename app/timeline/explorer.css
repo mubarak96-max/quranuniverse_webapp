@@ -1,0 +1,101 @@
+.ex-explorer { border: 1px solid var(--line); border-radius: 14px; background: var(--page); scroll-margin-top: 80px; }
+.ex-toolbar { position: relative; z-index: 6; display: flex; align-items: center; gap: 20px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+.ex-map-search { position: relative; display: flex; align-items: center; gap: 12px; flex: 1; }
+.ex-map-search > svg { width: 20px; height: 20px; color: var(--idea); flex-shrink: 0; }
+.ex-map-search input { height: 38px; width: 100%; min-width: 0; border: 0; background: transparent; font: 400 14px var(--ui); color: var(--fg); }
+.ex-map-search input::placeholder { color: var(--muted); }
+.ex-expand-map { display: inline-flex; align-items: center; gap: 16px; padding: 10px 12px; background: var(--soft); border: 1px solid var(--line); border-radius: 6px; color: var(--fg); font: 500 12px var(--ui); cursor: pointer; }
+.ex-search-results { position: absolute; top: calc(100% + 14px); left: -18px; width: min(500px, calc(100vw - 46px)); max-height: 380px; overflow-y: auto; border: 1px solid var(--line); border-radius: 0 0 10px 10px; background: var(--page); box-shadow: 0 16px 35px color-mix(in srgb, var(--fg) 15%, transparent); }
+.ex-search-results > p { padding: 10px 16px; font-size: 11px; color: var(--muted); margin: 0; background: var(--soft); }
+.ex-search-results button { display: block; width: 100%; padding: 13px 16px; text-align: left; border: 0; border-bottom: 1px solid var(--line); background: transparent; color: var(--fg); cursor: pointer; }
+.ex-search-results strong { display: block; font: 500 14px var(--ui); }
+.ex-search-results span { display: block; font: 400 12px/1.5 var(--ui); color: var(--muted); margin-top: 4px; }
+.ex-search-results button:hover { background: var(--ideaBg); }
+.tl-app.ex-map { --inset-l: 24px; --inset-t: 24px; --inset-r: 60px; --inset-b: 48px; display: block; height: clamp(380px, 52svh, 600px); min-height: 0; border-bottom: 1px solid var(--line); }
+.ex-expanded .tl-app.ex-map { height: 78svh; }
+.ex-map .at-controls { top: 18px; right: 18px; bottom: auto; gap: 8px; }
+.ex-map .at-controls button { width: 40px; height: 40px; border-radius: 8px; background: var(--page); }
+.ex-map .at-note { left: 14px; right: 14px; bottom: 5px; text-align: right; font-size: 9px; }
+.ex-map .at-legend { display: none; }
+.ex-map .at-tip { max-width: 250px; white-space: normal; font-size: 12px; }
+.ex-map-key { position: absolute; z-index: 2; left: 18px; bottom: 32px; display: flex; gap: 16px; align-items: center; padding: 9px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--page); font-size: 11px; color: var(--muted); pointer-events: none; }
+.ex-map-key span { display: flex; align-items: center; gap: 6px; }
+.ex-map-key i { width: 7px; height: 7px; border-radius: 50%; background: var(--idea); box-shadow: 0 0 0 3px var(--ideaBg); }
+.ex-map-key span:last-child i { background: var(--reward); box-shadow: none; border-radius: 1px; }
+.ex-map-status { display: flex; justify-content: space-between; gap: 12px; align-items: center; padding: 12px 22px; background: var(--soft); font-size: 11px; color: var(--muted); }
+.ex-map-status p { margin: 0; }
+.ex-map-status strong { color: var(--fg); }
+.ex-years { padding: 22px 26px; }
+.ex-year-heading { display: flex; align-items: center; gap: 24px; justify-content: space-between; }
+.ex-year-heading > div:first-child { min-width: 180px; }
+.ex-year-label { display: block; color: var(--muted); font-size: 11px; margin-bottom: 5px; }
+.ex-year-value { display: block; font: 500 34px/1.1 var(--display); letter-spacing: -.025em; font-variant-numeric: tabular-nums; }
+.ex-era-name { display: block; color: var(--muted); font-size: 11px; margin-top: 5px; }
+.ex-year-form > label, .ex-era-select { display: grid; gap: 8px; font-size: 11px; color: var(--muted); }
+.ex-year-form > label { margin-bottom: 8px; }
+.ex-year-form > div { display: flex; }
+.ex-year-form input { width: 82px; border: 1px solid var(--line); border-radius: 6px 0 0 6px; padding: 8px; }
+.ex-year-form :is(input, select), .ex-era-select select { height: 38px; color: var(--fg); background: var(--page); font: 400 12px var(--ui); }
+.ex-year-form select { border: 1px solid var(--line); border-left: 0; padding: 0 6px; }
+.ex-year-form button { border: 1px solid var(--idea); border-radius: 0 6px 6px 0; padding: 0 12px; background: var(--idea); color: var(--page); font: 600 12px var(--ui); cursor: pointer; }
+.ex-era-select { max-width: 250px; }
+.ex-era-select select { width: 100%; border: 1px solid var(--line); padding: 0 10px; border-radius: 6px; }
+.ex-slider-row { display: flex; align-items: center; gap: 18px; margin: 22px 0 16px; }
+.ex-play { width: 44px; height: 44px; flex-shrink: 0; border: 0; border-radius: 50%; background: var(--idea); color: var(--page); font-size: 16px; cursor: pointer; }
+.ex-slider-track { flex: 1; min-width: 0; }
+.ex-slider-track input { display: block; appearance: none; width: 100%; height: 30px; margin: 0; background: transparent; cursor: pointer; accent-color: var(--idea); }
+.ex-slider-track input::-webkit-slider-runnable-track { height: 5px; border-radius: 6px; background: linear-gradient(to right, var(--idea) var(--year-progress), var(--line) var(--year-progress)); }
+.ex-slider-track input::-webkit-slider-thumb { appearance: none; margin-top: -7px; width: 19px; height: 19px; border-radius: 50%; background: var(--idea); border: 3px solid var(--page); box-shadow: 0 0 0 1px var(--idea); }
+.ex-slider-track input::-moz-range-track { height: 5px; border-radius: 6px; background: var(--line); }
+.ex-slider-track input::-moz-range-progress { height: 5px; background: var(--idea); }
+.ex-slider-track input::-moz-range-thumb { width: 15px; height: 15px; border-radius: 50%; background: var(--idea); border: 3px solid var(--page); }
+.ex-year-ticks { position: relative; display: flex; justify-content: space-between; color: var(--muted); font-size: 10px; font-variant-numeric: tabular-nums; }
+.ex-year-ticks span:nth-child(2) { position: absolute; transform: translateX(-50%); }
+.ex-year-step { display: flex; gap: 4px; align-self: flex-start; }
+.ex-year-step button { width: 34px; height: 34px; border: 1px solid var(--line); border-radius: 6px; background: var(--page); color: var(--fg); cursor: pointer; font-size: 18px; }
+.ex-year-step button:disabled { opacity: .4; cursor: default; }
+.ex-year-presets { display: flex; flex-wrap: wrap; gap: 7px; padding-left: 62px; }
+.ex-year-presets button { border: 1px solid var(--line); background: var(--page); color: var(--muted); padding: 8px 10px; border-radius: 5px; font: 400 11px var(--ui); cursor: pointer; }
+.ex-year-presets button:hover, .ex-year-presets button[aria-pressed="true"] { color: var(--idea); background: var(--ideaBg); border-color: var(--idea); }
+.ex-map-footnote { margin: 0; padding: 0 26px 20px; font-size: 11px; line-height: 1.6; color: var(--muted); }
+.ex-explorer :is(button, input, select, a):focus-visible, .ex-preview :is(button, a):focus-visible { outline: 2px solid var(--idea); outline-offset: 4px; }
+.ex-preview { width: min(440px, calc(100vw - 32px)); max-height: calc(100svh - 48px); overflow-y: auto; margin: auto; padding: 26px; border: 1px solid var(--line); border-radius: 16px; background: var(--page); color: var(--fg); box-shadow: 0 24px 100px #0004; }
+.ex-preview::backdrop { background: #12231f66; backdrop-filter: blur(3px); }
+.ex-preview-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; color: var(--idea); font-size: 12px; }
+.ex-preview-top button { width: 36px; height: 36px; border: 1px solid var(--line); border-radius: 50%; background: var(--soft); color: var(--fg); font: 400 24px var(--ui); cursor: pointer; }
+.ex-preview h2 { margin: 20px 0 12px; font: 500 34px/1.12 var(--display); letter-spacing: -.025em; text-wrap: balance; }
+.ex-preview-meta { display: flex; flex-wrap: wrap; gap: 5px 16px; margin: 0; color: var(--muted); font-size: 12px; line-height: 1.6; }
+.ex-preview-certainty { color: var(--reward); font-size: 11px; margin: 8px 0; }
+.ex-preview-text { margin: 22px 0; font: 400 15px/1.75 var(--ui); }
+.ex-see-more { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 14px 18px; border-radius: 7px; background: var(--idea); color: var(--page); font: 500 14px var(--ui); }
+.ex-preview-nearby h3 { font: 500 20px var(--display); }
+.ex-preview-nearby button { display: grid; gap: 4px; padding: 12px 0; width: 100%; text-align: left; background: transparent; border: 0; border-top: 1px solid var(--line); font: 500 13px var(--ui); color: var(--idea); cursor: pointer; }
+.ex-preview-nearby button span { color: var(--muted); font-size: 11px; }
+.ex-alternatives { margin-top: 20px; font-size: 12px; color: var(--muted); }
+.ex-alternatives summary { cursor: pointer; padding: 8px 0; }
+.at-loading { position: absolute; top: 45%; left: 20px; right: 20px; text-align: center; font-size: 13px; color: var(--muted); }
+@media (max-width: 760px) {
+  .ex-toolbar { padding: 10px 12px; gap: 8px; }
+  .ex-map-search { gap: 8px; }
+  .ex-map-search input { font-size: 12px; }
+  .ex-expand-map { font-size: 11px; gap: 7px; padding: 10px; }
+  .tl-app.ex-map { height: 390px; --inset-l: 12px; --inset-t: 12px; --inset-r: 46px; --inset-b: 48px; }
+  .ex-map .at-controls { top: 12px; right: 12px; }
+  .ex-map .at-controls button { width: 36px; height: 36px; }
+  .ex-map-key { left: 12px; font-size: 10px; }
+  .ex-map-status { padding: 12px; align-items: start; font-size: 10px; }
+  .ex-years { padding: 18px 14px; }
+  .ex-year-heading { flex-wrap: wrap; gap: 18px 12px; }
+  .ex-year-heading > div:first-child { min-width: 0; flex: 1; }
+  .ex-year-value { font-size: 30px; }
+  .ex-era-name { max-width: 26ch; }
+  .ex-era-select { max-width: none; width: 100%; }
+  .ex-year-form input { width: 64px; }
+  .ex-slider-row { gap: 12px; }
+  .ex-year-presets { padding-left: 0; }
+  .ex-year-step { flex-direction: column; }
+  .ex-year-step button { width: 30px; height: 28px; }
+  .ex-map-footnote { padding: 0 14px 16px; }
+  .ex-preview { padding: 22px; }
+  .ex-preview h2 { font-size: 30px; }
+}

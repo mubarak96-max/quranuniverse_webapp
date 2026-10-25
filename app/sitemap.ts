@@ -22,6 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...getJourneyIds().map((id) => at(`/timeline/journey/${id}`, 0.8)),
     at("/timeline/villains", 0.8),
     ...getTimeline().villains.map((v) => at(`/timeline/villains/${v.id}`, 0.7)),
+    ...getTimeline().prophets.map((p) => at(`/timeline/prophets/${p.id}`, 0.7)),
     at("/timeline/library", 0.8),
     ...getLibraryRefs().map((r) => at(refHref(r), 0.6)),
     at("/names", 0.9),

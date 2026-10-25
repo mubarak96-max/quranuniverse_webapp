@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
-import { VillainIndex } from "@/components/timeline/VillainIndex";
+import { TimelineArticle } from "@/components/timeline/TimelineArticle";
+import { timelineEntry } from "@/lib/timeline-entry";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
-import { getTimeline, getVillain, getVillainSeed } from "@/lib/timeline";
+import { getTimeline, getVillain } from "@/lib/timeline";
 import type { Villain } from "@/lib/timeline-types";
 
 type Params = Promise<{ id: string }>;
@@ -40,7 +40,7 @@ export default async function VillainPage({ params }: { params: Params }) {
   const { id } = await params;
   const v = getVillain(id);
   if (!v) notFound();
-  const { villains, villainAges } = getTimeline();
+  const card = timelineEntry(getTimeline(), { t: "villain", id })!;
   const path = `/timeline/villains/${v.id}`;
   return (
     <>
@@ -60,10 +60,7 @@ export default async function VillainPage({ params }: { params: Params }) {
           ]),
         }}
       />
-      <h1 className="sr-only">{titleOf(v)}</h1>
-      {/* Keyed so a link from the index below starts the app fresh at that villain. */}
-      <TimelineApp key={id} seed={getVillainSeed()} initialView="villains" initialVillain={id} />
-      <VillainIndex villains={villains} ages={villainAges} current={id} />
+      <TimelineArticle card={card} />
     </>
   );
 }

@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { JsonLd } from "@/components/JsonLd";
 import { TimelineApp } from "@/components/timeline/TimelineApp";
-import { TimelineIndex } from "@/components/timeline/TimelineIndex";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
 import { getSeed, getTimeline } from "@/lib/timeline";
 
@@ -44,8 +43,7 @@ export default function TimelinePage() {
           },
         }}
       />
-      <TimelineApp seed={getSeed()} initialView="intro" />
-      <TimelineIndex data={data} />
+      <TimelineApp seed={getSeed()} initialView="intro" directory={data.stops.filter((stop) => stop.type === "event").map(({ id, chapter, title, label, kind, what, place, who }) => ({ id, chapter, title, label, kind, what, place, who }))} />
     </>
   );
 }

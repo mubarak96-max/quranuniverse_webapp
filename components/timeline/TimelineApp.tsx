@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import type { Ref, TimelineData, TimelineSeed } from "@/lib/timeline-types";
 import { EntityPanel } from "./EntityPanel";
-import { IntroPanel } from "./IntroPanel";
+import { TimelineHome, type DirectoryMoment } from "./TimelineHome";
 import { LibraryHint } from "./LibraryHint";
 import { StoryPanel } from "./StoryPanel";
 import { TimelineMain, type View } from "./TimelineMain";
@@ -39,6 +39,7 @@ export function TimelineApp({
   initialVillain,
   initialRef,
   initialYear,
+  directory,
 }: {
   seed: TimelineSeed;
   initialView: View;
@@ -46,6 +47,7 @@ export function TimelineApp({
   initialVillain?: string;
   initialRef?: Ref;
   initialYear?: number;
+  directory?: DirectoryMoment[];
 }) {
   const data = useTimelineData();
   if (data)
@@ -55,6 +57,7 @@ export function TimelineApp({
 
   const { stop, chapters, villains, card } = seed;
   const view = villains ? "villains" : card ? "entity" : initialView === "library" || initialView === "explore" ? initialView : stop ? "story" : "intro";
+  if (view === "intro") return <TimelineHome chapters={chapters} moments={seed.moments} events={directory} />;
   return (
     <div className={`tl-app view-${view} is-loading`}>
       <div className="tl-stage">
@@ -90,7 +93,7 @@ export function TimelineApp({
             onOpen={noop}
           />
         ) : (
-          <IntroPanel chapters={chapters} moments={seed.moments} now={seed.now} onWatch={noop} onStart={noop} onResume={noop} onBirth={noop} onMore={noop} />
+          null
         )}
       </div>
     </div>

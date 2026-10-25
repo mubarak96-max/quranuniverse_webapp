@@ -372,7 +372,7 @@ export const fromSlug = (slug: string): RefType | undefined =>
 export function refHref(ref: Ref): string {
   if (ref.t === "event") return `/timeline/${ref.id}`;
   if (ref.t === "villain") return `/timeline/villains/${ref.id}`;
-  if (ref.t === "prophet") return `/timeline#prophets=${ref.id}`;
+  if (ref.t === "prophet") return `/timeline/prophets/${ref.id}`;
   return `/timeline/library/${SLUG[ref.t]}/${ref.id}`;
 }
 

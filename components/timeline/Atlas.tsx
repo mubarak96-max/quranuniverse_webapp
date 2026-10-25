@@ -34,12 +34,12 @@ type Props = {
   pins: Pin[];
   hidden?: boolean;
   mode: MapMode;
-  onMode: (m: MapMode) => void;
   onSpot?: (s: Spot) => void;
   spot?: Spot;
   lights: Light[];
   at?: number;
   onLight?: (id: string) => void;
+  onLights?: (ids: string[]) => void;
   spin?: boolean;
 };
 
@@ -125,7 +125,7 @@ function pinElement(p: Pin) {
 const SPIN_DEG_PER_S = 2.4;
 const SPIN_RESUME_MS = 4000;
 
-export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKey, pins, hidden, mode, onMode, onSpot, spot, lights, at, onLight, spin }: Props) {
+export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKey, pins, hidden, mode, onSpot, spot, lights, at, onLight, onLights, spin }: Props) {
   const box = useRef<HTMLDivElement>(null);
   const canvasBox = useRef<HTMLDivElement>(null);
   const probeA = useRef<HTMLSpanElement>(null);
@@ -134,6 +134,7 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
   const mapRef = useRef<MlMap | null>(null);
   const libRef = useRef<Lib | null>(null);
   const [ready, setReady] = useState(false);
+  const [loadFailed, setLoadFailed] = useState(false);
   const [palette, setPalette] = useState<Palette>();
   const [globe, setGlobe] = useState(true);
   const [viewTick, setViewTick] = useState(0);
@@ -143,6 +144,8 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
   spotRef.current = onSpot;
   const lightRef = useRef(onLight);
   lightRef.current = onLight;
+  const lightGroupRef = useRef(onLights);
+  lightGroupRef.current = onLights;
   const statesRef = useRef(states);
   statesRef.current = states;
   const yearRef = useRef(year);
@@ -220,6 +223,7 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
         dragRotate: false,
         pitchWithRotate: false,
         touchPitch: false,
+        cooperativeGestures: true,
         renderWorldCopies: false,
         fadeDuration: 0,
       });
@@ -242,6 +246,7 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
           ],
           { layers: ["lights-core"] },
         );
+        if (near[0] && lightGroupRef.current) return lightGroupRef.current([...new Set(near.map((feature) => String(feature.properties.id)))]);
         if (near[0] && lightRef.current) return lightRef.current(String(near[0].properties.id));
         const hit = map
           .queryRenderedFeatures(e.point, { layers: ["borders-fill"] })
@@ -281,7 +286,7 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
         if (tip.current) tip.current.hidden = true;
         map.getCanvas().style.cursor = "";
       });
-    });
+    }).catch(() => { if (live) setLoadFailed(true); });
     const observer = new MutationObserver(onTheme);
     observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
     media.addEventListener("change", onTheme);
@@ -532,6 +537,7 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
       <span ref={probeA} className="at-probe at-probe-lt" aria-hidden="true" />
       <span ref={probeB} className="at-probe at-probe-rb" aria-hidden="true" />
       <div ref={canvasBox} className="at-canvas" />
+      {!ready && <p className="at-loading" role="status">{loadFailed ? "The map couldn’t load. Reload the page to try again." : "Loading the map…"}</p>}
       <div ref={tip} className="at-tip" hidden aria-hidden="true" />
 
       <div className="at-controls">
@@ -541,7 +547,7 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
         <button type="button" onClick={() => mapRef.current?.zoomOut()} aria-label="Zoom out">
           −
         </button>
-        <button type="button" onClick={() => fly(focusRef.current)} aria-label="Back to this moment">
+        <button type="button" onClick={() => fly(focusRef.current)} aria-label="Reset map view">
           ⌖
         </button>
         <button type="button" onClick={() => setGlobe((g) => !g)} aria-label={globe ? "Flat map" : "Globe"} aria-pressed={globe} className="at-globe">
@@ -549,14 +555,6 @@ export function Atlas({ year, states, overlays, focus, focusKey, routes, routeKe
         </button>
       </div>
 
-      <div className="at-mode" role="group" aria-label="Colour the map by">
-        <button type="button" className={mode === "rulers" ? "on" : undefined} aria-pressed={mode === "rulers"} onClick={() => onMode("rulers")}>
-          Who ruled
-        </button>
-        <button type="button" className={mode === "faith" ? "on" : undefined} aria-pressed={mode === "faith"} onClick={() => onMode("faith")}>
-          Faith
-        </button>
-      </div>
       {legend.length > 0 && palette && (
         <ul className="at-legend" aria-label="Faith of the rulers">
           {legend.map((f) => (

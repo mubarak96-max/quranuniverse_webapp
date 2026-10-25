@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { LibraryIndex } from "@/components/timeline/LibraryIndex";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
+import { TimelineArticle } from "@/components/timeline/TimelineArticle";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
-import { getCardSeed, getLibraryRefs, getTimeline } from "@/lib/timeline";
+import { getLibraryRefs, getTimeline } from "@/lib/timeline";
 import { buildCard } from "@/lib/timeline-graph";
 import { SLUG, fromSlug, refHref, type Ref } from "@/lib/timeline-types";
 
@@ -61,13 +60,7 @@ export default async function LibraryEntryPage({ params }: { params: Params }) {
           ]),
         }}
       />
-      <h1 className="sr-only">
-        {card.name}
-        {card.role ? `, ${card.role}` : ""}
-      </h1>
-      {/* Keyed so a link from the index below starts the app fresh at that entry. */}
-      <TimelineApp key={url} seed={getCardSeed(ref)} initialView="entity" initialRef={ref} />
-      <LibraryIndex data={getTimeline()} current={ref.id} />
+      <TimelineArticle card={card} />
     </>
   );
 }

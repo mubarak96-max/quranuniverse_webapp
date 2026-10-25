@@ -3,13 +3,14 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { buildCard, entityOf, linkOf, nameOf, placeOf, yearOf } from "@/lib/timeline-graph";
 import { activeStates, AXIS, SLUG, villainsNear, yearsAgo, yearToT, type Focus, type Named, type Ref, type Stop, type TimelineData } from "@/lib/timeline-types";
-import { meanwhile, regionOf, sameTime, yearPath } from "@/lib/timeline-world";
+import { meanwhile, regionOf, yearPath } from "@/lib/timeline-world";
 import { Atlas, type Light, type Pin, type Spot } from "./Atlas";
-import type { MapMode } from "./atlas-style";
 import { ChronoQuiz } from "./ChronoQuiz";
 import { EntityPanel } from "./EntityPanel";
 import { ExplorePanel, aliveAt } from "./ExplorePanel";
-import { IntroPanel } from "./IntroPanel";
+import { TimelineHome } from "./TimelineHome";
+import { TimelineExplorer } from "./TimelineExplorer";
+import { clampMapYear } from "@/lib/timeline-entry";
 import { LanesView } from "./LanesView";
 import { LibraryHint } from "./LibraryHint";
 import { LibraryView, type Shelf } from "./LibraryView";
@@ -27,7 +28,6 @@ export type View = "intro" | "story" | "explore" | "prophets" | "villains" | "li
 
 const WORLD: Focus = { lng: 38, lat: 24, zoom: 2 };
 const LAST_KEY = "timeline:last";
-const MODE_KEY = "timeline:mode";
 const PIN_GAP = 0.15;
 const TRAIL_MAX = 12;
 const MAPLESS: View[] = ["prophets", "villains", "library", "empires"];
@@ -85,9 +85,7 @@ export function TimelineMain({
   const [playing, setPlaying] = useState(false);
   const [riverPlaying, setRiverPlaying] = useState(false);
   const [resume, setResume] = useState<Stop>();
-  const [mode, setMode] = useState<MapMode>("rulers");
   const [spot, setSpot] = useState<Spot>();
-  const [birth, setBirth] = useState<number>();
   const [drawer, setDrawer] = useState(false);
   const [follow, setFollow] = useState<{ focus: Focus; key: string }>();
   const followAt = useRef(0);
@@ -104,15 +102,13 @@ export function TimelineMain({
   const chapter = chapters[stop.chapter];
   const current = trail.at(-1);
   const card = useMemo(() => (current ? buildCard(data, current) : undefined), [data, current]);
-  const facts = useMemo(() => sameTime(stops), [stops]);
 
   // The intro page also serves #explore=<year>, #prophets=<id>, #villains=<id>, #empires and #quiz deep links.
   useEffect(() => {
     if (initialView === "intro") {
       const m = /^#(explore|prophets|villains|empires|quiz)(?:=(.+))?$/.exec(location.hash);
       if (m?.[1] === "explore") {
-        setView("explore");
-        if (m[2] && !Number.isNaN(+m[2])) setYear(+m[2]);
+        if (m[2] && Number.isFinite(+m[2])) setYear(clampMapYear(+m[2]));
       } else if (m?.[1] === "prophets") {
         setView("prophets");
         setProphet(m[2]);
@@ -124,7 +120,6 @@ export function TimelineMain({
     const last = storage.get(LAST_KEY);
     const at = last ? stops.find((s) => s.id === last) : undefined;
     if (at && at.id !== stops[0].id) setResume(at);
-    if (storage.get(MODE_KEY) === "faith") setMode("faith");
   }, [initialView, stops]);
 
   // Keep the address bar shareable without filling history: moments, years, villains and library cards have pages.
@@ -144,7 +139,7 @@ export function TimelineMain({
                 ? (cardUrl ?? "/timeline/library")
                 : view === "empires" || view === "quiz"
                   ? `/timeline#${view}`
-                  : "/timeline";
+                  : year === 622 ? "/timeline" : `/timeline#explore=${year}`;
     const timer = setTimeout(() => {
       if (firstSync.current) {
         firstSync.current = false;
@@ -263,11 +258,6 @@ export function TimelineMain({
     },
     [stops, year],
   );
-
-  const changeMode = useCallback((m: MapMode) => {
-    setMode(m);
-    storage.set(MODE_KEY, m);
-  }, []);
 
   useEffect(() => {
     if (!playing || view !== "story") return;
@@ -397,6 +387,17 @@ export function TimelineMain({
   const markYear = view === "story" ? stop.year : timed ? year : undefined;
   const counts = { people: data.people.length + prophets.length, villains: villains.length, empires: states.length };
 
+  if (view === "intro") return (
+    <TimelineHome
+      chapters={chapters}
+      moments={stops.filter((s) => s.type === "event").length}
+      events={stops.filter((s) => s.type === "event")}
+      resume={resume}
+      map={<TimelineExplorer data={data} year={year} onYear={setYear} />}
+      onView={(nextView) => { setTrail([]); setView(nextView); window.scrollTo(0, 0); }}
+    />
+  );
+
   return (
     <div className={`tl-app view-${view}${riverPlaying && view === "explore" ? " is-playing" : ""}`}>
       <div className="tl-stage">
@@ -410,14 +411,13 @@ export function TimelineMain({
           routeKey={stop.id}
           pins={mapless ? [] : pins}
           hidden={mapless}
-          mode={mode}
-          onMode={changeMode}
+          mode="rulers"
           onSpot={view === "explore" ? setSpot : undefined}
           spot={view === "explore" ? spot : undefined}
           lights={lights}
           at={timed && markYear !== undefined ? yearToT(markYear) : undefined}
           onLight={mapless ? undefined : openStop}
-          spin={view === "intro" || view === "quiz"}
+          spin={view === "quiz"}
         />
         {view === "prophets" && <ProphetTree prophets={prophets} selected={prophet} onSelect={setProphet} />}
         {view === "villains" && <VillainLine villains={villains} ages={villainAges} signs={endSigns} selected={villain} onSelect={setVillain} />}
@@ -443,7 +443,7 @@ export function TimelineMain({
             </svg>
             <span>More</span>
           </button>
-          {view !== "intro" && (
+          {(
             <button
               type="button"
               className="tl-back"
@@ -481,29 +481,6 @@ export function TimelineMain({
       </div>
 
       <div className="tl-side">
-        {view === "intro" && (
-          <IntroPanel
-            chapters={chapters}
-            moments={stops.filter((s) => s.type === "event").length}
-            now={now}
-            resume={resume}
-            facts={facts}
-            onWatch={watch}
-            onStart={(i) => {
-              go(i);
-              setView("story");
-            }}
-            onResume={() => resume && openStop(resume.id)}
-            onBirth={(y) => {
-              setBirth(y);
-              setSpot(undefined);
-              setFollow(undefined);
-              explore(y);
-            }}
-            onFact={openStop}
-            onMore={() => setDrawer(true)}
-          />
-        )}
         {view === "story" && (
           <StoryPanel
             stop={stop}
@@ -528,7 +505,7 @@ export function TimelineMain({
           />
         )}
         {view === "explore" && !riverPlaying && (
-          <ExplorePanel year={year} data={data} spot={spot} birth={birth} onStep={stepYear} onOpen={open} onClearSpot={() => setSpot(undefined)} />
+          <ExplorePanel year={year} data={data} spot={spot} onStep={stepYear} onOpen={open} onClearSpot={() => setSpot(undefined)} />
         )}
         {view === "prophets" && <ProphetPanel prophets={prophets} selected={prophet} onSelect={setProphet} onOpenStop={openStop} />}
         {view === "villains" && (

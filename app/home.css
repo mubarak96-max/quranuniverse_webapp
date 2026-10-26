@@ -44,15 +44,6 @@ body:has(.home) .site-footer {
   stroke-linejoin: round;
 }
 
-.hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  align-items: center;
-  gap: clamp(32px, 5vw, 72px);
-  padding: clamp(20px, 5vw, 56px) 0 clamp(40px, 6vw, 64px);
-}
-
-.hero-eyebrow,
 .reflection-source {
   margin: 0;
   font-size: 11px;
@@ -63,155 +54,277 @@ body:has(.home) .site-footer {
   color: var(--reward);
 }
 
-.hero h1 {
-  font-family: var(--display);
-  font-size: clamp(40px, 4.6vw, 62px);
-  font-weight: 500;
-  letter-spacing: -0.04em;
-  line-height: 1.08;
-  margin: 24px 0 20px;
-  text-wrap: balance;
-}
-
-.hero h1 em {
-  font-style: normal;
-}
-
-.hero .lede {
-  margin: 0;
-  max-width: 46ch;
-  font-family: var(--display);
-  font-size: clamp(19px, 2vw, 23px);
-  line-height: 1.5;
-}
-
-.hero-cta {
-  display: inline-flex;
-  align-items: center;
-  gap: 20px;
-  height: 52px;
-  margin-top: 32px;
-  padding: 0 28px;
-  border-radius: 999px;
-  background: linear-gradient(115deg, color-mix(in srgb, var(--idea) 88%, var(--fg)), var(--idea));
-  color: var(--page);
-  font-size: 15px;
-  font-weight: 500;
-  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
-}
-
-.hero-cta:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 22px -12px color-mix(in srgb, var(--idea) 55%, transparent);
-}
-
-.hero-cta:active {
-  transform: translateY(0);
-}
-
-.hero-meta {
-  color: var(--muted);
-  font-size: 12px;
-  line-height: 1.7;
-  margin: 20px 0 0;
-}
-
-.hero-tiles {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+/* Entry points to the three sections of the site. */
+.verse-finder {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.hero-tiles a {
-  position: relative;
-  height: 100%;
-  min-height: 160px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 2px;
-  padding: 14px 8px 26px;
-  text-align: center;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 12px 14px;
+  margin-bottom: clamp(28px, 4vw, 40px);
+  padding: 20px 22px;
   background: var(--page);
   border: 1px solid var(--line);
-  border-radius: 12px;
-  box-shadow: var(--shadow);
-  transition: transform 0.3s var(--ease), border-color 0.2s;
+  border-radius: 16px;
 }
 
-.hero-tiles a:hover {
-  transform: translateY(-3px);
-  border-color: color-mix(in srgb, var(--idea) 45%, var(--line));
+.finder-field {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
 }
 
-.hero-tiles .ar {
-  font-size: clamp(24px, 2.6vw, 32px);
-  line-height: 1.35;
-  color: var(--fg);
+.finder-field > span,
+.finder-field > label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
-.hero-tiles .num {
-  width: 32px;
-  height: 32px;
-  margin-bottom: 4px;
-  font-size: 10px;
+.finder-surah {
+  position: relative;
+}
+
+.finder-combo,
+.finder-stepper {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--bg);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.finder-combo:focus-within,
+.finder-stepper:focus-within {
+  border-color: var(--idea);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--idea) 14%, transparent);
+}
+
+.finder-stepper:has([aria-invalid="true"]) {
+  border-color: var(--reward);
+}
+
+.finder-combo {
+  gap: 10px;
+  padding: 0 14px 0 6px;
+  cursor: pointer;
+}
+
+.finder-combo .num,
+.finder-list .num {
+  width: 40px;
+  height: 40px;
+  font-size: 12px;
   color: var(--ornament);
 }
 
-.hero-tiles .num > span {
+.finder-combo .num > span,
+.finder-list .num > span {
   color: var(--fg);
 }
 
-.hero-tiles b {
-  font-family: var(--display);
-  font-size: 17px;
+.finder-combo input,
+.finder-stepper input {
+  flex: 1;
+  min-width: 0;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--fg);
+  font: 500 16px var(--ui);
+  outline: none;
+}
+
+.finder-combo input {
+  cursor: inherit;
+}
+
+.finder-combo.is-open input {
+  cursor: text;
+}
+
+.finder-combo input::placeholder,
+.finder-stepper input::placeholder {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.finder-ar {
+  font-size: 20px;
+  color: var(--reward);
+  white-space: nowrap;
+}
+
+.finder-combo.is-open .finder-ar {
+  display: none;
+}
+
+.finder-chevron {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: var(--muted);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: transform 0.25s var(--ease);
+}
+
+.finder-combo.is-open .finder-chevron {
+  transform: rotate(180deg);
+}
+
+.finder-list {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  max-height: 340px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: var(--page);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow), 0 18px 40px -20px color-mix(in srgb, var(--fg) 30%, transparent);
+  animation: finder-in 0.18s var(--ease);
+}
+
+@keyframes finder-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+
+.finder-list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 12px 6px 4px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.finder-list li.is-active {
+  background: var(--rewardBg);
+}
+
+.finder-list li[aria-selected="true"] b {
+  color: var(--idea);
+}
+
+.finder-opt-name {
+  flex: 1;
+  display: grid;
+  min-width: 0;
+}
+
+.finder-opt-name b {
+  font-size: 15px;
   font-weight: 500;
 }
 
-.hero-tiles small {
-  font-size: 11px;
-  line-height: 1.4;
+.finder-opt-name small {
+  font-size: 12px;
   color: var(--muted);
 }
 
-.hero-tag {
-  position: absolute;
-  bottom: 8px;
+.finder-list .ar {
+  font-size: 19px;
   color: var(--reward);
-  font-size: 10px;
-  font-weight: 500;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
-@media (max-width: 900px) {
-  .hero {
-    grid-template-columns: minmax(0, 1fr);
-  }
+.finder-list .finder-empty {
+  padding: 14px;
+  color: var(--muted);
+  font-size: 14px;
+  cursor: default;
+}
+
+.finder-stepper input {
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.finder-stepper button {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  margin: 0 7px;
+  border: 0;
+  border-radius: 50%;
+  background: var(--rewardBg);
+  color: var(--reward);
+  font: 500 18px var(--ui);
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.2s var(--ease);
+}
+
+.finder-stepper button:hover:not(:disabled) {
+  transform: scale(1.08);
+}
+
+.finder-stepper button:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.finder-go {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  height: 52px;
+  padding: 0 24px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--idea);
+  color: var(--page);
+  font: 500 15px var(--ui);
+  cursor: pointer;
+  transition: transform 0.25s var(--ease), opacity 0.2s;
+}
+
+.finder-go:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+.finder-go:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.finder-hint {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.finder-hint.is-error {
+  color: var(--reward);
 }
 
 @media (max-width: 520px) {
-  .hero-tiles {
-    gap: 8px;
+  .verse-finder {
+    grid-template-columns: minmax(0, 1fr) auto;
+    padding: 16px;
   }
-  .hero-tiles a {
-    min-height: 142px;
-    padding: 12px 4px 24px;
-  }
-  .hero-tiles b {
-    font-size: 15px;
-  }
-  .hero-tiles small {
-    display: none;
+
+  .finder-surah {
+    grid-column: 1 / -1;
   }
 }
 
-/* Entry points to the three sections of the site. */
 .modules {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

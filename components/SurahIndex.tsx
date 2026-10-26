@@ -8,12 +8,16 @@ export type SurahEntry = { id: number; name: string; transliteration: string; pl
 // Folds "Al-Baqarah", "al baqara" and "baqarah" onto the same search key.
 const fold = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 
-export function SurahIndex({ surahs }: { surahs: SurahEntry[] }) {
-  const [query, setQuery] = useState("");
+export function matchSurahs(surahs: SurahEntry[], query: string): SurahEntry[] {
   const q = fold(query);
-  const shown = q
+  return q
     ? surahs.filter((s) => String(s.id) === q || fold(s.transliteration).includes(q) || s.name.includes(query.trim()))
     : surahs;
+}
+
+export function SurahIndex({ surahs }: { surahs: SurahEntry[] }) {
+  const [query, setQuery] = useState("");
+  const shown = matchSurahs(surahs, query);
 
   return (
     <section className="index" aria-labelledby="index-title">

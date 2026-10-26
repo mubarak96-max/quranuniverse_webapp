@@ -45,6 +45,7 @@ export const metadata: Metadata = {
   twitter: { card: "summary" },
   robots: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
   verification: { google: "DPfuvFbxN91o3jOkC7wh6PhPL0upqnkspZ9lCPe0kns" },
+  other: { "google-adsense-account": "ca-pub-8237514940582521" },
 };
 
 export const viewport: Viewport = {
@@ -71,6 +72,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <style dangerouslySetInnerHTML={{ __html: themeCss() }} />
+        {/* Plain script, not next/script: AdSense rejects the data-nscript attribute next/script adds. */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8237514940582521"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className={`${geist.variable} ${newsreader.variable} ${arabic.variable}`}>
         <a href="#main" className="skip">

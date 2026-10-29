@@ -1,0 +1,473 @@
+/* ---------- Islamic Crossword: the board inside the shared play stage ---------- */
+.gs-play:has(.cw-board) {
+  max-width: 1040px;
+}
+
+.cw-round {
+  gap: 10px;
+}
+
+.cw-round > .gs-kicker {
+  margin: 0;
+}
+
+.cw-board {
+  flex: 1;
+  display: grid;
+  gap: 18px;
+}
+
+/* On a phone the keyboard rests at the bottom of the screen, where thumbs are. */
+.cw-main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cw-clock {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cw-clock b {
+  font-family: var(--display);
+  font-size: 19px;
+  font-variant-numeric: tabular-nums;
+  color: var(--gs-gold);
+}
+
+.cw-helped {
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: rgba(224, 122, 98, 0.18);
+  color: #f2b3a3;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* The grid fills the width, but never so tall that the clue bar and keyboard fall off a phone screen. */
+.cw-grid {
+  container-type: inline-size;
+  width: min(100%, max(250px, calc((100dvh - 420px) * var(--cols) / var(--rows))));
+  margin: auto auto 0;
+  display: grid;
+  gap: 3px;
+}
+
+.cw-block {
+  aspect-ratio: 1;
+}
+
+.cw-cell {
+  position: relative;
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: max(3px, calc(100cqw / var(--cols) * 0.14));
+  background: var(--gs-paper);
+  color: #1d3431;
+  font-family: var(--display);
+  font-size: calc(100cqw / var(--cols) * 0.54);
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 0 #cfc5a8;
+  transition: background-color 0.18s, color 0.18s, transform 0.18s var(--ease);
+}
+
+.cw-cell small {
+  position: absolute;
+  top: 6%;
+  left: 9%;
+  font-family: var(--ui);
+  font-size: max(8px, calc(100cqw / var(--cols) * 0.22));
+  font-weight: 700;
+  color: #6b766f;
+}
+
+.cw-cell.is-word {
+  background: #f3e2b3;
+}
+
+.cw-cell.is-active {
+  background: #e6c67c;
+  box-shadow: 0 2px 0 var(--gs-gold-deep), inset 0 0 0 2px #9c7835;
+  transform: translateY(-1px);
+}
+
+.cw-cell.is-solved {
+  background: #dcefe7;
+  color: #1f5d52;
+  box-shadow: 0 2px 0 #9fcabd;
+}
+
+.cw-cell.is-solved.is-word {
+  background: #c9e7dc;
+}
+
+.cw-cell.is-solved.is-active {
+  background: #b5dccf;
+  box-shadow: 0 2px 0 #3f9a88, inset 0 0 0 2px #3f9a88;
+}
+
+.cw-cell.is-revealed span {
+  color: #a34c3e;
+}
+
+.cw-cell.is-wrong {
+  background: #fbe3dc;
+  color: #b2452f;
+  box-shadow: 0 2px 0 #c46a55;
+}
+
+.cw-cell.is-flash {
+  animation: cw-flash 0.7s var(--ease) both;
+  animation-delay: calc(var(--i) * 55ms);
+}
+
+.cw-cell.is-shake {
+  animation: gs-shake 0.4s;
+}
+
+@keyframes cw-flash {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.16);
+    background: #fff1c7;
+    box-shadow: 0 0 18px rgba(217, 183, 106, 0.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Spare height on a phone goes above the grid, keeping clue, hints and keyboard together under the thumb. */
+.cw-cluebar {
+  margin-top: auto;
+  display: grid;
+  grid-template-columns: 44px 1fr 44px;
+  align-items: stretch;
+  min-height: 60px;
+  border-radius: 16px;
+  background: rgba(247, 243, 230, 0.09);
+  border: 1px solid rgba(247, 243, 230, 0.12);
+  overflow: hidden;
+}
+
+.cw-arrow {
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: none;
+  color: var(--gs-cream);
+  cursor: pointer;
+}
+
+.cw-arrow:hover {
+  background: rgba(247, 243, 230, 0.08);
+}
+
+.cw-arrow svg,
+.cw-key svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.cw-clue {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 4px;
+  border: 0;
+  background: none;
+  color: var(--gs-cream);
+  font: inherit;
+  font-size: 15px;
+  line-height: 1.35;
+  text-align: left;
+  cursor: pointer;
+}
+
+.cw-clue b {
+  flex: none;
+  padding: 3px 8px;
+  border-radius: 8px;
+  background: var(--gs-gold);
+  color: #2a2110;
+  font-size: 13px;
+}
+
+.cw-clue small,
+.cw-lists small {
+  opacity: 0.6;
+}
+
+.cw-help {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.cw-help-btn {
+  display: grid;
+  justify-items: center;
+  padding: 7px 4px;
+  border: 1px dashed rgba(217, 183, 106, 0.5);
+  border-radius: 12px;
+  background: none;
+  color: var(--gs-gold);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cw-help-btn small {
+  font-weight: 400;
+  font-size: 11px;
+  opacity: 0.7;
+}
+
+.cw-help-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.cw-keys {
+  display: grid;
+  gap: 6px;
+  padding-top: 2px;
+}
+
+.cw-keyrow {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.cw-key {
+  flex: 1;
+  max-width: 44px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  background: rgba(247, 243, 230, 0.14);
+  color: var(--gs-cream);
+  font: inherit;
+  font-size: 17px;
+  font-weight: 600;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.35);
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.cw-key:active {
+  background: var(--gs-gold);
+  color: #2a2110;
+  transform: translateY(2px);
+  box-shadow: none;
+}
+
+.cw-key.is-wide {
+  flex: 1.6;
+  max-width: 70px;
+}
+
+.cw-lists {
+  display: none;
+}
+
+@media (min-width: 900px) {
+  .cw-board {
+    grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+    align-items: start;
+  }
+
+  .cw-grid {
+    width: min(100%, max(300px, calc((100dvh - 330px) * var(--cols) / var(--rows))));
+  }
+
+  .cw-lists {
+    display: grid;
+    gap: 16px;
+    max-height: calc(100dvh - 150px);
+    overflow-y: auto;
+    padding-right: 4px;
+  }
+
+  .cw-lists h3 {
+    margin: 0 0 6px;
+    font-family: var(--display);
+    font-size: 19px;
+    color: var(--gs-gold);
+  }
+
+  .cw-lists ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 2px;
+  }
+
+  .cw-lists button {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    padding: 7px 10px;
+    border: 0;
+    border-radius: 10px;
+    background: none;
+    color: var(--gs-cream);
+    font: inherit;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .cw-lists button:hover {
+    background: rgba(247, 243, 230, 0.07);
+  }
+
+  .cw-lists button.is-active {
+    background: rgba(217, 183, 106, 0.18);
+  }
+
+  .cw-lists button.is-solved span {
+    opacity: 0.5;
+    text-decoration: line-through;
+    text-decoration-color: rgba(95, 179, 163, 0.8);
+  }
+
+  .cw-lists b {
+    flex: none;
+    min-width: 20px;
+    color: var(--gs-gold);
+  }
+}
+
+/* A physical keyboard replaces the on-screen one on desktop. */
+@media (hover: hover) and (pointer: fine) and (min-width: 900px) {
+  .cw-keys {
+    display: none;
+  }
+}
+
+/* Result: the answers with a line about each one. */
+.cw-criteria {
+  margin: -4px 0 0;
+  font-size: 13px;
+  opacity: 0.7;
+}
+
+.cw-result .gs-actions {
+  margin-top: 4px;
+}
+
+.cw-answers {
+  text-align: left;
+}
+
+.cw-answers h3 {
+  margin: 6px 0 8px;
+  font-family: var(--display);
+  font-size: 22px;
+  text-align: center;
+}
+
+.cw-answers ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.cw-answers li {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: rgba(247, 243, 230, 0.06);
+}
+
+.cw-answers li > b {
+  color: var(--gs-gold);
+  font-size: 13px;
+}
+
+.cw-answers li div {
+  display: grid;
+  gap: 2px;
+}
+
+.cw-answers strong {
+  font-family: var(--display);
+  font-size: 18px;
+  letter-spacing: 0.04em;
+}
+
+.cw-answers span {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.cw-answers small {
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: #9fd8c9;
+}
+
+.cw-daily-end {
+  display: grid;
+  gap: 6px;
+}
+
+.cw-daily-end .game-stats {
+  margin: 4px 0;
+}
+
+.cw-daily-end .game-stats div {
+  background: rgba(247, 243, 230, 0.07);
+}
+
+.cw-daily-end .game-stats dt,
+.cw-daily-end .game-next {
+  color: rgba(247, 243, 230, 0.65);
+}
+
+.cw-daily-end .game-stats dd,
+.cw-daily-end .game-next b {
+  color: var(--gs-cream);
+}
+
+.cw-daily-end .game-btn {
+  min-height: 50px;
+  padding: 0 24px;
+  border: 0;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #e6c67c, var(--gs-gold));
+  color: #2a2110;
+  font-weight: 700;
+  box-shadow: 0 4px 0 var(--gs-gold-deep);
+}
+
+.cw-daily-end .game-note {
+  color: #9fd8c9;
+}

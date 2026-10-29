@@ -327,7 +327,7 @@ body:has(.home) .site-footer {
 
 .modules {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: clamp(10px, 1.6vw, 18px);
   margin-bottom: clamp(40px, 6vw, 64px);
 }

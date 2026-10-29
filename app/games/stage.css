@@ -1,0 +1,590 @@
+/* ---------- Shared play stage for every game: full-screen stage, HUD, buttons, tiles, results ---------- */
+.game-page,
+.gs-stage {
+  --gs-ink: #0e2623;
+  --gs-deep: #163a35;
+  --gs-gold: #d9b76a;
+  --gs-gold-deep: #9c7835;
+  --gs-cream: #f7f3e6;
+  --gs-paper: #fbf7ea;
+  --gs-teal: #5fb3a3;
+  --gs-red: #e07a62;
+}
+
+.gs-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 54px;
+  padding: 0 28px;
+  border: 0;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #e6c67c, var(--gs-gold, #d9b76a));
+  color: #2a2110;
+  font: inherit;
+  font-size: 16.5px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #9c7835, 0 10px 24px -10px rgba(217, 183, 106, 0.7);
+  transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), filter 0.2s;
+}
+
+.gs-cta:hover {
+  filter: brightness(1.05);
+}
+
+.gs-cta:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 #9c7835, 0 4px 12px -8px rgba(217, 183, 106, 0.7);
+}
+
+.gs-cta:focus-visible,
+.gs-ghost:focus-visible {
+  outline: 3px solid var(--gs-teal, #5fb3a3);
+  outline-offset: 3px;
+}
+
+html.gs-lock,
+html.gs-lock body {
+  overflow: hidden;
+}
+
+.gs-stage {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  color: var(--gs-cream);
+  background: linear-gradient(180deg, var(--gs-deep), var(--gs-ink) 60%);
+  animation: gs-in 0.35s var(--ease);
+}
+
+.gs-stage.is-loading {
+  display: grid;
+  place-items: center;
+}
+
+.gs-failed {
+  display: grid;
+  gap: 10px;
+  max-width: 340px;
+  padding: 0 16px;
+  text-align: center;
+}
+
+.gs-kicker:focus {
+  outline: none;
+}
+
+.gs-spinner {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 3px solid rgba(247, 243, 230, 0.15);
+  border-top-color: var(--gs-gold);
+  animation: gs-spin 0.8s linear infinite;
+}
+
+.gs-backdrop {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 46vh;
+  background: center 30% / cover no-repeat;
+  opacity: 0.38;
+  mask-image: linear-gradient(180deg, #000 10%, transparent);
+  -webkit-mask-image: linear-gradient(180deg, #000 10%, transparent);
+  pointer-events: none;
+}
+
+.gs-play {
+  position: relative;
+  height: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: max(12px, env(safe-area-inset-top)) 16px max(16px, env(safe-area-inset-bottom));
+}
+
+.gs-hud {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.gs-icon {
+  flex: none;
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  border-radius: 12px;
+  background: rgba(247, 243, 230, 0.08);
+  color: var(--gs-cream);
+  cursor: pointer;
+}
+
+.gs-icon svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.gs-bar {
+  flex: 1;
+  height: 12px;
+  border-radius: 999px;
+  background: rgba(247, 243, 230, 0.1);
+  overflow: hidden;
+}
+
+.gs-bar i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--gs-teal), #9fe0cf);
+  box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.12), inset 0 3px 0 rgba(255, 255, 255, 0.25);
+  transition: width 0.5s var(--ease);
+}
+
+.gs-status {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 12px 2px 0;
+  font-size: 13.5px;
+}
+
+.gs-lv {
+  opacity: 0.7;
+}
+
+.gs-xp {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  animation: gs-pulse 0.4s var(--ease);
+}
+
+.gs-xp b {
+  font-family: var(--display);
+  font-size: 19px;
+  color: var(--gs-gold);
+}
+
+.gs-combo {
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #e6c67c, #f0a35e);
+  color: #2a1a06;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+}
+
+.gs-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0 4px;
+  animation: gs-rise 0.4s var(--ease);
+}
+
+.gs-round {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.gs-kicker {
+  margin: 8px 0 0;
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--gs-gold);
+}
+
+.gs-round .gs-cta {
+  width: 100%;
+  margin-top: auto;
+}
+
+/* A question round sits in the middle of the stage; once its feedback panel appears, that panel drops to the bottom. */
+.gs-round.is-centred > .gs-kicker:first-child {
+  margin-top: auto;
+}
+
+.gs-round.is-centred:not(:has(.gs-feedback)) > :last-child {
+  margin-bottom: auto;
+}
+
+.gs-ghost {
+  min-height: 48px;
+  border: 0;
+  background: none;
+  color: var(--gs-cream);
+  font: inherit;
+  font-weight: 600;
+  opacity: 0.75;
+  cursor: pointer;
+}
+
+.gs-dots {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+}
+
+.gs-dots i {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(247, 243, 230, 0.2);
+  transition: width 0.3s var(--ease), background-color 0.3s;
+}
+
+.gs-dots i.is-past {
+  background: var(--gs-teal);
+}
+
+.gs-dots i.is-on {
+  width: 24px;
+  background: var(--gs-gold);
+}
+
+.gs-hint {
+  align-self: center;
+  display: grid;
+  justify-items: center;
+  padding: 8px 18px;
+  border: 1px dashed rgba(217, 183, 106, 0.6);
+  border-radius: 14px;
+  background: none;
+  color: var(--gs-gold);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.gs-hint small {
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+/* Tiles and options: parchment buttons with a pressable edge. */
+.gs-tile,
+.gs-option {
+  width: 100%;
+  min-height: 60px;
+  padding: 6px 12px;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  background: var(--gs-paper);
+  color: #1d3431;
+  font: inherit;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #cfc5a8;
+  transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), opacity 0.35s, background-color 0.2s, border-color 0.2s;
+}
+
+.gs-tile.ar,
+.gs-option.ar {
+  font-family: var(--arabic);
+  font-size: 29px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.gs-tile:active:not(:disabled),
+.gs-option:active:not(:disabled) {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 #cfc5a8;
+}
+
+.gs-tile.is-picked {
+  border-color: var(--gs-gold);
+  background: #fff5d9;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 var(--gs-gold-deep), 0 0 0 4px rgba(217, 183, 106, 0.25);
+}
+
+.gs-tile.is-done {
+  opacity: 0;
+  transform: scale(0.85);
+  pointer-events: none;
+}
+
+.gs-tile.is-pop {
+  animation: gs-matched 0.5s var(--ease);
+}
+
+.gs-tile.is-wrong,
+.gs-option.is-wrong {
+  border-color: var(--gs-red);
+  background: #fbe3dc;
+  box-shadow: 0 4px 0 #c46a55;
+  animation: gs-shake 0.4s;
+}
+
+.gs-option.is-right {
+  border-color: #3f9a88;
+  background: #dff3ec;
+  box-shadow: 0 4px 0 #3f9a88;
+  animation: gs-pop 0.45s var(--ease);
+}
+
+.gs-option.is-faded {
+  opacity: 0.4;
+}
+
+.gs-options {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.gs-options.is-ar {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.gs-prompt {
+  display: grid;
+  place-items: center;
+  min-height: 130px;
+  padding: 10px 18px;
+  border-radius: 24px;
+  background: rgba(247, 243, 230, 0.06);
+  border: 1px solid rgba(247, 243, 230, 0.1);
+  font-family: var(--display);
+  font-size: clamp(26px, 7vw, 34px);
+  font-weight: 600;
+  text-align: center;
+}
+
+.gs-prompt.ar {
+  font-family: var(--arabic);
+  font-size: clamp(56px, 16vw, 78px);
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.gs-timer {
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(247, 243, 230, 0.1);
+  overflow: hidden;
+}
+
+.gs-timer i {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--gs-red), var(--gs-gold));
+  transform-origin: left;
+  animation: gs-drain linear forwards;
+}
+
+.gs-feedback {
+  display: grid;
+  gap: 10px;
+  margin-top: auto;
+  padding: 14px 16px 16px;
+  border-radius: 20px;
+  animation: gs-rise 0.3s var(--ease);
+}
+
+.gs-feedback p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.gs-feedback.is-right {
+  background: rgba(95, 179, 163, 0.16);
+  border: 1px solid rgba(95, 179, 163, 0.35);
+}
+
+.gs-feedback.is-wrong {
+  background: rgba(224, 122, 98, 0.14);
+  border: 1px solid rgba(224, 122, 98, 0.35);
+}
+
+.gs-feedback .ar {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+/* Level complete */
+.gs-complete {
+  text-align: center;
+  gap: 14px;
+}
+
+.gs-stars {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.gs-stars svg {
+  width: 62px;
+  height: 62px;
+  fill: rgba(247, 243, 230, 0.12);
+}
+
+.gs-stars svg:nth-child(2) {
+  width: 80px;
+  height: 80px;
+}
+
+.gs-stars svg.is-on {
+  fill: var(--gs-gold);
+  filter: drop-shadow(0 0 12px rgba(217, 183, 106, 0.6));
+  animation: gs-star 0.6s var(--ease) both;
+}
+
+.gs-title {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(32px, 8vw, 42px);
+  font-weight: 600;
+}
+
+.gs-tally {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+}
+
+.gs-tally div {
+  padding: 10px 6px;
+  border-radius: 14px;
+  background: rgba(247, 243, 230, 0.07);
+}
+
+.gs-tally dt {
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.65;
+}
+
+.gs-tally dd {
+  margin: 2px 0 0;
+  font-family: var(--display);
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--gs-gold);
+}
+
+.gs-actions {
+  display: grid;
+  gap: 4px;
+  margin-top: auto;
+  padding-top: 6px;
+}
+
+@keyframes gs-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes gs-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes gs-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+
+@keyframes gs-card {
+  from {
+    opacity: 0;
+    transform: translateX(40px) rotate(2deg);
+  }
+}
+
+@keyframes gs-pop {
+  40% {
+    transform: scale(1.08);
+  }
+}
+
+@keyframes gs-matched {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  35% {
+    opacity: 1;
+    transform: scale(1.08);
+    background: #dff3ec;
+    border-color: #3f9a88;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+}
+
+@keyframes gs-shake {
+  20%,
+  60% {
+    transform: translateX(-6px);
+  }
+  40%,
+  80% {
+    transform: translateX(6px);
+  }
+}
+
+@keyframes gs-pulse {
+  40% {
+    transform: scale(1.12);
+  }
+}
+
+@keyframes gs-drain {
+  to {
+    transform: scaleX(0);
+  }
+}
+
+@keyframes gs-star {
+  from {
+    opacity: 0;
+    transform: scale(0.2) rotate(-40deg);
+  }
+  70% {
+    transform: scale(1.18) rotate(6deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* The timer bar is information, not decoration, so it keeps draining. */
+  .gs-stage,
+  .gs-stage :not(.gs-timer > i) {
+    animation-duration: 0.01ms !important;
+  }
+}

@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 export default function NamesPage() {
   const names = getNames();
   return (
-    <div className="names-page">
+    <div className="paper names-page">
       <JsonLd
         data={{
           "@type": "CollectionPage",
@@ -35,8 +35,8 @@ export default function NamesPage() {
           ]),
         }}
       />
-      <header className="names-head">
-        <p className="title-ar" lang="ar" dir="rtl">
+      <header className="paper-head">
+        <p className="ar names-title-ar" lang="ar" dir="rtl">
           الأسماء الحسنى
         </p>
         <h1>The 99 Names of Allah</h1>

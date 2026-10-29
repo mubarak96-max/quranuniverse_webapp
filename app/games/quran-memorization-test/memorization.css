@@ -1,0 +1,460 @@
+/* ---------- Quran Memorization Test: the hifz journey map (shared parts in app/games/map.css) ---------- */
+.hz-review {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  min-height: 52px;
+  padding: 0 18px;
+  border: 1px solid rgba(217, 183, 106, 0.45);
+  border-radius: 16px;
+  background: rgba(217, 183, 106, 0.1);
+  color: var(--gs-cream);
+  font: inherit;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.hz-review:hover {
+  background: rgba(217, 183, 106, 0.18);
+}
+
+.hz-review b {
+  color: var(--gs-gold);
+}
+
+.hz-review span {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.hz-search {
+  position: relative;
+  display: grid;
+  gap: 6px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--page);
+}
+
+.hz-search label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.hz-search input {
+  width: 100%;
+  min-height: 46px;
+  padding: 0 14px;
+  border: 1.5px solid var(--line);
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--fg);
+  font: inherit;
+  font-size: 16px;
+}
+
+.hz-search input:focus {
+  outline: none;
+  border-color: var(--idea);
+}
+
+.hz-search ul {
+  list-style: none;
+  margin: 4px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 4px;
+}
+
+.hz-search ul button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 46px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 12px;
+  background: var(--soft);
+  color: var(--fg);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.hz-search ul button:hover {
+  background: var(--ideaBg);
+  color: var(--idea);
+}
+
+.hz-search .ar {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.gs-chapters.hz-chapters {
+  gap: 12px;
+}
+
+.hz-locked {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 56px;
+  padding: 0 18px;
+  border-radius: 16px;
+  background: var(--soft);
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.hz-locked b {
+  color: var(--fg);
+}
+
+.hz-lock {
+  margin-left: auto;
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+}
+
+.hz-banner-ring {
+  position: absolute;
+  left: 18px;
+  top: 16px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px 4px 6px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gs-gold);
+}
+
+.hz-mini {
+  width: 22px;
+  height: 22px;
+  flex: none;
+  transform: rotate(-90deg);
+}
+
+.hz-mini circle {
+  fill: none;
+  stroke-width: 3.5;
+}
+
+.hz-mini-track {
+  stroke: color-mix(in srgb, currentColor 22%, transparent);
+}
+
+.hz-mini-fill {
+  stroke: var(--gs-gold);
+  stroke-linecap: round;
+}
+
+.gs-path.hz-path {
+  gap: 26px;
+}
+
+.hz-node-name {
+  max-width: 12em;
+  font-size: 13.5px;
+  font-weight: 600;
+  text-align: center;
+  color: var(--gs-cream);
+  opacity: 0.85;
+}
+
+/* ---------- Rounds inside the shared play stage ---------- */
+.hz-read-title {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.hz-read-title small {
+  display: block;
+  font-family: var(--ui);
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+.hz-passage {
+  display: grid;
+  gap: 4px;
+  padding: 16px;
+  border-radius: 22px;
+  background: var(--gs-paper);
+  color: #1d3431;
+  box-shadow: 0 6px 0 #d8cfb4, 0 24px 40px -24px rgba(0, 0, 0, 0.8);
+}
+
+.hz-passage .hz-en {
+  margin: -4px 0 10px;
+  color: #3d5450;
+  background: none;
+  padding: 0;
+}
+
+.hz-toggle {
+  align-self: center;
+  border: 0;
+  background: none;
+  color: var(--gs-gold);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.hz-ayah {
+  margin: 0;
+  font-family: var(--arabic);
+  font-size: clamp(25px, 6.6vw, 32px);
+  line-height: 1.9;
+  text-align: center;
+}
+
+.hz-ayah.is-dim {
+  font-size: clamp(21px, 5.4vw, 26px);
+  opacity: 0.6;
+}
+
+.hz-mark {
+  color: var(--gs-gold);
+  font-size: 0.85em;
+}
+
+.hz-passage .hz-mark {
+  color: var(--gs-gold-deep);
+}
+
+.hz-en {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(247, 243, 230, 0.06);
+  font-size: 15px;
+  line-height: 1.6;
+  text-align: center;
+  opacity: 0.88;
+}
+
+.hz-gap {
+  display: inline-block;
+  min-width: 2.6em;
+  padding: 0 8px;
+  border-bottom: 3px dashed rgba(247, 243, 230, 0.45);
+  line-height: 1.5;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+/* An empty gap is bidi-neutral and can drift to the wrong side of the verse mark; hidden tatweels keep it in the Arabic run. */
+.hz-gap-fill {
+  color: transparent;
+}
+
+.hz-gap.is-now {
+  border-bottom-color: var(--gs-gold);
+  background: rgba(217, 183, 106, 0.14);
+  border-radius: 10px 10px 0 0;
+  animation: gs-pulse 1.6s var(--ease) infinite;
+}
+
+.hz-gap.is-right {
+  border-bottom: 0;
+  border-radius: 10px;
+  background: var(--gs-gold);
+  color: #2a2110;
+  animation: gs-pop 0.45s var(--ease);
+}
+
+.hz-gap.is-missed {
+  border-bottom: 0;
+  border-radius: 10px;
+  background: rgba(224, 122, 98, 0.35);
+}
+
+.gs-option.hz-line {
+  min-height: 64px;
+  font-size: clamp(21px, 5.4vw, 25px);
+  line-height: 1.7;
+}
+
+.gs-option.is-gone {
+  opacity: 0;
+  transform: scale(0.9);
+  pointer-events: none;
+}
+
+.hz-placed {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.hz-placed li {
+  min-height: 52px;
+  display: grid;
+  place-items: center;
+  border: 2px dashed rgba(247, 243, 230, 0.18);
+  border-radius: 14px;
+}
+
+.hz-placed li.is-on {
+  border: 0;
+  background: rgba(95, 179, 163, 0.16);
+  animation: gs-pop 0.4s var(--ease);
+}
+
+.hz-placed .hz-ayah {
+  padding: 2px 12px;
+  font-size: clamp(20px, 5.2vw, 24px);
+  line-height: 1.7;
+}
+
+.hz-slot {
+  font-size: 14px;
+  font-weight: 600;
+  opacity: 0.55;
+}
+
+.hz-spot {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 6px 4px;
+}
+
+.hz-word {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 8px;
+  border: 0;
+  border-radius: 12px;
+  background: rgba(247, 243, 230, 0.06);
+  box-shadow: inset 0 0 0 1px rgba(247, 243, 230, 0.12);
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.hz-word:hover:not(:disabled) {
+  background: rgba(247, 243, 230, 0.14);
+}
+
+.hz-word:disabled {
+  cursor: default;
+}
+
+.hz-word.is-fixed {
+  background: var(--gs-gold);
+  color: #2a2110;
+  animation: gs-pop 0.45s var(--ease);
+}
+
+.hz-word.is-wrong {
+  background: rgba(224, 122, 98, 0.3);
+  animation: gs-shake 0.4s;
+}
+
+.hz-word small {
+  margin-top: -6px;
+  padding-bottom: 6px;
+  font-size: 17px;
+  line-height: 1.3;
+  text-decoration: line-through;
+  text-decoration-thickness: 1.5px;
+  opacity: 0.7;
+}
+
+.hz-revise {
+  display: grid;
+  gap: 8px;
+  padding: 14px;
+  border-radius: 18px;
+  background: rgba(224, 122, 98, 0.1);
+  border: 1px solid rgba(224, 122, 98, 0.3);
+  text-align: left;
+}
+
+.hz-revise p {
+  margin: 0;
+  font-size: 14.5px;
+}
+
+.hz-revise ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.hz-revise li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.hz-revise a {
+  flex: none;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gs-gold);
+}
+
+.hz-revise .ar {
+  min-width: 0;
+  overflow: hidden;
+  font-size: 20px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.hz-clean {
+  margin: 0;
+  padding: 14px;
+  border-radius: 18px;
+  background: rgba(95, 179, 163, 0.14);
+  font-size: 15px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hz-gap.is-now {
+    animation: none;
+  }
+}
+
+.hz-read .gs-cta {
+  position: sticky;
+  bottom: 0;
+}
+
+.hz-review {
+  width: 100%;
+}
+
+.hz-more {
+  justify-content: center;
+  background: none;
+  border: 1.5px dashed var(--line);
+}

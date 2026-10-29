@@ -4,6 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { parseFrontmatter } from "../lib/markdown.ts";
+import { GAMES, gameHref } from "../lib/games.ts";
 import { SITE, absUrl } from "../lib/site.ts";
 import { surahTitle } from "../lib/surah-meta.ts";
 
@@ -45,6 +46,11 @@ const lines = [
   "",
   `- [All 99 names](${absUrl("/names")})`,
   ...names.map((n) => `- [${n.number}. ${n.transliteration} (${n.arabic})](${absUrl(`/names/${n.slug}`)}): ${n.meaning}`),
+  "",
+  "## Quran games",
+  "",
+  `- [All games](${absUrl("/games")}): free Quran quiz games and puzzles, playable in the browser`,
+  ...GAMES.map((g) => `- [${g.name}](${absUrl(gameHref(g))}): ${g.description}`),
   "",
   "## About",
   "",

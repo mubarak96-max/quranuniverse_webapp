@@ -115,7 +115,7 @@ export default async function NamePage({ params }: { params: Params }) {
   });
 
   return (
-    <div className="verse-page name-page">
+    <article className="paper name-page">
       <JsonLd data={nameJsonLd(name, page)} />
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href="/names">Names of Allah</Link>
@@ -123,170 +123,153 @@ export default async function NamePage({ params }: { params: Params }) {
         <span>{t}</span>
       </nav>
 
-      <section className="verse-block name-hero">
-        <span className="vkey">Name {name.number} of 99</span>
+      <header className="paper-head">
+        <p className="kicker">Name {name.number} of 99</p>
         <p className="ar name-ar" lang="ar" dir="rtl">
           {name.arabic}
         </p>
-        <h1 className="translit name-translit">
-          {t} <span>· {name.meaning}</span>
-        </h1>
+        <h1>{t}</h1>
+        <p className="name-meaning">{name.meaning}</p>
         <p className="name-intro">{pageDescription(name, page)}</p>
-        <div className="name-meta">
-          {page && (
-            <p className="name-root">
-              <span className="lab">Root</span>
-              <span className="ar" lang="ar" dir="rtl">
-                {page.root.letters}
+        {(page || verses.length > 0) && (
+          <p className="name-facts">
+            {page && (
+              <span>
+                Root{" "}
+                <span className="ar" lang="ar" dir="rtl">
+                  {page.root.letters}
+                </span>{" "}
+                {page.root.sense}
               </span>
-              <span>{page.root.sense}</span>
-            </p>
-          )}
-          {verses.length > 0 && <NameVerses name={t} verses={verses} />}
-        </div>
-      </section>
+            )}
+            {verses.length > 0 && <NameVerses name={t} verses={verses} />}
+          </p>
+        )}
+      </header>
 
       {page ? (
-        <article className="card name-card">
-          <div className="card-top">
-            <span className="eyebrow">
-              {t} · {name.arabic}
-            </span>
-            <span className="pill">Name {name.number}</span>
-          </div>
-          <h2 className="card-title">{page.title}</h2>
-          <p className="card-sub">{page.subtitle}</p>
-          <hr />
+        <>
+          <hr className="rule" />
+          <h2 className="name-title">{page.title}</h2>
+          <p className="name-sub">{page.subtitle}</p>
 
-          <div className="dia">
-            <div className="lab">{page.picture.label}</div>
+          <div className="name-figure">
+            <p className="lab">{page.picture.label}</p>
             <BoxRow row={page.picture.row} />
           </div>
-          <div className="dia">
-            <div className="lab">{page.key.label}</div>
+          <div className="name-figure">
+            <p className="lab">{page.key.label}</p>
             <BoxRow row={page.key.row} />
           </div>
 
-          <section className="name-part">
+          <section>
             <h2>Who He is as {t}</h2>
-            <div className="text">
-              <Paras paras={page.knowing} story />
-            </div>
+            <Paras paras={page.knowing} story />
           </section>
 
-          <section className="name-part">
+          <section>
             <h2>Where you see {t} at work</h2>
-            <div className="text">
-              <Paras paras={page.seeing} />
-            </div>
+            <Paras paras={page.seeing} />
           </section>
 
-          <section className="name-part">
+          <section>
             <h2>Handing your affairs to Him</h2>
-            <div className="text">
-              <Paras paras={page.trusting} />
-              <p className="story">
-                <Rich text={page.now} />
-              </p>
-              <div className="shift">
-                <p className="old">{page.old}</p>
-                <p className="new">{page.new}</p>
-              </div>
-            </div>
+            <Paras paras={page.trusting} />
+            <p>
+              <Rich text={page.now} />
+            </p>
+            <p className="old">{page.old}</p>
+            <p className="new">{page.new}</p>
           </section>
 
-          <section className="name-part">
+          <section>
             <h2>Why the heart loves Him for it</h2>
-            <div className="text">
-              <Paras paras={page.loving} />
-            </div>
+            <Paras paras={page.loving} />
           </section>
 
-          <div className="name-dua">
-            <div className="lab">Call on Him</div>
+          <blockquote className="name-dua">
+            <p className="lab">Call on Him</p>
             <p>{page.dua.text}</p>
             <small>{page.dua.note}</small>
-          </div>
+          </blockquote>
 
-          <div className="try">
-            <div className="lab">Try this today</div>
-            <p>{page.try}</p>
-          </div>
+          <p className="name-try">
+            <span className="lab">Try this today</span>
+            {page.try}
+          </p>
 
           {page.pairs.length > 0 && (
-            <div className="name-pairs">
-              <div className="lab">Read it with</div>
-              <ul>
+            <section>
+              <h2>Read it with</h2>
+              <ul className="name-pairs">
                 {page.pairs.map((p) => {
                   const other = getNameBySlug(p.slug)!;
                   return (
                     <li key={p.slug}>
                       <Link href={nameHref(other)}>
+                        <b>{other.transliteration}</b>{" "}
                         <span className="ar" lang="ar" dir="rtl">
                           {other.arabic}
                         </span>
-                        <b>{other.transliteration}</b>
-                        <small>{p.why}</small>
                       </Link>
+                      <span>{p.why}</span>
                     </li>
                   );
                 })}
               </ul>
-            </div>
+            </section>
           )}
 
-          <div className="card-foot">
-            <span>
-              Drawn from the book Asma al Husna
-              {page.lessons.length > 0 && (
-                <>
-                  {" "}
-                  and Ustadh Hisham Abu Yusuf&rsquo;s lessons:{" "}
-                  {getNameLessons(page.lessons).map((l, i) => (
-                    <span key={l.n}>
-                      {i > 0 && ", "}
-                      <a href={`https://www.youtube.com/watch?v=${l.video}`} rel="noopener" target="_blank">
-                        {l.title}
-                      </a>
-                    </span>
-                  ))}
-                </>
-              )}
-            </span>
-            {page.meta.status !== "approved" && <span className="status">{page.meta.status}</span>}
-          </div>
-        </article>
+          <section className="name-faq">
+            <h2>Questions about {t}</h2>
+            {page.faq.map((f) => (
+              <div key={f.q}>
+                <h3>{f.q}</h3>
+                <p>{f.a}</p>
+              </div>
+            ))}
+          </section>
+        </>
       ) : (
-        <section className="name-part">
+        <section>
           <h2>Meaning</h2>
           <p>{name.description}</p>
         </section>
       )}
 
-      {page && (
-        <section className="name-faq">
-          <h2>Questions about {t}</h2>
-          {page.faq.map((f) => (
-            <details key={f.q} className="drawer">
-              <summary>{f.q}</summary>
-              <p>{f.a}</p>
-            </details>
-          ))}
-        </section>
-      )}
-
-      <details className="drawer">
+      <details className="name-arabic">
         <summary>Explanation in Arabic</summary>
-        <p className="ar name-ar-text" lang="ar" dir="rtl">
+        <p className="ar" lang="ar" dir="rtl">
           {name.meaningAr}
         </p>
       </details>
 
-      <nav className="pager" aria-label="Name navigation">
+      {page && (
+        <footer className="name-source">
+          Drawn from the book Asma al Husna
+          {page.lessons.length > 0 && (
+            <>
+              {" "}
+              and Ustadh Hisham Abu Yusuf&rsquo;s lessons:{" "}
+              {getNameLessons(page.lessons).map((l, i) => (
+                <span key={l.n}>
+                  {i > 0 && ", "}
+                  <a href={`https://www.youtube.com/watch?v=${l.video}`} rel="noopener" target="_blank">
+                    {l.title}
+                  </a>
+                </span>
+              ))}
+            </>
+          )}
+          {page.meta.status !== "approved" && <span className="status"> · {page.meta.status}</span>}
+        </footer>
+      )}
+
+      <nav className="paper-pager" aria-label="Name navigation">
         {prev ? (
-          <Link href={nameHref(prev)} className="prev">
+          <Link href={nameHref(prev)}>
             <small>← Previous</small>
-            <b>{prev.transliteration}</b>
+            {prev.transliteration}
           </Link>
         ) : (
           <span />
@@ -294,12 +277,12 @@ export default async function NamePage({ params }: { params: Params }) {
         {next ? (
           <Link href={nameHref(next)} className="next">
             <small>Next →</small>
-            <b>{next.transliteration}</b>
+            {next.transliteration}
           </Link>
         ) : (
           <span />
         )}
       </nav>
-    </div>
+    </article>
   );
 }

@@ -4,13 +4,14 @@ import { SurahIndex, type SurahEntry } from "@/components/SurahIndex";
 import { VerseFinder } from "@/components/VerseFinder";
 import { getSurahs, getTranslation, surahHref } from "@/lib/data";
 
-function HomeIcon({ name }: { name: "book" | "clock" | "arch" | "heart" | "leaf" }) {
+function HomeIcon({ name }: { name: "book" | "clock" | "arch" | "heart" | "leaf" | "puzzle" }) {
   const paths = {
     book: "M12 5C9 3 5 3 2 4v15c3-1 7-1 10 1 3-2 7-2 10-1V4c-3-1-7-1-10 1Zm0 0v15",
     clock: "M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 4v5l4 2",
     arch: "M4 21V11c0-4 6-5 8-9 2 4 8 5 8 9v10M2 21h20M9 21v-5a3 3 0 0 1 6 0v5M4 13h16",
     heart: "M12 21 3.5 12.5C-2 7 5 0 10.5 5.5L12 7l1.5-1.5C19 0 26 7 20.5 12.5Z",
     leaf: "M4 20C1 10 8 4 21 3c-1 13-7 20-17 17Zm0 0L16 8",
+    puzzle: "M4 4h6v2a2 2 0 1 0 4 0V4h6v6h-2a2 2 0 1 0 0 4h2v6h-6v-2a2 2 0 1 0-4 0v2H4v-6h2a2 2 0 1 0 0-4H4Z",
   };
   return <svg className="home-icon" viewBox="0 0 24 24" aria-hidden="true"><path d={paths[name]} /></svg>;
 }
@@ -43,6 +44,11 @@ export default function Home() {
           <span className="module-icon"><HomeIcon name="arch" /></span>
           <b>Names of Allah</b>
           <small>The 99 Beautiful Names, their meanings and verses</small>
+        </Link>
+        <Link href="/games" className="module">
+          <span className="module-icon"><HomeIcon name="puzzle" /></span>
+          <b>Quran Games</b>
+          <small>Daily puzzles that test and grow what you know</small>
         </Link>
       </nav>
       <section className="home-reflection" aria-labelledby="reflection-title">

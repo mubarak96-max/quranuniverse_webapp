@@ -1,0 +1,383 @@
+/* ---------- Ayah Builder: what its journey map does differently from the shared map (app/games/map.css) ---------- */
+.ab-map .gs-summary {
+  background:
+    radial-gradient(120% 90% at 0% 0%, rgba(217, 183, 106, 0.2), transparent 60%),
+    linear-gradient(160deg, var(--gs-deep), var(--gs-ink));
+}
+
+/* A row of arches along the top edge, the game's building motif. */
+.ab-map .gs-summary::before {
+  inset: 0 0 auto;
+  height: 46px;
+  background: radial-gradient(circle at 50% 100%, transparent 15px, rgba(217, 183, 106, 0.1) 16px, transparent 17px) 0 0 / 40px 46px repeat-x;
+  opacity: 1;
+}
+
+.ab-summary-head {
+  display: grid;
+  gap: 6px;
+}
+
+.ab-summary-head b {
+  font-family: var(--display);
+  font-size: clamp(28px, 6vw, 36px);
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+/* Daily verse card */
+.ab-daily {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 16px 18px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: var(--page);
+  color: var(--fg);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s var(--ease), border-color 0.2s;
+}
+
+.ab-daily:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--gs-gold) 60%, var(--line));
+}
+
+.ab-daily:focus-visible {
+  outline: 3px solid var(--gs-teal);
+  outline-offset: 3px;
+}
+
+.ab-daily-icon {
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  border-radius: 14px;
+  background: linear-gradient(160deg, var(--gs-deep), var(--gs-ink));
+}
+
+.ab-daily-icon svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--gs-gold);
+}
+
+.ab-daily b {
+  display: block;
+  font-family: var(--display);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.ab-daily small {
+  font-size: 13.5px;
+  color: var(--muted);
+}
+
+.ab-daily-go {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--gs-gold);
+  color: #2a2110;
+  font-weight: 800;
+}
+
+.ab-daily.is-done .ab-daily-go {
+  background: var(--gs-teal);
+  color: #08221e;
+}
+
+.ab-map .gs-path {
+  padding-top: 34px;
+  background: radial-gradient(60% 40% at 50% 0%, rgba(217, 183, 106, 0.1), transparent);
+}
+
+/* Level nodes are arches: a round top on a square base, like the stones the verses are built from. */
+.ab-map .gs-node {
+  width: 62px;
+  height: 70px;
+  padding-top: 8px;
+  border-radius: 31px 31px 10px 10px;
+}
+
+.ab-map .gs-node.is-current {
+  width: 76px;
+  height: 86px;
+  border-radius: 38px 38px 12px 12px;
+}
+
+.ab-map .gs-node.is-current::after {
+  content: none;
+}
+
+/* The "Build" tag sits in the path above the arch rather than floating over it. */
+.ab-map .gs-node-tag {
+  position: static;
+}
+
+.ab-map .gs-node-tag::after {
+  content: none;
+}
+
+/* ---------- Ayah Builder: a verse on the play stage ---------- */
+.ab-round {
+  gap: 14px;
+}
+
+.ab-guide {
+  margin: 0;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: rgba(247, 243, 230, 0.07);
+  border: 1px solid rgba(247, 243, 230, 0.1);
+  font-family: var(--display);
+  font-size: clamp(17px, 4.4vw, 20px);
+  line-height: 1.5;
+  text-align: center;
+  text-wrap: pretty;
+}
+
+.ab-guide.is-hidden {
+  font-family: var(--ui);
+  font-size: 14px;
+  opacity: 0.6;
+}
+
+.ab-slots {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 6px;
+}
+
+.ab-slots li {
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  min-width: 58px;
+  min-height: 70px;
+  padding: 4px 8px;
+  border: 1.5px dashed rgba(247, 243, 230, 0.22);
+  border-radius: 14px;
+  transition: border-color 0.2s, background-color 0.3s;
+}
+
+.ab-slots li.is-next {
+  border-color: var(--gs-gold);
+  background: rgba(217, 183, 106, 0.08);
+  animation: ab-glow 1.6s ease-in-out infinite;
+}
+
+.ab-slots li.is-placed {
+  border: 1.5px solid transparent;
+  background: rgba(95, 179, 163, 0.16);
+  animation: ab-snap 0.45s var(--ease);
+}
+
+.ab-slots.is-solved li.is-placed {
+  background: rgba(217, 183, 106, 0.18);
+}
+
+.ab-slots .ar {
+  font-size: clamp(24px, 6.4vw, 30px);
+  line-height: 1.55;
+}
+
+.ab-slots small {
+  max-width: 8em;
+  font-size: 11.5px;
+  line-height: 1.25;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.ab-slot-n {
+  font-size: 13px;
+  font-weight: 700;
+  opacity: 0.35;
+}
+
+.ab-tray {
+  list-style: none;
+  margin: 4px 0 0;
+  padding: 14px 0 0;
+  border-top: 1px solid rgba(247, 243, 230, 0.1);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px 8px;
+}
+
+.ab-tile {
+  min-width: 64px;
+  min-height: 58px;
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  padding: 2px 14px 6px;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  background: var(--gs-paper);
+  color: #1d3431;
+  font: inherit;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #cfc5a8;
+  transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), opacity 0.3s, scale 0.3s var(--ease);
+}
+
+.ab-tile .ar {
+  font-size: clamp(26px, 7vw, 31px);
+  line-height: 1.5;
+}
+
+.ab-tile small {
+  margin-top: -4px;
+  font-family: var(--ui);
+  font-size: 11.5px;
+  font-weight: 600;
+  color: #5d6b66;
+}
+
+.ab-tile:active:not(:disabled) {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 #cfc5a8;
+}
+
+.ab-tile.is-used {
+  opacity: 0;
+  scale: 0.6;
+  pointer-events: none;
+}
+
+.ab-tile.is-wrong {
+  border-color: var(--gs-red);
+  background: #fbe3dc;
+  box-shadow: 0 4px 0 #c46a55;
+  animation: gs-shake 0.4s;
+}
+
+.ab-hints {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-top: auto;
+  padding-top: 6px;
+}
+
+.ab-hints button {
+  display: grid;
+  justify-items: center;
+  padding: 7px 14px;
+  border: 1px dashed rgba(217, 183, 106, 0.55);
+  border-radius: 14px;
+  background: none;
+  color: var(--gs-gold);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.ab-hints small {
+  font-size: 11px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+.ab-solved-ref {
+  font-weight: 600;
+}
+
+.ab-solved-ref a {
+  color: var(--gs-gold);
+}
+
+/* The daily stats and share bar are site components; inside the dark stage they take its colours. */
+.ab-daily-result {
+  --page: rgba(247, 243, 230, 0.08);
+  --soft: rgba(247, 243, 230, 0.08);
+  --fg: var(--gs-cream);
+  --muted: rgba(247, 243, 230, 0.65);
+  --line: rgba(247, 243, 230, 0.15);
+  --idea: var(--gs-gold);
+  display: grid;
+  gap: 4px;
+  color: var(--gs-cream);
+}
+
+.ab-daily-result .game-stats {
+  margin: 4px 0;
+  text-align: center;
+}
+
+.ab-daily-result .game-btn {
+  border-color: var(--gs-gold);
+  background: var(--gs-gold);
+  color: #2a2110;
+}
+
+.ab-built {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.ab-built li {
+  display: grid;
+  gap: 2px;
+  padding: 8px 14px;
+  border-radius: 12px;
+  background: rgba(247, 243, 230, 0.05);
+}
+
+.ab-built .ar {
+  font-size: 20px;
+  line-height: 1.7;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ab-built a {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--gs-gold);
+}
+
+@keyframes ab-snap {
+  0% {
+    transform: scale(0.6);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+}
+
+@keyframes ab-glow {
+  50% {
+    border-color: rgba(217, 183, 106, 0.4);
+  }
+}
+
+/* The verse sits in the middle of the stage, with the hints at the bottom. */
+.ab-round > .gs-kicker:first-child {
+  margin-top: auto;
+}

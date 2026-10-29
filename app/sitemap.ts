@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getArticles } from "@/lib/articles";
+import { GAMES, gameHref } from "@/lib/games";
 import { getSurahs, surahHref } from "@/lib/data";
 import { getJourneyIds } from "@/lib/journey";
 import { getNames, nameHref } from "@/lib/names";
@@ -27,6 +28,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...getLibraryRefs().map((r) => at(refHref(r), 0.6)),
     at("/names", 0.9),
     ...getNames().map((n) => at(nameHref(n), 0.7)),
+    at("/games", 0.8),
+    ...GAMES.map((g) => at(gameHref(g), 0.8)),
     ...getArticles().map((a) => at(`/learn/${a.slug}`, 0.8, a.updated)),
     ...surahs.map((s) => at(surahHref(s.id), 0.9)),
     ...surahs.flatMap((s) => s.verses.map((v) => at(surahHref(s.id, v.id), 0.6))),

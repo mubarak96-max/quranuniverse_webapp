@@ -5,14 +5,14 @@
   "scripts": {
     "dev": "next dev -p 4195",
     "predev": "node tools/copy-maplibre-worker.mjs",
-    "prebuild": "node tools/gen_llms.mjs && node tools/copy-maplibre-worker.mjs",
+    "prebuild": "node tools/gen_llms.mjs && node tools/gen_games.mjs && node tools/copy-maplibre-worker.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "validate:timeline": "node tools/validate-timeline.mjs",
     "dev:vinext": "vite dev --port 3001",
     "predev:vinext": "node tools/copy-maplibre-worker.mjs",
-    "prebuild:vinext": "node tools/gen_llms.mjs && node tools/copy-maplibre-worker.mjs",
+    "prebuild:vinext": "node tools/gen_llms.mjs && node tools/gen_games.mjs && node tools/copy-maplibre-worker.mjs",
     "build:vinext": "vite build",
     "start:vinext": "vite preview",
     "deploy:vinext": "vinext-cloudflare deploy --warm-cache"

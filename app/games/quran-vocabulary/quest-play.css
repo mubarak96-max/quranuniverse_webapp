@@ -1,0 +1,225 @@
+/* ---------- Quran Word Quest: rounds inside the shared play stage ---------- */
+/* Intro cards */
+.wq-card-stack {
+  display: grid;
+  gap: 12px;
+  animation: gs-card 0.45s var(--ease);
+}
+
+.wq-hero-card {
+  display: grid;
+  justify-items: center;
+  gap: 4px;
+  padding: 22px 18px 20px;
+  border-radius: 24px;
+  background: var(--gs-paper);
+  color: #1d3431;
+  box-shadow: 0 6px 0 #d8cfb4, 0 24px 40px -24px rgba(0, 0, 0, 0.8);
+}
+
+.wq-hero-ar {
+  font-size: clamp(54px, 15vw, 76px);
+  line-height: 1.5;
+  color: var(--gs-ink);
+}
+
+.wq-hero-en {
+  font-family: var(--display);
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.wq-hero-n {
+  margin-top: 6px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: #efe4c6;
+  color: #6c5320;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.wq-example {
+  margin: 0;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: rgba(247, 243, 230, 0.06);
+  border: 1px solid rgba(247, 243, 230, 0.1);
+}
+
+.wq-example figcaption {
+  display: grid;
+  gap: 6px;
+  font-size: 14.5px;
+  line-height: 1.55;
+  opacity: 0.88;
+}
+
+/* Verses: each word is its own box so it can carry a gloss and take a tap. */
+.wq-verse {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 4px;
+  margin: 0 0 8px;
+  font-family: var(--arabic);
+  font-size: clamp(25px, 6.4vw, 31px);
+  line-height: 1.7;
+}
+
+.wq-vw {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 6px;
+  border: 0;
+  border-radius: 12px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  transition: background-color 0.2s, color 0.2s, transform 0.2s var(--ease);
+}
+
+.wq-vw.is-tap {
+  background: rgba(247, 243, 230, 0.06);
+  box-shadow: inset 0 0 0 1px rgba(247, 243, 230, 0.12);
+  cursor: pointer;
+}
+
+.wq-vw.is-tap:hover {
+  background: rgba(247, 243, 230, 0.14);
+}
+
+.wq-vw.is-mark {
+  background: var(--gs-gold);
+  color: #2a2110;
+  animation: gs-pop 0.45s var(--ease);
+}
+
+.wq-vw.is-wrong {
+  background: rgba(224, 122, 98, 0.3);
+  animation: gs-shake 0.4s;
+}
+
+.wq-vw-en {
+  max-width: 9em;
+  margin-top: -2px;
+  padding-bottom: 4px;
+  font-family: var(--ui);
+  font-size: 11.5px;
+  line-height: 1.25;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.wq-ref {
+  justify-self: start;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gs-gold);
+}
+
+.wq-ask {
+  margin: 0;
+  text-align: center;
+  font-size: 18px;
+}
+
+.wq-ask b {
+  color: var(--gs-gold);
+}
+
+.wq-translation {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(247, 243, 230, 0.06);
+  font-size: 15px;
+  line-height: 1.6;
+  text-align: center;
+  opacity: 0.88;
+}
+
+.wq-match {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.wq-match ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.wq-unlock {
+  display: grid;
+  gap: 6px;
+  padding: 16px;
+  border-radius: 18px;
+  background: linear-gradient(160deg, rgba(95, 179, 163, 0.18), rgba(95, 179, 163, 0.05));
+  border: 1px solid rgba(95, 179, 163, 0.3);
+}
+
+.wq-unlock span {
+  font-size: 13.5px;
+  opacity: 0.8;
+}
+
+.wq-unlock b {
+  font-family: var(--display);
+  font-size: 40px;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.wq-unlock small {
+  font-size: 12.5px;
+  opacity: 0.7;
+}
+
+.wq-unlock-bar {
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(247, 243, 230, 0.1);
+  overflow: hidden;
+}
+
+.wq-unlock-bar i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--gs-teal), var(--gs-gold));
+}
+
+.wq-learned {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.wq-learned li {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr auto;
+  align-items: center;
+  gap: 10px;
+  padding: 4px 14px;
+  border-radius: 12px;
+  background: rgba(247, 243, 230, 0.05);
+  text-align: left;
+}
+
+.wq-learned .ar {
+  font-size: 24px;
+  line-height: 1.6;
+  text-align: right;
+}
+
+.wq-learned small {
+  opacity: 0.6;
+  font-variant-numeric: tabular-nums;
+}

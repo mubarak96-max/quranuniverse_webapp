@@ -1,0 +1,215 @@
+{
+  "day": 11,
+  "title": "Maryam and 'Isa",
+  "question": "Who is Jesus in the Quran, and why is his mother so honoured?",
+  "emblem": "palm",
+  "intro": [
+    "Maryam (Mary) is the only woman named in the Quran, and a whole surah carries her name. Her son 'Isa (Jesus) is called the Messiah, a word from Allah, and one of the greatest messengers. Muslims love and honour them both.",
+    "Today you will meet the family of 'Imran, Maryam's devotion in the place of prayer, the birth of 'Isa without a father, and his miracles by Allah's permission. You will also see what the Quran affirms about him and where it parts from Christian belief, with care for the verses Muslim scholars themselves read in different ways."
+  ],
+  "passages": [
+    {
+      "ref": "3:42-43",
+      "context": "Maryam grew up in the care of Zakariya, devoted to worship in her prayer chamber (3:37).",
+      "point": "The angels tell her she is chosen and purified \"above the women of the worlds\". Her greatness is her devotion: bow and prostrate with those who bow.",
+      "label": "stated"
+    },
+    {
+      "ref": "19:30-33",
+      "context": "Her people accused her when she returned with a baby, and she pointed to him (19:27-29).",
+      "point": "The newborn speaks, and his first words are \"I am the servant of Allah\". He names his gifts: scripture, prophethood, prayer, and kindness to his mother.",
+      "label": "stated"
+    },
+    {
+      "ref": "4:157-158",
+      "context": "Follows \"a great slander\" against Maryam (4:156).",
+      "point": "The Quran denies that 'Isa was killed or crucified: it \"was made to resemble him to them\", and Allah raised him to Himself.",
+      "label": "differ",
+      "note": "Most scholars read it as another man given his likeness, with 'Isa raised alive. A minority, citing 3:55, read a natural death and a raising in honour."
+    },
+    {
+      "ref": "43:61",
+      "context": "From a passage calling 'Isa \"a servant upon whom We bestowed favor\" (43:59).",
+      "point": "'Isa is tied to knowledge of the Hour. Many Muslims understand this as his return before the end.",
+      "label": "differ",
+      "note": "Many scholars, following reports from Ibn 'Abbas, read it as his descent before the Hour, which hadith in al-Bukhari and Muslim describe. Others read \"it\" as the Quran."
+    }
+  ],
+  "visual": {
+    "kind": "ledger",
+    "title": "What the Quran says about 'Isa",
+    "caption": "Much of the left column is shared with Christians: the virgin birth, the Messiah, the miracles. The right column marks where the Quran parts ways, always insisting that 'Isa himself taught the worship of Allah alone (5:117).",
+    "left": {
+      "title": "The Quran affirms",
+      "items": [
+        {
+          "label": "Virgin birth",
+          "text": "\"No man has touched me.\" Allah says, \"Be.\"",
+          "ref": "3:47"
+        },
+        {
+          "label": "The Messiah",
+          "text": "His title, given before his birth.",
+          "ref": "3:45"
+        },
+        {
+          "label": "A word from Allah",
+          "text": "\"His word which He directed to Mary.\"",
+          "ref": "4:171"
+        },
+        {
+          "label": "Spoke as a baby",
+          "text": "\"I am the servant of Allah.\"",
+          "ref": "19:30"
+        },
+        {
+          "label": "Miracles by permission",
+          "text": "Healing the blind and the leper, raising the dead.",
+          "ref": "3:49"
+        },
+        {
+          "label": "Raised to Allah",
+          "text": "\"Allah raised him to Himself.\"",
+          "ref": "4:158"
+        }
+      ]
+    },
+    "right": {
+      "title": "The Quran rejects",
+      "items": [
+        {
+          "label": "Son of God",
+          "text": "\"It is not [befitting] for Allah to take a son.\"",
+          "ref": "19:35"
+        },
+        {
+          "label": "\"Three\"",
+          "text": "\"Allah is but one God.\"",
+          "ref": "4:171"
+        },
+        {
+          "label": "Worship of him",
+          "text": "He never told people to worship him or Maryam.",
+          "ref": "5:116"
+        },
+        {
+          "label": "That he was killed",
+          "text": "\"They did not kill him.\"",
+          "ref": "4:157"
+        },
+        {
+          "label": "That he was crucified",
+          "text": "\"Nor did they crucify him.\"",
+          "ref": "4:157"
+        },
+        {
+          "label": "Slander of Maryam",
+          "text": "Called \"a great slander\" against her.",
+          "ref": "4:156"
+        }
+      ]
+    }
+  },
+  "word": {
+    "ar": "عَبْدٌ",
+    "tr": "ʿabd",
+    "root": [
+      "ع",
+      "ب",
+      "د"
+    ],
+    "meaning": "Servant, worshipper of Allah",
+    "nuance": "In the Quran, being Allah's ʿabd is the highest honour, not a lowering. It is the first thing 'Isa says of himself (19:30), and the Messiah would \"never disdain\" it (4:172). The Prophet ﷺ is called \"His Servant\" on the Night Journey (17:1). The same root gives ʿibādah, worship.",
+    "refs": [
+      "19:30",
+      "4:172",
+      "17:1"
+    ]
+  },
+  "mixup": {
+    "myth": "Muslims do not believe in Jesus.",
+    "truth": "Believing in 'Isa as a prophet and the Messiah is part of Muslim faith. The Quran tells believers to say they believe in what was given to Moses and Jesus, making \"no distinction between any of them\" (2:136). Muslims honour 'Isa and Maryam deeply; they do not worship them.",
+    "refs": [
+      "2:136",
+      "3:45",
+      "5:46"
+    ]
+  },
+  "remember": [
+    "Maryam is chosen \"above the women of the worlds\" and is the only woman named in the Quran (3:42).",
+    "'Isa was born without a father, as Adam was created without either (3:59): a messenger, the Messiah, and the servant of Allah.",
+    "The Quran says he was not killed or crucified but raised to Allah; most scholars, citing hadith, hold he will return before the Hour."
+  ],
+  "memorize": "3:59",
+  "quiz": [
+    {
+      "q": "What were the first words 'Isa spoke as a baby?",
+      "options": [
+        "\"Peace be upon you.\"",
+        "\"Worship me and my mother.\"",
+        "\"My mother is innocent.\"",
+        "\"I am the servant of Allah.\""
+      ],
+      "answer": 3,
+      "why": "19:30: \"Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.\""
+    },
+    {
+      "q": "To whom does the Quran compare 'Isa's creation?",
+      "options": [
+        "Adam",
+        "Yahya",
+        "Ibrahim"
+      ],
+      "answer": 0,
+      "why": "3:59: \"the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was.\""
+    },
+    {
+      "q": "What does 4:157-158 say happened to 'Isa?",
+      "options": [
+        "He was crucified and rose on the third day",
+        "He was not killed or crucified; Allah raised him to Himself",
+        "He escaped to another land and lived in hiding",
+        "He died of old age in Jerusalem"
+      ],
+      "answer": 1,
+      "why": "4:157-158: \"they did not kill him, nor did they crucify him... Rather, Allah raised him to Himself.\" Scholars differ on the details, but not on this denial."
+    }
+  ],
+  "reflect": "When Zakariya asked Maryam where her provision came from, she said, \"It is from Allah\" (3:37). Where have you found unexpected help in a lonely time?",
+  "deeper": [
+    "3:33-63",
+    "19:16-40",
+    "5:110-118",
+    "4:171-172",
+    "5:46",
+    "61:6",
+    "3:55",
+    "66:12"
+  ],
+  "links": [
+    {
+      "label": "Jesus in the Quran",
+      "href": "/learn/jesus-in-the-quran"
+    },
+    {
+      "label": "Mary in the Quran",
+      "href": "/learn/mary-in-the-quran"
+    },
+    {
+      "label": "'Isa on the timeline",
+      "href": "/timeline/prophets/isa"
+    },
+    {
+      "label": "Read Surah Maryam",
+      "href": "/surah/maryam"
+    }
+  ],
+  "connections": [
+    6,
+    16,
+    17,
+    19
+  ],
+  "review": true,
+  "status": "draft"
+}

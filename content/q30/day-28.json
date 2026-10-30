@@ -1,0 +1,116 @@
+{
+  "day": 28,
+  "title": "Justice, Authority, War and Peace",
+  "question": "When does the Quran allow fighting, and what must never be done in it?",
+  "emblem": "scale",
+  "intro": [
+    "Justice ('adl) runs through the whole Quran. Believers are told to stand firm for it even against themselves, their parents, or a people they dislike. Leaders are to return trusts, judge fairly and consult; those they lead are to obey within what is right.",
+    "Today also covers war, one of the most quoted and misquoted parts of the Quran. Its verses came in a real setting: a community persecuted in Makkah, driven from home, then attacked in Madinah. They permit fighting with conditions and limits, and they keep turning toward peace, treaties, and protection for anyone who asks.",
+    "The day ends with the \"steep path\" of freeing slaves. Where scholars past and present read these verses differently, their views are named."
+  ],
+  "passages": [
+    {
+      "ref": "4:135",
+      "context": "Madinah, addressed to believers as witnesses, in court and in daily life.",
+      "point": "Justice comes first, even against yourself, your parents or relatives, rich or poor. 5:8 adds that hatred of a people must not make you unjust.",
+      "label": "stated"
+    },
+    {
+      "ref": "4:59",
+      "context": "Follows 4:58: return trusts and judge with justice.",
+      "point": "Obey Allah, the Messenger, and those in authority; every dispute goes back to Allah and His Messenger.",
+      "label": "differ",
+      "note": "Some early scholars read \"those in authority\" as rulers (al-Tabari's preference), others as scholars; Ibn Kathir included both. All bound it: al-Bukhari and Muslim report obedience is only in what is right."
+    },
+    {
+      "ref": "22:39",
+      "context": "Many early scholars say this was the first verse to permit fighting, soon after the Hijra.",
+      "point": "Permission is given to those attacked and wronged. 22:40: they were driven from home for saying \"Our Lord is Allah\", and such defence protects monasteries, churches, synagogues and mosques.",
+      "label": "stated"
+    },
+    {
+      "ref": "2:190-192",
+      "context": "Madinah, while Makkan forces still barred Muslims from the Ka'bah.",
+      "point": "Fight only those who fight you, without excess; if they stop, you stop.",
+      "label": "differ",
+      "note": "Ibn 'Abbas, as al-Tabari reports, read \"do not transgress\" as: kill no women, children, elderly or anyone offering peace, and held it binding. Some early scholars held it was widened by 9:36."
+    },
+    {
+      "ref": "8:61",
+      "context": "Revealed after Badr. 8:62 adds that if they intend to deceive, Allah is enough.",
+      "point": "If the enemy inclines to peace, incline to it too and rely on Allah.",
+      "label": "differ",
+      "note": "Some early scholars, including Qatadah, held it was abrogated by later verses in surah 9; others, including Ibn Kathir, held it still applies whenever peace serves the community."
+    },
+    {
+      "ref": "90:12-13",
+      "context": "Makkah, where many early believers were slaves; Abu Bakr freed several, Bilal among them.",
+      "point": "The steep path of real virtue begins with freeing a slave. Later verses made it an expiation (4:92, 5:89, 58:3) and a use of zakah (9:60).",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "decision",
+    "title": "When fighting is permitted, and its limits",
+    "caption": "A simplified guide to the verses as most scholars apply them. Scholars differ on some points, such as whether fighting beyond defence was ever allowed.",
+    "label": "explained",
+    "items": [
+      { "q": "Is a community attacked, expelled or oppressed?", "yes": "Permission to fight back", "no": "No cause: be kind and just (60:8)", "ref": "22:39" },
+      { "q": "Declared by a lawful authority?", "yes": "Classical law: war is a state's decision", "no": "Individuals may not declare war" },
+      { "q": "Is the person a fighter?", "yes": "Fight without excess", "no": "Spare women, children, the old, the uninvolved", "ref": "2:190" },
+      { "q": "Do they incline to peace?", "yes": "Incline to it too", "ref": "8:61" },
+      { "q": "Is there a treaty they have kept?", "yes": "Honour it to its term", "ref": "9:4" },
+      { "q": "Does someone ask for protection?", "yes": "Grant it; escort them to safety", "ref": "9:6" },
+      { "q": "Are there captives?", "yes": "Free them, by grace or ransom", "ref": "47:4" }
+    ]
+  },
+  "word": {
+    "ar": "عَدْل",
+    "tr": "ʿadl",
+    "root": ["ع", "د", "ل"],
+    "meaning": "Justice; balance",
+    "nuance": "To make level, like weights on an even scale. 'Adl gives each person their due; 16:90 pairs it with ihsan, giving more than is due. The Quran asks for it even toward people we dislike (5:8).",
+    "refs": ["16:90", "5:8"]
+  },
+  "mixup": {
+    "myth": "The Quran tells Muslims to fight all non-Muslims everywhere.",
+    "truth": "The Quran ties fighting to aggression, oppression and broken treaties (2:190, 4:75, 9:13), forbids attacking those who stay out and offer peace (4:90), and allows kindness to those who do not fight (60:8). Verses like 9:5 address the Arabian polytheists of that time, and 9:4 exempts those who kept their treaties. Classical jurists also allowed state-led wars of expansion; many modern scholars limit fighting to defence.",
+    "refs": ["2:190", "4:90", "60:8"]
+  },
+  "remember": [
+    "Justice is owed to everyone, even against yourself or toward a people you dislike (4:135, 5:8).",
+    "Fighting is permitted against aggression and oppression, without transgressing, and it stops when the enemy stops or seeks peace (2:190-192, 8:61).",
+    "Freeing slaves is called the steep path of virtue, and the law opened many doors to it (90:12-13, 24:33)."
+  ],
+  "memorize": "16:90",
+  "quiz": [
+    {
+      "q": "In 4:135, justice must be upheld even against whom?",
+      "options": ["Only strangers", "Only enemies", "Only the rich", "Yourself, your parents and relatives"],
+      "answer": 3,
+      "why": "4:135: \"be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives.\""
+    },
+    {
+      "q": "According to 2:190, whom are believers told to fight?",
+      "options": ["Those who fight them", "Anyone of another faith", "Anyone who refuses Islam", "All who live nearby"],
+      "answer": 0,
+      "why": "2:190: \"Fight in the way of Allah those who fight you but do not transgress. Indeed. Allah does not like transgressors.\""
+    },
+    {
+      "q": "What does 9:6 say to do when a polytheist asks for protection?",
+      "options": ["Turn him away", "Imprison him", "Grant it, then take him to a place of safety", "Force him to convert"],
+      "answer": 2,
+      "why": "9:6: \"grant him protection so that he may hear the words of Allah. Then deliver him to his place of safety.\" 2:256 adds there is no compulsion in religion."
+    }
+  ],
+  "reflect": "Is there someone you find it hard to be fair to, and what would 5:8 ask of you with them?",
+  "deeper": ["4:58", "5:8", "42:38", "3:159", "5:89", "16:91-92", "22:40", "2:193-194", "4:75", "4:90", "9:4-7", "9:13", "60:8-9", "47:4", "5:32", "24:33"],
+  "links": [
+    { "label": "What does jihad mean?", "href": "/learn/what-does-jihad-mean" },
+    { "label": "Is Islam a religion of peace?", "href": "/learn/is-islam-a-religion-of-peace" },
+    { "label": "Read 4:135", "href": "/surah/an-nisa/135" }
+  ],
+  "connections": [14, 16, 27, 29],
+  "review": true,
+  "status": "draft"
+}

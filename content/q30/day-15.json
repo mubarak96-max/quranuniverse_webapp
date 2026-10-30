@@ -1,0 +1,162 @@
+{
+  "day": 15,
+  "title": "Three Kinds of People",
+  "question": "Why does al-Baqarah give the deniers two verses and the hypocrites thirteen?",
+  "emblem": "people",
+  "intro": [
+    "Al-Baqarah, the longest surah, opens with three portraits. The believers are mindful of Allah and trust what they cannot see. The deniers have closed themselves to the message. The hypocrites say \"we believe\" with their tongues while their hearts say otherwise.",
+    "Two words help here. Kufr means covering over: rejecting, or being ungrateful for, a truth that has become clear. Shirk means giving Allah partners in worship, which Luqman calls \"great injustice\" (31:13). The Quran describes these as states of the heart and choices, not as tribes. Its aim is less to label others than to let each reader ask: which of these am I becoming?"
+  ],
+  "passages": [
+    {
+      "ref": "2:2-5",
+      "context": "The opening of al-Baqarah, a Madinan surah, right after the letters Alif Lam Mim.",
+      "point": "Believers are known by what they do: trust in the unseen, prayer, giving, faith in all revelation, and certainty about the Hereafter.",
+      "label": "stated"
+    },
+    {
+      "ref": "43:22-23",
+      "context": "Makkan. The Prophet's ﷺ opponents answer him, and the verse adds that the wealthy of earlier towns said the same.",
+      "point": "The deniers' oldest excuse: our fathers did it. The Quran asks people to weigh a message on its merits, not on custom.",
+      "label": "stated"
+    },
+    {
+      "ref": "4:142-143",
+      "context": "Madinan. Hypocrisy appears in Madinah, where outward belonging to the Muslims brought safety and standing.",
+      "point": "Hypocrites pray to be seen and waver between both sides. Their problem is a divided heart, not a lack of outward religion.",
+      "label": "stated"
+    },
+    {
+      "ref": "25:63-67",
+      "context": "Makkan. The close of al-Furqan paints \"the servants of the Most Merciful\".",
+      "point": "The believer in motion: a gentle walk, peace to the rude, prayer at night, fear of Hell, and spending that is neither wasteful nor mean.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "columns",
+    "title": "Who gets the most verses?",
+    "caption": "Al-Baqarah's opening gives the believers 4 verses, the deniers 2, and the hypocrites 13, including two parables of a fire and a rainstorm. The hidden danger gets the longest warning.",
+    "unit": "verses",
+    "items": [
+      {
+        "label": "Believers",
+        "value": 4,
+        "text": "Mindful, praying, giving, certain.",
+        "ref": "2:2-5"
+      },
+      {
+        "label": "Deniers",
+        "value": 2,
+        "text": "Warned or not, they refuse.",
+        "ref": "2:6-7"
+      },
+      {
+        "label": "Hypocrites",
+        "value": 13,
+        "text": "\"We believe\" on the tongue; disease in the heart.",
+        "ref": "2:8-20"
+      }
+    ]
+  },
+  "word": {
+    "ar": "تَقْوَى",
+    "tr": "taqwā",
+    "root": [
+      "و",
+      "ق",
+      "ي"
+    ],
+    "meaning": "Mindfulness of Allah; guarding oneself",
+    "nuance": "From the same root as wiqāyah, a shield. Taqwa is living aware of Allah so that the awareness protects you from wrong. The Book is guidance for the muttaqin, the people of taqwa (2:2), and the noblest of people is the one with the most taqwa (49:13).",
+    "refs": [
+      "2:2",
+      "49:13"
+    ]
+  },
+  "mixup": {
+    "myth": "The Quran's hypocrites are believers who have doubts or who keep falling into sin.",
+    "truth": "The hypocrites the Quran describes claimed faith in public while mocking the believers in private (2:14, 63:1). Struggling with doubt or sin is different: the Quran still calls believers who fight each other \"believers\" (49:9) and invites every sinner back (39:53). Many early scholars said that fearing hypocrisy in yourself is a sign of a living faith.",
+    "refs": [
+      "2:14",
+      "63:1",
+      "49:9",
+      "39:53"
+    ]
+  },
+  "remember": [
+    "Al-Baqarah opens with three portraits: believers (4 verses), deniers (2), hypocrites (13).",
+    "Kufr covers over a clear truth; shirk gives Allah partners; hypocrisy is a divided heart.",
+    "These portraits are mirrors for the reader, not labels to throw at others."
+  ],
+  "memorize": "25:63",
+  "quiz": [
+    {
+      "q": "In al-Baqarah's opening, which group is given the most verses?",
+      "options": [
+        "The believers",
+        "The deniers",
+        "The hypocrites"
+      ],
+      "answer": 2,
+      "why": "Believers 2:2-5 (4 verses), deniers 2:6-7 (2), hypocrites 2:8-20 (13), including the parables of the fire and the rainstorm."
+    },
+    {
+      "q": "What excuse do the deniers give in 43:22-23?",
+      "options": [
+        "\"We found our fathers upon a religion\"",
+        "\"No warner ever came to us\"",
+        "\"Our wealth will protect us\"",
+        "\"We were too busy to listen\""
+      ],
+      "answer": 0,
+      "why": "43:22: \"Indeed, we found our fathers upon a religion, and we are in their footsteps [rightly] guided.\" 43:23 says the wealthy of earlier towns said the same."
+    },
+    {
+      "q": "How do the servants of the Most Merciful answer the ignorant who address them harshly?",
+      "options": [
+        "They walk away in silence",
+        "They say words of peace",
+        "They answer harshly back",
+        "They complain to others"
+      ],
+      "answer": 1,
+      "why": "25:63: \"when the ignorant address them [harshly], they say [words of] peace.\""
+    }
+  ],
+  "reflect": "Which quality of the servants of the Most Merciful in 25:63-67 feels closest to you, and which feels furthest away?",
+  "deeper": [
+    "2:1-20",
+    "2:21-29",
+    "23:1-11",
+    "25:63-76",
+    "63",
+    "45:23",
+    "9:67-72",
+    "31:13"
+  ],
+  "links": [
+    {
+      "label": "What do Muslims believe?",
+      "href": "/learn/what-do-muslims-believe"
+    },
+    {
+      "label": "What is tawheed?",
+      "href": "/learn/what-is-tawheed"
+    },
+    {
+      "label": "The hypocrites of Madinah",
+      "href": "/timeline/villains/munafiqun"
+    },
+    {
+      "label": "Read Surah Al-Furqan",
+      "href": "/surah/al-furqan"
+    }
+  ],
+  "connections": [
+    2,
+    14,
+    23
+  ],
+  "status": "draft"
+}

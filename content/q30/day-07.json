@@ -1,0 +1,118 @@
+{
+  "day": 7,
+  "title": "Nuh and the Destroyed Nations",
+  "question": "Why does the Quran keep returning to nations that vanished?",
+  "emblem": "ship",
+  "intro": [
+    "The Quran tells of Nuh and of nations whose ruins lay along routes the Prophet's ﷺ listeners travelled (37:137-138): 'Ad, the people of Hud; Thamud, the people of Salih; the people of Lut; and Madyan, the people of Shu'ayb. Idris is mentioned briefly, as a man of truth raised to a high station (19:56-57).",
+    "These stories are told again and again, often in nearly the same words. That is deliberate. The Quran is showing a pattern: a messenger from among the people calls them to worship Allah alone and to stop a specific wrong. The powerful refuse. Warnings and time are given. Then comes the outcome.",
+    "The Quran calls this sunnat Allah, Allah's unchanging way. It is told as a mirror, not a spectacle."
+  ],
+  "passages": [
+    {
+      "ref": "71:5-9",
+      "context": "Surah Nuh is Nuh's own report to Allah. 29:14 says he stayed among his people 950 years.",
+      "point": "He called them night and day, in public and in private. They put their fingers in their ears. The problem was never a lack of effort.",
+      "label": "stated"
+    },
+    {
+      "ref": "11:42-43",
+      "context": "During the Flood. When Nuh pleads for his son, Allah answers: \"he is not of your family\" (11:46).",
+      "point": "Even a prophet's son was not saved by kinship. Safety lay only in Allah's mercy, and faith is not inherited.",
+      "label": "stated"
+    },
+    {
+      "ref": "26:123-127",
+      "context": "Ash-Shu'ara gives Nuh, Hud, Salih, Lut and Shu'ayb the same opening words (26:106-109, 26:161-164).",
+      "point": "Each messenger asks his people to fear Allah, calls himself trustworthy, and asks no payment. One message, many nations.",
+      "label": "stated"
+    },
+    {
+      "ref": "29:40",
+      "context": "Follows brief accounts of Nuh, Ibrahim, Lut, Shu'ayb, 'Ad, Thamud, Qarun and Pharaoh (29:14-39).",
+      "point": "Each was seized for its own wrongdoing, by stones, a blast, the earth or the flood. Allah did not wrong them; they wronged themselves.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "cycle",
+    "title": "The pattern of the destroyed nations",
+    "caption": "The same five stages repeat across the accounts. Each nation's wrong is different; the pattern is not, because \"you will never find in the way of Allah any change\" (35:43).",
+    "items": [
+      { "label": "A messenger", "text": "\"Their brother\", one of their own, is sent.", "ref": "11:50" },
+      { "label": "The call", "text": "Worship Allah alone, and leave a specific wrong.", "ref": "7:59" },
+      { "label": "Elite rejection", "text": "The eminent call him a liar or in error.", "ref": "7:60" },
+      { "label": "Warning and respite", "text": "Signs, hardship and time to turn back.", "ref": "7:94" },
+      { "label": "The outcome", "text": "Believers saved; those who persist are seized.", "ref": "11:58" }
+    ],
+    "examples": [
+      { "label": "Nuh's people", "text": "Centuries of refusal; taken by the Flood.", "ref": "29:14" },
+      { "label": "'Ad, with Hud", "text": "Proud builders of fortresses; a violent wind.", "ref": "69:6" },
+      { "label": "Thamud, with Salih", "text": "Hamstrung the she-camel; seized by the shriek.", "ref": "11:65-67" },
+      { "label": "Lut's people", "text": "Indecency done openly; a rain of stones.", "ref": "11:82" },
+      { "label": "Madyan, with Shu'ayb", "text": "Cheating in measure and weight; seized by the shriek.", "ref": "11:94" }
+    ]
+  },
+  "word": {
+    "ar": "سُنَّةُ ٱللَّهِ",
+    "tr": "sunnat Allāh",
+    "root": ["س", "ن", "ن"],
+    "meaning": "Allah's established way",
+    "nuance": "A sunnah is a well-trodden path, a way followed again and again. Here it means how Allah deals with nations: He does not destroy towns while their people set things right (11:117), and His way does not change (35:43). The same word names the Prophet's ﷺ way.",
+    "refs": ["33:62", "35:43"]
+  },
+  "mixup": {
+    "myth": "These nations were destroyed suddenly, without warning or a chance to change.",
+    "truth": "Each account shows long warning first. Nuh called his people for 950 years (29:14) and promised them forgiveness, rain and wealth if they turned back (71:10-12). Thamud were given three days (11:65). The Quran says Allah would not destroy towns unjustly while their people were reformers (11:117).",
+    "refs": ["29:14", "11:117"]
+  },
+  "remember": [
+    "Nuh, Hud, Salih, Lut and Shu'ayb brought the same core message to different peoples.",
+    "Each nation had its own wrong: arrogance, cruelty, indecency or cheating in trade.",
+    "Warning and time came first; the outcome followed their own choices (29:40)."
+  ],
+  "memorize": "11:117",
+  "quiz": [
+    {
+      "q": "How long did Nuh stay among his people, according to 29:14?",
+      "options": [
+        "Forty years",
+        "A thousand years minus fifty",
+        "Three hundred years"
+      ],
+      "answer": 1,
+      "why": "29:14: \"he remained among them a thousand years minus fifty years.\" Surah Nuh (71:5-9) shows how he used that time."
+    },
+    {
+      "q": "Which wrong did Shu'ayb especially warn Madyan against?",
+      "options": [
+        "Building a sign on every height",
+        "Harming the she-camel",
+        "Giving short measure and weight"
+      ],
+      "answer": 2,
+      "why": "11:84-85: \"do not decrease from the measure and the scale... give full measure and weight in justice.\" Building on every height was Hud's warning to 'Ad (26:128)."
+    },
+    {
+      "q": "When Nuh's son refused to board, where did he say he would go?",
+      "options": [
+        "To a mountain",
+        "To his mother's house",
+        "To another town",
+        "Back to the idols"
+      ],
+      "answer": 0,
+      "why": "11:43: \"I will take refuge on a mountain to protect me from the water.\" Nuh replied that there is no protector that day except for whom Allah gives mercy."
+    }
+  ],
+  "reflect": "Nuh kept calling for centuries. Is there someone you stopped hoping for whom you could gently try again?",
+  "deeper": ["71", "11:25-95", "7:59-93", "26:105-191", "19:56-57", "54:9-42", "91:11-15"],
+  "links": [
+    { "label": "The Prophet Nuh", "href": "/timeline/prophets/nuh" },
+    { "label": "The people of 'Ad", "href": "/timeline/villains/people-of-ad" },
+    { "label": "The people of Lut", "href": "/timeline/villains/people-of-lut" },
+    { "label": "Read Surah Nuh", "href": "/surah/nuh" }
+  ],
+  "connections": [6, 8, 10, 12],
+  "status": "draft"
+}

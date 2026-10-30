@@ -1,0 +1,140 @@
+{
+  "day": 1,
+  "title": "What Is the Quran?",
+  "question": "What kind of book begins with the word \"Read\"?",
+  "emblem": "book",
+  "intro": [
+    "The Quran is the speech of Allah as Muslims understand it: revealed in Arabic to the Prophet Muhammad ﷺ through the angel Jibril over about 23 years, then recited, memorised and written down.",
+    "It is not arranged like a history book or a novel. It has 114 surahs (chapters) of very different lengths, divided for reading into 30 equal parts called juz. Today you will see its shape, how it arrived, and what it says about itself."
+  ],
+  "passages": [
+    {
+      "ref": "96:1-5",
+      "context": "Revealed in the cave of Hira, near Makkah, around 610 CE.",
+      "point": "The first command is to read, in the name of the Lord who creates and teaches. Knowledge and worship begin together.",
+      "label": "explained",
+      "note": "That these were the very first verses comes from hadith reports in al-Bukhari and Muslim; the verses themselves do not say so."
+    },
+    {
+      "ref": "2:185",
+      "from": "The month of Ramadhan",
+      "to": "criterion.",
+      "context": "From the verses on fasting. Surah al-Qadr (97:1) adds that it came down on the Night of Decree.",
+      "point": "The Quran names its own purpose: guidance, clear proofs, and a criterion to tell right from wrong.",
+      "label": "stated"
+    },
+    {
+      "ref": "17:106",
+      "context": "Answers the objection that a real revelation would arrive all at once (see also 25:32).",
+      "point": "It was sent down in stages over many years, so it could be recited, absorbed and lived step by step.",
+      "label": "stated"
+    },
+    {
+      "ref": "15:9",
+      "context": "A Makkan surah, revealed while the message was still mocked and its believers were few.",
+      "point": "Allah takes the preservation of the Quran upon Himself. Muslims see this in its unbroken memorisation and its written copies.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "anatomy",
+    "title": "The shape of the Quran",
+    "caption": "All 114 surahs in mushaf order, sized by their number of verses. Gold marks surahs revealed in Makkah, teal those revealed in Madinah. The long Madinan surahs come first; the short Makkan ones gather at the end."
+  },
+  "word": {
+    "ar": "هُدًى",
+    "tr": "hudā",
+    "root": [
+      "ه",
+      "د",
+      "ي"
+    ],
+    "meaning": "Guidance",
+    "nuance": "Not just information but direction that leads somewhere. The Quran calls itself hudā for those who are conscious of Allah (2:2). The same root gives hadiyyah, a gift, and al-Hādī, the Guide.",
+    "refs": [
+      "2:2",
+      "17:9"
+    ]
+  },
+  "mixup": {
+    "myth": "The Quran was written as one book, start to finish, in the order we read it.",
+    "truth": "It came down in parts over about 23 years, often in answer to real events. The first verses revealed (96:1-5) sit near the end of the mushaf. The order of verses within each surah was set by the Prophet ﷺ; scholars differ on whether the order of the surahs was too. The written pages were gathered under Abu Bakr and copied into one standard text under 'Uthman.",
+    "refs": [
+      "17:106",
+      "25:32"
+    ]
+  },
+  "remember": [
+    "114 surahs, 30 juz, revealed over about 23 years in Makkah and Madinah.",
+    "It began with \"Read\" and calls itself guidance, clear proof and criterion.",
+    "Its order on the page is not the order of revelation, and Allah promises to preserve it."
+  ],
+  "memorize": "54:17",
+  "quiz": [
+    {
+      "q": "According to hadith reports, which verses were revealed first?",
+      "options": [
+        "Al-Fatihah 1:1-7",
+        "Al-'Alaq 96:1-5",
+        "Al-Baqarah 2:1-5",
+        "An-Nas 114:1-6"
+      ],
+      "answer": 1,
+      "why": "The reports in al-Bukhari describe Jibril telling the Prophet ﷺ \"Read!\" in the cave of Hira, then reciting 96:1-5."
+    },
+    {
+      "q": "In which month does the Quran say it was revealed?",
+      "options": [
+        "Ramadan",
+        "Muharram",
+        "Dhul-Hijjah",
+        "Rajab"
+      ],
+      "answer": 0,
+      "why": "2:185: \"The month of Ramadhan in which was revealed the Qur'an.\" Surah al-Qadr places it on the Night of Decree within that month."
+    },
+    {
+      "q": "How did the Quran reach the Prophet ﷺ?",
+      "options": [
+        "All at once, as a written book",
+        "Only in Madinah, after the Hijra",
+        "In stages over many years"
+      ],
+      "answer": 2,
+      "why": "17:106 and 25:32 say it was sent down progressively. Many scholars, following Ibn 'Abbas, explain 97:1 as its descent to the lowest heaven at once, then to earth in stages."
+    }
+  ],
+  "reflect": "The first word revealed was \"Read\". What do you most hope to understand by the end of these 30 days?",
+  "deeper": [
+    "97",
+    "2:23",
+    "17:88",
+    "25:32",
+    "2:97",
+    "4:82",
+    "20:114"
+  ],
+  "links": [
+    {
+      "label": "What is the Quran?",
+      "href": "/learn/what-is-the-quran"
+    },
+    {
+      "label": "How many surahs and verses?",
+      "href": "/learn/how-many-surahs-and-verses-in-the-quran"
+    },
+    {
+      "label": "Meccan and Medinan surahs",
+      "href": "/learn/meccan-and-medinan-surahs"
+    },
+    {
+      "label": "Read Surah Al-'Alaq",
+      "href": "/surah/al-alaq"
+    }
+  ],
+  "connections": [
+    6,
+    30
+  ],
+  "status": "draft"
+}

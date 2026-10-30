@@ -1,0 +1,119 @@
+{
+  "day": 4,
+  "title": "The Unseen",
+  "question": "What is real but hidden from our eyes?",
+  "emblem": "key",
+  "intro": [
+    "The Quran describes believers as those \"who believe in the unseen\" (2:3). In Arabic this is al-ghayb: what is real but hidden from our senses. Allah Himself, the angels, the jinn, the Throne, the Hereafter and the future all belong to it.",
+    "The Quran tells us some of this, and then stops. Angels bring revelation, record deeds and take souls. Jinn, made from fire, choose belief or disbelief as we do. Iblis, who refused to bow to Adam, was one of them.",
+    "Today also covers sorcery and the evil eye, which the Quran treats as real but never beyond Allah's permission. And it marks the limit: only Allah holds the keys of the unseen. Fortune-tellers claim what the Quran reserves for Him (27:65)."
+  ],
+  "passages": [
+    {
+      "ref": "50:16-18",
+      "context": "From Qaf, a Makkan surah about death and resurrection. 82:10-12 calls these angels \"noble and recording\".",
+      "point": "Two angels sit at the right and left of every person, recording; not one word is missed. And Allah is nearer still.",
+      "label": "stated"
+    },
+    {
+      "ref": "72:1-2",
+      "context": "The Prophet ﷺ learned of this by revelation, as the verse says. 46:29-32 also describes jinn listening to the Quran.",
+      "point": "Jinn hear, understand and choose. This group heard the Quran, recognised its guidance and believed.",
+      "label": "stated"
+    },
+    {
+      "ref": "2:102",
+      "from": "It was not Solomon who disbelieved",
+      "to": "except by permission of Allah.",
+      "context": "It clears Sulayman: sorcery came from devils, not from him.",
+      "point": "Sorcery can harm, even between spouses, but only by Allah's permission. Learning it is tied to disbelief.",
+      "label": "differ",
+      "note": "Most scholars read Harut and Marut as angels sent as a test; a minority read \"two kings\". Tales of their fall come from Jewish and Christian lore (Isra'iliyyat), not the Quran."
+    },
+    {
+      "ref": "6:59",
+      "context": "From al-An'am, a Makkan surah. 31:34 names five things only Allah knows, including the Hour and tomorrow.",
+      "point": "The keys of the unseen are with Allah alone. His knowledge reaches every falling leaf, and all of it is in a clear record.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "ladder",
+    "title": "The unseen, from the highest down",
+    "caption": "The Quran names each of these. Arranging them from the Throne down to the jinn and devils around us is a teaching aid, not an order the Quran gives.",
+    "label": "explained",
+    "items": [
+      { "label": "The Throne", "text": "Above all creation; the Most Merciful is established over it.", "ref": "20:5" },
+      { "label": "The Kursi", "text": "Extends over the heavens and the earth.", "ref": "2:255" },
+      { "label": "Preserved Tablet", "text": "Where the honoured Quran is inscribed.", "ref": "85:21-22" },
+      { "label": "Jibril", "text": "The angel who brought the Quran to the Prophet's ﷺ heart.", "ref": "2:97" },
+      { "label": "Angels", "text": "Winged messengers who never disobey Allah's command.", "ref": "35:1" },
+      { "label": "Angel of death", "text": "Entrusted with taking each soul.", "ref": "32:11" },
+      { "label": "Recording angels", "text": "Noble scribes who know whatever you do.", "ref": "82:10-12" },
+      { "label": "Jinn", "text": "Made from smokeless fire; the righteous and others among them.", "ref": "55:15" },
+      { "label": "Iblis and devils", "text": "Iblis was of the jinn; his kind see us unseen.", "ref": "18:50" }
+    ]
+  },
+  "word": {
+    "ar": "غَيْب",
+    "tr": "ghayb",
+    "root": ["غ", "ي", "ب"],
+    "meaning": "The unseen; what is hidden from the senses",
+    "nuance": "From ghāba, to be absent or to set, as the sun does. The ghayb is not the imaginary; it is the real that is out of sight. Some of it Allah reveals to messengers He approves (72:26-27); its keys stay with Him alone (6:59).",
+    "refs": ["2:3", "72:26-27"]
+  },
+  "mixup": {
+    "myth": "Iblis was an angel who fell, and \"jinn\" is just another word for demons.",
+    "truth": "The Quran says Iblis \"was of the jinn\" (18:50) and was made from fire (7:12), while angels do not disobey (66:6). Most scholars take this at face value; some early commentators said he had lived among the angels. Jinn are not all evil either: \"among us are the righteous, and among us are [others] not so\" (72:11).",
+    "refs": ["18:50", "72:11"]
+  },
+  "remember": [
+    "Belief in the unseen is part of faith: Allah, His angels, books and messengers (2:285).",
+    "Angels obey; jinn choose. Iblis was of the jinn (18:50).",
+    "Sorcery and envy harm only by Allah's permission; only He holds the keys of the unseen (6:59)."
+  ],
+  "memorize": "27:65",
+  "quiz": [
+    {
+      "q": "According to 50:17, where are the two recording angels seated?",
+      "options": [
+        "In front and behind",
+        "On the right and on the left",
+        "Above and below"
+      ],
+      "answer": 1,
+      "why": "50:17: \"When the two receivers receive, seated on the right and on the left.\" 50:18 adds that no word is uttered without an observer ready to record it."
+    },
+    {
+      "q": "What does 2:102 say about the harm done by sorcery?",
+      "options": [
+        "It can override Allah's will",
+        "It only affects disbelievers",
+        "It is entirely imaginary",
+        "It harms no one except by Allah's permission"
+      ],
+      "answer": 3,
+      "why": "2:102: \"But they do not harm anyone through it except by permission of Allah.\" Al-Falaq (113) teaches refuge from it and from the envier."
+    },
+    {
+      "q": "What were the jinn created from, according to 55:15?",
+      "options": [
+        "A smokeless flame of fire",
+        "Light",
+        "Clay"
+      ],
+      "answer": 0,
+      "why": "55:15: \"He created the jinn from a smokeless flame of fire.\" A hadith in Muslim says angels were created from light."
+    }
+  ],
+  "reflect": "If you truly felt that every word you say is being written down, what would you say more of?",
+  "deeper": ["72", "113", "114", "2:285", "35:1", "31:34", "85:21-22", "68:51"],
+  "links": [
+    { "label": "What are jinn?", "href": "/learn/what-are-jinn" },
+    { "label": "Angels in Islam", "href": "/learn/angels-in-islam" },
+    { "label": "The evil eye in Islam", "href": "/learn/evil-eye-in-islam" },
+    { "label": "The four Quls", "href": "/learn/four-quls" }
+  ],
+  "connections": [3, 5, 12, 18],
+  "status": "draft"
+}

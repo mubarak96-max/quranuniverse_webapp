@@ -1,0 +1,113 @@
+{
+  "day": 3,
+  "title": "Decree, Free Will and Suffering",
+  "question": "If Allah has decreed everything, do my choices matter?",
+  "emblem": "hourglass",
+  "intro": [
+    "Muslims believe in qadar: that Allah knows, writes, wills and creates all that happens. The Quran says this plainly. It says just as plainly that people choose, and that they answer for what they choose.",
+    "The two truths sit side by side in the text. Scholars have discussed for centuries how they fit together. What the Quran gives is a way to live with them: act, choose well, trust Allah, and do not be crushed by loss or carried away by gain.",
+    "It also speaks about hardship. Some is a test (2:155), some follows from our own deeds (42:30), and some carries a wisdom we cannot yet see. The story of Musa and a servant of Allah shows that last kind."
+  ],
+  "passages": [
+    {
+      "ref": "57:22-23",
+      "context": "From al-Hadid, a Madinan surah. Scholars explain the \"register\" as the Preserved Tablet.",
+      "point": "Every disaster was known and written before it came. The reason given: so you neither despair over loss nor boast over gain.",
+      "label": "stated"
+    },
+    {
+      "ref": "76:2-3",
+      "context": "The opening of al-Insan, which describes how each person is created.",
+      "point": "Allah gives hearing, sight and a clear way. Whether a person becomes grateful or ungrateful is theirs to choose: that choice is the test.",
+      "label": "stated"
+    },
+    {
+      "ref": "81:27-29",
+      "context": "The close of at-Takwir, a Makkan surah.",
+      "point": "Human will is real: anyone may choose the right course. Yet no one wills outside Allah's will.",
+      "label": "differ",
+      "note": "Most Sunni scholars say Allah creates all acts while people truly choose and are accountable; the Mu'tazilah said people create their own acts. Both rejected fatalism."
+    },
+    {
+      "ref": "4:79",
+      "context": "4:78 answers people who credited good to Allah but blamed the Prophet ﷺ for misfortune.",
+      "point": "Scholars reconcile the two verses: all things come by Allah's decree (4:78), but good is His grace, and harm traces back to our own deeds (42:30).",
+      "label": "explained"
+    }
+  ],
+  "visual": {
+    "kind": "panels",
+    "title": "What Musa saw, and what was hidden",
+    "caption": "Each act looked wrong to Musa. Each had a reason he could not see. The Quran calls the man \"a servant from among Our servants\" (18:65); the name al-Khidr comes from hadith in al-Bukhari.",
+    "items": [
+      { "label": "The ship holed", "text": "He damages a boat that carried them.", "ref": "18:71", "icon": "ship" },
+      { "label": "Kept from a king", "text": "It belonged to poor people; a king seized every sound ship.", "ref": "18:79", "icon": "crown" },
+      { "label": "The boy", "text": "He takes a boy's life, and Musa protests.", "ref": "18:74", "icon": "people" },
+      { "label": "Parents protected", "text": "Believing parents spared; a purer, kinder child in his place.", "ref": "18:80-81", "icon": "heart" },
+      { "label": "The wall rebuilt", "text": "Repaired for free in a town that refused them food.", "ref": "18:77", "icon": "wall" },
+      { "label": "Orphans' treasure", "text": "It hid two orphans' treasure until they came of age.", "ref": "18:82", "icon": "key" }
+    ]
+  },
+  "word": {
+    "ar": "قَدَر",
+    "tr": "qadar",
+    "root": ["ق", "د", "ر"],
+    "meaning": "Measure; decree",
+    "nuance": "The root means to measure and to have power over. \"All things We created with qadar\": with measure, nothing random (54:49). The same root gives al-Qadir, the All-Powerful, and Laylat al-Qadr, the Night of Decree.",
+    "refs": ["54:49", "25:2"]
+  },
+  "mixup": {
+    "myth": "Belief in decree means our choices do not matter, so a person can blame fate for doing wrong.",
+    "truth": "The Quran quotes people who said \"If Allah had willed, we would not have associated\" and rejects that excuse as mere assumption (6:148). It holds each person to what they choose (18:29). Decree is Allah's knowledge and will over all things; it is something to trust after acting, not a reason to stop acting.",
+    "refs": ["6:148", "18:29"]
+  },
+  "remember": [
+    "Everything happens by Allah's knowledge, writing and will (54:49, 57:22).",
+    "People truly choose and are answerable; human will works within Allah's will (81:28-29).",
+    "Hardship may be a test, a consequence, or a hidden mercy, as Musa learned (18:82)."
+  ],
+  "memorize": "64:11",
+  "quiz": [
+    {
+      "q": "Why does 57:23 say disasters were written beforehand?",
+      "options": [
+        "So people stop making plans",
+        "So you neither despair over loss nor exult over gain",
+        "So no one is held responsible",
+        "So the future can be predicted"
+      ],
+      "answer": 1,
+      "why": "57:22-23: it was written \"in order that you not despair over what has eluded you and not exult [in pride] over what He has given you.\""
+    },
+    {
+      "q": "Why did the servant of Allah damage the ship?",
+      "options": [
+        "It belonged to wrongdoers",
+        "Musa had asked him to",
+        "A king was seizing every sound ship by force"
+      ],
+      "answer": 2,
+      "why": "18:79: the ship belonged to poor people working at sea, and a defect would keep it from a king who seized ships by force."
+    },
+    {
+      "q": "What does 81:28-29 say about human will?",
+      "options": [
+        "People will, but only within Allah's will",
+        "People have no will at all",
+        "Allah's will does not touch human choices"
+      ],
+      "answer": 0,
+      "why": "81:28 speaks of \"whoever wills among you to take a right course\"; 81:29 adds \"you do not will except that Allah wills.\""
+    }
+  ],
+  "reflect": "Is there a hardship in your past that you now see differently than you did at the time?",
+  "deeper": ["18:60-82", "2:155-157", "42:30", "2:216", "9:51", "25:2", "6:148"],
+  "links": [
+    { "label": "Why does God allow suffering?", "href": "/learn/why-does-god-allow-suffering" },
+    { "label": "Tawakkul: trust in God", "href": "/learn/tawakkul-trust-in-god" },
+    { "label": "Patience in Islam", "href": "/learn/sabr-patience-in-islam" },
+    { "label": "Read Musa's journey in al-Kahf", "href": "/surah/al-kahf/60" }
+  ],
+  "connections": [2, 4, 10, 23],
+  "status": "draft"
+}

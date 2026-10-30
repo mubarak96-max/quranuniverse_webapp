@@ -1,0 +1,14 @@
+{
+  "name": "The Quran in 30 Days",
+  "short_name": "Quran 30",
+  "description": "A guided course in 30 short booklets that maps the whole Quran.",
+  "start_url": "/quran-in-30-days",
+  "scope": "/quran-in-30-days",
+  "display": "standalone",
+  "background_color": "#172522",
+  "theme_color": "#172522",
+  "icons": [
+    { "src": "/brand/logo-mark.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

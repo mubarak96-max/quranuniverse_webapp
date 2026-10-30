@@ -1,0 +1,165 @@
+{
+  "day": 20,
+  "title": "Judgment",
+  "question": "What happens when every deed, even the smallest, is placed on the scale?",
+  "emblem": "scale",
+  "intro": [
+    "After the Horn and the raising comes the reckoning. The Quran shows it in many scenes: people gathered in groups, books of deeds laid open, hands and feet speaking, scales set up, and each person suddenly alone with what they brought.",
+    "Two promises run through every scene. Nothing is lost, not even an atom's weight of good. And no one is wronged. Today you will meet the records, the witnesses and the scales, see what the Quran says about intercession (pleading on someone's behalf), and look at a verse scholars read in different ways: 19:71, often linked to the bridge called the Sirat."
+  ],
+  "passages": [
+    {
+      "ref": "17:13-14",
+      "context": "Makkan, from al-Isra. Scholars explain the \"fate upon his neck\" as a person's own deeds, bound to them.",
+      "point": "Each person receives their own record, spread open, and is told to read it. They become their own accountant.",
+      "label": "stated"
+    },
+    {
+      "ref": "36:65",
+      "context": "Makkan, from Ya-Sin, about those who denied the meeting with Allah. 41:20-21 adds hearing, eyes and skin.",
+      "point": "When words can no longer hide anything, the body speaks. The hands and feet that did the deeds bear witness to them.",
+      "label": "stated"
+    },
+    {
+      "ref": "21:47",
+      "context": "Makkan, from al-Anbiya. 7:8-9 and 101:6-9 speak of scales that are heavy or light.",
+      "point": "Justice is exact: even a mustard seed's weight of deeds is brought forward, and no soul is wronged at all.",
+      "label": "stated"
+    },
+    {
+      "ref": "19:71-72",
+      "context": "From Maryam, after verses on doubters of the resurrection (19:66-70).",
+      "point": "Everyone \"comes to\" Hell, and then the God-fearing are saved from it.",
+      "label": "differ",
+      "note": "Some early scholars read \"come to it\" as entering it, with believers unharmed. Many others, linking it to hadith in al-Bukhari and Muslim on a bridge over Hell, read it as crossing that bridge, the Sirat."
+    }
+  ],
+  "visual": {
+    "kind": "flow",
+    "title": "Where today sits",
+    "items": [
+      {
+        "label": "Death",
+        "text": "The soul is taken at its set time",
+        "ref": "39:42"
+      },
+      {
+        "label": "Barzakh",
+        "text": "A barrier until the Day of raising",
+        "ref": "23:100"
+      },
+      {
+        "label": "Resurrection",
+        "text": "The Horn is blown and all stand",
+        "ref": "39:68"
+      },
+      {
+        "label": "Judgment",
+        "text": "Records read, witnesses heard, deeds weighed",
+        "ref": "21:47"
+      },
+      {
+        "label": "Final home",
+        "text": "A party in Paradise, a party in the Blaze",
+        "ref": "42:7"
+      }
+    ],
+    "here": 3,
+    "caption": "The journey the Quran describes after this life. Today is the Judgment: records are read, limbs testify, and deeds are weighed."
+  },
+  "word": {
+    "ar": "مِيزَان",
+    "tr": "mīzān",
+    "root": [
+      "و",
+      "ز",
+      "ن"
+    ],
+    "meaning": "Scale, balance",
+    "nuance": "From wazana, to weigh. The same word names the balance Allah set in creation, which people must not upset (55:7-9). For the Day the Quran often uses the plural, mawāzīn: \"those whose scales are heavy\" (7:8). Most Sunni scholars take it as a real scale; some read it as perfect justice.",
+    "refs": [
+      "7:8",
+      "55:7-9"
+    ]
+  },
+  "mixup": {
+    "myth": "On Judgment Day, a relative or a holy person can carry your sins or save you, whatever you did.",
+    "truth": "No soul carries another's burden, \"even if he should be a close relative\" (35:18). People will even flee their own families (80:34-37). Intercession is real, but only by one the Most Merciful permits and whose word He accepts (20:109). Hadith in al-Bukhari and Muslim describe the Prophet ﷺ interceding only after Allah gives leave.",
+    "refs": [
+      "35:18",
+      "80:34-37",
+      "20:109"
+    ]
+  },
+  "remember": [
+    "Each person reads their own record, which leaves out nothing small or great (17:13-14, 18:49).",
+    "Mouths are sealed while hands, feet and skin bear witness (36:65, 41:20-21).",
+    "The scales are exact, no one is wronged, and intercession is only by Allah's permission (21:47, 20:109)."
+  ],
+  "memorize": "99:7-8",
+  "quiz": [
+    {
+      "q": "In 36:65, what speaks when mouths are sealed?",
+      "options": [
+        "The angels alone",
+        "Hands and feet",
+        "The earth",
+        "Family members"
+      ],
+      "answer": 1,
+      "why": "36:65: \"We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.\""
+    },
+    {
+      "q": "In 7:46-49, what is finally said to the people on the Elevations (al-A'raf)?",
+      "options": [
+        "Return to the world",
+        "Remain where you are forever",
+        "Enter Paradise, with no fear"
+      ],
+      "answer": 2,
+      "why": "In the reading most scholars give, 7:49 ends: \"Enter Paradise... No fear will there be concerning you.\" That they are people whose good and bad deeds balanced is a common explanation, not stated in the verse."
+    },
+    {
+      "q": "Whose intercession benefits on that Day, according to 20:109?",
+      "options": [
+        "One the Most Merciful permits",
+        "Anyone the person chooses",
+        "No one's at all"
+      ],
+      "answer": 0,
+      "why": "20:109: \"No intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word.\" See also 2:255 and 53:26."
+    }
+  ],
+  "reflect": "If even an atom's weight of good will be seen (99:7), what small kindness could you do today that only Allah will notice?",
+  "deeper": [
+    "99",
+    "18:49",
+    "69:13-37",
+    "41:19-24",
+    "7:6-9",
+    "101",
+    "84:7-12",
+    "80:33-42"
+  ],
+  "links": [
+    {
+      "label": "Read Surah Az-Zalzalah",
+      "href": "/surah/az-zalzalah"
+    },
+    {
+      "label": "Al-Hasib, the Reckoner",
+      "href": "/names/al-hasib"
+    },
+    {
+      "label": "Al-'Adl, the Just",
+      "href": "/names/al-adl"
+    }
+  ],
+  "connections": [
+    18,
+    19,
+    21,
+    22
+  ],
+  "status": "draft"
+}

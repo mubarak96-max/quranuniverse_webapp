@@ -1,0 +1,215 @@
+{
+  "day": 13,
+  "title": "Makkah",
+  "question": "How did an orphan in Makkah become the Messenger of Allah?",
+  "emblem": "cave",
+  "intro": [
+    "Muhammad ﷺ was born in Makkah around 570 CE. His father died before his birth and his mother when he was six; his grandfather, then his uncle Abu Talib, raised him. Known as trustworthy, he married Khadijah and lived quietly until, at about forty, revelation came in the cave of Hira.",
+    "Thirteen years in Makkah followed: a quiet call to family and friends, then an open call met with mockery, torture and a boycott. In one year he lost both Khadijah and Abu Talib. Then came the Night Journey and, at last, the Hijra, his migration to Madinah. The surahs of these years are short, vivid and full of comfort."
+  ],
+  "passages": [
+    {
+      "ref": "93:3-8",
+      "context": "Reports in al-Bukhari say it came when revelation was delayed and someone taunted that his Lord had left him.",
+      "point": "Allah reassures him: not abandoned, not disliked. He was an orphan given refuge, lost and guided, poor and made sufficient.",
+      "label": "stated"
+    },
+    {
+      "ref": "74:1-5",
+      "context": "Reports in al-Bukhari place it soon after the first revelation, following a pause.",
+      "point": "\"Arise and warn\": the call begins. The first orders are to glorify his Lord, purify his clothing and leave all uncleanliness. Patience follows (74:7).",
+      "label": "stated"
+    },
+    {
+      "ref": "17:1",
+      "context": "Its date is uncertain. Hadith in al-Bukhari and Muslim describe the ascent through the heavens that followed (the Mi'raj).",
+      "point": "In one night Allah took \"His Servant\" from the Sacred Mosque in Makkah to al-Aqsa in Jerusalem, \"to show him of Our signs\".",
+      "label": "stated"
+    },
+    {
+      "ref": "9:40",
+      "from": "Allah has already aided him",
+      "to": "his tranquillity upon him",
+      "context": "The Hijra, 622 CE. Reports say the companion was Abu Bakr and they hid in the cave of Thawr.",
+      "point": "Hunted, hiding with one companion, he says, \"Do not grieve; indeed Allah is with us.\" Allah sends down tranquillity.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "timeline",
+    "title": "Thirteen years in Makkah",
+    "label": "explained",
+    "caption": "Dates are approximate and come from the biographies (sirah), not the Quran. Historians differ by a year or more on several, especially the Night Journey.",
+    "items": [
+      {
+        "at": "c. 570",
+        "label": "Born an orphan",
+        "text": "Raised by his grandfather, then his uncle Abu Talib.",
+        "ref": "93:6"
+      },
+      {
+        "at": "610",
+        "label": "First revelation",
+        "text": "\"Read!\" in the cave of Hira, at about forty.",
+        "ref": "96:1-5",
+        "mark": true
+      },
+      {
+        "at": "610-613",
+        "label": "The quiet call",
+        "text": "Khadijah, family and close friends accept first.",
+        "ref": "74:1-2"
+      },
+      {
+        "at": "c. 613",
+        "label": "The open call",
+        "text": "He warns his clan; his uncle Abu Lahab curses him.",
+        "ref": "26:214"
+      },
+      {
+        "at": "613-622",
+        "label": "Persecution",
+        "text": "Mockery for him, torture for weaker believers.",
+        "ref": "111"
+      },
+      {
+        "at": "c. 615",
+        "label": "Refuge in Abyssinia",
+        "text": "Some Muslims find shelter with a just Christian king."
+      },
+      {
+        "at": "c. 617",
+        "label": "The boycott",
+        "text": "His clan besieged in a valley for about three years."
+      },
+      {
+        "at": "c. 619",
+        "label": "Year of grief",
+        "text": "Khadijah and Abu Talib die."
+      },
+      {
+        "at": "c. 619",
+        "label": "Ta'if",
+        "text": "Rejected and stoned, he still hopes for their descendants."
+      },
+      {
+        "at": "c. 620",
+        "label": "Night Journey",
+        "text": "From Makkah to al-Aqsa, then the ascent.",
+        "ref": "17:1",
+        "mark": true
+      },
+      {
+        "at": "621-622",
+        "label": "Pledges of 'Aqabah",
+        "text": "Pilgrims from Yathrib pledge to protect him."
+      },
+      {
+        "at": "622",
+        "label": "The Hijra",
+        "text": "The cave, then Madinah. The Islamic calendar begins.",
+        "ref": "9:40",
+        "mark": true
+      }
+    ]
+  },
+  "word": {
+    "ar": "هِجْرَةٌ",
+    "tr": "hijrah",
+    "root": [
+      "ه",
+      "ج",
+      "ر"
+    ],
+    "meaning": "Emigration, leaving behind",
+    "nuance": "The root means to leave or abandon. The Hijra of 622 begins the Islamic calendar, but the root appears in one of the first commands: \"uncleanliness avoid\" (74:5), literally \"leave it\". A hadith in al-Bukhari says the true emigrant is one who leaves what Allah has forbidden.",
+    "refs": [
+      "74:5",
+      "16:41"
+    ]
+  },
+  "mixup": {
+    "myth": "The Hijra to Madinah was the first time Muslims left Makkah for their faith.",
+    "truth": "About seven years earlier, around 615, a group of Muslims fled to Abyssinia (Ethiopia), where its Christian king, known as the Najashi, gave them protection. The Hijra of 622 was different: the Prophet ﷺ himself left, and a community took shape in Madinah. The Quran promises those who emigrate after being wronged \"a good place\" (16:41).",
+    "refs": [
+      "16:41",
+      "39:10"
+    ]
+  },
+  "remember": [
+    "He began as an orphan, and Allah reminded him: \"Did He not find you an orphan and give [you] refuge?\" (93:6)",
+    "Thirteen years in Makkah: a quiet start, then an open call met with mockery, boycott and grief.",
+    "The Night Journey (17:1) and the Hijra (9:40) came at the hardest moments: \"Allah is with us.\""
+  ],
+  "memorize": "94:5-6",
+  "quiz": [
+    {
+      "q": "In the cave during the Hijra, what did the Prophet ﷺ tell his companion?",
+      "options": [
+        "\"We must return to Makkah.\"",
+        "\"Do not grieve; indeed Allah is with us.\"",
+        "\"Prepare to fight them.\"",
+        "\"Let us wait for the angels.\""
+      ],
+      "answer": 1,
+      "why": "9:40: \"he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down his tranquillity upon him.\""
+    },
+    {
+      "q": "Surah al-Masad (111) names which opponent of the Prophet ﷺ?",
+      "options": [
+        "Abu Jahl",
+        "Abraha",
+        "Pharaoh",
+        "Abu Lahab"
+      ],
+      "answer": 3,
+      "why": "111:1: \"May the hands of Abu Lahab be ruined.\" He was the Prophet's ﷺ own uncle, and his wife joined his hostility (111:4)."
+    },
+    {
+      "q": "According to 17:1, where did the Night Journey take him?",
+      "options": [
+        "From al-Masjid al-Haram to al-Masjid al-Aqsa",
+        "From Makkah to Madinah",
+        "From the cave of Hira to Mount Sinai"
+      ],
+      "answer": 0,
+      "why": "17:1: \"Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa.\""
+    }
+  ],
+  "reflect": "Surah ad-Duha reminded the Prophet ﷺ of the ways Allah had already cared for him. Looking back, where can you see that care in your own life?",
+  "deeper": [
+    "93",
+    "94",
+    "96:1-5",
+    "106",
+    "111",
+    "53:1-18",
+    "8:30",
+    "105"
+  ],
+  "links": [
+    {
+      "label": "Prophet Muhammad ﷺ: a biography",
+      "href": "/learn/prophet-muhammad-biography"
+    },
+    {
+      "label": "Muhammad ﷺ on the timeline",
+      "href": "/timeline/prophets/muhammad"
+    },
+    {
+      "label": "Abu Lahab",
+      "href": "/timeline/villains/abu-lahab"
+    },
+    {
+      "label": "Read Surah ad-Duha",
+      "href": "/surah/ad-duhaa"
+    }
+  ],
+  "connections": [
+    1,
+    8,
+    12,
+    14
+  ],
+  "status": "draft"
+}

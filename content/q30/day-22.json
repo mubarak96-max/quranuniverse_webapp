@@ -1,0 +1,168 @@
+{
+  "day": 22,
+  "title": "Paradise",
+  "question": "What could be greater than a garden with rivers of milk and honey?",
+  "emblem": "garden",
+  "intro": [
+    "The Quran describes Paradise, al-Jannah, in the language of gardens: shade, flowing rivers, fruit hanging low, no burning sun and no bitter cold. To people who first heard it in a dry land, these were the clearest pictures of a home without want.",
+    "Yet it also says the reality is beyond description: \"no soul knows what has been hidden for them\" (32:17). And its greatest gifts are not physical at all: hearts cleared of resentment, a greeting of peace, Allah's approval, and the sight of their Lord. Today you will see the four rivers, the ranks and gates, and what is promised beyond the gardens."
+  ],
+  "passages": [
+    {
+      "ref": "47:15",
+      "context": "Madinan, from Surah Muhammad. The verse ends by contrasting the drink of the Fire.",
+      "point": "Four rivers, each a perfected form of something known: water never stale, milk unchanging, wine that delights, honey made pure. And with them, forgiveness.",
+      "label": "stated"
+    },
+    {
+      "ref": "15:45-48",
+      "context": "Makkan, from al-Hijr, right after the warning of Hell's seven gates (15:43-44).",
+      "point": "Paradise begins in the heart: every resentment is removed, and people sit as brothers facing each other, never tired, never sent away.",
+      "label": "stated"
+    },
+    {
+      "ref": "9:72",
+      "context": "Madinan, from at-Tawbah. It names believing men and believing women together.",
+      "point": "Gardens, rivers and fine homes are promised, then the verse lifts higher: \"approval from Allah is greater.\" That is the great attainment.",
+      "label": "stated"
+    },
+    {
+      "ref": "75:22-23",
+      "context": "Makkan, from al-Qiyamah. A hadith in Muslim explains the \"extra\" of 10:26 as this sight.",
+      "point": "Radiant faces, looking at their Lord.",
+      "label": "differ",
+      "note": "Most scholars, with hadith in al-Bukhari and Muslim, take this as a real seeing of Allah. The Mu'tazilah, an early theological school, read \"looking at\" as looking to, awaiting their Lord's reward."
+    }
+  ],
+  "visual": {
+    "kind": "panels",
+    "title": "The four rivers",
+    "caption": "47:15 names four rivers in Paradise, each a perfected form of a drink known here. A hadith in al-Bukhari adds that the rivers of Paradise spring from al-Firdaws, its highest part.",
+    "items": [
+      {
+        "icon": "drop",
+        "label": "Water",
+        "text": "Water unaltered, never stale",
+        "ref": "47:15"
+      },
+      {
+        "icon": "cup",
+        "label": "Milk",
+        "text": "Milk whose taste never changes",
+        "ref": "47:15"
+      },
+      {
+        "icon": "grapes",
+        "label": "Wine",
+        "text": "A delight to drink, with no headache or intoxication",
+        "ref": "56:19"
+      },
+      {
+        "icon": "jar",
+        "label": "Honey",
+        "text": "Honey, purified",
+        "ref": "47:15"
+      }
+    ]
+  },
+  "word": {
+    "ar": "جَنَّة",
+    "tr": "jannah",
+    "root": [
+      "ج",
+      "ن",
+      "ن"
+    ],
+    "meaning": "Garden; Paradise",
+    "nuance": "From j-n-n, to cover or hide. A jannah is a garden so thick with trees that the ground is hidden. The same root gives jinn, beings hidden from sight, and janīn, a child hidden in the womb. Paradise is a garden whose fullness is still hidden from us (32:17).",
+    "refs": [
+      "47:15",
+      "32:17"
+    ]
+  },
+  "mixup": {
+    "myth": "Paradise in Islam is only about physical pleasures, and mainly for men.",
+    "truth": "The Quran promises Paradise to \"believing men and believing women\" alike (9:72, 33:35). Its pleasures are real, but it calls Allah's approval greater, removes resentment from hearts (15:47), and speaks of a joy no soul can picture (32:17). The highest gift, most scholars hold, is seeing Allah (75:23).",
+    "refs": [
+      "9:72",
+      "33:35",
+      "15:47",
+      "32:17"
+    ]
+  },
+  "remember": [
+    "The four rivers of 47:15: water, milk, wine without harm, and pure honey.",
+    "Hearts are cleared of resentment, and the greeting there is \"Peace\" (15:47, 10:10).",
+    "Allah's approval is greater than the gardens, and the faces of its people look at their Lord (9:72, 75:23)."
+  ],
+  "memorize": "32:17",
+  "quiz": [
+    {
+      "q": "Which of these is NOT one of the four rivers in 47:15?",
+      "options": [
+        "Milk",
+        "Honey",
+        "Water",
+        "Oil"
+      ],
+      "answer": 3,
+      "why": "47:15 names rivers of water, milk, wine and purified honey. Oil is not among them."
+    },
+    {
+      "q": "What does 9:72 call greater than the gardens and dwellings?",
+      "options": [
+        "Approval from Allah",
+        "Endless wealth",
+        "Rule over the earth"
+      ],
+      "answer": 0,
+      "why": "9:72: \"...pleasant dwellings in gardens of perpetual residence; but approval from Allah is greater. It is that which is the great attainment.\""
+    },
+    {
+      "q": "What do the keepers of Paradise say at its open gates in 39:73?",
+      "options": [
+        "\"Wait until you are judged\"",
+        "\"Peace be upon you; you have become pure\"",
+        "\"Go back and prepare\""
+      ],
+      "answer": 1,
+      "why": "39:73: its keepers say, \"Peace be upon you; you have become pure; so enter it to abide eternally therein.\""
+    }
+  ],
+  "reflect": "If Paradise begins with hearts cleared of resentment (15:47), is there someone you could begin to forgive now?",
+  "deeper": [
+    "55:46-78",
+    "56:10-40",
+    "76:5-22",
+    "18:107-108",
+    "10:9-10",
+    "10:26",
+    "13:23-24",
+    "39:73-74",
+    "50:31-35"
+  ],
+  "links": [
+    {
+      "label": "Jannah in Islam",
+      "href": "/learn/jannah-in-islam"
+    },
+    {
+      "label": "Read Surah Ar-Rahman",
+      "href": "/surah/ar-rahman"
+    },
+    {
+      "label": "Read Surah Al-Waqi'ah",
+      "href": "/surah/al-waqiah"
+    },
+    {
+      "label": "As-Salam, the Source of Peace",
+      "href": "/names/as-salam"
+    }
+  ],
+  "connections": [
+    20,
+    21,
+    23
+  ],
+  "status": "draft"
+}

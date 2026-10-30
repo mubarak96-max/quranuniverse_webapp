@@ -1,0 +1,217 @@
+{
+  "day": 12,
+  "title": "Kings, the Patient and Other Accounts",
+  "question": "What do a king, an ant and a man inside a fish have in common?",
+  "emblem": "crown",
+  "intro": [
+    "Today is a gallery of shorter accounts: kings and prophets, the patient and the persecuted, and people the Quran leaves unnamed. Dawud (David) and Sulayman (Solomon) held great power. Ayyub (Job) and Yunus (Jonah) knew deep hardship. Young believers hid in a cave, and a lone believer stood up in a town that rejected its messengers.",
+    "Why does the Quran return to stories so often, even retelling them? It answers itself: \"each [story] We relate to you... is that by which We make firm your heart\" (11:120). Each telling adds a new angle. Watch for one thread through them all: whether a person meets blessing and trial with gratitude."
+  ],
+  "passages": [
+    {
+      "ref": "2:249",
+      "from": "But those who were certain",
+      "to": "And Allah is with the patient.",
+      "context": "Talut (Saul) leads a small army against Jalut (Goliath); most failed a test at a river.",
+      "point": "The certain few trust Allah, not numbers. In the battle that follows, young Dawud kills Jalut and is given kingship (2:251).",
+      "label": "stated"
+    },
+    {
+      "ref": "27:18-19",
+      "context": "Sulayman, son of Dawud, marches with his soldiers of jinn, men and birds (27:17).",
+      "point": "A king hears an ant's warning, smiles, and asks Allah to help him be grateful. His power makes him humbler, not prouder.",
+      "label": "stated"
+    },
+    {
+      "ref": "21:87-88",
+      "context": "Yunus left his people in anger. Scholars explain the \"darknesses\" as night, the sea and the belly of the fish.",
+      "point": "From the deepest dark he glorifies Allah and admits his wrong, and he is saved. The promise is wider: \"thus do We save the believers.\"",
+      "label": "stated"
+    },
+    {
+      "ref": "85:4-8",
+      "context": "The Quran does not name them. A hadith in Muslim tells of a boy, a tyrant king and a trench of fire; others link it to Najran.",
+      "point": "Believers are burned for one reason only: their faith in Allah. Those who did it sat and watched.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "gallery",
+    "title": "A gallery of accounts",
+    "caption": "Kings, the patient and the unnamed. Each tile is a story the Quran tells in a few verses; follow the reference to read it whole.",
+    "items": [
+      {
+        "label": "Talut and Jalut",
+        "text": "A faithful few defeat a giant's army.",
+        "ref": "2:249-251",
+        "icon": "shield"
+      },
+      {
+        "label": "Sulayman and the ant",
+        "text": "A king smiles at an ant and gives thanks.",
+        "ref": "27:18-19",
+        "icon": "ant"
+      },
+      {
+        "label": "The Queen of Saba'",
+        "text": "A hoopoe's news leads a queen to submit to Allah.",
+        "ref": "27:20-44",
+        "icon": "crown"
+      },
+      {
+        "label": "Ayyub's patience",
+        "text": "Long affliction, one humble call, health and family restored.",
+        "ref": "21:83-84",
+        "icon": "drop"
+      },
+      {
+        "label": "Yunus and the fish",
+        "text": "A call from the darkness, and rescue.",
+        "ref": "21:87-88",
+        "icon": "fish"
+      },
+      {
+        "label": "Zakariya's prayer",
+        "text": "An old man's private plea; a son named Yahya.",
+        "ref": "19:2-15",
+        "icon": "seed"
+      },
+      {
+        "label": "People of the Cave",
+        "text": "Youths sleep for years, sheltered for their faith.",
+        "ref": "18:9-26",
+        "icon": "cave"
+      },
+      {
+        "label": "Dhul-Qarnayn's wall",
+        "text": "A just ruler builds a barrier of iron and copper.",
+        "ref": "18:83-98",
+        "icon": "wall"
+      },
+      {
+        "label": "The dam of Saba'",
+        "text": "A people turn from gratitude; their gardens are lost.",
+        "ref": "34:15-17",
+        "icon": "wave"
+      },
+      {
+        "label": "People of the Trench",
+        "text": "Believers burned for their faith in Allah.",
+        "ref": "85:4-10",
+        "icon": "flame"
+      },
+      {
+        "label": "The town in Ya-Sin",
+        "text": "A man runs from the city's edge: follow the messengers.",
+        "ref": "36:13-29",
+        "icon": "city"
+      },
+      {
+        "label": "The Elephant",
+        "text": "An army marching on Makkah, scattered by birds.",
+        "ref": "105",
+        "icon": "bird"
+      }
+    ]
+  },
+  "word": {
+    "ar": "شُكْرٌ",
+    "tr": "shukr",
+    "root": [
+      "ش",
+      "ك",
+      "ر"
+    ],
+    "meaning": "Gratitude",
+    "nuance": "Shukr is thanks shown in the heart, on the tongue and in action. Dawud's family is told, \"Work, O family of David, in gratitude\" (34:13). Sulayman sees his power as a test: \"whether I will be grateful or ungrateful\" (27:40). And Allah promises, \"If you are grateful, I will surely increase you\" (14:7).",
+    "refs": [
+      "34:13",
+      "27:40",
+      "14:7"
+    ]
+  },
+  "mixup": {
+    "myth": "The Quran says Dhul-Qarnayn was Alexander the Great.",
+    "truth": "The Quran gives no name, era or land, only his journeys and his justice (18:83-98). Some early writers equated him with Alexander; Ibn Kathir rejected this, since Alexander was not a believer in one God. Some modern scholars suggest Cyrus of Persia. The lesson is in his words: \"This is a mercy from my Lord\" (18:98).",
+    "refs": [
+      "18:83",
+      "18:98"
+    ]
+  },
+  "remember": [
+    "Power is a test of gratitude: Sulayman, with a kingdom, thanks Allah over a tiny ant (27:19, 27:40).",
+    "Ayyub and Yunus called out from sickness and darkness, and Allah answered both (21:83-88).",
+    "The stories repeat because they steady the heart and teach (11:120, 12:111)."
+  ],
+  "memorize": "21:83",
+  "quiz": [
+    {
+      "q": "What did Sulayman do when he heard the ant warn the others?",
+      "options": [
+        "Ordered his army to halt and camp",
+        "Turned his army back",
+        "Smiled and asked Allah to help him be grateful",
+        "Rewarded the ants' colony"
+      ],
+      "answer": 2,
+      "why": "27:19: he \"smiled, amused at her speech, and said, 'My Lord, enable me to be grateful for Your favor.'\""
+    },
+    {
+      "q": "What did Yunus call out within the darknesses?",
+      "options": [
+        "\"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\"",
+        "\"My Lord, why have You left me here?\"",
+        "\"My Lord, punish the people who rejected me.\""
+      ],
+      "answer": 0,
+      "why": "21:87. \"So We responded to him and saved him from the distress. And thus do We save the believers\" (21:88)."
+    },
+    {
+      "q": "According to 85:8, why were the believers of the Trench persecuted?",
+      "options": [
+        "They refused to pay taxes",
+        "They insulted the king",
+        "They tried to leave the city",
+        "Only because they believed in Allah"
+      ],
+      "answer": 3,
+      "why": "85:8: \"they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy.\""
+    }
+  ],
+  "reflect": "Sulayman paused to thank Allah over a single ant. What small blessing from today could you thank Allah for?",
+  "deeper": [
+    "38:17-44",
+    "27:15-44",
+    "18:9-26",
+    "18:83-98",
+    "36:13-29",
+    "19:1-15",
+    "34:10-21",
+    "105"
+  ],
+  "links": [
+    {
+      "label": "Abraha's journey",
+      "href": "/timeline/journey/abraha"
+    },
+    {
+      "label": "Sulayman on the timeline",
+      "href": "/timeline/prophets/sulayman"
+    },
+    {
+      "label": "Yunus on the timeline",
+      "href": "/timeline/prophets/yunus"
+    },
+    {
+      "label": "Surah al-Kahf",
+      "href": "/learn/surah-al-kahf-benefits"
+    }
+  ],
+  "connections": [
+    3,
+    4,
+    13,
+    19
+  ],
+  "status": "draft"
+}

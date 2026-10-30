@@ -1,0 +1,235 @@
+{
+  "day": 14,
+  "title": "Madinah: Building a Community",
+  "question": "How did a band of refugees become a community in ten years?",
+  "emblem": "minaret",
+  "intro": [
+    "In 622 CE the Prophet Muhammad ﷺ and his companions left Makkah for Yathrib, soon called Madinah, \"the City\". The emigrants, the Muhajirun, were taken in by the Muslims of Madinah, the Ansar or \"Helpers\". Reports say a written pact also bound the city's Jewish tribes to them as one community of defence.",
+    "The next ten years brought a new direction of prayer, battles and treaties, laws for daily life, and finally a peaceful return to Makkah. The Quran comments on these events as they happen, often without naming places or people. Today you will meet some of those moments, and the role the Quran gives the Prophet ﷺ himself: messenger, teacher and example."
+  ],
+  "passages": [
+    {
+      "ref": "2:144",
+      "context": "Madinah, about 16 or 17 months after the Hijra, reports in al-Bukhari say. Until then the Muslims prayed toward Jerusalem.",
+      "point": "Allah turns the qiblah, the direction of prayer, to the Ka'bah in Makkah. Muslims everywhere have faced it ever since.",
+      "label": "stated"
+    },
+    {
+      "ref": "3:144",
+      "context": "Reports say it came after Uhud (3 AH), when a false cry that the Prophet ﷺ had been killed made some flee.",
+      "point": "Faith rests on Allah, not on one man. Al-Bukhari reports that Abu Bakr recited this verse on the day the Prophet ﷺ died.",
+      "label": "stated"
+    },
+    {
+      "ref": "33:9-11",
+      "context": "The Battle of the Trench (5 AH): a large coalition besieged Madinah, which the Muslims defended by digging a trench.",
+      "point": "The Quran names the fear honestly: eyes shifting, hearts in throats. Relief came through a wind and armies they did not see.",
+      "label": "stated"
+    },
+    {
+      "ref": "48:18",
+      "context": "Al-Hudaybiyyah, 6 AH. Blocked from making 'Umrah, the believers pledged loyalty under a tree, then a truce was agreed.",
+      "point": "A treaty many saw as a setback is called \"a clear conquest\" (48:1). Allah saw what was in their hearts and sent calm.",
+      "label": "stated"
+    },
+    {
+      "ref": "5:3",
+      "from": "This day I have perfected",
+      "to": "Islam as religion.",
+      "context": "Part of a verse on food laws. 'Umar said it came down at 'Arafah during the Farewell Hajj, 10 AH (al-Bukhari, Muslim).",
+      "point": "The religion is declared complete. A few months later, in 11 AH (632 CE), the Prophet ﷺ died in Madinah.",
+      "label": "stated"
+    },
+    {
+      "ref": "4:59",
+      "context": "Madinah, as a community with leaders, disputes and laws took shape.",
+      "point": "Obey Allah, the Messenger and those in authority, and take disputes back to Allah and the Messenger. Scholars read this, after his death, as returning to the Quran and the Sunnah.",
+      "label": "explained"
+    }
+  ],
+  "visual": {
+    "kind": "timeline",
+    "title": "Ten years in Madinah",
+    "caption": "AH counts years from the Hijra. Dates follow the main biographies of the Prophet ﷺ and are approximate; historians place some events, such as the Trench, a year apart.",
+    "label": "explained",
+    "items": [
+      {
+        "at": "1 AH",
+        "label": "Arrival",
+        "text": "A mosque is built; Emigrants and Helpers paired as brothers."
+      },
+      {
+        "at": "2 AH",
+        "label": "New qiblah",
+        "text": "Prayer turns from Jerusalem to the Ka'bah.",
+        "ref": "2:144"
+      },
+      {
+        "at": "2 AH",
+        "label": "Badr",
+        "text": "A few hundred believers defeat a larger Makkan army.",
+        "ref": "3:123",
+        "mark": true
+      },
+      {
+        "at": "3 AH",
+        "label": "Uhud",
+        "text": "Archers leave their post; near victory turns to loss.",
+        "ref": "3:152"
+      },
+      {
+        "at": "5 AH",
+        "label": "The Trench",
+        "text": "A coalition besieges Madinah, then the siege breaks.",
+        "ref": "33:9"
+      },
+      {
+        "at": "5-6 AH",
+        "label": "The slander",
+        "text": "A false charge against 'A'ishah; the Quran clears her.",
+        "ref": "24:11"
+      },
+      {
+        "at": "6 AH",
+        "label": "Hudaybiyyah",
+        "text": "A pledge under the tree and a ten-year truce.",
+        "ref": "48:18",
+        "mark": true
+      },
+      {
+        "at": "8 AH",
+        "label": "Makkah opens",
+        "text": "The city is entered with little fighting; idols removed.",
+        "ref": "110:1",
+        "mark": true
+      },
+      {
+        "at": "8 AH",
+        "label": "Hunayn",
+        "text": "Pride in numbers, a rout, then calm and victory.",
+        "ref": "9:25"
+      },
+      {
+        "at": "9 AH",
+        "label": "Tabuk",
+        "text": "A hard march north in the summer heat.",
+        "ref": "9:117"
+      },
+      {
+        "at": "10 AH",
+        "label": "Farewell Hajj",
+        "text": "\"This day I have perfected for you your religion.\"",
+        "ref": "5:3"
+      },
+      {
+        "at": "11 AH",
+        "label": "His death",
+        "text": "He dies in Madinah, aged about 63.",
+        "ref": "3:144"
+      }
+    ]
+  },
+  "word": {
+    "ar": "سُنَّة",
+    "tr": "sunnah",
+    "root": [
+      "س",
+      "ن",
+      "ن"
+    ],
+    "meaning": "A way, an established practice",
+    "nuance": "Literally a well-trodden path. The Quran speaks of sunnat Allah, Allah's unchanging way with past peoples (33:62). For Muslims, the Sunnah is the Prophet's ﷺ words, actions and approvals, preserved in hadith, which show how the Quran is lived (16:44).",
+    "refs": [
+      "33:62",
+      "16:44"
+    ]
+  },
+  "mixup": {
+    "myth": "The Quran is complete, so Muslims need nothing else, not even the Prophet's example.",
+    "truth": "The Quran itself sends readers to him: obey the Messenger (4:80), take what he gives you (59:7), he makes clear what was revealed (16:44). It commands prayer but does not list its units or movements; those come from his practice. Scholars treat authentic Sunnah as the Quran's first explanation, while testing each report carefully.",
+    "refs": [
+      "4:80",
+      "59:7",
+      "16:44"
+    ]
+  },
+  "remember": [
+    "Ten years in Madinah: a new qiblah, Badr, Uhud, the Trench, Hudaybiyyah and the opening of Makkah.",
+    "The Quran comments on events as they happen, naming courage, fear and mistakes honestly.",
+    "The Prophet ﷺ is messenger, teacher and example; his Sunnah shows the Quran in practice."
+  ],
+  "memorize": "33:21",
+  "quiz": [
+    {
+      "q": "Which battle does the Quran name while recalling that the believers were few?",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hunayn",
+        "Tabuk"
+      ],
+      "answer": 1,
+      "why": "3:123: \"Allah had given you victory at [the battle of] Badr while you were few in number.\" Hunayn is also named (9:25), but there their great number pleased them."
+    },
+    {
+      "q": "Where did the believers pledge loyalty at al-Hudaybiyyah, according to 48:18?",
+      "options": [
+        "Inside the Ka'bah",
+        "At the well of Zamzam",
+        "Under the tree"
+      ],
+      "answer": 2,
+      "why": "48:18: \"Allah was pleased with the believers when they pledged allegiance to you, [O Muhammad], under the tree.\" It is often called the Pledge of Ridwan, of Allah's good pleasure."
+    },
+    {
+      "q": "What does 3:144 teach about the Prophet ﷺ?",
+      "options": [
+        "He is a messenger, like those who passed on before him",
+        "He would never die",
+        "Faith would end with his death",
+        "Only his companions had to follow him"
+      ],
+      "answer": 0,
+      "why": "3:144: \"Muhammad is not but a messenger. [Other] messengers have passed on before him.\" Faith is in Allah, who does not die."
+    }
+  ],
+  "reflect": "The Quran calls the Prophet ﷺ an excellent pattern. Which one of his qualities would you most like to grow in yourself?",
+  "deeper": [
+    "2:142-150",
+    "8:5-19",
+    "3:121-175",
+    "33:9-27",
+    "48",
+    "24:11-20",
+    "33:28-34",
+    "9:25-27",
+    "110",
+    "68:4"
+  ],
+  "links": [
+    {
+      "label": "Prophet Muhammad ﷺ: a biography",
+      "href": "/learn/prophet-muhammad-biography"
+    },
+    {
+      "label": "What is hadith?",
+      "href": "/learn/what-is-hadith"
+    },
+    {
+      "label": "Muhammad ﷺ on the timeline",
+      "href": "/timeline/prophets/muhammad"
+    },
+    {
+      "label": "Read Surah Al-Fath",
+      "href": "/surah/al-fath"
+    }
+  ],
+  "connections": [
+    13,
+    15,
+    28,
+    30
+  ],
+  "review": true,
+  "status": "draft"
+}

@@ -1,0 +1,132 @@
+{
+  "day": 6,
+  "title": "Prophethood and Scriptures",
+  "question": "Why would Allah send people to speak for Him?",
+  "emblem": "scroll",
+  "intro": [
+    "The Quran says every nation was sent a messenger (16:36), each speaking his people's language (14:4). Their message was the same at its core: worship Allah alone. Their laws differed by time and place.",
+    "Twenty-five prophets are named in the Quran, from Adam to Muhammad ﷺ. Many more are not named to us (40:78). Some brought scriptures: the scrolls of Ibrahim and Musa, the Tawrah, the Zabur of Dawud, the Injil of 'Isa, and finally the Quran. Their miracles, from the staff to healing the sick, came only by Allah's permission.",
+    "Scholars commonly distinguish a nabi, a prophet who receives revelation, from a rasul, a messenger sent with a mission. Five are commonly counted as \"those of determination\" (46:35). Muhammad ﷺ is called the last of the prophets."
+  ],
+  "passages": [
+    {
+      "ref": "16:36",
+      "context": "From an-Nahl, a Makkan surah. It follows the claim in 16:35 that if Allah had willed, people would never have worshipped others.",
+      "point": "No nation was left without a messenger, and the message was always one: worship Allah and avoid false gods (taghut).",
+      "label": "stated"
+    },
+    {
+      "ref": "4:163-164",
+      "context": "Madinan. It answers those who demanded a book sent down from the sky (4:153).",
+      "point": "Revelation to Muhammad ﷺ is like that to Nuh and those after him. Some messengers are named to us, others are not, and Dawud was given the Zabur (Psalms).",
+      "label": "stated"
+    },
+    {
+      "ref": "6:84-86",
+      "context": "Follows Ibrahim's argument with his people (6:74-83). 6:90 tells the Prophet ﷺ to follow their guidance.",
+      "point": "Eighteen of the twenty-five named prophets appear here together, as one family of guidance across generations.",
+      "label": "stated"
+    },
+    {
+      "ref": "33:40",
+      "context": "Revealed about Zayd ibn Harithah, whom the Prophet ﷺ had adopted before adoption was ended (33:4-5, 33:37).",
+      "point": "Muhammad ﷺ is the Messenger of Allah and the seal, the last, of the prophets. No prophet comes after him.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "tree",
+    "title": "The named prophets' family lines",
+    "caption": "Lines show descent over many generations, following well-known genealogies; the Quran itself confirms only some links. Highlighted are the five commonly counted as \"those of determination\" (33:7, 42:13, 46:35).",
+    "label": "explained",
+    "items": [
+      { "id": "adam", "label": "Adam" },
+      { "id": "idris", "label": "Idris", "parent": "adam" },
+      { "id": "nuh", "label": "Nuh", "parent": "adam", "mark": true, "ref": "33:7" },
+      { "id": "hud", "label": "Hud", "parent": "nuh", "text": "Sent to 'Ad" },
+      { "id": "salih", "label": "Salih", "parent": "nuh", "text": "Sent to Thamud" },
+      { "id": "ibrahim", "label": "Ibrahim", "parent": "nuh", "mark": true, "ref": "33:7" },
+      { "id": "lut", "label": "Lut", "parent": "nuh", "text": "Ibrahim's nephew, who believed him", "ref": "29:26" },
+      { "id": "ismail", "label": "Isma'il", "parent": "ibrahim" },
+      { "id": "muhammad", "label": "Muhammad ﷺ", "parent": "ismail", "mark": true, "ref": "33:40" },
+      { "id": "shuayb", "label": "Shu'ayb", "parent": "ibrahim", "text": "Sent to Madyan" },
+      { "id": "ishaq", "label": "Ishaq", "parent": "ibrahim" },
+      { "id": "ayyub", "label": "Ayyub", "parent": "ishaq" },
+      { "id": "yaqub", "label": "Ya'qub", "parent": "ishaq" },
+      { "id": "yusuf", "label": "Yusuf", "parent": "yaqub" },
+      { "id": "musa", "label": "Musa", "parent": "yaqub", "mark": true, "ref": "33:7" },
+      { "id": "harun", "label": "Harun", "parent": "yaqub", "text": "Musa's brother" },
+      { "id": "ilyas", "label": "Ilyas", "parent": "yaqub" },
+      { "id": "alyasa", "label": "Al-Yasa'", "parent": "yaqub" },
+      { "id": "yunus", "label": "Yunus", "parent": "yaqub" },
+      { "id": "dhulkifl", "label": "Dhul-Kifl", "parent": "yaqub", "text": "Line uncertain" },
+      { "id": "dawud", "label": "Dawud", "parent": "yaqub" },
+      { "id": "sulayman", "label": "Sulayman", "parent": "dawud" },
+      { "id": "zakariya", "label": "Zakariya", "parent": "yaqub" },
+      { "id": "yahya", "label": "Yahya", "parent": "zakariya" },
+      { "id": "isa", "label": "'Isa", "parent": "yaqub", "mark": true, "text": "Through his mother Maryam", "ref": "33:7" }
+    ]
+  },
+  "word": {
+    "ar": "رِسَالَة",
+    "tr": "risālah",
+    "root": ["ر", "س", "ل"],
+    "meaning": "Messengership; the message entrusted to a messenger",
+    "nuance": "A rasul is one who is sent (arsala, to send). A nabi is one given news from Allah. Most scholars say every messenger is a prophet but not every prophet is a messenger; 22:52 mentions both. \"Allah is most knowing of where He places His message\" (6:124).",
+    "refs": ["22:52", "6:124"]
+  },
+  "mixup": {
+    "myth": "Islam began with Muhammad ﷺ, and the earlier prophets belong to other religions.",
+    "truth": "The Quran presents one message carried by every messenger: worship Allah alone (21:25). Muslims are told to believe in all of them without making distinctions (2:136), including Ibrahim, Musa and 'Isa. Muhammad ﷺ is the last of that line, not the first (33:40).",
+    "refs": ["21:25", "2:136"]
+  },
+  "remember": [
+    "Every nation received a messenger, and the core message was always tawhid (16:36).",
+    "25 prophets are named and many more are not (40:78). Five are known as ulul-'azm.",
+    "Scrolls, Tawrah, Zabur, Injil, then the Quran; Muhammad ﷺ is the last prophet (33:40)."
+  ],
+  "memorize": "21:25",
+  "quiz": [
+    {
+      "q": "Which scripture does 4:163 say was given to Dawud?",
+      "options": [
+        "The Tawrah",
+        "The Injil",
+        "The Zabur",
+        "The Scrolls"
+      ],
+      "answer": 2,
+      "why": "4:163: \"and to David We gave the book [of Psalms]\", the Zabur. 87:19 mentions the scrolls of Ibrahim and Musa, and 5:46 the Injil given to 'Isa."
+    },
+    {
+      "q": "What does 40:78 tell us about the messengers?",
+      "options": [
+        "Some of their stories are told to us, some are not",
+        "All of them are named in the Quran",
+        "There were exactly twenty-five"
+      ],
+      "answer": 0,
+      "why": "40:78 and 4:164: some messengers' stories are related and some are not. The twenty-five are only those the Quran names."
+    },
+    {
+      "q": "What does 33:40 call Muhammad ﷺ?",
+      "options": [
+        "The first of the prophets",
+        "The last of the prophets",
+        "The father of one of your men",
+        "An angel sent as a man"
+      ],
+      "answer": 1,
+      "why": "33:40: \"Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets.\""
+    }
+  ],
+  "reflect": "Which prophet's story do you most want to know better, and what draws you to him?",
+  "deeper": ["2:136", "42:13", "46:35", "33:7", "14:4", "87:18-19", "5:44-48", "40:78"],
+  "links": [
+    { "label": "Prophets in the Quran", "href": "/learn/prophets-in-the-quran" },
+    { "label": "The Prophet Muhammad ﷺ", "href": "/timeline/prophets/muhammad" },
+    { "label": "Read the prophets in al-An'am", "href": "/surah/al-anam/83" }
+  ],
+  "connections": [2, 7, 8, 13],
+  "status": "draft"
+}

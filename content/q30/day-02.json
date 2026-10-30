@@ -1,0 +1,117 @@
+{
+  "day": 2,
+  "title": "Allah: One, Names, Attributes",
+  "question": "Who is the One the Quran calls Allah?",
+  "emblem": "rays",
+  "intro": [
+    "Every page of the Quran points back to one theme: Allah is One. The Arabic word for this is tawhid. It means more than counting to one. There is no creator, ruler or object of worship beside Him, and nothing in creation is like Him.",
+    "The Quran introduces Allah mostly through His names: the Entirely Merciful, the Knower, the Ever-Living. It invites people to call on Him by them (7:180). Ar-Rahman and ar-Rahim both come from rahmah, mercy. Many scholars explain the first as mercy vast enough to hold all creation, and the second as mercy that reaches people, especially believers.",
+    "Later scholars sorted tawhid into His lordship, His sole right to worship, and His names and attributes. That grouping is a teaching tool, not a verse, and some schools group it differently. Today you will read the passages it was built from."
+  ],
+  "passages": [
+    {
+      "ref": "112:1-4",
+      "context": "A short Makkan surah. A hadith in al-Bukhari says it is equal to a third of the Quran.",
+      "point": "Allah is One, the Eternal Refuge every creature needs. He has no parent, no child and no equal.",
+      "label": "stated"
+    },
+    {
+      "ref": "2:255",
+      "from": "Allah - there is no deity except Him",
+      "to": "tires Him not.",
+      "context": "Known as Ayat al-Kursi. A hadith in Muslim calls it the greatest verse in the Quran.",
+      "point": "Allah lives without end and holds all things in being. He never tires or sleeps, knows everything, and no one intercedes without His permission.",
+      "label": "stated"
+    },
+    {
+      "ref": "59:23-24",
+      "context": "The close of al-Hashr, a Madinan surah, which gathers more of Allah's names in one place than almost any other passage.",
+      "point": "Names of power, like the Compeller, sit beside names of care, like the Bestower of Faith. He is exalted above any partner people assign Him.",
+      "label": "stated"
+    },
+    {
+      "ref": "42:11",
+      "context": "From ash-Shura, a Makkan surah. Scholars of every school use it as the key for reading Allah's attributes.",
+      "point": "Nothing is like Him, and yet He is the Hearing, the Seeing. The verse denies any likeness and affirms real attributes in the same breath.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "ring",
+    "title": "The seven verses of al-Fatihah",
+    "caption": "Read around the circle from the top. A hadith qudsi in Muslim divides al-Fatihah between Allah and His servant: praise first, then a shared verse, then the servant's request. Scholars differ on whether the Bismillah counts as its first verse.",
+    "label": "explained",
+    "center": "Al-Fatihah",
+    "items": [
+      { "label": "In the name", "text": "Begin with Allah, the Entirely and Especially Merciful.", "ref": "1:1" },
+      { "label": "Praise", "text": "All praise belongs to Allah, Lord of all the worlds.", "ref": "1:2" },
+      { "label": "Mercy", "text": "Mercy named twice before anything is asked.", "ref": "1:3" },
+      { "label": "Sovereignty", "text": "Master of the Day when every deed is repaid.", "ref": "1:4" },
+      { "label": "Worship and help", "text": "The turning point: You alone we worship and ask.", "ref": "1:5" },
+      { "label": "Guidance", "text": "The one request: guide us to the straight path.", "ref": "1:6" },
+      { "label": "The path", "text": "The way of the favoured, not of those astray.", "ref": "1:7" }
+    ]
+  },
+  "word": {
+    "ar": "تَوْحِيد",
+    "tr": "tawḥīd",
+    "root": ["و", "ح", "د"],
+    "meaning": "Affirming that Allah is One",
+    "nuance": "From wahhada, to make one or declare one. The noun tawhid is not in the Quran, but its root is everywhere: wahid, one (2:163), and ahad, the unique One (112:1). Tawhid is not only a belief held in the mind; it means directing all worship to Him alone.",
+    "refs": ["2:163", "112:1"]
+  },
+  "mixup": {
+    "myth": "\"Allah\" is the name of a separate god worshipped only by Muslims.",
+    "truth": "Allah is the Arabic word for God, the One God. Arabic-speaking Christians and Jews use it too, and Arabic Bibles use it. The Quran tells believers to say to the People of the Book: \"Our God and your God is one\" (29:46). Where faiths differ is in how He is described, for example on whether He has a son (112:3).",
+    "refs": ["29:46", "112:3"]
+  },
+  "remember": [
+    "Tawhid: Allah alone creates, rules and deserves worship, and nothing is like Him (42:11).",
+    "Al-Fatihah moves from praise, to worship, to asking for guidance.",
+    "Allah is known through His best names, and we are invited to call on Him by them (7:180)."
+  ],
+  "memorize": "2:163",
+  "quiz": [
+    {
+      "q": "In al-Ikhlas, which of these does the Quran say about Allah?",
+      "options": [
+        "He has a partner in His rule",
+        "He neither begets nor is born",
+        "He was the first being created",
+        "He needs others to sustain Him"
+      ],
+      "answer": 1,
+      "why": "112:3: \"He neither begets nor is born.\" 112:4 adds that nothing is equivalent to Him, and 112:2 calls Him the Eternal Refuge whom all others need."
+    },
+    {
+      "q": "Which verse of al-Fatihah is the turning point between praise and asking?",
+      "options": [
+        "\"Guide us to the straight path\"",
+        "\"Sovereign of the Day of Recompense\"",
+        "\"It is You we worship and You we ask for help\""
+      ],
+      "answer": 2,
+      "why": "1:5. In the hadith qudsi in Muslim, Allah calls this verse shared between Him and His servant. The request follows in 1:6-7."
+    },
+    {
+      "q": "What does 42:11 say alongside \"There is nothing like unto Him\"?",
+      "options": [
+        "He is the Hearing, the Seeing",
+        "He cannot be described at all",
+        "His names must stay unknown"
+      ],
+      "answer": 0,
+      "why": "42:11 denies any likeness and, in the same verse, affirms that He hears and sees. 7:180 tells us to call on Him by His names."
+    }
+  ],
+  "reflect": "Which of Allah's names do you find yourself needing most right now, and why?",
+  "deeper": ["1", "112", "2:163", "20:8", "17:110", "59:22", "57:3", "21:22"],
+  "links": [
+    { "label": "The names of Allah", "href": "/names" },
+    { "label": "What is tawheed?", "href": "/learn/what-is-tawheed" },
+    { "label": "Al-Fatihah explained", "href": "/learn/surah-al-fatihah-meaning" },
+    { "label": "Ayat al-Kursi", "href": "/learn/ayatul-kursi" }
+  ],
+  "connections": [1, 3, 4, 23],
+  "status": "draft"
+}

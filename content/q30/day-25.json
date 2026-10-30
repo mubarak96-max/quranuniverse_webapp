@@ -1,0 +1,136 @@
+{
+  "day": 25,
+  "title": "Family: Marriage, Divorce, Inheritance",
+  "question": "Why does the Quran give more detail on family than on almost anything else?",
+  "emblem": "home",
+  "intro": [
+    "Most Quranic law comes as broad principles. Family life is different. Here the Quran goes into detail: the bridal gift, steps for a marriage in trouble, waiting periods after divorce, nursing, and exact shares of inheritance. Many of these verses protect the person easiest to wrong at home: the wife, the orphan, the child, the ageing parent.",
+    "It also ended old customs. A man could abandon his wife by calling her \"like my mother's back\" (zihar, 58:1-4), and an adopted child was treated as a blood child in law. The Quran rejected both, while calling adopted children brothers in faith (33:4-5).",
+    "These verses are the starting point. Islamic law (fiqh) builds on them with the Sunnah and centuries of scholarship, and real cases belong with a qualified scholar or court. Where scholars read a verse differently, you will see that too."
+  ],
+  "passages": [
+    {
+      "ref": "30:21",
+      "context": "Part of a Makkan list of Allah's signs, beside creation, languages and sleep.",
+      "point": "Marriage is presented as a sign of Allah: spouses made from one another, for tranquillity, with affection and mercy placed between them.",
+      "label": "stated"
+    },
+    {
+      "ref": "4:3",
+      "context": "'A'ishah, in al-Bukhari, explains it was about guardians who wanted to marry orphan girls in their care without a fair bridal gift.",
+      "point": "Up to four wives is allowed only with justice; a man who fears he cannot be fair marries one. 4:129 adds that no wife may be left neglected.",
+      "label": "stated"
+    },
+    {
+      "ref": "4:34",
+      "context": "On marital breakdown; arbitration follows in 4:35.",
+      "point": "Men's charge is tied to providing. If a wife's serious defiance (nushuz) is feared: advise, separate beds, then a last step.",
+      "label": "differ",
+      "note": "Classical jurists allowed only a light tap that does no harm; al-Shafi'i judged it better avoided. Some modern scholars read \"daraba\" as \"separate\". Muslim reports the Prophet ﷺ never struck a woman."
+    },
+    {
+      "ref": "4:35",
+      "context": "Follows directly on 4:34, for when the couple's own efforts have not been enough.",
+      "point": "Each family sends an arbitrator, and if they seek reconciliation, Allah will bring it about. 4:128 likewise says that settlement is best.",
+      "label": "stated"
+    },
+    {
+      "ref": "2:229",
+      "from": "Divorce is twice.",
+      "to": "ransoms herself.",
+      "context": "Scholars say it ended a custom of divorcing and taking back a wife endlessly. 2:228 sets a waiting period of three cycles.",
+      "point": "A revocable divorce may happen twice; then keep her kindly or part kindly. A wife may also end the marriage by giving back her bridal gift (khul').",
+      "label": "stated"
+    },
+    {
+      "ref": "4:11",
+      "from": "Allah instructs you concerning your children",
+      "to": "if he left children.",
+      "context": "Arab custom often left women and young children with nothing; here their shares are fixed.",
+      "point": "Shares are set by Allah, not by the strongest relative: sons and daughters two to one, fixed fractions for daughters, a sixth for each parent.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "shares",
+    "title": "Three simple estates",
+    "caption": "Simplified examples from 4:11-12, divided after debts and any bequest. Real estates often involve more heirs and further rules from the Sunnah; ask a qualified scholar.",
+    "label": "explained",
+    "rows": [
+      {
+        "label": "A man leaves a wife, a son and a daughter",
+        "parts": [
+          { "label": "Wife 1/8", "value": 0.125 },
+          { "label": "Son 7/12", "value": 0.5833 },
+          { "label": "Daughter 7/24", "value": 0.2917 }
+        ]
+      },
+      {
+        "label": "A man leaves both parents, a son and a daughter",
+        "parts": [
+          { "label": "Father 1/6", "value": 0.1667 },
+          { "label": "Mother 1/6", "value": 0.1667 },
+          { "label": "Son 4/9", "value": 0.4444 },
+          { "label": "Daughter 2/9", "value": 0.2222 }
+        ]
+      },
+      {
+        "label": "A man leaves only his parents",
+        "parts": [
+          { "label": "Mother 1/3", "value": 0.3333 },
+          { "label": "Father 2/3", "value": 0.6667 }
+        ]
+      }
+    ]
+  },
+  "word": {
+    "ar": "مَوَدَّة",
+    "tr": "mawaddah",
+    "root": ["و", "د", "د"],
+    "meaning": "Loving affection",
+    "nuance": "Love that shows itself in warmth and care, not only a feeling. 30:21 pairs it with rahmah, mercy: some commentators say affection draws a couple together and mercy keeps them together when affection is tested. The same root gives al-Wadud, the Loving (85:14).",
+    "refs": ["30:21", "85:14"]
+  },
+  "mixup": {
+    "myth": "In Islamic inheritance a woman always receives half of what a man receives.",
+    "truth": "The two-to-one ratio applies in certain cases, such as sons and daughters (4:11) and full siblings (4:176). When there are children, a mother and father each take a sixth (4:11), and half-siblings through the mother share equally (4:12). Scholars link the larger shares to the man's duty to provide, while a woman's own wealth and bridal gift stay hers alone.",
+    "refs": ["4:11", "4:12", "4:176"]
+  },
+  "remember": [
+    "Marriage is a sign of Allah built on affection and mercy (30:21), and the bridal gift belongs to the wife (4:4).",
+    "When a marriage struggles, the Quran's steps lead toward reconciliation: advice, family arbitrators, settlement (4:35, 4:128).",
+    "Divorce has limits and waiting periods, and inheritance shares are fixed by Allah after debts and bequests (2:229, 4:11-12)."
+  ],
+  "memorize": "17:24",
+  "quiz": [
+    {
+      "q": "What does 30:21 say Allah placed between spouses?",
+      "options": ["Rank and duty", "Affection and mercy", "Wealth and status", "Patience and silence"],
+      "answer": 1,
+      "why": "30:21: \"He placed between you affection and mercy.\" The verse counts this among Allah's signs."
+    },
+    {
+      "q": "According to 4:35, what should happen when a couple fears a split?",
+      "options": ["The husband decides alone", "They must divorce at once", "An arbitrator from each family seeks reconciliation", "Nothing; it is private"],
+      "answer": 2,
+      "why": "4:35: \"send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allah will cause it between them.\""
+    },
+    {
+      "q": "In 4:11, what does each parent inherit when the deceased left children?",
+      "options": ["A sixth", "Nothing", "Half", "A third"],
+      "answer": 0,
+      "why": "4:11: \"for one's parents, to each one of them is a sixth of his estate if he left children.\" Without children, the mother takes a third."
+    }
+  ],
+  "reflect": "Which relationship in your family could use a little more of the affection and mercy of 30:21 this week?",
+  "deeper": ["4:4", "4:19-23", "4:128-130", "2:226-237", "65:1-7", "58:1-4", "24:6-9", "2:233", "33:4-5", "4:12", "4:176", "2:180", "17:23-24"],
+  "links": [
+    { "label": "Polygamy in Islam", "href": "/learn/polygamy-in-islam" },
+    { "label": "Women's rights in Islam", "href": "/learn/womens-rights-in-islam" },
+    { "label": "Read Surah An-Nisa", "href": "/surah/an-nisa" },
+    { "label": "Read Surah At-Talaq", "href": "/surah/at-talaq" }
+  ],
+  "connections": [17, 26, 29],
+  "review": true,
+  "status": "draft"
+}

@@ -1,0 +1,853 @@
+/* Quran in 30 Days: the booklet pages. Each page is a sheet of paper; the part sets its accent colour. */
+
+.pg {
+  --accent: var(--idea);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 18px clamp(18px, 5vw, 28px) 12px;
+  border-radius: 8px;
+  background: url("/textures/reading-paper.svg"), var(--paper);
+  color: var(--fg);
+  box-shadow: var(--shadow), 0 30px 60px -30px #000c;
+  overflow: auto;
+  overscroll-behavior: contain;
+  font-family: var(--display);
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.pg[data-part="1"] { --accent: #2b6f86; }
+.pg[data-part="2"] { --accent: #8a4f6f; }
+.pg[data-part="3"] { --accent: #2f7a62; }
+.pg[data-part="4"] { --accent: #4b6396; }
+.pg[data-part="5"] { --accent: #6d5a9e; }
+.pg[data-part="6"] { --accent: #2c7d80; }
+.pg[data-part="7"] { --accent: #93692c; }
+.pg[data-part="8"] { --accent: #3f6894; }
+
+:root[data-theme="dark"] .pg[data-part] {
+  --accent: color-mix(in srgb, var(--reward) 85%, #fff);
+}
+
+.pg-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 8px;
+  margin-bottom: 14px;
+  border-bottom: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
+  font-family: var(--ui);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.pg-head span:last-child {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.pg-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.pg-folio {
+  margin-top: 10px;
+  text-align: center;
+  font-family: var(--ui);
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+.pg-folio::before,
+.pg-folio::after {
+  content: "◆";
+  margin: 0 8px;
+  font-size: 0.5rem;
+  color: var(--gold);
+  vertical-align: middle;
+}
+
+.pg-eyebrow {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.pg-h {
+  margin: 0;
+  font-weight: 500;
+  font-size: clamp(1.35rem, 4.6vw, 1.6rem);
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+.pg-h-big {
+  font-size: clamp(1.7rem, 6vw, 2.1rem);
+}
+
+.pg-lede {
+  margin: 0;
+  font-size: 1.04rem;
+}
+
+.pg-note {
+  margin: auto 0 0;
+  font-family: var(--ui);
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.pg-review {
+  margin: auto 0 0;
+  padding: 10px 12px;
+  border-left: 3px solid var(--trap);
+  border-radius: 0 8px 8px 0;
+  background: var(--trapBg);
+  font-family: var(--ui);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+
+/* Cover */
+
+.pg-cover {
+  position: relative;
+  padding: 0;
+  overflow: hidden;
+  color: #fff8e6;
+  background: #0b1520;
+}
+
+.pg-art {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.pg-cover-top {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 22px 24px;
+  font-family: var(--ui);
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, #fff8e6 80%, transparent);
+}
+
+.pg-cover-text {
+  position: relative;
+  margin-top: auto;
+  padding: 80px 26px 30px;
+  background: linear-gradient(transparent, #050a10d9 55%);
+  text-align: center;
+}
+
+.pg-daynum {
+  margin: 0 0 6px;
+  font-family: var(--ui);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.pg-cover h1 {
+  margin: 0;
+  font-weight: 500;
+  font-size: clamp(2rem, 8vw, 2.6rem);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+
+.pg-question {
+  margin: 12px auto 0;
+  max-width: 30ch;
+  font-style: italic;
+  font-size: 1.08rem;
+  line-height: 1.4;
+  color: color-mix(in srgb, #fff8e6 85%, transparent);
+  text-wrap: balance;
+}
+
+/* Juz strip: the 30 parts of the Quran, today's lit */
+
+.juz {
+  margin: auto 0 0;
+}
+
+.juz ol {
+  display: grid;
+  grid-template-columns: repeat(15, 1fr);
+  gap: 3px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.juz li {
+  aspect-ratio: 1 / 1.35;
+  display: grid;
+  place-items: center;
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--fg) 7%, transparent);
+  font-family: var(--ui);
+  font-size: 0.56rem;
+  color: var(--muted);
+}
+
+.juz li.is-lit {
+  background: var(--gold);
+  color: #241a06;
+  font-weight: 700;
+  box-shadow: 0 0 10px -2px var(--gold);
+}
+
+.juz figcaption {
+  margin-top: 8px;
+  font-family: var(--ui);
+  font-size: 0.76rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+/* Certainty labels */
+
+.lb {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-family: var(--ui);
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.lb::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.lb-stated { background: var(--ideaBg); color: var(--idea); }
+.lb-explained { background: var(--rewardBg); color: var(--reward); }
+.lb-unspecified { background: var(--soft); color: var(--muted); }
+.lb-differ { background: transparent; color: var(--trap); box-shadow: inset 0 0 0 1px currentColor; }
+
+/* Passages */
+
+.ps {
+  display: grid;
+  gap: 7px;
+}
+
+.ps + .ps {
+  padding-top: 12px;
+  border-top: 1px dashed color-mix(in srgb, var(--gold) 50%, transparent);
+}
+
+.ps-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.ps-ref {
+  font-family: var(--ui);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--accent) 35%, transparent);
+  text-underline-offset: 3px;
+}
+
+.ps-ar {
+  margin: 0;
+  font-size: clamp(1.3rem, 4.8vw, 1.5rem);
+  line-height: 2;
+  text-align: right;
+}
+
+.ps-en {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.5;
+}
+
+.ps-context,
+.ps-note {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.ps-context b {
+  margin-right: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.66rem;
+}
+
+.ps-point {
+  margin: 0;
+  padding-left: 10px;
+  border-left: 2px solid var(--gold);
+  font-size: 0.97rem;
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+.ps-note {
+  padding: 7px 10px;
+  border-radius: 8px;
+  background: var(--rewardBg);
+  color: var(--fg);
+}
+
+.ps-note.is-differ {
+  background: var(--trapBg);
+}
+
+.ps-note.is-unspecified {
+  background: var(--soft);
+}
+
+/* Key word */
+
+.wd {
+  display: grid;
+  justify-items: center;
+  gap: 6px;
+  padding: 14px 12px 16px;
+  border-radius: 14px;
+  background:
+    radial-gradient(80% 70% at 50% 0%, color-mix(in srgb, var(--gold) 16%, transparent), transparent),
+    color-mix(in srgb, var(--fg) 3%, transparent);
+  text-align: center;
+}
+
+.wd-ar {
+  margin: 0;
+  font-size: clamp(2.8rem, 12vw, 3.6rem);
+  line-height: 1.3;
+  color: var(--accent);
+}
+
+.wd-tr {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.wd-root {
+  display: flex;
+  align-items: center;
+  margin: 4px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wd-root li {
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border: 1.5px solid var(--gold);
+  border-radius: 50%;
+  font-size: 1.4rem;
+  background: var(--paper);
+}
+
+.wd-root li + li {
+  margin-right: 18px;
+  position: relative;
+}
+
+.wd-root li + li::after {
+  content: "";
+  position: absolute;
+  right: -19px;
+  width: 18px;
+  height: 1.5px;
+  background: var(--gold);
+}
+
+.wd-nuance {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.refs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+}
+
+.refs a,
+.back-row a {
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  color: var(--accent);
+  font-family: var(--ui);
+  font-size: 0.74rem;
+  font-weight: 600;
+}
+
+.mx {
+  display: grid;
+  gap: 6px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+}
+
+.mx-myth {
+  margin: 0;
+  font-style: italic;
+  color: var(--muted);
+  text-decoration: line-through;
+  text-decoration-color: color-mix(in srgb, var(--trap) 60%, transparent);
+}
+
+.mx-truth {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.mx .refs {
+  justify-content: flex-start;
+}
+
+/* Remember and the verse to carry */
+
+.rm {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: rm;
+}
+
+.rm li {
+  counter-increment: rm;
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  gap: 10px;
+  font-size: 1.04rem;
+  line-height: 1.4;
+}
+
+.rm li::before {
+  content: counter(rm);
+  font-size: 1.9rem;
+  line-height: 1;
+  color: var(--gold);
+}
+
+.mz {
+  position: relative;
+  margin: auto 0 0;
+  padding: 18px 18px 14px;
+  border: 1px solid var(--gold);
+  border-radius: 4px;
+  outline: 1px solid color-mix(in srgb, var(--gold) 40%, transparent);
+  outline-offset: 4px;
+  text-align: center;
+  background: radial-gradient(90% 80% at 50% 50%, color-mix(in srgb, var(--gold) 10%, transparent), transparent);
+}
+
+.mz::before,
+.mz::after {
+  content: "۞";
+  position: absolute;
+  top: -12px;
+  padding: 0 6px;
+  background: var(--paper);
+  color: var(--gold);
+  font-size: 1rem;
+}
+
+.mz::before { left: 12px; }
+.mz::after { right: 12px; }
+
+.mz .pg-eyebrow {
+  margin-bottom: 6px;
+}
+
+.mz-ar {
+  margin: 0 0 6px;
+  font-size: clamp(1.4rem, 5vw, 1.65rem);
+  line-height: 1.9;
+}
+
+.mz-en {
+  margin: 0;
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.mz figcaption {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 10px;
+  font-family: var(--ui);
+  font-size: 0.76rem;
+  font-weight: 600;
+}
+
+.mz figcaption a {
+  color: var(--accent);
+}
+
+/* Quiz */
+
+.qz {
+  display: grid;
+  gap: 10px;
+}
+
+.qz-step {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.74rem;
+  color: var(--muted);
+}
+
+.qz-step span {
+  color: var(--reward);
+  font-weight: 600;
+}
+
+.qz-q {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.35;
+}
+
+.qz-options {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.qz-options button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--page) 70%, transparent);
+  color: var(--fg);
+  font: inherit;
+  font-size: 0.98rem;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s, opacity 0.2s;
+}
+
+.qz-options button:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+
+.qz-options i {
+  flex: none;
+  width: 26px;
+  height: 26px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--soft);
+  font-family: var(--ui);
+  font-style: normal;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.qz-options [data-state="right"] {
+  border-color: var(--idea);
+  background: var(--ideaBg);
+}
+
+.qz-options [data-state="right"] i {
+  background: var(--idea);
+  color: var(--page);
+}
+
+.qz-options [data-state="wrong"] {
+  border-color: var(--trap);
+  background: var(--trapBg);
+}
+
+.qz-options [data-state="dim"] {
+  opacity: 0.5;
+}
+
+.qz-options button:disabled {
+  cursor: default;
+}
+
+.qz-why {
+  display: grid;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--fg) 4%, transparent);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.qz-next,
+.qz-again,
+.gd-start {
+  justify-self: start;
+  padding: 10px 18px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--page);
+  font-family: var(--ui);
+  font-size: 0.86rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.qz-done {
+  justify-items: center;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.qz-done .qz-again {
+  justify-self: center;
+}
+
+.qz-score {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.qz-score b {
+  font-size: 3.4rem;
+  font-weight: 500;
+  color: var(--gold);
+}
+
+.qz-print {
+  display: none;
+}
+
+/* Back cover: reflection, seal, tomorrow */
+
+.rf {
+  display: grid;
+  gap: 8px;
+  position: relative;
+}
+
+.rf-prompt {
+  font-size: 1.08rem;
+  line-height: 1.4;
+}
+
+.rf textarea {
+  width: 100%;
+  resize: none;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background:
+    repeating-linear-gradient(transparent 0 27px, color-mix(in srgb, var(--fg) 9%, transparent) 27px 28px),
+    color-mix(in srgb, var(--page) 70%, transparent);
+  background-attachment: local;
+  color: var(--fg);
+  font: inherit;
+  font-size: 0.98rem;
+  line-height: 28px;
+}
+
+.rf textarea:focus {
+  outline: 2px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  border-color: transparent;
+}
+
+.rf-saved {
+  position: absolute;
+  right: 4px;
+  bottom: -18px;
+  font-family: var(--ui);
+  font-size: 0.7rem;
+  color: var(--idea);
+}
+
+.rf-lines {
+  display: none;
+}
+
+.seal {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 8px 0 0;
+  font-family: var(--ui);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--reward);
+}
+
+.seal svg {
+  width: 38px;
+  height: 38px;
+  padding: 7px;
+  border-radius: 50%;
+  background: var(--gold);
+  color: #2a1f08;
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--gold) 25%, transparent);
+}
+
+.next-day {
+  display: grid;
+  grid-template-columns: 54px 1fr;
+  align-items: center;
+  gap: 12px;
+  padding: 8px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--fg) 4%, transparent);
+  transition: background 0.2s;
+}
+
+.next-day:hover {
+  background: color-mix(in srgb, var(--fg) 8%, transparent);
+}
+
+.next-art {
+  width: 54px;
+  height: 76px;
+  border-radius: 3px 5px 5px 3px;
+  box-shadow: 0 6px 12px -6px #000a;
+}
+
+.next-day span {
+  display: grid;
+  gap: 2px;
+}
+
+.next-day small {
+  font-family: var(--ui);
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+.next-day b {
+  font-weight: 500;
+  font-size: 1.05rem;
+}
+
+.back-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+
+.back-row > b {
+  margin-right: 4px;
+  font-family: var(--ui);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.back-row .refs {
+  justify-content: flex-start;
+}
+
+.back-fine {
+  margin: auto 0 0;
+  font-family: var(--ui);
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+@media print {
+  .qz {
+    display: none;
+  }
+
+  .qz-print {
+    display: grid;
+    gap: 8px;
+    margin: 0;
+    padding-left: 18px;
+    font-size: 0.86rem;
+  }
+
+  .qz-print ol {
+    margin: 2px 0 0;
+    padding-left: 18px;
+  }
+
+  .qz-key {
+    list-style: none;
+    margin-top: 6px;
+    font-family: var(--ui);
+    font-size: 0.7rem;
+    color: var(--muted);
+    transform: rotate(180deg);
+    text-align: right;
+  }
+
+  .rf textarea,
+  .rf-saved,
+  .next-day {
+    display: none;
+  }
+
+  .rf-lines {
+    display: grid;
+    gap: 26px;
+    margin-top: 12px;
+  }
+
+  .rf-lines i {
+    border-bottom: 1px solid #0003;
+  }
+}

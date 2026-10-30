@@ -13,6 +13,11 @@ const slug = (t) => t.toLowerCase().replace(/'/g, "").replace(/[^a-z0-9]+/g, "-"
 const surahs = JSON.parse(fs.readFileSync(path.join(root, "quran.json"), "utf8"));
 const names = JSON.parse(fs.readFileSync(path.join(root, "content", "names.json"), "utf8"));
 const dir = path.join(root, "content", "articles");
+const q30 = fs
+  .readdirSync(path.join(root, "content", "q30"))
+  .filter((f) => /^day-dd.json$/.test(f))
+  .sort()
+  .map((f) => JSON.parse(fs.readFileSync(path.join(root, "content", "q30", f), "utf8")));
 const articles = fs
   .readdirSync(dir)
   .filter((f) => f.endsWith(".md"))
@@ -33,6 +38,11 @@ const lines = [
   "## Guides",
   "",
   ...articles.map((a) => `- [${a.title}](${absUrl(`/learn/${a.slug}`)}): ${a.description}`),
+  "",
+  "## Quran in 30 Days",
+  "",
+  `- [The course](${absUrl("/quran-in-30-days")}): a guided 30-day course in short illustrated booklets that maps the whole Quran`,
+  ...q30.map((d) => `- [Day ${d.day}: ${d.title}](${absUrl(`/quran-in-30-days/day-${d.day}`)}): ${d.question}`),
   "",
   "## Surahs",
   "",

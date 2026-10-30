@@ -1,0 +1,219 @@
+{
+  "day": 16,
+  "title": "People of the Book and Other Faiths",
+  "question": "Does the Quran speak about Jews and Christians in one voice?",
+  "emblem": "scroll",
+  "intro": [
+    "The Quran calls Jews and Christians Ahl al-Kitab, \"People of the Book\": communities who received earlier scripture. It tells Muslims to believe in the Torah given to Musa and the Gospel given to 'Isa, and it honours many of the same prophets.",
+    "Its tone toward them is not single. It praises the upright, invites to common ground, debates, and criticises particular beliefs and deeds, often with the words \"among them\". Alongside this it sets rules for living with people of any faith: no compulsion, justice, and kindness to the peaceful. Today you will hear that range, and see one verse that scholars read in different ways. It also warns Muslims themselves against splitting into sects (3:103)."
+  ],
+  "passages": [
+    {
+      "ref": "3:64",
+      "context": "Madinan. Al-Bukhari reports the Prophet ﷺ quoted it in his letter to the Byzantine emperor Heraclius.",
+      "point": "The invitation starts from shared ground: one God, worship of Him alone, no human lords. If it is refused, Muslims simply say who they are.",
+      "label": "stated"
+    },
+    {
+      "ref": "2:62",
+      "context": "Madinan, after verses on the Children of Israel.",
+      "point": "Faith in Allah and the Last Day, with good deeds, is rewarded across named communities.",
+      "label": "differ",
+      "note": "Most scholars limit it to those who followed their prophet before Muhammad ﷺ (see the bracket); a report from Ibn 'Abbas says 3:85 qualified it. Some modern scholars apply it to sincere believers of any age."
+    },
+    {
+      "ref": "29:46",
+      "context": "Guidance on how Muslims should discuss faith with Jews and Christians.",
+      "point": "Argue only in the best way, except with those who act unjustly, and begin from what is shared: \"our God and your God is one\".",
+      "label": "stated"
+    },
+    {
+      "ref": "60:8-9",
+      "context": "Madinan, while Makkah was still at war with the Muslims. Reports link it to Asma' bint Abi Bakr and her non-Muslim mother.",
+      "point": "The rule is about conduct, not belief: be kind and just to all who do not fight you over religion or drive you out. Only alliance with aggressors is forbidden.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "spectrum",
+    "title": "One book, many tones",
+    "caption": "Each point is a verse. The Quran praises, invites, debates and rebukes, and keeps distinguishing: \"they are not [all] the same\" (3:113). The position shows the tone of the verse, not a ranking of people.",
+    "from": "Praise",
+    "to": "Rebuke",
+    "items": [
+      {
+        "at": 0.04,
+        "label": "Not all the same",
+        "text": "Some stand in prayer at night, reciting.",
+        "ref": "3:113"
+      },
+      {
+        "at": 0.11,
+        "label": "Eyes full of tears",
+        "text": "Some weep on recognising the truth.",
+        "ref": "5:83"
+      },
+      {
+        "at": 0.18,
+        "label": "Their reward",
+        "text": "Some believe humbly and keep faith with revelation.",
+        "ref": "3:199"
+      },
+      {
+        "at": 0.25,
+        "label": "No fear for them",
+        "text": "Faith and good deeds rewarded; readings differ.",
+        "ref": "2:62"
+      },
+      {
+        "at": 0.35,
+        "label": "A common word",
+        "text": "Come to the worship of the One God.",
+        "ref": "3:64"
+      },
+      {
+        "at": 0.43,
+        "label": "The best way",
+        "text": "Discuss courteously; our God is one.",
+        "ref": "29:46"
+      },
+      {
+        "at": 0.5,
+        "label": "Kind and just",
+        "text": "Toward all who do not fight you.",
+        "ref": "60:8"
+      },
+      {
+        "at": 0.57,
+        "label": "No compulsion",
+        "text": "Faith cannot be forced on anyone.",
+        "ref": "2:256"
+      },
+      {
+        "at": 0.67,
+        "label": "Some keep trusts",
+        "text": "Some return a fortune; some not a coin.",
+        "ref": "3:75"
+      },
+      {
+        "at": 0.77,
+        "label": "Many wish otherwise",
+        "text": "Some wish believers would leave faith; pardon them.",
+        "ref": "2:109"
+      },
+      {
+        "at": 0.87,
+        "label": "A broken covenant",
+        "text": "Rebuke for distorting words, yet: pardon them.",
+        "ref": "5:13"
+      },
+      {
+        "at": 0.96,
+        "label": "A belief rejected",
+        "text": "Calling the Messiah God is rejected.",
+        "ref": "5:72"
+      }
+    ]
+  },
+  "word": {
+    "ar": "أَهْلُ الْكِتَابِ",
+    "tr": "Ahl al-Kitāb",
+    "root": [
+      "ك",
+      "ت",
+      "ب"
+    ],
+    "meaning": "People of the Book",
+    "nuance": "Ahl means family or household; kitab, from the root of writing, means a book or scripture. The title marks Jews and Christians as communities who received revelation, and the Quran speaks to them directly many times: \"O People of the Scripture\" (3:64).",
+    "refs": [
+      "3:64",
+      "3:113"
+    ]
+  },
+  "mixup": {
+    "myth": "Muslims worship a different God from Jews and Christians.",
+    "truth": "The Quran tells Muslims to say \"our God and your God is one\" (29:46) and invites the People of the Book to worship Him alone (3:64). It disagrees with certain beliefs about Him, such as calling the Messiah God (5:72) or speaking of \"three\" (4:171), but not about whom it calls people to worship. Arabic-speaking Christians also pray to \"Allah\".",
+    "refs": [
+      "29:46",
+      "3:64",
+      "4:171"
+    ]
+  },
+  "remember": [
+    "Ahl al-Kitab are Jews and Christians, communities who received earlier scripture.",
+    "The Quran's tone ranges from praise to rebuke, and it keeps saying \"among them\".",
+    "With people of any faith: no compulsion, justice, kindness to the peaceful, and argument in the best way."
+  ],
+  "memorize": "60:8",
+  "quiz": [
+    {
+      "q": "What does 3:113 say about the People of the Scripture?",
+      "options": [
+        "They are all the same",
+        "They are not all the same",
+        "They received no scripture",
+        "They must be made Muslim by force"
+      ],
+      "answer": 1,
+      "why": "3:113: \"They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allah during periods of the night.\""
+    },
+    {
+      "q": "According to 29:46, how should Muslims argue with the People of the Scripture?",
+      "options": [
+        "Never at all",
+        "Only through their rulers",
+        "In a way that is best",
+        "Loudly, so as to win"
+      ],
+      "answer": 2,
+      "why": "29:46: \"do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them.\""
+    },
+    {
+      "q": "Whom does 60:8 say believers may treat with kindness and justice?",
+      "options": [
+        "All who do not fight them over religion or drive them from their homes",
+        "Only other Muslims",
+        "Only their relatives"
+      ],
+      "answer": 0,
+      "why": "60:8: \"Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them.\""
+    }
+  ],
+  "reflect": "Think of someone you know from another faith. What would speaking with them \"in a way that is best\" look like for you?",
+  "deeper": [
+    "3:113-115",
+    "3:84",
+    "5:44-48",
+    "5:82-85",
+    "2:256",
+    "109",
+    "22:40",
+    "3:103-105",
+    "6:159"
+  ],
+  "links": [
+    {
+      "label": "Christians and Jews in the Quran",
+      "href": "/learn/christians-and-jews-in-the-quran"
+    },
+    {
+      "label": "Is Allah the same God?",
+      "href": "/learn/is-allah-the-same-god"
+    },
+    {
+      "label": "Jesus in the Quran",
+      "href": "/learn/jesus-in-the-quran"
+    },
+    {
+      "label": "Read Surah Al-Kafirun",
+      "href": "/surah/al-kafirun"
+    }
+  ],
+  "connections": [
+    6,
+    11,
+    28
+  ],
+  "review": true,
+  "status": "draft"
+}

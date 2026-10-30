@@ -1,0 +1,242 @@
+{
+  "day": 17,
+  "title": "Women and Men",
+  "question": "Who is the only woman the Quran calls by name?",
+  "emblem": "star",
+  "intro": [
+    "The Quran speaks to women and men side by side. Both are created from one soul (4:1), both are promised the same reward for faith and good deeds, and both are called to modesty. Many verses name \"believing men and believing women\" together, as allies of one another (9:71).",
+    "It also tells the stories of many women: mothers, queens, prophets' wives, and a woman who argued her case and was heard. Only one is named: Maryam, the mother of 'Isa. The others are known by their role; their names come from hadith and history. Laws on marriage and family come on Day 25. Today is about souls, examples and character."
+  ],
+  "passages": [
+    {
+      "ref": "33:35",
+      "context": "Madinan. Reports say it came after women asked why the Quran seemed to address only men.",
+      "point": "Ten qualities, each named for men and women alike, and one promise for both: forgiveness and a great reward.",
+      "label": "stated"
+    },
+    {
+      "ref": "58:1",
+      "context": "Madinan. Reports name her Khawlah bint Tha'labah; her husband had cast her off with an old pagan formula called zihar.",
+      "point": "A woman's argument with the Prophet ﷺ opens a surah. Allah heard her complaint, and the verses after it end that unjust custom (58:2-4).",
+      "label": "stated"
+    },
+    {
+      "ref": "66:11-12",
+      "context": "Madinan. They follow the wives of Nuh and Lut, given as examples of betrayal (66:10).",
+      "point": "The models of faith for all believers, men included, are two women: Pharaoh's wife, steadfast under a tyrant, and Maryam, devout and chaste.",
+      "label": "stated"
+    },
+    {
+      "ref": "24:30",
+      "context": "Madinan. The next verse gives women the same command, then adds covering and whom they may appear before.",
+      "point": "Modesty is asked of men first: lower the gaze, guard chastity. It is a shared duty, not only a women's issue.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "constellation",
+    "title": "The women of the Quran",
+    "caption": "Maryam shines brightest: the only woman named in the Quran, with a surah that carries her name. The others are known by their role; names such as Hawwa, Sarah and Asiya come from hadith and history.",
+    "items": [
+      {
+        "label": "Maryam",
+        "text": "Chosen and purified above the women of the worlds.",
+        "ref": "3:42",
+        "bright": true
+      },
+      {
+        "label": "Adam's wife",
+        "text": "Lived in the Garden; tradition names her Hawwa.",
+        "ref": "2:35"
+      },
+      {
+        "label": "Nuh's wife",
+        "text": "Betrayed her husband's mission.",
+        "ref": "66:10"
+      },
+      {
+        "label": "Lut's wife",
+        "text": "Stayed with her people and was lost.",
+        "ref": "66:10"
+      },
+      {
+        "label": "Ibrahim's wife",
+        "text": "Smiled at the news of Ishaq.",
+        "ref": "11:71"
+      },
+      {
+        "label": "Musa's mother",
+        "text": "Cast her baby into the river, trusting Allah.",
+        "ref": "28:7"
+      },
+      {
+        "label": "Musa's sister",
+        "text": "Followed him from a distance.",
+        "ref": "28:11"
+      },
+      {
+        "label": "Pharaoh's wife",
+        "text": "Asked for a house near Allah.",
+        "ref": "66:11"
+      },
+      {
+        "label": "Daughters of Madyan",
+        "text": "Waited at the well; one married Musa.",
+        "ref": "28:23"
+      },
+      {
+        "label": "Wife of al-'Aziz",
+        "text": "Tried to seduce Yusuf, then confessed.",
+        "ref": "12:51"
+      },
+      {
+        "label": "Women of the city",
+        "text": "Cut their hands at the sight of Yusuf.",
+        "ref": "12:31"
+      },
+      {
+        "label": "Queen of Saba'",
+        "text": "A wise ruler who submitted to Allah.",
+        "ref": "27:44"
+      },
+      {
+        "label": "Wife of 'Imran",
+        "text": "Dedicated her unborn child to Allah.",
+        "ref": "3:35"
+      },
+      {
+        "label": "Zakariya's wife",
+        "text": "Made able to bear Yahya.",
+        "ref": "21:90"
+      },
+      {
+        "label": "The woman who argued",
+        "text": "Pleaded her case; Allah heard her.",
+        "ref": "58:1"
+      },
+      {
+        "label": "Abu Lahab's wife",
+        "text": "\"The carrier of firewood.\"",
+        "ref": "111:4"
+      },
+      {
+        "label": "The Prophet's wives",
+        "text": "\"Not like anyone among women.\"",
+        "ref": "33:32"
+      },
+      {
+        "label": "Women of the pledge",
+        "text": "Pledged their faith directly to the Prophet ﷺ.",
+        "ref": "60:12"
+      },
+      {
+        "label": "The spinner",
+        "text": "A parable: undoing her strong thread, like broken oaths.",
+        "ref": "16:92"
+      }
+    ]
+  },
+  "word": {
+    "ar": "زَوْج",
+    "tr": "zawj",
+    "root": [
+      "ز",
+      "و",
+      "ج"
+    ],
+    "meaning": "Spouse; one of a pair",
+    "nuance": "The Quran uses the same word for husband and wife: Adam is told to dwell in the Garden with his zawj (2:35). It also means a pair or match: \"of all things We created two mates\" (51:49). Each spouse is the other's counterpart, and between them Allah places affection and mercy (30:21).",
+    "refs": [
+      "2:35",
+      "51:49",
+      "30:21"
+    ]
+  },
+  "mixup": {
+    "myth": "The Quran blames Eve for the first sin.",
+    "truth": "The Quran tells the story of both together: Satan whispered to them both, they both ate, and they both repented (7:20-23). Where it names one, it names Adam: \"Adam disobeyed his Lord\" (20:121). It never blames the woman, never names her, and teaches that no soul carries another's burden (6:164).",
+    "refs": [
+      "7:20-23",
+      "20:121",
+      "6:164"
+    ]
+  },
+  "remember": [
+    "Women and men come from one soul and are promised the same reward for faith and good deeds.",
+    "Maryam is the only woman named; she and Pharaoh's wife are the models for all believers.",
+    "Allah heard a woman's complaint and changed the law; modesty is asked of both."
+  ],
+  "memorize": "16:97",
+  "quiz": [
+    {
+      "q": "Who are the two examples of faith for all believers in 66:11-12?",
+      "options": [
+        "The wives of Nuh and Lut",
+        "Pharaoh's wife and Maryam",
+        "The Queen of Saba' and Ibrahim's wife",
+        "Musa's mother and sister"
+      ],
+      "answer": 1,
+      "why": "66:11-12: \"Allah presents an example of those who believed: the wife of Pharaoh\", then Maryam. The wives of Nuh and Lut are the example of disbelief (66:10)."
+    },
+    {
+      "q": "In 24:30-31, who is told first to lower the gaze?",
+      "options": [
+        "The believing men",
+        "The believing women",
+        "Only the Prophet's wives"
+      ],
+      "answer": 0,
+      "why": "24:30: \"Tell the believing men to reduce [some] of their vision and guard their private parts.\" 24:31 then gives the believing women the same command."
+    },
+    {
+      "q": "Whose voice opens Surah al-Mujadilah, \"She Who Disputes\"?",
+      "options": [
+        "The Queen of Saba'",
+        "Musa's mother",
+        "A woman complaining about her husband",
+        "Abu Lahab's wife"
+      ],
+      "answer": 2,
+      "why": "58:1: \"Allah has heard the speech of the one who argues with you concerning her husband and directs her complaint to Allah.\""
+    }
+  ],
+  "reflect": "Which woman from today's stories would you most like to learn more about, and why?",
+  "deeper": [
+    "3:195",
+    "4:1",
+    "9:71",
+    "4:124",
+    "3:35-47",
+    "19:16-34",
+    "28:7-13",
+    "27:22-44",
+    "60:12",
+    "33:59"
+  ],
+  "links": [
+    {
+      "label": "Women in the Quran",
+      "href": "/learn/women-in-the-quran"
+    },
+    {
+      "label": "Mary in the Quran",
+      "href": "/learn/mary-in-the-quran"
+    },
+    {
+      "label": "Maryam on the timeline",
+      "href": "/timeline/prophets/maryam"
+    },
+    {
+      "label": "Read Surah Al-Mujadila",
+      "href": "/surah/al-mujadila"
+    }
+  ],
+  "connections": [
+    5,
+    11,
+    25
+  ],
+  "review": true,
+  "status": "draft"
+}

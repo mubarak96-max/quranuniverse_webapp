@@ -96,6 +96,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             </Link>
             <nav className="nav">
               <Link href="/">Surahs</Link>
+              <Link href="/quran-in-30-days">30 Days</Link>
               <Link href="/timeline">Timeline</Link>
               <Link href="/names">Names of Allah</Link>
               <Link href="/games">Games</Link>
@@ -109,6 +110,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <footer className="site-footer">
           <nav className="footer-nav" aria-label="Footer">
             <Link href="/learn">Learn</Link>
+            <Link href="/quran-in-30-days">Quran in 30 Days</Link>
             <Link href="/timeline">Timeline</Link>
             <Link href="/names">Names of Allah</Link>
             <Link href="/games">Games</Link>

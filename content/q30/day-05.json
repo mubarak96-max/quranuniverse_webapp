@@ -1,0 +1,110 @@
+{
+  "day": 5,
+  "title": "Humanity",
+  "question": "Why are we here, and what are we made of?",
+  "emblem": "seed",
+  "intro": [
+    "Before Adam was created, Allah told the angels He would place on earth a khalifah, a successor or steward (2:30). The angels asked why. The answer was that Allah knows what they do not.",
+    "The Quran then tells the human story: shaped from clay, given a natural pull toward its Creator, honoured above much of creation (17:70), and entrusted with a trust the mountains refused (33:72). It is honest about our weakness too. Adam forgot and slipped, then turned back and was forgiven.",
+    "Today you will also see how the Quran describes the self: a soul that can urge wrong, blame itself, and finally find peace. Life, it says, is a test of which of us is best in deed (67:2)."
+  ],
+  "passages": [
+    {
+      "ref": "2:30",
+      "context": "The opening of the human story, in al-Baqarah, a Madinan surah.",
+      "point": "Humans were planned for the earth before Adam existed. The angels' worry is answered with Allah's knowledge, not dismissed.",
+      "label": "differ",
+      "note": "Some scholars read khalifah as people succeeding one another on earth; others as a steward entrusted by Allah to govern it by His guidance."
+    },
+    {
+      "ref": "23:12-14",
+      "context": "From al-Mu'minun, a Makkan surah. A hadith of Ibn Mas'ud in al-Bukhari and Muslim adds that the soul is breathed in later.",
+      "point": "Clay, then a drop, a clinging clot, a lump, bones clothed in flesh, then \"another creation\": a full human being.",
+      "label": "stated"
+    },
+    {
+      "ref": "30:30",
+      "context": "A Makkan surah. A hadith in al-Bukhari and Muslim says every child is born upon the fitrah.",
+      "point": "People are created with an inclination toward their Creator and the truth. Faith is a return to that nature, not something foreign to it.",
+      "label": "stated"
+    },
+    {
+      "ref": "20:121-122",
+      "context": "From Taha. 7:23 records the couple's words: \"Our Lord, we have wronged ourselves.\"",
+      "point": "Adam and his wife both ate, and Adam erred. Then Allah chose him, turned to him and guided him. The first human slip ends in forgiveness.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "ladder",
+    "title": "Three states of the soul",
+    "caption": "Each phrase is in the Quran. Many scholars read them as states one soul moves through, from the bottom up, not as three separate souls.",
+    "label": "explained",
+    "items": [
+      { "label": "The soul at peace", "text": "An-nafs al-mutma'innah: called home, well-pleased and pleasing.", "ref": "89:27-28" },
+      { "label": "The self-blaming soul", "text": "An-nafs al-lawwamah: it reproaches itself after doing wrong.", "ref": "75:2" },
+      { "label": "The soul urging wrong", "text": "An-nafs al-ammarah: it pushes toward evil, unless Allah shows mercy.", "ref": "12:53" }
+    ]
+  },
+  "word": {
+    "ar": "فِطْرَة",
+    "tr": "fiṭrah",
+    "root": ["ف", "ط", "ر"],
+    "meaning": "The original nature Allah created people with",
+    "nuance": "From faṭara, to split open or bring into being: Allah is Fāṭir, Originator of the heavens and the earth (35:1). Fitrah is the pull toward one's Creator that exists before any teaching. Upbringing can cover it, but it is not erased.",
+    "refs": ["30:30", "35:1"]
+  },
+  "mixup": {
+    "myth": "Humans are born guilty because of Adam's sin.",
+    "truth": "In the Quran, Adam and his wife both slipped and both repented (7:23), and Allah accepted Adam's repentance (2:37). No soul carries another's burden (6:164), and every child is born upon the fitrah. The Quran does not blame Eve alone; it speaks of the two of them. Life on earth was planned before the slip (2:30).",
+    "refs": ["2:37", "6:164"]
+  },
+  "remember": [
+    "Humans were made for the earth: honoured, entrusted and given a role (2:30, 17:70, 33:72).",
+    "Everyone is born upon the fitrah, a natural pull toward Allah (30:30).",
+    "Adam slipped and was forgiven; there is no inherited sin, only a test for each soul (67:2)."
+  ],
+  "memorize": "67:2",
+  "quiz": [
+    {
+      "q": "In 7:172, what did the descendants of Adam testify?",
+      "options": [
+        "That they would never sin",
+        "That Allah is their Lord",
+        "That they would rule the earth"
+      ],
+      "answer": 1,
+      "why": "Allah asked, \"Am I not your Lord?\" and they said, \"Yes, we have testified.\" Scholars differ on whether this was a literal event before birth or a picture of the fitrah."
+    },
+    {
+      "q": "What did the heavens, earth and mountains decline to carry in 33:72?",
+      "options": [
+        "The Trust",
+        "The Throne",
+        "The rain",
+        "The Book"
+      ],
+      "answer": 0,
+      "why": "33:72: they \"declined to bear it and feared it; but man [undertook to] bear it.\" Scholars explain the Trust as the responsibility of choice and obedience."
+    },
+    {
+      "q": "Which soul does Allah swear by in 75:2?",
+      "options": [
+        "The soul at peace",
+        "The soul urging evil",
+        "The reproaching soul"
+      ],
+      "answer": 2,
+      "why": "75:2: \"I swear by the reproaching soul.\" Scholars explain it as the conscience that blames itself after doing wrong."
+    }
+  ],
+  "reflect": "When your conscience blames you, do you treat it as an enemy or as a gift?",
+  "deeper": ["7:11-27", "2:30-39", "7:172", "33:72", "17:70", "95:4", "114"],
+  "links": [
+    { "label": "Adam's journey", "href": "/timeline/journey/adam" },
+    { "label": "Fitrah: human nature in Islam", "href": "/learn/fitrah-human-nature-in-islam" },
+    { "label": "The meaning of life in Islam", "href": "/learn/meaning-of-life-in-islam" }
+  ],
+  "connections": [3, 4, 6, 23],
+  "status": "draft"
+}

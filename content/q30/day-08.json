@@ -1,0 +1,171 @@
+{
+  "day": 8,
+  "title": "Ibrahim and His Family",
+  "question": "How did one man reason his way from the stars to their Maker?",
+  "emblem": "star",
+  "intro": [
+    "Ibrahim (Abraham) is honoured by Jews, Christians and Muslims alike. The Quran calls him a leader for the people (2:124), a man devoutly obedient to Allah (16:120), and the one Allah \"took as an intimate friend\" (4:125).",
+    "His life is a series of tests. He questioned the idols of his father and his people, faced a fire, left part of his family in a barren valley, and saw a dream asking him to sacrifice his son. Each time he chose Allah, and each time Allah honoured him. Today you will follow his reasoning, his trials, and the House he raised in Makkah with his son Isma'il (Ishmael)."
+  ],
+  "passages": [
+    {
+      "ref": "6:78-79",
+      "context": "After the star (6:76) and the moon (6:77).",
+      "point": "What rises and sets cannot be Lord. He turns to the Creator alone, \"inclining toward truth\".",
+      "label": "differ",
+      "note": "Most scholars, including Ibn Kathir, read this as a debate exposing his people's worship (6:83 calls it an argument). Others, in reports cited by at-Tabari, read it as his own search in youth."
+    },
+    {
+      "ref": "21:66-69",
+      "context": "He had broken his people's idols, all but the largest, and told them to ask it (21:58-63).",
+      "point": "Gods that cannot speak, help or harm are not worth worship. When they try to burn him, Allah commands the fire to be cool and safe.",
+      "label": "stated"
+    },
+    {
+      "ref": "37:102-105",
+      "context": "He had prayed for a righteous child (37:100-101).",
+      "point": "Father and son both submit. Allah stops it: the surrender was the test, and He ransoms the son \"with a great sacrifice\" (37:107).",
+      "label": "differ",
+      "note": "The son is not named. Most scholars, including Ibn Kathir, say Isma'il, as Ishaq's birth is announced after (37:112). Others, including at-Tabari, say Ishaq."
+    },
+    {
+      "ref": "2:127-128",
+      "context": "In Makkah, where Ibrahim had settled family \"in an uncultivated valley\" (14:37).",
+      "point": "Even while building Allah's House, father and son pray to be accepted and for a community devoted to Him. Their next prayer (2:129) asks for a messenger from among them.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "panels",
+    "title": "Star, moon, sun",
+    "caption": "Each light rises, shines and sets. Step by step, Ibrahim shows that what disappears cannot be Lord, and turns to the One who made them all (6:76-79).",
+    "items": [
+      {
+        "label": "A star",
+        "text": "It sets: \"I like not those that disappear.\"",
+        "ref": "6:76",
+        "icon": "star"
+      },
+      {
+        "label": "The moon",
+        "text": "It sets: \"Unless my Lord guides me...\"",
+        "ref": "6:77",
+        "icon": "moon"
+      },
+      {
+        "label": "The sun",
+        "text": "\"This is greater.\" It sets too.",
+        "ref": "6:78",
+        "icon": "sun"
+      },
+      {
+        "label": "The Creator",
+        "text": "\"I have turned my face toward He who created.\"",
+        "ref": "6:79",
+        "icon": "compass"
+      }
+    ]
+  },
+  "word": {
+    "ar": "حَنِيفٌ",
+    "tr": "ḥanīf",
+    "root": [
+      "ح",
+      "ن",
+      "ف"
+    ],
+    "meaning": "One who inclines toward the truth",
+    "nuance": "The root carries the sense of turning or leaning. A ḥanīf turns away from false worship and leans wholly toward Allah. Sahih International renders it \"inclining toward truth\". The Quran uses it again and again for Ibrahim, and calls the Prophet ﷺ to follow his path.",
+    "refs": [
+      "16:120",
+      "3:67",
+      "16:123"
+    ]
+  },
+  "mixup": {
+    "myth": "Islam began with Muhammad ﷺ, so Ibrahim belongs to an older, separate religion.",
+    "truth": "The Quran presents one path from the start: worship Allah alone and submit to Him. It calls Ibrahim \"inclining toward truth, a Muslim [submitting to Allah]\" (3:67), and tells the Prophet ﷺ to follow \"the religion of Abraham\" (16:123). Muhammad ﷺ is presented as renewing that path, not inventing a new one.",
+    "refs": [
+      "3:67",
+      "16:123",
+      "22:78"
+    ]
+  },
+  "remember": [
+    "Ibrahim reasoned from the setting star, moon and sun to the Creator who never sets (6:76-79).",
+    "His tests were the idols, the fire, the barren valley and the dream of sacrifice. In each he submitted, and Allah honoured him.",
+    "With Isma'il he raised the foundations of the Ka'bah and prayed for a messenger from their descendants (2:127-129)."
+  ],
+  "memorize": "14:40-41",
+  "quiz": [
+    {
+      "q": "When the king claimed that he gave life and death, what did Ibrahim reply?",
+      "options": [
+        "\"Then make the dead speak.\"",
+        "\"Then stop the rain.\"",
+        "\"Allah brings up the sun from the east, so bring it up from the west.\"",
+        "\"Then turn the river back.\""
+      ],
+      "answer": 2,
+      "why": "2:258. The king, given power by Allah, was left speechless. The Quran does not name him; later tradition calls him Namrud."
+    },
+    {
+      "q": "What did Allah say to the fire prepared for Ibrahim?",
+      "options": [
+        "\"O fire, be coolness and safety upon Abraham.\"",
+        "\"O fire, go out.\"",
+        "\"O fire, burn only the idols.\""
+      ],
+      "answer": 0,
+      "why": "21:69. The fire was not removed; it was made cool and safe for him, and the plotters became \"the greatest losers\" (21:70)."
+    },
+    {
+      "q": "Who raised the foundations of the House with Ibrahim?",
+      "options": [
+        "Ishaq",
+        "Isma'il",
+        "Lut",
+        "Ya'qub"
+      ],
+      "answer": 1,
+      "why": "2:127: \"when Abraham was raising the foundations of the House and [with him] Ishmael\"."
+    }
+  ],
+  "reflect": "Ibrahim asked to see how Allah gives life, \"only that my heart may be satisfied\" (2:260). What question would you bring to Allah with that same honesty?",
+  "deeper": [
+    "2:258-260",
+    "11:69-76",
+    "14:35-41",
+    "19:41-50",
+    "37:83-98",
+    "60:4",
+    "16:120-123",
+    "29:16-27"
+  ],
+  "links": [
+    {
+      "label": "Ibrahim on the timeline",
+      "href": "/timeline/prophets/ibrahim"
+    },
+    {
+      "label": "The king who argued with Ibrahim",
+      "href": "/timeline/villains/namrud"
+    },
+    {
+      "label": "What is the Kaaba?",
+      "href": "/learn/what-is-the-kaaba"
+    },
+    {
+      "label": "Read Surah Ibrahim",
+      "href": "/surah/ibrahim"
+    }
+  ],
+  "connections": [
+    6,
+    7,
+    9,
+    13,
+    24
+  ],
+  "status": "draft"
+}

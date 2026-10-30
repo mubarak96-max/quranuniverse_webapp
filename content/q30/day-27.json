@@ -1,0 +1,119 @@
+{
+  "day": 27,
+  "title": "Halal, Haram and the Penalties",
+  "question": "Is the list of what Allah forbids long or short?",
+  "emblem": "lock",
+  "intro": [
+    "Halal means permitted; haram means forbidden. The Quran's starting point is generous: eat of what is lawful and good (2:168). It names what is forbidden, and it condemns people who invent prohibitions and attribute them to Allah (16:116). Scholars draw a principle from this: things are lawful unless shown otherwise.",
+    "It also names a few grave wrongs with fixed penalties in this world: unlawful sex, falsely accusing someone of it, theft, armed robbery, and murder. These verses are often quoted without their conditions. Today you will read them with those conditions: strict proof, a court rather than individuals, and the door of repentance the verses themselves keep open.",
+    "Where details come from hadith and the schools of law rather than the verse, the label says so."
+  ],
+  "passages": [
+    {
+      "ref": "7:33",
+      "context": "Makkah. 6:151-153 gives a longer list, and 4:31 promises that avoiding the major sins wipes away lesser ones.",
+      "point": "The forbidden is named: indecency open or hidden, sin, oppression, associating partners with Allah, and speaking about Allah without knowledge.",
+      "label": "stated"
+    },
+    {
+      "ref": "2:173",
+      "context": "Madinah. 5:3 adds animals killed by strangling, blows or falls; 5:5 allows the food of the People of the Book.",
+      "point": "Only a few foods are forbidden: carrion, blood, pork, and what is dedicated to other than Allah. Under real necessity, there is no sin.",
+      "label": "stated"
+    },
+    {
+      "ref": "5:90-91",
+      "context": "The last of three stages on alcohol, after 2:219 and 4:43.",
+      "point": "Intoxicants and gambling are called defilement from Satan that breeds enmity and keeps people from prayer. Scholars read \"avoid it\" as a complete ban.",
+      "label": "stated"
+    },
+    {
+      "ref": "24:2",
+      "context": "Proof requires four witnesses to the act (24:4, 24:13) or a free confession.",
+      "point": "Proven unlawful sex (zina) carries a hundred lashes, applied by a court without pity suspending the law.",
+      "label": "differ",
+      "note": "Sahih's \"[unmarried]\" follows the majority, who apply stoning to married offenders from hadith in al-Bukhari and Muslim. A minority, early and modern, hold that 24:2 covers all."
+    },
+    {
+      "ref": "5:38-39",
+      "context": "Madinah. The penalty is stated; its conditions come from the Sunnah and the jurists.",
+      "point": "Applied only with firm proof, above a minimum value, from a secured place, and not under need or doubt; 'Umar suspended it in a famine. 5:39 opens repentance.",
+      "label": "explained"
+    },
+    {
+      "ref": "2:178",
+      "from": "O you who have believed, prescribed for you",
+      "to": "and a mercy.",
+      "context": "Reports say it ended tribal feuds where the strong took many lives for one. 2:179: in retribution there is life.",
+      "point": "Murder is answered by equal retribution through the law, yet the victim's family may forgive and accept compensation (diyah), which the verse calls a mercy.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "ladder",
+    "title": "Lines not to cross",
+    "caption": "The commands of 6:151-153, in the order the verses give them. Ibn Mas'ud is reported to have called these verses the Prophet's ﷺ sealed testament.",
+    "label": "stated",
+    "items": [
+      { "label": "No partners", "text": "Associate nothing with Allah.", "ref": "6:151" },
+      { "label": "Parents", "text": "Treat them with goodness.", "ref": "6:151" },
+      { "label": "Children", "text": "Do not kill them for fear of poverty.", "ref": "6:151" },
+      { "label": "Indecency", "text": "Do not even approach it, open or hidden.", "ref": "6:151" },
+      { "label": "Life", "text": "Take no life except by legal right.", "ref": "6:151" },
+      { "label": "Orphans' wealth", "text": "Guard it in the best way until they mature.", "ref": "6:152" },
+      { "label": "Measure", "text": "Give full measure and weight in justice.", "ref": "6:152" },
+      { "label": "Words", "text": "Be just when you speak, even about a relative.", "ref": "6:152" },
+      { "label": "Covenant", "text": "Fulfil the covenant of Allah.", "ref": "6:152" },
+      { "label": "The straight path", "text": "Follow it; other ways scatter you from His way.", "ref": "6:153" }
+    ]
+  },
+  "word": {
+    "ar": "حَرَام",
+    "tr": "ḥarām",
+    "root": ["ح", "ر", "م"],
+    "meaning": "Forbidden; sacred",
+    "nuance": "Something set apart and fenced off. The same root names the Sacred Mosque (al-Masjid al-Haram) and the sacred months: what is haram is protected, either because it is holy or because it harms. Its opposite, halal, comes from a root meaning to untie: released for use.",
+    "refs": ["6:151", "16:116"]
+  },
+  "mixup": {
+    "myth": "Islamic law is mostly a list of harsh punishments that any Muslim may carry out.",
+    "truth": "Only a few fixed penalties appear in the Quran, each bound by strict proof, such as four witnesses (24:4). Classical scholars agreed they belong to a lawful court, never to individuals, and that doubt prevents them. The verses also keep repentance open (5:34, 5:39, 24:5). Most of Islamic law concerns worship, family, trade and character.",
+    "refs": ["24:4", "5:39", "5:34"]
+  },
+  "remember": [
+    "The default is lawful and good; the forbidden is named, and inventing prohibitions is itself condemned (2:168, 7:33, 16:116).",
+    "Fixed penalties are few, need strict proof, and belong to a court, never to individuals.",
+    "Avoiding major sins wipes away lesser ones, and repentance is offered within the penalty verses themselves (4:31, 5:39)."
+  ],
+  "memorize": "4:31",
+  "quiz": [
+    {
+      "q": "How many witnesses does the Quran require for an accusation of unlawful sex?",
+      "options": ["Two", "One", "Three", "Four"],
+      "answer": 3,
+      "why": "24:4 punishes those who accuse and \"then do not produce four witnesses\"; 24:13 repeats the requirement."
+    },
+    {
+      "q": "What does 2:173 say about someone forced by necessity to eat forbidden food?",
+      "options": ["There is no sin upon them", "They must fast in expiation", "They must refuse even if starving"],
+      "answer": 0,
+      "why": "2:173: \"whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him.\""
+    },
+    {
+      "q": "In 2:178, what may a murder victim's family choose instead of retribution?",
+      "options": ["Exile of the killer's whole tribe", "To forgive and accept compensation", "Nothing; retribution is required", "Revenge on any relative"],
+      "answer": 1,
+      "why": "2:178: \"whoever overlooks from his brother anything, then there should be a suitable follow-up and payment to him with good conduct. This is an alleviation from your Lord and a mercy.\""
+    }
+  ],
+  "reflect": "Which of the lines in 6:151-153 do you most want to guard more carefully in your own life?",
+  "deeper": ["6:151-153", "4:31", "5:3-5", "2:219", "4:43", "24:4-5", "5:33-34", "4:92-93", "5:32", "2:102", "25:68-70"],
+  "links": [
+    { "label": "What is Sharia law?", "href": "/learn/what-is-sharia-law" },
+    { "label": "Why don't Muslims eat pork?", "href": "/learn/why-dont-muslims-eat-pork" },
+    { "label": "Read 6:151-153", "href": "/surah/al-anam/151" }
+  ],
+  "connections": [23, 24, 26, 28],
+  "review": true,
+  "status": "draft"
+}

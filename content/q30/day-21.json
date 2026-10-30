@@ -1,0 +1,178 @@
+{
+  "day": 21,
+  "title": "Hell",
+  "question": "Why does a book of mercy describe the Fire so plainly?",
+  "emblem": "flame",
+  "intro": [
+    "The Quran speaks about the Fire often, and it says why: \"mention of the Fire is not but a reminder to humanity\" (74:31). It is a warning given while there is still time, from the same Lord who says His mercy encompasses all things (7:156).",
+    "Today is a model for reading carefully. Some details are stated in the verses: angels as its keepers, nineteen over Saqar, one keeper named Malik, a tree called Zaqqum. Others come from hadith or scholarly reasoning, such as seven layered levels, or exactly who stays and for how long. We will mark which is which, and end where the Quran so often ends: with the door to mercy."
+  ],
+  "passages": [
+    {
+      "ref": "66:6",
+      "context": "Madinan, from at-Tahrim. Addressed to believers, about themselves and their families.",
+      "point": "The warning turns inward first: protect yourself and those you love. Its keepers are angels who only do what Allah commands.",
+      "label": "stated"
+    },
+    {
+      "ref": "74:26-30",
+      "context": "Makkan, about a man who heard the Quran and called it \"magic\" (74:18-25). 74:31 says the number is a test.",
+      "point": "The Quran gives a number, nineteen, and stops there. Who the nineteen are is not detailed; \"none knows the soldiers of your Lord except Him\" (74:31).",
+      "label": "stated"
+    },
+    {
+      "ref": "37:62-66",
+      "context": "Makkan, from as-Saffat, set against the people of Paradise in 37:40-61.",
+      "point": "Zaqqum is stated as a tree rising from the Fire's depths. Scholars explain \"heads of the devils\" as an image of horror no one has seen.",
+      "label": "explained"
+    },
+    {
+      "ref": "11:106-108",
+      "context": "Makkan, closing Hud's stories of past nations.",
+      "point": "Both abide \"as long as the heavens and the earth endure, except what your Lord should will.\"",
+      "label": "differ",
+      "note": "Most read the exception as sinful believers who leave the Fire, as hadith in al-Bukhari and Muslim describe; for the rest it is forever. A minority, discussed by Ibn al-Qayyim, held the Fire may end."
+    }
+  ],
+  "visual": {
+    "kind": "ladder",
+    "title": "The names of the Fire",
+    "caption": "Names the Quran gives the Fire, each from a verse. Many scholars treat them as names of one Fire; ordering them as seven levels, one for each gate of 15:44, is a later scholarly reading.",
+    "label": "explained",
+    "items": [
+      {
+        "label": "Jahannam",
+        "text": "The most common name, used for the whole Fire",
+        "ref": "78:21"
+      },
+      {
+        "label": "Laẓā",
+        "text": "The Flame, \"a remover of exteriors\"",
+        "ref": "70:15-16"
+      },
+      {
+        "label": "Al-Ḥuṭamah",
+        "text": "The Crusher, \"directed at the hearts\"",
+        "ref": "104:4-7"
+      },
+      {
+        "label": "As-Saʿīr",
+        "text": "The Blaze",
+        "ref": "67:10"
+      },
+      {
+        "label": "Saqar",
+        "text": "Leaves nothing unburned; nineteen are over it",
+        "ref": "74:26-30"
+      },
+      {
+        "label": "Al-Jaḥīm",
+        "text": "The fierce Fire; Zaqqum grows from its base",
+        "ref": "37:64"
+      },
+      {
+        "label": "Al-Hāwiyah",
+        "text": "The Abyss, for those whose scales are light",
+        "ref": "101:8-9"
+      }
+    ]
+  },
+  "word": {
+    "ar": "النَّار",
+    "tr": "an-nār",
+    "root": [
+      "ن",
+      "و",
+      "ر"
+    ],
+    "meaning": "The Fire",
+    "nuance": "The Quran's plainest word for Hell, used far more than any other name. Its root n-w-r also gives nūr, light: in Arabic fire and light are one family of words. The same Book that warns of the Fire calls Allah \"the Light of the heavens and the earth\" (24:35).",
+    "refs": [
+      "66:6",
+      "24:35"
+    ]
+  },
+  "mixup": {
+    "myth": "In Islam, Hell is Satan's kingdom, where he rules and punishes people.",
+    "truth": "The Quran says the Fire's keepers are angels who obey Allah (66:6, 74:31), one of them named Malik (43:77). Satan is not its ruler but one of its people: Allah tells him, \"I will surely fill Hell with you and those of them that follow you\" (38:85). On the Day he disowns his followers (14:22).",
+    "refs": [
+      "66:6",
+      "43:77",
+      "38:85",
+      "14:22"
+    ]
+  },
+  "remember": [
+    "The Quran mentions the Fire as a reminder, given while the door to mercy is still open (74:31, 39:53).",
+    "Stated: angel keepers, nineteen over Saqar, Malik, Zaqqum, a scalding drink (14:16-17). Levels and many details are explained.",
+    "Hadith in al-Bukhari and Muslim say believers with faith in their hearts are brought out of the Fire. His mercy encompasses all things (7:156)."
+  ],
+  "memorize": "15:49-50",
+  "quiz": [
+    {
+      "q": "Who are the keepers of the Fire, according to 66:6 and 74:31?",
+      "options": [
+        "Devils led by Iblis",
+        "The jinn",
+        "Angels who obey Allah"
+      ],
+      "answer": 2,
+      "why": "66:6: over it \"are [appointed] angels, harsh and severe; they do not disobey Allah.\" 74:31: \"We have not made the keepers of the Fire except angels.\""
+    },
+    {
+      "q": "Which keeper do the people of the Fire call out to by name in 43:77?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Harut",
+        "Mika'il"
+      ],
+      "answer": 0,
+      "why": "43:77: \"O Malik, let your Lord put an end to us!\" He answers, \"Indeed, you will remain.\""
+    },
+    {
+      "q": "In 38:59-64 and 7:38-39, what do the people of the Fire do with each other?",
+      "options": [
+        "Praise one another",
+        "Argue and blame each other",
+        "Sit in silence"
+      ],
+      "answer": 1,
+      "why": "Followers blame their leaders and leaders blame followers. 38:64: \"Indeed, that is truth - the quarreling of the people of the Fire.\""
+    }
+  ],
+  "reflect": "The Quran pairs its warnings with an open door, so what helps you hold fear and hope together in your own life?",
+  "deeper": [
+    "78:21-30",
+    "104",
+    "43:74-78",
+    "14:16-17",
+    "40:49-50",
+    "7:38-39",
+    "38:55-64",
+    "4:145",
+    "15:43-44"
+  ],
+  "links": [
+    {
+      "label": "Does God forgive all sins?",
+      "href": "/learn/does-god-forgive-all-sins"
+    },
+    {
+      "label": "Read Surah Al-Muddaththir",
+      "href": "/surah/al-muddaththir"
+    },
+    {
+      "label": "Iblis",
+      "href": "/timeline/villains/iblis"
+    }
+  ],
+  "connections": [
+    4,
+    20,
+    22,
+    23
+  ],
+  "review": true,
+  "status": "draft"
+}

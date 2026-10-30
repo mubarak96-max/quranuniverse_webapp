@@ -1,0 +1,212 @@
+{
+  "day": 19,
+  "title": "Signs of the Hour and Resurrection",
+  "question": "If no one knows when the world ends, why does the Quran describe it so often?",
+  "emblem": "hourglass",
+  "intro": [
+    "The Quran calls the end of this world as-Sā'ah, the Hour. It returns to it again and again, always with two notes: it is certain, and its time is hidden. Even the Prophet Muhammad ﷺ was told to say that only Allah knows when it will come.",
+    "Some signs before it are named in the Quran: the moon split, Gog and Magog, a creature from the earth, a smoke. Others, such as the Dajjal (a great deceiver), come from hadith, the recorded sayings of the Prophet ﷺ. Then the universe itself comes undone, a horn is blown, and every person is raised. Today you will see what the Quran states, what hadith add, and where the order is simply not given."
+  ],
+  "passages": [
+    {
+      "ref": "7:187",
+      "context": "Makkan, from al-A'raf. A reply to people who kept asking the Prophet ﷺ for a date.",
+      "point": "The answer is not a date but a refusal: only Allah knows, and it will come suddenly. 31:34 and 33:63 say the same.",
+      "label": "stated"
+    },
+    {
+      "ref": "43:61",
+      "context": "From az-Zukhruf, in a passage about 'Isa (Jesus) (43:57-65).",
+      "point": "'Isa is tied to knowledge of the Hour; the verse does not say how.",
+      "label": "differ",
+      "note": "Many scholars, following reports from Ibn 'Abbas, read it as 'Isa's return before the end, described in hadith in al-Bukhari and Muslim. Others read it as his fatherless birth, or as the Quran itself."
+    },
+    {
+      "ref": "81:1-6",
+      "context": "One of the early Makkan surahs. Each line opens with \"when\"; the answer comes in 81:14.",
+      "point": "Everything that seems permanent comes undone: the sun wrapped in darkness, stars falling, mountains moved, seas set aflame.",
+      "label": "stated"
+    },
+    {
+      "ref": "39:68",
+      "context": "Makkan, from az-Zumar, which then follows people to their final groups (39:69-75).",
+      "point": "The Horn is blown twice. The first ends all life, except whom Allah wills; the second raises everyone at once, standing and watching.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "timeline",
+    "title": "Signs before the Hour",
+    "caption": "Signs named in the Quran or in hadith, each marked as stated or explained. The Quran gives no full order and hadith lists vary, so the sequence before the Hour itself is approximate.",
+    "label": "explained",
+    "items": [
+      {
+        "at": "Past",
+        "label": "The moon split",
+        "text": "Stated (54:1). Most place it in the Prophet's ﷺ time.",
+        "ref": "54:1"
+      },
+      {
+        "at": "Before",
+        "label": "The smoke",
+        "text": "Stated (44:10). Some say a past famine; others, still to come.",
+        "ref": "44:10-11"
+      },
+      {
+        "at": "Before",
+        "label": "The Dajjal",
+        "text": "Explained: from hadith; not named in the Quran."
+      },
+      {
+        "at": "Before",
+        "label": "'Isa returns",
+        "text": "Explained from 43:61 and hadith in al-Bukhari and Muslim.",
+        "ref": "43:61"
+      },
+      {
+        "at": "Before",
+        "label": "Gog and Magog",
+        "text": "Stated (21:96): released, descending from every height.",
+        "ref": "21:96"
+      },
+      {
+        "at": "Before",
+        "label": "The Beast",
+        "text": "Stated (27:82): a creature from the earth speaks to people.",
+        "ref": "27:82"
+      },
+      {
+        "at": "Before",
+        "label": "Sun from the west",
+        "text": "Explained: hadith link it to 6:158; faith then comes too late.",
+        "ref": "6:158"
+      },
+      {
+        "at": "The Hour",
+        "label": "Cosmic collapse",
+        "text": "Stated (81:1-6): sun darkened, stars fall, seas aflame.",
+        "ref": "81:1-6",
+        "mark": true
+      },
+      {
+        "at": "The Hour",
+        "label": "First blast",
+        "text": "Stated (39:68): all fall dead, except whom Allah wills.",
+        "ref": "39:68",
+        "mark": true
+      },
+      {
+        "at": "Then",
+        "label": "Second blast",
+        "text": "Stated (39:68): everyone stands, looking on.",
+        "ref": "39:68"
+      },
+      {
+        "at": "Then",
+        "label": "Bodies raised",
+        "text": "Stated (36:79): by the One who made them first.",
+        "ref": "36:79"
+      }
+    ]
+  },
+  "word": {
+    "ar": "السَّاعَة",
+    "tr": "as-sāʿah",
+    "root": [
+      "س",
+      "و",
+      "ع"
+    ],
+    "meaning": "The Hour",
+    "nuance": "In everyday Arabic sāʿah is an hour or a short stretch of time. As a name for the end it carries suddenness: it comes \"as a glance of the eye or even nearer\" (16:77). When it arrives, people will swear they lived only an hour (30:55).",
+    "refs": [
+      "7:187",
+      "30:55"
+    ]
+  },
+  "mixup": {
+    "myth": "Muslims can work out when the world will end by counting the signs.",
+    "truth": "The Quran says knowledge of the Hour is with Allah alone (7:187, 31:34). In a hadith in al-Bukhari and Muslim, when Jibril asked the Prophet ﷺ about the Hour, he answered that the one asked knew no more than the one asking. The signs are reminders to prepare, not a calendar.",
+    "refs": [
+      "7:187",
+      "31:34",
+      "33:63"
+    ]
+  },
+  "remember": [
+    "Only Allah knows when the Hour comes, and it arrives suddenly (7:187).",
+    "The Quran names some signs (the moon, the smoke, Gog and Magog, the Beast); hadith add others, like the Dajjal.",
+    "The Horn is blown twice: all die, then all are raised by the One who created them first (39:68, 36:79)."
+  ],
+  "memorize": "36:79",
+  "quiz": [
+    {
+      "q": "When asked the date of the Hour, what was the Prophet ﷺ told to say?",
+      "options": [
+        "It will come in his lifetime",
+        "Its knowledge is only with Allah",
+        "After a thousand years",
+        "When every sign has been counted"
+      ],
+      "answer": 1,
+      "why": "7:187: \"Its knowledge is only with my Lord. None will reveal its time except Him.\" 33:63 repeats the same answer."
+    },
+    {
+      "q": "How many blasts of the Horn does 39:68 describe?",
+      "options": [
+        "Seven",
+        "One",
+        "Two"
+      ],
+      "answer": 2,
+      "why": "39:68: at the first, all in the heavens and earth fall dead, except whom Allah wills; \"then it will be blown again, and at once they will be standing.\""
+    },
+    {
+      "q": "Where do Muslims learn about the Dajjal?",
+      "options": [
+        "From hadith reports",
+        "From his name in Surah al-Kahf",
+        "From Surah at-Takwir"
+      ],
+      "answer": 0,
+      "why": "The Quran does not name the Dajjal. He is described in hadith, including in al-Bukhari and Muslim; a hadith in Muslim links the opening verses of al-Kahf to protection from him."
+    }
+  ],
+  "reflect": "The Quran hides the Hour's time but never its certainty: what would you like your life to show, whenever your own hour comes?",
+  "deeper": [
+    "81",
+    "54:1-5",
+    "18:94-99",
+    "20:15",
+    "16:77",
+    "22:1-2",
+    "99",
+    "75:1-15",
+    "31:34"
+  ],
+  "links": [
+    {
+      "label": "Signs of the Day of Judgement",
+      "href": "/learn/signs-of-the-day-of-judgement"
+    },
+    {
+      "label": "The Dajjal's story",
+      "href": "/timeline/journey/dajjal"
+    },
+    {
+      "label": "Gog and Magog",
+      "href": "/timeline/villains/yajuj"
+    },
+    {
+      "label": "'Isa (Jesus)",
+      "href": "/timeline/prophets/isa"
+    }
+  ],
+  "connections": [
+    11,
+    12,
+    18,
+    20
+  ],
+  "status": "draft"
+}

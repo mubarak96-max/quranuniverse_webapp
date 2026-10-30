@@ -1,0 +1,105 @@
+{
+  "day": 30,
+  "title": "How the Quran Speaks, and How to Keep Reading",
+  "question": "After thirty days, how do you keep reading?",
+  "emblem": "lamp",
+  "intro": [
+    "For thirty days you have walked through the Quran by theme. Today steps back to ask how it speaks. It points to signs in nature, strikes parables, swears oaths, asks questions, tells stories, and challenges its hearers to produce anything like it.",
+    "It also explains how to read it. Some verses are precise and foundational; others carry more than one meaning. Some rulings were replaced by later ones. Scholars built tools for this: the reasons of revelation, tafsir (explanation), and the study of abrogation (naskh).",
+    "Above all, the Quran asks to be pondered, not only recited. Its word for this is tadabbur, and it is where this course hands you back to the book itself. You will also see where scholars differ, and why that is part of reading well."
+  ],
+  "passages": [
+    {
+      "ref": "88:17-20",
+      "context": "A Makkan surah, first heard by people who lived with camels, open sky, mountains and wide land.",
+      "point": "Its argument often starts with a question about what you already see. 41:53 promises signs in the horizons and within ourselves.",
+      "label": "stated"
+    },
+    {
+      "ref": "14:24-26",
+      "context": "Makkah. Many commentators, following Ibn 'Abbas, take the good word as \"there is no god but Allah\".",
+      "point": "A parable makes faith visible: deep roots, high branches, fruit in every season. A bad word is a tree with no roots at all.",
+      "label": "stated"
+    },
+    {
+      "ref": "3:7",
+      "from": "It is He who has sent down",
+      "to": "All [of it] is from our Lord.\"",
+      "context": "Madinah. Precise (muhkam) verses are clear; unspecific (mutashabih) ones bear several meanings or touch the unseen.",
+      "point": "Clear verses are the foundation, and the others are read in their light.",
+      "label": "differ",
+      "note": "Many early scholars pause after \"except Allah\": only He knows their full reality. Others, including Mujahid, read on: those firm in knowledge also know their interpretation."
+    },
+    {
+      "ref": "2:106",
+      "context": "Answers objections when rulings changed; 16:101 replies to the same charge.",
+      "point": "Allah may replace a ruling with a better or similar one. This is called naskh.",
+      "label": "differ",
+      "note": "Most scholars accept that some Quranic rulings were abrogated, though counts range from hundreds to a handful. A few, such as Abu Muslim al-Isfahani, read 2:106 as about earlier scriptures or signs."
+    }
+  ],
+  "visual": {
+    "kind": "panels",
+    "title": "The ways the Quran speaks",
+    "caption": "Each way of speaking does its own work: signs open the eyes, parables make ideas visible, oaths call attention, questions make you think, stories show patterns, and the challenge invites a test.",
+    "items": [
+      { "label": "Signs", "icon": "eye", "text": "Look at camels, sky, mountains and earth.", "ref": "88:17" },
+      { "label": "Parables", "icon": "tree", "text": "A good word is like a good tree.", "ref": "14:24" },
+      { "label": "Oaths", "icon": "sun", "text": "By the sun and its brightness.", "ref": "91:1" },
+      { "label": "Questions", "icon": "compass", "text": "Were they created by nothing?", "ref": "52:35" },
+      { "label": "Stories", "icon": "scroll", "text": "The best of stories, told with purpose.", "ref": "12:3" },
+      { "label": "The challenge", "icon": "pen", "text": "Produce a surah like it.", "ref": "2:23" },
+      { "label": "Commands", "icon": "scale", "text": "Justice, good conduct, and what to avoid.", "ref": "16:90" },
+      { "label": "Light", "icon": "lamp", "text": "Allah is the Light of the heavens and earth.", "ref": "24:35" }
+    ]
+  },
+  "word": {
+    "ar": "تَدَبُّر",
+    "tr": "tadabbur",
+    "root": ["د", "ب", "ر"],
+    "meaning": "Deep reflection",
+    "nuance": "From dubur, the back or end of a thing: to follow a verse through to where it leads. 38:29 says the Quran was sent down for this, and 47:24 asks whether hearts are locked. Recitation and tadabbur belong together.",
+    "refs": ["38:29", "47:24"]
+  },
+  "mixup": {
+    "myth": "A translation of the Quran is the Quran.",
+    "truth": "Muslims hold that the Quran is the Arabic revelation itself (12:2); a translation renders its meanings. Translators make choices, which is why Sahih International puts added words in brackets. Read with a tafsir, compare translations, and treat Isra'iliyyat (details from earlier traditions) with care: al-Bukhari reports the Prophet ﷺ said neither to believe nor deny them.",
+    "refs": ["12:2", "16:44"]
+  },
+  "remember": [
+    "The Quran speaks through signs, parables, oaths, questions, stories and a challenge, each with a purpose.",
+    "Clear verses are the foundation, unclear ones are read in their light, and some rulings were replaced by later ones (3:7, 2:106).",
+    "It asks to be pondered, and promises it is easy to remember (38:29, 54:17)."
+  ],
+  "memorize": "38:29",
+  "quiz": [
+    {
+      "q": "What does 3:7 call the precise (muhkam) verses?",
+      "options": ["The hidden part", "The newest part", "The foundation of the Book", "The stories"],
+      "answer": 2,
+      "why": "3:7: \"in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.\""
+    },
+    {
+      "q": "In 14:24, a good word is compared to what?",
+      "options": ["A good tree", "A flowing river", "A shining lamp"],
+      "answer": 0,
+      "why": "14:24: \"a good word like a good tree, whose root is firmly fixed and its branches [high] in the sky.\""
+    },
+    {
+      "q": "What does 54:17 say Allah has made the Quran?",
+      "options": ["Hard to understand", "Only for scholars", "Only for recitation", "Easy for remembrance"],
+      "answer": 3,
+      "why": "54:17: \"We have certainly made the Qur'an easy for remembrance, so is there any who will remember?\""
+    }
+  ],
+  "reflect": "Which verse from these thirty days will you return to, and when will you next sit with the Quran?",
+  "deeper": ["2:164", "41:53", "24:35", "2:23", "16:101", "4:82", "47:24", "12:1-3", "39:27", "16:44", "2:26", "54:17"],
+  "links": [
+    { "label": "What is tafsir?", "href": "/learn/what-is-tafsir" },
+    { "label": "How to read the Quran", "href": "/learn/how-to-read-the-quran" },
+    { "label": "What is hadith?", "href": "/learn/what-is-hadith" },
+    { "label": "Read Surah Ibrahim 14:24", "href": "/surah/ibrahim/24" }
+  ],
+  "connections": [1, 2, 3, 6, 9, 15, 23],
+  "status": "draft"
+}

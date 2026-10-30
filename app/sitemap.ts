@@ -3,6 +3,8 @@ import { getArticles } from "@/lib/articles";
 import { GAMES, gameHref } from "@/lib/games";
 import { getSurahs, surahHref } from "@/lib/data";
 import { getJourneyIds } from "@/lib/journey";
+import { getDayNumbers } from "@/lib/q30";
+import { BASE, dayHref } from "@/lib/q30-types";
 import { getNames, nameHref } from "@/lib/names";
 import { getLibraryRefs, getTimeline } from "@/lib/timeline";
 import { refHref } from "@/lib/timeline-types";
@@ -18,6 +20,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     at("/", 1),
     at("/learn", 0.9),
+    at(BASE, 0.9),
+    ...getDayNumbers().map((n) => at(dayHref(n), 0.8)),
+    at(`${BASE}/reference`, 0.5),
     at("/timeline", 0.9),
     ...getTimeline().stops.map((s) => at(`/timeline/${s.id}`, s.type === "chapter" ? 0.7 : 0.6)),
     ...getJourneyIds().map((id) => at(`/timeline/journey/${id}`, 0.8)),

@@ -1,0 +1,171 @@
+{
+  "day": 18,
+  "title": "Death and Barzakh",
+  "question": "What happens between our last breath and the Day of Resurrection?",
+  "emblem": "hourglass",
+  "intro": [
+    "\"Every soul will taste death\" (3:185). The Quran speaks of this moment plainly but gently: angels take the soul, the truth a person avoided becomes clear (50:19), and the good are greeted with \"Peace be upon you\" (16:32).",
+    "After death comes the barzakh, a barrier or in-between stage that lasts until the Resurrection. Here the Quran says very little, and that matters. Much of what people describe about the grave, its questions and its angels, comes from hadith rather than the Quran. Today you will practise telling apart where the Quran speaks, where hadith explains, and where both stay silent."
+  ],
+  "passages": [
+    {
+      "ref": "56:83-87",
+      "context": "From al-Waqi'ah, a Makkan surah answering deniers of the Resurrection.",
+      "point": "Family look on helplessly; no one can bring the soul back. Life is not ours to keep.",
+      "label": "differ",
+      "note": "The Arabic says \"We are nearer to him\". Many scholars, including Ibn Kathir, read \"We\" as the angels, as here; others read it as Allah's nearness in knowledge."
+    },
+    {
+      "ref": "23:99-100",
+      "context": "From al-Mu'minun: at death, one who wasted life begs to be sent back.",
+      "point": "The Quran names the stage after death, a barrier until the Resurrection, and says almost nothing of what it is like. The details come from hadith.",
+      "label": "unspecified"
+    },
+    {
+      "ref": "40:45-46",
+      "context": "From the story of the believer in Pharaoh's court, whom Allah protected from their plots.",
+      "point": "Pharaoh's people are shown the Fire morning and evening, before the Hour arrives. Scholars cite this as evidence that reward or punishment begins in the barzakh.",
+      "label": "explained"
+    },
+    {
+      "ref": "3:169-170",
+      "context": "Madinan, after the losses at Uhud (3 AH).",
+      "point": "Those killed in Allah's cause are not dead but alive with their Lord, provided for and rejoicing. How, we do not perceive (2:154).",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "flow",
+    "title": "The journey of the soul",
+    "caption": "Five stages the Quran describes. You are at the second, the barzakh: a stage the Quran names but hardly describes.",
+    "here": 1,
+    "items": [
+      {
+        "label": "Death",
+        "text": "Every soul tastes it; angels take the soul.",
+        "ref": "3:185"
+      },
+      {
+        "label": "Barzakh",
+        "text": "A barrier until the Day of raising.",
+        "ref": "23:100"
+      },
+      {
+        "label": "Resurrection",
+        "text": "The Horn is blown; people rise from the graves.",
+        "ref": "36:51"
+      },
+      {
+        "label": "Judgment",
+        "text": "An atom's weight of good or evil is seen.",
+        "ref": "99:7-8"
+      },
+      {
+        "label": "The final home",
+        "text": "A party in Paradise, a party in the Blaze.",
+        "ref": "42:7"
+      }
+    ]
+  },
+  "word": {
+    "ar": "بَرْزَخ",
+    "tr": "barzakh",
+    "root": [
+      "ب",
+      "ر",
+      "ز",
+      "خ"
+    ],
+    "meaning": "A barrier between two things",
+    "nuance": "The Quran uses it for the unseen barrier that keeps two seas from overrunning each other (55:20) and for the stage between death and the Resurrection (23:100). The two meet: the dead are close to us yet kept apart, until the Day they are raised.",
+    "refs": [
+      "23:100",
+      "55:19-20"
+    ]
+  },
+  "mixup": {
+    "myth": "The Quran describes in detail the two angels who question the dead in the grave.",
+    "truth": "The Quran names the barzakh (23:100) and hints at what happens there (40:46). Al-Bukhari and Muslim report the Prophet ﷺ linking 14:27, \"Allah keeps firm those who believe, with the firm word\", to the questioning in the grave. Other details, including the angels' names Munkar and Nakir, come from further hadith reports, not the Quran.",
+    "refs": [
+      "14:27",
+      "23:100",
+      "40:46"
+    ]
+  },
+  "remember": [
+    "Every soul tastes death; angels take the soul, and the good are greeted with peace (16:32).",
+    "The barzakh is a barrier until the Resurrection; the Quran names it but describes it very little.",
+    "The questioning in the grave is taught in hadith; keep track of what comes from the Quran and what from hadith."
+  ],
+  "memorize": "89:27-28",
+  "quiz": [
+    {
+      "q": "What word does 23:100 use for the stage between death and resurrection?",
+      "options": [
+        "Barzakh, a barrier",
+        "Sirat, a bridge",
+        "Mizan, a scale",
+        "A'raf, the heights"
+      ],
+      "answer": 0,
+      "why": "23:100: \"behind them is a barrier until the Day they are resurrected.\" The Arabic word is barzakh."
+    },
+    {
+      "q": "According to 39:42, when else does Allah take the souls, besides at death?",
+      "options": [
+        "During prayer",
+        "During sleep",
+        "During illness",
+        "During travel"
+      ],
+      "answer": 1,
+      "why": "39:42: \"Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep.\""
+    },
+    {
+      "q": "When people asked the Prophet ﷺ about the soul, what was he told to say (17:85)?",
+      "options": [
+        "It is made of light",
+        "It passes into another body",
+        "It is of the affair of my Lord, and people are given little knowledge"
+      ],
+      "answer": 2,
+      "why": "17:85: \"The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little.\""
+    }
+  ],
+  "reflect": "39:42 describes each night's sleep as a small taking of the soul. What would you like to say to Allah before you sleep tonight?",
+  "deeper": [
+    "3:185",
+    "16:32",
+    "6:93",
+    "8:50",
+    "32:11",
+    "39:42",
+    "17:85",
+    "2:154",
+    "75:26-30",
+    "14:27",
+    "50:19"
+  ],
+  "links": [
+    {
+      "label": "What happens when you die?",
+      "href": "/learn/what-happens-when-you-die-in-islam"
+    },
+    {
+      "label": "Angels in Islam",
+      "href": "/learn/angels-in-islam"
+    },
+    {
+      "label": "Read Surah Al-Waqi'ah",
+      "href": "/surah/al-waqiah"
+    }
+  ],
+  "connections": [
+    4,
+    19,
+    20,
+    21,
+    22
+  ],
+  "status": "draft"
+}

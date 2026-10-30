@@ -1,0 +1,179 @@
+{
+  "day": 23,
+  "title": "Mercy, Repentance and the Heart",
+  "question": "Is there any sin too heavy to bring back to Allah?",
+  "emblem": "heart",
+  "intro": [
+    "After the scenes of the Hereafter, the Quran turns back to the reader with good news: the door is still open. \"Your Lord has decreed upon Himself mercy\" (6:54). Tawbah, repentance, simply means turning back to Allah, and He calls Himself the One who turns toward those who turn.",
+    "Today is about that return and the heart it heals. You will see that no sin is too great to bring back, that sins can even become good, what makes repentance real, and why no one may declare themselves pure. The Quran's medicine for a restless heart is short: the remembrance of Allah."
+  ],
+  "passages": [
+    {
+      "ref": "39:53-54",
+      "context": "Makkan, from az-Zumar. Reports say it reassured people who feared their past was beyond forgiving.",
+      "point": "Addressed to those who have wronged themselves: do not despair. Allah forgives all sins for those who return to Him while there is time.",
+      "label": "stated"
+    },
+    {
+      "ref": "3:135",
+      "context": "Madinan, from Al 'Imran, describing people promised forgiveness and gardens (3:133-136).",
+      "point": "Repentance has a shape: remembering Allah, asking His forgiveness, and not persisting knowingly. And \"who can forgive sins except Allah?\"",
+      "label": "stated"
+    },
+    {
+      "ref": "25:70",
+      "context": "Follows the gravest sins: worshipping others, killing and adultery (25:68-69).",
+      "point": "Those who repent, believe and do good find their evil deeds replaced with good.",
+      "label": "differ",
+      "note": "Some read this as Allah turning bad deeds into good ones in this life. Others, citing a hadith in Muslim, read it as past sins rewritten as good deeds on the Day. Many accept both."
+    },
+    {
+      "ref": "53:32",
+      "context": "Makkan, from an-Najm, describing those who do good (53:31).",
+      "point": "Allah is \"vast in forgiveness\" and knew us before we were born. So no one should claim to be pure; He alone knows who is truly mindful of Him.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "ladder",
+    "title": "The steps of tawbah",
+    "caption": "Scholars draw these conditions from verses like 3:135 and 4:17 and from hadith. When a wrong harmed someone, most add making it right with them. The door stays open until death has come (4:18).",
+    "label": "explained",
+    "items": [
+      {
+        "label": "Notice",
+        "text": "Remember Allah when you slip",
+        "ref": "3:135"
+      },
+      {
+        "label": "Stop",
+        "text": "Leave the wrong now, not later",
+        "ref": "4:17"
+      },
+      {
+        "label": "Regret",
+        "text": "Feel sorrow for what was done"
+      },
+      {
+        "label": "Ask",
+        "text": "Seek forgiveness from Allah directly",
+        "ref": "4:110"
+      },
+      {
+        "label": "Resolve",
+        "text": "Intend not to return to it",
+        "ref": "3:135"
+      },
+      {
+        "label": "Restore",
+        "text": "Return what is owed to people you wronged"
+      },
+      {
+        "label": "Do good",
+        "text": "Let good deeds follow the bad",
+        "ref": "11:114"
+      }
+    ]
+  },
+  "word": {
+    "ar": "تَوْبَة",
+    "tr": "tawbah",
+    "root": [
+      "ت",
+      "و",
+      "ب"
+    ],
+    "meaning": "Repentance; turning back",
+    "nuance": "From t-w-b, to return. The Quran uses it both ways: the servant turns back to Allah, and Allah turns to the servant. \"Then He turned to them so they could repent\" (9:118): His turning comes first. At-Tawwāb, the One who keeps accepting repentance, is one of His names (2:37).",
+    "refs": [
+      "9:118",
+      "2:37"
+    ]
+  },
+  "mixup": {
+    "myth": "To be forgiven, you must confess your sins to another person or go through a religious official.",
+    "truth": "The Quran asks, \"who can forgive sins except Allah?\" (3:135), and Allah says, \"I am near. I respond to the invocation of the supplicant when he calls upon Me\" (2:186). Tawbah is between a person and Allah, with no go-between. Where a sin wronged someone, scholars add that their rights must be restored.",
+    "refs": [
+      "3:135",
+      "2:186",
+      "40:60"
+    ]
+  },
+  "remember": [
+    "Allah has decreed mercy upon Himself; no one should despair of it (6:54, 39:53).",
+    "Repentance means stopping, regretting, asking and not persisting, before death arrives (3:135, 4:17-18).",
+    "Hearts find rest in remembering Allah, and only He knows who is truly pure (13:28, 53:32)."
+  ],
+  "memorize": "13:28",
+  "quiz": [
+    {
+      "q": "What does 39:53 tell those who have wronged themselves?",
+      "options": [
+        "Their deeds are fixed forever",
+        "Do not despair of Allah's mercy",
+        "Wait for the Day to find out"
+      ],
+      "answer": 1,
+      "why": "39:53: \"O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins.\""
+    },
+    {
+      "q": "When does 4:18 say repentance is no longer accepted?",
+      "options": [
+        "When death has already come",
+        "After a person's first sin",
+        "After the age of forty",
+        "Once a sin is repeated"
+      ],
+      "answer": 0,
+      "why": "4:18: repentance is not accepted from one who keeps doing evil \"until, when death comes to one of them, he says, 'Indeed, I have repented now.'\" 4:17 praises repenting soon after."
+    },
+    {
+      "q": "According to 13:28, what gives hearts rest?",
+      "options": [
+        "Wealth and children",
+        "Praise from people",
+        "The remembrance of Allah"
+      ],
+      "answer": 2,
+      "why": "13:28: \"Unquestionably, by the remembrance of Allah hearts are assured.\" 26:88-89 adds that on the Day only a sound heart will benefit."
+    }
+  ],
+  "reflect": "Is there something you have been carrying that you could bring back to Allah today, in your own words?",
+  "deeper": [
+    "7:156",
+    "6:54",
+    "4:17-18",
+    "66:8",
+    "2:186",
+    "40:60",
+    "26:88-89",
+    "11:114",
+    "2:222",
+    "4:110"
+  ],
+  "links": [
+    {
+      "label": "Does God forgive all sins?",
+      "href": "/learn/does-god-forgive-all-sins"
+    },
+    {
+      "label": "Astaghfirullah meaning",
+      "href": "/learn/astaghfirullah-meaning"
+    },
+    {
+      "label": "At-Tawwab, the Accepter of Repentance",
+      "href": "/names/at-tawwab"
+    },
+    {
+      "label": "What is dhikr?",
+      "href": "/learn/what-is-dhikr"
+    }
+  ],
+  "connections": [
+    3,
+    5,
+    21,
+    29
+  ],
+  "status": "draft"
+}

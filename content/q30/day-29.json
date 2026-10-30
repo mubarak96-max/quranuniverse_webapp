@@ -1,0 +1,102 @@
+{
+  "day": 29,
+  "title": "Character, Society and Creation",
+  "question": "What does the Quran say makes a person truly noble?",
+  "emblem": "heart",
+  "intro": [
+    "Faith in the Quran is never only private. It shows in how you speak, how you treat the people around you, and how you walk on the earth. The surahs return again and again to manners: telling the truth, keeping promises, greeting well, asking before entering a home, holding back anger, forgiving.",
+    "A few passages gather much of this. Al-Isra 17:23-39 is a code of conduct, from honouring parents to walking without arrogance. Luqman's advice to his son (31:12-19) is a father's lesson in faith and humility. Al-Hujurat (49) protects people's honour within a community.",
+    "Today also widens the circle: to every race and language, to animals, and to the earth itself. It closes with the hardest manner of all: answering harm with something better (41:34)."
+  ],
+  "passages": [
+    {
+      "ref": "31:17-19",
+      "context": "Luqman, a wise man honoured in the Quran (most scholars say not a prophet), advising his son.",
+      "point": "Faith in action: pray, enjoin good, forbid wrong, be patient. Then humility: no cheek turned in contempt, no swagger, a modest pace and a lowered voice.",
+      "label": "stated"
+    },
+    {
+      "ref": "49:12",
+      "context": "Al-Hujurat, Madinah: a surah of manners for a growing community.",
+      "point": "Three hidden harms are named: bad assumptions, spying and backbiting. Backbiting is pictured as eating a dead brother's flesh, something everyone finds repulsive.",
+      "label": "stated"
+    },
+    {
+      "ref": "49:13",
+      "context": "Addressed to all humanity, not only believers. 30:22 calls the variety of languages and colours a sign of Allah.",
+      "point": "Peoples and tribes exist so that we may know one another. Nobility before Allah is by righteousness, not by race, lineage or wealth.",
+      "label": "stated"
+    },
+    {
+      "ref": "6:38",
+      "context": "Al-Bukhari and Muslim report a woman punished for starving a cat, and a man forgiven for giving water to a thirsty dog.",
+      "point": "Animals and birds are communities like us, known to Allah and gathered to Him. 30:41 adds that human hands spread corruption on land and sea.",
+      "label": "stated"
+    }
+  ],
+  "visual": {
+    "kind": "rings",
+    "title": "The circles of 4:36",
+    "caption": "4:36 begins with worshipping Allah alone, then moves outward through everyone owed good treatment, and ends with a warning against the self-deluded and boastful.",
+    "center": "Allah",
+    "items": [
+      { "label": "Parents", "text": "Do good to them.", "ref": "17:23" },
+      { "label": "Relatives", "text": "Kinship carries rights." },
+      { "label": "Orphans", "text": "Protect their care and their wealth.", "ref": "17:34" },
+      { "label": "The needy", "text": "Those who cannot meet their needs." },
+      { "label": "Near neighbour", "text": "Close by home or by kinship, say commentators." },
+      { "label": "Distant neighbour", "text": "Farther away, or a stranger to you." },
+      { "label": "Companion at your side", "text": "A fellow traveller, colleague or spouse, say commentators." },
+      { "label": "The traveller", "text": "Anyone far from home and in need." },
+      { "label": "Those in your keeping", "text": "Literally \"those your right hands possess\"." }
+    ]
+  },
+  "word": {
+    "ar": "إِحْسَان",
+    "tr": "iḥsān",
+    "root": ["ح", "س", "ن"],
+    "meaning": "Excellence; doing good beautifully",
+    "nuance": "From husn, beauty. Ihsan is doing a thing well and giving more than is owed. 4:36 commands ihsan to parents, and 16:90 pairs it with justice. In a hadith in al-Bukhari and Muslim, it is to worship Allah as if you see Him, knowing that He sees you.",
+    "refs": ["4:36", "16:90"]
+  },
+  "mixup": {
+    "myth": "Backbiting is only wrong if what you say is untrue.",
+    "truth": "A hadith in Muslim defines backbiting as mentioning your brother with what he dislikes. If it is true, it is backbiting; if it is false, it is slander, which is worse. Scholars allow narrow exceptions, such as seeking justice or warning someone of real harm, but 49:12 rules out casual talk about other people's faults.",
+    "refs": ["49:12", "49:11"]
+  },
+  "remember": [
+    "Good character joins the worship of Allah with doing good to parents, kin, neighbours and strangers (4:36).",
+    "Guard people's honour: no mockery, suspicion, spying or backbiting (49:11-12).",
+    "No race or tribe is nobler than another, and animals and the earth are in our care too (49:13, 6:38, 30:41)."
+  ],
+  "memorize": "41:34",
+  "quiz": [
+    {
+      "q": "According to 49:13, who is the most noble in the sight of Allah?",
+      "options": ["The wealthiest", "The most righteous", "The best born", "The most learned"],
+      "answer": 1,
+      "why": "49:13: \"the most noble of you in the sight of Allah is the most righteous of you.\""
+    },
+    {
+      "q": "When you are greeted, what does 4:86 ask of you?",
+      "options": ["Reply only if you know them", "Stay silent", "Reply with a better greeting, or at least the same"],
+      "answer": 2,
+      "why": "4:86: \"greet [in return] with one better than it or [at least] return it [in a like manner].\""
+    },
+    {
+      "q": "In Luqman's advice (31:19), what should a person lower?",
+      "options": ["Their voice", "Their prices", "Their head"],
+      "answer": 0,
+      "why": "31:19: \"be moderate in your pace and lower your voice.\""
+    }
+  ],
+  "reflect": "Which single habit from today, such as a warmer greeting or holding back a comment, could you practise this week?",
+  "deeper": ["17:23-39", "31:12-16", "49:6-11", "4:86", "24:27-28", "3:134", "41:34-35", "25:63-76", "61:2-3", "7:31", "30:41", "16:90"],
+  "links": [
+    { "label": "Read Surah Luqman", "href": "/surah/luqman" },
+    { "label": "Read Surah Al-Hujurat", "href": "/surah/al-hujurat" },
+    { "label": "Read the code of al-Isra", "href": "/surah/al-isra/23" }
+  ],
+  "connections": [17, 25, 26, 28],
+  "status": "draft"
+}

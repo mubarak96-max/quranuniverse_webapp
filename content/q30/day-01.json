@@ -2,139 +2,168 @@
   "day": 1,
   "title": "What Is the Quran?",
   "question": "What kind of book begins with the word \"Read\"?",
-  "emblem": "book",
-  "intro": [
-    "The Quran is the speech of Allah as Muslims understand it: revealed in Arabic to the Prophet Muhammad ﷺ through the angel Jibril over about 23 years, then recited, memorised and written down.",
-    "It is not arranged like a history book or a novel. It has 114 surahs (chapters) of very different lengths, divided for reading into 30 equal parts called juz. Today you will see its shape, how it arrived, and what it says about itself."
-  ],
-  "passages": [
+  "summary": "How the Quran began in a mountain cave, how it arrived over twenty-three years, how it was gathered into one book, and what it says it is.",
+  "cover": {
+    "alt": "A rocky mountain above a dark desert valley under a sky full of stars, a faint glow of dawn on the horizon",
+    "prompt": "Jabal al-Nur, the rocky Mountain of Light near Makkah, seen from the valley floor in the last hour of night. Its jagged peak stands against a sky dense with stars, the faintest band of dawn along the eastern horizon, and the barren valley below lies quiet and dark."
+  },
+  "chapters": [
     {
-      "ref": "96:1-5",
-      "context": "Revealed in the cave of Hira, near Makkah, around 610 CE.",
-      "point": "The first command is to read, in the name of the Lord who creates and teaches. Knowledge and worship begin together.",
-      "label": "explained",
-      "note": "That these were the very first verses comes from hadith reports in al-Bukhari and Muslim; the verses themselves do not say so."
+      "lens": "story",
+      "title": "Forty Years, Then a Cave",
+      "blocks": [
+        { "p": "A few kilometres north-east of the Ka'bah in Makkah, a steep, bare peak rises out of the valley. Today it is called Jabal al-Nur, the Mountain of Light. Near its summit is a cleft in the rock called Hira, barely long enough for a man to lie down in, with an opening that looks toward the sky. In the years before 610 CE a merchant of Makkah named Muhammad ﷺ, son of 'Abdullah, used to climb up to it and stay for nights at a time." },
+        { "p": "His wife 'A'ishah later described those years, in a report preserved by al-Bukhari. First came dreams that turned out true, clear \"like the breaking of dawn\". Then solitude became dear to him. He would take provisions up the mountain, worship alone for a number of nights, come back down to his wife Khadijah for more food, and climb again. He was nearly forty, known in Makkah as *al-Amin*, the trustworthy, and had never claimed to be anything at all." },
+        { "image": "day-01-hira", "alt": "The narrow mouth of a rock cave framing a night sky over a valley", "caption": "The cave of Hira looks out over the valley of Makkah.", "prompt": "Inside a narrow cave of dark granite high on a mountain, looking out through its small opening at a deep blue night sky full of stars over a wide desert valley. A clay water jar and a folded cloth rest on the rock floor in faint moonlight." },
+        { "p": "One night in the month of Ramadan, the report continues, an angel came to him in the cave and said one word: *Iqra'*, \"Read\" or \"Recite\". He answered, \"I am not a reader.\" The angel seized him and pressed him until he could bear no more, then released him and said again, \"Read.\" Three times this happened. Then the angel recited five verses." },
+        { "p": "He came down the mountain with his heart pounding and went straight to Khadijah. \"Cover me, cover me,\" he said, and she wrapped him until the fear left him. Then he told her everything and said, \"I fear for myself.\" Her answer is still quoted everywhere:" },
+        { "quote": "Never. By Allah, Allah will never disgrace you. You keep the ties of kinship, you bear the burdens of the weak, you give to the destitute, you honour your guest, and you stand by people in their hardships.", "by": "Khadijah, in Sahih al-Bukhari" },
+        { "p": "She took him to her elderly cousin Waraqah ibn Nawfal, who had become a Christian and read the earlier scriptures. Waraqah listened and said that this was the same messenger of revelation, the *Namus*, that Allah had sent to Musa. He wished he were young enough to stand with him when his people drove him out, for no one had ever brought such a message without meeting hostility." },
+        { "p": "The Quran's story begins with a man who is frightened, not triumphant, and a woman who believes in him because she knows his character." }
+      ]
     },
     {
-      "ref": "2:185",
-      "from": "The month of Ramadhan",
-      "to": "criterion.",
-      "context": "From the verses on fasting. Surah al-Qadr (97:1) adds that it came down on the Night of Decree.",
-      "point": "The Quran names its own purpose: guidance, clear proofs, and a criterion to tell right from wrong.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Five Lines That Began Everything",
+      "blocks": [
+        { "p": "Muslim scholars almost unanimously hold that these were the first verses revealed. They now stand at the head of Surah al-'Alaq, the ninety-sixth of the Quran's 114 surahs, or chapters." },
+        { "verse": "96:1-5" },
+        { "p": "**Read.** The Arabic *iqra'* holds both meanings that translators split between \"read\" and \"recite\". It means to give voice to words, to bring together sounds and make them heard. The first command of the final scripture is not \"believe\" or \"obey\" but an act of attention to words." },
+        { "p": "**In the name of your Lord.** Not reading in a vacuum, but reading that starts from Allah. *Rabb*, Lord, is the one who owns, nurtures and brings a thing step by step to its completion. The first description of Him is simply this: He **created**." },
+        { "p": "**From a clinging substance.** The Arabic *'alaq* is something that clings or hangs. Classical commentators such as al-Jalalayn took it as a small quantity of congealing blood; the same word names a leech. Either way the contrast is deliberate: the Creator of everything, and the human being who began as something tiny, attached and dependent." },
+        { "p": "**Read, and your Lord is the Most Generous.** The command is repeated. Ibn Kathir and others note that the second *iqra'* comes with a new name, *al-Akram*, a superlative: not merely generous, but the most generous of all. Allah's first self-description after creation is generosity." },
+        { "p": "**Who taught by the pen, taught man that which he knew not.** To a man who could not write, the first revelation praises writing. Human knowledge is presented as a gift, handed on through the pen across generations. A later surah even opens with an oath by it: \"By the pen and what they inscribe\" (68:1)." },
+        { "word": { "ar": "قُرْآن", "tr": "qur'ān", "root": ["ق", "ر", "أ"], "meaning": "Recitation; that which is read aloud", "nuance": "The verbal noun of qara'a, to read or recite, the same verb as the first command, iqra'. The Quran uses the word for the act itself when it says \"upon Us is its collection and its recitation [qur'ānahu]\" (75:17). Most scholars derive the name this way; a few early authorities held it was a proper name with no root. Either way, its name says it is meant to be heard." } }      ]
     },
     {
-      "ref": "17:106",
-      "context": "Answers the objection that a real revelation would arrive all at once (see also 25:32).",
-      "point": "It was sent down in stages over many years, so it could be recited, absorbed and lived step by step.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Twenty-Three Years, Verse by Verse",
+      "blocks": [
+        { "p": "The Quran did not arrive as a finished volume. It came in passages, sometimes a few verses, sometimes a whole surah, over about twenty-three years: roughly thirteen in Makkah and ten in Madinah, until the Prophet's ﷺ death in 632 CE. His opponents found this suspicious, and the Quran answers them." },
+        { "verse": "25:32-33" },
+        { "p": "Two reasons are given. The first is the Prophet's ﷺ own heart: a message delivered in step with persecution, exile, war and grief steadied the person living through them. The second is the people: \"a Qur'an which We have separated [by intervals] that you might recite it to the people over a prolonged period\" (17:106). Verses came in answer to real questions and events, and scholars later studied these occasions as *asbab al-nuzul*, the circumstances of revelation." },
+        { "p": "Yet the Quran also says it was sent down in Ramadan (2:185), \"during the Night of Decree\" (97:1), \"a blessed night\" (44:3). Ibn Kathir reports from Ibn 'Abbas that both are true: the whole Quran descended at once from the Preserved Tablet to the lowest heaven on that night, then came to earth in stages. Others explain that its *first* descent began on that night." },
+        { "p": "Every Ramadan, according to reports in al-Bukhari, the angel Jibril reviewed with the Prophet ﷺ all that had been revealed so far. In his final year they went through it twice. Companions memorised each passage, and scribes wrote it on parchment, palm stalks, flat stones and camels' shoulder blades." },
+        { "figure": { "kind": "timeline", "title": "From the cave to the standard copy", "items": [
+          { "at": "c. 610 CE", "label": "First revelation", "text": "96:1-5 in the cave of Hira, in Ramadan" },
+          { "at": "c. 613", "label": "The call goes public", "text": "Preaching in Makkah meets mockery, then persecution" },
+          { "at": "622", "label": "The Hijrah", "text": "Emigration to Madinah; the Madinan surahs begin" },
+          { "at": "632", "label": "The Prophet ﷺ dies", "text": "The whole Quran memorised and written, but not in one volume" },
+          { "at": "632-633", "label": "Abu Bakr's compilation", "text": "After many reciters fall at Yamamah, Zayd ibn Thabit gathers the written pages" },
+          { "at": "c. 650", "label": "'Uthman's copies", "text": "A standard text copied and sent to the main cities" }
+        ] } },
+        { "p": "After the battle of Yamamah, where many who knew the Quran by heart were killed, 'Umar urged the caliph Abu Bakr to gather it into one written collection. Zayd ibn Thabit, who had been one of the Prophet's ﷺ scribes, accepted the task and said, in al-Bukhari's report, that moving a mountain would have been lighter. He accepted no passage unless it was both memorised and found in writing. Less than twenty years later, when the companion Hudhayfah warned that new Muslims in distant provinces were quarrelling over how to recite, the caliph 'Uthman had that collection copied into a standard text and sent to the main cities." }
+      ]
     },
     {
-      "ref": "15:9",
-      "context": "A Makkan surah, revealed while the message was still mocked and its believers were few.",
-      "point": "Allah takes the preservation of the Quran upon Himself. Muslims see this in its unbroken memorisation and its written copies.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Shape on the Page",
+      "blocks": [
+        { "p": "Open a printed Quran, a *mushaf*, and you find 114 surahs of very unequal length. Al-Baqarah, the second, has 286 verses. Al-Kawthar, the 108th, has three. In the most widespread count there are 6,236 verses, called *ayat*: the word means \"signs\". For reading, the text is divided into thirty equal parts, each a *juz'*, so a person can finish it in a month." },
+        { "figure": { "kind": "anatomy", "title": "The shape of the Quran" } },
+        { "p": "The chart shows every surah in order, sized by its number of verses. The pattern is striking. The long surahs, most of them revealed in Madinah, mostly come first. The short ones, almost all from Makkah, gather at the end. In other words, the mushaf runs roughly in reverse of the order of revelation. The first words revealed sit near the back, in surah 96." },
+        { "p": "Scholars classify each surah as *Makkan* or *Madinan* by when it was revealed, before or after the emigration of 622, not strictly by where. The two groups sound different. Makkan surahs are mostly short, rhythmic and urgent: the oneness of Allah, the Day of Judgement, the stories of earlier prophets, the signs in nature. Madinan surahs are longer and address a living community: worship, family law, trade, war and peace, relations with Jews and Christians. Most printed copies label 86 surahs Makkan and 28 Madinan, though a few surahs are disputed." },
+        { "note": "All scholars agree that the order of verses within each surah was set by the Prophet ﷺ, who would tell the scribes where a new passage belonged. On the order of the surahs themselves they differ. Many hold that it too was taught by him; others hold that it was arranged partly by the companions' judgement, which is why some early personal copies ordered surahs differently. The text itself is not in dispute.", "title": "Where scholars differ" },
+        { "p": "Why not arrange it by date? Muslims believe the order is meant for the reader, not the historian. Its arrangement brings together, on almost every page, belief and law, warning and mercy, story and argument, so that no reading of any length gives only one side of it." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Could a Man Have Written It?",
+      "blocks": [
+        { "p": "This is the question a thoughtful outsider asks first, and it deserves its full strength. Gifted people write extraordinary things. A sincere, brilliant man in a culture soaked in oral poetry could have composed beautiful, moving speech and come to believe it came from God. Besides, who decides that a text is \"inimitable\"? Isn't that a matter of taste?" },
+        { "p": "The Quran knows the objection. It quotes Makkans who called it poetry, sorcery, a jumble of dreams (21:5), \"the word of a human being\" (74:25), or lessons from a foreign tutor (16:103). Its reply is not only to deny but to issue a challenge, which narrows over time: produce something like the whole of it (17:88, 52:34), then ten surahs (11:13), then a single surah (10:38)." },
+        { "verse": "2:23-24" },
+        { "p": "Muslim scholars point to several things that make this more than a boast. The challenge was addressed to the people best placed to answer it: the poets and orators of Quraysh, for whom language was the highest art and who had every motive to silence him. They chose boycott and war over producing a surah. The Quran's form fit none of their categories: it was neither their metred poetry nor the rhymed prose of their soothsayers (69:41-42), which is why its enemies reached for the word \"magic\"." },
+        { "p": "Then there is the man himself. \"I had remained among you a lifetime before it\" (10:16): forty years without a poem or a sermon. He could not read or write (29:48). The revelation sometimes rebuked him, as in the surah that opens \"The Prophet frowned and turned away\" (80:1). And it sometimes stopped. After the first revelation there was a pause long enough to distress him, answered at last by \"Your Lord has not taken leave of you\" (93:3). During the slander against his wife 'A'ishah, al-Bukhari records, he waited about a month for a verse that would have ended his own anguish. A man composing at will does not usually wait." },
+        { "p": "Finally the Quran invites a test anyone can run: \"Then do they not reflect upon the Qur'an? If it had been from [any] other than Allah, they would have found within it much contradiction\" (4:82)." },
+        { "p": "None of this forces belief. Literary judgement is hard through translation, and history can establish what happened, not where it came from. The arguments show that faith here is not a leap in the dark; the last step, trusting that the voice is Allah's, remains faith, taken with open eyes." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "Nine Names for One Book",
+      "blocks": [
+        { "p": "The Quran describes itself more than any other scripture does. Each name it gives itself is a claim about what it is for." },
+        { "list": [
+          "*Al-Kitab*, the Book: \"This is the Book about which there is no doubt\" (2:2). Something written and fixed, even while it was being recited.",
+          "*Hudā*, guidance, in the same verse: not information but direction, \"for those conscious of Allah\". It \"guides to that which is most suitable\" (17:9).",
+          "*Al-Furqan*, the Criterion, from a root meaning to separate: it divides truth from falsehood (25:1), and gives its name to Surah 25.",
+          "*Adh-Dhikr*, the Reminder. In \"it is We who sent down the Qur'an and indeed, We will be its guardian\" (15:9), the Arabic word translated \"the Qur'an\" is *adh-dhikr*. It reminds people of what their nature already knows.",
+          "*Shifā'*, healing \"for what is in the breasts\" (10:57; 17:82): a cure for doubt, envy and despair.",
+          "*Nūr*, light: \"We have sent down to you a clear light\" (4:174).",
+          "*Rūḥ*, spirit. \"We have revealed to you an inspiration of Our command\" (42:52) translates *rūḥan min amrinā*, literally \"a spirit from Our command\": something that gives life.",
+          "*Mubārak*, blessed: \"a blessed Book ... that they might reflect upon its verses\" (38:29).",
+          "*Karīm*, noble, \"in a Register well-protected\" (56:77-78)."
+        ] },
+        { "verse": "39:23" },
+        { "p": "Notice how this verse moves. It names the Quran \"the best statement\", then describes its effect on the body before the mind: skins shiver, then skins and hearts soften. *Mathānī*, \"reiteration\", is the same word used of the seven verses of al-Fatihah, which Muslims repeat in every prayer. The Quran repeats on purpose, as a teacher does, as music does." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "A Book That Speaks to You",
+      "blocks": [
+        { "p": "Most books are about something. The Quran speaks *to* someone. It calls out: \"O mankind\", \"O you who have believed\", \"O My servants\". It hands its listener words to say: the command *qul*, \"Say\", appears more than three hundred times. It asks questions and waits: \"So is there any who will remember?\" (54:17)." },
+        { "p": "So many people describe their first real encounter with it as being addressed. A verse arrives at the moment you need it. A line you have recited a hundred times suddenly opens. Muslims believe this is not coincidence: the speaker knows the listener." },
+        { "p": "The Prophet ﷺ himself listened this way. The companion 'Abdullah ibn Mas'ud related, in a report in al-Bukhari, that the Prophet ﷺ once asked him to recite, saying he loved to hear it from someone else. So he recited from Surah an-Nisa' until he reached the verse \"So how [will it be] when We bring from every nation a witness and we bring you, [O Muhammad] against these [people] as a witness?\" (4:41). \"Enough,\" the Prophet ﷺ said, and Ibn Mas'ud looked up and saw tears running from his eyes." },
+        { "p": "You do not need Arabic to begin. Read slowly, as if the words were meant for you, and stop when something touches you. The Quran says of itself that if it had been sent down upon a mountain, the mountain would have humbled itself and split apart from awe of Allah (59:21). A human heart is softer than a mountain. Give it time." },
+        { "p": "Over the next thirty days, try one small practice. Before each reading, say what the Quran tells its reciter to say first: \"I seek refuge in Allah from Satan, the expelled\" (16:98). Then end where the Prophet ﷺ was taught to end his own reading, with the prayer of 20:114: \"My Lord, increase me in knowledge.\"" }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Holding It in Your Hands",
+      "blocks": [
+        { "p": "For a Muslim, the Quran is not mainly a book on a shelf. It is in the mouth. Every one of the five daily prayers includes al-Fatihah, so a practising Muslim recites at least seventeen units of it a day. Children learn short surahs before they can read. Millions have memorised the entire text; such a person is called a *hafiz*, a guardian. Muslims see this chain of memory, with the written copies, in the promise \"We will be its guardian\" (15:9)." },
+        { "p": "How it is recited matters. \"Recite the Qur'an with measured recitation\" (73:4) gave rise to *tajwid*, the precise science of pronunciation, pauses and lengthening, taught teacher to student in chains going back to the Prophet ﷺ. The Prophet ﷺ said, in a report in al-Bukhari and Muslim, that one who recites skilfully is with the noble scribes among the angels, while one who stumbles through it with difficulty earns a double reward. Beginners are not second-class readers." },
+        { "p": "Ramadan is the Quran's month. Many Muslims aim to read all thirty parts during it, one juz' a day, and mosques recite the whole text across the month in the night prayer called *tarawih*. That is the Muslim friend you have seen reading late into Ramadan nights." },
+        { "h": "Reading a translation well" },
+        { "list": [
+          "A translation is an interpretation of the meanings, not the Quran itself. Muslims do not pray in translation, and comparing two or three translations shows how much each translator has to decide.",
+          "Read in passages, not single lines. A verse quoted alone can say the opposite of what its passage says.",
+          "Ask when and why a passage was revealed: Makkah or Madinah, peace or war, to whom.",
+          "Keep a commentary at hand. Tafsir, the scholarly explanation of the Quran, gathers fourteen centuries of careful reading. Ibn Kathir's is the most widely read in English."
+        ] },
+        { "p": "Many Muslims handle a printed mushaf with care: they make *wudu'*, the ritual washing before prayer, before touching it, and keep it in a high, clean place. Scholars link this to \"None touch it except the purified\" (56:79), though they differ on whether that verse speaks of people or of angels. Translations are treated more flexibly." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "anatomy",
-    "title": "The shape of the Quran",
-    "caption": "All 114 surahs in mushaf order, sized by their number of verses. Gold marks surahs revealed in Makkah, teal those revealed in Madinah. The long Madinan surahs come first; the short Makkan ones gather at the end."
-  },
-  "word": {
-    "ar": "هُدًى",
-    "tr": "hudā",
-    "root": [
-      "ه",
-      "د",
-      "ي"
-    ],
-    "meaning": "Guidance",
-    "nuance": "Not just information but direction that leads somewhere. The Quran calls itself hudā for those who are conscious of Allah (2:2). The same root gives hadiyyah, a gift, and al-Hādī, the Guide.",
-    "refs": [
-      "2:2",
-      "17:9"
-    ]
-  },
-  "mixup": {
-    "myth": "The Quran was written as one book, start to finish, in the order we read it.",
-    "truth": "It came down in parts over about 23 years, often in answer to real events. The first verses revealed (96:1-5) sit near the end of the mushaf. The order of verses within each surah was set by the Prophet ﷺ; scholars differ on whether the order of the surahs was too. The written pages were gathered under Abu Bakr and copied into one standard text under 'Uthman.",
-    "refs": [
-      "17:106",
-      "25:32"
-    ]
-  },
-  "remember": [
-    "114 surahs, 30 juz, revealed over about 23 years in Makkah and Madinah.",
-    "It began with \"Read\" and calls itself guidance, clear proof and criterion.",
-    "Its order on the page is not the order of revelation, and Allah promises to preserve it."
-  ],
-  "memorize": "54:17",
+  "carry": "54:17",
   "quiz": [
     {
-      "q": "According to hadith reports, which verses were revealed first?",
-      "options": [
-        "Al-Fatihah 1:1-7",
-        "Al-'Alaq 96:1-5",
-        "Al-Baqarah 2:1-5",
-        "An-Nas 114:1-6"
-      ],
+      "q": "What does the very first word revealed, iqra', ask the listener to do?",
+      "options": ["Believe without question", "Read or recite, giving voice to words", "Pray five times a day", "Leave Makkah"],
       "answer": 1,
-      "why": "The reports in al-Bukhari describe Jibril telling the Prophet ﷺ \"Read!\" in the cave of Hira, then reciting 96:1-5."
+      "why": "96:1 opens with iqra', which carries both senses, \"read\" and \"recite\". The name Qur'an, \"recitation\", comes from the same root."
     },
     {
-      "q": "In which month does the Quran say it was revealed?",
-      "options": [
-        "Ramadan",
-        "Muharram",
-        "Dhul-Hijjah",
-        "Rajab"
-      ],
-      "answer": 0,
-      "why": "2:185: \"The month of Ramadhan in which was revealed the Qur'an.\" Surah al-Qadr places it on the Night of Decree within that month."
-    },
-    {
-      "q": "How did the Quran reach the Prophet ﷺ?",
-      "options": [
-        "All at once, as a written book",
-        "Only in Madinah, after the Hijra",
-        "In stages over many years"
-      ],
+      "q": "According to 25:32, why was the Quran sent in stages rather than all at once?",
+      "options": ["Because it was not yet complete in heaven", "Because writing materials were scarce", "To strengthen the Prophet's ﷺ heart and space the message distinctly", "So that each tribe would receive its own part"],
       "answer": 2,
-      "why": "17:106 and 25:32 say it was sent down progressively. Many scholars, following Ibn 'Abbas, explain 97:1 as its descent to the lowest heaven at once, then to earth in stages."
+      "why": "25:32 answers the objection directly: \"Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly.\" 17:106 adds that it was recited to the people over a long period."
+    },
+    {
+      "q": "Why do the first verses ever revealed sit near the end of the mushaf?",
+      "options": ["The written order is not the order of revelation; long, mostly Madinan surahs tend to come first", "They were added last by 'Uthman", "The mushaf is arranged alphabetically", "Surah al-'Alaq was revealed in Madinah"],
+      "answer": 0,
+      "why": "The mushaf runs roughly from long surahs to short ones, so early, short Makkan surahs like al-'Alaq (96) fall near the end."
+    },
+    {
+      "q": "What test does 4:82 invite any reader to apply?",
+      "options": ["Compare it with Greek philosophy", "Count its words", "Find a scholar who disagrees", "Reflect on it and look for the many contradictions a human author would leave"],
+      "answer": 3,
+      "why": "4:82: \"If it had been from [any] other than Allah, they would have found within it much contradiction.\" The challenge verses (2:23, 17:88) make a related claim."
     }
   ],
-  "reflect": "The first word revealed was \"Read\". What do you most hope to understand by the end of these 30 days?",
-  "deeper": [
-    "97",
-    "2:23",
-    "17:88",
-    "25:32",
-    "2:97",
-    "4:82",
-    "20:114"
-  ],
+  "reflect": "The first word revealed was \"Read\", and the Quran speaks to its listener directly. If one question could be answered for you over these thirty days, what would it be? Write it down and keep it.",
+  "deeper": ["97", "2:23", "17:88", "25:32", "2:97", "4:82", "20:114"],
   "links": [
-    {
-      "label": "What is the Quran?",
-      "href": "/learn/what-is-the-quran"
-    },
-    {
-      "label": "How many surahs and verses?",
-      "href": "/learn/how-many-surahs-and-verses-in-the-quran"
-    },
-    {
-      "label": "Meccan and Medinan surahs",
-      "href": "/learn/meccan-and-medinan-surahs"
-    },
-    {
-      "label": "Read Surah Al-'Alaq",
-      "href": "/surah/al-alaq"
-    }
+    { "label": "What is the Quran?", "href": "/learn/what-is-the-quran" },
+    { "label": "How many surahs and verses?", "href": "/learn/how-many-surahs-and-verses-in-the-quran" },
+    { "label": "Meccan and Medinan surahs", "href": "/learn/meccan-and-medinan-surahs" },
+    { "label": "Read Surah Al-'Alaq", "href": "/surah/al-alaq" }
   ],
-  "connections": [
-    6,
-    30
-  ],
+  "connections": [6, 30],
   "status": "draft"
 }

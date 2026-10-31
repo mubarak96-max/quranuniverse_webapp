@@ -2,105 +2,148 @@
   "day": 3,
   "title": "Decree, Free Will and Suffering",
   "question": "If Allah has decreed everything, do my choices matter?",
-  "emblem": "hourglass",
-  "intro": [
-    "Muslims believe in qadar: that Allah knows, writes, wills and creates all that happens. The Quran says this plainly. It says just as plainly that people choose, and that they answer for what they choose.",
-    "The two truths sit side by side in the text. Scholars have discussed for centuries how they fit together. What the Quran gives is a way to live with them: act, choose well, trust Allah, and do not be crushed by loss or carried away by gain.",
-    "It also speaks about hardship. Some is a test (2:155), some follows from our own deeds (42:30), and some carries a wisdom we cannot yet see. The story of Musa and a servant of Allah shows that last kind."
-  ],
-  "passages": [
+  "summary": "What Muslims mean by qadar, divine decree; how the Quran holds decree and human choice together; what it says about suffering; and what Musa learned from a stranger by the sea.",
+  "cover": {
+    "alt": "A small wooden sailing boat moored at a rocky shore where a river meets the sea at dusk",
+    "prompt": "A small wooden sailing boat of the ancient kind, its hull scarred, moored at a rocky shore where a broad river flows into the open sea. Dusk light, calm water reflecting a violet and amber sky, a lone rock on the beach."
+  },
+  "chapters": [
     {
-      "ref": "57:22-23",
-      "context": "From al-Hadid, a Madinan surah. Scholars explain the \"register\" as the Preserved Tablet.",
-      "point": "Every disaster was known and written before it came. The reason given: so you neither despair over loss nor boast over gain.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Written Before It Happened",
+      "blocks": [
+        { "p": "Here is one of the most startling statements in the Quran, and one of the most practical." },
+        { "verse": "57:22-23" },
+        { "p": "Read the first verse alone and it sounds like fatalism: every disaster, on the earth or in your own life, was already \"in a register\" before it came into being. The commentators explain the register as *al-Lawḥ al-Maḥfūẓ*, the Preserved Tablet, where Allah's knowledge of all things is written." },
+        { "p": "But the second verse gives the reason the first was revealed, and it is not about metaphysics at all. It is about your heart: *so that you do not despair over what escaped you, and do not exult over what you were given*. Knowing that loss was written is meant to steady you in grief. Knowing that gain was written is meant to keep you humble in success. The doctrine is given as medicine." },
+        { "p": "Muslims call this *qadar*, divine decree. The Prophet ﷺ listed it as the sixth pillar of faith in the famous hadith of Jibril, recorded by Muslim: to believe in Allah, His angels, His books, His messengers, the Last Day, \"and to believe in qadar, its good and its bad\"." },
+        { "word": { "ar": "قَدَر", "tr": "qadar", "root": ["ق", "د", "ر"], "meaning": "Measure; decree", "nuance": "The root means to measure, to determine an amount, and to have power. \"Indeed, all things We created with qadar\" (54:49): with measure, nothing random. The same root gives al-Qadir, the All-Powerful, taqdir, precise determination (25:2), and Laylat al-Qadr, the Night of Decree. Qadar is not blind fate; it is the measured plan of One who knows." } },
+        { "p": "The same idea recurs throughout the Quran. Allah \"has created each thing and determined it with [precise] determination\" (25:2). The believers are taught to say: \"Never will we be struck except by what Allah has decreed for us; He is our protector\" (9:51). The tone is never resignation. It is trust." }
+      ]
     },
     {
-      "ref": "76:2-3",
-      "context": "The opening of al-Insan, which describes how each person is created.",
-      "point": "Allah gives hearing, sight and a clear way. Whether a person becomes grateful or ungrateful is theirs to choose: that choice is the test.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Four Things Muslims Mean by Decree",
+      "blocks": [
+        { "p": "Classical Sunni scholars, gathering the verses and hadith together, described belief in qadar as having four parts. Each rests on the text." },
+        { "figure": { "kind": "steps", "title": "The four levels of qadar", "items": [
+          { "label": "Knowledge ('ilm)", "text": "Allah knows all things, past and future, before they exist (22:70)." },
+          { "label": "Writing (kitabah)", "text": "He wrote them in a Record, the Preserved Tablet (57:22)." },
+          { "label": "Will (mashi'ah)", "text": "Nothing happens unless He wills it: \"you do not will except that Allah wills\" (81:29)." },
+          { "label": "Creation (khalq)", "text": "He creates all things, including human acts: \"Allah created you and that which you do\" (37:96)." }
+        ] } },
+        { "p": "The hadith fill in the picture. Muslim records from 'Abdullah ibn 'Amr that the Prophet ﷺ said Allah wrote the measures of creation fifty thousand years before He created the heavens and the earth. Knowledge does not cause a thing, scholars point out, any more than a historian causes the battles he records. Allah knows what you will choose because He knows all things, not because your choice is forced." },
+        { "p": "This subject divided the early Muslim community more sharply than almost any other. One extreme, called the *Jabriyyah*, said human beings are like a feather in the wind, with no real choice. The other, the *Qadariyyah* and later the *Mu'tazilah*, said that humans create their own acts independently, to protect Allah's justice." },
+        { "note": "Mainstream Sunni theology took a middle path. The Ash'aris explained that Allah creates each act while the human being truly chooses and \"acquires\" it (kasb), and so bears responsibility. The Maturidis gave human choice a somewhat larger role in the same framework. Both rejected fatalism, and both admitted that how divine will and human will meet is ultimately beyond full human comprehension.", "title": "Where scholars differ" },
+        { "p": "Even the Prophet's ﷺ companions were warned not to push the question into endless argument. Al-Tirmidhi records that he came out once to find them disputing about decree and was angered by it. The lesson was not that the question is forbidden, but that it must be held with humility: some things are known to Allah and not to us. Which is exactly where the Quran's most famous story about decree begins." }
+      ]
     },
     {
-      "ref": "81:27-29",
-      "context": "The close of at-Takwir, a Makkan surah.",
-      "point": "Human will is real: anyone may choose the right course. Yet no one wills outside Allah's will.",
-      "label": "differ",
-      "note": "Most Sunni scholars say Allah creates all acts while people truly choose and are accountable; the Mu'tazilah said people create their own acts. Both rejected fatalism."
+      "lens": "story",
+      "title": "The Prophet Who Was Sent Back to School",
+      "blocks": [
+        { "p": "Al-Bukhari records the background in a long hadith. One day the prophet Musa stood to preach to the Children of Israel and someone asked him who was the most knowledgeable person on earth. \"I am,\" Musa said. Allah reproached him for not leaving that knowledge to Him, and told him there was a servant of His, at the meeting place of two seas, who knew what Musa did not." },
+        { "p": "So Musa set out with a young companion, carrying a fish in a basket. Where the fish was lost, Allah told him, he would find the man. They rested by a rock at the water's edge and the fish slipped away into the sea, \"amazingly\" (18:63), but the young man forgot to mention it until they had walked on. They turned back along their own footprints." },
+        { "image": "day-03-two-seas", "alt": "A rocky shoreline where a river meets the sea, with a single large rock at the water's edge", "caption": "\"Until I reach the junction of the two seas\" (18:60).", "prompt": "A wild shoreline where a wide, calm river meets the sea, the two waters faintly different in colour. A single large smooth rock sits at the water's edge, an empty woven basket beside it, under a soft early morning haze." },
+        { "p": "There, by the rock, they found him: \"a servant from among Our servants to whom we had given mercy from us and had taught him from Us a [certain] knowledge\" (18:65). The Quran never names him. The hadith in al-Bukhari calls him al-Khidr, \"the green one\"." },
+        { "p": "Musa, a prophet who had spoken with Allah, asked humbly to follow him and learn. The man warned him: \"with me you will never be able to have patience. And how can you have patience for what you do not encompass in knowledge?\" (18:67-68). Musa promised. The man set one condition: ask nothing until I explain." },
+        { "p": "They boarded a boat, whose sailors recognised al-Khidr and carried them for free. A small bird landed on the edge of the boat and dipped its beak into the sea. In the hadith, al-Khidr turns to Musa: your knowledge and mine, beside the knowledge of Allah, are no more than what this bird has taken from the sea." },
+        { "p": "Then al-Khidr took a tool and tore a plank out of the boat." }
+      ]
     },
     {
-      "ref": "4:79",
-      "context": "4:78 answers people who credited good to Allah but blamed the Prophet ﷺ for misfortune.",
-      "point": "Scholars reconcile the two verses: all things come by Allah's decree (4:78), but good is His grace, and harm traces back to our own deeds (42:30).",
-      "label": "explained"
+      "lens": "text",
+      "title": "Three Acts, Three Hidden Reasons",
+      "blocks": [
+        { "p": "Musa could not keep silent. Three times he protested, and each protest was reasonable. The boat that carried them for free was now holed: \"Have you torn it open to drown its people?\" (18:71). A boy was killed: \"Have you killed a pure soul?\" (18:74). In a town that refused them food, the stranger rebuilt a collapsing wall without asking for payment (18:77). After the third, they parted, and al-Khidr explained." },
+        { "verse": "18:79-82" },
+        { "figure": { "kind": "compare", "title": "What Musa saw, and what was hidden", "left": { "title": "What Musa saw", "items": ["A good boat deliberately damaged", "A boy's life taken", "Free labour for a town with no hospitality"] }, "right": { "title": "What Allah knew", "items": ["A king was seizing every sound ship; the damaged one was spared for its poor owners", "His believing parents were spared his transgression and given a purer child", "Two orphans' treasure lay under the wall, kept for them because their father was righteous"] } } },
+        { "p": "Notice the shifting pronouns. For the boat, al-Khidr says \"*I* intended\". For the boy, \"*we* intended\". For the wall, \"*your Lord* intended\". Commentators observe that he attributes the act that looks like damage to himself, and the pure mercy to Allah, out of courtesy toward Him. And he ends: \"I did it not of my own accord\" (18:82)." },
+        { "note": "Scholars agree that al-Khidr acted on a direct command from Allah, which is why many hold he was a prophet. No one else may act on claimed hidden knowledge: Islamic law judges only by what is apparent, and taking an innocent life is among the gravest sins. The story teaches the limits of human sight, not a licence to act on it.", "title": "A story, not a precedent" },
+        { "p": "The story's lesson is not that every painful thing will be explained in this life. Musa was given the explanations; most of us are not. The lesson is that the explanation exists. The Prophet ﷺ said, in al-Bukhari's version, that he wished Musa had been patient a little longer, so that Allah would have told us more." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "If It Is Written, Why Should I Choose?",
+      "blocks": [
+        { "p": "The objection is obvious and old. If Allah knows and wills everything, my choices are a performance whose ending is already fixed. Why strive? And why should I be punished for what was written?" },
+        { "p": "The Quran meets the objection head on. It quotes the idolaters using exactly this argument: \"If Allah had willed, we would not have associated [anything]\" (6:148). It does not accept it. \"Do you have any knowledge that you can produce for us? You follow not except assumption.\" Nobody has read the register. No one does wrong *because* he knows it is written; he does it because he wants to, and only afterwards reaches for decree as an excuse." },
+        { "verse": "81:27-29" },
+        { "p": "Both sentences are true at once. Human will is real: \"whoever wills among you\". It operates inside Allah's will, not against it or outside it. The Quran says the same in many places: Allah \"guided him to the way, be he grateful or be he ungrateful\" (76:3); \"whoever wills - let him believe; and whoever wills - let him disbelieve\" (18:29)." },
+        { "p": "The companions asked the Prophet ﷺ this very question. When he told them that every soul's place was already written, they asked, according to 'Ali in al-Bukhari and Muslim: then should we not rely on what is written and stop working? He said: \"Act, for each person is eased toward what he was created for,\" and recited: \"As for he who gives and fears Allah and believes in the best [reward], We will ease him toward ease\" (92:5-7)." },
+        { "p": "Decree is not a script you read in advance. It is known only after it happens. Before it happens, all you have is your choice, and you will answer for it." },
+        { "p": "A story from 'Umar's caliphate makes the point practical. Travelling to Syria in 639 CE, he learned that plague had broken out there and decided to turn back. A companion, Abu 'Ubaydah, objected: \"Are you fleeing from the decree of Allah?\" 'Umar replied, in al-Bukhari's report: \"Yes, we flee from the decree of Allah to the decree of Allah.\" Taking precautions is itself part of decree." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Why Would a Merciful God Allow Pain?",
+      "blocks": [
+        { "p": "This is the hardest question any religion faces, and the Quran does not pretend it is easy. It never says suffering is unreal or that the suffering are to blame. Instead it gives several answers, each true of some pain and none of all." },
+        { "p": "**Some suffering is a test.** \"Do the people think that they will be left to say, 'We believe' and they will not be tried?\" (29:2). A test does not mean Allah needs to learn something; it means a person's truth becomes visible, to themselves and others. The prophets were tested hardest of all, from Ayyub's long illness (21:83) to the Prophet ﷺ burying six of his seven children in his own lifetime." },
+        { "p": "**Some is the result of our own choices.** \"Whatever strikes you of disaster - it is for what your hands have earned; but He pardons much\" (42:30). Much of the world's misery is human cruelty, and a world with real choice is a world where choice can wound." },
+        { "p": "**Some purifies.** The Prophet ﷺ said, in al-Bukhari and Muslim, that no fatigue, illness, worry, grief or harm befalls a believer, not even a thorn that pricks him, without Allah removing some of his sins by it." },
+        { "p": "**Some hides a good we cannot see.** \"Perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah Knows, while you know not\" (2:216). This is the lesson of the boat and the wall." },
+        { "p": "**And this life is not the whole story.** The Quran insists on a Day when every injustice is answered and every patient soul repaid. Pain that would be meaningless in a world of seventy years looks different in a world without end." },
+        { "p": "There is no hiding the fact that these answers ask for trust. A believer does not claim to see the full reason for a child's illness or a city's earthquake. The claim is smaller and stronger: that the One who allowed it is more merciful than we are, and knows what we do not. That is a matter of faith, and the Quran says so." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "When the Bad News Comes",
+      "blocks": [
+        { "verse": "2:155-157" },
+        { "p": "Look at what the Quran gives the grieving person to say: *innā lillāhi wa innā ilayhi rāji'ūn*, \"Indeed we belong to Allah, and indeed to Him we will return.\" Muslims say it on hearing of any death or loss, large or small. It holds two truths at once. What you lost was never finally yours. And you are going where it went." },
+        { "p": "Umm Salamah, whose husband Abu Salamah died of his wounds after the battle of Uhud, related in Muslim that the Prophet ﷺ had taught her to say, at a loss, these words and then: \"O Allah, reward me in my affliction and replace it for me with something better.\" She said them, and wondered who could be better than Abu Salamah. Later the Prophet ﷺ himself asked to marry her." },
+        { "quote": "How wonderful is the affair of the believer, for all of it is good, and that is for no one except the believer. If something good happens to him he is grateful, and that is good for him. If something harmful befalls him he is patient, and that is good for him.", "by": "The Prophet ﷺ, in Sahih Muslim" },
+        { "p": "You are allowed to weep. When the Prophet's ﷺ infant son Ibrahim died, his eyes filled with tears, and he said, in al-Bukhari's report, that the eyes shed tears and the heart grieves, but we say only what pleases our Lord. Patience, *ṣabr*, is not the absence of sorrow. It is staying with Allah inside it." },
+        { "p": "And the Quran makes a promise it states twice in a row, so you cannot miss it: \"For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease\" (94:5-6). *With* hardship, not merely after it." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Tie the Camel, Then Trust",
+      "blocks": [
+        { "p": "Belief in decree shapes Muslim daily life in ways you can see. A Muslim plans, works, takes medicine and locks the door, then says *in sha' Allah*, \"if Allah wills\", about the result. The two go together. Al-Tirmidhi records that a man asked the Prophet ﷺ whether he should tie his camel and trust in Allah, or leave it untied and trust. \"Tie it, and trust,\" he answered. Trust, *tawakkul*, comes after effort, not instead of it." },
+        { "p": "It also changes how Muslims handle regret. In a hadith in Muslim, the Prophet ﷺ said: strive for what benefits you, seek Allah's help, and do not give up. If something befalls you, do not say \"if only I had done this or that\", but say \"Allah decreed, and what He willed He did\", for \"if only\" opens the door to Satan's work. Planning forward is good. Reliving the past on a loop is not." },
+        { "list": [
+          "**Before a decision**, many Muslims pray *istikharah*: two units of voluntary prayer followed by a supplication, taught in al-Bukhari, asking Allah to make the matter easy if it is good and turn it away if it is not. Then they act.",
+          "**After a loss**, they say *inna lillahi wa inna ilayhi raji'un*, and visit, cook for and sit with the bereaved.",
+          "**After a success**, they say *alhamdulillah* and *ma sha' Allah*, \"what Allah willed\", which guards against the boasting 57:23 warns of."
+        ] },
+        { "p": "If you have Muslim friends who seem unusually calm in a crisis, or who answer \"in sha' Allah\" about everything from exams to weddings, this is the root of it. It is not passivity. It is effort, handed over." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "panels",
-    "title": "What Musa saw, and what was hidden",
-    "caption": "Each act looked wrong to Musa. Each had a reason he could not see. The Quran calls the man \"a servant from among Our servants\" (18:65); the name al-Khidr comes from hadith in al-Bukhari.",
-    "items": [
-      { "label": "The ship holed", "text": "He damages a boat that carried them.", "ref": "18:71", "icon": "ship" },
-      { "label": "Kept from a king", "text": "It belonged to poor people; a king seized every sound ship.", "ref": "18:79", "icon": "crown" },
-      { "label": "The boy", "text": "He takes a boy's life, and Musa protests.", "ref": "18:74", "icon": "people" },
-      { "label": "Parents protected", "text": "Believing parents spared; a purer, kinder child in his place.", "ref": "18:80-81", "icon": "heart" },
-      { "label": "The wall rebuilt", "text": "Repaired for free in a town that refused them food.", "ref": "18:77", "icon": "wall" },
-      { "label": "Orphans' treasure", "text": "It hid two orphans' treasure until they came of age.", "ref": "18:82", "icon": "key" }
-    ]
-  },
-  "word": {
-    "ar": "قَدَر",
-    "tr": "qadar",
-    "root": ["ق", "د", "ر"],
-    "meaning": "Measure; decree",
-    "nuance": "The root means to measure and to have power over. \"All things We created with qadar\": with measure, nothing random (54:49). The same root gives al-Qadir, the All-Powerful, and Laylat al-Qadr, the Night of Decree.",
-    "refs": ["54:49", "25:2"]
-  },
-  "mixup": {
-    "myth": "Belief in decree means our choices do not matter, so a person can blame fate for doing wrong.",
-    "truth": "The Quran quotes people who said \"If Allah had willed, we would not have associated\" and rejects that excuse as mere assumption (6:148). It holds each person to what they choose (18:29). Decree is Allah's knowledge and will over all things; it is something to trust after acting, not a reason to stop acting.",
-    "refs": ["6:148", "18:29"]
-  },
-  "remember": [
-    "Everything happens by Allah's knowledge, writing and will (54:49, 57:22).",
-    "People truly choose and are answerable; human will works within Allah's will (81:28-29).",
-    "Hardship may be a test, a consequence, or a hidden mercy, as Musa learned (18:82)."
-  ],
-  "memorize": "64:11",
+  "carry": "64:11",
   "quiz": [
     {
       "q": "Why does 57:23 say disasters were written beforehand?",
-      "options": [
-        "So people stop making plans",
-        "So you neither despair over loss nor exult over gain",
-        "So no one is held responsible",
-        "So the future can be predicted"
-      ],
+      "options": ["So people stop making plans", "So you neither despair over loss nor exult over gain", "So no one is held responsible", "So the future can be predicted"],
       "answer": 1,
       "why": "57:22-23: it was written \"in order that you not despair over what has eluded you and not exult [in pride] over what He has given you.\""
     },
     {
-      "q": "Why did the servant of Allah damage the ship?",
-      "options": [
-        "It belonged to wrongdoers",
-        "Musa had asked him to",
-        "A king was seizing every sound ship by force"
-      ],
+      "q": "How does the Quran respond in 6:148 to people who said \"If Allah had willed, we would not have associated\"?",
+      "options": ["It agrees that they were not responsible", "It says only prophets have free will", "It rejects the excuse as mere assumption without knowledge", "It says decree applies only to the weather"],
       "answer": 2,
-      "why": "18:79: the ship belonged to poor people working at sea, and a defect would keep it from a king who seized ships by force."
+      "why": "6:148: \"Do you have any knowledge that you can produce for us? You follow not except assumption.\" No one acts knowing what is written; decree is not an excuse for wrongdoing."
     },
     {
-      "q": "What does 81:28-29 say about human will?",
-      "options": [
-        "People will, but only within Allah's will",
-        "People have no will at all",
-        "Allah's will does not touch human choices"
-      ],
+      "q": "Why did al-Khidr damage the boat?",
+      "options": ["A king was seizing every sound ship by force, and the boat belonged to poor people", "The sailors had refused to carry them", "Musa had asked him to", "The boat was carrying stolen goods"],
       "answer": 0,
-      "why": "81:28 speaks of \"whoever wills among you to take a right course\"; 81:29 adds \"you do not will except that Allah wills.\""
+      "why": "18:79: \"it belonged to poor people working at sea. So I intended to cause defect in it as there was after them a king who seized every [good] ship by force.\""
+    },
+    {
+      "q": "When the companions asked whether they should rely on what is written and stop acting, what did the Prophet ﷺ say?",
+      "options": ["Yes, effort makes no difference", "Only scholars need to act", "Do not ask about such things", "Act, for each person is eased toward what he was created for"],
+      "answer": 3,
+      "why": "The hadith of 'Ali in al-Bukhari and Muslim; he then recited 92:5-10: whoever gives and fears Allah, \"We will ease him toward ease.\""
     }
   ],
-  "reflect": "Is there a hardship in your past that you now see differently than you did at the time?",
+  "reflect": "Is there a hardship in your past that you now see differently than you did at the time? What did it give you that you could not see then?",
   "deeper": ["18:60-82", "2:155-157", "42:30", "2:216", "9:51", "25:2", "6:148"],
   "links": [
     { "label": "Why does God allow suffering?", "href": "/learn/why-does-god-allow-suffering" },

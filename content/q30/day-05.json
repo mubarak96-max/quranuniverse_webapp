@@ -1,104 +1,160 @@
 {
   "day": 5,
-  "title": "Humanity",
+  "title": "Humanity: Clay, Spirit and a Trust",
   "question": "Why are we here, and what are we made of?",
-  "emblem": "seed",
-  "intro": [
-    "Before Adam was created, Allah told the angels He would place on earth a khalifah, a successor or steward (2:30). The angels asked why. The answer was that Allah knows what they do not.",
-    "The Quran then tells the human story: shaped from clay, given a natural pull toward its Creator, honoured above much of creation (17:70), and entrusted with a trust the mountains refused (33:72). It is honest about our weakness too. Adam forgot and slipped, then turned back and was forgiven.",
-    "Today you will also see how the Quran describes the self: a soul that can urge wrong, blame itself, and finally find peace. Life, it says, is a test of which of us is best in deed (67:2)."
-  ],
-  "passages": [
+  "summary": "The Quran's account of the human being: planned for the earth before Adam existed, made of clay and spirit, born with a pull toward its Creator, forgiven after the first slip, and given a trust the mountains refused.",
+  "cover": {
+    "alt": "Wet red clay at the edge of a stream beneath a cloudy sky with a beam of light breaking through",
+    "prompt": "The bank of a slow stream in a wide valley, its dark red clay wet and shining, a few smooth stones half sunk in it. Heavy clouds overhead with one broad beam of sunlight breaking through and falling on the clay."
+  },
+  "chapters": [
     {
-      "ref": "2:30",
-      "context": "The opening of the human story, in al-Baqarah, a Madinan surah.",
-      "point": "Humans were planned for the earth before Adam existed. The angels' worry is answered with Allah's knowledge, not dismissed.",
-      "label": "differ",
-      "note": "Some scholars read khalifah as people succeeding one another on earth; others as a steward entrusted by Allah to govern it by His guidance."
+      "lens": "story",
+      "title": "A Conversation Before the First Human",
+      "blocks": [
+        { "p": "The Quran's story of humanity does not begin on earth. It begins in the heavens, with a conversation, before a single human being exists. Allah announces His plan to the angels, and they answer with a question." },
+        { "verse": "2:30" },
+        { "p": "The angels have seen something. Some commentators reported that the jinn had lived on earth before and filled it with bloodshed; others say the angels understood that any creature with free will and appetites would be capable of corruption. Either way, their question is honest: why make a being who can ruin things, when we already praise You without fail?" },
+        { "p": "Ibn Kathir stresses that this was not an objection or rivalry. The angels were asking about the wisdom of the plan, the way a student asks a teacher. And Allah does not dismiss them. He answers: \"I know that which you do not know.\" Then He shows them." },
+        { "verse": "2:31-33" },
+        { "p": "Adam is taught \"the names - all of them\". Most commentators, following Ibn 'Abbas, explain this as the names of things: the ability to name, classify and understand the world. The angels answer with perfect humility. Then Adam speaks, and they see what they could not see before: this new creature can learn what he was not built already knowing." },
+        { "p": "Then comes the command that the angels prostrate to Adam, a prostration of honour, not of worship. They all obey but one, Iblis, whose refusal you read about on Day 4." },
+        { "p": "Notice what this means for the rest of the story. Humanity was announced \"upon the earth\" before any tree was eaten from. Whatever happens in the Garden, it is not the reason we are here." }
+      ]
     },
     {
-      "ref": "23:12-14",
-      "context": "From al-Mu'minun, a Makkan surah. A hadith of Ibn Mas'ud in al-Bukhari and Muslim adds that the soul is breathed in later.",
-      "point": "Clay, then a drop, a clinging clot, a lump, bones clothed in flesh, then \"another creation\": a full human being.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Successor, Steward, Khalifah",
+      "blocks": [
+        { "p": "The word Allah uses in 2:30 is *khalīfah*, which Sahih International renders \"a successive authority\". Its root, *kh-l-f*, means to come after, to stand behind, to take someone's place. From it come *khalf*, behind, and *khilāfah*, succession. What exactly does it mean here? The classical commentators gave two main answers, and both have shaped Muslim thought." },
+        { "p": "**A people who succeed one another.** Ibn Kathir reads it this way: generations of humans, each following the last on the earth, as in \"it is He who has made you successors upon the earth\" (6:165). On this reading, the angels' worry makes sense: they foresaw generations, and the bloodshed that would come with them." },
+        { "p": "**A steward, entrusted on Allah's behalf.** Other scholars, including many later ones, understood it as a vicegerent: a being given authority on earth to carry out Allah's guidance in it. This reading draws on the word's later sense of one who governs in place of another, and on Dawud being made \"a successor upon the earth, so judge between the people in truth\" (38:26)." },
+        { "note": "Some scholars, such as Ibn Taymiyyah, objected to calling humans \"Allah's khalifah\", arguing that a successor replaces someone absent, and Allah is never absent. Others used the phrase freely to mean one entrusted with responsibility. The two positions agree on substance: humans are placed on the earth with authority and will answer for how they use it.", "title": "Where scholars differ" },
+        { "p": "Either way, the human being in the Quran is not an accident or an afterthought. He is announced, named, taught and honoured before he ever sets foot on the ground. The angels bow. \"And We have certainly honored the children of Adam\" (17:70), says another surah, \"and preferred them over much of what We have created\"." },
+        { "p": "The consequence scholars draw is practical: every human being, of any faith or none, carries an honour given by Allah, not by any state." }
+      ]
     },
     {
-      "ref": "30:30",
-      "context": "A Makkan surah. A hadith in al-Bukhari and Muslim says every child is born upon the fitrah.",
-      "point": "People are created with an inclination toward their Creator and the truth. Faith is a return to that nature, not something foreign to it.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Clay, Water and Breath",
+      "blocks": [
+        { "p": "What is a human made of? The Quran gives an answer in two layers, the material and the spiritual, and never lets either cancel the other." },
+        { "verse": "15:28-29" },
+        { "p": "The material first. The Quran's words for Adam's substance follow one another like stages: dust (*turāb*), clay (*ṭīn*), \"altered black mud\" (*ḥama' masnūn*), and dry ringing clay (*ṣalṣāl*). Commentators read these as the steps by which earth became a human form. The point is humility. Iblis sneered at clay (7:12), but the Quran never apologises for it. We come from the ground we walk on." },
+        { "p": "Then the spiritual: \"and breathed into him of My [created] soul\". The Arabic says *min rūḥī*, \"of My spirit\". Scholars agree this is a possessive of honour, like \"the House of Allah\" for the Ka'bah: a spirit created by Allah and attributed to Him to dignify it, not a part of Allah Himself. It is this breath, not the clay, before which the angels bow. Allah tells Iblis that He created Adam \"with My hands\" (38:75), a phrase of special honour given to no other creature." },
+        { "p": "The same two layers appear in every human birth after Adam." },
+        { "verse": "23:12-14" },
+        { "figure": { "kind": "steps", "title": "The stages of 23:12-14", "items": [
+          { "label": "Nutfah", "text": "A drop, placed \"in a firm lodging\"" },
+          { "label": "'Alaqah", "text": "Something that clings, a clinging clot" },
+          { "label": "Mudghah", "text": "A lump, like something chewed" },
+          { "label": "'Izam", "text": "Bones, then the bones clothed with flesh" },
+          { "label": "Khalqan akhar", "text": "\"Another creation\": a full human being" }
+        ] } },
+        { "p": "After all the stages of the body, the verse makes a sudden leap: \"then We developed him into another creation\". Ibn Kathir and others connect this with the hadith of Ibn Mas'ud in al-Bukhari and Muslim, in which the Prophet ﷺ said that after the embryo's stages an angel is sent to breathe the soul into it, and writes four things: its provision, its lifespan, its deeds, and whether it will be wretched or blessed. The verse ends with the only fitting response: \"So blessed is Allah, the best of creators.\"" }
+      ]
     },
     {
-      "ref": "20:121-122",
-      "context": "From Taha. 7:23 records the couple's words: \"Our Lord, we have wronged ourselves.\"",
-      "point": "Adam and his wife both ate, and Adam erred. Then Allah chose him, turned to him and guided him. The first human slip ends in forgiveness.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Born Facing the Right Way",
+      "blocks": [
+        { "verse": "30:30" },
+        { "p": "This verse tells the reader to \"direct your face toward the religion\", and then explains why it is natural to do so. There is a *fiṭrah* of Allah, a pattern in which He has created all people. Religion, in this view, is not something foreign laid on top of human nature. It is a return to it." },
+        { "word": { "ar": "فِطْرَة", "tr": "fiṭrah", "root": ["ف", "ط", "ر"], "meaning": "The original nature Allah created people with", "nuance": "From faṭara, to split open or bring into being for the first time: Allah is Fāṭir, the Originator of the heavens and the earth (35:1). The fitrah is the original make of a person, including an inner pull toward its Creator and a sense of right and wrong that exists before any teaching. Upbringing can cover it over, but the Quran says \"no change should there be in the creation of Allah\"." } },
+        { "p": "The Prophet ﷺ explained the verse with an image from the farmyard, in a hadith in al-Bukhari and Muslim. Every child is born upon the fitrah, he said, and then the child's parents raise it in one religion or another, \"just as an animal gives birth to a whole, perfect young one: do you see any of them born with its ears cut?\" The marks come later. The newborn arrives whole." },
+        { "p": "The Quran also describes a moment that grounds this nature, a kind of covenant made before birth." },
+        { "verse": "7:172" },
+        { "note": "Many scholars, citing hadith, take 7:172 as a real event: Allah brought forth all of Adam's descendants and took their testimony before they were born. Others, including some major commentators such as al-Zamakhshari, read it as a vivid image of the fitrah itself: the evidence of Allah is so built into human nature that it is as if every soul had already said \"Yes\". On both readings, no one can say on the Day of Judgement that they were simply never told.", "title": "Where scholars differ" },
+        { "p": "This is why the Quran often speaks of itself as a *dhikr*, a reminder. It does not claim to tell you something entirely new about your Creator. It claims to remind you of what part of you has always known." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "The Tree, the Whisper and the Words",
+      "blocks": [
+        { "p": "Adam and his wife were settled in a garden of plenty, *al-jannah*, and given a single restriction: \"do not approach this tree\" (2:35). Everything else was theirs. In Surah Taha, Allah warns Adam directly that Iblis is an enemy to him and his wife, and reminds him of what he has: in the garden he will not be hungry or unclothed, nor thirsty, nor burned by the sun (20:117-119)." },
+        { "image": "day-05-garden", "alt": "A single great tree in a lush, shaded garden with streams", "caption": "\"But do not approach this tree\" (2:35).", "prompt": "A single great tree with broad leaves and heavy fruit standing at the centre of a lush, shaded garden, streams of clear water running between flowering plants, soft golden light filtering through the canopy. No people." },
+        { "p": "Then came the whisper. Satan offered what humans have always wanted: \"shall I direct you to the tree of eternity and possession that will not deteriorate?\" (20:120). In al-A'raf he goes further, claiming the tree would make them angels or immortals, and he swears to them that he is a sincere adviser (7:20-21). The first deception in the Quran is a promise of something that sounds like more life." },
+        { "verse": "20:121-122" },
+        { "p": "Look carefully at what the Quran says, and what it does not say. Both ate. The temptation is addressed to both of them (7:20), and both feel the shame (7:22). There is no serpent, and Eve is not singled out as the one who tempted Adam. Where one person is named as responsible, it is Adam: \"And Adam disobeyed his Lord and erred.\" Surah Taha adds a gentler word for what happened: \"he forgot; and We found not in him determination\" (20:115)." },
+        { "p": "Then the turn, which is the real point of the story. The two of them said the first prayer of repentance in human history:" },
+        { "verse": "7:23" },
+        { "p": "And it was accepted at once. \"Then Adam received from his Lord [some] words, and He accepted his repentance\" (2:37). Many commentators say those \"words\" were exactly this prayer, taught to Adam by Allah so that he could return. Allah does not only forgive; He teaches the words to ask with. Then \"his Lord chose him and turned to him in forgiveness and guided [him]\". The first human sin ends in the first human forgiveness, and Adam goes down to earth not as a criminal in exile but as a forgiven man and, Muslims believe, the first prophet." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Born Guilty, Born Good, or Neither?",
+      "blocks": [
+        { "p": "Many readers come to this story expecting a fall from grace and a stain passed down to every child. The Quran tells it differently." },
+        { "figure": { "kind": "compare", "title": "Common assumptions and the Quran's account", "left": { "title": "Often assumed", "items": ["The woman led the man astray", "Humanity is on earth as a punishment", "Every child inherits Adam's guilt", "Forgiveness needed a sacrifice"] }, "right": { "title": "What the Quran says", "items": ["Both were tempted and both ate (7:20-22)", "The earth was the plan before the slip (2:30)", "No bearer of burdens bears another's (6:164)", "Adam repented and was forgiven directly (2:37)"] } } },
+        { "p": "\"No bearer of burdens will bear the burden of another\" (17:15) is one of the Quran's most repeated principles. Each person answers for their own deeds and no one else's: not a parent's, not a tribe's, not Adam's. And \"never would We punish until We sent a messenger\", so no one is condemned for what they were never told." },
+        { "p": "But the sceptic's question cuts the other way too. If people are born upon the fitrah, why is the world so full of cruelty? The Quran is not naive about human nature. It says \"mankind was created weak\" (4:28) and \"anxious: when evil touches him, impatient, and when good touches him, withholding\" (70:19-21). It says the soul can be \"a persistent enjoiner of evil\" (12:53). Its picture of the human being is not of a corrupted creature, nor a perfect one, but of a creature with two capacities and a choice between them." },
+        { "verse": "91:7-10" },
+        { "p": "Every person, on this account, is born whole and morally aware, then tested by weakness, desire and the whispers of an enemy. Humans fall, and they can always return. That is neither pessimism nor optimism. It is a description of a being made for repentance." },
+        { "note": "Some readers will ask how this account relates to evolutionary biology. Most Muslim scholars hold that Adam was created directly, as the Quran describes. Some contemporary Muslim thinkers accept evolution for other living things while holding Adam to be a special creation; a smaller number go further. It is an active discussion, and this course does not settle it.", "title": "A modern question" }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Three Voices in One Soul",
+      "blocks": [
+        { "p": "The Quran describes the *nafs*, the self or soul, in three different phrases. Many scholars read them not as three kinds of people but as three conditions one soul can move through, sometimes in a single day." },
+        { "p": "**The soul that urges wrong.** In Surah Yusuf, the wife of al-'Aziz admits her attempt to seduce Yusuf and says: \"I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy\" (12:53). Some commentators attribute the words to Yusuf himself. This is *an-nafs al-ammārah*: the self that pushes and pushes toward what harms it." },
+        { "p": "**The soul that blames itself.** \"And I swear by the reproaching soul\" (75:2). Allah swears by it, an oath of honour. This is *an-nafs al-lawwāmah*: the conscience that stings after doing wrong, or even after doing too little good. Al-Hasan al-Basri is reported to have said that a believer is always reproaching himself. The ache you feel after a sharp word is not your enemy. It is the fitrah still speaking." },
+        { "p": "**The soul at peace.** And at the end of life, to some, a voice will say:" },
+        { "verse": "89:27-30" },
+        { "p": "*An-nafs al-muṭma'innah*, the soul that has come to rest. Not a soul that never struggled, but one that struggled and arrived. \"Well-pleased and pleasing\": content with Allah, and Allah content with it." },
+        { "p": "If you are in the first state today, you are not lost; Adam returned within a breath. If you are in the second, thank Allah for the sting, and keep travelling toward the third." },
+        { "p": "Say tonight the words Adam was taught: \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers\" (7:23)." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Honoured, Entrusted, Tested",
+      "blocks": [
+        { "verse": "33:72" },
+        { "p": "The heavens, the earth and the mountains were offered something and declined it in fear. Humans took it on. Scholars explain the Trust, *al-amānah*, as the responsibility of choice: obeying Allah freely when one could do otherwise, and answering for it. The verse's last words sound harsh, \"he was unjust and ignorant\", but commentators note they describe what humans *can* become when they betray the trust, not a verdict on every person. A mountain cannot sin. It also cannot choose to be good." },
+        { "p": "And why the whole arrangement? The Quran gives a single, clear answer: Allah is the one \"who created death and life to test you [as to] which of you is best in deed\" (67:2). Not who is richest, strongest or most famous. *Best in deed.*" },
+        { "p": "This shapes Muslim life in concrete ways:" },
+        { "list": [
+          "**Dignity without ranking.** \"The most noble of you in the sight of Allah is the most righteous of you\" (49:13). Race, tribe and nation exist \"that you may know one another\", not to rank one another. The Prophet ﷺ repeated this in his farewell sermon.",
+          "**Repentance without intermediaries.** Like Adam, a Muslim turns directly to Allah. There is no confession to a priest; *tawbah*, repentance, means stopping the sin, regretting it, resolving not to return, and righting any wrong done to others.",
+          "**Care for the earth.** A khalifah does not own the world; he is answerable for it. The Prophet ﷺ said, in a hadith in al-Bukhari and Muslim, that whenever a Muslim plants a tree and a bird, a person or an animal eats from it, it counts as charity for him.",
+          "**Every life sacred.** Because every person is a child of Adam, honoured by Allah (17:70), Islamic law guards life, mind, family, property and faith for everyone."
+        ] },
+        { "p": "If you know Muslims, you may have noticed a strong sense of human dignity alongside a strong sense of human weakness. Both come from today's verses. We are clay, and we are honoured. We fail, and we are forgiven." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ladder",
-    "title": "Three states of the soul",
-    "caption": "Each phrase is in the Quran. Many scholars read them as states one soul moves through, from the bottom up, not as three separate souls.",
-    "label": "explained",
-    "items": [
-      { "label": "The soul at peace", "text": "An-nafs al-mutma'innah: called home, well-pleased and pleasing.", "ref": "89:27-28" },
-      { "label": "The self-blaming soul", "text": "An-nafs al-lawwamah: it reproaches itself after doing wrong.", "ref": "75:2" },
-      { "label": "The soul urging wrong", "text": "An-nafs al-ammarah: it pushes toward evil, unless Allah shows mercy.", "ref": "12:53" }
-    ]
-  },
-  "word": {
-    "ar": "فِطْرَة",
-    "tr": "fiṭrah",
-    "root": ["ف", "ط", "ر"],
-    "meaning": "The original nature Allah created people with",
-    "nuance": "From faṭara, to split open or bring into being: Allah is Fāṭir, Originator of the heavens and the earth (35:1). Fitrah is the pull toward one's Creator that exists before any teaching. Upbringing can cover it, but it is not erased.",
-    "refs": ["30:30", "35:1"]
-  },
-  "mixup": {
-    "myth": "Humans are born guilty because of Adam's sin.",
-    "truth": "In the Quran, Adam and his wife both slipped and both repented (7:23), and Allah accepted Adam's repentance (2:37). No soul carries another's burden (6:164), and every child is born upon the fitrah. The Quran does not blame Eve alone; it speaks of the two of them. Life on earth was planned before the slip (2:30).",
-    "refs": ["2:37", "6:164"]
-  },
-  "remember": [
-    "Humans were made for the earth: honoured, entrusted and given a role (2:30, 17:70, 33:72).",
-    "Everyone is born upon the fitrah, a natural pull toward Allah (30:30).",
-    "Adam slipped and was forgiven; there is no inherited sin, only a test for each soul (67:2)."
-  ],
-  "memorize": "67:2",
+  "carry": "67:2",
   "quiz": [
     {
-      "q": "In 7:172, what did the descendants of Adam testify?",
-      "options": [
-        "That they would never sin",
-        "That Allah is their Lord",
-        "That they would rule the earth"
-      ],
+      "q": "When Allah announced a khalifah on earth in 2:30, how did He answer the angels' question?",
+      "options": ["He rebuked them for questioning Him", "He said He knows what they do not know, then showed them Adam's knowledge of the names", "He agreed that humans would only cause corruption", "He sent the angels to earth instead"],
       "answer": 1,
-      "why": "Allah asked, \"Am I not your Lord?\" and they said, \"Yes, we have testified.\" Scholars differ on whether this was a literal event before birth or a picture of the fitrah."
+      "why": "2:30-33: \"Indeed, I know that which you do not know.\" Allah then taught Adam the names, and the angels admitted, \"we have no knowledge except what You have taught us.\""
     },
     {
-      "q": "What did the heavens, earth and mountains decline to carry in 33:72?",
-      "options": [
-        "The Trust",
-        "The Throne",
-        "The rain",
-        "The Book"
-      ],
-      "answer": 0,
-      "why": "33:72: they \"declined to bear it and feared it; but man [undertook to] bear it.\" Scholars explain the Trust as the responsibility of choice and obedience."
-    },
-    {
-      "q": "Which soul does Allah swear by in 75:2?",
-      "options": [
-        "The soul at peace",
-        "The soul urging evil",
-        "The reproaching soul"
-      ],
+      "q": "According to the Quran, who ate from the tree?",
+      "options": ["Eve alone, who then tempted Adam", "Adam alone", "Both Adam and his wife, and both repented", "Neither; the serpent ate from it"],
       "answer": 2,
-      "why": "75:2: \"I swear by the reproaching soul.\" Scholars explain it as the conscience that blames itself after doing wrong."
+      "why": "20:121: \"Adam and his wife ate of it.\" 7:23 records them praying together, \"Our Lord, we have wronged ourselves.\" There is no serpent in the Quran's account."
+    },
+    {
+      "q": "What does the hadith on 30:30 say about every child?",
+      "options": ["It is born upon the fitrah, its original nature", "It inherits the sin of Adam", "It has no sense of right and wrong", "It is born already a scholar"],
+      "answer": 0,
+      "why": "In al-Bukhari and Muslim the Prophet ﷺ said every child is born upon the fitrah, like a young animal born whole; upbringing shapes it afterward. 6:164 adds that no soul bears another's burden."
+    },
+    {
+      "q": "According to 67:2, why did Allah create death and life?",
+      "options": ["To show His power to the angels", "To fill the earth with people", "So that humans could rule the jinn", "To test which of you is best in deed"],
+      "answer": 3,
+      "why": "67:2: He \"created death and life to test you [as to] which of you is best in deed\". The Trust of 33:72 is the responsibility that makes such a test possible."
     }
   ],
-  "reflect": "When your conscience blames you, do you treat it as an enemy or as a gift?",
+  "reflect": "When your conscience blames you, do you treat it as an enemy or as a gift? Write about a time the \"reproaching soul\" turned out to be right.",
   "deeper": ["7:11-27", "2:30-39", "7:172", "33:72", "17:70", "95:4", "114"],
   "links": [
     { "label": "Adam's journey", "href": "/timeline/journey/adam" },

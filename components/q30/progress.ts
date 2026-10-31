@@ -1,10 +1,10 @@
 // Reading progress for Quran in 30 Days, kept on the reader's device. Every writer goes through update(), which
-// fires an event so the shelf, the booklet, the quiz and the reflection stay in step without a shared store.
+// fires an event so the day list, the reader, the quiz and the reflection stay in step without a shared store.
 import { useMemo, useSyncExternalStore } from "react";
 import { load, save } from "@/components/games/daily";
 
-export type DayState = { page?: number; done?: boolean; score?: [number, number]; note?: string; marks?: number[] };
-export type State = { days: Record<number, DayState>; last?: number; intro?: boolean };
+export type DayState = { page?: number; done?: boolean; score?: [number, number]; note?: string; seen?: number[] };
+export type State = { days: Record<number, DayState>; last?: number; size?: number };
 
 const KEY = "q30:v1";
 const EVENT = "q30-change";

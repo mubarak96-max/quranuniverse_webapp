@@ -1,171 +1,141 @@
 {
   "day": 18,
-  "title": "Death and Barzakh",
+  "title": "Death and the Barzakh",
   "question": "What happens between our last breath and the Day of Resurrection?",
-  "emblem": "hourglass",
-  "intro": [
-    "\"Every soul will taste death\" (3:185). The Quran speaks of this moment plainly but gently: angels take the soul, the truth a person avoided becomes clear (50:19), and the good are greeted with \"Peace be upon you\" (16:32).",
-    "After death comes the barzakh, a barrier or in-between stage that lasts until the Resurrection. Here the Quran says very little, and that matters. Much of what people describe about the grave, its questions and its angels, comes from hadith rather than the Quran. Today you will practise telling apart where the Quran speaks, where hadith explains, and where both stay silent."
-  ],
-  "passages": [
+  "summary": "How the Quran describes the moment of death, the angels who take the soul, and the barzakh, the barrier that follows, and how to tell what the Quran states from what hadith explain and what popular lore adds.",
+  "cover": {
+    "alt": "Two seas meeting under a dawn sky, a faint line between their waters",
+    "prompt": "Two broad bodies of water meeting under a quiet dawn sky, one deep blue and one pale green, a faint shimmering line where they touch without mixing, a low dark shore and a single fading star above."
+  },
+  "chapters": [
     {
-      "ref": "56:83-87",
-      "context": "From al-Waqi'ah, a Makkan surah answering deniers of the Resurrection.",
-      "point": "Family look on helplessly; no one can bring the soul back. Life is not ours to keep.",
-      "label": "differ",
-      "note": "The Arabic says \"We are nearer to him\". Many scholars, including Ibn Kathir, read \"We\" as the angels, as here; others read it as Allah's nearness in knowledge."
+      "lens": "text",
+      "title": "When the Soul Reaches the Throat",
+      "blocks": [
+        { "p": "The Quran does not approach death in the abstract. It takes you into the room." },
+        { "verse": "56:83-87" },
+        { "p": "The scene is a deathbed. The soul has risen \"to the throat\"; the family sit \"looking on\". They are close enough to touch him, yet others are nearer, unseen. Then comes the challenge. If you are so sure there is no Lord and no reckoning, if you are truly masters of your own lives, bring it back. No one ever has. The verses were revealed in Makkah to people who denied the Resurrection, and their argument is the simplest one available: you do not own the life in you, so you cannot be sure it is yours to end as you please." },
+        { "note": "The Arabic says \"We are nearer to him than you\". Many commentators, including Ibn Kathir, take \"We\" here to mean Allah's angels, as Sahih International renders it; al-Jalalayn reads it as Allah's nearness in knowledge, as in \"We are closer to him than [his] jugular vein\" (50:16).", "title": "Who is nearer?" },
+        { "p": "Surah al-Qiyamah paints the same hour from another angle: the soul \"has reached the collar bones\", someone asks \"Who will cure [him]?\", and \"the dying one is certain that it is the [time of] separation\" (75:26-28). And Surah Qaf names what that moment does to the mind:" },
+        { "verse": "50:19" },
+        { "p": "*Sakrat al-mawt*, the \"intoxication\" or stupor of death, brings *al-ḥaqq*, the truth. The pronoun is aimed at the reader: \"that is what you were trying to avoid\". Every distraction a life can build falls away in a single moment, and what was always true becomes obvious. The Quran's reason for describing death so plainly is not to frighten for its own sake. It is so that a person meets that clarity now, while there is still time to act on it." }
+      ]
     },
     {
-      "ref": "23:99-100",
-      "context": "From al-Mu'minun: at death, one who wasted life begs to be sent back.",
-      "point": "The Quran names the stage after death, a barrier until the Resurrection, and says almost nothing of what it is like. The details come from hadith.",
-      "label": "unspecified"
+      "lens": "story",
+      "title": "Tears in Madinah",
+      "blocks": [
+        { "p": "In 10 AH, the last full year of his life, the Prophet ﷺ lost his infant son Ibrahim, a boy of about a year and a half, born to Mariyah. Al-Bukhari reports that he held the child as he was dying, and his eyes filled with tears. 'Abd al-Rahman ibn 'Awf, surprised, said: you too, O Messenger of Allah? He answered that this was mercy, and then said:" },
+        { "quote": "The eyes shed tears and the heart grieves, but we say only what pleases our Lord. And we are saddened by your parting, O Ibrahim.", "by": "The Prophet ﷺ, in Sahih al-Bukhari" },
+        { "p": "On the day Ibrahim was buried, the sun went into eclipse over Madinah. People said it had darkened for the death of the Prophet's ﷺ son. It was the kind of thing a leader might have let stand. Instead, al-Bukhari and Muslim report, he gathered them and said that the sun and the moon are two of Allah's signs; they are not eclipsed for anyone's death or life. When you see it, pray." },
+        { "image": "day-18-eclipse", "alt": "A palm grove in Madinah under a dimmed, eclipsed sun", "caption": "The sun was eclipsed on the day the Prophet's ﷺ son Ibrahim died.", "prompt": "A palm grove and low mud-brick houses outside Madinah in an eerie half-light during a solar eclipse, the sun a thin bright crescent in a darkened sky, long soft shadows across sandy ground and a few birds settling in the fronds." },
+        { "p": "The scene holds the whole of the Islamic attitude to death in a few hours. Grief is not weakness and not a failure of faith: the most faithful of men wept openly. Grief is not permission either. Nothing is said against Allah, no wailing, no tearing of clothes. And grief does not bend the truth. Even his own sorrow was not allowed to become a sign in the sky." },
+        { "p": "The Quran gives the words for that moment, which Muslims still say on hearing of any death: \"Indeed we belong to Allah, and indeed to Him we will return\" (2:156). The first half admits ownership. The second gives the destination." }
+      ]
     },
     {
-      "ref": "40:45-46",
-      "context": "From the story of the believer in Pharaoh's court, whom Allah protected from their plots.",
-      "point": "Pharaoh's people are shown the Fire morning and evening, before the Hour arrives. Scholars cite this as evidence that reward or punishment begins in the barzakh.",
-      "label": "explained"
+      "lens": "scholar",
+      "title": "The One Who Takes the Soul",
+      "blocks": [
+        { "p": "The Quran names an angel entrusted with death: \"The angel of death will take you who has been entrusted with you\" (32:11). Elsewhere it speaks of \"Our messengers\", in the plural, who \"take him, and they do not fail\" (6:61). Scholars harmonise the two by explaining that the angel of death is assisted by others. The name 'Azra'il, common in popular speech, is not in the Quran, nor in the authentic hadith; it comes from later tradition." },
+        { "p": "The verb the Quran uses for death is *tawaffā*: to take something in full, as a creditor receives the whole of a debt. Death is not described as an ending but as a receiving. And the same verb is used for sleep:" },
+        { "verse": "39:42" },
+        { "p": "Each night is a small rehearsal. The soul is taken and, for most of us, released again \"for a specified term\". Ibn Kathir and others note that this is why the Prophet ﷺ taught a supplication on waking that thanks Allah for giving life back after death, reported in al-Bukhari." },
+        { "p": "The manner of taking differs. For the good, the angels come with peace: \"[being] good and pure; [the angels] will say, 'Peace be upon you. Enter Paradise for what you used to do'\" (16:32). For the arrogant, the Quran pictures angels with hands outstretched, ordering the souls out to a punishment of humiliation (6:93), and in 8:50, striking faces and backs. A long report from al-Bara' ibn 'Azib, in the Musnad of Ahmad and in Abu Dawud, develops this contrast in detail, a soul that flows out gently like water from a skin, and one that is torn out; many scholars accept it as authentic." },
+        { "p": "What the soul *is*, the Quran declines to say. \"They ask you about the soul. Say, 'The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little'\" (17:85). Ibn al-Qayyim wrote an entire book, *Kitab al-Ruh*, on the soul's state after death, and still the verse stands over the whole subject as a limit." }
+      ]
     },
     {
-      "ref": "3:169-170",
-      "context": "Madinan, after the losses at Uhud (3 AH).",
-      "point": "Those killed in Allah's cause are not dead but alive with their Lord, provided for and rejoicing. How, we do not perceive (2:154).",
-      "label": "stated"
+      "lens": "text",
+      "title": "Behind Them, a Barrier",
+      "blocks": [
+        { "p": "The single verse that names the stage after death comes in the middle of a plea:" },
+        { "verse": "23:99-100" },
+        { "p": "\"Send me back.\" It is the one wish the Quran puts most often in the mouths of the dying, and it is never a wish for wealth or pleasure. It is always a wish to do good: \"if only You would delay me for a brief term so I would give charity and be among the righteous\" (63:10). The answer is *kallā*, a firm \"No\". \"It is only a word he is saying.\" And then the stage is named." },
+        { "word": { "ar": "بَرْزَخ", "tr": "barzakh", "root": ["ب", "ر", "ز", "خ"], "meaning": "A barrier between two things", "nuance": "A rare four-letter root, used only three times in the Quran. Twice it is the unseen barrier that keeps two seas from overrunning each other (55:19-20, 25:53); once it is the stage between death and Resurrection (23:100). The image fits: the dead are near us, as one sea lies against another, yet nothing crosses back." } },
+        { "p": "Notice the direction in the Arabic: *min warā'ihim*, literally \"behind them\", though many commentators explain it as \"ahead of them\", since *warā'* can face either way. The barrier stands between the dead and this world; they cannot return. It lasts \"until the Day they are resurrected\". That is almost all the Quran itself says." },
+        { "p": "It does hint at how the barzakh feels from inside. When the Horn is blown, people will ask, \"Who has raised us up from our sleeping place?\" (36:52). Asked how long they stayed, they will say \"a day or part of a day\" (23:113), or swear \"they had remained but an hour\" (30:55). However long the barzakh lasts by the clock of this world, it seems short to those who pass through it." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "The Grave: Text, Hadith and Lore",
+      "blocks": [
+        { "p": "Much of what Muslims learn as children about the grave, its questions, its angels, its widening or narrowing, comes not from the Quran but from hadith. That does not make it less important to Sunni belief, which holds authentic hadith as revelation in meaning. It does mean it is worth knowing where each piece comes from." },
+        { "figure": { "kind": "compare", "title": "Where each belief about the barzakh comes from", "left": { "title": "The Quran states", "items": ["A barrier until the Resurrection (23:100)", "Pharaoh's people shown the Fire morning and evening, before the Hour (40:46)", "Nuh's people drowned and \"put into the Fire\" (71:25)", "Martyrs alive with their Lord, provided for (3:169)", "Believers kept firm by \"the firm word\" in the Hereafter (14:27)"] }, "right": { "title": "Authentic hadith add", "items": ["The questioning: Who is your Lord, your religion, your prophet? (al-Bukhari, Muslim)", "14:27 explained as the answer in the grave (al-Bukhari)", "Each soul shown its final place morning and evening (al-Bukhari, Muslim)", "The Prophet ﷺ seeking refuge from the punishment of the grave (al-Bukhari, Muslim)", "The angels named Munkar and Nakir (al-Tirmidhi)"] } } },
+        { "p": "From 40:46, scholars drew a careful inference. The Fire is shown to Pharaoh's people \"morning and evening\", and only \"the Day the Hour appears\" are they made to enter it. Something, then, happens before the Hour. Hadith in al-Bukhari and Muslim say the same of every soul: its final place is shown to it, morning and evening, until the Resurrection." },
+        { "p": "What the hadith emphasise is striking. Al-Bukhari and Muslim report that the Prophet ﷺ passed two graves and said that both occupants were being punished, and not for anything people would count as enormous: one used to spread malicious gossip, and the other was careless about cleanliness after relieving himself. The teaching about the grave is aimed less at the imagination than at daily conduct, the tongue and the small habits no one else sees." },
+        { "p": "Then there is a third layer, which comes from neither. The belief that the soul wanders its home for forty days, that the dead return on certain nights, that ghosts are restless souls, that set rituals must be held on the third, seventh or fortieth day: these are customs and folk beliefs found in many Muslim cultures, and most scholars regard them as without basis in the Quran or authentic Sunnah. The barzakh, in the Quran's own word, is a barrier." },
+        { "note": "Can the dead hear? Ibn 'Umar reported, in al-Bukhari, that after Badr the Prophet ﷺ addressed the dead of Quraysh and said the living heard him no better than they did. 'A'ishah disagreed with that reading, citing \"you cannot make hear those in the graves\" (35:22). Most scholars hold that the dead hear what Allah wills them to hear; others side with 'A'ishah. A similar debate surrounds the hadith that the dead are pained by the wailing of their families, which 'A'ishah questioned in the light of 6:164.", "title": "Where the companions differed" }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "If It Cannot Be Seen, Is It Real?",
+      "blocks": [
+        { "p": "The obvious objection deserves its full weight. Bodies decay. Graves, when opened, show nothing but bone and soil: no questioning angels, no widening or narrowing. Burial at sea and cremation leave no grave at all. Is the barzakh not simply a comforting story told over the dead?" },
+        { "p": "The Quran's answer starts by conceding the premise. It never claims the barzakh is visible. Of the martyrs it says \"they are alive, but you perceive [it] not\" (2:154). The barzakh is placed in the unseen, *al-ghayb*, by definition, so an empty grave is exactly what the Quran would predict. Classical theologians said the questioning concerns the soul, with whatever connection to the body Allah wills, in an order of reality that is not measured by our instruments." },
+        { "p": "Then it offers an analogy everyone has lived. A sleeper lies still in bed; an observer sees nothing at all. Meanwhile, inside, the sleeper may be running, weeping or laughing, and wakes with a pounding heart. The Quran itself pairs death and sleep (39:42). If a whole world can unfold in a sleeper unseen by the person beside him, the claim that the dead experience something we cannot observe is not incoherent. It is unverifiable, which is a different thing." },
+        { "p": "Unverifiable from here, the believer would add, but not unreasoned. The barzakh is part of a larger claim: that a just and wise God would not let the story of each life end at the grave, with the oppressor and the oppressed equally silent. If that larger claim is true, an interval between death and Resurrection is no harder to accept than the Resurrection itself. Whether it is true is the question of faith, and the Quran puts it to the reader honestly, as a matter of the unseen to be believed, not a sight to be shown." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "What Muslims Do When Someone Dies",
+      "blocks": [
+        { "p": "A Muslim funeral can surprise a non-Muslim friend by its speed and simplicity. Each part has a reason." },
+        { "figure": { "kind": "steps", "title": "From the last breath to the grave", "items": [{ "label": "At the bedside", "text": "Those present gently prompt the dying to say \"There is no god but Allah\", close the eyes and say \"To Allah we belong\" (2:156)." }, { "label": "Washing", "text": "The body is washed, an odd number of times, by family or members of the same sex." }, { "label": "Shrouding", "text": "Plain white cloth for everyone, rich or poor." }, { "label": "The funeral prayer", "text": "Prayed standing, with no bowing or prostration, asking forgiveness for the deceased." }, { "label": "Burial", "text": "Soon, usually within a day, in the earth, the body laid on its right side facing Makkah." }, { "label": "Afterwards", "text": "Three days of public mourning; neighbours bring food; the family is consoled and prayed for." }] } },
+        { "p": "The speed comes from the Prophet's ﷺ instruction, in al-Bukhari and Muslim, to hasten with funerals. The earth burial follows \"From the earth We created you, and into it We will return you, and from it We will extract you another time\" (20:55). This is also why Muslims do not cremate: the body is treated with the same dignity in death as in life, and returned whole to the ground it came from." },
+        { "p": "If you visit a Muslim family in mourning, you will hear the same few phrases. *Innā li-llāhi wa innā ilayhi rāji'ūn*, from 2:156, is said on hearing the news. To the bereaved people say, in the words the Prophet ﷺ himself used, that to Allah belongs what He took and what He gave, and everything has an appointed term with Him, so be patient and hope for reward. Loud wailing and tearing of clothes are discouraged; quiet tears are not. The Quran promises those who meet loss this way \"blessings from their Lord and mercy\" (2:157)." },
+        { "p": "Death does not end every account. A hadith in Muslim says that when a person dies, their deeds end except three: ongoing charity, beneficial knowledge, and a righteous child who prays for them. So Muslims build wells in their parents' names, fund schools, and pray for the dead in every prayer. The Prophet ﷺ also encouraged visiting graves, saying in a report in Muslim that it reminds you of the Hereafter. For anyone, Muslim or not, that is the practical heart of today: write the will, make the apology, start the charity that will outlast you." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "O Reassured Soul",
+      "blocks": [
+        { "p": "'A'ishah described the Prophet's ﷺ last moments in Madinah in 11 AH. Weak with fever, his head resting against her, he lifted his gaze and said, as al-Bukhari reports, \"with the highest companion\". He had been given the choice, and he chose the meeting." },
+        { "p": "That is the death the Quran holds out as possible. Not the death of the one who begs, \"My Lord, send me back,\" but of a soul that has nothing left undone that matters. Al-Fajr ends with the words that, for those who have lived for it, will greet them:" },
+        { "verse": "89:27-30" },
+        { "p": "*Al-nafs al-muṭma'innah*: the soul at rest, settled, no longer pulled in every direction. \"Return\", it is told, as though it were going home rather than going away. \"Well-pleased and pleasing\": pleased with what it finds, and found pleasing. It is invited in twice, among My servants, into My Paradise, with the possessive repeated each time as if Allah were opening His own door." },
+        { "p": "If you are grieving someone tonight, the Prophet's ﷺ tears give you permission to weep. If you are afraid of your own death, the Quran's honesty gives you somewhere to put the fear: not denial, but preparation. And each night, as the soul is taken in sleep, there is a small chance to rehearse the answer. Sleep with the words the Prophet ﷺ taught, reported in al-Bukhari: \"In Your name, O Allah, I die and I live.\"" }
+      ]
     }
   ],
-  "visual": {
-    "kind": "flow",
-    "title": "The journey of the soul",
-    "caption": "Five stages the Quran describes. You are at the second, the barzakh: a stage the Quran names but hardly describes.",
-    "here": 1,
-    "items": [
-      {
-        "label": "Death",
-        "text": "Every soul tastes it; angels take the soul.",
-        "ref": "3:185"
-      },
-      {
-        "label": "Barzakh",
-        "text": "A barrier until the Day of raising.",
-        "ref": "23:100"
-      },
-      {
-        "label": "Resurrection",
-        "text": "The Horn is blown; people rise from the graves.",
-        "ref": "36:51"
-      },
-      {
-        "label": "Judgment",
-        "text": "An atom's weight of good or evil is seen.",
-        "ref": "99:7-8"
-      },
-      {
-        "label": "The final home",
-        "text": "A party in Paradise, a party in the Blaze.",
-        "ref": "42:7"
-      }
-    ]
-  },
-  "word": {
-    "ar": "بَرْزَخ",
-    "tr": "barzakh",
-    "root": [
-      "ب",
-      "ر",
-      "ز",
-      "خ"
-    ],
-    "meaning": "A barrier between two things",
-    "nuance": "The Quran uses it for the unseen barrier that keeps two seas from overrunning each other (55:20) and for the stage between death and the Resurrection (23:100). The two meet: the dead are close to us yet kept apart, until the Day they are raised.",
-    "refs": [
-      "23:100",
-      "55:19-20"
-    ]
-  },
-  "mixup": {
-    "myth": "The Quran describes in detail the two angels who question the dead in the grave.",
-    "truth": "The Quran names the barzakh (23:100) and hints at what happens there (40:46). Al-Bukhari and Muslim report the Prophet ﷺ linking 14:27, \"Allah keeps firm those who believe, with the firm word\", to the questioning in the grave. Other details, including the angels' names Munkar and Nakir, come from further hadith reports, not the Quran.",
-    "refs": [
-      "14:27",
-      "23:100",
-      "40:46"
-    ]
-  },
-  "remember": [
-    "Every soul tastes death; angels take the soul, and the good are greeted with peace (16:32).",
-    "The barzakh is a barrier until the Resurrection; the Quran names it but describes it very little.",
-    "The questioning in the grave is taught in hadith; keep track of what comes from the Quran and what from hadith."
-  ],
-  "memorize": "89:27-28",
+  "carry": "89:27-28",
   "quiz": [
     {
-      "q": "What word does 23:100 use for the stage between death and resurrection?",
-      "options": [
-        "Barzakh, a barrier",
-        "Sirat, a bridge",
-        "Mizan, a scale",
-        "A'raf, the heights"
-      ],
+      "q": "What does 23:100 call the stage between death and resurrection?",
+      "options": ["Barzakh, a barrier", "Sirat, a bridge", "Mizan, a scale", "A'raf, the heights"],
       "answer": 0,
-      "why": "23:100: \"behind them is a barrier until the Day they are resurrected.\" The Arabic word is barzakh."
+      "why": "23:100: \"behind them is a barrier until the Day they are resurrected.\" The Arabic word is barzakh, also used for the barrier between two seas (55:20)."
     },
     {
       "q": "According to 39:42, when else does Allah take the souls, besides at death?",
-      "options": [
-        "During prayer",
-        "During sleep",
-        "During illness",
-        "During travel"
-      ],
+      "options": ["During prayer", "During sleep", "During illness", "During travel"],
       "answer": 1,
-      "why": "39:42: \"Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep.\""
+      "why": "39:42: \"Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep.\" Each night is a small taking and returning."
     },
     {
-      "q": "When people asked the Prophet ﷺ about the soul, what was he told to say (17:85)?",
-      "options": [
-        "It is made of light",
-        "It passes into another body",
-        "It is of the affair of my Lord, and people are given little knowledge"
-      ],
+      "q": "Which of these comes from hadith rather than from the Quran's own text?",
+      "options": ["The barrier until the Resurrection", "Pharaoh's people shown the Fire morning and evening", "The names Munkar and Nakir for the questioning angels", "Martyrs alive with their Lord"],
       "answer": 2,
-      "why": "17:85: \"The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little.\""
+      "why": "The Quran states the barzakh (23:100), the exposure of Pharaoh's people (40:46) and the life of martyrs (3:169). The angels' names come from a hadith in al-Tirmidhi."
+    },
+    {
+      "q": "What did the Prophet ﷺ say when people linked the eclipse to his son Ibrahim's death?",
+      "options": ["That heaven was mourning with him", "That the sun and moon are not eclipsed for anyone's death or life", "That it was a punishment", "Nothing at all"],
+      "answer": 1,
+      "why": "Al-Bukhari and Muslim report that he said the sun and moon are signs of Allah, not eclipsed for anyone's death or life, and told people to pray. Even his own grief was not allowed to bend the truth."
     }
   ],
-  "reflect": "39:42 describes each night's sleep as a small taking of the soul. What would you like to say to Allah before you sleep tonight?",
-  "deeper": [
-    "3:185",
-    "16:32",
-    "6:93",
-    "8:50",
-    "32:11",
-    "39:42",
-    "17:85",
-    "2:154",
-    "75:26-30",
-    "14:27",
-    "50:19"
-  ],
+  "reflect": "39:42 describes each night's sleep as a small taking of the soul. If you were given the chance the dying ask for in 23:99, \"send me back\", what is the first thing you would do? What stops you doing it now?",
+  "deeper": ["3:185", "16:32", "6:93", "8:50", "32:11", "39:42", "17:85", "2:154", "75:26-30", "14:27", "50:19", "63:10-11"],
   "links": [
-    {
-      "label": "What happens when you die?",
-      "href": "/learn/what-happens-when-you-die-in-islam"
-    },
-    {
-      "label": "Angels in Islam",
-      "href": "/learn/angels-in-islam"
-    },
-    {
-      "label": "Read Surah Al-Waqi'ah",
-      "href": "/surah/al-waqiah"
-    }
+    { "label": "What happens when you die?", "href": "/learn/what-happens-when-you-die-in-islam" },
+    { "label": "Angels in Islam", "href": "/learn/angels-in-islam" },
+    { "label": "Read Surah Al-Waqi'ah", "href": "/surah/al-waqiah" }
   ],
-  "connections": [
-    4,
-    19,
-    20,
-    21,
-    22
-  ],
+  "connections": [4, 19, 20, 21, 22],
   "status": "draft"
 }

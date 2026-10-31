@@ -2,214 +2,159 @@
   "day": 11,
   "title": "Maryam and 'Isa",
   "question": "Who is Jesus in the Quran, and why is his mother so honoured?",
-  "emblem": "palm",
-  "intro": [
-    "Maryam (Mary) is the only woman named in the Quran, and a whole surah carries her name. Her son 'Isa (Jesus) is called the Messiah, a word from Allah, and one of the greatest messengers. Muslims love and honour them both.",
-    "Today you will meet the family of 'Imran, Maryam's devotion in the place of prayer, the birth of 'Isa without a father, and his miracles by Allah's permission. You will also see what the Quran affirms about him and where it parts from Christian belief, with care for the verses Muslim scholars themselves read in different ways."
-  ],
-  "passages": [
+  "summary": "Meet Maryam, the only woman named in the Quran, and her son 'Isa, the Messiah: his birth, his first words, his miracles, and where the Quran agrees and parts with Christian belief.",
+  "cover": {
+    "alt": "A lone date palm beside a small stream in a quiet desert valley at dawn",
+    "prompt": "A single tall date palm heavy with ripe dates stands beside a thin clear stream in a remote, quiet valley at dawn, low hills to the east glowing with first light, the sky pale gold and rose."
+  },
+  "chapters": [
     {
-      "ref": "3:42-43",
-      "context": "Maryam grew up in the care of Zakariya, devoted to worship in her prayer chamber (3:37).",
-      "point": "The angels tell her she is chosen and purified \"above the women of the worlds\". Her greatness is her devotion: bow and prostrate with those who bow.",
-      "label": "stated"
-    },
-    {
-      "ref": "19:30-33",
-      "context": "Her people accused her when she returned with a baby, and she pointed to him (19:27-29).",
-      "point": "The newborn speaks, and his first words are \"I am the servant of Allah\". He names his gifts: scripture, prophethood, prayer, and kindness to his mother.",
-      "label": "stated"
-    },
-    {
-      "ref": "4:157-158",
-      "context": "Follows \"a great slander\" against Maryam (4:156).",
-      "point": "The Quran denies that 'Isa was killed or crucified: it \"was made to resemble him to them\", and Allah raised him to Himself.",
-      "label": "differ",
-      "note": "Most scholars read it as another man given his likeness, with 'Isa raised alive. A minority, citing 3:55, read a natural death and a raising in honour."
-    },
-    {
-      "ref": "43:61",
-      "context": "From a passage calling 'Isa \"a servant upon whom We bestowed favor\" (43:59).",
-      "point": "'Isa is tied to knowledge of the Hour. Many Muslims understand this as his return before the end.",
-      "label": "differ",
-      "note": "Many scholars, following reports from Ibn 'Abbas, read it as his descent before the Hour, which hadith in al-Bukhari and Muslim describe. Others read \"it\" as the Quran."
-    }
-  ],
-  "visual": {
-    "kind": "ledger",
-    "title": "What the Quran says about 'Isa",
-    "caption": "Much of the left column is shared with Christians: the virgin birth, the Messiah, the miracles. The right column marks where the Quran parts ways, always insisting that 'Isa himself taught the worship of Allah alone (5:117).",
-    "left": {
-      "title": "The Quran affirms",
-      "items": [
-        {
-          "label": "Virgin birth",
-          "text": "\"No man has touched me.\" Allah says, \"Be.\"",
-          "ref": "3:47"
-        },
-        {
-          "label": "The Messiah",
-          "text": "His title, given before his birth.",
-          "ref": "3:45"
-        },
-        {
-          "label": "A word from Allah",
-          "text": "\"His word which He directed to Mary.\"",
-          "ref": "4:171"
-        },
-        {
-          "label": "Spoke as a baby",
-          "text": "\"I am the servant of Allah.\"",
-          "ref": "19:30"
-        },
-        {
-          "label": "Miracles by permission",
-          "text": "Healing the blind and the leper, raising the dead.",
-          "ref": "3:49"
-        },
-        {
-          "label": "Raised to Allah",
-          "text": "\"Allah raised him to Himself.\"",
-          "ref": "4:158"
-        }
+      "lens": "story",
+      "title": "A Christian King Hears Surah Maryam",
+      "blocks": [
+        { "p": "Around 615 CE, some eighty Muslims who could no longer bear the persecution in Makkah crossed the Red Sea to Abyssinia, the Christian kingdom of Aksum in what is now Ethiopia. The Prophet ﷺ had told them its king was a just man under whom no one was wronged. The biographies, drawing on the account of Umm Salamah who was among them, report what happened next." },
+        { "p": "Makkah sent two envoys after them, with gifts of leather for the king and his bishops, to ask for the refugees back. The king, known to Arabic sources by his title *al-Najashi*, refused to judge without hearing the accused, and summoned them to his court." },
+        { "p": "Their spokesman, the Prophet's ﷺ young cousin Ja'far ibn Abi Talib, described the life they had left, of idols and the strong devouring the weak, and the call to worship one God. The king asked to hear something of the revelation. Ja'far recited the opening of Surah Maryam." },
+        { "p": "The biographies say the king wept until his beard was wet, and his bishops wept over their scrolls. This and what Jesus brought, he said, came from the same source of light. The next day the envoys tried again: ask them what they say about Jesus. Ja'far answered with the Quran's words: the servant of Allah, His messenger, His spirit and His word cast into Mary the virgin. The king picked up a stick from the ground and said Jesus was not more than that by the length of this stick." },
+        { "p": "The scene holds the whole of today's lesson. The Quran's account of Jesus and Mary moved a Christian king to tears, and the same account contains the points where Muslims and Christians part. Both deserve to be heard plainly." }
       ]
     },
-    "right": {
-      "title": "The Quran rejects",
-      "items": [
-        {
-          "label": "Son of God",
-          "text": "\"It is not [befitting] for Allah to take a son.\"",
-          "ref": "19:35"
-        },
-        {
-          "label": "\"Three\"",
-          "text": "\"Allah is but one God.\"",
-          "ref": "4:171"
-        },
-        {
-          "label": "Worship of him",
-          "text": "He never told people to worship him or Maryam.",
-          "ref": "5:116"
-        },
-        {
-          "label": "That he was killed",
-          "text": "\"They did not kill him.\"",
-          "ref": "4:157"
-        },
-        {
-          "label": "That he was crucified",
-          "text": "\"Nor did they crucify him.\"",
-          "ref": "4:157"
-        },
-        {
-          "label": "Slander of Maryam",
-          "text": "Called \"a great slander\" against her.",
-          "ref": "4:156"
-        }
+    {
+      "lens": "text",
+      "title": "A Daughter Promised to the Temple",
+      "blocks": [
+        { "p": "Maryam's story in the Quran begins before she exists. Surah Al 'Imran, the third surah, is named after her family, *Al 'Imran*, the family of 'Imran, and it opens her story with a mother's vow." },
+        { "verse": "3:35-36" },
+        { "p": "Her mother pledges the child to the service of the temple, *muharraran*, literally \"set free\": freed from every other claim to belong to Allah alone. She expects a son, since temple service was for men. A daughter is born. Then comes a quietly striking line: \"And the male is not like the female.\" In the mother's mouth it sounds like apology. Many commentators read it as Allah's own aside: this girl will be greater than any son she hoped for." },
+        { "p": "She asks protection for her daughter from Satan. The Prophet ﷺ said, in al-Bukhari and Muslim, that every newborn is touched by Satan at birth and cries out, except Maryam and her son. The prayer was answered." },
+        { "p": "Zakariya, her guardian, finds food with her each time he enters her prayer chamber, the *mihrab*. \"O Mary, from where is this [coming] to you?\" \"It is from Allah\" (3:37). A girl teaches an elderly prophet about provision, and right there Zakariya prays for a child of his own (3:38). His son Yahya, John, is born of that moment." },
+        { "verse": "3:42-43" },
+        { "p": "*Chosen*, then *purified*, then *chosen* again, this time \"above the women of the worlds\". And the command that follows is simple: worship, prostrate, bow with those who bow. Her greatness is devotion. In al-Bukhari the Prophet ﷺ said that many men reached perfection, but among women only Maryam daughter of 'Imran and Asiyah the wife of Pharaoh. She is the only woman the Quran calls by name, and her name appears in it more than thirty times." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "Under the Palm Tree",
+      "blocks": [
+        { "p": "Surah Maryam, the nineteenth, was revealed in Makkah, years before Al 'Imran. It tells the birth itself, and tells it with a closeness found nowhere else. Maryam withdraws to a place to the east and screens herself. A messenger appears as a man, and her first words are a prayer for protection: \"I seek refuge in the Most Merciful from you\" (19:18). He tells her of a pure boy. She asks how, when no man has touched her. The answer: \"It is easy for Me\" (19:21)." },
+        { "verse": "19:22-26" },
+        { "image": "day-11-palm", "alt": "A palm trunk beside a narrow stream in a remote valley, ripe dates on the ground", "caption": "\"Shake toward you the trunk of the palm tree\" (19:25)", "prompt": "The thick trunk of a solitary date palm in a remote rocky valley, a narrow clear stream running at its base, clusters of ripe golden dates fallen on smooth stones, soft morning light and long shadows." },
+        { "p": "The Quran does not hide her pain. Labour drives her to a palm trunk, and she wishes she had died and been forgotten. It is the cry of a young woman alone who knows what her people will say. The answer comes \"from below her\": the voice of the newborn, say many commentators, or of the angel, say others. It begins with the words every grieving person needs, *la tahzani*, \"do not grieve\"." },
+        { "p": "Then the details. A stream. Dates. And an instruction scholars love: shake the trunk. No woman in labour can shake a full-grown palm, and Allah could have dropped the dates without her. The lesson they draw: provision comes from Allah, and still the believer reaches for it." },
+        { "p": "She is told to keep a vow of silence and let the child answer for her. She will need it. She must now walk home carrying a baby." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The First Words of a Newborn",
+      "blocks": [
+        { "p": "Her people meet her with the accusation she feared: \"O sister of Aaron, your father was not a man of evil, nor was your mother unchaste\" (19:28). \"Sister of Aaron\" puzzled some later readers, since Aaron lived centuries earlier. A hadith in Sahih Muslim answers it: people used to name themselves after the prophets and righteous ones before them. She is of Aaron's priestly line and his likeness in piety. She says nothing. She points to the child." },
+        { "verse": "19:30-34" },
+        { "p": "Read the order. The first word 'Isa speaks in the Quran is *'abd*, servant. Then the gifts: Scripture, prophethood, blessing. Then the duties: prayer, *zakah* (the obligatory charity), kindness to the mother whose honour he has just defended. Then peace on three days: birth, death, resurrection. Almost the same words were said of Yahya (19:15)." },
+        { "p": "Then the Quran speaks in its own voice and names the dispute before answering it (19:35-36)." },
+        { "word": { "ar": "عَبْدٌ", "tr": "ʿabd", "root": ["ع", "ب", "د"], "meaning": "Servant, worshipper of Allah", "nuance": "In the Quran, being Allah's ʿabd is the highest honour, never a lowering. It is the first thing 'Isa says of himself (19:30), and the Messiah would \"never disdain\" it (4:172). The Prophet Muhammad ﷺ is called \"His Servant\" at the summit of the Night Journey (17:1). The same root gives ʿibādah, worship: to serve is to worship." } }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "Messiah, Word and Spirit",
+      "blocks": [
+        { "p": "The Quran gives 'Isa titles it gives no one else. He is named twenty-five times, and called *al-Masih*, the Messiah, eleven times. Muslim scholars explain the title in several ways: the anointed one, or the one whose touch healed, from *masaha*, to wipe or stroke. The angels announce it to Maryam before he is born." },
+        { "verse": "3:45" },
+        { "p": "He is \"a word from Him\", *kalimah minhu*. Al-Tabari and most commentators explain this by Allah's answer to Maryam two verses later: he came into being by the word \"Be\", without a father (3:47). In 4:171 he is also \"a soul from Him\", *ruh minhu*, and scholars point out that the Quran uses similar language of Adam, into whom Allah breathed \"of My spirit\" (15:29). The titles mark him out as created in an extraordinary way. They do not, in the Quran's reading, make him a part of Allah." },
+        { "p": "His miracles are listed twice (3:49, 5:110), with a refrain. Birds shaped from clay that fly when he breathes into them, the blind and the leper healed, the dead raised: each one \"by permission of Allah\". In 5:110 the phrase \"with My permission\" occurs four times in a single verse. The Quran affirms these miracles fully, more boldly than many readers expect, and in the same breath says whose power they show. He was also given a book, the *Injil*, the Gospel, \"in which was guidance and light\" (5:46). His disciples, *al-hawariyyun*, answer his call: \"We are supporters for Allah\" (3:52)." },
+        { "p": "One more announcement is his. He tells the Children of Israel that he confirms the Torah and brings good news of a messenger after him \"whose name is Ahmad\" (61:6), a name Muslims understand as the Prophet Muhammad ﷺ." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Where Two Faiths Part, Plainly Stated",
+      "blocks": [
+        { "p": "A Christian reader will have recognised much: the virgin birth, the Messiah, the miracles, the Gospel. The difference lies at the centre, in who Jesus is, and each view deserves stating at full strength." },
+        { "p": "The Christian case: Jesus is the Son of God, the Word made flesh. A birth without a father, power over death, the title \"Word\": surely these point beyond a human prophet." },
+        { "p": "The Quran's answer is an argument from creation. If birth without a father makes someone divine, what of Adam, who had neither father nor mother?" },
+        { "verse": "3:59" },
+        { "p": "The verse came, the commentators report, in Madinah, during the visit of a delegation of Christians from Najran who debated with the Prophet ﷺ in his mosque. Its logic is simple: the wonder of Jesus' birth proves Allah's power, and the same word \"Be\" made both men. Then the Quran addresses Christians directly and gently, as fellow People of the Scripture, *ahl al-kitab*:" },
+        { "verse": "4:171" },
+        { "p": "\"Do not commit excess in your religion.\" The charge is not that Christians love Jesus too much, but that honour has crossed into worship. The Quran also calls Jesus himself as witness. On the Day of Judgement Allah will ask him whether he told people to take him and his mother as gods, and he will answer: \"I said not to them except what You commanded me - to worship Allah, my Lord and your Lord\" (5:117). His last words in that scene plead for mercy on his followers (5:118)." },
+        { "figure": { "kind": "compare", "title": "Jesus in the Quran", "left": { "title": "Shared with Christians", "items": ["Born of a virgin (3:47)", "The Messiah (3:45)", "A word from Allah (4:171)", "Healed the blind and the leper, raised the dead (3:49)", "Given the Gospel (5:46)", "Will return before the end (43:61, as most scholars read it)"] }, "right": { "title": "Where the Quran differs", "items": ["Not the Son of God (19:35)", "Not one of \"three\" (4:171)", "Never asked to be worshipped (5:116-117)", "Not killed or crucified (4:157)", "A servant and messenger (19:30)", "His creation is like Adam's (3:59)"] } } },
+        { "p": "None of this is settled by argument alone; each faith rests on trust in a scripture. What argument can do is make each claim clear, and the Quran's is clear: Jesus was greater than most people suppose, and he was a man." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "\"They Did Not Kill Him\"",
+      "blocks": [
+        { "p": "The single sharpest difference concerns the end of his time on earth. The Quran mentions it once, in a passage rebuking those who boasted of killing him." },
+        { "verse": "4:157-158" },
+        { "p": "The verses deny two things, killing and crucifixion, and affirm one: Allah raised him to Himself. What they leave unexplained is the phrase *shubbiha lahum*, \"it was made to appear so to them\". Here the commentators genuinely differ, and the Quran itself gives no further detail." },
+        { "note": "The majority view, held by al-Tabari, Ibn Kathir and most classical scholars, is that another man was given Jesus' likeness and crucified in his place, while Jesus was raised bodily and alive. Reports differ on who that man was, and none of them comes from the Quran. Some scholars read the phrase more loosely: the event was made confusing to the onlookers. A minority, mostly modern, read 3:55 (\"I will take you\", *mutawaffika*) as a natural death followed by a raising in honour. Most answer that *tawaffa* means to take something in full, used also for sleep (39:42), and that hadith confirm his return.", "title": "Where scholars differ" },
+        { "p": "That return is firm belief for most Muslims. The Prophet ﷺ said, in al-Bukhari and Muslim, that the son of Mary would descend as a just judge and break the cross, which scholars explain as ending the misunderstandings about himself. Many commentators, following Ibn 'Abbas, find this in a verse about the Hour." },
+        { "verse": "43:61" },
+        { "p": "Others read the \"it\" of that verse as the Quran itself. The Arabic allows both. For the Muslim who believes in his return, the story of Jesus is not finished: he is a prophet still to come back." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "When No One Will Believe You",
+      "blocks": [
+        { "p": "Return to the palm tree. Before the speaking child, before the vindication, a young woman says, \"I wish I had died before this.\" The Quran preserves that sentence. It does not edit her into a saint who never felt despair, and Allah's answer is not a rebuke. It is water, food, and *do not grieve*." },
+        { "p": "Perhaps you know what it is to carry something no one around you will understand: a grief, an illness, a decision, a faith. Maryam's story says that the loneliest place can be where provision arrives. Her words in the prayer chamber become a creed: \"Indeed, Allah provides for whom He wills without account\" (3:37)." },
+        { "p": "Notice what she is asked to do in the hardest moment. Eat. Drink. Be content. Say nothing, and let Allah speak for you. There is dignity in silence when you are falsely accused, and trust in it. The Quran sums up her life in one line: she \"believed in the words of her Lord and His scriptures and was of the devoutly obedient\" (66:12)." },
+        { "p": "A prayer from the same family, the words of her mother, can be your own when you begin anything you hope Allah will accept: \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing\" (3:35). Replace the womb with whatever you are carrying." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Honouring Jesus at the Kitchen Table",
+      "blocks": [
+        { "p": "If you have Muslim friends, you may have noticed that they will not hear Jesus mocked, that they name children 'Isa and Maryam, and that they say *'alayhis-salam*, \"peace be upon him\", after his name. This is belief, not politeness: the Quran tells Muslims to declare faith in what was given to Moses and Jesus and to \"make no distinction between any of them\" (2:136). A Muslim who rejected Jesus would cease to be a Muslim." },
+        { "p": "The Prophet ﷺ said, in al-Bukhari, that he was the closest of all people to the son of Mary, and that the prophets are brothers whose religion is one. The Quran calls Christians \"the nearest of them in affection to the believers\", because among them are priests and monks who \"are not arrogant\" (5:82)." },
+        { "list": [
+          "For a Muslim reader: learn 19:16-36 well enough to tell the story yourself. Many Muslims know less about Maryam than their Christian neighbours expect.",
+          "When conversations turn to belief, start with what you share, as the Quran does: \"come to a word that is equitable between us and you\" (3:64).",
+          "For a Christian reader: you will find no insult to Jesus or Mary in the Quran. You will find a different account of who he is, offered as a call to worship one God."
+        ] },
+        { "p": "Keep the Najashi's stick in mind. Two communities stand very close, honouring the same man and the same mother. The distance between them is real, and Muslims believe it matters eternally. It can still be discussed with respect, as it was in a king's court fourteen centuries ago." }
       ]
     }
-  },
-  "word": {
-    "ar": "عَبْدٌ",
-    "tr": "ʿabd",
-    "root": [
-      "ع",
-      "ب",
-      "د"
-    ],
-    "meaning": "Servant, worshipper of Allah",
-    "nuance": "In the Quran, being Allah's ʿabd is the highest honour, not a lowering. It is the first thing 'Isa says of himself (19:30), and the Messiah would \"never disdain\" it (4:172). The Prophet ﷺ is called \"His Servant\" on the Night Journey (17:1). The same root gives ʿibādah, worship.",
-    "refs": [
-      "19:30",
-      "4:172",
-      "17:1"
-    ]
-  },
-  "mixup": {
-    "myth": "Muslims do not believe in Jesus.",
-    "truth": "Believing in 'Isa as a prophet and the Messiah is part of Muslim faith. The Quran tells believers to say they believe in what was given to Moses and Jesus, making \"no distinction between any of them\" (2:136). Muslims honour 'Isa and Maryam deeply; they do not worship them.",
-    "refs": [
-      "2:136",
-      "3:45",
-      "5:46"
-    ]
-  },
-  "remember": [
-    "Maryam is chosen \"above the women of the worlds\" and is the only woman named in the Quran (3:42).",
-    "'Isa was born without a father, as Adam was created without either (3:59): a messenger, the Messiah, and the servant of Allah.",
-    "The Quran says he was not killed or crucified but raised to Allah; most scholars, citing hadith, hold he will return before the Hour."
   ],
-  "memorize": "3:59",
+  "carry": "3:59",
   "quiz": [
     {
-      "q": "What were the first words 'Isa spoke as a baby?",
-      "options": [
-        "\"Peace be upon you.\"",
-        "\"Worship me and my mother.\"",
-        "\"My mother is innocent.\"",
-        "\"I am the servant of Allah.\""
-      ],
-      "answer": 3,
-      "why": "19:30: \"Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.\""
-    },
-    {
-      "q": "To whom does the Quran compare 'Isa's creation?",
-      "options": [
-        "Adam",
-        "Yahya",
-        "Ibrahim"
-      ],
-      "answer": 0,
-      "why": "3:59: \"the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was.\""
-    },
-    {
-      "q": "What does 4:157-158 say happened to 'Isa?",
-      "options": [
-        "He was crucified and rose on the third day",
-        "He was not killed or crucified; Allah raised him to Himself",
-        "He escaped to another land and lived in hiding",
-        "He died of old age in Jerusalem"
-      ],
+      "q": "What is the first thing 'Isa says of himself when he speaks from the cradle?",
+      "options": ["That his mother is innocent", "That he is the servant of Allah", "That he is the Messiah", "That peace is upon him"],
       "answer": 1,
-      "why": "4:157-158: \"they did not kill him, nor did they crucify him... Rather, Allah raised him to Himself.\" Scholars differ on the details, but not on this denial."
+      "why": "19:30: \"Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.\" His first word in the Quran is 'abd, servant, the title the Quran treats as the highest honour."
+    },
+    {
+      "q": "How does 3:59 answer the idea that a fatherless birth makes Jesus divine?",
+      "options": ["It says Jesus had a human father after all", "It compares him to Adam, created with neither father nor mother by the word \"Be\"", "It says miracles prove nothing", "It says only the angels are created without parents"],
+      "answer": 1,
+      "why": "3:59: \"the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was.\" A wonder of creation shows the Creator's power, not the creature's divinity."
+    },
+    {
+      "q": "Why do the miracles of 'Isa in 3:49 and 5:110 repeat the phrase \"by permission of Allah\"?",
+      "options": ["To cast doubt on whether they happened", "To affirm the miracles fully while making clear whose power they show", "Because they were performed by the angels", "Because the disciples performed them"],
+      "answer": 1,
+      "why": "The Quran affirms clay birds, healing and raising the dead, and in 5:110 says \"with My permission\" four times in one verse: real miracles, performed by a messenger through Allah's power."
+    },
+    {
+      "q": "On what point about 4:157-158 do Muslim scholars agree, despite differing on details?",
+      "options": ["That Jesus died of old age", "That Jesus escaped to another country", "That he was not killed or crucified, and Allah raised him", "That the Quran says nothing about his end"],
+      "answer": 2,
+      "why": "The verses say plainly \"they did not kill him, nor did they crucify him\" and \"Allah raised him to Himself\". Scholars differ on what \"made to resemble him\" means, not on this denial."
     }
   ],
-  "reflect": "When Zakariya asked Maryam where her provision came from, she said, \"It is from Allah\" (3:37). Where have you found unexpected help in a lonely time?",
-  "deeper": [
-    "3:33-63",
-    "19:16-40",
-    "5:110-118",
-    "4:171-172",
-    "5:46",
-    "61:6",
-    "3:55",
-    "66:12"
-  ],
+  "reflect": "Maryam was told \"do not grieve\" at the moment she felt most alone (19:24). When have you found help, or calm, in a time when no one around you understood what you carried?",
+  "deeper": ["3:33-63", "19:16-40", "5:110-118", "4:171-172", "5:46", "61:6", "3:55", "66:12"],
   "links": [
-    {
-      "label": "Jesus in the Quran",
-      "href": "/learn/jesus-in-the-quran"
-    },
-    {
-      "label": "Mary in the Quran",
-      "href": "/learn/mary-in-the-quran"
-    },
-    {
-      "label": "'Isa on the timeline",
-      "href": "/timeline/prophets/isa"
-    },
-    {
-      "label": "Read Surah Maryam",
-      "href": "/surah/maryam"
-    }
+    { "label": "Jesus in the Quran", "href": "/learn/jesus-in-the-quran" },
+    { "label": "Mary in the Quran", "href": "/learn/mary-in-the-quran" },
+    { "label": "'Isa on the timeline", "href": "/timeline/prophets/isa" },
+    { "label": "Read Surah Maryam", "href": "/surah/maryam" }
   ],
-  "connections": [
-    6,
-    16,
-    17,
-    19
-  ],
+  "connections": [6, 16, 17, 19],
   "review": true,
   "status": "draft"
 }

@@ -1,215 +1,167 @@
 {
   "day": 13,
-  "title": "Makkah",
+  "title": "Makkah: Thirteen Years of the Call",
   "question": "How did an orphan in Makkah become the Messenger of Allah?",
-  "emblem": "cave",
-  "intro": [
-    "Muhammad ﷺ was born in Makkah around 570 CE. His father died before his birth and his mother when he was six; his grandfather, then his uncle Abu Talib, raised him. Known as trustworthy, he married Khadijah and lived quietly until, at about forty, revelation came in the cave of Hira.",
-    "Thirteen years in Makkah followed: a quiet call to family and friends, then an open call met with mockery, torture and a boycott. In one year he lost both Khadijah and Abu Talib. Then came the Night Journey and, at last, the Hijra, his migration to Madinah. The surahs of these years are short, vivid and full of comfort."
-  ],
-  "passages": [
+  "summary": "Follow the Prophet ﷺ from an orphaned childhood to the cave of Hira, the open call, persecution, the Year of Grief and the Night Journey, and the Hijra, through the short, burning surahs revealed along the way.",
+  "cover": {
+    "alt": "The valley of Makkah at first light, a simple cube-shaped shrine among mud-brick houses and bare mountains",
+    "prompt": "The narrow dry valley of seventh-century Makkah at first light, a simple stone cube shrine at its centre surrounded by low mud-brick houses, bare dark granite mountains on every side, thin smoke from a few cooking fires, a pale gold sky."
+  },
+  "chapters": [
     {
-      "ref": "93:3-8",
-      "context": "Reports in al-Bukhari say it came when revelation was delayed and someone taunted that his Lord had left him.",
-      "point": "Allah reassures him: not abandoned, not disliked. He was an orphan given refuge, lost and guided, poor and made sufficient.",
-      "label": "stated"
+      "lens": "text",
+      "title": "By the Morning Brightness",
+      "blocks": [
+        { "p": "Early in his mission, revelation stopped coming for a time. Reports in al-Bukhari say that a woman of Makkah mocked the Prophet ﷺ: it seemed his companion had abandoned him. For a man who had staked everything on the voice from heaven, the silence was its own trial. Then came a surah of eleven verses that opens with the light of morning." },
+        { "verse": "93:1-8" },
+        { "p": "The oath sets the scene. Morning after night: the darkness of the pause, then light. Then two denials, each a single word in Arabic: *ma wadda'aka*, He has not said farewell to you, *wa ma qala*, nor has He come to dislike you." },
+        { "p": "Then the surah turns to evidence, and the evidence is his own life. *Did He not find you an orphan?* Allah answers the fear of abandonment by pointing backwards: you have been held from the beginning. Orphan, then sheltered. Lost, then guided. Poor, then enriched. Each pair is a chapter of his biography in two words." },
+        { "p": "The surah ends with duties that grow from those memories: do not oppress the orphan, do not turn away the one who asks, and speak of your Lord's favour (93:9-11). A man who was once an orphan must never forget what it felt like. Almost everything else we know about the first forty years of his life comes not from the Quran but from the biographies, the *sira*, compiled from earlier reports by scholars such as Ibn Ishaq in the 8th century. The next chapter follows them." }
+      ]
     },
     {
-      "ref": "74:1-5",
-      "context": "Reports in al-Bukhari place it soon after the first revelation, following a pause.",
-      "point": "\"Arise and warn\": the call begins. The first orders are to glorify his Lord, purify his clothing and leave all uncleanliness. Patience follows (74:7).",
-      "label": "stated"
+      "lens": "story",
+      "title": "An Orphan in a Valley Without Crops",
+      "blocks": [
+        { "p": "Makkah lay in a narrow valley of black granite, \"uncultivated\" in the words of Ibrahim's prayer (14:37). It lived on two things: the Ka'bah, which drew Arab pilgrims every year, and trade. Surah Quraysh recalls the tribe's two great caravans, \"of winter and summer\", south to Yemen and north to Syria (106:1-2)." },
+        { "p": "The biographies report that Muhammad ﷺ was born there around 570 CE, in what Arabs called the Year of the Elephant. His father 'Abdullah died before his birth. His mother Aminah died when he was six. His grandfather 'Abd al-Muttalib, who took him in, died two years later. He grew up in the house of his uncle Abu Talib, a respected man of the clan of Hashim who was never wealthy." },
+        { "image": "day-13-valley", "alt": "Sheep grazing on a sparse slope above a dry valley among dark mountains at dusk", "caption": "\"Did He not find you an orphan and give [you] refuge?\" (93:6)", "prompt": "A small flock of sheep grazing on a sparse, stony hillside above a dry desert valley at dusk, dark granite mountains around, a single acacia tree, the first stars appearing in a deep blue sky above a glowing horizon." },
+        { "p": "As a boy he herded sheep. The Prophet ﷺ later said, in al-Bukhari, that every prophet had been a shepherd, and that he had tended flocks for the people of Makkah for a few coins. As a young man he traded, and the Makkans gave him a name: *al-Amin*, the trustworthy. A wealthy widow, Khadijah, hired him to take her goods to Syria, was impressed by his honesty, and proposed marriage. The biographies say he was about twenty-five. Their marriage lasted twenty-five years, until her death, and he took no other wife while she lived." },
+        { "p": "Around the age of forty he began retreating to a cave on Mount Hira, above the city, for days at a time. There, in about 610, the first verses came: \"Read in the name of your Lord who created\" (96:1). Day 1 of this course told that night. Today follows what came after." }
+      ]
     },
     {
-      "ref": "17:1",
-      "context": "Its date is uncertain. Hadith in al-Bukhari and Muslim describe the ascent through the heavens that followed (the Mi'raj).",
-      "point": "In one night Allah took \"His Servant\" from the Sacred Mosque in Makkah to al-Aqsa in Jerusalem, \"to show him of Our signs\".",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "From a Whisper to a Warning",
+      "blocks": [
+        { "p": "After the first revelation and a pause, al-Bukhari reports, the Prophet ﷺ came home trembling and asked to be wrapped up. The next verses address him in that state: *ya ayyuha al-muddaththir*, \"O you who covers himself\"." },
+        { "verse": "74:1-7" },
+        { "p": "Six commands, each two or three words in Arabic. Rise. Warn. Magnify your Lord. Purify your clothes. Leave the filth, which most commentators take as idol worship. Do not give in order to gain more. Be patient. The whole programme of the next twenty-three years is here in seed." },
+        { "word": { "ar": "هِجْرَةٌ", "tr": "hijrah", "root": ["ه", "ج", "ر"], "meaning": "Emigration, leaving behind", "nuance": "The root means to leave or abandon. The Hijra of 622 begins the Islamic calendar, but the root appears in one of the very first commands: *wa al-rujza fa-hjur*, \"and uncleanliness avoid\" (74:5), literally \"leave it\". The Prophet ﷺ said, in al-Bukhari, that the true emigrant is the one who leaves what Allah has forbidden. The inner hijrah came thirteen years before the outer one." } },
+        { "p": "For about three years, the biographies say, the call was quiet, passed from person to person. The first to believe were Khadijah, his young cousin 'Ali, his freed slave and adopted son Zayd ibn Harithah, and his friend Abu Bakr. Then came the command to go public: \"warn, [O Muhammad], your closest kindred\" (26:214)." },
+        { "p": "Al-Bukhari reports what he did. He climbed the hill of Safa and called out to the clans of Quraysh. When they gathered, he asked: if I told you that horsemen were in the valley behind this hill, about to attack, would you believe me? They said they had never known him to lie. Then, he said, I am a warner to you before a severe punishment. His uncle Abu Lahab shouted back, \"May you perish. Is this why you gathered us?\" Surah al-Masad answered, turning the curse back on its speaker: \"May the hands of Abu Lahab be ruined\" (111:1)." }
+      ]
     },
     {
-      "ref": "9:40",
-      "from": "Allah has already aided him",
-      "to": "his tranquillity upon him",
-      "context": "The Hijra, 622 CE. Reports say the companion was Abu Bakr and they hid in the cave of Thawr.",
-      "point": "Hunted, hiding with one companion, he says, \"Do not grieve; indeed Allah is with us.\" Allah sends down tranquillity.",
-      "label": "stated"
+      "lens": "reason",
+      "title": "Why Would They Refuse the Trustworthy One?",
+      "blocks": [
+        { "p": "Here is the question at its strongest. The Makkans called him *al-Amin*. At Safa they said they had never heard him lie. If his character was beyond reproach and his message clear, why did most of his own people fight him for thirteen years? And, from the other side: could a man who endured so much have been after something worldly?" },
+        { "p": "The Quran names the strange shape of the rejection itself." },
+        { "verse": "6:33" },
+        { "p": "They did not doubt the man. They rejected what he said. The Quran records their reasons, and they are recognisably human. Custom: \"we found our fathers upon a religion\" (43:22). Status: \"Why was this Qur'an not sent down upon a great man from [one of] the two cities?\" (43:31). And beneath both lay economics. The idols around the Ka'bah were part of what brought pilgrims, and pilgrims brought trade. A message that said all people were equal before one God, that the orphan must not be oppressed and the poor must be fed, threatened the order that made the leaders of Quraysh rich." },
+        { "p": "As for ambition, the biographies report that Quraysh sent a leading man, 'Utbah ibn Rabi'ah, to offer him wealth, leadership, even kingship, if he would stop. He listened, then recited to him the opening of Surah Fussilat. 'Utbah went back, the report says, and told them to leave the man alone. The Prophet ﷺ lived the rest of his life plainly, often with no fire lit in his house for days, as 'A'ishah reported in al-Bukhari and Muslim." },
+        { "p": "None of this proves revelation; that is a matter of faith. But it rules out the easy explanations. A man who refuses a crown, accepts years of hardship, and keeps repeating a message that costs him everything is, at the very least, a man who believed what he said." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "The Price of One Word",
+      "blocks": [
+        { "p": "The Prophet ﷺ had the protection of his clan, and Abu Talib, though he never accepted Islam, refused to hand him over. The weakest believers had no such shield. The biographies remember them by name. Bilal, an Abyssinian slave, was laid on the burning sand with a rock on his chest and told to renounce his faith; he answered with one word, *Ahad*, \"One\". Sumayyah, an elderly woman, was killed for refusing, and is remembered as the first martyr of Islam. Her son 'Ammar, under torture, said what his tormentors demanded and came to the Prophet ﷺ in tears. The commentators report that a verse addressed his case: there is no sin on \"one who is forced... while his heart is secure in faith\" (16:106)." },
+        { "p": "Around 615 a group of Muslims fled to Christian Abyssinia, as Day 11 described. Around 617 Quraysh declared a boycott: no trade and no marriage with the clan of Hashim. For about three years, the biographies say, the clan lived confined in a ravine outside the city, sometimes eating leaves." },
+        { "p": "The boycott ended, and almost at once came what Muslims call *'Am al-Huzn*, the Year of Grief. Khadijah died, and then Abu Talib. With his uncle gone, the clan's protection weakened. The Prophet ﷺ walked to the town of Ta'if, seeking a hearing, and was driven out with stones." },
+        { "p": "'A'ishah later asked him whether any day had been harder for him than the Battle of Uhud. He told her, in a hadith in al-Bukhari and Muslim, that the hardest was the day at Ta'if. On the way back the angel of the mountains came and offered to crush the town between its two mountains. He refused. He said he hoped that Allah would bring from their descendants people who would worship Allah alone. That is the measure of the man at his lowest point." },
+        { "figure": { "kind": "timeline", "title": "Thirteen years in Makkah", "items": [
+          { "at": "c. 570", "label": "Born an orphan", "text": "The Year of the Elephant, by the biographies' reckoning." },
+          { "at": "c. 610", "label": "First revelation", "text": "\"Read\" in the cave of Hira, at about forty." },
+          { "at": "610-613", "label": "The quiet call", "text": "Khadijah, 'Ali, Zayd and Abu Bakr believe first." },
+          { "at": "c. 613", "label": "The open call", "text": "The warning at Safa; Abu Lahab's curse." },
+          { "at": "c. 615", "label": "Abyssinia", "text": "Refugees sheltered by a Christian king." },
+          { "at": "c. 617-619", "label": "The boycott", "text": "The clan of Hashim confined in a ravine." },
+          { "at": "c. 619", "label": "Year of Grief", "text": "Khadijah and Abu Talib die; Ta'if rejects him." },
+          { "at": "c. 620", "label": "The Night Journey", "text": "Makkah to Jerusalem, and the ascent." },
+          { "at": "621-622", "label": "Pledges of 'Aqabah", "text": "Pilgrims from Yathrib promise protection." },
+          { "at": "622", "label": "The Hijra", "text": "The cave of Thawr, then Madinah." }
+        ] } },
+        { "note": "These dates come from the biographies, not the Quran, and historians differ by a year or more on several, especially the Night Journey.", "title": "On the dates" }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "With the Hardship, Ease",
+      "blocks": [
+        { "p": "Surah ash-Sharh, revealed in Makkah close to ad-Duha, is often read as its companion. Where ad-Duha looks back on his childhood, this surah looks at the weight he carried as a messenger, and makes a promise." },
+        { "verse": "94:1-8" },
+        { "p": "Look closely at verses 5 and 6. The same sentence, twice. In Arabic, \"hardship\" carries the definite article both times, *al-'usr*: *the* hardship, the same one. \"Ease\" has no article, *yusr*: *an* ease, and then another. Early Muslims drew a famous lesson from this grammar, reported from Ibn 'Abbas and others: one hardship will not overcome two eases. And the preposition is *ma'a*, \"with\", not *ba'da*, \"after\". The ease is already inside the hardship, even before it is visible." },
+        { "p": "Notice too what comes after the promise. Not \"rest\", but \"when you have finished, then stand up [for worship]\". Relief is not the end of effort. It is the moment you turn to your Lord with your longing." },
+        { "p": "If you are in a year of grief of your own, these two surahs were sent to a man in one. Many Muslims recite them in hard times precisely for that reason. You may find that the words fit you too: *Your Lord has not taken leave of you.*" }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "A Night Journey and an Open Door",
+      "blocks": [
+        { "p": "At the bottom of the Makkan years, the Quran records an honour." },
+        { "verse": "17:1" },
+        { "p": "The verse names two places: *al-Masjid al-Haram*, the Sacred Mosque in Makkah, and *al-Masjid al-Aqsa*, the Farthest Mosque, which Muslims identify with the sacred site in Jerusalem. Hadith in al-Bukhari and Muslim describe the rest: the ride on al-Buraq, the Prophet ﷺ leading the earlier prophets in prayer, and the ascent through the heavens, the *Mi'raj*. There the five daily prayers were made obligatory. They began as fifty, and on Musa's advice the Prophet ﷺ returned to ask for less, until five remained, with the reward of fifty." },
+        { "p": "The biographies report that when the Makkans mocked the story, they ran to Abu Bakr, sure his loyalty would break. He said that if the Prophet ﷺ had said it, it was true, and he was called *al-Siddiq*, the one who affirms the truth, from that day." },
+        { "note": "The great majority of scholars hold that the journey was in body and soul while awake, which is why it astonished Makkah. A few early reports, attributed to 'A'ishah and Mu'awiyah, describe it as a vision of the spirit; most scholars regard those reports as weak or as referring to a different occasion. The date is also disputed, from about a year to several years before the Hijra.", "title": "Where scholars differ" },
+        { "p": "Meanwhile a door was opening. At the pilgrimage season of 621, and again in 622, men from Yathrib, an oasis town some 450 kilometres north, met the Prophet ﷺ secretly at a place called 'Aqabah. They accepted Islam and pledged to protect him as they would their own families. Muslims began slipping out of Makkah in small groups. Quraysh understood what it meant." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "Two in a Cave",
+      "blocks": [
+        { "p": "The Quran later recalled the plot against him." },
+        { "verse": "8:30" },
+        { "p": "The biographies say the leaders of Quraysh agreed that a young man from each clan would strike him together, so that his blood would be spread among all the tribes and his clan could not take revenge. That night 'Ali slept in the Prophet's ﷺ bed, wrapped in his green cloak. The Prophet ﷺ and Abu Bakr slipped out and went not north toward Yathrib but south, to a cave on Mount Thawr, where they hid for three nights." },
+        { "p": "Search parties climbed the mountain. Abu Bakr said, in a hadith in al-Bukhari and Muslim, that if any of them looked down at his own feet he would see them. The Prophet ﷺ answered: \"What do you think of two, when Allah is their third?\" The Quran preserves the moment." },
+        { "verse": "9:40" },
+        { "p": "*La tahzan*: do not grieve. The same words were spoken to Maryam under the palm tree (19:24). Then, with a guide and two camels, they took little-used paths north. Some two weeks later, in September 622, the people of Yathrib, who had been waiting every morning at the edge of the oasis, saw them coming. The town would soon be called *Madinat al-Nabi*, the City of the Prophet. Years later the caliph 'Umar made that year the first of the Islamic calendar." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "The Makkan Surahs in a Muslim's Day",
+      "blocks": [
+        { "p": "Most of the short surahs at the end of the Quran come from these Makkan years, and they are the ones Muslims know best. Children memorise them first. They are recited in daily prayers around the world, so a Muslim who prays five times a day may hear ad-Duha or ash-Sharh many times a month. The Makkan Quran is, quite literally, the soundtrack of Muslim worship." },
+        { "list": [
+          "The duties of 93:9-11 are taken personally: care for orphans is one of the most praised acts in Islam. The Prophet ﷺ said, in al-Bukhari, that he and the one who looks after an orphan will be in Paradise like two fingers held together.",
+          "The Hijri calendar, counted from 622, sets the dates of Ramadan, the pilgrimage and the two Eids to this day.",
+          "*Hasbunallah*, \"Allah is sufficient for us\", and *la tahzan, inna Allaha ma'ana*, \"do not grieve, Allah is with us\", are words Muslims say to one another in fear.",
+          "The Night Journey is remembered every time a Muslim prays: the five prayers are its gift."
+        ] },
+        { "p": "If you know Muslims, this chapter explains something about them: their attachment to a man they never met. They know he was an orphan, that he was mocked and stoned and boycotted, that he lost his wife and his uncle in one year, and that he answered Ta'if with a prayer for its children. The Quran says of him, \"indeed, you are of a great moral character\" (68:4). Muslims learned what that meant from these thirteen years." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "timeline",
-    "title": "Thirteen years in Makkah",
-    "label": "explained",
-    "caption": "Dates are approximate and come from the biographies (sirah), not the Quran. Historians differ by a year or more on several, especially the Night Journey.",
-    "items": [
-      {
-        "at": "c. 570",
-        "label": "Born an orphan",
-        "text": "Raised by his grandfather, then his uncle Abu Talib.",
-        "ref": "93:6"
-      },
-      {
-        "at": "610",
-        "label": "First revelation",
-        "text": "\"Read!\" in the cave of Hira, at about forty.",
-        "ref": "96:1-5",
-        "mark": true
-      },
-      {
-        "at": "610-613",
-        "label": "The quiet call",
-        "text": "Khadijah, family and close friends accept first.",
-        "ref": "74:1-2"
-      },
-      {
-        "at": "c. 613",
-        "label": "The open call",
-        "text": "He warns his clan; his uncle Abu Lahab curses him.",
-        "ref": "26:214"
-      },
-      {
-        "at": "613-622",
-        "label": "Persecution",
-        "text": "Mockery for him, torture for weaker believers.",
-        "ref": "111"
-      },
-      {
-        "at": "c. 615",
-        "label": "Refuge in Abyssinia",
-        "text": "Some Muslims find shelter with a just Christian king."
-      },
-      {
-        "at": "c. 617",
-        "label": "The boycott",
-        "text": "His clan besieged in a valley for about three years."
-      },
-      {
-        "at": "c. 619",
-        "label": "Year of grief",
-        "text": "Khadijah and Abu Talib die."
-      },
-      {
-        "at": "c. 619",
-        "label": "Ta'if",
-        "text": "Rejected and stoned, he still hopes for their descendants."
-      },
-      {
-        "at": "c. 620",
-        "label": "Night Journey",
-        "text": "From Makkah to al-Aqsa, then the ascent.",
-        "ref": "17:1",
-        "mark": true
-      },
-      {
-        "at": "621-622",
-        "label": "Pledges of 'Aqabah",
-        "text": "Pilgrims from Yathrib pledge to protect him."
-      },
-      {
-        "at": "622",
-        "label": "The Hijra",
-        "text": "The cave, then Madinah. The Islamic calendar begins.",
-        "ref": "9:40",
-        "mark": true
-      }
-    ]
-  },
-  "word": {
-    "ar": "هِجْرَةٌ",
-    "tr": "hijrah",
-    "root": [
-      "ه",
-      "ج",
-      "ر"
-    ],
-    "meaning": "Emigration, leaving behind",
-    "nuance": "The root means to leave or abandon. The Hijra of 622 begins the Islamic calendar, but the root appears in one of the first commands: \"uncleanliness avoid\" (74:5), literally \"leave it\". A hadith in al-Bukhari says the true emigrant is one who leaves what Allah has forbidden.",
-    "refs": [
-      "74:5",
-      "16:41"
-    ]
-  },
-  "mixup": {
-    "myth": "The Hijra to Madinah was the first time Muslims left Makkah for their faith.",
-    "truth": "About seven years earlier, around 615, a group of Muslims fled to Abyssinia (Ethiopia), where its Christian king, known as the Najashi, gave them protection. The Hijra of 622 was different: the Prophet ﷺ himself left, and a community took shape in Madinah. The Quran promises those who emigrate after being wronged \"a good place\" (16:41).",
-    "refs": [
-      "16:41",
-      "39:10"
-    ]
-  },
-  "remember": [
-    "He began as an orphan, and Allah reminded him: \"Did He not find you an orphan and give [you] refuge?\" (93:6)",
-    "Thirteen years in Makkah: a quiet start, then an open call met with mockery, boycott and grief.",
-    "The Night Journey (17:1) and the Hijra (9:40) came at the hardest moments: \"Allah is with us.\""
-  ],
-  "memorize": "94:5-6",
+  "carry": "94:5-6",
   "quiz": [
     {
-      "q": "In the cave during the Hijra, what did the Prophet ﷺ tell his companion?",
-      "options": [
-        "\"We must return to Makkah.\"",
-        "\"Do not grieve; indeed Allah is with us.\"",
-        "\"Prepare to fight them.\"",
-        "\"Let us wait for the angels.\""
-      ],
+      "q": "How does Surah ad-Duha answer the Prophet's ﷺ fear of being abandoned?",
+      "options": ["By promising him immediate victory", "By pointing to how Allah had cared for him since childhood", "By telling him to leave Makkah", "By rebuking his doubt"],
+      "answer": 1,
+      "why": "93:6-8: \"Did He not find you an orphan and give [you] refuge? And He found you lost and guided [you], and He found you poor and made [you] self-sufficient.\" The past is the proof."
+    },
+    {
+      "q": "According to 6:33, what were the Prophet's ﷺ opponents really rejecting?",
+      "options": ["His honesty", "His family", "The verses of Allah, not the man himself", "His wealth"],
+      "answer": 2,
+      "why": "6:33: \"they do not call you untruthful, but it is the verses of Allah that the wrongdoers reject.\" They had called him al-Amin; their objection was to the message."
+    },
+    {
+      "q": "What does the repetition in 94:5-6 suggest, according to a famous early reading?",
+      "options": ["That hardship always comes twice", "That one hardship will not overcome two eases", "That ease comes only after death", "That the verse was copied twice by mistake"],
+      "answer": 1,
+      "why": "\"Hardship\" is definite both times (the same hardship), \"ease\" indefinite (a new ease each time). And \"with\" means the ease is already present within the hardship."
+    },
+    {
+      "q": "What did the Prophet ﷺ say to Abu Bakr in the cave, according to 9:40?",
+      "options": ["\"We must fight them at the entrance.\"", "\"Do not grieve; indeed Allah is with us.\"", "\"We should return to Makkah.\"", "\"Wait for the angels.\""],
       "answer": 1,
       "why": "9:40: \"he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down his tranquillity upon him.\""
-    },
-    {
-      "q": "Surah al-Masad (111) names which opponent of the Prophet ﷺ?",
-      "options": [
-        "Abu Jahl",
-        "Abraha",
-        "Pharaoh",
-        "Abu Lahab"
-      ],
-      "answer": 3,
-      "why": "111:1: \"May the hands of Abu Lahab be ruined.\" He was the Prophet's ﷺ own uncle, and his wife joined his hostility (111:4)."
-    },
-    {
-      "q": "According to 17:1, where did the Night Journey take him?",
-      "options": [
-        "From al-Masjid al-Haram to al-Masjid al-Aqsa",
-        "From Makkah to Madinah",
-        "From the cave of Hira to Mount Sinai"
-      ],
-      "answer": 0,
-      "why": "17:1: \"Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa.\""
     }
   ],
-  "reflect": "Surah ad-Duha reminded the Prophet ﷺ of the ways Allah had already cared for him. Looking back, where can you see that care in your own life?",
-  "deeper": [
-    "93",
-    "94",
-    "96:1-5",
-    "106",
-    "111",
-    "53:1-18",
-    "8:30",
-    "105"
-  ],
+  "reflect": "Surah ad-Duha answers fear about the future by pointing to the past: orphan and sheltered, lost and guided. Looking back at your own life, where can you see care you did not recognise at the time?",
+  "deeper": ["93", "94", "96:1-5", "106", "111", "53:1-18", "8:30", "105"],
   "links": [
-    {
-      "label": "Prophet Muhammad ﷺ: a biography",
-      "href": "/learn/prophet-muhammad-biography"
-    },
-    {
-      "label": "Muhammad ﷺ on the timeline",
-      "href": "/timeline/prophets/muhammad"
-    },
-    {
-      "label": "Abu Lahab",
-      "href": "/timeline/villains/abu-lahab"
-    },
-    {
-      "label": "Read Surah ad-Duha",
-      "href": "/surah/ad-duhaa"
-    }
+    { "label": "Prophet Muhammad ﷺ: a biography", "href": "/learn/prophet-muhammad-biography" },
+    { "label": "Muhammad ﷺ on the timeline", "href": "/timeline/prophets/muhammad" },
+    { "label": "Abu Lahab", "href": "/timeline/villains/abu-lahab" },
+    { "label": "Read Surah ad-Duha", "href": "/surah/ad-duhaa" }
   ],
-  "connections": [
-    1,
-    8,
-    12,
-    14
-  ],
+  "connections": [1, 8, 12, 14],
   "status": "draft"
 }

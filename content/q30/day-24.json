@@ -2,189 +2,154 @@
   "day": 24,
   "title": "Purity and Worship",
   "question": "Why does prayer begin with water?",
-  "emblem": "minaret",
-  "intro": [
-    "Worship in Islam has a rhythm. The Quran sets the frame: wash before prayer, pray at set times, fast in Ramadan, give zakah (the yearly alms) to named groups, and travel to the House in Makkah for Hajj if able. The Prophet ﷺ showed the details, and Muslims learn them from his Sunnah, his example.",
-    "Running through every command is the same note of ease. The sick and the traveller have concessions, clean earth can stand in for water, and prayer can be shortened on a journey. \"Allah does not intend to make difficulty for you\" (5:6). Today you will see the verses behind daily worship, and how alcohol was forbidden in stages."
-  ],
-  "passages": [
+  "summary": "The verses behind wudu, the five prayers, fasting, zakah and Hajj; the ease built into every command; how alcohol was forbidden in stages; and why ritual, in the Quran, is meant to reach the heart.",
+  "cover": {
+    "alt": "Clear water pouring from a clay jug into a stone basin in a quiet courtyard at dawn",
+    "prompt": "A quiet courtyard of pale stone at first light. Clear water pours from a simple clay jug into a shallow stone basin, rippling and catching the soft gold of dawn. Beside it, a folded woven prayer mat on a low ledge, and beyond an arched doorway the sky turning from deep blue to rose."
+  },
+  "chapters": [
     {
-      "ref": "5:6",
-      "from": "O you who have believed, when you rise",
-      "to": "to the ankles.",
-      "context": "Madinan. It goes on to ghusl (a full wash) and tayammum with clean earth.",
-      "point": "Wudu in four acts: wash the face, the arms to the elbows, wipe the head, and the feet.",
-      "label": "differ",
-      "note": "Most read \"your feet\" with the washed parts, so the feet are washed. Shi'i scholars, following another recitation, read it with the head, so the feet are wiped."
+      "lens": "text",
+      "title": "Water Before Words",
+      "blocks": [
+        { "p": "Before a Muslim speaks to Allah in prayer, they wash. The command comes in a single Madinan verse, among the last surahs revealed, and it is precise enough to follow with your eyes closed:" },
+        { "verse": "5:6", "from": "O you who have believed, when you rise", "to": "to the ankles." },
+        { "p": "Four acts: wash the face, wash the arms to the elbows, wipe the head, wash the feet. This is *wuḍūʾ*, the ritual washing before prayer. The Prophet ﷺ added details by his example: rinsing the mouth and nose first, washing each part up to three times, beginning with the right. The verse then continues with two more cases. After sexual intimacy, a state called *janābah*, the whole body is washed, a bath called *ghusl*. And if there is no water, or using it would harm the sick, \"seek clean earth and wipe over your faces and hands with it.\" This is *tayammum*: two touches of the palms on clean earth, then the face and hands." },
+        { "note": "The Arabic for \"your feet\" is recited in two authentic ways: *arjulakum*, grammatically joined to the washed parts, and *arjulikum*, joined to the wiped head. Sunni scholars, following the Prophet's ﷺ consistent practice, hold that the feet are washed, and that wiping is allowed only over leather socks (*khuffayn*). Shi'i jurists read the verse as commanding the feet to be wiped. Al-Jalalayn notes both recitations.", "title": "Where readers differ" },
+        { "p": "Now notice how the verse ends. Not with a rule but with a reason: \"Allah does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.\" The washing is physical, but its aim is larger. The Prophet ﷺ said that when a believer washes his face in wudu, every sin his eyes looked at leaves with the water, and so with the hands and the feet, until he comes out clean of sins (Muslim). He also said, in a famous line in Muslim: \"Purity is half of faith.\"" },
+        { "p": "Even the earliest revelations had touched this theme. Among the first commands, in one of the earliest surahs revealed: \"And your clothing purify\" (74:4). Before the five prayers were set, before the qiblah was fixed, the Quran asked for clean clothes and a clean heart." }
+      ]
     },
     {
-      "ref": "17:78",
-      "context": "Makkan, from al-Isra. 11:114 and 4:103 also speak of prayer at set times.",
-      "point": "From the sun's decline to the dark of night, and at dawn. Scholars read this as covering Dhuhr, 'Asr, Maghrib, 'Isha and Fajr.",
-      "label": "explained"
+      "lens": "story",
+      "title": "The Prayer That Turned Around",
+      "blocks": [
+        { "p": "Madinah, in the second year after the Hijrah, the migration from Makkah. For sixteen or seventeen months the Muslims had prayed facing Jerusalem, the city of the earlier prophets. The Prophet ﷺ longed for the Ka'bah in Makkah, the House his ancestor Ibrahim had built, and the commentators report that he would turn his face to the sky, waiting. The Quran records the gesture tenderly:" },
+        { "verse": "2:144" },
+        { "p": "Al-Bukhari reports from al-Bara' ibn 'Azib what happened next. A man who had prayed with the Prophet ﷺ towards the Ka'bah walked out of the city and passed a mosque where people were in the middle of prayer, bowing toward Jerusalem. He called out that he had prayed with the Messenger of Allah ﷺ facing Makkah. And they turned, in the middle of the prayer, as they were. Another report in al-Bukhari describes the people of Quba hearing the news during the dawn prayer and turning around the same way." },
+        { "image": "day-24-qiblah", "alt": "A simple early mosque of mud-brick walls and palm-trunk pillars at dawn, with a roof of palm fronds", "caption": "A whole congregation turned, mid-prayer, toward Makkah.", "prompt": "The interior of a simple seventh-century mosque in an oasis at dawn: low mud-brick walls, rough palm-trunk pillars holding a roof of dried palm fronds, woven reed mats on a sandy floor. Soft light slants through gaps in the roof and through an open side, falling in stripes across the empty mats." },
+        { "p": "Muslims still visit that place today; it is known as Masjid al-Qiblatayn, the Mosque of the Two Qiblahs. But the deeper lesson is in the verses around it: \"To Allah belongs the east and the west\" (2:142). The direction was never the point. Obedience was. A few verses later the Quran says so outright: \"Righteousness is not that you turn your faces toward the east or the west\" (2:177), and then lists faith, generosity to relatives and orphans, keeping promises and patience. The qiblah gives a billion and a half people one direction. What they bring when they face it is the worship." }
+      ]
     },
     {
-      "ref": "2:183",
-      "context": "Madinan, from al-Baqarah. The next verses excuse the sick and travellers, who make up the days (2:184-185).",
-      "point": "Fasting is not new: it was prescribed for those before. Its aim is taqwa, being mindful of Allah.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Five Times Traced in the Sky",
+      "blocks": [
+        { "p": "The Quran never lists the five prayers by name in one place. Instead it points at the sky, again and again. \"Prayer has been decreed upon the believers a decree of specified times\" (4:103). Then the verses mark the times by the sun:" },
+        { "verse": "17:78" },
+        { "p": "Scholars read \"the decline of the sun until the darkness of the night\" as covering four prayers, Dhuhr, 'Asr, Maghrib and 'Isha, and \"the Qur'an of dawn\" as Fajr, whose long recitation, the verse says, \"is ever witnessed\"; the hadith explain that the angels of night and day gather at it (al-Bukhari). 11:114 speaks of \"the two ends of the day and at the approach of the night\"; 20:130 of \"before the rising of the sun and before its setting\". 2:238 adds \"the middle prayer\", which the Prophet ﷺ identified as 'Asr on the day of the Trench (Muslim)." },
+        { "figure": { "kind": "timeline", "title": "The five daily prayers and the sun", "items": [
+          { "at": "Dawn", "label": "Fajr", "text": "From first light until sunrise (17:78)" },
+          { "at": "Midday", "label": "Dhuhr", "text": "Just after the sun passes its height" },
+          { "at": "Afternoon", "label": "'Asr", "text": "When shadows lengthen; \"the middle prayer\" (2:238)" },
+          { "at": "Sunset", "label": "Maghrib", "text": "Just after the sun has set" },
+          { "at": "Night", "label": "'Isha", "text": "When the darkness of night has fully come" }
+        ] } },
+        { "p": "The number five comes from the Sunnah, and the hadith of the Night Journey tells how. Al-Bukhari and Muslim report that fifty prayers were first prescribed. On his way back, the Prophet ﷺ met Musa, who urged him to return and ask for less, for he knew people. He went back and forth until they were five, and Allah said: they are five, and they are fifty; My word does not change. Five in practice, fifty in reward." },
+        { "word": { "ar": "عِبَادَة", "tr": "ʿibādah", "root": ["ع", "ب", "د"], "meaning": "Worship; devoted service", "nuance": "From ʿ-b-d, to serve; an ʿabd is a servant. ʿIbādah covers the set rituals, but scholars also apply it to any good act done for Allah: honest work, kindness to parents, feeding a family. \"I did not create the jinn and mankind except to worship Me\" (51:56) is read in that wide sense. The same root gives the Prophet's ﷺ most honoured title in the Quran, ʿabduhu, \"His servant\" (17:1)." } }
+      ]
     },
     {
-      "ref": "9:60",
-      "context": "Madinan, from at-Tawbah. The Quran pairs zakah with prayer many times (e.g. 2:43).",
-      "point": "Zakah goes to eight named groups: the poor, the needy, its collectors, hearts to be won, captives, debtors, Allah's cause, and stranded travellers.",
-      "label": "stated"
+      "lens": "text",
+      "title": "A Fast, a Tax, a Journey",
+      "blocks": [
+        { "p": "The Prophet ﷺ said that Islam is built on five: bearing witness that there is no god but Allah and that Muhammad is His Messenger, establishing prayer, giving zakah, Hajj to the House, and fasting Ramadan (al-Bukhari and Muslim). The Quran gives each its foundation verse." },
+        { "verse": "2:183" },
+        { "p": "Fasting is not presented as new. It \"was decreed upon those before you\", and its aim is stated in one word: *tattaqūn*, \"that you may become righteous\", or more literally, that you may become mindful of Allah. Two verses later the month is named, and the reason it was chosen: \"The month of Ramadhan [is that] in which was revealed the Qur'an\" (2:185). Muslims fast for the book." },
+        { "p": "*Zakah* is the yearly alms, a fixed share of savings above a threshold, which the Sunnah set at one-fortieth, two and a half per cent, for most wealth. The Quran pairs it with prayer dozens of times (2:43), and 9:60 names eight groups it must go to: the poor, the needy, the collectors, \"bringing hearts together\", freeing captives, debtors, the cause of Allah and the stranded traveller. The word itself means both purification and growth; 9:103 says it is taken \"by which you purify them and cause them increase\"." },
+        { "p": "Hajj, the pilgrimage to Makkah, is owed \"for whoever is able to find thereto a way\" (3:97), once in a lifetime. Ibrahim was told to proclaim it, and \"they will come to you on foot and on every lean camel; they will come from every distant pass\" (22:27). Then, about the animals sacrificed at its end, the Quran says something that reframes every ritual:" },
+        { "verse": "22:37" }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Why Would God Care How I Wash My Feet?",
+      "blocks": [
+        { "p": "A fair objection. If Allah is beyond need, as the Quran insists (3:97), why prescribe the order of washing, the number of bows, the exact times? Is this not the religion of rules that prophets have so often criticised?" },
+        { "p": "The Quran shares the criticism. It condemns prayer done for show: \"woe to those who pray, [but] who are heedless of their prayer, those who make show [of their deeds] and withhold [simple] assistance\" (107:4-7). It says flatly that the meat and blood of a sacrifice never reach Allah, only the piety behind it (22:37). Ritual without heart is not what it asks for." },
+        { "p": "But it does not throw out the form. Scholars give several reasons. Form protects the heart from relying on mood: a person who prays only when inspired will soon stop praying. Form makes a community: the same words in the same direction at the same hour, from Jakarta to Dakar. Form disciplines the self, much as scales discipline a musician; the freedom comes later. And the Quran claims a moral effect: \"Indeed, prayer prohibits immorality and wrongdoing\" (29:45). Five times a day, a person stops, washes, and stands before their Lord; it is hard to do that sincerely and then go out and cheat." },
+        { "p": "Scholars also admit a limit. They distinguish rulings whose wisdom is clear from those that are *taʿabbudī*, followed as pure worship, where the reason is not fully known: why Maghrib has three units and not four, for instance. Here the Muslim answer is honest trust. Obeying a command you do not fully understand, from One you have come to trust, is itself a form of love." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "Ease Written Into Every Command",
+      "blocks": [
+        { "p": "Run through the worship verses and one refrain keeps returning. After wudu: \"Allah does not intend to make difficulty for you\" (5:6). After fasting: \"Allah intends for you ease and does not intend for you hardship\" (2:185). Over everything: \"Allah does not charge a soul except [with that within] its capacity\" (2:286)." },
+        { "list": [
+          "**The sick and the traveller** make up missed fasts later (2:184); those who cannot fast at all feed a poor person for each day.",
+          "**When travelling**, prayers may be shortened (4:101), and the Sunnah allows combining them.",
+          "**No water**, or illness: clean earth instead (5:6, 4:43).",
+          "**Cannot stand?** The Prophet ﷺ said: pray standing; if you cannot, sitting; if you cannot, on your side (al-Bukhari).",
+          "**Hajj** is only for those able to find a way (3:97)."
+        ] },
+        { "p": "The same wisdom shaped how a habit was changed. Wine was woven into Arab life, and the Quran did not ban it in a day. First: \"In them is great sin and [yet, some] benefit... but their sin is greater than their benefit\" (2:219). Then: do not approach prayer intoxicated (4:43). Finally, in one of the last surahs: intoxicants are \"defilement from the work of Satan, so avoid it\" (5:90)." },
+        { "p": "'A'ishah explained the method, in a report in al-Bukhari. The first revelations, she said, were surahs about Paradise and the Fire, and only when people's hearts had settled into Islam did the rules of lawful and unlawful come. Had the first thing revealed been \"do not drink wine\", they would have said, we will never give up wine. When the final verse came, Anas reports, the people of Madinah poured their wine out until it ran in the lanes (al-Bukhari). Hearts were changed first; the law followed. That order is still a lesson for anyone who teaches." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Five Appointments a Day",
+      "blocks": [
+        { "p": "There is a difference between a duty and an appointment. A duty is something you get through. An appointment is someone you go to meet." },
+        { "p": "The Prophet ﷺ spoke about prayer as the second kind. When the time came, he would say to Bilal, who gave the call: give us rest with it, Bilal (Abu Dawud). Not rest *from* it. Rest *in* it. He said that the coolness of his eyes had been placed in prayer (an-Nasa'i). The Quran describes the successful believers, first of all, as \"they who are during their prayer humbly submissive\" (23:2); the word *khāshiʿūn* suggests the stillness of someone who knows whose presence they are in." },
+        { "verse": "2:45" },
+        { "p": "\"Difficult except for the humbly submissive.\" The Quran is honest that prayer is hard: hard to wake for at dawn, hard to keep the mind from wandering, hard on a busy day. It does not promise that the difficulty disappears. It says that, for the heart that bows, prayer becomes a help rather than a weight." },
+        { "p": "If your prayer feels empty, you are not the first. Scholars advised small things: make wudu slowly, as if each limb were being washed of something; understand the words of al-Fatihah you recite; pause after *Allāhu akbar* long enough to mean it. And remember the words every Muslim says in every unit of every prayer: \"It is You we worship and You we ask for help\" (1:5). Worship, and help to worship, both from the same door." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "A Day Shaped by the Sun",
+      "blocks": [
+        { "p": "For a practising Muslim, these verses become a daily rhythm. Fajr before sunrise, often in the dark. Dhuhr in a lunch break. 'Asr in the late afternoon, Maghrib at sunset, 'Isha before sleep. Each prayer takes perhaps five to ten minutes, each preceded by wudu unless it is still intact. On Friday, the midday prayer becomes *Jumuʿah*, with a sermon, and the Quran says to \"leave trade\" for it, then afterwards to \"disperse within the land and seek from the bounty of Allah\" (62:9-10): worship and work, side by side." },
+        { "p": "Then the yearly rhythm. A lunar month of fasting, Ramadan, from dawn to sunset, without food, drink or intimacy, moving through the seasons over a thirty-three-year cycle. Zakah, often paid in Ramadan. And, for the able, once in a life, Hajj, when around two million people stand together on the plain of 'Arafah." },
+        { "p": "If you work or study alongside Muslims, this explains a few things you may have noticed:" },
+        { "list": [
+          "**Why a colleague steps away at certain times**, sometimes to wash hands, face and feet at a sink: they are making wudu and praying.",
+          "**Why prayer times shift every day**: they follow the sun, not the clock, as 17:78 describes.",
+          "**Why Ramadan moves** about eleven days earlier each year: it follows the moon.",
+          "**Why a Muslim might decline a drink** with good grace: 5:90-91, and the stages that led to it."
+        ] },
+        { "p": "And for a Muslim reading this, a quiet suggestion: choose one act of worship this week and do it with full attention, once. One wudu, slowly. One prayer, understood. The Quran says the remembrance of Allah is greater (29:45). Even one minute of it, done well, is not small." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "arc",
-    "title": "The prayer times and the sun",
-    "caption": "The Quran points to prayer at set times (4:103), naming dawn, the sun's decline and the night. The five times and their exact limits are detailed in the Sunnah.",
-    "label": "explained",
-    "items": [
-      {
-        "label": "Fajr",
-        "text": "Dawn light, before sunrise",
-        "ref": "17:78",
-        "at": 0.06,
-        "level": -0.45
-      },
-      {
-        "label": "Sunrise",
-        "text": "Fajr time ends",
-        "at": 0.2,
-        "level": 0
-      },
-      {
-        "label": "Dhuhr",
-        "text": "Just after the sun passes its height",
-        "ref": "17:78",
-        "at": 0.5,
-        "level": 1
-      },
-      {
-        "label": "'Asr",
-        "text": "Afternoon; many link \"the middle prayer\" to it",
-        "ref": "2:238",
-        "at": 0.68,
-        "level": 0.6
-      },
-      {
-        "label": "Maghrib",
-        "text": "Just after sunset",
-        "ref": "11:114",
-        "at": 0.82,
-        "level": 0
-      },
-      {
-        "label": "'Isha",
-        "text": "When night has fully come",
-        "ref": "17:78",
-        "at": 0.95,
-        "level": -0.6
-      }
-    ]
-  },
-  "word": {
-    "ar": "عِبَادَة",
-    "tr": "ʿibādah",
-    "root": [
-      "ع",
-      "ب",
-      "د"
-    ],
-    "meaning": "Worship; devoted service",
-    "nuance": "From ʿ-b-d, to serve; an ʿabd is a servant. ʿIbādah covers the set rituals, but also any good act done for Allah: honest work, kindness, care for family. \"I did not create the jinn and mankind except to worship Me\" (51:56).",
-    "refs": [
-      "51:56",
-      "1:5"
-    ]
-  },
-  "mixup": {
-    "myth": "Alcohol was forbidden in a single verse from the first day of Islam.",
-    "truth": "Scholars commonly read the verses as stages: 2:219 says its sin is greater than its benefit; 4:43 forbids coming to prayer intoxicated; 5:90-91 commands avoiding it altogether. The early community already drank, and the change came over years in Madinah. Reports in al-Bukhari say that when the final verse came, people poured out their wine.",
-    "refs": [
-      "2:219",
-      "4:43",
-      "5:90-91"
-    ]
-  },
-  "remember": [
-    "Purity comes first: wudu, ghusl after janabah, and tayammum with clean earth when water is lacking (5:6).",
-    "Prayer has set times; the Quran points to them and the Sunnah details all five (4:103, 17:78).",
-    "Fasting, zakah to eight groups, and Hajj for those able, each with ease built in (2:183-185, 9:60, 3:97)."
-  ],
-  "memorize": "29:45",
+  "carry": "29:45",
   "quiz": [
     {
       "q": "What does 5:6 allow for purification when there is no water?",
-      "options": [
-        "Clean earth",
-        "Only sand in the desert",
-        "Nothing; the prayer is skipped"
-      ],
+      "options": ["Clean earth", "Only desert sand", "Nothing; the prayer is skipped", "Washing with milk"],
       "answer": 0,
       "why": "5:6: \"...and do not find water, then seek clean earth and wipe over your faces and hands with it.\" This is tayammum; 4:43 says the same."
     },
     {
-      "q": "Who does 3:97 say owes Allah the pilgrimage to the House?",
-      "options": [
-        "Every Muslim, every year",
-        "Whoever is able to find a way",
-        "Only those living in Makkah",
-        "Only men"
-      ],
+      "q": "What does 2:183 give as the purpose of fasting?",
+      "options": ["To lose weight", "That you may become righteous, mindful of Allah", "To honour the moon", "To punish past sins"],
       "answer": 1,
-      "why": "3:97: \"And [due] to Allah from the people is a pilgrimage to the House - for whoever is able to find thereto a way.\""
+      "why": "2:183: fasting is decreed \"as it was decreed upon those before you that you may become righteous\", tattaqun, mindful of Allah."
     },
     {
       "q": "What does 22:37 say reaches Allah from an animal sacrifice?",
-      "options": [
-        "Its meat",
-        "Its blood",
-        "The piety of the one who offers it"
-      ],
+      "options": ["Its meat", "Its blood", "The piety of the one who offers it", "Its price"],
       "answer": 2,
       "why": "22:37: \"Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you.\""
+    },
+    {
+      "q": "How was wine forbidden, according to the verses and 'A'ishah's report?",
+      "options": ["In one verse at the start of Islam", "In stages, after hearts had settled in faith", "Only for scholars", "It was never forbidden"],
+      "answer": 1,
+      "why": "2:219 weighed its harm above its benefit, 4:43 forbade praying intoxicated, and 5:90-91 commanded avoiding it. 'A'ishah (al-Bukhari) said rulings came after hearts had settled."
     }
   ],
-  "reflect": "Which act of worship feels most natural to you right now, and which would you most like to understand better?",
-  "deeper": [
-    "4:43",
-    "4:101-103",
-    "62:9-10",
-    "2:184-187",
-    "2:196-203",
-    "22:26-37",
-    "2:144",
-    "2:219",
-    "5:90-91",
-    "2:238",
-    "20:130"
-  ],
+  "reflect": "Which act of worship feels most natural to you right now, and which feels hardest? What would it take to do one of them this week with full attention?",
+  "deeper": ["4:43", "4:101-103", "62:9-10", "2:184-187", "2:196-203", "22:26-37", "2:142-150", "2:219", "5:90-91", "2:238", "20:130", "107"],
   "links": [
-    {
-      "label": "How to perform wudu",
-      "href": "/learn/how-to-perform-wudu"
-    },
-    {
-      "label": "How to pray salah",
-      "href": "/learn/how-to-pray-salah"
-    },
-    {
-      "label": "Why five prayers a day?",
-      "href": "/learn/why-muslims-pray-five-times-a-day"
-    },
-    {
-      "label": "What is zakat?",
-      "href": "/learn/what-is-zakat"
-    }
+    { "label": "How to perform wudu", "href": "/learn/how-to-perform-wudu" },
+    { "label": "How to pray salah", "href": "/learn/how-to-pray-salah" },
+    { "label": "Why five prayers a day?", "href": "/learn/why-muslims-pray-five-times-a-day" },
+    { "label": "What is zakat?", "href": "/learn/what-is-zakat" }
   ],
-  "connections": [
-    8,
-    14,
-    26,
-    27
-  ],
+  "connections": [8, 14, 26, 27],
   "status": "draft"
 }

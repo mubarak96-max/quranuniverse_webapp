@@ -1,231 +1,160 @@
 {
   "day": 10,
-  "title": "Musa",
+  "title": "Musa: From the River to the Sea",
   "question": "What does it take to stand before a tyrant, and then lead a freed people?",
-  "emblem": "staff",
-  "intro": [
-    "Musa (Moses) is named in the Quran more often than any other prophet. His life runs from a river to a palace, a desert, a fire on a mountain and a sea split in two. He faced Pharaoh, the Quran's clearest picture of a tyrant, and then the long work of guiding a freed people who often doubted.",
-    "His story also carries the stories of his community: the covenant at the mountain, the calf, the cow they argued over, and Qarun, ruined by pride in his wealth. Later comes a town that broke the Sabbath (7:163). The Quran tells all this to the Prophet ﷺ and his followers as a mirror: freedom is a gift, and a covenant is a trust to keep."
-  ],
-  "passages": [
+  "summary": "Follow Musa from a basket on the Nile to a fire on the mountain, the court of Pharaoh, the parted sea and the golden calf, and see why the Quran tells his story more than any other.",
+  "cover": {
+    "alt": "A path of wet seabed between two towering walls of water under a dawn sky",
+    "prompt": "A dry path of wet sand and stones running through the middle of a sea, the water rising on both sides in two towering green-blue walls like mountains, the first light of sunrise glowing at the far end of the path."
+  },
+  "chapters": [
     {
-      "ref": "28:7",
-      "context": "Pharaoh was killing the newborn sons of the Children of Israel (28:4).",
-      "point": "A mother is told to do the unthinkable and given two promises: he will return to her, and he will be a messenger. 28:13 shows the first kept.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Basket on the Nile",
+      "blocks": [
+        { "p": "Musa, Moses, is named in the Quran more than a hundred and thirty times, more than any other prophet. His story begins in fear. Pharaoh \"exalted himself in the land and made its people into factions, oppressing a sector among them, slaughtering their [newborn] sons and keeping their females alive\" (28:4). Into that terror a boy was born to the Children of Israel, the descendants of Ya'qub." },
+        { "p": "His mother received an instruction that seems to contradict itself:" },
+        { "verse": "28:7" },
+        { "p": "Feed him; and when you fear for him, throw him into the river. And do not fear. Two commands not to fear, around the most frightening act a mother could perform, and two promises: he will come back to you, and he will be a messenger. Surah Ta-Ha adds that she was to place him in a chest, *tabut*, and \"the river will throw it onto the bank\" (20:39)." },
+        { "image": "day-10-nile", "alt": "A small closed wooden chest floating among tall papyrus reeds on a wide river at dawn", "caption": "\"Cast him into the chest and cast it into the river\" (20:39).", "prompt": "A small closed wooden chest floating among tall papyrus reeds on a wide, calm river at dawn, mist on the water, palm trees and the low mud-brick walls of an ancient palace on the far bank." },
+        { "p": "The river carried him straight to the house of the man who was killing boys like him. \"The family of Pharaoh picked him up\" (28:8), and Pharaoh's wife pleaded: \"a comfort of the eye for me and for you. Do not kill him\" (28:9). The Prophet ﷺ named her, in a hadith in al-Bukhari, among the most perfect of women: Asiyah, wife of Pharaoh." },
+        { "p": "Back home, \"the heart of Moses' mother became empty\" (28:10). She sent his sister to follow the chest along the bank. The baby refused every wet nurse in the palace, and the sister stepped forward: shall I direct you to a household that will care for him? \"So We restored him to his mother that she might be content and not grieve and that she would know that the promise of Allah is true\" (28:13). She was paid, commentators note, to nurse her own son." }
+      ]
     },
     {
-      "ref": "20:43-44",
-      "context": "Musa and his brother Harun (Aaron) are sent to Pharaoh, who claimed \"I am your most exalted lord\" (79:24).",
-      "point": "Even to a tyrant, the command is gentle speech, in the hope that he may remember. The method is mercy, not contempt.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Well in Madyan, a Fire at Tuwa",
+      "blocks": [
+        { "p": "Musa grew up strong in Pharaoh's household. One day in the city he found two men fighting, an Israelite and an Egyptian. He struck the Egyptian once, and the man died. He was horrified: \"This is from the work of Satan.\" And immediately: \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him (28:15-16). When word came that the chiefs were plotting to kill him, he fled east into the desert, alone, praying \"Perhaps my Lord will guide me to the sound way\" (28:22)." },
+        { "p": "He reached the wells of Madyan exhausted, homeless and hunted. There, at the edge of a crowd of shepherds, two young women were holding their flocks back. They could not water them until the men had finished, they explained, \"and our father is an old man\" (28:23). Musa watered their flocks himself, then withdrew into the shade and prayed a prayer we will return to at the end of today (28:24)." },
+        { "p": "The answer came walking toward him \"with shyness\" (28:25): an invitation from the father. Soon the fugitive had shelter, work and a wife. One of the daughters had told her father, \"the best one you can hire is the strong and the trustworthy\" (28:26). He served eight or ten years in Madyan." },
+        { "p": "Then, travelling back toward Egypt with his family on a dark night, he saw a fire on the mountainside. \"Stay here,\" he told them. \"Perhaps I can bring you a torch or find at the fire some guidance\" (20:10). He went for warmth and directions." },
+        { "verse": "20:11-14" },
+        { "p": "Remove your sandals: the ground itself had become holy. Musa is called *Kalim Allah* by Muslims, the one to whom Allah spoke, because of this moment: \"Allah spoke to Moses with [direct] speech\" (4:164). And the first command after the declaration of oneness was prayer." }
+      ]
     },
     {
-      "ref": "26:61-63",
-      "context": "Pharaoh's army pursues the Israelites to the sea at sunrise (26:60).",
-      "point": "Trapped, his people panic. Musa answers with certainty, \"with me is my Lord\", and the sea parts like towering mountains.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Untie the Knot from My Tongue",
+      "blocks": [
+        { "p": "On the mountain Musa was given two signs: his staff became a moving serpent, and his hand came out of his garment shining white. Then the mission: \"Go to Pharaoh. Indeed, he has transgressed\" (20:24). He answered with a prayer Muslims still say before speaking in public, sitting an exam or facing anything hard:" },
+        { "verse": "20:25-32" },
+        { "p": "Read the order. First the heart, *ishrah li sadri*, open my chest: courage and calm before skill. Then the task, then the tongue. Many commentators connect the \"knot\" to a speech difficulty; Musa says elsewhere that Harun \"is more fluent than me in tongue\" (28:34). The story behind it in the commentaries, of a burning coal placed on the child's tongue in Pharaoh's palace, is a report from later lore and not in the Quran." },
+        { "p": "Then he asks for a partner. Not to share the glory, but \"that we may exalt You much and remember You much\" (20:33-34). It is granted in full (20:36): a brother asked for prophethood for his brother, and received it." },
+        { "p": "Then comes the most surprising instruction in the story. Pharaoh was a mass murderer who called himself \"your most exalted lord\" (79:24). And Allah said:" },
+        { "verse": "20:44" },
+        { "p": "*Qawlan layyinan*, soft speech. Not because the message was soft: it was \"send with us the Children of Israel and do not torment them\" (20:47). But the manner was to be gentle, \"that perhaps he may be reminded\". Scholars draw the lesson: if Musa, who was better than any preacher, was told to speak gently to Pharaoh, who was worse than anyone a preacher will face, then no Muslim has an excuse for harshness when calling others." }
+      ]
     },
     {
-      "ref": "2:83",
-      "context": "Addressed to the Children of Israel in the Prophet's ﷺ time, recalling their ancestors' covenant.",
-      "point": "The covenant's core: worship Allah alone, do good to parents, relatives, orphans and the needy, speak well, pray and give zakah. The verse notes that a few kept it.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Man Who Said \"I Am Your Lord\"",
+      "blocks": [
+        { "p": "The Quran's Pharaoh is the archetype of tyranny. He divided society and terrorised one part of it (28:4). He declared, \"I have not known you to have a god other than me,\" and ordered his minister Haman to build a tower of baked brick so he could \"look at the God of Moses\" (28:38). He accused Musa of ingratitude: did we not raise you as a child among us? Musa's reply is devastating: \"is this a favor of which you remind me, that you have enslaved the Children of Israel?\" (26:22)." },
+        { "note": "The Quran never gives Pharaoh's personal name. *Fir'awn* is a title. Muslim and Western scholars have proposed several kings, most often Ramesses II or his son Merneptah, but there is no consensus, and the Quran's purpose does not depend on the answer. Some modern writers note that the Quran calls the ruler of Yusuf's time *al-malik*, \"the king\" (12:43), and reserves *Fir'awn* for Musa's era, which fits the later Egyptian use of the title.", "title": "Which Pharaoh?" },
+        { "p": "His end is told with a detail found only in the Quran. As the sea closed over him, Pharaoh finally said the words: \"I believe that there is no deity except that in whom the Children of Israel believe, and I am of the Muslims\" (10:90). The reply was immediate:" },
+        { "verse": "10:91-92" },
+        { "p": "\"Now?\" Faith offered only when death is already visible was too late. Scholars cite the hadith in at-Tirmidhi that Allah accepts a servant's repentance until the death rattle reaches his throat. As for \"We will save you in body\", classical commentators such as Ibn Kathir explain that his body was cast ashore so the Israelites, who could hardly believe so mighty a man could die, would see it with their own eyes." },
+        { "p": "In the same house lived his wife, who prayed, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds\" (66:11). The Quran holds her up as an example for all believers. Faith and tyranny can share one roof." }
+      ]
     },
     {
-      "ref": "20:88-89",
-      "context": "While Musa was away for forty nights (7:142), the Samiri cast the people's ornaments into the fire (20:87).",
-      "point": "A lowing calf is hailed as \"your god\". The Quran asks how anything that cannot speak, harm or benefit could be worshipped.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Ropes, a Staff, and a Sea at Sunrise",
+      "blocks": [
+        { "p": "Pharaoh gathered the best magicians in Egypt on a festival day, in front of the people. They threw first, and \"their ropes and staffs seemed to him from their magic that they were moving\" (20:66). Even Musa \"sensed within himself apprehension\" (20:67). Allah told him: throw what is in your right hand. The staff swallowed everything they had crafted." },
+        { "p": "The magicians knew their trade, and knew at once this was no trick. They \"fell down in prostration\" and declared faith in \"the Lord of Aaron and Moses\" (20:70). Pharaoh threatened to cut off their hands and feet and crucify them on palm trunks (20:71)." },
+        { "verse": "20:72" },
+        { "p": "They had been believers for minutes, and their answer is among the bravest in the Quran: \"decree whatever you are to decree. You can only decree for this worldly life.\" Ibn 'Abbas is reported to have said that they began the day as sorcerers and ended it as martyrs." },
+        { "p": "Years of signs followed, and at last the command came to leave by night. Pharaoh's army pursued them and reached them at sunrise (26:60), pinned against the sea." },
+        { "verse": "26:61-63" },
+        { "image": "day-10-sea", "alt": "A sea split into two towering walls of water at sunrise with a dry path between them", "caption": "\"Each portion was like a great towering mountain\" (26:63).", "prompt": "Low sunrise over a wide sea split in two, each side rising as a towering wall of dark water like a mountain, a dry seabed path running between them, and far behind on the shore a cloud of dust from an approaching army's chariots." },
+        { "p": "*Kalla*, \"No!\" is one of the most emphatic words in Arabic. His people saw the army and the water; Musa saw *inna ma'iya rabbi*, \"with me is my Lord\". Israel crossed; the pursuers followed and drowned (26:65-66)." },
+        { "p": "The Prophet ﷺ arrived in Madinah and found the Jews fasting on the tenth of Muharram, *'Ashura*. They told him it was the day Allah saved Musa. He said, \"We have more right to Musa than you,\" and fasted it and told Muslims to fast it, as al-Bukhari and Muslim report. Muslims still do." }
+      ]
     },
     {
-      "ref": "28:76",
-      "context": "Qarun was \"from the people of Moses\", a man of immense wealth.",
-      "point": "His own people warn him not to exult. He credits his wealth to his own knowledge (28:78), and the earth swallows him and his home (28:81).",
-      "label": "stated"
+      "lens": "text",
+      "title": "A Calf That Lowed",
+      "blocks": [
+        { "p": "Freedom, it turned out, was the easy part. Musa went up the mountain for an appointment of forty nights (7:142), leaving Harun in charge. In his absence a man the Quran calls *as-Samiri* gathered the people's gold ornaments, melted them and produced \"a calf which had a lowing sound\" (20:88). The people said: \"This is your god and the god of Moses, but he forgot.\"" },
+        { "verse": "20:90" },
+        { "p": "Three things stand out. First, the Quran's argument is the same one Ibrahim used: the calf \"could not return to them any speech\" nor harm nor benefit (20:89). Second, Harun did not stay silent. He warned them it was a test, called them to follow him, and was ignored. The Quran's account clears Harun of any part in making the idol, which differs from the account in Exodus." },
+        { "p": "Third, look at Musa's return, \"angry and grieved\" (20:86). He seized his brother by the beard and head. And Harun's reply is full of tenderness: *ya ibna umma*, \"O son of my mother\", I feared you would say I had divided the Children of Israel (20:94). He had held back to keep the community from splitting until Musa returned. The Quran presents his choice as a hard judgement made in good faith." },
+        { "p": "Then Musa turned to the maker. The Samiri's excuse, \"thus did my soul entice me\" (20:96), is the oldest excuse there is. His sentence was isolation for life, \"No contact\", and the calf was burned and its ashes scattered into the sea, with a final line that sums up the whole story: \"Your god is only Allah, except for whom there is no deity\" (20:98)." },
+        { "p": "Later they refused to enter the promised land and wandered for forty years (5:26). A people who saw the sea split could still crave a god they could touch." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "A Covenant Tied Fast",
+      "blocks": [
+        { "p": "At the mountain, the Quran says, Allah took a covenant from the Children of Israel, raising the mountain over them, with the command, \"Take what We have given you with determination\" (2:63). The contents of that covenant are listed in Surah al-Baqarah, and they will look familiar to any Muslim:" },
+        { "verse": "2:83" },
+        { "word": { "ar": "مِيثَاق", "tr": "mīthāq", "root": ["و", "ث", "ق"], "meaning": "A firm covenant, a binding pledge", "nuance": "From a root meaning to tie fast. The same root gives *al-'urwah al-wuthqa*, \"the most trustworthy handhold\" (2:256). The Quran uses *mithaq* for the covenant with the Children of Israel, the covenant taken from the prophets (33:7), and even for marriage, \"a solemn covenant\" (4:21)." } },
+        { "p": "Worship Allah alone, kindness to parents, relatives, orphans and the needy, good speech, prayer, zakah: this is almost exactly the core of Islam. Ibn Kathir comments that this is what Allah commanded all His creatures. The Quran is showing Muslims that their own obligations are not new; they are the terms of an old covenant, now entrusted to them." },
+        { "p": "Two further episodes from Musa's community show what breaking it looks like. In the story that gives Surah al-Baqarah, \"The Cow\", its name, the people were told simply to slaughter a cow (2:67). They asked its age, its colour, its type, and with each question the description narrowed, until \"they slaughtered her, but they could hardly do it\" (2:71). Commentators report from Ibn 'Abbas that any cow would have done had they obeyed at once." },
+        { "p": "And there was Qarun, \"from the people of Moses\", whose treasure-keys weighed down a band of strong men (28:76). Told to \"do good as Allah has done good to you\" (28:77), he replied, \"I was only given it because of knowledge I have\" (28:78). The earth swallowed him and his home (28:81). Wealth itself was never his crime. Forgetting where it came from was." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Why Tell Israel's Failures to Muslims?",
+      "blocks": [
+        { "p": "A fair-minded reader, especially a Jewish one, may ask a hard question. The Quran spends many pages on the failings of the Children of Israel: the calf, the complaints, the broken covenant. Is this hostility to a people?" },
+        { "p": "Look first at what else the Quran says about them. Allah \"preferred you over the worlds\" (2:47). Musa reminded them that Allah had \"appointed among you prophets\" (5:20). \"Among the people of Moses is a community which guides by truth and by it establishes justice\" (7:159). Of the People of the Book generally: \"They are not [all] the same\" (3:113). Its criticism targets specific acts, and it notes the faithful exceptions." },
+        { "p": "Then look at who is being addressed. Most of these passages were revealed to Muslims, and they function as warnings to them. The Prophet ﷺ said, in a hadith in al-Bukhari and Muslim, that his community would follow the ways of those before them span by span and cubit by cubit, so closely that if they entered a lizard's hole, Muslims would follow. Asked whether he meant the Jews and Christians, he answered, \"Who else?\"" },
+        { "p": "That is the key. The stories are a mirror, held up to the community that inherited the covenant. A Muslim reading about the calf should ask what he has made of gold; reading about the cow, whether he obeys or only negotiates. Reading these passages as a license to look down on others misses their purpose." },
+        { "p": "The Quran's deepest attitude to Musa's people is that of a family member: it shares their prophets, honours their faithful, and warns its own followers against repeating their mistakes." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "In Need of Whatever Good You Send",
+      "blocks": [
+        { "p": "Go back to the man under the tree in Madyan. He has lost his home, his family, his status as a prince of Egypt. He is wanted for killing a man. He has just done a kindness for two strangers and received nothing for it. And he says: *Rabbi inni lima anzalta ilayya min khayrin faqir*." },
+        { "verse": "28:24" },
+        { "p": "Notice what he does not do. He does not list his needs: food, shelter, work, safety, a wife. He does not complain about the injustice of his flight. He simply declares himself *faqir*, poor, in need, before whatever good Allah chooses to send. He leaves the shape of the answer to Allah. The answer came within hours, and it was more than he could have asked for." },
+        { "p": "There is a lesson in the order of events too. The kindness came first; the prayer came second; the answer came third. He helped others while he himself was in need, and then turned to Allah with nothing to bargain with. Many Muslims say this prayer when job-hunting, when moving to a new city, when waiting for news that will change their lives." },
+        { "p": "In the Quran's telling, the decisive moments of Musa's life were quiet ones: a mother told not to fear, a fugitive under a tree, a man at a fire told to take off his sandals. Whatever river you have been thrown into, it flows where Allah directs it." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "timeline",
-    "title": "The life of Musa",
-    "label": "explained",
-    "caption": "The order follows the Quran's accounts and common scholarly reading. The Quran does not say when in his life the cow or Qarun came, so they are marked undated.",
-    "items": [
-      {
-        "at": "Infancy",
-        "label": "The river",
-        "text": "His mother sets him afloat; Pharaoh's household takes him in.",
-        "ref": "28:7"
-      },
-      {
-        "at": "Youth",
-        "label": "A fatal blow",
-        "text": "He strikes a man who dies, repents, and flees.",
-        "ref": "28:15-16"
-      },
-      {
-        "at": "Madyan",
-        "label": "Shelter and marriage",
-        "text": "He waters two women's flocks; years of work and marriage.",
-        "ref": "28:23-28"
-      },
-      {
-        "at": "Tuwa",
-        "label": "The fire on the mount",
-        "text": "Allah speaks to him and sends him to Pharaoh.",
-        "ref": "20:9-14",
-        "mark": true
-      },
-      {
-        "at": "Egypt",
-        "label": "The magicians",
-        "text": "Their tricks are swallowed; they fall down believing.",
-        "ref": "20:69-70"
-      },
-      {
-        "at": "Exodus",
-        "label": "The sea",
-        "text": "The sea parts; Israel crosses and Pharaoh's army drowns.",
-        "ref": "26:63-66",
-        "mark": true
-      },
-      {
-        "at": "Sinai",
-        "label": "Forty nights",
-        "text": "The Tablets are given; Harun leads in his place.",
-        "ref": "7:142-145"
-      },
-      {
-        "at": "Sinai",
-        "label": "The calf",
-        "text": "The Samiri's calf; Musa returns angry and grieved.",
-        "ref": "20:85-97"
-      },
-      {
-        "at": "Sinai",
-        "label": "The covenant",
-        "text": "The mount raised over them: take the Torah firmly.",
-        "ref": "2:63"
-      },
-      {
-        "at": "Desert",
-        "label": "Forty years",
-        "text": "Refusing to enter the land, they wander.",
-        "ref": "5:26"
-      },
-      {
-        "at": "Undated",
-        "label": "The cow",
-        "text": "Told to slaughter a cow, they question and delay.",
-        "ref": "2:67-71"
-      },
-      {
-        "at": "Undated",
-        "label": "Qarun",
-        "text": "The proud rich man is swallowed by the earth.",
-        "ref": "28:81"
-      }
-    ]
-  },
-  "word": {
-    "ar": "مِيثَاقٌ",
-    "tr": "mīthāq",
-    "root": [
-      "و",
-      "ث",
-      "ق"
-    ],
-    "meaning": "A firm covenant, a binding pledge",
-    "nuance": "From a root meaning to tie fast and to trust. The same root gives \"the most trustworthy handhold\" (2:256). The Quran uses mīthāq for the pledge with the Children of Israel (2:83), the covenant taken from the prophets (33:7), and even marriage, \"a solemn covenant\" (4:21).",
-    "refs": [
-      "2:83",
-      "33:7",
-      "4:21"
-    ]
-  },
-  "mixup": {
-    "myth": "Harun made the golden calf.",
-    "truth": "In the Quran's account, the Samiri made the calf (20:85-88). Harun warned the people, \"you are only being tested by it... follow me\" (20:90), but they refused until Musa returned. When Musa seized him, Harun explained he had feared dividing the people (20:94). The Quran clears Harun of the idol.",
-    "refs": [
-      "20:88",
-      "20:90",
-      "20:94"
-    ]
-  },
-  "remember": [
-    "Musa is the prophet named most often in the Quran; his story runs from the river to the parted sea.",
-    "Even Pharaoh was to be addressed with gentle speech (20:44).",
-    "The covenant's core: worship Allah alone, kindness to family and the needy, good speech, prayer and zakah (2:83)."
-  ],
-  "memorize": "28:24",
+  "carry": "28:24",
   "quiz": [
     {
+      "q": "What two promises were given to Musa's mother in 28:7?",
+      "options": ["He would become rich and powerful", "He would be returned to her and made a messenger", "He would never be found by Pharaoh", "He would be king of Egypt"],
+      "answer": 1,
+      "why": "28:7: \"We will return him to you and will make him [one] of the messengers.\" 28:13 shows the first promise kept: \"We restored him to his mother.\""
+    },
+    {
       "q": "How were Musa and Harun told to speak to Pharaoh?",
-      "options": [
-        "With a warning of fire",
-        "In writing only",
-        "With gentle speech",
-        "Through his magicians"
-      ],
+      "options": ["With a warning of fire", "In writing only", "With gentle speech", "Through his magicians"],
       "answer": 2,
-      "why": "20:44: \"And speak to him with gentle speech that perhaps he may be reminded or fear [Allah].\""
+      "why": "20:44: \"speak to him with gentle speech that perhaps he may be reminded or fear [Allah].\" The message was firm; the manner was gentle."
     },
     {
       "q": "In the Quran's account, who made the calf the people worshipped?",
-      "options": [
-        "Harun",
-        "The Samiri",
-        "Qarun",
-        "Pharaoh"
-      ],
+      "options": ["Harun", "The Samiri", "Qarun", "Pharaoh"],
       "answer": 1,
-      "why": "20:85-88 name the Samiri. Harun had warned the people against it (20:90)."
+      "why": "20:85-88 name the Samiri. Harun warned the people, \"you are only being tested by it... follow me\" (20:90)."
     },
     {
-      "q": "What did the magicians do when Musa's staff swallowed what they had made?",
-      "options": [
-        "Fled the city",
-        "Demanded a second contest",
-        "Asked Pharaoh for a reward",
-        "Fell down in prostration, believing"
-      ],
-      "answer": 3,
-      "why": "20:70: they said, \"We have believed in the Lord of Aaron and Moses.\" Even Pharaoh's threats did not move them (20:71-72)."
+      "q": "When Pharaoh declared belief as he drowned (10:90), what was the reply?",
+      "options": ["It was accepted and he was saved", "\"Now? And you had disobeyed before?\", and his body was kept as a sign", "He was given more time to repent", "No reply was given"],
+      "answer": 1,
+      "why": "10:91-92: \"Now? And you had disobeyed [Him] before... So today We will save you in body that you may be to those who succeed you a sign.\" Faith at the moment of death came too late."
     }
   ],
-  "reflect": "Alone and far from home, Musa told Allah, \"I am, for whatever good You would send down to me, in need\" (28:24). What would you ask for if you prayed that today?",
-  "deeper": [
-    "20:9-98",
-    "26:10-68",
-    "28:3-43",
-    "2:49-74",
-    "7:103-171",
-    "18:60-82",
-    "79:15-26"
-  ],
+  "reflect": "Alone and far from home, Musa told Allah, \"I am, for whatever good You would send down to me, in need\" (28:24). Where in your life are you trying to dictate the answer, and what would it mean to leave its shape to Allah?",
+  "deeper": ["20:9-98", "26:10-68", "28:3-43", "2:49-74", "7:103-171", "18:60-82", "79:15-26"],
   "links": [
-    {
-      "label": "Pharaoh's journey",
-      "href": "/timeline/journey/firaun"
-    },
-    {
-      "label": "Qarun's journey",
-      "href": "/timeline/journey/qarun"
-    },
-    {
-      "label": "Musa on the timeline",
-      "href": "/timeline/prophets/musa"
-    },
-    {
-      "label": "The Samiri",
-      "href": "/timeline/villains/samiri"
-    }
+    { "label": "Pharaoh's journey", "href": "/timeline/journey/firaun" },
+    { "label": "Qarun's journey", "href": "/timeline/journey/qarun" },
+    { "label": "Musa on the timeline", "href": "/timeline/prophets/musa" },
+    { "label": "The Samiri", "href": "/timeline/villains/samiri" }
   ],
-  "connections": [
-    3,
-    7,
-    12,
-    16
-  ],
+  "connections": [3, 7, 12, 16],
   "status": "draft"
 }

@@ -1,178 +1,167 @@
 {
   "day": 21,
-  "title": "Hell",
+  "title": "Hell: The Warning Given in Time",
   "question": "Why does a book of mercy describe the Fire so plainly?",
-  "emblem": "flame",
-  "intro": [
-    "The Quran speaks about the Fire often, and it says why: \"mention of the Fire is not but a reminder to humanity\" (74:31). It is a warning given while there is still time, from the same Lord who says His mercy encompasses all things (7:156).",
-    "Today is a model for reading carefully. Some details are stated in the verses: angels as its keepers, nineteen over Saqar, one keeper named Malik, a tree called Zaqqum. Others come from hadith or scholarly reasoning, such as seven layered levels, or exactly who stays and for how long. We will mark which is which, and end where the Quran so often ends: with the door to mercy."
-  ],
-  "passages": [
+  "summary": "What the Quran actually says about the Fire, what comes from hadith and scholarship, where scholars differ on its duration, and why its warnings always arrive beside an open door.",
+  "cover": {
+    "alt": "A long high wall at dusk with one open door, warm light and green shade on the far side, a dry plain of dark stone and heat haze on the near side",
+    "prompt": "A long, high stone wall crossing a vast plain at dusk, with a single tall door standing open in it. Through the door, soft golden light and the green of trees; on the near side, dark volcanic stone, heat haze and a smoky amber sky. The open door is the brightest point in the scene."
+  },
+  "chapters": [
     {
-      "ref": "66:6",
-      "context": "Madinan, from at-Tahrim. Addressed to believers, about themselves and their families.",
-      "point": "The warning turns inward first: protect yourself and those you love. Its keepers are angels who only do what Allah commands.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Nineteen, and the Men Who Laughed",
+      "blocks": [
+        { "p": "Makkah, in the early years of the call. A wealthy elder of the Makhzum clan has listened to the Prophet ﷺ recite, and the words have unsettled him. The commentators name him: al-Walid ibn al-Mughirah, a man of large herds, many sons and a famous ear for Arabic speech. The biographies report that the leaders of Quraysh came to him before the pilgrimage season with a practical problem. Tribes would be arriving from all over Arabia. What should they all agree to call Muhammad ﷺ, so that no one would listen?" },
+        { "p": "Soothsayer? Al-Walid rejected it: this was not the mumbling rhyme of soothsayers. Madman? There was no madness in it. Poet? He knew every metre, and this fitted none. In the end he chose a word not because it was true but because it would work: magic. The Quran captures the scene frame by frame:" },
+        { "verse": "74:18-25" },
+        { "p": "The answer comes immediately, and it is the first time many in Makkah heard a name of the Fire: *Saqar*. \"It lets nothing remain and leaves nothing [unburned]... Over it are nineteen\" (74:28-30). The commentators report that the number became a joke at once. Ibn Kathir records that Abu Jahl turned to the men of Quraysh and asked whether every ten of them could not overpower one of these keepers. Another, the commentators add, boasted that he would deal with all nineteen himself, ten with his right arm and nine with his left." },
+        { "p": "Then came a verse that did something unusual: it explained why the number had been given at all. The keepers are angels, it says, and their number is \"a trial\": the believers will grow in faith, the scoffers will ask what God could possibly mean by it, and \"none knows the soldiers of your Lord except Him.\" Then the last line, which is the key to this whole day: \"And mention of the Fire is not but a reminder to humanity\" (74:31)." },
+        { "image": "day-21-makkah-dusk", "alt": "The valley of Makkah at dusk, mud-brick houses and dark hills under a deep orange sky", "caption": "The Fire was first described to a town that laughed at it.", "prompt": "The narrow valley of ancient Makkah at dusk, low mud-brick houses and flat roofs huddled between dark, bare granite hills. The sky is a deep, smoky orange fading to violet, a few oil lamps glowing in doorways, a hot wind lifting dust along the empty lane." },
+        { "p": "*Dhikrā*, a reminder. Not a threat issued after the door has closed, but a warning delivered while every one of those laughing men could still listen and turn. Many in that Makkah did turn, in time." }
+      ]
     },
     {
-      "ref": "74:26-30",
-      "context": "Makkan, about a man who heard the Quran and called it \"magic\" (74:18-25). 74:31 says the number is a test.",
-      "point": "The Quran gives a number, nineteen, and stops there. Who the nineteen are is not detailed; \"none knows the soldiers of your Lord except Him\" (74:31).",
-      "label": "stated"
+      "lens": "text",
+      "title": "What the Verses Actually Say",
+      "blocks": [
+        { "p": "The Quran speaks of the Fire in well over a hundred verses, mostly Makkan, mostly short and charged. They are less a map than a series of sharp, deliberate strokes. Start with the one addressed to believers, about themselves:" },
+        { "verse": "66:6" },
+        { "p": "The warning turns inward before it turns outward: protect *yourselves* and *your families*. The fuel is \"people and stones\", and early commentators explained the stones in two ways: Ibn Mas'ud and others said stones of sulphur, which burn fiercest, while others saw in them the idols people had worshipped, which the Quran elsewhere calls \"the firewood of Hell\" (21:98). The keepers are angels who \"do not disobey Allah\". Hell is not a rebel kingdom. It is under command, like everything else." },
+        { "p": "Surah al-Mulk gives the Fire something like a voice. When people are thrown in, \"they hear from it a [dreadful] inhaling while it boils up. It almost bursts with rage\" (67:7-8). Then its keepers ask every arriving group one question: \"Did there not come to you a warner?\" The answer is not ignorance but refusal, \"a warner had come to us, but we denied\", and their verdict on themselves: \"If only we had been listening or reasoning\" (67:8-10). The Fire is the end of a road that ran past many open doors." },
+        { "p": "Other verses add single, unforgettable details. A drink \"he will gulp... but will hardly [be able to] swallow\", and \"death will come to him from everywhere, but he is not to die\" (14:16-17). A tree, Zaqqum, \"issuing from the bottom of the Hellfire\" (37:64). A keeper with a name, Malik, to whom the people of the Fire call out, asking for an end; he answers, \"Indeed, you will remain\" (43:77). And in Surah al-Humazah, a fire \"which mounts directed at the hearts\" (104:7), for the man who \"thinks that his wealth will make him immortal\" (104:3)." },
+        { "p": "Two threads run through all of these. The punishment matches a choice: arrogance, mockery, hoarding, denial. And the Quran keeps insisting on fairness: \"We did not wrong them, but it was they who were the wrongdoers\" (43:76)." }
+      ]
     },
     {
-      "ref": "37:62-66",
-      "context": "Makkan, from as-Saffat, set against the people of Paradise in 37:40-61.",
-      "point": "Zaqqum is stated as a tree rising from the Fire's depths. Scholars explain \"heads of the devils\" as an image of horror no one has seen.",
-      "label": "explained"
+      "lens": "scholar",
+      "title": "Seven Gates and Many Names",
+      "blocks": [
+        { "p": "The Quran gives the Fire several names. *Jahannam* is the most common. Others appear only a handful of times, often in a passage that pauses to ask, \"And what can make you know what is...?\", a Quranic signal that the reality exceeds the word." },
+        { "figure": { "kind": "facts", "title": "Names the Quran gives the Fire", "items": [
+          { "value": "Jahannam", "label": "the most common name, for the whole Fire (78:21)" },
+          { "value": "Laẓā", "label": "the Flame, \"a remover of exteriors\" (70:15-16)" },
+          { "value": "Al-Ḥuṭamah", "label": "the Crusher, \"directed at the hearts\" (104:4-7)" },
+          { "value": "As-Saʿīr", "label": "the Blaze (67:10)" },
+          { "value": "Saqar", "label": "leaves nothing; nineteen are over it (74:26-30)" },
+          { "value": "Al-Jaḥīm", "label": "the fierce Fire; Zaqqum grows from its base (37:64)" },
+          { "value": "Al-Hāwiyah", "label": "the Abyss, for those whose scales are light (101:8-9)" }
+        ] } },
+        { "p": "The Quran says Hell \"has seven gates; for every gate is of them a portion designated\" (15:44), and that the hypocrites will be \"in the lowest depths of the Fire\" (4:145). From these, many commentators described the Fire as layered, with deeper levels for graver wrongs, and some matched the seven names to seven levels. That ordering is a later scholarly reading, not a list the Quran gives. Other scholars treat the names as descriptions of one Fire. Both views are old and respectable; what matters is that the Quran itself speaks of degrees, as it does for Paradise." },
+        { "p": "The hadith add a sense of scale. The Prophet ﷺ told his companions that the fire people kindle on earth is one part of seventy parts of the fire of Jahannam (al-Bukhari and Muslim). In another report, also in both collections, the Fire complained to its Lord that its parts were consuming one another, and was allowed two breaths, one in winter and one in summer: the fiercest heat and the bitterest cold people feel." },
+        { "word": { "ar": "النَّار", "tr": "an-nār", "root": ["ن", "و", "ر"], "meaning": "The Fire", "nuance": "The Quran's plainest word for Hell, used far more than any of its proper names. Its root n-w-r also gives nūr, light, and manārah, the place of light from which the word minaret comes. In Arabic, fire and light are one family. The same Book that warns of an-nār calls Allah \"the Light of the heavens and the earth\" (24:35): one root, two destinies." } },
+        { "note": "The Quran states the nineteen keepers, Malik, Zaqqum, the seven gates, the drink and the names. Levels matched to names, many physical details and most numbers come from hadith of varying strength or from scholarly reasoning. A careful reader keeps the two apart.", "title": "Stated, and explained" }
+      ]
     },
     {
-      "ref": "11:106-108",
-      "context": "Makkan, closing Hud's stories of past nations.",
-      "point": "Both abide \"as long as the heavens and the earth endure, except what your Lord should will.\"",
-      "label": "differ",
-      "note": "Most read the exception as sinful believers who leave the Fire, as hadith in al-Bukhari and Muslim describe; for the rest it is forever. A minority, discussed by Ibn al-Qayyim, held the Fire may end."
+      "lens": "reason",
+      "title": "Why Would a Merciful God Make a Fire?",
+      "blocks": [
+        { "p": "The objection at full strength: the Quran calls Allah *ar-Rahman*, the Most Merciful, in the opening line of almost every surah. A finite life cannot deserve punishment without end. And many people never meet Islam in any form they could reasonably accept. How is this just?" },
+        { "p": "The Quran does not dodge the question; it answers it in pieces. First, it ties punishment to a message actually received: \"never would We punish until We sent a messenger\" (17:15). Those who never received the message, called *ahl al-fatrah*, are widely held to be excused, and a hadith in the Musnad of Ahmad describes them being tested on the Day itself. Al-Ghazali, the eleventh-century theologian, argued that someone who heard of the Prophet ﷺ only in a distorted, hostile picture is like one who never heard at all. Who has truly received the message is known to Allah, not to us." },
+        { "p": "Second, the Quran insists on exactness: \"Allah does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it\" (4:40). Evil is recorded as it is; good is multiplied. The scales are tilted, but toward mercy." },
+        { "p": "Third, the question of duration. Scholars answered that what is punished is not seventy years of acts but a settled state of the soul. The Quran says of those in the Fire that if they were returned, \"they would return to that which they were forbidden\" (6:28). Rejection of Allah, knowingly and to the end, is a refusal of the source of all good, and the Quran presents the Fire as the place where that refusal is finally granted." },
+        { "p": "Fourth, and simplest: a warning is itself mercy. A sign at a cliff edge that says *danger* is not cruelty; the cruel thing would be to stay silent. Satan's own words on the Day make the point: \"I had no authority over you except that I invited you, and you responded to me. So do not blame me; but blame yourselves\" (14:22)." },
+        { "p": "Honesty requires one more sentence. These arguments show that the Quran's picture is coherent, not that it is easy. Belief in a just and merciful Judge whose verdicts are beyond us is, finally, trust: the Quran gives reasons for it, but does not pretend it is anything other than faith." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "As Long as the Heavens Endure",
+      "blocks": [
+        { "p": "Is the Fire forever? Several verses say its people abide there *khālidīna fīhā abadan*, \"eternally, forever\" (for example 4:169 and 72:23). But two verses carry a striking exception, and the debate over them is one of the most interesting in Islamic theology." },
+        { "verse": "11:106-108" },
+        { "p": "The same phrase, \"except what your Lord should will\", appears for both the Fire and Paradise. But for Paradise the verse closes the door at once: \"a bestowal uninterrupted\". For the Fire it says only, \"your Lord is an effecter of what He intends.\" The same exception appears in 6:128." },
+        { "note": "The great majority of Sunni scholars, and the Shi'a, hold that sinful believers may enter the Fire for a time and then leave it, and that the exception refers to them, as the intercession hadith in al-Bukhari and Muslim describe. For those who rejected faith knowingly, the Fire is everlasting; al-Jalalayn reads the exception as extending the duration so that it becomes endless. A minority view, reported from a few early figures and examined at length by Ibn al-Qayyim, held that the Fire itself might one day end through Allah's mercy; his own final position is debated, and the majority rejected the view. All agree that Paradise never ends.", "title": "Where scholars differ" },
+        { "p": "What everyone agrees on is the hope for believers. The Prophet ﷺ described his intercession on the Day, and Allah bringing out of the Fire anyone with faith in their heart the weight of a mustard seed, even the weight of an atom (al-Bukhari and Muslim). For a believer, scholars explain, the Fire is a purification, not a final address. The Quran names one sin it does not forgive, *shirk*, associating partners with Allah, when a person dies upon it unrepentant (4:48); every other door stays on its hinges." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The Voices Inside",
+      "blocks": [
+        { "p": "Collect every scene of the Fire in the Quran and something unexpected stands out: it is full of talking. Almost all of it is blame, regret, and asking for one more chance." },
+        { "p": "Leaders and followers turn on each other. Each new nation that enters \"curse[s] its sister\", and the followers ask that their leaders be given double; Allah answers, \"For each is double, but you do not know\" (7:38). In Surah Sad the welcome is bitter: \"No welcome for them\", and the reply, \"Nor you! No welcome for you\" (38:59-60). The passage ends with a dry verdict: \"Indeed, that is truth - the quarreling of the people of the Fire\" (38:64)." },
+        { "p": "There is also a quieter, sadder line. The people of the Fire look around and ask, \"Why do we not see men whom we used to count among the worst?\" (38:62). The poor believers they mocked are not there. The ranks of the world have been turned upside down." },
+        { "verse": "35:37" },
+        { "p": "This verse holds the moral centre of the Quran's picture. Their plea is reasonable-sounding: send us back, we will do better. And the answer is not anger but a question: *did We not grant you life enough?* The same plea is made at death and answered: \"It is only a word he is saying\" (23:99-100)." },
+        { "p": "Read this way, the Fire scenes are aimed at the living. Every regret spoken there is one the reader can still act on today. The Quran shows the end of the road so that no one has to walk it." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "The Last Man Out",
+      "blocks": [
+        { "p": "Among the most surprising hadith about the Fire is one the Prophet ﷺ told with a smile. It is reported by 'Abdullah ibn Mas'ud in al-Bukhari and Muslim, and it is about the very last person to leave the Fire and enter Paradise." },
+        { "p": "He crawls out, the Prophet ﷺ said, and is told to enter Paradise. He goes, and it seems to him full, so he comes back: my Lord, I found it full. He is told again to go, and again he returns. Then he is told that he has the like of the whole world, and ten times as much. And the man, unable to believe it, says: are You mocking me, while You are the King? Ibn Mas'ud said he saw the Prophet ﷺ laugh until his back teeth showed as he told it." },
+        { "p": "The very last believer out of the Fire is given ten worlds." },
+        { "p": "Two more reports from the same collections complete the picture. The Prophet ﷺ said that Allah made mercy in a hundred parts, kept ninety-nine with Himself, and sent down one: from that single part all creatures show compassion, so that a mare lifts her hoof away from her foal for fear of hurting it. And once, after a battle, the companions saw a captive woman searching frantically for her child; when she found him she pressed him to her chest and nursed him. The Prophet ﷺ asked whether they thought she would throw her child into a fire. No, they said. \"Allah is more merciful to His servants than this woman is to her child.\"" },
+        { "quote": "My mercy prevails over My wrath.", "by": "Allah, in a hadith qudsi reported by al-Bukhari and Muslim" }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Two Wings for One Bird",
+      "blocks": [
+        { "p": "The Quran almost never leaves fear alone on the page. Look at how it pairs them: \"inform My servants that it is I who am the Forgiving, the Merciful. And that it is My punishment which is the painful punishment\" (15:49-50). Mercy first, then warning, in the same breath." },
+        { "p": "Ibn al-Qayyim, the fourteenth-century scholar of the heart, described the believer as a bird travelling to Allah: love is its head, fear and hope are its two wings. Cut either wing and the bird cannot fly. Fear without hope becomes despair, which the Quran calls a trait of \"the disbelieving people\" (12:87). Hope without fear becomes carelessness, the comfortable assumption that nothing matters." },
+        { "p": "If you read today's verses and felt only dread, read them again beside this one, revealed to people who feared their past had sealed them out:" },
+        { "verse": "39:53" },
+        { "p": "And if you read them and felt nothing at all, notice that too. The Quran describes the people of the Fire saying, \"If only we had been listening or reasoning\" (67:10). The reminder is offered now, while listening is still possible." },
+        { "p": "A short prayer from the Quran, said by the people it calls the servants of the Most Merciful:" },
+        { "verse": "25:65-66" }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Half a Date",
+      "blocks": [
+        { "p": "For a practising Muslim, belief in the Fire is not a topic visited once a year. It is folded into daily prayer. In the final sitting of each prayer, the Prophet ﷺ taught his companions to seek refuge in Allah from four things, beginning with the punishment of Jahannam (Muslim). Many Muslims also close supplications with 2:201: good in this world, good in the Hereafter, \"and protect us from the punishment of the Fire.\"" },
+        { "p": "The Prophet ﷺ also made the way out strikingly small. \"Protect yourselves from the Fire, even with half a date,\" he said, and if you cannot find that, then with a good word (al-Bukhari and Muslim). Half a date given to the hungry. A kind sentence. The Fire is serious, and the means of escaping it are within everyone's reach." },
+        { "list": [
+          "**No one is assigned to Hell by name by other people.** Mainstream scholarship forbids declaring any specific individual to be in the Fire. Final states belong to Allah.",
+          "**The warning is for oneself first.** 66:6 begins with \"protect yourselves\"; using the Fire to frighten or condemn others turns the verse inside out.",
+          "**For a non-Muslim friend:** when a Muslim speaks of the Fire, they usually mean it as the Quran does, as care. It is often the same instinct that makes them want to share their faith at all."
+        ] },
+        { "p": "The Prophet ﷺ said that the Fire is surrounded by desires and Paradise by hardships (al-Bukhari and Muslim). One road is pleasant at first, the other steep at first. That is why the Quran speaks so plainly: it wants no one to be surprised." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ladder",
-    "title": "The names of the Fire",
-    "caption": "Names the Quran gives the Fire, each from a verse. Many scholars treat them as names of one Fire; ordering them as seven levels, one for each gate of 15:44, is a later scholarly reading.",
-    "label": "explained",
-    "items": [
-      {
-        "label": "Jahannam",
-        "text": "The most common name, used for the whole Fire",
-        "ref": "78:21"
-      },
-      {
-        "label": "Laẓā",
-        "text": "The Flame, \"a remover of exteriors\"",
-        "ref": "70:15-16"
-      },
-      {
-        "label": "Al-Ḥuṭamah",
-        "text": "The Crusher, \"directed at the hearts\"",
-        "ref": "104:4-7"
-      },
-      {
-        "label": "As-Saʿīr",
-        "text": "The Blaze",
-        "ref": "67:10"
-      },
-      {
-        "label": "Saqar",
-        "text": "Leaves nothing unburned; nineteen are over it",
-        "ref": "74:26-30"
-      },
-      {
-        "label": "Al-Jaḥīm",
-        "text": "The fierce Fire; Zaqqum grows from its base",
-        "ref": "37:64"
-      },
-      {
-        "label": "Al-Hāwiyah",
-        "text": "The Abyss, for those whose scales are light",
-        "ref": "101:8-9"
-      }
-    ]
-  },
-  "word": {
-    "ar": "النَّار",
-    "tr": "an-nār",
-    "root": [
-      "ن",
-      "و",
-      "ر"
-    ],
-    "meaning": "The Fire",
-    "nuance": "The Quran's plainest word for Hell, used far more than any other name. Its root n-w-r also gives nūr, light: in Arabic fire and light are one family of words. The same Book that warns of the Fire calls Allah \"the Light of the heavens and the earth\" (24:35).",
-    "refs": [
-      "66:6",
-      "24:35"
-    ]
-  },
-  "mixup": {
-    "myth": "In Islam, Hell is Satan's kingdom, where he rules and punishes people.",
-    "truth": "The Quran says the Fire's keepers are angels who obey Allah (66:6, 74:31), one of them named Malik (43:77). Satan is not its ruler but one of its people: Allah tells him, \"I will surely fill Hell with you and those of them that follow you\" (38:85). On the Day he disowns his followers (14:22).",
-    "refs": [
-      "66:6",
-      "43:77",
-      "38:85",
-      "14:22"
-    ]
-  },
-  "remember": [
-    "The Quran mentions the Fire as a reminder, given while the door to mercy is still open (74:31, 39:53).",
-    "Stated: angel keepers, nineteen over Saqar, Malik, Zaqqum, a scalding drink (14:16-17). Levels and many details are explained.",
-    "Hadith in al-Bukhari and Muslim say believers with faith in their hearts are brought out of the Fire. His mercy encompasses all things (7:156)."
-  ],
-  "memorize": "15:49-50",
+  "carry": "15:49-50",
   "quiz": [
     {
-      "q": "Who are the keepers of the Fire, according to 66:6 and 74:31?",
-      "options": [
-        "Devils led by Iblis",
-        "The jinn",
-        "Angels who obey Allah"
-      ],
-      "answer": 2,
-      "why": "66:6: over it \"are [appointed] angels, harsh and severe; they do not disobey Allah.\" 74:31: \"We have not made the keepers of the Fire except angels.\""
-    },
-    {
-      "q": "Which keeper do the people of the Fire call out to by name in 43:77?",
-      "options": [
-        "Malik",
-        "Jibril",
-        "Harut",
-        "Mika'il"
-      ],
-      "answer": 0,
-      "why": "43:77: \"O Malik, let your Lord put an end to us!\" He answers, \"Indeed, you will remain.\""
-    },
-    {
-      "q": "In 38:59-64 and 7:38-39, what do the people of the Fire do with each other?",
-      "options": [
-        "Praise one another",
-        "Argue and blame each other",
-        "Sit in silence"
-      ],
+      "q": "Why does 74:31 say the Fire is mentioned at all?",
+      "options": ["To describe a place for the curious", "As a reminder to humanity", "To prove the number nineteen", "To frighten only the Quraysh"],
       "answer": 1,
-      "why": "Followers blame their leaders and leaders blame followers. 38:64: \"Indeed, that is truth - the quarreling of the people of the Fire.\""
+      "why": "74:31 ends: \"And mention of the Fire is not but a reminder to humanity.\" It is a warning given while there is still time to turn."
+    },
+    {
+      "q": "According to 66:6 and 74:31, who are the keepers of the Fire?",
+      "options": ["Satan and his followers", "The jinn", "Angels who obey Allah", "The worst of humanity"],
+      "answer": 2,
+      "why": "66:6 says its keepers are \"angels, harsh and severe; they do not disobey Allah\", and 74:31: \"We have not made the keepers of the Fire except angels.\" Satan is one of its people (38:85), not its ruler."
+    },
+    {
+      "q": "What principle in 17:15 shapes how scholars think about people who never received the message?",
+      "options": ["Everyone is judged by the same knowledge", "Allah never punishes until He has sent a messenger", "Only the Arabs were warned", "Deeds do not matter, only belief"],
+      "answer": 1,
+      "why": "17:15: \"And never would We punish until We sent a messenger.\" Many scholars, including al-Ghazali, held that those who never truly received the message are excused or tested on the Day."
+    },
+    {
+      "q": "What do the keepers ask each group thrown into the Fire in 67:8?",
+      "options": ["\"Did there not come to you a warner?\"", "\"How long did you live?\"", "\"Who misled you?\"", "\"What is your name?\""],
+      "answer": 0,
+      "why": "67:8: its keepers ask, \"Did there not come to you a warner?\" They reply that one came but they denied, and wish they had listened or reasoned (67:9-10)."
     }
   ],
-  "reflect": "The Quran pairs its warnings with an open door, so what helps you hold fear and hope together in your own life?",
-  "deeper": [
-    "78:21-30",
-    "104",
-    "43:74-78",
-    "14:16-17",
-    "40:49-50",
-    "7:38-39",
-    "38:55-64",
-    "4:145",
-    "15:43-44"
-  ],
+  "reflect": "The Quran pairs fear and hope like two wings. Which one is stronger in you right now, and what would it take to steady the other?",
+  "deeper": ["78:21-30", "104", "43:74-78", "14:16-17", "40:49-50", "7:38-39", "38:55-64", "4:145", "15:43-44", "57:13-15", "67:6-11"],
   "links": [
-    {
-      "label": "Does God forgive all sins?",
-      "href": "/learn/does-god-forgive-all-sins"
-    },
-    {
-      "label": "Read Surah Al-Muddaththir",
-      "href": "/surah/al-muddaththir"
-    },
-    {
-      "label": "Iblis",
-      "href": "/timeline/villains/iblis"
-    }
+    { "label": "Does God forgive all sins?", "href": "/learn/does-god-forgive-all-sins" },
+    { "label": "Read Surah Al-Muddaththir", "href": "/surah/al-muddaththir" },
+    { "label": "Iblis", "href": "/timeline/villains/iblis" }
   ],
-  "connections": [
-    4,
-    20,
-    22,
-    23
-  ],
+  "connections": [4, 20, 22, 23],
   "review": true,
   "status": "draft"
 }

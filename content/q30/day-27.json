@@ -1,113 +1,145 @@
 {
   "day": 27,
   "title": "Halal, Haram and the Penalties",
-  "question": "Is the list of what Allah forbids long or short?",
-  "emblem": "lock",
-  "intro": [
-    "Halal means permitted; haram means forbidden. The Quran's starting point is generous: eat of what is lawful and good (2:168). It names what is forbidden, and it condemns people who invent prohibitions and attribute them to Allah (16:116). Scholars draw a principle from this: things are lawful unless shown otherwise.",
-    "It also names a few grave wrongs with fixed penalties in this world: unlawful sex, falsely accusing someone of it, theft, armed robbery, and murder. These verses are often quoted without their conditions. Today you will read them with those conditions: strict proof, a court rather than individuals, and the door of repentance the verses themselves keep open.",
-    "Where details come from hadith and the schools of law rather than the verse, the label says so."
-  ],
-  "passages": [
+  "question": "Is the list of what Allah forbids long or short, and how are its penalties meant to work?",
+  "summary": "The Quran's default is generous: most things are lawful. Read its short list of prohibitions, the stages of the ban on wine, and the few fixed penalties with the proof, courts and repentance that surround them.",
+  "cover": {
+    "alt": "A low dry-stone wall with an open wooden gate around a green field at sunrise",
+    "prompt": "A wide green field of barley enclosed by a low dry-stone boundary wall in a rocky Arabian valley at sunrise, a simple open wooden gate in the wall, palm trees beyond, soft gold light and long shadows."
+  },
+  "chapters": [
     {
-      "ref": "7:33",
-      "context": "Makkah. 6:151-153 gives a longer list, and 4:31 promises that avoiding the major sins wipes away lesser ones.",
-      "point": "The forbidden is named: indecency open or hidden, sin, oppression, associating partners with Allah, and speaking about Allah without knowledge.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Who Has Forbidden the Adornment of Allah?",
+      "blocks": [
+        { "p": "Many people picture Islamic law as a long list of things not allowed. The Quran begins from the other end. Its first word on food to all of humanity is an invitation: \"O mankind, eat from whatever is on earth [that is] lawful and good\" (2:168). And when it names the forbidden, it does so with a short list introduced by a pointed question." },
+        { "verse": "7:32-33" },
+        { "p": "Notice the word *only*: \"My Lord has *only* forbidden\". What follows is not a catalogue of foods or pastimes but five kinds of wrong: indecency, open or hidden; sin; oppression; associating partners with Allah; and saying about Allah what you do not know. The last is aimed squarely at religious people. Inventing prohibitions is itself a sin: \"do not say about what your tongues assert of untruth, 'This is lawful and this is unlawful,' to invent falsehood about Allah\" (16:116)." },
+        { "p": "From verses like these the jurists drew a principle almost every school accepts: in food, drink, clothing, trade and daily life, things are lawful unless a clear text forbids them. Worship works the other way: there, nothing is added unless Allah and His Messenger ﷺ taught it." },
+        { "word": { "ar": "حَرَام", "tr": "ḥarām", "root": ["ح", "ر", "م"], "meaning": "Forbidden; sacred", "nuance": "The root means to set apart and fence off. It names the Sacred Mosque, *al-Masjid al-Haram*, and the sacred months: what is haram is protected, either because it is holy or because it harms. Its opposite, *halal*, comes from a root meaning to untie a knot: what is released for use." } },
+        { "p": "The food list shows the method. The Quran forbids four things and then opens a door." },
+        { "verse": "2:173" },
+        { "p": "Carrion, blood, pork and what is offered to other than Allah; 5:3 adds animals killed by strangling, blows or falls. Then the exception: whoever is forced by necessity, \"neither desiring [it] nor transgressing [its limit], there is no sin upon him.\" Even the forbidden yields to a starving person. And 5:5 makes the food of Jews and Christians lawful for Muslims, and Muslims' food lawful for them." }
+      ]
     },
     {
-      "ref": "2:173",
-      "context": "Madinah. 5:3 adds animals killed by strangling, blows or falls; 5:5 allows the food of the People of the Book.",
-      "point": "Only a few foods are forbidden: carrion, blood, pork, and what is dedicated to other than Allah. Under real necessity, there is no sin.",
-      "label": "stated"
+      "lens": "story",
+      "title": "The Night the Wine Ran Through Madinah",
+      "blocks": [
+        { "p": "Wine was woven into Arabian life; its poets sang of it. The Quran did not forbid it in a single verse. Scholars trace a sequence. In Makkah, a verse simply notes that from palms and vines people take \"intoxicant and good provision\" (16:67), setting the two side by side as different things. In Madinah, a question is answered: in wine and gambling \"is great sin and [yet, some] benefit for people. But their sin is greater than their benefit\" (2:219). Then a practical limit: do not approach prayer while intoxicated \"until you know what you are saying\" (4:43)." },
+        { "p": "The Sunan collections report that 'Umar ibn al-Khattab prayed after each stage for a clear and final ruling. It came in al-Ma'idah." },
+        { "verse": "5:90-91" },
+        { "p": "Al-Bukhari and Muslim preserve what happened next through Anas ibn Malik, who was a boy at the time. He was pouring drinks for a gathering at Abu Talhah's house when a caller passed in the street announcing that wine had been forbidden. Abu Talhah told him to go out and pour it away. Anas poured it out, and that night, he said, it flowed through the streets of Madinah. No one waited to finish his cup." },
+        { "image": "day-27-jars", "alt": "Overturned clay jars by a mud-brick wall at night, dark liquid running down a sandy lane", "caption": "Anas said the wine flowed in the lanes of Madinah.", "prompt": "A narrow lane between mud-brick houses in seventh-century Madinah at night, lit by a single oil lamp in a wall niche; several large clay jars lie tipped on their sides by a doorway, dark liquid running in thin streams down the packed sandy ground." },
+        { "p": "The gradual path is often noted by scholars as a model of teaching: habits are loosened before they are broken. The verse itself names the harm in social terms: enmity, hatred, and a mind turned away from remembrance and prayer. Gambling, *maysir*, sits beside wine for the same reasons." }
+      ]
     },
     {
-      "ref": "5:90-91",
-      "context": "The last of three stages on alcohol, after 2:219 and 4:43.",
-      "point": "Intoxicants and gambling are called defilement from Satan that breeds enmity and keeps people from prayer. Scholars read \"avoid it\" as a complete ban.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Hudud: Boundaries, Not a Penal Code",
+      "blocks": [
+        { "p": "The word most associated with Islamic punishments is *hudud*, singular *hadd*, \"a boundary\". In the Quran it almost always means something wider: \"These are the limits of Allah, so do not transgress them\" (2:229), said of marriage and divorce. Jurists later used it for a small, specific group of offences whose penalties are fixed by the Quran or the Sunnah and cannot be raised or lowered by a judge." },
+        { "list": [
+          "**From the Quran:** unlawful sexual intercourse (*zina*, 24:2), falsely accusing someone of it (*qadhf*, 24:4), theft (5:38) and armed robbery or terror on the roads (*hirabah*, 5:33).",
+          "**From the Sunnah:** a penalty for drinking wine, which the Prophet ﷺ set at around forty strokes and which 'Umar, after consulting the Companions, raised to eighty (Muslim).",
+          "**A separate category:** retribution for killing and injury, *qisas* (2:178), which belongs to the victim's family and can be forgiven."
+        ] },
+        { "p": "Everything else falls under *ta'zir*: discretionary penalties set by the courts of a given time and place, which may be anything from a warning to a fine to prison." },
+        { "figure": { "kind": "compare", "title": "Two kinds of penalty in classical law", "left": { "title": "Hudud (fixed)", "items": ["A handful of named offences", "Penalty fixed by text", "Strict proof: confession or a set number of witnesses", "Any real doubt cancels the penalty", "Applied only by a lawful court and ruler"] }, "right": { "title": "Ta'zir (discretionary)", "items": ["All other wrongs", "Penalty set by the judge or the state", "Ordinary rules of evidence", "Can be lighter, heavier or pardoned", "Varies with time, place and need"] } } },
+        { "p": "Classical scholars across the schools agreed on three guardrails. First, hudud are for the state: an individual who takes a penalty into his own hands commits a crime himself. Second, the offender must be adult, sane, acting by choice and aware of the prohibition. Third, doubt defeats a hadd. The maxim \"avert the hudud through doubts\" is reported from the Prophet ﷺ in chains scholars consider weak, but it is firmly reported from Companions such as 'Umar and Ibn Mas'ud, and the jurists treated it as settled law. A confession could be withdrawn at any point." },
+        { "note": "Most Muslims never encounter these penalties. Islamic law, as its manuals show, is overwhelmingly about prayer, fasting, family, contracts and inheritance; the hudud chapters are a few pages in volumes of thousands.", "title": "A matter of proportion" }
+      ]
     },
     {
-      "ref": "24:2",
-      "context": "Proof requires four witnesses to the act (24:4, 24:13) or a free confession.",
-      "point": "Proven unlawful sex (zina) carries a hundred lashes, applied by a court without pity suspending the law.",
-      "label": "differ",
-      "note": "Sahih's \"[unmarried]\" follows the majority, who apply stoning to married offenders from hadith in al-Bukhari and Muslim. A minority, early and modern, hold that 24:2 covers all."
+      "lens": "text",
+      "title": "Four Witnesses and a Slander",
+      "blocks": [
+        { "p": "Surah an-Nur, \"the Light\", calls itself a surah \"made obligatory\", then sets out its first rulings." },
+        { "verse": "24:1-5" },
+        { "p": "The penalty for proven *zina* is a hundred lashes, carried out publicly and without pity suspending the law. The next ruling is the one that usually goes unquoted: whoever accuses a chaste woman and cannot bring **four witnesses** receives eighty lashes, and his testimony is never accepted again. The burden falls on the accuser. Classical law required four adult witnesses of good character who each saw the act itself, clearly, at the same time; vague or inconsistent testimony turned the penalty on the witnesses. In the historical record, where it was established at all, it was almost always by confession." },
+        { "p": "The context is the key. Verses 11 to 20 respond to the slander against 'Aishah, the Prophet's ﷺ wife, which spread through Madinah for a month before revelation cleared her. The Quran asks: \"Why did they [who slandered] not produce for it four witnesses?\" (24:13). The law of zina in an-Nur sits inside a surah written to protect reputations. Its sharpest edge is turned against gossip." },
+        { "p": "Even a husband who accuses his wife without witnesses cannot simply have her punished. Verses 6 to 9 set out *li'an*: he swears four times and invokes Allah's curse on himself if he lies; she may swear four times in return, which \"will prevent punishment from her\" (24:8). The marriage ends, and the matter is left with Allah." },
+        { "note": "Sahih International's bracket \"[unmarried]\" follows the majority view: 24:2 concerns the unmarried, and stoning for a married offender comes from the Sunnah, through reports in al-Bukhari and Muslim, including 'Umar's statement that stoning had been part of revelation. A minority, early and modern, hold that 24:2 is the only penalty for zina and that the stoning reports came before it. Both sides agree on the four-witness standard.", "title": "Where scholars differ" }
+      ]
     },
     {
-      "ref": "5:38-39",
-      "context": "Madinah. The penalty is stated; its conditions come from the Sunnah and the jurists.",
-      "point": "Applied only with firm proof, above a minimum value, from a secured place, and not under need or doubt; 'Umar suspended it in a famine. 5:39 opens repentance.",
-      "label": "explained"
+      "lens": "story",
+      "title": "\"Even If Fatimah Stole\"",
+      "blocks": [
+        { "p": "A woman of Makhzum, one of the proudest clans of Quraysh, was caught stealing after the conquest of Makkah. Her clan dreaded the disgrace. They asked Usamah ibn Zayd, whom the Prophet ﷺ loved dearly, to plead for her. Al-Bukhari and Muslim report that the Prophet's ﷺ face changed. \"Do you intercede concerning one of the limits of Allah?\" he asked. Then he stood and addressed the people: those before you were destroyed because when a noble person stole they let him go, and when a weak person stole they punished him." },
+        { "quote": "By Allah, if Fatimah the daughter of Muhammad were to steal, I would cut off her hand.", "by": "The Prophet ﷺ, in Sahih al-Bukhari and Sahih Muslim" },
+        { "p": "The first lesson of the theft penalty is equality before the law. The verse itself is brief, and it ends with the door open." },
+        { "verse": "5:38-39" },
+        { "p": "Its conditions came from the Sunnah and the jurists, and they are strict. The stolen item had to reach a minimum value, a quarter of a gold dinar according to 'Aishah's report in al-Bukhari and Muslim. It had to be taken by stealth from a secured place, not snatched, embezzled or borrowed and kept. It could not be something in which the thief had a share, such as public funds or a parent's property. And it could not be stolen out of need: the reports say 'Umar suspended the penalty in the year of famine, and jurists cite this as a principle, not an exception. A society that lets people starve has no standing to cut a hungry thief's hand." },
+        { "p": "Confession was not rushed either. When Ma'iz came to confess to zina, al-Bukhari and Muslim record, the Prophet ﷺ turned his face away four times, asked whether he was mad, and suggested that perhaps he had only kissed or touched. When a woman of Ghamid confessed, he sent her home until her child was born, then until it was weaned. The law existed. The Prophet ﷺ visibly hoped people would repent privately and never stand before it." }
+      ]
     },
     {
-      "ref": "2:178",
-      "from": "O you who have believed, prescribed for you",
-      "to": "and a mercy.",
-      "context": "Reports say it ended tribal feuds where the strong took many lives for one. 2:179: in retribution there is life.",
-      "point": "Murder is answered by equal retribution through the law, yet the victim's family may forgive and accept compensation (diyah), which the verse calls a mercy.",
-      "label": "stated"
+      "lens": "text",
+      "title": "In Retribution, There Is Life",
+      "blocks": [
+        { "p": "Before Islam, a killing in Arabia could set off a feud that ran for generations. A powerful tribe might demand several lives, or a nobleman's life, for one of its own. Ibn Kathir reports that the verse of *qisas*, legal retribution, was revealed against exactly this." },
+        { "verse": "2:178-179" },
+        { "p": "Three things happen in two verses. Retribution is limited to the killer: one life answers for one life, and no one else may be touched. The victim's family is given a choice: they may forgo retribution and accept compensation, *diyah*, which the Sunnah set at a hundred camels or its value. And the verse calls that choice \"an alleviation from your Lord and a mercy\". Then 2:179 gives the reason in a phrase rhetoricians admired for its compression: *wa lakum fi al-qisasi hayah*, \"in legal retribution [there is saving of] life\"." },
+        { "p": "Accidental killing is treated quite differently: no retribution, but compensation to the family and an act of expiation (4:92). And the gravity of killing is set by the verse on Cain and Abel: whoever kills a soul, except for a life or corruption in the land, \"it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely\" (5:32)." },
+        { "p": "The harshest penalty in the Quran follows a few verses later, for *hirabah*." },
+        { "verse": "5:33-34" },
+        { "p": "Al-Bukhari reports the incident behind it: men who had been nursed back to health in Madinah killed the herdsman who cared for them and drove off the camels. Classical jurists applied the verse to armed bands who rob and terrorise travellers; Ibn 'Abbas graded its options by the crime, while Malik left the choice to the ruler. Many modern scholars apply it to terrorism. And even here, 5:34 offers a way out: those who repent before they are caught are spared the penalty." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Are These Laws Too Harsh?",
+      "blocks": [
+        { "p": "The objection deserves its full weight. Lashing and amputation are bodily punishments that most legal systems today reject as cruel. Stoning is worse. And history includes states and armed groups that applied these penalties carelessly, unjustly, and mostly to the poor. Why should anyone defend them?" },
+        { "p": "Several things can be said honestly. First, these penalties are heavily surrounded. The evidence demanded for zina is so high that conviction is almost impossible without confession. Theft has its own long list of conditions. Repentance is written into the verses themselves (5:34, 5:39, 24:5). The result is a penalty that mostly declares how grave a wrong is, and is only rarely carried out." },
+        { "p": "Second, the Quran addresses a society, not a mob. Classical law gave these penalties only to a legitimate court and ruler, with qualified judges, and assumed a community where needs were met and justice was not bought. Individuals and vigilante groups have no right to them in any mainstream school." },
+        { "p": "Third, there is a question of faith that should not be hidden. A Muslim believes these verses are from Allah, and so does not call them cruel. He may still ask, as scholars have always asked, whether the conditions for applying them exist in a given time and place." },
+        { "note": "Today most Muslim-majority countries do not apply the hudud; a few do, in varying forms. Some contemporary scholars have called for a suspension until the conditions of justice, evidence and social welfare are truly met, citing 'Umar's suspension in famine. Others reply that the law should be applied with its full conditions rather than set aside.", "title": "A live debate" }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Avoid the Great Ones, and the Small Are Wiped Away",
+      "blocks": [
+        { "p": "After all this law, the Quran returns to the person who is actually reading it. Few of us will ever stand before a court. All of us will stand before Allah." },
+        { "p": "Surah an-Nisa makes a promise: \"If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise]\" (4:31). The major sins, *al-kaba'ir*, are the ones the Quran and Sunnah name with special warning: associating partners with Allah, murder, zina, consuming orphans' wealth, riba, abandoning parents, false testimony. Steer clear of these, and the daily slips are washed by prayer, charity and repentance." },
+        { "p": "Surah al-Furqan goes further. After naming the gravest wrongs, it adds an exception that has given hope to people for fourteen centuries." },
+        { "verse": "25:68-70" },
+        { "p": "Not only forgiven: \"Allah will replace their evil deeds with good.\" Many of the Companions had worshipped idols, drunk and gambled. The Quran asked them to turn, and promised that the turning would rewrite the account." },
+        { "p": "This is the deepest purpose of the boundaries. A fence around a field is not there to trap whoever comes near. It shows where the drop is. And the gate in the wall is always open from the inside: \"O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah\" (39:53)." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ladder",
-    "title": "Lines not to cross",
-    "caption": "The commands of 6:151-153, in the order the verses give them. Ibn Mas'ud is reported to have called these verses the Prophet's ﷺ sealed testament.",
-    "label": "stated",
-    "items": [
-      { "label": "No partners", "text": "Associate nothing with Allah.", "ref": "6:151" },
-      { "label": "Parents", "text": "Treat them with goodness.", "ref": "6:151" },
-      { "label": "Children", "text": "Do not kill them for fear of poverty.", "ref": "6:151" },
-      { "label": "Indecency", "text": "Do not even approach it, open or hidden.", "ref": "6:151" },
-      { "label": "Life", "text": "Take no life except by legal right.", "ref": "6:151" },
-      { "label": "Orphans' wealth", "text": "Guard it in the best way until they mature.", "ref": "6:152" },
-      { "label": "Measure", "text": "Give full measure and weight in justice.", "ref": "6:152" },
-      { "label": "Words", "text": "Be just when you speak, even about a relative.", "ref": "6:152" },
-      { "label": "Covenant", "text": "Fulfil the covenant of Allah.", "ref": "6:152" },
-      { "label": "The straight path", "text": "Follow it; other ways scatter you from His way.", "ref": "6:153" }
-    ]
-  },
-  "word": {
-    "ar": "حَرَام",
-    "tr": "ḥarām",
-    "root": ["ح", "ر", "م"],
-    "meaning": "Forbidden; sacred",
-    "nuance": "Something set apart and fenced off. The same root names the Sacred Mosque (al-Masjid al-Haram) and the sacred months: what is haram is protected, either because it is holy or because it harms. Its opposite, halal, comes from a root meaning to untie: released for use.",
-    "refs": ["6:151", "16:116"]
-  },
-  "mixup": {
-    "myth": "Islamic law is mostly a list of harsh punishments that any Muslim may carry out.",
-    "truth": "Only a few fixed penalties appear in the Quran, each bound by strict proof, such as four witnesses (24:4). Classical scholars agreed they belong to a lawful court, never to individuals, and that doubt prevents them. The verses also keep repentance open (5:34, 5:39, 24:5). Most of Islamic law concerns worship, family, trade and character.",
-    "refs": ["24:4", "5:39", "5:34"]
-  },
-  "remember": [
-    "The default is lawful and good; the forbidden is named, and inventing prohibitions is itself condemned (2:168, 7:33, 16:116).",
-    "Fixed penalties are few, need strict proof, and belong to a court, never to individuals.",
-    "Avoiding major sins wipes away lesser ones, and repentance is offered within the penalty verses themselves (4:31, 5:39)."
-  ],
-  "memorize": "4:31",
+  "carry": "4:31",
   "quiz": [
     {
-      "q": "How many witnesses does the Quran require for an accusation of unlawful sex?",
-      "options": ["Two", "One", "Three", "Four"],
-      "answer": 3,
-      "why": "24:4 punishes those who accuse and \"then do not produce four witnesses\"; 24:13 repeats the requirement."
-    },
-    {
-      "q": "What does 2:173 say about someone forced by necessity to eat forbidden food?",
-      "options": ["There is no sin upon them", "They must fast in expiation", "They must refuse even if starving"],
+      "q": "What does 7:33 begin the list of the forbidden with?",
+      "options": ["\"My Lord has only forbidden\", followed by a short list of grave wrongs", "A long list of forbidden foods", "A list of forbidden clothes and adornments", "The penalties for theft"],
       "answer": 0,
-      "why": "2:173: \"whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him.\""
+      "why": "7:33: \"My Lord has only forbidden immoralities... and sin, and oppression without right...\" The verse before it asks, \"Who has forbidden the adornment of Allah?\""
     },
     {
-      "q": "In 2:178, what may a murder victim's family choose instead of retribution?",
-      "options": ["Exile of the killer's whole tribe", "To forgive and accept compensation", "Nothing; retribution is required", "Revenge on any relative"],
+      "q": "In 24:4, what happens to someone who accuses a chaste woman without four witnesses?",
+      "options": ["Nothing, if he believes it", "The accused must prove her innocence", "He receives eighty lashes and his testimony is never accepted again", "The case goes to her family"],
+      "answer": 2,
+      "why": "24:4: \"those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after.\" The burden of proof is on the accuser."
+    },
+    {
+      "q": "Why do jurists cite 'Umar's suspension of the theft penalty in the year of famine?",
+      "options": ["To show the penalty was abolished", "As a principle that need and doubt prevent the penalty", "Because theft was not a crime then", "Because he had no judges"],
       "answer": 1,
+      "why": "The theft penalty applies only without need or doubt. 'Umar's famine ruling is cited to show that a starving person is not punished with the hadd; 5:39 also keeps repentance open."
+    },
+    {
+      "q": "According to 2:178, what may a murder victim's family choose instead of retribution?",
+      "options": ["Revenge on any relative of the killer", "Exile of the killer's tribe", "Nothing; retribution is required", "To forgive and accept compensation, which the verse calls a mercy"],
+      "answer": 3,
       "why": "2:178: \"whoever overlooks from his brother anything, then there should be a suitable follow-up and payment to him with good conduct. This is an alleviation from your Lord and a mercy.\""
     }
   ],
-  "reflect": "Which of the lines in 6:151-153 do you most want to guard more carefully in your own life?",
-  "deeper": ["6:151-153", "4:31", "5:3-5", "2:219", "4:43", "24:4-5", "5:33-34", "4:92-93", "5:32", "2:102", "25:68-70"],
+  "reflect": "Is there a \"boundary\" in your own life that you once resented and now see as protecting you? What does 25:70 say to the part of you that still carries an old wrong?",
+  "deeper": ["6:151-153", "4:31", "5:3-5", "2:219", "4:43", "24:4-5", "5:33-34", "4:92-93", "5:32", "2:102", "25:68-70", "24:11-20", "39:53"],
   "links": [
     { "label": "What is Sharia law?", "href": "/learn/what-is-sharia-law" },
     { "label": "Why don't Muslims eat pork?", "href": "/learn/why-dont-muslims-eat-pork" },

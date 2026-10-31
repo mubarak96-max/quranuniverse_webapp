@@ -1,217 +1,155 @@
 {
   "day": 12,
-  "title": "Kings, the Patient and Other Accounts",
+  "title": "Kings, the Patient and the Unnamed",
   "question": "What do a king, an ant and a man inside a fish have in common?",
-  "emblem": "crown",
-  "intro": [
-    "Today is a gallery of shorter accounts: kings and prophets, the patient and the persecuted, and people the Quran leaves unnamed. Dawud (David) and Sulayman (Solomon) held great power. Ayyub (Job) and Yunus (Jonah) knew deep hardship. Young believers hid in a cave, and a lone believer stood up in a town that rejected its messengers.",
-    "Why does the Quran return to stories so often, even retelling them? It answers itself: \"each [story] We relate to you... is that by which We make firm your heart\" (11:120). Each telling adds a new angle. Watch for one thread through them all: whether a person meets blessing and trial with gratitude."
-  ],
-  "passages": [
+  "summary": "A gallery of shorter accounts: Dawud and Sulayman with their kingdoms, Ayyub and Yunus in their darkness, youths in a cave and believers nobody named. One thread runs through them all: gratitude and patience under test.",
+  "cover": {
+    "alt": "A wide valley at dawn with long lines of tiny ant mounds and distant hills",
+    "prompt": "A broad, quiet valley at dawn seen from low to the ground, countless small ant mounds in the sandy earth, a winding line of ants between them, distant blue hills and a pale sky with the first sunlight spilling over the ridge."
+  },
+  "chapters": [
     {
-      "ref": "2:249",
-      "from": "But those who were certain",
-      "to": "And Allah is with the patient.",
-      "context": "Talut (Saul) leads a small army against Jalut (Goliath); most failed a test at a river.",
-      "point": "The certain few trust Allah, not numbers. In the battle that follows, young Dawud kills Jalut and is given kingship (2:251).",
-      "label": "stated"
+      "lens": "reason",
+      "title": "Why Tell the Same Stories Again?",
+      "blocks": [
+        { "p": "Anyone who reads the Quran from cover to cover notices it. Musa appears in dozens of surahs. Nuh's flood is told several times. Some stories are given in a page, others in three verses, others in a single line. A reader used to biographies, with a beginning, a middle and an end, can find this frustrating. Why not tell each story once, fully, and move on?" },
+        { "p": "The Quran answers the question itself, and the answer shows what kind of book it is." },
+        { "verse": "11:120" },
+        { "p": "The stories are not there to record history for its own sake. They are there to make a heart firm, first the Prophet's ﷺ in Makkah, under pressure, then every reader's. So each retelling is cut to the need of its moment. When the Prophet ﷺ was mocked, the Quran told him of messengers who were mocked. When he was grieving, it told him of prophets who grieved and were answered. The details change because the lesson being drawn changes." },
+        { "p": "That is also why the Quran leaves out so much: names, dates, the colour of the dog in the cave, the exact number of years. When people argued about how many youths slept in the cave, the Quran told the Prophet ﷺ not to dispute the matter beyond what is clear: \"My Lord is most knowing of their number\" (18:22). What matters is what the story does to you. It insists, too, that these are true accounts: \"Never was the Qur'an a narration invented\" (12:111)." },
+        { "p": "Today's accounts are short ones, most only a few verses long. Read them as a set and a pattern emerges. Some people are tested with blessing: kingdoms, armies, wealth. Some are tested with hardship: illness, darkness, persecution. The Quran treats both as tests of the same thing." },
+        { "figure": { "kind": "compare", "title": "Two kinds of test", "left": { "title": "Tested with blessing", "items": ["Dawud: kingship and strength (38:17-20)", "Sulayman: wind, jinn and the speech of birds (27:16)", "The Queen of Saba': a great throne (27:23)", "Dhul-Qarnayn: power across the earth (18:84)", "The people of Saba': two gardens (34:15)"] }, "right": { "title": "Tested with hardship", "items": ["Ayyub: long illness and loss (21:83)", "Yunus: the belly of the fish (21:87)", "The youths of the cave: exile for their faith (18:10)", "The believers of the trench: fire (85:4-8)", "The man from the city's edge: killed for his words (36:20-27)"] } } }
+      ]
     },
     {
-      "ref": "27:18-19",
-      "context": "Sulayman, son of Dawud, marches with his soldiers of jinn, men and birds (27:17).",
-      "point": "A king hears an ant's warning, smiles, and asks Allah to help him be grateful. His power makes him humbler, not prouder.",
-      "label": "stated"
+      "lens": "story",
+      "title": "The Valley of the Ants",
+      "blocks": [
+        { "p": "Sulayman, Solomon, inherited from his father Dawud a kingdom the Quran describes in images no other ruler receives. The wind ran at his command. Jinn worked for him, building chambers and basins like reservoirs. He was taught *mantiq al-tayr*, the speech of birds (27:16). And he marched at the head of an army of jinn, men and birds, kept in ordered ranks." },
+        { "p": "Somewhere on that march the army came down into a valley, and the Quran turns its attention from the mightiest creature in the scene to the smallest." },
+        { "verse": "27:18-19" },
+        { "p": "The ant is not hostile. She does not accuse the king of cruelty. She says he will crush them \"while they perceive not\", which the commentators admired: even an ant assumes the best of a prophet's army. Its harm would be an accident, not an intention." },
+        { "p": "And the king smiles. The Arabic, *fa-tabassama dahikan*, holds both a smile and a laugh, the delight of a king who has just overheard an insect warning others about him. Then, without a pause, comes his prayer: \"My Lord, enable me to be grateful.\" The phrase, *awzi'ni an ashkura*, is usually explained as \"inspire me to be grateful\"; its root carries the sense of holding something in check, as though gratitude were a discipline he could slip out of if Allah did not hold him to it." },
+        { "p": "This is what the Quran wants you to see. Immense power, an army of three kinds of creature, and the reaction to a tiny voice is humility. He asks for gratitude for blessings on himself *and on his parents*, then for good deeds Allah approves, then to be admitted among the righteous. The most powerful man in the story asks, at the end, simply to be counted among good people." },
+        { "p": "The same prayer, almost word for word, appears in Surah al-Ahqaf on the lips of any person who reaches forty years of age (46:15). A king's du'a is offered to everyone." }
+      ]
     },
     {
-      "ref": "21:87-88",
-      "context": "Yunus left his people in anger. Scholars explain the \"darknesses\" as night, the sea and the belly of the fish.",
-      "point": "From the deepest dark he glorifies Allah and admits his wrong, and he is saved. The promise is wider: \"thus do We save the believers.\"",
-      "label": "stated"
+      "lens": "text",
+      "title": "A Hoopoe, a Queen and a Floor of Glass",
+      "blocks": [
+        { "p": "The next scene in Surah an-Naml begins with a roll call. Sulayman inspects his birds and finds the hoopoe missing. The bird returns with news he did not have: in Saba', Sheba in southern Arabia, a woman rules a prosperous people with a great throne, and they bow to the sun (27:22-24). A small bird lectures a king on what he had not \"encompassed\"." },
+        { "p": "Sulayman writes to her. She consults her council, tests him with a gift, and finally sets out to visit. Before she arrives, her throne is brought to Sulayman's court in the blink of an eye, by \"one who had knowledge from the Scripture\". Sulayman's first words on seeing it are the key to the whole story." },
+        { "verse": "27:40" },
+        { "p": "Every blessing is a question: will I be grateful, or ungrateful? Sulayman sees a miracle performed for him and reads it as an examination. Then he states a principle the Quran repeats elsewhere: gratitude benefits the grateful. Allah does not need it." },
+        { "p": "The queen's story ends with one of the Quran's most graceful conversions. She is led into a palace whose floor is so smooth with glass she takes it for water and lifts her skirts to wade. Told the truth, she sees how much else she has mistaken for something it was not." },
+        { "verse": "27:44" },
+        { "p": "Notice her words: she submits *with* Sulayman, not *to* him. A queen keeps her dignity. Both of them bow to the same Lord." },
+        { "word": { "ar": "شُكْرٌ", "tr": "shukr", "root": ["ش", "ك", "ر"], "meaning": "Gratitude", "nuance": "Shukr is thanks shown in the heart, on the tongue and in action. Its opposite, kufr, means covering over a gift as if it were never given, which is also the Quran's word for disbelief. Dawud's family is told, \"Work, O family of David, in gratitude\" (34:13): gratitude is something you do. And Allah promises, \"If you are grateful, I will surely increase you\" (14:7)." } }
+      ]
     },
     {
-      "ref": "85:4-8",
-      "context": "The Quran does not name them. A hadith in Muslim tells of a boy, a tyrant king and a trench of fire; others link it to Najran.",
-      "point": "Believers are burned for one reason only: their faith in Allah. Those who did it sat and watched.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Dawud, the King Who Kept Turning Back",
+      "blocks": [
+        { "p": "Before he was a king, Dawud, David, was a young soldier in a small army. Surah al-Baqarah tells how Talut, Saul, led the Israelites against Jalut, Goliath. At a river Talut tested his men: whoever drank his fill was not of him. Most drank. The few who remained said, \"How many a small company has overcome a large company by permission of Allah\" (2:249)." },
+        { "verse": "2:251" },
+        { "p": "The Quran gives him kingship, prophethood and the *Zabur*, the Psalms (4:163). It says the mountains and birds joined him in praising Allah at dawn and dusk (38:18-19), and that iron was made pliable in his hands to make coats of mail (34:10-11). Yet the quality it repeats is neither his strength nor his songs. It is *awwab*: one who returns again and again to Allah (38:17). His son receives the same title (38:30)." },
+        { "p": "The hadith fill in his devotion. The Prophet ﷺ said, in al-Bukhari and Muslim, that the most beloved fasting to Allah is the fasting of Dawud, who fasted one day and ate the next, and the most beloved night prayer is his: he slept half the night, prayed a third, and slept a sixth. In al-Bukhari the Prophet ﷺ also said that no one eats better food than what he earns with his own hands, and that Dawud ate from the work of his hands. A king who made armour for a living." },
+        { "note": "The Quran mentions a test of Dawud, when two litigants climbed into his prayer chamber (38:21-25), and a test of Sulayman, \"a body\" placed on his throne (38:34). Some later reports filled these in with scandalous detail drawn from older traditions. Ibn Kathir and other careful commentators warn against these *Isra'iliyyat*, as such borrowed stories are called, and many reject them outright as unfitting for prophets. The Quran itself only says that each turned to his Lord in repentance and was forgiven.", "title": "A caution on the commentaries" }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Two Calls From the Dark",
+      "blocks": [
+        { "p": "Kings are tested with plenty. Two prophets in today's gallery were tested with the opposite, and the Quran places their prayers side by side in Surah al-Anbiya, the surah of the prophets." },
+        { "p": "Ayyub, Job, lost his health, his wealth and his family. The Quran does not list his sufferings. It records only his prayer, and its courtesy is remarkable." },
+        { "verse": "21:83-84" },
+        { "p": "He does not complain. He does not even ask. He describes his condition, *adversity has touched me*, and names Allah by mercy. Scholars call this the finest form of supplication: to set your need before the Most Merciful and trust Him with the rest. In Surah Sad Allah's verdict on him is two words in Arabic: *ni'ma al-'abd*, \"an excellent servant\" (38:44)." },
+        { "p": "Yunus, Jonah, is a different case. He left his people in anger before Allah permitted him, boarded a laden ship, was thrown overboard and swallowed by a great fish (37:139-142). His darkness was partly his own doing, and his prayer admits it." },
+        { "verse": "21:87-88" },
+        { "p": "The commentators say \"the darknesses\" are three: the night, the deep sea, and the belly of the fish. From inside all three he says three things: Allah alone is God, Allah is free of all fault, and *I* was the wrongdoer. The Prophet ﷺ said, in a hadith in al-Tirmidhi, that no Muslim calls on Allah with the prayer of the man of the fish in any matter but that Allah answers him. And the verse ends with a door left open for every reader: *thus do We save the believers*." },
+        { "p": "If your darkness was not your fault, pray as Ayyub prayed. If it was, pray as Yunus did. Either way, the Quran says, someone is listening." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "Youths in a Cave, a Wall of Iron",
+      "blocks": [
+        { "p": "Surah al-Kahf, the eighteenth, was revealed, the commentators report, after the Quraysh asked the Prophet ﷺ three test questions, suggested to them by Jewish rabbis of Madinah: about the spirit, about young men who vanished long ago, and about a man who travelled to the ends of the earth. Two of the answers are in this surah." },
+        { "p": "The first is the youths. In a city whose ruler demanded idol worship, a handful of young men refused and fled to a cave, praying, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance\" (18:10). Allah cast sleep over them. The sun rose and set without touching them, their bodies were turned in sleep, and their dog lay stretched at the entrance (18:17-18)." },
+        { "image": "day-12-cave", "alt": "Sunlight falling past the mouth of a cave in a rocky hillside, the inside in cool shadow", "caption": "\"You would see the sun when it rose, inclining away from their cave\" (18:17)", "prompt": "The wide mouth of a cave in a rugged rocky hillside at sunrise, golden sunlight slanting past the entrance and leaving the cool interior in shadow, a dog lying stretched out with its forelegs forward at the threshold, wild grasses and stones." },
+        { "p": "They woke thinking they had slept a day. They had slept \"three hundred years and exceeded by nine\" (18:25). The town had become believing. Their awakening, the Quran says, was a sign that the promise of resurrection is true (18:21)." },
+        { "p": "The second answer is Dhul-Qarnayn, \"the one with two horns\", a ruler given power across the earth. At the end of his travels a people beg him to build a barrier against Gog and Magog. He refuses payment, asks only for their labour, and builds a wall of iron sheets sealed with molten copper. Then, looking at his own great work, he says, \"This is a mercy from my Lord\" (18:98)." },
+        { "note": "The Quran gives no name, era or land for Dhul-Qarnayn. Some early writers identified him with Alexander the Great; Ibn Kathir distinguished the two, since Alexander of Macedon was not a believer in one God. Some modern scholars, such as Abul Kalam Azad, proposed Cyrus of Persia. Others prefer to leave him unidentified, as the Quran does.", "title": "Who was Dhul-Qarnayn?" }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The People Nobody Named",
+      "blocks": [
+        { "p": "Some of the Quran's most moving figures have no names at all. Surah al-Buruj, a short Makkan surah, recalls believers burned in a trench of fire." },
+        { "verse": "85:4-8" },
+        { "p": "The verses give the reason in one line: they were persecuted *only* because they believed. A long hadith in Sahih Muslim tells of a boy taught by a monk, a tyrant king who failed again and again to kill him, and the boy's instruction at last: gather the people, and shoot me saying, \"In the name of Allah, the Lord of the boy.\" The king did, the boy died, and the crowd believed. Then the king had trenches dug and set on fire. Many commentators connect this hadith with the surah; others link the verses to a persecution of Christians in Najran in southern Arabia. The Quran revealed it in Makkah, to Muslims who were themselves being tortured for their faith." },
+        { "p": "Surah Ya-Sin tells of a town that rejected three messengers, and a man who came running from its farthest edge." },
+        { "verse": "36:20-27" },
+        { "p": "The commentators report that his people killed him. The Quran does not even describe it. It cuts straight from his speech to the words \"Enter Paradise\", and to his first wish there, which is not revenge. He wishes his people could know how he was forgiven. Even in Paradise he is still trying to guide them." },
+        { "p": "The Quran also tells of the army that marched on Makkah with an elephant in the year, the biographies say, of the Prophet's ﷺ birth, and was destroyed by birds in flocks (105:1-5). Its commander, too, goes unnamed in the Quran. Fame, in these accounts, belongs to no one but Allah." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Gratitude Is Something You Do",
+      "blocks": [
+        { "p": "One story in today's gallery is a warning. The people of Saba' had two gardens on either side of their land and were told, \"Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord\" (34:15). They turned away, and the dam burst. Their gardens became tamarisk and bitter fruit. The Quran asks: \"do We [thus] repay except the ungrateful?\" (34:17). Historians link this to the great dam of Ma'rib in Yemen, which collapsed in the centuries before Islam." },
+        { "p": "Gratitude in the Quran is not a feeling to wait for. It is a practice. Muslims build it into the day in small, concrete ways:" },
+        { "list": [
+          "*Alhamdulillah*, \"praise be to Allah\", after eating, sneezing, waking, and hearing good news. The Prophet ﷺ taught each of these.",
+          "*Sujud al-shukr*, a single prostration of thanks, which the Prophet ﷺ made when good news reached him.",
+          "Using a blessing in a way that pleases its Giver: knowledge to teach, wealth to give, strength to help. This is what \"work... in gratitude\" (34:13) means.",
+          "Sulayman's prayer from 27:19, which many Muslims memorise and say when a blessing arrives."
+        ] },
+        { "p": "Patience is the twin practice. The Prophet ﷺ said, in Sahih Muslim, that the believer's affair is wonderful: if good comes to him he is grateful, and that is good for him; if harm comes to him he is patient, and that is good for him. Every person in today's gallery is in one of those two states. So is every reader." },
+        { "p": "If you have Muslim friends, this explains a habit you may have noticed: asked how they are, they often answer *alhamdulillah* before anything else, whether things are good or bad. It is Sulayman in the valley and Ayyub on his sickbed, condensed into one word." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "gallery",
-    "title": "A gallery of accounts",
-    "caption": "Kings, the patient and the unnamed. Each tile is a story the Quran tells in a few verses; follow the reference to read it whole.",
-    "items": [
-      {
-        "label": "Talut and Jalut",
-        "text": "A faithful few defeat a giant's army.",
-        "ref": "2:249-251",
-        "icon": "shield"
-      },
-      {
-        "label": "Sulayman and the ant",
-        "text": "A king smiles at an ant and gives thanks.",
-        "ref": "27:18-19",
-        "icon": "ant"
-      },
-      {
-        "label": "The Queen of Saba'",
-        "text": "A hoopoe's news leads a queen to submit to Allah.",
-        "ref": "27:20-44",
-        "icon": "crown"
-      },
-      {
-        "label": "Ayyub's patience",
-        "text": "Long affliction, one humble call, health and family restored.",
-        "ref": "21:83-84",
-        "icon": "drop"
-      },
-      {
-        "label": "Yunus and the fish",
-        "text": "A call from the darkness, and rescue.",
-        "ref": "21:87-88",
-        "icon": "fish"
-      },
-      {
-        "label": "Zakariya's prayer",
-        "text": "An old man's private plea; a son named Yahya.",
-        "ref": "19:2-15",
-        "icon": "seed"
-      },
-      {
-        "label": "People of the Cave",
-        "text": "Youths sleep for years, sheltered for their faith.",
-        "ref": "18:9-26",
-        "icon": "cave"
-      },
-      {
-        "label": "Dhul-Qarnayn's wall",
-        "text": "A just ruler builds a barrier of iron and copper.",
-        "ref": "18:83-98",
-        "icon": "wall"
-      },
-      {
-        "label": "The dam of Saba'",
-        "text": "A people turn from gratitude; their gardens are lost.",
-        "ref": "34:15-17",
-        "icon": "wave"
-      },
-      {
-        "label": "People of the Trench",
-        "text": "Believers burned for their faith in Allah.",
-        "ref": "85:4-10",
-        "icon": "flame"
-      },
-      {
-        "label": "The town in Ya-Sin",
-        "text": "A man runs from the city's edge: follow the messengers.",
-        "ref": "36:13-29",
-        "icon": "city"
-      },
-      {
-        "label": "The Elephant",
-        "text": "An army marching on Makkah, scattered by birds.",
-        "ref": "105",
-        "icon": "bird"
-      }
-    ]
-  },
-  "word": {
-    "ar": "شُكْرٌ",
-    "tr": "shukr",
-    "root": [
-      "ش",
-      "ك",
-      "ر"
-    ],
-    "meaning": "Gratitude",
-    "nuance": "Shukr is thanks shown in the heart, on the tongue and in action. Dawud's family is told, \"Work, O family of David, in gratitude\" (34:13). Sulayman sees his power as a test: \"whether I will be grateful or ungrateful\" (27:40). And Allah promises, \"If you are grateful, I will surely increase you\" (14:7).",
-    "refs": [
-      "34:13",
-      "27:40",
-      "14:7"
-    ]
-  },
-  "mixup": {
-    "myth": "The Quran says Dhul-Qarnayn was Alexander the Great.",
-    "truth": "The Quran gives no name, era or land, only his journeys and his justice (18:83-98). Some early writers equated him with Alexander; Ibn Kathir rejected this, since Alexander was not a believer in one God. Some modern scholars suggest Cyrus of Persia. The lesson is in his words: \"This is a mercy from my Lord\" (18:98).",
-    "refs": [
-      "18:83",
-      "18:98"
-    ]
-  },
-  "remember": [
-    "Power is a test of gratitude: Sulayman, with a kingdom, thanks Allah over a tiny ant (27:19, 27:40).",
-    "Ayyub and Yunus called out from sickness and darkness, and Allah answered both (21:83-88).",
-    "The stories repeat because they steady the heart and teach (11:120, 12:111)."
-  ],
-  "memorize": "21:83",
+  "carry": "21:83",
   "quiz": [
     {
-      "q": "What did Sulayman do when he heard the ant warn the others?",
-      "options": [
-        "Ordered his army to halt and camp",
-        "Turned his army back",
-        "Smiled and asked Allah to help him be grateful",
-        "Rewarded the ants' colony"
-      ],
+      "q": "What does Sulayman do when he hears the ant warn her colony?",
+      "options": ["Halts his army and changes direction", "Smiles and asks Allah to keep him grateful", "Orders the hoopoe to find the colony", "Rebukes the ant for doubting his army"],
+      "answer": 1,
+      "why": "27:19: he \"smiled, amused at her speech, and said, 'My Lord, enable me to be grateful for Your favor.'\" Immense power meets a tiny voice with humility and gratitude."
+    },
+    {
+      "q": "How does Sulayman read the sight of the queen's throne appearing before him?",
+      "options": ["As proof that he deserved his kingdom", "As a test of whether he will be grateful or ungrateful", "As a sign that the queen would surrender", "As a trick of the jinn"],
+      "answer": 1,
+      "why": "27:40: \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful.\" In the Quran, blessings are tests as much as hardships are."
+    },
+    {
+      "q": "What do the prayers of Ayyub (21:83) and Yunus (21:87) have in common?",
+      "options": ["Both demand an immediate rescue", "Both blame their people", "Both turn to Allah humbly from hardship, and both are answered", "Both were made from the belly of a fish"],
       "answer": 2,
-      "why": "27:19: he \"smiled, amused at her speech, and said, 'My Lord, enable me to be grateful for Your favor.'\""
+      "why": "Ayyub names his adversity and Allah's mercy; Yunus affirms Allah's oneness and admits his wrong. To each, \"We responded to him\" (21:84, 21:88)."
     },
     {
-      "q": "What did Yunus call out within the darknesses?",
-      "options": [
-        "\"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\"",
-        "\"My Lord, why have You left me here?\"",
-        "\"My Lord, punish the people who rejected me.\""
-      ],
-      "answer": 0,
-      "why": "21:87. \"So We responded to him and saved him from the distress. And thus do We save the believers\" (21:88)."
-    },
-    {
-      "q": "According to 85:8, why were the believers of the Trench persecuted?",
-      "options": [
-        "They refused to pay taxes",
-        "They insulted the king",
-        "They tried to leave the city",
-        "Only because they believed in Allah"
-      ],
-      "answer": 3,
-      "why": "85:8: \"they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy.\""
+      "q": "Why does the Quran tell the Prophet ﷺ not to argue about the number of youths in the cave?",
+      "options": ["Because the number was a secret of the rabbis", "Because the story's lesson matters, not unknowable details", "Because there was only one youth", "Because the cave was never found"],
+      "answer": 1,
+      "why": "18:22: \"My Lord is most knowing of their number... So do not argue about them except with an obvious argument.\" The stories are told to make hearts firm (11:120), not to settle trivia."
     }
   ],
-  "reflect": "Sulayman paused to thank Allah over a single ant. What small blessing from today could you thank Allah for?",
-  "deeper": [
-    "38:17-44",
-    "27:15-44",
-    "18:9-26",
-    "18:83-98",
-    "36:13-29",
-    "19:1-15",
-    "34:10-21",
-    "105"
-  ],
+  "reflect": "Sulayman paused to thank Allah over a single ant, and Ayyub named Allah's mercy from a sickbed. Which test are you living in right now, blessing or hardship, and what would gratitude or patience look like in it today?",
+  "deeper": ["38:17-44", "27:15-44", "18:9-26", "18:83-98", "36:13-29", "19:1-15", "34:10-21", "105"],
   "links": [
-    {
-      "label": "Abraha's journey",
-      "href": "/timeline/journey/abraha"
-    },
-    {
-      "label": "Sulayman on the timeline",
-      "href": "/timeline/prophets/sulayman"
-    },
-    {
-      "label": "Yunus on the timeline",
-      "href": "/timeline/prophets/yunus"
-    },
-    {
-      "label": "Surah al-Kahf",
-      "href": "/learn/surah-al-kahf-benefits"
-    }
+    { "label": "Abraha's journey", "href": "/timeline/journey/abraha" },
+    { "label": "Sulayman on the timeline", "href": "/timeline/prophets/sulayman" },
+    { "label": "Yunus on the timeline", "href": "/timeline/prophets/yunus" },
+    { "label": "Surah al-Kahf", "href": "/learn/surah-al-kahf-benefits" }
   ],
-  "connections": [
-    3,
-    4,
-    13,
-    19
-  ],
+  "connections": [3, 4, 13, 19],
   "status": "draft"
 }

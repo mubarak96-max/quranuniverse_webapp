@@ -2,218 +2,145 @@
   "day": 16,
   "title": "People of the Book and Other Faiths",
   "question": "Does the Quran speak about Jews and Christians in one voice?",
-  "emblem": "scroll",
-  "intro": [
-    "The Quran calls Jews and Christians Ahl al-Kitab, \"People of the Book\": communities who received earlier scripture. It tells Muslims to believe in the Torah given to Musa and the Gospel given to 'Isa, and it honours many of the same prophets.",
-    "Its tone toward them is not single. It praises the upright, invites to common ground, debates, and criticises particular beliefs and deeds, often with the words \"among them\". Alongside this it sets rules for living with people of any faith: no compulsion, justice, and kindness to the peaceful. Today you will hear that range, and see one verse that scholars read in different ways. It also warns Muslims themselves against splitting into sects (3:103)."
-  ],
-  "passages": [
+  "summary": "How the Quran addresses Jews, Christians and people of other faiths: shared prophets and common ground, praise and sharp disagreement, the verses usually quoted without context, and its rules of justice and kindness.",
+  "cover": {
+    "alt": "A hillside town at first light with a monastery, a church, a synagogue and a small mosque side by side",
+    "prompt": "A quiet stone hillside town at first light, where a walled monastery, a small church, a modest synagogue and a mud-brick mosque stand close together along one lane, oil lamps still glowing in their doorways and swallows crossing a pale sky."
+  },
+  "chapters": [
     {
-      "ref": "3:64",
-      "context": "Madinan. Al-Bukhari reports the Prophet ﷺ quoted it in his letter to the Byzantine emperor Heraclius.",
-      "point": "The invitation starts from shared ground: one God, worship of Him alone, no human lords. If it is refused, Muslims simply say who they are.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A King Who Wept in Aksum",
+      "blocks": [
+        { "p": "Around 615 CE, five years after the first revelation, Makkah had become dangerous for the weakest Muslims. The biographies report that the Prophet ﷺ advised a group of them to cross the Red Sea to Abyssinia, because its king, the Negus (*al-Najashi*), was a Christian ruler in whose land no one was wronged. So the first refugees of Islam found safety under a Christian crown." },
+        { "p": "Quraysh did not let them go quietly. They sent two envoys, one of them 'Amr ibn al-'As, with gifts of fine leather for the king and his bishops, asking him to hand the runaways back. The Negus refused to judge a people he had not heard. He summoned the Muslims to his court, and their spokesman, Ja'far ibn Abi Talib, the Prophet's ﷺ cousin, described the religion they had left and the one they had found: idols abandoned, the poor protected, truthfulness, prayer and charity." },
+        { "p": "The king asked whether he had anything of the revelation with him. Ja'far recited the opening of Surah Maryam: Zakariya's prayer, the birth of Yahya, the angel who came to Maryam (19:16-21). According to the account of Umm Salamah, who was there, preserved in the Musnad of Ahmad and the biography of Ibn Ishaq, the Negus wept until his beard was wet, and his bishops wept over their scrolls. He said that this and what 'Isa had brought came from the same source of light." },
+        { "image": "day-16-aksum", "alt": "A granite audience hall in Aksum at evening, with a draped throne and oil lamps", "caption": "Abyssinia gave the first Muslim refugees a safe home, around 615 CE.", "prompt": "A stone audience hall in highland Aksum at evening, tall carved granite pillars, woven rugs and a low throne draped in red cloth, oil lamps and incense smoke drifting, green terraced hills visible through an open doorway." },
+        { "p": "The next day the envoys tried again: ask them what they say about 'Isa. Ja'far answered with the Quran's own words, that 'Isa was the servant of Allah, His messenger, His spirit and His word cast into Maryam (4:171). The Negus picked up a twig from the ground and said that 'Isa son of Maryam was not more than that by the length of this twig." },
+        { "p": "Years later, when news of the Negus's death reached Madinah, the Prophet ﷺ led his companions in the funeral prayer for him in his absence, a report in both al-Bukhari and Muslim. Keep this scene in mind for the rest of the day. The Quran's relationship with Jews and Christians is that of a family: shared ancestors, real affection, and disagreements that matter precisely because so much is held in common." }
+      ]
     },
     {
-      "ref": "2:62",
-      "context": "Madinan, after verses on the Children of Israel.",
-      "point": "Faith in Allah and the Last Day, with good deeds, is rewarded across named communities.",
-      "label": "differ",
-      "note": "Most scholars limit it to those who followed their prophet before Muhammad ﷺ (see the bracket); a report from Ibn 'Abbas says 3:85 qualified it. Some modern scholars apply it to sincere believers of any age."
+      "lens": "text",
+      "title": "Come to a Word Held in Common",
+      "blocks": [
+        { "p": "The Quran's name for Jews and Christians is a title of respect before it is anything else. They are the communities who were given scripture, and the Quran addresses them directly, again and again, with the call \"O People of the Scripture\"." },
+        { "word": { "ar": "أَهْلُ الْكِتَابِ", "tr": "Ahl al-Kitāb", "root": ["ك", "ت", "ب"], "meaning": "People of the Book", "nuance": "*Ahl* is family or household; *kitāb*, from the root of writing (*kataba*, to write), is a book or scripture. The title places Jews and Christians in a household built around revelation. The Quran calls the Torah and the Gospel guidance and light (5:44, 5:46) and commands Muslims to believe in what was given to Musa and 'Isa." } },
+        { "verse": "3:64" },
+        { "p": "Read the invitation slowly. The word *sawā'* means level, equal, the same for both sides: a proposition neither party has to climb up to. It has three clauses. Worship none but Allah. Associate nothing with Him. Do not take one another as lords besides Him. That last clause is pointed. The Quran elsewhere says that people took their scholars and monks as lords (9:31). A report in al-Tirmidhi tells how 'Adi ibn Hatim, a former Christian, objected that they had never worshipped their clergy; the Prophet ﷺ replied that accepting the clergy's word when they made the forbidden lawful, and the lawful forbidden, was that worship." },
+        { "p": "And if the invitation is refused? No threat follows. \"Bear witness that we are Muslims\": state who you are, and leave it there. Al-Bukhari reports that the Prophet ﷺ wrote this very verse into his letter to Heraclius, the Byzantine emperor. A Makkan verse sets the manner for every such conversation:" },
+        { "verse": "29:46" },
+        { "p": "*Bi-llatī hiya aḥsan*, \"in a way that is best\": not merely politely, but in the best way available. The exception is narrow, for those who commit injustice, and the creed Muslims are told to speak is one of shared ground: what was revealed to us and to you, one God. The same breadth appears where the Quran makes belief in every earlier prophet part of a Muslim's own faith, \"we make no distinction between any of them\" (3:84, 2:136)." }
+      ]
     },
     {
-      "ref": "29:46",
-      "context": "Guidance on how Muslims should discuss faith with Jews and Christians.",
-      "point": "Argue only in the best way, except with those who act unjustly, and begin from what is shared: \"our God and your God is one\".",
-      "label": "stated"
+      "lens": "text",
+      "title": "They Are Not All the Same",
+      "blocks": [
+        { "p": "If you read every verse about the People of the Book together, one phrase keeps returning: *minhum*, \"among them\". The Quran almost never passes judgement on a whole community. It praises some and rebukes others, sometimes in the same verse, and it says so outright:" },
+        { "verse": "3:113-115" },
+        { "p": "This is a portrait of Jewish and Christian worshippers at prayer in the night, and the verdict is that they are \"among the righteous\". Elsewhere the Quran describes Christians who hear the Quran and weep \"because of what they have recognized of the truth\" (5:83), and People of the Scripture who believe humbly and do not sell Allah's verses for a small price (3:199). Commentators such as Ibn Kathir connect 5:82-83 with the Christians of Abyssinia." },
+        { "p": "The rebukes are real, and the Quran does not soften them. It accuses some of breaking their covenant and distorting words from their places (5:13), of wishing out of envy that the believers would abandon their faith (2:109), of saying \"there is no blame upon us concerning the unlearned\" to excuse cheating Arabs (3:75). But watch what the rebukes end with. The verse on the broken covenant closes \"except a few of them. But pardon them and overlook\" (5:13). The verse on envy closes \"So pardon and overlook\" (2:109)." },
+        { "figure": { "kind": "compare", "title": "Praise and rebuke, often in the same breath", "left": { "title": "Praised among them", "items": ["Those who recite in the night and prostrate (3:113)", "One who returns a fortune entrusted to him (3:75)", "Those whose eyes overflow at the truth (5:83)", "The humble who do not sell Allah's verses (3:199)"] }, "right": { "title": "Rebuked among them", "items": ["Those who distort words from their usages (5:13)", "One who will not return a single coin (3:75)", "Those who wish believers would leave faith (2:109)", "Those who took their scholars as lords (9:31)"] } } },
+        { "p": "Notice 3:75: the same verse holds the honest man and the dishonest one. The Quran's standard is conduct and belief, never lineage. The same yardstick is turned on the Muslims themselves, as you will see before the day is out." }
+      ]
     },
     {
-      "ref": "60:8-9",
-      "context": "Madinan, while Makkah was still at war with the Muslims. Reports link it to Asma' bint Abi Bakr and her non-Muslim mother.",
-      "point": "The rule is about conduct, not belief: be kind and just to all who do not fight you over religion or drive you out. Only alliance with aggressors is forbidden.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "One Verse, Three Readings",
+      "blocks": [
+        { "p": "One verse has drawn more attention than any other in this subject, and it appears twice, almost word for word (2:62, 5:69):" },
+        { "verse": "2:62" },
+        { "p": "Taken alone, it seems to promise salvation to every believer in God and the Last Day. Read alongside the rest of the Quran, which calls for belief in Muhammad ﷺ as Allah's messenger and says \"whoever desires other than Islam as religion - never will it be accepted from him\" (3:85), it raises an obvious question. Scholars have answered it in three main ways." },
+        { "list": ["**Those who came before.** The majority of classical commentators, including al-Tabari and Ibn Kathir, read it as describing Jews, Christians and Sabians who faithfully followed their own prophet before the coming of Muhammad ﷺ. After his coming, belief in Allah includes belief in His final messenger. The bracket in Sahih International's translation reflects this reading.", "**A verse later qualified.** A report attributed to Ibn 'Abbas says 3:85 was revealed afterwards and specified it. Many scholars objected that a promise is a statement of fact, and statements are explained, not cancelled; so they folded this view into the first.", "**Those the message never truly reached.** Al-Ghazali argued that people who never heard of the Prophet ﷺ, or heard only a distorted picture of him, are not in the position of those who knowingly rejected him, citing \"never would We punish until We sent a messenger\" (17:15). Some modern scholars read 2:62 more broadly still, though that remains a minority view."] },
+        { "note": "The Sabians (*al-ṣābi'ūn*) are named three times (2:62, 5:69, 22:17), and no one is certain who they were. Early scholars suggested a monotheist group without a fixed law, star-venerators of Harran, or a baptising community; some modern writers identify them with the Mandaeans of Iraq.", "title": "Who were the Sabians?" },
+        { "p": "Two things sit together in mainstream Islamic thought, and both matter. The Quran claims to be the final, complete message, and Muslims invite to it. And no Muslim may pronounce on an individual's final fate. \"Allah will judge between them on the Day of Resurrection\" (22:17), and Allah alone knows what each person was shown and how they answered." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "The Verses Quoted on Their Own",
+      "blocks": [
+        { "p": "A fair reader will have heard other verses too, usually quoted alone. They deserve to be faced at full strength." },
+        { "h": "\"Do not take the Jews and the Christians as allies\"" },
+        { "p": "That is 5:51. The word is *awliyā'*: protectors, patrons, allies in a cause. The commentators link its revelation to Madinah at war, when some Muslims, 'Abd Allah ibn Ubayy foremost, wanted to keep military pacts with a Jewish tribe hostile to the community, \"fearing lest misfortune befall us\" (5:52). It is about political loyalty in a conflict, and the Quran itself shows it cannot mean personal friendship: in the same surah, a Muslim man is permitted to marry a Jewish or Christian woman (5:5), and marriage is the relationship of \"affection and mercy\" (30:21). The general rule is drawn later and precisely: the line falls at those \"who fight you because of religion and expel you from your homes\" (60:9)." },
+        { "h": "\"Fight those who do not believe\"" },
+        { "p": "That is 9:29, revealed in 9 AH as the Muslims faced the Byzantine empire on the northern frontier, the campaign of Tabuk. It ends at the *jizyah*, a tax. Classical jurists built on it the system of *dhimmah*, protected status: Jews and Christians kept their lives, property, laws and places of worship, were exempt from military service, and paid the tax in return. Jurists differed over what \"humbled\" required; some, al-Shafi'i among them, understood it as living under the law of the Muslim state rather than as personal humiliation. Many modern scholars read the verse as bound to war with hostile powers rather than a permanent stance toward neighbours. History shows both faces of dhimmah, long periods of security and episodes of discrimination, and honesty requires admitting both." },
+        { "h": "\"They have certainly disbelieved\"" },
+        { "p": "The Quran plainly rejects the belief that the Messiah is God (5:72-73). That is theological disagreement, and the Quran does not hide it. But the next verse is an invitation, \"will they not repent to Allah and seek His forgiveness? And Allah is Forgiving and Merciful\" (5:74), and the one after honours 'Isa and his mother (5:75). Disagreement about God is not permission to wrong anyone. On that the Quran is categorical: \"There shall be no compulsion in [acceptance of] the religion\" (2:256), and to the Prophet ﷺ himself, \"would you compel the people in order that they become believers?\" (10:99)." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Neighbours, Customers, In-laws",
+      "blocks": [
+        { "p": "The rule for daily life with people of any faith fits into two verses:" },
+        { "verse": "60:8-9" },
+        { "p": "The word for \"being righteous toward them\" is *birr*, the same word the Quran uses for devotion to parents. Justice is the minimum; *birr* is warmth. Al-Bukhari reports that Asma', daughter of Abu Bakr, asked the Prophet ﷺ whether she should receive her mother, who had come to visit her in Madinah while still a polytheist. He told her to keep good ties with her mother. Commentators connect 60:8 to that visit." },
+        { "p": "The sira, the record of the Prophet's ﷺ life, adds texture. Al-Bukhari and Muslim report that when a funeral passed, he stood; told it was the funeral of a Jew, he said, \"Is it not a soul?\" Al-Bukhari reports that he visited a sick Jewish boy who used to serve him, and that when he died, his armour was held in pledge by a Jewish man for thirty measures of barley. " },
+        { "list": ["Muslims may eat the food of Jews and Christians and share their own (5:5), which is why a Muslim colleague may accept your dinner even while declining pork or wine.", "Insulting what others hold sacred is forbidden, \"lest they insult Allah in enmity without knowledge\" (6:108).", "The protection of worship is shared: the Quran names \"monasteries, churches, synagogues, and mosques in which the name of Allah is much mentioned\" as places Allah defends (22:40).", "Disagreement is spoken \"in a way that is best\" (29:46), with the person, not at them."] },
+        { "p": "And 60:7, just before the rule, adds hope: \"Perhaps Allah will put, between you and those to whom you have been enemies among them, affection.\" The verses expect hostility to soften, and tell believers to leave the door open." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "Race One Another in Good",
+      "blocks": [
+        { "p": "Why are there many religious communities at all? The Quran gives an answer that is unusual among scriptures:" },
+        { "verse": "5:48", "from": "To each of you We prescribed", "to": "race to [all that is] good." },
+        { "p": "Difference is described as a test, and the response to it as a race in good deeds, with the final verdict left to the Day of Return. A short Makkan surah, al-Kafirun, makes the same point about worship itself. It was addressed to the polytheists of Quraysh, not to Jews or Christians, and the biographies report it came when they proposed a bargain: you worship our gods for a year and we will worship yours for a year. The answer refuses blending, and refuses coercion just as firmly." },
+        { "verse": "109:1-6" },
+        { "p": "Then the Quran turns the same mirror on Muslims. It records that \"the Jews say the Christians have nothing [true] to stand on,\" and the Christians say the same of the Jews (2:113), and it warns the believers not to repeat the pattern among themselves: \"hold firmly to the rope of Allah all together and do not become divided\" (3:103), and \"those who have divided their religion and become sects - you, [O Muhammad], are not [associated] with them in anything\" (6:159). Its criticism of earlier communities is no badge of superiority; it is a warning to its own readers." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Ibrahim Belongs to No Faction",
+      "blocks": [
+        { "p": "The Quran asks the People of the Scripture a gentle, almost humorous question: why argue over whether Ibrahim was Jewish or Christian, when the Torah and the Gospel came after him? \"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]\" (3:65-67). The word *muslim* here is not a party label. It names a posture, the surrender of a heart to its Lord, and the Quran says the people most worthy of Ibrahim are those who actually follow him (3:68)." },
+        { "p": "That is a demanding thought for a Muslim. It means the name is not a possession. Those monks and rabbis praised in 3:113, standing in the night, rebuke a Muslim who sleeps through his own prayers. The Negus who wept at Surah Maryam shames anyone who hears it without being moved." },
+        { "p": "And for a seeker or a Christian or Jewish reader, it may explain something about the Muslims you know: why they call Musa and 'Isa their own prophets, why they object both when 'Isa is called God and when he is insulted, and why they can disagree with you about the deepest question there is and still bring food to your door when your father dies." },
+        { "verse": "49:13" },
+        { "p": "Peoples and tribes exist \"that you may know one another\". The test of nobility is not the community you were born into but *taqwā*, mindfulness of Allah, which only He can weigh. A Muslim can end the day with a supplication from the Quran: \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy\" (3:8)." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "spectrum",
-    "title": "One book, many tones",
-    "caption": "Each point is a verse. The Quran praises, invites, debates and rebukes, and keeps distinguishing: \"they are not [all] the same\" (3:113). The position shows the tone of the verse, not a ranking of people.",
-    "from": "Praise",
-    "to": "Rebuke",
-    "items": [
-      {
-        "at": 0.04,
-        "label": "Not all the same",
-        "text": "Some stand in prayer at night, reciting.",
-        "ref": "3:113"
-      },
-      {
-        "at": 0.11,
-        "label": "Eyes full of tears",
-        "text": "Some weep on recognising the truth.",
-        "ref": "5:83"
-      },
-      {
-        "at": 0.18,
-        "label": "Their reward",
-        "text": "Some believe humbly and keep faith with revelation.",
-        "ref": "3:199"
-      },
-      {
-        "at": 0.25,
-        "label": "No fear for them",
-        "text": "Faith and good deeds rewarded; readings differ.",
-        "ref": "2:62"
-      },
-      {
-        "at": 0.35,
-        "label": "A common word",
-        "text": "Come to the worship of the One God.",
-        "ref": "3:64"
-      },
-      {
-        "at": 0.43,
-        "label": "The best way",
-        "text": "Discuss courteously; our God is one.",
-        "ref": "29:46"
-      },
-      {
-        "at": 0.5,
-        "label": "Kind and just",
-        "text": "Toward all who do not fight you.",
-        "ref": "60:8"
-      },
-      {
-        "at": 0.57,
-        "label": "No compulsion",
-        "text": "Faith cannot be forced on anyone.",
-        "ref": "2:256"
-      },
-      {
-        "at": 0.67,
-        "label": "Some keep trusts",
-        "text": "Some return a fortune; some not a coin.",
-        "ref": "3:75"
-      },
-      {
-        "at": 0.77,
-        "label": "Many wish otherwise",
-        "text": "Some wish believers would leave faith; pardon them.",
-        "ref": "2:109"
-      },
-      {
-        "at": 0.87,
-        "label": "A broken covenant",
-        "text": "Rebuke for distorting words, yet: pardon them.",
-        "ref": "5:13"
-      },
-      {
-        "at": 0.96,
-        "label": "A belief rejected",
-        "text": "Calling the Messiah God is rejected.",
-        "ref": "5:72"
-      }
-    ]
-  },
-  "word": {
-    "ar": "أَهْلُ الْكِتَابِ",
-    "tr": "Ahl al-Kitāb",
-    "root": [
-      "ك",
-      "ت",
-      "ب"
-    ],
-    "meaning": "People of the Book",
-    "nuance": "Ahl means family or household; kitab, from the root of writing, means a book or scripture. The title marks Jews and Christians as communities who received revelation, and the Quran speaks to them directly many times: \"O People of the Scripture\" (3:64).",
-    "refs": [
-      "3:64",
-      "3:113"
-    ]
-  },
-  "mixup": {
-    "myth": "Muslims worship a different God from Jews and Christians.",
-    "truth": "The Quran tells Muslims to say \"our God and your God is one\" (29:46) and invites the People of the Book to worship Him alone (3:64). It disagrees with certain beliefs about Him, such as calling the Messiah God (5:72) or speaking of \"three\" (4:171), but not about whom it calls people to worship. Arabic-speaking Christians also pray to \"Allah\".",
-    "refs": [
-      "29:46",
-      "3:64",
-      "4:171"
-    ]
-  },
-  "remember": [
-    "Ahl al-Kitab are Jews and Christians, communities who received earlier scripture.",
-    "The Quran's tone ranges from praise to rebuke, and it keeps saying \"among them\".",
-    "With people of any faith: no compulsion, justice, kindness to the peaceful, and argument in the best way."
-  ],
-  "memorize": "60:8",
+  "carry": "60:8",
   "quiz": [
     {
       "q": "What does 3:113 say about the People of the Scripture?",
-      "options": [
-        "They are all the same",
-        "They are not all the same",
-        "They received no scripture",
-        "They must be made Muslim by force"
-      ],
+      "options": ["They are all the same", "They are not all the same; some pray through the night", "They received no scripture", "They must be made Muslim by force"],
       "answer": 1,
-      "why": "3:113: \"They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allah during periods of the night.\""
+      "why": "3:113: \"They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allah during periods of the night.\" The Quran judges conduct and belief, not communities wholesale."
     },
     {
-      "q": "According to 29:46, how should Muslims argue with the People of the Scripture?",
-      "options": [
-        "Never at all",
-        "Only through their rulers",
-        "In a way that is best",
-        "Loudly, so as to win"
-      ],
-      "answer": 2,
-      "why": "29:46: \"do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them.\""
+      "q": "What is the invitation in 3:64, and what is said if it is refused?",
+      "options": ["Accept Islam or face war", "Worship Allah alone and take no human lords; if refused, say \"Bear witness that we are Muslims\"", "Abandon the Torah and the Gospel", "Pay a tax or leave Arabia"],
+      "answer": 1,
+      "why": "3:64 invites to \"a word that is equitable between us and you\": worship Allah alone, associate nothing, take no one as lords. If they turn away, Muslims simply declare who they are."
     },
     {
-      "q": "Whom does 60:8 say believers may treat with kindness and justice?",
-      "options": [
-        "All who do not fight them over religion or drive them from their homes",
-        "Only other Muslims",
-        "Only their relatives"
-      ],
-      "answer": 0,
-      "why": "60:8: \"Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them.\""
+      "q": "According to 60:8-9, where does the Quran draw the line in relations with non-Muslims?",
+      "options": ["At anyone who does not pray", "At alliance with those who fight Muslims over religion and drive them from their homes", "At eating their food", "At speaking with their scholars"],
+      "answer": 1,
+      "why": "60:8 permits righteousness (birr) and justice toward all who do not fight or expel Muslims; 60:9 forbids only making allies of those who do."
+    },
+    {
+      "q": "Why do scholars say 5:51 (\"do not take the Jews and the Christians as allies\") is not a ban on personal friendship?",
+      "options": ["Because it was abrogated by 9:29", "Because it concerns political alliances in wartime, and 5:5 permits marriage to Jewish and Christian women", "Because it only applies to the Prophet ﷺ", "Because it was revealed in Makkah"],
+      "answer": 1,
+      "why": "Commentators tie 5:51 to wartime pacts in Madinah. The same surah permits marriage with women of the People of the Book (5:5), the closest bond of all, and 60:8-9 sets the general rule."
     }
   ],
-  "reflect": "Think of someone you know from another faith. What would speaking with them \"in a way that is best\" look like for you?",
-  "deeper": [
-    "3:113-115",
-    "3:84",
-    "5:44-48",
-    "5:82-85",
-    "2:256",
-    "109",
-    "22:40",
-    "3:103-105",
-    "6:159"
-  ],
+  "reflect": "Think of someone you know from another faith. What would speaking with them \"in a way that is best\" (29:46) look like, and what could you learn from the best of their practice?",
+  "deeper": ["3:113-115", "3:65-68", "5:44-48", "5:82-85", "2:256", "109", "22:40", "3:103-105", "6:159", "57:27"],
   "links": [
-    {
-      "label": "Christians and Jews in the Quran",
-      "href": "/learn/christians-and-jews-in-the-quran"
-    },
-    {
-      "label": "Is Allah the same God?",
-      "href": "/learn/is-allah-the-same-god"
-    },
-    {
-      "label": "Jesus in the Quran",
-      "href": "/learn/jesus-in-the-quran"
-    },
-    {
-      "label": "Read Surah Al-Kafirun",
-      "href": "/surah/al-kafirun"
-    }
+    { "label": "Christians and Jews in the Quran", "href": "/learn/christians-and-jews-in-the-quran" },
+    { "label": "Is Allah the same God?", "href": "/learn/is-allah-the-same-god" },
+    { "label": "Jesus in the Quran", "href": "/learn/jesus-in-the-quran" },
+    { "label": "Read Surah Al-Kafirun", "href": "/surah/al-kafirun" }
   ],
-  "connections": [
-    6,
-    11,
-    28
-  ],
+  "connections": [6, 11, 28],
   "review": true,
   "status": "draft"
 }

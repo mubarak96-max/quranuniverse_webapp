@@ -1,19 +1,19 @@
-// Quran in 30 Days: reads content/q30/day-NN.json and fills in the Arabic, the Sahih International English,
-// verse links and juz from the Quran data, so content files only name references.
+// Quran in 30 Days: reads content/q30/day-NN.json and fills in the Arabic, the Sahih International English and verse
+// links from the Quran data, so content files only name references.
 import fs from "node:fs";
 import path from "node:path";
-import { juzOf } from "@/components/games/hifz/journey";
 import { getSurah, getSurahs, getTranslation, surahHref } from "./data";
-import { verse } from "./timeline";
+import { verse as cutVerse } from "./timeline";
 import {
   DAYS,
   partOf,
+  type Block,
   type Day,
+  type DayBlock,
   type DaySummary,
-  type Passage,
   type RawDay,
-  type RawPassage,
   type RefLink,
+  type Verse,
 } from "./q30-types";
 
 const DIR = path.join(process.cwd(), "content", "q30");
@@ -26,34 +26,47 @@ function parse(ref: string) {
   return { s: +s, from: a, to: b ?? a, whole: false };
 }
 
-const link = (ref: string): RefLink => {
+export const refHref = (ref: string) => {
   const r = parse(ref);
-  return { ref, href: r.whole ? surahHref(r.s) : surahHref(r.s, r.from) };
+  return r.whole ? surahHref(r.s) : surahHref(r.s, r.from);
 };
 
-function passage(raw: RawPassage): Passage {
-  const { from: cutFrom, to: cutTo, ...rest } = raw;
-  const r = parse(raw.ref);
+const link = (ref: string): RefLink => ({ ref, href: refHref(ref) });
+
+function verse(ref: string, from?: string, to?: string): Verse {
+  const r = parse(ref);
   const surah = getSurah(r.s)!;
-  const cut = Boolean(cutFrom);
+  const cut = Boolean(from);
   const lines = [];
   for (let a = r.from; a <= r.to; a++) {
     const key = `${r.s}:${a}`;
-    const en = cut ? verse(key, true, { from: cutFrom!, to: cutTo }).text! : getTranslation(key);
+    const en = cut ? cutVerse(key, true, { from: from!, to }).text! : getTranslation(key);
     // An excerpt shows no Arabic: the full verse beside a cut translation would not match.
     lines.push({ key, ar: cut ? "" : surah.verses[a - 1].text, en });
   }
-  return { ...rest, href: surahHref(r.s, r.from), lines, cut };
+  return { ref, href: surahHref(r.s, r.from), name: surah.transliteration, lines, cut };
 }
 
-function juzList(refs: string[]): number[] {
-  const set = new Set<number>();
-  for (const ref of refs) {
-    const r = parse(ref);
-    for (let a = r.from; a <= r.to; a++) set.add(juzOf(r.s, a));
+const words = (s: string) => s.split(/\s+/).filter(Boolean).length;
+
+function blockWords(b: Block): number {
+  if ("p" in b) return words(b.p);
+  if ("note" in b) return words(b.note);
+  if ("quote" in b) return words(b.quote);
+  if ("list" in b) return b.list.reduce((n, s) => n + words(s), 0);
+  if ("word" in b) return words(b.word.nuance);
+  if ("verse" in b) {
+    const r = parse(b.verse);
+    let n = 0;
+    for (let a = r.from; a <= r.to; a++) n += words(getTranslation(`${r.s}:${a}`));
+    return n;
   }
-  return [...set].sort((a, b) => a - b);
+  return 0;
 }
+
+// Reading at about 200 words a minute, plus a little for the Arabic, figures and the quiz.
+const minutesOf = (raw: RawDay) =>
+  Math.round(raw.chapters.reduce((n, c) => n + c.blocks.reduce((m, b) => m + blockWords(b), 0), 0) / 200) + 2;
 
 const file = (n: number) => path.join(DIR, `day-${String(n).padStart(2, "0")}.json`);
 const read = (n: number) => JSON.parse(fs.readFileSync(file(n), "utf8")) as RawDay;
@@ -61,7 +74,7 @@ const read = (n: number) => JSON.parse(fs.readFileSync(file(n), "utf8")) as RawD
 export const getDayNumbers = () =>
   Array.from({ length: DAYS }, (_, i) => i + 1).filter((n) => fs.existsSync(file(n)));
 
-// Each quiz page adds one question from an earlier day, so old lessons keep coming back.
+// Each quiz adds one question from an earlier day, so old lessons keep coming back.
 const RECALL_GAP = [2, 5, 9];
 
 const cache = new Map<number, Day>();
@@ -73,45 +86,65 @@ export function getDay(n: number): Day | undefined {
   const back = Math.max(1, n - RECALL_GAP[n % 3]);
   const recallDay = n > 1 && fs.existsSync(file(back)) ? read(back) : undefined;
   const recallQ = recallDay?.quiz[n % recallDay.quiz.length];
+  const hasAnatomy = raw.chapters.some((c) => c.blocks.some((b) => "figure" in b && b.figure.kind === "anatomy"));
   const day: Day = {
     ...raw,
     part: partOf(n).n,
-    passages: raw.passages.map(passage),
-    juz: juzList(raw.passages.map((p) => p.ref)),
-    word: { ...raw.word, links: raw.word.refs.map(link) },
-    mixup: { ...raw.mixup, links: raw.mixup.refs.map(link) },
-    memorize: passage({ ref: raw.memorize, context: "", point: "", label: "stated" }),
+    minutes: minutesOf(raw),
+    chapters: raw.chapters.map((c) => ({
+      ...c,
+      blocks: c.blocks.map((b): DayBlock => ("verse" in b ? { verse: verse(b.verse, b.from, b.to) } : b)),
+    })),
+    carry: verse(raw.carry),
     deeper: raw.deeper.map(link),
     recall: recallQ ? { ...recallQ, from: back } : undefined,
-    anatomy:
-      raw.visual.kind === "anatomy"
-        ? getSurahs().map((s) => ({ id: s.id, name: s.transliteration, verses: s.total_verses, makki: s.type === "meccan" }))
-        : undefined,
+    anatomy: hasAnatomy
+      ? getSurahs().map((s) => ({ id: s.id, name: s.transliteration, verses: s.total_verses, makki: s.type === "meccan" }))
+      : undefined,
   };
   cache.set(n, day);
   return day;
 }
 
-export function getSummaries(): DaySummary[] {
-  return getDayNumbers().map((n) => {
-    const d = read(n);
-    return { day: n, part: partOf(n).n, title: d.title, question: d.question, emblem: d.emblem, review: Boolean(d.review) };
-  });
+export function getSummary(n: number): DaySummary | undefined {
+  if (!fs.existsSync(file(n))) return undefined;
+  const d = read(n);
+  const blocks = d.chapters.flatMap((c) => c.blocks);
+  const w = blocks.find((b) => "word" in b);
+  return {
+    day: n,
+    part: partOf(n).n,
+    title: d.title,
+    question: d.question,
+    summary: d.summary,
+    minutes: minutesOf(d),
+    chapters: d.chapters.map((c) => ({ lens: c.lens, title: c.title })),
+    word: w && "word" in w ? { ar: w.word.ar, tr: w.word.tr, meaning: w.word.meaning } : undefined,
+    refs: blocks.flatMap((b) => ("verse" in b ? [b.verse] : [])).slice(0, 6),
+    review: Boolean(d.review),
+  };
 }
 
-// The reference booklet: every key word, and every passage grouped by surah.
+export const getSummaries = () => getDayNumbers().map((n) => getSummary(n)!);
+
+// The reference page: every key word, and every passage grouped by surah.
 export function getReference() {
   const days = getDayNumbers().map(read);
   const words = days
-    .map((d) => ({ day: d.day, ar: d.word.ar, tr: d.word.tr, meaning: d.word.meaning, root: d.word.root }))
+    .flatMap((d) =>
+      d.chapters.flatMap((c) => c.blocks.flatMap((b) => ("word" in b ? [{ day: d.day, ...b.word }] : []))),
+    )
     .sort((a, b) => a.tr.localeCompare(b.tr));
   const bySurah = new Map<number, { ref: string; href: string; day: number }[]>();
   for (const d of days) {
-    for (const p of d.passages) {
-      const r = parse(p.ref);
-      const list = bySurah.get(r.s) ?? [];
-      list.push({ ref: p.ref, href: surahHref(r.s, r.from), day: d.day });
-      bySurah.set(r.s, list);
+    for (const c of d.chapters) {
+      for (const b of c.blocks) {
+        if (!("verse" in b)) continue;
+        const r = parse(b.verse);
+        const list = bySurah.get(r.s) ?? [];
+        if (!list.some((x) => x.ref === b.verse && x.day === d.day)) list.push({ ref: b.verse, href: refHref(b.verse), day: d.day });
+        bySurah.set(r.s, list);
+      }
     }
   }
   const verses = [...bySurah.entries()]

@@ -2,104 +2,348 @@
   "day": 30,
   "title": "How the Quran Speaks, and How to Keep Reading",
   "question": "After thirty days, how do you keep reading?",
-  "emblem": "lamp",
-  "intro": [
-    "For thirty days you have walked through the Quran by theme. Today steps back to ask how it speaks. It points to signs in nature, strikes parables, swears oaths, asks questions, tells stories, and challenges its hearers to produce anything like it.",
-    "It also explains how to read it. Some verses are precise and foundational; others carry more than one meaning. Some rulings were replaced by later ones. Scholars built tools for this: the reasons of revelation, tafsir (explanation), and the study of abrogation (naskh).",
-    "Above all, the Quran asks to be pondered, not only recited. Its word for this is tadabbur, and it is where this course hands you back to the book itself. You will also see where scholars differ, and why that is part of reading well."
-  ],
-  "passages": [
+  "summary": "How the Quran speaks through signs, questions and parables, how scholars read its clear and open verses, what it means to ponder it, and a practical plan for reading it for the rest of your life.",
+  "cover": {
+    "alt": "A resting camel under a vast raised sky, mountains on the horizon and the earth spread out flat",
+    "prompt": "A single camel resting on a wide desert plain at dusk, an immense raised sky above with the first stars appearing, a range of mountains firmly set on the horizon, and the earth spread out flat and endless in every direction (Quran 88:17-20)."
+  },
+  "chapters": [
     {
-      "ref": "88:17-20",
-      "context": "A Makkan surah, first heard by people who lived with camels, open sky, mountains and wide land.",
-      "point": "Its argument often starts with a question about what you already see. 41:53 promises signs in the horizons and within ourselves.",
-      "label": "stated"
+      "lens": "story",
+      "title": "\"Enough\", He Said",
+      "blocks": [
+        {
+          "p": "One day in Madinah the Prophet ﷺ turned to 'Abdullah ibn Mas'ud, a former shepherd who had become one of the finest reciters among the Companions, and said: recite to me. Ibn Mas'ud was taken aback. Should I recite it to you, when it was revealed to you? \"I love to hear it from someone else,\" the Prophet ﷺ replied. So, as al-Bukhari and Muslim record, Ibn Mas'ud opened Surah an-Nisa and began. He recited until he reached this verse."
+        },
+        {
+          "verse": "4:41"
+        },
+        {
+          "p": "\"Enough,\" the Prophet ﷺ said. Ibn Mas'ud looked up and saw that his eyes were streaming with tears."
+        },
+        {
+          "p": "The man to whom the Quran was revealed still sat and listened to it, and was still undone by it. Another report in al-Bukhari shows its effect on someone who did not yet believe. Jubayr ibn Mut'im came to Madinah as a polytheist envoy after Badr, to negotiate for prisoners. At sunset he heard the Prophet ﷺ leading the prayer with Surah at-Tur. When the recitation reached \"Or were they created by nothing, or were they the creators [of themselves]?\" (52:35), Jubayr said later, his heart nearly flew. It was, he said, the first time faith settled in his heart."
+        },
+        {
+          "image": "day-30-lamp",
+          "alt": "A folded wooden book-stand and a lit oil lamp in a quiet mud-brick room at night",
+          "caption": "Many Muslims keep a quiet hour for the Quran, often before dawn.",
+          "prompt": "A small mud-brick room at night, lit only by a clay oil lamp on the floor; beside it a carved wooden folding book-stand holding a closed book bound in plain dark leather, a woven reed mat, a window showing a deep blue sky and a few stars."
+        },
+        {
+          "p": "For thirty days you have read the Quran by theme: its stories, its laws, its arguments, its hopes. On this last day the question changes. Not *what does it say?* but *how does it speak, how do you read it well, and how do you keep reading?* Because the Quran does not want to be finished. Its own name, *qur'an*, means \"the recitation\", something said again."
+        }
+      ]
     },
     {
-      "ref": "14:24-26",
-      "context": "Makkah. Many commentators, following Ibn 'Abbas, take the good word as \"there is no god but Allah\".",
-      "point": "A parable makes faith visible: deep roots, high branches, fruit in every season. A bad word is a tree with no roots at all.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Look at the Camel",
+      "blocks": [
+        {
+          "p": "The Quran rarely opens an argument with a definition. It opens with something you have already seen."
+        },
+        {
+          "verse": "88:17-20"
+        },
+        {
+          "p": "To its first hearers, these four things were the whole visible world: the camel that carried their lives, the sky above the desert, the mountains on the horizon, the ground spread out underfoot. The verse asks them to look again at what had become invisible through familiarity. That is the Quran's first way of speaking, through *ayat*, \"signs\": the same word it uses for its own verses. A verse of the Quran and a mountain are both signs, pointing beyond themselves. \"We will show them Our signs in the horizons and within themselves,\" says 41:53."
+        },
+        {
+          "p": "Its second way is the question. \"Or were they created by nothing, or were they the creators [of themselves]?\" (52:35-36). The Quran leaves the gap open and lets the listener's reason close it. Its third way is the oath: \"By the sun and its brightness\" (91:1), \"By time\" (103:1), each oath calling a witness from creation before a truth is stated."
+        },
+        {
+          "p": "Its fourth way is the parable, *mathal*. \"We have certainly presented for the people in this Qur'an from every [kind of] example\" (39:27), and it is not too proud to use a mosquito (2:26). The most famous makes faith into a tree."
+        },
+        {
+          "verse": "14:24-26"
+        },
+        {
+          "p": "Many commentators, following Ibn 'Abbas, take the good word as *la ilaha illa Allah*, \"there is no god but Allah\". Its roots go down into the heart; its branches rise in deeds; it fruits \"all the time\", in every season of a life. The bad word has no roots: it looks like a tree until the first wind."
+        },
+        {
+          "p": "Then come the stories, \"the best of stories\" (12:3), told not for their plots but for their patterns; and the challenge to produce \"a surah the like thereof\" (2:23). Signs open the eyes, questions open the mind, oaths call attention, parables make ideas visible, stories show how lives turn. Learning to recognise these is the beginning of reading it well."
+        }
+      ]
     },
     {
-      "ref": "3:7",
-      "from": "It is He who has sent down",
-      "to": "All [of it] is from our Lord.\"",
-      "context": "Madinah. Precise (muhkam) verses are clear; unspecific (mutashabih) ones bear several meanings or touch the unseen.",
-      "point": "Clear verses are the foundation, and the others are read in their light.",
-      "label": "differ",
-      "note": "Many early scholars pause after \"except Allah\": only He knows their full reality. Others, including Mujahid, read on: those firm in knowledge also know their interpretation."
+      "lens": "scholar",
+      "title": "Clear Verses, Open Verses",
+      "blocks": [
+        {
+          "p": "The Quran tells its readers that it is not all of one kind, and how to handle the difference."
+        },
+        {
+          "verse": "3:7"
+        },
+        {
+          "p": "The *muhkam* verses are precise and settled: \"the foundation of the Book\", its *umm*, literally its mother. The *mutashabih* are verses whose meaning is open to more than one reading or which touch what is beyond human experience: the nature of Allah's attributes, the details of the unseen, the hour of the end. The method is in the verse. Read the open in the light of the clear, and beware of hearts that hunt for ambiguity \"seeking discord\". The firm in knowledge say: \"We believe in it. All [of it] is from our Lord.\""
+        },
+        {
+          "note": "The verse can be read with a pause after \"except Allah\": only Allah knows its final interpretation, and those firm in knowledge simply affirm it. This was the view of many early scholars. Or it can be read continuously: Allah, and those firm in knowledge, know its interpretation. Mujahid held this, and a report has Ibn 'Abbas saying, \"I am among those firm in knowledge who know its interpretation.\" Many later scholars reconciled the two: the final reality is Allah's alone; the meaning can be explained.",
+          "title": "Where scholars differ"
+        },
+        {
+          "p": "Over centuries scholars built a toolkit around this. *Tafsir*, explanation, works in an order Ibn Taymiyyah and others described: the Quran explaining itself, then the Sunnah, since the Prophet ﷺ was sent \"that you may make clear to the people what was sent down to them\" (16:44); then the Companions, who saw the revelation arrive; then their students; then the Arabic language. *Asbab al-nuzul*, the occasions of revelation, tell which event a verse answered, as you have seen all month. And *naskh*, abrogation, recognises that a few rulings were replaced by later ones: \"We do not abrogate a verse... except that We bring forth [one] better than it or similar to it\" (2:106). The stages of the ban on wine on Day 27 are the classic example."
+        },
+        {
+          "p": "Here too scholars differ in scale. Some early lists counted hundreds of abrogated verses. Al-Suyuti reduced the clear cases to around twenty; Shah Wali Allah of Delhi to five. A few, such as Abu Muslim al-Isfahani, denied abrogation inside the Quran altogether. The direction of careful scholarship has been to reconcile verses wherever possible, rather than cancel one with another."
+        }
+      ]
     },
     {
-      "ref": "2:106",
-      "context": "Answers objections when rulings changed; 16:101 replies to the same charge.",
-      "point": "Allah may replace a ruling with a better or similar one. This is called naskh.",
-      "label": "differ",
-      "note": "Most scholars accept that some Quranic rulings were abrogated, though counts range from hundreds to a handful. A few, such as Abu Muslim al-Isfahani, read 2:106 as about earlier scriptures or signs."
+      "lens": "reason",
+      "title": "If Scholars Differ, Is It Really Clear?",
+      "blocks": [
+        {
+          "p": "A fair objection, after a month of \"where scholars differ\" notes: if the Quran is guidance, why do its expert readers disagree so often? Wouldn't a divine book be unambiguous? And if I read it in translation, am I even reading the Quran?"
+        },
+        {
+          "p": "Start with what the disagreements are about. Across the Muslim world and fourteen centuries, there is no serious dispute that Allah is one, that Muhammad ﷺ is His messenger, that there will be a Day of Judgment; that one must pray, fast, give and be honest; that murder, theft, cruelty and arrogance are wrong. That is the *muhkam*, and it is the great bulk of what the Quran teaches. The differences you met this month concern details: the scope of a word, the reach of a ruling, the dating of a verse. A text that leaves room in details while being firm in essentials is not unclear. It is a text meant to be lived in many places and times."
+        },
+        {
+          "p": "The Quran also makes a strong claim about itself: \"If it had been from [any] other than Allah, they would have found within it much contradiction\" (4:82). A book revealed over twenty-three years, through war and peace, persecution and power, answering events as they happened, would be expected to contradict itself. Muslims believe it does not, and scholars spent centuries testing that claim verse by verse. Whether you find their answers persuasive is your own judgment to make; the invitation to check is the Quran's."
+        },
+        {
+          "p": "On translation, Muslims are clear. The Quran is the Arabic revelation, \"an Arabic Qur'an that you might understand\" (12:2); a translation is an interpretation of its meanings. That is why Sahih International puts added words in brackets, and why comparing two translations, reading a tafsir, and learning even a little Arabic all change what you see. A translation is a door, not the house. But the door is real, and millions have walked through it."
+        }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "Locks Upon the Heart",
+      "blocks": [
+        {
+          "p": "The Quran does not only ask to be recited. It names the purpose of its revelation, and the name is a single word."
+        },
+        {
+          "verse": "38:29"
+        },
+        {
+          "word": {
+            "ar": "تَدَبُّر",
+            "tr": "tadabbur",
+            "root": [
+              "د",
+              "ب",
+              "ر"
+            ],
+            "meaning": "Deep reflection; pondering",
+            "nuance": "From *dubur*, the back or far end of a thing. To do tadabbur is to follow a verse to where it ends up: its consequences, its connections, what it asks of you. The Quran uses the verb for itself in 4:82, 23:68, 38:29 and 47:24, always as something it expects of its readers."
+          }
+        },
+        {
+          "p": "Twice the Quran turns the word into a question. \"Then do they not reflect upon the Qur'an?\" (4:82). And more sharply: \"Then do they not reflect upon the Qur'an, or are there locks upon [their] hearts?\" (47:24). The image is of a door bolted from the inside. The book is not closed; the heart is."
+        },
+        {
+          "p": "What happens when the lock is lifted, the Quran describes physically."
+        },
+        {
+          "verse": "39:23"
+        },
+        {
+          "p": "Skins shiver, then soften. Elsewhere, people hearing it find their eyes \"overflowing with tears because of what they have recognized of the truth\" (5:83), and a mountain, if the Quran had been sent down upon it, would be \"humbled and coming apart from fear of Allah\" (59:21). These are not instructions to perform emotion. They describe what tends to happen when someone listens as if the words were meant for them."
+        },
+        {
+          "p": "There is also a warning. On the Day of Judgment, says Surah al-Furqan, the Messenger will say, \"O my Lord, indeed my people have taken this Qur'an as [a thing] abandoned\" (25:30). Commentators such as Ibn al-Qayyim listed kinds of abandonment: not listening to it, not acting on it, not judging by it, not pondering it, not seeking healing in it. A beautiful copy on a high shelf can be abandoned too."
+        }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "A Plan for Every Day After This One",
+      "blocks": [
+        {
+          "p": "The Quran's own advice on how much to read is generous: \"recite what is easy [for you] of the Qur'an\" (73:20), said twice in one verse. And al-Bukhari and Muslim record that the deeds most beloved to Allah are those done consistently, even if small. A page every day beats a hundred pages once."
+        },
+        {
+          "figure": {
+            "kind": "facts",
+            "title": "The size of the task",
+            "items": [
+              {
+                "value": "604",
+                "label": "pages in the standard Madinah mushaf"
+              },
+              {
+                "value": "30",
+                "label": "parts (juz'), about 20 pages each"
+              },
+              {
+                "value": "114",
+                "label": "surahs"
+              },
+              {
+                "value": "6,236",
+                "label": "verses in the common count"
+              }
+            ]
+          }
+        },
+        {
+          "figure": {
+            "kind": "steps",
+            "title": "A reading habit that lasts",
+            "items": [
+              {
+                "label": "Fix a time, not a target",
+                "text": "After Fajr or before sleep, the same time daily. Ten minutes is enough to begin."
+              },
+              {
+                "label": "Choose your pace",
+                "text": "1 page a day: whole Quran in under two years. 4 pages: about five months. 20 pages (a juz'): a month, as many do in Ramadan."
+              },
+              {
+                "label": "Read with meaning",
+                "text": "Arabic if you can, with a translation beside it; note one verse each day that stops you."
+              },
+              {
+                "label": "Add one tafsir",
+                "text": "Ibn Kathir's abridged commentary or Ma'arif al-Qur'an, a few paragraphs at a time."
+              },
+              {
+                "label": "Listen",
+                "text": "Hear a reciter while you follow the text; recitation is how it was first received."
+              },
+              {
+                "label": "Memorise slowly",
+                "text": "Start with the thirty carry verses from this course, then the short surahs of the last juz'."
+              },
+              {
+                "label": "Read with others",
+                "text": "A study circle, a friend or a teacher who can correct your Arabic."
+              }
+            ]
+          }
+        },
+        {
+          "p": "Where to start? Reading in order, from al-Fatihah and al-Baqarah, is the traditional way and has its own logic. If that feels steep, many teachers suggest a first path: the short surahs of the last juz', then Yusuf, al-Kahf, Maryam, Ta-Ha and ar-Rahman, which are narrative or lyrical and carry you in, before returning to the beginning. Do not be discouraged by difficulty. Al-Bukhari and Muslim report that the one who reads the Quran fluently is with the noble, righteous scribes, and the one who stumbles through it, finding it hard, has a double reward."
+        },
+        {
+          "h": "Four questions for any passage"
+        },
+        {
+          "p": "This course read each theme through several lenses, and you can carry them into your own reading. When a passage stops you, ask four questions of it, in any order. *What does it actually say?* Read it twice, slowly, and notice the words it chooses, who is speaking and who is addressed. *When and why was it revealed?* A footnote or a page of tafsir will often tell you which event it answered, and the verse comes alive. *Where else does the Quran say this?* The book explains itself; the parable of the tree in Ibrahim, the scale in ar-Rahman and the balance in al-Isra all light one another. *What does it ask of me?* Not of people in general, of you, today. Write the answer in a notebook beside your copy. In a year you will have a commentary of your own, in your own hand."
+        },
+        {
+          "p": "Al-Bukhari also reports that 'Abdullah ibn 'Amr wanted to finish the Quran every night. The Prophet ﷺ told him to finish it in a month; when he insisted he could do more, the limit he finally gave was seven days. Even enthusiasm has a rhythm. The aim is not speed. It is to still be reading in ten years."
+        }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Is There Any Who Will Remember?",
+      "blocks": [
+        {
+          "p": "Surah al-Qamar tells the stories of Nuh, 'Ad, Thamud, the people of Lut and Pharaoh, one after another, and between them it repeats a single line, four times."
+        },
+        {
+          "verse": "54:17"
+        },
+        {
+          "p": "*Yassarna*: \"We have made easy.\" The word is the opposite of the excuse most people give. The Quran is not easy because it is shallow; you have seen this month how deep it goes. It is easy because it was made to be remembered: rhythmic, repeated, memorised entire by millions of children, recited in every prayer. And then the question, *fa hal min muddakir?* \"So is there any who will remember?\" It is not rhetorical. It is waiting for an answer."
+        },
+        {
+          "p": "This course began on Day 1 with a single command spoken in a cave: \"Recite in the name of your Lord who created\" (96:1). Everything since has been an attempt to help you hear that command clearly. If you are a Muslim, perhaps you will now hear verses you have recited since childhood with new ears. If you are seeking, perhaps you have found that the Quran is neither the book you were warned about nor one you can easily set aside. If you came out of curiosity, perhaps you understand a little better why your neighbours rise before dawn to recite it."
+        },
+        {
+          "p": "Whoever you are, the next step is the same: open it tomorrow. Not this course; the book itself. Read one page, slowly. Notice one verse that stops you. Come back the next day."
+        },
+        {
+          "p": "And when you do, there is a short prayer the Quran itself taught the Prophet ﷺ to say, for all the reading still ahead: \"My Lord, increase me in knowledge\" (20:114)."
+        }
+      ]
     }
   ],
-  "visual": {
-    "kind": "panels",
-    "title": "The ways the Quran speaks",
-    "caption": "Each way of speaking does its own work: signs open the eyes, parables make ideas visible, oaths call attention, questions make you think, stories show patterns, and the challenge invites a test.",
-    "items": [
-      { "label": "Signs", "icon": "eye", "text": "Look at camels, sky, mountains and earth.", "ref": "88:17" },
-      { "label": "Parables", "icon": "tree", "text": "A good word is like a good tree.", "ref": "14:24" },
-      { "label": "Oaths", "icon": "sun", "text": "By the sun and its brightness.", "ref": "91:1" },
-      { "label": "Questions", "icon": "compass", "text": "Were they created by nothing?", "ref": "52:35" },
-      { "label": "Stories", "icon": "scroll", "text": "The best of stories, told with purpose.", "ref": "12:3" },
-      { "label": "The challenge", "icon": "pen", "text": "Produce a surah like it.", "ref": "2:23" },
-      { "label": "Commands", "icon": "scale", "text": "Justice, good conduct, and what to avoid.", "ref": "16:90" },
-      { "label": "Light", "icon": "lamp", "text": "Allah is the Light of the heavens and earth.", "ref": "24:35" }
-    ]
-  },
-  "word": {
-    "ar": "تَدَبُّر",
-    "tr": "tadabbur",
-    "root": ["د", "ب", "ر"],
-    "meaning": "Deep reflection",
-    "nuance": "From dubur, the back or end of a thing: to follow a verse through to where it leads. 38:29 says the Quran was sent down for this, and 47:24 asks whether hearts are locked. Recitation and tadabbur belong together.",
-    "refs": ["38:29", "47:24"]
-  },
-  "mixup": {
-    "myth": "A translation of the Quran is the Quran.",
-    "truth": "Muslims hold that the Quran is the Arabic revelation itself (12:2); a translation renders its meanings. Translators make choices, which is why Sahih International puts added words in brackets. Read with a tafsir, compare translations, and treat Isra'iliyyat (details from earlier traditions) with care: al-Bukhari reports the Prophet ﷺ said neither to believe nor deny them.",
-    "refs": ["12:2", "16:44"]
-  },
-  "remember": [
-    "The Quran speaks through signs, parables, oaths, questions, stories and a challenge, each with a purpose.",
-    "Clear verses are the foundation, unclear ones are read in their light, and some rulings were replaced by later ones (3:7, 2:106).",
-    "It asks to be pondered, and promises it is easy to remember (38:29, 54:17)."
-  ],
-  "memorize": "38:29",
+  "carry": "54:17",
   "quiz": [
     {
       "q": "What does 3:7 call the precise (muhkam) verses?",
-      "options": ["The hidden part", "The newest part", "The foundation of the Book", "The stories"],
+      "options": [
+        "The hidden part",
+        "The newest part",
+        "The foundation of the Book",
+        "The stories"
+      ],
       "answer": 2,
-      "why": "3:7: \"in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.\""
+      "why": "3:7: \"in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.\" The open verses are read in the light of the clear ones."
     },
     {
-      "q": "In 14:24, a good word is compared to what?",
-      "options": ["A good tree", "A flowing river", "A shining lamp"],
+      "q": "In 14:24, what is a good word compared to?",
+      "options": [
+        "A good tree, firmly rooted, with branches in the sky",
+        "A flowing river",
+        "A shining lamp",
+        "A mountain"
+      ],
       "answer": 0,
-      "why": "14:24: \"a good word like a good tree, whose root is firmly fixed and its branches [high] in the sky.\""
+      "why": "14:24: \"a good word like a good tree, whose root is firmly fixed and its branches [high] in the sky.\" Many commentators take the good word as the declaration of Allah's oneness."
     },
     {
-      "q": "What does 54:17 say Allah has made the Quran?",
-      "options": ["Hard to understand", "Only for scholars", "Only for recitation", "Easy for remembrance"],
+      "q": "What image does 47:24 use for a person who does not reflect on the Quran?",
+      "options": [
+        "A closed book",
+        "Locks upon the heart",
+        "A dry well",
+        "A broken lamp"
+      ],
+      "answer": 1,
+      "why": "47:24: \"Then do they not reflect upon the Qur'an, or are there locks upon [their] hearts?\" The book is open; the heart is what is locked."
+    },
+    {
+      "q": "What does 73:20 tell believers about how much of the Quran to recite?",
+      "options": [
+        "Only the whole Quran each night",
+        "Only in the mosque",
+        "Only what a scholar assigns",
+        "Recite what is easy of it"
+      ],
       "answer": 3,
-      "why": "54:17: \"We have certainly made the Qur'an easy for remembrance, so is there any who will remember?\""
+      "why": "73:20: \"recite what is easy [for you] of the Qur'an\", said twice in the verse. Al-Bukhari and Muslim add that the most beloved deeds are those done consistently, even if small."
     }
   ],
-  "reflect": "Which verse from these thirty days will you return to, and when will you next sit with the Quran?",
-  "deeper": ["2:164", "41:53", "24:35", "2:23", "16:101", "4:82", "47:24", "12:1-3", "39:27", "16:44", "2:26", "54:17"],
-  "links": [
-    { "label": "What is tafsir?", "href": "/learn/what-is-tafsir" },
-    { "label": "How to read the Quran", "href": "/learn/how-to-read-the-quran" },
-    { "label": "What is hadith?", "href": "/learn/what-is-hadith" },
-    { "label": "Read Surah Ibrahim 14:24", "href": "/surah/ibrahim/24" }
+  "reflect": "Which verse from these thirty days has stayed with you most, and why? Write down when and where you will next open the Quran, and how much you will read.",
+  "deeper": [
+    "2:164",
+    "41:53",
+    "24:35",
+    "2:23",
+    "16:101",
+    "4:82",
+    "47:24",
+    "12:1-3",
+    "39:27",
+    "16:44",
+    "2:26",
+    "38:29",
+    "73:1-8",
+    "55"
   ],
-  "connections": [1, 2, 3, 6, 9, 15, 23],
+  "links": [
+    {
+      "label": "What is tafsir?",
+      "href": "/learn/what-is-tafsir"
+    },
+    {
+      "label": "How to read the Quran",
+      "href": "/learn/how-to-read-the-quran"
+    },
+    {
+      "label": "What is hadith?",
+      "href": "/learn/what-is-hadith"
+    },
+    {
+      "label": "Read Surah Ibrahim 14:24",
+      "href": "/surah/ibrahim/24"
+    }
+  ],
+  "connections": [
+    1,
+    2,
+    3,
+    6,
+    9,
+    15,
+    23
+  ],
   "status": "draft"
 }

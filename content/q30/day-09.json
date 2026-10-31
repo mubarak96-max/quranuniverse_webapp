@@ -2,220 +2,152 @@
   "day": 9,
   "title": "Yusuf and Ya'qub",
   "question": "What does patience look like when your own brothers betray you?",
-  "emblem": "well",
-  "intro": [
-    "Most prophets' stories are spread across many surahs. The story of Yusuf (Joseph) is told almost entirely in one, in order, from a boy's dream to its fulfilment. The Quran calls it \"the best of stories\" (12:3).",
-    "It is a story of envy, betrayal and temptation, but also of a father's patience and a son's integrity. Yusuf falls from his father's love to the bottom of a well, a slave market and a prison, then rises to guard the storehouses of Egypt. At the end he forgives the brothers who wronged him. Watch for the words his father Ya'qub (Jacob) says twice: \"patience is most fitting\"."
-  ],
-  "passages": [
+  "summary": "Read the Quran's one complete story, from a boy's dream through a well, a seduction, a prison and a famine to a family reunited, and learn what \"beautiful patience\" means.",
+  "cover": {
+    "alt": "An old stone well in an open desert under a sky full of stars, with a crescent moon",
+    "prompt": "An old stone-ringed well alone on a wide pale desert plain at night, a rope and wooden pulley above it, eleven bright stars scattered across the deep blue sky with a crescent moon and the faint glow of a coming dawn."
+  },
+  "chapters": [
     {
-      "ref": "12:4-5",
-      "context": "Yusuf is a boy. His father Ya'qub is the grandson of Ibrahim.",
-      "point": "Eleven stars, the sun and the moon bow to him. His father senses what it means and warns him to keep it from his brothers. 12:100 shows its fulfilment.",
-      "label": "stated"
+      "lens": "text",
+      "title": "The Best of Stories, Told Once",
+      "blocks": [
+        { "p": "Most prophets' stories in the Quran come in pieces, scattered across many surahs. The story of Yusuf, Joseph, is the exception: it fills almost all of Surah Yusuf, in order, and the surah announces it with a superlative:" },
+        { "verse": "12:3-5" },
+        { "p": "*Ahsan al-qasas*, \"the best of stories\". Commentators point out that it holds every element of a human life, envy and love, temptation and loyalty, prison and power, grief and reunion, and that nothing in it is wasted: the dream of verse 4 is fulfilled in verse 100." },
+        { "p": "Notice the last clause of 12:3: \"although you were, before it, among the unaware.\" The Prophet ﷺ in Makkah had no access to the scriptures of Israel. Near its end the surah returns to the point: \"you were not with them when they put together their plan\" (12:102). Some reports say the surah came after his companions asked him to tell them stories; others, that it answered questions put by people who knew the biblical account. Many scholars date it to the late Makkan years, a period of grief and pressure for the Prophet ﷺ, and read it as Allah telling him: hardship from your own people is not the end of the story." },
+        { "p": "Ya'qub's first words set the tone. Hearing his son's dream of eleven stars and the sun and moon bowing, he understands it at once, and warns him: do not tell your brothers. He knows that blessing attracts envy, and he names the real enemy: \"Satan, to man, is a manifest enemy.\"" },
+        { "p": "The Prophet ﷺ gave Yusuf a famous description, recorded in al-Bukhari: the noble son of the noble son of the noble son of the noble, Yusuf son of Ya'qub son of Ishaq son of Ibrahim. Four generations of prophets." }
+      ]
     },
     {
-      "ref": "12:17-18",
-      "context": "The brothers had thrown Yusuf into a well (12:15) and came home weeping at night.",
-      "point": "Ya'qub sees through the false blood but does not rage. He answers with ṣabr jamīl, fitting or beautiful patience, and turns to Allah for help.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Shirt with False Blood",
+      "blocks": [
+        { "p": "The brothers' resentment comes out in a single, revealing sentence: \"Joseph and his brother are more beloved to our father than we, while we are a clan\" (12:8). They are many, strong and useful; the father loves the two youngest. So they plot. One says kill him. Another, more cautious, says throw him into the bottom of a well, where travellers will pick him up (12:10)." },
+        { "p": "Then they go to their father with a smile. Why don't you trust us with Yusuf? Send him with us tomorrow to eat and play. Ya'qub's reply is full of foreboding: it saddens me to let him go, \"and I fear that a wolf would eat him while you are of him unaware\" (12:13). He has handed them their excuse." },
+        { "image": "day-09-well", "alt": "The dark mouth of a stone well seen from above, with the evening sky reflected in deep water", "caption": "\"Throw him into the bottom of the well\" (12:10).", "prompt": "The dark circular mouth of an ancient stone well seen from above at dusk, rough stones around its rim, a glint of deep water far below reflecting the first evening star." },
+        { "p": "At the well, as they lower him, the Quran opens a window on his heart: \"We inspired to him, 'You will surely inform them [someday] about this affair of theirs while they do not perceive'\" (12:15). Before the fall is even complete, the boy is promised the end of the story." },
+        { "verse": "12:16-18" },
+        { "p": "\"At night, weeping.\" The excuse comes pre-packaged with its own defence: \"you would not believe us, even if we were truthful.\" The blood is called *kadhib*, literally \"lie-blood\". Many commentators add a detail not in the Quran itself: the shirt was smeared but untorn, and Ya'qub remarked on how gentle this wolf had been." },
+        { "p": "Ya'qub does not shout or interrogate. He says three things. You have talked yourselves into something. Patience is most fitting. And Allah is the one whose help I seek. Then travellers lower a bucket into the well, and a water-drawer cries out, \"Good news! Here is a boy\" (12:19). He is sold in Egypt \"for a reduced price, a few dirhams\" (12:20)." }
+      ]
     },
     {
-      "ref": "12:23-24",
-      "context": "A slave in the house of al-'Aziz, an Egyptian official; his wife is unnamed.",
-      "point": "He refuses, seeking Allah's refuge, loyal to the master who housed him. Allah turns evil away from him.",
-      "label": "differ",
-      "note": "On \"he would have inclined to her\": many scholars say he never inclined, having seen the proof; others say a passing impulse he did not act on."
+      "lens": "scholar",
+      "title": "Patience That Is Beautiful",
+      "blocks": [
+        { "word": { "ar": "صَبْرٌ جَمِيلٌ", "tr": "ṣabr jamīl", "root": ["ص", "ب", "ر"], "meaning": "Beautiful patience", "nuance": "*Sabr* is holding firm: keeping the self from panic and the tongue from complaint against Allah. *Jamil*, beautiful, adds grace. Ya'qub says it twice, after losing Yusuf (12:18) and after losing a second son (12:83). The Quran later asks the Prophet ﷺ for the same: \"So be patient with gracious patience\" (70:5)." } },
+        { "p": "What makes patience \"beautiful\"? Ibn Kathir reports from the early commentator Mujahid that it is patience without *jaza'*, without agitated complaint. Other scholars put it this way: beautiful patience is patience with no complaint to people, only to Allah." },
+        { "p": "That last point matters, because the Quran does not show a stoic. Years later, when his sons return without his youngest, Ya'qub says *sabrun jamil* again, then turns away and cries, \"Oh, my sorrow over Joseph\", and weeps until his eyes go white (12:84). And when his sons protest, he answers:" },
+        { "verse": "12:86" },
+        { "p": "Here is the definition hidden in the story. Patience is not the absence of tears. It is the direction of the complaint. Ya'qub cries, grieves and remembers, but he takes it to Allah, and he refuses despair: \"despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people\" (12:87)." },
+        { "p": "The Prophet ﷺ added a point about timing. In a hadith in al-Bukhari and Muslim, he passed a woman weeping at a grave and told her to be patient; she snapped at him, not knowing who he was. Later she came to apologise, and he told her that real patience is at the first blow. Ya'qub's *sabrun jamil* came in the very first moment, with the bloodied shirt still in front of him." }
+      ]
     },
     {
-      "ref": "12:91-92",
-      "context": "Years later, famine brings the brothers to Egypt, and they learn the minister before them is Yusuf (12:89-90).",
-      "point": "With every power to punish, Yusuf forgives at once: \"No blame will there be upon you today.\" He even prays for their forgiveness.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Doors Bolted, a Shirt Torn",
+      "blocks": [
+        { "p": "The man who bought Yusuf was an official of Egypt the Quran calls *al-'Aziz*, \"the mighty one\", a title rather than a name. He told his wife: make his stay generous, \"perhaps he will benefit us, or we will adopt him as a son\" (12:21). Yusuf grew up in that house, and \"when Joseph reached maturity, We gave him judgment and knowledge\" (12:22)." },
+        { "p": "Then the test. \"She, in whose house he was, sought to seduce him. She closed the doors\" (12:23). The verb, *ghallaqat*, is intensive: she bolted them, one after another. He is a young slave far from home; she is his owner's wife, with power over his life. His answer has three parts: \"[I seek] the refuge of Allah. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.\" Allah, loyalty, and consequence." },
+        { "p": "They raced for the door. She caught his shirt from behind and tore it, and at the door stood her husband. She spoke first and accused him. A witness from her own family proposed a test: if the shirt is torn from the front, she is truthful; if from the back, he is (12:26-27). It was torn from the back. That is the second shirt in this story that tells the truth." },
+        { "p": "The scandal spread through the city's women. She invited them to a banquet, gave each a knife, and called Yusuf out. \"When they saw him, they greatly admired him and cut their hands\" (12:31), crying that this was no man but a noble angel. Now she declared openly: if he does not do what I order, he will be imprisoned." },
+        { "verse": "12:33" },
+        { "p": "He chose prison. And the cruelty of the next verse is in its casualness: though they had seen the proofs of his innocence, \"it appeared to them\" that he should be imprisoned \"for a time\" (12:35). The innocent man pays to protect the guilty family's name." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Can a Prophet Be Tempted?",
+      "blocks": [
+        { "p": "One verse in this story has troubled readers for centuries: \"she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof of his Lord\" (12:24). If prophets are protected from sin, what does \"would have inclined\" mean? And if he felt nothing, where is the virtue in refusing?" },
+        { "p": "The grammar is the first clue. In Arabic, the clause *wa hamma biha law la an ra'a burhana rabbihi* can be read as conditional: he *would* have inclined, *had it not been* that he saw the proof. On this reading, which many scholars favour, the inclination never happened; the proof came first." },
+        { "note": "A second major view, reported by al-Baghawi and cited by Ibn Kathir, holds that Yusuf felt a passing, involuntary pull of the kind any human being feels, which he rejected and never acted on. Supporters cite the hadith in al-Bukhari and Muslim that an evil intention abandoned for Allah's sake is written as a good deed. A third view takes *hamm* to mean he was about to strike her. All agree he committed no sin: the verse itself says \"We should avert from him evil and immorality. Indeed, he was of Our chosen servants\".", "title": "Where scholars differ" },
+        { "p": "The second view answers the sceptic's question honestly. Virtue is not the absence of desire; it is mastery of it. A young man who feels nothing has achieved nothing. Yusuf's own prayer in 12:33 shows he knew his vulnerability: \"if You do not avert from me their plan, I might incline toward them.\" He did not trust his own strength; he asked for Allah's." },
+        { "p": "What was \"the proof of his Lord\"? The Quran does not say. Some early commentaries report that he saw a vision of his father Ya'qub, or a written warning, and al-Jalalayn passes one such report on. Ibn Kathir notes the reports conflict and says the right course is to leave it as Allah left it. Many of these come from *Isra'iliyyat*, Jewish and Christian lore. So does the name \"Zulaykha\" for al-'Aziz's wife, which appears in later Muslim retellings but nowhere in the Quran or authentic hadith." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "Two Dreamers and a King",
+      "blocks": [
+        { "p": "In prison two young men brought him their dreams: one pressing wine, one carrying bread on his head while birds ate from it (12:36). They had noticed something in him: \"we see you to be of those who do good.\" Before interpreting, Yusuf did what prophets do. He spoke about Allah:" },
+        { "verse": "12:39-40" },
+        { "p": "Then the meanings: one would serve wine to his master again; the other would be executed. To the one who would go free he said, \"Mention me before your master.\" The man forgot, \"and Joseph remained in prison several years\" (12:42). The Arabic *bid' sinin* means between three and nine, according to Mujahid and Qatadah." },
+        { "p": "Then the king dreamed: seven fat cows eaten by seven lean ones, seven green ears of grain and seven dry (12:43). And the cup-bearer remembered. Yusuf interpreted without conditions, and with a plan: seven years of planting, store the grain in the ear, then seven hard years, then a year of rain (12:47-49)." },
+        { "p": "The king summoned him. And here Yusuf did something astonishing: he refused to leave. Go back, he told the messenger, and ask about the women who cut their hands (12:50). He would not walk out of prison as a pardoned suspect; he would walk out cleared. The Prophet ﷺ praised this patience in a hadith in al-Bukhari and Muslim: had he himself stayed in prison as long as Yusuf, he said, he would have answered the summons at once." },
+        { "p": "The women testified. Al-'Aziz's wife confessed: \"It was I who sought to seduce him, and indeed, he is of the truthful\" (12:51). And Yusuf asked for one post: \"Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian\" (12:55)." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "A Cup, a Caravan, and the Scent of a Shirt",
+      "blocks": [
+        { "p": "The famine came, as he had said, and reached Canaan. The brothers came to Egypt to buy grain, and stood before the man in charge. \"He recognized them, but he was to them unknown\" (12:58). He asked them to bring their youngest brother next time, and secretly returned their payment in their bags." },
+        { "p": "Ya'qub let the youngest go only after an oath. When they arrived, Yusuf drew his brother aside and told him quietly, \"I am your brother\" (12:69). Then the king's cup was placed in the youngest's bag, a crier called \"O caravan, indeed you are thieves\", and the cup was found where it had been put. The brothers who had once come home without one son now had to come home without another." },
+        { "p": "Ya'qub heard the news and said the same words as before: *fa sabrun jamil*. And then, for the first time, he spoke his hope aloud: \"Perhaps Allah will bring them to me all together\" (12:83). He sent them back to search, telling them not to despair." },
+        { "p": "On their third visit, poor and humbled, they asked for charity. And the minister asked a question that only one person in Egypt could ask: \"Do you know what you did with Joseph and his brother when you were ignorant?\" (12:89)." },
+        { "verse": "12:90-92" },
+        { "p": "\"Take this, my shirt, and cast it over the face of my father; he will become seeing\" (12:93). As the caravan left Egypt, far away in Canaan an old man said, \"Indeed, I find the smell of Joseph\" (12:94). The third shirt in the story carries the best news of all. It was laid on his face, and he could see again. The family came to Egypt, Yusuf raised his parents to the seat of honour, and they bowed. \"O my father, this is the explanation of my vision of before\" (12:100)." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "No Blame upon You Today",
+      "blocks": [
+        { "p": "Yusuf had every means for revenge: he held the grain of a starving region. His brothers stood before him without money, without power, confessing. And he said: *la tathriba 'alaykum al-yawm*. No blame, no reproach, today. No speech about what they had done. He even made excuses for them, blaming the estrangement on Satan, \"after Satan had induced [estrangement] between me and my brothers\" (12:100)." },
+        { "p": "The biographies of the Prophet ﷺ report that when he entered Makkah in triumph in 630, standing before the people who had persecuted him, driven him out and fought him, he asked what they expected him to do, and then said he would say to them what Yusuf said to his brothers: no blame upon you today. Historians debate the chains of this report, but it has shaped how Muslims understand mercy at the moment of power." },
+        { "p": "Most of us will never hold a kingdom's storehouses, but we often hold the power to make someone pay: a sharp reply, a withheld kindness, a memory kept fresh. Yusuf's story asks whether we can let go of the debt, and still be honest about what happened." },
+        { "p": "And it asks something of anyone still in the well, or the prison. Yusuf's last prayer, at the height of his success, shows what he wanted most. Not more power. A good ending:" },
+        { "verse": "12:101" }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "What the Surah Teaches a Family",
+      "blocks": [
+        { "p": "Surah Yusuf is, among other things, a family story, and Muslims read it as a manual for family life. Some of its lessons have become everyday practice." },
+        { "list": ["Keep blessings quiet where envy lives. Ya'qub's warning (12:5) matches a hadith in al-Bukhari and Muslim: a good dream is from Allah, and one should tell it only to those one loves.", "Parents must guard against favouritism, or the appearance of it. The brothers' envy began with \"more beloved to our father than we\" (12:8). The Prophet ﷺ told a father who gave one child a gift to fear Allah and be just among his children (al-Bukhari and Muslim).", "Integrity at work: Yusuf asked for responsibility on the strength of being \"a knowing guardian\" (12:55), honest and competent. Muslims cite the verse for seeking a post you are qualified for.", "Complain to Allah, not about Allah. Many Muslims memorise 12:86 for days of grief.", "Forgive at the moment you could punish. That is when forgiveness counts most."] },
+        { "p": "For non-Muslims who know the biblical account of Joseph, the Quran's version will feel both familiar and different. The bones are shared: the coat, the pit, Egypt, the dreams, the famine. The Quran's emphasis falls elsewhere: on Ya'qub's faith, on Yusuf's prayers, on Allah's quiet direction of events. \"Indeed, my Lord is Subtle in what He wills\" (12:100). *Latif*, subtle, the One whose care works through events no one could have planned." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "arc",
-    "title": "Yusuf's fall and rise",
-    "caption": "From a father's favourite to a well, a slave market and a prison, then to the storehouses of Egypt and a family reunited. \"Indeed, my Lord is Subtle in what He wills\" (12:100).",
-    "items": [
-      {
-        "label": "The dream",
-        "text": "Eleven stars, the sun and moon bow to him.",
-        "ref": "12:4",
-        "at": 0,
-        "level": 0.4
-      },
-      {
-        "label": "Into the well",
-        "text": "Envious brothers cast him in; Allah reassures him.",
-        "ref": "12:15",
-        "at": 0.11,
-        "level": -0.6
-      },
-      {
-        "label": "Sold as a slave",
-        "text": "Sold for a few dirhams.",
-        "ref": "12:20",
-        "at": 0.21,
-        "level": -0.45
-      },
-      {
-        "label": "A home in Egypt",
-        "text": "Raised in the house of al-'Aziz.",
-        "ref": "12:21",
-        "at": 0.31,
-        "level": -0.1
-      },
-      {
-        "label": "Temptation refused",
-        "text": "He seeks Allah's refuge and keeps his integrity.",
-        "ref": "12:23",
-        "at": 0.41,
-        "level": -0.3
-      },
-      {
-        "label": "Prison",
-        "text": "\"Prison is more to my liking.\" Years pass.",
-        "ref": "12:33",
-        "at": 0.51,
-        "level": -0.9
-      },
-      {
-        "label": "Dreams explained",
-        "text": "The king's dream: seven fat cows, seven lean.",
-        "ref": "12:43",
-        "at": 0.62,
-        "level": -0.5
-      },
-      {
-        "label": "Over the stores",
-        "text": "Trusted with Egypt's storehouses through the famine.",
-        "ref": "12:55",
-        "at": 0.73,
-        "level": 0.5
-      },
-      {
-        "label": "Brothers arrive",
-        "text": "He knows them; they do not know him.",
-        "ref": "12:58",
-        "at": 0.82,
-        "level": 0.6
-      },
-      {
-        "label": "\"I am Yusuf\"",
-        "text": "He reveals himself and forgives.",
-        "ref": "12:90",
-        "at": 0.91,
-        "level": 0.8
-      },
-      {
-        "label": "The dream fulfilled",
-        "text": "His parents raised to the throne; the family bows.",
-        "ref": "12:100",
-        "at": 1,
-        "level": 1
-      }
-    ]
-  },
-  "word": {
-    "ar": "صَبْرٌ جَمِيلٌ",
-    "tr": "ṣabr jamīl",
-    "root": [
-      "ص",
-      "ب",
-      "ر"
-    ],
-    "meaning": "Beautiful patience",
-    "nuance": "Ṣabr is holding firm: the self kept from panic, the tongue from complaint against Allah. Jamīl, beautiful, adds grace. Ya'qub says it twice, after losing Yusuf (12:18) and then a second son (12:83). The Quran later asks the Prophet ﷺ for the same: \"So be patient with gracious patience\" (70:5).",
-    "refs": [
-      "12:18",
-      "12:83",
-      "70:5"
-    ]
-  },
-  "mixup": {
-    "myth": "Patience means hiding your grief and never crying.",
-    "truth": "Ya'qub wept until \"his eyes became white from grief\" (12:84), yet the Quran praises his patience. He said, \"I only complain of my suffering and my grief to Allah\" (12:86), and told his sons not to despair (12:87). Patience is not the absence of tears; it is refusing despair and bringing the pain to Allah.",
-    "refs": [
-      "12:84",
-      "12:86",
-      "12:87"
-    ]
-  },
-  "remember": [
-    "The Quran calls Yusuf's story \"the best of stories\", told almost entirely in one surah (12:3).",
-    "Ya'qub's beautiful patience: grief taken to Allah, never despair of His relief (12:18, 12:86-87).",
-    "At the height of his power, Yusuf forgave: \"No blame will there be upon you today\" (12:92)."
-  ],
-  "memorize": "12:86",
+  "carry": "12:86",
   "quiz": [
     {
-      "q": "What did the brothers bring back to their father as proof?",
-      "options": [
-        "A wolf's pelt",
-        "Yusuf's sandals",
-        "A message from travellers",
-        "His shirt with false blood"
-      ],
-      "answer": 3,
-      "why": "12:18: \"And they brought upon his shirt false blood.\" Ya'qub saw through it at once."
-    },
-    {
-      "q": "Faced with the women's pressure, what did Yusuf say he preferred?",
-      "options": [
-        "Leaving Egypt",
-        "Prison",
-        "Returning to his father",
-        "Becoming a merchant"
-      ],
+      "q": "What did Ya'qub say when his sons brought Yusuf's shirt with false blood?",
+      "options": ["\"I will avenge my son\"", "\"Patience is most fitting, and Allah is the one sought for help\"", "\"Take me to the well\"", "\"I believe you\""],
       "answer": 1,
-      "why": "12:33: \"My Lord, prison is more to my liking than that to which they invite me.\""
+      "why": "12:18: he saw through the lie and answered with *sabr jamil*, beautiful patience, turning to Allah for help."
     },
     {
-      "q": "What did Yusuf say when his brothers admitted their wrong?",
-      "options": [
-        "\"You will repay me twice over.\"",
-        "\"Leave Egypt and never return.\"",
-        "\"No blame will there be upon you today.\"",
-        "\"Our father will judge you.\""
-      ],
+      "q": "According to 12:86-87, what does beautiful patience include?",
+      "options": ["Never shedding a tear", "Hiding all grief from Allah", "Taking one's grief to Allah and refusing to despair of His relief", "Forgetting the person who was lost"],
+      "answer": 2,
+      "why": "Ya'qub wept until his eyes went white (12:84), yet said, \"I only complain of my suffering and my grief to Allah\" (12:86) and \"despair not of relief from Allah\" (12:87)."
+    },
+    {
+      "q": "Why did Yusuf refuse to leave prison when the king first summoned him (12:50)?",
+      "options": ["He was afraid of the king", "He wanted his innocence publicly established first", "He did not want the job", "He was waiting for his brothers"],
+      "answer": 1,
+      "why": "He asked the king to investigate \"the women who cut their hands\". The women cleared him and al-'Aziz's wife confessed (12:51) before he left."
+    },
+    {
+      "q": "What did Yusuf say to his brothers when they admitted their wrong?",
+      "options": ["\"You will repay me twice over\"", "\"Leave Egypt and never return\"", "\"No blame will there be upon you today\"", "\"Our father will judge you\""],
       "answer": 2,
       "why": "12:92. He forgave them on the spot and asked Allah to forgive them, \"the most merciful of the merciful\"."
     }
   ],
-  "reflect": "Ya'qub took his grief to Allah rather than to people. What weight could you hand to Allah in a quiet prayer today?",
-  "deeper": [
-    "12",
-    "12:53",
-    "12:100-101",
-    "40:34",
-    "6:84",
-    "70:5"
-  ],
+  "reflect": "Ya'qub took his grief to Allah rather than to people, and Yusuf let go of a debt he could have collected. Which of the two do you most need today, and what would it look like in practice?",
+  "deeper": ["12", "12:53", "12:100-101", "40:34", "6:84", "70:5"],
   "links": [
-    {
-      "label": "Yusuf on the timeline",
-      "href": "/timeline/prophets/yusuf"
-    },
-    {
-      "label": "Ya'qub on the timeline",
-      "href": "/timeline/prophets/yaqub"
-    },
-    {
-      "label": "Sabr: patience in Islam",
-      "href": "/learn/sabr-patience-in-islam"
-    },
-    {
-      "label": "Read Surah Yusuf",
-      "href": "/surah/yusuf"
-    }
+    { "label": "Yusuf on the timeline", "href": "/timeline/prophets/yusuf" },
+    { "label": "Ya'qub on the timeline", "href": "/timeline/prophets/yaqub" },
+    { "label": "Sabr: patience in Islam", "href": "/learn/sabr-patience-in-islam" },
+    { "label": "Read Surah Yusuf", "href": "/surah/yusuf" }
   ],
-  "connections": [
-    3,
-    5,
-    8,
-    23
-  ],
+  "connections": [3, 5, 8, 23],
   "status": "draft"
 }

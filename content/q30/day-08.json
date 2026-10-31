@@ -2,170 +2,153 @@
   "day": 8,
   "title": "Ibrahim and His Family",
   "question": "How did one man reason his way from the stars to their Maker?",
-  "emblem": "star",
-  "intro": [
-    "Ibrahim (Abraham) is honoured by Jews, Christians and Muslims alike. The Quran calls him a leader for the people (2:124), a man devoutly obedient to Allah (16:120), and the one Allah \"took as an intimate friend\" (4:125).",
-    "His life is a series of tests. He questioned the idols of his father and his people, faced a fire, left part of his family in a barren valley, and saw a dream asking him to sacrifice his son. Each time he chose Allah, and each time Allah honoured him. Today you will follow his reasoning, his trials, and the House he raised in Makkah with his son Isma'il (Ishmael)."
-  ],
-  "passages": [
+  "summary": "Follow Ibrahim from the night sky and the broken idols to the fire, the empty valley of Makkah and the dream of sacrifice, and see why the Quran calls him a nation in himself.",
+  "cover": {
+    "alt": "A single bright star above a dark desert horizon at nightfall, with a thin crescent moon low in the sky",
+    "prompt": "A vast desert plain at nightfall in ancient Mesopotamia, one brilliant star shining above the horizon and a thin crescent moon rising low, the last band of sunset fading behind distant mud-brick temple towers."
+  },
+  "chapters": [
     {
-      "ref": "6:78-79",
-      "context": "After the star (6:76) and the moon (6:77).",
-      "point": "What rises and sets cannot be Lord. He turns to the Creator alone, \"inclining toward truth\".",
-      "label": "differ",
-      "note": "Most scholars, including Ibn Kathir, read this as a debate exposing his people's worship (6:83 calls it an argument). Others, in reports cited by at-Tabari, read it as his own search in youth."
+      "lens": "text",
+      "title": "A Nation in One Man",
+      "blocks": [
+        { "p": "Jews, Christians and Muslims all trace their faith to one man: Ibrahim, Abraham. The Quran honours him with titles it gives to no one else, and the densest of them sit in four verses near the end of Surah an-Nahl." },
+        { "verse": "16:120-123" },
+        { "p": "Sahih International renders the first title \"a [comprehensive] leader\". The Arabic is *ummah*, the word for a whole nation or community. Ibn Mas'ud, the companion, explained it as a teacher of good, and other early commentators said Ibrahim was called an *ummah* because for a time he alone carried the faith that a whole people should have carried. One man, standing for a nation." },
+        { "p": "Then *qanit*, \"devoutly obedient\", and *hanif*, \"inclining toward truth\", followed by a denial: \"he was not of those who associate others with Allah\". The Quran repeats that denial about Ibrahim again and again, because the Arabs of Makkah claimed him as their ancestor while filling his House with idols." },
+        { "word": { "ar": "حَنِيف", "tr": "ḥanīf", "root": ["ح", "ن", "ف"], "meaning": "One who inclines toward the truth", "nuance": "The root carries the sense of turning or leaning: a *hanif* turns away from false worship and leans wholly toward Allah. With its plural, it appears twelve times in the Quran, most often for Ibrahim. Before Islam, a few Makkans who rejected idols without becoming Jews or Christians were known as *hunafa'*." } },
+        { "p": "Elsewhere the Quran makes the claim directly, in a verse that surprises many readers: \"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]\" (3:67). The Torah and the Gospel came after him, and *muslim* here simply means one who submits to Allah. The Quran also gives him a title of startling intimacy: \"Allah took Abraham as an intimate friend\" (4:125), *khalil*, a friend whose love has entered the heart. Muslims call him *al-Khalil*." }
+      ]
     },
     {
-      "ref": "21:66-69",
-      "context": "He had broken his people's idols, all but the largest, and told them to ask it (21:58-63).",
-      "point": "Gods that cannot speak, help or harm are not worth worship. When they try to burn him, Allah commands the fire to be cool and safe.",
-      "label": "stated"
+      "lens": "story",
+      "title": "The Night He Watched the Sky",
+      "blocks": [
+        { "p": "Ibrahim grew up among people who made gods with their hands and read their fates in the sky. His father, named in the Quran as Azar, was one of them (6:74). The Quran prepares the scene with a sentence about what Allah showed him: \"the realm of the heavens and the earth that he would be among the certain\" (6:75). Then comes the night." },
+        { "verse": "6:76-79" },
+        { "image": "day-08-star", "alt": "A bright star setting over a dark desert horizon as dawn begins to break", "caption": "\"I like not those that disappear\" (6:76).", "prompt": "A dark desert horizon in the last hour before dawn, a single bright star sinking toward the edge of the earth, the faintest pale light beginning in the east and a low moon fading above flat-roofed mud-brick houses." },
+        { "p": "Watch the rhythm. Each light rises, is called \"my lord\", and then sets. The star is small. The moon is brighter. The sun is \"greater\", *hadha akbar*. And every one of them goes down. The word he uses is *afilin*, \"those that set\": things that come and go, that are present and then absent." },
+        { "p": "The logic is simple enough for a child and deep enough for a philosopher. What disappears depends on something else; it is moved, not the mover. A Lord worth worship cannot be absent from His creation for half of every day. So Ibrahim turns his face, *wajhi*, his whole self, \"toward He who created the heavens and the earth\" (6:79)." }      ]
     },
     {
-      "ref": "37:102-105",
-      "context": "He had prayed for a righteous child (37:100-101).",
-      "point": "Father and son both submit. Allah stops it: the surrender was the test, and He ransoms the son \"with a great sacrifice\" (37:107).",
-      "label": "differ",
-      "note": "The son is not named. Most scholars, including Ibn Kathir, say Isma'il, as Ishaq's birth is announced after (37:112). Others, including at-Tabari, say Ishaq."
+      "lens": "scholar",
+      "title": "A Search, or an Argument?",
+      "blocks": [
+        { "p": "Did Ibrahim really think, even for a moment, that a star was his Lord? The commentators asked this question very early, and their answers say something about how the Quran is read." },
+        { "note": "Most scholars, including Ibn Kathir, read the passage as a debate. Ibrahim adopts his people's claim, \"this is my lord\", in order to expose it, as al-Jalalayn glosses: \"as you claim\". They point to the verse that follows: \"that was Our [conclusive] argument which We gave Abraham against his people\" (6:83). Others, in reports cited by at-Tabari, read it as Ibrahim's own search in youth, before revelation. Defenders of the first view add that a prophet is protected from ever worshipping other than Allah, and that 6:75 says he was already being shown the realm of the heavens.", "title": "Where scholars differ" },
+        { "p": "Either way, the passage teaches a method the Quran uses constantly: it takes what people already see and asks what follows from it." },
+        { "p": "A second question concerns his father's name. The Quran calls him Azar; the Bible calls Abraham's father Terah. Some commentators said Azar was a second name or a title; others, that *ab*, father, here means an uncle, as Arabic allows. Many simply accept the Quran's name; two names for one person are common in ancient records." },
+        { "p": "Much else that fills the popular telling of Ibrahim's childhood, a king who killed newborn boys after a prophecy, a boy hidden in a cave, comes from later lore and is not in the Quran. Ibn Kathir passes some of it on with caution. These are *Isra'iliyyat* or unverified reports, and nothing in the faith depends on them." }
+      ]
     },
     {
-      "ref": "2:127-128",
-      "context": "In Makkah, where Ibrahim had settled family \"in an uncultivated valley\" (14:37).",
-      "point": "Even while building Allah's House, father and son pray to be accepted and for a community devoted to Him. Their next prayer (2:129) asks for a messenger from among them.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Temple of Broken Gods",
+      "blocks": [
+        { "p": "One day the people went out of the city for a festival. Ibrahim stayed behind. Surah as-Saffat says he \"cast a look at the stars and said, 'Indeed, I am [about to be] ill'\" (37:88-89), and they left him. Then he walked into the temple, alone with the gods." },
+        { "p": "The Quran records what he said to them, and it is almost comic. \"Do you not eat? What is [wrong] with you that you do not speak?\" (37:91-92). Then \"he turned upon them a blow with [his] right hand\" (37:93). He smashed them all, \"except a large one among them, that they might return to it\" (21:58)." },
+        { "p": "The crowd returned to find their gods in pieces, and remembered \"a young man\" called Ibrahim (21:60). Have you done this to our gods? And he answered: \"Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak\" (21:63)." },
+        { "p": "For one moment, the Quran says, they saw it. \"They returned to [blaming] themselves and said, 'Indeed, you are the wrongdoers'\" (21:64). Then pride closed the window: \"You have already known that these do not speak!\" Ibrahim pressed the point home:" },
+        { "verse": "21:66-69" },
+        { "p": "Note the Arabic of the command. The fire is not extinguished; it is addressed. *Kuni bardan wa salaman*, \"be coolness and safety\". Commentators observe that \"safety\" is added so that the coolness itself would not harm him." },
+        { "note": "A hadith in al-Bukhari and Muslim says Ibrahim spoke three statements that seemed untrue: \"I am ill\", \"the largest of them did it\", and calling his wife his sister to protect her from a tyrant. Scholars explain that these were *ma'arid*, statements with a true hidden meaning: he was sick at heart over their idolatry, the remark about the idol was a challenge rather than a claim, and his wife was his sister in faith.", "title": "Three puzzling statements" }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Can You Make the Sun Rise in the West?",
+      "blocks": [
+        { "p": "The Quran records another argument, this time with a king. It does not name him; later tradition calls him Namrud (Nimrod)." },
+        { "verse": "2:258" },
+        { "p": "The king's reply is a dodge: he can spare a condemned man and execute another, so he too \"gives life and causes death\". Ibrahim moved to ground the king could not fake. The sun's rising is not in any ruler's power. *Fa buhita*, \"he was overwhelmed\", left speechless." },
+        { "p": "A sceptic might say this proves only that kings are not gods. True, and that was exactly the claim at stake. The Quran's reasoning works by dependence: whatever comes and goes, or can be outmatched, is not the Lord." },
+        { "p": "The next verses go further, into Ibrahim's own heart. \"My Lord, show me how You give life to the dead.\" Allah asks, \"Have you not believed?\" He answers, \"Yes, but [I ask] only that my heart may be satisfied\" (2:260). He is shown four birds, cut and scattered on hills, coming back to him at a call." },
+        { "p": "Here the Quran makes room for something many believers feel and few admit: the wish to see, not because faith is absent, but because the heart wants rest. The Prophet ﷺ said, in a hadith in al-Bukhari and Muslim, \"We are more entitled to doubt than Ibrahim\". Scholars explain the meaning: if we do not doubt, Ibrahim certainly did not; his question was for certainty, not from denial. Faith and the longing for deeper certainty can live in the same heart, and the Quran honours both." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "A Valley with No Water",
+      "blocks": [
+        { "p": "Years later, Ibrahim made a journey south with Hajar and their infant son Isma'il. The fullest account is a long report from Ibn 'Abbas in Sahih al-Bukhari. He left them in a dry valley near the site of the House, under a tree, with a leather bag of dates and a skin of water. Then he turned to go." },
+        { "p": "Hajar followed him. Ibrahim, where are you going, leaving us in this valley where there is no one and nothing? She asked again and again, and he did not turn around. Then she asked the only question that mattered: has Allah commanded you to do this? Yes. \"Then He will not abandon us,\" she said, and went back." },
+        { "p": "Out of their sight, at a mountain pass, Ibrahim turned to face the place and prayed:" },
+        { "verse": "14:37" },
+        { "image": "day-08-valley", "alt": "A dry, rocky valley between bare mountains under harsh afternoon light, a single acacia tree at its centre", "caption": "\"An uncultivated valley near Your sacred House\" (14:37).", "prompt": "A dry, stony valley enclosed by bare dark mountains under a white-hot afternoon sky, a single thin acacia tree casting a small shadow, and two low rocky hills facing each other across the valley floor." },
+        { "p": "The water ran out. The baby cried with thirst. Hajar climbed the nearest hill, as-Safa, to look for anyone, then ran across the valley floor to the opposite hill, al-Marwah, and back, seven times. \"That is why people go between them,\" the Prophet ﷺ said in the same report: the walk of every pilgrim since, the *sa'y*, retraces a mother's search." },
+        { "p": "On the seventh run she heard a sound. At the place of Zamzam an angel struck the ground and water welled up. She began to bank it in with her hands. The Prophet ﷺ said: may Allah have mercy on the mother of Isma'il; had she left it, Zamzam would have been a flowing stream. A passing tribe, Jurhum, saw birds circling over water in a waterless valley, asked her leave, and settled. Makkah had begun." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The Dream on the Hill",
+      "blocks": [
+        { "p": "Ibrahim had prayed for a righteous child and was given \"a forbearing boy\" (37:101). Then came the hardest test of his life." },
+        { "verse": "37:102-107" },
+        { "p": "Every phrase repays attention. *Balagha ma'ahu as-sa'y*, \"when he reached with him [the age of] exertion\": old enough to walk and work beside his father, the age when a son becomes a companion. Muslims believe the dreams of prophets are revelation, so Ibrahim did not treat this as a passing image." },
+        { "p": "Then the father asks: *fanzur madha tara*, \"so see what you think\". He does not drag his son to the hill. He tells him and asks his view. The son's answer has become one of the most quoted lines among Muslims: \"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.\" Even here, he adds *in sha' Allah*." },
+        { "p": "\"When they had both submitted\", *aslama*, from the same root as *islam*. The test was complete before any blood was shed. \"You have fulfilled the vision.\" What Allah wanted was the surrender, not the son. A great sacrifice, a ram in most commentaries, was given in his place, and the Quran calls the whole episode *al-bala' al-mubin*, \"the clear trial\" (37:106)." },
+        { "note": "The Quran does not name the son. Most scholars, including Ibn Kathir, say it was Isma'il: the good news of Ishaq comes after the story, as a separate gift (37:112), and Ishaq's birth had been promised along with a grandson, Ya'qub (11:71), which would make a command to sacrifice him as a child less fitting as a test. Others, including at-Tabari, held it was Ishaq. Muslims commemorate the event either way.", "title": "Which son?" }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Ibrahim in Every Prayer",
+      "blocks": [
+        { "p": "Father and son later returned to the valley and built. The Quran gives us not the bricks but the words they said while lifting them:" },
+        { "verse": "2:127-129" },
+        { "p": "They prayed to be accepted while doing the work, and for a messenger from among the people of that valley who would recite Allah's verses and teach. Muslims see that prayer answered, centuries later, in Muhammad ﷺ; a report in the Musnad of Ahmad has him describe himself as the answer to the prayer of his father Ibrahim. Ibrahim's family is woven into Muslim practice:" },
+        { "list": ["In every prayer, five times a day, Muslims end by asking Allah to bless Muhammad ﷺ and his family \"as You blessed Ibrahim and the family of Ibrahim\", a formula the Prophet ﷺ taught, recorded in al-Bukhari.", "The Hajj retraces the family's steps: the *tawaf* around the House they built, the *sa'y* between as-Safa and al-Marwah, a drink of Zamzam, and prayer behind *Maqam Ibrahim*, \"the standing place of Abraham\" (2:125).", "Each year Muslims worldwide celebrate *'Id al-Adha*, the Festival of Sacrifice, slaughtering an animal and sharing its meat with family, neighbours and the poor, in memory of Ibrahim's surrender.", "The Quran calls the faith *millat Ibrahim*, the religion of Abraham (16:123), which is why Muslims feel a kinship with Jews and Christians who also honour him."] },
+        { "p": "A Muslim neighbour delivering meat at Eid al-Adha, or sharing Zamzam water after Hajj, is living this story." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "O My Father",
+      "blocks": [
+        { "p": "The man who smashed idols and faced a fire speaks to his idol-making father with astonishing gentleness. Surah Maryam records four appeals, each beginning *ya abati*, \"O my dear father\", a tender form of address." },
+        { "verse": "19:42-45" },
+        { "p": "His father answered with a threat: \"If you do not desist, I will surely stone you, so avoid me a prolonged time\" (19:46). And Ibrahim's reply is the last word of the exchange: \"Peace will be upon you. I will ask forgiveness for you of my Lord\" (19:47). He left; he did not curse. Later, the Quran says, when it became clear his father was an enemy of Allah, he stopped praying for him, \"Indeed was Abraham compassionate and patient\" (9:114)." },
+        { "p": "Many people carry a version of this pain: a parent, a child, a spouse who does not share their deepest convictions. Ibrahim shows how to hold truth without losing tenderness, and to leave with peace rather than contempt." },
+        { "p": "Ibrahim's prayer in the valley ends with a request for himself, his family and every believer. Many Muslims say it at the end of each prayer. It is today's verse to carry: *\"My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication. Our Lord, forgive me and my parents and the believers the Day the account is established\" (14:40-41)*." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "panels",
-    "title": "Star, moon, sun",
-    "caption": "Each light rises, shines and sets. Step by step, Ibrahim shows that what disappears cannot be Lord, and turns to the One who made them all (6:76-79).",
-    "items": [
-      {
-        "label": "A star",
-        "text": "It sets: \"I like not those that disappear.\"",
-        "ref": "6:76",
-        "icon": "star"
-      },
-      {
-        "label": "The moon",
-        "text": "It sets: \"Unless my Lord guides me...\"",
-        "ref": "6:77",
-        "icon": "moon"
-      },
-      {
-        "label": "The sun",
-        "text": "\"This is greater.\" It sets too.",
-        "ref": "6:78",
-        "icon": "sun"
-      },
-      {
-        "label": "The Creator",
-        "text": "\"I have turned my face toward He who created.\"",
-        "ref": "6:79",
-        "icon": "compass"
-      }
-    ]
-  },
-  "word": {
-    "ar": "حَنِيفٌ",
-    "tr": "ḥanīf",
-    "root": [
-      "ح",
-      "ن",
-      "ف"
-    ],
-    "meaning": "One who inclines toward the truth",
-    "nuance": "The root carries the sense of turning or leaning. A ḥanīf turns away from false worship and leans wholly toward Allah. Sahih International renders it \"inclining toward truth\". The Quran uses it again and again for Ibrahim, and calls the Prophet ﷺ to follow his path.",
-    "refs": [
-      "16:120",
-      "3:67",
-      "16:123"
-    ]
-  },
-  "mixup": {
-    "myth": "Islam began with Muhammad ﷺ, so Ibrahim belongs to an older, separate religion.",
-    "truth": "The Quran presents one path from the start: worship Allah alone and submit to Him. It calls Ibrahim \"inclining toward truth, a Muslim [submitting to Allah]\" (3:67), and tells the Prophet ﷺ to follow \"the religion of Abraham\" (16:123). Muhammad ﷺ is presented as renewing that path, not inventing a new one.",
-    "refs": [
-      "3:67",
-      "16:123",
-      "22:78"
-    ]
-  },
-  "remember": [
-    "Ibrahim reasoned from the setting star, moon and sun to the Creator who never sets (6:76-79).",
-    "His tests were the idols, the fire, the barren valley and the dream of sacrifice. In each he submitted, and Allah honoured him.",
-    "With Isma'il he raised the foundations of the Ka'bah and prayed for a messenger from their descendants (2:127-129)."
-  ],
-  "memorize": "14:40-41",
+  "carry": "14:40-41",
   "quiz": [
     {
-      "q": "When the king claimed that he gave life and death, what did Ibrahim reply?",
-      "options": [
-        "\"Then make the dead speak.\"",
-        "\"Then stop the rain.\"",
-        "\"Allah brings up the sun from the east, so bring it up from the west.\"",
-        "\"Then turn the river back.\""
-      ],
-      "answer": 2,
-      "why": "2:258. The king, given power by Allah, was left speechless. The Quran does not name him; later tradition calls him Namrud."
-    },
-    {
-      "q": "What did Allah say to the fire prepared for Ibrahim?",
-      "options": [
-        "\"O fire, be coolness and safety upon Abraham.\"",
-        "\"O fire, go out.\"",
-        "\"O fire, burn only the idols.\""
-      ],
-      "answer": 0,
-      "why": "21:69. The fire was not removed; it was made cool and safe for him, and the plotters became \"the greatest losers\" (21:70)."
-    },
-    {
-      "q": "Who raised the foundations of the House with Ibrahim?",
-      "options": [
-        "Ishaq",
-        "Isma'il",
-        "Lut",
-        "Ya'qub"
-      ],
+      "q": "What is the point of Ibrahim's words about the star, moon and sun in 6:76-79?",
+      "options": ["That the sun is the greatest god", "That whatever sets and disappears cannot be Lord, so he turns to their Creator", "That stars predict the future", "That his people should worship the moon instead"],
       "answer": 1,
-      "why": "2:127: \"when Abraham was raising the foundations of the House and [with him] Ishmael\"."
+      "why": "Each light sets, and he says, \"I like not those that disappear\" (6:76). He turns to \"He who created the heavens and the earth\" (6:79). Most scholars read it as an argument against his people (6:83)."
+    },
+    {
+      "q": "What did Allah command the fire, according to 21:69?",
+      "options": ["\"O fire, go out\"", "\"O fire, be coolness and safety upon Abraham\"", "\"O fire, burn only the idols\"", "\"O fire, rise higher\""],
+      "answer": 1,
+      "why": "21:69. The fire was not removed but made cool and safe for him; the plotters became \"the greatest losers\" (21:70)."
+    },
+    {
+      "q": "In the dream of sacrifice (37:102-107), what did the son say?",
+      "options": ["\"Let me first ask my mother\"", "\"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast\"", "\"Wait until I am older\"", "\"Sacrifice a ram instead\""],
+      "answer": 1,
+      "why": "37:102. Both submitted (37:103), and Allah ransomed the son \"with a great sacrifice\" (37:107). The surrender itself was the test."
+    },
+    {
+      "q": "Which Muslim practice retraces Hajar's search for water?",
+      "options": ["The five daily prayers", "Fasting in Ramadan", "The *sa'y* between as-Safa and al-Marwah", "Giving zakah"],
+      "answer": 2,
+      "why": "In the report of Ibn 'Abbas in al-Bukhari, Hajar ran between the two hills seven times, and the Prophet ﷺ said, \"That is why people go between them.\""
     }
   ],
   "reflect": "Ibrahim asked to see how Allah gives life, \"only that my heart may be satisfied\" (2:260). What question would you bring to Allah with that same honesty?",
-  "deeper": [
-    "2:258-260",
-    "11:69-76",
-    "14:35-41",
-    "19:41-50",
-    "37:83-98",
-    "60:4",
-    "16:120-123",
-    "29:16-27"
-  ],
+  "deeper": ["2:124-141", "2:258-260", "11:69-76", "14:35-41", "19:41-50", "37:83-113", "60:4", "16:120-123", "29:16-27"],
   "links": [
-    {
-      "label": "Ibrahim on the timeline",
-      "href": "/timeline/prophets/ibrahim"
-    },
-    {
-      "label": "The king who argued with Ibrahim",
-      "href": "/timeline/villains/namrud"
-    },
-    {
-      "label": "What is the Kaaba?",
-      "href": "/learn/what-is-the-kaaba"
-    },
-    {
-      "label": "Read Surah Ibrahim",
-      "href": "/surah/ibrahim"
-    }
+    { "label": "Ibrahim on the timeline", "href": "/timeline/prophets/ibrahim" },
+    { "label": "The king who argued with Ibrahim", "href": "/timeline/villains/namrud" },
+    { "label": "What is the Kaaba?", "href": "/learn/what-is-the-kaaba" },
+    { "label": "Read Surah Ibrahim", "href": "/surah/ibrahim" }
   ],
-  "connections": [
-    6,
-    7,
-    9,
-    13,
-    24
-  ],
+  "connections": [6, 7, 9, 13, 24],
   "status": "draft"
 }

@@ -1,112 +1,152 @@
 {
   "day": 4,
-  "title": "The Unseen",
+  "title": "The Unseen: Angels, Jinn and the Hidden",
   "question": "What is real but hidden from our eyes?",
-  "emblem": "key",
-  "intro": [
-    "The Quran describes believers as those \"who believe in the unseen\" (2:3). In Arabic this is al-ghayb: what is real but hidden from our senses. Allah Himself, the angels, the jinn, the Throne, the Hereafter and the future all belong to it.",
-    "The Quran tells us some of this, and then stops. Angels bring revelation, record deeds and take souls. Jinn, made from fire, choose belief or disbelief as we do. Iblis, who refused to bow to Adam, was one of them.",
-    "Today also covers sorcery and the evil eye, which the Quran treats as real but never beyond Allah's permission. And it marks the limit: only Allah holds the keys of the unseen. Fortune-tellers claim what the Quran reserves for Him (27:65)."
-  ],
-  "passages": [
+  "summary": "What the Quran means by al-ghayb, the unseen: angels who obey, jinn who choose, the scribes who record every word, sorcery and envy, and the firm line it draws around knowledge of the future.",
+  "cover": {
+    "alt": "A desert valley at night with a meteor streaking across a starry sky above dark palm trees",
+    "prompt": "A quiet palm grove in a desert valley at night, the trunks and fronds dark against a deep sky full of stars, a single bright meteor streaking across the heavens above, a thin crescent moon low on the horizon."
+  },
+  "chapters": [
     {
-      "ref": "50:16-18",
-      "context": "From Qaf, a Makkan surah about death and resurrection. 82:10-12 calls these angels \"noble and recording\".",
-      "point": "Two angels sit at the right and left of every person, recording; not one word is missed. And Allah is nearer still.",
-      "label": "stated"
+      "lens": "text",
+      "title": "The First Mark of a Believer",
+      "blocks": [
+        { "p": "When the Quran first describes the people it can guide, in the opening lines of its longest surah, the very first quality it names is not prayer or charity. It is belief in what cannot be seen." },
+        { "verse": "2:1-5" },
+        { "p": "Before prayer, before generosity, before belief in revelation and the Hereafter, comes *al-ghayb*. The order is telling. Prayer is directed to a Lord no one sees. Charity is given for a reward no one sees. The whole religious life rests on taking seriously a reality beyond the senses." },
+        { "word": { "ar": "غَيْب", "tr": "ghayb", "root": ["غ", "ي", "ب"], "meaning": "The unseen; what is hidden from the senses", "nuance": "From ghāba, to be absent, to be out of sight,, as the sun is when it sets. The ghayb is not the imaginary; it is the real that is not present to us. Some of it Allah discloses to messengers He approves (72:26-27); its keys remain with Him alone (6:59)." } },
+        { "p": "The Quran's unseen is wide. It includes Allah Himself, the angels, the jinn, the Throne, the soul, the Preserved Tablet, Paradise and Hell, the Day of Judgement, and the future. Some of these it describes in detail. About others it says almost nothing, and about the soul it says simply: \"The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little\" (17:85)." },
+        { "p": "That last sentence sets the tone for today. The Quran opens a window onto the unseen, describes what it chooses to describe, and then stops. Much of what people imagine about angels, demons and spirits comes not from the Quran but from folklore. One purpose of today is to see the difference." }
+      ]
     },
     {
-      "ref": "72:1-2",
-      "context": "The Prophet ﷺ learned of this by revelation, as the verse says. 46:29-32 also describes jinn listening to the Quran.",
-      "point": "Jinn hear, understand and choose. This group heard the Quran, recognised its guidance and believed.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Made of Light, Bound to Obey",
+      "blocks": [
+        { "p": "The Prophet ﷺ said, in a hadith recorded by Muslim from 'A'ishah, that the angels were created from light, the jinn from a smokeless flame of fire, and Adam from what you have been told: clay. Three kinds of creature, each with its own nature." },
+        { "p": "Angels, *malā'ikah*, are the messengers and servants of Allah. The Quran says they have \"wings, two or three or four\" (35:1), and that they \"do not disobey Allah in what He commands them but do what they are commanded\" (66:6). They worship without arrogance or tiredness: \"They exalt [Him] night and day [and] do not slacken\" (21:20). They are not daughters of Allah, as some Makkans claimed, and they are not to be prayed to." },
+        { "figure": { "kind": "facts", "title": "Angels the Quran and hadith name", "items": [
+          { "value": "Jibril", "label": "brings revelation to the prophets (2:97)" },
+          { "value": "Mika'il", "label": "named beside Jibril (2:98); scholars link him to rain and provision" },
+          { "value": "Malik", "label": "the keeper of Hell (43:77)" },
+          { "value": "Angel of death", "label": "\"entrusted with you\" to take each soul (32:11)" },
+          { "value": "Israfil", "label": "named in the Prophet's ﷺ night prayer (Muslim); held to blow the Horn" },
+          { "value": "70,000", "label": "angels who enter the Frequented House each day, never to return (al-Bukhari, Muslim)" }
+        ] } },
+        { "p": "That last number comes from the Prophet's ﷺ account of his Night Journey: he was shown *al-Bayt al-Ma'mur*, the Frequented House in the seventh heaven, which seventy thousand angels enter every day and never visit again, so many are they." },
+        { "p": "The angels' work, as the Quran describes it, touches every human life. They bring revelation. They guard each person \"before and behind him ... by the decree of Allah\" (13:11). They record every deed. They take souls at death. And they come to the faithful with comfort: \"Do not fear and do not grieve but receive good tidings of Paradise\" (41:30)." },
+        { "note": "The angel of death is often called 'Azra'il in popular books. That name does not appear in the Quran or in authentic hadith; it comes from later tradition. Scholars recommend calling him what the Quran calls him: the angel of death.", "title": "A name not in the sources" }
+      ]
     },
     {
-      "ref": "2:102",
-      "from": "It was not Solomon who disbelieved",
-      "to": "except by permission of Allah.",
-      "context": "It clears Sulayman: sorcery came from devils, not from him.",
-      "point": "Sorcery can harm, even between spouses, but only by Allah's permission. Learning it is tied to disbelief.",
-      "label": "differ",
-      "note": "Most scholars read Harut and Marut as angels sent as a test; a minority read \"two kings\". Tales of their fall come from Jewish and Christian lore (Isra'iliyyat), not the Quran."
+      "lens": "heart",
+      "title": "Two Scribes, and One Who Is Nearer",
+      "blocks": [
+        { "verse": "50:16-18" },
+        { "p": "Read the order of these verses slowly. First comes Allah's nearness: He knows what the soul whispers to itself and is \"closer to him than [his] jugular vein\". Only after that come the two angels, one on the right and one on the left, and the observer ready to record every word. Ibn Kathir explains that the one on the right writes good deeds and the one on the left writes bad ones. Another surah calls them \"noble and recording; they know whatever you do\" (82:11-12)." },
+        { "p": "This could be a frightening thought. Every word written down. But the Prophet ﷺ described the scribes' instructions in a way that is full of mercy. In a hadith qudsi in al-Bukhari and Muslim, he said: whoever intends a good deed and does not do it, Allah writes it as one complete good deed. If he does it, it is written as ten up to seven hundred times, or many more. Whoever intends a bad deed and does not do it, it is written as a good deed. If he does it, it is written as one." },
+        { "p": "So the record is not neutral. It is tilted toward you. An intention to do good counts. Restraint counts. A single good act is multiplied, a single bad one is not." },
+        { "p": "There is also a quieter comfort here. No kind word you have spoken was lost. No prayer you made alone at night went unrecorded. No act of patience that nobody noticed was unnoticed. A person who feels invisible in this world is, in the Quran's picture, never unwatched and never unaccompanied." },
+        { "p": "Try today to speak as someone who knows the pen is moving. Not out of fear, but because your words are being kept." }
+      ]
     },
     {
-      "ref": "6:59",
-      "context": "From al-An'am, a Makkan surah. 31:34 names five things only Allah knows, including the Hour and tomorrow.",
-      "point": "The keys of the unseen are with Allah alone. His knowledge reaches every falling leaf, and all of it is in a clear record.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Recital at Dawn, and Unseen Listeners",
+      "blocks": [
+        { "p": "Before the Prophet's ﷺ mission, the jinn used to sit in the heavens to eavesdrop on the angels and carry scraps of news back to fortune-tellers. Then, the Quran reports in their own words, \"we have sought [to reach] the heaven but found it filled with powerful guards and burning flames\" (72:8). Something had changed in the sky." },
+        { "p": "Ibn 'Abbas explained, in a report in al-Bukhari, that the jinn spread out east and west to find what had happened. One group came upon the Prophet ﷺ at a place called Nakhlah, between Makkah and Ta'if, leading his companions in the dawn prayer. They heard the Quran and stopped." },
+        { "image": "day-04-nakhlah", "alt": "A palm grove in a desert valley at the first light of dawn", "caption": "Nakhlah, in the valley between Makkah and Ta'if.", "prompt": "A small palm grove in a stony desert valley between low mountains at the first grey-blue light before dawn. The air is still, the last stars fading, a thin mist lying between the palm trunks and a narrow dry riverbed winding through the valley." },
+        { "verse": "46:29-30" },
+        { "p": "\"Listen quietly,\" they told one another. When the recitation ended, they went home as preachers to their own people. Surah al-Jinn records what they said: \"Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it\" (72:1-2)." },
+        { "p": "Notice who heard first. Ibn 'Abbas says, in Muslim's version of the report, that the Prophet ﷺ did not see them that night; he learned of it through revelation, which is why Surah al-Jinn begins \"Say, it has been revealed to me\". The listeners could see him. He could not see them." },
+        { "note": "Ibn 'Abbas's report in al-Bukhari places this on a journey toward the market of 'Ukaz. Other reports in the biographies link it to the Prophet's ﷺ return from Ta'if in 619 CE, after he had been stoned out of the town. Ibn Mas'ud describes, also in Muslim, another night when the Prophet ﷺ went out to the jinn and recited to them, so many scholars conclude there was more than one meeting. The Quran gives no date.", "title": "When it happened" }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "Fire, Freedom and Iblis",
+      "blocks": [
+        { "p": "Jinn are the Quran's second unseen people. \"He created the jinn from a smokeless flame of fire\" (55:15), and they were created before humans (15:27). The word comes from the root *j-n-n*, to cover or conceal, which also gives *janīn*, a fetus hidden in the womb, and *jannah*, a garden whose trees hide the ground." },
+        { "p": "Unlike angels, jinn choose. They were created for the same purpose as humans: \"And I did not create the jinn and mankind except to worship Me\" (51:56). They will be judged as humans are. Some believe and some do not: \"among us are the righteous, and among us are [others] not so; we were [of] divided ways\" (72:11). The Quran addresses the two together throughout Surah ar-Rahman, asking again and again, \"which of the favours of your Lord would you deny?\"" },
+        { "p": "Iblis, the one who became Satan, belongs to this story. When Allah commanded the angels to prostrate to Adam, they did, \"except for Iblees. He was of the jinn and departed from the command of his Lord\" (18:50). His reason was pride in his material: \"I am better than him. You created me from fire and created him from clay\" (7:12). The first sin in the Quran is not lust or greed. It is arrogance, the refusal to accept that another was honoured." },
+        { "note": "Most scholars take 18:50 at face value: Iblis was a jinn, not an angel, which is why he could disobey. Some early commentators reported from Ibn 'Abbas that he belonged to a tribe of jinn who lived among the angels, or that he had been an angel of high rank; those reports rely partly on material from earlier traditions. The Quran itself only says he was of the jinn.", "title": "Was Iblis an angel?" },
+        { "p": "Iblis and his followers are called *shayāṭīn*, devils. Their power, the Quran insists, is limited to suggestion: \"he sees you, he and his tribe, from where you do not see them\" (7:27). They whisper. They cannot compel. On the Day of Judgement, the Quran reports, Satan himself will tell his followers that he had no authority over them except that he called them and they answered (14:22)." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "Sorcery, the Evil Eye and Their Limit",
+      "blocks": [
+        { "p": "The Quran does not treat sorcery and envy as imaginary. It treats them as real harms with a firm ceiling. The key verse comes from al-Baqarah, in a passage answering those who accused the prophet Sulayman of magic." },
+        { "verse": "2:102", "from": "It was not Solomon who disbelieved", "to": "except by permission of Allah." },
+        { "p": "Three points stand out. Sorcery, *siḥr*, comes from devils, not from a prophet. It can do real damage, even breaking a marriage apart. And \"they do not harm anyone through it except by permission of Allah\". Practising it is tied to disbelief, which is why Islamic law treats it as one of the gravest sins." },
+        { "note": "Most commentators read Harut and Marut as two angels sent to Babylon as a test, who warned everyone that they were \"a trial\". A minority, following a variant reading, understood them as two kings. Lurid tales of their falling in love and being punished come from Isra'iliyyat, stories absorbed from earlier traditions, and many scholars, including Ibn Kathir, regarded them as unreliable.", "title": "Where scholars differ" },
+        { "p": "The evil eye, *al-'ayn*, is harm caused by an envious or admiring gaze. The Prophet ﷺ said, in al-Bukhari and Muslim, that the evil eye is real. Many commentators read 68:51 as a reference to it: \"those who disbelieve would almost make you slip with their eyes\"." },
+        { "p": "The Quran's remedy is not charms or amulets but refuge in Allah. Its two closing surahs, called the *mu'awwidhatayn*, \"the two that grant refuge\", were given for exactly this." },
+        { "verse": "113:1-5" },
+        { "p": "\"The blowers in knots\" is how the commentators explain the sorcerers' practice of blowing on knotted cords. \"An envier when he envies\" is the evil eye at its root. Daybreak is the image chosen: the Lord who splits night into dawn can dissolve every darkness." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Superstition, or Something Else?",
+      "blocks": [
+        { "p": "A modern reader may object strongly here. Angels, jinn, the evil eye: is this not the very kind of belief that science replaced? Unseen agents can explain anything, which means they explain nothing. And belief in spirits has caused real harm, from fear of the dark to exploitation by charlatans." },
+        { "p": "It is a fair challenge, and the Quran answers part of it more forcefully than critics expect. It does not encourage superstition; it fights it. It forbids consulting fortune-tellers: the Prophet ﷺ said, in a report in Muslim, that whoever goes to a diviner and asks him something, his prayer is not accepted for forty nights. He rejected omens and bad-luck signs outright. Most importantly, the Quran draws a hard line around knowledge of the future." },
+        { "verse": "27:65" },
+        { "p": "Not even the Prophet ﷺ is allowed to claim it: \"if I knew the unseen, I could have acquired much wealth, and no harm would have touched me\" (7:188). Five things are named as Allah's alone: the Hour, the rain, what is in the wombs, what a soul will earn tomorrow, and where it will die (31:34). Anyone who claims to read your future in stars, cards or palms is claiming what the Quran reserves for Allah." },
+        { "p": "So the Quran's unseen is not a free-for-all of spirits. It is bounded, and it comes from one source: revelation. A Muslim does not believe in angels because of strange experiences but because the Quran describes them, and what it does not describe is left alone." },
+        { "p": "Can any of this be proven? No, and the Quran does not claim it can. It is called the unseen for a reason. But almost every serious picture of reality accepts that there is more than we perceive. The question is who has the authority to tell us what is there. The Muslim answer is that if the Quran is from Allah, as Day 1 argued, then its account of the unseen is the most reliable report available. If it is not, nothing in this chapter matters. The weight rests where it should, on the book itself." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Morning, Evening and the Last Three Surahs",
+      "blocks": [
+        { "p": "Belief in the unseen shapes a Muslim's day more than outsiders might guess, mostly in small, calm habits rather than fear." },
+        { "list": [
+          "**At night.** 'A'ishah reported, in al-Bukhari, that every night before sleeping the Prophet ﷺ cupped his hands, recited al-Ikhlas, al-Falaq and an-Nas into them, then wiped his hands over as much of his body as he could, three times. Many Muslims do the same, and recite Ayat al-Kursi (2:255).",
+          "**Morning and evening.** The same three surahs are recited three times each morning and evening, following a report in Abu Dawud and al-Tirmidhi.",
+          "**At home.** Saying *Bismillah* on entering the house and before eating; the Prophet ﷺ taught, in a report in Muslim, that Satan finds no place to stay or eat where Allah's name is mentioned.",
+          "**When praising something.** Many Muslims say *ma sha' Allah*, \"what Allah has willed\", or *barak Allahu fik*, \"may Allah bless you\", when admiring a baby, a home or a success, to turn admiration into blessing rather than envy.",
+          "**When unwell or afraid.** *Ruqyah*: reciting al-Fatihah, the closing surahs and other verses over a sick person, as the Prophet ﷺ and his companions did."
+        ] },
+        { "p": "Scholars warn just as clearly against the opposite extreme: blaming every illness on jinn, every failure on the evil eye, or paying self-appointed exorcists. The Prophet ﷺ sought medical treatment and told his companions to do the same, saying, in a report in al-Bukhari, that Allah sent down no disease without also sending down its cure. Refuge in Allah and a visit to the doctor are not rivals." },
+        { "p": "If you are not Muslim and have wondered why a Muslim friend murmurs something when you compliment their child, now you know. It is a small prayer of protection for the child, and in a sense for you." },
+        { "p": "Tonight, before you sleep, try the Prophet's ﷺ practice with the last three surahs. Whatever you believe about the unseen, you will end the day handing what you cannot see to the One who sees it." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ladder",
-    "title": "The unseen, from the highest down",
-    "caption": "The Quran names each of these. Arranging them from the Throne down to the jinn and devils around us is a teaching aid, not an order the Quran gives.",
-    "label": "explained",
-    "items": [
-      { "label": "The Throne", "text": "Above all creation; the Most Merciful is established over it.", "ref": "20:5" },
-      { "label": "The Kursi", "text": "Extends over the heavens and the earth.", "ref": "2:255" },
-      { "label": "Preserved Tablet", "text": "Where the honoured Quran is inscribed.", "ref": "85:21-22" },
-      { "label": "Jibril", "text": "The angel who brought the Quran to the Prophet's ﷺ heart.", "ref": "2:97" },
-      { "label": "Angels", "text": "Winged messengers who never disobey Allah's command.", "ref": "35:1" },
-      { "label": "Angel of death", "text": "Entrusted with taking each soul.", "ref": "32:11" },
-      { "label": "Recording angels", "text": "Noble scribes who know whatever you do.", "ref": "82:10-12" },
-      { "label": "Jinn", "text": "Made from smokeless fire; the righteous and others among them.", "ref": "55:15" },
-      { "label": "Iblis and devils", "text": "Iblis was of the jinn; his kind see us unseen.", "ref": "18:50" }
-    ]
-  },
-  "word": {
-    "ar": "غَيْب",
-    "tr": "ghayb",
-    "root": ["غ", "ي", "ب"],
-    "meaning": "The unseen; what is hidden from the senses",
-    "nuance": "From ghāba, to be absent or to set, as the sun does. The ghayb is not the imaginary; it is the real that is out of sight. Some of it Allah reveals to messengers He approves (72:26-27); its keys stay with Him alone (6:59).",
-    "refs": ["2:3", "72:26-27"]
-  },
-  "mixup": {
-    "myth": "Iblis was an angel who fell, and \"jinn\" is just another word for demons.",
-    "truth": "The Quran says Iblis \"was of the jinn\" (18:50) and was made from fire (7:12), while angels do not disobey (66:6). Most scholars take this at face value; some early commentators said he had lived among the angels. Jinn are not all evil either: \"among us are the righteous, and among us are [others] not so\" (72:11).",
-    "refs": ["18:50", "72:11"]
-  },
-  "remember": [
-    "Belief in the unseen is part of faith: Allah, His angels, books and messengers (2:285).",
-    "Angels obey; jinn choose. Iblis was of the jinn (18:50).",
-    "Sorcery and envy harm only by Allah's permission; only He holds the keys of the unseen (6:59)."
-  ],
-  "memorize": "27:65",
+  "carry": "27:65",
   "quiz": [
     {
-      "q": "According to 50:17, where are the two recording angels seated?",
-      "options": [
-        "In front and behind",
-        "On the right and on the left",
-        "Above and below"
-      ],
+      "q": "In 2:3, what is the first quality the Quran gives of those it guides?",
+      "options": ["They establish prayer", "They believe in the unseen", "They give charity", "They memorise the Quran"],
       "answer": 1,
-      "why": "50:17: \"When the two receivers receive, seated on the right and on the left.\" 50:18 adds that no word is uttered without an observer ready to record it."
+      "why": "2:3 lists \"who believe in the unseen\" first, before establishing prayer and spending. The rest of religious life rests on it."
     },
     {
-      "q": "What does 2:102 say about the harm done by sorcery?",
-      "options": [
-        "It can override Allah's will",
-        "It only affects disbelievers",
-        "It is entirely imaginary",
-        "It harms no one except by Allah's permission"
-      ],
-      "answer": 3,
+      "q": "What is the key difference between angels and jinn in the Quran?",
+      "options": ["Angels always obey; jinn, like humans, choose belief or disbelief", "Angels are evil and jinn are good", "Jinn are made of light and angels of fire", "Only jinn worship Allah"],
+      "answer": 0,
+      "why": "66:6 says angels \"do not disobey Allah in what He commands them\"; 72:11 quotes the jinn: \"among us are the righteous, and among us are [others] not so.\""
+    },
+    {
+      "q": "What limit does 2:102 place on the harm of sorcery?",
+      "options": ["It only harms disbelievers", "It is entirely imaginary", "It cannot harm anyone except by permission of Allah", "It only works in Babylon"],
+      "answer": 2,
       "why": "2:102: \"But they do not harm anyone through it except by permission of Allah.\" Al-Falaq (113) teaches refuge from it and from the envier."
     },
     {
-      "q": "What were the jinn created from, according to 55:15?",
-      "options": [
-        "A smokeless flame of fire",
-        "Light",
-        "Clay"
-      ],
-      "answer": 0,
-      "why": "55:15: \"He created the jinn from a smokeless flame of fire.\" A hadith in Muslim says angels were created from light."
+      "q": "Why does the Quran reject fortune-telling?",
+      "options": ["Because the stars are evil", "Because only prophets may predict the future", "Because jinn always tell the truth", "Because none in the heavens and earth knows the unseen except Allah"],
+      "answer": 3,
+      "why": "27:65: \"None in the heavens and earth knows the unseen except Allah.\" Even the Prophet ﷺ is told to say he does not know it (7:188)."
     }
   ],
-  "reflect": "If you truly felt that every word you say is being written down, what would you say more of?",
+  "reflect": "If you truly felt that every word you say is being written down by a noble scribe, which words would you say more often, and which would you stop saying?",
   "deeper": ["72", "113", "114", "2:285", "35:1", "31:34", "85:21-22", "68:51"],
   "links": [
     { "label": "What are jinn?", "href": "/learn/what-are-jinn" },

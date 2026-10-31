@@ -1,6 +1,6 @@
 "use client";
 
-// "Save for offline": registers a service worker scoped to the course and asks it to fetch every booklet.
+// "Save for offline": registers a service worker scoped to the course and asks it to fetch every day.
 import { useEffect, useState } from "react";
 import { load, save } from "@/components/games/daily";
 
@@ -33,9 +33,9 @@ export function Offline({ urls }: { urls: string[] }) {
     }
   }
 
-  if (state === "saved") return <span className="sh-offline is-saved">Saved for offline</span>;
+  if (state === "saved") return <span className="is-saved">Saved for offline</span>;
   return (
-    <button type="button" className="sh-offline" onClick={start} disabled={state === "saving"}>
+    <button type="button" onClick={start} disabled={state === "saving"}>
       {state === "saving" ? `Saving… ${count}/${urls.length}` : state === "failed" ? "Offline not available here" : "Save for offline"}
     </button>
   );

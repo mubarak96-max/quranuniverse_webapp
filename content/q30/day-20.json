@@ -2,164 +2,148 @@
   "day": 20,
   "title": "Judgment",
   "question": "What happens when every deed, even the smallest, is placed on the scale?",
-  "emblem": "scale",
-  "intro": [
-    "After the Horn and the raising comes the reckoning. The Quran shows it in many scenes: people gathered in groups, books of deeds laid open, hands and feet speaking, scales set up, and each person suddenly alone with what they brought.",
-    "Two promises run through every scene. Nothing is lost, not even an atom's weight of good. And no one is wronged. Today you will meet the records, the witnesses and the scales, see what the Quran says about intercession (pleading on someone's behalf), and look at a verse scholars read in different ways: 19:71, often linked to the bridge called the Sirat."
-  ],
-  "passages": [
+  "summary": "The Quran's scenes of the reckoning: the record each person reads, the body that testifies, the exact scales, the limits and reality of intercession, and the bridge, the pool and the heights, sorted into what the Quran states and what hadith explain.",
+  "cover": {
+    "alt": "A vast level plain bathed in a soft white light with no shadows",
+    "prompt": "An immense, perfectly level plain stretching to every horizon with no hills or hollows, bathed in a soft white light that seems to rise from the ground itself, a faint luminous haze above, no shadows anywhere."
+  },
+  "chapters": [
     {
-      "ref": "17:13-14",
-      "context": "Makkan, from al-Isra. Scholars explain the \"fate upon his neck\" as a person's own deeds, bound to them.",
-      "point": "Each person receives their own record, spread open, and is told to read it. They become their own accountant.",
-      "label": "stated"
+      "lens": "story",
+      "title": "The Earth Shines With the Light of Its Lord",
+      "blocks": [
+        { "p": "The Quran does not give a single narrative of the Day of Judgment. It gives scenes, scattered across dozens of surahs, and a reader who gathers them sees a picture form." },
+        { "p": "The mountains are gone. The earth has been flattened into a plain with no hollow and no rise (20:106-107), and then replaced by another earth (14:48). Every human being who ever lived is there; \"We will gather them and not leave behind from them anyone\" (18:47). They stand in rows, and they are told, \"You have certainly come to Us just as We created you the first time\" (18:48). Voices are hushed before the Most Merciful, \"so you will not hear except a whisper\" (20:108). Every nation is on its knees (45:28)." },
+        { "verse": "39:69-70" },
+        { "image": "day-20-plain", "alt": "An endless flat plain under a sky of soft rising light", "caption": "\"And the earth will shine with the light of its Lord\" (39:69).", "prompt": "An endless flat plain at the edge of dawn, the ground itself faintly glowing silver-white, a vast pale sky with soft bands of light, no mountains, no trees and no shadows, a sense of enormous stillness." },
+        { "p": "Then the strangest detail of all. In this crowd, no one is looking for anyone. \"A man will flee from his brother, and his mother and his father, and his wife and his children, for every man, that Day, will be a matter adequate for him\" (80:34-37). \"No relationship will there be among them that Day, nor will they ask about one another\" (23:101)." },
+        { "p": "Hadith fill in the conditions. Muslim reports that the sun will be brought near, and people will stand in their sweat according to their deeds, some to the ankles, some to the knees, some to the mouth. Al-Bukhari and Muslim name seven kinds of people whom Allah will shade on the day there is no shade but His: a just ruler, a young person raised in worship, one whose heart is attached to the mosques, two who love each other for Allah's sake, one who refuses a powerful temptation, one who gives charity so secretly that the left hand does not know what the right has given, and one who remembered Allah alone and wept." }
+      ]
     },
     {
-      "ref": "36:65",
-      "context": "Makkan, from Ya-Sin, about those who denied the meeting with Allah. 41:20-21 adds hearing, eyes and skin.",
-      "point": "When words can no longer hide anything, the body speaks. The hands and feet that did the deeds bear witness to them.",
-      "label": "stated"
+      "lens": "text",
+      "title": "A Book That Leaves Nothing Out",
+      "blocks": [
+        { "verse": "17:13-14" },
+        { "p": "\"His fate upon his neck\": the Arabic word is *ṭā'ir*, literally a bird. Pre-Islamic Arabs read omens from the flight of birds, and the Quran takes the image and turns it inside out. Your omen is not in the sky; it is what you did, fastened to you like a collar. Ibn 'Abbas and Mujahid, as Ibn Kathir reports, explained it as a person's own deeds. On the Day, they come back as a book \"spread open\", and the judge is the reader: \"Sufficient is yourself against you this Day as accountant.\"" },
+        { "p": "The Quran says the record has been kept throughout. \"The two receivers\" sit on the right and on the left, and not a word is spoken without \"an observer prepared\" (50:17-18), \"noble and recording\" (82:11). Allah records \"what they have put forth and what they left behind\" (36:12), the effects that outlive the deed. And when the book is placed, the reaction is not denial but astonishment:" },
+        { "verse": "18:49" },
+        { "p": "\"Nothing small or great\" is missing. Then the line that governs the whole scene: \"And your Lord does injustice to no one.\" The records are handed out in different ways. One receives his \"in his right hand\" and, in joy, calls on others to read it (69:19). Another receives it in his left hand and wishes he had never been given it (69:25), or receives it \"behind his back\" (84:10). The Quran does not explain the mechanics; it shows two faces, one turned outward in relief, one inward in dread." }
+      ]
     },
     {
-      "ref": "21:47",
-      "context": "Makkan, from al-Anbiya. 7:8-9 and 101:6-9 speak of scales that are heavy or light.",
-      "point": "Justice is exact: even a mustard seed's weight of deeds is brought forward, and no soul is wronged at all.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Easy Account",
+      "blocks": [
+        { "p": "Surah al-Inshiqaq promises the one given his record in his right hand that \"he will be judged with an easy account and return to his people in happiness\" (84:8-9). This verse prompted one of the most revealing exchanges in the hadith. Al-Bukhari reports that the Prophet ﷺ said that whoever is subjected to the reckoning will be punished. 'A'ishah, never one to let a difficulty pass, objected: but does Allah not say \"an easy account\"? He answered that the easy account is only the presentation, the *'arḍ*: the deeds are shown. But whoever is questioned in detail is ruined." },
+        { "p": "Another report, in al-Bukhari and Muslim from Ibn 'Umar, describes what that presentation is like for a believer. Allah brings the servant near, covers him so that no one else sees, and makes him acknowledge his sins one by one: do you remember this, and this? When the servant thinks he is lost, Allah says, \"I concealed them for you in the world, and I forgive them for you today.\" Then he is given the record of his good deeds." },
+        { "h": "What is asked first" },
+        { "p": "Two hadith are often taught together. Of a servant's duties to Allah, the first thing he is called to account for is the prayer, a report in Abu Dawud and al-Tirmidhi. Of matters between people, al-Bukhari and Muslim report that the first to be judged will be bloodshed. The Quran itself makes the balance of the two explicit: \"Allah does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it\" (4:40). A good deed is recorded ten times over; an evil deed only as itself (6:160)." },
+        { "note": "70:4 speaks of \"a Day the extent of which is fifty thousand years\". Many commentators take it as the length of the Day of Judgment, felt as endless by those who suffer it; al-Jalalayn cites a hadith that for the believer it will feel shorter than a single prayer. Others read the verse as describing the vast distance of the angels' ascent, not the Day itself.", "title": "How long is the Day?" }
+      ]
     },
     {
-      "ref": "19:71-72",
-      "context": "From Maryam, after verses on doubters of the resurrection (19:66-70).",
-      "point": "Everyone \"comes to\" Hell, and then the God-fearing are saved from it.",
-      "label": "differ",
-      "note": "Some early scholars read \"come to it\" as entering it, with believers unharmed. Many others, linking it to hadith in al-Bukhari and Muslim on a bridge over Hell, read it as crossing that bridge, the Sirat."
+      "lens": "text",
+      "title": "When the Body Testifies",
+      "blocks": [
+        { "p": "In a courtroom, the accused can at least speak in his own defence. The Quran describes a moment when even that ends." },
+        { "verse": "36:65" },
+        { "p": "The mouth, which has spent a lifetime explaining, is sealed. The hands that did the deeds give the evidence, and the feet that walked to them confirm it. Surah al-Nur adds the tongue itself to the witnesses (24:24): the organ of excuses turned against its owner. Surah Fussilat adds a conversation that is almost unbearable to read:" },
+        { "verse": "41:20-22" },
+        { "p": "\"Why have you testified against us?\" The skin answers that it was made to speak by the One \"who has made everything speak\". Then comes the diagnosis. You did not hide from your own hearing and sight and skin, because you never imagined they would talk; you \"assumed that Allah does not know much of what you do.\" Sin, in this verse, rests on a mistaken belief about God: that He is not paying attention." },
+        { "p": "Even the ground joins in. \"That Day, it will report its news\" (99:4): the earth will tell what was done on it. A person on that Day is surrounded by witnesses, the angels who recorded, the limbs that acted, the earth that held them, and finally, \"against himself, will be a witness, even if he presents his excuses\" (75:14-15)." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "The Scales of Justice",
+      "blocks": [
+        { "verse": "21:47" },
+        { "word": { "ar": "مِيزَان", "tr": "mīzān", "root": ["و", "ز", "ن"], "meaning": "Scale, balance", "nuance": "From *wazana*, to weigh. The same word names the balance Allah set in creation, which people must not upset (55:7-9). For the Day the Quran often uses the plural, *mawāzīn*: \"those whose scales are heavy\" (7:8, 101:6). A mustard seed, *khardal*, is among the smallest things an Arab farmer could hold; even that much is brought forward." } },
+        { "p": "Mainstream Sunni scholars, following the plain sense of the verses and many hadith, held that the scale is real, not merely a figure of speech for justice; some rationalist theologians, the Mu'tazilah among them, read it as a metaphor. Among those who held it real, a further question was asked: what exactly is placed on it?" },
+        { "list": ["**The deeds themselves**, given form by Allah. A hadith in al-Bukhari says certain words are \"heavy on the scale\".", "**The records of deeds.** A report in al-Tirmidhi tells of a man whose ninety-nine scrolls of sins are outweighed by a single card bearing \"There is no god but Allah\".", "**The person.** A report in the Musnad of Ahmad has the Prophet ﷺ say that the thin shins of Ibn Mas'ud, at which some companions laughed, weigh more on the scale than the mountain of Uhud."] },
+        { "p": "Ibn Kathir notes that the reports can be held together: all three may be weighed. What matters more is what the hadith say is heavy. Abu Dawud and al-Tirmidhi report that nothing is heavier on the scale than good character. And al-Bukhari chose to end his entire collection of hadith with these words:" },
+        { "quote": "Two words are light on the tongue, heavy on the scale, and beloved to the Most Merciful: Subhan Allahi wa bihamdihi, Subhan Allahi al-'Azim.", "by": "The Prophet ﷺ, in Sahih al-Bukhari" }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Exact Justice, and Mercy",
+      "blocks": [
+        { "p": "Two objections pull in opposite directions. One says: if Allah is merciful, why the reckoning at all? Why not simply forgive? The other says: if the scales are exact, what room is left for mercy, and what is this intercession Muslims speak of, if \"no bearer of burdens will bear the burden of another\" (35:18)?" },
+        { "p": "The Quran's answer to the first is the people who were wronged. A world where every oppressor is simply waved through is not a merciful world for his victims. Muslim reports that the Prophet ﷺ asked his companions who the bankrupt person is. They said: one with no money. He said the bankrupt of his community is one who comes on the Day with prayer, fasting and charity, but had insulted this one, slandered that one, taken this one's wealth and struck that one. His good deeds are paid to those he wronged, and when they run out, their sins are laid on him. Judgment, in this light, is mercy to the wronged." },
+        { "p": "To the second objection the Quran says that intercession exists but belongs entirely to Allah. \"Who is it that can intercede with Him except by His permission?\" (2:255). \"No intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word\" (20:109). Even the angels intercede only \"after Allah has permitted [it] to whom He wills and approves\" (53:26). Intercession is not a loophole in justice; it is a form Allah's mercy takes, granted through those He chooses to honour." },
+        { "p": "Al-Bukhari and Muslim report the hadith of the great intercession. On the Day, people go in desperation from Adam to Nuh, to Ibrahim, to Musa, to 'Isa, asking each to plead for them, and each declines. Then they come to Muhammad ﷺ, who goes and falls in prostration, and only then is told: raise your head, ask and you will be given, intercede and your intercession will be accepted. Even there, he waits for permission. And al-Bukhari and Muslim also report that Allah divided mercy into a hundred parts, sending one into this world, by which every mother is tender to her child, and keeping ninety-nine for that Day." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The Bridge, the Pool and the Heights",
+      "blocks": [
+        { "p": "Three features of the Day are so familiar to Muslims that many assume they are spelled out in the Quran. One is, in part. Two are not." },
+        { "verse": "19:71-72" },
+        { "p": "\"None of you except he will come to it.\" The verb is *wārid*, from *wurūd*, coming down to water, arriving at. Some early scholars read it as entering Hell, with the God-fearing unharmed and then saved; others, linking it to hadith, read it as passing over Hell. Al-Bukhari and Muslim describe a bridge, *al-ṣirāṭ*, laid over Hell, which people cross at the speed of their deeds, some like lightning, some like wind, some crawling. The famous phrase that it is \"thinner than a hair and sharper than a sword\" comes from a report in Muslim in which the companion Abu Sa'id says it had reached him." },
+        { "p": "**The pool**, *al-ḥawḍ*, where the Prophet ﷺ will meet his community and give them a drink after which they never thirst, comes from hadith in al-Bukhari and Muslim. A hadith in Muslim links it to al-Kawthar, \"Indeed, We have granted you al-Kawthar\" (108:1), which he described as a river in Paradise that feeds the pool." },
+        { "p": "**The heights**, *al-a'rāf*, are in the Quran: a partition between Paradise and the Fire, on whose elevations stand people who \"have not [yet] entered it, but they long intensely\" (7:46). Who they are, the Quran does not say. The most common explanation, which al-Jalalayn gives, is people whose good and bad deeds balanced exactly. In the end they are told, in the reading most scholars give, \"Enter Paradise. No fear will there be concerning you, nor will you grieve\" (7:49)." },
+        { "note": "Popular sermons sometimes give the bridge an exact length, the Day an exact timetable, or the scale a precise size. Such figures come from weak reports or from storytelling, not from the Quran or the authentic collections. The Quran describes the Day in images; it leaves its mechanics to Allah.", "title": "A caution about numbers" }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Weigh Yourself Before You Are Weighed",
+      "blocks": [
+        { "p": "Al-Tirmidhi records a saying attributed to 'Umar ibn al-Khattab: take account of yourselves before you are taken to account, and weigh yourselves before you are weighed. Muslim spiritual writers call this *muḥāsabah*, self-reckoning, and it turns today's subject into a daily practice." },
+        { "list": ["**Settle accounts with people now.** The bankrupt of the hadith did not lose his prayers to Allah's anger but to the claims of those he wronged. Repay the debt, return the borrowed thing, apologise for the cruel word. Al-Bukhari reports that the Prophet ﷺ urged anyone who has wronged another to settle it today, before a day when there will be no dinar and no dirham.", "**Do not despise small deeds.** A date given in charity, a smile, removing an obstacle from a path: \"an atom's weight of good\" (99:7) is seen.", "**Use the light words.** The two phrases at the end of al-Bukhari take seconds to say.", "**End each day with an account.** Before sleep, review the day honestly: what would I want erased from my record, and what would I want doubled? Then ask forgiveness, and plan the morning."] },
+        { "p": "For a non-Muslim, this explains some habits of Muslims you may know: the colleague who scrupulously returns a pen, the neighbour who apologises for something you had forgotten, the friend murmuring under his breath while waiting for a bus. Each is, in a small way, preparing for a scale." },
+        { "p": "The reckoning is not meant to paralyse. The Quran pairs every image of the scale with an open door: \"do not despair of the mercy of Allah. Indeed, Allah forgives all sins\" (39:53). Fear and hope, scholars say, are the two wings a believer flies on." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "An Atom's Weight",
+      "blocks": [
+        { "p": "Surah al-Zalzalah is only eight verses long. It begins with the earth shaking and ends with the smallest unit of measure in the Quran:" },
+        { "verse": "99:6-8" },
+        { "p": "*Dharrah*: an atom, a speck of dust in a sunbeam, the smallest ant. The Arabic says \"whoever does\", not \"whoever does and is noticed\" or \"whoever does and is thanked\". The good no one saw will be seen. The kindness that went unrewarded, the patience no one knew it cost, the prayer at night that you told no one about: nothing is lost." },
+        { "p": "And the other half is true too. The cruelty that never came to light, the word that wounded and was laughed off, the right that was quietly taken: it will be seen. The verse is a comfort and a warning in the same breath, and it leaves the reader to decide which they need tonight." },
+        { "p": "If you have been wronged and no one ever answered for it, the Quran's promise is that someone will, and \"your Lord does injustice to no one\" (18:49). If you have done wrong and are afraid, the same Lord forgives all sins to the one who turns back (39:53), and the door is open until the soul reaches the throat. A believer can end the day with the prayer the Quran praises: \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire\" (2:201)." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "flow",
-    "title": "Where today sits",
-    "items": [
-      {
-        "label": "Death",
-        "text": "The soul is taken at its set time",
-        "ref": "39:42"
-      },
-      {
-        "label": "Barzakh",
-        "text": "A barrier until the Day of raising",
-        "ref": "23:100"
-      },
-      {
-        "label": "Resurrection",
-        "text": "The Horn is blown and all stand",
-        "ref": "39:68"
-      },
-      {
-        "label": "Judgment",
-        "text": "Records read, witnesses heard, deeds weighed",
-        "ref": "21:47"
-      },
-      {
-        "label": "Final home",
-        "text": "A party in Paradise, a party in the Blaze",
-        "ref": "42:7"
-      }
-    ],
-    "here": 3,
-    "caption": "The journey the Quran describes after this life. Today is the Judgment: records are read, limbs testify, and deeds are weighed."
-  },
-  "word": {
-    "ar": "مِيزَان",
-    "tr": "mīzān",
-    "root": [
-      "و",
-      "ز",
-      "ن"
-    ],
-    "meaning": "Scale, balance",
-    "nuance": "From wazana, to weigh. The same word names the balance Allah set in creation, which people must not upset (55:7-9). For the Day the Quran often uses the plural, mawāzīn: \"those whose scales are heavy\" (7:8). Most Sunni scholars take it as a real scale; some read it as perfect justice.",
-    "refs": [
-      "7:8",
-      "55:7-9"
-    ]
-  },
-  "mixup": {
-    "myth": "On Judgment Day, a relative or a holy person can carry your sins or save you, whatever you did.",
-    "truth": "No soul carries another's burden, \"even if he should be a close relative\" (35:18). People will even flee their own families (80:34-37). Intercession is real, but only by one the Most Merciful permits and whose word He accepts (20:109). Hadith in al-Bukhari and Muslim describe the Prophet ﷺ interceding only after Allah gives leave.",
-    "refs": [
-      "35:18",
-      "80:34-37",
-      "20:109"
-    ]
-  },
-  "remember": [
-    "Each person reads their own record, which leaves out nothing small or great (17:13-14, 18:49).",
-    "Mouths are sealed while hands, feet and skin bear witness (36:65, 41:20-21).",
-    "The scales are exact, no one is wronged, and intercession is only by Allah's permission (21:47, 20:109)."
-  ],
-  "memorize": "99:7-8",
+  "carry": "99:7-8",
   "quiz": [
     {
       "q": "In 36:65, what speaks when mouths are sealed?",
-      "options": [
-        "The angels alone",
-        "Hands and feet",
-        "The earth",
-        "Family members"
-      ],
+      "options": ["The angels alone", "Hands and feet", "The earth", "Family members"],
       "answer": 1,
-      "why": "36:65: \"We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.\""
+      "why": "36:65: \"We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.\" 41:20-22 add hearing, sight and skin."
     },
     {
-      "q": "In 7:46-49, what is finally said to the people on the Elevations (al-A'raf)?",
-      "options": [
-        "Return to the world",
-        "Remain where you are forever",
-        "Enter Paradise, with no fear"
-      ],
-      "answer": 2,
-      "why": "In the reading most scholars give, 7:49 ends: \"Enter Paradise... No fear will there be concerning you.\" That they are people whose good and bad deeds balanced is a common explanation, not stated in the verse."
+      "q": "According to al-Bukhari, what did the Prophet ﷺ tell 'A'ishah the \"easy account\" of 84:8 is?",
+      "options": ["Having no record at all", "Only the presentation of deeds, without detailed questioning", "Being judged by the angels", "A shorter Day of Judgment"],
+      "answer": 1,
+      "why": "He explained that the easy account is the presentation ('ard) of deeds; whoever is questioned in detail is ruined. 84:8-9 promise the easy account to those given their record in the right hand."
     },
     {
       "q": "Whose intercession benefits on that Day, according to 20:109?",
-      "options": [
-        "One the Most Merciful permits",
-        "Anyone the person chooses",
-        "No one's at all"
-      ],
+      "options": ["One the Most Merciful permits and whose word He accepts", "Anyone the person chooses", "No one's at all", "Any relative"],
       "answer": 0,
-      "why": "20:109: \"No intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word.\" See also 2:255 and 53:26."
+      "why": "20:109: \"No intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word.\" See also 2:255 and 53:26; relatives cannot carry another's burden (35:18)."
+    },
+    {
+      "q": "Which of these is described in the Quran itself rather than only in hadith?",
+      "options": ["The pool (al-hawd) where the Prophet ﷺ meets his community", "The heights (al-a'raf) between Paradise and the Fire", "A bridge thinner than a hair", "The angels' names Munkar and Nakir"],
+      "answer": 1,
+      "why": "7:46-49 describe the heights and the people on them. The pool and the bridge's description come from hadith; the angels' names belong to the grave, and to hadith (Day 18)."
     }
   ],
-  "reflect": "If even an atom's weight of good will be seen (99:7), what small kindness could you do today that only Allah will notice?",
-  "deeper": [
-    "99",
-    "18:49",
-    "69:13-37",
-    "41:19-24",
-    "7:6-9",
-    "101",
-    "84:7-12",
-    "80:33-42"
-  ],
+  "reflect": "If even an atom's weight of good will be seen (99:7), what small kindness could you do today that only Allah will notice? And is there anyone whose right you should settle before the scale does it for you?",
+  "deeper": ["99", "18:49", "69:13-37", "41:19-24", "7:6-9", "101", "84:7-12", "80:33-42", "7:46-49", "39:67-75"],
   "links": [
-    {
-      "label": "Read Surah Az-Zalzalah",
-      "href": "/surah/az-zalzalah"
-    },
-    {
-      "label": "Al-Hasib, the Reckoner",
-      "href": "/names/al-hasib"
-    },
-    {
-      "label": "Al-'Adl, the Just",
-      "href": "/names/al-adl"
-    }
+    { "label": "Read Surah Az-Zalzalah", "href": "/surah/az-zalzalah" },
+    { "label": "Al-Hasib, the Reckoner", "href": "/names/al-hasib" },
+    { "label": "Al-'Adl, the Just", "href": "/names/al-adl" }
   ],
-  "connections": [
-    18,
-    19,
-    21,
-    22
-  ],
+  "connections": [18, 19, 21, 22],
   "status": "draft"
 }

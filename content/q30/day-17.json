@@ -2,174 +2,218 @@
   "day": 17,
   "title": "Women and Men",
   "question": "Who is the only woman the Quran calls by name?",
-  "emblem": "star",
-  "intro": [
-    "The Quran speaks to women and men side by side. Both are created from one soul (4:1), both are promised the same reward for faith and good deeds, and both are called to modesty. Many verses name \"believing men and believing women\" together, as allies of one another (9:71).",
-    "It also tells the stories of many women: mothers, queens, prophets' wives, and a woman who argued her case and was heard. Only one is named: Maryam, the mother of 'Isa. The others are known by their role; their names come from hadith and history. Laws on marriage and family come on Day 25. Today is about souls, examples and character."
-  ],
-  "passages": [
+  "summary": "What the Quran says about women and men as souls before Allah, the women whose stories it tells, the one it names, and the much-quoted verses on authority, testimony and inheritance read in their context.",
+  "cover": {
+    "alt": "A palace garden beside the Nile at dusk, a lotus pool and a single lamp lit in a window",
+    "prompt": "A quiet walled palace garden on the bank of the Nile in ancient Egypt at dusk, a still pool with white lotus flowers, tall date palms and papyrus, carved stone columns, a single oil lamp glowing in an upper window, the river beyond reflecting a rose and violet sky."
+  },
+  "chapters": [
     {
-      "ref": "33:35",
-      "context": "Madinan. Reports say it came after women asked why the Quran seemed to address only men.",
-      "point": "Ten qualities, each named for men and women alike, and one promise for both: forgiveness and a great reward.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Ten Pairs and One Promise",
+      "blocks": [
+        {
+          "p": "Umm Salamah, one of the Prophet's ﷺ wives, once asked him a direct question: why are we, the women, not mentioned in the Quran as the men are? The report, in the Musnad of Ahmad and in al-Nasa'i, says that one day afterwards she was combing her hair at home when she heard his voice from the pulpit of the mosque next door. She tied up her hair and went to listen. He was reciting a verse that had just come down:"
+        },
+        {
+          "verse": "33:35"
+        },
+        {
+          "p": "Arabic, like many languages, uses the masculine plural for a mixed group, so \"O you who have believed\" has always included women. This verse does something more. It spells out ten qualities, and every one of them is named twice: *al-muslimīn wa-l-muslimāt*, Muslim men and Muslim women, believing men and believing women, and so on through truthfulness, patience, humility, charity, fasting, chastity and the remembrance of Allah. Ten pairs, and then a single promise for all of them: \"forgiveness and a great reward\"."
+        },
+        {
+          "p": "The pattern recurs. When believers pray at the end of Al 'Imran, their Lord answers, \"Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another\" (3:195). *Ba'ḍukum min ba'ḍ*, \"you are of one another\": not two species, one family. Whoever does righteousness, \"whether male or female, while he is a believer\", is promised a good life (16:97) and will not be wronged by so much as \"the speck on a date seed\" (4:124). And the believing men and believing women are *awliyā'*, allies and protectors of one another, who together enjoin right and forbid wrong (9:71)."
+        },
+        {
+          "p": "On the questions of the soul, its worth, its accountability and its reward, the Quran does not distinguish. Where it does assign different roles, in family law, those differences sit on top of this shared foundation, not underneath it."
+        }
+      ]
     },
     {
-      "ref": "58:1",
-      "context": "Madinan. Reports name her Khawlah bint Tha'labah; her husband had cast her off with an old pagan formula called zihar.",
-      "point": "A woman's argument with the Prophet ﷺ opens a surah. Allah heard her complaint, and the verses after it end that unjust custom (58:2-4).",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "One Soul, and Its Pair",
+      "blocks": [
+        {
+          "verse": "4:1"
+        },
+        {
+          "p": "The surah named *al-Nisā'*, \"The Women\", opens with the origin of every human being: one soul, *nafs wāḥidah*, and from it its mate. Then it mentions \"the wombs\" alongside Allah Himself, as something to be feared and honoured, because the ties of kinship run through mothers."
+        },
+        {
+          "word": {
+            "ar": "زَوْج",
+            "tr": "zawj",
+            "root": [
+              "ز",
+              "و",
+              "ج"
+            ],
+            "meaning": "Spouse; one of a pair",
+            "nuance": "The Quran uses the same word for husband and wife; Adam is told to dwell in the Garden \"you and your zawj\" (2:35). It also means one of a matched pair, as in \"of all things We created two mates\" (51:49). A zawj is not a lesser copy but a counterpart, and between spouses Allah places \"affection and mercy\" (30:21)."
+          }
+        },
+        {
+          "p": "How the mate was made \"from it\" is a point where scholars differ. Most classical commentators, drawing on a hadith in al-Bukhari and Muslim that compares women to a rib and tells men to treat them kindly, held that the first woman was created from Adam. Others, including some early and many modern scholars, read \"from it\" as \"of the same kind\", the way the Quran says Allah created mates for you \"from yourselves\" (30:21)."
+        },
+        {
+          "h": "Who ate from the tree?"
+        },
+        {
+          "p": "In the Garden, the Quran's account is shared from beginning to end. Satan \"whispered to them\", swore to them both, \"made them fall\"; \"they tasted of the tree\"; their Lord called to them both; and together they repented: \"Our Lord, we have wronged ourselves\" (7:20-23). When one figure is singled out, it is Adam: \"And Adam disobeyed his Lord and erred\" (20:121). The Quran never names Adam's wife, never presents her as the tempter, and never says that women inherit any punishment from her; \"no bearer of burdens will bear the burden of another\" (6:164). Her name, Hawwa', comes from hadith. The image of Eve as the one who led Adam astray entered some Muslim storytelling through *Isra'iliyyat*, narratives absorbed from earlier traditions, but it has no basis in the Quran."
+        }
+      ]
     },
     {
-      "ref": "66:11-12",
-      "context": "Madinan. They follow the wives of Nuh and Lut, given as examples of betrayal (66:10).",
-      "point": "The models of faith for all believers, men included, are two women: Pharaoh's wife, steadfast under a tyrant, and Maryam, devout and chaste.",
-      "label": "stated"
+      "lens": "story",
+      "title": "The Woman Who Argued",
+      "blocks": [
+        {
+          "p": "Madinah, a few years after the Hijrah. Khawlah bint Tha'labah was no longer young, and her husband, Aws ibn al-Samit, was old and quick-tempered. In a quarrel he spoke the most cutting sentence an Arab husband could say: \"You are to me like the back of my mother.\" This formula, called *ẓihār*, did not divorce a wife. It did something worse. By old custom she became as forbidden to him as his own mother, permanently, and yet was not free to marry anyone else."
+        },
+        {
+          "p": "Khawlah went to the Prophet ﷺ. The reports, collected by Ibn Kathir and al-Jalalayn, say she pleaded that she had young children: if they stayed with their father they would be neglected, and if they stayed with her they would go hungry. At first the Prophet ﷺ, with no revelation on the matter, could only tell her what custom held. She argued. She turned her complaint to Allah directly. 'A'ishah, who was in the same room, later said she could not hear what Khawlah was saying. But Allah heard, and a new surah opened:"
+        },
+        {
+          "verse": "58:1-2"
+        },
+        {
+          "p": "*Tujādiluka*, \"argues with you\": the surah is named *al-Mujādilah*, \"She Who Argues\", after her. 'A'ishah's comment, which al-Bukhari cites, became famous: blessed is the One whose hearing encompasses all voices. The verses that follow abolish the effect of zihar. A man who says it has spoken \"an objectionable statement and a falsehood\"; the marriage stands, and to return to his wife he must first pay a heavy expiation, freeing a slave, fasting two months or feeding sixty poor people (58:3-4). Reports in Abu Dawud add that Aws could manage none of these, and that the Prophet ﷺ and Khawlah between them supplied the dates for him to feed the poor."
+        },
+        {
+          "p": "Hold on to the shape of this story. A woman, old, poor and alone, disputes with the Prophet ﷺ himself; she is not rebuked for it; and her complaint becomes scripture that ends an injustice for every wife after her."
+        }
+      ]
     },
     {
-      "ref": "24:30",
-      "context": "Madinan. The next verse gives women the same command, then adds covering and whom they may appear before.",
-      "point": "Modesty is asked of men first: lower the gaze, guard chastity. It is a shared duty, not only a women's issue.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Maryam, the Only Name",
+      "blocks": [
+        {
+          "p": "The Quran tells the stories of dozens of women: mothers, wives, a queen, the daughters of a shepherd, a woman who tried to seduce Yusuf and later confessed. It names only one. Maryam, the mother of 'Isa, is named more than thirty times, more often than in the whole of the New Testament, and an entire surah carries her name."
+        },
+        {
+          "verse": "3:42-43"
+        },
+        {
+          "p": "\"Chosen above the women of the worlds.\" Her story in the Quran begins before her birth. Her mother pledged the child in her womb to the service of the temple, expecting a son, and when a daughter came she said, \"the male is not like the female\" (3:36). Many commentators read that line as her mother's surprise, since only boys served in the temple. But the verse goes on: \"her Lord accepted her with good acceptance\", and the girl grew up in the prayer chamber, where Zakariya found her supplied with provision he could not explain (3:37). The one who was \"not like the male\" became the one woman the Quran holds up above all others."
+        },
+        {
+          "p": "Then comes the hardest hour of her life, alone, in labour, against the trunk of a palm tree:"
+        },
+        {
+          "verse": "19:23-26"
+        },
+        {
+          "p": "\"I wish I had died before this.\" The Quran lets the holiest woman in its pages speak despair aloud, and answers it not with a rebuke but with water, dates and rest. Some commentators say the voice from below her was 'Isa, others the angel Jibril. When she brought the child to her people, she did not defend herself at all. \"She pointed to him\" (19:29), and the infant spoke."
+        }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "The Women Who Carried the Story",
+      "blocks": [
+        {
+          "p": "Behind several of the Quran's greatest stories stands a woman whose decision made the rest possible."
+        },
+        {
+          "p": "On the bank of the Nile, Musa's mother was told by inspiration to do the unthinkable: \"when you fear for him, cast him into the river and do not fear and do not grieve\" (28:7). Afterwards \"the heart of Moses' mother became empty\", and she nearly cried out his secret (28:10). His sister followed the floating child along the bank, watched from a distance, and then, with a single sentence offering a nurse to the palace, brought him home (28:11-13)."
+        },
+        {
+          "image": "day-17-nile",
+          "alt": "A small reed basket drifting among papyrus on the Nile at dawn",
+          "caption": "\"Cast him into the river and do not fear and do not grieve\" (28:7).",
+          "prompt": "A small woven reed basket drifting among tall papyrus on the calm Nile at dawn, mist on the water, a pale pink sky, palm trees and a distant mud-brick village on the far bank."
+        },
+        {
+          "p": "In Saba', a queen received a letter from Sulayman. She did not act alone: \"O eminent ones, advise me in my affair. I would not decide a matter until you witness [for] me\" (27:32). Her generals offered war; she chose diplomacy, observing that \"kings - when they enter a city, they ruin it\" (27:34). The Quran presents her as wise, and her story ends in faith freely chosen: \"I submit with Solomon to Allah, Lord of the worlds\" (27:44). Tradition calls her Bilqis; the Quran does not."
+        },
+        {
+          "p": "Then the Quran does something remarkable. It offers examples for all believers, men included:"
+        },
+        {
+          "verse": "66:10-12"
+        },
+        {
+          "p": "The example of disbelief is two women married to prophets; the example of faith is a woman married to Pharaoh, and a woman married to no one. Neither husband nor household decides a soul's standing. Tradition names Pharaoh's wife Asiya. Her prayer asks for something tender and specific: a house, near You."
+        }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "The Verses Quoted Without Their Context",
+      "blocks": [
+        {
+          "p": "Four verses are quoted more often than any others when people discuss women in Islam, usually as single sentences. Family law has its own day (Day 25), but they belong here too, read whole."
+        },
+        {
+          "h": "\"Men are in charge of women\""
+        },
+        {
+          "p": "The word in 4:34 is *qawwāmūn*, those who stand over a matter to maintain it. The verse gives two grounds: what Allah has given one over the other, and \"what they spend [for maintenance] from their wealth\". Islamic law obliges the husband to pay the dowry and provide for his wife, while her own wealth remains entirely hers. Classical commentators understood this as authority within the household, tied to that responsibility. The same verse then addresses serious marital breakdown, *nushūz*, in three steps: counsel, separate beds, and \"strike them\". This is the hardest line, and it should be faced honestly. Classical scholars hedged it tightly: the Prophet ﷺ in his Farewell Sermon, reported in Muslim, said it must not be severe; Ibn 'Abbas, as al-Tabari reports, likened it to a tap with a tooth-stick; jurists forbade the face and anything that injures. Al-Shafi'i held that refraining is better. 'A'ishah said, in a report in Muslim, that the Prophet ﷺ never struck a woman. Some modern scholars read the verb differently, a minority view. The next verse calls for an arbitrator from each family (4:35), and abuse gave a woman grounds to seek a court's divorce."
+        },
+        {
+          "h": "Two women for one man"
+        },
+        {
+          "p": "2:282 concerns written debt contracts, and gives its own reason: \"so that if one of the women errs, then the other can remind her\". Ibn al-Qayyim argued that it addressed commercial dealings in which women then had little experience, and pointed out that a single woman's testimony was accepted in matters she knew best, and that a woman's narration of hadith counts exactly as a man's. In the solemn oaths between spouses, a wife's testimony carries exactly the weight of her husband's (24:6-9)."
+        },
+        {
+          "h": "Half the share"
+        },
+        {
+          "p": "In 4:11 a son inherits twice a daughter's share, in a system where the son must pay dowries and support a family and the daughter keeps all she receives. The same verse gives the father and mother equal shares when there are children, and maternal brothers and sisters inherit equally (4:12)."
+        }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Lower Your Gaze, Both of You",
+      "blocks": [
+        {
+          "verse": "24:30"
+        },
+        {
+          "p": "Modesty in the Quran begins with men. The next verse gives women the same two commands, then adds covering and the circle of relatives before whom adornment may show (24:31). Muslims differ on how 24:31 is lived, and Muslim women you know may cover in different ways or not at all; but the starting point is a shared discipline of the eyes, not a burden placed on one side."
+        },
+        {
+          "list": [
+            "**The mosque is hers too.** The Prophet ﷺ said, in al-Bukhari and Muslim, \"Do not prevent the female servants of Allah from the mosques of Allah.\" Al-Bukhari also reports that women asked him for a day of teaching of their own, and he gave it.",
+            "**Knowledge is hers.** 'A'ishah narrated over two thousand hadith, and senior companions brought their legal questions to her.",
+            "**Her pledge is her own.** Women gave the oath of allegiance to the Prophet ﷺ directly, in their own name (60:12).",
+            "**Her birth is a gift.** The Quran condemns the father whose face darkens at the news of a daughter (16:58-59), and on the Last Day the buried girl will be asked \"for what sin she was killed\" (81:8-9)."
+          ]
+        },
+        {
+          "p": "For a Muslim, the practical test is close to home. The Prophet ﷺ said, in a report in al-Tirmidhi, that the best of you are the best to their families, and that he was the best of them to his. The Quran describes spouses as \"clothing for you and you are clothing for them\" (2:187): warmth, covering, closeness, and protection, given both ways."
+        }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "A House Near You",
+      "blocks": [
+        {
+          "p": "Return for a moment to the woman in Pharaoh's palace. She had everything the world could offer: the richest house in Egypt, the protection of its most powerful man. She asked for none of it. \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds\" (66:11). Scholars have noticed the order of her words: *'indaka*, \"near You\", comes before \"a house\". She asked for the Neighbour before the home."
+        },
+        {
+          "p": "Maryam, alone under the palm, wished she had never been born. Khawlah, alone with hungry children, argued until heaven answered. Musa's mother let go of her son on the water and felt her heart go empty. The Quran's women are not decorations on the edges of men's stories. They are the places where it shows what faith looks like under pressure: grief admitted, fear carried, trust held anyway."
+        },
+        {
+          "p": "Whoever you are, woman or man, believer or seeker, these are offered to you as examples, and the Quran's promise to you is the same as to anyone:"
+        },
+        {
+          "verse": "16:97"
+        },
+        {
+          "p": "A believer might end the day with Asiya's own words, or with the prayer the Quran gives for every household: \"Our Lord, grant us from among our wives and offspring comfort to our eyes\" (25:74)."
+        }
+      ]
     }
   ],
-  "visual": {
-    "kind": "constellation",
-    "title": "The women of the Quran",
-    "caption": "Maryam shines brightest: the only woman named in the Quran, with a surah that carries her name. The others are known by their role; names such as Hawwa, Sarah and Asiya come from hadith and history.",
-    "items": [
-      {
-        "label": "Maryam",
-        "text": "Chosen and purified above the women of the worlds.",
-        "ref": "3:42",
-        "bright": true
-      },
-      {
-        "label": "Adam's wife",
-        "text": "Lived in the Garden; tradition names her Hawwa.",
-        "ref": "2:35"
-      },
-      {
-        "label": "Nuh's wife",
-        "text": "Betrayed her husband's mission.",
-        "ref": "66:10"
-      },
-      {
-        "label": "Lut's wife",
-        "text": "Stayed with her people and was lost.",
-        "ref": "66:10"
-      },
-      {
-        "label": "Ibrahim's wife",
-        "text": "Smiled at the news of Ishaq.",
-        "ref": "11:71"
-      },
-      {
-        "label": "Musa's mother",
-        "text": "Cast her baby into the river, trusting Allah.",
-        "ref": "28:7"
-      },
-      {
-        "label": "Musa's sister",
-        "text": "Followed him from a distance.",
-        "ref": "28:11"
-      },
-      {
-        "label": "Pharaoh's wife",
-        "text": "Asked for a house near Allah.",
-        "ref": "66:11"
-      },
-      {
-        "label": "Daughters of Madyan",
-        "text": "Waited at the well; one married Musa.",
-        "ref": "28:23"
-      },
-      {
-        "label": "Wife of al-'Aziz",
-        "text": "Tried to seduce Yusuf, then confessed.",
-        "ref": "12:51"
-      },
-      {
-        "label": "Women of the city",
-        "text": "Cut their hands at the sight of Yusuf.",
-        "ref": "12:31"
-      },
-      {
-        "label": "Queen of Saba'",
-        "text": "A wise ruler who submitted to Allah.",
-        "ref": "27:44"
-      },
-      {
-        "label": "Wife of 'Imran",
-        "text": "Dedicated her unborn child to Allah.",
-        "ref": "3:35"
-      },
-      {
-        "label": "Zakariya's wife",
-        "text": "Made able to bear Yahya.",
-        "ref": "21:90"
-      },
-      {
-        "label": "The woman who argued",
-        "text": "Pleaded her case; Allah heard her.",
-        "ref": "58:1"
-      },
-      {
-        "label": "Abu Lahab's wife",
-        "text": "\"The carrier of firewood.\"",
-        "ref": "111:4"
-      },
-      {
-        "label": "The Prophet's wives",
-        "text": "\"Not like anyone among women.\"",
-        "ref": "33:32"
-      },
-      {
-        "label": "Women of the pledge",
-        "text": "Pledged their faith directly to the Prophet ﷺ.",
-        "ref": "60:12"
-      },
-      {
-        "label": "The spinner",
-        "text": "A parable: undoing her strong thread, like broken oaths.",
-        "ref": "16:92"
-      }
-    ]
-  },
-  "word": {
-    "ar": "زَوْج",
-    "tr": "zawj",
-    "root": [
-      "ز",
-      "و",
-      "ج"
-    ],
-    "meaning": "Spouse; one of a pair",
-    "nuance": "The Quran uses the same word for husband and wife: Adam is told to dwell in the Garden with his zawj (2:35). It also means a pair or match: \"of all things We created two mates\" (51:49). Each spouse is the other's counterpart, and between them Allah places affection and mercy (30:21).",
-    "refs": [
-      "2:35",
-      "51:49",
-      "30:21"
-    ]
-  },
-  "mixup": {
-    "myth": "The Quran blames Eve for the first sin.",
-    "truth": "The Quran tells the story of both together: Satan whispered to them both, they both ate, and they both repented (7:20-23). Where it names one, it names Adam: \"Adam disobeyed his Lord\" (20:121). It never blames the woman, never names her, and teaches that no soul carries another's burden (6:164).",
-    "refs": [
-      "7:20-23",
-      "20:121",
-      "6:164"
-    ]
-  },
-  "remember": [
-    "Women and men come from one soul and are promised the same reward for faith and good deeds.",
-    "Maryam is the only woman named; she and Pharaoh's wife are the models for all believers.",
-    "Allah heard a woman's complaint and changed the law; modesty is asked of both."
-  ],
-  "memorize": "16:97",
+  "carry": "16:97",
   "quiz": [
     {
-      "q": "Who are the two examples of faith for all believers in 66:11-12?",
+      "q": "Who are the two examples of faith offered to all believers in 66:11-12?",
       "options": [
         "The wives of Nuh and Lut",
         "Pharaoh's wife and Maryam",
@@ -177,31 +221,43 @@
         "Musa's mother and sister"
       ],
       "answer": 1,
-      "why": "66:11-12: \"Allah presents an example of those who believed: the wife of Pharaoh\", then Maryam. The wives of Nuh and Lut are the example of disbelief (66:10)."
+      "why": "66:11-12 give Pharaoh's wife and Maryam as \"an example of those who believed\", for men and women alike. The wives of Nuh and Lut are the example of disbelief (66:10)."
     },
     {
-      "q": "In 24:30-31, who is told first to lower the gaze?",
+      "q": "How does the Quran tell the story of eating from the forbidden tree?",
       "options": [
-        "The believing men",
-        "The believing women",
-        "Only the Prophet's wives"
+        "Adam's wife tempted Adam",
+        "Satan whispered to both, both ate, and both repented",
+        "Only Adam was present",
+        "Women inherit punishment for it"
       ],
-      "answer": 0,
-      "why": "24:30: \"Tell the believing men to reduce [some] of their vision and guard their private parts.\" 24:31 then gives the believing women the same command."
+      "answer": 1,
+      "why": "7:20-23 tells it in the dual throughout: Satan whispered to them, they tasted of the tree, and they said together, \"Our Lord, we have wronged ourselves.\" 20:121 singles out Adam, not his wife."
     },
     {
-      "q": "Whose voice opens Surah al-Mujadilah, \"She Who Disputes\"?",
+      "q": "What happened when Khawlah argued her case about her husband's zihar (58:1-4)?",
       "options": [
-        "The Queen of Saba'",
-        "Musa's mother",
-        "A woman complaining about her husband",
-        "Abu Lahab's wife"
+        "She was told to accept the old custom",
+        "Allah heard her complaint and the verses abolished the effect of zihar",
+        "Her husband was banished",
+        "She was rebuked for arguing with the Prophet ﷺ"
       ],
-      "answer": 2,
-      "why": "58:1: \"Allah has heard the speech of the one who argues with you concerning her husband and directs her complaint to Allah.\""
+      "answer": 1,
+      "why": "58:1: \"Allah has heard the speech of the one who argues with you concerning her husband.\" 58:2-4 call zihar a falsehood and set an expiation, so the marriage was not destroyed."
+    },
+    {
+      "q": "What reason does 2:282 itself give for two women witnesses in a debt contract?",
+      "options": [
+        "Women's faith is weaker",
+        "So that if one errs, the other can remind her",
+        "Women may not witness anything else",
+        "It gives no reason"
+      ],
+      "answer": 1,
+      "why": "2:282 states its purpose: \"so that if one of the women errs, then the other can remind her\". It concerns written commercial contracts; in other matters, such as the oaths of 24:6-9, a woman's testimony equals a man's."
     }
   ],
-  "reflect": "Which woman from today's stories would you most like to learn more about, and why?",
+  "reflect": "Which woman from today's stories speaks most to your own life right now: Maryam under the palm, Khawlah arguing her case, Musa's mother at the river, or Asiya in the palace? Why?",
   "deeper": [
     "3:195",
     "4:1",
@@ -212,7 +268,8 @@
     "28:7-13",
     "27:22-44",
     "60:12",
-    "33:59"
+    "33:59",
+    "4:34-35"
   ],
   "links": [
     {

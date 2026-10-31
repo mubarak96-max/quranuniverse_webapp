@@ -2,234 +2,156 @@
   "day": 14,
   "title": "Madinah: Building a Community",
   "question": "How did a band of refugees become a community in ten years?",
-  "emblem": "minaret",
-  "intro": [
-    "In 622 CE the Prophet Muhammad ﷺ and his companions left Makkah for Yathrib, soon called Madinah, \"the City\". The emigrants, the Muhajirun, were taken in by the Muslims of Madinah, the Ansar or \"Helpers\". Reports say a written pact also bound the city's Jewish tribes to them as one community of defence.",
-    "The next ten years brought a new direction of prayer, battles and treaties, laws for daily life, and finally a peaceful return to Makkah. The Quran comments on these events as they happen, often without naming places or people. Today you will meet some of those moments, and the role the Quran gives the Prophet ﷺ himself: messenger, teacher and example."
-  ],
-  "passages": [
+  "summary": "Ten years in Madinah: a mosque of palm trunks, brotherhood between strangers, the battles of Badr, Uhud and the Trench in their full context, a treaty that looked like defeat, the opening of Makkah, and a religion declared complete.",
+  "cover": {
+    "alt": "Palm groves of an oasis at dawn with a simple mud-brick mosque roofed with palm fronds",
+    "prompt": "The palm groves of the oasis of Yathrib at dawn, a simple low enclosure of mud-brick walls with a roof of palm fronds resting on palm-trunk pillars, wells and irrigation channels between the trees, black volcanic hills in the distance under a soft pink sky."
+  },
+  "chapters": [
     {
-      "ref": "2:144",
-      "context": "Madinah, about 16 or 17 months after the Hijra, reports in al-Bukhari say. Until then the Muslims prayed toward Jerusalem.",
-      "point": "Allah turns the qiblah, the direction of prayer, to the Ka'bah in Makkah. Muslims everywhere have faced it ever since.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Palm Trunks and Mud Brick",
+      "blocks": [
+        { "p": "The biographies say the Prophet ﷺ let his camel walk freely through Yathrib while every household begged him to stay with them. Where she knelt, on a plot where dates were dried, he built his mosque. It had walls of mud brick, pillars of palm trunks and a roof of palm fronds that leaked when it rained. He carried bricks with the rest of them. It was prayer hall, school, court, guesthouse and shelter for the homeless poor, who slept on a raised platform at its edge." },
+        { "p": "The emigrants from Makkah, the *Muhajirun*, had arrived with almost nothing. So the Prophet ﷺ paired each of them with a Muslim of Madinah, one of the *Ansar*, \"the Helpers\", as brothers. Al-Bukhari reports that one of the Helpers, Sa'd ibn al-Rabi', offered his Makkan brother 'Abd al-Rahman ibn 'Awf half of everything he owned. 'Abd al-Rahman thanked him and asked only to be shown the way to the market. The Quran praised the Helpers in words that still describe the ideal host." },
+        { "verse": "59:9" },
+        { "p": "Madinah was not only Muslim. Its Arab tribes, the Aws and the Khazraj, had been at war with each other for generations, and three Jewish tribes lived among them as allies. The biographies preserve a written agreement, often called the Charter of Madinah, that bound all of them, Muslims and Jews, as one community for defence, each keeping its own religion. The Quran comments on these ten years as they happen, often without names or places. What follows draws on both: the Quran, and the biographies that supply the context it assumes." },
+        { "figure": { "kind": "timeline", "title": "Ten years in Madinah", "items": [
+          { "at": "1 AH", "label": "Arrival", "text": "The mosque is built; Emigrants and Helpers paired as brothers." },
+          { "at": "2 AH", "label": "New qiblah", "text": "Prayer turns from Jerusalem to the Ka'bah (2:144)." },
+          { "at": "2 AH", "label": "Badr", "text": "About 313 believers face a Makkan army of about 1,000." },
+          { "at": "3 AH", "label": "Uhud", "text": "Archers leave their post; near victory becomes loss." },
+          { "at": "5 AH", "label": "The Trench", "text": "A coalition besieges Madinah and fails." },
+          { "at": "6 AH", "label": "Hudaybiyyah", "text": "A pledge under the tree and a ten-year truce." },
+          { "at": "8 AH", "label": "Makkah opens", "text": "Entered with little fighting; a general amnesty." },
+          { "at": "10 AH", "label": "Farewell Hajj", "text": "\"This day I have perfected for you your religion.\"" },
+          { "at": "11 AH", "label": "His death", "text": "In Madinah, aged about 63." }
+        ] } },
+        { "note": "AH, *anno Hegirae*, counts years from the Hijra of 622 CE. These dates follow the main biographies and are approximate.", "title": "Reading the dates" }
+      ]
     },
     {
-      "ref": "3:144",
-      "context": "Reports say it came after Uhud (3 AH), when a false cry that the Prophet ﷺ had been killed made some flee.",
-      "point": "Faith rests on Allah, not on one man. Al-Bukhari reports that Abu Bakr recited this verse on the day the Prophet ﷺ died.",
-      "label": "stated"
+      "lens": "reason",
+      "title": "A Prophet Who Fought?",
+      "blocks": [
+        { "p": "This is the question many readers bring to the Madinan years, and it should be put at full strength. Jesus, as Christians read him, did not take up the sword. The Prophet Muhammad ﷺ led armies. Does that not make Islam a religion of conquest? And are there not verses in the Quran that command killing?" },
+        { "p": "Begin with the timeline. For thirteen years in Makkah the Muslims were beaten, boycotted and killed, and the Quran's instruction was patience. Not one verse permitted them to fight back. Then, after they had been driven from their homes and their property seized, came the first permission." },
+        { "verse": "22:39-40" },
+        { "p": "Notice the reasons given: *because they were wronged*, because they were *evicted from their homes without right*. Notice too what fighting protects: \"monasteries, churches, synagogues, and mosques\". The verse defends places of worship of every faith, and names the mosque last. Later verses set limits. \"Fight in the way of Allah those who fight you but do not transgress\" (2:190). \"If they incline to peace, then incline to it [also]\" (8:61). Allah \"does not forbid you\" from kindness and justice toward those who do not fight you (60:8). And \"there shall be no compulsion in [acceptance of] the religion\" (2:256)." },
+        { "p": "Verses quoted to prove the opposite are usually cut from their setting. The \"sword verse\" (9:5) concerns specific Arab tribes who had broken their treaties with the Muslims, and the very next verse orders that any of them who asks for protection must be given it and escorted to safety (9:6)." },
+        { "p": "This does not make the Madinan years bloodless, and it would be dishonest to pretend so. People died on both sides. Seventh-century Arabia had no state, no police and no neutral courts; a community survived by its ability to defend itself. Muslims believe the Prophet ﷺ fought as a messenger bound by revealed limits, and that those limits, not the battles themselves, are the Quran's lasting teaching about war. Classical scholars developed detailed laws from them, and they debated, as scholars still do, how they apply in a world of nations and treaties." }
+      ]
     },
     {
-      "ref": "33:9-11",
-      "context": "The Battle of the Trench (5 AH): a large coalition besieged Madinah, which the Muslims defended by digging a trench.",
-      "point": "The Quran names the fear honestly: eyes shifting, hearts in throats. Relief came through a wind and armies they did not see.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Rain on the Night Before Badr",
+      "blocks": [
+        { "p": "In Ramadan of 2 AH, March 624, a rich Makkan caravan led by Abu Sufyan was returning from Syria past Madinah. The Prophet ﷺ set out with about 313 men to intercept it, some of them sharing camels by turns. The biographies explain the logic of the time: Quraysh had seized the emigrants' homes and goods, and the caravan was Makkan wealth. Abu Sufyan changed route and escaped, but he had sent to Makkah for help, and an army of about a thousand marched north. The Muslims found themselves facing not a caravan but a battle." },
+        { "p": "The Prophet ﷺ consulted his companions. The Helpers' pledge had been to defend him inside Madinah, and he wanted to hear from them. Their leader, Sa'd ibn Mu'adh, answered, the biographies say, that if he led them into the sea they would follow. They camped by the wells of Badr. That night, the Quran recalls, a calm sleep fell over them and rain came down, firming the sand beneath their feet (8:11). 'Umar reported, in Sahih Muslim, that the Prophet ﷺ prayed through the night with his hands raised until his cloak fell from his shoulders, asking: if this small band perishes, You will not be worshipped on earth." },
+        { "verse": "3:123" },
+        { "image": "day-14-badr", "alt": "Desert wells under a night sky with rain falling on firm sand", "caption": "\"He sent down upon you from the sky, rain\" (8:11)", "prompt": "A wide sandy plain at night with a few stone-rimmed desert wells, light rain falling and darkening the sand, low dunes and dark hills beyond, a break in the clouds showing stars, the faint glow of a few distant oil lamps." },
+        { "p": "The Makkan army broke. About seventy of its men were killed, among them Abu Jahl, the fiercest enemy of the Muslims, and about seventy were captured. Fourteen Muslims died. The captives were ransomed, and the biographies report that some who could read and write were offered freedom in return for teaching ten Muslim children each." },
+        { "p": "The Quran's comment on Badr has no swagger in it. It tells the victors that they did not kill by their own power (8:17), and in the verse above it adds: *then fear Allah; perhaps you will be grateful.*" }
+      ]
     },
     {
-      "ref": "48:18",
-      "context": "Al-Hudaybiyyah, 6 AH. Blocked from making 'Umrah, the believers pledged loyalty under a tree, then a truce was agreed.",
-      "point": "A treaty many saw as a setback is called \"a clear conquest\" (48:1). Allah saw what was in their hearts and sent calm.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Uhud: The Quran Names the Mistake",
+      "blocks": [
+        { "p": "A year later, in 3 AH, Quraysh returned with three thousand men to avenge Badr. The Muslims, about seven hundred, met them at the foot of Mount Uhud, just north of Madinah. The Prophet ﷺ placed fifty archers on a small hill to guard their flank and told them, al-Bukhari reports, not to leave it whatever they saw, even if birds were snatching the dead." },
+        { "p": "The battle went well at first. The Makkan line broke, and most of the archers, seeing the enemy camp abandoned, came down to collect spoils. The Makkan cavalry under Khalid ibn al-Walid rode around the hill and fell on the Muslims from behind. About seventy were killed, among them the Prophet's ﷺ uncle Hamzah. The Prophet ﷺ himself was wounded, and a cry went up that he had been killed. Some fled." },
+        { "p": "Surah Al 'Imran, revealed afterwards, does something few national epics do. It describes the defeat from the losing side and names the fault: \"you lost courage and fell to disputing about the order [given by the Prophet] and disobeyed\" (3:152). In the same verse it says, \"He has already forgiven you.\" To those who fled at the false report it says: \"Muhammad is not but a messenger. [Other] messengers have passed on before him\" (3:144). Faith rests on Allah, not on one man's life." },
+        { "p": "Then comes a verse addressed to the Prophet ﷺ about the very people who had disobeyed him." },
+        { "verse": "3:159" },
+        { "p": "Read the sequence of commands: pardon them, ask forgiveness for them, *consult them*. Before Uhud the Prophet ﷺ had consulted his companions and gone with the majority, who wanted to march out rather than stay in the city. The plan had cost him dearly. The Quran's response is not \"stop consulting\". It is \"consult them\" again, and rely on Allah once you have decided. *Shura*, consultation, became a principle of Islamic governance from this verse, born out of a defeat." }
+      ]
     },
     {
-      "ref": "5:3",
-      "from": "This day I have perfected",
-      "to": "Islam as religion.",
-      "context": "Part of a verse on food laws. 'Umar said it came down at 'Arafah during the Farewell Hajj, 10 AH (al-Bukhari, Muslim).",
-      "point": "The religion is declared complete. A few months later, in 11 AH (632 CE), the Prophet ﷺ died in Madinah.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Trench, and a Hard Chapter",
+      "blocks": [
+        { "p": "In 5 AH Quraysh gathered a coalition of Arab tribes, some ten thousand men, the largest army Arabia had seen, to finish Madinah. The biographies credit Salman al-Farisi, a Persian convert, with an idea unknown to the Arabs: a trench across the open northern approach to the city. The Muslims dug it in a matter of days, in winter, hungry, the Prophet ﷺ carrying earth with them. Surah al-Ahzab, \"the Confederates\", describes the siege with startling honesty." },
+        { "verse": "33:10-11" },
+        { "p": "Eyes rolling, hearts in throats, wrong thoughts about Allah. The Quran does not pretend the believers were serene. After weeks of siege, a cold wind tore down the coalition's tents and put out their fires, and they left (33:9). In the middle of this surah stands the verse Muslims quote most about the Prophet ﷺ: in him is \"an excellent pattern\" (33:21). Its setting is not peace. It is a frightened city, and a man digging with them." },
+        { "note": "The biographies report that during the siege the Jewish tribe of Banu Qurayzah, bound by the city's pact, negotiated with the besiegers. After the coalition withdrew, the Muslims besieged their fortresses. The tribe agreed to accept the judgment of Sa'd ibn Mu'adh, chief of the Aws, their former allies. He ruled that the fighting men be executed and the women and children taken captive, a ruling reported in al-Bukhari and Muslim; the Quran alludes to the event (33:26). The figure of several hundred executed comes from Ibn Ishaq, and some historians, Muslim and non-Muslim, have questioned the scale of his account. Muslim scholars have understood the ruling as a wartime judgment on treason, and the episode is discussed seriously in both Muslim and academic writing. The two other Jewish tribes of Madinah, Qaynuqa' and al-Nadir, had earlier been expelled after disputes the biographies describe. None of this is a judgment on Jews as a people: the Quran honours Musa and the prophets of Israel, and Muslim law protected Jewish communities for centuries afterwards.", "title": "Banu Qurayzah: the context" }
+      ]
     },
     {
-      "ref": "4:59",
-      "context": "Madinah, as a community with leaders, disputes and laws took shape.",
-      "point": "Obey Allah, the Messenger and those in authority, and take disputes back to Allah and the Messenger. Scholars read this, after his death, as returning to the Quran and the Sunnah.",
-      "label": "explained"
+      "lens": "story",
+      "title": "The Treaty That Looked Like Defeat",
+      "blocks": [
+        { "p": "In 6 AH the Prophet ﷺ set out with about 1,400 companions to perform *'umrah*, the lesser pilgrimage, at Makkah. They wore pilgrims' white and drove sacrificial animals ahead of them. Quraysh blocked them at a place called al-Hudaybiyyah. When a rumour spread that their envoy 'Uthman had been killed, the companions pledged, one by one, under a tree, to stand by the Prophet ﷺ to the end." },
+        { "verse": "48:18" },
+        { "p": "'Uthman was alive, and a treaty followed. Its terms seemed humiliating. The Muslims would go home without visiting the Ka'bah and return next year. A Makkan who joined the Muslims without his guardian's permission would be sent back; a Muslim who went to Makkah would not. There would be a ten-year truce. Al-Bukhari reports that 'Umar was so distressed he asked, \"Are we not in the right?\" On the way home Surah al-Fath came down: \"Indeed, We have given you, [O Muhammad], a clear conquest\" (48:1)." },
+        { "p": "Peace did what war had not. People could now travel, talk and hear the Quran without fear, and the biographies say more people entered Islam in the next two years than in all the years before. When a tribe allied to Quraysh attacked a tribe allied to the Muslims in 8 AH, breaking the truce, the Prophet ﷺ marched on Makkah with ten thousand. Makkah surrendered almost without a fight. Abu Sufyan's house was declared a place of safety for anyone who entered it (Sahih Muslim)." },
+        { "p": "At the Ka'bah the Prophet ﷺ struck down the idols one by one, reciting, as al-Bukhari reports, \"Truth has come, and falsehood has departed\" (17:81). The biographies say he then asked the people of Makkah, who had persecuted him for twenty years, what they expected of him, and declared a general amnesty. Some reports add that he used the words of Yusuf to his brothers: \"No blame will there be upon you today\" (12:92). Surah an-Nasr marks the moment: \"you see the people entering into the religion of Allah in multitudes\" (110:2), and its response to victory is to glorify Allah and *ask forgiveness*." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "\"Whoever Worshipped Muhammad\"",
+      "blocks": [
+        { "p": "In 10 AH the Prophet ﷺ made his only Hajj. At 'Arafah, before more than a hundred thousand pilgrims by the biographies' count, he gave a sermon. Muslim records its core: your blood and your property are sacred to one another, like the sacredness of this day; the blood feuds and the usury of the age of ignorance are cancelled; treat women well. And there, 'Umar later said in al-Bukhari and Muslim, came the words: \"This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion\" (5:3)." },
+        { "p": "Some companions understood that a completed mission meant a departing messenger. A few months later, in Rabi' al-Awwal of 11 AH, June 632, he fell ill with a fever. He died in Madinah, in the room of his wife 'A'ishah, his head resting on her. He left, the reports say, almost nothing: his armour was in pawn to a Jewish neighbour for some barley." },
+        { "p": "Madinah was stunned. 'Umar refused to believe it. Then Abu Bakr came, uncovered the Prophet's ﷺ face, kissed him, and went out to the people. Al-Bukhari preserves what he said." },
+        { "quote": "Whoever worshipped Muhammad, Muhammad has died. And whoever worshipped Allah, Allah is alive and does not die.", "by": "Abu Bakr, in Sahih al-Bukhari" },
+        { "p": "Then he recited the verse revealed after Uhud." },
+        { "verse": "3:144" },
+        { "p": "The companions said it was as if they had never heard it before. That is the gift of this verse to anyone who has lost someone they loved more than themselves. The person was a gift; Allah is the One who remains. Grief is not betrayal of faith, and the Prophet ﷺ himself wept at the death of his son Ibrahim. But faith does not die with the people we lose. It turns us back toward the One who does not die." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "An Excellent Pattern",
+      "blocks": [
+        { "p": "The Madinan years are why Islam is more than a creed. In Makkah the Quran taught belief: one God, the Hereafter, the worth of every soul. In Madinah it taught how a community lives that belief: prayer in congregation, *zakah*, fasting in Ramadan, marriage and inheritance, trade and contracts, war and peace. And it pointed to a living example of how to do all of it." },
+        { "verse": "33:21" },
+        { "word": { "ar": "سُنَّة", "tr": "sunnah", "root": ["س", "ن", "ن"], "meaning": "A way, an established practice", "nuance": "Literally a well-trodden path. The Quran speaks of *sunnat Allah*, Allah's unchanging way with peoples (33:62). For Muslims, the Sunnah is the Prophet's ﷺ words, actions and approvals, preserved in hadith, which show how the Quran is lived. The Quran itself sends readers to him: \"whatever the Messenger has given you - take\" (59:7)." } },
+        { "p": "This is why a Muslim's daily life is full of small imitations. The Quran commands prayer but never describes its movements; Muslims pray as he prayed. They begin meals with *bismillah* and eat with the right hand, greet with *as-salamu 'alaykum*, and break their fast with dates, because he did. Scholars developed a careful science to test each hadith report, precisely because so much rests on them. And when Muslims disagree, the Quran tells them to take the matter back \"to Allah and the Messenger\" (4:59), which scholars read, after his death, as the Quran and the authentic Sunnah." },
+        { "list": [
+          "For a Muslim reader: choose one Sunnah from these years to revive this week, such as consulting others before a decision (3:159), or a kindness to a neighbour of another faith (60:8).",
+          "For a seeker: read Surah al-Fath (48) alongside the story of Hudaybiyyah. It shows how the Quran speaks into a single event.",
+          "For anyone: when you meet a Muslim custom that seems small, ask where it came from. The answer usually leads back to Madinah."
+        ] }
+      ]
     }
   ],
-  "visual": {
-    "kind": "timeline",
-    "title": "Ten years in Madinah",
-    "caption": "AH counts years from the Hijra. Dates follow the main biographies of the Prophet ﷺ and are approximate; historians place some events, such as the Trench, a year apart.",
-    "label": "explained",
-    "items": [
-      {
-        "at": "1 AH",
-        "label": "Arrival",
-        "text": "A mosque is built; Emigrants and Helpers paired as brothers."
-      },
-      {
-        "at": "2 AH",
-        "label": "New qiblah",
-        "text": "Prayer turns from Jerusalem to the Ka'bah.",
-        "ref": "2:144"
-      },
-      {
-        "at": "2 AH",
-        "label": "Badr",
-        "text": "A few hundred believers defeat a larger Makkan army.",
-        "ref": "3:123",
-        "mark": true
-      },
-      {
-        "at": "3 AH",
-        "label": "Uhud",
-        "text": "Archers leave their post; near victory turns to loss.",
-        "ref": "3:152"
-      },
-      {
-        "at": "5 AH",
-        "label": "The Trench",
-        "text": "A coalition besieges Madinah, then the siege breaks.",
-        "ref": "33:9"
-      },
-      {
-        "at": "5-6 AH",
-        "label": "The slander",
-        "text": "A false charge against 'A'ishah; the Quran clears her.",
-        "ref": "24:11"
-      },
-      {
-        "at": "6 AH",
-        "label": "Hudaybiyyah",
-        "text": "A pledge under the tree and a ten-year truce.",
-        "ref": "48:18",
-        "mark": true
-      },
-      {
-        "at": "8 AH",
-        "label": "Makkah opens",
-        "text": "The city is entered with little fighting; idols removed.",
-        "ref": "110:1",
-        "mark": true
-      },
-      {
-        "at": "8 AH",
-        "label": "Hunayn",
-        "text": "Pride in numbers, a rout, then calm and victory.",
-        "ref": "9:25"
-      },
-      {
-        "at": "9 AH",
-        "label": "Tabuk",
-        "text": "A hard march north in the summer heat.",
-        "ref": "9:117"
-      },
-      {
-        "at": "10 AH",
-        "label": "Farewell Hajj",
-        "text": "\"This day I have perfected for you your religion.\"",
-        "ref": "5:3"
-      },
-      {
-        "at": "11 AH",
-        "label": "His death",
-        "text": "He dies in Madinah, aged about 63.",
-        "ref": "3:144"
-      }
-    ]
-  },
-  "word": {
-    "ar": "سُنَّة",
-    "tr": "sunnah",
-    "root": [
-      "س",
-      "ن",
-      "ن"
-    ],
-    "meaning": "A way, an established practice",
-    "nuance": "Literally a well-trodden path. The Quran speaks of sunnat Allah, Allah's unchanging way with past peoples (33:62). For Muslims, the Sunnah is the Prophet's ﷺ words, actions and approvals, preserved in hadith, which show how the Quran is lived (16:44).",
-    "refs": [
-      "33:62",
-      "16:44"
-    ]
-  },
-  "mixup": {
-    "myth": "The Quran is complete, so Muslims need nothing else, not even the Prophet's example.",
-    "truth": "The Quran itself sends readers to him: obey the Messenger (4:80), take what he gives you (59:7), he makes clear what was revealed (16:44). It commands prayer but does not list its units or movements; those come from his practice. Scholars treat authentic Sunnah as the Quran's first explanation, while testing each report carefully.",
-    "refs": [
-      "4:80",
-      "59:7",
-      "16:44"
-    ]
-  },
-  "remember": [
-    "Ten years in Madinah: a new qiblah, Badr, Uhud, the Trench, Hudaybiyyah and the opening of Makkah.",
-    "The Quran comments on events as they happen, naming courage, fear and mistakes honestly.",
-    "The Prophet ﷺ is messenger, teacher and example; his Sunnah shows the Quran in practice."
-  ],
-  "memorize": "33:21",
+  "carry": "33:21",
   "quiz": [
     {
-      "q": "Which battle does the Quran name while recalling that the believers were few?",
-      "options": [
-        "Uhud",
-        "Badr",
-        "Hunayn",
-        "Tabuk"
-      ],
+      "q": "According to 22:39-40, why was permission to fight first given?",
+      "options": ["To spread Islam by force", "Because the believers had been wronged and driven from their homes", "To capture the trade routes of Arabia", "To punish the People of the Scripture"],
       "answer": 1,
-      "why": "3:123: \"Allah had given you victory at [the battle of] Badr while you were few in number.\" Hunayn is also named (9:25), but there their great number pleased them."
+      "why": "22:39-40: permission is given \"because they were wronged\", to \"those who have been evicted from their homes without right\", and the passage names monasteries, churches, synagogues and mosques as places protected."
     },
     {
-      "q": "Where did the believers pledge loyalty at al-Hudaybiyyah, according to 48:18?",
-      "options": [
-        "Inside the Ka'bah",
-        "At the well of Zamzam",
-        "Under the tree"
-      ],
-      "answer": 2,
-      "why": "48:18: \"Allah was pleased with the believers when they pledged allegiance to you, [O Muhammad], under the tree.\" It is often called the Pledge of Ridwan, of Allah's good pleasure."
+      "q": "After the defeat at Uhud, what does 3:159 tell the Prophet ﷺ to do with the companions who disobeyed?",
+      "options": ["Dismiss them from the army", "Pardon them, ask forgiveness for them, and consult them", "Never consult them again", "Send them back to Makkah"],
+      "answer": 1,
+      "why": "3:159: \"So pardon them and ask forgiveness for them and consult them in the matter.\" Consultation, shura, is reaffirmed straight after the mistake."
     },
     {
-      "q": "What does 3:144 teach about the Prophet ﷺ?",
-      "options": [
-        "He is a messenger, like those who passed on before him",
-        "He would never die",
-        "Faith would end with his death",
-        "Only his companions had to follow him"
-      ],
-      "answer": 0,
-      "why": "3:144: \"Muhammad is not but a messenger. [Other] messengers have passed on before him.\" Faith is in Allah, who does not die."
+      "q": "Why does Surah al-Fath call the treaty of Hudaybiyyah \"a clear conquest\"?",
+      "options": ["Because the Muslims won a battle there", "Because the peace it brought opened the way for the message to spread", "Because Quraysh surrendered Makkah that day", "Because it gave the Muslims the Ka'bah"],
+      "answer": 1,
+      "why": "48:1. The terms looked like defeat, but the truce let people meet and hear the Quran freely; within two years Makkah opened almost without fighting."
+    },
+    {
+      "q": "Which verse did Abu Bakr recite when the Prophet ﷺ died?",
+      "options": ["\"This day I have perfected for you your religion\" (5:3)", "\"Muhammad is not but a messenger. [Other] messengers have passed on before him\" (3:144)", "\"Indeed, We have given you a clear conquest\" (48:1)", "\"Do not grieve; indeed Allah is with us\" (9:40)"],
+      "answer": 1,
+      "why": "Al-Bukhari reports that Abu Bakr said, \"whoever worshipped Allah, Allah is alive and does not die\", and recited 3:144, revealed after Uhud."
     }
   ],
-  "reflect": "The Quran calls the Prophet ﷺ an excellent pattern. Which one of his qualities would you most like to grow in yourself?",
-  "deeper": [
-    "2:142-150",
-    "8:5-19",
-    "3:121-175",
-    "33:9-27",
-    "48",
-    "24:11-20",
-    "33:28-34",
-    "9:25-27",
-    "110",
-    "68:4"
-  ],
+  "reflect": "The Quran calls the Prophet ﷺ an excellent pattern in the middle of a siege, not in a time of ease (33:21). Which of his qualities from these ten years, his consultation, his forgiveness at Makkah, his patience at the Trench, would you most like to grow in yourself?",
+  "deeper": ["2:142-150", "8:5-19", "3:121-175", "33:9-27", "48", "24:11-20", "9:25-27", "110", "68:4"],
   "links": [
-    {
-      "label": "Prophet Muhammad ﷺ: a biography",
-      "href": "/learn/prophet-muhammad-biography"
-    },
-    {
-      "label": "What is hadith?",
-      "href": "/learn/what-is-hadith"
-    },
-    {
-      "label": "Muhammad ﷺ on the timeline",
-      "href": "/timeline/prophets/muhammad"
-    },
-    {
-      "label": "Read Surah Al-Fath",
-      "href": "/surah/al-fath"
-    }
+    { "label": "Prophet Muhammad ﷺ: a biography", "href": "/learn/prophet-muhammad-biography" },
+    { "label": "What is hadith?", "href": "/learn/what-is-hadith" },
+    { "label": "Muhammad ﷺ on the timeline", "href": "/timeline/prophets/muhammad" },
+    { "label": "Read Surah Al-Fath", "href": "/surah/al-fath" }
   ],
-  "connections": [
-    13,
-    15,
-    28,
-    30
-  ],
+  "connections": [13, 15, 28, 30],
   "review": true,
   "status": "draft"
 }

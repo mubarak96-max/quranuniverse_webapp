@@ -1,6 +1,6 @@
 "use client";
 
-// The reflection note: saved on the device as the reader types; printed copies get ruled lines instead.
+// The reflection note: saved on the device as the reader types.
 import { useEffect, useState } from "react";
 import { patchDay, read } from "./progress";
 
@@ -17,8 +17,8 @@ export function Reflect({ day, prompt }: { day: number; prompt: string }) {
   }, [saved]);
 
   return (
-    <div className="rf">
-      <label htmlFor={`rf-${day}`} className="rf-prompt">
+    <div className="rx">
+      <label htmlFor={`rf-${day}`} className="rx-prompt">
         {prompt}
       </label>
       <textarea
@@ -32,14 +32,9 @@ export function Reflect({ day, prompt }: { day: number; prompt: string }) {
           setSaved(true);
         }}
       />
-      <span className="rf-saved" aria-live="polite">
+      <span className="rx-saved" aria-live="polite">
         {saved ? "Saved" : ""}
       </span>
-      <div className="rf-lines" aria-hidden="true">
-        {Array.from({ length: 6 }, (_, i) => (
-          <i key={i} />
-        ))}
-      </div>
     </div>
   );
 }

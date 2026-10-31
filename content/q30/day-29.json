@@ -2,96 +2,139 @@
   "day": 29,
   "title": "Character, Society and Creation",
   "question": "What does the Quran say makes a person truly noble?",
-  "emblem": "heart",
-  "intro": [
-    "Faith in the Quran is never only private. It shows in how you speak, how you treat the people around you, and how you walk on the earth. The surahs return again and again to manners: telling the truth, keeping promises, greeting well, asking before entering a home, holding back anger, forgiving.",
-    "A few passages gather much of this. Al-Isra 17:23-39 is a code of conduct, from honouring parents to walking without arrogance. Luqman's advice to his son (31:12-19) is a father's lesson in faith and humility. Al-Hujurat (49) protects people's honour within a community.",
-    "Today also widens the circle: to every race and language, to animals, and to the earth itself. It closes with the hardest manner of all: answering harm with something better (41:34)."
-  ],
-  "passages": [
+  "summary": "Faith that shows in conduct: parents, neighbours, the tongue, a father's advice, the equality of every race, answering harm with good, and care for animals and the earth.",
+  "cover": {
+    "alt": "Birds flying over a green oasis with palms and a still pool at sunset",
+    "prompt": "A small green oasis at sunset in a wide desert valley: date palms reflected in a still pool, a flock of birds crossing the orange sky, a few goats grazing in the shade, distant dunes glowing."
+  },
+  "chapters": [
     {
-      "ref": "31:17-19",
-      "context": "Luqman, a wise man honoured in the Quran (most scholars say not a prophet), advising his son.",
-      "point": "Faith in action: pray, enjoin good, forbid wrong, be patient. Then humility: no cheek turned in contempt, no swagger, a modest pace and a lowered voice.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Well, a Dog and a Leather Sock",
+      "blocks": [
+        { "p": "The Prophet ﷺ once told his companions about a man walking on a road in the heat, recorded by al-Bukhari and Muslim. Overcome by thirst, he found a well, climbed down and drank. When he came up, a dog was panting and licking the damp earth. The man thought: this dog is as thirsty as I was. He climbed back down, filled his leather sock with water, held it in his teeth as he climbed, and gave the dog a drink. \"Allah thanked him for it and forgave him.\"" },
+        { "image": "day-29-well", "alt": "A stone well beside a dusty road in harsh noon light, a thin dog resting in the shade of its wall", "caption": "\"In every living being there is a reward.\"", "prompt": "A low stone well by a dusty desert road under harsh noon sunlight, a coil of palm-fibre rope on its rim and a worn leather sock lying beside it, a thin dog lying in the narrow strip of shade against the well wall, heat haze over the empty road." },
+        { "p": "The companions were surprised. Is there a reward for us even in animals? \"In every living being there is a reward,\" he replied. The same collections preserve the reverse story: a woman who shut up a cat, neither feeding it nor letting it out to find its own food, until it died. She was punished for it." },
+        { "p": "These two reports are among the most loved in Muslim moral teaching because they move character out of the abstract. Kindness is not a mood; it is climbing down a well twice. The Quran gives the reason in a verse that quietly widens the circle of who counts." },
+        { "verse": "6:38" },
+        { "p": "\"Communities like you.\" Ibn Kathir and others explain it: every species is a nation with its own life, provision and order, known to Allah and gathered to Him. Character in the Quran begins with Allah and reaches outward, through parents and neighbours and strangers, to the birds. Malik and Ahmad report the Prophet ﷺ saying that he was sent to perfect noble character. Today follows that circle outward." }
+      ]
     },
     {
-      "ref": "49:12",
-      "context": "Al-Hujurat, Madinah: a surah of manners for a growing community.",
-      "point": "Three hidden harms are named: bad assumptions, spying and backbiting. Backbiting is pictured as eating a dead brother's flesh, something everyone finds repulsive.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Not Even \"Uff\"",
+      "blocks": [
+        { "p": "Al-Isra contains one of the Quran's great moral codes, 17:23-39, a run of commands from honouring parents to walking without arrogance. It begins by setting two things side by side." },
+        { "verse": "17:23-24" },
+        { "p": "Worship Allah alone, and to parents, *ihsan*. The second command follows the first without a pause, and many commentators note that the Quran pairs them repeatedly (4:36, 6:151, 31:14). The setting is specific: \"whether one or both of them reach old age [while] with you\". That is when parents become difficult: slow, forgetful, repeating themselves. The verse forbids even *uff*, the small sound of irritation. Then it gives an image: \"lower to them the wing of humility out of mercy\", like a bird lowering its wing over its young. The child who was once sheltered now shelters. The du'a that ends the verse remembers why: \"as they brought me up [when I was] small.\"" },
+        { "p": "The code continues: give relatives, the poor and the traveller their right (17:26). Do not kill your children for fear of poverty (17:31). Do not approach unlawful sex (17:32). Do not take life except by right (17:33). Guard the orphan's property, keep commitments, give full measure (17:34-35). Then a command that sounds strikingly modern: \"do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned\" (17:36). Rumour, half-knowledge and a confident opinion about what you never checked are moral failures, not intellectual ones." },
+        { "p": "It closes with posture: \"do not walk upon the earth exultantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height\" (17:37). A gentle mockery of the strut. However hard you stamp, the ground does not notice." }
+      ]
     },
     {
-      "ref": "49:13",
-      "context": "Addressed to all humanity, not only believers. 30:22 calls the variety of languages and colours a sign of Allah.",
-      "point": "Peoples and tribes exist so that we may know one another. Nobility before Allah is by righteousness, not by race, lineage or wealth.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Neighbour Farther Away",
+      "blocks": [
+        { "p": "If 17:23 begins the circle, 4:36 draws all of it in one breath." },
+        { "verse": "4:36" },
+        { "word": { "ar": "إِحْسَان", "tr": "iḥsān", "root": ["ح", "س", "ن"], "meaning": "Excellence; doing good beautifully", "nuance": "From *husn*, beauty. Ihsan is doing something well and giving more than is owed. 4:36 commands it toward parents, and 16:90 pairs it with justice. In the hadith of Jibril, in al-Bukhari and Muslim, ihsan is to worship Allah as if you see Him, and if you do not see Him, knowing that He sees you." } },
+        { "p": "The commentators linger over the neighbours. \"The near neighbour\", say al-Jalalayn and others, is near by home or by kinship; \"the neighbour farther away\" is distant in place or a stranger to you, and many early scholars included a neighbour of another faith. \"The companion at your side\" puzzled them in a fruitful way: some said a fellow traveller, some a colleague at work, some a spouse. All three readings point to the same truth. The people who sit beside you every day are the easiest to take for granted." },
+        { "p": "Al-Bukhari and Muslim report the Prophet ﷺ saying that Jibril kept advising him about the neighbour until he thought the neighbour would be made an heir. Another report in al-Bukhari has him swear three times, \"he does not believe\", and when asked who, he answers: the one whose neighbour is not safe from his harm." },
+        { "p": "The verse ends with a warning that looks like a change of subject but is not: \"Allah does not like those who are self-deluding and boastful.\" Arrogance is what breaks the circle. The boastful man has no neighbours, only an audience." },
+        { "p": "Surah an-Nur adds the smaller courtesies of a crowded community. Do not enter another's house \"until you ascertain welcome and greet their inhabitants\", and if told to go back, go back without offence (24:27-28). Return a greeting \"with one better than it or [at least] return it\" (4:86). Even manners are given a verse." }
+      ]
     },
     {
-      "ref": "6:38",
-      "context": "Al-Bukhari and Muslim report a woman punished for starving a cat, and a man forgiven for giving water to a thirsty dog.",
-      "point": "Animals and birds are communities like us, known to Allah and gathered to Him. 30:41 adds that human hands spread corruption on land and sea.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Father's Advice",
+      "blocks": [
+        { "p": "Surah Luqman is named after a wise man whose advice to his son the Quran preserves. Ibn Kathir notes that most early scholars considered him a righteous sage, not a prophet, and reports from Ibn 'Abbas and Sa'id ibn al-Musayyib that he was an African, a carpenter by some accounts, from Abyssinia or Nubia. The Quran gives no name to the son and no setting. Only a voice, speaking to a child." },
+        { "verse": "31:16-19" },
+        { "p": "Before these verses, Luqman starts with Allah: \"do not associate [anything] with Allah. Indeed, association [with him] is great injustice\" (31:13). Then the image of the mustard seed: the smallest wrong, hidden in a rock or in the heavens, will be brought out. Nothing is too small to matter, which also means no small good is wasted." },
+        { "p": "Then faith in action, in four verbs: pray, enjoin right, forbid wrong, be patient. And then something unexpected in a book of such weight: a lesson in body language. Do not turn your cheek away from people in contempt. The Arabic *la tusa''ir khaddaka* comes from *sa'ar*, a disease that twists a camel's neck sideways. Do not swagger. Keep a moderate pace. Lower your voice, \"indeed, the most disagreeable of sounds is the voice of donkeys\". A father who ends a lecture with a joke about donkeys knows how sons listen." },
+        { "p": "Woven into Luqman's words, the Quran adds its own voice about parents (31:14-15): the mother carried the child \"weakness upon weakness\"; be grateful to Allah and to your parents. Yet if they push you toward associating partners with Allah, do not obey, \"but accompany them in [this] world with appropriate kindness.\" Disagreement in faith does not cancel kindness." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The Flesh of a Dead Brother",
+      "blocks": [
+        { "p": "Surah al-Hujurat, revealed in Madinah as the community grew, protects something fragile: people's honour among one another. It works through a sequence of sins, each one quieter than the last." },
+        { "verse": "49:11-12" },
+        { "p": "First the loud ones: ridicule, insults, cruel nicknames. \"Perhaps they may be better than them\": the person you laugh at may stand higher with Allah. Then the quiet ones. *Avoid much assumption*, because some of it is sin. Do not spy, *la tajassasu*, digging for what others hide. And do not backbite. The verse then asks a question no reader forgets: would one of you like to eat the flesh of his dead brother? The dead cannot defend themselves; neither can the absent. \"You would detest it.\"" },
+        { "p": "Muslim records the definition the Prophet ﷺ gave: backbiting is mentioning your brother with something he dislikes. Asked, \"what if it is true?\", he said: if it is true, you have backbitten him; if it is not, you have slandered him. Scholars allow narrow exceptions: seeking justice from a judge, warning someone of real harm, asking advice about a marriage or partnership. Casual talk about other people's faults is not one of them." },
+        { "p": "Earlier in the surah comes a rule for anyone who reads the news: \"if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance\" (49:6). Commentators link it to a false report that nearly led to an attack on a tribe. The Quran asked people to check their sources fourteen centuries before anyone forwarded a message." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Is Anyone Born Better?",
+      "blocks": [
+        { "p": "Every society ranks people: by tribe, colour, caste, accent, passport. Seventh-century Arabia ranked by lineage, and the Arabs looked down on non-Arabs. Against this, one verse is addressed not to believers but to all humanity." },
+        { "verse": "49:13" },
+        { "p": "The verse grants that differences are real: \"peoples and tribes\". It gives them a purpose, \"that you may know one another\", not that you may rank one another. And it moves nobility to the one place no one can inherit it: *taqwa*, mindfulness of Allah, which only Allah can measure. Elsewhere the Quran lists the variety of \"your languages and your colors\" among the signs of Allah, alongside the creation of the heavens and earth (30:22). Diversity is not a problem to be managed. It is something to be read." },
+        { "p": "The tradition made this concrete. The biographies report that when Makkah was opened, the Prophet ﷺ had Bilal, a black former slave, climb onto the roof of the Ka'bah to call the adhan while the chiefs of Quraysh watched. In his farewell sermon, as reported by Ahmad, the Prophet ﷺ declared that no Arab is better than a non-Arab, nor white than black, except by taqwa. And Ibn Kathir records that when a black man came to the great scholar Sa'id ibn al-Musayyib upset about his colour, Sa'id told him that among the best of people were three black men: Bilal, Mahja', and Luqman the Wise." },
+        { "p": "The honest objection: Muslim societies have had racism, slavery and tribalism too, and still do. That is true, and the Quran does not deny that people fail its teaching. But it gives every Muslim a standard to judge his own community by, in words he recites in prayer. A believer who looks down on another for his colour is not following his culture's version of Islam. He is contradicting 49:13." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Repel Evil With What Is Better",
+      "blocks": [
+        { "p": "Every code of manners covers how to treat people who treat you well. The Quran's hardest teaching is about the others." },
+        { "verse": "41:34-35" },
+        { "p": "\"Repel [evil] by that [deed] which is better.\" Not merely by its equal, which the law permits (42:40), but by something better. And the promise is startling: the enemy becomes \"as though he was a devoted friend.\" The next verse admits how rare this is: only the patient are granted it, and those with \"a great portion\" of good." },
+        { "p": "Al-Bukhari and Muslim record what the Prophet ﷺ told 'Aishah about the hardest thing he had suffered from his people: the day he was rejected at Ta'if. The biographies add that he was driven out with stones until his feet bled. An angel came and offered to bring the two mountains down on the town. He refused, saying he hoped that from their descendants Allah would bring people who would worship Him alone. When 'Aishah was asked about his character, she answered, as Muslim records: his character was the Quran. The Quran itself says, \"indeed, you are of a great moral character\" (68:4)." },
+        { "p": "Most of us will never face Ta'if. We face a cold email, a relative's old grudge, a stranger's rudeness in a queue. The servants of the Most Merciful, says 25:63, are those who walk gently, and \"when the ignorant address them [harshly], they say [words of] peace.\" The righteous \"restrain anger and... pardon the people\" (3:134). Restraining is the first step; pardoning is the second; doing good to the one who harmed you is the summit. Few reach it in a day. The verse is patient with us too." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Walking Gently on the Earth",
+      "blocks": [
+        { "p": "The last circle is the earth itself. The Quran sets humanity within a created balance: Allah \"raised\" the heaven and \"imposed the balance, that you not transgress within the balance\" (55:7-8). And it names what happens when that balance is broken." },
+        { "verse": "30:41" },
+        { "p": "\"What the hands of people have earned.\" Classical commentators read it as drought and scarcity following sin; many readers today also hear in it the damage human greed does to land and sea. Either way, the verse makes harm to the world a moral matter. \"Eat and drink, but be not excessive\" (7:31), and of the harvest, \"give its due... and be not excessive\" (6:141)." },
+        { "list": [
+          "**Water.** Al-Bukhari and Muslim report that the Prophet ﷺ made his ablution with about a *mudd*, roughly two handfuls, and bathed with a *sa'*, a few litres. Many Muslims try to wash for prayer without letting the tap run.",
+          "**Planting.** Ahmad and al-Bukhari, in *al-Adab al-Mufrad*, report the Prophet ﷺ saying that if the Final Hour comes while one of you holds a palm sapling, he should plant it if he can.",
+          "**Animals.** Muslim law forbids overloading a beast, branding its face or using a living creature as a target, all from hadith. Halal slaughter requires a sharp blade, and jurists disliked slaughtering one animal in sight of another.",
+          "**Greetings and visits.** A Muslim answers *as-salamu 'alaykum* with *wa 'alaykum as-salam wa rahmatullah*, a better greeting as 4:86 asks, and knocks and waits before entering (24:27).",
+          "**The tongue.** Many Muslims leave a conversation that turns to backbiting, or quietly defend the one being discussed."
+        ] },
+        { "p": "If you are not Muslim, these may explain a few things: the neighbour who arrives with food when you move in, the friend who will not join in gossip about a colleague, the care someone takes over a stray cat. They are not personality quirks. They are 4:36 and 49:12, lived in a street." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "rings",
-    "title": "The circles of 4:36",
-    "caption": "4:36 begins with worshipping Allah alone, then moves outward through everyone owed good treatment, and ends with a warning against the self-deluded and boastful.",
-    "center": "Allah",
-    "items": [
-      { "label": "Parents", "text": "Do good to them.", "ref": "17:23" },
-      { "label": "Relatives", "text": "Kinship carries rights." },
-      { "label": "Orphans", "text": "Protect their care and their wealth.", "ref": "17:34" },
-      { "label": "The needy", "text": "Those who cannot meet their needs." },
-      { "label": "Near neighbour", "text": "Close by home or by kinship, say commentators." },
-      { "label": "Distant neighbour", "text": "Farther away, or a stranger to you." },
-      { "label": "Companion at your side", "text": "A fellow traveller, colleague or spouse, say commentators." },
-      { "label": "The traveller", "text": "Anyone far from home and in need." },
-      { "label": "Those in your keeping", "text": "Literally \"those your right hands possess\"." }
-    ]
-  },
-  "word": {
-    "ar": "إِحْسَان",
-    "tr": "iḥsān",
-    "root": ["ح", "س", "ن"],
-    "meaning": "Excellence; doing good beautifully",
-    "nuance": "From husn, beauty. Ihsan is doing a thing well and giving more than is owed. 4:36 commands ihsan to parents, and 16:90 pairs it with justice. In a hadith in al-Bukhari and Muslim, it is to worship Allah as if you see Him, knowing that He sees you.",
-    "refs": ["4:36", "16:90"]
-  },
-  "mixup": {
-    "myth": "Backbiting is only wrong if what you say is untrue.",
-    "truth": "A hadith in Muslim defines backbiting as mentioning your brother with what he dislikes. If it is true, it is backbiting; if it is false, it is slander, which is worse. Scholars allow narrow exceptions, such as seeking justice or warning someone of real harm, but 49:12 rules out casual talk about other people's faults.",
-    "refs": ["49:12", "49:11"]
-  },
-  "remember": [
-    "Good character joins the worship of Allah with doing good to parents, kin, neighbours and strangers (4:36).",
-    "Guard people's honour: no mockery, suspicion, spying or backbiting (49:11-12).",
-    "No race or tribe is nobler than another, and animals and the earth are in our care too (49:13, 6:38, 30:41)."
-  ],
-  "memorize": "41:34",
+  "carry": "41:34",
   "quiz": [
     {
-      "q": "According to 49:13, who is the most noble in the sight of Allah?",
-      "options": ["The wealthiest", "The most righteous", "The best born", "The most learned"],
+      "q": "According to 49:13, why were people made into peoples and tribes?",
+      "options": ["So that some could rule others", "That they may know one another", "So that each could keep apart", "To show which lineage is best"],
       "answer": 1,
-      "why": "49:13: \"the most noble of you in the sight of Allah is the most righteous of you.\""
+      "why": "49:13: \"We... made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you.\""
     },
     {
-      "q": "When you are greeted, what does 4:86 ask of you?",
-      "options": ["Reply only if you know them", "Stay silent", "Reply with a better greeting, or at least the same"],
-      "answer": 2,
-      "why": "4:86: \"greet [in return] with one better than it or [at least] return it [in a like manner].\""
-    },
-    {
-      "q": "In Luqman's advice (31:19), what should a person lower?",
-      "options": ["Their voice", "Their prices", "Their head"],
+      "q": "In 17:23, what is a person told not to say to parents in old age?",
+      "options": ["Even \"uff\", a small sound of irritation", "Anything about money", "Any word of advice", "Anything in a loud voice only"],
       "answer": 0,
-      "why": "31:19: \"be moderate in your pace and lower your voice.\""
+      "why": "17:23: \"say not to them [so much as], 'uff,' and do not repel them but speak to them a noble word.\" 17:24 adds the image of lowering the wing of humility."
+    },
+    {
+      "q": "What picture does 49:12 use for backbiting?",
+      "options": ["Stealing a neighbour's bread", "Breaking a jar of water", "Eating the flesh of one's dead brother", "Throwing stones at a house"],
+      "answer": 2,
+      "why": "49:12: \"Would one of you like to eat the flesh of his brother when dead? You would detest it.\" The absent, like the dead, cannot defend themselves."
+    },
+    {
+      "q": "What does 41:34 say can happen when evil is repelled with what is better?",
+      "options": ["The enemy will be defeated", "Nothing will change", "One will be praised by people", "An enemy may become as though a devoted friend"],
+      "answer": 3,
+      "why": "41:34: \"Repel [evil] by that [deed] which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend.\""
     }
   ],
-  "reflect": "Which single habit from today, such as a warmer greeting or holding back a comment, could you practise this week?",
-  "deeper": ["17:23-39", "31:12-16", "49:6-11", "4:86", "24:27-28", "3:134", "41:34-35", "25:63-76", "61:2-3", "7:31", "30:41", "16:90"],
+  "reflect": "Choose one circle of 4:36 (a parent, a neighbour, the colleague beside you, a stranger) and one action from today. What will you do, and when?",
+  "deeper": ["17:23-39", "31:12-16", "49:6-11", "4:86", "24:27-28", "3:134", "41:34-35", "25:63-76", "61:2-3", "7:31", "30:41", "16:90", "55:1-13"],
   "links": [
     { "label": "Read Surah Luqman", "href": "/surah/luqman" },
     { "label": "Read Surah Al-Hujurat", "href": "/surah/al-hujurat" },

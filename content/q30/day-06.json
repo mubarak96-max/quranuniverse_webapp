@@ -1,127 +1,151 @@
 {
   "day": 6,
   "title": "Prophethood and Scriptures",
-  "question": "Why would Allah send people to speak for Him?",
-  "emblem": "scroll",
-  "intro": [
-    "The Quran says every nation was sent a messenger (16:36), each speaking his people's language (14:4). Their message was the same at its core: worship Allah alone. Their laws differed by time and place.",
-    "Twenty-five prophets are named in the Quran, from Adam to Muhammad ﷺ. Many more are not named to us (40:78). Some brought scriptures: the scrolls of Ibrahim and Musa, the Tawrah, the Zabur of Dawud, the Injil of 'Isa, and finally the Quran. Their miracles, from the staff to healing the sick, came only by Allah's permission.",
-    "Scholars commonly distinguish a nabi, a prophet who receives revelation, from a rasul, a messenger sent with a mission. Five are commonly counted as \"those of determination\" (46:35). Muhammad ﷺ is called the last of the prophets."
-  ],
-  "passages": [
+  "question": "Why would Allah send human beings to speak for Him?",
+  "summary": "Why the Quran insists on human messengers, what it says about the prophets and the books before it, and what it means to call Muhammad ﷺ the seal of the prophets.",
+  "cover": {
+    "alt": "An ancient caravan track winding over low hills toward a pale dawn under fading stars",
+    "prompt": "An ancient caravan track winding across a chain of low desert hills at first light, the last stars fading in a deep blue sky and a pale gold glow rising on the far horizon."
+  },
+  "chapters": [
     {
-      "ref": "16:36",
-      "context": "From an-Nahl, a Makkan surah. It follows the claim in 16:35 that if Allah had willed, people would never have worshipped others.",
-      "point": "No nation was left without a messenger, and the message was always one: worship Allah and avoid false gods (taghut).",
-      "label": "stated"
+      "lens": "reason",
+      "title": "Why Not an Angel, or a Book from the Sky?",
+      "blocks": [
+        { "p": "Suppose there is a God, and He wants to be known. Why route the message through a man who eats, sleeps and can be mocked in the street? Why not send an angel no one could argue with? The objection is not modern. The Quran records it from the Prophet's ﷺ own listeners." },
+        { "verse": "25:7" },
+        { "p": "The first answer: others asked it before. \"We did not send before you any of the messengers except that they ate food and walked in the markets\" (25:20). The People of the Book, Jews and Christians, asked Muhammad ﷺ to bring down a book from heaven, and the Quran points out that their ancestors had asked Musa for something greater, to see Allah outright (4:153). A visible miracle on demand has never been the cure for disbelief." },
+        { "p": "The second answer is sharper. An angel in his true form would end the test, not begin it: \"if We had sent down an angel, the matter would have been decided\" (6:8). And if Allah had sent an angel to live among people, \"We would have made him [appear as] a man\" (6:9), and the same doubts would return. The Quran then gives the principle behind all of it:" },
+        { "verse": "17:94-95" },
+        { "p": "A messenger is not a loudspeaker. He is the message lived out. People do not learn patience or forgiveness from a voice in the sky; they learn it from someone who is insulted and still patient, grieving and still praying. An angel cannot show a tired father how to keep his temper. A human being can." },
+        { "p": "There is a third answer, about justice. Messengers came \"so that mankind will have no argument against Allah after the messengers\" (4:165), and no one is punished for a message that never reached them (17:15). Prophethood is mercy and fairness at once." }
+      ]
     },
     {
-      "ref": "4:163-164",
-      "context": "Madinan. It answers those who demanded a book sent down from the sky (4:153).",
-      "point": "Revelation to Muhammad ﷺ is like that to Nuh and those after him. Some messengers are named to us, others are not, and Dawud was given the Zabur (Psalms).",
-      "label": "stated"
+      "lens": "text",
+      "title": "Into Every Nation, in Every Tongue",
+      "blocks": [
+        { "verse": "16:36" },
+        { "p": "The first is about reach. *Kulli ummah*, every nation, every community. The Quran does not say that guidance came only to Arabia and the lands of Israel. Elsewhere it repeats the point: \"there was no nation but that there had passed within it a warner\" (35:24), and \"for every nation is a messenger\" (10:47). Many Muslim scholars draw the consequence: there may have been prophets in lands whose names the Quran never mentions." },
+        { "p": "Notice also the two halves of the message. \"Worship Allah\" is the positive command. \"Avoid *taghut*\" is the negative one: *taghut*, from a root meaning to overflow its limits, is anything worshipped or obeyed in place of Allah, whether an idol, a tyrant or a desire. Every prophet, the verse says, brought both." },
+        { "verse": "14:4" },
+        { "p": "The second verse is about language. A messenger speaks *bi-lisani qawmihi*, in the tongue of his own people, \"to state clearly for them\". Revelation meets people where they are: the Quran came \"in a clear Arabic language\" (26:195) because its first audience was Arab." },
+        { "verse": "21:25" },
+        { "p": "The third verse is about content, and it is the core. Whatever else differed between prophets, the centre never moved: there is no god but Allah, so worship Him. The Quran is equally clear that laws did differ. \"To each of you We prescribed a law and a method\" (5:48). The Prophet ﷺ put the two ideas together in a striking image recorded by al-Bukhari: the prophets are like brothers who share one father and have different mothers. Their religion is one; their particular laws, suited to their times, vary." }
+      ]
     },
     {
-      "ref": "6:84-86",
-      "context": "Follows Ibrahim's argument with his people (6:74-83). 6:90 tells the Prophet ﷺ to follow their guidance.",
-      "point": "Eighteen of the twenty-five named prophets appear here together, as one family of guidance across generations.",
-      "label": "stated"
+      "lens": "story",
+      "title": "An Old Man Who Recognised the Visitor",
+      "blocks": [
+        { "p": "Makkah, around the year 610. A man of forty has come down from a cave on the Mountain of Light, shaking, asking to be wrapped in a cloak. He has seen something he cannot explain. His wife Khadijah calms him, and then does something wise: she takes him to someone who knows about scripture." },
+        { "p": "That someone is her cousin, Waraqah ibn Nawfal. The account in Sahih al-Bukhari, narrated by 'A'ishah, describes him as a man who had become a Christian before Islam, who wrote in Hebrew and copied from the Gospel, and who by then was very old and blind." },
+        { "image": "day-06-lamp", "alt": "An oil lamp burning beside parchment scrolls in a mud-brick room at night", "caption": "Waraqah had spent a lifetime among the earlier scriptures.", "prompt": "A small mud-brick room at night in old Makkah, a single clay oil lamp burning on a low wooden stand beside a pile of rolled parchment scrolls and an open leather-bound book, warm light on rough walls." },
+        { "p": "His answer, as the report preserves it, is astonishing. He tells Muhammad ﷺ that this is the *Namus*, the keeper of divine secrets, the same angel Allah had sent to Musa. He wishes he were young, so that he could be alive when the Prophet's ﷺ people drive him out. The Prophet ﷺ is startled: will they really drive me out? Yes, says Waraqah. No man has ever come with anything like what you have brought without being met with hostility. Waraqah died soon afterwards." },
+        { "p": "In one short exchange, the whole of today's theme is present. The first person outside the Prophet's ﷺ household to hear of the revelation placed it at once in a line: the same angel, the same kind of mission, the same fate of rejection that earlier prophets had suffered. Muhammad ﷺ was not being told he had founded something new. He was being told he had joined something very old, and the Quran would spend twenty-three years filling in that line." }
+      ]
     },
     {
-      "ref": "33:40",
-      "context": "Revealed about Zayd ibn Harithah, whom the Prophet ﷺ had adopted before adoption was ended (33:4-5, 33:37).",
-      "point": "Muhammad ﷺ is the Messenger of Allah and the seal, the last, of the prophets. No prophet comes after him.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Twenty-Five Names and Countless Others",
+      "blocks": [
+        { "p": "The Quran names twenty-five prophets. Eighteen of them appear together in one passage of Surah al-An'am, a roll call that follows Ibrahim's argument with his people:" },
+        { "verse": "6:84-86" },
+        { "p": "The others, Adam, Idris, Hud, Salih, Shu'ayb, Dhul-Kifl and Muhammad ﷺ, are named elsewhere. But the Quran is explicit that the list is not complete: \"Among them are those [whose stories] We have related to you, and among them are those [whose stories] We have not related to you\" (40:78). A report in the Musnad of Ahmad puts the number of prophets at 124,000; scholars of hadith debate the strength of its chains, and many treat the figure with caution. Far more were sent than are named." },
+        { "word": { "ar": "رَسُول", "tr": "rasūl", "root": ["ر", "س", "ل"], "meaning": "Messenger; one who is sent", "nuance": "From *arsala*, to send. A *rasul* is someone dispatched with a message, and the same root gives *risalah*, the message itself. Its companion word *nabi*, prophet, comes from *naba'*, weighty news. The Quran uses both side by side in 22:52, which most scholars take to mean they are not identical." } },
+        { "p": "So what is the difference? The most common view among scholars is that every messenger is a prophet but not every prophet is a messenger. A *nabi* receives revelation; a *rasul* is, in addition, sent to a people, often with a new scripture or law. Others draw the line differently, and the Quran gives no technical definition." },
+        { "p": "Among the messengers, the Quran singles out some. It tells the Prophet ﷺ to be patient \"as were those of determination among the messengers\" (46:35), *ulul-'azm*. Two verses name five together, Nuh, Ibrahim, Musa, 'Isa and Muhammad ﷺ (33:7, 42:13), and most scholars identify these five as the people of determination. The Quran also says plainly that Allah \"made some of the prophets exceed others\" (17:55). Yet believers are told to make no distinction between them in faith (2:136). Scholars reconcile the two: Allah may raise ranks, but believers accept every one of them equally as true." },
+        { "figure": { "kind": "facts", "title": "The prophets in the Quran", "items": [{ "value": "25", "label": "prophets named in the Quran" }, { "value": "18", "label": "named together in 6:83-86" }, { "value": "5", "label": "messengers of determination" }, { "value": "1", "label": "the seal, Muhammad ﷺ" }] } }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "Scrolls, Torah, Psalms, Gospel, Quran",
+      "blocks": [
+        { "p": "Some prophets were given books. The Quran names five revelations by name, and it speaks of each with respect." },
+        { "verse": "87:18-19" },
+        { "p": "The scrolls, *suhuf*, of Ibrahim and Musa are mentioned again in Surah an-Najm, which quotes one of their teachings: \"no bearer of burdens will bear the burden of another\" (53:38)." },
+        { "p": "The Torah, *at-Tawrah*, was given to Musa: \"in which was guidance and light\", and by which the prophets after him judged (5:44). The Psalms, *az-Zabur*, were given to Dawud (4:163). The Gospel, *al-Injil*, was given to 'Isa, again described as \"guidance and light\", confirming the Torah before it (5:46). Note the singular: for the Quran, the Injil is the revelation given to 'Isa himself, not a later collection of writings about him." },
+        { "verse": "5:48", "from": "And We have revealed to you", "to": "a criterion over it." },
+        { "p": "Then comes the Quran, described with two words. *Musaddiq*, confirming: it affirms that these books came from Allah. And *muhaymin*, which Sahih International renders \"criterion\": a guardian, a witness, a trustee watching over what came before. Ibn Kathir and other commentators explain that the Quran confirms what remains true in the earlier scriptures and judges what was altered. It does not replace their origin; it guards it." },
+        { "figure": { "kind": "timeline", "title": "The revealed books, as the Quran names them", "items": [{ "at": "Ibrahim", "label": "The scrolls of Ibrahim", "text": "Mentioned in 87:19 and 53:37" }, { "at": "Musa", "label": "The scrolls and the Torah", "text": "Guidance and light (5:44)" }, { "at": "Dawud", "label": "The Zabur, the Psalms", "text": "4:163, 17:55" }, { "at": "'Isa", "label": "The Injil, the Gospel", "text": "Confirming the Torah (5:46)" }, { "at": "Muhammad ﷺ", "label": "The Quran", "text": "Confirming and guarding what came before (5:48)" }] } }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "What Became of the Earlier Books?",
+      "blocks": [
+        { "p": "If the Torah and the Gospel are from Allah, why do Muslims not simply read them as scripture? Because the Quran also says that something happened to them in human hands. It speaks of people who \"distort words from their [proper] usages\" (4:46), and it is blunt about forgery:" },
+        { "verse": "2:79" },
+        { "p": "The Arabic term for this is *tahrif*, alteration. Muslims believe the original revelations were true, and that what survives today mixes that original with human additions, losses and interpretations." },
+        { "note": "Scholars have long discussed what kind of alteration the Quran means. Some early authorities, including views reported from Ibn 'Abbas, emphasised *tahrif al-ma'na*, twisting the meaning and interpretation while the words largely remained. Others, especially later scholars such as Ibn Hazm, argued that the text itself had been changed in places. Many held a middle view: both happened, to different degrees. All agree the Quran is the measure for judging the earlier books.", "title": "Where scholars differ" },
+        { "p": "This shaped a famous instruction. Al-Bukhari reports that the People of the Book used to read the Torah in Hebrew and explain it in Arabic to the Muslims, and the Prophet ﷺ told his companions: do not believe them and do not disbelieve them, but say, \"We believe in Allah and what was revealed to us.\" The ruling is careful. What agrees with the Quran is accepted; what contradicts it is rejected; what neither confirms nor denies is left suspended." },
+        { "p": "That suspended category has a name you will meet again in this course: *Isra'iliyyat*, details drawn from Jewish and Christian lore. Early commentators often quoted them to fill gaps in the Quran's stories: the name of a king, the length of a ship. Ibn Kathir repeats many while warning that they prove nothing. When the coming days tell the stories of Nuh, Ibrahim, Yusuf and Musa, details from that lore will be marked as such." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Signs by Permission, and the Sign That Remains",
+      "blocks": [
+        { "p": "A sceptic might press further. The prophets, the Quran says, split seas and healed the blind. Why should anyone today believe stories of miracles no one alive has seen? And if Muhammad ﷺ was a prophet, where is his staff, his parted sea?" },
+        { "p": "The Quran's first move is to deny that miracles belonged to the prophets at all. \"It was not for any messenger to bring a sign except by permission of Allah\" (40:78), and the same sentence appears again in 13:38. A prophet is not a magician with powers of his own; the sign is Allah's act, given when He wills. This is why the Quran repeatedly has prophets refuse to perform on demand." },
+        { "p": "Its second move is to notice what kind of sign each age received. Scholars often observe that Musa came to a people who prized magic, and his staff outdid their magicians; 'Isa came among people who prized healing, and he healed by Allah's permission. The Prophet ﷺ came to a people whose highest art was language. His central sign was a text." },
+        { "p": "The Prophet ﷺ said this himself in a hadith in al-Bukhari: every prophet was given signs because of which people believed, but what he had been given was revelation that Allah inspired to him, and so he hoped to have the most followers on the Day of Resurrection. The logic is plain. A parted sea convinces those who stand on its shore. A book can be examined by every generation that follows. Muslims believe that this is the sign still on the table: the challenge to produce anything like it (2:23) has been open for fourteen centuries." },
+        { "p": "None of this removes the need for faith; no argument makes a miracle visible to someone who was not there. What the Quran offers is a coherent picture: signs belong to Allah, each fitted to its people, and the final one made to last." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "The Last Brick in the House",
+      "blocks": [
+        { "verse": "33:40" },
+        { "p": "The context is surprising. This verse was revealed about Zayd ibn Harithah, a freed slave the Prophet ﷺ had adopted before the Quran abolished adoption as a legal tie of kinship (33:4-5). People still called Zayd \"son of Muhammad\". The verse corrects them, and then, in a single clause, closes a door that will stay closed until the end of time: Muhammad ﷺ is *khatam an-nabiyyin*, the seal of the prophets." },
+        { "p": "A *khatam* is a seal, the stamp pressed onto a letter once it is complete. Some of the canonical readings of the Quran have *khatim*, the one who seals or concludes. Al-Jalalayn notes both readings and draws the same meaning from each: prophethood ended with him. Muslims also believe that when 'Isa returns before the end of time, as authentic hadith report, he will come as a follower of this final message, not as a new prophet bringing a new law." },
+        { "p": "The Prophet ﷺ gave an image for it, narrated in both al-Bukhari and Muslim. The prophets before him were like a man who built a fine house, beautiful and complete except for a space where one brick was missing in a corner. People walked around it, admiring it and asking why that brick had not been set. \"I am that brick,\" he said, \"and I am the seal of the prophets.\"" },
+        { "p": "Notice the humility of the picture. He is not the whole house, only the brick that completes a building others raised over thousands of years. The final prophet does not erase the earlier ones. He finishes their work." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Peace upon Them, Every One",
+      "blocks": [
+        { "p": "Surah as-Saffat tells the stories of several prophets and closes each with the same kind of blessing: \"Peace upon Noah among the worlds\" (37:79), \"Peace upon Abraham\" (37:109), \"Peace upon Moses and Aaron\" (37:120). The surah ends with a line for all of them: \"And peace upon the messengers\" (37:181). Muslims have turned this into a habit of speech." },
+        { "list": ["When a Muslim mentions any prophet he adds *'alayhi as-salam*, \"peace be upon him\". For Muhammad ﷺ the blessing is fuller: *sallallahu 'alayhi wa sallam*, written ﷺ.", "Muslim families name their children Musa, 'Isa, Ibrahim, Yusuf and Maryam. A Muslim called Yusuf is named Joseph.", "Belief in all the prophets and revealed books is among the six articles of faith. To reject Musa or 'Isa would be to leave Islam."] },
+        { "p": "The Quran does not present Islam as a religion that began in the seventh century. It presents *islam*, submission to Allah, as the religion of every prophet from the first, and Muhammad ﷺ as its final messenger. The believers' creed at the end of Surah al-Baqarah says it in one breath:" },
+        { "verse": "2:285" },
+        { "p": "Many Muslims recite the last two verses of al-Baqarah at night, following a hadith in al-Bukhari that whoever does so will find them sufficient. They end with a prayer. Make it your own today: *\"Our Lord, and lay not upon us a burden like that which You laid upon those before us\" (2:286)*, a request that remembers, even while praying, all the communities that came before." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "tree",
-    "title": "The named prophets' family lines",
-    "caption": "Lines show descent over many generations, following well-known genealogies; the Quran itself confirms only some links. Highlighted are the five commonly counted as \"those of determination\" (33:7, 42:13, 46:35).",
-    "label": "explained",
-    "items": [
-      { "id": "adam", "label": "Adam" },
-      { "id": "idris", "label": "Idris", "parent": "adam" },
-      { "id": "nuh", "label": "Nuh", "parent": "adam", "mark": true, "ref": "33:7" },
-      { "id": "hud", "label": "Hud", "parent": "nuh", "text": "Sent to 'Ad" },
-      { "id": "salih", "label": "Salih", "parent": "nuh", "text": "Sent to Thamud" },
-      { "id": "ibrahim", "label": "Ibrahim", "parent": "nuh", "mark": true, "ref": "33:7" },
-      { "id": "lut", "label": "Lut", "parent": "nuh", "text": "Ibrahim's nephew, who believed him", "ref": "29:26" },
-      { "id": "ismail", "label": "Isma'il", "parent": "ibrahim" },
-      { "id": "muhammad", "label": "Muhammad ﷺ", "parent": "ismail", "mark": true, "ref": "33:40" },
-      { "id": "shuayb", "label": "Shu'ayb", "parent": "ibrahim", "text": "Sent to Madyan" },
-      { "id": "ishaq", "label": "Ishaq", "parent": "ibrahim" },
-      { "id": "ayyub", "label": "Ayyub", "parent": "ishaq" },
-      { "id": "yaqub", "label": "Ya'qub", "parent": "ishaq" },
-      { "id": "yusuf", "label": "Yusuf", "parent": "yaqub" },
-      { "id": "musa", "label": "Musa", "parent": "yaqub", "mark": true, "ref": "33:7" },
-      { "id": "harun", "label": "Harun", "parent": "yaqub", "text": "Musa's brother" },
-      { "id": "ilyas", "label": "Ilyas", "parent": "yaqub" },
-      { "id": "alyasa", "label": "Al-Yasa'", "parent": "yaqub" },
-      { "id": "yunus", "label": "Yunus", "parent": "yaqub" },
-      { "id": "dhulkifl", "label": "Dhul-Kifl", "parent": "yaqub", "text": "Line uncertain" },
-      { "id": "dawud", "label": "Dawud", "parent": "yaqub" },
-      { "id": "sulayman", "label": "Sulayman", "parent": "dawud" },
-      { "id": "zakariya", "label": "Zakariya", "parent": "yaqub" },
-      { "id": "yahya", "label": "Yahya", "parent": "zakariya" },
-      { "id": "isa", "label": "'Isa", "parent": "yaqub", "mark": true, "text": "Through his mother Maryam", "ref": "33:7" }
-    ]
-  },
-  "word": {
-    "ar": "رِسَالَة",
-    "tr": "risālah",
-    "root": ["ر", "س", "ل"],
-    "meaning": "Messengership; the message entrusted to a messenger",
-    "nuance": "A rasul is one who is sent (arsala, to send). A nabi is one given news from Allah. Most scholars say every messenger is a prophet but not every prophet is a messenger; 22:52 mentions both. \"Allah is most knowing of where He places His message\" (6:124).",
-    "refs": ["22:52", "6:124"]
-  },
-  "mixup": {
-    "myth": "Islam began with Muhammad ﷺ, and the earlier prophets belong to other religions.",
-    "truth": "The Quran presents one message carried by every messenger: worship Allah alone (21:25). Muslims are told to believe in all of them without making distinctions (2:136), including Ibrahim, Musa and 'Isa. Muhammad ﷺ is the last of that line, not the first (33:40).",
-    "refs": ["21:25", "2:136"]
-  },
-  "remember": [
-    "Every nation received a messenger, and the core message was always tawhid (16:36).",
-    "25 prophets are named and many more are not (40:78). Five are known as ulul-'azm.",
-    "Scrolls, Tawrah, Zabur, Injil, then the Quran; Muhammad ﷺ is the last prophet (33:40)."
-  ],
-  "memorize": "21:25",
+  "carry": "21:25",
   "quiz": [
     {
-      "q": "Which scripture does 4:163 say was given to Dawud?",
-      "options": [
-        "The Tawrah",
-        "The Injil",
-        "The Zabur",
-        "The Scrolls"
-      ],
-      "answer": 2,
-      "why": "4:163: \"and to David We gave the book [of Psalms]\", the Zabur. 87:19 mentions the scrolls of Ibrahim and Musa, and 5:46 the Injil given to 'Isa."
-    },
-    {
-      "q": "What does 40:78 tell us about the messengers?",
-      "options": [
-        "Some of their stories are told to us, some are not",
-        "All of them are named in the Quran",
-        "There were exactly twenty-five"
-      ],
-      "answer": 0,
-      "why": "40:78 and 4:164: some messengers' stories are related and some are not. The twenty-five are only those the Quran names."
-    },
-    {
-      "q": "What does 33:40 call Muhammad ﷺ?",
-      "options": [
-        "The first of the prophets",
-        "The last of the prophets",
-        "The father of one of your men",
-        "An angel sent as a man"
-      ],
+      "q": "According to 6:8-9, why did Allah not send an angel as His messenger to humanity?",
+      "options": ["Angels cannot speak human languages", "An angel would end the test, and would have to appear as a man anyway", "Angels are not allowed on earth", "People had already rejected angels before"],
       "answer": 1,
-      "why": "33:40: \"Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets.\""
+      "why": "6:8 says that if an angel were sent down \"the matter would have been decided\", and 6:9 that he would have been made to appear as a man. 17:95 adds that a messenger is sent in the form of those he addresses."
+    },
+    {
+      "q": "What does the Quran say about the number of prophets?",
+      "options": ["Exactly twenty-five were sent", "Only prophets to Arabia and Israel are real", "Some are named to us and many are not", "There were 124,000, all named"],
+      "answer": 2,
+      "why": "40:78 and 4:164: some messengers' stories are related and others are not. Twenty-five are named; every nation had a messenger (16:36)."
+    },
+    {
+      "q": "What does the word *muhaymin* in 5:48 say about the Quran's relation to earlier scriptures?",
+      "options": ["It cancels them as if they never came from Allah", "It confirms their origin and guards over them as a witness and judge", "It is a summary of them", "It is equal to them in every way"],
+      "answer": 1,
+      "why": "5:48 calls the Quran confirming what came before and *muhaymin* over it: a guardian that confirms what is true and judges what was altered."
+    },
+    {
+      "q": "In the hadith of the house with one brick missing, what is the Prophet ﷺ saying about himself?",
+      "options": ["That he built the whole house alone", "That earlier prophets left their work unfinished by mistake", "That he completes the work of the prophets before him and is the last of them", "That the house will be rebuilt by later prophets"],
+      "answer": 2,
+      "why": "In al-Bukhari and Muslim he says, \"I am that brick, and I am the seal of the prophets\", matching 33:40."
     }
   ],
-  "reflect": "Which prophet's story do you most want to know better, and what draws you to him?",
-  "deeper": ["2:136", "42:13", "46:35", "33:7", "14:4", "87:18-19", "5:44-48", "40:78"],
+  "reflect": "Every prophet, the Quran says, lived the message as well as spoke it. Who in your own life taught you more by how they lived than by anything they said, and what did they teach you?",
+  "deeper": ["2:136", "42:13", "46:35", "33:7", "14:4", "87:18-19", "5:44-48", "40:78", "3:81", "6:83-90"],
   "links": [
     { "label": "Prophets in the Quran", "href": "/learn/prophets-in-the-quran" },
     { "label": "The Prophet Muhammad ﷺ", "href": "/timeline/prophets/muhammad" },

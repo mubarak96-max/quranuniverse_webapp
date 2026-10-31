@@ -2,178 +2,147 @@
   "day": 23,
   "title": "Mercy, Repentance and the Heart",
   "question": "Is there any sin too heavy to bring back to Allah?",
-  "emblem": "heart",
-  "intro": [
-    "After the scenes of the Hereafter, the Quran turns back to the reader with good news: the door is still open. \"Your Lord has decreed upon Himself mercy\" (6:54). Tawbah, repentance, simply means turning back to Allah, and He calls Himself the One who turns toward those who turn.",
-    "Today is about that return and the heart it heals. You will see that no sin is too great to bring back, that sins can even become good, what makes repentance real, and why no one may declare themselves pure. The Quran's medicine for a restless heart is short: the remembrance of Allah."
-  ],
-  "passages": [
+  "summary": "Why the Quran forbids despair, what tawbah (repentance) actually requires, how Allah turns to the servant first, and what the Quran means by a heart that is sound, hardened or at rest.",
+  "cover": {
+    "alt": "Rain falling over cracked dry earth, with the first green shoots rising and a break of light in the clouds",
+    "prompt": "A wide plain of cracked, sun-dried earth under heavy grey clouds as the first rain falls in silver streaks. In the foreground, small bright green shoots push up through the cracks. On the horizon the clouds are parting and a band of gold light falls across the land."
+  },
+  "chapters": [
     {
-      "ref": "39:53-54",
-      "context": "Makkan, from az-Zumar. Reports say it reassured people who feared their past was beyond forgiving.",
-      "point": "Addressed to those who have wronged themselves: do not despair. Allah forgives all sins for those who return to Him while there is time.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Ninety-Nine, and Then One More",
+      "blocks": [
+        { "p": "The Prophet ﷺ once told his companions about a man from the peoples before them. The story is narrated by Abu Sa'id al-Khudri and recorded in both al-Bukhari and Muslim, and it begins as badly as a story can begin. The man had killed ninety-nine people." },
+        { "p": "Something in him turned. He asked who was the most learned person on earth and was directed to a monk. He went and asked: I have killed ninety-nine people. Can I repent? No, said the monk. So he killed him too, and made it a hundred." },
+        { "p": "And still something in him would not let go. He asked again and was directed to a man of real knowledge. I have killed a hundred people, he said. Is there any repentance for me? The scholar answered: who could stand between you and repentance? Go to such-and-such a land; there are people there who worship Allah. Worship with them, and do not return to your own land, for it is a land of evil." },
+        { "image": "day-23-road", "alt": "A lonely dirt road at dusk running from a dark village toward a distant green valley", "caption": "He died halfway, facing the right way.", "prompt": "A long, empty dirt road at dusk crossing a stony plain. Behind, on the left, a cluster of dark, shuttered stone houses under a heavy sky; far ahead, a green valley with palms and a few warm lamp-lit windows. A single walking staff lies in the dust at the road's midpoint." },
+        { "p": "He set out. Halfway there, death came to him. The angels of mercy and the angels of punishment disputed over him. The angels of mercy said: he came repenting, his heart turned toward Allah. The angels of punishment said: he never did a single good deed. An angel came in human form, and they made him judge. Measure the distance between the two lands, he said, and he belongs to whichever is nearer. They measured, and found him nearer to the land he was walking toward, and the angels of mercy took him. In one narration in al-Bukhari, Allah commanded the one land to draw away and the other to draw near." },
+        { "p": "Two men answered the same question. The monk, who thought he was being strict, said no, and it cost him his life. The scholar, who knew Allah, said: who could stand between you and repentance? This whole day is the scholar's answer." }
+      ]
     },
     {
-      "ref": "3:135",
-      "context": "Madinan, from Al 'Imran, describing people promised forgiveness and gardens (3:133-136).",
-      "point": "Repentance has a shape: remembering Allah, asking His forgiveness, and not persisting knowingly. And \"who can forgive sins except Allah?\"",
-      "label": "stated"
+      "lens": "text",
+      "title": "A Verse for Those Who Went Too Far",
+      "blocks": [
+        { "p": "Ibn 'Abbas reported, in a narration recorded by al-Bukhari, that some idolaters of Makkah who had killed much and committed adultery much came to the Prophet ﷺ. What you call to is good, they said, if only you would tell us that there is an expiation for what we have done. Two passages came in reply. One was 25:68-70. The other is perhaps the most hopeful verse in the Quran:" },
+        { "verse": "39:53-54" },
+        { "p": "Read it phrase by phrase. *Yā ʿibādiya*, \"O My servants\": even those being addressed as sinners are called *My* servants. Allah does not disown them before He invites them back. \"Who have transgressed against themselves\": the Arabic *asrafū* means to go beyond limits, to squander. Sin is framed as self-harm, not as damage done to Allah, who needs nothing." },
+        { "p": "\"Do not despair\": a command, not a suggestion. In the Quran, despair of Allah's mercy is itself a serious fault; Ya'qub tells his sons that \"no one despairs of relief from Allah except the disbelieving people\" (12:87). \"Allah forgives all sins\": the Arabic adds *jamīʿan*, all of them, together, every kind." },
+        { "p": "Then the next verse supplies the condition: \"And return [in repentance] to your Lord and submit to Him before the punishment comes.\" Ibn Kathir explains that the promise is for the one who repents, whatever the sin and however many, \"even if they are like the foam of the sea\". It does not mean sins are erased while a person persists in them. And it is how scholars reconcile this verse with 4:48, which says association with Allah is not forgiven: that is for one who dies upon it. While a person lives, even that door is open, as the Makkans who first heard this verse proved by becoming Muslims." }
+      ]
     },
     {
-      "ref": "25:70",
-      "context": "Follows the gravest sins: worshipping others, killing and adultery (25:68-69).",
-      "point": "Those who repent, believe and do good find their evil deeds replaced with good.",
-      "label": "differ",
-      "note": "Some read this as Allah turning bad deeds into good ones in this life. Others, citing a hadith in Muslim, read it as past sins rewritten as good deeds on the Day. Many accept both."
+      "lens": "scholar",
+      "title": "The One Who Turns First",
+      "blocks": [
+        { "word": { "ar": "تَوْبَة", "tr": "tawbah", "root": ["ت", "و", "ب"], "meaning": "Repentance; turning back", "nuance": "From t-w-b, to return. The Quran uses the verb both ways: the servant turns back to Allah (tāba ilā), and Allah turns to the servant (tāba ʿalā) in forgiveness. One of His names is at-Tawwāb, an intensive form: the One who turns to His servants again and again, however many times they return (2:37)." } },
+        { "p": "The double use of the word holds a surprise. In the story of the three companions who stayed behind from the expedition to Tabuk, the Quran says: \"Then He turned to them so they could repent\" (9:118). His turning came *first*, and made theirs possible." },
+        { "p": "Ka'b ibn Malik, one of the three, told the story himself, and al-Bukhari preserves it at length. He had no excuse; he had simply delayed until the army was gone. When the Prophet ﷺ returned, Ka'b refused to invent an excuse as others did. For fifty days the community was told not to speak to the three. Ka'b describes greeting the Prophet ﷺ and not knowing whether his lips moved in reply, and climbing a wall to greet his own cousin, who said nothing. The verse captures it exactly: \"the earth closed in on them in spite of its vastness and their souls confined them.\" Then the verse came, and Ka'b said that no blessing after Islam was greater to him than his honesty that day." },
+        { "p": "The first human repentance follows the same pattern. After Adam and his wife ate from the tree, \"Adam received from his Lord [some] words, and He accepted his repentance\" (2:37). Many commentators identify the words as their prayer in 7:23: \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" Allah taught them how to come back, then accepted them when they did. Iblis, by contrast, blamed Allah for his own failure and never asked. The Quran's line between the two is not the size of the sin. It is the turning." },
+        { "verse": "21:87" },
+        { "p": "Yunus, in the darkness of the sea, the night and the belly of the fish, says nothing except praise and admission. The next verse adds: \"thus do We save the believers\" (21:88). His words became a prayer Muslims repeat in distress." }
+      ]
     },
     {
-      "ref": "53:32",
-      "context": "Makkan, from an-Najm, describing those who do good (53:31).",
-      "point": "Allah is \"vast in forgiveness\" and knew us before we were born. So no one should claim to be pure; He alone knows who is truly mindful of Him.",
-      "label": "stated"
+      "lens": "life",
+      "title": "What Real Repentance Looks Like",
+      "blocks": [
+        { "p": "The Quran describes the people of forgiveness in one sentence that is almost a definition:" },
+        { "verse": "3:135" },
+        { "p": "They *remember Allah*: the wrong is noticed, not buried. They *seek forgiveness*, directly; \"who can forgive sins except Allah?\" There is no confession booth and no intermediary in Islam. And they \"do not persist in what they have done while they know.\" From verses like these and from hadith, scholars set out the conditions of a sincere repentance, which the Quran calls *tawbatan naṣūḥā* (66:8)." },
+        { "figure": { "kind": "steps", "title": "The conditions of tawbah, as scholars set them out", "items": [
+          { "label": "Stop", "text": "Leave the sin now, not after one more time." },
+          { "label": "Regret", "text": "The Prophet ﷺ said, \"Regret is repentance\" (Ibn Majah)." },
+          { "label": "Resolve", "text": "Sincerely intend not to return to it." },
+          { "label": "Restore", "text": "If someone was wronged, return what is owed or seek their pardon." },
+          { "label": "Follow with good", "text": "\"Good deeds do away with misdeeds\" (11:114)." }
+        ] } },
+        { "p": "There is a time limit, and only one. Repentance is for those who \"repent soon after\" (4:17), and not for the one who keeps on until \"death comes to one of them, he says, 'Indeed, I have repented now'\" (4:18). The Prophet ﷺ said that Allah accepts a servant's repentance until the death rattle reaches the throat (at-Tirmidhi)." },
+        { "p": "Falling again is not the end. Scholars are clear that if someone repents sincerely and later slips, the earlier repentance still stood, and the door is still open; the relapse needs a new turning, not despair. The Prophet ﷺ, whom Muslims believe was protected from sin, said he sought Allah's forgiveness and turned to Him more than seventy times a day (al-Bukhari). For Muslims, *astaghfiru Allāh*, I seek Allah's forgiveness, is not a confession of crime. It is a breath, said after prayer, before sleep, in traffic." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "When Evil Deeds Become Good",
+      "blocks": [
+        { "p": "Surah al-Furqan lists the three gravest wrongs, associating others with Allah, unjust killing and adultery, and warns of a doubled punishment. Then it turns, with one word, *illā*, except:" },
+        { "verse": "25:70-71" },
+        { "p": "\"Allah will replace their evil deeds with good.\" Not cancel. Replace. What could that mean?" },
+        { "note": "Some early scholars, including reports from Ibn 'Abbas, read it as a change in this life: Allah replaces a life of sin with a life of good deeds, so the person who once did evil now does good. Others read it as happening on the Day: the past sins of a true penitent are rewritten in their record as good deeds; al-Jalalayn specifies \"in the Hereafter\". Many scholars accept both meanings together.", "title": "Where scholars differ" },
+        { "p": "The second reading is supported by a hadith in Muslim, from Abu Dharr. On the Day, a man will be brought and his minor sins shown to him, while his major ones are kept aside. You did such-and-such on such-and-such a day, he is told, and he cannot deny it, afraid of what is coming. Then he is told: in place of each evil deed, you have a good deed. And the man says: my Lord, I did things I do not see here. Abu Dharr said he saw the Prophet ﷺ laugh until his back teeth showed." },
+        { "p": "Scholars draw a moving conclusion. The regret a sinner feels, the years of shame and the tears in prayer, are themselves acts of worship. Ibn 'Ata'illah, the thirteenth-century Egyptian sage, wrote in his *Hikam* that a sin which leaves behind humility and need is better than an act of obedience which leaves behind self-importance and arrogance. That is not an invitation to sin. It is a refusal to let a person's worst moment be the final word on them." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Does Easy Forgiveness Make Sin Cheap?",
+      "blocks": [
+        { "p": "The objection is serious. If Allah forgives everything, why not sin freely and repent later? Does a religion of unlimited forgiveness not undermine morality?" },
+        { "p": "The Quran's answer has several layers. First, forgiveness is not a transaction you can book in advance. Repentance requires *not persisting* (3:135); a plan to sin and repent later is by definition persistence. And the Quran warns that no one knows when the time runs out (4:18). Gambling on a later turning is gambling with the one thing no one controls." },
+        { "p": "Second, forgiveness from Allah does not erase what is owed to people. Scholars distinguish the rights of Allah from the rights of His creatures. A thief who repents still returns what he stole. The Prophet ﷺ described the truly bankrupt person as one who arrives on the Day with prayer and fasting, but having insulted, slandered and struck others, so that his good deeds are given to those he wronged (Muslim)." },
+        { "p": "Third, the Quran guards against the opposite danger too: spiritual pride. \"So do not claim yourselves to be pure; He is most knowing of who fears Him\" (53:32). The same verse says Allah is \"vast in forgiveness\" and knew us \"when you were fetuses in the wombs of your mothers\". He made us; He knows exactly what we are made of." },
+        { "p": "Finally, the deepest answer. In a hadith in Muslim, the Prophet ﷺ said that if people did not sin, Allah would replace them with a people who would sin, then seek forgiveness, and He would forgive them. Read carelessly, it sounds like permission. Read rightly, it says that Allah did not create angels a second time. He created human beings, who fall, and the point of their existence includes the return. Forgiveness does not make sin cheap. It makes the relationship real." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "Hearts That Harden, Hearts That Rest",
+      "blocks": [
+        { "p": "Repentance in the Quran is not finally about a record. It is about a heart. The word *qalb* comes from a root meaning to turn over, and the Quran treats the heart as the organ of understanding, not only feeling: \"it is not eyes that are blinded, but blinded are the hearts which are within the breasts\" (22:46)." },
+        { "p": "Hearts can harden. Of a people who saw miracles and still turned away, the Quran says their hearts became \"like stones or even harder\", and then adds that even stones split and let water out (2:74). Hearts can be stained. \"The stain has covered their hearts of that which they were earning\" (83:14). The Prophet ﷺ explained that when a servant sins, a black spot is placed on his heart; if he repents, it is polished away; if he continues, it spreads, and that is the *rān* Allah mentions (at-Tirmidhi)." },
+        { "p": "Scholars also noticed three states of the soul across the Quran: the soul that \"is a persistent enjoiner of evil\" (12:53), the \"reproaching soul\" that blames itself after a wrong (75:2), and the \"reassured soul\" (89:27). The middle one, the uncomfortable conscience, is where repentance begins. The Quran swears by it." },
+        { "verse": "13:28" },
+        { "p": "And the destination is a heart at rest. On the Day, \"there will not benefit [anyone] wealth or children but only one who comes to Allah with a sound heart\" (26:88-89). *Qalbun salīm*: whole, unbroken, free of the thing that keeps it from Allah." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "A Camel Found in the Desert",
+      "blocks": [
+        { "p": "The Prophet ﷺ once described Allah's joy at a servant's repentance with a picture every Arab could feel in his stomach (Muslim). A man is travelling across a waterless desert on his camel, which carries all his food and water. He stops to rest under a tree, and when he wakes, the camel is gone. He searches until he despairs and lies down under the tree to wait for death. Then he opens his eyes, and the camel is standing over him, its halter within reach. He seizes it and, mad with joy, cries out: O Allah, You are my servant and I am Your lord. He got the words backwards from sheer happiness." },
+        { "image": "day-23-camel", "alt": "A saddled camel standing beside a lone acacia tree in a vast desert under a pale sky", "caption": "Allah is more pleased with a servant's return than this.", "prompt": "A lone acacia tree casting a small pool of shade in a vast, empty desert of pale sand and low dunes. A saddled camel with water skins and bags tied to its sides stands under the tree, its halter rope trailing on the sand. Pale, hazy midday sky, heat shimmer on the horizon." },
+        { "p": "Allah, the Prophet ﷺ said, is more pleased with the repentance of His servant than that man was. Not tolerant of it. Not resigned to it. *Pleased*." },
+        { "p": "In another hadith in Muslim, Allah stretches out His hand by night so that the one who sinned by day may repent, and by day so that the one who sinned by night may repent, until the sun rises from the west. Every night and every day, the hand is held out." },
+        { "p": "If you are carrying something you think is too heavy, too old or too shameful, you do not need a special place, a special person or the right words. Adam's words will do:" },
+        { "verse": "7:23" }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ladder",
-    "title": "The steps of tawbah",
-    "caption": "Scholars draw these conditions from verses like 3:135 and 4:17 and from hadith. When a wrong harmed someone, most add making it right with them. The door stays open until death has come (4:18).",
-    "label": "explained",
-    "items": [
-      {
-        "label": "Notice",
-        "text": "Remember Allah when you slip",
-        "ref": "3:135"
-      },
-      {
-        "label": "Stop",
-        "text": "Leave the wrong now, not later",
-        "ref": "4:17"
-      },
-      {
-        "label": "Regret",
-        "text": "Feel sorrow for what was done"
-      },
-      {
-        "label": "Ask",
-        "text": "Seek forgiveness from Allah directly",
-        "ref": "4:110"
-      },
-      {
-        "label": "Resolve",
-        "text": "Intend not to return to it",
-        "ref": "3:135"
-      },
-      {
-        "label": "Restore",
-        "text": "Return what is owed to people you wronged"
-      },
-      {
-        "label": "Do good",
-        "text": "Let good deeds follow the bad",
-        "ref": "11:114"
-      }
-    ]
-  },
-  "word": {
-    "ar": "تَوْبَة",
-    "tr": "tawbah",
-    "root": [
-      "ت",
-      "و",
-      "ب"
-    ],
-    "meaning": "Repentance; turning back",
-    "nuance": "From t-w-b, to return. The Quran uses it both ways: the servant turns back to Allah, and Allah turns to the servant. \"Then He turned to them so they could repent\" (9:118): His turning comes first. At-Tawwāb, the One who keeps accepting repentance, is one of His names (2:37).",
-    "refs": [
-      "9:118",
-      "2:37"
-    ]
-  },
-  "mixup": {
-    "myth": "To be forgiven, you must confess your sins to another person or go through a religious official.",
-    "truth": "The Quran asks, \"who can forgive sins except Allah?\" (3:135), and Allah says, \"I am near. I respond to the invocation of the supplicant when he calls upon Me\" (2:186). Tawbah is between a person and Allah, with no go-between. Where a sin wronged someone, scholars add that their rights must be restored.",
-    "refs": [
-      "3:135",
-      "2:186",
-      "40:60"
-    ]
-  },
-  "remember": [
-    "Allah has decreed mercy upon Himself; no one should despair of it (6:54, 39:53).",
-    "Repentance means stopping, regretting, asking and not persisting, before death arrives (3:135, 4:17-18).",
-    "Hearts find rest in remembering Allah, and only He knows who is truly pure (13:28, 53:32)."
-  ],
-  "memorize": "13:28",
+  "carry": "39:53",
   "quiz": [
     {
-      "q": "What does 39:53 tell those who have wronged themselves?",
-      "options": [
-        "Their deeds are fixed forever",
-        "Do not despair of Allah's mercy",
-        "Wait for the Day to find out"
-      ],
+      "q": "What does 39:53 tell those who have transgressed against themselves?",
+      "options": ["Their deeds are fixed forever", "Do not despair of Allah's mercy", "Wait for the Day to find out", "Only small sins are forgiven"],
       "answer": 1,
-      "why": "39:53: \"O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins.\""
+      "why": "39:53: \"O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins.\" 39:54 adds the call to return before the punishment comes."
     },
     {
-      "q": "When does 4:18 say repentance is no longer accepted?",
-      "options": [
-        "When death has already come",
-        "After a person's first sin",
-        "After the age of forty",
-        "Once a sin is repeated"
-      ],
-      "answer": 0,
-      "why": "4:18: repentance is not accepted from one who keeps doing evil \"until, when death comes to one of them, he says, 'Indeed, I have repented now.'\" 4:17 praises repenting soon after."
+      "q": "What does 9:118 say happened before the three companions repented?",
+      "options": ["They paid a fine", "Allah turned to them so they could repent", "They were exiled", "They confessed to the community"],
+      "answer": 1,
+      "why": "9:118: \"Then He turned to them so they could repent.\" Allah's turning came first and made their repentance possible."
     },
     {
-      "q": "According to 13:28, what gives hearts rest?",
-      "options": [
-        "Wealth and children",
-        "Praise from people",
-        "The remembrance of Allah"
-      ],
-      "answer": 2,
-      "why": "13:28: \"Unquestionably, by the remembrance of Allah hearts are assured.\" 26:88-89 adds that on the Day only a sound heart will benefit."
+      "q": "According to 3:135, which is part of true repentance?",
+      "options": ["Confessing to a religious official", "Not persisting in the wrong knowingly", "Waiting until old age", "Making a public announcement"],
+      "answer": 1,
+      "why": "3:135 describes those who remember Allah, seek forgiveness, \"and who can forgive sins except Allah?\", and \"do not persist in what they have done while they know.\""
+    },
+    {
+      "q": "Why does the hadith of the man who killed a hundred people end with him forgiven?",
+      "options": ["He had done many good deeds", "He was walking toward a better life when he died", "The monk forgave him", "He paid compensation to all the families"],
+      "answer": 1,
+      "why": "In al-Bukhari and Muslim, he died on his way to a land of worship, his heart turned to Allah, and was found nearer to it, so the angels of mercy took him."
     }
   ],
-  "reflect": "Is there something you have been carrying that you could bring back to Allah today, in your own words?",
-  "deeper": [
-    "7:156",
-    "6:54",
-    "4:17-18",
-    "66:8",
-    "2:186",
-    "40:60",
-    "26:88-89",
-    "11:114",
-    "2:222",
-    "4:110"
-  ],
+  "reflect": "Is there something you have been carrying that you could bring back to Allah today, in your own words? Or, if you are exploring: what would it mean to believe that no past is final?",
+  "deeper": ["7:156", "6:54", "4:17-18", "66:8", "2:186", "40:60", "26:88-89", "11:114", "2:222", "4:110", "9:102-104", "71:10-12"],
   "links": [
-    {
-      "label": "Does God forgive all sins?",
-      "href": "/learn/does-god-forgive-all-sins"
-    },
-    {
-      "label": "Astaghfirullah meaning",
-      "href": "/learn/astaghfirullah-meaning"
-    },
-    {
-      "label": "At-Tawwab, the Accepter of Repentance",
-      "href": "/names/at-tawwab"
-    },
-    {
-      "label": "What is dhikr?",
-      "href": "/learn/what-is-dhikr"
-    }
+    { "label": "Does God forgive all sins?", "href": "/learn/does-god-forgive-all-sins" },
+    { "label": "Astaghfirullah meaning", "href": "/learn/astaghfirullah-meaning" },
+    { "label": "At-Tawwab, the Accepter of Repentance", "href": "/names/at-tawwab" },
+    { "label": "What is dhikr?", "href": "/learn/what-is-dhikr" }
   ],
-  "connections": [
-    3,
-    5,
-    21,
-    29
-  ],
+  "connections": [3, 5, 21, 29],
   "status": "draft"
 }

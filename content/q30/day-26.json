@@ -2,94 +2,135 @@
   "day": 26,
   "title": "Money: Earning, Owing and Giving",
   "question": "Why is the longest verse in the Quran about a debt?",
-  "emblem": "coin",
-  "intro": [
-    "The Quran does not treat wealth as dirty. Trade is lawful, honest earning is honourable, and the Prophet ﷺ himself traded as a merchant before his mission. But money is also where people are most tempted to take what is not theirs.",
-    "So the Quran guards every step: how wealth is earned (no riba, no cheating, no bribery), how it is recorded (debts written and witnessed), and how it is used (no hoarding, no waste, and a share for others). Wealth is held in trust: Allah made us successors over it (57:7).",
-    "Riba, often translated as usury or interest, was forbidden in stages. Today you will trace those stages and see why the Quran insists that trade and riba are not the same thing."
-  ],
-  "passages": [
+  "summary": "How the Quran treats wealth as a trust: honest trade, debts written down, the step-by-step ban on riba, honest scales, and a hand that neither hoards nor wastes.",
+  "cover": {
+    "alt": "An empty early-morning market with palm-frond awnings, sacks of dates and a brass balance scale on a cloth",
+    "prompt": "A small marketplace in seventh-century Madinah at dawn: palm-frond awnings over empty stalls, open sacks of dates and barley, a brass balance scale resting on a woven cloth, long soft shadows across packed earth and mud-brick walls."
+  },
+  "chapters": [
     {
-      "ref": "2:278-279",
-      "context": "Madinah. Ibn 'Abbas is reported in al-Bukhari as saying the verse on riba was the last revealed.",
-      "point": "Believers must drop any interest still owed to them and keep only their principal: no one wrongs and no one is wronged. 2:275 adds that Allah permitted trade and forbade riba.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Show Me the Way to the Market",
+      "blocks": [
+        { "p": "When the emigrants from Makkah reached Madinah in 622 CE, most of them had left their houses, flocks and savings behind. The Prophet ﷺ paired each of them with a host from the Ansar, the \"helpers\" of Madinah, and declared each pair brothers. Al-Bukhari records what happened when 'Abd al-Rahman ibn 'Awf was paired with Sa'd ibn al-Rabi', one of the richest men among the Ansar. Sa'd offered him half of everything he owned." },
+        { "p": "'Abd al-Rahman thanked him, prayed that Allah bless Sa'd's family and wealth, and asked for one thing only: *show me the way to the market*. He went to the Qaynuqa' market, bought and sold, and came back that same day with a little dried curd and butter as his profit. Within a short time he had married. Years later he was one of the wealthiest of the Companions, and one of the most generous." },
+        { "image": "day-26-market", "alt": "Stalls of a small market at first light, with baskets of dates and a hanging scale", "caption": "Madinah's markets sat a short walk from the Prophet's mosque.", "prompt": "Early morning in a market of seventh-century Arabia: mud-brick walls, palm-trunk posts holding up frond shades, baskets of dates and clay jars of butter on low benches, a hanging balance scale catching the first sunlight, dust in the air." },
+        { "p": "The story says something about the faith that shaped it. The Prophet ﷺ himself had been a merchant: before his mission he led Khadijah's caravans north to Syria, and the biographies report that Makkah knew him as *al-Amin*, the trustworthy. The Quran assumes a working market. When the Friday prayer ends, it says, \"disperse within the land and seek from the bounty of Allah\" (62:10). Earning a living is called seeking Allah's *fadl*, His bounty." },
+        { "p": "So the Quran is not suspicious of money. It even calls wealth *khayr*, \"good\", in the verse on bequests (2:180). What it watches closely is three moments in the life of every coin: how it is earned, how what is owed is recorded, and where it finally goes. Behind all three stands one idea. \"Spend out of that in which He has made you successors,\" says 57:7. The word is *mustakhlafin*: people holding something on behalf of its real Owner, for a while. A trustee may use what he holds. He may not treat it as if no one will ever ask for an account." }
+      ]
     },
     {
-      "ref": "2:282",
-      "from": "O you who have believed, when you contract a debt",
-      "to": "between you in justice.",
-      "context": "The longest verse in the Quran, placed right after the verses on riba.",
-      "point": "Write down every debt with a term, small or large, through a fair scribe and with witnesses. The verse says this is more just and prevents doubt between people.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Nearly a Full Page About a Loan",
+      "blocks": [
+        { "p": "The longest verse in the Quran is not about prayer, paradise or the prophets. It fills nearly a whole page of the standard Madinah copy, and it is about writing down a loan." },
+        { "verse": "2:282" },
+        { "p": "Read it slowly and it becomes a small contract law. *Write it down*, and fix the term: a debt \"for a specified term\", so neither side can later stretch or shrink the date. *Let a scribe write in justice*, and let him not refuse \"as Allah has taught him\": knowing how to write was rare in Arabia, and the verse treats the skill as a gift that brings a duty." },
+        { "p": "Then a detail that is easy to miss: \"let the one who has the obligation dictate.\" The borrower, the weaker party, speaks the terms aloud, so he cannot be bound by wording he never understood. If he cannot dictate, through youth, weakness or limited understanding, his guardian does it for him, \"in justice\" again. Witnesses follow, and the verse anticipates human excuses: do not refuse when called, do not be \"[too] weary to write it, whether it is small or large.\"" },
+        { "p": "The verse gives its own reasons. Writing is \"more just in the sight of Allah and stronger as evidence and more likely to prevent doubt between you.\" It exempts the cash sale done on the spot, where nothing is left owing. And it protects the honest helpers: \"Let no scribe be harmed or any witness.\" The next verse adds that on a journey, with no scribe, a pledge may be taken instead (2:283). Aishah reported that the Prophet ﷺ died with his armour pledged to a Jewish man of Madinah for some barley (al-Bukhari)." },
+        { "note": "Most classical jurists read \"write it down\" as a strong recommendation, pointing to 2:283, \"if one of you entrusts another\"; some, al-Tabari among them, held it a duty. On the two women witnesses, the majority applied the rule to financial testimony. Some, such as Ibn al-Qayyim, tied its reason, that one may remind the other, to how unfamiliar commerce was to most women of that time.", "title": "Where scholars differ" },
+        { "p": "Why give a debt the longest verse? Because debts outlast moods. Friends lend in warmth and quarrel in memory. The verse closes the gap where most money disputes begin: the unwritten, the vague, the \"we'll sort it out later\"." }
+      ]
     },
     {
-      "ref": "83:1-3",
-      "context": "Opens al-Mutaffifin, \"those who give short measure\", a surah named after cheating in the market.",
-      "point": "Woe to those who demand full measure for themselves but short-change others. 83:4-6 reminds them that they will stand before the Lord of the worlds.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "Riba, Forbidden in Four Steps",
+      "blocks": [
+        { "p": "Directly before the debt verse stand the Quran's strongest words on *riba*, usually translated as usury or interest. Classical commentators such as al-Tabari describe the riba Arabia knew: when a loan fell due, the lender asked, \"Will you pay, or will you increase?\" If the debtor could not pay, the term was extended and the sum grew, then grew again. A modest loan could swallow a family's land." },
+        { "word": { "ar": "رِبًا", "tr": "ribā", "root": ["ر", "ب", "و"], "meaning": "Increase; usury", "nuance": "The root means to grow or swell: *rabwah* is a hill rising from the plain (23:50). In law, riba is a gain stipulated on a loan and, from hadith, certain unequal swaps of like goods. The Quran turns the word on itself: Allah \"destroys interest and gives increase for charities\" (2:276), using *yurbi*, the same root, for what charity does." } },
+        { "p": "As with wine, scholars describe the prohibition as arriving in stages, though the exact dating of the middle steps is debated." },
+        { "figure": { "kind": "steps", "title": "How the riba verses unfold", "items": [
+          { "label": "Makkah: it does not grow with Allah", "text": "Interest swells people's wealth, but zakah given for Allah's sake is what truly multiplies (30:39)." },
+          { "label": "A lesson from the past", "text": "Some of the Children of Israel are blamed for taking usury though it had been forbidden to them (4:161)." },
+          { "label": "Madinah: the first direct command", "text": "\"Do not consume usury, doubled and multiplied\" (3:130). Most scholars read \"doubled\" as describing the practice, not permitting smaller rates." },
+          { "label": "The final word", "text": "Trade is lawful, riba forbidden; give up what remains owed and keep your principal (2:275-279)." },
+          { "label": "Mercy for the debtor", "text": "Give a struggling debtor time, and forgiving the debt is better (2:280)." }
+        ] } },
+        { "p": "The commentators link 2:278 to a real dispute. Men of the tribe of Thaqif in Ta'if had riba claims against men of Makhzum in Makkah. Both sides became Muslim with the claims still outstanding, and the verse settled it: \"give up what remains [due to you] of interest.\" In his sermon at the Farewell Pilgrimage, recorded by Muslim in Jabir's long account, the Prophet ﷺ declared all the riba of the age before Islam cancelled, and said the first he cancelled was that owed to his own uncle, al-'Abbas." },
+        { "p": "Al-Bukhari reports Ibn 'Abbas saying that the verse of riba was the last to be revealed; another report from him, in al-Nasa'i, names the verse that follows it, \"And fear a Day when you will be returned to Allah\" (2:281). Scholars reconcile the two simply: they belong to one closing passage. Muslim also reports from Jabir that the Prophet ﷺ cursed the one who consumes riba, the one who pays it, the one who writes it down and its two witnesses, and said they are all alike. The scribe and witnesses of 2:282 appear again, this time refusing their skills to injustice." }
+      ]
     },
     {
-      "ref": "17:26-29",
-      "context": "Part of the moral code of al-Isra, revealed in Makkah.",
-      "point": "Give relatives, the poor and travellers their right, and do not waste. If you cannot give, speak gently. Keep the balance: no hand chained to the neck, nor stretched out until nothing is left.",
-      "label": "stated"
+      "lens": "reason",
+      "title": "\"Trade Is Just Like Interest\"",
+      "blocks": [
+        { "p": "The Quran quotes the objection itself, in the mouths of those who lived by riba: \"Trade is [just] like interest\" (2:275). It deserves to be stated at full strength. A lender gives up the use of his money for a year. Prices may rise. The borrower may default. A man who rents out a camel charges for the days it is gone; why should money be the one thing that may not earn rent? Whole modern economies run on interest." },
+        { "p": "The verse answers in a single sentence, \"Allah has permitted trade and has forbidden interest,\" and the scholars have spent centuries unpacking it. In a sale, a profit is earned by owning something, carrying its risk and handing over real value; the price may even be higher when payment is deferred, which most jurists allow. In a partnership, investor and worker share the outcome, profit or loss. What the interest loan does differently is guarantee the lender's gain whatever happens, while the borrower carries all the risk. The Quran's own measure is in 2:279: keep your principal, \"you do no wrong, nor are you wronged.\" Neither the lender's capital nor the borrower's misfortune is to be exploited." },
+        { "p": "The warning attached is the most severe the Quran gives about any transaction: those who refuse to stop are to \"be informed of a war [against you] from Allah and His Messenger\" (2:279). Commentators note that no other sin short of disbelief is described this way." },
+        { "note": "Most modern juristic bodies, including the Islamic Fiqh Academy of the Organisation of Islamic Cooperation in 1985, hold that fixed interest on bank loans and deposits is the riba of the Quran. A minority, among them the late Shaykh of al-Azhar Muhammad Sayyid Tantawi, permitted some fixed-return bank dealings, arguing that they differ from exploitative loans. The Islamic finance industry grew out of the majority view.", "title": "Where scholars differ today" },
+        { "p": "Honesty requires one more admission. A believer does not avoid riba only because an economic argument convinced him; arguments on both sides can be made by clever people. He avoids it because Allah forbade it and he trusts the One who forbade it. The reasoning shows that the ban is not arbitrary. The obedience is faith." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "A Surah Named After Cheats",
+      "blocks": [
+        { "p": "One surah of the Quran takes its name from a petty fraud. *Al-Mutaffifin* comes from *tatfif*, giving a tiny bit less, from *tafif*, something slight. The cheat it describes does not rob anyone. He just presses his thumb on the scale." },
+        { "verse": "83:1-6" },
+        { "p": "The pattern is exact: full measure when buying, short measure when selling. The answer is not a fine but a question about time: do they not think they will be raised for a tremendous Day, when all people stand before the Lord of the worlds? Ibn 'Abbas is reported by al-Nasa'i and Ibn Majah as saying that when the Prophet ﷺ arrived in Madinah its traders were notorious for short measure; the surah was revealed, and they changed. Scholars differ on whether it is a late Makkan or early Madinan surah, and some hold it is both." },
+        { "p": "Long before, the prophet Shu'ayb had said the same to the people of Madyan, and their reply is one of the most modern lines in the Quran." },
+        { "verse": "11:84-87" },
+        { "p": "\"Does your prayer command you that we should... not do with our wealth what we please?\" It is the oldest argument there is for keeping faith out of business. The Quran's answer runs through many verses: wealth is never only yours. Do not consume one another's wealth unjustly, \"but only [in lawful] business by mutual consent\" (4:29). Do not send your money to judges as bribes to take a portion of other people's property \"while you know\" (2:188). And Ar-Rahman lifts the balance of the market into the balance of the cosmos: Allah raised the heaven and set the balance, \"that you not transgress within the balance\" (55:7-9). An honest scale is a small copy of the order of creation." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "A Hand Neither Chained Nor Spread Wide",
+      "blocks": [
+        { "p": "Earning cleanly is half the matter. The other half is what the hand does once it holds something." },
+        { "verse": "17:26-29" },
+        { "p": "Two pictures. A hand chained to its own neck: the miser, who cannot reach his purse even when a relative is hungry. A hand stretched out so far that everything falls through it: the spendthrift, who ends \"blamed and insolvent\". The servants of the Most Merciful, says another surah, spend \"not excessively or sparingly\" but in between (25:67). And when you have nothing to give, 17:28 asks for a gentle word. Even refusal has manners." },
+        { "p": "The Quran knows why the chained hand is so common. Surah al-Humazah describes a man \"who collects wealth and [continuously] counts it. He thinks that his wealth will make him immortal\" (104:2-3). Counting money can be a way of not counting days. Surah al-Munafiqun pictures the last moment, when the dying man begs for a short delay \"so I would give charity\" (63:10). No one ever asks for more time to count." },
+        { "p": "Al-Bukhari and Muslim tell what one Companion did when \"Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love\" (3:92) was revealed. Abu Talhah owned an orchard called Bayruha', facing the Prophet's mosque, with sweet water the Prophet ﷺ liked to drink. It was the thing he loved most. He gave it away that day. The Prophet ﷺ praised it as profitable wealth and advised him to give it among his own relatives, which he did." },
+        { "p": "Muslim records the Prophet ﷺ saying that charity does not decrease wealth. Arithmetic disagrees. The heart, if you have ever given something you loved, knows exactly what he meant." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Ledgers, Loans and the Zakah Sum",
+      "blocks": [
+        { "p": "What does this look like in a Muslim household today? Rarely dramatic, mostly steady." },
+        { "list": [
+          "**Zakah.** Once a lunar year, a Muslim whose savings stay above a threshold (the *nisab*, about the value of 85 grams of gold) gives 2.5% of them. The Quran names the eight kinds of people it goes to, including the poor, the needy and \"those in debt\" (9:60). Many calculate it in Ramadan.",
+          "**Charity beyond zakah.** *Sadaqah* has no minimum and no season, and the Quran praises those who give \"by night and by day, secretly and publicly\" (2:274). It also forbids spoiling a gift with reminders or hurt (2:264).",
+          "**Debts written and paid.** Many Muslims write down loans even between family, as 2:282 asks. Debt is taken seriously: al-Bukhari reports that the Prophet ﷺ held back from leading the funeral prayer of a man who died owing a few dinars, until Abu Qatadah took the debt on himself.",
+          "**Time for the struggling.** \"If someone is in hardship, then [let there be] postponement until [a time of] ease\" (2:280). Al-Bukhari and Muslim report a man who used to tell his servants to let off a debtor in difficulty, hoping Allah would let him off; and Allah forgave him.",
+          "**Avoiding riba.** Many choose accounts without interest, Islamic home financing built on sale or partnership, and no lottery tickets, since gambling is also forbidden (5:90)."
+        ] },
+        { "p": "If you are not Muslim, this explains a few things you may have noticed: a colleague who declines an interest-bearing savings account, a neighbour who asks about \"halal mortgages\", the rush of giving in the last ten nights of Ramadan, a friend who insists on writing an IOU for a small sum. None of it is suspicion of you. It is the long verse of al-Baqarah, still being obeyed." },
+        { "p": "And for anyone, a single question to ask of a week's spending, taken straight from 25:67: where was I chained, where was I spread too wide, and where did I find the balance between?" }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ladder",
-    "title": "Riba, step by step",
-    "caption": "A common scholarly reading of the riba verses as a gradual path, like the stages on alcohol. The dating of the middle steps is approximate.",
-    "label": "explained",
-    "items": [
-      { "label": "Not with Allah", "text": "Makkah: interest does not grow with Allah; zakah multiplies.", "ref": "30:39" },
-      { "label": "A past people's wrong", "text": "Some of the Children of Israel took it though it was forbidden.", "ref": "4:161" },
-      { "label": "Doubled and multiplied", "text": "First direct ban for believers. Most scholars: \"doubled\" describes, not limits.", "ref": "3:130" },
-      { "label": "The final ban", "text": "Trade allowed, riba forbidden; keep your principal, wrong no one.", "ref": "2:275-279" },
-      { "label": "Ease for debtors", "text": "Give a struggling debtor time; forgiving the debt is better.", "ref": "2:280" }
-    ]
-  },
-  "word": {
-    "ar": "رِبًا",
-    "tr": "ribā",
-    "root": ["ر", "ب", "و"],
-    "meaning": "Increase; usury",
-    "nuance": "Literally growth, from the same root as rabwah, a hill that rises (23:50). In law it is a gain stipulated on a loan and, from hadith, certain unequal swaps of like goods. The Quran turns the word around: Allah destroys riba and makes charity grow (yurbī, 2:276).",
-    "refs": ["2:276", "30:39"]
-  },
-  "mixup": {
-    "myth": "Islam disapproves of wealth and of making money.",
-    "truth": "Trade by mutual consent is lawful (4:29), and the Prophet ﷺ was a trader before his mission. What the Quran forbids is unjust gain: riba, bribery (2:188), cheating, and hoarding that withholds what is due (9:34). It praises those who spend by night and day (2:274) and calls our wealth something we hold as successors (57:7).",
-    "refs": ["4:29", "2:188", "57:7"]
-  },
-  "remember": [
-    "Trade is lawful and riba is not; the Quran rejects the claim that they are alike (2:275).",
-    "Write down debts, give full measure, and give a struggling debtor time (2:282, 83:1-3, 2:280).",
-    "Spend with balance, neither stingy nor wasteful, and give others their right (17:26-29, 25:67)."
-  ],
-  "memorize": "25:67",
+  "carry": "25:67",
   "quiz": [
     {
-      "q": "What is the longest verse in the Quran about?",
-      "options": ["Prayer", "Fasting", "Writing down a debt", "The Day of Judgment"],
+      "q": "In 2:282, why does the debtor, rather than the lender, dictate the terms to the scribe?",
+      "options": ["Because he is the wealthier party", "So the weaker party is bound only by wording he understood and spoke himself", "Because lenders were not allowed to speak in court", "So that no witnesses are needed"],
+      "answer": 1,
+      "why": "2:282: \"let the one who has the obligation dictate. And let him fear Allah, his Lord, and not leave anything out of it.\" The one who carries the obligation states it, and a guardian speaks for him if he cannot."
+    },
+    {
+      "q": "What does 2:279 allow a believer who gives up riba to keep?",
+      "options": ["Half the interest owed", "All the interest already agreed", "Their principal, so that no one wrongs and no one is wronged", "Nothing at all"],
       "answer": 2,
-      "why": "2:282, the longest verse, sets out how to record a debt with a scribe and witnesses, \"whether it is small or large\"."
+      "why": "2:279: \"if you repent, you may have your principal - [thus] you do no wrong, nor are you wronged.\" The lender's capital is protected, and so is the borrower."
     },
     {
-      "q": "When a believer gives up riba, what may they keep (2:279)?",
-      "options": ["Their principal", "Half the interest", "All the interest agreed", "Nothing at all"],
+      "q": "What objection to the ban on riba does the Quran itself quote in 2:275?",
+      "options": ["\"Trade is [just] like interest\"", "\"Our fathers never charged interest\"", "\"Interest is a gift between friends\"", "\"Only the poor pay interest\""],
       "answer": 0,
-      "why": "2:279: \"if you repent, you may have your principal - [thus] you do no wrong, nor are you wronged.\""
+      "why": "2:275 quotes those who say \"Trade is [just] like interest\" and answers: \"Allah has permitted trade and has forbidden interest.\""
     },
     {
-      "q": "What does 2:280 say to do when a debtor is in hardship?",
-      "options": ["Double the debt", "Take his property", "Report him to the ruler", "Give him time until ease"],
-      "answer": 3,
-      "why": "2:280: \"[let there be] postponement until [a time of] ease. But if you give [from your right as] charity, then it is better for you.\""
+      "q": "What two pictures does 17:29 use for the wrong ways of spending?",
+      "options": ["A closed door and an open window", "A full barn and an empty field", "A hand chained to the neck, and a hand stretched out completely", "A heavy scale and a light one"],
+      "answer": 2,
+      "why": "17:29: \"do not make your hand [as] chained to your neck or extend it completely and [thereby] become blamed and insolvent.\" The miser and the spendthrift both miss the balance of 25:67."
     }
   ],
-  "reflect": "Where in your spending this week could you move a little closer to the balance of 25:67?",
-  "deeper": ["2:275-281", "2:282-283", "4:29", "2:188", "9:34-35", "2:261-274", "59:7", "104", "57:7", "3:130"],
+  "reflect": "Think of a time money came between you and someone else, as lender, borrower, buyer or seller. What would have been different if you had followed 2:282, or 2:280?",
+  "deeper": ["2:275-281", "2:282-283", "4:29", "2:188", "9:34-35", "2:261-274", "59:7", "104", "57:7", "3:130", "83", "11:84-95"],
   "links": [
     { "label": "What is zakat?", "href": "/learn/what-is-zakat" },
     { "label": "Read the debt verse, 2:282", "href": "/surah/al-baqarah/282" },

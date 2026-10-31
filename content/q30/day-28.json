@@ -2,109 +2,139 @@
   "day": 28,
   "title": "Justice, Authority, War and Peace",
   "question": "When does the Quran allow fighting, and what must never be done in it?",
-  "emblem": "scale",
-  "intro": [
-    "Justice ('adl) runs through the whole Quran. Believers are told to stand firm for it even against themselves, their parents, or a people they dislike. Leaders are to return trusts, judge fairly and consult; those they lead are to obey within what is right.",
-    "Today also covers war, one of the most quoted and misquoted parts of the Quran. Its verses came in a real setting: a community persecuted in Makkah, driven from home, then attacked in Madinah. They permit fighting with conditions and limits, and they keep turning toward peace, treaties, and protection for anyone who asks.",
-    "The day ends with the \"steep path\" of freeing slaves. Where scholars past and present read these verses differently, their views are named."
-  ],
-  "passages": [
+  "summary": "Justice owed even to enemies, authority bound by right, and the war verses read in their setting: permission after persecution, strict limits, treaties honoured, and peace accepted whenever it is offered.",
+  "cover": {
+    "alt": "A lone acacia tree on a wide desert plain under a pale morning sky",
+    "prompt": "A single broad acacia tree standing on a wide gravel plain near the hills west of Makkah in early morning, pale sky, low ridges on the horizon, a thin line of mist over the ground, utterly still."
+  },
+  "chapters": [
     {
-      "ref": "4:135",
-      "context": "Madinah, addressed to believers as witnesses, in court and in daily life.",
-      "point": "Justice comes first, even against yourself, your parents or relatives, rich or poor. 5:8 adds that hatred of a people must not make you unjust.",
-      "label": "stated"
+      "lens": "story",
+      "title": "The Key of the Ka'bah",
+      "blocks": [
+        { "p": "In January 630 CE the Prophet ﷺ entered Makkah at the head of some ten thousand people, almost without a fight. The city that had persecuted him for thirteen years and fought him for eight was now his. Commentators report that when he came to the Ka'bah its key was held, as it had long been, by 'Uthman ibn Talhah of the clan of 'Abd al-Dar, one of the families that had opposed him. The key was taken, the House was opened and cleansed of its idols, and members of the Prophet's ﷺ own family hoped to keep the honour of the key for themselves." },
+        { "p": "Instead, the reports say, he called for 'Uthman ibn Talhah and handed the key back to him and his family for ever, reciting a verse of an-Nisa. Al-Jalalayn and others connect its revelation to this moment." },
+        { "verse": "4:58-59" },
+        { "p": "Hundreds of years later, the key of the Ka'bah is still kept by 'Uthman's descendants, the family of Shaybah. A victor returning a symbol of power to a family that had been his enemy: that is how the Quran's teaching on authority begins. Return trusts to whom they are due. Judge with justice. Then obey Allah, the Messenger and \"those in authority among you\", and when you disagree, take it back to Allah and the Messenger." },
+        { "p": "Commentators differ on who \"those in authority\" are: rulers, in al-Tabari's preferred reading, or scholars, in another early view; Ibn Kathir included both. All of them bounded the obedience. Al-Bukhari and Muslim report that a commander once ordered his men, in anger, to walk into a fire. They refused, and the Prophet ﷺ said that had they entered it they would never have come out, adding that obedience is only in what is right. Authority in the Quran is also held by consultation: believers are those \"whose affair is [determined by] consultation among themselves\" (42:38), and even the Prophet ﷺ was told, \"consult them in the matter\" (3:159)." }
+      ]
     },
     {
-      "ref": "4:59",
-      "context": "Follows 4:58: return trusts and judge with justice.",
-      "point": "Obey Allah, the Messenger, and those in authority; every dispute goes back to Allah and His Messenger.",
-      "label": "differ",
-      "note": "Some early scholars read \"those in authority\" as rulers (al-Tabari's preference), others as scholars; Ibn Kathir included both. All bound it: al-Bukhari and Muslim report obedience is only in what is right."
+      "lens": "text",
+      "title": "Witnesses for Allah, Even Against Yourselves",
+      "blocks": [
+        { "p": "The Quran's demand for justice is not a general sentiment. It names the people it is hardest to be fair to." },
+        { "verse": "4:135" },
+        { "p": "Yourself first. Then the people you love most, parents and relatives. Then the two kinds of pressure every court knows: sympathy for the poor and deference to the rich. \"Allah is more worthy of both\": neither needs your bias. The verse even names the two ways testimony is corrupted, distorting it or withholding it. A few verses earlier, commentators connect a passage to a theft in Madinah, reported by al-Tirmidhi: a Muslim household tried to pin a stolen coat of armour on a Jewish man, and the Quran took the Jew's side, telling the Prophet ﷺ, \"do not be for the deceitful an advocate\" (4:105)." },
+        { "p": "Then the hardest case of all: the people you hate." },
+        { "verse": "5:8" },
+        { "word": { "ar": "عَدْل", "tr": "ʿadl", "root": ["ع", "د", "ل"], "meaning": "Justice; balance", "nuance": "To make level, like two pans of a scale brought even; the same root gives *'idl*, one of a pair of loads balanced on a camel. 'Adl gives each person exactly their due. In 16:90 it is paired with *ihsan*, doing more than is due, and the two together are the first things Allah \"orders\"." } },
+        { "p": "Surah an-Nahl compresses all this into a verse that Friday preachers across the world have recited at the end of their sermons for centuries: \"Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression\" (16:90). Its last word, *al-baghy*, means overstepping against others. That is the line the rest of today's verses will draw in war." }
+      ]
     },
     {
-      "ref": "22:39",
-      "context": "Many early scholars say this was the first verse to permit fighting, soon after the Hijra.",
-      "point": "Permission is given to those attacked and wronged. 22:40: they were driven from home for saying \"Our Lord is Allah\", and such defence protects monasteries, churches, synagogues and mosques.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Thirteen Years Without Lifting a Sword",
+      "blocks": [
+        { "p": "For the first thirteen years of the mission, in Makkah, the Muslims were forbidden to fight back. They were boycotted, beaten and mocked. The biographies record that Sumayyah, an elderly woman, was killed for her faith, the first martyr of Islam, and that the enslaved Bilal was laid on the burning sand with a rock on his chest. Some believers fled to Abyssinia, under a Christian king. The Quran of that period told them to be patient, to repel evil with good, and to strive with one weapon: \"strive against them with it [the Qur'an] a great striving\" (25:52). The word there is *jihad*, and its first instrument was a book." },
+        { "p": "In 622 the Prophet ﷺ and his followers emigrated to Madinah, leaving homes and property behind. Many early scholars, Ibn 'Abbas among them, say the first verse to permit fighting came soon afterwards." },
+        { "verse": "22:39-40" },
+        { "p": "The verse uses the passive with care: permission is given to \"those who are being fought, because they were wronged.\" It names the wrong: expulsion from their homes \"only because they say, 'Our Lord is Allah.'\" And it gives a reason that reaches beyond Muslims: if Allah did not check some people by means of others, \"monasteries, churches, synagogues, and mosques\" would be pulled down. Mosques come last on the list." },
+        { "figure": { "kind": "timeline", "title": "From patience to permission to peace", "items": [
+          { "at": "610-622", "label": "Makkah", "text": "Persecution; no permission to fight; jihad by the Quran (25:52)." },
+          { "at": "622", "label": "The Hijra", "text": "Emigration to Madinah; soon after, the first permission (22:39)." },
+          { "at": "624", "label": "Badr", "text": "About 313 Muslims face a Makkan army roughly three times larger." },
+          { "at": "625-627", "label": "Uhud and the Trench", "text": "Makkan armies march on Madinah." },
+          { "at": "628", "label": "Hudaybiyyah", "text": "A ten-year truce, called \"a clear conquest\" (48:1)." },
+          { "at": "630", "label": "Makkah opened", "text": "After allies of Quraysh break the truce; a general amnesty follows." },
+          { "at": "631", "label": "Surah at-Tawbah", "text": "Treaties with Arabian polytheists ended, honoured ones kept to term (9:4)." }
+        ] } }
+      ]
     },
     {
-      "ref": "2:190-192",
-      "context": "Madinah, while Makkan forces still barred Muslims from the Ka'bah.",
-      "point": "Fight only those who fight you, without excess; if they stop, you stop.",
-      "label": "differ",
-      "note": "Ibn 'Abbas, as al-Tabari reports, read \"do not transgress\" as: kill no women, children, elderly or anyone offering peace, and held it binding. Some early scholars held it was widened by 9:36."
+      "lens": "text",
+      "title": "Those Who Fight You, and No Further",
+      "blocks": [
+        { "p": "The fullest early statement of the rules of war is in al-Baqarah, revealed while the Makkans still barred Muslims from the Ka'bah." },
+        { "verse": "2:190-193" },
+        { "p": "\"Fight... those who fight you but do not transgress.\" The verse begins with a target and a limit at once. Ibn 'Abbas, as al-Tabari reports, explained \"do not transgress\" as: do not kill women, children, the elderly, or anyone who offers you peace. \"Kill them wherever you overtake them\" refers to the same people, those already fighting, and the next phrase explains why: \"expel them from wherever they have expelled you.\" *Fitnah*, which the verse calls \"worse than killing\", means persecution: torturing people to make them give up their faith, as had happened in Makkah. And twice the verses say what happens when the enemy stops: \"if they cease, then indeed, Allah is Forgiving and Merciful\"; \"there is to be no aggression except against the oppressors.\"" },
+        { "p": "Peace is not only permitted; it is commanded when offered. \"If they incline to peace, then incline to it [also] and rely upon Allah\" (8:61), even at the risk that it is a trick, for \"sufficient for you is Allah\" (8:62). Those who withdraw and \"offer you peace\" are untouchable: \"Allah has not made for you a cause [for fighting] against them\" (4:90). And for those who are not at war with Muslims at all, the Quran sets the standard of ordinary relations." },
+        { "verse": "60:8-9" },
+        { "p": "The word for how to treat them, *tabarruhum*, comes from *birr*, the same word used for kindness to parents. Al-Bukhari reports that when Asma' bint Abi Bakr's mother, still a polytheist, came to visit her in Madinah, the Prophet ﷺ told her to keep good ties with her mother." }
+      ]
     },
     {
-      "ref": "8:61",
-      "context": "Revealed after Badr. 8:62 adds that if they intend to deceive, Allah is enough.",
-      "point": "If the enemy inclines to peace, incline to it too and rely on Allah.",
-      "label": "differ",
-      "note": "Some early scholars, including Qatadah, held it was abrogated by later verses in surah 9; others, including Ibn Kathir, held it still applies whenever peace serves the community."
+      "lens": "scholar",
+      "title": "The \"Sword Verse\", Read in Its Surah",
+      "blocks": [
+        { "p": "No verse of the Quran is quoted alone more often than 9:5: \"kill the polytheists wherever you find them.\" Read in its surah, it looks different. Surah at-Tawbah opens with a declaration, announced at the pilgrimage of 631, ending the treaties with those Arabian polytheist tribes who had repeatedly broken them. They were given four months' notice. Then come the verses on either side of the famous one." },
+        { "verse": "9:4-6" },
+        { "p": "Before it: those who kept their treaties are excepted, and their treaties must be honoured to the end. After it: any polytheist who asks for protection is to be granted it, taught, and escorted \"to his place of safety.\" A few verses later the cause is named: \"a people who broke their oaths and determined to expel the Messenger, and they had begun [the attack upon] you the first time\" (9:13)." },
+        { "note": "Classical jurists generally held that once a Muslim state existed, its ruler could wage war beyond self-defence to extend its rule, and many read 9:5 and 9:29 as widening earlier limits; al-Jalalayn even says 2:190 was abrogated. But they also debated why an enemy may be fought. The majority, Hanafi, Maliki and Hanbali, held the cause is hostility (*harb*), not unbelief; al-Shafi'i held it was unbelief. That is why most schools forbade killing anyone who does not fight. Many modern scholars, such as Mahmud Shaltut and Wahbah al-Zuhayli, argue the Quran's wars are in essence defensive.", "title": "Where scholars differ" },
+        { "p": "On the conduct of war, the sources agree. Al-Bukhari and Muslim report that when a woman was found killed after one battle, the Prophet ﷺ forbade the killing of women and children. Malik's *Muwatta* records Abu Bakr's instructions to an army leaving for Syria: kill no woman, child or old man, cut no fruit-bearing tree, destroy no inhabited place, slaughter no sheep or camel except for food, and leave alone the monks you will find devoted to worship. Captives are to be freed \"either [by] favor afterwards or ransom\" (47:4)." }
+      ]
     },
     {
-      "ref": "90:12-13",
-      "context": "Makkah, where many early believers were slaves; Abu Bakr freed several, Bilal among them.",
-      "point": "The steep path of real virtue begins with freeing a slave. Later verses made it an expiation (4:92, 5:89, 58:3) and a use of zakah (9:60).",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Treaty That Looked Like Defeat",
+      "blocks": [
+        { "p": "In 628 the Prophet ﷺ set out for Makkah with about fourteen hundred Companions to perform the lesser pilgrimage, carrying only sheathed swords, with sacrificial camels garlanded for the offering. Quraysh blocked the road. At a well called al-Hudaybiyyah, on the edge of the sacred area, the two sides negotiated." },
+        { "image": "day-28-hudaybiyyah", "alt": "A camp of tents beside a well on a desert plain at dusk, camels with garlands resting nearby", "caption": "Al-Hudaybiyyah, on the road to Makkah.", "prompt": "A quiet desert plain at dusk near low hills, a stone-rimmed well, a scatter of simple goat-hair tents, several kneeling camels with coloured garlands around their necks, a lone acacia tree, the first stars appearing." },
+        { "p": "Al-Bukhari records the terms in detail, and to many Companions they seemed humiliating. The Makkan envoy, Suhayl ibn 'Amr, objected to the opening words *In the name of Allah, the Most Merciful*, and to the title \"Messenger of Allah\". The Prophet ﷺ agreed to plainer wording and, when 'Ali could not bring himself to erase the title, erased it with his own hand. The Muslims would turn back that year without the pilgrimage. Anyone fleeing Makkah to join them would be returned, but not the reverse. At that very moment Suhayl's own son, Abu Jandal, stumbled into the camp in chains, and was sent back. 'Umar could barely contain himself." },
+        { "p": "On the way home, Surah al-Fath was revealed: \"Indeed, We have given you, [O Muhammad], a clear conquest\" (48:1). A truce, called a conquest. The years of peace that followed let people meet Islam without a sword between them, and the reports say more people entered it in those two years than in all the years before. When allies of Quraysh broke the truce in 630, the Prophet ﷺ marched on Makkah, and the city opened with very little bloodshed. The biographies report that he declared an amnesty for the people who had fought him for two decades." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Who Has the Right to Declare a War?",
+      "blocks": [
+        { "p": "The hardest question is the one news headlines ask. Armed groups quote these same verses to justify killing civilians. If the Quran contains \"kill them wherever you find them\", isn't this violence simply what it teaches?" },
+        { "p": "Answering honestly means admitting that verses can be misused, and then looking at what the tradition itself says about misuse. Every classical school held that war is declared by a legitimate authority, not by individuals or self-appointed bands; that non-combatants may not be targeted; that treaties and guarantees of safety bind; and that deception which breaks a pledge is forbidden. Al-Bukhari reports the Prophet ﷺ saying that whoever kills a person under a covenant with Muslims will not smell the fragrance of Paradise. A Muslim living in a country under a visa or citizenship is, by the jurists' own logic, bound by such a covenant. Attacks on civilians break nearly every rule the jurists wrote." },
+        { "p": "Nor does the Quran glorify war. It admits that fighting \"is hateful to you\" (2:216). Al-Bukhari and Muslim report the Prophet ﷺ telling his companions not to wish to meet the enemy, but to ask Allah for safety. And the word *jihad* is far wider than battle. Its root means to strain or exert oneself. Abu Dawud and al-Tirmidhi report the Prophet ﷺ saying that among the greatest kinds of jihad is a word of justice spoken before a tyrannical ruler." },
+        { "p": "What remains is a real difference between modern and classical views on whether war could ever be waged for expansion. That debate is serious and scholarly. But the image of a book commanding Muslims to fight everyone everywhere is not one any classical scholar recognised. The Quran's line holds throughout: \"there shall be no compulsion in [acceptance of] the religion\" (2:256)." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "The Steep Pass",
+      "blocks": [
+        { "p": "Justice and war can feel like matters for courts and states. Surah al-Balad, from early Makkah, brings them down to one person on a mountain road." },
+        { "verse": "90:11-16" },
+        { "p": "The *'aqabah* is a steep mountain pass, the kind a loaded camel struggles up. The surah's first example of climbing it is freeing a slave. In Makkah, where some of the first believers were enslaved and tortured, Abu Bakr spent his wealth buying and freeing them, Bilal among them. Later revelation made freeing a slave an expiation for broken oaths, accidental killing and other wrongs (4:92, 5:89, 58:3), assigned part of zakah to it (9:60), and ordered owners to agree to slaves' requests to buy their freedom, even helping \"from the wealth of Allah which He has given you\" (24:33). Muslim societies, like others, kept slavery for centuries; today Muslim scholars overwhelmingly see its abolition as the direction these verses pointed." },
+        { "p": "The pass is still there for each of us. Feeding someone on a day of hunger. Testifying truthfully when the truth costs a friend. Being fair, as 5:8 asks, to a person or a people you have every reason to dislike. These are small wars of their own, fought inside, and the Quran calls them steep for a reason." },
+        { "p": "The closing du'a of al-Baqarah, which many Muslims recite each night, fits the climb: \"Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us\" (2:286)." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "decision",
-    "title": "When fighting is permitted, and its limits",
-    "caption": "A simplified guide to the verses as most scholars apply them. Scholars differ on some points, such as whether fighting beyond defence was ever allowed.",
-    "label": "explained",
-    "items": [
-      { "q": "Is a community attacked, expelled or oppressed?", "yes": "Permission to fight back", "no": "No cause: be kind and just (60:8)", "ref": "22:39" },
-      { "q": "Declared by a lawful authority?", "yes": "Classical law: war is a state's decision", "no": "Individuals may not declare war" },
-      { "q": "Is the person a fighter?", "yes": "Fight without excess", "no": "Spare women, children, the old, the uninvolved", "ref": "2:190" },
-      { "q": "Do they incline to peace?", "yes": "Incline to it too", "ref": "8:61" },
-      { "q": "Is there a treaty they have kept?", "yes": "Honour it to its term", "ref": "9:4" },
-      { "q": "Does someone ask for protection?", "yes": "Grant it; escort them to safety", "ref": "9:6" },
-      { "q": "Are there captives?", "yes": "Free them, by grace or ransom", "ref": "47:4" }
-    ]
-  },
-  "word": {
-    "ar": "عَدْل",
-    "tr": "ʿadl",
-    "root": ["ع", "د", "ل"],
-    "meaning": "Justice; balance",
-    "nuance": "To make level, like weights on an even scale. 'Adl gives each person their due; 16:90 pairs it with ihsan, giving more than is due. The Quran asks for it even toward people we dislike (5:8).",
-    "refs": ["16:90", "5:8"]
-  },
-  "mixup": {
-    "myth": "The Quran tells Muslims to fight all non-Muslims everywhere.",
-    "truth": "The Quran ties fighting to aggression, oppression and broken treaties (2:190, 4:75, 9:13), forbids attacking those who stay out and offer peace (4:90), and allows kindness to those who do not fight (60:8). Verses like 9:5 address the Arabian polytheists of that time, and 9:4 exempts those who kept their treaties. Classical jurists also allowed state-led wars of expansion; many modern scholars limit fighting to defence.",
-    "refs": ["2:190", "4:90", "60:8"]
-  },
-  "remember": [
-    "Justice is owed to everyone, even against yourself or toward a people you dislike (4:135, 5:8).",
-    "Fighting is permitted against aggression and oppression, without transgressing, and it stops when the enemy stops or seeks peace (2:190-192, 8:61).",
-    "Freeing slaves is called the steep path of virtue, and the law opened many doors to it (90:12-13, 24:33)."
-  ],
-  "memorize": "16:90",
+  "carry": "16:90",
   "quiz": [
     {
       "q": "In 4:135, justice must be upheld even against whom?",
       "options": ["Only strangers", "Only enemies", "Only the rich", "Yourself, your parents and relatives"],
       "answer": 3,
-      "why": "4:135: \"be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives.\""
+      "why": "4:135: \"be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives.\" 5:8 adds that hatred of a people must not make you unjust."
     },
     {
-      "q": "According to 2:190, whom are believers told to fight?",
-      "options": ["Those who fight them", "Anyone of another faith", "Anyone who refuses Islam", "All who live nearby"],
-      "answer": 0,
-      "why": "2:190: \"Fight in the way of Allah those who fight you but do not transgress. Indeed. Allah does not like transgressors.\""
-    },
-    {
-      "q": "What does 9:6 say to do when a polytheist asks for protection?",
-      "options": ["Turn him away", "Imprison him", "Grant it, then take him to a place of safety", "Force him to convert"],
+      "q": "What reason does 22:39-40 give for the first permission to fight?",
+      "options": ["To spread the faith by force", "To gain wealth and land", "The believers were fought and wronged, driven from their homes for saying \"Our Lord is Allah\"", "To punish every unbeliever"],
       "answer": 2,
-      "why": "9:6: \"grant him protection so that he may hear the words of Allah. Then deliver him to his place of safety.\" 2:256 adds there is no compulsion in religion."
+      "why": "22:39-40: permission is given \"to those who are being fought, because they were wronged... evicted from their homes without right - only because they say, 'Our Lord is Allah.'\""
+    },
+    {
+      "q": "What does the verse right after 9:5 command when a polytheist asks for protection?",
+      "options": ["Grant it, let him hear the words of Allah, then escort him to safety", "Turn him away", "Imprison him until he converts", "Hand him to his tribe"],
+      "answer": 0,
+      "why": "9:6: \"grant him protection so that he may hear the words of Allah. Then deliver him to his place of safety.\" 9:4 also exempts those who kept their treaties."
+    },
+    {
+      "q": "What does 8:61 say to do when the enemy inclines to peace?",
+      "options": ["Fight on until victory", "Incline to it as well, and rely upon Allah", "Accept only if they convert", "Demand tribute first"],
+      "answer": 1,
+      "why": "8:61: \"if they incline to peace, then incline to it [also] and rely upon Allah.\" 8:62 adds that if they intend to deceive, Allah is sufficient."
     }
   ],
-  "reflect": "Is there someone you find it hard to be fair to, and what would 5:8 ask of you with them?",
-  "deeper": ["4:58", "5:8", "42:38", "3:159", "5:89", "16:91-92", "22:40", "2:193-194", "4:75", "4:90", "9:4-7", "9:13", "60:8-9", "47:4", "5:32", "24:33"],
+  "reflect": "Is there someone you find it hard to be fair to? Write down what 5:8 would ask of you with them this week.",
+  "deeper": ["4:58", "5:8", "42:38", "3:159", "5:89", "16:91-92", "22:40", "2:193-194", "4:75", "4:90", "9:1-13", "60:8-9", "47:4", "5:32", "24:33", "48"],
   "links": [
     { "label": "What does jihad mean?", "href": "/learn/what-does-jihad-mean" },
     { "label": "Is Islam a religion of peace?", "href": "/learn/is-islam-a-religion-of-peace" },

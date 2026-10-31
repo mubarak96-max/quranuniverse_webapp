@@ -3,6 +3,7 @@ import Link from "next/link";
 import Script from "next/script";
 import { Geist, Newsreader, Scheherazade_New } from "next/font/google";
 import { JsonLd } from "@/components/JsonLd";
+import { MobileNav } from "@/components/MobileNav";
 import { ThemeToggle, themeScript } from "@/components/ThemeToggle";
 import { getTheme } from "@/lib/data";
 import { SITE, organization } from "@/lib/site";
@@ -11,6 +12,15 @@ import "./card.css";
 import "./reading.css";
 import "./content.css";
 import "./home.css";
+import "./nav.css";
+
+const NAV = [
+  { href: "/", label: "Surahs" },
+  { href: "/quran-in-30-days", label: "30 Days" },
+  { href: "/timeline", label: "Timeline" },
+  { href: "/names", label: "Names of Allah" },
+  { href: "/games", label: "Games" },
+];
 
 const geist = Geist({ variable: "--font-ui", subsets: ["latin"] });
 const newsreader = Newsreader({
@@ -95,12 +105,13 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
               </span>
             </Link>
             <nav className="nav">
-              <Link href="/">Surahs</Link>
-              <Link href="/quran-in-30-days">30 Days</Link>
-              <Link href="/timeline">Timeline</Link>
-              <Link href="/names">Names of Allah</Link>
-              <Link href="/games">Games</Link>
+              {NAV.map((l) => (
+                <Link key={l.href} href={l.href}>
+                  {l.label}
+                </Link>
+              ))}
               <ThemeToggle />
+              <MobileNav links={NAV} />
             </nav>
           </div>
         </header>

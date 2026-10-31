@@ -1,0 +1,464 @@
+/* Quran in 30 Days: the day reader (one page at a time, like a book) and everything written on its pages. */
+
+.rd,
+.jr,
+.rf {
+  --gold: #c9a55a;
+  --gold-deep: #9b7a35;
+  --ink: #0e1c1f;
+  --paper: color-mix(in srgb, var(--page) 90%, #f4e8cc);
+  --paper-line: color-mix(in srgb, var(--gold) 24%, var(--line));
+  --teal: var(--idea);
+}
+
+:root[data-theme="dark"] .rd,
+:root[data-theme="dark"] .jr,
+:root[data-theme="dark"] .rf {
+  --paper: color-mix(in srgb, var(--page) 94%, #3b3322);
+  --gold-deep: #d9bb78;
+}
+
+html.rd-open,
+html.rd-open body {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
+/* ---------- frame ---------- */
+
+.rd {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: minmax(0, 1fr);
+  color: var(--fg);
+  background:
+    radial-gradient(120% 80% at 50% 0%, #17343a 0%, var(--ink) 62%),
+    var(--ink);
+}
+
+.rd::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("/brand/geometry.svg") center / 240px repeat;
+  opacity: 0.045;
+  pointer-events: none;
+}
+
+.rd-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: max(8px, env(safe-area-inset-top)) 12px 8px;
+  color: #efe6d0;
+}
+
+.rd-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 14px 8px 8px;
+  border-radius: 999px;
+  color: inherit;
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 500;
+  background: color-mix(in srgb, #fff 8%, transparent);
+  transition: background 0.2s;
+}
+
+.rd-back:hover {
+  background: color-mix(in srgb, #fff 15%, transparent);
+}
+
+.rd-label {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-family: var(--display);
+  font-size: 1rem;
+  opacity: 0.8;
+}
+
+.rd-tools {
+  display: flex;
+  gap: 4px;
+}
+
+.rd-icon,
+.rd-turn {
+  width: 42px;
+  height: 42px;
+  flex: none;
+  display: grid;
+  place-items: center;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  font: 600 0.95rem var(--display);
+  transition: background 0.2s, opacity 0.2s;
+}
+
+.rd-icon:hover,
+.rd-turn:hover:not(:disabled) {
+  background: color-mix(in srgb, #fff 12%, transparent);
+}
+
+.rd-icon svg,
+.rd-turn svg,
+.rd-back svg,
+.rd-next svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* ---------- pages ---------- */
+
+.rd-stage {
+  position: relative;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.rd-page {
+  position: absolute;
+  inset: 0;
+  transition: transform 0.55s var(--ease), opacity 0.4s var(--ease), visibility 0s linear 0.55s;
+}
+
+.rd-page[data-state="on"] {
+  transition: transform 0.55s var(--ease), opacity 0.45s var(--ease) 0.05s, visibility 0s;
+}
+
+.rd-page[data-state="before"] {
+  transform: translateX(-7%) scale(0.98);
+  opacity: 0;
+  visibility: hidden;
+}
+
+.rd-page[data-state="after"] {
+  transform: translateX(7%) scale(0.98);
+  opacity: 0;
+  visibility: hidden;
+}
+
+.rd-scroll {
+  --pull: 0;
+  outline: none;
+  height: 100%;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--gold) 40%, transparent) transparent;
+  padding: 0 clamp(0px, 3vw, 24px) 28px;
+}
+
+.rd-sheet {
+  position: relative;
+  width: min(100%, 720px);
+  margin: 0 auto;
+  min-height: calc(100% - 120px);
+  background: var(--paper);
+  border-radius: 18px;
+  box-shadow:
+    0 1px 0 color-mix(in srgb, #fff 30%, transparent) inset,
+    0 30px 80px -30px #000,
+    0 0 0 1px color-mix(in srgb, var(--gold) 16%, transparent);
+  overflow: hidden;
+}
+
+/* The page edge: a faint stack of leaves at the right, so the sheet reads as a page of a book. */
+.rd-sheet::after {
+  content: "";
+  position: absolute;
+  top: 18px;
+  bottom: 18px;
+  right: 0;
+  width: 5px;
+  background: repeating-linear-gradient(90deg, transparent 0 1px, color-mix(in srgb, var(--fg) 7%, transparent) 1px 2px);
+  pointer-events: none;
+}
+
+.rd-next {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 4px 12px;
+  width: min(100%, 720px);
+  margin: 14px auto 0;
+  padding: 16px 20px;
+  border: 1px solid color-mix(in srgb, var(--gold) 35%, transparent);
+  border-radius: 14px;
+  background: color-mix(in srgb, #fff 5%, transparent);
+  color: #efe6d0;
+  text-align: left;
+  cursor: pointer;
+  overflow: hidden;
+  font: inherit;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.rd-next:hover {
+  background: color-mix(in srgb, #fff 10%, transparent);
+  border-color: var(--gold);
+}
+
+.rd-next small {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.rd-next-pull,
+.rd-scroll[data-pulling] .rd-next-idle {
+  display: none;
+}
+
+.rd-scroll[data-pulling] .rd-next-pull {
+  display: inline;
+}
+
+.rd-next b {
+  font: 500 1.08rem/1.3 var(--display);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rd-next svg {
+  transform: translateY(calc(var(--pull) * 6px));
+  transition: transform 0.15s;
+}
+
+/* Fills as the reader keeps scrolling past the end of the page; full means the page turns. */
+.rd-next-bar {
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 3px;
+  background: var(--gold);
+  transform-origin: left;
+  transform: scaleX(var(--pull));
+  transition: transform 0.12s linear;
+}
+
+/* ---------- bottom slider ---------- */
+
+.rd-nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px max(10px, env(safe-area-inset-bottom));
+  color: #efe6d0;
+  background: linear-gradient(to top, color-mix(in srgb, var(--ink) 92%, transparent), transparent);
+}
+
+.rd-turn:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+
+.rd-turn.is-next:not(:disabled) {
+  background: var(--gold);
+  color: var(--ink);
+}
+
+.rd-slider {
+  flex: 1;
+  min-width: 0;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.rd-where {
+  display: flex;
+  gap: 10px;
+  margin: 0 0 6px;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.rd-where span {
+  font-variant-numeric: tabular-nums;
+  opacity: 0.65;
+}
+
+.rd-where b {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500;
+}
+
+.rd-track {
+  position: relative;
+  height: 22px;
+}
+
+.rd-track ol {
+  position: absolute;
+  inset: 9px 0 auto;
+  display: flex;
+  gap: 3px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rd-track li {
+  flex: 1;
+  height: 4px;
+  border-radius: 2px;
+  background: color-mix(in srgb, #fff 16%, transparent);
+  transition: background 0.3s;
+}
+
+.rd-track li.is-read {
+  background: var(--gold);
+}
+
+.rd-track input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  margin: 0;
+  background: transparent;
+  appearance: none;
+  cursor: pointer;
+}
+
+.rd-track input::-webkit-slider-runnable-track {
+  height: 22px;
+  background: transparent;
+}
+
+.rd-track input::-webkit-slider-thumb {
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #f7eed8;
+  border: 4px solid var(--gold);
+  box-shadow: 0 2px 10px #0008;
+}
+
+.rd-track input::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #f7eed8;
+  border: 4px solid var(--gold);
+}
+
+.rd-track input:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 4px;
+  border-radius: 6px;
+}
+
+/* ---------- contents ---------- */
+
+.rd-toc {
+  position: absolute;
+  top: 60px;
+  right: 12px;
+  z-index: 3;
+  width: min(380px, calc(100% - 24px));
+  max-height: calc(100% - 150px);
+  overflow-y: auto;
+  padding: 10px;
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--ink) 94%, #fff);
+  border: 1px solid color-mix(in srgb, var(--gold) 30%, transparent);
+  box-shadow: 0 30px 60px -20px #000;
+  color: #efe6d0;
+  animation: rd-pop 0.25s var(--ease);
+}
+
+@keyframes rd-pop {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+}
+
+.rd-toc ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rd-toc button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  font: 0.95rem/1.3 var(--ui);
+  cursor: pointer;
+}
+
+.rd-toc button:hover,
+.rd-toc button[aria-current] {
+  background: color-mix(in srgb, #fff 9%, transparent);
+}
+
+.rd-toc button[aria-current] {
+  color: var(--gold);
+}
+
+.rd-toc-n {
+  width: 20px;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.55;
+  font-size: 0.82rem;
+}
+
+.lens-i {
+  width: 18px;
+  height: 18px;
+  flex: none;
+}
+
+/* ---------- text size ---------- */
+
+.rd {
+  --fs: 1.14rem;
+}
+
+.rd[data-size="0"] {
+  --fs: 1.02rem;
+}
+
+.rd[data-size="2"] {
+  --fs: 1.3rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rd-page,
+  .rd-page[data-state="on"] {
+    transition: opacity 0.2s, visibility 0s;
+    transform: none !important;
+  }
+}

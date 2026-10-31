@@ -2,161 +2,163 @@
   "day": 15,
   "title": "Three Kinds of People",
   "question": "Why does al-Baqarah give the deniers two verses and the hypocrites thirteen?",
-  "emblem": "people",
-  "intro": [
-    "Al-Baqarah, the longest surah, opens with three portraits. The believers are mindful of Allah and trust what they cannot see. The deniers have closed themselves to the message. The hypocrites say \"we believe\" with their tongues while their hearts say otherwise.",
-    "Two words help here. Kufr means covering over: rejecting, or being ungrateful for, a truth that has become clear. Shirk means giving Allah partners in worship, which Luqman calls \"great injustice\" (31:13). The Quran describes these as states of the heart and choices, not as tribes. Its aim is less to label others than to let each reader ask: which of these am I becoming?"
-  ],
-  "passages": [
+  "summary": "Al-Baqarah opens with three portraits: the mindful believer, the closed denier and the divided hypocrite. See what each one means, why the hidden danger gets the longest warning, and why the portraits are mirrors, not labels.",
+  "cover": {
+    "alt": "A desert path at night in a rainstorm, lightning briefly lighting the way ahead",
+    "prompt": "A narrow desert path between dark rocks at night during a heavy rainstorm, a fork of lightning momentarily illuminating the wet track ahead and the low hills, a small campfire nearby guttering out in the rain, deep shadow everywhere else."
+  },
+  "chapters": [
     {
-      "ref": "2:2-5",
-      "context": "The opening of al-Baqarah, a Madinan surah, right after the letters Alif Lam Mim.",
-      "point": "Believers are known by what they do: trust in the unseen, prayer, giving, faith in all revelation, and certainty about the Hereafter.",
-      "label": "stated"
+      "lens": "story",
+      "title": "Hanzalah Runs Through Madinah",
+      "blocks": [
+        { "p": "One day in Madinah a companion named Hanzalah left his house in distress. Abu Bakr met him in the street and asked what was wrong. Hanzalah said, \"Hanzalah has become a hypocrite.\" The story is in Sahih Muslim, told by Hanzalah himself." },
+        { "p": "He explained. When they sat with the Prophet ﷺ and heard him speak of Paradise and the Fire, it was as if they could see them with their own eyes. Then they went home to their wives, their children and their fields, and they forgot much of it. Surely, he thought, a man whose faith changes between the mosque and the house is a man with two faces." },
+        { "p": "Abu Bakr did not laugh at him. He said that he felt the same thing. So the two of them went together to the Prophet ﷺ. He heard them out and told them that if they stayed always in the state they were in with him, the angels would shake their hands in their beds and in the streets. \"But, Hanzalah, there is a time for this and a time for that,\" he said, and repeated it three times." },
+        { "p": "Keep this story in mind through today. Al-Baqarah, the longest surah, opens with three portraits of people: those who believe, those who deny, and those who say \"we believe\" while their hearts say otherwise. Hanzalah's fear shows how the companions read those portraits. They did not use them to label their neighbours. They held them up to their own hearts and asked which one they were becoming." },
+        { "p": "Ibn Abi Mulaykah, a scholar of the generation after the companions, said he had met thirty of them, and every one feared hypocrisy for himself; al-Bukhari records his words. Al-Hasan al-Basri is reported to have put it more sharply still: only a believer fears hypocrisy, and only a hypocrite feels safe from it." }
+      ]
     },
     {
-      "ref": "43:22-23",
-      "context": "Makkan. The Prophet's ﷺ opponents answer him, and the verse adds that the wealthy of earlier towns said the same.",
-      "point": "The deniers' oldest excuse: our fathers did it. The Quran asks people to weigh a message on its merits, not on custom.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Twenty Verses, Three Portraits",
+      "blocks": [
+        { "p": "Al-Baqarah begins with three letters, *Alif, Lam, Mim*, whose meaning the Quran never explains. Then, in the second verse, it describes itself, and in the same breath the kind of person it will help." },
+        { "verse": "2:2-5" },
+        { "p": "The believers are drawn by what they do: they believe in the unseen, keep up the prayer, spend from what they have been given, believe in all revelation, \"what has been revealed to you\" and \"what was revealed before you\", and are certain of the Hereafter. Five traits, and every one is an action or a settled conviction. Nothing in the portrait is about ethnicity, family or status." },
+        { "p": "Then two verses on the deniers (2:6-7). Then, from verse 8 to verse 20, thirteen verses on a third group the Quran will call the *munafiqun*, the hypocrites. They say, \"We believe in Allah and the Last Day,\" but they are not believers (2:8). They think they are deceiving Allah and the believers, but they deceive only themselves (2:9). They call themselves reformers while causing corruption (2:11). In public they say \"we believe\"; in private they say \"we were only mockers\" (2:14)." },
+        { "figure": { "kind": "facts", "title": "The opening of al-Baqarah", "items": [
+          { "value": "4", "label": "verses on the believers (2:2-5)" },
+          { "value": "2", "label": "verses on the deniers (2:6-7)" },
+          { "value": "13", "label": "verses on the hypocrites (2:8-20)" }
+        ] } },
+        { "p": "Why the imbalance? The commentators answer that open denial is easy to recognise and does its harm in the open. Hypocrisy hides inside the community, wears its clothes and prays in its rows. It is harder to see, harder to guard against, and, above all, a person can slide into it without noticing. The longest warning goes to the danger you are least likely to see in yourself." }
+      ]
     },
     {
-      "ref": "4:142-143",
-      "context": "Madinan. Hypocrisy appears in Madinah, where outward belonging to the Muslims brought safety and standing.",
-      "point": "Hypocrites pray to be seen and waver between both sides. Their problem is a divided heart, not a lack of outward religion.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Word That Means a Shield",
+      "blocks": [
+        { "p": "The Book is \"a guidance for those conscious of Allah\", *hudan li-l-muttaqin* (2:2). Everything in the first portrait unfolds from that one word." },
+        { "word": { "ar": "تَقْوَى", "tr": "taqwā", "root": ["و", "ق", "ي"], "meaning": "Mindfulness of Allah; guarding oneself", "nuance": "From the same root as *wiqayah*, a shield or protection. Taqwa is living aware of Allah in a way that guards you from what harms you. The *muttaqin*, the people of taqwa, are the ones the Quran guides (2:2), and the noblest of people in Allah's sight is the one with the most taqwa (49:13). Translators render it fear, piety, God-consciousness; none captures the whole." } },
+        { "p": "Ibn Kathir's commentary reports a famous exchange. 'Umar asked Ubayy ibn Ka'b what taqwa was. Ubayy asked him whether he had ever walked a path full of thorns. 'Umar said he had. \"What did you do?\" \"I gathered up my clothes and was careful.\" \"That is taqwa.\" It is not terror. It is alertness: walking through the world aware of what could tear you." },
+        { "p": "The next phrase, *alladhina yu'minuna bi-l-ghayb*, \"who believe in the unseen\", is the first trait the Quran gives the believer. The *ghayb* is all that lies beyond the senses: Allah, the angels, the Day of Judgement, the decree. Commentators note the order. Faith in what cannot be seen comes before prayer and charity, which can. The visible acts grow from an invisible root." },
+        { "p": "Then verse 4 adds a trait that is easy to pass over: belief in \"what was revealed before you\". The believer in the Quran's first portrait affirms the Torah, the Psalms and the Gospel as revelations from the same God. Faith, for the Quran, has always been one faith, sent to many peoples." },
+        { "p": "And the portrait ends with a word of promise: *al-muflihun*, \"the successful\" (2:5). Commentators note that the root *f-l-h* was used for ploughing, splitting the soil so that something can grow. It is the same word Muslims hear five times a day in the call to prayer: *hayya 'ala al-falah*, \"come to success\"." }
+      ]
     },
     {
-      "ref": "25:63-67",
-      "context": "Makkan. The close of al-Furqan paints \"the servants of the Most Merciful\".",
-      "point": "The believer in motion: a gentle walk, peace to the rude, prayer at night, fear of Hell, and spending that is neither wasteful nor mean.",
-      "label": "stated"
+      "lens": "reason",
+      "title": "If Allah Seals a Heart, Who Is to Blame?",
+      "blocks": [
+        { "p": "The two verses on the deniers contain one of the hardest lines in the Quran." },
+        { "verse": "2:6-7" },
+        { "p": "The objection writes itself. If Allah sets a seal on someone's heart, how can that person be blamed for not believing? Is the Quran describing a God who closes doors and then punishes people for not walking through them?" },
+        { "p": "The Quran's own answer is found by reading it as a whole, and it is consistent. The seal is never the first act. It is a response. Of people who broke their covenant: \"Allah has sealed them because of their disbelief\" (4:155). Of Musa's people: \"when they deviated, Allah caused their hearts to deviate\" (61:5). Of those who keep doing wrong: \"the stain has covered their hearts of that which they were earning\" (83:14). The Prophet ﷺ explained that last verse, in a hadith in al-Tirmidhi: each sin leaves a black spot on the heart, which repentance polishes away; if a person keeps sinning, the spots spread until they cover it." },
+        { "p": "So the seal describes the end of a long process that the person chose at every stage. Commentators such as al-Zamakhshari read it this way: Allah confirms, as a consequence, the state a person has insisted on. And the verse is about specific people, \"those who disbelieve\" after the truth had become clear to them; scholars note that many who opposed the Prophet ﷺ fiercely later believed. No one can know that someone else's heart is sealed." },
+        { "p": "The word itself helps. *Kufr*, usually translated \"disbelief\", means to cover over. Farmers who cover seed with earth are called *kuffar* in Arabic, and the Quran uses the word for them (57:20). The *kafir* in the Quran's sense is not simply someone of another faith. It is someone who covers over a truth that has become clear to him, as you might cover a gift so as not to have to thank the giver. The oldest excuse for doing so is in the Quran too: \"we found our fathers upon a religion\" (43:22)." }
+      ]
+    },
+    {
+      "lens": "story",
+      "title": "A City of Two Faces",
+      "blocks": [
+        { "p": "Al-Baqarah was revealed in Madinah, and that matters. In Makkah there were no hypocrites. Being a Muslim there cost you your safety, your trade, sometimes your life. No one pretended to be a Muslim in Makkah. In Madinah, once the Muslims became the city's leading community, belonging brought standing and protection, and some people joined outwardly while remaining hostile within." },
+        { "p": "The biographies name the most prominent: 'Abdullah ibn Ubayy, a chief of the Khazraj who had been about to be crowned king of Madinah when the Prophet ﷺ arrived. He accepted Islam in public. On the morning of Uhud, the biographies report, he turned back with about a third of the army. On another expedition, al-Bukhari reports, a young companion, Zayd ibn Arqam, heard him say that when they returned to Madinah, \"the more honoured will surely expel therefrom the more humble\", words the Quran later quotes and answers: \"to Allah belongs [all] honor, and to His Messenger, and to the believers\" (63:8)." },
+        { "verse": "63:1-2" },
+        { "p": "What the Prophet ﷺ did is as striking as what the hypocrites did. When 'Umar asked permission to kill Ibn Ubayy, the Prophet ﷺ refused, saying, in al-Bukhari, that he did not want people to say Muhammad kills his companions. He judged people by what they showed and left their hearts to Allah. When Ibn Ubayy died, the Prophet ﷺ gave his own shirt to shroud him, at his son's request, and prayed his funeral, before a verse came forbidding such prayers for hypocrites (9:84)." },
+        { "p": "The hypocrites of Madinah were known to the Prophet ﷺ by revelation, and even then he did not punish them for what was in their hearts. No one since has had that knowledge about anyone." }
+      ]
+    },
+    {
+      "lens": "text",
+      "title": "A Fire That Goes Out, a Storm at Night",
+      "blocks": [
+        { "p": "The portrait of the hypocrites ends with two parables, and they are among the most vivid images in the Quran." },
+        { "verse": "2:17-20" },
+        { "p": "In the first, a man lights a fire in the dark. For a moment he can see everything around him. Then the light is taken away, and he is left in a darkness deeper than before, because his eyes had adjusted to the flame. Ibn Kathir explains that this is the hypocrite who came close to faith, saw its light, and then exchanged it for darkness. Verse 16 had already used the language of trade: they \"purchased error [in exchange] for guidance\"." },
+        { "p": "Notice a grammatical shift. \"One who kindled a fire\" is singular, but \"Allah took away *their* light\" is plural. Commentators read it as the parable widening as it is told: this is not one man's story but a type." },
+        { "p": "The second parable is a rainstorm at night: darkness, thunder, lightning. The people caught in it put their fingers in their ears. When lightning flashes they take a few steps; when it goes dark, they stand still. Many commentators take the rain as the Quran itself, life-giving, but carrying warnings that frighten those who do not want to hear them. The lightning is the moments of clarity. The hypocrite walks by them, a few steps at a time, and stops the moment the light fails." },
+        { "p": "Between the two parables there is a difference. The man of the fire is left in total darkness. The people in the storm still see by flashes, and still walk a little. Ibn Kathir explains them as two types of hypocrite: one who saw the truth and lost it entirely, and one who wavers, sometimes seeing and sometimes in doubt. The second still has light enough to come home by." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "Words With Sharp Edges",
+      "blocks": [
+        { "p": "Three words carry today's theme, and each is used carefully by Muslim scholars." },
+        { "list": [
+          "*Kufr*, covering over: rejecting, or being ungrateful for, a truth that has become clear. The same root gives ingratitude, as in \"if you deny\" (14:7).",
+          "*Shirk*, association: giving Allah partners in worship. Luqman tells his son it is \"great injustice\" (31:13), because it gives to the creation what belongs only to the Creator.",
+          "*Nifaq*, hypocrisy: from a word for a tunnel with two openings, like the burrow of a desert rodent that enters by one hole and escapes by another. Outward belonging, inward rejection."
+        ] },
+        { "p": "Scholars distinguish two levels of hypocrisy. The hypocrisy of belief, *nifaq i'tiqadi*, is what al-Baqarah and Surah al-Munafiqun describe: claiming faith while disbelieving inwardly. The hypocrisy of action, *nifaq 'amali*, is having traits of a hypocrite while being a believer. The Prophet ﷺ named those traits in a hadith in al-Bukhari and Muslim: when he speaks he lies, when he promises he breaks it, when he is trusted he betrays. A believer can fall into these, and must root them out." },
+        { "p": "Just as carefully, Islamic teaching restrains believers from turning these words on one another. The Prophet ﷺ warned, in al-Bukhari and Muslim, that if a man calls his brother \"disbeliever\", the word returns to one of them. The Quran still calls two groups of believers who fight each other \"believers\" (49:9). And it keeps the door open even for hypocrites: the warning that they will be \"in the lowest depths of the Fire\" is followed at once by \"except for those who repent, correct themselves, hold fast to Allah\" (4:145-146)." },
+        { "p": "For a non-Muslim reader this is worth knowing: in mainstream Islamic thought, judging who is a believer at heart belongs to Allah. Scholars treat declaring a fellow Muslim a disbeliever as a grave matter, hedged with conditions, and they caution ordinary believers to stay well away from it." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Walking Gently on the Earth",
+      "blocks": [
+        { "p": "Al-Baqarah draws the believer in five traits. Near the end of Surah al-Furqan, revealed in Makkah, the Quran paints the same person in motion, and gives them a beautiful name: *'ibad al-Rahman*, the servants of the Most Merciful." },
+        { "verse": "25:63-67" },
+        { "image": "day-15-path", "alt": "A quiet footpath through a desert valley in the soft light of evening", "caption": "\"Those who walk upon the earth easily\" (25:63)", "prompt": "A narrow, well-worn footpath winding gently through a quiet desert valley at evening, soft sand and scattered stones, a few date palms ahead beside a low mud-brick wall, warm low sunlight and long soft shadows." },
+        { "p": "The first thing said of them is how they walk: *hawnan*, gently, without arrogance. The second is how they answer rudeness: *salaman*, with words of peace. Only after these come their night prayers, their fear of Hell and their spending. The Quran begins its portrait of the ideal believer with manners in the street." },
+        { "p": "This is how Muslims are taught to measure themselves, and it gives a non-Muslim a fair standard to measure Muslims by. Not the label, but the walk, the answer to an insult, the night prayer no one sees, the spending that is \"not excessively or sparingly\"." },
+        { "list": [
+          "Read 25:63-77 slowly once this week and mark the trait that is furthest from you. Choose one small act to move toward it.",
+          "Take the three signs of hypocrisy in action as a monthly audit: a lie, a broken promise, a betrayed trust. Repair what you find.",
+          "When someone addresses you harshly online or in person, try the Quran's answer once: a word of peace, and walk on."
+        ] }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Which One Am I Becoming?",
+      "blocks": [
+        { "p": "Go back to Hanzalah in the street. What troubled him was the gap between who he was with the Prophet ﷺ and who he was at home. Every honest person knows that gap. You pray with presence one day and absently the next. You speak of generosity and then hesitate to give. You feel close to Allah at a funeral and far from Him at your desk." },
+        { "p": "The Prophet's ﷺ answer to Hanzalah was not that the gap does not matter. It was that faith rises and falls, and that a believer is not a hypocrite for being human. What separates the two is not the gap but what you do about it. The hypocrite hides it and calls himself a reformer. The believer sees it, grieves over it, and turns back." },
+        { "p": "That is why these portraits were written for you and not about someone else. The companions who knew the Prophet ﷺ best were the ones who worried most about the third portrait, and they were the furthest from it. The question al-Baqarah leaves you with is not \"which of these are other people?\" It is the quieter one: which of these am I becoming, today, by the small choices I make?" },
+        { "p": "Those firm in knowledge, the Quran says, pray with words that every reader can borrow, since no one can guarantee their own heart: \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower\" (3:8)." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "columns",
-    "title": "Who gets the most verses?",
-    "caption": "Al-Baqarah's opening gives the believers 4 verses, the deniers 2, and the hypocrites 13, including two parables of a fire and a rainstorm. The hidden danger gets the longest warning.",
-    "unit": "verses",
-    "items": [
-      {
-        "label": "Believers",
-        "value": 4,
-        "text": "Mindful, praying, giving, certain.",
-        "ref": "2:2-5"
-      },
-      {
-        "label": "Deniers",
-        "value": 2,
-        "text": "Warned or not, they refuse.",
-        "ref": "2:6-7"
-      },
-      {
-        "label": "Hypocrites",
-        "value": 13,
-        "text": "\"We believe\" on the tongue; disease in the heart.",
-        "ref": "2:8-20"
-      }
-    ]
-  },
-  "word": {
-    "ar": "تَقْوَى",
-    "tr": "taqwā",
-    "root": [
-      "و",
-      "ق",
-      "ي"
-    ],
-    "meaning": "Mindfulness of Allah; guarding oneself",
-    "nuance": "From the same root as wiqāyah, a shield. Taqwa is living aware of Allah so that the awareness protects you from wrong. The Book is guidance for the muttaqin, the people of taqwa (2:2), and the noblest of people is the one with the most taqwa (49:13).",
-    "refs": [
-      "2:2",
-      "49:13"
-    ]
-  },
-  "mixup": {
-    "myth": "The Quran's hypocrites are believers who have doubts or who keep falling into sin.",
-    "truth": "The hypocrites the Quran describes claimed faith in public while mocking the believers in private (2:14, 63:1). Struggling with doubt or sin is different: the Quran still calls believers who fight each other \"believers\" (49:9) and invites every sinner back (39:53). Many early scholars said that fearing hypocrisy in yourself is a sign of a living faith.",
-    "refs": [
-      "2:14",
-      "63:1",
-      "49:9",
-      "39:53"
-    ]
-  },
-  "remember": [
-    "Al-Baqarah opens with three portraits: believers (4 verses), deniers (2), hypocrites (13).",
-    "Kufr covers over a clear truth; shirk gives Allah partners; hypocrisy is a divided heart.",
-    "These portraits are mirrors for the reader, not labels to throw at others."
-  ],
-  "memorize": "25:63",
+  "carry": "25:63",
   "quiz": [
     {
-      "q": "In al-Baqarah's opening, which group is given the most verses?",
-      "options": [
-        "The believers",
-        "The deniers",
-        "The hypocrites"
-      ],
-      "answer": 2,
-      "why": "Believers 2:2-5 (4 verses), deniers 2:6-7 (2), hypocrites 2:8-20 (13), including the parables of the fire and the rainstorm."
+      "q": "Why do the commentators say al-Baqarah gives the hypocrites the longest description?",
+      "options": ["Because they were the largest group in Makkah", "Because hidden hypocrisy is harder to recognise and can grow in a person unnoticed", "Because the deniers were already defeated", "Because the believers needed no description"],
+      "answer": 1,
+      "why": "Believers get 4 verses (2:2-5), deniers 2 (2:6-7), hypocrites 13 (2:8-20). Open denial is visible; hypocrisy hides inside the community and inside the self."
     },
     {
-      "q": "What excuse do the deniers give in 43:22-23?",
-      "options": [
-        "\"We found our fathers upon a religion\"",
-        "\"No warner ever came to us\"",
-        "\"Our wealth will protect us\"",
-        "\"We were too busy to listen\""
-      ],
-      "answer": 0,
-      "why": "43:22: \"Indeed, we found our fathers upon a religion, and we are in their footsteps [rightly] guided.\" 43:23 says the wealthy of earlier towns said the same."
+      "q": "How does the Quran itself explain the \"seal\" on the deniers' hearts (2:7)?",
+      "options": ["As something done arbitrarily before they could choose", "As a consequence of their own persistent rejection", "As a sign that they were never offered guidance", "As temporary forgetfulness"],
+      "answer": 1,
+      "why": "4:155: \"Allah has sealed them because of their disbelief\"; 61:5: \"when they deviated, Allah caused their hearts to deviate\"; 83:14: the stain of \"that which they were earning\"."
+    },
+    {
+      "q": "In the parable of 2:17, what happens to the man who kindles a fire?",
+      "options": ["The fire spreads and burns his home", "Its light is taken away and he is left in darkness", "He uses it to guide travellers", "Rain puts it out and he finds shelter"],
+      "answer": 1,
+      "why": "2:17: \"when it illuminated what was around him, Allah took away their light and left them in darkness [so] they could not see.\" The hypocrite saw the light of faith and exchanged it for darkness (2:16)."
     },
     {
       "q": "How do the servants of the Most Merciful answer the ignorant who address them harshly?",
-      "options": [
-        "They walk away in silence",
-        "They say words of peace",
-        "They answer harshly back",
-        "They complain to others"
-      ],
+      "options": ["They walk away in silence", "They say words of peace", "They answer harshly back", "They report them to the authorities"],
       "answer": 1,
-      "why": "25:63: \"when the ignorant address them [harshly], they say [words of] peace.\""
+      "why": "25:63: \"when the ignorant address them [harshly], they say [words of] peace.\" The Quran's portrait of the believer begins with how they walk and how they answer rudeness."
     }
   ],
-  "reflect": "Which quality of the servants of the Most Merciful in 25:63-67 feels closest to you, and which feels furthest away?",
-  "deeper": [
-    "2:1-20",
-    "2:21-29",
-    "23:1-11",
-    "25:63-76",
-    "63",
-    "45:23",
-    "9:67-72",
-    "31:13"
-  ],
+  "reflect": "Hanzalah feared he was a hypocrite because his faith felt different at home than in the mosque. Where is the gap between who you are in your best moments and who you are the rest of the time, and what is one step that would narrow it?",
+  "deeper": ["2:1-20", "2:21-29", "23:1-11", "25:63-76", "63", "45:23", "9:67-72", "31:13"],
   "links": [
-    {
-      "label": "What do Muslims believe?",
-      "href": "/learn/what-do-muslims-believe"
-    },
-    {
-      "label": "What is tawheed?",
-      "href": "/learn/what-is-tawheed"
-    },
-    {
-      "label": "The hypocrites of Madinah",
-      "href": "/timeline/villains/munafiqun"
-    },
-    {
-      "label": "Read Surah Al-Furqan",
-      "href": "/surah/al-furqan"
-    }
+    { "label": "What do Muslims believe?", "href": "/learn/what-do-muslims-believe" },
+    { "label": "What is tawheed?", "href": "/learn/what-is-tawheed" },
+    { "label": "The hypocrites of Madinah", "href": "/timeline/villains/munafiqun" },
+    { "label": "Read Surah Al-Furqan", "href": "/surah/al-furqan" }
   ],
-  "connections": [
-    2,
-    14,
-    23
-  ],
+  "connections": [2, 14, 23],
   "status": "draft"
 }

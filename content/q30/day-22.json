@@ -1,168 +1,160 @@
 {
   "day": 22,
-  "title": "Paradise",
+  "title": "Paradise: A Garden, and More",
   "question": "What could be greater than a garden with rivers of milk and honey?",
-  "emblem": "garden",
-  "intro": [
-    "The Quran describes Paradise, al-Jannah, in the language of gardens: shade, flowing rivers, fruit hanging low, no burning sun and no bitter cold. To people who first heard it in a dry land, these were the clearest pictures of a home without want.",
-    "Yet it also says the reality is beyond description: \"no soul knows what has been hidden for them\" (32:17). And its greatest gifts are not physical at all: hearts cleared of resentment, a greeting of peace, Allah's approval, and the sight of their Lord. Today you will see the four rivers, the ranks and gates, and what is promised beyond the gardens."
-  ],
-  "passages": [
+  "summary": "How the Quran describes Paradise in images a desert people could feel, what it says is removed there, the ranks and gates, and the gift it calls greater than every garden.",
+  "cover": {
+    "alt": "A shaded garden with low-hanging fruit and a clear river winding between palms and fruit trees in soft morning light",
+    "prompt": "A vast garden in soft morning light: tall date palms and fruit trees with branches hanging low under ripe fruit, deep green shade, and a clear river winding between them, its water catching the light. Gentle mist over the far trees, no harsh sun, a sense of endless calm and space."
+  },
+  "chapters": [
     {
-      "ref": "47:15",
-      "context": "Madinan, from Surah Muhammad. The verse ends by contrasting the drink of the Fire.",
-      "point": "Four rivers, each a perfected form of something known: water never stale, milk unchanging, wine that delights, honey made pure. And with them, forgiveness.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Four Rivers for People Who Carried Water",
+      "blocks": [
+        { "p": "Think of who first heard this verse. Arabia in the seventh century: water drawn from wells by rope, carried in skins that soured it within days; milk that turned in the heat before evening; wine that brought quarrels and headaches; wild honey gathered from rock clefts, full of wax and the bodies of bees. Into that world came one sentence:" },
+        { "verse": "47:15" },
+        { "p": "Each river is something they knew, with its flaw removed. Water \"unaltered\": the Arabic *ghayri āsin* means water that has not gone stale or changed in smell. Milk \"the taste of which never changes\". Wine \"delicious to those who drink\", and elsewhere \"no headache will they have therefrom, nor will they be intoxicated\" (56:19). Honey \"purified\", strained of everything but sweetness. Then, at the end of the list, something that is not a drink at all: \"forgiveness from their Lord\"." },
+        { "p": "This is the Quran's method throughout. It describes Paradise in the vocabulary of a garden, *jannah*, because a garden was the clearest picture of home without want that a desert people could hold. Rivers flow \"beneath\" its gardens, a phrase repeated more than thirty times. There is shade, and \"they will not see therein any [burning] sun or [freezing] cold\" (76:13). Its fruit hangs low \"in compliance\" (76:14), within reach without climbing." },
+        { "word": { "ar": "جَنَّة", "tr": "jannah", "root": ["ج", "ن", "ن"], "meaning": "Garden; Paradise", "nuance": "From j-n-n, to cover or conceal. A jannah is a garden so dense with trees that the ground beneath is hidden. The same root gives jinn, beings hidden from sight, janīn, a child hidden in the womb, and junnah, a shield. Paradise is a garden whose fullness is still hidden from us: \"no soul knows what has been hidden for them\" (32:17)." } },
+        { "p": "And yet the Quran also warns against taking the picture as the whole. When the people of Paradise are given its fruit, they say, \"This is what we were provided with before\", and the verse adds, \"it is given to them in likeness\" (2:25). Ibn 'Abbas is reported to have said that nothing in this world resembles anything in Paradise except in name. The words are borrowed from here. The reality is not." }
+      ]
     },
     {
-      "ref": "15:45-48",
-      "context": "Makkan, from al-Hijr, right after the warning of Hell's seven gates (15:43-44).",
-      "point": "Paradise begins in the heart: every resentment is removed, and people sit as brothers facing each other, never tired, never sent away.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A Farmer in Paradise",
+      "blocks": [
+        { "p": "Madinah, a gathering in the mosque. The Prophet ﷺ is speaking about Paradise, and among those listening is a Bedouin from the desert. Abu Hurayrah narrates what was said, and al-Bukhari preserves it." },
+        { "p": "A man among the people of Paradise, the Prophet ﷺ said, will ask his Lord's permission to farm. He will be asked: do you not have everything you wish for? Yes, he will say, but I love to plant. So he sows his seed, and in the blink of an eye it sprouts, ripens, is harvested and stacked like mountains. And Allah will say to him: take it, son of Adam; nothing satisfies you." },
+        { "p": "The Bedouin spoke up. That man, he said, must be from Quraysh or the Ansar, because they are farmers. As for us, we are not people of farming. And the Prophet ﷺ laughed." },
+        { "image": "day-22-orchard", "alt": "A palm orchard with a stone water channel running between the trees and ripe dates hanging in clusters", "caption": "A garden worked with love, then given without labour.", "prompt": "An oasis orchard in early morning: rows of date palms heavy with golden clusters, a narrow stone channel carrying clear water between their trunks, freshly turned earth and young green shoots in the foreground. Soft low light, long shadows, birds on the fronds." },
+        { "p": "The story is light, and it is meant to be. But it carries a serious point. Paradise in the Quran is not an erasure of who you were. The farmer still loves to plant. What is gone is the toil, the waiting, the drought, the failed harvest. The love remains." },
+        { "p": "There is a fiercer story too, from the plain of Badr. Muslim reports that as the battle began, the Prophet ﷺ called out, \"Rise to a Garden as wide as the heavens and the earth\" (echoing 3:133). A young man named 'Umayr ibn al-Humam was eating a handful of dates. If I live until I finish these, he said, that is a long life, and he threw them down. For the first Muslims, Paradise was not a pleasant idea. It was close enough to change what they did with their hands that very hour." }
+      ]
     },
     {
-      "ref": "9:72",
-      "context": "Madinan, from at-Tawbah. It names believing men and believing women together.",
-      "point": "Gardens, rivers and fine homes are promised, then the verse lifts higher: \"approval from Allah is greater.\" That is the great attainment.",
-      "label": "stated"
+      "lens": "text",
+      "title": "What Is Taken Away",
+      "blocks": [
+        { "p": "A surprising amount of the Quran's Paradise is described not by what is added but by what is removed. Read these verses from al-Hijr slowly, and notice how many are negations:" },
+        { "verse": "15:45-48" },
+        { "p": "The first thing done to the people of Paradise is not a gift to the body. It is surgery on the heart: \"We will remove whatever is in their breasts of resentment.\" The same promise appears in 7:43. Old grudges, envy, the quiet bitterness people carry for decades, all lifted out. Only then do they sit \"as brothers, on thrones facing each other\". Facing, the commentators note: no one has their back turned to anyone." },
+        { "list": [
+          "**No fatigue**, and no fear of being sent away (15:48).",
+          "**No sorrow**: \"Praise to Allah, who has removed from us [all] sorrow\" (35:34).",
+          "**No weariness of mind** (35:35), the boredom some imagine eternity would bring.",
+          "**No ill speech**: \"They will not hear therein ill speech or commission of sin - only a saying: 'Peace, peace'\" (56:25-26).",
+          "**No death**: \"They will not taste death therein except the first death\" (44:56).",
+          "**No wish to leave**: \"They will not desire from it any transfer\" (18:108)."
+        ] },
+        { "p": "That last line answers an old human worry: would forever not become tedious? The Quran's reply is that the restlessness itself is taken away. Their speech, it says, begins with \"Exalted are You, O Allah\", their greeting is \"Peace\", and the last of their call is \"Praise to Allah, Lord of the worlds\" (10:10). Paradise is the place where praise is finally effortless." }
+      ]
     },
     {
-      "ref": "75:22-23",
-      "context": "Makkan, from al-Qiyamah. A hadith in Muslim explains the \"extra\" of 10:26 as this sight.",
-      "point": "Radiant faces, looking at their Lord.",
-      "label": "differ",
-      "note": "Most scholars, with hadith in al-Bukhari and Muslim, take this as a real seeing of Allah. The Mu'tazilah, an early theological school, read \"looking at\" as looking to, awaiting their Lord's reward."
+      "lens": "scholar",
+      "title": "A Hundred Ranks and Eight Gates",
+      "blocks": [
+        { "p": "Paradise in the Quran is not one level. Surah ar-Rahman describes \"two gardens\" for the one who \"feared the position of his Lord\", and then \"below them both... two [other] gardens\" (55:46, 55:62). Surah al-Waqi'ah divides people into the forerunners \"brought near\" and the companions of the right (56:10-11). The hadith fill in the shape." },
+        { "figure": { "kind": "facts", "title": "The shape of Paradise in the hadith", "items": [
+          { "value": "100", "label": "ranks, the distance between two like that between heaven and earth (al-Bukhari)" },
+          { "value": "8", "label": "gates, among them ar-Rayyān, for those who fast (al-Bukhari, Muslim)" },
+          { "value": "al-Firdaws", "label": "the highest and central garden, beneath the Throne, source of its rivers (al-Bukhari)" },
+          { "value": "4", "label": "kinds of river named in the Quran: water, milk, wine and honey (47:15)" }
+        ] } },
+        { "p": "The Prophet ﷺ told his companions that when they ask Allah for Paradise, they should ask for al-Firdaws, the middle and highest of it, above which is the Throne of the Most Merciful and from which its rivers spring (al-Bukhari). Muslims still do, in their personal prayers, to this day." },
+        { "p": "The commentators drew attention to how the Quran describes arrival. For the Fire, the gates are opened only when the people reach them (39:71). For Paradise the Arabic adds a small \"and\": *wa futiḥat abwābuhā*, \"while its gates have been opened\" (39:73). Many classical commentators read this as a sign that the gates stand open already, waiting, like a host's door for an honoured guest. The keepers greet them: \"Peace be upon you; you have become pure.\"" },
+        { "p": "Families are reunited. The righteous enter \"with whoever were righteous among their fathers, their spouses and their descendants\" (13:23), and Allah raises believing children to the rank of their parents, \"and We will not deprive them of anything of their deeds\" (52:21). Ibn Kathir explains that the lower is lifted to the higher; the higher is not brought down." },
+        { "p": "Yet for all this detail, the hadith themselves keep pointing past it. In a hadith qudsi, words of Allah conveyed by the Prophet ﷺ in his own phrasing, Allah says:" },
+        { "quote": "I have prepared for My righteous servants what no eye has seen, no ear has heard, and has never occurred to a human heart.", "by": "Hadith qudsi, in al-Bukhari and Muslim" },
+        { "p": "Abu Hurayrah, who narrated it, would add: recite, if you wish, \"no soul knows what has been hidden for them of comfort for eyes\" (32:17). The ranks and gates are real, but they are a floor plan, not the house. Remember too where yesterday ended: the very lowest of the people of Paradise is given ten times the world." }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "A Paradise of the Senses?",
+      "blocks": [
+        { "p": "The challenge, stated fairly: the Quran's Paradise sounds like a desert man's fantasy, all couches, silk, wine and beautiful companions. Is this not a crude, physical heaven, and one mainly for men?" },
+        { "p": "Start with the text, not the caricature. The Quran promises Paradise to \"the believing men and believing women\" alike (9:72), and lists the two side by side, quality by quality, in 33:35. \"Whoever does righteous deeds, whether male or female, while being a believer - those will enter Paradise and will not be wronged\" (4:124). Spouses there are \"purified\" (2:25), a word used for both. The famous *ḥūr*, companions with large, beautiful eyes (56:22), are real in mainstream belief; some scholars add that a believing woman of this world, with her faith, will surpass them, and that every desire, of man or woman, is met (41:31)." },
+        { "p": "Second, the physical is real but not the summit. Classical theology insisted on both: the body is resurrected, so its joys are real, against those who reduced Paradise to a metaphor. But the Quran sets a ladder. After gardens, rivers and dwellings, 9:72 adds, \"but approval from Allah is greater.\" After everything the soul desires, 50:35 adds, \"and with Us is more.\" The verses build toward something no image can hold." },
+        { "p": "Even the wine makes the point. Muslims are forbidden wine in this life, so why promise it in the next? Because what the Quran forbids is not the pleasure but its harm. The wine of Paradise brings \"no headache... nor will they be intoxicated\" (56:19), and it is passed among friends \"wherein [results] no ill speech or commission of sin\" (52:23). What made it dangerous here, the clouded mind, the quarrel, the shame, is simply absent there. The same logic runs through every image: the good of a thing kept, its shadow removed." },
+        { "p": "Third, Paradise is never earned like a wage. The Prophet ﷺ said that no one enters Paradise by their deeds alone. Not even you? his companions asked. \"Not even me, unless Allah covers me with His mercy\" (al-Bukhari and Muslim). The garden is a gift, and the deeds are the way a person says yes to it." },
+        { "p": "What remains a matter of faith is the reality itself. Muslims believe these descriptions are true and not only symbolic; they also believe, with 32:17, that the truth will exceed them. That is not a dodge. It is what the text says about itself." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "Faces Looking at Their Lord",
+      "blocks": [
+        { "p": "Two short verses in Surah al-Qiyamah describe the highest gift the Quran names:" },
+        { "verse": "75:22-23" },
+        { "p": "*Nāḍirah*, radiant, and *nāẓirah*, looking: the two words differ by a single letter, as if the radiance of the face comes from where it is looking. The Prophet ﷺ explained the \"extra\" of 10:26 the same way. When the people of Paradise have entered, Allah will ask whether they want anything more, and they will say: have You not brightened our faces, admitted us to the Garden and saved us from the Fire? Then the veil will be lifted, and nothing they were given will be dearer to them than looking at their Lord (Muslim, from Suhayb)." },
+        { "p": "In another report, the companions sat with the Prophet ﷺ on a night of the full moon. He looked at it and said that they would see their Lord as they saw this moon, without crowding one another to see it (al-Bukhari and Muslim)." },
+        { "note": "Most Sunni scholars, following these hadith, hold that believers will truly see Allah in the Hereafter, without that sight implying a body, place or limit, \"bi-lā kayf\", without asking how. The Mu'tazilah, an early rationalist school, and later Twelver Shi'i theologians read \"looking at\" as looking toward, awaiting their Lord's reward, holding that Allah cannot be seen. Both sides agree the verse describes joy beyond any garden.", "title": "Where scholars differ" },
+        { "p": "Then one final gift, in a hadith from Abu Sa'id al-Khudri. Allah will call to the people of Paradise and ask if they are content. How could we not be, they will answer, when You have given us what You gave no one else? He will say: shall I give you something better still? I bestow My pleasure upon you, and I will never be displeased with you after it (al-Bukhari and Muslim). The garden is a place. This is a relationship." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Paradise Begins in the Chest",
+      "blocks": [
+        { "p": "Go back to that first gift: \"We will remove whatever is in their breasts of resentment\" (15:47). Before the rivers, before the thrones, a heart is emptied of grudges." },
+        { "p": "There is something both beautiful and uncomfortable here. The people sitting face to face on those thrones are not strangers. Many of them hurt each other in this life: siblings who stopped speaking, friends who betrayed, spouses who failed. Paradise, in the Quran, is where they finally sit facing one another without the weight. Which raises a quiet question: why wait?" },
+        { "p": "The Quran describes those who enter as people who came \"with a heart returning\" (50:33). And it gives one of its most tender addresses to the soul at the moment of arrival:" },
+        { "verse": "89:27-30" },
+        { "p": "*Rāḍiyah marḍiyyah*: well-pleased, and pleasing. Content with Allah, and Allah content with you. Many Muslims hope to hear these words at death. Many find they are worth living toward now: a heart that is at peace with its Lord, and so a little more at peace with everyone else." },
+        { "p": "If you have lost someone you love, you may carry these verses differently: the promise of 13:23 that families enter together, the greeting of peace at the gate. Grief in Islam is not forbidden; the Prophet ﷺ wept at the death of his infant son Ibrahim, and said the eyes shed tears and the heart grieves, but we say only what pleases our Lord (al-Bukhari). Grief is held inside a hope." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "Trees Planted in Advance",
+      "blocks": [
+        { "p": "For a practising Muslim, Paradise is not only a hope for after death; it shapes small habits now. The Prophet ﷺ related that on the Night Journey, Ibrahim asked him to tell his community that Paradise is a plain of good soil and sweet water, and its plants are the words *subḥān Allāh*, *al-ḥamdu lillāh*, *lā ilāha illā Allāh* and *Allāhu akbar* (at-Tirmidhi). Each phrase of remembrance, in this picture, is a seed planted in a garden you have not yet seen." },
+        { "list": [
+          "**Ask for al-Firdaws.** Muslims ask not just for Paradise but for its highest garden, as the Prophet ﷺ taught (al-Bukhari).",
+          "**Fast, and remember the gate of ar-Rayyan**, reserved for those who fasted, and closed once they have entered (al-Bukhari and Muslim).",
+          "**Mend a quarrel.** If Paradise begins with hearts cleared of resentment (15:47), forgiveness is a way of practising it.",
+          "**Speak peace.** The greeting of Paradise is *salām* (10:10). Muslims greet each other with it many times a day, *as-salāmu ʿalaykum*, peace be upon you."
+        ] },
+        { "p": "For a non-Muslim, this explains something you may have noticed in Muslim friends: a calm, sometimes startling, in the face of death. At a Muslim funeral you will hear grief, but also the words of 2:156: \"Indeed we belong to Allah, and indeed to Him we will return.\" For a believer, death is not a wall. It is a door, and the Quran says that on the far side of it, for those who turned to their Lord, the gates are already open." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "panels",
-    "title": "The four rivers",
-    "caption": "47:15 names four rivers in Paradise, each a perfected form of a drink known here. A hadith in al-Bukhari adds that the rivers of Paradise spring from al-Firdaws, its highest part.",
-    "items": [
-      {
-        "icon": "drop",
-        "label": "Water",
-        "text": "Water unaltered, never stale",
-        "ref": "47:15"
-      },
-      {
-        "icon": "cup",
-        "label": "Milk",
-        "text": "Milk whose taste never changes",
-        "ref": "47:15"
-      },
-      {
-        "icon": "grapes",
-        "label": "Wine",
-        "text": "A delight to drink, with no headache or intoxication",
-        "ref": "56:19"
-      },
-      {
-        "icon": "jar",
-        "label": "Honey",
-        "text": "Honey, purified",
-        "ref": "47:15"
-      }
-    ]
-  },
-  "word": {
-    "ar": "جَنَّة",
-    "tr": "jannah",
-    "root": [
-      "ج",
-      "ن",
-      "ن"
-    ],
-    "meaning": "Garden; Paradise",
-    "nuance": "From j-n-n, to cover or hide. A jannah is a garden so thick with trees that the ground is hidden. The same root gives jinn, beings hidden from sight, and janīn, a child hidden in the womb. Paradise is a garden whose fullness is still hidden from us (32:17).",
-    "refs": [
-      "47:15",
-      "32:17"
-    ]
-  },
-  "mixup": {
-    "myth": "Paradise in Islam is only about physical pleasures, and mainly for men.",
-    "truth": "The Quran promises Paradise to \"believing men and believing women\" alike (9:72, 33:35). Its pleasures are real, but it calls Allah's approval greater, removes resentment from hearts (15:47), and speaks of a joy no soul can picture (32:17). The highest gift, most scholars hold, is seeing Allah (75:23).",
-    "refs": [
-      "9:72",
-      "33:35",
-      "15:47",
-      "32:17"
-    ]
-  },
-  "remember": [
-    "The four rivers of 47:15: water, milk, wine without harm, and pure honey.",
-    "Hearts are cleared of resentment, and the greeting there is \"Peace\" (15:47, 10:10).",
-    "Allah's approval is greater than the gardens, and the faces of its people look at their Lord (9:72, 75:23)."
-  ],
-  "memorize": "32:17",
+  "carry": "32:17",
   "quiz": [
     {
-      "q": "Which of these is NOT one of the four rivers in 47:15?",
-      "options": [
-        "Milk",
-        "Honey",
-        "Water",
-        "Oil"
-      ],
+      "q": "Which of these is NOT one of the four rivers named in 47:15?",
+      "options": ["Milk", "Purified honey", "Unaltered water", "Oil"],
       "answer": 3,
-      "why": "47:15 names rivers of water, milk, wine and purified honey. Oil is not among them."
+      "why": "47:15 names rivers of water unaltered, milk whose taste never changes, wine delicious to drink, and purified honey, and adds forgiveness from their Lord. Oil is not among them."
+    },
+    {
+      "q": "According to 15:47, what is the first thing done for the people of Paradise?",
+      "options": ["They are given crowns", "Resentment is removed from their hearts", "They are shown their deeds", "They are given new names"],
+      "answer": 1,
+      "why": "15:47: \"We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.\" 7:43 repeats the promise."
     },
     {
       "q": "What does 9:72 call greater than the gardens and dwellings?",
-      "options": [
-        "Approval from Allah",
-        "Endless wealth",
-        "Rule over the earth"
-      ],
+      "options": ["Approval from Allah", "Endless wealth", "Rule over the earth", "Eternal youth"],
       "answer": 0,
       "why": "9:72: \"...pleasant dwellings in gardens of perpetual residence; but approval from Allah is greater. It is that which is the great attainment.\""
     },
     {
-      "q": "What do the keepers of Paradise say at its open gates in 39:73?",
-      "options": [
-        "\"Wait until you are judged\"",
-        "\"Peace be upon you; you have become pure\"",
-        "\"Go back and prepare\""
-      ],
+      "q": "How did the Prophet ﷺ explain the \"extra\" promised in 10:26, according to the hadith in Muslim?",
+      "options": ["A larger palace", "Seeing their Lord when the veil is lifted", "Returning to earth", "Knowledge of the unseen"],
       "answer": 1,
-      "why": "39:73: its keepers say, \"Peace be upon you; you have become pure; so enter it to abide eternally therein.\""
+      "why": "In Muslim's hadith from Suhayb, the veil is lifted and nothing is dearer to the people of Paradise than looking at their Lord. 75:22-23 describes faces \"looking at their Lord.\""
     }
   ],
-  "reflect": "If Paradise begins with hearts cleared of resentment (15:47), is there someone you could begin to forgive now?",
-  "deeper": [
-    "55:46-78",
-    "56:10-40",
-    "76:5-22",
-    "18:107-108",
-    "10:9-10",
-    "10:26",
-    "13:23-24",
-    "39:73-74",
-    "50:31-35"
-  ],
+  "reflect": "If Paradise begins with a heart cleared of resentment (15:47), is there someone you could begin to forgive now, or something in you that you would want removed?",
+  "deeper": ["55:46-78", "56:10-40", "76:5-22", "18:107-108", "10:9-10", "10:26", "13:23-24", "39:73-74", "50:31-35", "35:33-35", "98:8"],
   "links": [
-    {
-      "label": "Jannah in Islam",
-      "href": "/learn/jannah-in-islam"
-    },
-    {
-      "label": "Read Surah Ar-Rahman",
-      "href": "/surah/ar-rahman"
-    },
-    {
-      "label": "Read Surah Al-Waqi'ah",
-      "href": "/surah/al-waqiah"
-    },
-    {
-      "label": "As-Salam, the Source of Peace",
-      "href": "/names/as-salam"
-    }
+    { "label": "Jannah in Islam", "href": "/learn/jannah-in-islam" },
+    { "label": "Read Surah Ar-Rahman", "href": "/surah/ar-rahman" },
+    { "label": "Read Surah Al-Waqi'ah", "href": "/surah/al-waqiah" },
+    { "label": "As-Salam, the Source of Peace", "href": "/names/as-salam" }
   ],
-  "connections": [
-    20,
-    21,
-    23
-  ],
+  "connections": [20, 21, 23],
   "status": "draft"
 }

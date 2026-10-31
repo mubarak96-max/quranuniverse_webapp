@@ -859,7 +859,4 @@ summary:focus-visible {
   .search {
     flex-basis: 100%;
   }
-  .nav a {
-    display: none;
-  }
 }

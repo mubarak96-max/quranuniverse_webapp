@@ -1,110 +1,155 @@
 {
   "day": 2,
-  "title": "Allah: One, Names, Attributes",
+  "title": "Allah: The One, and His Best Names",
   "question": "Who is the One the Quran calls Allah?",
-  "emblem": "rays",
-  "intro": [
-    "Every page of the Quran points back to one theme: Allah is One. The Arabic word for this is tawhid. It means more than counting to one. There is no creator, ruler or object of worship beside Him, and nothing in creation is like Him.",
-    "The Quran introduces Allah mostly through His names: the Entirely Merciful, the Knower, the Ever-Living. It invites people to call on Him by them (7:180). Ar-Rahman and ar-Rahim both come from rahmah, mercy. Many scholars explain the first as mercy vast enough to hold all creation, and the second as mercy that reaches people, especially believers.",
-    "Later scholars sorted tawhid into His lordship, His sole right to worship, and His names and attributes. That grouping is a teaching tool, not a verse, and some schools group it differently. Today you will read the passages it was built from."
-  ],
-  "passages": [
+  "summary": "What the Quran means by tawhid, the oneness of Allah: read through al-Ikhlas, al-Fatihah and Ayat al-Kursi, His names of majesty and mercy, and the arguments the Quran gives for one God.",
+  "cover": {
+    "alt": "Rays of early sunlight breaking over a ridge of desert mountains into a wide, empty valley",
+    "prompt": "Long rays of early morning sunlight breaking over a ridge of dark desert mountains and spreading across a wide, empty valley of sand and stone. A single acacia tree stands in the foreground, the sky pale gold fading to deep blue."
+  },
+  "chapters": [
     {
-      "ref": "112:1-4",
-      "context": "A short Makkan surah. A hadith in al-Bukhari says it is equal to a third of the Quran.",
-      "point": "Allah is One, the Eternal Refuge every creature needs. He has no parent, no child and no equal.",
-      "label": "stated"
+      "lens": "story",
+      "title": "A City That Already Believed in Allah",
+      "blocks": [
+        { "p": "It surprises many readers to learn that the people of Makkah, who fought the Prophet ﷺ for twenty years, already believed in Allah. The word was old in Arabic long before the Quran. His own father was named 'Abdullah, \"servant of Allah\". Ask a Makkan merchant who made the sky, and he would have answered without hesitation. The Quran records exactly that: \"If you asked them, 'Who created the heavens and earth and subjected the sun and the moon?' they would surely say, 'Allah.' Then how are they deluded?\" (29:61)." },
+        { "p": "The problem was not whether Allah existed but what else stood beside Him. Around the Ka'bah, the cube-shaped house of worship that Muslims believe Ibrahim and his son Isma'il built for the One God, stood idols of stone and wood. The tribes each had their own. Pilgrims brought offerings to them and swore by them. Their defence was reasonable-sounding: \"We only worship them that they may bring us nearer to Allah in position\" (39:3). Allah was the high, distant king; these were the courtiers you approached for a favour." },
+        { "p": "Into this city came a message whose first claim was that there are no courtiers. No intermediaries, no partners, no daughters of God, no lesser gods with their own territory. Nothing to approach Him through except Him." },
+        { "p": "Ibn Kathir records a report, through Imam Ahmad and al-Tirmidhi, that the idolaters once came to the Prophet ﷺ and said: tell us the lineage of your Lord. Their gods had genealogies, and they wanted to know his. The reply came in four short verses that Muslims have recited in their prayers ever since." },
+        { "p": "Years later, when the Prophet ﷺ entered Makkah in 630 CE, al-Bukhari reports that there were 360 idols around the Ka'bah. He struck them one by one with a stick in his hand, reciting: \"Truth has come, and falsehood has departed\" (17:81). The city that had believed in Allah all along now believed in Him alone." },
+        { "p": "That word *alone* is the whole of today's subject. Muslims call it *tawhid*: affirming that Allah is One. The noun itself is not in the Quran, but its root, *w-ḥ-d*, \"one\", runs through it: \"And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful\" (2:163)." }
+      ]
     },
     {
-      "ref": "2:255",
-      "from": "Allah - there is no deity except Him",
-      "to": "tires Him not.",
-      "context": "Known as Ayat al-Kursi. A hadith in Muslim calls it the greatest verse in the Quran.",
-      "point": "Allah lives without end and holds all things in being. He never tires or sleeps, knows everything, and no one intercedes without His permission.",
-      "label": "stated"
+      "lens": "text",
+      "title": "Four Lines Without a Family Tree",
+      "blocks": [
+        { "verse": "112:1-4" },
+        { "p": "**Say.** The surah begins by handing the Prophet ﷺ his answer. Every Muslim who recites it becomes the one saying it." },
+        { "p": "**He is Allah, One.** The word here is *aḥad*, not the ordinary number *wāḥid*. *Wāḥid* is one that could be followed by two. *Aḥad*, used of Allah, means one who is unique and indivisible: no parts, no second, no category He belongs to." },
+        { "word": { "ar": "الصَّمَد", "tr": "aṣ-ṣamad", "root": ["ص", "م", "د"], "meaning": "The Eternal Refuge; the One to whom all turn in need", "nuance": "The root means to head toward something, to turn to it for a purpose. Arabs called a chief samad when people came to him with their needs and he needed no one. Early commentators also explained it as the solid, without hollowness: He does not eat, tire or die. The word occurs only here, as a name of Allah alone." } },
+        { "p": "**He neither begets nor is born.** Here is the answer to the question about lineage. A god with a father has a beginning. A god with a son has an heir, and an heir implies that someone will one day need replacing. Allah has neither. Another surah asks the same question in plain logic: \"How could He have a son when He does not have a companion and He created all things?\" (6:101)." },
+        { "p": "**Nor is there to Him any equivalent.** *Kufuwan*, an equal, a match. Nothing stands on His level to be compared with Him, which is why Muslims make no images of Him." },
+        { "p": "The surah's name, al-Ikhlas, means \"sincerity\" or \"purity\": to make one's faith pure of anything else. The Prophet ﷺ said, in a hadith in al-Bukhari, that it is equal to a third of the Quran. Scholars explain that the Quran speaks of three great things, Allah, His commands, and the stories of what comes, and that this surah is entirely about the first." },
+        { "note": "Ibn Kathir reports that the question came from the idolaters of Makkah; other reports say it came from Jewish scholars in Madinah. So commentators differ on whether al-Ikhlas is Makkan or Madinan, and some suggest it was revealed on more than one occasion. The meaning is unaffected.", "title": "Where scholars differ" }
+      ]
     },
     {
-      "ref": "59:23-24",
-      "context": "The close of al-Hashr, a Madinan surah, which gathers more of Allah's names in one place than almost any other passage.",
-      "point": "Names of power, like the Compeller, sit beside names of care, like the Bestower of Faith. He is exalted above any partner people assign Him.",
-      "label": "stated"
+      "lens": "text",
+      "title": "A Prayer That Is Answered Line by Line",
+      "blocks": [
+        { "p": "If al-Ikhlas tells you who Allah is, al-Fatihah, \"the Opening\", shows you how to stand before Him. Muslims recite it at least seventeen times a day, in every unit of every prayer." },
+        { "verse": "1:1-7" },
+        { "p": "Look at what comes before any request. Three verses of praise. Mercy named twice in the first verse and twice again in the third: *ar-Raḥmān* and *ar-Raḥīm*, both from *raḥmah*, mercy, whose root also gives *raḥim*, the womb. Many scholars explain *ar-Raḥmān* as mercy vast enough to embrace all creation and *ar-Raḥīm* as mercy that reaches and stays with those who turn to Him. Only after mercy comes sovereignty: Master of the Day of Recompense." },
+        { "p": "Then the pronoun changes. Until now the prayer spoke *about* Allah: \"Lord of the worlds\", \"Sovereign of the Day\". Suddenly it speaks *to* Him: \"It is You we worship.\" In Arabic the object comes first, *iyyāka*, \"You alone\", which grammarians note makes it exclusive. That single word is tawhid in practice." },
+        { "p": "The Prophet ﷺ described this prayer as a conversation. In a hadith qudsi, a saying of Allah reported in the Prophet's ﷺ words, recorded by Muslim, Allah says:" },
+        { "quote": "I have divided the prayer between Myself and My servant into two halves, and My servant shall have what he has asked for.", "by": "Hadith qudsi, in Sahih Muslim" },
+        { "figure": { "kind": "steps", "title": "Al-Fatihah as a conversation (hadith in Muslim)", "items": [
+          { "label": "\"All praise is due to Allah, Lord of the worlds\"", "text": "Allah says: My servant has praised Me." },
+          { "label": "\"The Entirely Merciful, the Especially Merciful\"", "text": "Allah says: My servant has extolled Me." },
+          { "label": "\"Sovereign of the Day of Recompense\"", "text": "Allah says: My servant has glorified Me." },
+          { "label": "\"It is You we worship and You we ask for help\"", "text": "Allah says: This is between Me and My servant, and My servant shall have what he asked." },
+          { "label": "\"Guide us to the straight path...\"", "text": "Allah says: This is for My servant, and My servant shall have what he asked." }
+        ] } },
+        { "p": "Of everything a person could ask for, the one request in the prayer is guidance. Not wealth, not victory. Muslims believe that if you are given that, everything else finds its place." }
+      ]
     },
     {
-      "ref": "42:11",
-      "context": "From ash-Shura, a Makkan surah. Scholars of every school use it as the key for reading Allah's attributes.",
-      "point": "Nothing is like Him, and yet He is the Hearing, the Seeing. The verse denies any likeness and affirms real attributes in the same breath.",
-      "label": "stated"
+      "lens": "scholar",
+      "title": "The Greatest Verse",
+      "blocks": [
+        { "p": "The Prophet ﷺ once asked the companion Ubayy ibn Ka'b, one of the finest reciters in Madinah, which verse in the Book of Allah was the greatest. Ubayy answered with the opening of this verse. The Prophet ﷺ struck him on the chest and said, \"May knowledge delight you, Abu al-Mundhir.\" The report is in Muslim. Muslims call it *Ayat al-Kursi*, the Verse of the Throne." },
+        { "verse": "2:255" },
+        { "p": "It opens with two names that belong together: *al-Ḥayy*, the Ever-Living, whose life has no beginning, end or weakness; and *al-Qayyūm*, the Sustainer, who exists by Himself and holds everything else in existence. Then it removes every human limitation one by one. Not *sinah*, the drowsiness that comes first, and not *nawm*, sleep itself. No intercessor who can speak without His permission, the answer to the Makkans' courtiers. Knowledge of past and future, while creation holds only the fragments He allows." },
+        { "image": "day-02-kursi", "alt": "The Milky Way arching over a dark desert with low dunes", "caption": "\"His Kursi extends over the heavens and the earth.\"", "prompt": "The Milky Way arching across a vast, clear night sky over a silent desert of low dunes and scattered rocks. The horizon is very far away and no light comes from the land, only from the stars." },
+        { "p": "What is the *Kursi*? The word literally means a footstool or seat. Ibn Kathir reports from Ibn 'Abbas that it is the place of the feet, a created thing vast beyond reckoning, and that the Throne, *al-'Arsh*, is greater still. Another report from Ibn 'Abbas explains the Kursi as His knowledge, an interpretation al-Tabari gave weight to. Either way the verse's point is scale: the heavens and the earth fit within it, and \"their preservation tires Him not\"." },
+        { "p": "Al-Bukhari records a long story in which Abu Hurayrah was guarding the charity stores in Ramadan and caught a thief three nights running. On the third night the thief taught him that whoever recites Ayat al-Kursi before sleeping has a guardian from Allah until morning. \"He told you the truth, though he is a liar,\" the Prophet ﷺ said, and told Abu Hurayrah his visitor had been a devil. To this day many Muslims recite it before sleep, after every prayer, and over their children." }
+      ]
+    },
+    {
+      "lens": "scholar",
+      "title": "Ninety-Nine Names, and a Line Between Knowing and Imagining",
+      "blocks": [
+        { "p": "\"And to Allah belong the best names, so invoke Him by them\" (7:180). The Quran introduces Allah less by definition than by name: the Creator, the Forgiving, the Wise, the Subtle. Al-Hashr gathers more of them in three verses than almost any other passage." },
+        { "verse": "59:22-24" },
+        { "p": "The Prophet ﷺ said, in a hadith in al-Bukhari and Muslim, that Allah has ninety-nine names, and whoever *aḥṣāhā*, learns, preserves and lives by them, will enter Paradise. The familiar list of ninety-nine recited today comes from a narration in al-Tirmidhi; many scholars regard the list itself as compiled by a narrator rather than the Prophet's ﷺ own words, and most hold that Allah's names are not limited to ninety-nine." },
+        { "figure": { "kind": "compare", "title": "Names of majesty, names of beauty", "left": { "title": "Majesty (jalal)", "items": ["Al-Malik, the Sovereign (59:23)", "Al-'Aziz, the Exalted in Might", "Al-Jabbar, the Compeller", "Al-Qahhar, the Prevailing (13:16)", "Al-Mutakabbir, the Superior"] }, "right": { "title": "Beauty (jamal)", "items": ["Ar-Rahman, the Entirely Merciful (59:22)", "As-Salam, the Perfection, the source of peace", "Al-Wadud, the Affectionate (85:14)", "Al-Ghafur, the Forgiving", "Al-Latif, the Subtle (6:103)"] } } },
+        { "p": "Scholars often sort the names this way, into names of majesty and names of beauty. The Quran keeps them side by side, so a reader never meets power without mercy or mercy without power." },
+        { "p": "But how can a human mind speak of Him at all? One verse became the key every school uses: \"There is nothing like unto Him, and He is the Hearing, the Seeing\" (42:11). It denies any likeness and affirms real attributes in the same breath. He truly hears, but not with ears like ours." },
+        { "note": "Where the Quran speaks of Allah's Face (55:27), Hand or rising over the Throne (20:5), Sunni scholars agree that He is unlike creation, but differ on method. Many early scholars affirmed the words as they came, \"without asking how\". Others left their meaning to Allah. Later Ash'ari and Maturidi theologians often explained them figuratively, so that Hand could mean power. Later scholars also grouped tawhid into Allah's lordship, His sole right to worship, and His names and attributes; that grouping is a teaching tool, not a verse.", "title": "Where scholars differ" }
+      ]
+    },
+    {
+      "lens": "reason",
+      "title": "Why Not Many Gods, or None?",
+      "blocks": [
+        { "p": "A sceptic might put the hardest version of the question like this. Polytheism at least explains a world of competing forces. Atheism explains it without anyone at all. Why should one God be more reasonable than either? And if He exists and is perfect, why would He want worship? Wouldn't that make Him needy?" },
+        { "p": "The Quran's answer to the first question is an argument from order." },
+        { "verse": "21:22" },
+        { "p": "Two absolute wills cannot both be absolute. If they always agree, one is redundant; if they ever disagree, the world would show the seams. Elsewhere: \"each deity would have taken what it created, and some of them would have sought to overcome others\" (23:91). What we find instead is one fabric, a single set of laws from the smallest cell to the furthest galaxy. The Quran does not argue for a Creator so much as assume most people sense one; its effort goes into showing why that Creator cannot be shared." },
+        { "p": "On worship, the Quran is blunt: \"O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy\" (35:15). Worship is not something He lacks. In a hadith qudsi in Muslim, Allah says that if every human and jinn who ever lived had the most devout heart among them, it would add nothing to His kingdom, and if all had the most wicked, it would take nothing away. Worship is for the worshipper: it puts a person in right relation to reality." },
+        { "p": "And is \"Allah\" a different God from the God of Jews and Christians? Arabic-speaking Christians call God *Allah* in their Bibles and prayers. The Quran tells Muslims to say to the People of the Book: \"our God and your God is one\" (29:46). Where faiths differ is in how He is described, above all on whether He has a son (112:3)." },
+        { "p": "What reasoning cannot do is make Him visible: \"Vision perceives Him not, but He perceives [all] vision\" (6:103). The Quran asks for faith in the One no eye can see, while pointing to everything the eye does see." }
+      ]
+    },
+    {
+      "lens": "heart",
+      "title": "Calling Him by the Name You Need",
+      "blocks": [
+        { "p": "Al-Bukhari records that the Prophet ﷺ once sent a man to lead a small expedition. In every prayer, after whatever he recited, he would end with al-Ikhlas. His companions complained. Asked why, he said: \"Because it is the description of the Most Merciful, and I love to recite it.\" The Prophet ﷺ said: \"Tell him that Allah loves him.\"" },
+        { "p": "That man had understood something. The names are not a vocabulary list. They are doors. When you have wronged someone, you call on *al-Ghafūr*, the Forgiving. When you are frightened, *al-Ḥafīẓ*, the Guardian. When no one understands what you are carrying, *al-Laṭīf*, the Subtle, who reaches into what is hidden. The Quran invites exactly this: \"Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names\" (17:110)." },
+        { "verse": "2:186" },
+        { "p": "This verse breaks a pattern. Elsewhere, when people ask the Prophet ﷺ something, the Quran replies \"Say...\". Here there is no \"Say\". Allah answers directly: *I am near*. The Makkans thought they needed courtiers. The Quran says He is \"closer to him than [his] jugular vein\" (50:16)." },
+        { "p": "The Prophet ﷺ said, in a report in al-Bukhari and Muslim, that Allah made mercy in a hundred parts, kept ninety-nine with Himself, and sent one part down to earth. From that one part, all of creation shows mercy to one another, so that a mare lifts her hoof away from her foal for fear of hurting it. Every gentleness you have ever received from a parent, a stranger or a friend came from that one part." },
+        { "p": "Pray today the prayer the angels around the Throne pray for believers: \"Our Lord, You have encompassed all things in mercy and knowledge\" (40:7)." }
+      ]
+    },
+    {
+      "lens": "life",
+      "title": "The Name on Every Muslim's Tongue",
+      "blocks": [
+        { "p": "Spend a day with a practising Muslim and you will hear Allah's name dozens of times, usually in short phrases that turn ordinary moments toward Him. Each one carries a piece of tawhid." },
+        { "list": [
+          "*Bismillah*, \"in the name of Allah\", before eating, driving, studying or starting any task. It opens every surah of the Quran but one.",
+          "*Alhamdulillah*, \"all praise is due to Allah\", after a meal, a sneeze, good news, and also bad news. Praise is not only for what pleases us.",
+          "*In sha' Allah*, \"if Allah wills\", whenever speaking of the future, following 18:23-24. It is a statement of humility, not of vagueness.",
+          "*Subhan Allah*, \"exalted is Allah\", at something astonishing or something unworthy of Him.",
+          "*Allahu akbar*, \"Allah is greater\", called out in the adhan, the call to prayer, and said at every movement of the prayer. Greater than whatever you fear or want."
+        ] },
+        { "p": "After each prescribed prayer, many Muslims quietly repeat *Subhan Allah*, *Alhamdulillah* and *Allahu akbar* thirty-three times each, a practice taught by the Prophet ﷺ in a report in Muslim. The little bead strings you may have seen, the *misbaha*, are for counting them." },
+        { "p": "Tawhid also explains things outsiders sometimes find puzzling. Mosques have no statues or pictures of God, because nothing is like Him. Muslims will not bow to anyone, even with great respect, because bowing in worship is for Allah alone. And the testimony that makes a person Muslim, the *shahadah*, begins with one negation and one exception: *lā ilāha illā Allāh*, \"there is no god except Allah\"." },
+        { "p": "Today's practice: learn al-Ikhlas by heart if you have not already. It takes a few minutes, and the Prophet ﷺ said it equals a third of the Quran." }
+      ]
     }
   ],
-  "visual": {
-    "kind": "ring",
-    "title": "The seven verses of al-Fatihah",
-    "caption": "Read around the circle from the top. A hadith qudsi in Muslim divides al-Fatihah between Allah and His servant: praise first, then a shared verse, then the servant's request. Scholars differ on whether the Bismillah counts as its first verse.",
-    "label": "explained",
-    "center": "Al-Fatihah",
-    "items": [
-      { "label": "In the name", "text": "Begin with Allah, the Entirely and Especially Merciful.", "ref": "1:1" },
-      { "label": "Praise", "text": "All praise belongs to Allah, Lord of all the worlds.", "ref": "1:2" },
-      { "label": "Mercy", "text": "Mercy named twice before anything is asked.", "ref": "1:3" },
-      { "label": "Sovereignty", "text": "Master of the Day when every deed is repaid.", "ref": "1:4" },
-      { "label": "Worship and help", "text": "The turning point: You alone we worship and ask.", "ref": "1:5" },
-      { "label": "Guidance", "text": "The one request: guide us to the straight path.", "ref": "1:6" },
-      { "label": "The path", "text": "The way of the favoured, not of those astray.", "ref": "1:7" }
-    ]
-  },
-  "word": {
-    "ar": "تَوْحِيد",
-    "tr": "tawḥīd",
-    "root": ["و", "ح", "د"],
-    "meaning": "Affirming that Allah is One",
-    "nuance": "From wahhada, to make one or declare one. The noun tawhid is not in the Quran, but its root is everywhere: wahid, one (2:163), and ahad, the unique One (112:1). Tawhid is not only a belief held in the mind; it means directing all worship to Him alone.",
-    "refs": ["2:163", "112:1"]
-  },
-  "mixup": {
-    "myth": "\"Allah\" is the name of a separate god worshipped only by Muslims.",
-    "truth": "Allah is the Arabic word for God, the One God. Arabic-speaking Christians and Jews use it too, and Arabic Bibles use it. The Quran tells believers to say to the People of the Book: \"Our God and your God is one\" (29:46). Where faiths differ is in how He is described, for example on whether He has a son (112:3).",
-    "refs": ["29:46", "112:3"]
-  },
-  "remember": [
-    "Tawhid: Allah alone creates, rules and deserves worship, and nothing is like Him (42:11).",
-    "Al-Fatihah moves from praise, to worship, to asking for guidance.",
-    "Allah is known through His best names, and we are invited to call on Him by them (7:180)."
-  ],
-  "memorize": "2:163",
+  "carry": "2:163",
   "quiz": [
     {
-      "q": "In al-Ikhlas, which of these does the Quran say about Allah?",
-      "options": [
-        "He has a partner in His rule",
-        "He neither begets nor is born",
-        "He was the first being created",
-        "He needs others to sustain Him"
-      ],
+      "q": "According to the Quran, what was the Makkans' error about Allah?",
+      "options": ["They denied that He existed", "They believed in Him but worshipped intermediaries beside Him", "They had never heard His name", "They believed He had no power over creation"],
       "answer": 1,
-      "why": "112:3: \"He neither begets nor is born.\" 112:4 adds that nothing is equivalent to Him, and 112:2 calls Him the Eternal Refuge whom all others need."
+      "why": "29:61 says they would answer that Allah created the heavens and earth; 39:3 quotes their excuse for idols: \"We only worship them that they may bring us nearer to Allah.\""
     },
     {
-      "q": "Which verse of al-Fatihah is the turning point between praise and asking?",
-      "options": [
-        "\"Guide us to the straight path\"",
-        "\"Sovereign of the Day of Recompense\"",
-        "\"It is You we worship and You we ask for help\""
-      ],
-      "answer": 2,
-      "why": "1:5. In the hadith qudsi in Muslim, Allah calls this verse shared between Him and His servant. The request follows in 1:6-7."
-    },
-    {
-      "q": "What does 42:11 say alongside \"There is nothing like unto Him\"?",
-      "options": [
-        "He is the Hearing, the Seeing",
-        "He cannot be described at all",
-        "His names must stay unknown"
-      ],
+      "q": "In al-Fatihah, what changes at \"It is You we worship\" (1:5)?",
+      "options": ["The prayer stops speaking about Allah and speaks to Him directly", "It switches from Arabic to another language", "It begins to describe the Day of Judgement", "It turns from asking to praising"],
       "answer": 0,
-      "why": "42:11 denies any likeness and, in the same verse, affirms that He hears and sees. 7:180 tells us to call on Him by His names."
+      "why": "Verses 2-4 speak about Allah; 1:5 addresses Him as \"You\". In the hadith qudsi in Muslim, this verse is the one \"between Me and My servant\"."
+    },
+    {
+      "q": "What is the Quran's argument in 21:22 for one God?",
+      "options": ["Most people already believe it", "Earlier prophets taught it", "Had there been other gods besides Allah, the heavens and earth would have been ruined", "Only one god is mentioned in the Torah"],
+      "answer": 2,
+      "why": "21:22 argues from the order of creation: rival absolute wills would have brought ruin. 23:91 makes the same point."
+    },
+    {
+      "q": "How does 42:11 guide Muslims in speaking about Allah's attributes?",
+      "options": ["It forbids speaking of any attribute", "It says His attributes are like ours, only larger", "It says only scholars may know His names", "It denies any likeness to Him while affirming that He hears and sees"],
+      "answer": 3,
+      "why": "\"There is nothing like unto Him, and He is the Hearing, the Seeing\": real attributes, without likeness to creation."
     }
   ],
-  "reflect": "Which of Allah's names do you find yourself needing most right now, and why?",
+  "reflect": "Which of Allah's names do you find yourself needing most right now, and what would change if you called on Him by it today?",
   "deeper": ["1", "112", "2:163", "20:8", "17:110", "59:22", "57:3", "21:22"],
   "links": [
     { "label": "The names of Allah", "href": "/names" },

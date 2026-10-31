@@ -1,5 +1,5 @@
 // Service worker for Quran in 30 Days, registered with scope /quran-in-30-days by the "Save for offline" button.
-// Booklets load from the network when online (so edits arrive) and from the cache when offline.
+// Days load from the network when online (so edits arrive) and from the cache when offline.
 const CACHE = "q30-v1";
 const SCOPE = "/quran-in-30-days";
 
@@ -10,7 +10,7 @@ self.addEventListener("message", (e) => {
   if (e.data && e.data.type === "cache") e.waitUntil(cacheAll(e.data.urls, e.source));
 });
 
-// Fetch each booklet, then every script, style and font its HTML names, so a saved day opens with no network.
+// Fetch each day, then every script, style, font and illustration its HTML names, so a saved day opens with no network.
 async function cacheAll(urls, client) {
   const cache = await caches.open(CACHE);
   const assets = new Set();
@@ -21,7 +21,7 @@ async function cacheAll(urls, client) {
       if (res.ok) {
         const html = await res.clone().text();
         await cache.put(url, res);
-        for (const m of html.matchAll(/(?:src|href)="(\/_next\/static\/[^"]+)"/g)) assets.add(m[1]);
+        for (const m of html.matchAll(/(?:src|href)="(\/(?:_next\/static|q30)\/[^"]+)"/g)) assets.add(m[1]);
       }
     } catch {
       // one failed page should not stop the rest

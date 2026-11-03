@@ -1,4 +1,4 @@
-import { buildCard, linkOf } from "./timeline-graph";
+import { buildCard, contemporaries, indexOf, linkOf } from "./timeline-graph";
 import { AXIS, KIND_LABEL, spanText, type Card, type Ref, type TimelineData } from "./timeline-types";
 
 export type TimelineEntry = Card & { sections?: { title: string; text: string }[]; journey?: string };
@@ -19,7 +19,7 @@ export function timelineEntry(data: TimelineData, ref: Ref): TimelineEntry | und
       verses: stop.verses.filter((verse) => verse.ref !== stop.quote?.ref), hadith: stop.hadith ?? [],
       groups: stop.type === "chapter"
         ? [{ q: "In this chapter", items: data.stops.slice(chapter.start + 1, chapter.start + chapter.count).map((item) => linkOf(data, { t: "event", id: item.id })) }]
-        : [{ q: "People and places in this story", items: unique.map((item) => linkOf(data, item)) }].filter((group) => group.items.length),
+        : [{ q: "Who and where", items: unique.map((item) => linkOf(data, item)) }].filter((group) => group.items.length),
     };
   }
   if (ref.t === "prophet") {
@@ -31,8 +31,10 @@ export function timelineEntry(data: TimelineData, ref: Ref): TimelineEntry | und
       year: prophet.from, journey: prophet.journey,
       story: prophet.line, place: prophet.place, quote: prophet.verse, source: "The Quran", verses: [], hadith: [],
       groups: [
-        { q: "Read the story", items: prophet.stop ? [linkOf(data, { t: "event", id: prophet.stop })] : [] },
-        { q: "Related prophets", items: data.prophets.filter((item) => item.id === prophet.parent || item.parent === prophet.id).map((item) => linkOf(data, { t: "prophet", id: item.id })) },
+        { q: "Moments in history", items: momentsFor(data, ref, prophet.stop) },
+        { q: "Family of prophets", items: data.prophets.filter((item) => item.id === prophet.parent || item.parent === prophet.id).map((item) => linkOf(data, { t: "prophet", id: item.id })) },
+        { q: "Who lived at the same time?", items: contemporaries(data, prophet.from, prophet.to, ref, 8) },
+        { q: "Who opposed them?", items: data.villains.filter((v) => v.against.prophet === prophet.id).map((v) => linkOf(data, { t: "villain", id: v.id })) },
       ].filter((group) => group.items.length),
     };
   }
@@ -50,9 +52,20 @@ export function timelineEntry(data: TimelineData, ref: Ref): TimelineEntry | und
       ].filter((section) => section.text),
       note: villain.note, place: villain.place, source: villain.source, quote: villain.verse,
       verses: villain.mentions.filter((verse) => verse.ref !== villain.verse?.ref), hadith: villain.hadith ?? [],
-      groups: villain.stop ? [{ q: "Read the story", items: [linkOf(data, { t: "event", id: villain.stop })] }] : [],
+      groups: [
+        { q: "Who stood against them?", items: villain.against.prophet ? [linkOf(data, { t: "prophet", id: villain.against.prophet })] : [] },
+        { q: "Moments in history", items: momentsFor(data, ref, villain.stop) },
+        { q: "Others of their age", items: data.villains.filter((v) => v.age === villain.age && v.id !== villain.id).slice(0, 8).map((v) => linkOf(data, { t: "villain", id: v.id })) },
+      ].filter((group) => group.items.length),
     };
   }
+}
+
+// Every moment that names the entry, with its own moment first.
+function momentsFor(data: TimelineData, ref: Ref, own?: string) {
+  const list = (indexOf(data).moments.get(`${ref.t}:${ref.id}`) ?? []).map((s) => s.id);
+  const ids = [...new Set([...(own ? [own] : []), ...list])];
+  return ids.filter((id) => data.stops.some((s) => s.id === id)).map((id) => linkOf(data, { t: "event", id }));
 }
 
 export function clampMapYear(year: number, min = AXIS.min, max = AXIS.max): number {

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineArticle } from "@/components/timeline/TimelineArticle";
+import { EntryPage } from "@/components/timeline/EntryPage";
 import { timelineEntry } from "@/lib/timeline-entry";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
 import { getTimeline, getVillain } from "@/lib/timeline";
@@ -60,7 +60,7 @@ export default async function VillainPage({ params }: { params: Params }) {
           ]),
         }}
       />
-      <TimelineArticle card={card} />
+      <EntryPage data={getTimeline()} card={card} />
     </>
   );
 }

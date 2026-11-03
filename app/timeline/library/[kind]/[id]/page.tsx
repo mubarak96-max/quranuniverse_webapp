@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineArticle } from "@/components/timeline/TimelineArticle";
+import { EntryPage } from "@/components/timeline/EntryPage";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
 import { getLibraryRefs, getTimeline } from "@/lib/timeline";
 import { buildCard } from "@/lib/timeline-graph";
@@ -60,7 +60,7 @@ export default async function LibraryEntryPage({ params }: { params: Params }) {
           ]),
         }}
       />
-      <TimelineArticle card={card} />
+      <EntryPage data={getTimeline()} card={card} />
     </>
   );
 }

@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
+import { AtlasApp } from "@/components/timeline/AtlasApp";
+import { TimelineArchive } from "@/components/timeline/TimelineArchive";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
-import { getSeed, getTimeline } from "@/lib/timeline";
+import { getTimeline } from "@/lib/timeline";
 
 const title = "Islamic History Timeline: The Story of the World from Adam to Today";
 const description =
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
   description,
   keywords: ["islamic history timeline", "prophets timeline", "history of islam map", "timeline of prophets in islam", "muslim empires map"],
   alternates: { canonical: "/timeline" },
-  openGraph: { type: "website", title, description, url: "/timeline", siteName: SITE.name },
+  openGraph: { type: "website", title, description, url: "/timeline", siteName: SITE.name, images: [{ url: "/timeline/art/og-atlas.webp", width: 1536, height: 1024 }] },
 };
 
 export default function TimelinePage() {
@@ -43,7 +44,9 @@ export default function TimelinePage() {
           },
         }}
       />
-      <TimelineApp seed={getSeed()} initialView="intro" directory={data.stops.filter((stop) => stop.type === "event").map(({ id, chapter, title, label, kind, what, place, who }) => ({ id, chapter, title, label, kind, what, place, who }))} />
+      <h1 className="sr-only">{title}</h1>
+      <AtlasApp chapters={data.chapters} />
+      <TimelineArchive data={data} />
     </>
   );
 }

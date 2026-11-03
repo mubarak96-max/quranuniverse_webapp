@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
-import { VillainIndex } from "@/components/timeline/VillainIndex";
+import { AtlasApp } from "@/components/timeline/AtlasApp";
+import { TimelineArchive } from "@/components/timeline/TimelineArchive";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
-import { getTimeline, getVillainSeed } from "@/lib/timeline";
+import { getTimeline } from "@/lib/timeline";
 
 const title = "Villains of Islamic History: From Iblis to the Dajjal";
 const description =
@@ -18,7 +18,8 @@ export const metadata: Metadata = {
 };
 
 export default function VillainsPage() {
-  const { villains, villainAges } = getTimeline();
+  const data = getTimeline();
+  const { villains } = data;
   return (
     <>
       <JsonLd
@@ -46,8 +47,8 @@ export default function VillainsPage() {
         }}
       />
       <h1 className="sr-only">{title}</h1>
-      <TimelineApp seed={getVillainSeed()} initialView="villains" />
-      <VillainIndex villains={villains} ages={villainAges} />
+      <AtlasApp chapters={data.chapters} initialLens="villain" />
+      <TimelineArchive data={data} focus="villain" />
     </>
   );
 }

@@ -6,7 +6,6 @@
 import fs from "node:fs";
 import path from "node:path";
 import { getTranslation, surahHref } from "./data";
-import { buildCard } from "./timeline-graph";
 import {
   AXIS,
   toAh,
@@ -29,7 +28,6 @@ import {
   type State,
   type Stop,
   type TimelineData,
-  type TimelineSeed,
   type Verse,
   type Villain,
   type VillainAge,
@@ -372,20 +370,6 @@ export const getStop = (id: string) => getTimeline().stops.find((s) => s.id === 
 
 export const getVillain = (id: string) => getTimeline().villains.find((v) => v.id === id);
 
-// The small slice a page renders on the server before the full data file arrives.
-export function getSeed(id?: string): TimelineSeed {
-  const { chapters, stops, now } = getTimeline();
-  const stop = id ? getStop(id) : undefined;
-  const position = stop ? stops.indexOf(stop) - chapters[stop.chapter].start + 1 : 0;
-  return { chapters, now, moments: stops.filter((s) => s.type === "event").length, stop, position };
-}
-
-// Villain pages render the whole line and panel on the server, so every villain is readable without scripts.
-export function getVillainSeed(): TimelineSeed {
-  const { villains, villainAges, endSigns } = getTimeline();
-  return { ...getSeed(), villains: { list: villains, ages: villainAges, signs: endSigns } };
-}
-
 // Every entity with its own library page.
 export function getLibraryRefs(): Ref[] {
   const { people, states, sites, nations } = getTimeline();
@@ -395,9 +379,4 @@ export function getLibraryRefs(): Ref[] {
     ...states.map((s) => ({ t: "polity" as const, id: s.id })),
     ...sites.map((s) => ({ t: "place" as const, id: s.id })),
   ];
-}
-
-// Library pages render their card on the server for the same reason.
-export function getCardSeed(ref: Ref): TimelineSeed {
-  return { ...getSeed(), card: buildCard(getTimeline(), ref) };
 }

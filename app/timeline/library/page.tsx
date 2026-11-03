@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { JsonLd } from "@/components/JsonLd";
-import { LibraryIndex } from "@/components/timeline/LibraryIndex";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
+import { AtlasApp } from "@/components/timeline/AtlasApp";
+import { TimelineArchive } from "@/components/timeline/TimelineArchive";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
-import { getSeed, getTimeline } from "@/lib/timeline";
+import { getTimeline } from "@/lib/timeline";
 
 const title = "People of the Quran, Companions, Scholars and Empires: The Islamic History Library";
 const description =
@@ -36,8 +36,8 @@ export default function LibraryPage() {
         }}
       />
       <h1 className="sr-only">{title}</h1>
-      <TimelineApp seed={getSeed()} initialView="library" />
-      <LibraryIndex data={data} />
+      <AtlasApp chapters={data.chapters} initialLens="person" />
+      <TimelineArchive data={data} focus="person" />
     </>
   );
 }

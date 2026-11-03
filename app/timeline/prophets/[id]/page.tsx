@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineArticle } from "@/components/timeline/TimelineArticle";
+import { EntryPage } from "@/components/timeline/EntryPage";
 import { getTimeline } from "@/lib/timeline";
 import { timelineEntry } from "@/lib/timeline-entry";
 import { absUrl, breadcrumbs } from "@/lib/site";
@@ -22,6 +22,6 @@ export default async function ProphetPage({ params }: { params: Params }) {
   const path = `/timeline/prophets/${id}`;
   return <>
     <JsonLd data={{ "@type": "WebPage", name: card.name, description: card.story, url: absUrl(path), breadcrumb: breadcrumbs([{ name: "Home", path: "/" }, { name: "Timeline", path: "/timeline" }, { name: card.name, path }]) }} />
-    <TimelineArticle card={card} />
+    <EntryPage data={getTimeline()} card={card} />
   </>;
 }

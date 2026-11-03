@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { TimelineApp } from "@/components/timeline/TimelineApp";
+import { AtlasApp } from "@/components/timeline/AtlasApp";
 import { SITE } from "@/lib/site";
-import { getSeed, getTimeline } from "@/lib/timeline";
+import { getTimeline } from "@/lib/timeline";
 import { refHref, toAh } from "@/lib/timeline-types";
 import { meanwhile, YEAR_PAGES } from "@/lib/timeline-world";
 
@@ -55,12 +55,12 @@ export default async function TimelineYearPage({ params }: { params: Params }) {
       <h1 className="sr-only">
         The world in {year}, {ah}–{ah + 1} AH
       </h1>
-      <TimelineApp seed={getSeed()} initialView="explore" initialYear={year} />
-      <section className="tl-index" aria-labelledby="tl-year-h">
+      <AtlasApp chapters={getTimeline().chapters} initialYear={year} />
+      <section className="arc arc-year" aria-labelledby="tl-year-h">
         <h2 id="tl-year-h">
           The world in {year} · {ah}–{ah + 1} AH
         </h2>
-        <p className="tl-index-note">
+        <p className="arc-note">
           {year - 622} years after the Hijra. Around the world that year and the decades around it:
         </p>
         <ul>

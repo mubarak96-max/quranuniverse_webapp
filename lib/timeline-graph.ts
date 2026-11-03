@@ -240,7 +240,7 @@ export function buildCard(data: TimelineData, ref: Ref): Card | undefined {
       hadith: p.hadith ?? [],
       groups: groupsOf([
         { q: "Who came before and after?", items: line },
-        { q: "Where do they appear in the story?", items: momentsOf(data, ref) },
+        { q: "Where do they appear in history?", items: momentsOf(data, ref) },
         { q: "Who else is linked?", items: linked(data, ref, p.links, [before, after].flatMap((x) => (x ? [{ t: "person" as const, id: x.id }] : []))) },
         { q: "Who lived at the same time?", items: contemporaries(data, p.from, p.to, ref, 8) },
       ]),
@@ -322,7 +322,7 @@ export function buildCard(data: TimelineData, ref: Ref): Card | undefined {
       verses: n.verses.filter((v) => v.ref !== n.quote?.ref),
       hadith: [],
       groups: groupsOf([
-        { q: "Where do they appear in the story?", items: momentsOf(data, ref) },
+        { q: "Where do they appear in history?", items: momentsOf(data, ref) },
         { q: "Who else is linked?", items: linked(data, ref, n.links) },
       ]),
     };

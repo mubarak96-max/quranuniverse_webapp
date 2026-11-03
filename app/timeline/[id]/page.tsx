@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { TimelineArticle } from "@/components/timeline/TimelineArticle";
+import { ChapterPage } from "@/components/timeline/ChapterPage";
+import { EntryPage } from "@/components/timeline/EntryPage";
 import { timelineEntry } from "@/lib/timeline-entry";
 import { SITE, absUrl, breadcrumbs } from "@/lib/site";
 import { getStop, getTimeline } from "@/lib/timeline";
@@ -41,7 +42,8 @@ export default async function TimelineStopPage({ params }: { params: Params }) {
   if (!s) notFound();
   const data = getTimeline();
   const card = timelineEntry(data, { t: "event", id })!;
-  const index = data.stops.findIndex((stop) => stop.id === id);
+  const events = data.stops.filter((stop) => stop.type === "event");
+  const at = events.findIndex((stop) => stop.id === id);
   return (
     <>
       <JsonLd
@@ -59,7 +61,11 @@ export default async function TimelineStopPage({ params }: { params: Params }) {
           ]),
         }}
       />
-      <TimelineArticle card={card} stop={s} previous={data.stops[index - 1]} next={data.stops[index + 1]} />
+      {s.type === "chapter" ? (
+        <ChapterPage data={data} index={s.chapter} />
+      ) : (
+        <EntryPage data={data} card={card} stop={s} previous={events[at - 1]} next={events[at + 1]} />
+      )}
     </>
   );
 }

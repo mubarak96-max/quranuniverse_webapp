@@ -67,6 +67,14 @@ export function surahHref(id: number, ayah?: number): string {
   return ayah === undefined ? base : `${base}/${ayah}`;
 }
 
+// The link preview shared by a surah and its verses; drawn at build time by tools/gen_og.mjs.
+export const surahOgImage = (s: Surah) => ({
+  url: `/og/surah/${surahSlug(s)}.png`,
+  width: 1200,
+  height: 630,
+  alt: `Surah ${s.transliteration}`,
+});
+
 export function getCards(surah: number): Card[] {
   const rel = path.join("content", "cards", `${String(surah).padStart(3, "0")}.json`);
   return fs.existsSync(path.join(ROOT, rel)) ? readJson<Card[]>(rel) : [];

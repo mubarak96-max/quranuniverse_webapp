@@ -43,3 +43,7 @@ next-env.d.ts
 .vinext/
 .cloudflare/
 /.cache/
+
+# generated at build time by tools/gen_og.mjs and tools/gen_search.mjs
+/public/og/
+/public/search-index.json

@@ -261,7 +261,6 @@ export default async function NamePage({ params }: { params: Params }) {
               ))}
             </>
           )}
-          {page.meta.status !== "approved" && <span className="status"> · {page.meta.status}</span>}
         </footer>
       )}
 

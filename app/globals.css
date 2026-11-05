@@ -594,13 +594,13 @@ a {
 }
 
 .verse-ar {
-  font-size: clamp(26px, 4.5vw, 32px);
+  font-size: calc(clamp(26px, 4.5vw, 32px) * var(--ar-scale, 1));
   line-height: 2.05;
   text-align: right;
 }
 
 .verse-en {
-  font-size: 16.5px;
+  font-size: calc(16.5px * var(--en-scale, 1));
   line-height: 1.65;
   margin: 0;
   max-width: 65ch;
@@ -690,7 +690,7 @@ a {
 }
 
 .verse-ar.big {
-  font-size: clamp(30px, 7vw, 42px);
+  font-size: calc(clamp(30px, 7vw, 42px) * var(--ar-scale, 1));
   line-height: 2.1;
   text-align: center;
   margin: 0;
@@ -698,7 +698,7 @@ a {
 
 .verse-en.big {
   font-family: var(--display);
-  font-size: clamp(19px, 3vw, 22px);
+  font-size: calc(clamp(19px, 3vw, 22px) * var(--en-scale, 1));
   line-height: 1.55;
   text-align: center;
   margin: 0 auto;
@@ -745,7 +745,7 @@ a {
 }
 
 .wbw .ar {
-  font-size: 26px;
+  font-size: calc(26px * var(--ar-scale, 1));
 }
 
 .wbw .gloss {

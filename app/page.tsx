@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { HomeGuide } from "@/components/HomeGuide";
+import { ContinueReading } from "@/components/reader/ContinueReading";
 import { SurahIndex, type SurahEntry } from "@/components/SurahIndex";
 import { VerseFinder } from "@/components/VerseFinder";
 import { getSurahs, getTranslation, surahHref } from "@/lib/data";
@@ -28,7 +29,19 @@ export default function Home() {
   }));
   return (
     <div className="home">
+      <ContinueReading />
       <VerseFinder surahs={entries} />
+      <form action="/search" role="search" className="home-search">
+        <label htmlFor="home-search-input" className="sr-only">
+          Search the Quran
+        </label>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" />
+          <path d="m20 20-4-4" />
+        </svg>
+        <input id="home-search-input" name="q" type="search" placeholder="Or search by word or topic: patience, parents, Musa…" />
+        <button type="submit">Search</button>
+      </form>
       <nav className="modules" aria-label="Explore">
         <Link href="#index-title" className="module">
           <span className="module-icon"><HomeIcon name="book" /></span>

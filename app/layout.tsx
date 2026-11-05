@@ -4,6 +4,8 @@ import Script from "next/script";
 import { Geist, Newsreader, Scheherazade_New } from "next/font/google";
 import { JsonLd } from "@/components/JsonLd";
 import { MobileNav } from "@/components/MobileNav";
+import { ReadingSettings } from "@/components/reader/ReadingSettings";
+import { settingsScript } from "@/components/reader/store";
 import { ThemeToggle, themeScript } from "@/components/ThemeToggle";
 import { getTheme } from "@/lib/data";
 import { SITE, organization } from "@/lib/site";
@@ -13,6 +15,7 @@ import "./reading.css";
 import "./content.css";
 import "./home.css";
 import "./nav.css";
+import "./reader.css";
 
 const NAV = [
   { href: "/", label: "Surahs" },
@@ -81,6 +84,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang="en" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <script dangerouslySetInnerHTML={{ __html: settingsScript }} />
         <style dangerouslySetInnerHTML={{ __html: themeCss() }} />
         {/* Plain script, not next/script: AdSense rejects the data-nscript attribute next/script adds. */}
         <script
@@ -110,6 +114,13 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
                   {l.label}
                 </Link>
               ))}
+              <Link href="/search" className="theme-toggle nav-search" aria-label="Search" title="Search">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <circle cx="11" cy="11" r="7" />
+                  <path d="m20 20-4-4" />
+                </svg>
+              </Link>
+              <ReadingSettings />
               <ThemeToggle />
               <MobileNav links={NAV} />
             </nav>
@@ -120,6 +131,8 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         </main>
         <footer className="site-footer">
           <nav className="footer-nav" aria-label="Footer">
+            <Link href="/search">Search</Link>
+            <Link href="/bookmarks">Bookmarks</Link>
             <Link href="/learn">Learn</Link>
             <Link href="/quran-in-30-days">Quran in 30 Days</Link>
             <Link href="/timeline">Timeline</Link>

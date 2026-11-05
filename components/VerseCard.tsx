@@ -71,7 +71,6 @@ export function VerseCard({ card, surahName }: { card: Card; surahName: string }
 
       <div className="card-foot">
         <span>Simplified reflection. Read the tafsir for scholarship.</span>
-        {card.meta.status !== "approved" && <span className="status">{card.meta.status}</span>}
       </div>
     </article>
   );

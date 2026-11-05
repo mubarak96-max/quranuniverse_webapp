@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
+import { SurahProgress } from "@/components/reader/SurahProgress";
 import {
   getCards,
   getSurah,
@@ -10,6 +11,7 @@ import {
   getSurahs,
   getTranslation,
   surahHref,
+  surahOgImage as ogImage,
   surahSlug,
   type Surah,
 } from "@/lib/data";
@@ -54,8 +56,8 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
       surah.name,
     ],
     alternates: { canonical: url },
-    openGraph: { type: "article", title, description, url, siteName: SITE.name },
-    twitter: { card: "summary", title, description },
+    openGraph: { type: "article", title, description, url, siteName: SITE.name, images: [ogImage(surah)] },
+    twitter: { card: "summary_large_image", title, description, images: [ogImage(surah).url] },
   };
 }
 
@@ -119,6 +121,7 @@ export default async function SurahPage({ params }: { params: Params }) {
   return (
     <div className="reader">
       <JsonLd data={surahJsonLd(surah)} />
+      <SurahProgress surah={surah.transliteration} />
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href="/">Surahs</Link>
         <span aria-hidden="true">/</span>
@@ -152,7 +155,7 @@ export default async function SurahPage({ params }: { params: Params }) {
           const card = cards.get(v.id);
           const key = `${id}:${v.id}`;
           return (
-            <li key={v.id}>
+            <li key={v.id} data-key={key} data-href={surahHref(id, v.id)}>
               <Link href={surahHref(id, v.id)} className="verse-row">
                 <span className="vnum" aria-label={`Verse ${key}`}>
                   {key}

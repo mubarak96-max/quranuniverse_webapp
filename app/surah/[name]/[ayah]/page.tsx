@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
+import { VerseActions } from "@/components/reader/VerseActions";
 import { VerseCard } from "@/components/VerseCard";
 import {
   getCard,
@@ -12,6 +13,7 @@ import {
   getTransliteration,
   getWords,
   surahHref,
+  surahOgImage as ogImage,
   surahSlug,
 } from "@/lib/data";
 
@@ -37,8 +39,8 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
     title,
     description,
     alternates: { canonical: url },
-    openGraph: { type: "article", title, description, url },
-    twitter: { card: "summary", title, description },
+    openGraph: { type: "article", title, description, url, images: [ogImage(surah)] },
+    twitter: { card: "summary_large_image", title, description, images: [ogImage(surah).url] },
   };
 }
 
@@ -82,6 +84,13 @@ export default async function VersePage({ params }: { params: Params }) {
         </p>
         <p className="translit" dangerouslySetInnerHTML={{ __html: getTransliteration(key) }} />
         <p className="verse-en big">{getTranslation(key)}</p>
+        <VerseActions
+          verseKey={key}
+          href={surahHref(id, ayah)}
+          surah={surah.transliteration}
+          arabic={verse.text}
+          english={getTranslation(key)}
+        />
         {glosses.length > 0 && (
           <details className="drawer">
             <summary>Word by word</summary>
